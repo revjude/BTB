@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==σάρκινος==</span>-<span class='asgreek'>ῐνος</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 
+
+
+ <b>of</b> or <b>like flesh, fleshy</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>ὄζος</span> (see. <span class='asgreek'>ὄζος</span>) <span class='asgreek'>σ</span>. [<span class='asgreek'>μέρη</span>] <b>fleshy</b> parts, such as the gums, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 493a1 ">Refs 4th c.BC+</a>]; <b>made of flesh</b> (and blood), [<a href="javascript:void(0)" title=" [prev. author] “EN” 1117b5 ">Refs</a>]; <span class='asgreek'>ἄνθρωποι</span> <span class='asgreek'>θνατοὶ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 2nd c.BC: Hipparchus Astronomicus cited in 5th c.AD: Stobaeus, Joannes 4.44.81, compare 1st c.BC: Philodemus Gadarensis Epigrammaticus “D.” 3 “fragment” 6, “Sign.” 34">Refs 2nd c.BC+</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>ἰχθῦς</span> (opposed to a dream) [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 21.66 ">Refs 3rd c.BC+</a>]; <span class='asgreek'>τοῖς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>χρήσιμον</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>ὠφέλιμον</span> [<span class='asgreek'>ἔχουσι</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>λόγων</span>] <b>substantial</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.79c. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>made of gut</b>, <span class='asgreek'>σχοινία</span> [<a href="javascript:void(0)" title=" “PLond.” 3.1177.169 (2nd c.AD). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>fleshly, of the flesh, Ep. Hebrew </b>[<a href="javascript:void(0)" title=" 7.16, variant in NT.Rom.7.14. ">NT</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>fleshy, corpulent</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 711, 5th c.BC: Eupolis Comicus 387; σώματα 5th-6th c.BC: Plato Philosophus “Leges” 906c. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>==σάρκινος==ινος</span> <span class='asgreek'>ἤτοι</span> <span class='asgreek'>γυργαθός</span>, perhaps ={<span class='asgreek'>σαργάνη</span>}[<a href="javascript:void(0)" title=" 2, “Edict.Diocl.” 32.18. ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Rom.7.14]]
+</sub></small>

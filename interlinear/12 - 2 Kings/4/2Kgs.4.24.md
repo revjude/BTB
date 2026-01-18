@@ -1,0 +1,28 @@
+**2 Kings 4:24** 
+<small><sub>**KJV:**</sub></small>
+Then she saddled an ass, and said to her servant, Drive, and go forward; slack not [thy] riding for me, except I bid thee.
+<small><sub>**BSB:**</sub></small>
+Then she saddled the donkey and told her servant, “Drive onward; do not slow the pace for me unless I tell you.”
+<small><sub>**Literal:**</sub></small>
+and  she saddled the  donkey and  she said to servant  her lead on and  go may not you hold back \<to>  me to  ride that except I have said to  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.23|<< 2 Kings 4:23]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.25|2 Kings 4:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she saddled  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תַּחֲבֹשׁ֙</big></span><small><sup>[[H2280]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ta.cha.Vosh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the donkey  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָת֔וֹן</big></span><small><sup>[[H0860]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Ton<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּ֥אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶֽל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant her  | <span class="ashebrew"><big>נַעֲרָ֖</big></span><small><sup>[[H5288]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| na.'a.Ra<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lead on  | <span class="ashebrew"><big>נְהַ֣ג</big></span><small><sup>[[H5090A]]</sup></small> &#8207;| ne.Hag<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and go  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֵ֑ךְ</big></span><small><sup>[[H1980L]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you hold back  | <span class="ashebrew"><big>תַּעֲצָר</big></span><small><sup>[[H6113]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ta.'a.tzor-<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> me  | <span class="ashebrew"><big>לִ֣</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to ride  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רְכֹּ֔ב</big></span><small><sup>[[H7392]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> r.Ko<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֖י</big></span><small><sup>[[H3588B]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| except  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have said  | <span class="ashebrew"><big>אָמַ֥רְתִּי</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>לָֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.23|<< 2 Kings 4:23]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.25|2 Kings 4:25 >>]]</td></tr></table>
+
+

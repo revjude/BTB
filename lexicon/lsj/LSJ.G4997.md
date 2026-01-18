@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==σωφροσύνη==</span></b> [<span class='asgreek'>ῠ</span>], 
+
+
+ <i>Doric dialect</i> <b><span class='asgreek'>σωφροσ</span>-<span class='asgreek'>ύνα</span></b>, <i>Epic dialect</i> and <i>poetry</i> <b><span class='asgreek'>σᾰοφροσύνη</span></b> (as in [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus ">Refs 8th c.BC+</a>] and in later poetry, [<a href="javascript:void(0)" title=" “IG” 22.3632.11, 3753)">Refs</a>], <span class='asgreek'>ἡ</span>, <b>soundness of mind, prudence, discretion</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 23.13; in \_plural\_, [prev. work] 30 ">Refs 8th c.BC+</a>]; the common form first in [<a href="javascript:void(0)" title=" 6th c.BC: Theognis Elegiacus 379, 701, 1138, 5th c.BC: Epicharmus Comicus 101; αἰδὼς ==σωφροσύνη==ς πλεῖστον μετέχει 5th c.BC: Thucydides Historicus 1.84; σ. λαβεῖν [prev. author] 8.64 ">Refs 6th c.BC+</a>]; <b>sanity</b>, opposed to <span class='asgreek'>μανία</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.1.16, cf. NT.Acts.26.25. ">NT+5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>moderation in sensual desires, selfcontrol, temperance</b>, [<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus 210, 5th-6th c.BC: Aristophanes Comicus “Nubes” 962 (\_anapaest meter\_), “Pl.” 563 (\_anapaest meter\_), 5th-6th c.BC: Andocides Orator 1.131, 5th-6th c.BC: Plato Philosophus “Phaedrus” 237e, etc.; σ. τὸ κρατεῖν ἡδονῶν καὶ ἐπιθυμιῶν [prev. author] “Smp.” 196c ">Refs 5th c.BC+</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>τὸ</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>γυναῖκας</span> (i.e. <span class='asgreek'>ἔργον</span>) [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1263b9, compare “EN” 1117b23, 5th-6th c.BC: Plato Philosophus “Phaedo” 68c, “R.” 430ef, NT.1Tim.2.9. ">NT+5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> in a political sense, <b>a moderate form of government</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.64. ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.26.25]] ☩ [[1Tim.2.9]]
+</sub></small>

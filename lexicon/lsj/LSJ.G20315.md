@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==ἐκπετάννυμι==</span>-<span class='asgreek'>άννῡμι</span></b>, 
+
+
+ <i>future</i> -<span class='asgreek'>πετάσω</span>, <b>spread out,</b> of a sail, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 1135 (Lyric poetry); πώγωνα 2nd c.AD: Lucianus Sophista “Tim.” 54; χεῖρας LXX.Isa.65.2 ">LXX+5th c.BC+</a>]; of wings, [<a href="javascript:void(0)" title="“Anthologia Graeca” 5.178.10 (1st c.BC: Meleager Epigrammaticus); τὰ ὦτα ἐξεπετάννυτο ὥσπερ σκιάδειον 5th-6th c.BC: Aristophanes Comicus “Equites” 1348 ">Refs 5th c.BC+</a>]; of a net, <span class='asgreek'>τὸ</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>δίκτυον</span> <span class='asgreek'>ἐκπεπέτασται</span> Oracle texts cited in [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.62 ">Refs 5th c.BC+</a>]; <span class='asgreek'>στέφος</span> <span class='asgreek'>ἐξεπέτασσε</span> <b>scattered</b> it <b>to the winds,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Bion Bucolicus 1.88. ">Refs 2nd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>κῶμον</span> <span class='asgreek'>==ἐκπετάννυμι==ασθείς</span> <b>wholly given up to</b> the revel, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Cyclops” 497 (Lyric poetry): ">Refs 5th c.BC+</a>]<i>perfect</i> <i>participle</i> <i>passive</i> <span class='asgreek'>ἐκπεπταμένος</span> <b>wide open,</b> <span class='asgreek'>κοῖλα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 22 ">Refs 5th c.BC+</a>]; of <b>gaping</b> wounds, [<a href="javascript:void(0)" title=" [prev. author] “Off.” 11; ἐ. τοῖς βλεφάροις 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 2.12. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Isa.65.2]]
+</sub></small>

@@ -1,0 +1,10 @@
+<span class="asgreek">ῥύαξ</span> <small>***(rhuax)***</small> ==**an overflow**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ῥύαξ==</span></b> [<span class='asgreek'>ῠ</span>], <span class='asgreek'>ᾱκος</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ (<span class='asgreek'>ῥέω</span>) <b>rushing stream, mountain torrent</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 4.96, 1st c.AD: Dioscorides (Dioscurides) Medicus 3.51, probably in “OGI” 335.111 (Pergam., 2nd c.BC). ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> especially <b>stream of lava</b> from a volcano, <span class='asgreek'>ὁ</span> <span class='asgreek'>ῥ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>πυρὸς</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>Αἴτνης</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.116, compare 5th-6th c.BC: Plato Philosophus “Phaedo” 111e, 113b, 4th c.BC: Aristoteles Philosophus “Mirabilia” 833a17, 4th-3rd c.BC: Theophrastus Philosophus “de Lapidibus” 22 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ὁ</span> <span class='asgreek'>καλούμενος</span> <span class='asgreek'>ῥ</span>. [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 14.59. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <span class='asgreek'>ῥ</span>. <span class='asgreek'>ἀργύρου</span> <span class='asgreek'>γενέσθαι</span> [<a href="javascript:void(0)" title=" [prev. author] 5.35. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> of dolphins, etc., <span class='asgreek'>ἔχει</span> <span class='asgreek'>οἷον</span> <span class='asgreek'>ῥ</span>. <span class='asgreek'>δύο</span> <span class='asgreek'>ἐξ</span> <span class='asgreek'>ὧν</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>γάλα</span> <span class='asgreek'>ῥεῖ</span> two <b>flow-holes</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 504b24. ">Refs 4th c.BC+</a>]

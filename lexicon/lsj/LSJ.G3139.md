@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==μάρμαρος==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ a <b>crystalline rock</b>, which sparkles (<span class='asgreek'>μαρμαίρει</span>) in the light, <span class='asgreek'>μάρμαρος</span> <span class='asgreek'>ὀκριόεις</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 12.380, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 9.499, compare 5th c.BC: Euripides Tragicus “Phoenissae” 663 (Lyric poetry), 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 1172 (Lyric poetry)">Refs 8th c.BC+</a>]: as <i>adjective</i>, <span class='asgreek'>πέτρος</span> <span class='asgreek'>μ</span>. <span class='asgreek'>ὀκριόεις</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 16.735, compare 5th c.BC: Euripides Tragicus “Phoenissae” 1401, etc. ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> later, <b>marble</b>, <span class='asgreek'>μάρμαρον</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>λίθον</span> <span class='asgreek'>λευκήν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.185, compare 4th-3rd c.BC: Theophrastus Philosophus “de Lapidibus” 9: also \_feminine\_, μαρμάρου.. τῆς Πεντελικῆς μέταλλα 1st c.BC-1st c.AD: Strabo Geographus 9.1.23; μ. λίθος [prev. author] 14.1.35: hence, ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>work in marble</b>, i.e. <b>tombstone</b>, <span class='asgreek'>τυκτὴ</span> <span class='asgreek'>μ</span>. [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 22.211. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>chips made by cutting marble</b> (<i>masculine</i>), [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.660c, 954a, 1st c.AD: Dioscorides (Dioscurides) Medicus 5.79. ">Refs 1st c.AD+</a>]

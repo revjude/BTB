@@ -1,0 +1,30 @@
+**Numbers 17:5** (17:20)
+<small><sub>**KJV:**</sub></small>
+And it shall come to pass, [that] the man’s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.
+<small><sub>**BSB:**</sub></small>
+The staff belonging to the man I choose will sprout, and I will rid Myself of the constant grumbling of the Israelites against you.”
+<small><sub>**Literal:**</sub></small>
+and  it will be the  man whom I will choose \<in> \<the>  him rod  his it will bud and  I will put an end to from  on \<the>  me \<obj.> [the] grumblings of [the] people of Israel which they [are] grumbling on  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.4|<< Numbers 17:4]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.6|Numbers 17:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֗ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the man  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אִ֛ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will choose  | <span class="ashebrew"><big>אֶבְחַר</big></span><small><sup>[[H0977]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ev.char-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> \<the> him  | <span class="ashebrew"><big>בּ֖</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| b<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rod his  | <span class="ashebrew"><big>מַטֵּ֣</big></span><small><sup>[[H4294G]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ma.Te.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will bud  | <span class="ashebrew"><big>יִפְרָ֑ח</big></span><small><sup>[[H6524A]]</sup></small> &#8207;| yif.Rach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will put an end to  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֲשִׁכֹּתִ֣י</big></span><small><sup>[[H7918]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ha.shi.ko.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from on \<the> me  | <span class="ashebrew"><big>מֵֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עָלַ֗</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'a.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] grumblings of  | <span class="ashebrew"><big>תְּלֻנּוֹת֙</big></span><small><sup>[[H8519]]</sup></small> &#8207;| te.lu.nOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֛ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֥ם</big></span><small><sup>[[H1992]]</sup></small> &#8207;| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] grumbling  | <span class="ashebrew"><big>מַלִּינִ֖ם</big></span><small><sup>[[H3885B]]</sup></small> &#8207;| ma.li.Nim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9036]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.4|<< Numbers 17:4]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.6|Numbers 17:6 >>]]</td></tr></table>
+
+

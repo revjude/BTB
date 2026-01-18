@@ -1,0 +1,28 @@
+**1 Samuel 18:1** 
+<small><sub>**KJV:**</sub></small>
+And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
+<small><sub>**BSB:**</sub></small>
+After David had finished speaking with Saul, the souls of Jonathan and David were knit together, and Jonathan loved him as himself.
+<small><sub>**Literal:**</sub></small>
+and  it was when  finished  he to  speak to Saul and  [the] self of Jonathan it was bound with  [the] self of David and  he loved  him Jonathan like  own self  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.58|<< 1 Samuel 17:58]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.2|1 Samuel 18:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִ֗י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when finished he  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כַלֹּת</big></span><small><sup>[[H3615G]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9043]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> kha.lo.T<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to speak  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דַבֵּ֣ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  | <span class="ashebrew"><big>שָׁא֔וּל</big></span><small><sup>[[H7586G]]</sup></small> &#8207;| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] self of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נֶ֙פֶשׁ֙</big></span><small><sup>[[H5315G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jonathan  | <span class="ashebrew"><big>יְה֣וֹנָתָ֔ן</big></span><small><sup>[[H3083H]]</sup></small> &#8207;| ye.Ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was bound  | <span class="ashebrew"><big>נִקְשְׁרָ֖ה</big></span><small><sup>[[H7194]]</sup></small> &#8207;| nik.she.Rah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with [the] self of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נֶ֣פֶשׁ</big></span><small><sup>[[H5315G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֑ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he loved him  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֶּאֱהָבֵ֥</big></span><small><sup>[[H0157G]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;[^1] [^2] | va<small><sup>[[Hc]]</sup></small> i.ye.'e.ha.v<small><sup>[[HVqw3ms]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| Jonathan  | <span class="ashebrew"><big>יְהוֹנָתָ֖ן</big></span><small><sup>[[H3083H]]</sup></small> &#8207;| ye.ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like own self his  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>נַפְשֽׁ</big></span><small><sup>[[H5315G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.58|<< 1 Samuel 17:58]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.2|1 Samuel 18:2 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="ashebrew"><big>וַיֶּאֱהָבֵ֥/וּ</big></span>**
+[^2]: ==K== spelled: **<span class="ashebrew"><big>וַיֶּאֱהָב/וֹ</big></span>**
+

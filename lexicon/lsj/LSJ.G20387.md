@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==ἐξαφίημι==</span>-<span class='asgreek'>ίημι</span></b>, 
+
+
+ <b>send forth, discharge,</b> [<span class='asgreek'>παλτόν</span>] [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 12.12 ">Refs 5th c.BC+</a>]; <b>dispatch,</b> <span class='asgreek'>γροσφομάχους</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 10.39.1 ">Refs 2nd c.BC+</a>]; <b>let go</b> an elastic board, [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 6.87. ">Refs 6th c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>set free from,</b> <span class='asgreek'>==ἐξαφίημι==εῖται</span> <span class='asgreek'>τοῦδε</span> (i.e. <span class='asgreek'>τοῦ</span> <span class='asgreek'>πονεῖν</span>) [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 72, compare 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 18.1.1 ">Refs 5th c.BC+</a>]; <b>set free,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>σῶον</span> [<a href="javascript:void(0)" title=" LXX.2Mac.12.24 ">LXX</a>]; <b>let loose,</b> <span class='asgreek'>ἀγέλας</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>καρπούς</span> [<a href="javascript:void(0)" title=" “PLips.” 35.8 (4th c.AD)">Refs 4th c.AD+</a>]:—<i>passive</i>, <b>to be allowed to escape,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 4.6.3. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>squander,</b> <span class='asgreek'>πλοῦτον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ichn.” 156. ">Refs 5th c.BC+</a>]

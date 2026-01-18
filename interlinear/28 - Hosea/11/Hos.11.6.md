@@ -1,0 +1,20 @@
+**Hosea 11:6** 
+<small><sub>**KJV:**</sub></small>
+And the sword shall abide on his cities, and shall consume his branches, and devour [them], because of their own counsels.
+<small><sub>**BSB:**</sub></small>
+A sword will flash through their cities; it will destroy the bars of their gates and consume them in their own plans.
+<small><sub>**Literal:**</sub></small>
+and  it will whirl a sword in  cities  his and  it will put an end to bars  his and  it will devour [them] from  schemes  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.5|<< Hosea 11:5]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.7|Hosea 11:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will whirl  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>חָלָ֥ה</big></span><small><sup>[[H2342J]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> cha.Lah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  | <span class="ashebrew"><big>חֶ֙רֶב֙</big></span><small><sup>[[H2719]]</sup></small> &#8207;| che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in cities his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עָרָ֔י</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'a.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will put an end to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>כִלְּתָ֥ה</big></span><small><sup>[[H3615H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> khi.le.Tah<small><sup>[[HVpq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bars his  | <span class="ashebrew"><big>בַדָּ֖י</big></span><small><sup>[[H0907]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will devour [them]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָכָ֑לָה</big></span><small><sup>[[H0398]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Kha.lah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from schemes their  | <span class="ashebrew"><big>מִֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מֹּעֲצ֖וֹתֵי</big></span><small><sup>[[H4156]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mo.'a.Tzo.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.5|<< Hosea 11:5]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.7|Hosea 11:7 >>]]</td></tr></table>
+
+

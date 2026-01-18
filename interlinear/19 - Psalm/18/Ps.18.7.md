@@ -1,0 +1,23 @@
+**Psalms 18:7** (18:8)
+<small><sub>**KJV:**</sub></small>
+Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth.
+<small><sub>**BSB:**</sub></small>
+Then the earth shook and quaked, and the foundations of the mountains trembled; they were shaken because He burned with anger.
+<small><sub>**Literal:**</sub></small>
+and  it shook and  it quaked the  earth and  [the] foundations of [the] mountains they trembled and  they shook back and forth for it burned to  him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.6|<< Psalms 18:6]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.8|Psalms 18:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it shook  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּגְעַ֬שׁ</big></span><small><sup>[[H1607]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tig.'Ash<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it quaked  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּרְעַ֨שׁ</big></span><small><sup>[[H7493]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tir.'Ash<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֗רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] foundations of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מוֹסְדֵ֣י</big></span><small><sup>[[H4144]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mos.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountains  | <span class="ashebrew"><big>הָרִ֣ים</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they trembled  | <span class="ashebrew"><big>יִרְגָּ֑זוּ</big></span><small><sup>[[H7264]]</sup></small> &#8207;| yir.Ga.zu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they shook back and forth  | <span class="ashebrew"><big>וַ֝</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתְגָּֽעֲשׁ֗וּ</big></span><small><sup>[[H1607]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yit.ga.'a.Shu<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it burned  | <span class="ashebrew"><big>חָ֥רָה</big></span><small><sup>[[H2734]]</sup></small> &#8207;| Cha.rah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>לֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.6|<< Psalms 18:6]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.8|Psalms 18:8 >>]]</td></tr></table>
+
+

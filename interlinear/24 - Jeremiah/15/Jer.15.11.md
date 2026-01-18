@@ -1,0 +1,32 @@
+**Jeremiah 15:11** 
+<small><sub>**KJV:**</sub></small>
+The LORD said, Verily it shall be well with thy remnant; verily I will cause the enemy to entreat thee [well] in the time of evil and in the time of affliction.
+<small><sub>**BSB:**</sub></small>
+The LORD said: “Surely I will deliver you for a good purpose; surely I will intercede with your enemy in your time of trouble, in your time of distress.
+<small><sub>**Literal:**</sub></small>
+he said Yahweh if not I will set free  you for  good if not I will cause to plead with \<the>  you in  a time evil and  in  a time of distress \<obj.> the  enemy<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.10|<< Jeremiah 15:10]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.12|Jeremiah 15:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| he said  | <span class="ashebrew"><big>אָמַ֣ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518I]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will set free you  [^2] | <span class="ashebrew"><big>שֵֽׁרִיתִ֖י</big></span><small><sup>[[H8281]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;[^3] | sha.ro.ti.<small><sup>[[HVpp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| for good  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ט֑וֹב</big></span><small><sup>[[H2896B]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>ל֣וֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will cause to plead  | <span class="ashebrew"><big>הִפְגַּ֣עְתִּֽי</big></span><small><sup>[[H6293]]</sup></small> &#8207;| hif.Ga'.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> you  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ךָ֗</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ve.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a time  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵ֥ת</big></span><small><sup>[[H6256]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'Et-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  | <span class="ashebrew"><big>רָעָ֛ה</big></span><small><sup>[[H7451A]]</sup></small> &#8207;| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in a time of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵ֥ת</big></span><small><sup>[[H6256]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| distress  | <span class="ashebrew"><big>צָרָ֖ה</big></span><small><sup>[[H6869B]]</sup></small> &#8207;| tza.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the enemy  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֹיֵֽב</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.10|<< Jeremiah 15:10]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.12|Jeremiah 15:12 >>]]</td></tr></table>
+
+[^1]: ==K==: **I will strengthen you ** | <small><sup>[[H9031]]</sup></small><span class="ashebrew"><big>ךָ</big></span> <small><sup>[[H8323B]]</sup></small><span class="ashebrew"><big>שָׁרוֹתִ</big></span>  | sha.ro.ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
+[^2]: ==K==: **I will strengthen you ** | <small><sup>[[H9031]]</sup></small><span class="ashebrew"><big>ךָ</big></span> <small><sup>[[H8323B]]</sup></small><span class="ashebrew"><big>שָׁרוֹתִ</big></span>  | sha.ro.ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>שֵֽׁרִותִ֖ךָ</big></span>**
+

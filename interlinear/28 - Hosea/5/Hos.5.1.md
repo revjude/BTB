@@ -1,0 +1,33 @@
+**Hosea 5:1** 
+<small><sub>**KJV:**</sub></small>
+Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment [is] toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.
+<small><sub>**BSB:**</sub></small>
+“Hear this, O priests! Take heed, O house of Israel! Give ear, O royal house! For this judgment is against you because you have been a snare at Mizpah, a net spread out on Tabor.
+<small><sub>**Literal:**</sub></small>
+hear this O  priests and  pay attention O house of Israel and  O house of the  king give ear for [belongs] to  you the  judgment for a trap you have been to  Mizpah and  a net spread out over Tabor<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.19|<< Hosea 4:19]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.2|Hosea 5:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| hear  | <span class="ashebrew"><big>שִׁמְעוּ</big></span><small><sup>[[H8085G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| shim.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֹ֨את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O priests  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֲנִ֜ים</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and pay attention  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַקְשִׁ֣יבוּ</big></span><small><sup>[[H7181]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hak.Shi.vu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O house of  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֗ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and O house of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵ֤ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֙לֶךְ֙</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| give ear  | <span class="ashebrew"><big>הַאֲזִ֔ינוּ</big></span><small><sup>[[H0238]]</sup></small> &#8207;| ha.'a.Zi.nu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the judgment  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּשְׁפָּ֑ט</big></span><small><sup>[[H4941G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a trap  | <span class="ashebrew"><big>פַח֙</big></span><small><sup>[[H6341A]]</sup></small> &#8207;| fach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have been  | <span class="ashebrew"><big>הֱיִיתֶ֣ם</big></span><small><sup>[[H1961]]</sup></small> &#8207;| he.yi.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Mizpah  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִצְפָּ֔ה</big></span><small><sup>[[H4709H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mitz.Pah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a net  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רֶ֖שֶׁת</big></span><small><sup>[[H7568]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Re.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spread out  | <span class="ashebrew"><big>פְּרוּשָׂ֥ה</big></span><small><sup>[[H6566]]</sup></small> &#8207;| pe.ru.Sah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tabor  | <span class="ashebrew"><big>תָּבֽוֹר</big></span><small><sup>[[H8396G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ta.Vor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.19|<< Hosea 4:19]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.2|Hosea 5:2 >>]]</td></tr></table>
+
+

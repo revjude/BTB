@@ -1,0 +1,34 @@
+**Judges 10:4** 
+<small><sub>**KJV:**</sub></small>
+And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havothjair unto this day, which [are] in the land of Gilead.
+<small><sub>**BSB:**</sub></small>
+He had thirty sons who rode on thirty donkeys. And they had thirty towns in the land of Gilead, which to this day are called Havvoth-jair.
+<small><sub>**Literal:**</sub></small>
+and  it belonged to \<the>  him thirty sons [who] rode on thirty donkeys and  thirty cities [belonged] to \<the>  them \<to> \<the>  them people call Havvoth Jair until the  day \<the>  this which [are] in  [the] land of \<the>  Gilead<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.3|<< Judges 10:3]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.5|Judges 10:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it belonged  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִי</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.hi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  | <span class="ashebrew"><big>ל֞</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֣ים</big></span><small><sup>[[H7970]]</sup></small> &#8207;| she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons  | <span class="ashebrew"><big>בָּנִ֗ים</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] rode  | <span class="ashebrew"><big>רֹֽכְבִים֙</big></span><small><sup>[[H7392]]</sup></small> &#8207;| ro.khe.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֣ים</big></span><small><sup>[[H7970]]</sup></small> &#8207;| she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| donkeys  | <span class="ashebrew"><big>עֲיָרִ֔ים</big></span><small><sup>[[H5895]]</sup></small> &#8207;| 'a.ya.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and thirty  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁלֹשִׁ֥ים</big></span><small><sup>[[H7970]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities  | <span class="ashebrew"><big>עֲיָרִ֖ים</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| 'a.ya.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֑ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֞ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people call  | <span class="ashebrew"><big>יִקְרְא֣וּ</big></span><small><sup>[[H7121H]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| yik.re.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Havvoth  | <span class="ashebrew"><big>חַוֹּ֣ת</big></span><small><sup>[[H2334]]</sup></small> &#8207;| cha.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jair  | <span class="ashebrew"><big>יָאִ֗יר</big></span><small><sup>[[H2334]]</sup></small> &#8207;| ya.'Ir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַ֚ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the day  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּ֣וֹם</big></span><small><sup>[[H3117L]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֶּ֔ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֖ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] in [the] land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֥רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Gilead  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּלְעָֽד</big></span><small><sup>[[H1568G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.3|<< Judges 10:3]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.5|Judges 10:5 >>]]</td></tr></table>
+
+

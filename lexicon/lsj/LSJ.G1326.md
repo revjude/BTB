@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==διεγείρω==</span>-<span class='asgreek'>είρω</span></b>, 
+
+
+ <b>wake up,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Anaxippus Comicus 1.47, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 8.13.7, 2nd c.AD: Herodianus Grammaticus 2.1.5 ">Refs 4th c.BC+</a>]; <b>stir up, arouse,</b> [<a href="javascript:void(0)" title=" LXX.2Mac.7.21 ">LXX</a>]; <b>excite, promote,</b> <span class='asgreek'>αὔξησιν</span> <span class='asgreek'>φυτοῦ</span> [<a href="javascript:void(0)" title=" “Geoponica” 9.3.7 ">Refs</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 15, 4th c.BC: Aristoteles Philosophus “Problemata” 876a22, LXX.Esth.11.11, 1st c.AD: Philo Judaeus 2.485, 3rd c.AD(?): Longus Scriptor Eroticus 2.35 ">LXX+5th c.BC+</a>]; <b>to be raised up</b> from a sick-bed, [<a href="javascript:void(0)" title="“Anthologia Graeca” 11.171 (1st c.AD: Lucillius Epigrammaticus); \_Epic dialect\_ ">Refs 1st c.AD+</a>]<i>aorist</i> <span class='asgreek'>διέγρετο</span>[<a href="javascript:void(0)" title=" [prev. work] 5.274 (Paul. Sil.). ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>raise,</b> <span class='asgreek'>τὸν</span> <span class='asgreek'>αὐχένα</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 4.4; χώματα 1st c.AD: Josephus Historicus “Bellum Judaicum” 6.1.1, 6.2.7 ">Refs 1st c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>πύλας</span> <span class='asgreek'>==διεγείρω==ειρομένας</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>ὕψος</span> <span class='asgreek'>πηχῶν</span> <span class='asgreek'>ἑβδομήκοντα</span> [<a href="javascript:void(0)" title=" LXX.Jdt.1.4; τοῖς πηδήμασι πρὸς οὐρανὸν ==διεγείρω==ειρεσθε μἐσον 5th-6th c.AD: Procopius Gazaeus Rhetor ἠθοπ.ποιμένος p.137B. ">LXX+5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Esth.11.11]]
+</sub></small>

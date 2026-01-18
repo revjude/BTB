@@ -1,0 +1,11 @@
+<span class="asgreek">στρεβλός</span> <small>***(streblos)***</small> ==**crooked**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==στρεβλός==</span>-<span class='asgreek'>ός</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 
+
+
+ <b>twisted, crooked</b>, <span class='asgreek'>πόσθιον</span>.., <span class='asgreek'>σ</span>. <span class='asgreek'>ὥσπερ</span> <span class='asgreek'>κύτταρον</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 516; ==στρεβλός==ὸν ὀρθῶσαι κλάδον 4th-3rd c.BC: Menander Comicus 711 ">Refs 5th c.BC+</a>]; <span class='asgreek'>λοξοβάται</span>, <span class='asgreek'>==στρεβλός==οί</span>, of crabs, [<a href="javascript:void(0)" title=" Batrachomyomachia 295; μυκτήρ 2nd c.BC: Nicander Epicus “Alexipharmaca” 442; κανών 4th c.BC: Aristoteles Philosophus “Rhetorica” 1354a26 ">Refs 4th c.BC+</a>]; <b>squinteyed</b>, like{<span class='asgreek'>στραβός</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Aër.” 14, 5th c.BC: Eupolis Comicus 182, 2nd c.AD: Phrynichus Atticista “Praeparatio Sophistica” p.108 5th c.BC: Bacchylides Lyricus, 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.BC+</a>] see at {<span class='asgreek'>ἰλλός</span>}; of the brows, <b>knit, wrinkled,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 7.440 (1st c.AD: Leonidas Alexandrinus Epigrammaticus). ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>crooked, cunning</b>, <span class='asgreek'>==στρεβλός==οῖσι</span> <span class='asgreek'>παλαίσμασι</span> by <b>cunning</b> dodges in wrestling, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 878 (mock heroic)">Refs 5th c.BC+</a>]; <b>perverse, froward</b>, [<a href="javascript:void(0)" title=" LXX.Ps.17.27, LXX.Sir.36.(22) 25, 5th-4th c.BC: Aesopus Fabularum Scriptor 66. ">LXX+5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Ps.17.27]]
+</sub></small>

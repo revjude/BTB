@@ -1,0 +1,23 @@
+**Daniel 11:44** 
+<small><sub>**KJV:**</sub></small>
+But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many.
+<small><sub>**BSB:**</sub></small>
+But news from the east and the north will alarm him, and he will go out with great fury to destroy many and devote them to destruction.
+<small><sub>**Literal:**</sub></small>
+and  reports they will dismay  him from  [the] east and  from  [the] north and  he will go out in  rage great to  destroy and  to  totally destroy many [people]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.43|<< Daniel 11:43]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.45|Daniel 11:45 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and reports  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁמֻע֣וֹת</big></span><small><sup>[[H8052]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.mu.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will dismay him  | <span class="ashebrew"><big>יְבַהֲלֻ֔</big></span><small><sup>[[H0926]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ye.va.ha.Lu.<small><sup>[[HVpi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] east  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּזְרָ֖ח</big></span><small><sup>[[H4217H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> miz.Rach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from [the] north  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>צָּפ֑וֹן</big></span><small><sup>[[H6828G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will go out  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָצָא֙</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ya.Tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in rage  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֵמָ֣א</big></span><small><sup>[[H2534]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> che.Ma'<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>גְדֹלָ֔ה</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to destroy  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַשְׁמִ֥יד</big></span><small><sup>[[H8045]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hash.Mid<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to totally destroy  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַחֲרִ֖ים</big></span><small><sup>[[H2763A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ha.cha.Rim<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many [people]  | <span class="ashebrew"><big>רַבִּֽים</big></span><small><sup>[[H7227A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.43|<< Daniel 11:43]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.45|Daniel 11:45 >>]]</td></tr></table>
+
+

@@ -1,0 +1,28 @@
+**2 Samuel 11:17** 
+<small><sub>**KJV:**</sub></small>
+And the men of the city went out, and fought with Joab: and there fell [some] of the people of the servants of David; and Uriah the Hittite died also.
+<small><sub>**BSB:**</sub></small>
+And when the men of the city came out and fought against Joab, some of David’s servants fell, and Uriah the Hittite also died.
+<small><sub>**Literal:**</sub></small>
+and  they went out [the] men of the  city and  they fought with Joab and  it fell some of the  people some of  [the] servants of David and  he died also Uriah the  Hittite<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.16|<< 2 Samuel 11:16]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.18|2 Samuel 11:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they went out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֨צְא֜וּ</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] men of  | <span class="ashebrew"><big>אַנְשֵׁ֤י</big></span><small><sup>[[H0582]]</sup></small> &#8207;| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִיר֙</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they fought  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּלָּחֲמ֣וּ</big></span><small><sup>[[H3898A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.la.cha.Mu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joab  | <span class="ashebrew"><big>יוֹאָ֔ב</big></span><small><sup>[[H3097G]]</sup></small> &#8207;| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it fell  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּפֹּ֥ל</big></span><small><sup>[[H5307J]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Pol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| some of  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֖ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| some of [the] servants of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עַבְדֵ֣י</big></span><small><sup>[[H5650]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָוִ֑ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he died  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֕מָת</big></span><small><sup>[[H4191]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>גַּ֖ם</big></span><small><sup>[[H1571]]</sup></small> &#8207;| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Uriah  | <span class="ashebrew"><big>אוּרִיָּ֥ה</big></span><small><sup>[[H0223A]]</sup></small> &#8207;| 'u.ri.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Hittite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חִתִּֽי</big></span><small><sup>[[H2850]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chi.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.16|<< 2 Samuel 11:16]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.18|2 Samuel 11:18 >>]]</td></tr></table>
+
+

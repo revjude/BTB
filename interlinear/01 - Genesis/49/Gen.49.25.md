@@ -1,0 +1,29 @@
+**Genesis 49:25** 
+<small><sub>**KJV:**</sub></small>
+[Even] by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:
+<small><sub>**BSB:**</sub></small>
+by the God of your father who helps you, and by the Almighty who blesses you, with blessings of the heavens above, with blessings of the depths below, with blessings of the breasts and womb.
+<small><sub>**Literal:**</sub></small>
+from  [the] God of father  your and  he will help  you and  \<obj.> Almighty and  he will bless  you blessings of heaven \<from>  above blessings of [the] deep [which] lies beneath blessings of breasts and  womb<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.24|<< Genesis 49:24]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.26|Genesis 49:26 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| from [the] God of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֵ֨ל</big></span><small><sup>[[H0410G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'El<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father your  | <span class="ashebrew"><big>אָבִ֜י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will help you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יַעְזְרֶ֗</big></span><small><sup>[[H5826]]</sup></small> <span class="ashebrew"><big>ךָּ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ya'.ze.Re.<small><sup>[[HVqu3ms]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֤ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Almighty  | <span class="ashebrew"><big>שַׁדַּי֙</big></span><small><sup>[[H7706]]</sup></small> &#8207;| sha.Dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will bless you  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יבָ֣רְכֶ֔</big></span><small><sup>[[H1288]]</sup></small> <span class="ashebrew"><big>ךָּ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> Va.re.Khe.<small><sup>[[HVpu3ms]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blessings of  | <span class="ashebrew"><big>בִּרְכֹ֤ת</big></span><small><sup>[[H1293]]</sup></small> &#8207;| bir.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heaven  | <span class="ashebrew"><big>שָׁמַ֙יִם֙</big></span><small><sup>[[H8064]]</sup></small> &#8207;| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> above  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עָ֔ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blessings of  | <span class="ashebrew"><big>בִּרְכֹ֥ת</big></span><small><sup>[[H1293]]</sup></small> &#8207;| bir.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] deep  | <span class="ashebrew"><big>תְּה֖וֹם</big></span><small><sup>[[H8415]]</sup></small> &#8207;| te.Hom<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] lies  | <span class="ashebrew"><big>רֹבֶ֣צֶת</big></span><small><sup>[[H7257]]</sup></small> &#8207;| ro.Ve.tzet<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beneath  | <span class="ashebrew"><big>תָּ֑חַת</big></span><small><sup>[[H8478G]]</sup></small> &#8207;| Ta.chat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blessings of  | <span class="ashebrew"><big>בִּרְכֹ֥ת</big></span><small><sup>[[H1293]]</sup></small> &#8207;| bir.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| breasts  | <span class="ashebrew"><big>שָׁדַ֖יִם</big></span><small><sup>[[H7699A]]</sup></small> &#8207;| sha.Da.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and womb  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רָֽחַם</big></span><small><sup>[[H7356A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Ra.cham<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.24|<< Genesis 49:24]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.26|Genesis 49:26 >>]]</td></tr></table>
+
+

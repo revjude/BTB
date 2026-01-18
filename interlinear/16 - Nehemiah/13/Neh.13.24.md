@@ -1,0 +1,24 @@
+**Nehemiah 13:24** 
+<small><sub>**KJV:**</sub></small>
+And their children spake half in the speech of Ashdod, and could not speak in the Jews’ language, but according to the language of each people.
+<small><sub>**BSB:**</sub></small>
+Half of their children spoke the language of Ashdod or of the other peoples, but could not speak the language of Judah.
+<small><sub>**Literal:**</sub></small>
+and  children  their half [were] speaking Ashdodite and  not  they [were] knowing to  speak [in] Judean and  according to  [the] language of people and  people<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.23|<< Nehemiah 13:23]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.25|Nehemiah 13:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and children their  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>הֶ֗ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| half  | <span class="ashebrew"><big>חֲצִי֙</big></span><small><sup>[[H2677]]</sup></small> &#8207;| cha.Tzi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] speaking  | <span class="ashebrew"><big>מְדַבֵּ֣ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| me.da.Ber<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ashdodite  | <span class="ashebrew"><big>אַשְׁדּוֹדִ֔ית</big></span><small><sup>[[H0797]]</sup></small> &#8207;| 'ash.do.Dit<small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not they  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵינָ֥</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9048]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ei.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] knowing  | <span class="ashebrew"><big>מַכִּירִ֖ים</big></span><small><sup>[[H5234A]]</sup></small> &#8207;| ma.ki.Rim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to speak  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דַבֵּ֣ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [in] Judean  | <span class="ashebrew"><big>יְהוּדִ֑ית</big></span><small><sup>[[H3066]]</sup></small> &#8207;| ye.hu.Dit<small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and according to [the] language of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כִ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>לְשׁ֖וֹן</big></span><small><sup>[[H3956H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khi<small><sup>[[HR]]</sup></small> l.Shon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people  | <span class="ashebrew"><big>עַ֥ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and people  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עָֽם</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.23|<< Nehemiah 13:23]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.25|Nehemiah 13:25 >>]]</td></tr></table>
+
+

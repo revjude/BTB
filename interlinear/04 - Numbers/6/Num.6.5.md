@@ -1,0 +1,34 @@
+**Numbers 6:5** 
+<small><sub>**KJV:**</sub></small>
+All the days of the vow of his separation there shall no rasor come upon his head: until the days be fulfilled, in the which he separateth [himself] unto the LORD, he shall be holy, [and] shall let the locks of the hair of his head grow.
+<small><sub>**BSB:**</sub></small>
+For the entire period of his vow of separation, no razor shall touch his head. He must be holy until the time of his separation to the LORD is complete; he must let the hair of his head grow long.
+<small><sub>**Literal:**</sub></small>
+all [the] days of [the] vow of Nazirite vow  his a razor not it will pass over head  his until are completed the  days which he will be a Nazirite to  Yahweh holy he will be he will make grow [the] lock[s] of [the] hair of head  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.4|<< Numbers 6:4]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.6|Numbers 6:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  | <span class="ashebrew"><big>יְמֵי֙</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vow of  | <span class="ashebrew"><big>נֶ֣דֶר</big></span><small><sup>[[H5088]]</sup></small> &#8207;| Ne.der<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nazirite vow his  | <span class="ashebrew"><big>נִזְר֔</big></span><small><sup>[[H5145G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| niz.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a razor  | <span class="ashebrew"><big>תַּ֖עַר</big></span><small><sup>[[H8593]]</sup></small> &#8207;| Ta.'ar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will pass  | <span class="ashebrew"><big>יַעֲבֹ֣ר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| ya.'a.Vor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head his  | <span class="ashebrew"><big>רֹאשׁ֑</big></span><small><sup>[[H7218A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| are completed  | <span class="ashebrew"><big>מְלֹ֨את</big></span><small><sup>[[H4390]]</sup></small> &#8207;| me.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the days  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּמִ֜ם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be a Nazirite  | <span class="ashebrew"><big>יַזִּ֤יר</big></span><small><sup>[[H5144B]]</sup></small> &#8207;| ya.Zir<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holy  | <span class="ashebrew"><big>קָדֹ֣שׁ</big></span><small><sup>[[H6918G]]</sup></small> &#8207;| ka.Dosh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be  | <span class="ashebrew"><big>יִהְיֶ֔ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will make grow  | <span class="ashebrew"><big>גַּדֵּ֥ל</big></span><small><sup>[[H1431]]</sup></small> &#8207;| ga.Del<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] lock[s] of  | <span class="ashebrew"><big>פֶּ֖רַע</big></span><small><sup>[[H6545]]</sup></small> &#8207;| Pe.ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hair of  | <span class="ashebrew"><big>שְׂעַ֥ר</big></span><small><sup>[[H8181]]</sup></small> &#8207;| se.'Ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head his  | <span class="ashebrew"><big>רֹאשֽׁ</big></span><small><sup>[[H7218A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.4|<< Numbers 6:4]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.6|Numbers 6:6 >>]]</td></tr></table>
+
+

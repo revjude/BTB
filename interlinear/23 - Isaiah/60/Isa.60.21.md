@@ -1,0 +1,27 @@
+**Isaiah 60:21** 
+<small><sub>**KJV:**</sub></small>
+Thy people also [shall be] all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.
+<small><sub>**BSB:**</sub></small>
+Then all your people will be righteous; they will possess the land forever; they are the branch of My planting, the work of My hands, so that I may be glorified.
+<small><sub>**Literal:**</sub></small>
+and  people  your all of  them [will be] righteous for  ever they will possess [the] land [the] shoot of planting\<s>  my [the] work of hands  my to  glorify myself<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.20|<< Isaiah 60:20]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.22|Isaiah 60:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and people your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַמֵּ</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.me<small><sup>[[HNcmsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  | <span class="ashebrew"><big>כֻּלָּ֣</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] righteous  | <span class="ashebrew"><big>צַדִּיקִ֔ים</big></span><small><sup>[[H6662]]</sup></small> &#8207;| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עוֹלָ֖ם</big></span><small><sup>[[H5769G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will possess  | <span class="ashebrew"><big>יִ֣ירְשׁוּ</big></span><small><sup>[[H3423G]]</sup></small> &#8207;| Yi.re.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land  | <span class="ashebrew"><big>אָ֑רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] shoot of  | <span class="ashebrew"><big>נֵ֧צֶר</big></span><small><sup>[[H5342]]</sup></small> &#8207;| Ne.tzer<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| planting\<s> my  [^2] | <span class="ashebrew"><big>מַטָּעַ֛</big></span><small><sup>[[H4302]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;[^3] | ma.ta.'<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [the] work of  | <span class="ashebrew"><big>מַעֲשֵׂ֥ה</big></span><small><sup>[[H4639G]]</sup></small> &#8207;| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands my  | <span class="ashebrew"><big>יָדַ֖</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ya.Da<small><sup>[[HNcbdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to glorify myself  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הִתְפָּאֵֽר</big></span><small><sup>[[H6286A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hit.pa.'Er<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.20|<< Isaiah 60:20]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.22|Isaiah 60:22 >>]]</td></tr></table>
+
+[^1]: ==K==: **planting his ** | <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H4302]]</sup></small><span class="ashebrew"><big>מַטָּע</big></span>  | ma.ta.'o<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^2]: ==K==: **planting his ** | <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H4302]]</sup></small><span class="ashebrew"><big>מַטָּע</big></span>  | ma.ta.'o<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>מַטָּעַ֛ו</big></span>**
+

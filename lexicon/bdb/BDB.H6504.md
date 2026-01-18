@@ -1,0 +1,32 @@
+ I. [<span class="bdbLangHebrew">‎פָּרַד‎</span>] **verb** ==divide== (Late Hebrew ***id., divide, separate***; so Syriac in derived species and derivatives; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhGwAYAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAbABgABwj/AP8JHCiwH7+DCBMSXMjwn8GECfs1nPjPX7+HCfVJXHiRIj2KDA02dGbGQp9/86z1siYQnjVW6AT6O8hwDwAAH34JuwkA1b9KPGkVpLnQmpdD3P4JWyDi0D5/g0QQUbSvIkKQAskRnEeu6lCiWAmuk2RsIEaKXv8RzZZG2ECFDSVpcKuWn0BuWSS9vdrw0M11Au3+C3OzU2C+DNdNAcBKoFcaAPh9OAx2IDlHrKL61ARgj7FBN39QFhz4HyueAJz9A40aAF24h/cNyrGk8T/OLZ4cecJrb+XKArPRKKGVIey6C3ndbDPxbF2w4NLwTNqw3z6IRMF54ZmDZUN//q5DHST4TJSoYxPBY6SJmKH69eOf87uIvT720fbzJwwIADs="> ***be single, sole***, also ([[BDB#Dozy|Dozy]]) ***unfold, unroll***): — 
+
+**Qal** ***Passive participle*** feminine plural <span class="bdbLangHebrew">‎פְּרֻדוֺת‎</span> [[Ezek.1.11|Ezek 1:11]] ***divided***, i.e. spread, of wings. **Niph\`al** ***Perfect*** 3 plural <span class="bdbLangHebrew">‎נִפְרְדוּ‎</span> [[Gen.10.5|Gen 10:5]]; [[Gen.10.32|Gen 10:32]], <span class="bdbLangHebrew">‎נִפְרָ֑דוּ‎</span> [[2Sam.1.23|2Sam 1:23]] ***Imperfect***, <span class="bdbLangHebrew">‎יִפָּרֵד‎</span> [[Gen.2.10|Gen 2:10]]; [[Prov.19.4|Prov 19:4]], etc.; ***Imperative*** masculine singular <span class="bdbLangHebrew">‎הִפָּ֫רֶד נָא‎</span> [[Gen.13.9|Gen 13:9]] ***Infinitive construct*** <span class="bdbLangHebrew">‎הִפָּֽרֶדֿ‎</span> <span class="bdbLangHebrew">‎לוֺט‎</span> v[[Gen.13.14|Gen 13:14]] ***Participle*** <span class="bdbLangHebrew">‎נִפְרָד‎</span> [[Judg.4.11|Judg 4:11]]; [[Prov.18.1|Prov 18:1]], <span class="bdbLangHebrew">‎נִפְּרָדִים‎</span> [[Neh.4.13|Neh 4:13]] — 
+
+**1.** ***divide, separate*** (intransitive), [[Gen.2.10|Gen 2:10]] (of river, ***dividing*** into branches); of one man ***separating*** from another, with <span class="bdbLangHebrew">‎מֵעַל‎</span> [[Gen.13.9|Gen 13:9]]; [[Gen.13.11|Gen 13:11]], <span class="bdbLangHebrew">‎מֵעִם‎</span> v[[Gen.13.14|Gen 13:14]] (all [[BDB#J|J]]), from others, <span class="bdbLangHebrew">‎מִן‎</span> [[Judg.4.11|Judg 4:11]] reciprocal [[Gen.25.23|Gen 25:23]] ([[BDB#J|J]]; of sons of Rebekah representing nations, with <span class="bdbLangHebrew">‎מִמֵּעַיִךְ‎</span> in construction praegn. [[[BDB#Ges|Ges]]<sup>«GKC:119ff»§ 119ff</sup>], i.e. divided (hostile) from birth); absolute [[Prov.18.1|Prov 18:1]] of peoples separating from (<span class="bdbLangHebrew">‎מִן‎</span>) parent stock [[Prov.10.5|Prov 10:5]]; [[Prov.10.32|Prov 10:32]] ([[BDB#P|P]]). 
+
+**2.** ***be divided, separated***, [[2Sam.1.23|2Sam 1:23]]; [[Neh.4.13|Neh 4:13]] of loss of friendship [[Prov.19.4|Prov 19:4]]. **Pi\`el** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יְפָרֵ֑דוּ‎</span> [[Hos.4.14|Hos 4:14]] ***make a separation***, i.e. go apart (in company with [<span class="bdbLangHebrew">‎עִם‎</span>] harlots, compare [[BDB#RS|RS]]<sup>Semitic i. 436, 2nd ed. 455</sup>). **Pu\`al** ***Participle divided***, <span class="bdbLangHebrew">‎עַםמְ֗֗֗פֻזָּר וּמְפֹרָד בֵּין הָעַמִּים‎</span> [[Esth.3.8|Esth 3:8]] **Hiph\`il** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎הִפְרִיד‎</span> [[Gen.30.40|Gen 30:40]] ***Imperfect*** <span class="bdbLangHebrew">‎יַפְרִיד‎</span> [[Ruth.1.17|Ruth 1:17]]; [[Prov.18.18|Prov 18:18]], 3 masculine plural <span class="bdbLangHebrew">‎וַיַּפְרִדוּ‎</span> [[2Kgs.2.11|2Kgs 2:11]] ***Infinitive construct*** suffix <span class="bdbLangHebrew">‎בְּהַפְרִידוֺ‎</span> [[Deut.32.8|Deut 32:8]] ***Participle*** <span class="bdbLangHebrew">‎מַפְרִיד‎</span> [[Prov.16.28|Prov 16:28]]; [[Prov.17.9|Prov 17:9]] — 
+
+**1.** ***divide, separate*** [[Gen.30.40|Gen 30:40]] ([[BDB#J|J]][[BDB#E|E]]) [[Deut.32.8|Deut 32:8]], of separating friends [[Prov.16.28|Prov 16:28]]; [[Prov.17.9|Prov 17:9]]. 
+
+**2.** ***make a division, separation***, between (<span class="bdbLangHebrew">‎בֵּין‎</span>), [[2Kgs.2.11|2Kgs 2:11]]; [[Ruth.1.17|Ruth 1:17]] of parting disputants (with <span class="bdbLangHebrew">‎בֵּין‎</span>) [[Prov.18.18|Prov 18:18]]. **Hithpa\`el** ***Perfect*** 3 plural <span class="bdbLangHebrew">‎וְהִתְפָּֽרְדוּ‎</span> [[Ps.22.15|Ps 22:15]] ***Imperfect*** <span class="bdbLangHebrew">‎יִתְפָּֽרְדוּ‎</span> [[Ps.92.10|Ps 92:10]], <span class="bdbLangHebrew">‎רָ֑דוּ‎</span>- [[Job.4.11|Job 4:11]]; [[Job.41.9|Job 41:9]] — ***be divided, separated, from each other***; of scales of crocodile (c. negative) [[Job.41.9|Job 41:9]], of bones, = be loosened at the joint, [[Ps.22.15|Ps 22:15]] (figurative of helplessness); = be dispersed [[Job.4.11|Job 4:11]]; [[Ps.92.10|Ps 92:10]]. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.2.10\|2:10]] · [[Gen.10.5\|10:5]] · [[Gen.10.32\|10:32]] · [[Gen.13.9\|13:9]] · [[Gen.13.11\|13:11]] · [[Gen.13.14\|13:14]] · [[Gen.25.23\|25:23]] · [[Gen.30.40\|30:40]] |
+| Deuteronomy | [[Deut.32.8\|32:8]] |
+| Judges | [[Judg.4.11\|4:11]] |
+| Ruth | [[Ruth.1.17\|1:17]] |
+| 2 Samuel | [[2Sam.1.23\|1:23]] |
+| 2 Kings | [[2Kgs.2.11\|2:11]] |
+| Nehemiah | [[Neh.4.13\|4:13]] |
+| Esther | [[Esth.3.8\|3:8]] |
+| Job | [[Job.4.11\|4:11]] · [[Job.41.9\|41:9]] |
+| Psalms | [[Ps.22.15\|22:15]] · [[Ps.92.10\|92:10]] |
+| Proverbs | [[Prov.10.5\|10:5]] · [[Prov.10.32\|10:32]] · [[Prov.16.28\|16:28]] · [[Prov.17.9\|17:9]] · [[Prov.18.1\|18:1]] · [[Prov.18.18\|18:18]] · [[Prov.19.4\|19:4]] |
+| Ezekiel | [[Ezek.1.11\|1:11]] |
+| Hosea | [[Hos.4.14\|4:14]] |
+

@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎בַּעֲלֵי בָּמוֹת‎</span></big> **Baʻălêy Bâmôwth** <small>*(bah-al-ay' baw-moth')*</small> ==**Baal-bamothite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>from the plural of <span class="ashebrew">‎בַּעַל‎</span><sup><small>[[H1168]]</small></sup> and the plural of <span class="ashebrew">‎בָּמָה‎</span><sup><small>[[H1116]]</small></sup>; Baals of (the) heights</small>
+
+$\quad$ lords of the high places.
+- § Baale-bamoth = *"the lords of the high places"*
+- ***Baale-Bamoth***, a place East of the Jordan
+
+**1)** the people of Arnon, east of Jordan

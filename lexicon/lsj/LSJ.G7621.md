@@ -1,0 +1,7 @@
+<span class="asgreek">ἥδυσμα</span> <small>***(hēdusma)***</small> ==**luscious**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==ἥδυσμα==</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>ἡδύνω</span>) <b>relish, seasoning, sauce</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 678, “V.” 496, 5th-6th c.BC: Plato Philosophus “Respublica” 332d, 5th-6th c.BC: Xenophon Historicus “Memorabilia” 3.14.5, 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 6.4.6, etc.">Refs 5th c.BC+</a>]; of vinegar, [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 2.67c: \_metaphorically\_, οὐ.. ἡδύσματι χρῆται ἀλλ᾽ ὡς ἐδέσματι τοῖς ἐπιθέτοις 4th c.BC: Aristoteles Philosophus “Rhetorica” 1406a19 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>μελοποιΐα</span> <span class='asgreek'>μέγιστον</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἡ</span>. [<a href="javascript:void(0)" title=" [prev. author] “Po.” 1450b16, compare 4th c.AD: Julianus Imperator “Orationes” 7.207b ">Refs 4th c.AD+</a>]: in <i>plural</i>, <b>spices, aromatics</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.202, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.61, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.995c. ">Refs 5th c.BC+</a>]
+

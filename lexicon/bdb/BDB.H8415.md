@@ -1,0 +1,30 @@
+ <span class="bdbLangHebrew">‎תִּהוֺם‎</span> **noun feminine**<sup>[[Gen.7.11|Gen 7:11]] + 7 t.</sup> **and masculine**<sup>[[Job.28.14|Job 28:14]] + 5 t.</sup> ([[BDB#Albr.|Albr]]<sup>ZAW xvi (1896), 62</sup> [[BDB#Kö|Kö]]<sup>ii. 2. 167 Ency. Bib</sup>.<sup>DEEP</sup>) ==deep, sea, abyss== (almost always in poetry); — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ת‎</span> [[Gen.1.2|Gen 1:2]] +; plural absolute <span class="bdbLangHebrew">‎תְּהֹמוֺת‎</span> [[Ps.77.17|Ps 77:17]] +, etc., <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בַּתּ‎</span> [[Isa.63.13|Isa 63:13]] + [[Isa.106.9|Isa 106:9]] (only here with article); construct <span class="bdbLangHebrew">‎תְּהוֺמוֺת‎</span> [[Isa.71.20|Isa 71:20]] (but see **5** infra); — 
+
+**1.** ***deep***, of subterranean waters, [[Gen.49.25|Gen 49:25]] (poem in [[BDB#J|J]]; opposed to <span class="bdbLangHebrew">‎שָׁמַיִם‎</span>), [[Deut.33.13|Deut 33:13]] (opposed to ***id.***); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎רַבָּה מַעְיְנוֺת ת‎</span> [[Gen.7.11|Gen 7:11]]; [[Gen.8.2|Gen 8:2]] ([[BDB#P|P]]; \|\| <span class="bdbLangHebrew">‎אֲרֻבֹּת הַשָּׁמַיִם‎</span>), <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עִינוֺת ת‎</span> [[Prov.8.28|Prov 8:28]] (\|\| <span class="bdbLangHebrew">‎שְׁחָקִים‎</span>), [[Job.28.14|Job 28:14]]; [[Job.38.16|Job 38:16]] (both \|\| <span class="bdbLangHebrew">‎יָם‎</span>); <span class="bdbLangHebrew">‎תְּהוֺם רַבָּה‎</span> [[Amos.7.4|Amos 7:4]] (probably), <span class="bdbLangHebrew">‎רַבָּה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מִשְׁפָּטֶיךָ ת‎</span> [[Ps.36.7|Ps 36:7]] (opposed to <span class="bdbLangHebrew">‎אֵל צִדְקָֽתְךָ כְּהַרְרֵי‎</span>), [[Isa.51.10|Isa 51:10]] (perhaps); so plural <span class="bdbLangHebrew">‎תְּהֹמוֺת‎</span>, [[Prov.8.24|Prov 8:24]] (\|\| <span class="bdbLangHebrew">‎מַעְיָנוֺת‎</span>), [[Prov.3.20|Prov 3:20]] (opposed to <span class="bdbLangHebrew">‎שְׁחָקִים‎</span>), and probably [[Ps.33.7|Ps 33:7]] (\|\| <span class="bdbLangHebrew">‎מֵי הַיָּם‎</span>), [[Ps.135.6|Ps 135:6]] ( + <span class="bdbLangHebrew">‎יַמִּים‎</span>). 
+
+**2.** (deep) ***sea***, overwhelming Tyre [[Ezek.26.19|Ezek 26:19]] (\|\| <span class="bdbLangHebrew">‎הַמַּיִם הָרַבִּים‎</span>), roaring at theoph. [[Hab.3.10|Hab 3:10]] in general, \|\| <span class="bdbLangHebrew">‎יָם‎</span>, [[Job.38.30|Job 38:30]] (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פְּנֵי ת‎</span>); \|\| <span class="bdbLangHebrew">‎מַיִם‎</span> [[Jonah.2.6|Jonah 2:6]] alonE [[Job.41.24|Job 41:24]] figurative, <span class="bdbLangHebrew">‎קוֺרַא‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֶלתֿ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ת‎</span> [[Job.42.8|Job 42:8]] (\|\| <span class="bdbLangHebrew">‎מִשְׁבָּרִים‎</span>, <span class="bdbLangHebrew">‎גַּלִּים‎</span>; but possibly here of Jordan, compare **4**); in plural = ***abysses*** of sea, [[Exod.15.5|Exod 15:5]]; [[Exod.15.8|Exod 15:8]] (of Red Sea, so) [[Isa.63.13|Isa 63:13]] \|\| [[Ps.106.9|Ps 106:9]]; [[Ps.77.17|Ps 77:17]] also [[Ps.78.15|Ps 78:15]] (in simile), [[Ps.107.26|Ps 107:26]] (poetic of hollows of great waves, opposed to <span class="bdbLangHebrew">‎שָׁמַיִם‎</span>); vaguely, <span class="bdbLangHebrew">‎כָּלתְּֿהֹמוֺת‎</span> [[Ps.135.6|Ps 135:6]]; [[Ps.148.7|Ps 148:7]]. 
+
+**3.** ***primaeval ocean, deep***, in Hebrew cosmogony, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פְּנֵי ת‎</span> [[Gen.1.2|Gen 1:2]] ([[BDB#P|P]]; \|\| <span class="bdbLangHebrew">‎פְּנֵי הַמַּיִם‎</span>), [[Prov.8.27|Prov 8:27]] (\|\| <span class="bdbLangHebrew">‎שָׁמַיִם‎</span>), [[Ps.104.6|Ps 104:6]]. — (compare, further, [[BDB#Gunk|Gunk]]<sup>Schöpfung u. Chaos 21 ff.</sup> OCWhitehouse<sup>Hast. DB COSMOGONY</sup> [[BDB#Zim|Zim]]<sup>KAT3. 492 f., 509 f., 585</sup>). 
+
+**4.** ***deep, depth***, of river [[Ezek.31.4|Ezek 31:4]] (Nile; \|\| <span class="bdbLangHebrew">‎מַיִם‎</span>, + <span class="bdbLangHebrew">‎נַהֲרוֺתֶיהָ‎</span>), v[[Ezek.31.15|Ezek 31:15]] (\|\| ***id.***); plural of ***bursts*** of water fertilizing Canaan, <span class="bdbLangHebrew">‎יוצאים‎</span> <span class="bdbLangHebrew">‎בבקעה ובהר‎</span> [[Deut.8.7|Deut 8:7]] ( + <span class="bdbLangHebrew">‎עֲיָנֹת‎</span>, <span class="bdbLangHebrew">‎נַחֲלֵי מַיִם‎</span>). — On [[Ps.42.8|Ps 42:8]] see 
+
+**2. 5.** ***abyss*** (si vera lectio): <span class="bdbLangHebrew">‎תְּהוֺמוֺת הָאָרֶץ‎</span> = ***Shejôl***, [[Ps.71.20|Ps 71:20]], but [[BDB#Ol|Ol]] [[BDB#We|We]] <span class="bdbLangHebrew">‎תַּחְתִיּוֺת‎</span>. 
+
+[<span class="bdbLangHebrew">‎תַּחְפֻּכָה‎</span>] see <span class="bdbLangHebrew">‎הפך‎</span>. <span class="bdbLangHebrew">‎תָּו‎</span> see  <span class="bdbLangHebrew">‎תוה‎</span>. below, <span class="bdbLangHebrew">‎תּוֺא‎</span> see  <span class="bdbLangHebrew">‎תְּאוֺ‎</span>. [<span class="bdbLangHebrew">‎תּוֺאָם‎</span>] see  <span class="bdbLangHebrew">‎תאם‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.1.2\|1:2]] · [[Gen.7.11\|7:11]] · [[Gen.8.2\|8:2]] · [[Gen.49.25\|49:25]] |
+| Exodus | [[Exod.15.5\|15:5]] · [[Exod.15.8\|15:8]] |
+| Deuteronomy | [[Deut.8.7\|8:7]] · [[Deut.33.13\|33:13]] |
+| Job | [[Job.28.14\|28:14]] · [[Job.38.16\|38:16]] · [[Job.38.30\|38:30]] · [[Job.41.24\|41:24]] · [[Job.42.8\|42:8]] |
+| Psalms | [[Ps.33.7\|33:7]] · [[Ps.36.7\|36:7]] · [[Ps.42.8\|42:8]] · [[Ps.71.20\|71:20]] · [[Ps.77.17\|77:17]] · [[Ps.78.15\|78:15]] · [[Ps.104.6\|104:6]] · [[Ps.106.9\|106:9]] · [[Ps.107.26\|107:26]] · [[Ps.135.6\|135:6]] · [[Ps.148.7\|148:7]] |
+| Proverbs | [[Prov.3.20\|3:20]] · [[Prov.8.24\|8:24]] · [[Prov.8.27\|8:27]] · [[Prov.8.28\|8:28]] |
+| Isaiah | [[Isa.51.10\|51:10]] · [[Isa.63.13\|63:13]] · [[Isa.71.20\|71:20]] · [[Isa.106.9\|106:9]] |
+| Ezekiel | [[Ezek.26.19\|26:19]] · [[Ezek.31.4\|31:4]] · [[Ezek.31.15\|31:15]] |
+| Amos | [[Amos.7.4\|7:4]] |
+| Jonah | [[Jonah.2.6\|2:6]] |
+| Habakkuk | [[Hab.3.10\|3:10]] |
+

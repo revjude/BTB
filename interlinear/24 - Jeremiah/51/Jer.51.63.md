@@ -1,0 +1,26 @@
+**Jeremiah 51:63** 
+<small><sub>**KJV:**</sub></small>
+And it shall be, when thou hast made an end of reading this book, [that] thou shalt bind a stone to it, and cast it into the midst of Euphrates:
+<small><sub>**BSB:**</sub></small>
+When you finish reading this scroll, tie a stone to it and cast it into the Euphrates.
+<small><sub>**Literal:**</sub></small>
+and  it will be when  finishing  you to  read aloud \<obj.> the  scroll \<the>  this you will tie on  it a stone and  you will throw  it into [the] middle of [the] Euphrates<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.62|<< Jeremiah 51:62]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.64|Jeremiah 51:64 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָה֙</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when finishing you  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כַלֹּ֣תְ</big></span><small><sup>[[H3615G]]</sup></small> <span class="ashebrew"><big>ךָ֔</big></span><small><sup>[[H9041]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> cha.Lo.te.<small><sup>[[HVpcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to read aloud  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>קְרֹ֖א</big></span><small><sup>[[H7121J]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> k.Ro'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the scroll  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>סֵּ֣פֶר</big></span><small><sup>[[H5612H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Se.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֶּ֑ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will tie  | <span class="ashebrew"><big>תִּקְשֹׁ֤ר</big></span><small><sup>[[H7194]]</sup></small> &#8207;| tik.Shor<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלָי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a stone  | <span class="ashebrew"><big>אֶ֔בֶן</big></span><small><sup>[[H0068G]]</sup></small> &#8207;| 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will throw it  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִשְׁלַכְתּ֖</big></span><small><sup>[[H7993]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hish.lakh.T<small><sup>[[HVhq2ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] middle of  | <span class="ashebrew"><big>תּ֥וֹךְ</big></span><small><sup>[[H8432]]</sup></small> &#8207;| Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Euphrates  | <span class="ashebrew"><big>פְּרָֽת</big></span><small><sup>[[H6578]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| pe.Rat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.62|<< Jeremiah 51:62]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.64|Jeremiah 51:64 >>]]</td></tr></table>
+
+

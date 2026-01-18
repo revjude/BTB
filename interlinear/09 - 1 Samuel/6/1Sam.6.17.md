@@ -1,0 +1,31 @@
+**1 Samuel 6:17** 
+<small><sub>**KJV:**</sub></small>
+And these [are] the golden emerods which the Philistines returned [for] a trespass offering unto the LORD; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one;
+<small><sub>**BSB:**</sub></small>
+As a guilt offering to the LORD, the Philistines had sent back one gold tumor for each city: Ashdod, Gaza, Ashkelon, Gath, and Ekron.
+<small><sub>**Literal:**</sub></small>
+and  these [are] [the] tumors of \<the>  gold which they sent back [the] Philistines a guilt offering to  Yahweh for  Ashdod one for  Gaza one for  Ashkelon one for  Gath one for  Ekron one<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.16|<< 1 Samuel 6:16]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.18|1 Samuel 6:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and these  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֙לֶּה֙</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] tumors of  | <span class="ashebrew"><big>טְחֹרֵ֣י</big></span><small><sup>[[H2914]]</sup></small> &#8207;| te.cho.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> gold  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זָּהָ֔ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֨ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they sent back  | <span class="ashebrew"><big>הֵשִׁ֧יבוּ</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| he.Shi.vu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  | <span class="ashebrew"><big>פְלִשְׁתִּ֛ים</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a guilt offering  | <span class="ashebrew"><big>אָשָׁ֖ם</big></span><small><sup>[[H0817]]</sup></small> &#8207;| 'a.Sham<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Ashdod  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַשְׁדּ֨וֹד</big></span><small><sup>[[H0795]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ash.Dod<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָ֜ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Gaza  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עַזָּ֤ה</big></span><small><sup>[[H5804]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'a.Zah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָד֙</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Ashkelon  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַשְׁקְל֣וֹן</big></span><small><sup>[[H0831]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ash.ke.Lon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָ֔ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Gath  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>גַ֥ת</big></span><small><sup>[[H1661]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Gat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָ֖ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Ekron  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֶקְר֥וֹן</big></span><small><sup>[[H6138]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ek.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָֽד</big></span><small><sup>[[H0259]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.16|<< 1 Samuel 6:16]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.18|1 Samuel 6:18 >>]]</td></tr></table>
+
+

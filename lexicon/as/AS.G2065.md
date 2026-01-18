@@ -1,0 +1,20 @@
+<span class="asform"><span class="asgreek"><span class="asbold">ἐρωτάω</span></span>, <span class="asgreek">-ῶ </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">שָׁאַל</span> <small><sup>[[H7592]]</sup></small> ;\] </span> </span>
+<span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to ask, question</span> (cl.): absol., [[Luke.19.31|Lk 19:31]] [[Luke.22.68|22:68]], [[John.8.7|Jo 8:7]] c. acc pers., [[John.9.21|Jo 9:21]] [[John.16.19|16:19]], [[John.16.30|30]] [[John.18.21|18:21]]; seq. <span class="asgreek">λέγων</span>, [[Matt.16.13|Mt 16:13]], [[Luke.23.3|Lk 23:3]], [[John.1.19|Jo 1:19]], [[John.1.21|21]] [[John.5.12|5:12]] [[John.9.19|9:19]] [[John.16.5|16:5]]; c. dupl. acc (WM, § 32, 4a), [[Matt.21.24|Mt 21:24]], [[Mark.4.10|Mk 4:10]], [[Luke.20.3|Lk 20:3]], [[John.16.23|Jo 16:23]] (M, <span class="asitalic">Pr.</span>, 66<span class="assubscript">n</span>); c. acc pers., seq. <span class="asgreek">περί</span>, [[Luke.9.45|Lk 9:45]], [[John.18.19|Jo 18:19]].</span>
+<span class="asbullet"><span class="asbold">2.</span> In late Gk. (Milligan, <span class="asitalic">NTD</span>, 51; not, as Cremer, 716, Thayer, s.v., a "Hebraism"), = <span class="asgreek">αἰτέω</span> (q.v.), <span class="asitalic">to ask, request</span>: c. acc pers., [[John.14.16|Jo 14:16]]; seq. imperat., [[Luke.14.18|Lk 14:18]], [[Luke.14.19|19]] [[Phil.4.3|Phl 4:3]]; <span class="asgreek">λέγων</span>, [[Matt.15.23|Mt 15:23]], [[John.12.21|Jo 12:21]]; seq. <span class="asgreek">ἵνα </span>(M, <span class="asitalic">Pr.</span>, 208), [[Mark.7.26|Mk 7:26]], [[Luke.7.36|Lk 7:36]] [[Luke.16.27|16:27]], [[John.4.47|Jo 4:47]] [[John.17.15|17:15]] [[John.19.31|19:31]], [[John.19.38|38]], [[1Thess.4.1|I Th 4:1]], [[2John.1.5|II Jo 5]]; <span class="asgreek">ὅπως</span>, [[Luke.7.3|Lk 7:3]] [[Luke.11.37|11:37]], [[Acts.23.20|Ac 23:20]]; c. inf., [[Luke.5.3|Lk 5:3]] [[Luke.8.37|8:37]], [[John.4.40|Jo 4:40]], [[Acts.3.3|Ac 3:3]] [[Acts.10.48|10:48]] [[Acts.23.18|23:18]], [[1Thess.5.12|I Th 5:12]]; c. acc pers., seq. <span class="asgreek">περί</span>, [[Luke.4.38|Lk 4:38]] [[John.17.9|Jo 17:9]], [[John.17.20|20]], [[1John.5.16|I Jo 5:16]]; <span class="asgreek">ὑπέρ</span>, [[2Thess.2.1|II Th 2:1]], [[2Thess.2.2|2]]; <span class="asgreek">τὰ</span> (WH, txt., om. <span class="asgreek">τὰ</span>) <span class="asgreek">πρὸς εἰρήνην</span>, [[Luke.14.32|Lk 14:32]] (cf. <span class="asgreek">δι-</span>, <span class="asgreek">ἐπ-ερωτάω</span>)</span>
+<span class="asre"><span class="asitalic">SYN.</span>: v.s. <span class="asref"><span class="asgreek">αἰτέω</span> <small><sup>[[G0154]]</sup></small></span>  </span>
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Matthew | [[Matt.15.23\|15:23]] · [[Matt.16.13\|16:13]] · [[Matt.21.24\|21:24]] |
+| Mark | [[Mark.4.10\|4:10]] · [[Mark.7.26\|7:26]] |
+| Luke | [[Luke.4.38\|4:38]] · [[Luke.5.3\|5:3]] · [[Luke.7.3\|7:3]] · [[Luke.7.36\|7:36]] · [[Luke.8.37\|8:37]] · [[Luke.9.45\|9:45]] · [[Luke.11.37\|11:37]] · [[Luke.14.18\|14:18]] · [[Luke.14.19\|14:19]] · [[Luke.14.32\|14:32]] · [[Luke.16.27\|16:27]] · [[Luke.19.31\|19:31]] · [[Luke.20.3\|20:3]] · [[Luke.22.68\|22:68]] · [[Luke.23.3\|23:3]] |
+| John | [[John.1.19\|1:19]] · [[John.1.21\|1:21]] · [[John.4.40\|4:40]] · [[John.4.47\|4:47]] · [[John.5.12\|5:12]] · [[John.8.7\|8:7]] · [[John.9.19\|9:19]] · [[John.9.21\|9:21]] · [[John.12.21\|12:21]] · [[John.14.16\|14:16]] · [[John.16.5\|16:5]] · [[John.16.19\|16:19]] · [[John.16.23\|16:23]] · [[John.16.30\|16:30]] · [[John.17.9\|17:9]] · [[John.17.15\|17:15]] · [[John.17.20\|17:20]] · [[John.18.19\|18:19]] · [[John.18.21\|18:21]] · [[John.19.31\|19:31]] · [[John.19.38\|19:38]] |
+| Acts | [[Acts.3.3\|3:3]] · [[Acts.10.48\|10:48]] · [[Acts.23.18\|23:18]] · [[Acts.23.20\|23:20]] |
+| Philippians | [[Phil.4.3\|4:3]] |
+| 1 Thessalonians | [[1Thess.4.1\|4:1]] · [[1Thess.5.12\|5:12]] |
+| 2 Thessalonians | [[2Thess.2.1\|2:1]] · [[2Thess.2.2\|2:2]] |
+| 1 John | [[1John.5.16\|5:16]] |
+| 2 John | [[2John.1.5\|1:5]] |
+

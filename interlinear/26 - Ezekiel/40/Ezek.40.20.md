@@ -1,0 +1,23 @@
+**Ezekiel 40:20** 
+<small><sub>**KJV:**</sub></small>
+And the gate of the outward court that looked toward the north, he measured the length thereof, and the breadth thereof.
+<small><sub>**BSB:**</sub></small>
+He also measured the length and width of the gateway of the outer court facing north.
+<small><sub>**Literal:**</sub></small>
+and  the  gate which face  its [was] [the] direction of the  north of the  courtyard \<the>  outer he measured length  its and  breadth  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.19|<< Ezekiel 40:19]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.21|Ezekiel 40:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the gate  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שַּׁ֗עַר</big></span><small><sup>[[H8179G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֤ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face its  | <span class="ashebrew"><big>פָּנָי</big></span><small><sup>[[H6440H]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] [the] direction of  | <span class="ashebrew"><big>דֶּ֣רֶךְ</big></span><small><sup>[[H1870J]]</sup></small> &#8207;| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the north  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צָּפ֔וֹן</big></span><small><sup>[[H6828G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the courtyard  | <span class="ashebrew"><big>לֶ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חָצֵ֖ר</big></span><small><sup>[[H2691A]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> outer  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חִֽיצוֹנָ֑ה</big></span><small><sup>[[H2435]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chi.tzo.Nah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he measured  | <span class="ashebrew"><big>מָדַ֥ד</big></span><small><sup>[[H4058]]</sup></small> &#8207;| ma.Dad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| length its  | <span class="ashebrew"><big>אָרְכּ֖</big></span><small><sup>[[H0753]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.re.K<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and breadth its  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רָחְבּֽ</big></span><small><sup>[[H7341]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ra.che.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.19|<< Ezekiel 40:19]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.21|Ezekiel 40:21 >>]]</td></tr></table>
+
+

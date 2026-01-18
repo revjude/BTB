@@ -1,0 +1,23 @@
+**Psalms 128:3** 
+<small><sub>**KJV:**</sub></small>
+Thy wife [shall be] as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.
+<small><sub>**BSB:**</sub></small>
+Your wife will be like a fruitful vine flourishing within your house, your sons like olive shoots sitting around your table.
+<small><sub>**Literal:**</sub></small>
+wife  your [will be] like  a vine fruitful in  [the] innermost parts of house  your children  your [will be] like  shoots of olive trees around \<to>  table  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.128.2|<< Psalms 128:2]]</td><td align="center" style="border:none;">[[Ps.128|Psalms 128]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.128.4|Psalms 128:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| wife your  | <span class="ashebrew"><big>אֶשְׁתְּ</big></span><small><sup>[[H0802H]]</sup></small> <span class="ashebrew"><big>ךָ֤</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'esh.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] like a vine  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>גֶ֥פֶן</big></span><small><sup>[[H1612]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> Ge.fen<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruitful  | <span class="ashebrew"><big>פֹּרִיָּה֮</big></span><small><sup>[[H6509]]</sup></small> &#8207;| po.ri.Yah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] innermost parts of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יַרְכְּתֵ֪י</big></span><small><sup>[[H3411]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> yar.ke.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| house your  | <span class="ashebrew"><big>בֵ֫יתֶ֥</big></span><small><sup>[[H1004B]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| vei.Te.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children your  | <span class="ashebrew"><big>בָּ֭נֶי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| Ba.nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] like shoots of  | <span class="ashebrew"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>שְׁתִלֵ֣י</big></span><small><sup>[[H8363]]</sup></small> &#8207;| ki<small><sup>[[HR]]</sup></small> sh.ti.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| olive trees  | <span class="ashebrew"><big>זֵיתִ֑ים</big></span><small><sup>[[H2132H]]</sup></small> &#8207;| zei.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| around  | <span class="ashebrew"><big>סָ֝בִ֗יב</big></span><small><sup>[[H5439G]]</sup></small> &#8207;| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> table your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שֻׁלְחָנֶֽ</big></span><small><sup>[[H7979]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> shul.cha.Ne.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.128.2|<< Psalms 128:2]]</td><td align="center" style="border:none;">[[Ps.128|Psalms 128]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.128.4|Psalms 128:4 >>]]</td></tr></table>
+
+

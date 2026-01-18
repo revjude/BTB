@@ -1,0 +1,34 @@
+**2 Samuel 16:18** 
+<small><sub>**KJV:**</sub></small>
+And Hushai said unto Absalom, Nay; but whom the LORD, and this people, and all the men of Israel, choose, his will I be, and with him will I abide.
+<small><sub>**BSB:**</sub></small>
+“Not at all,” Hushai answered. “For the one chosen by the LORD, by this people, and by all the men of Israel—his I will be, and with him I will remain.
+<small><sub>**Literal:**</sub></small>
+and  he said Hushai to Absalom In- deed [the one] whom he has chosen Yahweh and  the  people \<the>  this and  every \<the> man of Israel to \<the>  him I will belong and  with  him I will remain<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.17|<< 2 Samuel 16:17]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.19|2 Samuel 16:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hushai  | <span class="ashebrew"><big>חוּשַׁי֮</big></span><small><sup>[[H2365]]</sup></small> &#8207;| chu.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Absalom  | <span class="ashebrew"><big>אַבְשָׁלֹם֒</big></span><small><sup>[[H0053]]</sup></small> &#8207;| 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| In-  | <span class="ashebrew"><big>לֹ֕א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deed  | <span class="ashebrew"><big>כִּי֩</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the one] whom  | <span class="ashebrew"><big>אֲשֶׁ֨ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has chosen  | <span class="ashebrew"><big>בָּחַ֧ר</big></span><small><sup>[[H0977]]</sup></small> &#8207;| ba.Char<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֛ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the people  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֥ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֶּ֖ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and every  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> man of  | <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  [^2] | <span class="ashebrew"><big>ל֥</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;[^3] | l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| I will belong  | <span class="ashebrew"><big>אֶהְיֶ֖ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| 'eh.Yeh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with him  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִתּ֥</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'i.T<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will remain  | <span class="ashebrew"><big>אֵשֵֽׁב</big></span><small><sup>[[H3427]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.Shev<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.17|<< 2 Samuel 16:17]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.19|2 Samuel 16:19 >>]]</td></tr></table>
+
+[^1]: ==K==: **not ** | <small><sup>[[H3808]]</sup></small><span class="ashebrew"><big>לֹא</big></span>  | lo'<small><sup>[[HTn]]</sup></small> 
+[^2]: ==K==: **not ** | <small><sup>[[H3808]]</sup></small><span class="ashebrew"><big>לֹא</big></span>  | lo'<small><sup>[[HTn]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>לֹ֥א</big></span>**
+

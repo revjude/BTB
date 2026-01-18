@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==παραγγελία==</span>-<span class='asgreek'>ελία</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>command</b> or <b>order</b> issued to soldiers, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.1.4, NT.Acts.16.24 ">NT+5th c.BC+</a>]; <span class='asgreek'>τόπος</span> <span class='asgreek'>ἐπιτηδειότατος</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>π</span>. for giving the <b>word of command</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.27.1 ">Refs 2nd c.BC+</a>]: generally, <b>order</b> issued by an authority, [<a href="javascript:void(0)" title=" “PAmh.” 2.68.63 (1st c.AD), etc. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>summoning one's partisans</b> to support one in a suit at law, <b>exertion of influence</b>, <span class='asgreek'>σπουδὴ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>π</span>., <span class='asgreek'>συγγνώμη</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>π</span>., [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.1, 283. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>summons</b> to appear in court, [<a href="javascript:void(0)" title=" “POxy.” 484.18 (2nd c.AD), etc. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>canvassing for public office</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Crassus” 15, 2nd c.AD: Appianus Historicus “Bella Civilia” 1.21, etc. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>set of rules</b> or <b>precepts</b>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>==παραγγελία==ελίαν</span> <span class='asgreek'>πίπτειν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1104a7; παραδόσεις καὶ π. 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.78 5th c.BC: Sophocles Tragicus (\_plural\_); μεθοδικὴ π. 1st c.BC: Philodemus Philosophus “περὶ ποιημάτων” 2.33 ">Refs 5th c.BC+</a>]; <b>instruction, precept, advice</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Jusj.”, 1st c.BC: Diodorus Siculus Historicus 4.36, 15.10; τὸ τέλος τῆς π. ἐστὶν ἀγάπη NT.1Tim.1.5 ">NT+5th c.BC+</a>]; <span class='asgreek'>τεχνίτης</span> <span class='asgreek'>π</span>. <span class='asgreek'>λογικῆς</span>, of <b>rules</b> of literary composition, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 26.1. ">Refs 1st c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.16.24]] ☩ [[1Tim.1.5]]
+</sub></small>

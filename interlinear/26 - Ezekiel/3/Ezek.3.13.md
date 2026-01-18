@@ -1,0 +1,26 @@
+**Ezekiel 3:13** 
+<small><sub>**KJV:**</sub></small>
+[I heard] also the noise of the wings of the living creatures that touched one another, and the noise of the wheels over against them, and a noise of a great rushing.
+<small><sub>**BSB:**</sub></small>
+It was the sound of the wings of the living creatures brushing against one another and the sound of the wheels beside them, a great rumbling sound.
+<small><sub>**Literal:**</sub></small>
+and  [the] sound of [the] wings of the  living creatures touching closely each \<to> sister  its and  [the] sound of the  wheels \<to>  close by  them and  a sound of rumbling great<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.12|<< Ezekiel 3:12]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.14|Ezekiel 3:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] sound of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ק֣וֹל</big></span><small><sup>[[H6963H]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wings of  | <span class="ashebrew"><big>כַּנְפֵ֣י</big></span><small><sup>[[H3671]]</sup></small> &#8207;| kan.Fei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the living creatures  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חַיּ֗וֹת</big></span><small><sup>[[H2416C]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chai.Yot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| touching closely  | <span class="ashebrew"><big>מַשִּׁיקוֹת֙</big></span><small><sup>[[H5401A]]</sup></small> &#8207;| ma.shi.kOt<small><sup>[[HVhrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| each  | <span class="ashebrew"><big>אִשָּׁ֣ה</big></span><small><sup>[[H0802I]]</sup></small> &#8207;| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to>  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sister its  | <span class="ashebrew"><big>אֲחוֹתָ֔</big></span><small><sup>[[H0269]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| 'a.cho.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sound of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ק֥וֹל</big></span><small><sup>[[H6963H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the wheels  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אוֹפַנִּ֖ים</big></span><small><sup>[[H0212]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> close by them  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֻמָּתָ֑</big></span><small><sup>[[H5980]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'u.ma.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a sound of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ק֖וֹל</big></span><small><sup>[[H6963H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rumbling  | <span class="ashebrew"><big>רַ֥עַשׁ</big></span><small><sup>[[H7494]]</sup></small> &#8207;| Ra.'ash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>גָּדֽוֹל</big></span><small><sup>[[H1419A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.12|<< Ezekiel 3:12]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.14|Ezekiel 3:14 >>]]</td></tr></table>
+
+

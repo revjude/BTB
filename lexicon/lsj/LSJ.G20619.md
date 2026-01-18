@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==κύκνειος==</span>-<span class='asgreek'>ειος</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, 
+
+
+ also <span class='asgreek'>ος</span>, <span class='asgreek'>ον</span> [<a href="javascript:void(0)" title=" LXX.4Mac.15.21 ">LXX</a>]:— <b>of a swan</b>, <span class='asgreek'>πτίλον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 1127.3; στόμα “Anthologia Graeca” 7.12: τὸ κ. (i.e. ἆσμα or μέλος) ᾄδειν">Refs 5th c.BC+</a>] <b>a swan's dying song</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 3.199, 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 2.32 ">Refs 3rd c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>πρὸς</span> <span class='asgreek'>φιληκοΐαν</span> <span class='asgreek'>φωναί</span> LXX : proverbial, <span class='asgreek'>τὸ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>ἐξηχεῖν</span>, <span class='asgreek'>ἐξᾷσαι</span>, to make a last appeal, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 30.4.7, 31.12.1, compare 1st c.BC: Diodorus Siculus Historicus 31.5. ">Refs 2nd c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b><span class='asgreek'>Κύκνειος</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, <b>of Cycnus</b>, <span class='asgreek'>μάχα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “O.” 10(11).15. ">Refs 5th c.BC+</a>]

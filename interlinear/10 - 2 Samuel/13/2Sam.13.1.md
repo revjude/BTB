@@ -1,0 +1,27 @@
+**2 Samuel 13:1** 
+<small><sub>**KJV:**</sub></small>
+And it came to pass after this, that Absalom the son of David had a fair sister, whose name [was] Tamar; and Amnon the son of David loved her.
+<small><sub>**BSB:**</sub></small>
+After some time, David’s son Amnon fell in love with Tamar, the beautiful sister of David’s son Absalom.
+<small><sub>**Literal:**</sub></small>
+and  it was after thus and  [belonged] to  Absalom [the] son of David a sister a beautiful and  name  her [was] Tamar and  he loved  her Amnon [the] son of David<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.31|<< 2 Samuel 12:31]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.2|2 Samuel 13:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִ֣י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  | <span class="ashebrew"><big>אַֽחֲרֵי</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.cha.rei-<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֵ֗ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [belonged] to Absalom  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַבְשָׁל֧וֹם</big></span><small><sup>[[H0053]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֛ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sister  | <span class="ashebrew"><big>אָח֥וֹת</big></span><small><sup>[[H0269]]</sup></small> &#8207;| 'a.Chot<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a beautiful  | <span class="ashebrew"><big>יָפָ֖ה</big></span><small><sup>[[H3303]]</sup></small> &#8207;| ya.Fah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and name her  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁמָ֣</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Tamar  | <span class="ashebrew"><big>תָּמָ֑ר</big></span><small><sup>[[H8559H]]</sup></small> &#8207;| ta.Mar<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he loved her  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֶּאֱהָבֶ֖</big></span><small><sup>[[H0157G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.'e.ha.Ve.<small><sup>[[HVqw3ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amnon  | <span class="ashebrew"><big>אַמְנ֥וֹן</big></span><small><sup>[[H0550G]]</sup></small> &#8207;| 'am.Non<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִֽד</big></span><small><sup>[[H1732]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.31|<< 2 Samuel 12:31]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.2|2 Samuel 13:2 >>]]</td></tr></table>
+
+

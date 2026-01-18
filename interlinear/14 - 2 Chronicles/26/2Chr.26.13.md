@@ -1,0 +1,32 @@
+**2 Chronicles 26:13** 
+<small><sub>**KJV:**</sub></small>
+And under their hand [was] an army, three hundred thousand and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy.
+<small><sub>**BSB:**</sub></small>
+Under their authority was an army of 307,500 trained for war, a powerful force to support the king against his enemies.
+<small><sub>**Literal:**</sub></small>
+and  [was] on hand  their an army of war three hundred\<s> thousand and  seven thousand\<s> and  five hundred\<s> doers of battle with  power of strength to  help \<to> the  king on the  enemy<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.12|<< 2 Chronicles 26:12]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.14|2 Chronicles 26:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [was] on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand their  | <span class="ashebrew"><big>יָדָ</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>ם֩</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an army of  | <span class="ashebrew"><big>חֵ֨יל</big></span><small><sup>[[H2428A]]</sup></small> &#8207;| cheil<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| war  | <span class="ashebrew"><big>צָבָ֜א</big></span><small><sup>[[H6635H]]</sup></small> &#8207;| tza.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שְׁלֹ֧שׁ</big></span><small><sup>[[H7969]]</sup></small> &#8207;| she.Losh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵא֣וֹת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  | <span class="ashebrew"><big>אֶ֗לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'E.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and seven  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שִׁבְעַ֤ת</big></span><small><sup>[[H7651]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> shiv.'At<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִים֙</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֲמֵ֣שׁ</big></span><small><sup>[[H2568]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> cha.Mesh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵא֔וֹת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| doers of  | <span class="ashebrew"><big>עוֹשֵׂ֥י</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| o.Sei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| battle  | <span class="ashebrew"><big>מִלְחָמָ֖ה</big></span><small><sup>[[H4421]]</sup></small> &#8207;| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with power of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כֹ֣חַ</big></span><small><sup>[[H3581B]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Kho.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength  | <span class="ashebrew"><big>חָ֑יִל</big></span><small><sup>[[H2428G]]</sup></small> &#8207;| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to help  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עְזֹ֥ר</big></span><small><sup>[[H5826]]</sup></small> &#8207;| la<small><sup>[[HR]]</sup></small> '.Zor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> the king  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֶּ֖לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the enemy  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אוֹיֵֽב</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.12|<< 2 Chronicles 26:12]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.14|2 Chronicles 26:14 >>]]</td></tr></table>
+
+

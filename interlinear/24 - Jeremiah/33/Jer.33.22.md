@@ -1,0 +1,32 @@
+**Jeremiah 33:22** 
+<small><sub>**KJV:**</sub></small>
+As the host of heaven cannot be numbered, neither the sand of the sea measured: so will I multiply the seed of David my servant, and the Levites that minister unto me.
+<small><sub>**BSB:**</sub></small>
+As the hosts of heaven cannot be counted and as the sand on the seashore cannot be measured, so too will I multiply the descendants of My servant David and the Levites who minister before Me.”
+<small><sub>**Literal:**</sub></small>
+which not it will be counted [the] host of the  heavens and  not it will be measured [the] sand of the  sea so I will increase \<obj.> [the] offspring of David servant  my and  \<obj.> the  Levites [the] servants of \<obj.>  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.21|<< Jeremiah 33:21]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.23|Jeremiah 33:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֤ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be counted  | <span class="ashebrew"><big>יִסָּפֵר֙</big></span><small><sup>[[H5608A]]</sup></small> &#8207;| yi.sa.Fer<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] host of  | <span class="ashebrew"><big>צְבָ֣א</big></span><small><sup>[[H6635A]]</sup></small> &#8207;| tze.Va'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the heavens  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁמַ֔יִם</big></span><small><sup>[[H8064]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be measured  | <span class="ashebrew"><big>יִמַּ֖ד</big></span><small><sup>[[H4058]]</sup></small> &#8207;| yi.Mad<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sand of  | <span class="ashebrew"><big>ח֣וֹל</big></span><small><sup>[[H2344]]</sup></small> &#8207;| Chol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sea  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּ֑ם</big></span><small><sup>[[H3220G]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  | <span class="ashebrew"><big>כֵּ֣ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will increase  | <span class="ashebrew"><big>אַרְבֶּ֗ה</big></span><small><sup>[[H7235A]]</sup></small> &#8207;| 'ar.Beh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] offspring of  | <span class="ashebrew"><big>זֶ֙רַע֙</big></span><small><sup>[[H2233H]]</sup></small> &#8207;| ze.ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֣ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant my  | <span class="ashebrew"><big>עַבְדִּ֔</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'av.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Levites  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לְוִיִּ֖ם</big></span><small><sup>[[H3881]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] servants of  | <span class="ashebrew"><big>מְשָׁרְתֵ֥י</big></span><small><sup>[[H8334]]</sup></small> &#8207;| me.sha.re.Tei<small><sup>[[HVprmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> me  | <span class="ashebrew"><big>אֹתִֽ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.21|<< Jeremiah 33:21]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.23|Jeremiah 33:23 >>]]</td></tr></table>
+
+

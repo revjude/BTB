@@ -1,0 +1,28 @@
+**Joshua 23:1** 
+<small><sub>**KJV:**</sub></small>
+And it came to pass a long time after that the LORD had given rest unto Israel from all their enemies round about, that Joshua waxed old [and] stricken in age.
+<small><sub>**BSB:**</sub></small>
+A long time after the LORD had given Israel rest from all the enemies around them, when Joshua was old and well along in years,
+<small><sub>**Literal:**</sub></small>
+and  it was from  days many after that he had given rest Yahweh to  Israel from  all enemies  their from  round about and  Joshua he was old he had come in \<the>  days<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.34|<< Joshua 22:34]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.2|Joshua 23:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִי֙</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from days  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יָּמִ֣ים</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  | <span class="ashebrew"><big>רַבִּ֔ים</big></span><small><sup>[[H7227A]]</sup></small> &#8207;| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  | <span class="ashebrew"><big>אַ֠חֲרֵי</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'A.cha.rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had given rest  | <span class="ashebrew"><big>הֵנִ֨יחַ</big></span><small><sup>[[H5117]]</sup></small> &#8207;| he.Ni.ach<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֧ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Israel  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יִשְׂרָאֵ֛ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from all  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies their  | <span class="ashebrew"><big>אֹיְבֵי</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'o.ye.vei.<small><sup>[[HVqrmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from round about  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>סָּבִ֑יב</big></span><small><sup>[[H5439G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Joshua  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יהוֹשֻׁ֣עַ</big></span><small><sup>[[H3091G]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he was old  | <span class="ashebrew"><big>זָקֵ֔ן</big></span><small><sup>[[H2204]]</sup></small> &#8207;| za.Ken<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had come  | <span class="ashebrew"><big>בָּ֖א</big></span><small><sup>[[H0935J]]</sup></small> &#8207;| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> days  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יָּמִֽים</big></span><small><sup>[[H3117I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.34|<< Joshua 22:34]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.2|Joshua 23:2 >>]]</td></tr></table>
+
+

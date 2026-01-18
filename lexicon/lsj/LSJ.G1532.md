@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==εἰστρέχω==</span></b>, 
+
+
+ <i>aorist</i> I <i>subjunctive</i> <span class='asgreek'>εἰσθρέξωσιν</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 1163 ">Refs 3rd c.BC+</a>]: <i>aorist 2</i> <b>-<span class='asgreek'>έδρᾰμον</span></b>[<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 4.67, 3rd c.BC: Theocritus Poeta Bucolicus 13.24 ">Refs 5th c.BC+</a>]: <i>perfect</i> <span class='asgreek'>εἰσδεδράμηκα</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus “Σαμία” 146 ">Refs 4th c.BC+</a>]:—<b>run in,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus [same place] ">Refs 5th c.BC+</a>]; <span class='asgreek'>εἰσέδραμε</span> <span class='asgreek'>Φᾶσιν</span>, of a ship, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus ">Refs 3rd c.BC+</a>] [prev. cited]; <span class='asgreek'>ἡ</span> <span class='asgreek'>θεὸς</span> (i.e. <span class='asgreek'>ποδάγρα</span>) <span class='asgreek'>διὰ</span> <span class='asgreek'>ποδῶν</span> <span class='asgreek'>εἰ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Ocyp.Praef.” ">Refs 2nd c.AD+</a>]
+

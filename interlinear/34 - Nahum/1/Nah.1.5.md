@@ -1,0 +1,25 @@
+**Nahum 1:5** 
+<small><sub>**KJV:**</sub></small>
+The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.
+<small><sub>**BSB:**</sub></small>
+The mountains quake before Him, and the hills melt away; the earth trembles at His presence—the world and all its dwellers.
+<small><sub>**Literal:**</sub></small>
+mountains they quake from  him and  the  hills they melt and  it lifted up the  earth from  before  him and  [the] world and  all [those who] dwell in  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.4|<< Nahum 1:4]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.6|Nahum 1:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| mountains  | <span class="ashebrew"><big>הָרִים֙</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they quake  | <span class="ashebrew"><big>רָעֲשׁ֣וּ</big></span><small><sup>[[H7493]]</sup></small> &#8207;| ra.'a.Shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from him  | <span class="ashebrew"><big>מִמֶּ֔</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| mi.Me.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the hills  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גְּבָע֖וֹת</big></span><small><sup>[[H1389I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ge.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they melt  | <span class="ashebrew"><big>הִתְמֹגָ֑גוּ</big></span><small><sup>[[H4127]]</sup></small> &#8207;| hit.mo.Ga.gu<small><sup>[[HVtp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it lifted up  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּשָּׂ֤א</big></span><small><sup>[[H5375G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ti.Sa'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֙רֶץ֙</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before him  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פָּנָ֔י</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] world  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תֵבֵ֖ל</big></span><small><sup>[[H8398]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> te.Vel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] dwell  | <span class="ashebrew"><big>יֹ֥שְׁבֵי</big></span><small><sup>[[H3427]]</sup></small> &#8207;| Yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in it  | <span class="ashebrew"><big>בָֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.4|<< Nahum 1:4]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.6|Nahum 1:6 >>]]</td></tr></table>
+
+

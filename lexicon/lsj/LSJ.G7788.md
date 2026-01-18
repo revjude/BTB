@@ -1,0 +1,12 @@
+<span class="asgreek">καμάρα</span> <small>***(kamara)***</small> ==**a vault**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==καμάρα==</span>-<span class='asgreek'>α</span></b>, 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>==καμάρα==</span>-<span class='asgreek'>η</span></b> [<span class='asgreek'>μᾰ</span>], <span class='asgreek'>ἡ</span>, <b>anything with an arched cover, covered carriage</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.199, 2nd-3rd c.AD: Dio Cassius Historicus 36.49 ">Refs 5th c.BC+</a>]; <b>covered boat</b> or <b>barge</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 11.2.12, compare 2nd c.AD: Gellius, Aulus Grammaticus Latinus 10.25">Refs 1st c.BC+</a>]; <b>vaulted chamber</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Agatharchides Geographus 62, “PStrassb.” 91.5 (1st c.BC), 1st c.BC: Diodorus Siculus Historicus 18.26, “BGU” 731 (2nd c.AD)">Refs 2nd c.BC+</a>]; <b>vault</b> of a tomb, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2241 (from Chios), 3007 (from Ephesus), 3104 (from Teos), “IG” 7.2725.4(Acraeph.)">Refs</a>]; <b>vault</b> of heaven, [<a href="javascript:void(0)" title=" LXX.Isa.40.22 ">LXX</a>]; <b>vaulted ceiling</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἑπτακλίνου</span> [<a href="javascript:void(0)" title=" “PCair.Zen.” 445.9 (3rd c.BC)">Refs 3rd c.BC+</a>]; <b>tester-bed</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Anabasis” 7.25.4 ">Refs 2nd c.AD+</a>]; <b>vaulted sewer</b>, as gloss on{<span class='asgreek'>ψαλίς</span>}, [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Plato Philosophus “Leges” 947d, 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> in Medicine texts, <b>hollow near the auditory meatus</b>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.86. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>plural</i>, ={<span class='asgreek'>ζῶναι</span> <span class='asgreek'>στρατιωτικαί</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>] (Cf. Avest, <b>kamarā</b> 'girdle', Latin <i>camurus</i>, unless Carian,[<a href="javascript:void(0)" title="compare καμαρός 11.) ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Isa.40.22]]
+</sub></small>

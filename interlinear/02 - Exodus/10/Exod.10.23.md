@@ -1,0 +1,30 @@
+**Exodus 10:23** 
+<small><sub>**KJV:**</sub></small>
+They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.
+<small><sub>**BSB:**</sub></small>
+No one could see anyone else, and for three days no one left his place. Yet all the Israelites had light in their dwellings.
+<small><sub>**Literal:**</sub></small>
+not they saw each \<obj.> brother  his and  not they rose anyone from  under  him three days and  to  all [the] people Israel it be[longed] light in  dwelling places  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.22|<< Exodus 10:22]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.24|Exodus 10:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they saw  | <span class="ashebrew"><big>רָא֞וּ</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ra.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| each  | <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brother his  | <span class="ashebrew"><big>אָחִ֗י</big></span><small><sup>[[H0251I]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they rose  | <span class="ashebrew"><big>קָ֛מוּ</big></span><small><sup>[[H6965B]]</sup></small> &#8207;| Ka.mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  | <span class="ashebrew"><big>אִ֥ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from under him  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>תַּחְתָּ֖י</big></span><small><sup>[[H8478I]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שְׁלֹ֣שֶׁת</big></span><small><sup>[[H7969]]</sup></small> &#8207;| she.Lo.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִ֑ים</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to all  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people  | <span class="ashebrew"><big>בְּנֵ֧י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֛ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it be[longed]  | <span class="ashebrew"><big>הָ֥יָה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| Ha.yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| light  | <span class="ashebrew"><big>א֖וֹר</big></span><small><sup>[[H0216]]</sup></small> &#8207;| 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in dwelling places their  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מוֹשְׁבֹתָֽ</big></span><small><sup>[[H4186]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mo.she.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.22|<< Exodus 10:22]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.24|Exodus 10:24 >>]]</td></tr></table>
+
+

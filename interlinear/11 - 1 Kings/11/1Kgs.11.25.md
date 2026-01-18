@@ -1,0 +1,28 @@
+**1 Kings 11:25** 
+<small><sub>**KJV:**</sub></small>
+And he was an adversary to Israel all the days of Solomon, beside the mischief that Hadad [did]: and he abhorred Israel, and reigned over Syria.
+<small><sub>**BSB:**</sub></small>
+Rezon was Israel’s enemy throughout the days of Solomon, adding to the trouble caused by Hadad. So Rezon ruled over Aram with hostility toward Israel.
+<small><sub>**Literal:**</sub></small>
+and  he was an adversary of  Israel all [the] days of Solomon and  \<obj.> \<the>  harm which Hadad and  he loathed \<in>  Israel and  he reigned over Aram<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.24|<< 1 Kings 11:24]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.26|1 Kings 11:26 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִ֨י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an adversary  | <span class="ashebrew"><big>שָׂטָ֤ן</big></span><small><sup>[[H7854]]</sup></small> &#8207;| sa.Tan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Israel  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יִשְׂרָאֵל֙</big></span><small><sup>[[H3478]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  | <span class="ashebrew"><big>יְמֵ֣י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  | <span class="ashebrew"><big>שְׁלֹמֹ֔ה</big></span><small><sup>[[H8010]]</sup></small> &#8207;| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> harm  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רָעָ֖ה</big></span><small><sup>[[H7451C]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hadad  | <span class="ashebrew"><big>הֲדָ֑ד</big></span><small><sup>[[H1908I]]</sup></small> &#8207;| ha.Dad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he loathed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֙קָץ֙</big></span><small><sup>[[H6973]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.kotz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> Israel  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he reigned  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּמְלֹ֖ךְ</big></span><small><sup>[[H4427A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yim.Lokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aram  | <span class="ashebrew"><big>אֲרָֽם</big></span><small><sup>[[H0758I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.24|<< 1 Kings 11:24]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.26|1 Kings 11:26 >>]]</td></tr></table>
+
+

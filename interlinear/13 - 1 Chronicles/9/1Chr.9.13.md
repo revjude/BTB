@@ -1,0 +1,27 @@
+**1 Chronicles 9:13** 
+<small><sub>**KJV:**</sub></small>
+And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.
+<small><sub>**BSB:**</sub></small>
+and 1,760 of their relatives, the heads of their families, able men for the work of the service of the house of God.
+<small><sub>**Literal:**</sub></small>
+and  relatives  their chiefs of  [the] house of ancestors  their one thousand and  seven hundred\<s> and  sixty \<the> mighty [men] of \<the> ability of [the] work of [the] service of [the] house of \<the>  God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.12|<< 1 Chronicles 9:12]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.14|1 Chronicles 9:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and relatives their  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲחֵי</big></span><small><sup>[[H0251H]]</sup></small> <span class="ashebrew"><big>הֶ֗ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chiefs  | <span class="ashebrew"><big>רָאשִׁים֙</big></span><small><sup>[[H7218H]]</sup></small> &#8207;| ra.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] house of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בֵ֣ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors their  | <span class="ashebrew"><big>אֲבוֹתָ֔</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one thousand  | <span class="ashebrew"><big>אֶ֕לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'E.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and seven  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁבַ֥ע</big></span><small><sup>[[H7651]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.Va'<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵא֖וֹת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sixty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שִׁשִּׁ֑ים</big></span><small><sup>[[H8346]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> shi.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> mighty [men] of  | <span class="ashebrew"><big>גִּבּ֣וֹרֵי</big></span><small><sup>[[H1368]]</sup></small> &#8207;| gi.Bo.rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> ability of  | <span class="ashebrew"><big>חֵ֔יל</big></span><small><sup>[[H2428G]]</sup></small> &#8207;| Cheil<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] work of  | <span class="ashebrew"><big>מְלֶ֖אכֶת</big></span><small><sup>[[H4399]]</sup></small> &#8207;| me.Le.khet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] service of  | <span class="ashebrew"><big>עֲבוֹדַ֥ת</big></span><small><sup>[[H5656H]]</sup></small> &#8207;| a.vo.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּית</big></span><small><sup>[[H1004Q]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִֽים</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.12|<< 1 Chronicles 9:12]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.14|1 Chronicles 9:14 >>]]</td></tr></table>
+
+

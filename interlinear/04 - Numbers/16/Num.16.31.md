@@ -1,0 +1,24 @@
+**Numbers 16:31** 
+<small><sub>**KJV:**</sub></small>
+And it came to pass, as he had made an end of speaking all these words, that the ground clave asunder that [was] under them:
+<small><sub>**BSB:**</sub></small>
+As soon as Moses had finished saying all this, the ground beneath them split open,
+<small><sub>**Literal:**</sub></small>
+and  it was when  finished  he to  speak \<obj.> all the  words \<the>  these and  it was split open the  ground which [was] under  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.30|<< Numbers 16:30]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.32|Numbers 16:32 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִי֙</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when finished he  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כַלֹּת֔</big></span><small><sup>[[H3615G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> kha.lo.T<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to speak  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דַבֵּ֕ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֥ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the words  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דְּבָרִ֖ים</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> these  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֵ֑לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was split open  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּבָּקַ֥ע</big></span><small><sup>[[H1234]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ti.ba.Ka'<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ground  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲדָמָ֖ה</big></span><small><sup>[[H0127G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] under them  | <span class="ashebrew"><big>תַּחְתֵּי</big></span><small><sup>[[H8478G]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tach.tei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.30|<< Numbers 16:30]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.32|Numbers 16:32 >>]]</td></tr></table>
+
+

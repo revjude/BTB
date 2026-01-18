@@ -1,0 +1,8 @@
+ <span class="bdbLangHebrew">‎שְׂרָד‎</span> **noun [masculine]** perhaps Aramaic ==plaited or braided work== (compare then Aramaic <span class="bdbLangAramaic">‎סְרָרָא‎</span> ***lattice-work, net-work*** (= Biblical Hebrew  <span class="bdbLangHebrew">‎מִכְבָּר‎</span>), ***textile stuff, curtain*** (= Biblical Hebrew <span class="bdbLangHebrew">‎קְלָעִים‎</span>), <span class="bdbLangHebrew">‎סַרְדוּתָא‎</span> ***plaited*** or ***braided work***; Late Hebrew <span class="bdbLangHebrew">‎סָרָד‎</span> ***plaiter***, <span class="bdbLangHebrew">‎סָרִיד‎</span>, <span class="bdbLangHebrew">‎סָרוּד‎</span> ***women-work***; [[BDB#Hom|Hom]]<sup>ZMG xliv (1890), 548</sup> compare Bad. ***šardu, skin***); — always absolute: <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בִּגְדֵי (הַ)שׂ‎</span> [[Exod.31.10|Exod 31:10]]; [[Exod.35.18|Exod 35:18]]; [[Exod.39.1|Exod 39:1]]; [[Exod.39.49|Exod 39:49]] (all [[BDB#P|P]]; all + <span class="bdbLangHebrew">‎הַקֹּדֶשׁ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ב‎</span>, and last three + <span class="bdbLangHebrew">‎לְשָׁרֵת בַּקֹּדֶשׁ‎</span>); [[BDB#Sept|ᵐ5]] [[Exod.31.10|Exod 31:10]] <span class="bdbLangGreek">τ. στολὰς τ. λειτουργικάς</span> (compare [[Exod.39.1|Exod 39:1]] [B v[[Exod.39.13|Exod 39:13]], [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> v[[Exod.39.11|Exod 39:11]]]). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.31.10\|31:10]] · [[Exod.35.18\|35:18]] · [[Exod.39.1\|39:1]] · [[Exod.39.11\|39:11]] · [[Exod.39.13\|39:13]] · [[Exod.39.49\|39:49]] |
+

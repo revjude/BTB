@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἐκεῖσε==</span></b>, 
+
+
+ <i>poetry</i> <b><span class='asgreek'>κεῖσε</span></b> (the only form in [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus, used by Trag. where the metre requires)">Refs 8th c.BC+</a>], <i>adverb</i> <b>thither, to that place,</b> opposed to <span class='asgreek'>ἐκεῖθεν</span> or <span class='asgreek'>ἐνθένδε</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.29, 4th-5th c.BC: Aeschylus Tragicus “Persae” 717, etc.; ==ἐκεῖσε== κἀκεῖσε ">Refs 5th c.BC+</a>]<b>hither and thither,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Andromache” 1131, “Hel.” 533; δεῦρο καὶ αὖθις ἐ. [prev. work] 1141 (Lyric poetry) ">Refs 5th c.BC+</a>]; <span class='asgreek'>κἀκεῖσε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>δεῦρο</span> [<a href="javascript:void(0)" title=" [prev. author] “Ph.” 266; τῇδε ἐ. [prev. author] “Tr.” 333 (\_anapaest meter\_); τὸ κεῖσε δεῦρό τε 5th c.BC: Sophocles Tragicus “Trachiniae” 929; τὸ τῇδε καὶ τὸ κεῖσε καὶ τὸ δεῦρο 5th-6th c.BC: Aristophanes Comicus “Aves” 425. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to the other world,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Alcestis” 363 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐνθένδε</span> <span class='asgreek'>ἐ</span>. from this world <b>to the other,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 117c. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>genitive</i>, <span class='asgreek'>ἄνειμι</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>λόγου</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.239, compare 5th-6th c.BC: Plato Philosophus “Leges” 864c. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ἐκεῖ</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ διαίτης” 2.38, 3rd c.BC: Chrysippus Stoicus 2.244, 2nd c.BC: Polybius Historicus 5.51.3, LXX.Job.39.29, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 3.2.1, Scholia 5th c.BC: Pindarus Lyricus “O.” 9.108; τοὺς ἐ. ὄντας NT.Acts.22.5. ">NT+5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Job.39.29]] ☩ [[Acts.22.5]]
+</sub></small>

@@ -1,0 +1,24 @@
+**Judges 20:14** 
+<small><sub>**KJV:**</sub></small>
+But the children of Benjamin gathered themselves together out of the cities unto Gibeah, to go out to battle against the children of Israel.
+<small><sub>**BSB:**</sub></small>
+And from their cities they came together at Gibeah to go out and fight against the Israelites.
+<small><sub>**Literal:**</sub></small>
+and  they gathered [the] descendants of Benjamin from the  cities \<the>  Gibeah  towards to  go out for \<the>  battle with [the] people of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.13|<< Judges 20:13]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.15|Judges 20:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they gathered  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּאָסְפ֧וּ</big></span><small><sup>[[H0622]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.'a.se.Fu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְנֵֽי</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Benjamin  | <span class="ashebrew"><big>בִנְיָמִ֛ן</big></span><small><sup>[[H1144G]]</sup></small> &#8207;| vin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cities  | <span class="ashebrew"><big>הֶ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָרִ֖ים</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Gibeah towards  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּבְעָ֑תָ</big></span><small><sup>[[H1390H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> giv.'A.ta<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to go out  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>צֵ֥את</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Tzet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> battle  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִּלְחָמָ֖ה</big></span><small><sup>[[H4421]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.13|<< Judges 20:13]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.15|Judges 20:15 >>]]</td></tr></table>
+
+

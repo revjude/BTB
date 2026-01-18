@@ -1,0 +1,12 @@
+ II. [<span class="bdbLangHebrew">‎קָלַט‎</span>] **verb** ==be stunted== (? = I. <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ק‎</span>; properly ***be drawn in*** ? compare Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMgAnAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAyACcABwj/AP8JHEiwoMGDCBMqXMiwocOHECNKnChMlDWIx8ZoiTTx4CwrTow8pCVGy5ctYSZ1JDhITBgkpBzC4hImDhkvZpatFNhHShYkxBiyctXOUpwvliKqWybpVEFIYNQ0ceili69IYcIka7iOkp0pU5LkKahtTJZEDpu16XJlixp0DbVYqRLlzCBnBSdNwRPR2StXDlkV+QKJmkFtZZIM2slYIKVWjQ2++hU54SdCC5uRwWKu8kE4RKoppNVlCyuCzzh5zpOljEJSUc8QPOTFs6EvTcYldJQlTRVUAyN98UzsCxaFrLSQGZNmoKgw3AwOgyRwDZ2Hahot1PaPmJdRAlV1/4lmMA+SRb3GJEHmkAwgh3qmCPyl5ZjBP08O/VMU5mEbOQ6R8oQu/4hzRSkGOdMGMBLhwZdDaKghUByreMbHGA+p0kRnYCiSkC7APYRJGw9h04Qv/3SB1kGg4KbHQ5nIJ9AiVHRxGkJX8PKPGwAaJMoWaIQxBYMNISOFQGVAcUUWZuh4kBkEgsHGQYBgMccXUWDWUDpjoLOGFIGMgkcVST1ZDSdXtEGOQX5oEccYZfDx0BtdACKPQMRogclB4HRBCRZbcKGKQcC4cYYYXSzikDdpgDGQOHtYYQpCaGSxxT+bkAHNQd2EIYUoDY1SxhllCGIKI2qIcQmfrZQxRjf/cHBDhRzMBIOHG290QskgYNTWUBzKWZEFGFhUoSVBopgBlhOgDCTHFVZQ8UQWV1QBLRUVNjQJFFb4kUgifwRF0ChSRKHFFViUKZA3diTiyyiZWHJJHGrAAtE5uiW0DBx52BGTZwAHLPDABBds8MEIKxQQADs="> ***very short***); — 
+
+**Qal** ***Passive participle*** <span class="bdbLangHebrew">‎שָׂרוּעַ וְקָלוּט‎</span> [[Lev.22.23|Lev 22:23]] sacrifice animal, overgrown or ***stunted***. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Leviticus | [[Lev.22.23\|22:23]] |
+

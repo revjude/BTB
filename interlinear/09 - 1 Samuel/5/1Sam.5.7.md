@@ -1,0 +1,32 @@
+**1 Samuel 5:7** 
+<small><sub>**KJV:**</sub></small>
+And when the men of Ashdod saw that [it was] so, they said, The ark of the God of Israel shall not abide with us: for his hand is sore upon us, and upon Dagon our god.
+<small><sub>**BSB:**</sub></small>
+And when the men of Ashdod saw what was happening, they said, “The ark of the God of Israel must not stay here with us, because His hand is heavy upon us and upon our god Dagon.”
+<small><sub>**Literal:**</sub></small>
+and  they saw [the] people of Ashdod that so and  they said not it will remain [the] ark of [the] God of Israel with  us for it is hard hand  his on  us and  on Dagon God  our<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.6|<< 1 Samuel 5:6]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.8|1 Samuel 5:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they saw  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּרְא֥וּ</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>אַנְשֵֽׁי</big></span><small><sup>[[H0582]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'an.shei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ashdod  | <span class="ashebrew"><big>אַשְׁדּ֖וֹד</big></span><small><sup>[[H0795]]</sup></small> &#8207;| 'ash.Dod<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  | <span class="ashebrew"><big>כֵ֑ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they said  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָמְר֗וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will remain  | <span class="ashebrew"><big>יֵשֵׁ֞ב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| ye.Shev<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ark of  | <span class="ashebrew"><big>אֲר֨וֹן</big></span><small><sup>[[H0727]]</sup></small> &#8207;| 'a.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  | <span class="ashebrew"><big>אֱלֹהֵ֤י</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵל֙</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with us  | <span class="ashebrew"><big>עִמָּ֔</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| 'i.Ma.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is hard  | <span class="ashebrew"><big>קָשְׁתָ֤ה</big></span><small><sup>[[H7185]]</sup></small> &#8207;| ka.she.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  | <span class="ashebrew"><big>יָד</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on us  | <span class="ashebrew"><big>עָלֵ֔י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַ֖ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dagon  | <span class="ashebrew"><big>דָּג֥וֹן</big></span><small><sup>[[H1712]]</sup></small> &#8207;| da.Gon<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God our  | <span class="ashebrew"><big>אֱלֹהֵֽי</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.6|<< 1 Samuel 5:6]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.8|1 Samuel 5:8 >>]]</td></tr></table>
+
+

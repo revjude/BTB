@@ -1,0 +1,8 @@
+<span class="asgreek">ἐκκύπτω</span> <small>***(ekkuptō)***</small> ==**to look out of**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐκκύπτω==</span></b>, 
+
+
+ <b>peep out of,</b> <span class='asgreek'>αἰγείρου</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Babrius Fabularum Scriptor 50.13; ἐκ τῶν οἴκων 2nd c.AD(?): Antoninus Liberalis Mythographus 39.6 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>ἐκκύψασαν</span> <span class='asgreek'>ἁλῶναι</span> to be caught <b>peeping out</b> (Reiske for <span class='asgreek'>ἐγκ</span>-), [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 790 ">Refs 5th c.BC+</a>]: generally, <b>pop out,</b> [<a href="javascript:void(0)" title=" [prev. author] “Ec.” 1052 ">Refs</a>]; of a snail's eyes, Teucer cited in [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 10.455e ">Refs 2nd c.AD+</a>]: <i>metaphorically</i>, <b>proceed forth,</b> <span class='asgreek'>τοῦ</span> <span class='asgreek'>νοητοῦ</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>οὐρανόν</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 4.3.15 ">Refs 3rd c.AD+</a>]; compare<span class='asgreek'>ἐκκέκυφεν</span>· <span class='asgreek'>ἀνωρθώθη</span> (-<span class='asgreek'>ωσεν</span> codex), [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>put forth,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 15.21. ">Refs 2nd c.AD+</a>]

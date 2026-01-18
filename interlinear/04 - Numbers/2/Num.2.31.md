@@ -1,0 +1,27 @@
+**Numbers 2:31** 
+<small><sub>**KJV:**</sub></small>
+All they that were numbered in the camp of Dan [were] an hundred thousand and fifty and seven thousand and six hundred. They shall go hindmost with their standards.
+<small><sub>**BSB:**</sub></small>
+The total number of men in the camp of Dan is 157,600; they shall set out last, under their standards.”
+<small><sub>**Literal:**</sub></small>
+all those  enrolled of  [the] camp of Dan [were] one hundred thousand and  seven and  fifty thousand and  six hundred\<s> to the  last they will set out to  standards  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.30|<< Numbers 2:30]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.32|Numbers 2:32 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| those enrolled  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פְּקֻדִים֙</big></span><small><sup>[[H6485A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> pe.ku.Dim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] camp of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַ֣חֲנֵה</big></span><small><sup>[[H4264]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Ma.cha.neh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dan  | <span class="ashebrew"><big>דָ֔ן</big></span><small><sup>[[H1835G]]</sup></small> &#8207;| Dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] one hundred  | <span class="ashebrew"><big>מְאַ֣ת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'At<small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  | <span class="ashebrew"><big>אֶ֗לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and seven  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שִׁבְעָ֧ה</big></span><small><sup>[[H7651]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> shiv.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and fifty  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֲמִשִּׁ֛ים</big></span><small><sup>[[H2572]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  | <span class="ashebrew"><big>אֶ֖לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and six  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֵׁ֣שׁ</big></span><small><sup>[[H8337]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Shesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵא֑וֹת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the last  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַחֲרֹנָ֥ה</big></span><small><sup>[[H0314]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'a.cha.ro.Nah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will set out  | <span class="ashebrew"><big>יִסְע֖וּ</big></span><small><sup>[[H5265]]</sup></small> &#8207;| yis.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to standards their  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דִגְלֵי</big></span><small><sup>[[H1714]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> dig.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.30|<< Numbers 2:30]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.32|Numbers 2:32 >>]]</td></tr></table>
+
+

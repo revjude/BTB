@@ -1,0 +1,28 @@
+**Genesis 43:34** 
+<small><sub>**KJV:**</sub></small>
+And he took [and sent] messes unto them from before him: but Benjamin’s mess was five times so much as any of theirs. And they drank, and were merry with him.
+<small><sub>**BSB:**</sub></small>
+When the portions were served to them from Joseph’s table, Benjamin’s portion was five times larger than any of the others. So they feasted and drank freely with Joseph.
+<small><sub>**Literal:**</sub></small>
+and  someone took portions from  with face  his to  them and  it was great [the] portion of Benjamin more than  [the] portions of all of  them five hands and  they drank and  they became drunk with  him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.33|<< Genesis 43:33]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.1|Genesis 44:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and someone took  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשָּׂ֨א</big></span><small><sup>[[H5375H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| portions  | <span class="ashebrew"><big>מַשְׂאֹ֜ת</big></span><small><sup>[[H4864]]</sup></small> &#8207;| mas.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֵ֣ת</big></span><small><sup>[[H0854]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face his  | <span class="ashebrew"><big>פָּנָי</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>ו֮</big></span><small><sup>[[H9023]]</sup></small> &#8207;| pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵ</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶם֒</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.le.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was great  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֵּ֜רֶב</big></span><small><sup>[[H7235A]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Te.rev<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] portion of  | <span class="ashebrew"><big>מַשְׂאַ֧ת</big></span><small><sup>[[H4864]]</sup></small> &#8207;| mas.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Benjamin  | <span class="ashebrew"><big>בִּנְיָמִ֛ן</big></span><small><sup>[[H1144G]]</sup></small> &#8207;| bin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than [the] portions of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מַּשְׂאֹ֥ת</big></span><small><sup>[[H4864]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mas.'Ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  | <span class="ashebrew"><big>כֻּלָּ֖</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  | <span class="ashebrew"><big>חָמֵ֣שׁ</big></span><small><sup>[[H2568]]</sup></small> &#8207;| cha.Mesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands  | <span class="ashebrew"><big>יָד֑וֹת</big></span><small><sup>[[H3027L]]</sup></small> &#8207;| ya.Dot<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they drank  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁתּ֥וּ</big></span><small><sup>[[H8354]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they became drunk  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁכְּר֖וּ</big></span><small><sup>[[H7937]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.ke.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  | <span class="ashebrew"><big>עִמּֽ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| i.M<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.33|<< Genesis 43:33]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.1|Genesis 44:1 >>]]</td></tr></table>
+
+

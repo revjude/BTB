@@ -1,0 +1,22 @@
+**Ezekiel 33:14** 
+<small><sub>**KJV:**</sub></small>
+Again, when I say unto the wicked, Thou shalt surely die; if he turn from his sin, and do that which is lawful and right;
+<small><sub>**BSB:**</sub></small>
+But if I tell the wicked man, ‘You will surely die,’ and he turns from his sin and does what is just and right—
+<small><sub>**Literal:**</sub></small>
+and  when  say  I to the  wicked [person] surely \<die> you will die and  he will turn back from  sin  his and  he will do justice and  righteousness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.13|<< Ezekiel 33:13]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.15|Ezekiel 33:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and when say I  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָמְרִ֥</big></span><small><sup>[[H0559]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9040]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'a.me.R<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the wicked [person]  | <span class="ashebrew"><big>לָֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רָשָׁ֖ע</big></span><small><sup>[[H7563]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| surely \<die>  | <span class="ashebrew"><big>מ֣וֹת</big></span><small><sup>[[H4191]]</sup></small> &#8207;| Mot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will die  | <span class="ashebrew"><big>תָּמ֑וּת</big></span><small><sup>[[H4191]]</sup></small> &#8207;| ta.Mut<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will turn back  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׁב֙</big></span><small><sup>[[H7725O]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> Shav<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from sin his  | <span class="ashebrew"><big>מֵֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>חַטָּאת֔</big></span><small><sup>[[H2403B]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> cha.ta.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will do  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָשָׂ֥ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  | <span class="ashebrew"><big>מִשְׁפָּ֖ט</big></span><small><sup>[[H4941H]]</sup></small> &#8207;| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and righteousness  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צְדָקָֽה</big></span><small><sup>[[H6666]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.13|<< Ezekiel 33:13]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.15|Ezekiel 33:15 >>]]</td></tr></table>
+
+

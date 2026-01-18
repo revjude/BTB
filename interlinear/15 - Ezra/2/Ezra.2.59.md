@@ -1,0 +1,31 @@
+**Ezra 2:59** 
+<small><sub>**KJV:**</sub></small>
+And these [were] they which went up from Telmelah, Telharsa, Cherub, Addan, [and] Immer: but they could not shew their father’s house, and their seed, whether they [were] of Israel:
+<small><sub>**BSB:**</sub></small>
+The following came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, but they could not prove that their families were descended from Israel:
+<small><sub>**Literal:**</sub></small>
+and  these [are] who  came up from  Tel Melah Tel Harsha Kerub Addon Immer and  not they were able to  declare [the] house of ancestors  their and  offspring  their if [were] from  Israel they<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.58|<< Ezra 2:58]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.60|Ezra 2:60 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and these  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֗לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] who came up  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֹלִים֙</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Tel  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>תֵּ֥ל</big></span><small><sup>[[H8528]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Tel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Melah  | <span class="ashebrew"><big>מֶ֙לַח֙</big></span><small><sup>[[H8528]]</sup></small> &#8207;| me.lach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tel  | <span class="ashebrew"><big>תֵּ֣ל</big></span><small><sup>[[H8521]]</sup></small> &#8207;| tel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Harsha  | <span class="ashebrew"><big>חַרְשָׁ֔א</big></span><small><sup>[[H8521]]</sup></small> &#8207;| char.Sha'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kerub  | <span class="ashebrew"><big>כְּר֥וּב</big></span><small><sup>[[H3743]]</sup></small> &#8207;| ke.Ruv<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Addon  | <span class="ashebrew"><big>אַדָּ֖ן</big></span><small><sup>[[H0135]]</sup></small> &#8207;| 'a.Dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Immer  | <span class="ashebrew"><big>אִמֵּ֑ר</big></span><small><sup>[[H0564I]]</sup></small> &#8207;| 'i.Mer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were able  | <span class="ashebrew"><big>יָֽכְל֗וּ</big></span><small><sup>[[H3201]]</sup></small> &#8207;| ya.khe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to declare  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַגִּ֤יד</big></span><small><sup>[[H5046]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Gid<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּית</big></span><small><sup>[[H1004M]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors their  | <span class="ashebrew"><big>אֲבוֹתָ</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and offspring their  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זַרְעָ֔</big></span><small><sup>[[H2233H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> zar.'A<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>אִ֥ם</big></span><small><sup>[[H0518A]]</sup></small> &#8207;| 'im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] from Israel  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יִּשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵֽם</big></span><small><sup>[[H1992]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.58|<< Ezra 2:58]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.60|Ezra 2:60 >>]]</td></tr></table>
+
+

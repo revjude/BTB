@@ -1,0 +1,6 @@
+<span class="ashebrew">‎מָדָאָה‎</span> <small>***(ma.da.ah)***</small> ==**Mede**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+spelling of: <small>[[H4091]]</small> 
+
+- also called Mede frequently
+- Another spelling of <i>me.dan</i> (<span class='ashebrew'>‎מ‎</span>ְ<span class='ashebrew'>‎ד‎</span>ָ<span class='ashebrew'>‎ן‎</span> "Medan" [[H4091]])
+

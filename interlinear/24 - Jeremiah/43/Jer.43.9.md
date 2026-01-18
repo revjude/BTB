@@ -1,0 +1,28 @@
+**Jeremiah 43:9** 
+<small><sub>**KJV:**</sub></small>
+Take great stones in thine hand, and hide them in the clay in the brickkiln, which [is] at the entry of Pharaoh’s house in Tahpanhes, in the sight of the men of Judah;
+<small><sub>**BSB:**</sub></small>
+“In the sight of the Jews, pick up some large stones and bury them in the clay of the brick pavement at the entrance to Pharaoh’s palace at Tahpanhes.
+<small><sub>**Literal:**</sub></small>
+take in  hand  your stones large and  you will hide  them in the  mortar in the  brick-terrace which [is] at  [the] entrance of [the] house of Pharaoh in  Tahpanhes to  [the] eyes of [the] people Jews<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.8|<< Jeremiah 43:8]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.10|Jeremiah 43:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| take  | <span class="ashebrew"><big>קַ֣ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| kach<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in hand your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יָדְ</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>ךָ֞</big></span><small><sup>[[H9021]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ya.de.<small><sup>[[HNcbsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stones  | <span class="ashebrew"><big>אֲבָנִ֣ים</big></span><small><sup>[[H0068G]]</sup></small> &#8207;| 'a.va.Nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| large  | <span class="ashebrew"><big>גְּדֹל֗וֹת</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ge.do.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will hide them  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>טְמַנְתָּ֤</big></span><small><sup>[[H2934]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> te.man.Ta<small><sup>[[HVqq2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the mortar  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מֶּ֙לֶט֙</big></span><small><sup>[[H4423]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Me.let<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the brick-terrace  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מַּלְבֵּ֔ן</big></span><small><sup>[[H4404]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> mal.Ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֛ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] at [the] entrance of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>פֶ֥תַח</big></span><small><sup>[[H6607]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Fe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּית</big></span><small><sup>[[H1004P]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹ֖ה</big></span><small><sup>[[H6547R]]</sup></small> &#8207;| par.'Oh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Tahpanhes  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תַחְפַּנְחֵ֑ס</big></span><small><sup>[[H8471]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> tach.pan.Ches<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] eyes of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֵינֵ֖י</big></span><small><sup>[[H5869H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people  | <span class="ashebrew"><big>אֲנָשִׁ֥ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jews  | <span class="ashebrew"><big>יְהוּדִֽים</big></span><small><sup>[[H3064]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.hu.Dim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.8|<< Jeremiah 43:8]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.10|Jeremiah 43:10 >>]]</td></tr></table>
+
+

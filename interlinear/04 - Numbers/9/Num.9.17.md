@@ -1,0 +1,32 @@
+**Numbers 9:17** 
+<small><sub>**KJV:**</sub></small>
+And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents.
+<small><sub>**BSB:**</sub></small>
+Whenever the cloud was lifted from above the Tent, the Israelites would set out, and wherever the cloud settled, there the Israelites would camp.
+<small><sub>**Literal:**</sub></small>
+and  to  [the] mouth of [the] taking up of the  cloud from  over the  tent and  after thus they set out [the] people of Israel and  in  [the] place \<of> where it settled down there the  cloud there they encamped [the] people of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.16|<< Numbers 9:16]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.18|Numbers 9:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and to [the] mouth of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פִ֞י</big></span><small><sup>[[H6310K]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Fi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] taking up of  | <span class="ashebrew"><big>הֵעָלֹ֤ת</big></span><small><sup>[[H5927H]]</sup></small> &#8207;| he.'a.Lot<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cloud  | <span class="ashebrew"><big>הֶֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָנָן֙</big></span><small><sup>[[H6051]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from over  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עַ֣ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tent  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֹ֔הֶל</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'O.hel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and after  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַ֣חֲרֵי</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'A.cha.rei-<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֵ֔ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they set out  | <span class="ashebrew"><big>יִסְע֖וּ</big></span><small><sup>[[H5265]]</sup></small> &#8207;| yis.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in [the] place  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְק֗וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> m.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> where  | <span class="ashebrew"><big>אֲשֶׁ֤ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it settled down  | <span class="ashebrew"><big>יִשְׁכָּן</big></span><small><sup>[[H7931]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| yish.kon-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁם֙</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cloud  | <span class="ashebrew"><big>הֶֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָנָ֔ן</big></span><small><sup>[[H6051]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֥ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they encamped  | <span class="ashebrew"><big>יַחֲנ֖וּ</big></span><small><sup>[[H2583]]</sup></small> &#8207;| ya.cha.Nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.16|<< Numbers 9:16]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.18|Numbers 9:18 >>]]</td></tr></table>
+
+

@@ -1,0 +1,30 @@
+**Ezekiel 14:18** 
+<small><sub>**KJV:**</sub></small>
+Though these three men [were] in it, [as] I live, saith the Lord GOD, they shall deliver neither sons nor daughters, but they only shall be delivered themselves.
+<small><sub>**BSB:**</sub></small>
+then as surely as I live, declares the Lord GOD, even if these three men were in it, they could not deliver their own sons or daughters. They alone would be delivered.
+<small><sub>**Literal:**</sub></small>
+and  [the] three the  men \<the>  these [will be] in  [the] midst of  it [by] [the] life of me [the] utterance of [the] Lord Yahweh not they will deliver sons and  daughters for they to  alone  them they will be delivered<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.17|<< Ezekiel 14:17]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.19|Ezekiel 14:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] three  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁלֹ֨שֶׁת</big></span><small><sup>[[H7969]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.Lo.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the men  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲנָשִׁ֣ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> these  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֵלֶּה֮</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'e.Leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] in [the] midst of it  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹכָ</big></span><small><sup>[[H8432]]</sup></small> <span class="ashebrew"><big>הּ֒</big></span><small><sup>[[H9024]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [by] [the] life  | <span class="ashebrew"><big>חַי</big></span><small><sup>[[H2416A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| chai-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of me  | <span class="ashebrew"><big>אָ֗נִי</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  | <span class="ashebrew"><big>נְאֻם֙</big></span><small><sup>[[H5002]]</sup></small> &#8207;| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוִ֔ה</big></span><small><sup>[[H3069]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will deliver  | <span class="ashebrew"><big>יַצִּ֖ילוּ</big></span><small><sup>[[H5337]]</sup></small> &#8207;| ya.Tzi.lu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons  | <span class="ashebrew"><big>בָּנִ֣ים</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and daughters  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בָנ֑וֹת</big></span><small><sup>[[H1323G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֛י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֥ם</big></span><small><sup>[[H1992]]</sup></small> &#8207;| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to alone them  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בַדָּ֖</big></span><small><sup>[[H0905H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> va.Da<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be delivered  | <span class="ashebrew"><big>יִנָּצֵֽלוּ</big></span><small><sup>[[H5337]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yi.na.Tze.lu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.17|<< Ezekiel 14:17]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.19|Ezekiel 14:19 >>]]</td></tr></table>
+
+

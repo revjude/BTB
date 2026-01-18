@@ -1,0 +1,27 @@
+**Isaiah 59:16** 
+<small><sub>**KJV:**</sub></small>
+And he saw that [there was] no man, and wondered that [there was] no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him.
+<small><sub>**BSB:**</sub></small>
+He saw that there was no man; He was amazed that there was no one to intercede. So His own arm brought salvation, and His own righteousness sustained Him.
+<small><sub>**Literal:**</sub></small>
+and  he saw that there not [was] anyone and  he was appalled that there not [was one who] interposed and  it gave victory to  him own arm  his and  own righteousness  his it it sustained  him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.15|<< Isaiah 59:15]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.17|Isaiah 59:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he saw  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּרְא֙</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yaR'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  | <span class="ashebrew"><big>אֵ֣ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] anyone  | <span class="ashebrew"><big>אִ֔ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was appalled  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁתּוֹמֵ֖ם</big></span><small><sup>[[H8074H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.to.Mem<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  | <span class="ashebrew"><big>אֵ֣ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was one who] interposed  | <span class="ashebrew"><big>מַפְגִּ֑יעַ</big></span><small><sup>[[H6293]]</sup></small> &#8207;| maf.Gi.a'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it gave victory  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תּ֤וֹשַֽׁע</big></span><small><sup>[[H3467]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> To.o.sha'<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>ל</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own arm his  | <span class="ashebrew"><big>זְרֹע֔</big></span><small><sup>[[H2220]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ze.ro.'<small><sup>[[HNcfsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and own righteousness his  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צִדְקָת֖</big></span><small><sup>[[H6666]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tzid.ka.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>הִ֥יא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it sustained him  | <span class="ashebrew"><big>סְמָכָֽתְ</big></span><small><sup>[[H5564]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| se.ma.Kha.te.<small><sup>[[HVqp3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.15|<< Isaiah 59:15]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.17|Isaiah 59:17 >>]]</td></tr></table>
+
+

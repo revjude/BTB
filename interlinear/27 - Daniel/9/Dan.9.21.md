@@ -1,0 +1,30 @@
+**Daniel 9:21** 
+<small><sub>**KJV:**</sub></small>
+Yea, whiles I [was] speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation.
+<small><sub>**BSB:**</sub></small>
+while I was still praying, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice.
+<small><sub>**Literal:**</sub></small>
+and  still I [was] speaking in \<the>  prayer and  the  man Gabriel whom I had seen in the  vision at the  beginning wearied with  weariness [was] approaching \<to>  me about  [the] time of [the] offering of [the] evening<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.20|<< Daniel 9:20]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.22|Daniel 9:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and still  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ע֛וֹד</big></span><small><sup>[[H5750]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֥י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] speaking  | <span class="ashebrew"><big>מְדַבֵּ֖ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| me.da.Ber<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> prayer  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תְּפִלָּ֑ה</big></span><small><sup>[[H8605]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> te.fi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the man  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gabriel  | <span class="ashebrew"><big>גַּבְרִיאֵ֡ל</big></span><small><sup>[[H1403]]</sup></small> &#8207;| gav.ri.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁר֩</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I had seen  | <span class="ashebrew"><big>רָאִ֨יתִי</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the vision  | <span class="ashebrew"><big>בֶ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חָז֤וֹן</big></span><small><sup>[[H2377]]</sup></small> &#8207;| ve.<small><sup>[[HRd]]</sup></small> cha.Zon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at the beginning  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תְּחִלָּה֙</big></span><small><sup>[[H8462]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> te.chi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wearied  | <span class="ashebrew"><big>מֻעָ֣ף</big></span><small><sup>[[H3286]]</sup></small> &#8207;| mu.'Af<small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with weariness  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יעָ֔ף</big></span><small><sup>[[H3288]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> 'Af<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] approaching  | <span class="ashebrew"><big>נֹגֵ֣עַ</big></span><small><sup>[[H5060]]</sup></small> &#8207;| no.Ge.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> me  | <span class="ashebrew"><big>אֵלַ֔</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| about [the] time of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֵ֖ת</big></span><small><sup>[[H6256]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] offering of  | <span class="ashebrew"><big>מִנְחַת</big></span><small><sup>[[H4503G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min.chat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] evening  | <span class="ashebrew"><big>עָֽרֶב</big></span><small><sup>[[H6153]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'A.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.20|<< Daniel 9:20]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.22|Daniel 9:22 >>]]</td></tr></table>
+
+

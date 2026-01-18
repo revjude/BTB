@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==Νάρκισσος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ rarely <span class='asgreek'>ἡ</span>, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 1.133 ">Refs 3rd c.BC+</a>]:— <b>narcissus</b>, of various species, [<a href="javascript:void(0)" title=" “hymnus ad Cererem” 8, 428, 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 683 (Lyric poetry), 2nd c.BC: Moschus Bucolicus 2.65 ">Refs 5th c.BC+</a>]; <b>pheasant's eye, Narcissus poeticus</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 6.8.1, 1st c.AD: Dioscorides (Dioscurides) Medicus 4.158">Refs 4th c.BC+</a>]; <b>autumn narcissus, N. serotinus</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 6.6.9 ">Refs 4th c.BC+</a>]; <b>Narcissus Tazetta, polyanthus narcissus</b>, Dsc. [prev. cited] (this probably in [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus [same place]). (Connected with νάρκη">Refs 5th c.BC+</a>], because of its <b>narcotic</b> properties, <i>accusative</i> to [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.647b.) ">Refs 1st c.AD+</a>]
+

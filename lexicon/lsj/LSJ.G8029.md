@@ -1,0 +1,12 @@
+<span class="asgreek">κλώθω</span> <small>***(klōthō)***</small> ==**to twine**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==κλώθω==</span></b>, 
+
+
+ <i>aorist</i> <span class='asgreek'>ἔκλωσα</span> [<a href="javascript:void(0)" title=" 4th-5th c.AD(?): Nonnus Epicus “Dionysiaca” 2.678, (ἐπ-) 8th c.BC: Odyssea Homerus Epicus “Odyssey” 3.208 ">Refs 8th c.BC+</a>]:—<b>twist by spinning, spin</b>, <span class='asgreek'>λίνον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.12, compare “POxy.” 1414.5 (3rd c.AD)">Refs 5th c.BC+</a>]; <span class='asgreek'>μίτον</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Fug.” 12 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>ἄτρακτον</span> <b>turn</b> it, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “JConf.” 19 ">Refs 2nd c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>βύσσος</span> <span class='asgreek'>κεκλωσμένη</span> [<a href="javascript:void(0)" title=" LXX.Exod.35.6. ">LXX</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> especially of the goddesses of fate, <b>spin</b> a man his thread of life or of fate, <span class='asgreek'>κ</span>. <span class='asgreek'>τινὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>οἰκεῖα</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Mundo” 401b22 ">Refs 4th c.BC+</a>]:—<i>poetry</i> in <i>middle</i>, <span class='asgreek'>ἐκλώσασθε</span> <span class='asgreek'>πανάφθιτον</span> <span class='asgreek'>ἦμαρ</span> <span class='asgreek'>ἀοιδῷ</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 7.14 (2nd c.BC: Antipater Sidonius Epigrammaticus); ἑπτὰ δέ μοι μοῖραι.. ἐνιαυτοὺς ἐκλώσαντο “IG” 3.1337; τίς μοιρῶν μίτον ὔμμιν ἐκλώσατ; [prev. work]5(1).1355 (from Abia):">Refs 2nd c.BC+</a>] —<i>passive</i>, <span class='asgreek'>τὰ</span> <span class='asgreek'>κλωσθέντα</span> <b>one's destiny</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 960c. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> in <i>active</i>, <span class='asgreek'>χυλῷ</span> <span class='asgreek'>ἐνὶ</span> <span class='asgreek'>κλώθοντι</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Alexipharmaca” 93 (explained by Scholia ὡς νῆμα κλωθομένῳ), compare 528. ">Refs 2nd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.35.6]]
+</sub></small>

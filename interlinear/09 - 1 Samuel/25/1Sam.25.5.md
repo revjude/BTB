@@ -1,0 +1,29 @@
+**1 Samuel 25:5** 
+<small><sub>**KJV:**</sub></small>
+And David sent out ten young men, and David said unto the young men, Get you up to Carmel, and go to Nabal, and greet him in my name:
+<small><sub>**BSB:**</sub></small>
+So David sent ten young men and instructed them, “Go up to Nabal at Carmel. Greet him in my name
+<small><sub>**Literal:**</sub></small>
+and  he sent David ten young men and  he said David to the  young men go up Carmel  towards and  you will go to Nabal and  you will ask of \<the>  him in  name  my to  welfare<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.4|<< 1 Samuel 25:4]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.6|1 Samuel 25:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he sent  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁלַ֥ח</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֖ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עֲשָׂרָ֣ה</big></span><small><sup>[[H6235]]</sup></small> &#8207;| 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young men  | <span class="ashebrew"><big>נְעָרִ֑ים</big></span><small><sup>[[H5288]]</sup></small> &#8207;| ne.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֨אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֜ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the young men  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נְּעָרִ֗ים</big></span><small><sup>[[H5288]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> ne.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go up  | <span class="ashebrew"><big>עֲל֤וּ</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| 'a.Lu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Carmel towards  | <span class="ashebrew"><big>כַרְמֶ֙לָ</big></span><small><sup>[[H3760G]]</sup></small> <span class="ashebrew"><big>ה֙</big></span><small><sup>[[H9011]]</sup></small> &#8207;| khar.Me.la<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will go  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>בָאתֶ֣ם</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> va.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nabal  | <span class="ashebrew"><big>נָבָ֔ל</big></span><small><sup>[[H5037]]</sup></small> &#8207;| na.Val<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will ask  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שְׁאֶלְתֶּם</big></span><small><sup>[[H7592]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> she.'el.tem-<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> him  | <span class="ashebrew"><big>ל֥</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in name my  | <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁמִ֖</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| vi<small><sup>[[HR]]</sup></small> sh.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to welfare  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שָׁלֽוֹם</big></span><small><sup>[[H7965K]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.4|<< 1 Samuel 25:4]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.6|1 Samuel 25:6 >>]]</td></tr></table>
+
+

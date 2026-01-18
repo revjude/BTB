@@ -1,0 +1,27 @@
+**Genesis 3:5** 
+<small><sub>**KJV:**</sub></small>
+For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
+<small><sub>**BSB:**</sub></small>
+“For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.”
+<small><sub>**Literal:**</sub></small>
+for [is] knowing God that on  [the] day eat  you from  it and  they will be opened eyes  your and  you will be like  God [those who] know \<of> good and  evil<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.4|<< Genesis 3:4]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.6|Genesis 3:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֚י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] knowing  | <span class="ashebrew"><big>יֹדֵ֣עַ</big></span><small><sup>[[H3045]]</sup></small> &#8207;| yo.De.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱלֹהִ֔ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֗י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| Ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יוֹם֙</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> yOm<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eat you  | <span class="ashebrew"><big>אֲכָלְ</big></span><small><sup>[[H0398]]</sup></small> <span class="ashebrew"><big>כֶ֣ם</big></span><small><sup>[[H9046]]</sup></small> &#8207;| 'a.khal.<small><sup>[[HVqcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from it  | <span class="ashebrew"><big>מִמֶּ֔</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will be opened  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נִפְקְח֖וּ</big></span><small><sup>[[H6491]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> nif.ke.Chu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes your  | <span class="ashebrew"><big>עֵֽינֵי</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will be  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הְיִיתֶם֙</big></span><small><sup>[[H1961]]</sup></small> &#8207;| vi<small><sup>[[Hc]]</sup></small> h.yi.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like God  | <span class="ashebrew"><big>כֵּֽ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אלֹהִ֔ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] know  | <span class="ashebrew"><big>יֹדְעֵ֖י</big></span><small><sup>[[H3045]]</sup></small> &#8207;| yo.de.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> good  | <span class="ashebrew"><big>ט֥וֹב</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and evil  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רָֽע</big></span><small><sup>[[H7451B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.4|<< Genesis 3:4]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.6|Genesis 3:6 >>]]</td></tr></table>
+
+

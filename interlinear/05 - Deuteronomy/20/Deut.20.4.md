@@ -1,0 +1,24 @@
+**Deuteronomy 20:4** 
+<small><sub>**KJV:**</sub></small>
+For the LORD your God [is] he that goeth with you, to fight for you against your enemies, to save you.
+<small><sub>**BSB:**</sub></small>
+For the LORD your God goes with you to fight for you against your enemies, to give you the victory.”
+<small><sub>**Literal:**</sub></small>
+for Yahweh God  your [is] the  [one who] goes with  you to  fight for \<the>  you with enemies  your to  give victory \<obj.>  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.3|<< Deuteronomy 20:3]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.5|Deuteronomy 20:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֚י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹֽהֵי</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] the [one who] goes  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הֹלֵ֖ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  | <span class="ashebrew"><big>עִמָּ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'i.ma.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to fight  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הִלָּחֵ֥ם</big></span><small><sup>[[H3898A]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hi.la.Chem<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֛ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies your  | <span class="ashebrew"><big>אֹיְבֵי</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'o.ye.vei.<small><sup>[[HVqrmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give victory  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הוֹשִׁ֥יעַ</big></span><small><sup>[[H3467]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ho.Shi.a'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  | <span class="ashebrew"><big>אֶתְ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9036]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.3|<< Deuteronomy 20:3]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.5|Deuteronomy 20:5 >>]]</td></tr></table>
+
+

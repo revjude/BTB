@@ -1,0 +1,28 @@
+**1 Chronicles 12:23** (12:24)
+<small><sub>**KJV:**</sub></small>
+And these [are] the numbers of the bands [that were] ready armed to the war, [and] came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the LORD.
+<small><sub>**BSB:**</sub></small>
+Now these are the numbers of men armed for battle who came to David at Hebron to turn Saul’s kingdom over to him, in accordance with the word of the LORD:
+<small><sub>**Literal:**</sub></small>
+and  these [are] [the] numbers of [the] chiefs of the  [man] equipped for \<the>  war [who] they came to David Hebron  towards to  turn over [the] kingdom of Saul to  him according to  [the] mouth of Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.22|<< 1 Chronicles 12:22]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.24|1 Chronicles 12:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and these  | <span class="ashebrew"><big>וְ֠</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵלֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| Ve.<small><sup>[[HC]]</sup></small> 'e.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] numbers of  | <span class="ashebrew"><big>מִסְפְּרֵ֞י</big></span><small><sup>[[H4557]]</sup></small> &#8207;| mis.pe.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chiefs of  | <span class="ashebrew"><big>רָאשֵׁ֤י</big></span><small><sup>[[H7218K]]</sup></small> &#8207;| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [man] equipped  | <span class="ashebrew"><big>הֶֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חָלוּץ֙</big></span><small><sup>[[H2502B]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> cha.Lutz<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> war  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>צָּבָ֔א</big></span><small><sup>[[H6635A]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> tza.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] they came  | <span class="ashebrew"><big>בָּ֥אוּ</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֖יד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hebron towards  | <span class="ashebrew"><big>חֶבְר֑וֹנָ</big></span><small><sup>[[H2275A]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| chev.Ro.na<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to turn over  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הָסֵ֞ב</big></span><small><sup>[[H5437G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Sev<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kingdom of  | <span class="ashebrew"><big>מַלְכ֥וּת</big></span><small><sup>[[H4438]]</sup></small> &#8207;| mal.Khut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  | <span class="ashebrew"><big>שָׁא֛וּל</big></span><small><sup>[[H7586G]]</sup></small> &#8207;| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>אֵלָ֖י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to [the] mouth of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>פִ֥י</big></span><small><sup>[[H6310I]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> Fi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.22|<< 1 Chronicles 12:22]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.24|1 Chronicles 12:24 >>]]</td></tr></table>
+
+

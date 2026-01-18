@@ -1,0 +1,26 @@
+**Jeremiah 16:17** 
+<small><sub>**KJV:**</sub></small>
+For mine eyes [are] upon all their ways: they are not hid from my face, neither is their iniquity hid from mine eyes.
+<small><sub>**BSB:**</sub></small>
+For My eyes are on all their ways. They are not hidden from My face, and their guilt is not concealed from My eyes.
+<small><sub>**Literal:**</sub></small>
+for eyes  my [are] on all ways  their not they have been hidden from  to  before  me and  not it has been concealed iniquity  their from  before eyes  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.16|<< Jeremiah 16:16]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.18|Jeremiah 16:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes my  | <span class="ashebrew"><big>עֵינַ</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ways their  | <span class="ashebrew"><big>דַּרְכֵי</big></span><small><sup>[[H1870G]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| dar.khei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have been hidden  | <span class="ashebrew"><big>נִסְתְּר֖וּ</big></span><small><sup>[[H5641]]</sup></small> &#8207;| nis.te.Ru<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from to before me  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>לְּ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנָ֑</big></span><small><sup>[[H6440L]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been concealed  | <span class="ashebrew"><big>נִצְפַּ֥ן</big></span><small><sup>[[H6845]]</sup></small> &#8207;| nitz.Pan<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iniquity their  | <span class="ashebrew"><big>עֲוֹנָ֖</big></span><small><sup>[[H5771G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>נֶּ֥גֶד</big></span><small><sup>[[H5048]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes my  | <span class="ashebrew"><big>עֵינָֽ</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.16|<< Jeremiah 16:16]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.18|Jeremiah 16:18 >>]]</td></tr></table>
+
+

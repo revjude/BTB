@@ -1,0 +1,9 @@
+ <span class="bdbLangHebrew">‎יְהוֺעַדָּה‎</span> **proper name, masculine** (meaning dubious; [[BDB#Thes|Thes]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> ***hath adorned*** (as Hebrew <span class="bdbLangHebrew">‎עדה‎</span> Hiph\`il; verb of ***Pa\`el*** form); [[BDB#MV|MV]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> ***is equipment***, compare Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIAAWAIAAAAAAAP///yH5BAAAAAAALAAAAAAgABYAAAJQjI+py+0G3gI0TiqTxarazkFRdX0aiXjmEU7ZucLvTL9xzYw3bu+s22jBVp7cjYRi+QJC5tIZjDVTUxExRISKrFfVR6X0iosyKhb55KnXgQIAOw==">; possibly <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> ***hath carried off spoil***, or ***hath deposed*** ([[BDB#Tg|ᵑ7]] <span class="bdbLangHebrew">‎עדא‎</span> Pe\`al, Pa\`el, Aph\`el; compare Haph\`el [[Dan.2.21|Dan 2:21]]); or perhaps <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> ***hath numbered*** Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhGAASAIAAAAAAAP///yH5BAAAAAAALAAAAAAYABIAAAI1jI+pCt0LkQtvTevqyQByFoXiSFpl1IUpuiaZ2m5bLGmGLeIUfdc4pwEKd58bkDhk6E5MRQEAOw==">) — a descendant of Saul [[1Chr.8.36|1Chr 8:36]] (twice in verse) ([[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ἰωαδα</span>, [[BDB#A|A]] <span class="bdbLangGreek">Ἰωιαδα</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Ἰωδα</span>) = <span class="bdbLangHebrew">‎יַעְרָה‎</span> [[1Chr.9.42|1Chr 9:42]] (twice in verse) (for <span class="bdbLangHebrew">‎יֹעַדָּה‎</span> ? compare Be. [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ἰαδα</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Ἰωδα</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 1 Chronicles | [[1Chr.8.36\|8:36]] · [[1Chr.9.42\|9:42]] |
+| Daniel | [[Dan.2.21\|2:21]] |
+

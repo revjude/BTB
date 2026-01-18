@@ -1,0 +1,8 @@
+<span class="asgreek">ἀδαμάντινος</span> <small>***(adamantinos)***</small> ==**adamantine**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀδαμάντινος==</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 
+
+
+ <b>adamantine, of steel</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 4.224, 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 6, 64, 4th c.BC: Aeschines Orator 3.84">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>κερκίδες</span>, of the <span class='asgreek'>Μοῖραι</span>, [<a href="javascript:void(0)" title=" “Lyrica Adespota” cited in 5th c.AD: Stobaeus, Joannes 1.5.11; αἱμασιή 4th c.AD: Eusebius Myndius Philosophus “fragment” 63. ">Refs 4th c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>hard as adamant</b>, <span class='asgreek'>οὐδεὶς</span> <span class='asgreek'>ἂν</span> <span class='asgreek'>γένοιτο</span>.. <span class='asgreek'>οὕτως</span> <span class='asgreek'>ἀ</span>., <span class='asgreek'>ὃς</span> <span class='asgreek'>ἂν</span>.. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 360b; σιδηροῖς καὶ ἀ. λόγοις [prev. author] “Grg.” 509a; δεσμοί 4th c.AD: Metrodorus Epigrammaticus “Herc.” 831.12">Refs 5th c.BC+</a>]; <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἐστίν</span>, of a girl, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 3.39">Refs 3rd c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>νως</span></b>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 618e.">Refs 5th c.BC+</a>]

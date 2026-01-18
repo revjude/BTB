@@ -1,0 +1,25 @@
+ <span class="bdbLangHebrew">‎נֶ֫גַע‎</span><sub>78</sub> **noun masculine**<sup>[[Gen.12.17|Gen 12:17]]</sup> ==stroke, plague, mark, plague-spot==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> absolute [[Exod.11.1|Exod 11:1]] +, <span class="bdbLangHebrew">‎נָ֑גַע‎</span> [[Lev.13.13|Lev 13:13]] +; construct [[Deut.24.8|Deut 24:8]] +; suffix <span class="bdbLangHebrew">‎נִגְעִי‎</span> [[Ps.38.12|Ps 38:12]] <span class="bdbLangHebrew">‎נִגְעֶ֑ךָ‎</span> [[Ps.39.11|Ps 39:11]] <span class="bdbLangHebrew">‎נִגְעוֺ‎</span> [[Lev.13.44|Lev 13:44]]; [[2Chr.6.29|2Chr 6:29]] plural <span class="bdbLangHebrew">‎נְגָעִים‎</span> [[Gen.12.17|Gen 12:17]]; [[Ps.89.33|Ps 89:33]] construct <span class="bdbLangHebrew">‎נִגְעִי‎</span> [[2Sam.7.14|2Sam 7:14]] — 
+
+**1.** ***stroke, wound***, inflicted by man on man [[Deut.17.8|Deut 17:8]]; [[Deut.21.5|Deut 21:5]] (\|\| <span class="bdbLangHebrew">‎רִיב‎</span>, [[Prov.6.33|Prov 6:33]]. 
+
+**2.** ***stroke***, metaphor, especially of a disease, regarded as sent by a divine chastisement, [[Gen.12.17|Gen 12:17]] ([[BDB#J|J]]), [[Exod.11.1|Exod 11:1]] ([[BDB#E|E]]), [[2Sam.7.14|2Sam 7:14]] (<span class="bdbLangHebrew">‎בְנֵי אָדָם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span>, \|\| <span class="bdbLangHebrew">‎שֵׁבֶט אֲנָשִׁים‎</span>, i.e. customary, ordinary), [[1Kgs.8.37|1Kgs 8:37]] = [[2Chr.6.28|2Chr 6:28]] (both \|\| <span class="bdbLangHebrew">‎מַחֲלָה‎</span>); [[1Kgs.8.38|1Kgs 8:38]] (<span class="bdbLangHebrew">‎לְבָבוֺ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> = [[2Chr.6.29|2Chr 6:29]] (<span class="bdbLangHebrew">‎נִגְעוֺ‎</span>); [[Ps.91.10|Ps 91:10]] (\|\| <span class="bdbLangHebrew">‎רָעָה‎</span>); of Israel [[Ps.38.12|Ps 38:12]]; [[Ps.39.11|Ps 39:11]] (\|\| <span class="bdbLangHebrew">‎תִּגְרַת יָָֽדְךָ‎</span>), [[Ps.89.33|Ps 89:33]] (\|\| <span class="bdbLangHebrew">‎שֵׁכֶט‎</span>); see also [[Isa.53.8|Isa 53:8]] (of suffering servant of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>, <span class="bdbLangHebrew">‎נֶגַע לָ֑מוֺ‎</span>). 
+
+**3.** ***mark*** (60 t. [[Lev.13.14|Lev 13:14]]), indeterm. [[Lev.13.5|Lev 13:5]]; [[Lev.13.6|Lev 13:6]] (<span class="bdbLangHebrew">‎מִסְפַּחַת‎</span>), v[[Lev.13.17|Lev 13:17]] v[[Lev.13.29|Lev 13:29]] v[[Lev.13.30|Lev 13:30]] v[[Lev.13.32|Lev 13:32]] v[[Lev.13.43|Lev 13:43]] v[[Lev.13.44|Lev 13:44]] of leprosy, regarded as the ***heavy touch*** or ***stroke*** of a disease, <span class="bdbLangHebrew">‎צָרַ֫עַת‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> [[Lev.13.2|Lev 13:2]] +; v[[Lev.13.51|Lev 13:51]] (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎צָרַעַת מַמְאֶרֶת הַנּ‎</span>), v[[Lev.13.59|Lev 13:59]]; [[Lev.14.3|Lev 14:3]]; [[Lev.14.32|Lev 14:32]]; [[Lev.14.54|Lev 14:54]], [[Deut.24.8|Deut 24:8]] also <span class="bdbLangHebrew">‎הַנֶּתֶק‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> [[Lev.13.31|Lev 13:31]] <span class="bdbLangHebrew">‎לָבָן אֲדַמְדָּם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> v[[Lev.13.42|Lev 13:42]] identification with person having it [[Lev.13.4|Lev 13:4]]; [[Lev.13.12|Lev 13:12]]; [[Lev.13.13|Lev 13:13]]; [[Lev.13.17|Lev 13:17]]; [[Lev.13.31|Lev 13:31]] in garment, etc. v[[Lev.13.47|Lev 13:47]] + 15 t. [[Lev.13|Lev 13]] in house [[Lev.14.34|Lev 14:34]]; [[Lev.14.35|Lev 14:35]]; [[Lev.14.36|Lev 14:36]]; [[Lev.14.43|Lev 14:43]]; [[Lev.14.44|Lev 14:44]]; [[Lev.14.48|Lev 14:48]] (twice in verse); i.e. house-wall v[[Lev.14.37|Lev 14:37]] v[[Lev.14.37|Lev 14:37]] v[[Lev.14.39|Lev 14:39]] in stones of wall v[[Lev.14.40|Lev 14:40]] = garment, etc., with plague-spot [[Lev.13.50|Lev 13:50]]. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.12.17\|12:17]] |
+| Exodus | [[Exod.11.1\|11:1]] |
+| Leviticus | [[Lev.13\|Chapter 13]] · [[Lev.13.2\|13:2]] · [[Lev.13.4\|13:4]] · [[Lev.13.5\|13:5]] · [[Lev.13.6\|13:6]] · [[Lev.13.12\|13:12]] · [[Lev.13.13\|13:13]] · [[Lev.13.14\|13:14]] · [[Lev.13.17\|13:17]] · [[Lev.13.29\|13:29]] · [[Lev.13.30\|13:30]] · [[Lev.13.31\|13:31]] · [[Lev.13.32\|13:32]] · [[Lev.13.42\|13:42]] · [[Lev.13.43\|13:43]] · [[Lev.13.44\|13:44]] · [[Lev.13.47\|13:47]] · [[Lev.13.50\|13:50]] · [[Lev.13.51\|13:51]] · [[Lev.13.59\|13:59]] · [[Lev.14.3\|14:3]] · [[Lev.14.32\|14:32]] · [[Lev.14.34\|14:34]] · [[Lev.14.35\|14:35]] · [[Lev.14.36\|14:36]] · [[Lev.14.37\|14:37]] · [[Lev.14.39\|14:39]] · [[Lev.14.40\|14:40]] · [[Lev.14.43\|14:43]] · [[Lev.14.44\|14:44]] · [[Lev.14.48\|14:48]] · [[Lev.14.54\|14:54]] |
+| Deuteronomy | [[Deut.17.8\|17:8]] · [[Deut.21.5\|21:5]] · [[Deut.24.8\|24:8]] |
+| 2 Samuel | [[2Sam.7.14\|7:14]] |
+| 1 Kings | [[1Kgs.8.37\|8:37]] · [[1Kgs.8.38\|8:38]] |
+| 2 Chronicles | [[2Chr.6.28\|6:28]] · [[2Chr.6.29\|6:29]] |
+| Psalms | [[Ps.38.12\|38:12]] · [[Ps.39.11\|39:11]] · [[Ps.89.33\|89:33]] · [[Ps.91.10\|91:10]] |
+| Proverbs | [[Prov.6.33\|6:33]] |
+| Isaiah | [[Isa.53.8\|53:8]] |
+

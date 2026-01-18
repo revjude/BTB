@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==εὐχαριστέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>bestow a favour on, oblige</b>, <span class='asgreek'>τῷ</span> <span class='asgreek'>δήμῳ</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>Δηλίων</span> [<a href="javascript:void(0)" title=" “IG” 11 (4).665 (Delos, 3rd c.BC)">Refs 3rd c.BC+</a>]; <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" “PPetr.” 2p.4 (3rd c.BC), “PHib.” 1.66.5 (3rd c.BC). ">Refs 3rd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to be thankful, return thanks</b>, Decrees cited in [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 18.92, “IPE” 12.352.14 (Chersonesus, 2nd c.BC)">Refs 4th c.BC+</a>]; <span class='asgreek'>τοῖς</span> <span class='asgreek'>Αθηναίοις</span> [<a href="javascript:void(0)" title=" 2nd-1st c.BC: Posidonius Historicus 36 1st c.AD: Josephus Historicus, compare 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.92 W., +others">Refs 2nd c.BC+</a>]; <span class='asgreek'>ἐπί</span> <span class='asgreek'>τινι</span> or <span class='asgreek'>περί</span> <span class='asgreek'>τινος</span> <b>for</b> a thing, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.72.7, 1st c.BC: Diodorus Siculus Historicus 16.11, etc.">Refs 2nd c.BC+</a>]; especially to the gods, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>ἐρρῶσθαί</span> <span class='asgreek'>σε</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>θεοῖς</span> <span class='asgreek'>εὐ</span>. [<a href="javascript:void(0)" title=" “UPZ” 59.10 (2nd c.BC),cf. LXX.Jdt.8.25, NT.1Cor.1.4, etc.">NT+2nd c.BC+</a>]:—<i>passive</i>, <b>to be thanked</b>, <span class='asgreek'>ηὐχαρίστηται</span> <span class='asgreek'>κεραυνοῖς</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 17 ">Refs 5th c.BC+</a>]; <b>to be received with thanks</b>, [<a href="javascript:void(0)" title=" NT.2Cor.1.11. ">NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>pray</b>, <span class='asgreek'>τῷ</span> <span class='asgreek'>θεῷ</span> <span class='asgreek'>περί</span> <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" “PLond.” 2.413, 418 (4th c.AD). ">Refs 4th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Cor.1.4]] ☩ [[2Cor.1.11]]
+</sub></small>

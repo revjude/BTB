@@ -1,0 +1,23 @@
+**Deuteronomy 20:13** 
+<small><sub>**KJV:**</sub></small>
+And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:
+<small><sub>**BSB:**</sub></small>
+When the LORD your God has delivered it into your hand, you must put every male to the sword.
+<small><sub>**Literal:**</sub></small>
+and  he will give  it Yahweh God  your in  hand  your and  you will strike down \<obj.> every male  its to  [the] mouth of [the] sword<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.12|<< Deuteronomy 20:12]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.14|Deuteronomy 20:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will give it  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נְתָנָ֛</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> ne.ta.Na<small><sup>[[HVqq3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹהֶ֖י</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in hand your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יָדֶ֑</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ya.De.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will strike down  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִכִּיתָ֥</big></span><small><sup>[[H5221]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hi.ki.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| male its  | <span class="ashebrew"><big>זְכוּרָ֖</big></span><small><sup>[[H2138]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ze.khu.Ra<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] mouth of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פִי</big></span><small><sup>[[H6310H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sword  | <span class="ashebrew"><big>חָֽרֶב</big></span><small><sup>[[H2719]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.12|<< Deuteronomy 20:12]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.14|Deuteronomy 20:14 >>]]</td></tr></table>
+
+

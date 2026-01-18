@@ -1,0 +1,24 @@
+**Ezekiel 40:32** 
+<small><sub>**KJV:**</sub></small>
+And he brought me into the inner court toward the east: and he measured the gate according to these measures.
+<small><sub>**BSB:**</sub></small>
+And he brought me to the inner court on the east side, and he measured the gateway; it had the same measurements as the others.
+<small><sub>**Literal:**</sub></small>
+and  he brought  me into the  courtyard \<the>  inner [the] direction of the  east and  he measured \<obj.> the  gate according to the  measurements \<the>  these<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.31|<< Ezekiel 40:31]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.33|Ezekiel 40:33 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he brought me  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְבִיאֵ֛</big></span><small><sup>[[H0935P]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.vi.'E.<small><sup>[[HVhw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the courtyard  | <span class="ashebrew"><big>הֶ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חָצֵ֥ר</big></span><small><sup>[[H2691A]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> inner  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פְּנִימִ֖י</big></span><small><sup>[[H6442]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> pe.ni.Mi<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] direction of  | <span class="ashebrew"><big>דֶּ֣רֶךְ</big></span><small><sup>[[H1870J]]</sup></small> &#8207;| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the east  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קָּדִ֑ים</big></span><small><sup>[[H6921]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ka.Dim<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he measured  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֣מָד</big></span><small><sup>[[H4058]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the gate  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שַּׁ֔עַר</big></span><small><sup>[[H8179G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to the measurements  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מִּדּ֖וֹת</big></span><small><sup>[[H4060A]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> mi.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> these  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֵֽלֶּה</big></span><small><sup>[[H0428]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.31|<< Ezekiel 40:31]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.33|Ezekiel 40:33 >>]]</td></tr></table>
+
+

@@ -1,0 +1,18 @@
+<span class="asform"><span class="asgreek"><span class="asbold">προσ-κυνέω</span></span>, <span class="asgreek">-ῶ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">κυνέω</span>, <span class="asitalic">to kiss</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">שׁחה</span> <small><sup>[[H7812]]</sup></small> hith.;\]</span> </span>
+<span class="asitalic">to make obeisance</span>, <span class="asitalic">do reverence to</span>, <span class="asitalic">worship</span>;
+<span class="asbullet"><span class="asbold">(a)</span> prop. (as in cl., of the gods: Hdt., Æsch., Plat., al.), of God, Christ and supra-mundane beings: absol., [[John.4.20|Jo 4:20]] [[John.12.20|12:20]], [[Acts.8.27|Ac 8:27]] [[Acts.24.11|24:11]], [[Heb.11.21|He 11:21]] (Westc., in l.), [[Rev.11.1|Re 11:1]]; <span class="asgreek">πίπτειν καὶ π.</span>, [[Rev.5.14|Re 5:14]]; c. dat. (of the significance of this constr. as compared with the usual cl., c. acc., v. Abbott, <span class="asitalic">JG</span>, 78 f.; <span class="asitalic">JV</span>, 133 ff.), [[John.4.21|Jo 4:21]], [[John.4.23|23]], [[Acts.7.43|Ac 7:43]], [[1Cor.14.25|I Co 14:25]], [[Heb.1.6|He 1:6]], [[Rev.4.10|Re 4:10]] [[Rev.7.11|7:11]] [[Rev.11.16|11:16]] [[Rev.13.4|13:4]], [[Rev.13.15|15]] [[Rev.14.7|14:7]] [[Rev.16.2|16:2]] [[Rev.19.4|19:4]], [[Rev.19.10|10]], [[Rev.19.20|20]] [[Rev.22.8|22:8]], [[Rev.22.9|9]]; c. acc. (v. supr.), [[Matt.4.10|Mt 4:10]], [[Luke.4.8|Lk 4:8]] [[Luke.24.52|24:52]] (WH, R, mg., om.), [[John.4.22|Jo 4:22]], [[John.4.24|24]], [[Rev.9.20|Re 9:20]] [[Rev.13.4|13:4]], [[Rev.13.8|8]], [[Rev.13.12|12]] [[Rev.14.9|14:9]], [[Rev.14.11|11]] [[Rev.20.4|20:4]]; seq. <span class="asgreek">ἐπώπιον</span>, [[Luke.4.7|Lk 4:7]], [[Rev.15.4|Re 15:4]];</span>
+<span class="asbullet"><span class="asbold">(b)</span> as in cl., of homage to human superiors (cf. MM, xxi): absol., [[Matt.20.20|Mt 20:20]], [[Acts.10.25|Ac 10:25]]; c. dat. (v. supr.), [[Matt.2.2|Mt 2:2]], [[Matt.2.8|8]] [[Matt.8.2|8:2]] [[Matt.9.18|9:18]] [[Matt.14.33|14:33]] [[Matt.15.25|15:25]] [[Matt.18.26|18:26]] [[Matt.28.9|28:9]], [[Mark.15.19|Mk 15:19]], [[John.9.38|Jo 9:38]]; <span class="asgreek">πεσὼν π.</span>, [[Matt.2.11|Mt 2:11]] [[Matt.4.9|4:9]]; <span class="asgreek">ἐνώπιον τ. ποδῶν</span>, [[Rev.3.9|Re 3:9]]; c. acc., [[Mark.5.6|Mk 5:6]] (dat. T).†</span>
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Matthew | [[Matt.2.2\|2:2]] · [[Matt.2.8\|2:8]] · [[Matt.2.11\|2:11]] · [[Matt.4.9\|4:9]] · [[Matt.4.10\|4:10]] · [[Matt.8.2\|8:2]] · [[Matt.9.18\|9:18]] · [[Matt.14.33\|14:33]] · [[Matt.15.25\|15:25]] · [[Matt.18.26\|18:26]] · [[Matt.20.20\|20:20]] · [[Matt.28.9\|28:9]] |
+| Mark | [[Mark.5.6\|5:6]] · [[Mark.15.19\|15:19]] |
+| Luke | [[Luke.4.7\|4:7]] · [[Luke.4.8\|4:8]] · [[Luke.24.52\|24:52]] |
+| John | [[John.4.20\|4:20]] · [[John.4.21\|4:21]] · [[John.4.22\|4:22]] · [[John.4.23\|4:23]] · [[John.4.24\|4:24]] · [[John.9.38\|9:38]] · [[John.12.20\|12:20]] |
+| Acts | [[Acts.7.43\|7:43]] · [[Acts.8.27\|8:27]] · [[Acts.10.25\|10:25]] · [[Acts.24.11\|24:11]] |
+| 1 Corinthians | [[1Cor.14.25\|14:25]] |
+| Hebrews | [[Heb.1.6\|1:6]] · [[Heb.11.21\|11:21]] |
+| Revelation | [[Rev.3.9\|3:9]] · [[Rev.4.10\|4:10]] · [[Rev.5.14\|5:14]] · [[Rev.7.11\|7:11]] · [[Rev.9.20\|9:20]] · [[Rev.11.1\|11:1]] · [[Rev.11.16\|11:16]] · [[Rev.13.4\|13:4]] · [[Rev.13.8\|13:8]] · [[Rev.13.12\|13:12]] · [[Rev.13.15\|13:15]] · [[Rev.14.7\|14:7]] · [[Rev.14.9\|14:9]] · [[Rev.14.11\|14:11]] · [[Rev.15.4\|15:4]] · [[Rev.16.2\|16:2]] · [[Rev.19.4\|19:4]] · [[Rev.19.10\|19:10]] · [[Rev.19.20\|19:20]] · [[Rev.20.4\|20:4]] · [[Rev.22.8\|22:8]] · [[Rev.22.9\|22:9]] |
+

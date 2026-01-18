@@ -1,0 +1,25 @@
+**1 Samuel 22:4** 
+<small><sub>**KJV:**</sub></small>
+And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold.
+<small><sub>**BSB:**</sub></small>
+So he left them in the care of the king of Moab, and they stayed with him the whole time David was in the stronghold.
+<small><sub>**Literal:**</sub></small>
+and  he led  them with [the] presence of [the] king of Moab and  they remained with  him all [the] days of [the] being of David in the  stronghold<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.3|<< 1 Samuel 22:3]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.5|1 Samuel 22:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he led them  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּנְחֵ֕</big></span><small><sup>[[H5148]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yan.Che<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] presence of  | <span class="ashebrew"><big>פְּנֵ֖י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  | <span class="ashebrew"><big>מוֹאָ֑ב</big></span><small><sup>[[H4124G]]</sup></small> &#8207;| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they remained  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּשְׁב֣וּ</big></span><small><sup>[[H3427]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.she.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  | <span class="ashebrew"><big>עִמּ֔</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  | <span class="ashebrew"><big>יְמֵ֥י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] being of  | <span class="ashebrew"><big>הֱיוֹת</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| he.yot-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֖ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the stronghold  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְּצוּדָֽה</big></span><small><sup>[[H4686B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> me.tzu.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.3|<< 1 Samuel 22:3]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.5|1 Samuel 22:5 >>]]</td></tr></table>
+
+

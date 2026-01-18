@@ -1,0 +1,29 @@
+**2 Samuel 19:30** (19:31)
+<small><sub>**KJV:**</sub></small>
+And Mephibosheth said unto the king, Yea, let him take all, forasmuch as my lord the king is come again in peace unto his own house.
+<small><sub>**BSB:**</sub></small>
+And Mephibosheth said to the king, “Instead, since my lord the king has safely come to his own house, let Ziba take it all!”
+<small><sub>**Literal:**</sub></small>
+and  he said Mephibosheth to the  king also \<obj.> \<the>  everything let him take after that he has come lord  my the  king in  peace to house  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.29|<< 2 Samuel 19:29]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.31|2 Samuel 19:31 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֤אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mephibosheth  | <span class="ashebrew"><big>מְפִיבֹ֙שֶׁת֙</big></span><small><sup>[[H4648G]]</sup></small> &#8207;| me.fi.Vo.shet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֔לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>גַּ֥ם</big></span><small><sup>[[H1571]]</sup></small> &#8207;| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> everything  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּ֖ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let him take  | <span class="ashebrew"><big>יִקָּ֑ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| yi.Kach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  | <span class="ashebrew"><big>אַ֠חֲרֵי</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'A.cha.rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has come  | <span class="ashebrew"><big>בָּ֞א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lord my  | <span class="ashebrew"><big>אֲדֹנִ֥</big></span><small><sup>[[H0113]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֛לֶך</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in peace  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָׁל֖וֹם</big></span><small><sup>[[H7965I]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| house his  | <span class="ashebrew"><big>בֵּיתֽ</big></span><small><sup>[[H1004B]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| bei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.29|<< 2 Samuel 19:29]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.31|2 Samuel 19:31 >>]]</td></tr></table>
+
+

@@ -1,0 +1,12 @@
+<span class="asgreek">ἐκκενόω</span> <small>***(ekkenoō)***</small> ==**to empty out**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐκκενόω==</span></b>, 
+
+
+ <i>poetry</i> <b><span class='asgreek'>ἐκκεινόω</span></b>, <b>empty out, leave desolate,</b> <span class='asgreek'>ἄστυ</span> <span class='asgreek'>Σούσων</span> <span class='asgreek'>ἐξεκείνωσεν</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 761, cf. LXX.Ps.136.7 ">LXX+4th c.BC+</a>]; <b>clear out,</b> <span class='asgreek'>οἴκημα</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Protagoras” 315d; στωμυλίαν ἢ 'ξεκένωσε τὰς παλαίστρας 5th-6th c.BC: Aristophanes Comicus “Ranae” 1070 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>θυμὸν</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>σχεδίαν</span> <span class='asgreek'>γέροντος</span> <b>pour out</b> one's spirit into [<a href="javascript:void(0)" title=" 5th c.BC: Charon Historicus ">Refs 5th c.BC+</a>]'s boat, i.e. <b>give up</b> the ghost, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 16.40; χολῆς περισσὸν..ἐ. τῶν ἐγκάτων “App.Anth.” 3.158 ">Refs 3rd c.BC+</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἰούς</span> <b>to shoot all</b> one's arrows, [<a href="javascript:void(0)" title="“Anthologia Graeca” 6.326 (1st c.AD: Leonidas Alexandrinus Epigrammaticus)">Refs 1st c.AD+</a>]:— <i>passive</i>, <b>to be left desolate,</b> <span class='asgreek'>στένει</span> <span class='asgreek'>γαῖ᾽</span> <span class='asgreek'>Ἀσὶς</span> <span class='asgreek'>ἐκκενουμένα</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 549 (Lyric poetry), compare “Th.” 330 (Lyric poetry); Ἀττικὴ τῆς τῶν ἀνθρώπων ἀγέλης ἐκκενωθεῖσα 2nd-3rd c.AD: Philostratus Sophista “Vitae Sophistarum” 1.16.1; Μοιράων..μίτος ἐξεκενώθη ">Refs 4th c.BC+</a>]<b>was exhausted, spun out,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 14.2002. ">Refs</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>unsheath,</b> <span class='asgreek'>μάχαιραν</span> [<a href="javascript:void(0)" title=" LXX.Ezek.5.2. ">LXX</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>clear away,</b> <span class='asgreek'>πέτρας</span> [<a href="javascript:void(0)" title=" “Sammelb.” 4368. ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Ps.136.7]]
+</sub></small>

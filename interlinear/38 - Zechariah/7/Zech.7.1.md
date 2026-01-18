@@ -1,0 +1,27 @@
+**Zechariah 7:1** 
+<small><sub>**KJV:**</sub></small>
+And it came to pass in the fourth year of king Darius, [that] the word of the LORD came unto Zechariah in the fourth [day] of the ninth month, [even] in Chisleu;
+<small><sub>**BSB:**</sub></small>
+In the fourth year of King Darius, the word of the LORD came to Zechariah on the fourth day of the ninth month, the month of Chislev.
+<small><sub>**Literal:**</sub></small>
+and  it was in  year four of  Darius the  king it came [the] word of Yahweh to Zechariah on  [day] four of the  month \<the>  ninth in  Kislev<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.15|<< Zechariah 6:15]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.2|Zechariah 7:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִי֙</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in year  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁנַ֣ת</big></span><small><sup>[[H8141]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  | <span class="ashebrew"><big>אַרְבַּ֔ע</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.Ba'<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Darius  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָרְיָ֖וֶשׁ</big></span><small><sup>[[H1867H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.re.Ya.vesh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֑לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it came  | <span class="ashebrew"><big>הָיָ֨ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  | <span class="ashebrew"><big>דְבַר</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zechariah  | <span class="ashebrew"><big>זְכַרְיָ֗ה</big></span><small><sup>[[H2148v]]</sup></small> &#8207;| ze.khar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [day] four  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַרְבָּעָ֛ה</big></span><small><sup>[[H0702]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the month  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֹ֥דֶשׁ</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> ninth  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>תְּשִׁעִ֖י</big></span><small><sup>[[H8671]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> te.shi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Kislev  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כִסְלֵֽו</big></span><small><sup>[[H3691]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khis.Lev<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.15|<< Zechariah 6:15]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.2|Zechariah 7:2 >>]]</td></tr></table>
+
+

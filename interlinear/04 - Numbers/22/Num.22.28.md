@@ -1,0 +1,28 @@
+**Numbers 22:28** 
+<small><sub>**KJV:**</sub></small>
+And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?
+<small><sub>**BSB:**</sub></small>
+Then the LORD opened the donkey’s mouth, and she said to Balaam, “What have I done to you that you have beaten me these three times?”
+<small><sub>**Literal:**</sub></small>
+and  he opened Yahweh \<obj.> [the] mouth of the  donkey and  it said to  Balaam what? have I done to \<the>  you that you have struck  me this three feet<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.27|<< Numbers 22:27]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.29|Numbers 22:29 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he opened  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּפְתַּ֥ח</big></span><small><sup>[[H6605A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yif.Tach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mouth of  | <span class="ashebrew"><big>פִּ֣י</big></span><small><sup>[[H6310G]]</sup></small> &#8207;| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the donkey  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָת֑וֹן</big></span><small><sup>[[H0860]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Ton<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּ֤אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Balaam  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בִלְעָם֙</big></span><small><sup>[[H1109A]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> vil.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  | <span class="ashebrew"><big>מֶה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| meh-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have I done  | <span class="ashebrew"><big>עָשִׂ֣יתִֽי</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֔</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have struck me  | <span class="ashebrew"><big>הִכִּיתַ֔</big></span><small><sup>[[H5221]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| hi.ki.Ta.<small><sup>[[HVhp2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֶ֖ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שָׁלֹ֥שׁ</big></span><small><sup>[[H7969]]</sup></small> &#8207;| sha.Losh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet  | <span class="ashebrew"><big>רְגָלִֽים</big></span><small><sup>[[H7272]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| re.ga.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.27|<< Numbers 22:27]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.29|Numbers 22:29 >>]]</td></tr></table>
+
+

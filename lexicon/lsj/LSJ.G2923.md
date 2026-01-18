@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==κριτής==</span>-<span class='asgreek'>ής</span></b>, <span class='asgreek'>οῦ</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ <i>vocative</i> [<a href="javascript:void(0)" title=" κριτή 6th c.BC: Hipponax Iambographus 118 ">Refs 6th c.BC+</a>]: (<span class='asgreek'>κρίνω</span>):—<b>judge, umpire</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supp.” 397, 5th c.BC: Herodotus Historicus 3.160, etc.; ἐν πέντε κριτῶν γούνασι κεῖται 5th c.BC: Epicharmus Comicus 229 ">Refs 5th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀληθῶν</span>, opposed to <span class='asgreek'>δοξαστής</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 5.94; κριταὶ ἀπὸ τοῦ ἴσου, opposed to ἀγωνισταί, 5th c.BC: Thucydides Historicus 3.37; τῶν.. λεγομένων μὴ κακοὺς κ. [prev\. author] 1.120; κ. περί τινος 5th c.BC: Lysias Orator 16.21, 5th-6th c.BC: Plato Philosophus “Phlb.” 65a ">Refs 5th c.BC+</a>]; at Athens, usually of <b>the judges in the poetic contests</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ach.” 1224, “Nu.” 1115, “Av.” 445, compare 5th-6th c.BC: Andocides Orator 4.21; rarely, ={δικαστής}, 4th c.BC: Demades Orator 3: so \_metaphorically\_ in 4th c.BC: Aeschines Orator 3.232; πάντα τὰ στοιχεῖα κριτὴν εἴληφε, i. e. each element has found favour with some philosopher, 4th c.BC: Aristoteles Philosophus “de An.” 405b8, compare “Pol.” 1337a42; of the “Judges” of Israel, LXX.Judg.2.16, +others; κ. δοθείς, =">LXX+5th c.BC+</a>] Latin <i>judex datus,</i> [<a href="javascript:void(0)" title=" POxy. 1195.1 (2nd c.AD); ἐπίλεκτος κ., =">Refs 2nd c.AD+</a>] <b>judex selectus</b>, [<a href="javascript:void(0)" title="“OGI” 567.10 (Attalia, 2nd c.AD). ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>κ</span>. <span class='asgreek'>ἐνυπνίων</span> <b>interpreter</b> of dreams, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Pers.” 226. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>κριτάς</span>· <span class='asgreek'>ὀδόντας</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus; compare κραντήρ. ">Refs 5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Judg.2.16]]
+</sub></small>

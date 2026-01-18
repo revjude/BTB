@@ -1,0 +1,29 @@
+**Exodus 2:7** 
+<small><sub>**KJV:**</sub></small>
+Then said his sister to Pharaoh’s daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?
+<small><sub>**BSB:**</sub></small>
+Then his sister said to Pharaoh’s daughter, “Shall I go and call one of the Hebrew women to nurse the child for you?”
+<small><sub>**Literal:**</sub></small>
+and  she said sister  his to [the] daughter of Pharaoh ¿  will I go and  will I call? for \<the>  you a woman a suckling-nurse from the  Hebrew [women] so  she may suckle for \<the>  you \<obj.> the  child<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.6|<< Exodus 2:6]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.8|Exodus 2:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sister his  | <span class="ashebrew"><big>אֲחֹת</big></span><small><sup>[[H0269]]</sup></small> <span class="ashebrew"><big>וֹ֮</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.cho.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  | <span class="ashebrew"><big>בַּת</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹה֒</big></span><small><sup>[[H6547I]]</sup></small> &#8207;| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ will I go  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>אֵלֵ֗ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> 'e.Lekh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and will I call?  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>קָרָ֤אתִי</big></span><small><sup>[[H7121G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ka.Ra.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9032]]</sup></small> &#8207;| lo<small><sup>[[HRd]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  | <span class="ashebrew"><big>אִשָּׁ֣ה</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a suckling-nurse  | <span class="ashebrew"><big>מֵינֶ֔קֶת</big></span><small><sup>[[H3243I]]</sup></small> &#8207;| mei.Ne.ket<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִ֖ן</big></span><small><sup>[[H4480A]]</sup></small> &#8207;| min<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Hebrew [women]  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִבְרִיֹּ֑ת</big></span><small><sup>[[H5680]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'iv.ri.Yot<small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so she may suckle  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תֵינִ֥ק</big></span><small><sup>[[H3243H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tei.Nik<small><sup>[[HVhu3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  | <span class="ashebrew"><big>לָ֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the child  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּֽלֶד</big></span><small><sup>[[H3206]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Ya.led<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.6|<< Exodus 2:6]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.8|Exodus 2:8 >>]]</td></tr></table>
+
+

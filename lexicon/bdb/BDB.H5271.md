@@ -1,0 +1,26 @@
+ <span class="bdbLangHebrew">‎נְעוּרִים‎</span> **noun [masculine] plural** ==youth, early life==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> [[Isa.54.6|Isa 54:6]]; [[Ps.127.4|Ps 127:4]] elsewhere suffix <span class="bdbLangHebrew">‎נְעֻרַי‎</span> [[1Sam.12.2|1Sam 12:2]], <span class="bdbLangHebrew">‎נְעוּרַי‎</span> [[Job.31.18|Job 31:18]] +, <span class="bdbLangHebrew">‎נְעֻרֶיךָ‎</span> [[2Sam.19.8|2Sam 19:8]], <span class="bdbLangHebrew">‎נְעוּרֶיךָ‎</span> [[Prov.5.18|Prov 5:18]] +, <span class="bdbLangHebrew">‎נְעוּרַיִךְ‎</span> [[Jer.2.2|Jer 2:2]] +, <span class="bdbLangHebrew">‎נְעוּרָ֑יְכִי‎</span> [[Ps.103.5|Ps 103:5]], <span class="bdbLangHebrew">‎נְעוּרֵיהֶן‎</span> [[Ezek.23.3|Ezek 23:3]], etc.; — ***youth, early life***, especially in phrase <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מִנּ‎</span> ***from*** one's ***youth up*** [[Gen.8.21|Gen 8:21]] ([[BDB#J|J]]), [[1Sam.17.33|1Sam 17:33]]; [[1Kgs.18.12|1Kgs 18:12]]; [[Jer.3.24|Jer 3:24]]; [[Zech.13.5|Zech 13:5]]; [[Job.31.18|Job 31:18]] (extreme youth; \|\| <span class="bdbLangHebrew">‎מִבֶּטֶן אִמִּי‎</span>); figurative of Babylon [[Isa.47.12|Isa 47:12]]; [[Isa.47.15|Isa 47:15]], Moab [[Jer.48.11|Jer 48:11]], Judah [[Jer.22.21|Jer 22:21]] compare [[Ps.71.5|Ps 71:5]]; [[Ps.71.17|Ps 71:17]]; [[Ps.129.1|Ps 129:1]]; [[Ps.129.2|Ps 129:2]] <span class="bdbLangHebrew">‎וְעַדעַֿתָּה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מִנּ‎</span> [[Gen.46.34|Gen 46:34]] ([[BDB#J|J]]), [[2Sam.19.8|2Sam 19:8]]; [[Ezek.4.14|Ezek 4:14]] <span class="bdbLangHebrew">‎וְעַדהַֿיּוֺם הַזֶּה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מִנּ‎</span> [[1Sam.12.2|1Sam 12:2]]; [[Jer.3.25|Jer 3:25]] as time in or during which [[Lev.22.13|Lev 22:13]] ([[BDB#H|H]]), [[Num.30.4|Num 30:4]]; [[Num.30.17|Num 30:17]] ([[BDB#P|P]]), [[Lam.3.27|Lam 3:27]]; [[Ps.144.12|Ps 144:12]], figurative of Judah and Samaria, personified, [[Ezek.23.2|Ezek 23:2]]; [[Ezek.23.8|Ezek 23:8]] compare <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יְמֵי נ‎</span> (in figurative of Israel) [[Hos.2.17|Hos 2:17]] (\|\| <span class="bdbLangHebrew">‎יוֺם עֲלוֺתָהּ מֵאֶרֶץ מִצְרָ֑יִם‎</span>), [[Ezek.16.22|Ezek 16:22]]; [[Ezek.16.43|Ezek 16:43]]; [[Ezek.16.60|Ezek 16:60]]; [[Ezek.23.19|Ezek 23:19]] other phrase are: <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אַלּוּף נ‎</span> [[Jer.3.4|Jer 3:4]] ***friend of my youth***, compare [[Prov.2.17|Prov 2:17]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עֲוֺנוֺת נ‎</span> [[Job.13.26|Job 13:26]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎חַטּאֹות נ‎</span> [[Ps.25.7|Ps 25:7]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎חֶסֶד נ‎</span> [[Jer.2.2|Jer 2:2]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎חֶרְפַּת נ‎</span> [[Jer.31.19|Jer 31:19]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎זִמַּת נ‎</span> [[Ezek.23.21|Ezek 23:21]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שְׁדֵי נ‎</span> v[[Ezek.23.21|Ezek 23:21]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בַּעַל נ‎</span> [[Joel.1.8|Joel 1:8]], and especially <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֵשֶׁת נ‎</span> [[Prov.5.18|Prov 5:18]]; [[Mal.2.14|Mal 2:14]]; [[Mal.2.15|Mal 2:15]]; [[Isa.54.6|Isa 54:6]] (figurative); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּנֵי נ‎</span> [[Ps.127.4|Ps 127:4]] sons of (a man's) ***youth***; = ***youthful vigour*** [[Ps.103.5|Ps 103:5]]. 
+
+ [<span class="bdbLangHebrew">‎נְעוּרוֺת‎</span>] **noun [feminine] plural** id.; — only <span class="bdbLangHebrew">‎מִנְּעֻרֹתֵיהֶם‎</span> [[Jer.32.30|Jer 32:30]] (figurative of nation). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.8.21\|8:21]] · [[Gen.46.34\|46:34]] |
+| Leviticus | [[Lev.22.13\|22:13]] |
+| Numbers | [[Num.30.4\|30:4]] · [[Num.30.17\|30:17]] |
+| 1 Samuel | [[1Sam.12.2\|12:2]] · [[1Sam.17.33\|17:33]] |
+| 2 Samuel | [[2Sam.19.8\|19:8]] |
+| 1 Kings | [[1Kgs.18.12\|18:12]] |
+| Job | [[Job.13.26\|13:26]] · [[Job.31.18\|31:18]] |
+| Psalms | [[Ps.25.7\|25:7]] · [[Ps.71.5\|71:5]] · [[Ps.71.17\|71:17]] · [[Ps.103.5\|103:5]] · [[Ps.127.4\|127:4]] · [[Ps.129.1\|129:1]] · [[Ps.129.2\|129:2]] · [[Ps.144.12\|144:12]] |
+| Proverbs | [[Prov.2.17\|2:17]] · [[Prov.5.18\|5:18]] |
+| Isaiah | [[Isa.47.12\|47:12]] · [[Isa.47.15\|47:15]] · [[Isa.54.6\|54:6]] |
+| Jeremiah | [[Jer.2.2\|2:2]] · [[Jer.3.4\|3:4]] · [[Jer.3.24\|3:24]] · [[Jer.3.25\|3:25]] · [[Jer.22.21\|22:21]] · [[Jer.31.19\|31:19]] · [[Jer.32.30\|32:30]] · [[Jer.48.11\|48:11]] |
+| Lamentations | [[Lam.3.27\|3:27]] |
+| Ezekiel | [[Ezek.4.14\|4:14]] · [[Ezek.16.22\|16:22]] · [[Ezek.16.43\|16:43]] · [[Ezek.16.60\|16:60]] · [[Ezek.23.2\|23:2]] · [[Ezek.23.3\|23:3]] · [[Ezek.23.8\|23:8]] · [[Ezek.23.19\|23:19]] · [[Ezek.23.21\|23:21]] |
+| Hosea | [[Hos.2.17\|2:17]] |
+| Joel | [[Joel.1.8\|1:8]] |
+| Zechariah | [[Zech.13.5\|13:5]] |
+| Malachi | [[Mal.2.14\|2:14]] · [[Mal.2.15\|2:15]] |
+

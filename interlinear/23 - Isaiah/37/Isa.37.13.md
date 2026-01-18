@@ -1,0 +1,23 @@
+**Isaiah 37:13** 
+<small><sub>**KJV:**</sub></small>
+Where [is] the king of Hamath, and the king of Arphad, and the king of the city of Sepharvaim, Hena, and Ivah?
+<small><sub>**BSB:**</sub></small>
+Where are the kings of Hamath, Arpad, Sepharvaim, Hena, and Ivvah?’”
+<small><sub>**Literal:**</sub></small>
+where? [is] [the] king of Hamath and  [the] king of Arpad and  [the] king of Lair Sepharvaim Hena and  Ivvah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.12|<< Isaiah 37:12]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.14|Isaiah 37:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| where?  | <span class="ashebrew"><big>אַיֵּ֤ה</big></span><small><sup>[[H0346]]</sup></small> &#8207;| 'ai.Yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hamath  | <span class="ashebrew"><big>חֲמָת֙</big></span><small><sup>[[H2574G]]</sup></small> &#8207;| cha.Mat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] king of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֶ֣לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Arpad  | <span class="ashebrew"><big>אַרְפָּ֔ד</big></span><small><sup>[[H0774]]</sup></small> &#8207;| 'ar.Pad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] king of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֶ֖לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lair  | <span class="ashebrew"><big>לָעִ֣יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| la.'Ir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sepharvaim  | <span class="ashebrew"><big>סְפַרְוָ֑יִם</big></span><small><sup>[[H5617]]</sup></small> &#8207;| se.far.Va.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hena  | <span class="ashebrew"><big>הֵנַ֖ע</big></span><small><sup>[[H2012]]</sup></small> &#8207;| he.Na'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ivvah  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עִוָּֽה</big></span><small><sup>[[H5755]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'i.Vah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.12|<< Isaiah 37:12]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.14|Isaiah 37:14 >>]]</td></tr></table>
+
+

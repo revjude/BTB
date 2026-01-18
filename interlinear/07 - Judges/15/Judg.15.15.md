@@ -1,0 +1,24 @@
+**Judges 15:15** 
+<small><sub>**KJV:**</sub></small>
+And he found a new jawbone of an ass, and put forth his hand, and took it, and slew a thousand men therewith.
+<small><sub>**BSB:**</sub></small>
+He found the fresh jawbone of a donkey, reached out his hand and took it, and struck down a thousand men.
+<small><sub>**Literal:**</sub></small>
+and  he found a jawbone of a donkey fresh and  he stretched out hand  his and  he took  it and  he struck down with \<the>  it a thousand man<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.14|<< Judges 15:14]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.16|Judges 15:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he found  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּמְצָ֥א</big></span><small><sup>[[H4672]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yim.Tza'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a jawbone of  | <span class="ashebrew"><big>לְחִֽי</big></span><small><sup>[[H3895H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.chi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a donkey  | <span class="ashebrew"><big>חֲמ֖וֹר</big></span><small><sup>[[H2543]]</sup></small> &#8207;| cha.Mor<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fresh  | <span class="ashebrew"><big>טְרִיָּ֑ה</big></span><small><sup>[[H2961]]</sup></small> &#8207;| te.ri.Yah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he stretched out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁלַ֤ח</big></span><small><sup>[[H7971K]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  | <span class="ashebrew"><big>יָד</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he took it  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקָּחֶ֔</big></span><small><sup>[[H3947G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Che.<small><sup>[[HVqw3ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he struck down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּךְ</big></span><small><sup>[[H5221]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yakh-<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> it  | <span class="ashebrew"><big>בָּ֖</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a thousand  | <span class="ashebrew"><big>אֶ֥לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'E.lef<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| man  | <span class="ashebrew"><big>אִֽישׁ</big></span><small><sup>[[H0376G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.14|<< Judges 15:14]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.16|Judges 15:16 >>]]</td></tr></table>
+
+

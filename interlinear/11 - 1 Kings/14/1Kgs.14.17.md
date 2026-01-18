@@ -1,0 +1,25 @@
+**1 Kings 14:17** 
+<small><sub>**KJV:**</sub></small>
+And Jeroboam’s wife arose, and departed, and came to Tirzah: [and] when she came to the threshold of the door, the child died;
+<small><sub>**BSB:**</sub></small>
+Then Jeroboam’s wife got up and departed for Tirzah, and as soon as she stepped over the threshold of the house, the boy died.
+<small><sub>**Literal:**</sub></small>
+and  she arose [the] wife of Jeroboam and  she went and  she came Tirzah  towards she [was] coming at  [the] threshold of the  house and  the  lad he died<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.16|<< 1 Kings 14:16]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.18|1 Kings 14:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she arose  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תָּ֙קָם֙</big></span><small><sup>[[H6965B]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Ta.kom<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wife of  | <span class="ashebrew"><big>אֵ֣שֶׁת</big></span><small><sup>[[H0802H]]</sup></small> &#8207;| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeroboam  | <span class="ashebrew"><big>יָרָבְעָ֔ם</big></span><small><sup>[[H3379G]]</sup></small> &#8207;| ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֵּ֖לֶךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Te.lekh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תָּבֹ֣א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tirzah towards  | <span class="ashebrew"><big>תִרְצָ֑תָ</big></span><small><sup>[[H8656H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| tir.Tza.ta<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she  | <span class="ashebrew"><big>הִ֛יא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] coming  | <span class="ashebrew"><big>בָּאָ֥ה</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ba.'Ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at [the] threshold of  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>סַף</big></span><small><sup>[[H5592B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> saf-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the house  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בַּ֖יִת</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the lad  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נַּ֥עַר</big></span><small><sup>[[H5288]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he died  | <span class="ashebrew"><big>מֵֽת</big></span><small><sup>[[H4191]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.16|<< 1 Kings 14:16]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.18|1 Kings 14:18 >>]]</td></tr></table>
+
+

@@ -1,0 +1,29 @@
+**Leviticus 26:45** 
+<small><sub>**KJV:**</sub></small>
+But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I [am] the LORD.
+<small><sub>**BSB:**</sub></small>
+But for their sake I will remember the covenant with their fathers, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am the LORD.”
+<small><sub>**Literal:**</sub></small>
+and  I will remember to \<the>  them [the] covenant of [the] forefathers whom I brought out \<obj.>  them from  [the] land of Egypt to  [the] eyes of the  nations to  become for \<the>  them \<into>  God I [am] Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.44|<< Leviticus 26:44]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.46|Leviticus 26:46 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will remember  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>זָכַרְתִּ֥י</big></span><small><sup>[[H2142]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> za.khar.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] covenant of  | <span class="ashebrew"><big>בְּרִ֣ית</big></span><small><sup>[[H1285]]</sup></small> &#8207;| be.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] forefathers  | <span class="ashebrew"><big>רִאשֹׁנִ֑ים</big></span><small><sup>[[H7223H]]</sup></small> &#8207;| ri.sho.Nim<small><sup>[[HAompa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I brought out  | <span class="ashebrew"><big>הוֹצֵֽאתִי</big></span><small><sup>[[H3318H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ho.tze.ti-<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אֹתָ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם֩</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] land of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֶ֨רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרַ֜יִם</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] eyes of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֵינֵ֣י</big></span><small><sup>[[H5869H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the nations  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גּוֹיִ֗ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to become  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הְיֹ֥ת</big></span><small><sup>[[H1961]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֛ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> God  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אלֹהִ֖ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֥י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.44|<< Leviticus 26:44]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.46|Leviticus 26:46 >>]]</td></tr></table>
+
+

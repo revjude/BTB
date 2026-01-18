@@ -1,0 +1,23 @@
+**Deuteronomy 28:37** 
+<small><sub>**KJV:**</sub></small>
+And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the LORD shall lead thee.
+<small><sub>**BSB:**</sub></small>
+You will become an object of horror, scorn, and ridicule among all the nations to which the LORD will drive you.
+<small><sub>**Literal:**</sub></small>
+and  you will become \<into>  a horror \<into>  a byword and  \<into>  a taunt among  all the  peoples where he will drive away  you Yahweh there  towards<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.36|<< Deuteronomy 28:36]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.38|Deuteronomy 28:38 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will become  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיִ֣יתָ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yi.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a horror  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שַׁמָּ֔ה</big></span><small><sup>[[H8047H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> sha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a byword  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מָשָׁ֖ל</big></span><small><sup>[[H4912]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ma.Shal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<into> a taunt  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שְׁנִינָ֑ה</big></span><small><sup>[[H8148]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> sh.ni.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among all  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כֹל֙</big></span><small><sup>[[H3605]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the peoples  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עַמִּ֔ים</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will drive away you  | <span class="ashebrew"><big>יְנַהֶגְ</big></span><small><sup>[[H5090A]]</sup></small> <span class="ashebrew"><big>ךָ֥</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ye.na.heg.<small><sup>[[HVpi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there towards  | <span class="ashebrew"><big>שָֽׁמָּ</big></span><small><sup>[[H8033G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.36|<< Deuteronomy 28:36]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.38|Deuteronomy 28:38 >>]]</td></tr></table>
+
+

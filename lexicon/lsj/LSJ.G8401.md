@@ -1,0 +1,11 @@
+<span class="asgreek">νοητῶς</span> <small>***(noētōs)***</small> ==**intelligible**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+Included with: <b> <span class='asgreek'>==νοητῶς==</span>-<span class='asgreek'>ητός</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 
+
+
+ hyperdorian mode <b><span class='asgreek'>==νοητῶς==ᾱτός</span></b> [<a href="javascript:void(0)" title=" 5th-4th c.BC: Timaeus Locrus Philosophus 95a ">Refs 5th c.BC+</a>]:— <b>falling within the province of</b> <span class='asgreek'>==νοητῶς==ῦς</span>, <b>mental,</b> opposed to <span class='asgreek'>φατός</span>, <span class='asgreek'>ὁρατός</span>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Parmenides Poeta Philosophus 8.8, 5th-6th c.BC: Plato Philosophus “Respublica” 509d, +others; ν. καὶ ἀσώματα εἴδη [prev. author] “Sph.” 246b; ν. ζῷα [prev. author] “Ti.” 30c; ν. κόσμος 1st c.AD: Philo Judaeus 1.5, etc.">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>αἰσθητός</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1174b34, 1st c.BC: Philodemus Philosophus “de Pietate - Herkulanische Studien” 81, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1114d, 3rd c.AD(?): Diogenes Laertius 3.10. ">Refs 4th c.BC+</a>] <i>adverb</i> -<span class='asgreek'>τῶς</span>, opposed to <span class='asgreek'>αἰσθητῶς</span>,[<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 4.8.6, compare 1st c.AD: Philo Judaeus 1.467, 4th c.AD: Iamblichus Philosophus “de Mysteriis” 8.6. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==νοητῶς==ητικός</span>}, Oracle texts cited in [<a href="javascript:void(0)" title=" 6th c.AD: Lydus, Joannes Laurentius Historicus “de Mensibus” 1.11 ">Refs 6th c.AD+</a>]. <i>adverb</i> <b>-<span class='asgreek'>τῶς</span></b> <b>carefully,</b> [<a href="javascript:void(0)" title=" LXX.Prov.23.1. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[Prov.23.1]]
+</sub></small>

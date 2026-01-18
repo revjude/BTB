@@ -1,0 +1,22 @@
+**Numbers 31:10** 
+<small><sub>**KJV:**</sub></small>
+And they burnt all their cities wherein they dwelt, and all their goodly castles, with fire.
+<small><sub>**BSB:**</sub></small>
+Then they burned all the cities where the Midianites had lived, as well as all their encampments,
+<small><sub>**Literal:**</sub></small>
+and  \<obj.> all cities  their in  dwelling places  their and  \<obj.> all encampments  their they burned with \<the>  fire<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.9|<< Numbers 31:9]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.11|Numbers 31:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֤ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities their  | <span class="ashebrew"><big>עָרֵי</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in dwelling places their  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מ֣וֹשְׁבֹתָ֔</big></span><small><sup>[[H4186]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Mo.o.she.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֖ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| encampments their  | <span class="ashebrew"><big>טִֽירֹתָ֑</big></span><small><sup>[[H2918]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ti.ro.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they burned  | <span class="ashebrew"><big>שָׂרְפ֖וּ</big></span><small><sup>[[H8313]]</sup></small> &#8207;| sa.re.Fu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> fire  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֵֽשׁ</big></span><small><sup>[[H0784]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.9|<< Numbers 31:9]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.11|Numbers 31:11 >>]]</td></tr></table>
+
+

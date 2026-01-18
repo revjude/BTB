@@ -1,0 +1,24 @@
+**Judges 16:16** 
+<small><sub>**KJV:**</sub></small>
+And it came to pass, when she pressed him daily with her words, and urged him, [so] that his soul was vexed unto death;
+<small><sub>**BSB:**</sub></small>
+Finally, after she had pressed him daily with her words and pleaded until he was sick to death,
+<small><sub>**Literal:**</sub></small>
+and  it was that she pressed \<to> \<the>  him with  words  her all the  days and  she urged  him and  it was short self  his to  die<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.15|<< Judges 16:15]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.17|Judges 16:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ֠</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִי</big></span><small><sup>[[H1961]]</sup></small> &#8207;| Va<small><sup>[[Hc]]</sup></small> y.hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she pressed  | <span class="ashebrew"><big>הֵצִ֨יקָה</big></span><small><sup>[[H6693]]</sup></small> &#8207;| he.Tzi.kah<small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> \<the> him  | <span class="ashebrew"><big>לּ֧</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with words her  | <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דְבָרֶ֛י</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| vi<small><sup>[[HR]]</sup></small> d.va.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the days  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּמִ֖ים</big></span><small><sup>[[H3117J]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she urged him  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּאַֽלֲצֵ֑</big></span><small><sup>[[H0509]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.'a.la.Tze.<small><sup>[[HVpw3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was short  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּקְצַ֥ר</big></span><small><sup>[[H7114A]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tik.Tzar<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self his  | <span class="ashebrew"><big>נַפְשׁ֖</big></span><small><sup>[[H5315G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to die  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֽוּת</big></span><small><sup>[[H4191]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Mut<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.15|<< Judges 16:15]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.17|Judges 16:17 >>]]</td></tr></table>
+
+

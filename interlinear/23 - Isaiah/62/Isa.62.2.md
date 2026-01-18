@@ -1,0 +1,27 @@
+**Isaiah 62:2** 
+<small><sub>**KJV:**</sub></small>
+And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the LORD shall name.
+<small><sub>**BSB:**</sub></small>
+Nations will see your righteousness, and all kings your glory. You will be called by a new name that the mouth of the LORD will bestow.
+<small><sub>**Literal:**</sub></small>
+and  they will see nations righteousness  your and  all kings glory  your and  it will be called to  you a name new which [the] mouth of Yahweh it will designate  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.1|<< Isaiah 62:1]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.3|Isaiah 62:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will see  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>רָא֤וּ</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ra.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  | <span class="ashebrew"><big>גוֹיִם֙</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness your  | <span class="ashebrew"><big>צִדְקֵ֔</big></span><small><sup>[[H6664G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| tzid.Ke<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kings  | <span class="ashebrew"><big>מְלָכִ֖ים</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| glory your  | <span class="ashebrew"><big>כְּבוֹדֵ֑</big></span><small><sup>[[H3519]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ke.vo.De<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be called  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>קֹ֤רָא</big></span><small><sup>[[H7121H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> Ko.ra'<small><sup>[[HVPq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9032]]</sup></small> &#8207;| lo<small><sup>[[HR]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a name  | <span class="ashebrew"><big>שֵׁ֣ם</big></span><small><sup>[[H8034]]</sup></small> &#8207;| shem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| new  | <span class="ashebrew"><big>חָדָ֔שׁ</big></span><small><sup>[[H2319H]]</sup></small> &#8207;| cha.Dash<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֛ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mouth of  | <span class="ashebrew"><big>פִּ֥י</big></span><small><sup>[[H6310G]]</sup></small> &#8207;| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will designate it  | <span class="ashebrew"><big>יִקֳּבֶֽ</big></span><small><sup>[[H5344A]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yi.ko.Ve.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.1|<< Isaiah 62:1]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.3|Isaiah 62:3 >>]]</td></tr></table>
+
+

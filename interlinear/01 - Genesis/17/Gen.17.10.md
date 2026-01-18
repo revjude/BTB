@@ -1,0 +1,26 @@
+**Genesis 17:10** 
+<small><sub>**KJV:**</sub></small>
+This [is] my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised.
+<small><sub>**BSB:**</sub></small>
+This is My covenant with you and your descendants after you, which you are to keep: Every male among you must be circumcised.
+<small><sub>**Literal:**</sub></small>
+this [is] covenant  my which you will keep between  me and  between  you and  between offspring  your after  you they will be circumcised of  you every male<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.9|<< Genesis 17:9]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.11|Genesis 17:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| this  | <span class="ashebrew"><big>זֹ֣את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] covenant my  | <span class="ashebrew"><big>בְּרִיתִ֞</big></span><small><sup>[[H1285]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| be.ri.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will keep  | <span class="ashebrew"><big>תִּשְׁמְר֗וּ</big></span><small><sup>[[H8104G]]</sup></small> &#8207;| tish.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between me  | <span class="ashebrew"><big>בֵּינִ</big></span><small><sup>[[H0996G]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9030]]</sup></small> &#8207;| bei.<small><sup>[[HAcmsc]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between you  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵ֣ינֵי</big></span><small><sup>[[H0996G]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Vei.nei.<small><sup>[[HAcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵ֥ין</big></span><small><sup>[[H0996G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| offspring your  | <span class="ashebrew"><big>זַרְעֲ</big></span><small><sup>[[H2233H]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| zar.'a.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after you  | <span class="ashebrew"><big>אַחֲרֶ֑י</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'a.cha.Rei.<small><sup>[[HAcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be circumcised  | <span class="ashebrew"><big>הִמּ֥וֹל</big></span><small><sup>[[H4135A]]</sup></small> &#8207;| hi.Mol<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| male  | <span class="ashebrew"><big>זָכָֽר</big></span><small><sup>[[H2145]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.9|<< Genesis 17:9]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.11|Genesis 17:11 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**2 Samuel 6:4** 
+<small><sub>**KJV:**</sub></small>
+And they brought it out of the house of Abinadab which [was] at Gibeah, accompanying the ark of God: and Ahio went before the ark.
+<small><sub>**BSB:**</sub></small>
+bringing with it the ark of God. And Ahio was walking in front of the ark.
+<small><sub>**Literal:**</sub></small>
+and  they carried  it from  [the] house of Abinadab which [was] on the  hill with [the] ark of \<the>  God and  Ahio [was] walking \<to>  before the  ark<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.3|<< 2 Samuel 6:3]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.5|2 Samuel 6:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they carried it  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשָּׂאֻ֗</big></span><small><sup>[[H5375H]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.sa.'U.<small><sup>[[HVqw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] house of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בֵּ֤ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abinadab  | <span class="ashebrew"><big>אֲבִֽינָדָב֙</big></span><small><sup>[[H0041G]]</sup></small> &#8207;| 'a.vi.na.Dav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] on the hill  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גִּבְעָ֔ה</big></span><small><sup>[[H1389I]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> giv.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִ֖ם</big></span><small><sup>[[H5973A]]</sup></small> &#8207;| 'im<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ark of  | <span class="ashebrew"><big>אֲר֣וֹן</big></span><small><sup>[[H0727]]</sup></small> &#8207;| 'a.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֑ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ahio  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַחְי֕וֹ</big></span><small><sup>[[H0283G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ach.Yo<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] walking  | <span class="ashebrew"><big>הֹלֵ֖ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֥י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ark  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָרֽוֹן</big></span><small><sup>[[H0727]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.3|<< 2 Samuel 6:3]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.5|2 Samuel 6:5 >>]]</td></tr></table>
+
+

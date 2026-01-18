@@ -1,0 +1,20 @@
+**Zechariah 8:5** 
+<small><sub>**KJV:**</sub></small>
+And the streets of the city shall be full of boys and girls playing in the streets thereof.
+<small><sub>**BSB:**</sub></small>
+And the streets of the city will be filled with boys and girls playing there.”
+<small><sub>**Literal:**</sub></small>
+and  [the] open places of the  city they will be filled boys and  girls playing in  open places  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.4|<< Zechariah 8:4]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.6|Zechariah 8:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] open places of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רְחֹב֤וֹת</big></span><small><sup>[[H7339]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> re.cho.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִיר֙</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be filled  | <span class="ashebrew"><big>יִמָּ֣לְא֔וּ</big></span><small><sup>[[H4390]]</sup></small> &#8207;| yi.Mal.'U<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| boys  | <span class="ashebrew"><big>יְלָדִ֖ים</big></span><small><sup>[[H3206]]</sup></small> &#8207;| ye.la.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and girls  | <span class="ashebrew"><big>וִֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ילָד֑וֹת</big></span><small><sup>[[H3207]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> la.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| playing  | <span class="ashebrew"><big>מְשַׂחֲקִ֖ים</big></span><small><sup>[[H7832]]</sup></small> &#8207;| me.sa.cha.Kim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in open places its  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רְחֹֽבֹתֶֽי</big></span><small><sup>[[H7339]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> r.Cho.o.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.4|<< Zechariah 8:4]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.6|Zechariah 8:6 >>]]</td></tr></table>
+
+

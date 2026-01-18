@@ -1,0 +1,26 @@
+**Isaiah 13:8** 
+<small><sub>**KJV:**</sub></small>
+And they shall be afraid: pangs and sorrows shall take hold of them; they shall be in pain as a woman that travaileth: they shall be amazed one at another; their faces [shall be as] flames.
+<small><sub>**BSB:**</sub></small>
+Terror, pain, and anguish will seize them; they will writhe like a woman in labor. They will look at one another, their faces flushed with fear.
+<small><sub>**Literal:**</sub></small>
+and  they will be terrified pangs and  pains they will seize [them]  ! like \<the>  [woman] giving birth they will be in anguish  ! each to neighbor  his they will look in astonishment [will be] faces of flames faces  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.7|<< Isaiah 13:7]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.9|Isaiah 13:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will be terrified  | <span class="ashebrew"><big>וְֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נִבְהָ֓לוּ</big></span><small><sup>[[H0926]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> niv.Ha.lu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pangs  | <span class="ashebrew"><big>צִירִ֤ים</big></span><small><sup>[[H6735C]]</sup></small> &#8207;| tzi.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and pains  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֲבָלִים֙</big></span><small><sup>[[H2256B]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> cha.va.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will seize [them] !  | <span class="ashebrew"><big>יֹֽאחֵז֔וּ</big></span><small><sup>[[H0270]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;| yo.che.Zu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> [woman] giving birth  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>יּוֹלֵדָ֖ה</big></span><small><sup>[[H3205]]</sup></small> &#8207;| ka<small><sup>[[HRd]]</sup></small> i.yo.le.Dah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be in anguish !  | <span class="ashebrew"><big>יְחִיל֑וּ</big></span><small><sup>[[H2342I]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;| ye.chi.Lu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| each  | <span class="ashebrew"><big>אִ֤ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neighbor his  | <span class="ashebrew"><big>רֵעֵ֙</big></span><small><sup>[[H7453]]</sup></small> <span class="ashebrew"><big>הוּ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will look in astonishment  | <span class="ashebrew"><big>יִתְמָ֔הוּ</big></span><small><sup>[[H8539]]</sup></small> &#8207;| yit.Ma.hu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] faces of  | <span class="ashebrew"><big>פְּנֵ֥י</big></span><small><sup>[[H6440H]]</sup></small> &#8207;| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flames  | <span class="ashebrew"><big>לְהָבִ֖ים</big></span><small><sup>[[H3851]]</sup></small> &#8207;| le.ha.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faces their  | <span class="ashebrew"><big>פְּנֵי</big></span><small><sup>[[H6440H]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| pe.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.7|<< Isaiah 13:7]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.9|Isaiah 13:9 >>]]</td></tr></table>
+
+

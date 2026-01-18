@@ -1,0 +1,25 @@
+**1 Kings 15:8** 
+<small><sub>**KJV:**</sub></small>
+And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.
+<small><sub>**BSB:**</sub></small>
+And Abijam rested with his fathers and was buried in the City of David, and his son Asa reigned in his place.
+<small><sub>**Literal:**</sub></small>
+and  he lay down Abijam with ancestors  his and  people buried \<obj.>  him in  [the] city of David and  he became king Asa son  his in place of  him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.7|<< 1 Kings 15:7]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.9|1 Kings 15:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he lay down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁכַּ֤ב</big></span><small><sup>[[H7901J]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abijam  | <span class="ashebrew"><big>אֲבִיָּם֙</big></span><small><sup>[[H0038]]</sup></small> &#8207;| 'a.vi.Yam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors his  | <span class="ashebrew"><big>אֲבֹתָ֔י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and people buried  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְבְּר֥וּ</big></span><small><sup>[[H6912]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.be.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  | <span class="ashebrew"><big>אֹת֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] city of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עִ֣יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'Ir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֑ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he became king  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּמְלֹ֛ךְ</big></span><small><sup>[[H4427A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yim.Lokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Asa  | <span class="ashebrew"><big>אָסָ֥א</big></span><small><sup>[[H0609G]]</sup></small> &#8207;| 'a.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  | <span class="ashebrew"><big>בְנ֖</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of him  | <span class="ashebrew"><big>תַּחְתָּֽי</big></span><small><sup>[[H8478H]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.7|<< 1 Kings 15:7]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.9|1 Kings 15:9 >>]]</td></tr></table>
+
+

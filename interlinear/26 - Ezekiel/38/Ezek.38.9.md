@@ -1,0 +1,26 @@
+**Ezekiel 38:9** 
+<small><sub>**KJV:**</sub></small>
+Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land, thou, and all thy bands, and many people with thee.
+<small><sub>**BSB:**</sub></small>
+You and all your troops, and many peoples with you will go up, advancing like a thunderstorm; you will be like a cloud covering the land.
+<small><sub>**Literal:**</sub></small>
+and  you will go up like \<the>  storm you will go like \<the>  cloud [about] to  cover the  land you are you and  all troops  your and  peoples many with  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.8|<< Ezekiel 38:8]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.10|Ezekiel 38:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will go up  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָלִ֙יתָ֙</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Li.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> storm  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>שֹּׁאָ֣ה</big></span><small><sup>[[H7722B]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> sho.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will go  | <span class="ashebrew"><big>תָב֔וֹא</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ta.Vo'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> cloud  | <span class="ashebrew"><big>כֶּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עָנָ֛ן</big></span><small><sup>[[H6051]]</sup></small> &#8207;| ke.<small><sup>[[HRd]]</sup></small> 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [about] to cover  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כַסּ֥וֹת</big></span><small><sup>[[H3680]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> kha.Sot<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֖רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you are  | <span class="ashebrew"><big>תִּֽהְיֶ֑ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| tih.Yeh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתָּה֙</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| troops your  | <span class="ashebrew"><big>אֲגַפֶּ֔י</big></span><small><sup>[[H0102]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'a.ga.Pei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and peoples  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַמִּ֥ים</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  | <span class="ashebrew"><big>רַבִּ֖ים</big></span><small><sup>[[H7227A]]</sup></small> &#8207;| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  | <span class="ashebrew"><big>אוֹתָֽ</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.8|<< Ezekiel 38:8]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.10|Ezekiel 38:10 >>]]</td></tr></table>
+
+

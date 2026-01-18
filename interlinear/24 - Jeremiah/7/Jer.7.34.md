@@ -1,0 +1,30 @@
+**Jeremiah 7:34** 
+<small><sub>**KJV:**</sub></small>
+Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride: for the land shall be desolate.
+<small><sub>**BSB:**</sub></small>
+I will remove from the cities of Judah and the streets of Jerusalem the sounds of joy and gladness and the voices of the bride and bridegroom, for the land will become a wasteland.”
+<small><sub>**Literal:**</sub></small>
+and  I will cause to cease from  [the] cities of Judah and  from  [the] streets of Jerusalem [the] sound of joy and  [the] sound of gladness [the] sound of a bridegroom and  [the] sound of a bride for \<into>  a desolation it will become the  land<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.33|<< Jeremiah 7:33]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.1|Jeremiah 8:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will cause to cease  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִשְׁבַּתִּ֣י</big></span><small><sup>[[H7673A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hish.ba.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] cities of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עָרֵ֣י</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֗ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from [the] streets of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֵֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>חֻצוֹת֙</big></span><small><sup>[[H2351]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> chu.tzOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  | <span class="ashebrew"><big>יְר֣וּשָׁלִַ֔ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| ye.Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sound of  | <span class="ashebrew"><big>ק֤וֹל</big></span><small><sup>[[H6963A]]</sup></small> &#8207;| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| joy  | <span class="ashebrew"><big>שָׂשׂוֹן֙</big></span><small><sup>[[H8342]]</sup></small> &#8207;| sa.sOn<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sound of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ק֣וֹל</big></span><small><sup>[[H6963A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gladness  | <span class="ashebrew"><big>שִׂמְחָ֔ה</big></span><small><sup>[[H8057]]</sup></small> &#8207;| sim.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sound of  | <span class="ashebrew"><big>ק֥וֹל</big></span><small><sup>[[H6963A]]</sup></small> &#8207;| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a bridegroom  | <span class="ashebrew"><big>חָתָ֖ן</big></span><small><sup>[[H2860]]</sup></small> &#8207;| cha.Tan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sound of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ק֣וֹל</big></span><small><sup>[[H6963A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a bride  | <span class="ashebrew"><big>כַּלָּ֑ה</big></span><small><sup>[[H3618G]]</sup></small> &#8207;| ka.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a desolation  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חָרְבָּ֖ה</big></span><small><sup>[[H2723]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> cha.re.Bah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will become  | <span class="ashebrew"><big>תִּהְיֶ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָֽרֶץ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.33|<< Jeremiah 7:33]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.1|Jeremiah 8:1 >>]]</td></tr></table>
+
+

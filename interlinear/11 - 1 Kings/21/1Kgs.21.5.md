@@ -1,0 +1,26 @@
+**1 Kings 21:5** 
+<small><sub>**KJV:**</sub></small>
+But Jezebel his wife came to him, and said unto him, Why is thy spirit so sad, that thou eatest no bread?
+<small><sub>**BSB:**</sub></small>
+Soon his wife Jezebel came in and asked, “Why are you so sullen that you refuse to eat?”
+<small><sub>**Literal:**</sub></small>
+and  she came to  him Jezebel wife  his and  she spoke to  him why? this [is] spirit  your sullen and  not  you [are] eating food<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.4|<< 1 Kings 21:4]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.6|1 Kings 21:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תָּבֹ֥א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>אֵלָ֖י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jezebel  | <span class="ashebrew"><big>אִיזֶ֣בֶל</big></span><small><sup>[[H0348]]</sup></small> &#8207;| 'i.Ze.vel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wife his  | <span class="ashebrew"><big>אִשְׁתּ֑</big></span><small><sup>[[H0802H]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'ish.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she spoke  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּדַבֵּ֣ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.da.Ber<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>אֵלָ֗י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| why?  | <span class="ashebrew"><big>מַה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֶּה֙</big></span><small><sup>[[H2088]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] spirit your  | <span class="ashebrew"><big>רוּחֲ</big></span><small><sup>[[H7307G]]</sup></small> <span class="ashebrew"><big>ךָ֣</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ru.cha.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sullen  | <span class="ashebrew"><big>סָרָ֔ה</big></span><small><sup>[[H5620]]</sup></small> &#8207;| sa.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵינְ</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9041]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ei.ne.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] eating  | <span class="ashebrew"><big>אֹכֵ֥ל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| 'o.Khel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food  | <span class="ashebrew"><big>לָֽחֶם</big></span><small><sup>[[H3899G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| La.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.4|<< 1 Kings 21:4]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.6|1 Kings 21:6 >>]]</td></tr></table>
+
+

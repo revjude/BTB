@@ -1,0 +1,23 @@
+<span class="asgreek">χελώνη</span> <small>***(chelōnē)***</small> ==**a tortoise**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==χελώνη==</span>-<span class='asgreek'>η</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>tortoise,</b> [<a href="javascript:void(0)" title=" hymnus ad Mercurium 42,48, Oracle texts cited in 5th c.BC: Herodotus Historicus 1.47, 48 ">Refs 5th c.BC+</a>]; <span class='asgreek'>χ</span>. <span class='asgreek'>χερσαία</span>[<a href="javascript:void(0)" title=" (compare below 2) 4th c.BC: Aristoteles Philosophus “de Partibus Animalium” 671a28: proverbial of insensibility, ἰὼ χελῶναι μακάριαι τοῦ δέρματος 5th-6th c.BC: Aristophanes Comicus “Vespae” 1292, compare 429 (Lyric poetry), 5th c.BC: Sophocles Tragicus “Fragmenta” 279, 2nd c.AD: Lucianus Sophista “Vit.Auct.” 9 ">Refs 5th c.BC+</a>]; of slowness, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1082e, 4th c.AD: Libanius Sophista “Epistulae” 74.1, etc. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ποντιὰς</span> <span class='asgreek'>χ</span>. <b>turtle,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Crates Comicus 29; χ. θαλασσία 4th c.BC: Aristoteles Philosophus [same place], compare 540a29, 2nd-3rd c.AD: Aelianus “Varia Historia” 1.6, 2nd c.AD: Pausanias Periegeta 1.44.8. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>tortoise-shell,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.478. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>sounding-board</b> of lyre, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1030b. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>pent-house</b> or <b>shed</b> for protecting beseigers, <span class='asgreek'>χ</span>. <span class='asgreek'>ξυλίνη</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 3.1.7, compare 4th c.BC: Aeneas Tacticus 32.11 ">Refs 5th c.BC+</a>]; <span class='asgreek'>χ</span>. <span class='asgreek'>χωστρίς</span>, used to protect sappers and miners, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 9.41.1, 10.31.8, 1st c.AD: Onosander (Onasander) Tacticus 42.3 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>κριοφόρος</span>, to cover the battering-ram, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 20.48, etc., compare 2nd c.AD: Appianus Historicus “Μιθριδάτειος” 31. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.b</b> = Latin <i>testudo</i>, <b>overlapping shields,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 49.30. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.2</b> a kind of <b>frame</b> or <b>cradle,</b> on which heavy weights were moved by means of rollers underneath, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “Mech.” 3.1 (vol. ii p.294 Schmidt). ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>footstool,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polemo Historicus 44, 5th c.AD(?): Hesychius Legal icographus, 10th c.AD: Suidas Legal icographus ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <b>coin</b> bearing the impress of a <b>tortoise,</b> first coined at Aegina, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 9.74, 5th c.AD(?): Hesychius Legal icographus ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.5</b> <i>plural</i>, <b>hillocks,</b> [<a href="javascript:void(0)" title=" LXX.Hos.12.11. ">LXX</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.6</b> <b>tomb with arched roof</b>, [<a href="javascript:void(0)" title=" “JHS” 10.82 (from Patara). ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.7</b> a kind of <b>bandage,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD: Oribasius Medicus 48.66 at Title Page, 2nd c.AD: Soranus Medicus “de fasciis - Opera Hippocratis et Galeni” 56. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.8</b> part of a surgical machine, from its slow uniform motion, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus 49.4.45. ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.9</b> ={<span class='asgreek'>==χελώνη==ιον</span>}[<a href="javascript:void(0)" title=" 111, “IG” 11(2).159 A 26,60 (Delos, 3rd c.BC). ">Refs 3rd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Hos.12.11]]
+</sub></small>

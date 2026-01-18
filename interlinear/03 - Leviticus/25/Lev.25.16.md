@@ -1,0 +1,29 @@
+**Leviticus 25:16** 
+<small><sub>**KJV:**</sub></small>
+According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for [according] to the number [of the years] of the fruits doth he sell unto thee.
+<small><sub>**BSB:**</sub></small>
+You shall increase the price in proportion to a greater number of years, or decrease it in proportion to a lesser number of years; for he is selling you a given number of harvests.
+<small><sub>**Literal:**</sub></small>
+to  [the] mouth of [the] abundance of the  years you will increase purchase price  its and  to  [the] mouth of [the] being small of the  years you will make small purchase price  its for [the] number of produce\<s> he [is] selling to \<the>  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.15|<< Leviticus 25:15]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.17|Leviticus 25:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to [the] mouth of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פִ֣י</big></span><small><sup>[[H6310K]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Fi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] abundance of  | <span class="ashebrew"><big>רֹ֣ב</big></span><small><sup>[[H7230]]</sup></small> &#8207;| ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the years  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁנִ֗ים</big></span><small><sup>[[H8141]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will increase  | <span class="ashebrew"><big>תַּרְבֶּה֙</big></span><small><sup>[[H7235A]]</sup></small> &#8207;| tar.Beh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| purchase price its  | <span class="ashebrew"><big>מִקְנָת֔</big></span><small><sup>[[H4736]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| mik.na.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to [the] mouth of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פִי֙</big></span><small><sup>[[H6310K]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Fi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] being small of  | <span class="ashebrew"><big>מְעֹ֣ט</big></span><small><sup>[[H4591]]</sup></small> &#8207;| me.'Ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the years  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁנִ֔ים</big></span><small><sup>[[H8141]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make small  | <span class="ashebrew"><big>תַּמְעִ֖יט</big></span><small><sup>[[H4591]]</sup></small> &#8207;| tam.'It<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| purchase price its  | <span class="ashebrew"><big>מִקְנָת֑</big></span><small><sup>[[H4736]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| mik.na.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֚י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] number of  | <span class="ashebrew"><big>מִסְפַּ֣ר</big></span><small><sup>[[H4557]]</sup></small> &#8207;| mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| produce\<s>  | <span class="ashebrew"><big>תְּבוּאֹ֔ת</big></span><small><sup>[[H8393]]</sup></small> &#8207;| te.vu.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  | <span class="ashebrew"><big>ה֥וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] selling  | <span class="ashebrew"><big>מֹכֵ֖ר</big></span><small><sup>[[H4376]]</sup></small> &#8207;| mo.Kher<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לָֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.15|<< Leviticus 25:15]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.17|Leviticus 25:17 >>]]</td></tr></table>
+
+

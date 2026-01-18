@@ -1,0 +1,22 @@
+**Deuteronomy 21:2** 
+<small><sub>**KJV:**</sub></small>
+Then thy elders and thy judges shall come forth, and they shall measure unto the cities which [are] round about him that is slain:
+<small><sub>**BSB:**</sub></small>
+your elders and judges must come out and measure the distance from the victim to the neighboring cities.
+<small><sub>**Literal:**</sub></small>
+and  they will go out elders  your and  judges  your and  they will measure to the  cities which [are] around the  [one] slain<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.1|<< Deuteronomy 21:1]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.3|Deuteronomy 21:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will go out  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָצְא֥וּ</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ya.tze.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| elders your  | <span class="ashebrew"><big>זְקֵנֶ֖י</big></span><small><sup>[[H2205G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ze.ke.Nei.<small><sup>[[HAampc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and judges your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֹׁפְטֶ֑י</big></span><small><sup>[[H8199]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sho.fe.Tei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will measure  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>מָדְדוּ֙</big></span><small><sup>[[H4058]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> ma.de.Du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cities  | <span class="ashebrew"><big>הֶ֣</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָרִ֔ים</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֖ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] around  | <span class="ashebrew"><big>סְבִיבֹ֥ת</big></span><small><sup>[[H5439G]]</sup></small> &#8207;| se.vi.Vot<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [one] slain  | <span class="ashebrew"><big>הֶ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חָלָֽל</big></span><small><sup>[[H2491A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.1|<< Deuteronomy 21:1]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.3|Deuteronomy 21:3 >>]]</td></tr></table>
+
+

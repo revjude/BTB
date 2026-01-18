@@ -1,0 +1,15 @@
+name of: <small>[[G2381]]</small> 
+
+
+<b> <span class='asgreek'>==Δίδυμος==</span></b> [<span class='asgreek'>ῐ</span>], <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 
+
+
+ also <span class='asgreek'>ος</span>, <span class='asgreek'>ον</span> variant in [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 4.209, 5th c.BC: Euripides Tragicus “Hercules Furens” 656 (Lyric poetry), 5th-6th c.BC: Plato Philosophus “Critias” 113e:">Refs 5th c.BC+</a>] —<i>reduplicate</i> from <span class='asgreek'>δύο</span>, <b>double, twofold,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 19.227, etc.; διδύμαιν χειροῖν 5th c.BC: Sophocles Tragicus “Electra” 206 (Lyric poetry): also in \_sing.\_, χερὶ διδύμᾳ">Refs 8th c.BC+</a>] with <b>both</b> hands, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 2.9 ">Refs 5th c.BC+</a>]; <span class='asgreek'>δ</span>. <span class='asgreek'>ἅλς</span>, i. e. the Pontus and Bosporus, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 967 (Lyric poetry); δ. γένος “Anthologia Graeca” 7.72 (4th-3rd c.BC: Menander Comicus); δ. ξύλον ">Refs 5th c.BC+</a>]<b>forked,</b> [<a href="javascript:void(0)" title=" LXX.Josh.8.29 ">LXX</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>γλυκύ</span> <span class='asgreek'>μοι</span> <span class='asgreek'>δ</span>., of a wife, [<a href="javascript:void(0)" title=" “IG” 14.1974. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>twin,</b> <span class='asgreek'>δ</span>. <span class='asgreek'>κασίγνητος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “N.” 1.36; δ. τέκνων ἄριστα 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1693 (Lyric poetry); δ. τέκεα 5th c.BC: Euripides Tragicus “Helena” 220 (Lyric poetry). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>substantive</i>, <span class='asgreek'>δίδυμοι</span> <b>twins,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 23.641, 5th c.BC: Herodotus Historicus 5.41 ">Refs 8th c.BC+</a>]: of <b>the Twins</b> in the zodiac, [<a href="javascript:void(0)" title=" 4th c.BC: Eudoxus Astronomus cited in 2nd c.BC: Hipparchus Astronomicus 1.2.8, 4th-3rd c.BC: Aratus Epicus 147, “IG” 14.1307">Refs 4th c.BC+</a>]; also <span class='asgreek'>δίδυμα</span>, <span class='asgreek'>τά</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 6.52; δύο διδύμω 5th c.BC: Euripides Tragicus “Orestes” 1401 (Lyric poetry). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>the testicles,</b> [<a href="javascript:void(0)" title=" LXX.Deut.25.11, “Anthologia Graeca” 5.125 (1st c.BC: Philodemus Gadarensis Epigrammaticus): \_sing.\_, 3rd c.BC: Herophilus Medicus cited in 2nd c.AD: Galenus Medicus “de Usu Partium” 14.11. ">LXX+3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>ovaries,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Herophilus Medicus [same place], 2nd c.AD: Soranus Medicus 1.12. ">Refs 3rd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Josh.8.29]] ☩ [[Deut.25.11]]
+</sub></small>

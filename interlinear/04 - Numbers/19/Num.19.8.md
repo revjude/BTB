@@ -1,0 +1,24 @@
+**Numbers 19:8** 
+<small><sub>**KJV:**</sub></small>
+And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even.
+<small><sub>**BSB:**</sub></small>
+The one who burned the heifer must also wash his clothes and bathe his body in water, and he too will be ceremonially unclean until evening.
+<small><sub>**Literal:**</sub></small>
+and  the  [one who] burns \<obj.>  it he will wash clothes  his with \<the>  water and  he will wash body  his with \<the>  water and  he will be unclean until the  evening<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.7|<< Numbers 19:7]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.9|Numbers 19:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the [one who] burns  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֹּׂרֵ֣ף</big></span><small><sup>[[H8313]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> so.Ref<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹתָ֔</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will wash  | <span class="ashebrew"><big>יְכַבֵּ֤ס</big></span><small><sup>[[H3526H]]</sup></small> &#8207;| ye.kha.Bes<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clothes his  | <span class="ashebrew"><big>בְּגָדָי</big></span><small><sup>[[H0899B]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.ga.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> water  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מַּ֔יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will wash  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>רָחַ֥ץ</big></span><small><sup>[[H7364]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ra.Chatz<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| body his  | <span class="ashebrew"><big>בְּשָׂר֖</big></span><small><sup>[[H1320]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.sa.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> water  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מָּ֑יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will be unclean  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>טָמֵ֖א</big></span><small><sup>[[H2930A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ta.Me'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the evening  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָֽרֶב</big></span><small><sup>[[H6153]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.7|<< Numbers 19:7]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.9|Numbers 19:9 >>]]</td></tr></table>
+
+

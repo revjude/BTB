@@ -1,0 +1,23 @@
+<span class="asform"><span class="asgreek"><span class="asbold">σημεῖον</span></span>, <span class="asgreek">-ου, τό </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">אוֹת</span> <small><sup>[[H0226]]</sup></small> ;\] </span> </span>
+<span class="asitalic">a sign, mark, token</span>;
+<span class="asbullet"><span class="asbold">(a)</span> of that which distinguishes a person or thing from others: [[Matt.26.48|Mt 26:48]], [[Luke.2.12|Lk 2:12]], [[2Thess.3.17|II Th 3:17]] (cf. Deiss., <span class="asitalic">LAE</span>, 153<span class="assubscript">2</span>); seq. gen. epexeg., [[Rom.4.11|Ro 4:11]]; c. gen. obj., [[Matt.24.8|Mt 24:8]], [[Matt.24.30|30]], [[2Cor.12.12|II Co 12:12]]; c. gen. subj., [[Matt.16.3|Mt 16:3]];</span>
+<span class="asbullet"><span class="asbold">(b)</span> a sign of warning or admonition: [[Matt.12.39|Mt 12:39]] [[Matt.16.4|16:4]], [[Luke.2.34|Lk 2:34]] [[Luke.11.29|11:29, 30]], [[1Cor.14.22|I Co 14:22]];</span>
+<span class="asbullet"><span class="asbold">(c)</span> a sign portending future events (Soph., Plat. al.): [[Mark.13.4|Mk 13:4]], [[Luke.21.7|Lk 21:7]], [[Luke.21.11|11]], [[Luke.21.25|25]], [[Acts.2.19|Ac 2:19]], [[Rev.12.1|Re 12:1]], [[Rev.12.3|3]] [[Rev.15.1|15:1]];</span>
+<span class="asbullet"><span class="asbold">(d)</span> of miracles and wonders (MM, xxii), regarded as signs of a divine authority: [[Matt.12.38|Mt 12:38, 39]] [[Matt.16.1|16:1]], [[Matt.16.4|4]], [[Mark.8.11|Mk 8:11, 12]] [[Luke.11.16|Lk 11:16]], [[Luke.11.29|29]] [[Luke.23.8|23:8]], [[John.2.11|Jo 2:11]], [[John.2.18|18]], [[John.2.23|23]] [[John.4.54|4:54]] [[John.6.30|6:30]] [[John.10.41|10:41]] [[John.12.18|12:18]], [[Acts.4.16|Ac 4:16]], [[Acts.4.22|22]]; pl., [[Mark.16.17|Mk 16:\[17]], [[Mark.16.20|20\]]], [[John.2.11|Jo 2:11]], [[John.2.23|23]] [[John.3.2|3:2]] [[John.6.2|6:2]], [[John.6.14|14]], [[John.6.26|26]] [[John.7.31|7:31]] [[John.9.16|9:16]] [[John.11.47|11:47]] [[John.12.37|12:37]] [[John.20.30|20:30]], [[Acts.8.6|Ac 8:6]], [[1Cor.1.22|I Co 1:22]] (Lft., <span class="asitalic">Notes</span>, 162); the same ascribed to false teachers and demons: [[Matt.24.24|Mt 24:24]], [[Mark.13.22|Mk 13:22]], [[2Thess.2.9|II Th 2:9]], [[Rev.13.13|Re 13:13, 14]] [[Rev.16.14|16:14]] [[Rev.19.20|19:20]]; <span class="asgreek">σ. καὶ τέρατα</span> (<span class="asgreek">τ. καὶ σ.</span>; cf. Tr., <span class="asitalic">Syn.</span>, § xci), [[Matt.24.24|Mt 24:24]], [[Mark.13.22|Mk 13:22]], [[John.4.48|Jo 4:48]], [[Acts.2.19|Ac 2:19]], [[Acts.2.43|43]] [[Acts.4.30|4:30]] [[Acts.5.12|5:12]] [[Acts.6.8|6:8]] [[Acts.7.36|7:36]] [[Acts.14.3|14:3]] [[Acts.15.12|15:12]], [[Rom.15.19|Ro 15:19]], [[2Thess.2.9|II Th 2:9]]; id. seq. <span class="asgreek">καὶ δυνάμεις</span>, [[2Cor.12.12|II Co 12:12]], [[Heb.2.4|He 2:4]]; <span class="asgreek">σ. καὶ δυνάμεις</span>, [[Acts.8.13|Ac 8:13]]; <span class="asgreek">δ. καὶ τ. καὶ σ.</span>, [[Acts.2.22|Ac 2:22]]; <span class="asgreek">σ. διδόναι</span>, [[Matt.24.24|Mt 24:24]], [[Mark.13.22|Mk 13:22]].†</span>
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Matthew | [[Matt.12.38\|12:38]] · [[Matt.12.39\|12:39]] · [[Matt.16.1\|16:1]] · [[Matt.16.3\|16:3]] · [[Matt.16.4\|16:4]] · [[Matt.24.8\|24:8]] · [[Matt.24.24\|24:24]] · [[Matt.24.30\|24:30]] · [[Matt.26.48\|26:48]] |
+| Mark | [[Mark.8.11\|8:11]] · [[Mark.13.4\|13:4]] · [[Mark.13.22\|13:22]] · [[Mark.16.17\|16:17]] · [[Mark.16.20\|16:20]] |
+| Luke | [[Luke.2.12\|2:12]] · [[Luke.2.34\|2:34]] · [[Luke.11.16\|11:16]] · [[Luke.11.29\|11:29]] · [[Luke.21.7\|21:7]] · [[Luke.21.11\|21:11]] · [[Luke.21.25\|21:25]] · [[Luke.23.8\|23:8]] |
+| John | [[John.2.11\|2:11]] · [[John.2.18\|2:18]] · [[John.2.23\|2:23]] · [[John.3.2\|3:2]] · [[John.4.48\|4:48]] · [[John.4.54\|4:54]] · [[John.6.2\|6:2]] · [[John.6.14\|6:14]] · [[John.6.26\|6:26]] · [[John.6.30\|6:30]] · [[John.7.31\|7:31]] · [[John.9.16\|9:16]] · [[John.10.41\|10:41]] · [[John.11.47\|11:47]] · [[John.12.18\|12:18]] · [[John.12.37\|12:37]] · [[John.20.30\|20:30]] |
+| Acts | [[Acts.2.19\|2:19]] · [[Acts.2.22\|2:22]] · [[Acts.2.43\|2:43]] · [[Acts.4.16\|4:16]] · [[Acts.4.22\|4:22]] · [[Acts.4.30\|4:30]] · [[Acts.5.12\|5:12]] · [[Acts.6.8\|6:8]] · [[Acts.7.36\|7:36]] · [[Acts.8.6\|8:6]] · [[Acts.8.13\|8:13]] · [[Acts.14.3\|14:3]] · [[Acts.15.12\|15:12]] |
+| Romans | [[Rom.4.11\|4:11]] · [[Rom.15.19\|15:19]] |
+| 1 Corinthians | [[1Cor.1.22\|1:22]] · [[1Cor.14.22\|14:22]] |
+| 2 Corinthians | [[2Cor.12.12\|12:12]] |
+| 2 Thessalonians | [[2Thess.2.9\|2:9]] · [[2Thess.3.17\|3:17]] |
+| Hebrews | [[Heb.2.4\|2:4]] |
+| Revelation | [[Rev.12.1\|12:1]] · [[Rev.12.3\|12:3]] · [[Rev.13.13\|13:13]] · [[Rev.15.1\|15:1]] · [[Rev.16.14\|16:14]] · [[Rev.19.20\|19:20]] |
+

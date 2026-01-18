@@ -1,0 +1,16 @@
+<span class="asgreek">πλαγιάζω</span> <small>***(plagiazō)***</small> ==**to bend**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==πλαγιάζω==</span>-<span class='asgreek'>άζω</span></b>, 
+
+
+ (<span class='asgreek'>πλάγιος</span>) <b>turn sideways</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>ἵππον</span> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 1.204 ">Refs 2nd c.AD+</a>]; in wrestling, <b>throw sideways</b>, [<a href="javascript:void(0)" title=" [prev. author] 3.155 ">Refs</a>]; of ships, <span class='asgreek'>π</span>. <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἀντίους</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἐτησίας</span> <b>sail athwart</b> the trade-winds, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Nav.” 9; uncertain meaning in 2nd c.AD: Appianus Historicus “Bella Civilia” 5.88. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>hold aslant</b>, <span class='asgreek'>κάτοπτρον</span> [<a href="javascript:void(0)" title=" 3rd c.AD(?): Achilles Tatius Astronomus “Introductio in Aratum” 21. ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>passive</i>, <span class='asgreek'>πλαγιαζέσθω</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>τρήματα</span> let the holes <b>be made obliquely</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus “Abhandlungen der Göttinger Gesellschaft der Wissenschaften (Phil.-hist. Klasse)” 151.6; κύλινδρος ἀπὸ τῆς ὀρθότητος -ασθείς 5th c.AD: Hierocles Platonicus Philosophus “in Carmen Aureum - FPG” 24p.474M. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>lead astray</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.14.5 ">LXX</a>]; <b>pervert</b>, <span class='asgreek'>ἐπ᾽</span> <span class='asgreek'>ἀδίκοις</span> <span class='asgreek'>δίκαιον</span>[<a href="javascript:void(0)" title="LXX.Isa.29.21 ">LXX</a>]: <i>absolutely</i>, <b>use tortuous methods</b>, <span class='asgreek'>π</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>τεχνιτεύειν</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.432 ">Refs 1st c.AD+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ἢ</span> <span class='asgreek'>φωνὴν</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>πρᾶξιν</span> in word or deed, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Demosthenes” 13. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>strike with the flat of the sword</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 40.53 (\_passive\_). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> Grammars, <b>inflect, decline</b>, [<a href="javascript:void(0)" title=" Scholia recentia 5th c.BC: Sophocles Tragicus “Electra” 365. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <i>passive</i>, <span class='asgreek'>πεπλαγίασται</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>λόγος</span>, of Tragic irony, [<a href="javascript:void(0)" title="Scholia 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 137, 1183. ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Isa.29.21]]
+</sub></small>

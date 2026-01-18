@@ -1,0 +1,31 @@
+**Hosea 9:7** 
+<small><sub>**KJV:**</sub></small>
+The days of visitation are come, the days of recompence are come; Israel shall know [it]: the prophet [is] a fool, the spiritual man [is] mad, for the multitude of thine iniquity, and the great hatred.
+<small><sub>**BSB:**</sub></small>
+The days of punishment have come; the days of retribution have arrived—let Israel know it. The prophet is called a fool, and the inspired man insane, because of the greatness of your iniquity and hostility.
+<small><sub>**Literal:**</sub></small>
+they have come [the] days of \<the>  punishment they have come [the] days of \<the>  retribution let them know Israel [is] a fool the  prophet [is] mad [the] person of the  spirit on [the] greatness of iniquity  your and  great animosity<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.6|<< Hosea 9:6]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.8|Hosea 9:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| they have come  | <span class="ashebrew"><big>בָּ֣אוּ</big></span><small><sup>[[H0935G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  | <span class="ashebrew"><big>יְמֵ֣י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> punishment  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פְּקֻדָּ֗ה</big></span><small><sup>[[H6486]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> pe.ku.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have come  | <span class="ashebrew"><big>בָּ֚אוּ</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  | <span class="ashebrew"><big>יְמֵ֣י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> retribution  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שִׁלֻּ֔ם</big></span><small><sup>[[H7966]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> shi.Lum<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let them know  | <span class="ashebrew"><big>יֵדְע֖וּ</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ye.de.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a fool  | <span class="ashebrew"><big>אֱוִ֣יל</big></span><small><sup>[[H0191]]</sup></small> &#8207;| 'e.Vil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the prophet  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נָּבִ֗יא</big></span><small><sup>[[H5030]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] mad  | <span class="ashebrew"><big>מְשֻׁגָּע֙</big></span><small><sup>[[H7696]]</sup></small> &#8207;| me.shu.Ga'<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] person of  | <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the spirit  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ר֔וּחַ</big></span><small><sup>[[H7307G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַ֚ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] greatness of  | <span class="ashebrew"><big>רֹ֣ב</big></span><small><sup>[[H7230]]</sup></small> &#8207;| ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iniquity your  | <span class="ashebrew"><big>עֲוֹנְ</big></span><small><sup>[[H5771G]]</sup></small> <span class="ashebrew"><big>ךָ֔</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'a.vo.ne.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and great  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רַבָּ֖ה</big></span><small><sup>[[H7227A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ra.Bah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| animosity  | <span class="ashebrew"><big>מַשְׂטֵמָֽה</big></span><small><sup>[[H4895]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mas.te.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.6|<< Hosea 9:6]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.8|Hosea 9:8 >>]]</td></tr></table>
+
+

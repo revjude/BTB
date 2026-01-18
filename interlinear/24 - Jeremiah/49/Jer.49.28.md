@@ -1,0 +1,34 @@
+**Jeremiah 49:28** 
+<small><sub>**KJV:**</sub></small>
+Concerning Kedar, and concerning the kingdoms of Hazor, which Nebuchadrezzar king of Babylon shall smite, thus saith the LORD; Arise ye, go up to Kedar, and spoil the men of the east.
+<small><sub>**BSB:**</sub></small>
+Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon defeated, this is what the LORD says: “Rise up, advance against Kedar, and destroy the people of the east!
+<small><sub>**Literal:**</sub></small>
+of  Kedar and  of  [the] kingdoms of Hazor which he attacked Nebuchadnezzar [the] king of Babylon thus he says Yahweh arise go up against Kedar and  devastate \<obj.> [the] people of [the] east<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.27|<< Jeremiah 49:27]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.29|Jeremiah 49:29 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| of Kedar  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>קֵדָ֣ר</big></span><small><sup>[[H6938]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ke.Dar<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and of [the] kingdoms of  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַמְלְכ֣וֹת</big></span><small><sup>[[H4467]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> mam.le.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hazor  | <span class="ashebrew"><big>חָצ֗וֹר</big></span><small><sup>[[H2674K]]</sup></small> &#8207;| cha.Tzor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֤ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he attacked  | <span class="ashebrew"><big>הִכָּה֙</big></span><small><sup>[[H5221]]</sup></small> &#8207;| hi.Kah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebuchadnezzar  [^1] | <span class="ashebrew"><big>נְבֽוּכַדְרֶאצַּ֣ר</big></span><small><sup>[[H5019]]</sup></small> &#8207;[^2] | ne.vu.khad.re.tzor<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="ashebrew"><big>בָּבֶ֔ל</big></span><small><sup>[[H0894]]</sup></small> &#8207;| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֹּ֖ה</big></span><small><sup>[[H3541]]</sup></small> &#8207;| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  | <span class="ashebrew"><big>אָמַ֣ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arise  | <span class="ashebrew"><big>ק֚וּמוּ</big></span><small><sup>[[H6965B]]</sup></small> &#8207;| Ku.mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go up  | <span class="ashebrew"><big>עֲל֣וּ</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| 'a.Lu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kedar  | <span class="ashebrew"><big>קֵדָ֔ר</big></span><small><sup>[[H6938]]</sup></small> &#8207;| ke.Dar<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and devastate  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שָׁדְד֖וּ</big></span><small><sup>[[H7703]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sha.de.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵי</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] east  | <span class="ashebrew"><big>קֶֽדֶם</big></span><small><sup>[[H6924G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.27|<< Jeremiah 49:27]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.29|Jeremiah 49:29 >>]]</td></tr></table>
+
+[^1]: ==K==: **Nebuchadnezzar ** | <small><sup>[[H5020]]</sup></small><span class="ashebrew"><big>נְבוּכַדְרֶאצּוֹר</big></span>  | ne.vu.khad.re.tzor<small><sup>[[HNpm]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>נְבֽוּכַדְרֶאצַּו֣ר</big></span>**
+

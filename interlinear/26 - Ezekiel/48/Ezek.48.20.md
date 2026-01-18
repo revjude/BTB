@@ -1,0 +1,29 @@
+**Ezekiel 48:20** 
+<small><sub>**KJV:**</sub></small>
+All the oblation [shall be] five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city.
+<small><sub>**BSB:**</sub></small>
+The entire portion will be a square, 25,000 cubits by 25,000 cubits. You are to set apart the holy portion, along with the city property.
+<small><sub>**Literal:**</sub></small>
+all the  contribution [will be] five and  twenty thousand [cubits] by  five and  twenty thousand [cubits] fourth you will offer up \<obj.> [the] contribution of \<the>  holiness to [the] possession of the  city<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.19|<< Ezekiel 48:19]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.21|Ezekiel 48:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the contribution  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>תְּרוּמָ֗ה</big></span><small><sup>[[H8641]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> te.ru.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] five  | <span class="ashebrew"><big>חֲמִשָּׁ֤ה</big></span><small><sup>[[H2568]]</sup></small> &#8207;| cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and twenty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֶשְׂרִים֙</big></span><small><sup>[[H6242]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand [cubits]  | <span class="ashebrew"><big>אֶ֔לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by five  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֲמִשָּׁ֥ה</big></span><small><sup>[[H2568]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and twenty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֶשְׂרִ֖ים</big></span><small><sup>[[H6242]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand [cubits]  | <span class="ashebrew"><big>אָ֑לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'A.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fourth  | <span class="ashebrew"><big>רְבִיעִ֗ית</big></span><small><sup>[[H7243]]</sup></small> &#8207;| re.vi.'It<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will offer up  | <span class="ashebrew"><big>תָּרִ֙ימוּ֙</big></span><small><sup>[[H7311A]]</sup></small> &#8207;| ta.Ri.mu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] contribution of  | <span class="ashebrew"><big>תְּרוּמַ֣ת</big></span><small><sup>[[H8641]]</sup></small> &#8207;| te.ru.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> holiness  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קֹּ֔דֶשׁ</big></span><small><sup>[[H6944G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] possession of  | <span class="ashebrew"><big>אֲחֻזַּ֖ת</big></span><small><sup>[[H0272]]</sup></small> &#8207;| 'a.chu.Zat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִֽיר</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.19|<< Ezekiel 48:19]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.21|Ezekiel 48:21 >>]]</td></tr></table>
+
+

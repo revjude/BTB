@@ -1,0 +1,25 @@
+**Exodus 19:2** 
+<small><sub>**KJV:**</sub></small>
+For they were departed from Rephidim, and were come [to] the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount.
+<small><sub>**BSB:**</sub></small>
+After they had set out from Rephidim, they entered the Wilderness of Sinai, and Israel camped there in front of the mountain.
+<small><sub>**Literal:**</sub></small>
+and  they set out from  Rephidim and  they came [the] wilderness of Sinai and  they encamped in the  wilderness and  it encamped there Israel before the  mountain<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.1|<< Exodus 19:1]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.3|Exodus 19:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they set out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּסְע֣וּ</big></span><small><sup>[[H5265]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Rephidim  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>רְפִידִ֗ים</big></span><small><sup>[[H7508]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> re.fi.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבֹ֙אוּ֙</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wilderness of  | <span class="ashebrew"><big>מִדְבַּ֣ר</big></span><small><sup>[[H4057B]]</sup></small> &#8207;| mid.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sinai  | <span class="ashebrew"><big>סִינַ֔י</big></span><small><sup>[[H5514H]]</sup></small> &#8207;| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they encamped  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּחֲנ֖וּ</big></span><small><sup>[[H2583]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the wilderness  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִּדְבָּ֑ר</big></span><small><sup>[[H4057B]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it encamped  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּֽחַן</big></span><small><sup>[[H2583]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.chan-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֥ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before  | <span class="ashebrew"><big>נֶ֥גֶד</big></span><small><sup>[[H5048]]</sup></small> &#8207;| Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the mountain  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הָֽר</big></span><small><sup>[[H2022G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.1|<< Exodus 19:1]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.3|Exodus 19:3 >>]]</td></tr></table>
+
+

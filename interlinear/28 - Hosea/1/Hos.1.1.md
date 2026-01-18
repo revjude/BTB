@@ -1,0 +1,34 @@
+**Hosea 1:1** 
+<small><sub>**KJV:**</sub></small>
+The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, [and] Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
+<small><sub>**BSB:**</sub></small>
+This is the word of the LORD that came to Hosea son of Beeri in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and of Jeroboam son of Jehoash, king of Israel.
+<small><sub>**Literal:**</sub></small>
+[the] word of Yahweh which it came to Hosea [the] son of Beeri in  [the] days of Uzziah Jotham Ahaz Hezekiah [the] kings of Judah and  in  [the] days of Jeroboam [the] son of Joash [the] king of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.13|<< Daniel 12:13]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.1.2|Hosea 1:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] word of  | <span class="ashebrew"><big>דְּבַר</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it came  | <span class="ashebrew"><big>הָיָ֗ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hosea  | <span class="ashebrew"><big>הוֹשֵׁ֙עַ֙</big></span><small><sup>[[H1954J]]</sup></small> &#8207;| ho.She.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beeri  | <span class="ashebrew"><big>בְּאֵרִ֔י</big></span><small><sup>[[H0882H]]</sup></small> &#8207;| be.'e.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] days of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ימֵ֨י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Uzziah  | <span class="ashebrew"><big>עֻזִּיָּ֥ה</big></span><small><sup>[[H5818G]]</sup></small> &#8207;| 'u.zi.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jotham  | <span class="ashebrew"><big>יוֹתָ֛ם</big></span><small><sup>[[H3147H]]</sup></small> &#8207;| yo.Tam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahaz  | <span class="ashebrew"><big>אָחָ֥ז</big></span><small><sup>[[H0271G]]</sup></small> &#8207;| 'a.Chaz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hezekiah  | <span class="ashebrew"><big>יְחִזְקִיָּ֖ה</big></span><small><sup>[[H3169H]]</sup></small> &#8207;| ye.chiz.ki.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kings of  | <span class="ashebrew"><big>מַלְכֵ֣י</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֑ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in [the] days of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ימֵ֛י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeroboam  | <span class="ashebrew"><big>יָרָבְעָ֥ם</big></span><small><sup>[[H3379H]]</sup></small> &#8207;| ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joash  | <span class="ashebrew"><big>יוֹאָ֖שׁ</big></span><small><sup>[[H3101J]]</sup></small> &#8207;| yo.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶ֥לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.13|<< Daniel 12:13]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.1.2|Hosea 1:2 >>]]</td></tr></table>
+
+

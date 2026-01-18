@@ -1,0 +1,26 @@
+**Jeremiah 7:27** 
+<small><sub>**KJV:**</sub></small>
+Therefore thou shalt speak all these words unto them; but they will not hearken to thee: thou shalt also call unto them; but they will not answer thee.
+<small><sub>**BSB:**</sub></small>
+When you tell them all these things, they will not listen to you. When you call to them, they will not answer.
+<small><sub>**Literal:**</sub></small>
+and  you will say to  them \<obj.> all the  words \<the>  these and  not they will listen to  you and  you will call to  them and  not they will answer  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.26|<< Jeremiah 7:26]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.28|Jeremiah 7:28 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will say  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>דִבַּרְתָּ֤</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> di.bar.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the words  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דְּבָרִ֣ים</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> these  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֵ֔לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will listen  | <span class="ashebrew"><big>יִשְׁמְע֖וּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| yish.me.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>אֵלֶ֑י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'e.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will call  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>קָרָ֥אתָ</big></span><small><sup>[[H7121G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ka.Ra.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will answer you  | <span class="ashebrew"><big>יַעֲנֽוּ</big></span><small><sup>[[H6030B]]</sup></small> <span class="ashebrew"><big>כָה</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ya.'a.Nu.<small><sup>[[HVqi3mp]]</sup></small> khah<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.26|<< Jeremiah 7:26]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.28|Jeremiah 7:28 >>]]</td></tr></table>
+
+

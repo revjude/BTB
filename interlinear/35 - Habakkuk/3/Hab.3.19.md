@@ -1,0 +1,25 @@
+**Habakkuk 3:19** 
+<small><sub>**KJV:**</sub></small>
+The LORD God [is] my strength, and he will make my feet like hinds’ [feet], and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.
+<small><sub>**BSB:**</sub></small>
+GOD the Lord is my strength; He makes my feet like those of a deer; He makes me walk upon the heights! For the choirmaster. With stringed instruments.
+<small><sub>**Literal:**</sub></small>
+Yahweh [the] Lord [is] strength  my and  he makes feet  my like \<the>  does and  on high places  my he makes tread  me to the  choirmaster with  stringed instruments  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.18|<< Habakkuk 3:18]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.1|Zephaniah 1:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| Yahweh  | <span class="ashebrew"><big>יְהוִ֤הּ</big></span><small><sup>[[H3069]]</sup></small> &#8207;[^1] | Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
+| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָי֙</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] strength my  | <span class="ashebrew"><big>חֵילִ֔</big></span><small><sup>[[H2428G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| chei.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he makes  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֤שֶׂם</big></span><small><sup>[[H7760A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet my  | <span class="ashebrew"><big>רַגְלַ</big></span><small><sup>[[H7272]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| rag.La<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> does  | <span class="ashebrew"><big>כָּֽ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אַיָּל֔וֹת</big></span><small><sup>[[H0355]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> 'ai.ya.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַ֥ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| high places my  | <span class="ashebrew"><big>בָּמוֹתַ֖</big></span><small><sup>[[H1116]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ba.mo.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he makes tread me  | <span class="ashebrew"><big>יַדְרִכֵ֑</big></span><small><sup>[[H1869]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| yad.ri.Khe.<small><sup>[[HVhi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the choirmaster  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מְנַצֵּ֖חַ</big></span><small><sup>[[H5329]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with stringed instruments my  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נְגִינוֹתָֽ</big></span><small><sup>[[H5058]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> n.gi.no.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.18|<< Habakkuk 3:18]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.1|Zephaniah 1:1 >>]]</td></tr></table>
+
+[^1]: ==ABH== spelled: **<span class="ashebrew"><big>יְהוִ֤ה</big></span>**
+

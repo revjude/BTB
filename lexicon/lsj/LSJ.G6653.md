@@ -1,0 +1,10 @@
+<span class="asgreek">βάραθρον</span> <small>***(barathron)***</small> ==**a pit**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==βάραθρον==</span></b> [<span class='asgreek'>βᾰ</span>], 
+
+
+ <i>Epic dialect</i> and <i>Ionic dialect</i> <b><span class='asgreek'>βέρεθρον</span></b> (which see, compare <span class='asgreek'>ζέρεθρον</span>), shortened <b><span class='asgreek'>βέθρον</span></b> (which see), <span class='asgreek'>τό</span>, <b>gulf, pit,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 947a19 ">Refs 4th c.BC+</a>]; especiallyat Athens, <b>a cleft</b> into which criminals were thrown, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.133, 5th-6th c.BC: Aristophanes Comicus “Nubes” 1450, “Comica Adespota” 24.10 4th c.BC: Demosthenes Orator, 5th-6th c.BC: Plato Philosophus “Gorgias” 516c, “Anecdota Graeca - Bekker” 219, Scholia 5th-6th c.BC: Aristophanes Comicus “Plutus” 431. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'>ἐν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>β</span>. <span class='asgreek'>χειμάζειν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 8.45 ">Refs 4th c.BC+</a>]; <b>ruin, perdition,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Am.” 5, etc.">Refs 2nd c.AD+</a>]; name of a courtesan, Theophil.Comedy texts [<a href="javascript:void(0)" title=" 11. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_II</b> a woman's <b>ornament,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 320.8. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>βράθυ</span>}, <i>falsa lectio</i> for{<span class='asgreek'>βόρατον</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.76">Refs 1st c.AD+</a>]. (Root <b>gseq[uglide]er</b> 'devour', compare <span class='asgreek'>βορά</span>.)

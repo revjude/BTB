@@ -1,0 +1,24 @@
+**Psalms 62:4** (62:5)
+<small><sub>**KJV:**</sub></small>
+They only consult to cast [him] down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.
+<small><sub>**BSB:**</sub></small>
+They fully intend to cast him down from his lofty perch; they delight in lies; with their mouths they bless, but inwardly they curse. Selah
+<small><sub>**Literal:**</sub></small>
+surely from  loftiness  his they have planned to  thrust [him] down they are pleased with falsehood with  mouth  his they bless and  in  inner being  their they curse Selah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.3|<< Psalms 62:3]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.5|Psalms 62:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| surely  | <span class="ashebrew"><big>אַ֤ךְ</big></span><small><sup>[[H0389]]</sup></small> &#8207;| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from loftiness his  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שְּׂאֵת֨</big></span><small><sup>[[H7613]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> se.'e.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have planned  | <span class="ashebrew"><big>יָעֲצ֣וּ</big></span><small><sup>[[H3289]]</sup></small> &#8207;| ya.'a.Tzu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to thrust [him] down  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַדִּיחַ֮</big></span><small><sup>[[H5080]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.di.aCh<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are pleased with  | <span class="ashebrew"><big>יִרְצ֪וּ</big></span><small><sup>[[H7521]]</sup></small> &#8207;| yir.Tzu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  | <span class="ashebrew"><big>כָ֫זָ֥ב</big></span><small><sup>[[H3577]]</sup></small> &#8207;| kha.Zav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with mouth his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>פִ֥י</big></span><small><sup>[[H6310G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Fi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they bless  | <span class="ashebrew"><big>יְבָרֵ֑כוּ</big></span><small><sup>[[H1288]]</sup></small> &#8207;| ye.va.Re.khu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in inner being their  | <span class="ashebrew"><big>וּ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קִרְבָּ֗</big></span><small><sup>[[H7130H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> kir.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they curse  | <span class="ashebrew"><big>יְקַלְלוּ</big></span><small><sup>[[H7043]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ye.ka.lu-<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  | <span class="ashebrew"><big>סֶֽלָה</big></span><small><sup>[[H5542]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.3|<< Psalms 62:3]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.5|Psalms 62:5 >>]]</td></tr></table>
+
+

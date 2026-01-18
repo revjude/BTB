@@ -1,0 +1,25 @@
+**Numbers 3:25** 
+<small><sub>**KJV:**</sub></small>
+And the charge of the sons of Gershon in the tabernacle of the congregation [shall be] the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,
+<small><sub>**BSB:**</sub></small>
+The duties of the Gershonites at the Tent of Meeting were the tabernacle and tent, its covering, the curtain for the entrance to the Tent of Meeting,
+<small><sub>**Literal:**</sub></small>
+and  [the] duty of [the] descendants of Gershon in  [the] tent of meeting [was] the  tabernacle and  the  tent covering  its and  [the] screen of [the] entrance of [the] tent of meeting<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.24|<< Numbers 3:24]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.26|Numbers 3:26 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] duty of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִשְׁמֶ֤רֶת</big></span><small><sup>[[H4931]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mish.Me.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵֽי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gershon  | <span class="ashebrew"><big>גֵרְשׁוֹן֙</big></span><small><sup>[[H1648]]</sup></small> &#8207;| ge.re.shOn<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] tent of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֹ֣הֶל</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  | <span class="ashebrew"><big>מוֹעֵ֔ד</big></span><small><sup>[[H4150I]]</sup></small> &#8207;| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] the tabernacle  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּשְׁכָּ֖ן</big></span><small><sup>[[H4908]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mish.Kan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the tent  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֹ֑הֶל</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'O.hel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| covering its  | <span class="ashebrew"><big>מִכְסֵ֕</big></span><small><sup>[[H4372]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| mikh.Se.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] screen of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מָסַ֕ךְ</big></span><small><sup>[[H4539]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.Sakh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] entrance of  | <span class="ashebrew"><big>פֶּ֖תַח</big></span><small><sup>[[H6607]]</sup></small> &#8207;| Pe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tent of  | <span class="ashebrew"><big>אֹ֥הֶל</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  | <span class="ashebrew"><big>מוֹעֵֽד</big></span><small><sup>[[H4150I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.24|<< Numbers 3:24]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.26|Numbers 3:26 >>]]</td></tr></table>
+
+

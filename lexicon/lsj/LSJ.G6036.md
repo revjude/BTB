@@ -1,0 +1,12 @@
+<span class="asgreek">ἐπεισέρχομαι</span> <small>***(epeiserchomai)***</small> ==**to enter**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐπεισέρχομαι==</span>-<span class='asgreek'>έρχομαι</span></b>, 
+
+
+ <b>come in besides,</b> <span class='asgreek'>τινί</span> <b>to</b> one, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.35 ">Refs 5th c.BC+</a>]; especially into a family as stepmother, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.154 ">Refs 5th c.BC+</a>]; <b>rush in and attack,</b> <span class='asgreek'>==ἐπεισέρχομαι==ήλθοσαν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>Σίμωνι</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>συμπόσιον</span> [<a href="javascript:void(0)" title=" LXX.1Mac.16.16, compare “UPZ” 13.19 (2nd c.BC). ">LXX+2nd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>come in after,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.37; κατόπιν τινός 5th-6th c.BC: Plato Philosophus “Protagoras” 316a ">Refs 5th c.BC+</a>]; and frequently in <i>Attic dialect</i>; <span class='asgreek'>τινί</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Demosthene” 8. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>come into besides,</b> with <i>accusative</i>, <span class='asgreek'>ξένος</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>πόλιν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Ion” 813: with \_dative\_, δόμοις [prev. work] 851 (nisi to be read δόμους); εἰς τὸ χωρίον 4th c.BC: Demosthenes Orator 47.53 ">Refs 5th c.BC+</a>]; of things, <b>to be imported,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἐκ</span> <span class='asgreek'>πάσης</span> <span class='asgreek'>γῆς</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>πάντα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 2.38. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, 
+$\quad$ $\quad$ $\quad$<b>\_\_II.1</b> of customs, <b>to be introduced later,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.676f, etc. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>come into</b> one's <b>head, occur to</b> one, with <i>dative</i>, [<a href="javascript:void(0)" title="[prev. work] 585f: with \_accusative\_, 2nd c.AD: Lucianus Sophista “VH” 2.42. ">Refs 2nd c.AD+</a>]

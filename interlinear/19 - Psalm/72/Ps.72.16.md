@@ -1,0 +1,26 @@
+**Psalms 72:16** 
+<small><sub>**KJV:**</sub></small>
+There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and [they] of the city shall flourish like grass of the earth.
+<small><sub>**BSB:**</sub></small>
+May there be an abundance of grain in the land; may it sway atop the hills. May its fruit trees flourish like the forests of Lebanon, the people of its cities like the grass of the field.
+<small><sub>**Literal:**</sub></small>
+may it be an abundance of grain in the  land on  [the] top of [the] mountains may it wave like \<the>  Lebanon fruit  its and  may people blossom from  [the] city like  [the] vegetation of the  earth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.15|<< Psalms 72:15]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.17|Psalms 72:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| may it be  | <span class="ashebrew"><big>יְהִ֤י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ye.Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an abundance of  | <span class="ashebrew"><big>פִסַּת</big></span><small><sup>[[H6451]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| fi.sat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grain  | <span class="ashebrew"><big>בַּ֨ר</big></span><small><sup>[[H1250A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the land  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָרֶץ֮</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.Retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] top of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רֹ֪אשׁ</big></span><small><sup>[[H7218I]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountains  | <span class="ashebrew"><big>הָ֫רִ֥ים</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may it wave  | <span class="ashebrew"><big>יִרְעַ֣שׁ</big></span><small><sup>[[H7493]]</sup></small> &#8207;| yir.'Ash<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> Lebanon  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>לְּבָנ֣וֹן</big></span><small><sup>[[H3844G]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruit its  | <span class="ashebrew"><big>פִּרְי֑</big></span><small><sup>[[H6529]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| pir.Y<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may people blossom  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יָצִ֥יצוּ</big></span><small><sup>[[H6692A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ya.Tzi.tzu<small><sup>[[HVhu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] city  | <span class="ashebrew"><big>מֵ֝</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עִ֗יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] vegetation of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֵ֣שֶׂב</big></span><small><sup>[[H6212]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> 'E.sev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָֽרֶץ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.15|<< Psalms 72:15]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.17|Psalms 72:17 >>]]</td></tr></table>
+
+

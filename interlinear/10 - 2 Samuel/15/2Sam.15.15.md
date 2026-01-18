@@ -1,0 +1,25 @@
+**2 Samuel 15:15** 
+<small><sub>**KJV:**</sub></small>
+And the king’s servants said unto the king, Behold, thy servants [are ready to do] whatsoever my lord the king shall appoint.
+<small><sub>**BSB:**</sub></small>
+The king’s servants replied, “Whatever our lord the king decides, we are your servants.”
+<small><sub>**Literal:**</sub></small>
+and  they said [the] servants of the  king to the  king according to  all that he will choose lord  my the  king here! [are] servants  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.14|<< 2 Samuel 15:14]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.16|2 Samuel 15:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּאמְר֥וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] servants of  | <span class="ashebrew"><big>עַבְדֵֽי</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'av.dei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֖לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֑לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to all  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כֹ֧ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will choose  | <span class="ashebrew"><big>יִבְחַ֛ר</big></span><small><sup>[[H0977]]</sup></small> &#8207;| yiv.Char<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lord my  | <span class="ashebrew"><big>אֲדֹנִ֥</big></span><small><sup>[[H0113]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֖לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  | <span class="ashebrew"><big>הִנֵּ֥ה</big></span><small><sup>[[H2009]]</sup></small> &#8207;| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] servants your  | <span class="ashebrew"><big>עֲבָדֶֽי</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.va.Dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.14|<< 2 Samuel 15:14]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.16|2 Samuel 15:16 >>]]</td></tr></table>
+
+

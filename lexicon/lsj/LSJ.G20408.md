@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==ἐπαλγής==</span>-<span class='asgreek'>ής</span></b>, <span class='asgreek'>ές</span>, 
+
+
+ <b>painful,</b>[<a href="javascript:void(0)" title=" Aristeas 167, 1st c.BC-1st c.AD: Strabo Geographus 11.13.2, 3rd c.AD: Philumenus Medicus cited in 6th c.AD: Aëtius Medicus 5.127, 6th c.AD: Aëtius Medicus 15.13, 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 4.508 ">Refs 1st c.BC+</a>]: <i>comparative</i>, [<a href="javascript:void(0)" title=" LXX.4Mac.14.10, 1st c.AD: Onosander (Onasander) Tacticus 42.19, 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 2.3 ">LXX+1st c.AD+</a>]. <i>adverb</i> <b>-<span class='asgreek'>γῶς</span></b>[<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 3.99. ">Refs 2nd c.AD+</a>]
+

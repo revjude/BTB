@@ -1,0 +1,7 @@
+<span class="asgreek">ἁδρύνω</span> <small>***(hadrunō)***</small> ==**to mature**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἁδρύνω==</span>-<span class='asgreek'>ύνω</span></b>, 
+
+
+ (<span class='asgreek'>==ἁδρύνω==ός</span>) <b>ripen, mature</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 979, 5th-6th c.BC: Xenophon Historicus “Memorabilia” 4.3.8; ==ἁδρύνω==ῦναι καὶ πέψαι τὸν καρπόν 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 3.1.3">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>grow ripe, ripen, come to maturity</b>, of fruit or corn, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.193, 4th c.BC: Aristoteles Philosophus “Physica” 230b2 ">Refs 5th c.BC+</a>]; of embrya, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἑπταμήνου” 1, “Oct.” 12, compare 4th c.BC: Aristoteles Philosophus “Historia Animalium” 565b13 ">Refs 5th c.BC+</a>]; of nestlings, [<a href="javascript:void(0)" title=" 619b30.">Refs</a>]
+

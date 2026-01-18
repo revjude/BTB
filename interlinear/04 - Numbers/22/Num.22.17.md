@@ -1,0 +1,29 @@
+**Numbers 22:17** 
+<small><sub>**KJV:**</sub></small>
+For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people.
+<small><sub>**BSB:**</sub></small>
+for I will honor you richly and do whatever you say. So please come and put a curse on this people for me!’”
+<small><sub>**Literal:**</sub></small>
+for surely \<honor> I will honor  you exceedingly and  all that you will say to  me I will do and  come  ! please curse  ! for \<the>  me \<obj.> the  people \<the>  this<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.16|<< Numbers 22:16]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.18|Numbers 22:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| surely \<honor>  | <span class="ashebrew"><big>כַבֵּ֤ד</big></span><small><sup>[[H3513G]]</sup></small> &#8207;| kha.Bed<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will honor you  | <span class="ashebrew"><big>אֲכַבֶּדְ</big></span><small><sup>[[H3513G]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'a.kha.bed.<small><sup>[[HVpi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  | <span class="ashebrew"><big>מְאֹ֔ד</big></span><small><sup>[[H3966]]</sup></small> &#8207;| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹ֛ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will say  | <span class="ashebrew"><big>תֹּאמַ֥ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| to.Mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלַ֖</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will do  | <span class="ashebrew"><big>אֶֽעֱשֶׂ֑ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'e.'e.Seh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and come !  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְכָ</big></span><small><sup>[[H1980K]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.kha<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָּא֙</big></span><small><sup>[[H4994]]</sup></small> &#8207;| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| curse !  | <span class="ashebrew"><big>קָֽבָ</big></span><small><sup>[[H6895]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ka.va<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> me  | <span class="ashebrew"><big>לִּ֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֖ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֥ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֶּֽה</big></span><small><sup>[[H2088]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.16|<< Numbers 22:16]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.18|Numbers 22:18 >>]]</td></tr></table>
+
+

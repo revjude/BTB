@@ -1,0 +1,7 @@
+<big><span class="ashebrew">‎בַּרְקָן‎</span></big> **barqân** <small>*(bar-kwan')*</small> ==**briar**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from <span class="ashebrew">‎בָּרָק‎</span><sup><small>[[H1300]]</small></sup></small>
+
+$\quad$ brier.
+- ***a thorn*** (perhaps as burning brightly)
+
+**1)** briers, briars

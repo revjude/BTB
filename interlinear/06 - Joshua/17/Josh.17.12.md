@@ -1,0 +1,26 @@
+**Joshua 17:12** 
+<small><sub>**KJV:**</sub></small>
+Yet the children of Manasseh could not drive out [the inhabitants of] those cities; but the Canaanites would dwell in that land.
+<small><sub>**BSB:**</sub></small>
+But the descendants of Manasseh were unable to occupy these cities, because the Canaanites were determined to stay in this land.
+<small><sub>**Literal:**</sub></small>
+and  not they were able [the] descendants of Manasseh to  take possession of \<obj.> the  cities \<the>  these and  he was determined the  Canaanite[s] to  dwell in the  land \<the>  this<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.11|<< Joshua 17:11]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.13|Joshua 17:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֤א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were able  | <span class="ashebrew"><big>יָכְלוּ֙</big></span><small><sup>[[H3201]]</sup></small> &#8207;| ya.khe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Manasseh  | <span class="ashebrew"><big>מְנַשֶּׁ֔ה</big></span><small><sup>[[H4519G]]</sup></small> &#8207;| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to take possession of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הוֹרִ֖ישׁ</big></span><small><sup>[[H3423H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ho.Rish<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cities  | <span class="ashebrew"><big>הֶֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָרִ֣ים</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> these  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֵ֑לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was determined  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יּ֙וֹאֶל֙</big></span><small><sup>[[H2974]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.'el<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Canaanite[s]  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כְּנַעֲנִ֔י</big></span><small><sup>[[H3669A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ke.na.'a.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to dwell  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שֶׁ֖בֶת</big></span><small><sup>[[H3427]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> She.vet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the land  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָ֥רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֹּֽאת</big></span><small><sup>[[H2063]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.11|<< Joshua 17:11]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.13|Joshua 17:13 >>]]</td></tr></table>
+
+

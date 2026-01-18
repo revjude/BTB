@@ -1,0 +1,25 @@
+ <span class="bdbLangHebrew">‎אַחֲרִית‎</span><sub>61</sub> **noun feminine** ==after-part, end==; — 
+$\quad$ $\quad$ **a.** of place, only Psalm [[Eccl.139.9|Eccl 139:9]] (late) <span class="bdbLangHebrew">‎יָם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span>. 
+$\quad$ $\quad$ **b.** of time, ***latter part*** or actual ***close*** (according to context), opposed to <span class="bdbLangHebrew">‎רֵאשִׁית‎</span>; — of year [[Deut.11.12|Deut 11:12]] of a man's life [[Num.23.10|Num 23:10]]; [[Prov.5.11|Prov 5:11]]; [[Job.8.7|Job 8:7]]; [[Job.42.12|Job 42:12]] of a people's existence [[Num.24.20|Num 24:20]] = ***final lot*** [[Deut.32.20|Deut 32:20]]; [[Deut.32.29|Deut 32:29]]; [[Jer.12.4|Jer 12:4]]; [[Jer.31.17|Jer 31:17]]; [[Ps.73.17|Ps 73:17]] ***a future***, i.e. a happy close of life, suggesting sometimes the idea of a posterity, promised to the righteous [[Prov.23.18|Prov 23:18]] (\|\| <span class="bdbLangHebrew">‎תִּקְוָה‎</span> ***hope***) [[Prov.24.14|Prov 24:14]]; [[Jer.29.11|Jer 29:11]] (<span class="bdbLangHebrew">‎וְתִקְוָה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎לָתֵת לָכֶם א‎</span>), withheld from the wicked [[Prov.24.20|Prov 24:20]] (\|\| <span class="bdbLangHebrew">‎׃ נֵר יִדְעָֽח ׃‎</span> see below); the ***end*** or ultimate ***issue*** of a course of action [[Jer.5.31|Jer 5:31]]; [[Prov.14.12|Prov 14:12]]; [[Prov.23.32|Prov 23:32]] (of wine, i.e. of indulgence in it) [[Prov.25.8|Prov 25:8]]; [[Isa.46.10|Isa 46:10]] (absolute, but implicitly of a phase of history) [[Isa.47.7|Isa 47:7]] (of the conduct described v[[Isa.47.6|Isa 47:6]] b-7 a) [[Dan.12.8|Dan 12:8]]; [[Eccl.7.8|Eccl 7:8]] of a prediction = the ***event*** [[Isa.41.22|Isa 41:22]]. <span class="bdbLangHebrew">‎בְּאַחֲרִית הַיָּמִים‎</span> ***in the end of the days***, a prophetic phrase denoting the final period of the history so far as the speaker's perspective reaches; the sense thus varies with the context, but it often = the ideal or Messianic future; [[Gen.49.1|Gen 49:1]] (of the period of Israel's possession of Canaan) [[Num.24.14|Num 24:14]]; [[Deut.4.30|Deut 4:30]] (of the period of Israel's return to God after adversity) [[Deut.31.29|Deut 31:29]] (of the period of Israel's rebellion) [[Hos.3.5|Hos 3:5]]; [[Isa.2.2|Isa 2:2]] ( = [[Mic.4.1|Mic 4:1]]) [[Jer.23.20|Jer 23:20]] (see Graf) = [[Jer.30.24|Jer 30:24]]; [[Jer.48.47|Jer 48:47]]; [[Jer.49.39|Jer 49:39]]; [[Ezek.38.16|Ezek 38:16]] (of the period of Gog's attack upon restored Israel) [[Dan.2.28|Dan 2:28]] (Aramaic) [[Dan.10.14|Dan 10:14]] (of the age of Antiochus Epiphanes): compare <span class="bdbLangHebrew">‎הַשָּׁנִים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כְּא‎</span> [[Ezek.38.8|Ezek 38:8]]. 
+$\quad$ $\quad$ **c.** <span class="bdbLangHebrew">‎הַגּוֺיִם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Jer.50.12|Jer 50:12]] the ***last, hindermost*** of the nations (of Babylon), opposed to <span class="bdbLangHebrew">‎ראשׁית הגוים‎</span> [[Amos.6.1|Amos 6:1]] (Israel) compare [[Num.24.20|Num 24:20]] (Amalek) chief of the nations. 
+$\quad$ $\quad$ **d.** concrete ***posterity*** (extension of usage noted above in [[Prov.24.20|Prov 24:20]]) [[Ps.37.37|Ps 37:37]]; [[Ps.37.38|Ps 37:38]] (***possibly*** not more than 'a future' here) [[Ps.109.13|Ps 109:13]] (\|\| <span class="bdbLangHebrew">‎אַחֵר יִמַּח שְׁמָם בְּדוֺר‎</span>) [[Amos.4.2|Amos 4:2]]; [[Amos.9.1|Amos 9:1]]; [[Ezek.23.25|Ezek 23:25]] (twice in verse) (according to others, in these four passages, ***remnant, residue***) [[Dan.11.4|Dan 11:4]]. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.49.1\|49:1]] |
+| Numbers | [[Num.23.10\|23:10]] · [[Num.24.14\|24:14]] · [[Num.24.20\|24:20]] |
+| Deuteronomy | [[Deut.4.30\|4:30]] · [[Deut.11.12\|11:12]] · [[Deut.31.29\|31:29]] · [[Deut.32.20\|32:20]] · [[Deut.32.29\|32:29]] |
+| Job | [[Job.8.7\|8:7]] · [[Job.42.12\|42:12]] |
+| Psalms | [[Ps.37.37\|37:37]] · [[Ps.37.38\|37:38]] · [[Ps.73.17\|73:17]] · [[Ps.109.13\|109:13]] |
+| Proverbs | [[Prov.5.11\|5:11]] · [[Prov.14.12\|14:12]] · [[Prov.23.18\|23:18]] · [[Prov.23.32\|23:32]] · [[Prov.24.14\|24:14]] · [[Prov.24.20\|24:20]] · [[Prov.25.8\|25:8]] |
+| Ecclesiastes | [[Eccl.7.8\|7:8]] · [[Eccl.139.9\|139:9]] |
+| Isaiah | [[Isa.2.2\|2:2]] · [[Isa.41.22\|41:22]] · [[Isa.46.10\|46:10]] · [[Isa.47.6\|47:6]] · [[Isa.47.7\|47:7]] |
+| Jeremiah | [[Jer.5.31\|5:31]] · [[Jer.12.4\|12:4]] · [[Jer.23.20\|23:20]] · [[Jer.29.11\|29:11]] · [[Jer.30.24\|30:24]] · [[Jer.31.17\|31:17]] · [[Jer.48.47\|48:47]] · [[Jer.49.39\|49:39]] · [[Jer.50.12\|50:12]] |
+| Ezekiel | [[Ezek.23.25\|23:25]] · [[Ezek.38.8\|38:8]] · [[Ezek.38.16\|38:16]] |
+| Daniel | [[Dan.2.28\|2:28]] · [[Dan.10.14\|10:14]] · [[Dan.11.4\|11:4]] · [[Dan.12.8\|12:8]] |
+| Hosea | [[Hos.3.5\|3:5]] |
+| Amos | [[Amos.4.2\|4:2]] · [[Amos.6.1\|6:1]] · [[Amos.9.1\|9:1]] |
+| Micah | [[Mic.4.1\|4:1]] |
+

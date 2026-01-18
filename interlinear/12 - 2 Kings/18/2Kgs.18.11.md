@@ -1,0 +1,26 @@
+**2 Kings 18:11** 
+<small><sub>**KJV:**</sub></small>
+And the king of Assyria did carry away Israel unto Assyria, and put them in Halah and in Habor [by] the river of Gozan, and in the cities of the Medes:
+<small><sub>**BSB:**</sub></small>
+The king of Assyria exiled the Israelites to Assyria and settled them in Halah, in Gozan by the Habor River, and in the cities of the Medes.
+<small><sub>**Literal:**</sub></small>
+and  he took into exile [the] king of Assyria \<obj.> Israel Assyria  towards and  he led  them in  Halah and  on  [the] Habor [the] river of Gozan and  [the] cities of Media<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.10|<< 2 Kings 18:10]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.12|2 Kings 18:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he took into exile  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֶּ֧גֶל</big></span><small><sup>[[H1540K]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.gel<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Assyria  | <span class="ashebrew"><big>אַשּׁ֛וּר</big></span><small><sup>[[H0804G]]</sup></small> &#8207;| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Assyria towards  | <span class="ashebrew"><big>אַשּׁ֑וּרָ</big></span><small><sup>[[H0804G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| 'a.Shu.ra<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he led them  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּנְחֵ֞</big></span><small><sup>[[H5148]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yan.Che<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Halah  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חְלַ֧ח</big></span><small><sup>[[H2477]]</sup></small> &#8207;| ba<small><sup>[[HR]]</sup></small> ch.Lach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on [the] Habor  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חָב֛וֹר</big></span><small><sup>[[H2249]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> cha.Vor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] river of  | <span class="ashebrew"><big>נְהַ֥ר</big></span><small><sup>[[H5104H]]</sup></small> &#8207;| ne.Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gozan  | <span class="ashebrew"><big>גּוֹזָ֖ן</big></span><small><sup>[[H1470]]</sup></small> &#8207;| go.Zan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] cities of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עָרֵ֥י</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Media  | <span class="ashebrew"><big>מָדָֽי</big></span><small><sup>[[H4074I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ma.Dai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.10|<< 2 Kings 18:10]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.12|2 Kings 18:12 >>]]</td></tr></table>
+
+

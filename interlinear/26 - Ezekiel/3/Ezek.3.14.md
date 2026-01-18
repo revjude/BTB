@@ -1,0 +1,24 @@
+**Ezekiel 3:14** 
+<small><sub>**KJV:**</sub></small>
+So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the LORD was strong upon me.
+<small><sub>**BSB:**</sub></small>
+So the Spirit lifted me up and took me away, and I went in bitterness and in the anger of my spirit, with the strong hand of the LORD upon me.
+<small><sub>**Literal:**</sub></small>
+and  a spirit it lifted up  me and  it took  me and  I went bitter in  [the] rage of spirit  my and  [the] hand of Yahweh on  me it was strong<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.13|<< Ezekiel 3:13]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.15|Ezekiel 3:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and a spirit  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ר֥וּחַ</big></span><small><sup>[[H7307G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it lifted up me  | <span class="ashebrew"><big>נְשָׂאַ֖תְ</big></span><small><sup>[[H5375G]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| ne.sa.'At.<small><sup>[[HVqp3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it took me  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּקָּחֵ֑</big></span><small><sup>[[H3947G]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ti.ka.Che.<small><sup>[[HVqw3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I went  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֵלֵ֥ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'e.Lekh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bitter  | <span class="ashebrew"><big>מַר֙</big></span><small><sup>[[H4751]]</sup></small> &#8207;| mar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] rage of  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֲמַ֣ת</big></span><small><sup>[[H2534]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> cha.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spirit my  | <span class="ashebrew"><big>רוּחִ֔</big></span><small><sup>[[H7307G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ru.Ch<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] hand of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יַד</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on me  | <span class="ashebrew"><big>עָלַ֖</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was strong  | <span class="ashebrew"><big>חָזָֽקָה</big></span><small><sup>[[H2388G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| cha.Za.kah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.13|<< Ezekiel 3:13]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.15|Ezekiel 3:15 >>]]</td></tr></table>
+
+

@@ -1,0 +1,30 @@
+**2 Kings 8:14** 
+<small><sub>**KJV:**</sub></small>
+So he departed from Elisha, and came to his master; who said to him, What said Elisha to thee? And he answered, He told me [that] thou shouldest surely recover.
+<small><sub>**BSB:**</sub></small>
+So Hazael left Elisha and went to his master, who asked him, “What did Elisha say to you?” And he replied, “He told me that you would surely recover.”
+<small><sub>**Literal:**</sub></small>
+and  he went from  with Elisha and  he came to master\<s>  his and  he said to  him what? did he say to  you Elisha and  he said he said to  me certainly \<to live> you will live<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.13|<< 2 Kings 8:13]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.15|2 Kings 8:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֣לֶךְ</big></span><small><sup>[[H1980G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֵ֣ת</big></span><small><sup>[[H0854]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elisha  | <span class="ashebrew"><big>אֱלִישָׁ֗ע</big></span><small><sup>[[H0477]]</sup></small> &#8207;| 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבֹא֙</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| master\<s> his  | <span class="ashebrew"><big>אֲדֹנָ֔י</big></span><small><sup>[[H0113]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.do.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>ל֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  | <span class="ashebrew"><big>מָֽה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| did he say  | <span class="ashebrew"><big>אָמַ֥ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elisha  | <span class="ashebrew"><big>אֱלִישָׁ֑ע</big></span><small><sup>[[H0477]]</sup></small> &#8207;| 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֕אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he said  | <span class="ashebrew"><big>אָ֥מַר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'A.mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>לִ֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to live>  | <span class="ashebrew"><big>חָיֹ֥ה</big></span><small><sup>[[H2421]]</sup></small> &#8207;| cha.Yoh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will live  | <span class="ashebrew"><big>תִחְיֶֽה</big></span><small><sup>[[H2421]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tich.Yeh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.13|<< 2 Kings 8:13]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.15|2 Kings 8:15 >>]]</td></tr></table>
+
+

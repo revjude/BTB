@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==κοινωνός==</span>-<span class='asgreek'>ός</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ also <span class='asgreek'>ἡ</span>, <b>companion, partner</b>, <span class='asgreek'>τινος</span> of or in a thing, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1037, 1352, “Supp.” 344, 4th-3rd c.BC: Menander Comicus “Ἐπιτρέποντες” 499; τῆς ἐπιβουλῆς 5th c.BC: Antipho Orator 5.68; ἱερῶν 5th-6th c.BC: Plato Philosophus “Leges” 868e; τῆς ἀρχῆς 5th c.BC: Thucydides Historicus 7.63, 8.46 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ὁ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>κακοῦ</span> <span class='asgreek'>κ</span>. <b>accomplice</b> in.., [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 730; ἀνοσίων αὐτοῖς ἔργων 5th-6th c.BC: Plato Philosophus “Epistulae” 325a; κ. περὶ νόμων 5th-6th c.BC: Plato Philosophus “Leges” 810c ">Refs 5th c.BC+</a>]; <span class='asgreek'>τινι</span> in a thing, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Electra” 637: with \_dative\_ \_person\_, κ. ἀλλήλοις τῶν τιμῶν with each other, 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.6.24. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <b>partner, fellow</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 284, 5th-6th c.BC: Plato Philosophus “Respublica” 333b, “Phdr.” 239c, etc.; ὁ σὸς κ., οὐχ ὁ ἐμός 4th c.BC: Demosthenes Orator 18.21; ἴσοι καὶ κ. 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1133b3 ">Refs 5th c.BC+</a>]; <span class='asgreek'>==κοινωνός==οὶ</span> <span class='asgreek'>λιμένων</span>, of a <b>societas publicanorum</b> which farmed harbour-dues, [<a href="javascript:void(0)" title=" “BCH” 10.267 (from Syme)">Refs</a>]; of <b>joint-owners,</b> [<a href="javascript:void(0)" title=" PAmh. 2.100 (2nd-3rd c.AD). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>familiar spirit</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.17.11. ">LXX</a>]
+$\quad$ $\quad$<b>\_\_II</b> as <i>adjective</i>, ={<span class='asgreek'>κοινός</span>},{<span class='asgreek'>ξίφος</span>} [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 1173. ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Kgs.17.11]]
+</sub></small>

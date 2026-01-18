@@ -1,0 +1,24 @@
+**Numbers 31:48** 
+<small><sub>**KJV:**</sub></small>
+And the officers which [were] over thousands of the host, the captains of thousands, and captains of hundreds, came near unto Moses:
+<small><sub>**BSB:**</sub></small>
+Then the officers who were over the units of the army—the commanders of thousands and of hundreds—approached Moses
+<small><sub>**Literal:**</sub></small>
+and  they drew near to Moses the  officers who [were] of  [the] thousands of the  army [the] commanders of the  thousands and  [the] commanders of the  hundreds<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.47|<< Numbers 31:47]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.49|Numbers 31:49 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they drew near  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְרְבוּ֙</big></span><small><sup>[[H7126G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.re.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  | <span class="ashebrew"><big>מֹשֶׁ֔ה</big></span><small><sup>[[H4872]]</sup></small> &#8207;| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the officers  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פְּקֻדִ֕ים</big></span><small><sup>[[H6485J]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> pe.ku.Dim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֖ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] of [the] thousands of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַלְפֵ֣י</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'al.Fei<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the army  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צָּבָ֑א</big></span><small><sup>[[H6635A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> tza.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] commanders of  | <span class="ashebrew"><big>שָׂרֵ֥י</big></span><small><sup>[[H8269]]</sup></small> &#8207;| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the thousands  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲלָפִ֖ים</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] commanders of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שָׂרֵ֥י</big></span><small><sup>[[H8269]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the hundreds  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֵּאֽוֹת</big></span><small><sup>[[H3967]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.47|<< Numbers 31:47]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.49|Numbers 31:49 >>]]</td></tr></table>
+
+

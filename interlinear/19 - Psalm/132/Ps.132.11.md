@@ -1,0 +1,25 @@
+**Psalms 132:11** 
+<small><sub>**KJV:**</sub></small>
+The LORD hath sworn [in] truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.
+<small><sub>**BSB:**</sub></small>
+The LORD swore an oath to David, a promise He will not revoke: “One of your descendants I will place on your throne.
+<small><sub>**Literal:**</sub></small>
+he swore an oath Yahweh to  David faithfulness not he will turn back from  it one of  [the] fruit of belly  your I will set to  throne of  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.10|<< Psalms 132:10]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.12|Psalms 132:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| he swore an oath  | <span class="ashebrew"><big>נִשְׁבַּֽע</big></span><small><sup>[[H7650]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| nish.ba'-<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֨ה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to David  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָוִ֡ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithfulness  | <span class="ashebrew"><big>אֱמֶת֮</big></span><small><sup>[[H0571G]]</sup></small> &#8207;| 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will turn back  | <span class="ashebrew"><big>יָשׁ֪וּב</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| ya.Shuv<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from it  | <span class="ashebrew"><big>מִ֫מֶּ֥</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נָּה</big></span><small><sup>[[H9034]]</sup></small> &#8207;| mi.Me.<small><sup>[[HR]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one of [the] fruit of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּרִ֥י</big></span><small><sup>[[H6529]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Ri<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| belly your  | <span class="ashebrew"><big>בִטְנְ</big></span><small><sup>[[H0990J]]</sup></small> <span class="ashebrew"><big>ךָ֑</big></span><small><sup>[[H9021]]</sup></small> &#8207;| vit.ne.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will set  | <span class="ashebrew"><big>אָ֝שִׁ֗ית</big></span><small><sup>[[H7896G]]</sup></small> &#8207;| 'a.Shit<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to throne  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כִסֵּא</big></span><small><sup>[[H3678G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> khi.se'-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of you  | <span class="ashebrew"><big>לָֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.10|<< Psalms 132:10]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.12|Psalms 132:12 >>]]</td></tr></table>
+
+

@@ -1,0 +1,26 @@
+**2 Chronicles 3:5** 
+<small><sub>**KJV:**</sub></small>
+And the greater house he cieled with fir tree, which he overlaid with fine gold, and set thereon palm trees and chains.
+<small><sub>**BSB:**</sub></small>
+He paneled the main room with cypress, which he overlaid with fine gold and decorated with palm trees and chains.
+<small><sub>**Literal:**</sub></small>
+and  \<obj.> the  house \<the>  great he overlaid wood of cypresses and  he overlaid  it gold fine and  he put up on  it palm trees and  chains<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.4|<< 2 Chronicles 3:4]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.6|2 Chronicles 3:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֣ת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the house  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בַּ֣יִת</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> great  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גָּד֗וֹל</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he overlaid  | <span class="ashebrew"><big>חִפָּה֙</big></span><small><sup>[[H2645]]</sup></small> &#8207;| chi.Pah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wood of  | <span class="ashebrew"><big>עֵ֣ץ</big></span><small><sup>[[H6086G]]</sup></small> &#8207;| 'etz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cypresses  | <span class="ashebrew"><big>בְּרוֹשִׁ֔ים</big></span><small><sup>[[H1265]]</sup></small> &#8207;| be.ro.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he overlaid it  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְחַפֵּ֖</big></span><small><sup>[[H2645]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.cha.Pe.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  | <span class="ashebrew"><big>זָהָ֣ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fine  | <span class="ashebrew"><big>ט֑וֹב</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he put up  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֧עַל</big></span><small><sup>[[H5927H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלָ֛י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| palm trees  | <span class="ashebrew"><big>תִּמֹרִ֖ים</big></span><small><sup>[[H8561]]</sup></small> &#8207;| ti.mo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and chains  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שַׁרְשְׁרֽוֹת</big></span><small><sup>[[H8333]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> shar.she.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.4|<< 2 Chronicles 3:4]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.6|2 Chronicles 3:6 >>]]</td></tr></table>
+
+

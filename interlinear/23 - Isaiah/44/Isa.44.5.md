@@ -1,0 +1,28 @@
+**Isaiah 44:5** 
+<small><sub>**KJV:**</sub></small>
+One shall say, I [am] the LORD’S; and another shall call [himself] by the name of Jacob; and another shall subscribe [with] his hand unto the LORD, and surname [himself] by the name of Israel.
+<small><sub>**BSB:**</sub></small>
+One will say, ‘I belong to the LORD,’ another will call himself by the name of Jacob, and still another will write on his hand, ‘The LORD’s,’ and will take the name of Israel.”
+<small><sub>**Literal:**</sub></small>
+this one he will say [belong] to  Yahweh I and  this one he will call out with  [the] name of Jacob and  this one he will write hand  his [belongs] to  Yahweh and  with  [the] name of Israel he will name<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.4|<< Isaiah 44:4]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.6|Isaiah 44:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| this one  | <span class="ashebrew"><big>זֶ֤ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will say  | <span class="ashebrew"><big>יֹאמַר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belong] to Yahweh  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֣ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אָ֔נִי</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and this one  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זֶ֖ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will call out  | <span class="ashebrew"><big>יִקְרָ֣א</big></span><small><sup>[[H7121G]]</sup></small> &#8207;| yik.Ra'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with [the] name of  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שֵֽׁם</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֑ב</big></span><small><sup>[[H3290]]</sup></small> &#8207;| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and this one  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זֶ֗ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will write  | <span class="ashebrew"><big>יִכְתֹּ֤ב</big></span><small><sup>[[H3789]]</sup></small> &#8207;| yikh.To<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  | <span class="ashebrew"><big>יָד</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to Yahweh  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with [the] name of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שֵׁ֥ם</big></span><small><sup>[[H8034]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will name  | <span class="ashebrew"><big>יְכַנֶּֽה</big></span><small><sup>[[H3655]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| ye.kha.Neh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.4|<< Isaiah 44:4]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.6|Isaiah 44:6 >>]]</td></tr></table>
+
+

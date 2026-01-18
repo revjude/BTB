@@ -1,0 +1,23 @@
+**Psalms 30:9** (30:10)
+<small><sub>**KJV:**</sub></small>
+What profit [is there] in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?
+<small><sub>**BSB:**</sub></small>
+“What gain is there in my bloodshed, in my descent to the Pit? Will the dust praise You? Will it proclaim Your faithfulness?
+<small><sub>**Literal:**</sub></small>
+what? [is the] profit in  blood  my in  going down  my to [the] pit ¿  will it give thanks to  you dust ¿  will it declare faithfulness  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.8|<< Psalms 30:8]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.10|Psalms 30:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| what?  | <span class="ashebrew"><big>מַה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is the] profit  | <span class="ashebrew"><big>בֶּ֥צַע</big></span><small><sup>[[H1215]]</sup></small> &#8207;| Be.tza'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in blood my  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דָמִ</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>י֮</big></span><small><sup>[[H9020]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> da.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in going down my  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רִדְתִּ֪</big></span><small><sup>[[H3381]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9040]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> rid.T<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶ֫ל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'El-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pit  | <span class="ashebrew"><big>שָׁ֥חַת</big></span><small><sup>[[H7845G]]</sup></small> &#8207;| Sha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ will it give thanks to you  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>יוֹדְ</big></span><small><sup>[[H3034]]</sup></small> <span class="ashebrew"><big>ךָ֥</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> yod.<small><sup>[[HVhi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dust  | <span class="ashebrew"><big>עָפָ֑ר</big></span><small><sup>[[H6083]]</sup></small> &#8207;| 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ will it declare  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>יַגִּ֥יד</big></span><small><sup>[[H5046]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> ya.Gid<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithfulness your  | <span class="ashebrew"><big>אֲמִתֶּֽ</big></span><small><sup>[[H0571G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.mi.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.8|<< Psalms 30:8]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.10|Psalms 30:10 >>]]</td></tr></table>
+
+

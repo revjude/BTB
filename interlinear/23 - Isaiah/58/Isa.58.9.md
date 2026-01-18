@@ -1,0 +1,28 @@
+**Isaiah 58:9** 
+<small><sub>**KJV:**</sub></small>
+Then shalt thou call, and the LORD shall answer; thou shalt cry, and he shall say, Here I [am]. If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking vanity;
+<small><sub>**BSB:**</sub></small>
+Then you will call, and the LORD will answer; you will cry out, and He will say, ‘Here I am.’ If you remove the yoke from your midst, the pointing of the finger and malicious talk,
+<small><sub>**Literal:**</sub></small>
+then you will call and  Yahweh he will answer you will cry for help and  he may say here [am]  I if you will remove from  among  you [the] yoke-bar [the] stretching out of a finger and  [the] speaking of wickedness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.8|<< Isaiah 58:8]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.10|Isaiah 58:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| then  | <span class="ashebrew"><big>אָ֤ז</big></span><small><sup>[[H0227A]]</sup></small> &#8207;| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will call  | <span class="ashebrew"><big>תִּקְרָא֙</big></span><small><sup>[[H7121G]]</sup></small> &#8207;| tik.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Yahweh  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יהוָ֣ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will answer  | <span class="ashebrew"><big>יַעֲנֶ֔ה</big></span><small><sup>[[H6030B]]</sup></small> &#8207;| ya.'a.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will cry for help  | <span class="ashebrew"><big>תְּשַׁוַּ֖ע</big></span><small><sup>[[H7768]]</sup></small> &#8207;| te.sha.Va'<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he may say  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יֹאמַ֣ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yo.Mar<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here [am] I  | <span class="ashebrew"><big>הִנֵּ֑</big></span><small><sup>[[H2005]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9040]]</sup></small> &#8207;| hi.Ne.<small><sup>[[HTj]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will remove  | <span class="ashebrew"><big>תָּסִ֤יר</big></span><small><sup>[[H5493I]]</sup></small> &#8207;| ta.Sir<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from among you  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>תּֽוֹכְ</big></span><small><sup>[[H8432]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> tokh.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] yoke-bar  | <span class="ashebrew"><big>מוֹטָ֔ה</big></span><small><sup>[[H4133]]</sup></small> &#8207;| mo.Tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] stretching out of  | <span class="ashebrew"><big>שְׁלַ֥ח</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| she.Lach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a finger  | <span class="ashebrew"><big>אֶצְבַּ֖ע</big></span><small><sup>[[H0676]]</sup></small> &#8207;| 'etz.Ba'<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] speaking of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דַבֶּר</big></span><small><sup>[[H1696G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> da.ber-<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wickedness  | <span class="ashebrew"><big>אָֽוֶן</big></span><small><sup>[[H0205G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.8|<< Isaiah 58:8]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.10|Isaiah 58:10 >>]]</td></tr></table>
+
+

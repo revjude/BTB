@@ -1,0 +1,14 @@
+
+<b> <span class='asgreek'>==παράδεισος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ὁ</span> 
+
+
+ (also <b><span class='asgreek'>παράδισος</span></b> [<a href="javascript:void(0)" title=" “SIG” 463.8 (Crete, 3rd c.BC))">Refs 3rd c.BC+</a>], <b>enclosed park</b> or <b>pleasure-ground</b>, Oriental word first used by [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus, ">Refs 5th c.BC+</a>] always in reference to the <b>parks</b> of the Persian kings and nobles; <span class='asgreek'>π</span>. <span class='asgreek'>μέγας</span> <span class='asgreek'>ἀγρίων</span> <span class='asgreek'>θηρίων</span> <span class='asgreek'>πλήρης</span> [<a href="javascript:void(0)" title=" “An.” 1.2.7 ">Refs</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>δασὺς</span> <span class='asgreek'>παντοίων</span> <span class='asgreek'>δένδρων</span>[<a href="javascript:void(0)" title=" [prev. work] 2.4.14; τὰ ἐν π. θηρία “Cyr.” 1.3.14; θῆραι.. ἐν περιειργμένοις παραδείσοις “HG” 4.1.15, compare 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.4.1, “AJA” 16.13 (Sardes, 4th c.BC), LXX.Neh.2.8, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Artoxerxes” 25. ">LXX+4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>garden, orchard,</b> [<a href="javascript:void(0)" title=" PRev.Laws 33.11 (3rd c.BC), “PCair.Zen.” 33.3 (3rd c.BC), “OGI” 90.15 (Rosetta, 2nd c.BC), LXX.Song.4.13, LXX.Eccl.2.5, “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2694b (from Mylasa), “PFay.” 55.7 (2nd c.AD), etc. ">LXX+3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>the garden of Eden</b>, [<a href="javascript:void(0)" title=" LXX.Gen.2.8. ">LXX</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <b>Paradise, the abode of the blessed,</b> [<a href="javascript:void(0)" title="NT.Luke.23.43, NT.2Cor.12.4. ">NT</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.c</b> explanation of <span class='asgreek'>μακάρων</span> <span class='asgreek'>νῆσοι</span>, [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus ad 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 169. ">Refs 8th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>stupid fellow,</b> [<a href="javascript:void(0)" title=" Comica Adespota 1102. (Persian word, compare 2nd c.AD(?): Pollianus Epigrammaticus 9.13, 9th c.AD: Photius Legal icographus, etc. ">Refs 2nd c.AD+</a>], and Avest. <b>pairidaēza</b>- 'enclosure'.)
+
+<small><sub>LSJ Scripture Refs: [[Neh.2.8]] ☩ [[Song.4.13]] ☩ [[Eccl.2.5]] ☩ [[Gen.2.8]] ☩ [[Luke.23.43]] ☩ [[2Cor.12.4]]
+</sub></small>

@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==γόης==</span></b>, <span class='asgreek'>ητος</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>sorcerer, wizard</b>, Phoronis 2, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.33, 4.105, 5th-6th c.BC: Plato Philosophus “Respublica” 380d, 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.29 W.; γ. ἐπῳδὸς Λυδίας ἀπὸ χθονός 5th c.BC: Euripides Tragicus “Bacchae” 234, compare “Hipp.” 1038 ">Refs 5th c.BC+</a>]; probably <i>falsa lectio</i> for{<span class='asgreek'>βοῇσι</span>} [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.191. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>juggler, cheat</b>, <span class='asgreek'>δεινὸς</span> <span class='asgreek'>γ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>φαρμακεὺς</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>σοφιστής</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Symposium” 203d; δεινὸν καὶ γ. καὶ σοφιστὴν.. ὀνομάζων 4th c.BC: Demosthenes Orator 18.276; ἄπιστος γ. πονηρός [prev. author] 19.109; μάγος καὶ γ. 4th c.BC: Aeschines Orator 3.137 ">Refs 5th c.BC+</a>]: <i>comparative</i> <span class='asgreek'>γοητότερος</span> [<a href="javascript:void(0)" title=" 3rd c.AD(?): Achilles Tatius Astronomus 6.7 (assuming variant)">Refs 3rd c.AD+</a>]. (Cf. Lithuanian <i>žavēti</i> 'incantare'.)

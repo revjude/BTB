@@ -1,0 +1,8 @@
+<span class="asgreek">ἐπήλυτος</span> <small>***(epēlutos)***</small> ==**a stranger**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+Related to: <b> <span class='asgreek'>==ἐπήλυτος==</span>-<span class='asgreek'>ῠς</span></b>, <span class='asgreek'>ῠδος</span>, <span class='asgreek'>ὁ</span>, <span class='asgreek'>ἡ</span>, <span class='asgreek'>==ἐπήλυτος==υ</span>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>ἐπήλυθον</span>) <b>one who comes to</b> a place, <span class='asgreek'>ἔλθετ᾽</span> <span class='asgreek'>ἐπήλυδες</span> <span class='asgreek'>αὖθις</span> <b>come</b> back <b>to me</b> (for they were going away), [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ph.” 1190 (\_anapaest meter\_). ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>incomer, stranger, foreigner,</b> opposed to <span class='asgreek'>αὐτόχθων</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.78, 4.197; ἄνδρας πολεμίους ἐ. Aeschylus Tragicus [{4-5th c.BC}] “Persae” 243 (troch.), compare “Th.” 34, “Supp.” 195, 5th c.BC: Thucydides Historicus 1.29 ">Refs 5th c.BC+</a>]; <i>adjective</i>, [<a href="javascript:void(0)" title=" ἔ. γένεσις Plato Philosophus [{5-6th c.BC}] “Menexenus” 237b; ἔ. βίος 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 8.12.2 ">Refs 6th c.BC+</a>]: also in <i>neuter</i> <i>plural</i>, [<a href="javascript:void(0)" title=" ἐπήλυδα ἔθνεα 5th c.BC: Herodotus Historicus 8.73 ">Refs 5th c.BC+</a>]: <i>neuter</i> <i>singular</i>, [<a href="javascript:void(0)" title=" ἐπήλυδος γένους 1st c.BC: Dionysius Halicarnassensis 1.60; ὕδωρ ==ἐπήλυτος==υ 2nd c.AD: Pausanias Periegeta 2.5.3 ">Refs 1st c.BC+</a>].

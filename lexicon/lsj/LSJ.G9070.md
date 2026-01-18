@@ -1,0 +1,17 @@
+<span class="asgreek">σημασία</span> <small>***(sēmasia)***</small> ==**a cheer**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==σημασία==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>σημαίνω</span> [<a href="javascript:void(0)" title=" 11)">Refs</a>] <b>the giving a signal</b> or <b>command</b>, [<a href="javascript:void(0)" title=" LXX.Num.29.1 ">LXX</a>]; <span class='asgreek'>αἱ</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἄρκτων</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 2.54. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>indication</b>, <span class='asgreek'>αἱ</span> <span class='asgreek'>πράξεις</span> <span class='asgreek'>ἤθους</span> <span class='asgreek'>σ</span>. <span class='asgreek'>ἐστίν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 919b36 ">Refs 4th c.BC+</a>]; <b>designation</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 8.6.5. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>meaning, signification</b>, <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>σημασιῶν</span> <span class='asgreek'>Φίλωνος</span>, title of work by Chrysippus, [<a href="javascript:void(0)" title=" “Stoicorum Veterum Fragmenta” 2.5, compare 1st c.BC: Philodemus Philosophus “περὶ σημείων καὶ σημειώσεων” 34: frequently in Grammars, 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 14.3, +others, 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 24.4, 4th c.AD: Iamblichus Philosophus “Protrepticus” 4, etc. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>notation</b> in Music, [<a href="javascript:void(0)" title=" Gaud. Harm. 20. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>the decisive appearance</b> of a disease, [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων ὀξέων παθῶν” 1.5, +others ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> <b>mark</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>δέρματι</span> <span class='asgreek'>χρωτός</span> [<a href="javascript:void(0)" title=" LXX.Lev.13.2 ">LXX</a>]; of the Nile-flood, <span class='asgreek'>ἀνῆλθεν</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Νείλου</span> <span class='asgreek'>σ</span>. <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἱερατικὸν</span> <span class='asgreek'>σημεῖον</span> [<a href="javascript:void(0)" title=" “Bull.Soc.Alex.” 5.55 (5th-6th c.AD). ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_V</b> <b>address</b> of a correspondent, [<a href="javascript:void(0)" title=" “POxy.” 1678.28 (3rd c.AD). ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_VI</b> <span class='asgreek'>βασιλικὴ</span> <span class='asgreek'>σ</span>. royal <b>insignia</b> or <b>appearance</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus “de fasciis - Opera Hippocratis et Galeni” 8. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Num.29.1]] ☩ [[Lev.13.2]]
+</sub></small>

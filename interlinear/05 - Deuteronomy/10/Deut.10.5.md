@@ -1,0 +1,28 @@
+**Deuteronomy 10:5** 
+<small><sub>**KJV:**</sub></small>
+And I turned myself and came down from the mount, and put the tables in the ark which I had made; and there they be, as the LORD commanded me.
+<small><sub>**BSB:**</sub></small>
+and I went back down the mountain and placed the tablets in the ark I had made, as the LORD had commanded me; and there they have remained.
+<small><sub>**Literal:**</sub></small>
+and  I turned and  I came down from the  mountain and  I put \<obj.> the  tablets in the  ark which I had made and  they have been there just  as he commanded  me Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.4|<< Deuteronomy 10:4]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.6|Deuteronomy 10:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I turned  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֵ֗פֶן</big></span><small><sup>[[H6437G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'E.fen<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I came down  | <span class="ashebrew"><big>וָֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֵרֵד֙</big></span><small><sup>[[H3381]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'e.Red<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the mountain  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הָ֔ר</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I put  | <span class="ashebrew"><big>וָֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָשִׂם֙</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.Sim<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tablets  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לֻּחֹ֔ת</big></span><small><sup>[[H3871]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> lu.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the ark  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָר֖וֹן</big></span><small><sup>[[H0727]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I had made  | <span class="ashebrew"><big>עָשִׂ֑יתִי</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| 'a.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they have been  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּ֣הְיוּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yih.yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֔ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he commanded me  | <span class="ashebrew"><big>צִוַּ֖</big></span><small><sup>[[H6680]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| tzi.Va.<small><sup>[[HVpp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.4|<< Deuteronomy 10:4]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.6|Deuteronomy 10:6 >>]]</td></tr></table>
+
+

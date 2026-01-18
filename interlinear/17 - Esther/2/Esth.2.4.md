@@ -1,0 +1,27 @@
+**Esther 2:4** 
+<small><sub>**KJV:**</sub></small>
+And let the maiden which pleaseth the king be queen instead of Vashti. And the thing pleased the king; and he did so.
+<small><sub>**BSB:**</sub></small>
+Then let the young woman who pleases the king become queen in place of Vashti.” This suggestion pleased the king, and he acted accordingly.
+<small><sub>**Literal:**</sub></small>
+and  the  young woman who she will be good in  [the] eyes of the  king she will reign in place of Vashti and  it was good the  word in  [the] eyes of the  king and  he did thus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.3|<< Esther 2:3]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.5|Esther 2:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the young woman  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נַּעֲרָ֗ה</big></span><small><sup>[[H5291]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> na.'a.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֤ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will be good  | <span class="ashebrew"><big>תִּיטַב֙</big></span><small><sup>[[H3190]]</sup></small> &#8207;| ti.Tav<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] eyes of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵינֵ֣י</big></span><small><sup>[[H5869I]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֔לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will reign  | <span class="ashebrew"><big>תִּמְלֹ֖ךְ</big></span><small><sup>[[H4427A]]</sup></small> &#8207;| tim.Lokh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of  | <span class="ashebrew"><big>תַּ֣חַת</big></span><small><sup>[[H8478H]]</sup></small> &#8207;| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Vashti  | <span class="ashebrew"><big>וַשְׁתִּ֑י</big></span><small><sup>[[H2060]]</sup></small> &#8207;| vash.Ti<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was good  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּיטַ֧ב</big></span><small><sup>[[H3190]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Tav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the word  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דָּבָ֛ר</big></span><small><sup>[[H1697I]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] eyes of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵינֵ֥י</big></span><small><sup>[[H5869I]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֖לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he did  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֥עַשׂ</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֵּֽן</big></span><small><sup>[[H3651C]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.3|<< Esther 2:3]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.5|Esther 2:5 >>]]</td></tr></table>
+
+

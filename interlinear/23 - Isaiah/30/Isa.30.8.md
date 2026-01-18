@@ -1,0 +1,28 @@
+**Isaiah 30:8** 
+<small><sub>**KJV:**</sub></small>
+Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:
+<small><sub>**BSB:**</sub></small>
+Go now, write it on a tablet in their presence and inscribe it on a scroll; it will be for the days to come, a witness forever and ever.
+<small><sub>**Literal:**</sub></small>
+now go write  it on a tablet with  them and  on a scroll inscribe  it so  may it be for  a day future for  ever until perpetuity<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.7|<< Isaiah 30:7]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.9|Isaiah 30:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| now  | <span class="ashebrew"><big>עַתָּ֗ה</big></span><small><sup>[[H6258]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  | <span class="ashebrew"><big>בּ֣וֹא</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| Bo'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| write it  | <span class="ashebrew"><big>כָתְבָ֥</big></span><small><sup>[[H3789]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| kha.te.Va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tablet  | <span class="ashebrew"><big>ל֛וּחַ</big></span><small><sup>[[H3871]]</sup></small> &#8207;| Lu.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with them  | <span class="ashebrew"><big>אִתָּ֖</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'i.Ta<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a scroll  | <span class="ashebrew"><big>סֵ֣פֶר</big></span><small><sup>[[H5612H]]</sup></small> &#8207;| Se.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inscribe it  | <span class="ashebrew"><big>חֻקָּ֑</big></span><small><sup>[[H2710]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| chu.Ka<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so may it be  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְהִי֙</big></span><small><sup>[[H1961]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.Hi<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for a day  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י֣וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| future  | <span class="ashebrew"><big>אַחֲר֔וֹן</big></span><small><sup>[[H0314]]</sup></small> &#8207;| 'a.cha.Ron<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עַ֖ד</big></span><small><sup>[[H5703]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'Ad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  | <span class="ashebrew"><big>עוֹלָֽם</big></span><small><sup>[[H5769G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.7|<< Isaiah 30:7]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.9|Isaiah 30:9 >>]]</td></tr></table>
+
+

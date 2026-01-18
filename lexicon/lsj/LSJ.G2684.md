@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==κατασκοπέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <i>future</i> -<span class='asgreek'>σκέψομαι</span>: <i>aorist</i> -<span class='asgreek'>εσκεψάμην</span>:— <b>view closely, spy out, reconnoitre</b>, <span class='asgreek'>κ</span>. <span class='asgreek'>ὅποι</span>.. [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hel.” 1607; τὰ ἀγγελλόμενα">Refs 5th c.BC+</a>] <b>reconnoitre</b>, Aen. Tact.[<a href="javascript:void(0)" title=" 23.10; εἴ πῃ.. 5th-6th c.BC: Xenophon Historicus “Cyr.” 7.1.39, compare 5th c.BC: Thucydides Historicus 6.50, +others; τῶν πολεμίων Plutarchus Biographus et Philosophus [{1-2nd c.AD}] “Solon” 9 ">Refs 5th c.BC+</a>]; <b>keep a look-out</b>, of ships, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.95.6:">Refs 2nd c.BC+</a>] —<i>middle</i>, -[<a href="javascript:void(0)" title=" σκοπεῖσθαι ἑαυτήν Xenophon Historicus [{5-6th c.BC}] “Memorabilia” 2.1.22; αὐτὸς ἑαυτὸν κ. 4th c.BC: Aristoteles Philosophus “Magna Moralia” 1213a5 ">Refs 6th c.BC+</a>]; <b>inspect</b>, [<a href="javascript:void(0)" title=" τὰς πανοπλίας 2nd c.BC: Polybius Historicus 10.20.2; γραφήν “POxy.” 1414.4 (3rd c.AD)">Refs 2nd c.BC+</a>]; of a medical examination, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 1.293. ">Refs 2nd c.AD+</a>]
+

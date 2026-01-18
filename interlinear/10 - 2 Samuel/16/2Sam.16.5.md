@@ -1,0 +1,32 @@
+**2 Samuel 16:5** 
+<small><sub>**KJV:**</sub></small>
+And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name [was] Shimei, the son of Gera: he came forth, and cursed still as he came.
+<small><sub>**BSB:**</sub></small>
+As King David approached Bahurim, a man from the family of the house of Saul was just coming out. His name was Shimei son of Gera, and as he approached, he kept yelling out curses.
+<small><sub>**Literal:**</sub></small>
+and  he came the  king David to Bahurim and  there! from  there a man [was] coming out from  [the] clan of [the] house of Saul and  name  his [was] Shimei [the] son of Gera [he was] coming out continuously \<to come> and  cursing<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.4|<< 2 Samuel 16:4]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.6|2 Samuel 16:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he came  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>בָ֛א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֥לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֖ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bahurim  | <span class="ashebrew"><big>בַּֽחוּרִ֑ים</big></span><small><sup>[[H0980]]</sup></small> &#8207;| ba.chu.Rim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there!  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנֵּ֣ה</big></span><small><sup>[[H2009]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from there  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שָּׁם֩</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  | <span class="ashebrew"><big>אִ֨ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] coming out  | <span class="ashebrew"><big>יוֹצֵ֜א</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| yo.Tze'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] clan of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּשְׁפַּ֣חַת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּית</big></span><small><sup>[[H1004M]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  | <span class="ashebrew"><big>שָׁא֗וּל</big></span><small><sup>[[H7586G]]</sup></small> &#8207;| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and name his  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁמ</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Shimei  | <span class="ashebrew"><big>שִׁמְעִ֣י</big></span><small><sup>[[H8096H]]</sup></small> &#8207;| shim.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gera  | <span class="ashebrew"><big>גֵּרָ֔א</big></span><small><sup>[[H1617H]]</sup></small> &#8207;| ge.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [he was] coming out  | <span class="ashebrew"><big>יֹצֵ֥א</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| yo.Tze'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| continuously \<to come>  | <span class="ashebrew"><big>יָצ֖וֹא</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| ya.Tzo'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cursing  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְקַלֵּֽל</big></span><small><sup>[[H7043]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.ka.Lel<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.4|<< 2 Samuel 16:4]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.6|2 Samuel 16:6 >>]]</td></tr></table>
+
+

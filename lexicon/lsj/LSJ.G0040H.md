@@ -1,0 +1,15 @@
+meaning of: <small>[[G0040G]]</small> 
+
+
+<b> <span class='asgreek'>==ἅγιος==</span></b> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, 
+
+
+ <b>devoted to the gods:</b> 
+
+$\quad$ $\quad$<b>\_\_I</b> in good sense, <b>sacred, holy:</b> 
+$\quad$ $\quad$ $\quad$<b>\_\_I.1</b> of things, especially temples, <span class='asgreek'>ἈΦροδίτης</span> <span class='asgreek'>ἱρὸν</span> <span class='asgreek'>ἅ</span>.[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.41">Refs 5th c.BC+</a>]; <span class='asgreek'>ἱρο᾽ν</span> <span class='asgreek'>Ἡρακλέος</span> <span class='asgreek'>ἅ</span>.[<a href="javascript:void(0)" title=" [prev. work] 44, compare 5th-6th c.BC: Plato Philosophus “Critias” 116c, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 3.2.19; θηρίον 4th c.BC: Antiphanes Comicus 147.7; νηὸν ἐπὶ τῷ χάσματι Ἥρης ἅ. ἐστήσατο 2nd c.AD: Lucianus Sophista “Syr.D.” 13: generally, θυσίαι, ξυμβόλαια, 5th-6th c.BC: Isocrates Orator 10.63, 5th-6th c.BC: Plato Philosophus “Leges” 729e (\_superlative\_)">Refs 5th c.BC+</a>]; <span class='asgreek'>μητρός</span>.. <span class='asgreek'>ἐστι</span> <span class='asgreek'>πατρὶς</span> <span class='asgreek'>ἁγιώτερον</span>[<a href="javascript:void(0)" title=" [prev. author] “Cri.” 51a; ὅρκος ἅ. 4th c.BC: Aristoteles Philosophus “Mirabilia” 834b11">Refs 4th c.BC+</a>]; <span class='asgreek'>ἅ</span>., <span class='asgreek'>τό</span>, <b>temple</b>, [<a href="javascript:void(0)" title=" “OGI” 56.59 (from Canopus), LXX.Exod.26.33, +others, cf. NT.Heb.9.2; τὸ ἅ. τῶν ἁγίων ">LXX+NT</a>]<b>Holy of Holies,</b> [<a href="javascript:void(0)" title=" LXX [same place]; τὰ ἅ. τῶν ἁ. “3 Ki.” 8.6, etc., cf. NT.Heb.9.3. ">NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_I.2</b> of persons, <b>holy, pure,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 522 (\_anapaest meter\_); λαὸς ἅ. Κυρίῳ LXX.Deut.7.6, +others; ">LXX+5th c.BC+</a>] <span class='asgreek'>οἱ</span> <span class='asgreek'>ἅ</span>. <b>the Saints,</b> [<a href="javascript:void(0)" title=" NT.1Cor.6.1, +others; ">NT</a>] <span class='asgreek'>πνεῦμα</span> <span class='asgreek'>ἅ</span>. <b>the Holy Spirit,</b> [<a href="javascript:void(0)" title="NT.Matt.3.11, +others">NT</a>] <i>adverb</i> <span class='asgreek'>ἁγίως</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>σεμνῶς</span> <span class='asgreek'>ἔχειν</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 11.25. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> in bad sense, <b>accursed, execrable,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Cratinus Comicus 373, 12th c.AD: Eustathius Episcopus Thessalonicensis 1356.59.—Never in 8th c.BC: Homerus Epicus, 8th-7th c.BC: Hesiodus Epicus, or Trag. (who use ἁγνός)">Refs 8th c.BC+</a>]; rare in <i>Attic dialect</i> (see. above). (Possibly cognate with Sanskrit <i>yajati</i> 'sacrifice'.)
+
+<small><sub>LSJ Scripture Refs: [[Exod.26.33]] ☩ [[Heb.9.2]] ☩ [[Heb.9.3]] ☩ [[Deut.7.6]] ☩ [[1Cor.6.1]] ☩ [[Matt.3.11]]
+</sub></small>

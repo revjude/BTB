@@ -1,0 +1,29 @@
+**Esther 2:16** 
+<small><sub>**KJV:**</sub></small>
+So Esther was taken unto king Ahasuerus into his house royal in the tenth month, which [is] the month Tebeth, in the seventh year of his reign.
+<small><sub>**BSB:**</sub></small>
+She was taken to King Xerxes in the royal palace in the tenth month, the month of Tebeth, in the seventh year of his reign.
+<small><sub>**Literal:**</sub></small>
+and  she was taken Esther to the  king Ahasuerus into [the] house of royalty  his in the  month \<the>  tenth that [is] [the] month of Tebeth in  year seven of  reign  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.15|<< Esther 2:15]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.17|Esther 2:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she was taken  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּלָּקַ֨ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ti.la.Kach<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Esther  | <span class="ashebrew"><big>אֶסְתֵּ֜ר</big></span><small><sup>[[H0635]]</sup></small> &#8207;| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֤לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahasuerus  | <span class="ashebrew"><big>אֲחַשְׁוֵרוֹשׁ֙</big></span><small><sup>[[H0325]]</sup></small> &#8207;| 'a.chash.ve.ro.Vosh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| royalty his  | <span class="ashebrew"><big>מַלְכוּת֔</big></span><small><sup>[[H4438]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| mal.khu.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the month  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֹ֥דֶשׁ</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> tenth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֲשִׂירִ֖י</big></span><small><sup>[[H6224]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.si.Ri<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>הוּא</big></span><small><sup>[[H1931]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] month of  | <span class="ashebrew"><big>חֹ֣דֶשׁ</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| Cho.desh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tebeth  | <span class="ashebrew"><big>טֵבֵ֑ת</big></span><small><sup>[[H2887]]</sup></small> &#8207;| te.Vet<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in year  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁנַת</big></span><small><sup>[[H8141]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> sh.nat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שֶׁ֖בַע</big></span><small><sup>[[H7651]]</sup></small> &#8207;| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of reign his  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַלְכוּתֽ</big></span><small><sup>[[H4438]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mal.khu.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.15|<< Esther 2:15]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.17|Esther 2:17 >>]]</td></tr></table>
+
+

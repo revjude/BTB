@@ -1,0 +1,28 @@
+**1 Samuel 25:23** 
+<small><sub>**KJV:**</sub></small>
+And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground,
+<small><sub>**BSB:**</sub></small>
+When Abigail saw David, she quickly got off the donkey, fell facedown, and bowed before him.
+<small><sub>**Literal:**</sub></small>
+and  she saw Abigail \<obj.> David and  she made haste and  she came down from  on the  donkey and  she fell to  [the] face of David on face  her and  she bowed down [the] ground<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.22|<< 1 Samuel 25:22]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.24|1 Samuel 25:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she saw  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֵּ֤רֶא</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Te.re'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abigail  | <span class="ashebrew"><big>אֲבִיגַ֙יִל֙</big></span><small><sup>[[H0026G]]</sup></small> &#8207;| 'a.vi.Ga.yil<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֔ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she made haste  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּמַהֵ֕ר</big></span><small><sup>[[H4116A]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.ma.Her<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she came down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֵּ֖רֶד</big></span><small><sup>[[H3381]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Te.red<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from on  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עַ֣ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the donkey  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֲמ֑וֹר</big></span><small><sup>[[H2543]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> cha.Mor<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she fell  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּפֹּ֞ל</big></span><small><sup>[[H5307G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ti.Pol<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] face of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַפֵּ֤י</big></span><small><sup>[[H0639I]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'a.Pei<small><sup>[[HNcmdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָוִד֙</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face her  | <span class="ashebrew"><big>פָּנֶ֔י</big></span><small><sup>[[H6440H]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| pa.Nei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she bowed down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּשְׁתַּ֖חוּ</big></span><small><sup>[[H7812]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tish.Ta.chu<small><sup>[[HVvw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ground  | <span class="ashebrew"><big>אָֽרֶץ</big></span><small><sup>[[H0776H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.22|<< 1 Samuel 25:22]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.24|1 Samuel 25:24 >>]]</td></tr></table>
+
+

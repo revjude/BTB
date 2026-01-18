@@ -1,0 +1,10 @@
+<big><span class="ashebrew">‎אֶשֶׁר‎</span></big> **ʼesher** <small>*(eh'-sher)*</small> ==**blessed**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from <span class="ashebrew">‎אָשַׁר‎</span><sup><small>[[H0833]]</small></sup></small>
+
+$\quad$ blessed, happy.
+- ***happiness***
+-  only in masculine plural construction as ***interjection***, ***how happy!***
+
+**1)** happiness, blessedness
+$\quad$ **1a)** often used as interjection
+$\quad$ **1b)** blessed are

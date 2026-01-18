@@ -1,0 +1,26 @@
+**Isaiah 16:5** 
+<small><sub>**KJV:**</sub></small>
+And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness.
+<small><sub>**BSB:**</sub></small>
+in loving devotion a throne will be established in the tent of David. A judge seeking justice and hastening righteousness will sit on it in faithfulness.
+<small><sub>**Literal:**</sub></small>
+and  it will be established in \<the>  covenant loyalty a throne and  he will sit on  it in  faithfulness in  [the] tent of David [one who] judges and  [one who] seeks justice and  [one] prompt of righteousness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.4|<< Isaiah 16:4]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.6|Isaiah 16:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be established  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הוּכַ֤ן</big></span><small><sup>[[H3559H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hu.Khan<small><sup>[[HVHq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> covenant loyalty  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֶ֙סֶד֙</big></span><small><sup>[[H2617A]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a throne  | <span class="ashebrew"><big>כִּסֵּ֔א</big></span><small><sup>[[H3678G]]</sup></small> &#8207;| ki.Se'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will sit  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָשַׁ֥ב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ya.Shav<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלָ֛י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in faithfulness  | <span class="ashebrew"><big>בֶּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֱמֶ֖ת</big></span><small><sup>[[H0571G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] tent of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֹ֣הֶל</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֑ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] judges  | <span class="ashebrew"><big>שֹׁפֵ֛ט</big></span><small><sup>[[H8199]]</sup></small> &#8207;| sho.Fet<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] seeks  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דֹרֵ֥שׁ</big></span><small><sup>[[H1875]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> do.Resh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  | <span class="ashebrew"><big>מִשְׁפָּ֖ט</big></span><small><sup>[[H4941H]]</sup></small> &#8207;| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one] prompt of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְהִ֥ר</big></span><small><sup>[[H4106]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.Hir<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  | <span class="ashebrew"><big>צֶֽדֶק</big></span><small><sup>[[H6664G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.4|<< Isaiah 16:4]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.6|Isaiah 16:6 >>]]</td></tr></table>
+
+

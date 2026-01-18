@@ -1,0 +1,23 @@
+**1 Chronicles 7:9** 
+<small><sub>**KJV:**</sub></small>
+And the number of them, after their genealogy by their generations, heads of the house of their fathers, mighty men of valour, [was] twenty thousand and two hundred.
+<small><sub>**BSB:**</sub></small>
+Their genealogies were recorded according to the heads of their families—20,200 mighty men of valor.
+<small><sub>**Literal:**</sub></small>
+and  recording genealogy  they to  generations  their chiefs of [the] house of ancestors  their mighty [men] of strength [was] twenty thousand and  two hundred<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.8|<< 1 Chronicles 7:8]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.10|1 Chronicles 7:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and recording genealogy they  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִתְיַחְשָׂ֣</big></span><small><sup>[[H3187]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9048]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hit.yach.Sa<small><sup>[[HVtcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to generations their  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תֹלְדוֹתָ֗</big></span><small><sup>[[H8435]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> to.le.do.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chiefs of  | <span class="ashebrew"><big>רָאשֵׁי֙</big></span><small><sup>[[H7218H]]</sup></small> &#8207;| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors their  | <span class="ashebrew"><big>אֲבוֹתָ֔</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mighty [men] of  | <span class="ashebrew"><big>גִּבּוֹרֵ֖י</big></span><small><sup>[[H1368]]</sup></small> &#8207;| gi.bo.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength  | <span class="ashebrew"><big>חָ֑יִל</big></span><small><sup>[[H2428A]]</sup></small> &#8207;| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] twenty  | <span class="ashebrew"><big>עֶשְׂרִ֥ים</big></span><small><sup>[[H6242]]</sup></small> &#8207;| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  | <span class="ashebrew"><big>אֶ֖לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'E.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and two hundred  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מָאתָֽיִם</big></span><small><sup>[[H3967]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.8|<< 1 Chronicles 7:8]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.10|1 Chronicles 7:10 >>]]</td></tr></table>
+
+

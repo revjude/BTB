@@ -1,0 +1,30 @@
+**Jeremiah 41:12** 
+<small><sub>**KJV:**</sub></small>
+Then they took all the men, and went to fight with Ishmael the son of Nethaniah, and found him by the great waters that [are] in Gibeon.
+<small><sub>**BSB:**</sub></small>
+they took all their men and went to fight Ishmael son of Nethaniah. And they found him near the great pool in Gibeon.
+<small><sub>**Literal:**</sub></small>
+and  they took \<obj.> all the  men and  they went to  do battle with Ishmael [the] son of Nethaniah and  they found \<obj.>  him to water great which [is] in  Gibeon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.11|<< Jeremiah 41:11]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.13|Jeremiah 41:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they took  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְחוּ֙</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the men  | <span class="ashebrew"><big>הָ֣</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲנָשִׁ֔ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֣לְכ֔וּ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to do battle  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הִלָּחֵ֖ם</big></span><small><sup>[[H3898A]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hi.la.Chem<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ishmael  | <span class="ashebrew"><big>יִשְׁמָעֵ֣אל</big></span><small><sup>[[H3458H]]</sup></small> &#8207;| yish.ma.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nethaniah  | <span class="ashebrew"><big>נְתַנְיָ֑ה</big></span><small><sup>[[H5418G]]</sup></small> &#8207;| ne.tan.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they found  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּמְצְא֣וּ</big></span><small><sup>[[H4672]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yim.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  | <span class="ashebrew"><big>אֹת֔</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  | <span class="ashebrew"><big>מַ֥יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>רַבִּ֖ים</big></span><small><sup>[[H7227A]]</sup></small> &#8207;| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in Gibeon  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גִבְעֽוֹן</big></span><small><sup>[[H1391]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> giv.'on<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.11|<< Jeremiah 41:11]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.13|Jeremiah 41:13 >>]]</td></tr></table>
+
+

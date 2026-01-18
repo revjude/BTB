@@ -1,0 +1,20 @@
+<span class="asgreek">παρεμβάλλω</span> <small>***(paremballō)***</small> ==**to encamp**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==παρεμβάλλω==</span>-<span class='asgreek'>βάλλω</span></b>, 
+
+
+ <i>future</i> <b>-<span class='asgreek'>βᾰλῶ</span></b>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 481 ">Refs 5th c.BC+</a>]:— <b>put in beside</b> or <b>between, insert, interpose</b>, <span class='asgreek'>τι</span> [same place]; <span class='asgreek'>π</span>. <span class='asgreek'>λόγους</span> <span class='asgreek'>ἑτέρους</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 40.61 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ὑποψίας</span> <span class='asgreek'>π</span>. <b>insinuate</b> suspicions, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 1.167; π. δημηγορίας [prev. work]174; ὅτε νυστάζοιεν οἱ ἀκροαταί, π. τῆς πεντηκονταδράχμου">Refs 4th c.BC+</a>] <b>interpose</b> [a touch] of his 50 drachmae lecture, of Prodicus the Sophist, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1415b16, compare “Top.” 157a1 ">Refs 4th c.BC+</a>]; <b>interpolate</b>, <span class='asgreek'>π</span>. <span class='asgreek'>τι</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>Ἡσιόδου</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.730f, compare 3rd c.AD: Alexander Aphrodisiensis Philosophus “in Aristotelis Topicorum libros octo commentaria - pars” 309.27 (\_passive\_). ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> in Tactics, <b>insert</b> troops in a line of battle, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.33.7, +others">Refs 2nd c.BC+</a>]; <b>insert</b> men in the ranks, [<a href="javascript:void(0)" title=" 1st c.BC: Asclepiodotus Tacticus “Tact.” 10.17, etc. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_c</b> <b>place in</b> a class or order, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 741a. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_d</b> <b>feed</b> olives into a press, [<a href="javascript:void(0)" title=" “PFay.” 91.6, +others(1st c.AD). ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_e</b> <b>add</b> an ingredient in medicine, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.122, 6th c.AD: Aëtius Medicus 16.85. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_f</b> <span class='asgreek'>εἰς</span> <span class='asgreek'>ἔκθεσμα</span> <span class='asgreek'>πράγματα</span> <span class='asgreek'>π</span>. <span class='asgreek'>ἑαυτόν</span> <b>engage</b> in.., [<a href="javascript:void(0)" title=" “POxy.” 129.4 (6th c.AD). ">Refs 6th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>draw up in battle-order</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 2.27.7, +others, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.618d, etc. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>fall into line</b>, <span class='asgreek'>ἐς</span> <span class='asgreek'>ναυμαχίαν</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 5.69.7, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sulla” 17, etc. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of an army, <b>encamp</b>, [<a href="javascript:void(0)" title=" LXX.Exod.15.27, +others, 2nd c.BC: Polybius Historicus 1.77.6. ">LXX+2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> of guests at table, <b>take</b> their <b>places</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.615d. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>advance</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 11.23.5 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>εἰς</span>.. [<a href="javascript:void(0)" title=" [prev. author] 5.14.9, 29.19.8. ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.15.27]]
+</sub></small>

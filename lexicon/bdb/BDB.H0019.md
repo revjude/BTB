@@ -1,0 +1,8 @@
+ [<span class="bdbLangHebrew">‎אִבְחָה‎</span>] **noun feminine** construct <span class="bdbLangHebrew">‎אִבְחַת חֶרֶב‎</span> [[Ezek.21.20|Ezek 21:20]] [[BDB#Dl|Dl]], as above, ***slaughter***; but probably error for <span class="bdbLangHebrew">‎טבחת‎</span> (see  <span class="bdbLangHebrew">‎טבח‎</span>) [[BDB#Ges|Ges]] [[BDB#Co|Co]]; [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">σφάγια ρὁμφαίας</span>, compare [[BDB#Tg|ᵑ7]]. <span class="bdbLangHebrew">‎אֲבַטִּיחִים‎</span> see  <span class="bdbLangHebrew">‎בטח‎</span>. <span class="bdbLangHebrew">‎אָבִי‎</span> see <span class="bdbLangHebrew">‎ביה‎</span>.<span class="bdbLangHebrew">‎אֲבִי‎</span> see  <span class="bdbLangHebrew">‎אֲבִיָּהוּ‎</span> below II. <span class="bdbLangHebrew">‎אבה‎</span>. <span class="bdbLangHebrew">‎אֲבִי הָעֶזְרִי‎</span> see  <span class="bdbLangHebrew">‎אֲבִיעֶזֶר‎</span> below II. <span class="bdbLangHebrew">‎אבה‎</span>. <span class="bdbLangHebrew">‎אֲבִיָּה‎</span> see  <span class="bdbLangHebrew">‎אֲבִיָּהוּ‎</span> below II. <span class="bdbLangHebrew">‎אבה‎</span>. <span class="bdbLangHebrew">‎אֲבִיהַיִל‎</span> see  <span class="bdbLangHebrew">‎אֲבִיחַיִל‎</span> below II. <span class="bdbLangHebrew">‎אבה‎</span>. <span class="bdbLangHebrew">‎אֶבְיוֺן‎</span>, <span class="bdbLangHebrew">‎אֲבִיּוֺנָה‎</span> see I.  <span class="bdbLangHebrew">‎אָבָה‎</span>. <span class="bdbLangHebrew">‎אֲבִיָּם‎</span> see  <span class="bdbLangHebrew">‎אֲבִיָּהוּ‎</span> below II. <span class="bdbLangHebrew">‎אבה‎</span>. <span class="bdbLangHebrew">‎אֶבְיָסָף‎</span> see  <span class="bdbLangHebrew">‎אֲבִיאָסָף‎</span> below II. <span class="bdbLangHebrew">‎אבה‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ezekiel | [[Ezek.21.20\|21:20]] |
+

@@ -1,0 +1,23 @@
+**Deuteronomy 31:5** 
+<small><sub>**KJV:**</sub></small>
+And the LORD shall give them up before your face, that ye may do unto them according unto all the commandments which I have commanded you.
+<small><sub>**BSB:**</sub></small>
+The LORD will deliver them over to you, and you must do to them exactly as I have commanded you.
+<small><sub>**Literal:**</sub></small>
+and  he will deliver up  them Yahweh \<to>  before  you and  you will do to \<the>  them according to  all the  commandment which I have commanded \<obj.>  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.4|<< Deuteronomy 31:4]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.6|Deuteronomy 31:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will deliver up them  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נְתָנָ֥</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> ne.ta.Na<small><sup>[[HVqq3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before you  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵי</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will do  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עֲשִׂיתֶ֣ם</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.si.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to all  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the commandment  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּצְוָ֔ה</big></span><small><sup>[[H4687]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mitz.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have commanded  | <span class="ashebrew"><big>צִוִּ֖יתִי</big></span><small><sup>[[H6680]]</sup></small> &#8207;| tzi.Vi.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  | <span class="ashebrew"><big>אֶתְ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9036]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.4|<< Deuteronomy 31:4]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.6|Deuteronomy 31:6 >>]]</td></tr></table>
+
+

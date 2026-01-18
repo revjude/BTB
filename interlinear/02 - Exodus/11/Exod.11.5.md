@@ -1,0 +1,32 @@
+**Exodus 11:5** 
+<small><sub>**KJV:**</sub></small>
+And all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that [is] behind the mill; and all the firstborn of beasts.
+<small><sub>**BSB:**</sub></small>
+and every firstborn son in the land of Egypt will die, from the firstborn of Pharaoh who sits on his throne, to the firstborn of the servant girl behind the hand mill, as well as the firstborn of all the cattle.
+<small><sub>**Literal:**</sub></small>
+and  he will die every firstborn in  [the] land of Egypt from  [the] firstborn of Pharaoh who  sits on throne  his unto [the] firstborn of the  maidservant who [is] behind the  hand-mill and  every firstborn of livestock<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.4|<< Exodus 11:4]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.6|Exodus 11:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will die  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>מֵ֣ת</big></span><small><sup>[[H4191]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> Met<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| firstborn  | <span class="ashebrew"><big>בְּכוֹר֮</big></span><small><sup>[[H1060]]</sup></small> &#8207;| be.khOr<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרַיִם֒</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mitz.ra.Yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] firstborn of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בְּכ֤וֹר</big></span><small><sup>[[H1060]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> be.Khor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹה֙</big></span><small><sup>[[H6547J]]</sup></small> &#8207;| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who sits  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יֹּשֵׁ֣ב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| throne his  | <span class="ashebrew"><big>כִּסְא֔</big></span><small><sup>[[H3678G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| kis.'<small><sup>[[HNcmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unto  | <span class="ashebrew"><big>עַ֚ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] firstborn of  | <span class="ashebrew"><big>בְּכ֣וֹר</big></span><small><sup>[[H1060]]</sup></small> &#8207;| be.Khor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the maidservant  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שִּׁפְחָ֔ה</big></span><small><sup>[[H8198]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> shif.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֖ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] behind  | <span class="ashebrew"><big>אַחַ֣ר</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the hand-mill  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רֵחָ֑יִם</big></span><small><sup>[[H7347]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> re.Cha.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and every  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹ֖ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| firstborn of  | <span class="ashebrew"><big>בְּכ֥וֹר</big></span><small><sup>[[H1060]]</sup></small> &#8207;| be.Khor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| livestock  | <span class="ashebrew"><big>בְּהֵמָֽה</big></span><small><sup>[[H0929]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.4|<< Exodus 11:4]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.6|Exodus 11:6 >>]]</td></tr></table>
+
+

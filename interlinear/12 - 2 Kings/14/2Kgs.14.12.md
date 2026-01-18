@@ -1,0 +1,24 @@
+**2 Kings 14:12** 
+<small><sub>**KJV:**</sub></small>
+And Judah was put to the worse before Israel; and they fled every man to their tents.
+<small><sub>**BSB:**</sub></small>
+And Judah was routed before Israel, and every man fled to his home.
+<small><sub>**Literal:**</sub></small>
+and  it was defeated Judah \<to>  before Israel and  they fled everyone to  tents  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.11|<< 2 Kings 14:11]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.13|2 Kings 14:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was defeated  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּנָּ֥גֶף</big></span><small><sup>[[H5062]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Na.gef<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֖ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֣י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they fled  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּנֻ֖סוּ</big></span><small><sup>[[H5127]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Nu.su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| everyone  | <span class="ashebrew"><big>אִ֥ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to tents his  [^3] | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֹהָלָֽי</big></span><small><sup>[[H0168H]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;[^4] | le.<small><sup>[[HR]]</sup></small> 'o.ho.lo<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.11|<< 2 Kings 14:11]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.13|2 Kings 14:13 >>]]</td></tr></table>
+
+[^1]: ==K==: **to tent his ** | <small><sup>[[H9016]]</sup></small><span class="ashebrew"><big>׃</big></span> <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H0168H]]</sup></small><span class="ashebrew"><big>אָהֳל</big></span> <small><sup>[[H9005]]</sup></small><span class="ashebrew"><big>לְ</big></span>  | le.<small><sup>[[HR]]</sup></small> 'o.ho.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^2]: ==K==: **to tent his ** | <small><sup>[[H9016]]</sup></small><span class="ashebrew"><big>׃</big></span> <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H0168H]]</sup></small><span class="ashebrew"><big>אָהֳל</big></span> <small><sup>[[H9005]]</sup></small><span class="ashebrew"><big>לְ</big></span>  | le.<small><sup>[[HR]]</sup></small> 'o.ho.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^3]: ==K==: **to tent his ** | <small><sup>[[H9016]]</sup></small><span class="ashebrew"><big>׃</big></span> <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H0168H]]</sup></small><span class="ashebrew"><big>אָהֳל</big></span> <small><sup>[[H9005]]</sup></small><span class="ashebrew"><big>לְ</big></span>  | le.<small><sup>[[HR]]</sup></small> 'o.ho.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^4]: ==L== spelled: **<span class="ashebrew"><big>לְאֹהָלָֽ/ו\׃</big></span>**
+

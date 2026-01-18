@@ -1,0 +1,28 @@
+**Jeremiah 16:6** 
+<small><sub>**KJV:**</sub></small>
+Both the great and the small shall die in this land: they shall not be buried, neither shall [men] lament for them, nor cut themselves, nor make themselves bald for them:
+<small><sub>**BSB:**</sub></small>
+“Both great and small will die in this land. They will not be buried or mourned, nor will anyone cut himself or shave his head for them.
+<small><sub>**Literal:**</sub></small>
+and  they will die great [people] and  insignificant [people] in the  land \<the>  this not they will be buried and  not people will mourn for \<the>  them and  not anyone will cut himself and  not anyone will make himself bald for \<the>  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.5|<< Jeremiah 16:5]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.7|Jeremiah 16:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will die  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>מֵ֨תוּ</big></span><small><sup>[[H4191]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> Me.tu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great [people]  | <span class="ashebrew"><big>גְדֹלִ֧ים</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ge.do.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and insignificant [people]  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קְטַנִּ֛ים</big></span><small><sup>[[H6996A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ke.ta.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the land  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָ֥רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֹּ֖את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be buried  | <span class="ashebrew"><big>יִקָּבֵ֑רוּ</big></span><small><sup>[[H6912]]</sup></small> &#8207;| yi.ka.Ve.ru<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people will mourn  | <span class="ashebrew"><big>יִסְפְּד֣וּ</big></span><small><sup>[[H5594]]</sup></small> &#8207;| yis.pe.Du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone will cut himself  | <span class="ashebrew"><big>יִתְגֹּדַ֔ד</big></span><small><sup>[[H1413]]</sup></small> &#8207;| yit.go.Dad<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone will make himself bald  | <span class="ashebrew"><big>יִקָּרֵ֖חַ</big></span><small><sup>[[H7139]]</sup></small> &#8207;| yi.ka.Re.ach<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.5|<< Jeremiah 16:5]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.7|Jeremiah 16:7 >>]]</td></tr></table>
+
+

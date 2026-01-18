@@ -1,0 +1,26 @@
+**Ezekiel 16:47** 
+<small><sub>**KJV:**</sub></small>
+Yet hast thou not walked after their ways, nor done after their abominations: but, as [if that were] a very little [thing], thou wast corrupted more than they in all thy ways.
+<small><sub>**BSB:**</sub></small>
+And you not only walked in their ways and practiced their abominations, but soon you were more depraved than they were.
+<small><sub>**Literal:**</sub></small>
+and  not in  ways  their did you walk? and  in  abominations  their did you do? like  a little only and  you behaved corruptly more than  them in  all ways  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.46|<< Ezekiel 16:46]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.48|Ezekiel 16:48 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֤א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in ways their  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דַרְכֵי</big></span><small><sup>[[H1870G]]</sup></small> <span class="ashebrew"><big>הֶן֙</big></span><small><sup>[[H9029]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> dar.khei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| did you walk?  | <span class="ashebrew"><big>הָלַ֔כְתְּ</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| ha.Lakht<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in abominations their  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹעֲבֽוֹתֵי</big></span><small><sup>[[H8441]]</sup></small> <span class="ashebrew"><big>הֶ֖ן</big></span><small><sup>[[H9029]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> to.'a.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| did you do?  | <span class="ashebrew"><big>עָשִׂ֑ית</big></span><small><sup>[[H6213A]]</sup></small> &#8207;[^1] [^2] | a.si.ti<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| like a little  | <span class="ashebrew"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מְעַ֣ט</big></span><small><sup>[[H4592]]</sup></small> &#8207;| ki<small><sup>[[HR]]</sup></small> m.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| only  | <span class="ashebrew"><big>קָ֔ט</big></span><small><sup>[[H6985]]</sup></small> &#8207;| Kat<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you behaved corruptly  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תַּשְׁחִ֥תִי</big></span><small><sup>[[H7843]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tash.Chi.ti<small><sup>[[HVhw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than them  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>הֵ֖ן</big></span><small><sup>[[H9039]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ways your  | <span class="ashebrew"><big>דְּרָכָֽיִ</big></span><small><sup>[[H1870G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| de.ra.Kha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.46|<< Ezekiel 16:46]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.48|Ezekiel 16:48 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="ashebrew"><big>עָשִׂ֑יתי</big></span>**
+[^2]: ==K== spelled: **<span class="ashebrew"><big>עָשִׂיתִי</big></span>**
+

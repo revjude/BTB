@@ -1,0 +1,34 @@
+**Numbers 22:35** 
+<small><sub>**KJV:**</sub></small>
+And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak.
+<small><sub>**BSB:**</sub></small>
+But the angel of the LORD said to Balaam, “Go with the men, but you are to speak only what I tell you.” So Balaam went with the princes of Balak.
+<small><sub>**Literal:**</sub></small>
+and  he said [the] angel of Yahweh to Balaam go with the  men and  only \<obj.> the  word which I will speak to  you \<obj.>  it you will speak and  he went Balaam with [the] leaders of Balak<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.34|<< Numbers 22:34]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.36|Numbers 22:36 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּאמֶר֩</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] angel of  | <span class="ashebrew"><big>מַלְאַ֨ךְ</big></span><small><sup>[[H4397H]]</sup></small> &#8207;| mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balaam  | <span class="ashebrew"><big>בִּלְעָ֗ם</big></span><small><sup>[[H1109A]]</sup></small> &#8207;| bil.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  | <span class="ashebrew"><big>לֵ֚ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the men  | <span class="ashebrew"><big>הָ֣</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲנָשִׁ֔ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and only  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶ֗פֶס</big></span><small><sup>[[H0657A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.fes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the word  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דָּבָ֛ר</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will speak  | <span class="ashebrew"><big>אֲדַבֵּ֥ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| 'a.da.Ber<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>אֵלֶ֖י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'e.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹת֣</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will speak  | <span class="ashebrew"><big>תְדַבֵּ֑ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| te.da.Ber<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֥לֶךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balaam  | <span class="ashebrew"><big>בִּלְעָ֖ם</big></span><small><sup>[[H1109A]]</sup></small> &#8207;| bil.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] leaders of  | <span class="ashebrew"><big>שָׂרֵ֥י</big></span><small><sup>[[H8269]]</sup></small> &#8207;| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balak  | <span class="ashebrew"><big>בָלָֽק</big></span><small><sup>[[H1111]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.Lak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.34|<< Numbers 22:34]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.36|Numbers 22:36 >>]]</td></tr></table>
+
+

@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==εὔχρηστος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ also -<span class='asgreek'>η</span>, <span class='asgreek'>ον</span> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Orphica “Fragmenta” 272 ">Refs 5th c.AD+</a>]: (<span class='asgreek'>χράομαι</span>):— <b>useful, serviceable</b>, <span class='asgreek'>ἔν</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀγμῶν” 16 (\_superlative\_)">Refs 5th c.BC+</a>]; <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 777b, 5th-6th c.BC: Xenophon Historicus “Memorabilia” 3.8.5, etc.; εἴς τι 1st c.BC: Diodorus Siculus Historicus 5.40 (\_superlative\_) ">Refs 5th c.BC+</a>]; of persons, with <i>dative</i>, [<a href="javascript:void(0)" title=" “PPetr.” 3p.153 (3rd c.BC)">Refs 3rd c.BC+</a>]; <span class='asgreek'>τῷ</span> <span class='asgreek'>δήμῳ</span> [<a href="javascript:void(0)" title=" “Inscription Prien.” 102.5 (2nd-1st c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>σκεῦος</span> <span class='asgreek'>εὔ</span>. <span class='asgreek'>τῷ</span> <span class='asgreek'>δεσπότῃ</span> [<a href="javascript:void(0)" title=" NT.2Tim.2.21 ">NT</a>]; <span class='asgreek'>==εὔχρηστος==αι</span> <span class='asgreek'>ἡμέραι</span>, in astrology, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Orphica “Fragmenta” 272 ">Refs 5th c.AD+</a>]. <i>adverb</i> -<span class='asgreek'>τως</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 2.334; εὐ. ἔχειν πρός τι 2nd c.BC: Polybius Historicus 3.73.5, 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 3.2. ">Refs 3rd c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>easy to execute</b>, <span class='asgreek'>διίππευσις</span> [<a href="javascript:void(0)" title="[prev. work] 18.4. ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Tim.2.21]]
+</sub></small>

@@ -1,0 +1,41 @@
+ <span class="bdbLangHebrew">‎אַרְבָּעִים‎</span><sub>136</sub> **plural noun indeclinable** ==a forty==; — 
+
+**1.** sine num. al.: 
+$\quad$ $\quad$ **a.** usually apposition before noun, especially <span class="bdbLangHebrew">‎שָׁנָה‎</span>, <span class="bdbLangHebrew">‎יוֺם‎</span> (singular): <span class="bdbLangHebrew">‎אַרְבָּעִים שָׁנָה‎</span> [[Judg.3.11|Judg 3:11]]; [[1Sam.4.18|1Sam 4:18]]; [[Amos.2.10|Amos 2:10]]; [[Amos.5.25|Amos 5:25]] + 29 t.;<span class="bdbLangHebrew">‎יוֺם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Gen.7.17|Gen 7:17]]; [[1Kgs.19.8|1Kgs 19:8]]; [[Jonah.3.4|Jonah 3:4]] + 6 t.,<span class="bdbLangHebrew">‎יוֺם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> <span class="bdbLangHebrew">‎לַיְלָה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְא‎</span> [[Gen.7.4|Gen 7:4]]; [[Gen.7.12|Gen 7:12]]; [[Exod.24.18|Exod 24:18]] + 7 t.; also <span class="bdbLangHebrew">‎בַּת‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[1Kgs.7.38|1Kgs 7:38]], <span class="bdbLangHebrew">‎גָּמָל‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[2Kgs.8.9|2Kgs 8:9]], <span class="bdbLangHebrew">‎אַמָּה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Ezek.41.2|Ezek 41:2]] and (<span class="bdbLangHebrew">‎אַמָּה‎</span> omitted) [[Ezek.46.22|Ezek 46:22]], but <span class="bdbLangHebrew">‎בָּאַמָּה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[1Kgs.6.17|1Kgs 6:17]] (v: <span class="bdbLangHebrew">‎אַמָּה‎</span>); <span class="bdbLangHebrew">‎אֶלֶף‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Num.1.33|Num 1:33]]; [[Num.2.19|Num 2:19]]; [[Num.26.18|Num 26:18]]; [[Josh.4.13|Josh 4:13]]; [[Judg.5.8|Judg 5:8]]; [[2Sam.10.18|2Sam 10:18]]; [[1Kgs.5.6|1Kgs 5:6]]; [[1Chr.12.37|1Chr 12:37]] ([[BDB#van d.H.|van d. H.]] v.[[1Chr.12.36|1Chr 12:36]]), [[1Chr.19.18|1Chr 19:18]] (see also below); rarely followed by plural noun, <span class="bdbLangHebrew">‎בָּנִים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Judg.12.14|Judg 12:14]], <span class="bdbLangHebrew">‎אֲדָנִים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Exod.26.19|Exod 26:19]]; [[Exod.26.21|Exod 26:21]]; [[Exod.36.24|Exod 36:24]]; [[Exod.36.26|Exod 36:26]] ([[BDB#P|P]]). — (As round number [[Gen.7.17|Gen 7:17]]; [[Judg.3.11|Judg 3:11]]; [[Judg.5.31|Judg 5:31]]; [[Judg.8.28|Judg 8:28]]; [[1Sam.4.18|1Sam 4:18]] +). 
+$\quad$ $\quad$ **b.** after plural noun, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פָּרוֺת א‎</span> [[Gen.32.16|Gen 32:16]] ([[BDB#E|E]]), <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שְׁקָלִים א‎</span> [[Neh.5.15|Neh 5:15]]. 
+$\quad$ $\quad$ **c.** noun omitted [[Gen.18.29|Gen 18:29]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הָא‎</span> v[[Gen.18.29|Gen 18:29]] <span class="bdbLangHebrew">‎יַכֶּנּוּ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Deut.25.3|Deut 25:3]] ***forty (blows) may he smite him.*** 
+
+**2.** with other numbers: 
+$\quad$ $\quad$ **a.** before unit, + singular noun:, 40 + 1<span class="bdbLangHebrew">‎שָׁנָה‎</span> [[1Kgs.14.21|1Kgs 14:21]]; [[1Kgs.15.10|1Kgs 15:10]]; [[2Kgs.14.23|2Kgs 14:23]] 40 + 2 <span class="bdbLangHebrew">‎שָׁנָה‎</span> [[2Chr.22.20|2Chr 22:20]], <span class="bdbLangHebrew">‎אִישׁ‎</span> [[2Kgs.10.14|2Kgs 10:14]], <span class="bdbLangHebrew">‎עִיר‎</span> [[Num.35.6|Num 35:6]], + <span class="bdbLangHebrew">‎אֶלֶף‎</span> [[Judg.12.6|Judg 12:6]] 40 + 5 <span class="bdbLangHebrew">‎שָׁנָה‎</span> [[Josh.14.10|Josh 14:10]] ([[BDB#J|J]][[BDB#E|E]]), etc. (12 t.); + plural noun <span class="bdbLangHebrew">‎יְלָדִים‎</span> [[2Kgs.2.24|2Kgs 2:24]] after plural noun <span class="bdbLangHebrew">‎הָעַמּוּדִים‎</span> + 40 + 5 [[1Kgs.7.3|1Kgs 7:3]] noun omitted 40 + 5 [[Gen.18.28|Gen 18:28]], compare [[Ezra.2.24|Ezra 2:24]] = [[Neh.7.28|Neh 7:28]]. 
+$\quad$ $\quad$ **b.** after unit, 9 + 40 <span class="bdbLangHebrew">‎שָׁנָה‎</span> [[Lev.25.8|Lev 25:8]] ([[BDB#H|H]]); 1 + 40 <span class="bdbLangHebrew">‎אֶלֶף‎</span> [[Num.1.41|Num 1:41]]; [[Num.2.28|Num 2:28]], etc. (9 t. Numbers, [[BDB#P|P]]). 
+$\quad$ $\quad$ **c.** with hundreds, 40 <span class="bdbLangHebrew">‎שָׁנָה‎</span> + 800 <span class="bdbLangHebrew">‎שָׁנָה‎</span> [[Gen.5.18|Gen 5:18]] ([[BDB#P|P]]); 100 + 40 <span class="bdbLangHebrew">‎שָׁנָה‎</span> [[Job.42.16|Job 42:16]] + units, 7 <span class="bdbLangHebrew">‎שָׁנִים‎</span> + 40 + 100 <span class="bdbLangHebrew">‎שָׁנָה‎</span> [[Gen.47.28|Gen 47:28]] ([[BDB#P|P]]); but (Ezra Nehemiah, mostly predicate, without noun), 900 + 40 + 5 [[Ezra.2.8|Ezra 2:8]], compare v[[Ezra.2.25|Ezra 2:25]]; [[Neh.7.62|Neh 7:62]], and (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> without <span class="bdbLangHebrew">‎וְ‎</span>) 600, 40 + 2 [[Ezra.2.10|Ezra 2:10]], see also \|\| [[Neh.7.15|Neh 7:15]]; [[Ezra.2.34|Ezra 2:34]] = [[Neh.7.36|Neh 7:36]]; [[Ezra.2.66|Ezra 2:66]] = [[Neh.7.68|Neh 7:68]] (ver. omitted [[BDB#Baer|Baer]] [[BDB#Gi|Gi]]), [[Neh.7.13|Neh 7:13]]; [[Neh.7.29|Neh 7:29]]; [[Neh.7.44|Neh 7:44]] 1000, 200, 40 + 7 [[Ezra.2.38|Ezra 2:38]] = [[Neh.7.41|Neh 7:41]] plural noun 200 + 40 + 5 [[Neh.7.67|Neh 7:67]], plural noun 200, 40 + 2; [[Neh.11.13|Neh 11:13]] also singular noun <span class="bdbLangHebrew">‎נֶפֶשׁ‎</span> 700, 40 + 5 [[Jer.52.30|Jer 52:30]]. 
+
+**3.** as ordinal, <span class="bdbLangHebrew">‎שָׁנָה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּא‎</span> [[Deut.1.3|Deut 1:3]] ***in the fortieth year***; also <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בִּשְׁנַת הָא‎</span> [[Num.33.38|Num 33:38]]; [[1Chr.26.31|1Chr 26:31]] <span class="bdbLangHebrew">‎וְאַחַת‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בִּשְׁנַת א‎</span> [[2Chr.16.13|2Chr 16:13]] ***in the forty-first year*** 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.5.18\|5:18]] · [[Gen.7.4\|7:4]] · [[Gen.7.12\|7:12]] · [[Gen.7.17\|7:17]] · [[Gen.18.28\|18:28]] · [[Gen.18.29\|18:29]] · [[Gen.32.16\|32:16]] · [[Gen.47.28\|47:28]] |
+| Exodus | [[Exod.24.18\|24:18]] · [[Exod.26.19\|26:19]] · [[Exod.26.21\|26:21]] · [[Exod.36.24\|36:24]] · [[Exod.36.26\|36:26]] |
+| Leviticus | [[Lev.25.8\|25:8]] |
+| Numbers | [[Num.1.33\|1:33]] · [[Num.1.41\|1:41]] · [[Num.2.19\|2:19]] · [[Num.2.28\|2:28]] · [[Num.26.18\|26:18]] · [[Num.33.38\|33:38]] · [[Num.35.6\|35:6]] |
+| Deuteronomy | [[Deut.1.3\|1:3]] · [[Deut.25.3\|25:3]] |
+| Joshua | [[Josh.4.13\|4:13]] · [[Josh.14.10\|14:10]] |
+| Judges | [[Judg.3.11\|3:11]] · [[Judg.5.8\|5:8]] · [[Judg.5.31\|5:31]] · [[Judg.8.28\|8:28]] · [[Judg.12.6\|12:6]] · [[Judg.12.14\|12:14]] |
+| 1 Samuel | [[1Sam.4.18\|4:18]] |
+| 2 Samuel | [[2Sam.10.18\|10:18]] |
+| 1 Kings | [[1Kgs.5.6\|5:6]] · [[1Kgs.6.17\|6:17]] · [[1Kgs.7.3\|7:3]] · [[1Kgs.7.38\|7:38]] · [[1Kgs.14.21\|14:21]] · [[1Kgs.15.10\|15:10]] · [[1Kgs.19.8\|19:8]] |
+| 2 Kings | [[2Kgs.2.24\|2:24]] · [[2Kgs.8.9\|8:9]] · [[2Kgs.10.14\|10:14]] · [[2Kgs.14.23\|14:23]] |
+| 1 Chronicles | [[1Chr.12.36\|12:36]] · [[1Chr.12.37\|12:37]] · [[1Chr.19.18\|19:18]] · [[1Chr.26.31\|26:31]] |
+| 2 Chronicles | [[2Chr.16.13\|16:13]] · [[2Chr.22.20\|22:20]] |
+| Ezra | [[Ezra.2.8\|2:8]] · [[Ezra.2.10\|2:10]] · [[Ezra.2.24\|2:24]] · [[Ezra.2.25\|2:25]] · [[Ezra.2.34\|2:34]] · [[Ezra.2.38\|2:38]] · [[Ezra.2.66\|2:66]] |
+| Nehemiah | [[Neh.5.15\|5:15]] · [[Neh.7.13\|7:13]] · [[Neh.7.15\|7:15]] · [[Neh.7.28\|7:28]] · [[Neh.7.29\|7:29]] · [[Neh.7.36\|7:36]] · [[Neh.7.41\|7:41]] · [[Neh.7.44\|7:44]] · [[Neh.7.62\|7:62]] · [[Neh.7.67\|7:67]] · [[Neh.7.68\|7:68]] · [[Neh.11.13\|11:13]] |
+| Job | [[Job.42.16\|42:16]] |
+| Jeremiah | [[Jer.52.30\|52:30]] |
+| Ezekiel | [[Ezek.41.2\|41:2]] · [[Ezek.46.22\|46:22]] |
+| Amos | [[Amos.2.10\|2:10]] · [[Amos.5.25\|5:25]] |
+| Jonah | [[Jonah.3.4\|3:4]] |
+

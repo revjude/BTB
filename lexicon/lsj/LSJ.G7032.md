@@ -1,0 +1,8 @@
+<span class="asgreek">ἐγκυλίω</span> <small>***(egkuliō)***</small> ==**to wrap up in**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐγκυλίω==</span>-<span class='asgreek'>ω</span></b> 
+
+
+ (<span class='asgreek'>ἐγκυλῑω</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 1.75, 4th c.BC: Aristoteles Philosophus “Problemata” 914a22, 2nd c.AD: Vettius Valens Astrologus 118.15, etc.), ">Refs 5th c.BC+</a>]<i>future</i> -<span class='asgreek'>κυλίσω</span> [<span class='asgreek'>ῑ</span>]:— <b>roll</b> or <b>wrap up in</b>, <span class='asgreek'>πολλοῖς</span> <span class='asgreek'>ἐμαυτὸν</span> <span class='asgreek'>ἐγκυλῖσαι</span> <span class='asgreek'>πράγμασιν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pherecrates Comicus 146.2 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τι</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>ἔριον</span> Hp. [prev. cited] 
+
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i> in <i>passive</i>, <b>to be involved in</b>, <span class='asgreek'>εἰς</span> <span class='asgreek'>ἔρωτας</span> <span class='asgreek'>ἐγκυλισθείς</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.2.22, cf. Vett. Val. [same place]; εἰς τὰς πολιτικὰς πράξεις 1st c.BC: Dionysius Halicarnassensis 11.36; ἐν κακοῖς 3rd c.AD: Porphyrius Tyrius Philosophus “adversus Christianos - Abh. Berl. Akad.” 26; πράγμασι “Catalogus Codicum Astrologorum” 7.208 ">Refs 5th c.BC+</a>]:—in <i>aorist</i> <i>middle</i>, <span class='asgreek'>ἐγκυλίσασθαι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Hipp.” 6. ">Refs 2nd c.AD+</a>]

@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==συνοδία==</span>-<span class='asgreek'>ία</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>journey in company, companionship on a journey</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Epistulae ad Atticum” 10.7.2, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 6.12.1, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.48b, “Galb.” 20, 2nd c.AD(?): Charito Scriptor Eroticus 6.2; ἀνδρὸς πονηροῦ φεῦγε ==συνοδία==ίαν ἀεί 4th-3rd c.BC: Menander Comicus “Μονόστιχοι - Fragmenta Comicorum Graecorum” 24. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> in concrete sense, <b>party of travellers, caravan</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 4.6.6, 11.14.4, NT.Luke.2.44, “OGI” 633.2 (Palmyra, 2nd c.AD); ἀνακομίσαι ==συνοδία==ίας [prev. work]646.6 ([prev. passage], 3rd c.AD)">NT+1st c.BC+</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>πρεσβευτοῦ</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>ἀνθυπάτου</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 4.1.91. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>family</b>, [<a href="javascript:void(0)" title=" LXX.Neh.7.5 (\_plural\_), +others:—in 10th c.AD: Suidas Legal icographus ">LXX</a>] also <b><span class='asgreek'>==συνοδία==εία</span>. -<span class='asgreek'>ιάρχης</span>,</b> <span class='asgreek'>ου</span>, <span class='asgreek'>ὁ</span>, <b>leader of a caravan</b>, [<a href="javascript:void(0)" title=" “OGI” 632.2, 633.5 (Palmyra, 2nd c.AD)">Refs 2nd c.AD+</a>]: hence <b><span class='asgreek'>==συνοδία==</span>-<span class='asgreek'>ιαρχία</span></b>, <span class='asgreek'>ἡ</span>, <b>office of</b> <span class='asgreek'>==συνοδία==ιάρχης</span>, [<a href="javascript:void(0)" title=" “Supp.epigram” 7.139.6 ([prev. passage], 2nd c.AD). ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.2.44]] ☩ [[Neh.7.5]]
+</sub></small>

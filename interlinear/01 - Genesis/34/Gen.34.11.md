@@ -1,0 +1,26 @@
+**Genesis 34:11** 
+<small><sub>**KJV:**</sub></small>
+And Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what ye shall say unto me I will give.
+<small><sub>**BSB:**</sub></small>
+Then Shechem said to Dinah’s father and brothers, “Grant me this favor, and I will give you whatever you ask.
+<small><sub>**Literal:**</sub></small>
+and  he said Shechem to father  her and  to brothers  her let me find favor in  view  your and  [that] which you will say to  me I will give<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.10|<< Genesis 34:10]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.12|Genesis 34:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֤אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shechem  | <span class="ashebrew"><big>שְׁכֶם֙</big></span><small><sup>[[H7927H]]</sup></small> &#8207;| she.Khem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father her  | <span class="ashebrew"><big>אָבִ֣י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9024]]</sup></small> &#8207;| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brothers her  | <span class="ashebrew"><big>אַחֶ֔י</big></span><small><sup>[[H0251G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| 'a.Chei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let me find  | <span class="ashebrew"><big>אֶמְצָא</big></span><small><sup>[[H4672]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'em.tza'-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| favor  | <span class="ashebrew"><big>חֵ֖ן</big></span><small><sup>[[H2580]]</sup></small> &#8207;| chen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in view your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵינֵי</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [that] which  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will say  | <span class="ashebrew"><big>תֹּאמְר֛וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| to.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלַ֖</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will give  | <span class="ashebrew"><big>אֶתֵּֽן</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.Ten<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.10|<< Genesis 34:10]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.12|Genesis 34:12 >>]]</td></tr></table>
+
+

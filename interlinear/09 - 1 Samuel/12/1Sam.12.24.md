@@ -1,0 +1,28 @@
+**1 Samuel 12:24** 
+<small><sub>**KJV:**</sub></small>
+Only fear the LORD, and serve him in truth with all your heart: for consider how great [things] he hath done for you.
+<small><sub>**BSB:**</sub></small>
+Above all, fear the LORD and serve Him faithfully with all your heart; consider what great things He has done for you.
+<small><sub>**Literal:**</sub></small>
+only fear \<obj.> Yahweh and  you will serve \<obj.>  him in  faithfulness with  all heart  your for consider \<obj.> this: he has done great things with  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.23|<< 1 Samuel 12:23]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.25|1 Samuel 12:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| only  | <span class="ashebrew"><big>אַ֣ךְ</big></span><small><sup>[[H0389]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fear  | <span class="ashebrew"><big>יְר֣אוּ</big></span><small><sup>[[H3372H]]</sup></small> &#8207;| ye.R.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will serve  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עֲבַדְתֶּ֥ם</big></span><small><sup>[[H5647G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.vad.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  | <span class="ashebrew"><big>אֹת֛</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in faithfulness  | <span class="ashebrew"><big>בֶּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֱמֶ֖ת</big></span><small><sup>[[H0571G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with all  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart your  | <span class="ashebrew"><big>לְבַבְ</big></span><small><sup>[[H3824]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| le.vav.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| consider  | <span class="ashebrew"><big>רְא֔וּ</big></span><small><sup>[[H7200H]]</sup></small> &#8207;| re.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֥ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this:  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has done great things  | <span class="ashebrew"><big>הִגְדִּ֖ל</big></span><small><sup>[[H1431]]</sup></small> &#8207;| hig.Dil<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  | <span class="ashebrew"><big>עִמָּ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9036]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'i.ma.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.23|<< 1 Samuel 12:23]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.25|1 Samuel 12:25 >>]]</td></tr></table>
+
+

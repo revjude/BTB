@@ -1,0 +1,26 @@
+**2 Kings 3:22** 
+<small><sub>**KJV:**</sub></small>
+And they rose up early in the morning, and the sun shone upon the water, and the Moabites saw the water on the other side [as] red as blood:
+<small><sub>**BSB:**</sub></small>
+When they got up early in the morning, the sun was shining on the water, and it looked as red as blood to the Moabites across the way.
+<small><sub>**Literal:**</sub></small>
+and  they rose early in the  morning and  the  sun it shone on the  water and  they saw Moab from  before \<obj.> the  water red like \<the>  blood<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.21|<< 2 Kings 3:21]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.23|2 Kings 3:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they rose early  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּשְׁכִּ֣ימוּ</big></span><small><sup>[[H7925]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yash.Ki.mu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the morning  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בֹּ֔קֶר</big></span><small><sup>[[H1242]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the sun  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֶּׁ֖מֶשׁ</big></span><small><sup>[[H8121]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it shone  | <span class="ashebrew"><big>זָרְחָ֣ה</big></span><small><sup>[[H2224]]</sup></small> &#8207;| za.re.Chah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the water  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מָּ֑יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they saw  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּרְא֨וּ</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  | <span class="ashebrew"><big>מוֹאָ֥ב</big></span><small><sup>[[H4124G]]</sup></small> &#8207;| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>נֶּ֛גֶד</big></span><small><sup>[[H5048]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ne.ged<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the water  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּ֖יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| red  | <span class="ashebrew"><big>אֲדֻמִּ֥ים</big></span><small><sup>[[H0122A]]</sup></small> &#8207;| 'a.du.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> blood  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>דָּֽם</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.21|<< 2 Kings 3:21]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.23|2 Kings 3:23 >>]]</td></tr></table>
+
+

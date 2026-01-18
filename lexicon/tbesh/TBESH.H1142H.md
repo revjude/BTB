@@ -1,0 +1,6 @@
+<span class="ashebrew">‎בְּנֵי יַעֲקָ֑ן‎</span> <small>***(be.ne ya.a.qan)***</small> ==**(Beeroth) Bene-jaakan**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+name of: <small>[[H1142G]]</small> 
+
+- Bene-jaakan = "sons of twisting"
+-  an Israelite place of encampment in the wilderness (same as <i>be.e.rot be.ne-ya.a.qan</i> (<span class='ashebrew'>‎ב‎</span>ְּ<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ר‎</span>ֹ<span class='ashebrew'>‎ת‎</span> <span class='ashebrew'>‎ב‎</span>ְּ<span class='ashebrew'>‎נ‎</span>ֵ<span class='ashebrew'>‎י‎</span>־<span class='ashebrew'>‎י‎</span>ַ<span class='ashebrew'>‎ע‎</span>ֲ<span class='ashebrew'>‎ק‎</span>ָ<span class='ashebrew'>‎ן‎</span> "Beeroth-bene-jaakan" [[H0885]])
+- Combined with <i>be.e.rot</i> (<span class='ashebrew'>‎ב‎</span>ְּ<span class='ashebrew'>‎א‎</span>ֵ<span class='ashebrew'>‎ר‎</span>ֹ<span class='ashebrew'>‎ת‎</span> "Beeroth" [[H1307]])

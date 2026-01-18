@@ -1,0 +1,25 @@
+**2 Chronicles 4:1** 
+<small><sub>**KJV:**</sub></small>
+Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof.
+<small><sub>**BSB:**</sub></small>
+He made a bronze altar twenty cubits long, twenty cubits wide, and ten cubits high.
+<small><sub>**Literal:**</sub></small>
+and  he made an altar of bronze [was] twenty cubit[s] length  its and  [was] twenty cubit[s] breadth  its and  [was] ten cubits height  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.17|<< 2 Chronicles 3:17]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.2|2 Chronicles 4:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he made  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֙עַשׂ֙</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an altar of  | <span class="ashebrew"><big>מִזְבַּ֣ח</big></span><small><sup>[[H4196]]</sup></small> &#8207;| miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bronze  | <span class="ashebrew"><big>נְחֹ֔שֶׁת</big></span><small><sup>[[H5178A]]</sup></small> &#8207;| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] twenty  | <span class="ashebrew"><big>עֶשְׂרִ֤ים</big></span><small><sup>[[H6242]]</sup></small> &#8207;| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubit[s]  | <span class="ashebrew"><big>אַמָּה֙</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| length its  | <span class="ashebrew"><big>אָרְכּ֔</big></span><small><sup>[[H0753]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.re.K<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] twenty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֶשְׂרִ֥ים</big></span><small><sup>[[H6242]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubit[s]  | <span class="ashebrew"><big>אַמָּ֖ה</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| breadth its  | <span class="ashebrew"><big>רָחְבּ֑</big></span><small><sup>[[H7341]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ra.che.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] ten  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֶ֥שֶׂר</big></span><small><sup>[[H6235]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.ser<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubits  | <span class="ashebrew"><big>אַמּ֖וֹת</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| 'a.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| height its  | <span class="ashebrew"><big>קוֹמָתֽ</big></span><small><sup>[[H6967]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ko.ma.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.17|<< 2 Chronicles 3:17]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.2|2 Chronicles 4:2 >>]]</td></tr></table>
+
+

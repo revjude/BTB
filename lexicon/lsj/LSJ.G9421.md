@@ -1,0 +1,14 @@
+<span class="asgreek">τερέβινθος</span> <small>***(terebinthos)***</small> ==**terebinth resin**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==τερέβινθος==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>terebinth, Pistacia Terebinthus</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.192, 4th c.BC: Aristoteles Philosophus “Mirabilia” 837a33, 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 3.2.6, 9.2.2, 3rd c.BC: Theocritus Poeta Bucolicus “Epigrammata” 1.6, “Anthologia Graeca” 4.1.30 (1st c.BC: Meleager Epigrammaticus), 1st c.AD: Dioscorides (Dioscurides) Medicus 1.71, 2nd c.AD: Galenus Medicus 6.351, 616 (variant{τερεβ-}), 624 (variant{τερεβ-}), etc. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>a swelling like the fruit of the terebinth-tree</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ χυμῶν” 20, “Epid.” 6.3.23, Diocl.fragment 82, compare 1st c.AD: Erotianus Grammaticus, 2nd c.AD: Galenus Medicus 16.461. (This is apparently the oldest form, but τερεμινθ- and τερεβινθ- are frequently variants: τερέμινθος">Refs 5th c.BC+</a>] is given frequently by codices A and B of [<a href="javascript:void(0)" title=" LXX, and τερέβινθος">Refs</a>] by all the uncials in [<a href="javascript:void(0)" title=" LXX.Isa.1.30, 6.13 ">LXX</a>] and four times elsewhere,[<a href="javascript:void(0)" title="compare “Anthologia Graeca” 9.282 (Antip. Thess.), “Geoponica” 9.18.1; in 2nd c.AD: Galenus Medicus codices vary (see. above)">Refs 2nd c.AD+</a>]; a <i>feminine</i> <span class='asgreek'>τερεβίνθη</span> probably in [<a href="javascript:void(0)" title=" “PMag.Par.” 1.1312, variant in 2nd c.AD: Galenus Medicus 6.644">Refs 2nd c.AD+</a>]; <span class='asgreek'>τρέμιθος</span> (which see) is also found; <span class='asgreek'>τεττερέβινθος</span> in [<a href="javascript:void(0)" title=" “Corpus Glossariorum Latinorum” seems to be an error: compare Τερβινθεύς.) ">Refs</a>]
+$\quad$ $\quad$<b>\_\_II</b> a parasitic growth on the olive, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 2.17.4. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> a flax-like plant from which the Athenians made fishinglines, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus, 9th c.AD: Photius Legal icographus, etc., “Etymologicum Magnum” 753.10. ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>πιστάκη</span>}, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.4.7. ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Isa.1.30]]
+</sub></small>

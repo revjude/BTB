@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==συμφρονέω==</span></b>, 
+
+
+ <b>to be of one mind with</b> any one, <b>agree</b> or <b>conspire with</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>ἀλλήλοις</span> <span class='asgreek'>εἴς</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.60.4, cf. LXX.3Mac.3.2; ἐπί τινι 2nd c.BC: Polybius Historicus 3.2.8; περί τινων πρὸς τοὺς φίλους [prev. author] 4.81.3, compare 7.16.3; σ. ταὐτά [prev. author] 6.46.8 ">LXX+2nd c.BC+</a>]: <i>absolutely</i>, <b>agree together</b>, [<a href="javascript:void(0)" title=" [prev. author] 2.22.1, etc. ">Refs</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>think with, be in harmony with</b>, <span class='asgreek'>τῷ</span> <span class='asgreek'>νοερῷ</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Marcus Antoninus Imperator 8.54. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>become aware of, think of, notice, understand</b>, <span class='asgreek'>ὃ</span> <span class='asgreek'>δέον</span> <span class='asgreek'>εἴη</span> <span class='asgreek'>ποιεῖν</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 18.26.2, compare 1st c.BC: Dionysius Halicarnassensis 5.9, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Nicias” 19, 23, “Them.” 28, “Brut.” 10, “Pyrrh.” 11, “Eum.” 19, “Cam.” 29, 36, etc. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>collect oneself, become conscious</b>, [<a href="javascript:void(0)" title=" [prev. author] “Cat.Mi.” 70, “Alex.” 73. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>bring together in thought</b>, <span class='asgreek'>τὰ</span> <span class='asgreek'>πλεῖστον</span> <span class='asgreek'>ἀλλήλων</span> <span class='asgreek'>ἀφεστῶτα</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>τόποις</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Mundo” 391a14 (variant{τῇ διανοίᾳ συνεφόρησε}, which may be a gloss). ">Refs 4th c.BC+</a>]

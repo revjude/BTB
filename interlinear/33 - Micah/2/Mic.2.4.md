@@ -1,0 +1,33 @@
+**Micah 2:4** 
+<small><sub>**KJV:**</sub></small>
+In that day shall [one] take up a parable against you, and lament with a doleful lamentation, [and] say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed [it] from me! turning away he hath divided our fields.
+<small><sub>**BSB:**</sub></small>
+In that day they will take up a proverb against you and taunt you with this bitter lamentation: ‘We are utterly ruined! He has changed the portion of my people. How He has removed it from me! He has allotted our fields to traitors.’”
+<small><sub>**Literal:**</sub></small>
+on the  day \<the>  that someone will lift up on  you a saying and  he will wail a wailing it is finished he will say utterly \<devastate> we are devastated [the] portion of people  my he exchanges how! he removes [it] for  me to  an apostate fields  our he apportions<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.3|<< Micah 2:3]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.5|Micah 2:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| on the day  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּ֨וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ה֜וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone will lift up  | <span class="ashebrew"><big>יִשָּׂ֧א</big></span><small><sup>[[H5375N]]</sup></small> &#8207;| yi.Sa'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>כֶ֣ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a saying  | <span class="ashebrew"><big>מָשָׁ֗ל</big></span><small><sup>[[H4912]]</sup></small> &#8207;| ma.Shal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will wail  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָהָ֨ה</big></span><small><sup>[[H5091]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.Hah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wailing  | <span class="ashebrew"><big>נְהִ֤י</big></span><small><sup>[[H5092]]</sup></small> &#8207;| ne.Hi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is finished  | <span class="ashebrew"><big>נִֽהְיָה֙</big></span><small><sup>[[H1961]]</sup></small> &#8207;| nih.Yah<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will say  | <span class="ashebrew"><big>אָמַר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| utterly \<devastate>  | <span class="ashebrew"><big>שָׁד֣וֹד</big></span><small><sup>[[H7703]]</sup></small> &#8207;| sha.Dod<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we are devastated  | <span class="ashebrew"><big>נְשַׁדֻּ֔נוּ</big></span><small><sup>[[H7703]]</sup></small> &#8207;| ne.sha.Du.nu<small><sup>[[HVNp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] portion of  | <span class="ashebrew"><big>חֵ֥לֶק</big></span><small><sup>[[H2506A]]</sup></small> &#8207;| Che.lek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  | <span class="ashebrew"><big>עַמִּ֖</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he exchanges  | <span class="ashebrew"><big>יָמִ֑יר</big></span><small><sup>[[H4171]]</sup></small> &#8207;| ya.Mir<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how!  | <span class="ashebrew"><big>אֵ֚יךְ</big></span><small><sup>[[H0349A]]</sup></small> &#8207;| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he removes [it]  | <span class="ashebrew"><big>יָמִ֣ישׁ</big></span><small><sup>[[H4185]]</sup></small> &#8207;| ya.Mish<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for me  | <span class="ashebrew"><big>לִ֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to an apostate  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שׁוֹבֵ֥ב</big></span><small><sup>[[H7728]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> sho.Vev<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fields our  | <span class="ashebrew"><big>שָׂדֵ֖י</big></span><small><sup>[[H7704G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| sa.Dei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he apportions  | <span class="ashebrew"><big>יְחַלֵּֽק</big></span><small><sup>[[H2505A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.cha.Lek<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.3|<< Micah 2:3]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.5|Micah 2:5 >>]]</td></tr></table>
+
+

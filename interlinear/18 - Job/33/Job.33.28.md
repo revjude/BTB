@@ -1,0 +1,27 @@
+**Job 33:28** 
+<small><sub>**KJV:**</sub></small>
+He will deliver his soul from going into the pit, and his life shall see the light.
+<small><sub>**BSB:**</sub></small>
+He redeemed my soul from going down to the Pit, and I will live to see the light.’
+<small><sub>**Literal:**</sub></small>
+he has ransomed self  his from  passing on in the  pit and  life  his on the  light it will look<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.27|<< Job 33:27]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.29|Job 33:29 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| he has ransomed  | <span class="ashebrew"><big>פָּדָ֣ה</big></span><small><sup>[[H6299]]</sup></small> &#8207;| pa.Dah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self his  [^2] | <span class="ashebrew"><big>נַ֭פְשׁ</big></span><small><sup>[[H5315G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;[^3] | naf.sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| from passing on  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עֲבֹ֣ר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'a.Vor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the pit  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׁ֑חַת</big></span><small><sup>[[H7845G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Sha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and life his  [^6] | <span class="ashebrew"><big>וְ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חַיָּת</big></span><small><sup>[[H2416C]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;[^7] | ve.<small><sup>[[HC]]</sup></small> chai.ya.t<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| on the light  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>א֥וֹר</big></span><small><sup>[[H0216]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will look  | <span class="ashebrew"><big>תִּרְאֶֽה</big></span><small><sup>[[H7200K]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tir.'Eh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.27|<< Job 33:27]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.29|Job 33:29 >>]]</td></tr></table>
+
+[^1]: ==K==: **self my ** | <small><sup>[[H9020]]</sup></small><span class="ashebrew"><big>י</big></span> <small><sup>[[H5315G]]</sup></small><span class="ashebrew"><big>נַפְשִׁ</big></span>  | naf.sh<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
+[^2]: ==K==: **self my ** | <small><sup>[[H9020]]</sup></small><span class="ashebrew"><big>י</big></span> <small><sup>[[H5315G]]</sup></small><span class="ashebrew"><big>נַפְשִׁ</big></span>  | naf.sh<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>נַ֭פְשֹׁי</big></span>**
+[^4]: ==K==: **and life my ** | <small><sup>[[H9020]]</sup></small><span class="ashebrew"><big>י</big></span> <small><sup>[[H2416C]]</sup></small><span class="ashebrew"><big>חַיָּתִ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> chai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
+[^5]: ==K==: **and life my ** | <small><sup>[[H9020]]</sup></small><span class="ashebrew"><big>י</big></span> <small><sup>[[H2416C]]</sup></small><span class="ashebrew"><big>חַיָּתִ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> chai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
+[^6]: ==K==: **and life my ** | <small><sup>[[H9020]]</sup></small><span class="ashebrew"><big>י</big></span> <small><sup>[[H2416C]]</sup></small><span class="ashebrew"><big>חַיָּתִ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> chai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
+[^7]: ==L== spelled: **<span class="ashebrew"><big>וְ֝חַיָּתֹ/י</big></span>**
+

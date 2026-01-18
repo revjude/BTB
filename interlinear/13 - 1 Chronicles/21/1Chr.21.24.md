@@ -1,0 +1,32 @@
+**1 Chronicles 21:24** 
+<small><sub>**KJV:**</sub></small>
+And king David said to Ornan, Nay; but I will verily buy it for the full price: for I will not take [that] which [is] thine for the LORD, nor offer burnt offerings without cost.
+<small><sub>**BSB:**</sub></small>
+“No,” replied King David, “I insist on paying the full price, for I will not take for the LORD what belongs to you, nor will I offer burnt offerings that cost me nothing.”
+<small><sub>**Literal:**</sub></small>
+and  he said the  king David to  Ornan In- deed certainly \<to acquire> I will acquire [it] for  money full for not I will take [that] which [belongs] to  you for  Yahweh and  to offer up a burnt offering for nothing<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.23|<< 1 Chronicles 21:23]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.25|1 Chronicles 21:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֨אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֤לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִיד֙</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Ornan  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אָרְנָ֔ן</big></span><small><sup>[[H0771]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'a.re.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| In-  | <span class="ashebrew"><big>לֹ֕א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deed  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to acquire>  | <span class="ashebrew"><big>קָנֹ֥ה</big></span><small><sup>[[H7069]]</sup></small> &#8207;| ka.Noh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will acquire [it]  | <span class="ashebrew"><big>אֶקְנֶ֖ה</big></span><small><sup>[[H7069]]</sup></small> &#8207;| 'ek.Neh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for money  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כֶ֣סֶף</big></span><small><sup>[[H3701H]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| full  | <span class="ashebrew"><big>מָלֵ֑א</big></span><small><sup>[[H4392]]</sup></small> &#8207;| ma.Le'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֠י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will take  | <span class="ashebrew"><big>אֶשָּׂ֤א</big></span><small><sup>[[H5375G]]</sup></small> &#8207;| 'e.Sa'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Yahweh  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to offer up  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַעֲל֥וֹת</big></span><small><sup>[[H5927I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.'a.Lot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a burnt offering  | <span class="ashebrew"><big>עוֹלָ֖ה</big></span><small><sup>[[H5930A]]</sup></small> &#8207;| o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for nothing  | <span class="ashebrew"><big>חִנָּֽם</big></span><small><sup>[[H2600]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| chi.Nam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.23|<< 1 Chronicles 21:23]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.25|1 Chronicles 21:25 >>]]</td></tr></table>
+
+

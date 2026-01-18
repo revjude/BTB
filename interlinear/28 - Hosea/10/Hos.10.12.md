@@ -1,0 +1,31 @@
+**Hosea 10:12** 
+<small><sub>**KJV:**</sub></small>
+Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for [it is] time to seek the LORD, till he come and rain righteousness upon you.
+<small><sub>**BSB:**</sub></small>
+Sow for yourselves righteousness and reap the fruit of loving devotion; break up your unplowed ground. For it is time to seek the LORD until He comes and sends righteousness upon you like rain.
+<small><sub>**Literal:**</sub></small>
+sow \<for>  yourselves \<to>  righteousness reap \<to>  a mouth of loyalty plow \<for>  yourselves unplowed ground and  [it is] time to  seek \<obj.> Yahweh until he will come and  he may rain down righteousness for  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.11|<< Hosea 10:11]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.13|Hosea 10:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| sow  | <span class="ashebrew"><big>זִרְע֨וּ</big></span><small><sup>[[H2232]]</sup></small> &#8207;| zir.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<for> yourselves  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֤ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> righteousness  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>צְדָקָה֙</big></span><small><sup>[[H6666]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> tz.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| reap  | <span class="ashebrew"><big>קִצְר֣וּ</big></span><small><sup>[[H7114B]]</sup></small> &#8207;| kitz.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> a mouth of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פִי</big></span><small><sup>[[H6310G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| loyalty  | <span class="ashebrew"><big>חֶ֔סֶד</big></span><small><sup>[[H2617A]]</sup></small> &#8207;| Che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| plow  | <span class="ashebrew"><big>נִ֥ירוּ</big></span><small><sup>[[H5214]]</sup></small> &#8207;| Ni.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<for> yourselves  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unplowed ground  | <span class="ashebrew"><big>נִ֑יר</big></span><small><sup>[[H5215]]</sup></small> &#8207;| Nir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [it is] time  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֵת֙</big></span><small><sup>[[H6256]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to seek  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דְר֣וֹשׁ</big></span><small><sup>[[H1875]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> d.Ro.osh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will come  | <span class="ashebrew"><big>יָב֕וֹא</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he may rain down  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יֹרֶ֥ה</big></span><small><sup>[[H3384A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yo.Reh<small><sup>[[HVhu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  | <span class="ashebrew"><big>צֶ֖דֶק</big></span><small><sup>[[H6664G]]</sup></small> &#8207;| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9036]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.11|<< Hosea 10:11]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.13|Hosea 10:13 >>]]</td></tr></table>
+
+

@@ -1,0 +1,27 @@
+**Genesis 40:17** 
+<small><sub>**KJV:**</sub></small>
+And in the uppermost basket [there was] of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head.
+<small><sub>**BSB:**</sub></small>
+In the top basket were all sorts of baked goods for Pharaoh, but the birds were eating them out of the basket on my head.”
+<small><sub>**Literal:**</sub></small>
+and  [was] in the  basket \<the>  upper some of  all [the] food of Pharaoh [the] work of a baker and  the  bird[s] [was] eating \<obj.>  them from the  basket from  on head  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.16|<< Genesis 40:16]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.18|Genesis 40:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [was] in the basket  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>סַּ֣ל</big></span><small><sup>[[H5536]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> Sal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> upper  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֶלְי֔וֹן</big></span><small><sup>[[H5945A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'el.yOn<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| some of all  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>כֹּ֛ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] food of  | <span class="ashebrew"><big>מַאֲכַ֥ל</big></span><small><sup>[[H3978]]</sup></small> &#8207;| ma.'a.Khal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹ֖ה</big></span><small><sup>[[H6547H]]</sup></small> &#8207;| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] work of  | <span class="ashebrew"><big>מַעֲשֵׂ֣ה</big></span><small><sup>[[H4639G]]</sup></small> &#8207;| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a baker  | <span class="ashebrew"><big>אֹפֶ֑ה</big></span><small><sup>[[H0644]]</sup></small> &#8207;| 'o.Peh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the bird[s]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ע֗וֹף</big></span><small><sup>[[H5775]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'of<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] eating  | <span class="ashebrew"><big>אֹכֵ֥ל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| 'o.Khel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אֹתָ֛</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the basket  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>סַּ֖ל</big></span><small><sup>[[H5536]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Sal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from on  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עַ֥ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head my  | <span class="ashebrew"><big>רֹאשִֽׁ</big></span><small><sup>[[H7218A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ro.Sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.16|<< Genesis 40:16]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.18|Genesis 40:18 >>]]</td></tr></table>
+
+

@@ -1,0 +1,39 @@
+**Isaiah 28:15** 
+<small><sub>**KJV:**</sub></small>
+Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
+<small><sub>**BSB:**</sub></small>
+For you said, “We have made a covenant with death; we have fashioned an agreement with Sheol. When the overwhelming scourge passes through it will not touch us, because we have made lies our refuge and falsehood our hiding place.”
+<small><sub>**Literal:**</sub></small>
+for you have said we have made a covenant with death and  with Sheol we have made an agreement a scourge overflowing if it will pass by not it will come to  us for we have made falsehood refuge  our and  in \<the>  deception we have hidden ourselves<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.14|<< Isaiah 28:14]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.16|Isaiah 28:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have said  | <span class="ashebrew"><big>אֲמַרְתֶּ֗ם</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.mar.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we have made  | <span class="ashebrew"><big>כָּרַ֤תְנֽוּ</big></span><small><sup>[[H3772H]]</sup></small> &#8207;| ka.Rat.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a covenant  | <span class="ashebrew"><big>בְרִית֙</big></span><small><sup>[[H1285]]</sup></small> &#8207;| ve.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| death  | <span class="ashebrew"><big>מָ֔וֶת</big></span><small><sup>[[H4194]]</sup></small> &#8207;| Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheol  | <span class="ashebrew"><big>שְׁא֖וֹל</big></span><small><sup>[[H7585]]</sup></small> &#8207;| she.'ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we have made  | <span class="ashebrew"><big>עָשִׂ֣ינוּ</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| 'a.Si.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an agreement  | <span class="ashebrew"><big>חֹזֶ֑ה</big></span><small><sup>[[H2374]]</sup></small> &#8207;| cho.Zeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a scourge  [^1] | <span class="ashebrew"><big>שׁ֣וֹט</big></span><small><sup>[[H7752]]</sup></small> &#8207;[^2] | shit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| overflowing  | <span class="ashebrew"><big>שׁוֹטֵ֤ף</big></span><small><sup>[[H7857]]</sup></small> &#8207;| sho.Tef<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will pass by  [^3] | <span class="ashebrew"><big>יַֽעֲבֹר֙</big></span><small><sup>[[H5674A]]</sup></small> &#8207;[^4] | a.var<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will come to us  | <span class="ashebrew"><big>יְבוֹאֵ֔</big></span><small><sup>[[H0935G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| ye.vo.'E.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we have made  | <span class="ashebrew"><big>שַׂ֧מְנוּ</big></span><small><sup>[[H7760A]]</sup></small> &#8207;| Sam.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  | <span class="ashebrew"><big>כָזָ֛ב</big></span><small><sup>[[H3577]]</sup></small> &#8207;| kha.Zav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| refuge our  | <span class="ashebrew"><big>מַחְסֵ֖</big></span><small><sup>[[H4268]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| mach.Se.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in \<the> deception  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שֶּׁ֥קֶר</big></span><small><sup>[[H8267]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we have hidden ourselves  | <span class="ashebrew"><big>נִסְתָּֽרְנוּ</big></span><small><sup>[[H5641]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| nis.Ta.re.nu<small><sup>[[HVNp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.14|<< Isaiah 28:14]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.16|Isaiah 28:16 >>]]</td></tr></table>
+
+[^1]: ==K==: **an oar ** | <small><sup>[[H7885]]</sup></small><span class="ashebrew"><big>שִׁיט</big></span>  | shit<small><sup>[[HNcbsa]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>שֹׁ֣יט</big></span>**
+[^3]: ==K==: **it has passed by ** | <small><sup>[[H5674A]]</sup></small><span class="ashebrew"><big>עָבַר</big></span>  | a.var<small><sup>[[HVqp3ms]]</sup></small> 
+[^4]: ==L== spelled: **<span class="ashebrew"><big>ַֽעֲבֹר֙</big></span>**
+

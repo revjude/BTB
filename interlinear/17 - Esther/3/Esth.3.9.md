@@ -1,0 +1,32 @@
+**Esther 3:9** 
+<small><sub>**KJV:**</sub></small>
+If it please the king, let it be written that they may be destroyed: and I will pay ten thousand talents of silver to the hands of those that have the charge of the business, to bring [it] into the king’s treasuries.
+<small><sub>**BSB:**</sub></small>
+If it pleases the king, let a decree be issued to destroy them, and I will deposit ten thousand talents of silver into the royal treasury to pay those who carry it out.”
+<small><sub>**Literal:**</sub></small>
+if [is] on the  king good let it be written to  destroy  them and  ten thousand\<s> talent[s] of silver I will weigh out on [the] hands of [the] doers of the  work to  bring [it] into [the] treasuries of the  king<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.8|<< Esther 3:8]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.10|Esther 3:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֣לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  | <span class="ashebrew"><big>ט֔וֹב</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it be written  | <span class="ashebrew"><big>יִכָּתֵ֖ב</big></span><small><sup>[[H3789]]</sup></small> &#8207;| yi.ka.Tev<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to destroy them  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַבְּדָ֑</big></span><small><sup>[[H0006]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'a.be.Da<small><sup>[[HVpcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and ten  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲשֶׂ֨רֶת</big></span><small><sup>[[H6235]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Se.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִ֜ים</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| talent[s] of  | <span class="ashebrew"><big>כִּכַּר</big></span><small><sup>[[H3603H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki.kar-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  | <span class="ashebrew"><big>כֶּ֗סֶף</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will weigh out  | <span class="ashebrew"><big>אֶשְׁקוֹל֙</big></span><small><sup>[[H8254]]</sup></small> &#8207;| 'esh.kOl<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hands of  | <span class="ashebrew"><big>יְדֵי֙</big></span><small><sup>[[H3027G]]</sup></small> &#8207;| ye.Dei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] doers of  | <span class="ashebrew"><big>עֹשֵׂ֣י</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'o.Sei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the work  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְּלָאכָ֔ה</big></span><small><sup>[[H4399]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to bring [it]  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הָבִ֖יא</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Vi'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] treasuries of  | <span class="ashebrew"><big>גִּנְזֵ֥י</big></span><small><sup>[[H1595]]</sup></small> &#8207;| gin.Zei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.8|<< Esther 3:8]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.10|Esther 3:10 >>]]</td></tr></table>
+
+

@@ -1,0 +1,7 @@
+<big><span class="ashebrew">‎יְרַקְרַק‎</span></big> **yᵉraqraq** <small>*(yer-ak-rak')*</small> ==**greenish**==  <sup><small>[[TEHMC#H:A|H:A]]</small></sup> 
+<small>from the same as <span class="ashebrew">‎יֶרֶק‎</span><sup><small>[[H3418]]</small></sup></small>
+
+$\quad$ greenish, yellow.
+- ***yellowishness***
+
+**1)** greenish, pale green, greenish-yellow

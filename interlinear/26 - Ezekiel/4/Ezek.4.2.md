@@ -1,0 +1,29 @@
+**Ezekiel 4:2** 
+<small><sub>**KJV:**</sub></small>
+And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set [battering] rams against it round about.
+<small><sub>**BSB:**</sub></small>
+Then lay siege against it: Construct a siege wall, build a ramp to it, set up camps against it, and place battering rams around it on all sides.
+<small><sub>**Literal:**</sub></small>
+and  you will make on  it a siege and  you will build on  it a siege-wall and  you will pour out on  it a mound and  you will set up on  it armies and  set on  it battering-rams all around<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.1|<< Ezekiel 4:1]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.3|Ezekiel 4:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will make  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָתַתָּ֨ה</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.ta.Tah<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלֶ֜י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HR]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a siege  | <span class="ashebrew"><big>מָצ֗וֹר</big></span><small><sup>[[H4692]]</sup></small> &#8207;| ma.Tzor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will build  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>בָנִ֤יתָ</big></span><small><sup>[[H1129]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> va.Ni.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלֶ֙י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ֙</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HR]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a siege-wall  | <span class="ashebrew"><big>דָּיֵ֔ק</big></span><small><sup>[[H1785]]</sup></small> &#8207;| da.Yek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will pour out  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׁפַכְתָּ֥</big></span><small><sup>[[H8210I]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sha.fakh.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלֶ֖י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HR]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mound  | <span class="ashebrew"><big>סֹֽלְלָ֑ה</big></span><small><sup>[[H5550]]</sup></small> &#8207;| so.le.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will set up  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָתַתָּ֨ה</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.ta.Tah<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלֶ֧י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HR]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| armies  | <span class="ashebrew"><big>מַחֲנ֛וֹת</big></span><small><sup>[[H4264]]</sup></small> &#8207;| ma.cha.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and set  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שִׂים</big></span><small><sup>[[H7760H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sim-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלֶ֥י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HR]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| battering-rams  | <span class="ashebrew"><big>כָּרִ֖ים</big></span><small><sup>[[H3733C]]</sup></small> &#8207;| ka.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all around  | <span class="ashebrew"><big>סָבִֽיב</big></span><small><sup>[[H5439G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.1|<< Ezekiel 4:1]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.3|Ezekiel 4:3 >>]]</td></tr></table>
+
+

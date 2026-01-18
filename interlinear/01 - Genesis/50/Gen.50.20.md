@@ -1,0 +1,27 @@
+**Genesis 50:20** 
+<small><sub>**KJV:**</sub></small>
+But as for you, ye thought evil against me; [but] God meant it unto good, to bring to pass, as [it is] this day, to save much people alive.
+<small><sub>**BSB:**</sub></small>
+As for you, what you intended against me for evil, God intended for good, in order to accomplish a day like this—to preserve the lives of many people.
+<small><sub>**Literal:**</sub></small>
+and  you you planned on  me harm God he planned  it for  good so as to act as the  day \<the>  this to  preserve alive a people numerous<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.19|<< Genesis 50:19]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.21|Genesis 50:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַתֶּ֕ם</big></span><small><sup>[[H0859D]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you planned  | <span class="ashebrew"><big>חֲשַׁבְתֶּ֥ם</big></span><small><sup>[[H2803I]]</sup></small> &#8207;| cha.shav.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on me  | <span class="ashebrew"><big>עָלַ֖</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| harm  | <span class="ashebrew"><big>רָעָ֑ה</big></span><small><sup>[[H7451I]]</sup></small> &#8207;| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱלֹהִים֙</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he planned it  | <span class="ashebrew"><big>חֲשָׁבָ֣</big></span><small><sup>[[H2803I]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| cha.sha.Va<small><sup>[[HVqp3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for good  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>טֹבָ֔ה</big></span><small><sup>[[H2896C]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> to.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so as  | <span class="ashebrew"><big>לְמַ֗עַן</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to act  | <span class="ashebrew"><big>עֲשֹׂ֛ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Soh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as the day  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>יּ֥וֹם</big></span><small><sup>[[H3117L]]</sup></small> &#8207;| ka<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֶּ֖ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to preserve alive  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַחֲיֹ֥ת</big></span><small><sup>[[H2421]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.cha.Yot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a people  | <span class="ashebrew"><big>עַם</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'am-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| numerous  | <span class="ashebrew"><big>רָֽב</big></span><small><sup>[[H7227A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.19|<< Genesis 50:19]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.21|Genesis 50:21 >>]]</td></tr></table>
+
+

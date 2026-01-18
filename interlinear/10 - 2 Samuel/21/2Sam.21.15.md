@@ -1,0 +1,28 @@
+**2 Samuel 21:15** 
+<small><sub>**KJV:**</sub></small>
+Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David waxed faint.
+<small><sub>**BSB:**</sub></small>
+Once again the Philistines waged war against Israel, and David and his servants went down and fought against the Philistines. But David became exhausted.
+<small><sub>**Literal:**</sub></small>
+and  it belonged again war to the  Philistines with Israel and  he went down David and  servants  his with  him and  they fought with [the] Philistines and  he was weary David<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.14|<< 2 Samuel 21:14]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.16|2 Samuel 21:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it belonged  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּהִי</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.hi-<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  | <span class="ashebrew"><big>ע֧וֹד</big></span><small><sup>[[H5750]]</sup></small> &#8207;| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| war  | <span class="ashebrew"><big>מִלְחָמָ֛ה</big></span><small><sup>[[H4421]]</sup></small> &#8207;| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the Philistines  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְּלִשְׁתִּ֖ים</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֨רֶד</big></span><small><sup>[[H3381]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.red<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֜ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and servants his  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲבָדָ֥י</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  | <span class="ashebrew"><big>עִמּ֛</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they fought  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּלָּחֲמ֥וּ</big></span><small><sup>[[H3898A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.la.cha.Mu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  | <span class="ashebrew"><big>פְּלִשְׁתִּ֖ים</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was weary  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֥עַף</big></span><small><sup>[[H5888]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.'af<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִֽד</big></span><small><sup>[[H1732]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.14|<< 2 Samuel 21:14]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.16|2 Samuel 21:16 >>]]</td></tr></table>
+
+

@@ -1,0 +1,26 @@
+**Ecclesiastes 2:18** 
+<small><sub>**KJV:**</sub></small>
+Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.
+<small><sub>**BSB:**</sub></small>
+I hated all for which I had toiled under the sun, because I must leave it to the man who comes after me.
+<small><sub>**Literal:**</sub></small>
+and  I hated I \<obj.> all toil  my that  I [was] a laborer under the  sun that  I will leave  it to the  person who  \<he> will be after  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.17|<< Ecclesiastes 2:17]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.19|Ecclesiastes 2:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I hated  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׂנֵ֤אתִֽי</big></span><small><sup>[[H8130]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sa.Ne.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִי֙</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| toil my  | <span class="ashebrew"><big>עֲמָלִ֔</big></span><small><sup>[[H5999]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.ma.L<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that I  | <span class="ashebrew"><big>שֶׁ</big></span><small><sup>[[H9007]]</sup></small> <span class="ashebrew"><big>אֲנִ֥י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| she.<small><sup>[[HTr]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] a laborer  | <span class="ashebrew"><big>עָמֵ֖ל</big></span><small><sup>[[H6001B]]</sup></small> &#8207;| 'a.Mel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| under  | <span class="ashebrew"><big>תַּ֣חַת</big></span><small><sup>[[H8478G]]</sup></small> &#8207;| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sun  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁ֑מֶשׁ</big></span><small><sup>[[H8121]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Sha.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that I will leave it  | <span class="ashebrew"><big>שֶׁ֣</big></span><small><sup>[[H9007]]</sup></small> <span class="ashebrew"><big>אַנִּיחֶ֔</big></span><small><sup>[[H5117]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| she.<small><sup>[[HTr]]</sup></small> 'an.ni.Che.<small><sup>[[HVhi1cs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the person  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אָדָ֖ם</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who \<he> will be  | <span class="ashebrew"><big>שֶׁ</big></span><small><sup>[[H9007]]</sup></small> <span class="ashebrew"><big>יִּהְיֶ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| shei.<small><sup>[[HTr]]</sup></small> yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after me  | <span class="ashebrew"><big>אַחֲרָֽ</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.17|<< Ecclesiastes 2:17]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.19|Ecclesiastes 2:19 >>]]</td></tr></table>
+
+

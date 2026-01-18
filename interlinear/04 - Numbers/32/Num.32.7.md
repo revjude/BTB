@@ -1,0 +1,29 @@
+**Numbers 32:7** 
+<small><sub>**KJV:**</sub></small>
+And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?
+<small><sub>**BSB:**</sub></small>
+Why are you discouraging the Israelites from crossing into the land that the LORD has given them?
+<small><sub>**Literal:**</sub></small>
+and  \<to>  why? do you discourage  ! \<obj.> [the] heart of [the] people of Israel from  passing over into the  land which he has given to \<the>  them Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.6|<< Numbers 32:6]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.8|Numbers 32:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<to> why?  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לָ֣</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מָּה</big></span><small><sup>[[H4100]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| do you discourage !  [^2] | <span class="ashebrew"><big>תְנִיא֔וּ</big></span><small><sup>[[H5106]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;[^3] | te.nu.'u<small><sup>[[HVhi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heart of  | <span class="ashebrew"><big>לֵ֖ב</big></span><small><sup>[[H3820A]]</sup></small> &#8207;| lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from passing over  | <span class="ashebrew"><big>מֵֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עֲבֹר֙</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'a.Vor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has given  | <span class="ashebrew"><big>נָתַ֥ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.6|<< Numbers 32:6]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.8|Numbers 32:8 >>]]</td></tr></table>
+
+[^1]: ==K==: **do you hinder ! ** | <small><sup>[[H9013]]</sup></small><span class="ashebrew"><big>ן</big></span> <small><sup>[[H5106]]</sup></small><span class="ashebrew"><big>תְנוּאוּ</big></span>  | te.nu.'u<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> 
+[^2]: ==K==: **do you hinder ! ** | <small><sup>[[H9013]]</sup></small><span class="ashebrew"><big>ן</big></span> <small><sup>[[H5106]]</sup></small><span class="ashebrew"><big>תְנוּאוּ</big></span>  | te.nu.'u<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>תְנִוא֔וּן</big></span>**
+

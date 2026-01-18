@@ -1,0 +1,8 @@
+<span class="asgreek">συγκαίω</span> <small>***(sugkaiō)***</small> ==**to burn with**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==συγκαίω==</span></b>, 
+
+
+ <i>Attic dialect</i> <b><span class='asgreek'>συγκάω</span></b> [<span class='asgreek'>ᾱ</span>], <b>set on fire with</b> or <b>at once, burn up</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 22c ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be burnt up, calcined</b>,[<a href="javascript:void(0)" title=" [prev. work] 49c, “PCair.Zen.” 129.17 (3rd c.BC), etc.">Refs 3rd c.BC+</a>]; also of the effect of intense cold, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 2.118. ">Refs 3rd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>overheat, inflame</b>, [<span class='asgreek'>ὁ</span> <span class='asgreek'>οἶνος</span>] <span class='asgreek'>σ</span>. <span class='asgreek'>τὰς</span> <span class='asgreek'>φλέβας</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Aër.” 9; ταῦτα σ. τὴν κοιλίην [prev. author] “VM” 10, compare 2nd c.AD: Galenus Medicus 15.559">Refs 5th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>τὸ</span> <span class='asgreek'>συγκεκαυμένον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Prodicus Philosophus 4; κοιλίη συνεκαύθη 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 1.26.δ:">Refs 5th c.BC+</a>] — \_intransitive\_ in <i>active</i>, <span class='asgreek'>κοιλίαι</span> <span class='asgreek'>συγκαίειν</span> <span class='asgreek'>ἀγαθαί</span> liable <b>to inflame</b>, [<a href="javascript:void(0)" title="[prev. author]">Refs</a>]<b>Aër.</b>[<a href="javascript:void(0)" title=" 7. ">Refs</a>]

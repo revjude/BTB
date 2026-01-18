@@ -1,0 +1,26 @@
+**Ecclesiastes 7:15** 
+<small><sub>**KJV:**</sub></small>
+All [things] have I seen in the days of my vanity: there is a just [man] that perisheth in his righteousness, and there is a wicked [man] that prolongeth [his life] in his wickedness.
+<small><sub>**BSB:**</sub></small>
+In my futile life I have seen both of these: A righteous man perishing in his righteousness, and a wicked man living long in his wickedness.
+<small><sub>**Literal:**</sub></small>
+\<obj.> \<the>  everything I have seen in  [the] days of futility  my there [is] a righteous [person] [who] perishes in  righteousness  his and  there [is] a wicked [person] [who] prolongs in  evil  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.14|<< Ecclesiastes 7:14]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.16|Ecclesiastes 7:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> everything  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּ֥ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have seen  | <span class="ashebrew"><big>רָאִ֖יתִי</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] days of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ימֵ֣י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| futility my  | <span class="ashebrew"><big>הֶבְלִ֑</big></span><small><sup>[[H1892]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| hev.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>יֵ֤שׁ</big></span><small><sup>[[H3426]]</sup></small> &#8207;| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a righteous [person]  | <span class="ashebrew"><big>צַדִּיק֙</big></span><small><sup>[[H6662]]</sup></small> &#8207;| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] perishes  | <span class="ashebrew"><big>אֹבֵ֣ד</big></span><small><sup>[[H0006]]</sup></small> &#8207;| 'o.Ved<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in righteousness his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צִדְק֔</big></span><small><sup>[[H6664G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> tzid.K<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יֵ֣שׁ</big></span><small><sup>[[H3426]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a wicked [person]  | <span class="ashebrew"><big>רָשָׁ֔ע</big></span><small><sup>[[H7563]]</sup></small> &#8207;| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] prolongs  | <span class="ashebrew"><big>מַאֲרִ֖יךְ</big></span><small><sup>[[H0748]]</sup></small> &#8207;| ma.'a.Rikh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in evil his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רָעָתֽ</big></span><small><sup>[[H7451I]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ra.'a.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.14|<< Ecclesiastes 7:14]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.16|Ecclesiastes 7:16 >>]]</td></tr></table>
+
+

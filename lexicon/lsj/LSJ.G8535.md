@@ -1,0 +1,7 @@
+<span class="asgreek">ὁπλή</span> <small>***(hoplē)***</small> ==**a hoof**==  <sup><small>[[TEGMC#|]]</small></sup> 
+
+<b> <span class='asgreek'>==ὁπλή==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>ὅπλον</span>) <b>hoof,</b> in [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus ">Refs 8th c.BC+</a>] always <b>the solid hoof</b> of the horse, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 11.536, 20.501, compare 5th-6th c.BC: Aristophanes Comicus “Equites” 605, 3rd c.AD: Porphyrius Tyrius Philosophus “de Abstinentia - Porphyrii Opuscula” 3.9: after 8th c.BC: Homerus Epicus ">Refs 8th c.BC+</a>], like{<span class='asgreek'>χηλή</span>}, <b>the cloven hoof</b> of horned cattle, [<a href="javascript:void(0)" title=" “hymnus ad Mercurium” 77, 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 489, 5th c.BC: Pindarus Lyricus “P.” 4.226, 5th c.BC: Herodotus Historicus 2.71, 5th-6th c.BC: Plato Philosophus “Respublica” 586b, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 575b8; τοῦ βοὸς ὁπλά “SIG” 1026.19 (Cos, 4th-3rd c.BC) ">Refs 8th c.BC+</a>]; of swine, [<a href="javascript:void(0)" title=" 7th-6th c.BC(?): Semonides Iambographus 28, 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 740 ">Refs 7th c.BC+</a>]; of sheep, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 253:—distinguished from χηλή, 2nd c.AD: Galenus Medicus “de Usu Partium” 3.4. ">Refs 4th c.BC+</a>]
+

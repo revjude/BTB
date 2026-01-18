@@ -1,0 +1,29 @@
+**Jeremiah 38:20** 
+<small><sub>**KJV:**</sub></small>
+But Jeremiah said, They shall not deliver [thee]. Obey, I beseech thee, the voice of the LORD, which I speak unto thee: so it shall be well unto thee, and thy soul shall live.
+<small><sub>**BSB:**</sub></small>
+“They will not hand you over,” Jeremiah replied. “Obey the voice of the LORD in what I am telling you, that it may go well with you and you may live.
+<small><sub>**Literal:**</sub></small>
+and  he said Jeremiah not they will give listen please to  [the] voice of Yahweh to  [that] which I [am] speaking to  you so  it may go well for \<the>  you so  it may live self  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.19|<< Jeremiah 38:19]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.21|Jeremiah 38:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֥אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeremiah  | <span class="ashebrew"><big>יִרְמְיָ֖הוּ</big></span><small><sup>[[H3414L]]</sup></small> &#8207;| yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will give  | <span class="ashebrew"><big>יִתֵּ֑נוּ</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| yi.Te.nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| listen  | <span class="ashebrew"><big>שְֽׁמַֽע</big></span><small><sup>[[H8085H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| she.ma'-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָ֣א</big></span><small><sup>[[H4994]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] voice of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ק֣וֹל</big></span><small><sup>[[H6963A]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [that] which  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֤ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִי֙</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] speaking  | <span class="ashebrew"><big>דֹּבֵ֣ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| do.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>אֵלֶ֔י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'e.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so it may go well  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יִ֥יטַב</big></span><small><sup>[[H3190]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Yi.tav<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so it may live  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְחִ֥י</big></span><small><sup>[[H2421]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.Chi<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self your  | <span class="ashebrew"><big>נַפְשֶֽׁ</big></span><small><sup>[[H5315H]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| naf.She.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.19|<< Jeremiah 38:19]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.21|Jeremiah 38:21 >>]]</td></tr></table>
+
+

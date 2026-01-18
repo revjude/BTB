@@ -1,0 +1,15 @@
+
+<b> <span class='asgreek'>==ἀνατολή==</span></b>, 
+
+
+ <i>poetry</i> <span class='asgreek'>ἀντ</span>-, (<span class='asgreek'>ἀνατέλλω</span>) <b>rising</b> above the horizon, of any heavenly body, e.g. the sun, frequently in <i>plural</i>, <span class='asgreek'>ἀντολαὶ</span> <span class='asgreek'>ἠελίοιο</span>[<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 12.4, 5th c.BC: Euripides Tragicus “Phoenissae” 504:—also in \_sing.\_, ἀπ᾽ ἀνατολᾶς ἁλίου ἄχρι δύσεως “IG” 4.606; δύσεώς τε καὶ ἀνατολῆς ἡλίου καὶ τῶν ἄλλων ἄστρων 5th-6th c.BC: Plato Philosophus “Politicus” 269a, compare “Lg.” 807e">Refs 8th c.BC+</a>]; distinct from <span class='asgreek'>ἐπιτολή</span> (which see), [<a href="javascript:void(0)" title=" 1st c.BC: Geminus Astronomicus 13.3. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>ἐπιτολή</span>}, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 457, “Ag.” 7; περὶ Ὠρίωνος ==ἀνατολή==ν 4th c.BC: Aristoteles Philosophus “Meteorologica” 361b23; ἀπὸ Πλειάδος ἀ. [prev. author] “HA” 599b11. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>the quarter of sunrise, east,</b> opposed to <span class='asgreek'>δύσις</span>, frequently in <i>plural</i>, <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>ἡλίου</span> <span class='asgreek'>ἀνατολέων</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.8; ἡλίου πρὸς ἀντολάς 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 707; without ἡλίου, πρὸς ἀνατολάς 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 9.15.2, “Mon.Anc.Gr.” 14.12; πρὸς τὰς ἀ. 2nd c.BC: Polybius Historicus 2.14.4; ἀπὸ ἀνατολῶν LXX.Num.23.7, NT.Matt.2.1, etc. ">NT+5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> the <b>ascendant,</b> i.e. the point where the eastern horizon cuts the zodiac, [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 20. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.c</b> phase of new moon when [<a href="javascript:void(0)" title=" 150 distant from sun, “Catalogus Codicum Astrologorum” 8(4).204, 4th c.AD: Paulus Alexandrinus Astrologus “G.” 3. ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> in <i>plural</i>, <b>sources</b> of a river, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 2.17.4. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>growing,</b> of the teeth, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 501b28 ">Refs 4th c.BC+</a>]; of the white at the root of the nails, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.146: \_plural\_, ἀγρὸς ἀνατολὰς καὶ βλάστας ἔχει 1st c.AD: Philo Judaeus 1.68, cf. LXX.Jer.23.5, +others">LXX+1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Num.23.7]] ☩ [[Matt.2.1]] ☩ [[Jer.23.5]]
+</sub></small>

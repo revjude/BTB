@@ -1,0 +1,7 @@
+<span class="asgreek">ἐγκάθημαι</span> <small>***(egkathēmai)***</small> ==**to lie in wait**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐγκάθημαι==</span>-<span class='asgreek'>ημαι</span></b>, 
+
+
+ <b>sit in</b> or <b>on</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 1.11 ">Refs 5th c.BC+</a>]; <b>lie in ambush</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>τρίβωσιν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 343, compare “Th.” 600; ἐ. καὶ ἐνεδρεύειν 4th c.BC: Aeschines Orator 3 ">Refs 5th c.BC+</a>]. \206; of garrisons, <b>lie in</b> a place, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 18.11.6, 1st c.AD: Josephus Historicus “Bellum Judaicum” 5.1.2 ">Refs 2nd c.BC+</a>]; <b>lie couched in</b>, as the men in the Trojan horse, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 184d: \_metaphorically\_, ἐ. μεταξύ.. [prev. author] “Prm.” 156d; ἐγκαθημένον ταῖς ψυχαῖς τοῦ φόβου 2nd c.BC: Polybius Historicus 2.23.7; ἐμπόδιον ἐγκαθήμενον 3rd c.AD: Plotinus Philosophus 6.9.7 ">Refs 5th c.BC+</a>]; <b>take one's stand upon</b>, <span class='asgreek'>τῷ</span> <span class='asgreek'>ῥητῷ</span> [<a href="javascript:void(0)" title=" 11th-12th c.AD: Michael Ephesius Philosophus “in Ethica Nicomachea commentarium - pars” 68.31. ">Refs</a>]
+

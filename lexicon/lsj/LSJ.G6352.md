@@ -1,0 +1,7 @@
+<span class="asgreek">ἄνους</span> <small>***(anous)***</small> ==**mindless**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==ἄνους==</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <i>contraction</i> <span class='asgreek'>ἄνους</span>, <span class='asgreek'>ουν</span>, <b>without understanding, silly,</b> <span class='asgreek'>κραδίη</span>[<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 21.441; ψυχή 5th-6th c.BC: Plato Philosophus “Timaeus” 44a, etc. ">Refs 8th c.BC+</a>]; of persons, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 99; ἄνους τε καὶ γέρων ἅμα [prev. work] 281">Refs 5th c.BC+</a>]; <span class='asgreek'>πλοῦτος</span> <span class='asgreek'>ἄ</span>. wealth <b>without wit,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 9.43 (Parmenio Epigrammaticus)">Refs</a>]: <i>comparative</i> <span class='asgreek'>ἀνούστερος</span>[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 987">Refs 4th c.BC+</a>]: <i>superlative</i> <span class='asgreek'>ἀνούστατος</span>[<a href="javascript:void(0)" title=" 5th c.BC: Pherecrates Comicus 19D.">Refs 5th c.BC+</a>] <i>adverb</i>, <i>comparative</i> <span class='asgreek'>ἀνουστέρως</span>[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 589.1.">Refs 5th c.BC+</a>]
+

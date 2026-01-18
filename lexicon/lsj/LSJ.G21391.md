@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==δίνη==</span>-<span class='asgreek'>η</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+&nbsp;&nbsp;<b>whirlpool, eddy,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 21.213, 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 559, 5th c.BC: Euripides Tragicus “Troades” 210, 5th-6th c.BC: Plato Philosophus “Cratylus” 439c, etc.: \_plural\_, 8th c.BC: Ilias Homerus Epicus “Illiad” 21.353, 8th-7th c.BC: Hesiodus Epicus “Theogonia” 791, 5th c.BC: Herodotus Historicus 2.28, etc.; ἐπὶ Κυανέας δ. “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 3797 (from Chalcedon)">Refs 8th c.BC+</a>]: generally, of the sea, <span class='asgreek'>Τυρσηνὶς</span> <span class='asgreek'>δ</span>. [<a href="javascript:void(0)" title=" “Anthologia Graeca” 9.308 (from Bianor). ">Refs</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> of the <b>rotating heaven,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 35.4; αἰθέρος δῖναι [prev. author] 115.11, compare 5th-6th c.BC: Plato Philosophus “Phaedo” 99b, 4th c.BC: Aristoteles Philosophus “de Caelo” 295a13, “Ph.” 196a26. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>whirlwind,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 697; δῖναι νεφέλας 5th c.BC: Euripides Tragicus “Alcestis” 244 (Lyric poetry). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> generally, <b>circular motion, rotation,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 1198; ἀτράκτου 5th-6th c.BC: Plato Philosophus “Respublica” 620e, compare 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 2p.40U., +others ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> <i>metaphorically</i>, <span class='asgreek'>ἀνάγκης</span> <span class='asgreek'>στερραῖς</span> <span class='asgreek'>δ</span>. [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 1052 (\_anapaest meter\_); τελεσφόροις ==δίνη==αις κυκλούμενον κέαρ [prev. author] “Ag.” 997 (Lyric poetry). ">Refs 4th c.BC+</a>]

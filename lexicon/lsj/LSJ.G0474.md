@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==ἀντιβάλλω==</span></b>, 
+
+
+ <b>throw against</b> or <b>in turn,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 7.25 (the \_accusative\_ \_person\_ being understood); βέλος 2nd c.BC: Polybius Historicus 6.22.4: with \_dative\_, ἀ. ἀκοντίοις 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Nicias” 25">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>τῷ</span> <span class='asgreek'>κωρύκῳ</span> <b>practise by striking against</b> the sack, in the gymnasium, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Legal.” 5">Refs 2nd c.AD+</a>]; <b>put back</b> a protruding bone, [<a href="javascript:void(0)" title=" 6th c.AD: Palladas Epigrammaticus ">Refs 6th c.AD+</a>]<b>in Hp.Fract.</b>[<a href="javascript:void(0)" title=" 12.285C. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>put one against the other, compare, collate,</b> of Mss., [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 13.1.54, 17.1.5, “POxy.” 1479 (1st c.BC, \_passive\_)">Refs 1st c.BC+</a>]; <b>match, compare with,</b> <span class='asgreek'>λέοντι</span> <span class='asgreek'>τίς</span> <span class='asgreek'>αἰετὸν</span> <span class='asgreek'>ἀντιβάλοιτ</span>;[<a href="javascript:void(0)" title=" 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 1.68">Refs 3rd c.AD+</a>]; <span class='asgreek'>λόγους</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἀλλήλους</span> <b>exchange</b> words in conversation, [<a href="javascript:void(0)" title=" NT.Luke.24.17 ">NT</a>]; <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἑαυτὸν</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τὸ</span> <span class='asgreek'>γεγονός</span> <b>weigh</b> with oneself, [<a href="javascript:void(0)" title=" LXX.2Mac.11.13. ">LXX</a>]
+$\quad$ $\quad$<b>\_\_III</b> in <i>middle</i>, <b>change,</b> <span class='asgreek'>μορφήν</span>[<a href="javascript:void(0)" title=" uncertain 1. 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 3.16.">Refs 3rd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.24.17]]
+</sub></small>

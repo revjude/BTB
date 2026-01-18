@@ -1,0 +1,23 @@
+**Exodus 39:23** 
+<small><sub>**KJV:**</sub></small>
+And [there was] an hole in the midst of the robe, as the hole of an habergeon, [with] a band round about the hole, that it should not rend.
+<small><sub>**BSB:**</sub></small>
+with an opening in the center of the robe like that of a garment, with a collar around the opening so that it would not tear.
+<small><sub>**Literal:**</sub></small>
+and  [the] opening of the  robe [was] in  [the] middle of  it like  [the] opening of a collar an edge [belonged] to  opening  its all around not it was torn<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.22|<< Exodus 39:22]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.24|Exodus 39:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] opening of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פִֽי</big></span><small><sup>[[H6310J]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the robe  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְּעִ֥יל</big></span><small><sup>[[H4598]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> me.'Il<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] in [the] middle of it  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹכ֖</big></span><small><sup>[[H8432]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> to.Kh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] opening of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>פִ֣י</big></span><small><sup>[[H6310J]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> Fi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a collar  | <span class="ashebrew"><big>תַחְרָ֑א</big></span><small><sup>[[H8473]]</sup></small> &#8207;| tach.Ra'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an edge  | <span class="ashebrew"><big>שָׂפָ֥ה</big></span><small><sup>[[H8193I]]</sup></small> &#8207;| sa.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to opening its  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פִ֛י</big></span><small><sup>[[H6310J]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Fi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all around  | <span class="ashebrew"><big>סָבִ֖יב</big></span><small><sup>[[H5439G]]</sup></small> &#8207;| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was torn  | <span class="ashebrew"><big>יִקָּרֵֽעַ</big></span><small><sup>[[H7167]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yi.ka.Re.a'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.22|<< Exodus 39:22]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.24|Exodus 39:24 >>]]</td></tr></table>
+
+

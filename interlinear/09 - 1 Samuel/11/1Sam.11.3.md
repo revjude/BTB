@@ -1,0 +1,32 @@
+**1 Samuel 11:3** 
+<small><sub>**KJV:**</sub></small>
+And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if [there be] no man to save us, we will come out to thee.
+<small><sub>**BSB:**</sub></small>
+“Hold off for seven days,” replied the elders of Jabesh, “and let us send messengers throughout Israel. If there is no one to save us, we will surrender to you.”
+<small><sub>**Literal:**</sub></small>
+and  they said to  him [the] elders of Jabesh refrain to \<the>  us seven days so  let us send messengers in  all [the] territory of Israel and  if there not [is one who] delivers \<obj.>  us and  we will come out to  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.2|<< 1 Samuel 11:2]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.4|1 Samuel 11:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּאמְר֨וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>אֵלָ֜י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] elders of  | <span class="ashebrew"><big>זִקְנֵ֣י</big></span><small><sup>[[H2205G]]</sup></small> &#8207;| zik.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jabesh  | <span class="ashebrew"><big>יָבֵ֗ישׁ</big></span><small><sup>[[H3003G]]</sup></small> &#8207;| ya.Veish<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| refrain  | <span class="ashebrew"><big>הֶ֤רֶף</big></span><small><sup>[[H7503]]</sup></small> &#8207;| He.ref<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> us  | <span class="ashebrew"><big>לָ֙</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נוּ֙</big></span><small><sup>[[H9035]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שִׁבְעַ֣ת</big></span><small><sup>[[H7651]]</sup></small> &#8207;| shiv.'At<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִ֔ים</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so let us send  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נִשְׁלְחָה֙</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> nish.le.Chah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| messengers  | <span class="ashebrew"><big>מַלְאָכִ֔ים</big></span><small><sup>[[H4397G]]</sup></small> &#8207;| mal.'a.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כֹ֖ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] territory of  | <span class="ashebrew"><big>גְּב֣וּל</big></span><small><sup>[[H1366H]]</sup></small> &#8207;| ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and if  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  | <span class="ashebrew"><big>אֵ֥ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is one who] delivers  | <span class="ashebrew"><big>מוֹשִׁ֛יעַ</big></span><small><sup>[[H3467]]</sup></small> &#8207;| mo.Shi.a'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> us  | <span class="ashebrew"><big>אֹתָ֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| 'o.Ta.<small><sup>[[HTo]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and we will come out  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָצָ֥אנוּ</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ya.Tza.nu<small><sup>[[HVqq1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>אֵלֶֽי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.2|<< 1 Samuel 11:2]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.4|1 Samuel 11:4 >>]]</td></tr></table>
+
+

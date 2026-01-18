@@ -1,0 +1,29 @@
+**1 Chronicles 1:32** 
+<small><sub>**KJV:**</sub></small>
+Now the sons of Keturah, Abraham’s concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.
+<small><sub>**BSB:**</sub></small>
+The sons born to Keturah, Abraham’s concubine: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.
+<small><sub>**Literal:**</sub></small>
+and  [the] sons of Keturah [the] concubine of Abraham she bore \<obj.> Zimran and  Jokshan and  Medan and  Midian and  Ishbak and  Shuah and  [the] sons of Jokshan Sheba and  Dedan<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.31|<< 1 Chronicles 1:31]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.33|1 Chronicles 1:33 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] sons of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵ֨י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Keturah  | <span class="ashebrew"><big>קְטוּרָ֜ה</big></span><small><sup>[[H6989]]</sup></small> &#8207;| ke.tu.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] concubine of  | <span class="ashebrew"><big>פִּילֶ֣גֶשׁ</big></span><small><sup>[[H6370]]</sup></small> &#8207;| pi.Le.gesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  | <span class="ashebrew"><big>אַבְרָהָ֗ם</big></span><small><sup>[[H0085]]</sup></small> &#8207;| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she bore  | <span class="ashebrew"><big>יָלְדָ֞ה</big></span><small><sup>[[H3205]]</sup></small> &#8207;| Yal.dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zimran  | <span class="ashebrew"><big>זִמְרָ֧ן</big></span><small><sup>[[H2175]]</sup></small> &#8207;| zim.Ran<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jokshan  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יָקְשָׁ֛ן</big></span><small><sup>[[H3370]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ya.ke.Shan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Medan  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְדָ֥ן</big></span><small><sup>[[H4091]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.Dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Midian  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִדְיָ֖ן</big></span><small><sup>[[H4080G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mid.Yan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ishbak  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יִשְׁבָּ֣ק</big></span><small><sup>[[H3435]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yish.Bak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Shuah  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שׁ֑וּחַ</big></span><small><sup>[[H7744]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Shu.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sons of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵ֥י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jokshan  | <span class="ashebrew"><big>יָקְשָׁ֖ן</big></span><small><sup>[[H3370]]</sup></small> &#8207;| ya.ke.Shan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheba  | <span class="ashebrew"><big>שְׁבָ֥א</big></span><small><sup>[[H7614I]]</sup></small> &#8207;| she.Va'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Dedan  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דְדָֽן</big></span><small><sup>[[H1719C]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> de.Dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.31|<< 1 Chronicles 1:31]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.33|1 Chronicles 1:33 >>]]</td></tr></table>
+
+

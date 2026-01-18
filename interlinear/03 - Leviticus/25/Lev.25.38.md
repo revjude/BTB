@@ -1,0 +1,29 @@
+**Leviticus 25:38** 
+<small><sub>**KJV:**</sub></small>
+I [am] the LORD your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, [and] to be your God.
+<small><sub>**BSB:**</sub></small>
+I am the LORD your God, who brought you out of the land of Egypt to give you the land of Canaan and to be your God.
+<small><sub>**Literal:**</sub></small>
+I [am] Yahweh God  your who I brought out \<obj.>  you from  [the] land of Egypt to  give to \<the>  you \<obj.> [the] land of Canaan to  become for \<the>  you \<into>  God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.37|<< Leviticus 25:37]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.39|Leviticus 25:39 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| I  | <span class="ashebrew"><big>אֲנִ֗י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  | <span class="ashebrew"><big>יְהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹ֣הֵי</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'e.Lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I brought out  | <span class="ashebrew"><big>הוֹצֵ֥אתִי</big></span><small><sup>[[H3318H]]</sup></small> &#8207;| ho.Tze.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  | <span class="ashebrew"><big>אֶתְ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] land of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרָ֑יִם</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תֵ֤ת</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  | <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  | <span class="ashebrew"><big>כְּנַ֔עַן</big></span><small><sup>[[H3667A]]</sup></small> &#8207;| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to become  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הְי֥וֹת</big></span><small><sup>[[H1961]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> God  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אלֹהִֽים</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.37|<< Leviticus 25:37]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.39|Leviticus 25:39 >>]]</td></tr></table>
+
+

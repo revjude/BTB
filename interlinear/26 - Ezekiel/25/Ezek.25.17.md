@@ -1,0 +1,27 @@
+**Ezekiel 25:17** 
+<small><sub>**KJV:**</sub></small>
+And I will execute great vengeance upon them with furious rebukes; and they shall know that I [am] the LORD, when I shall lay my vengeance upon them.
+<small><sub>**BSB:**</sub></small>
+I will execute great vengeance against them with furious reproof. Then they will know that I am the LORD, when I lay My vengeance upon them.’”
+<small><sub>**Literal:**</sub></small>
+and  I will do on  them vengeance\<s> great with  rebukes of rage and  they will know that I [am] Yahweh when  have put  I \<obj.> vengeance  my on  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.16|<< Ezekiel 25:16]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.1|Ezekiel 26:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will do  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָשִׂ֤יתִי</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  | <span class="ashebrew"><big>בָ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vengeance\<s>  | <span class="ashebrew"><big>נְקָמ֣וֹת</big></span><small><sup>[[H5360]]</sup></small> &#8207;| ne.ka.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>גְּדֹל֔וֹת</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ge.do.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with rebukes of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹכְח֖וֹת</big></span><small><sup>[[H8433B]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> tokh.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rage  | <span class="ashebrew"><big>חֵמָ֑ה</big></span><small><sup>[[H2534]]</sup></small> &#8207;| che.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will know  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָֽדְעוּ֙</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֣י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when have put I  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תִתִּ֥</big></span><small><sup>[[H5414H]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9040]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ti.T<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vengeance my  | <span class="ashebrew"><big>נִקְמָתִ֖</big></span><small><sup>[[H5360]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| nik.ma.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  | <span class="ashebrew"><big>בָּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| Ba<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.16|<< Ezekiel 25:16]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.1|Ezekiel 26:1 >>]]</td></tr></table>
+
+

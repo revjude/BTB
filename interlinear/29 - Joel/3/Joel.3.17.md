@@ -1,0 +1,30 @@
+**Joel 3:17** (4:17)
+<small><sub>**KJV:**</sub></small>
+So shall ye know that I [am] the LORD your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.
+<small><sub>**BSB:**</sub></small>
+Then you will know that I am the LORD your God, who dwells in Zion, My holy mountain. Jerusalem will be holy, never again to be overrun by foreigners.
+<small><sub>**Literal:**</sub></small>
+and  you will know that I [am] Yahweh God  your [who] dwells in  Zion [the] mountain of holiness  my and  it will be Jerusalem a holy place and  strangers not they will pass in  it again<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.16|<< Joel 3:16]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.18|Joel 3:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will know  | <span class="ashebrew"><big>וִֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>ידַעְתֶּ֗ם</big></span><small><sup>[[H3045]]</sup></small> &#8207;| vi.<small><sup>[[Hc]]</sup></small> da'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֤י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  | <span class="ashebrew"><big>יְהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹ֣הֵי</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'e.Lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] dwells  | <span class="ashebrew"><big>שֹׁכֵ֖ן</big></span><small><sup>[[H7931]]</sup></small> &#8207;| sho.Khen<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Zion  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צִיּ֣וֹן</big></span><small><sup>[[H6726]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  | <span class="ashebrew"><big>הַר</big></span><small><sup>[[H2022G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holiness my  | <span class="ashebrew"><big>קָדְשִׁ֑</big></span><small><sup>[[H6944G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| kod.sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיְתָ֤ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִַ֙ם֙</big></span><small><sup>[[H3389]]</sup></small> &#8207;| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a holy place  | <span class="ashebrew"><big>קֹ֔דֶשׁ</big></span><small><sup>[[H6944G]]</sup></small> &#8207;| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and strangers  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זָרִ֥ים</big></span><small><sup>[[H2114A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> za.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will pass  | <span class="ashebrew"><big>יַֽעַבְרוּ</big></span><small><sup>[[H5674A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ya.'av.ru-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in it  | <span class="ashebrew"><big>בָ֖</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  | <span class="ashebrew"><big>עֽוֹד</big></span><small><sup>[[H5750]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.16|<< Joel 3:16]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.18|Joel 3:18 >>]]</td></tr></table>
+
+

@@ -1,0 +1,33 @@
+**Genesis 49:30** 
+<small><sub>**KJV:**</sub></small>
+In the cave that [is] in the field of Machpelah, which [is] before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.
+<small><sub>**BSB:**</sub></small>
+The cave is in the field of Machpelah near Mamre, in the land of Canaan. This is the field Abraham purchased from Ephron the Hittite as a burial site.
+<small><sub>**Literal:**</sub></small>
+in the  cave which [is] in  [the] field of \<the>  Machpelah which [is] on [the] face of Mamre in  [the] land of Canaan which he bought Abraham \<obj.> the  field from  with Ephron the  Hittite to  a possession of a burial site<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.29|<< Genesis 49:29]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.31|Genesis 49:31 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| in the cave  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְּעָרָ֞ה</big></span><small><sup>[[H4631]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> me.'a.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֨ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in [the] field of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׂדֵ֧ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> s.Deh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Machpelah  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּכְפֵּלָ֛ה</big></span><small><sup>[[H4375]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> makh.pe.Lah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  | <span class="ashebrew"><big>פְּנֵי</big></span><small><sup>[[H6440K]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| pe.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mamre  | <span class="ashebrew"><big>מַמְרֵ֖א</big></span><small><sup>[[H4471G]]</sup></small> &#8207;| mam.Re'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  | <span class="ashebrew"><big>כְּנָ֑עַן</big></span><small><sup>[[H3667A]]</sup></small> &#8207;| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר֩</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he bought  | <span class="ashebrew"><big>קָנָ֨ה</big></span><small><sup>[[H7069]]</sup></small> &#8207;| ka.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  | <span class="ashebrew"><big>אַבְרָהָ֜ם</big></span><small><sup>[[H0085]]</sup></small> &#8207;| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׂדֶ֗ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֵ֛ת</big></span><small><sup>[[H0854]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephron  | <span class="ashebrew"><big>עֶפְרֹ֥ן</big></span><small><sup>[[H6085G]]</sup></small> &#8207;| 'ef.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Hittite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חִתִּ֖י</big></span><small><sup>[[H2850]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chi.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a possession of  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲחֻזַּת</big></span><small><sup>[[H0272]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.chu.zat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a burial site  | <span class="ashebrew"><big>קָֽבֶר</big></span><small><sup>[[H6913]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ka.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.29|<< Genesis 49:29]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.31|Genesis 49:31 >>]]</td></tr></table>
+
+

@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==γονεύς==</span>-<span class='asgreek'>εύς</span></b>, <span class='asgreek'>έως</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>begetter, father</b>, mostly in <i>plural</i>, <b>parents,</b> [<a href="javascript:void(0)" title=" Hymnus in Cererem 240, 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 235, 5th c.BC: Pindarus Lyricus “P.” 6.27, 5th-6th c.BC: Plato Philosophus “Symposium” 178b, etc.">Refs 8th c.BC+</a>]: in <i>singular</i>, of a serpent, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.109 ">Refs 5th c.BC+</a>]; of a man, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 457d; φράζε τίνος ==γονεύς==έως “IG” 12 (5).310">Refs 5th c.BC+</a>]: generally, <b>progenitor, ancestor</b>, <span class='asgreek'>πέμπτος</span> <span class='asgreek'>γ</span>. <b>ancestor</b> in the fifth generation, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.91, compare 4th c.BC: Isaeus Orator 8.32; οἱ ἄνωθεν γ. 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 722a8. (Nom. \_plural\_ ==γονεύς==εῖες “Histria” 7.27: \_accusative\_ \_plural\_ ==γονεύς==έᾰς 4th c.BC: Antiphanes Comicus 261: \_dative\_ \_plural\_ ==γονεύς==εῖσι “SIG” 1267.24 (Ios, 3rd c.AD).) ">Refs 5th c.BC+</a>]
+

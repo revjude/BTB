@@ -1,0 +1,30 @@
+**Jeremiah 13:27** 
+<small><sub>**KJV:**</sub></small>
+I have seen thine adulteries, and thy neighings, the lewdness of thy whoredom, [and] thine abominations on the hills in the fields. Woe unto thee, O Jerusalem! wilt thou not be made clean? when [shall it] once [be]?
+<small><sub>**BSB:**</sub></small>
+Your adulteries and lustful neighings, your shameless prostitution on the hills and in the fields—I have seen your detestable acts. Woe to you, O Jerusalem! How long will you remain unclean?”
+<small><sub>**Literal:**</sub></small>
+adulteri\<es>  your and  neighings  your [the] wickedness of prostitution  your on hills in the  field I have seen detestable things  your woe! to \<the>  you O Jerusalem not you are clean after when? yet<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.26|<< Jeremiah 13:26]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.1|Jeremiah 14:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| adulteri\<es> your  | <span class="ashebrew"><big>נִֽאֻפַ֤יִ</big></span><small><sup>[[H5004]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ni.'u.Fa.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and neighings your  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִצְהֲלוֹתַ֙יִ</big></span><small><sup>[[H4684]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9022]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mitz.ha.lo.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wickedness of  | <span class="ashebrew"><big>זִמַּ֣ת</big></span><small><sup>[[H2154]]</sup></small> &#8207;| zi.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prostitution your  | <span class="ashebrew"><big>זְנוּתֵ֔</big></span><small><sup>[[H2184]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ze.nu.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hills  | <span class="ashebrew"><big>גְּבָעוֹת֙</big></span><small><sup>[[H1389I]]</sup></small> &#8207;| ge.va.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the field  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׂדֶ֔ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have seen  | <span class="ashebrew"><big>רָאִ֖יתִי</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| detestable things your  | <span class="ashebrew"><big>שִׁקּוּצָ֑יִ</big></span><small><sup>[[H8251]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| shi.ku.Tza.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| woe!  | <span class="ashebrew"><big>א֥וֹי</big></span><small><sup>[[H0188]]</sup></small> &#8207;| 'o<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9032]]</sup></small> &#8207;| lo<small><sup>[[HRd]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Jerusalem  | <span class="ashebrew"><big>יְר֣וּשָׁלִַ֔ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| ye.Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you are clean  | <span class="ashebrew"><big>תִטְהֲרִ֔י</big></span><small><sup>[[H2891]]</sup></small> &#8207;| tit.ha.Ri<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  | <span class="ashebrew"><big>אַחֲרֵ֥י</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when?  | <span class="ashebrew"><big>מָתַ֖י</big></span><small><sup>[[H4970]]</sup></small> &#8207;| ma.Tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| yet  | <span class="ashebrew"><big>עֹֽד</big></span><small><sup>[[H5750]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.26|<< Jeremiah 13:26]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.1|Jeremiah 14:1 >>]]</td></tr></table>
+
+

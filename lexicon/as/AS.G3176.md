@@ -1,0 +1,1 @@
+<span class="asform"><span class="asgreek"><span class="asbold">μέγιστος</span></span>, v.s. <span class="asgreek">μέγας</span>.</span>

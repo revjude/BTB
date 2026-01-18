@@ -1,0 +1,12 @@
+ <span class="bdbLangHebrew">‎קֵינִי‎</span> **adjective, of a people** of II. <span class="bdbLangHebrew">‎קַיִן‎</span> **1** (q. v.), <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎חֶבֶר הַקּ‎</span> (dwelling in North Israel), <span class="bdbLangGreek">ὁ Κειναῖος</span> [[Judg.4.11|Judg 4:11]]; [[Judg.4.17|Judg 4:17]] (twice in verse); [[Judg.5.24|Judg 5:24]] (against [[BDB#WMM|WMM]] [[BDB#Jen|Jen]], who refers <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ק‎</span> here to city Kîn near Megiddo, mentioned by Egyptian, see especially [[BDB#Bu|Bu]] [[BDB#Now|Now]] on [[Judg.4.11|Judg 4:11]]); read probably also <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎חֹבָב הַקּ‎</span> [[Judg.1.16|Judg 1:16]] (for <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּנֵי ק‎</span>; so [[BDB#Bu|Bu]] [[BDB#GFM|GFM]]; [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">οἱ υιὁὶ Ιοθορ τοῦ Κειναίου</span>); elsewhere as **name of a people collective** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַקּ‎</span> settled among Amalekites, [[Num.24.21|Num 24:21]] ([[BDB#J|J]] [[BDB#E|E]]; see  II. <span class="bdbLangHebrew">‎קַיִן‎</span> **1**), [[1Sam.15.6|1Sam 15:6]] — = <span class="bdbLangHebrew">‎קֵינִי‎</span> v[[1Sam.15.6|1Sam 15:6]] ([[BDB#We|We]] [[BDB#Bu|Bu]] [[BDB#Kit|Kit]] <span class="bdbLangHebrew">‎קַיִן‎</span>, [[BDB#HPS|HPS]] <span class="bdbLangHebrew">‎הַקֵּינִי‎</span>); — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַקּ‎</span> also [[1Sam.27.10|1Sam 27:10]]; [[1Sam.30.29|1Sam 30:29]] ([[BDB#B|B]] [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Κενεζ</span>(<span class="bdbLangGreek">ε</span>)<span class="bdbLangGreek">Ι</span> =<span class="bdbLangHebrew">‎קְנִזִּי‎</span> [[BDB#A|A]] <span class="bdbLangGreek">Κηνελ</span>, <span class="bdbLangGreek">Κειναῖος</span>); [[Gen.15.19|Gen 15:19]] (list of peoples; [[BDB#R|R]]); = <span class="bdbLangHebrew">‎הַקִּינִים‎</span> [[1Chr.2.55|1Chr 2:55]] (<span class="bdbLangGreek">Κ</span>(<span class="bdbLangGreek">ε</span>)<span class="bdbLangGreek">ιναῖοι</span>), related to Rechabites. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.15.19\|15:19]] |
+| Numbers | [[Num.24.21\|24:21]] |
+| Judges | [[Judg.1.16\|1:16]] · [[Judg.4.11\|4:11]] · [[Judg.4.17\|4:17]] · [[Judg.5.24\|5:24]] |
+| 1 Samuel | [[1Sam.15.6\|15:6]] · [[1Sam.27.10\|27:10]] · [[1Sam.30.29\|30:29]] |
+| 1 Chronicles | [[1Chr.2.55\|2:55]] |
+

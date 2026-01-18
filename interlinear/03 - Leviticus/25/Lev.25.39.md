@@ -1,0 +1,24 @@
+**Leviticus 25:39** 
+<small><sub>**KJV:**</sub></small>
+And if thy brother [that dwelleth] by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:
+<small><sub>**BSB:**</sub></small>
+If a countryman among you becomes destitute and sells himself to you, then you must not force him into slave labor.
+<small><sub>**Literal:**</sub></small>
+and  if he will become impoverished brother  your with  you and  he will sell himself to \<the>  you not you will labor by \<the>  him [the] labor of a slave<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.38|<< Leviticus 25:38]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.40|Leviticus 25:40 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and if  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כִֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will become impoverished  | <span class="ashebrew"><big>יָמ֥וּךְ</big></span><small><sup>[[H4134]]</sup></small> &#8207;| ya.Mukh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brother your  | <span class="ashebrew"><big>אָחִ֛י</big></span><small><sup>[[H0251I]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'a.Chi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  | <span class="ashebrew"><big>עִמָּ֖</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'i.Ma<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will sell himself  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נִמְכַּר</big></span><small><sup>[[H4376]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> nim.kar-<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לָ֑</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will labor  | <span class="ashebrew"><big>תַעֲבֹ֥ד</big></span><small><sup>[[H5647G]]</sup></small> &#8207;| ta.'a.Vod<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> him  | <span class="ashebrew"><big>בּ֖</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| b<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] labor of  | <span class="ashebrew"><big>עֲבֹ֥דַת</big></span><small><sup>[[H5656G]]</sup></small> &#8207;| 'a.Vo.dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a slave  | <span class="ashebrew"><big>עָֽבֶד</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'A.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.38|<< Leviticus 25:38]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.40|Leviticus 25:40 >>]]</td></tr></table>
+
+

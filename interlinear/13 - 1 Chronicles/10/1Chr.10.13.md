@@ -1,0 +1,29 @@
+**1 Chronicles 10:13** 
+<small><sub>**KJV:**</sub></small>
+So Saul died for his transgression which he committed against the LORD, [even] against the word of the LORD, which he kept not, and also for asking [counsel] of [one that had] a familiar spirit, to inquire [of it];
+<small><sub>**BSB:**</sub></small>
+So Saul died for his unfaithfulness to the LORD, because he did not keep the word of the LORD and even consulted a medium for guidance,
+<small><sub>**Literal:**</sub></small>
+and  he died Saul in  unfaithfulness  his which he had acted unfaithfully against  Yahweh on [the] word of Yahweh which not he kept and  also to  consult by \<the>  necromancy to  consult<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.12|<< 1 Chronicles 10:12]]</td><td align="center" style="border:none;">[[1Chr.10|1 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.10.14|1 Chronicles 10:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he died  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֣מָת</big></span><small><sup>[[H4191]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  | <span class="ashebrew"><big>שָׁא֗וּל</big></span><small><sup>[[H7586G]]</sup></small> &#8207;| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in unfaithfulness his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מַֽעֲל</big></span><small><sup>[[H4604]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ma.'a.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had acted unfaithfully  | <span class="ashebrew"><big>מָעַ֣ל</big></span><small><sup>[[H4603]]</sup></small> &#8207;| ma.'Al<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against Yahweh  | <span class="ashebrew"><big>בַּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  | <span class="ashebrew"><big>דְּבַ֥ר</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| de.Var<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he kept  | <span class="ashebrew"><big>שָׁמָ֑ר</big></span><small><sup>[[H8104G]]</sup></small> &#8207;| sha.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גַם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to consult  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שְׁא֥וֹל</big></span><small><sup>[[H7592]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> sh.'ol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> necromancy  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>א֖וֹב</big></span><small><sup>[[H0178]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'ov<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to consult  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דְרֽוֹשׁ</big></span><small><sup>[[H1875]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> d.Ro.osh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.12|<< 1 Chronicles 10:12]]</td><td align="center" style="border:none;">[[1Chr.10|1 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.10.14|1 Chronicles 10:14 >>]]</td></tr></table>
+
+

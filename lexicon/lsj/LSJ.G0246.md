@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==ἀλλόφυλος==</span>-<span class='asgreek'>φῡλος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ (<span class='asgreek'>φυλή</span>) <b>of another tribe, foreign,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Aër.” 12; frequently in LXX of Philistines, LXX.Judg.14.1, +others">LXX+5th c.BC+</a>]; in Egypt, <b>settled in another nome</b>, [<a href="javascript:void(0)" title=" “BGU” 419.2 (3rd c.AD)">Refs 3rd c.AD+</a>]; <span class='asgreek'>ἐς</span> <span class='asgreek'>==ἀλλόφυλος==φυλον</span>.. <span class='asgreek'>χθόνα</span>[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 851; ἄνθρωποι 5th c.BC: Thucydides Historicus 1.102, 5th-6th c.BC: Plato Philosophus “Leges” 629d; ζῷα ">Refs 5th c.BC+</a>]<b>alien to man, wild,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 3.18, 3rd c.AD: Porphyrius Tyrius Philosophus “de Abstinentia - Porphyrii Opuscula” 1.10">Refs 1st c.BC+</a>]; <span class='asgreek'>πόλεμος</span> <span class='asgreek'>ἀ</span>. war <b>with foreigners,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Camillus” 23">Refs 1st c.AD+</a>]; opposed to <span class='asgreek'>ὁμόφυλος</span>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Sententiae” 39; ἀ. πρός τι 5th-6th c.AD: Damascius Philosophus “de Principiis” 308; μᾶζαν ἐπ᾽ ἀ. ">Refs 4th c.BC+</a>]<b>alien, not one's own,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Eupolis Comicus 159.12.">Refs 5th c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Judg.14.1]]
+</sub></small>

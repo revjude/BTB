@@ -1,0 +1,27 @@
+**Jeremiah 42:9** 
+<small><sub>**KJV:**</sub></small>
+And said unto them, Thus saith the LORD, the God of Israel, unto whom ye sent me to present your supplication before him;
+<small><sub>**BSB:**</sub></small>
+Jeremiah told them, “Thus says the LORD, the God of Israel, to whom you sent me to present your petition:
+<small><sub>**Literal:**</sub></small>
+and  he said to  them thus he says Yahweh [the] God of Israel whom you sent \<obj.>  me to  him to  make fall supplication  your \<to>  before  him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.8|<< Jeremiah 42:8]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.10|Jeremiah 42:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֹּֽה</big></span><small><sup>[[H3541]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  | <span class="ashebrew"><big>אָמַ֥ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  | <span class="ashebrew"><big>אֱלֹהֵ֣י</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁ֨ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you sent  | <span class="ashebrew"><big>שְׁלַחְתֶּ֤ם</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| she.lach.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> me  | <span class="ashebrew"><big>אֹתִ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>אֵלָ֔י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to make fall  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַפִּ֥יל</big></span><small><sup>[[H5307N]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Pil<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| supplication your  | <span class="ashebrew"><big>תְּחִנַּתְ</big></span><small><sup>[[H8467]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| te.chi.nat.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before him  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנָֽי</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.8|<< Jeremiah 42:8]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.10|Jeremiah 42:10 >>]]</td></tr></table>
+
+

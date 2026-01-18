@@ -1,0 +1,23 @@
+**Exodus 30:2** 
+<small><sub>**KJV:**</sub></small>
+A cubit [shall be] the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits [shall be] the height thereof: the horns thereof [shall be] of the same.
+<small><sub>**BSB:**</sub></small>
+It is to be square, a cubit long, a cubit wide, and two cubits high. Its horns must be of one piece.
+<small><sub>**Literal:**</sub></small>
+[will be] a cubit length  its and  [will be] a cubit breadth  its square it will be and  [will be] two cubits height  its [will be] from  it horns  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.1|<< Exodus 30:1]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.3|Exodus 30:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [will be] a cubit  | <span class="ashebrew"><big>אַמָּ֨ה</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| length its  | <span class="ashebrew"><big>אָרְכּ֜</big></span><small><sup>[[H0753]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.re.K<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [will be] a cubit  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַמָּ֤ה</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| breadth its  | <span class="ashebrew"><big>רָחְבּ</big></span><small><sup>[[H7341]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ra.che.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| square  | <span class="ashebrew"><big>רָב֣וּעַ</big></span><small><sup>[[H7251]]</sup></small> &#8207;| ra.Vu.a'<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  | <span class="ashebrew"><big>יִהְיֶ֔ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [will be] two cubits  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַמָּתַ֖יִם</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.ma.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| height its  | <span class="ashebrew"><big>קֹמָת֑</big></span><small><sup>[[H6967]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ko.ma.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] from it  | <span class="ashebrew"><big>מִמֶּ֖</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horns its  | <span class="ashebrew"><big>קַרְנֹתָֽי</big></span><small><sup>[[H7161A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| kar.no.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.1|<< Exodus 30:1]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.3|Exodus 30:3 >>]]</td></tr></table>
+
+

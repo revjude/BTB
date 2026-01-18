@@ -1,0 +1,23 @@
+**Haggai 2:20** 
+<small><sub>**KJV:**</sub></small>
+And again the word of the LORD came unto Haggai in the four and twentieth [day] of the month, saying,
+<small><sub>**BSB:**</sub></small>
+For the second time that day, the twenty-fourth day of the month, the word of the LORD came to Haggai, saying,
+<small><sub>**Literal:**</sub></small>
+and  it came [the] word of Yahweh a second [time] to Haggai on  [day] twenty and  four of the  month \<to>  saying<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.19|<< Haggai 2:19]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.21|Haggai 2:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִ֨י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  | <span class="ashebrew"><big>דְבַר</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֤ה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a second [time]  | <span class="ashebrew"><big>שֵׁנִית֙</big></span><small><sup>[[H8145]]</sup></small> &#8207;| she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Haggai  | <span class="ashebrew"><big>חַגַּ֔י</big></span><small><sup>[[H2292A]]</sup></small> &#8207;| cha.Gai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [day] twenty  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֶשְׂרִ֧ים</big></span><small><sup>[[H6242]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and four  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַרְבָּעָ֛ה</big></span><small><sup>[[H0702]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the month  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֹ֖דֶשׁ</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹֽר</big></span><small><sup>[[H0559]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.19|<< Haggai 2:19]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.21|Haggai 2:21 >>]]</td></tr></table>
+
+

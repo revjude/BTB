@@ -1,0 +1,26 @@
+**Esther 4:13** 
+<small><sub>**KJV:**</sub></small>
+Then Mordecai commanded to answer Esther, Think not with thyself that thou shalt escape in the king’s house, more than all the Jews.
+<small><sub>**BSB:**</sub></small>
+he sent back to her this reply: “Do not imagine that because you are in the king’s palace you alone will escape the fate of all the Jews.
+<small><sub>**Literal:**</sub></small>
+and  he said Mordecai to  bring back to Esther may not you imagine in  self  your to  escape [the] house of the  king from  all the  Jews<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.12|<< Esther 4:12]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.14|Esther 4:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֥אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mordecai  | <span class="ashebrew"><big>מָרְדֳּכַ֖י</big></span><small><sup>[[H4782H]]</sup></small> &#8207;| ma.re.do.Khai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to bring back  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הָשִׁ֣יב</big></span><small><sup>[[H7725M]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Shiv<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Esther  | <span class="ashebrew"><big>אֶסְתֵּ֑ר</big></span><small><sup>[[H0635]]</sup></small> &#8207;| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you imagine  | <span class="ashebrew"><big>תְּדַמִּ֣י</big></span><small><sup>[[H1819]]</sup></small> &#8207;| te.da.Mi<small><sup>[[HVpj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in self your  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נַפְשֵׁ֔</big></span><small><sup>[[H5315I]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> naf.She<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to escape  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הִמָּלֵ֥ט</big></span><small><sup>[[H4422]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hi.ma.Let<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּית</big></span><small><sup>[[H1004B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֖לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from all  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Jews  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יְּהוּדִֽים</big></span><small><sup>[[H3064]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> ye.hu.Dim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.12|<< Esther 4:12]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.14|Esther 4:14 >>]]</td></tr></table>
+
+

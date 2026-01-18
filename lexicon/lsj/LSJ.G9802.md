@@ -1,0 +1,9 @@
+<span class="asgreek">ψυκτήρ</span> <small>***(psuktēr)***</small> ==**a wine-cooler**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==ψυκτήρ==</span>-<span class='asgreek'>τήρ</span></b>, <span class='asgreek'>ῆρος</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>wine-cooler,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Fragmenta” 726, 5th-6th c.BC: Plato Philosophus “Symposium” 213e, “IG” 22.1638.62, +others, 5th c.BC: Strattis Comicus 59 (\_anapaest meter\_), “IG” 7.3498.29 (Orop.), 3rd c.BC(?): Callixinus Historicus 2, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 11.1.3, 2nd c.AD: Appianus Historicus “Μιθριδάτειος” 115, 2nd c.AD: Athenaeus Epigrammaticus 11.502c; ψ. ἀργυροῦς μέγας δίωτος “OGI” 214.56 (Branchidae, 3rd c.BC)">Refs 5th c.BC+</a>]; <span class='asgreek'>==ψυκτήρ==τῆρά</span> <span class='asgreek'>τις</span> <span class='asgreek'>προὔπινεν</span> <span class='asgreek'>αὐτοῖς</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 510, compare 4th c.BC: Antiphanes Comicus 114, 2nd c.AD: Alexander Rhetor 9.12; ==ψυκτήρ==τῆρες γάλακτος 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.31, compare 2nd c.AD(?): Pollianus Epigrammaticus 10.74. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==ψυκτήρ==τῆρες</span>, <span class='asgreek'>οἱ</span>, <b>cool shady places for recreation,</b> Nic.Thyat. cited in [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 11.503c (==ψυκτήρ==τήρια Casaubon). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>==ψυκτήρ==τῆρες</span>, ={<span class='asgreek'>ταρσοί</span>}, [<a href="javascript:void(0)" title="Scholia 8th c.BC: Odyssea Homerus Epicus “Odyssey” 9.219. ">Refs 8th c.BC+</a>]

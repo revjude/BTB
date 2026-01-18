@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==στέγος==</span></b>, <span class='asgreek'>εος</span>, <span class='asgreek'>τό</span>,
+
+
+ = <span class='asgreek'>τέγος</span>, properly <b>roof</b>, [<a href="javascript:void(0)" title=" LXX.EpJer.10 (variant{τέγους}), 1st c.BC: Diodorus Siculus Historicus 19.45, “IG” 5(1).1114.14 (from Geronthrae), 2nd c.AD(?): Pollianus Epigrammaticus 1.81, 4th c.AD: Libanius Sophista “Orationes” 11.162 ">LXX+1st c.BC+</a>], and so perhaps in [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 48 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>αὐτὸ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>ἐλθεῖν</span> 'under the same <b>roof'</b>, [<a href="javascript:void(0)" title=" “SIG” 1179.20 (from Cnidus). ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> mostly, like{<span class='asgreek'>στέγη</span>}, <b>house, mansion</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 141 (\_anapaest meter\_), “Ag.” 310, 5th c.BC: Sophocles Tragicus “Ajax” 307, etc.; probably in “OGI” 619.5 (Syria, 4th c.AD). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>δέξαι</span> <span class='asgreek'>μ᾽</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>σὸν</span> <span class='asgreek'>σ</span>., i.e. into <b>the urn</b> containing his ashes, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 1165 ">Refs 5th c.BC+</a>]; <b>grave</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 1098. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> <b>brothel</b>, <span class='asgreek'>στεγέεσσι</span> [<a href="javascript:void(0)" title=" 4th c.AD(?): Manetho Astrologus 2.430, compare 6.533. ">Refs 4th c.AD+</a>]

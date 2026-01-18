@@ -1,0 +1,9 @@
+<span class="asgreek">ἐξαριθμέω</span> <small>***(exarithmeō)***</small> ==**to count out**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐξαριθμέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>enumerate, count,</b> <span class='asgreek'>τὸν</span> <span class='asgreek'>στρατόν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.59, 60, etc.">Refs 5th c.BC+</a>]; <b>reckon up,</b> <span class='asgreek'>πᾶν</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>λυποῦν</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.25 ">Refs 1st c.BC+</a>] W.:—<i>passive</i>, <span class='asgreek'>μυριάδες</span> <span class='asgreek'>ἐξηριθμήθησαν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.87. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>count out,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>χρήματα</span> <b>pay in ready</b> money, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 27.58. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>recount,</b> <span class='asgreek'>κινδύνους</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 4.66 ">Refs 5th c.BC+</a>]:—later in <i>middle</i>, <span class='asgreek'>τὰ</span> <span class='asgreek'>κατὰ</span> <span class='asgreek'>μέρος</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 5.72, compare 2nd-3rd c.AD: Dio Cassius Historicus 44.48 ">Refs 1st c.BC+</a>]: <i>perfect</i> <i>passive</i> in <i>middle</i> sense, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 9.2.1 ">Refs 2nd c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1410b2. ">Refs 4th c.BC+</a>]

@@ -1,0 +1,25 @@
+**Jeremiah 13:22** 
+<small><sub>**KJV:**</sub></small>
+And if thou say in thine heart, Wherefore come these things upon me? For the greatness of thine iniquity are thy skirts discovered, [and] thy heels made bare.
+<small><sub>**BSB:**</sub></small>
+And if you ask yourself, “Why has this happened to me?” It is because of the magnitude of your iniquity that your skirts have been stripped off and your body has been exposed.
+<small><sub>**Literal:**</sub></small>
+and  if you will say in  heart  your why? have they happened to  me these [things] in  [the] greatness of iniquity  your they have been uncovered skirts  your they have suffered violence heels  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.21|<< Jeremiah 13:21]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.23|Jeremiah 13:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and if  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כִ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khi<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will say  | <span class="ashebrew"><big>תֹאמְרִי֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| to.me.Ri<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in heart your  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לְבָבֵ֔</big></span><small><sup>[[H3824]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> l.va.Ve<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| why?  | <span class="ashebrew"><big>מַדּ֖וּעַ</big></span><small><sup>[[H4069]]</sup></small> &#8207;| ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have they happened to me  | <span class="ashebrew"><big>קְרָאֻ֣</big></span><small><sup>[[H7122I]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| ke.ra.'U.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these [things]  | <span class="ashebrew"><big>אֵ֑לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] greatness of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רֹ֧ב</big></span><small><sup>[[H7230]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iniquity your  | <span class="ashebrew"><big>עֲוֹנֵ֛</big></span><small><sup>[[H5771G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| 'a.vo.Ne<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have been uncovered  | <span class="ashebrew"><big>נִגְל֥וּ</big></span><small><sup>[[H1540I]]</sup></small> &#8207;| nig.Lu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| skirts your  | <span class="ashebrew"><big>שׁוּלַ֖יִ</big></span><small><sup>[[H7757]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| shu.La.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have suffered violence  | <span class="ashebrew"><big>נֶחְמְס֥וּ</big></span><small><sup>[[H2554]]</sup></small> &#8207;| nech.me.Su<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heels your  | <span class="ashebrew"><big>עֲקֵבָֽיִ</big></span><small><sup>[[H6119]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.ke.Va.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.21|<< Jeremiah 13:21]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.23|Jeremiah 13:23 >>]]</td></tr></table>
+
+

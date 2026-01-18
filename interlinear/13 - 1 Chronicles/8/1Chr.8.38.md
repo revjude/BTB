@@ -1,0 +1,28 @@
+**1 Chronicles 8:38** 
+<small><sub>**KJV:**</sub></small>
+And Azel had six sons, whose names [are] these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these [were] the sons of Azel.
+<small><sub>**BSB:**</sub></small>
+Azel had six sons, and these were their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.
+<small><sub>**Literal:**</sub></small>
+and  [belonged] to  Azel six sons and  these [are] names  their Azrikam Bocheru and  Ishmael and  Sheariah and  Obadiah and  Hanan all these [were] [the] sons of Azel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.37|<< 1 Chronicles 8:37]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.39|1 Chronicles 8:39 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [belonged] to Azel  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אָצֵל֮</big></span><small><sup>[[H0682A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> 'a.Tzel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  | <span class="ashebrew"><big>שִׁשָּׁ֣ה</big></span><small><sup>[[H8337]]</sup></small> &#8207;| shi.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons  | <span class="ashebrew"><big>בָנִים֒</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and these  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֣לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] names their  | <span class="ashebrew"><big>שְׁמוֹתָ֗</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| she.mo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Azrikam  | <span class="ashebrew"><big>עַזְרִיקָ֥ם</big></span><small><sup>[[H5840H]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'az.ri.Kam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bocheru  | <span class="ashebrew"><big>בֹּ֙כְרוּ֙</big></span><small><sup>[[H1074]]</sup></small> &#8207;| bo.khe.ru<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ishmael  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יִשְׁמָעֵ֣אל</big></span><small><sup>[[H3458I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yish.ma.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Sheariah  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁעַרְיָ֔ה</big></span><small><sup>[[H8187]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.'ar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Obadiah  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֹבַדְיָ֖ה</big></span><small><sup>[[H5662J]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'oad.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Hanan  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חָנָ֑ן</big></span><small><sup>[[H2605H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> cha.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  | <span class="ashebrew"><big>אֵ֖לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] sons of  | <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Azel  | <span class="ashebrew"><big>אָצַֽל</big></span><small><sup>[[H0682A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Tzal<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.37|<< 1 Chronicles 8:37]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.39|1 Chronicles 8:39 >>]]</td></tr></table>
+
+

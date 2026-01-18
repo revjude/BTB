@@ -1,0 +1,31 @@
+**2 Kings 4:16** 
+<small><sub>**KJV:**</sub></small>
+And he said, About this season, according to the time of life, thou shalt embrace a son. And she said, Nay, my lord, [thou] man of God, do not lie unto thine handmaid.
+<small><sub>**BSB:**</sub></small>
+And Elisha declared, “At this time next year, you will hold a son in your arms.” “No, my lord,” she said. “Do not lie to your maidservant, O man of God.”
+<small><sub>**Literal:**</sub></small>
+and  he said to the  appointed time \<the>  this about the  time living you [will be] embracing a son and  she said may [you] not O lord  my O man of \<the>  God may not you tell a lie to  maidservant  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.15|<< 2 Kings 4:15]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.17|2 Kings 4:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֗אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the appointed time  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מּוֹעֵ֤ד</big></span><small><sup>[[H4150G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֶּה֙</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| about the time  | <span class="ashebrew"><big>כָּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֵ֣ת</big></span><small><sup>[[H6256]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| living  | <span class="ashebrew"><big>חַיָּ֔ה</big></span><small><sup>[[H2416A]]</sup></small> &#8207;| chai.Yah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  [^1] | <span class="ashebrew"><big>אַ֖תְּ</big></span><small><sup>[[H0859C]]</sup></small> &#8207;[^2] | 'a.ti<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [will be] embracing  | <span class="ashebrew"><big>חֹבֶ֣קֶת</big></span><small><sup>[[H2263]]</sup></small> &#8207;| cho.Ve.ket<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  | <span class="ashebrew"><big>בֵּ֑ן</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| Ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּ֗אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may [you] not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O lord my  | <span class="ashebrew"><big>אֲדֹנִ</big></span><small><sup>[[H0113]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O man of  | <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֔ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you tell a lie  | <span class="ashebrew"><big>תְּכַזֵּ֖ב</big></span><small><sup>[[H3576]]</sup></small> &#8207;| te.kha.Zev<small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to maidservant your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שִׁפְחָתֶֽ</big></span><small><sup>[[H8198]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> shif.cha.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.15|<< 2 Kings 4:15]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.17|2 Kings 4:17 >>]]</td></tr></table>
+
+[^1]: ==K==: **you ** | <small><sup>[[H0859B]]</sup></small><span class="ashebrew"><big>אַתִּי</big></span>  | 'a.ti<small><sup>[[HPp2fs]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>אַ֖תְּי</big></span>**
+

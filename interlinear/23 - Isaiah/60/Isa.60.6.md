@@ -1,0 +1,28 @@
+**Isaiah 60:6** 
+<small><sub>**KJV:**</sub></small>
+The multitude of camels shall cover thee, the dromedaries of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall shew forth the praises of the LORD.
+<small><sub>**BSB:**</sub></small>
+Caravans of camels will cover your land, young camels of Midian and Ephah, and all from Sheba will come, bearing gold and frankincense and proclaiming the praises of the LORD.
+<small><sub>**Literal:**</sub></small>
+a multitude of camels it will cover  you [the] young camels of Midian and  Ephah all of  them from  Sheba they will come gold and  frankincense they will carry and  [the] praises of Yahweh they will bear news<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.5|<< Isaiah 60:5]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.7|Isaiah 60:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| a multitude of  | <span class="ashebrew"><big>שִֽׁפְעַ֨ת</big></span><small><sup>[[H8229]]</sup></small> &#8207;| shif.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| camels  | <span class="ashebrew"><big>גְּמַלִּ֜ים</big></span><small><sup>[[H1581]]</sup></small> &#8207;| ge.ma.Lim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will cover you  | <span class="ashebrew"><big>תְּכַסֵּ֗</big></span><small><sup>[[H3680]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| te.kha.Se<small><sup>[[HVpi3fs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] young camels of  | <span class="ashebrew"><big>בִּכְרֵ֤י</big></span><small><sup>[[H1070]]</sup></small> &#8207;| bikh.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Midian  | <span class="ashebrew"><big>מִדְיָן֙</big></span><small><sup>[[H4080H]]</sup></small> &#8207;| mid.Yan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ephah  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֵיפָ֔ה</big></span><small><sup>[[H5891J]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ei.Fah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  | <span class="ashebrew"><big>כֻּלָּ֖</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Sheba  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שְּׁבָ֣א</big></span><small><sup>[[H7614J]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> she.Va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will come  | <span class="ashebrew"><big>יָבֹ֑אוּ</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ya.Vo.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  | <span class="ashebrew"><big>זָהָ֤ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and frankincense  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְבוֹנָה֙</big></span><small><sup>[[H3828]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.vo.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will carry  | <span class="ashebrew"><big>יִשָּׂ֔אוּ</big></span><small><sup>[[H5375H]]</sup></small> &#8207;| yi.Sa.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] praises of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְהִלֹּ֥ת</big></span><small><sup>[[H8416]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.hi.Lot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will bear news  | <span class="ashebrew"><big>יְבַשֵּֽׂרוּ</big></span><small><sup>[[H1319]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.va.Se.ru<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.5|<< Isaiah 60:5]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.7|Isaiah 60:7 >>]]</td></tr></table>
+
+

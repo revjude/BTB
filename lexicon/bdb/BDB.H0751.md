@@ -1,0 +1,2 @@
+ <span class="bdbLangHebrew">‎אֶ֫רֶךְ‎</span> **proper name, of a location** ==city in Babylonia== (Babylonian <abbr title="transliteration"><u>***Urûk***</u></abbr> see [[BDB#Dl|Dl]] below) on left bank of Euphrates,approximately 40 miles northwest from Ur (<span class="bdbLangHebrew">‎אוּר‎</span>) toward Babylon; modern ***Warka***; compare [[BDB#Loft|Loftus]]<sup>CS 152 f.</sup> [[BDB#Dl|Dl]]<sup>Pa 221 f</sup>. 
+

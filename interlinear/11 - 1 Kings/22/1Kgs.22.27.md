@@ -1,0 +1,30 @@
+**1 Kings 22:27** 
+<small><sub>**KJV:**</sub></small>
+And say, Thus saith the king, Put this [fellow] in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace.
+<small><sub>**BSB:**</sub></small>
+and tell them that this is what the king says: ‘Put this man in prison and feed him only bread and water until I return safely.’”
+<small><sub>**Literal:**</sub></small>
+and  you will say thus he says the  king put \<obj.> this [one] [the] house of \<the>  imprisonment and  feed  him bread oppression and  water oppression until come  I in  peace<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.26|<< 1 Kings 22:26]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.28|1 Kings 22:28 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will say  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָמַרְתָּ֗</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֹּ֚ה</big></span><small><sup>[[H3541]]</sup></small> &#8207;| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  | <span class="ashebrew"><big>אָמַ֣ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֔לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| put  | <span class="ashebrew"><big>שִׂ֥ימוּ</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| Si.mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this [one]  | <span class="ashebrew"><big>זֶ֖ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> imprisonment  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֶּ֑לֶא</big></span><small><sup>[[H3608]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ke.le'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and feed him  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַאֲכִילֻ֨</big></span><small><sup>[[H0398]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.'a.khi.Lu.<small><sup>[[HVhv2mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread  | <span class="ashebrew"><big>לֶ֤חֶם</big></span><small><sup>[[H3899H]]</sup></small> &#8207;| Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| oppression  | <span class="ashebrew"><big>לַ֙חַץ֙</big></span><small><sup>[[H3906]]</sup></small> &#8207;| la.chatz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and water  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַ֣יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| oppression  | <span class="ashebrew"><big>לַ֔חַץ</big></span><small><sup>[[H3906]]</sup></small> &#8207;| La.chatz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַ֖ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| come I  | <span class="ashebrew"><big>בֹּאִ֥</big></span><small><sup>[[H0935G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9040]]</sup></small> &#8207;| bo.'<small><sup>[[HVqcc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in peace  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָׁלֽוֹם</big></span><small><sup>[[H7965G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.26|<< 1 Kings 22:26]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.28|1 Kings 22:28 >>]]</td></tr></table>
+
+

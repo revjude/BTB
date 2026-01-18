@@ -1,0 +1,29 @@
+**Leviticus 13:53** 
+<small><sub>**KJV:**</sub></small>
+And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;
+<small><sub>**BSB:**</sub></small>
+But when the priest reexamines it, if the mildew has not spread in the fabric, weave, knit, or leather article,
+<small><sub>**Literal:**</sub></small>
+and  if he will see the  priest and  there! not it has spread the  plague in the  garment or in the  warp or in the  woof or in  every article of hide<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.52|<< Leviticus 13:52]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.54|Leviticus 13:54 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and if  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִם֮</big></span><small><sup>[[H0518A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will see  | <span class="ashebrew"><big>יִרְאֶ֣ה</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| yir.'Eh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֵן֒</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there!  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנֵּה֙</big></span><small><sup>[[H2009]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has spread  | <span class="ashebrew"><big>פָשָׂ֣ה</big></span><small><sup>[[H6581]]</sup></small> &#8207;| fa.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the plague  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נֶּ֔גַע</big></span><small><sup>[[H5061]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ne.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the garment  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בֶּ֕גֶד</big></span><small><sup>[[H0899B]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Be.ged<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  | <span class="ashebrew"><big>א֥וֹ</big></span><small><sup>[[H0176A]]</sup></small> &#8207;| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the warp  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְּׁתִ֖י</big></span><small><sup>[[H8359]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> she.Ti<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  | <span class="ashebrew"><big>א֣וֹ</big></span><small><sup>[[H0176A]]</sup></small> &#8207;| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the woof  | <span class="ashebrew"><big>בָ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵ֑רֶב</big></span><small><sup>[[H6154B]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  | <span class="ashebrew"><big>א֖וֹ</big></span><small><sup>[[H0176A]]</sup></small> &#8207;| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in every  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| article of  | <span class="ashebrew"><big>כְּלִי</big></span><small><sup>[[H3627]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ke.li-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hide  | <span class="ashebrew"><big>עֽוֹר</big></span><small><sup>[[H5785]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| or<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.52|<< Leviticus 13:52]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.54|Leviticus 13:54 >>]]</td></tr></table>
+
+

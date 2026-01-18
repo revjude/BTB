@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==χρησιμεύω==</span>-<span class='asgreek'>εύω</span></b>, 
+
+
+ <b>to be useful</b> or <b>serviceable,</b> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἐπιλήπτοις</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Fragmenta” 175, compare 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.221, +others, 2nd c.AD: Lucianus Sophista “DMort.” 10.9; τῇ πατρίδι “IGRom.” 4.1228 (from Thyatira)">Refs 4th c.BC+</a>]; <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 1.81, 1st c.AD: Dioscorides (Dioscurides) Medicus 2.149; εἴς τι 4th-3rd c.BC: Epicurus Philosophus “Fragmenta” 458, 2nd c.AD: Galenus Medicus 19.396, 4th c.AD: Iamblichus Philosophus “in Nicomachi arithmeticam introductionem” p.12P.: \_absolutely\_, LXX.Wis.4.3, 1st c.AD: Musonius Philosophus “fragment” 18Ap.95 H., 3rd c.AD: Alexander Aphrodisiensis Philosophus “in Aristotelis Topicorum libros octo commentaria - pars” 430.2: sens.obsc., 3rd c.AD(?): Diogenes Laertius 6.91 ">LXX+4th c.BC+</a>]:— rejected by the Atticists,[<a href="javascript:void(0)" title="compare 2nd c.AD: Phrynichus Atticista 367. ">Refs 2nd c.AD+</a>]
+

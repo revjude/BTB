@@ -1,0 +1,23 @@
+**Ezekiel 44:23** 
+<small><sub>**KJV:**</sub></small>
+And they shall teach my people [the difference] between the holy and profane, and cause them to discern between the unclean and the clean.
+<small><sub>**BSB:**</sub></small>
+They are to teach My people the difference between the holy and the common and show them how to discern between the clean and the unclean.
+<small><sub>**Literal:**</sub></small>
+and  \<obj.> people  my they will instruct between a holy thing and  a profane thing and  between an unclean [thing] and  a clean [thing] they will make known to  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.22|<< Ezekiel 44:22]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.24|Ezekiel 44:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  | <span class="ashebrew"><big>עַמִּ֣</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will instruct  | <span class="ashebrew"><big>יוֹר֔וּ</big></span><small><sup>[[H3384B]]</sup></small> &#8207;| yo.Ru<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  | <span class="ashebrew"><big>בֵּ֥ין</big></span><small><sup>[[H0996G]]</sup></small> &#8207;| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a holy thing  | <span class="ashebrew"><big>קֹ֖דֶשׁ</big></span><small><sup>[[H6944G]]</sup></small> &#8207;| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a profane thing  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֹ֑ל</big></span><small><sup>[[H2455]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Chol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵין</big></span><small><sup>[[H0996G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vein-<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an unclean [thing]  | <span class="ashebrew"><big>טָמֵ֥א</big></span><small><sup>[[H2931]]</sup></small> &#8207;| ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a clean [thing]  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>טָה֖וֹר</big></span><small><sup>[[H2889]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ta.Hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will make known to them  | <span class="ashebrew"><big>יוֹדִעֻֽ</big></span><small><sup>[[H3045]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yo.di.'U<small><sup>[[HVhi3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.22|<< Ezekiel 44:22]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.24|Ezekiel 44:24 >>]]</td></tr></table>
+
+

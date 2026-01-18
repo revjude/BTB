@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎בֵּלְשַׁאצַּר‎</span></big> **Bêlshaʼtstsar** <small>*(bale-shats-tsar')*</small> ==**Belshazzar**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>or <span class="ashebrew">בֵּלְאשַׁצַּר</span> **Bêlʼshatstsar** <small>*(bale-shats-tsar')*</small>; of foreign origin (compare <span class="ashebrew">‎בֵּלְטְשַׁאצַּר‎</span><sup><small>[[H1095]]</small></sup>)</small>
+
+$\quad$ Belshazzar.
+- § Belshazzar = *"Bel protect the king"*
+- ***Belshatstsar***, a Babylonian king
+
+**1)** king of Babylon at the time of its fall; he to whom Daniel interpreted the writing on the wall

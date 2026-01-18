@@ -1,0 +1,22 @@
+<small>Aramaic form: [[H6656]]</small>
+ I. <span class="bdbLangHebrew">‎צָדָה‎</span> **verb** ==lie in wait== (Late Hebrew ***id.***, rare; compare (si vera lectio) Biblical Aramaic <span class="bdbLangAramaic">‎צְדָא‎</span> [[Dan.3.14|Dan 3:14]]) — 
+
+**Qal** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎צ‎</span> [[Exod.21.13|Exod 21:13]] ([[BDB#E|E]]; absolute); ***Participle*** with accusative <span class="bdbLangHebrew">‎וְאַתָּה צֹדֶה‎</span> <span class="bdbLangHebrew">‎אֶתנַֿפְשִׁי לְקִחְתָּהּ‎</span> [[1Sam.24.11|1Sam 24:11]] ([[BDB#Gi|Gi]]; v.[[1Sam.24.12|1Sam 24:12]] [[BDB#van d.H.|van d. H.]] [[BDB#Baer|Baer]]). 
+
+
+
+ II. [<span class="bdbLangHebrew">‎צָדָה‎</span>] **verb** ==lay waste== (Late Hebrew ***id.*** (rare), Aramaic <span class="bdbLangAramaic">‎צְדִי‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhGAAaAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAYABoABwj1AP8JHEiQn8GDCBESXPgvocODDBc+dBhR4kSDFTM+jNgmS7x/qQCsGriRIQo1AusAAEWSIsMfhwTeifGtZcKIVQD9I4bSosKGGP+h0flvGS+fEIHyE0hm0D9AAAAoipg06Z9S/5JERdOPYVWIgir944YCwKZ/2vIVDKqQTcx/giZY+weBic2lN6/M+iduxyiBUSZ4E6hQ4TEjy/5dMzewnxFuhCEq3PH2nwMxAhWpcRcZ40+C4gZmYKOvM96kFZUACNbZ9NKFuLTxtXClntKSBK8ASCZUiu2Lrwl6GxEVQKvbuBdOA/XO9cWMt50Dtykd+M1/AQEAOw==">, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhGQAbAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAZABsABwjgAPkJHEhw4L+DCP/1o6fvYMGHAhNKRAjx4cSJFQtelJgxosKNFCGC3Gjx40iOBDeG60AiRYRuGA1uzBcDgAAT6WJ6PElyJ8hNuHryuyjw3j8uAAAgIzr0ZBIEAOYwbfrPD6qDvogdvHcEQFCdTW8oWffvBoBFB8H8aDjlT0KNTZLK7fXPmRRqB3MAcBbSIDxBWYDsacqvWkIYm/r6lBgugB2EKWA6TMnz354IRidTPjkHgKSD/UrybHHBnObNI1mlMP2vIkgpAAC9GWLvNOqJfwT06Kf4NsiOVE8Cr9xaYEAAOw=="> ***id.***); — 
+
+**Niph\`al** ***Perfect*** 3 plural <span class="bdbLangHebrew">‎נִצְדּוּ‎</span> <span class="bdbLangHebrew">‎עָרֵיהֶם‎</span> [[Zeph.3.6|Zeph 3:6]] ***their cities are laid waste.*** 
+
+<span class="bdbLangHebrew">‎צֵדָה‎</span> see  <span class="bdbLangHebrew">‎צֵידָה‎</span>, below II. <span class="bdbLangHebrew">‎צוד‎</span>. <span class="bdbLangHebrew">‎צֵדְנִיֹּת‎</span> see <span class="bdbLangHebrew">‎צִידֹנִי‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.21.13\|21:13]] |
+| 1 Samuel | [[1Sam.24.11\|24:11]] · [[1Sam.24.12\|24:12]] |
+| Daniel | [[Dan.3.14\|3:14]] |
+| Zephaniah | [[Zeph.3.6\|3:6]] |
+

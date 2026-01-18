@@ -1,0 +1,33 @@
+**Isaiah 33:20** 
+<small><sub>**KJV:**</sub></small>
+Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle [that] shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.
+<small><sub>**BSB:**</sub></small>
+Look upon Zion, the city of our appointed feasts. Your eyes will see Jerusalem, a peaceful pasture, a tent that does not wander; its tent pegs will not be pulled up, nor will any of its cords be broken.
+<small><sub>**Literal:**</sub></small>
+see Zion [the] town of appointed feast  our eyes  your they will see Jerusalem a habitation undisturbed a tent [which] not anyone will pack up [which] not anyone will pull out tent pegs  its to  perpetuity and  all ropes  its not they will be torn apart<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.19|<< Isaiah 33:19]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.21|Isaiah 33:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| see  | <span class="ashebrew"><big>חֲזֵ֣ה</big></span><small><sup>[[H2372]]</sup></small> &#8207;| cha.Zeh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  | <span class="ashebrew"><big>צִיּ֔וֹן</big></span><small><sup>[[H6726]]</sup></small> &#8207;| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] town of  | <span class="ashebrew"><big>קִרְיַ֖ת</big></span><small><sup>[[H7151]]</sup></small> &#8207;| kir.Yat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| appointed feast our  | <span class="ashebrew"><big>מֽוֹעֲדֵ֑</big></span><small><sup>[[H4150H]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| mo.'a.De.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes your  | <span class="ashebrew"><big>עֵינֶי</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>ךָ֩</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will see  | <span class="ashebrew"><big>תִרְאֶ֨ינָה</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| tir.'Ei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִַ֜ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a habitation  | <span class="ashebrew"><big>נָוֶ֣ה</big></span><small><sup>[[H5116A]]</sup></small> &#8207;| na.Veh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| undisturbed  | <span class="ashebrew"><big>שַׁאֲנָ֗ן</big></span><small><sup>[[H7600]]</sup></small> &#8207;| sha.'a.Nan<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a tent  | <span class="ashebrew"><big>אֹ֤הֶל</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| 'O.hel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  | <span class="ashebrew"><big>בַּל</big></span><small><sup>[[H1077]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bal-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone will pack up  | <span class="ashebrew"><big>יִצְעָן֙</big></span><small><sup>[[H6813]]</sup></small> &#8207;| yitz.'An<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  | <span class="ashebrew"><big>בַּל</big></span><small><sup>[[H1077]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bal-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone will pull out  | <span class="ashebrew"><big>יִסַּ֤ע</big></span><small><sup>[[H5265]]</sup></small> &#8207;| yi.Sa'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tent pegs its  | <span class="ashebrew"><big>יְתֵֽדֹתָי</big></span><small><sup>[[H3489]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ye.te.do.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to perpetuity  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נֶ֔צַח</big></span><small><sup>[[H5331]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Ne.tzach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ropes its  | <span class="ashebrew"><big>חֲבָלָ֖י</big></span><small><sup>[[H2256M]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| cha.va.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>בַּל</big></span><small><sup>[[H1077]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bal-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be torn apart  | <span class="ashebrew"><big>יִנָּתֵֽקוּ</big></span><small><sup>[[H5423]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yi.na.Te.ku<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.19|<< Isaiah 33:19]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.21|Isaiah 33:21 >>]]</td></tr></table>
+
+

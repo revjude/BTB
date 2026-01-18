@@ -1,0 +1,25 @@
+**Leviticus 26:33** 
+<small><sub>**KJV:**</sub></small>
+And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste.
+<small><sub>**BSB:**</sub></small>
+But I will scatter you among the nations and will draw out a sword after you as your land becomes desolate and your cities are laid waste.
+<small><sub>**Literal:**</sub></small>
+and  \<obj.>  you I will scatter among the  nations and  I will draw after  you a sword and  it will be land  your a desolation and  cities  your they will be a waste place<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.32|<< Leviticus 26:32]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.34|Leviticus 26:34 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.> you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶתְ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9036]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will scatter  | <span class="ashebrew"><big>אֱזָרֶ֣ה</big></span><small><sup>[[H2219]]</sup></small> &#8207;| 'e.za.Reh<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the nations  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גּוֹיִ֔ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will draw  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֲרִיקֹתִ֥י</big></span><small><sup>[[H7324]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ha.ri.ko.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after you  | <span class="ashebrew"><big>אַחֲרֵי</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'a.cha.rei.<small><sup>[[HAcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  | <span class="ashebrew"><big>חָ֑רֶב</big></span><small><sup>[[H2719]]</sup></small> &#8207;| Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיְתָ֤ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hay.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| land your  | <span class="ashebrew"><big>אַרְצְ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'ar.tze.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a desolation  | <span class="ashebrew"><big>שְׁמָמָ֔ה</big></span><small><sup>[[H8077A]]</sup></small> &#8207;| she.ma.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cities your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עָרֵי</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.rei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  | <span class="ashebrew"><big>יִהְי֥וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a waste place  | <span class="ashebrew"><big>חָרְבָּֽה</big></span><small><sup>[[H2723]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| char.Bah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.32|<< Leviticus 26:32]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.34|Leviticus 26:34 >>]]</td></tr></table>
+
+

@@ -1,0 +1,30 @@
+**Exodus 19:3** 
+<small><sub>**KJV:**</sub></small>
+And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel;
+<small><sub>**BSB:**</sub></small>
+Then Moses went up to God, and the LORD called to him from the mountain, “This is what you are to tell the house of Jacob and explain to the sons of Israel:
+<small><sub>**Literal:**</sub></small>
+and  Moses he went up to \<the>  God and  he called to  him Yahweh from the  mountain \<to>  saying thus you will say to  [the] house of Jacob so  you may tell to  [the] people of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.2|<< Exodus 19:2]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.4|Exodus 19:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Moses  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֹשֶׁ֥ה</big></span><small><sup>[[H4872]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he went up  | <span class="ashebrew"><big>עָלָ֖ה</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֑ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he called  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְרָ֨א</big></span><small><sup>[[H7121G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>אֵלָ֤י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the mountain  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הָ֣ר</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹ֔ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֹּ֤ה</big></span><small><sup>[[H3541]]</sup></small> &#8207;| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will say  | <span class="ashebrew"><big>תֹאמַר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| to.Mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] house of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בֵ֣ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֔ב</big></span><small><sup>[[H3290]]</sup></small> &#8207;| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so you may tell  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תַגֵּ֖יד</big></span><small><sup>[[H5046]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ta.Geid<small><sup>[[HVhu2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] people of  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְנֵ֥י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.2|<< Exodus 19:2]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.4|Exodus 19:4 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**Genesis 25:16** 
+<small><sub>**KJV:**</sub></small>
+These [are] the sons of Ishmael, and these [are] their names, by their towns, and by their castles; twelve princes according to their nations.
+<small><sub>**BSB:**</sub></small>
+These were the sons of Ishmael, and these were their names by their villages and encampments—twelve princes of their tribes.
+<small><sub>**Literal:**</sub></small>
+these they [were] [the] sons of Ishmael and  these [are] names  their by  villages  their and  by  encampments  their two [plus] ten princes to  tribes  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.15|<< Genesis 25:15]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.17|Genesis 25:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| these  | <span class="ashebrew"><big>אֵ֣לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֞ם</big></span><small><sup>[[H1992]]</sup></small> &#8207;| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] sons of  | <span class="ashebrew"><big>בְּנֵ֤י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ishmael  | <span class="ashebrew"><big>יִשְׁמָעֵאל֙</big></span><small><sup>[[H3458G]]</sup></small> &#8207;| yish.ma.'eL<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and these  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֣לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] names their  | <span class="ashebrew"><big>שְׁמֹתָ֔</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| she.mo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by villages their  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חַצְרֵי</big></span><small><sup>[[H2691B]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> chatz.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and by encampments their  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>טִֽירֹתָ֑</big></span><small><sup>[[H2918]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> ti.ro.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two [plus]  | <span class="ashebrew"><big>שְׁנֵים</big></span><small><sup>[[H8147]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| she.neim-<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עָשָׂ֥ר</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| princes  | <span class="ashebrew"><big>נְשִׂיאִ֖ם</big></span><small><sup>[[H5387A]]</sup></small> &#8207;| ne.si.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to tribes their  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֻמֹּתָֽ</big></span><small><sup>[[H0523]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'u.mo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.15|<< Genesis 25:15]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.17|Genesis 25:17 >>]]</td></tr></table>
+
+

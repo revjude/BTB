@@ -1,0 +1,29 @@
+**Exodus 31:18** 
+<small><sub>**KJV:**</sub></small>
+And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God.
+<small><sub>**BSB:**</sub></small>
+When the LORD had finished speaking with Moses on Mount Sinai, He gave him the two tablets of the Testimony, tablets of stone inscribed by the finger of God.
+<small><sub>**Literal:**</sub></small>
+and  he gave to Moses when  finished  he to  speak with  him on  [the] mountain of Sinai [the] two [the] tablets of the  testimony tablets of stone written by  [the] finger of God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.17|<< Exodus 31:17]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.1|Exodus 32:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he gave  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתֵּ֣ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  | <span class="ashebrew"><big>מֹשֶׁ֗ה</big></span><small><sup>[[H4872]]</sup></small> &#8207;| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when finished he  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כַלֹּת</big></span><small><sup>[[H3615G]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9043]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> kha.lo.T<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to speak  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דַבֵּ֤ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  | <span class="ashebrew"><big>אִתּ</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'i.T<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] mountain of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הַ֣ר</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sinai  | <span class="ashebrew"><big>סִינַ֔י</big></span><small><sup>[[H5514G]]</sup></small> &#8207;| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two  | <span class="ashebrew"><big>שְׁנֵ֖י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tablets of  | <span class="ashebrew"><big>לֻחֹ֣ת</big></span><small><sup>[[H3871]]</sup></small> &#8207;| lu.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the testimony  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֵדֻ֑ת</big></span><small><sup>[[H5715]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'e.Dut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tablets of  | <span class="ashebrew"><big>לֻחֹ֣ת</big></span><small><sup>[[H3871]]</sup></small> &#8207;| lu.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stone  | <span class="ashebrew"><big>אֶ֔בֶן</big></span><small><sup>[[H0068G]]</sup></small> &#8207;| 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| written  | <span class="ashebrew"><big>כְּתֻבִ֖ים</big></span><small><sup>[[H3789]]</sup></small> &#8207;| ke.tu.Vim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [the] finger of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶצְבַּ֥ע</big></span><small><sup>[[H0676]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'etz.Ba'<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱלֹהִֽים</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.17|<< Exodus 31:17]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.1|Exodus 32:1 >>]]</td></tr></table>
+
+

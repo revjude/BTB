@@ -1,0 +1,24 @@
+**Isaiah 49:19** 
+<small><sub>**KJV:**</sub></small>
+For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.
+<small><sub>**BSB:**</sub></small>
+For your ruined and desolate places and your ravaged land will now indeed be too small for your people, and those who devoured you will be far away.
+<small><sub>**Literal:**</sub></small>
+for waste places  your and  desolate [places]  your and  [the] land of destruction  your for now you will be [too] cramped for  [the] inhabitant[s] and  they will be far away [those who] swallowed up  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.18|<< Isaiah 49:18]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.20|Isaiah 49:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| waste places your  | <span class="ashebrew"><big>חָרְבֹתַ֙יִ</big></span><small><sup>[[H2723]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9022]]</sup></small> &#8207;| cha.re.vo.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and desolate [places] your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֹׁ֣מְמֹתַ֔יִ</big></span><small><sup>[[H8074G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Sho.me.mo.Ta.yi<small><sup>[[HVqrfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] land of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶ֖רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| destruction your  | <span class="ashebrew"><big>הֲרִֽסֻתֵ֑י</big></span><small><sup>[[H2035]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ha.ri.su.Tei<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  | <span class="ashebrew"><big>עַתָּה֙</big></span><small><sup>[[H6258]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be [too] cramped  | <span class="ashebrew"><big>תֵּצְרִ֣י</big></span><small><sup>[[H3334]]</sup></small> &#8207;| te.tze.Ri<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] inhabitant[s]  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יּוֹשֵׁ֔ב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will be far away  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>רָחֲק֖וּ</big></span><small><sup>[[H7368]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ra.cha.Ku<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] swallowed up you  | <span class="ashebrew"><big>מְבַלְּעָֽיִ</big></span><small><sup>[[H1104]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.va.le.'A.yi<small><sup>[[HVprmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.18|<< Isaiah 49:18]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.20|Isaiah 49:20 >>]]</td></tr></table>
+
+

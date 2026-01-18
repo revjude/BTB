@@ -1,0 +1,5 @@
+###### V-ADP-NSM
+$\quad$ Function=Verb; Tense=Aorist; Voice=Middle Deponent; Form=Participle; Case=Nominative; Number=Singular; Gender=Masculine
+$\quad$ Verb Aorist Middle Deponent Participle Nominative Singular Masculine 
+$\quad$ an ACTION that was happening – done by a male person or thing that is doing something 
+$\qquad$ _"a man that \_has taught\_ gave them wisdom "_

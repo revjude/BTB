@@ -1,0 +1,18 @@
+**Lamentations 3:46** 
+<small><sub>**KJV:**</sub></small>
+All our enemies have opened their mouths against us.
+<small><sub>**BSB:**</sub></small>
+All our enemies open their mouths against us.
+<small><sub>**Literal:**</sub></small>
+they have opened on  us mouth  their all enemies  our<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.45|<< Lamentations 3:45]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.47|Lamentations 3:47 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| they have opened  | <span class="ashebrew"><big>פָּצ֥וּ</big></span><small><sup>[[H6475]]</sup></small> &#8207;| pa.Tzu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on us  | <span class="ashebrew"><big>עָלֵ֛י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth their  | <span class="ashebrew"><big>פִּי</big></span><small><sup>[[H6310G]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| pi.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies our  | <span class="ashebrew"><big>אֹיְבֵֽי</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'o.ye.Vei.<small><sup>[[HVqrmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.45|<< Lamentations 3:45]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.47|Lamentations 3:47 >>]]</td></tr></table>
+
+

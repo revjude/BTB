@@ -1,0 +1,21 @@
+**Proverbs 27:27** 
+<small><sub>**KJV:**</sub></small>
+And [thou shalt have] goats’ milk enough for thy food, for the food of thy household, and [for] the maintenance for thy maidens.
+<small><sub>**BSB:**</sub></small>
+You will have plenty of goats’ milk to feed you—food for your household and nourishment for your maidservants.
+<small><sub>**Literal:**</sub></small>
+and  a sufficiency of [the] milk of goats for  food  your for  [the] food of household  your and  life of  maids  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.26|<< Proverbs 27:26]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.1|Proverbs 28:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and a sufficiency of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דֵ֤י</big></span><small><sup>[[H1767]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Dei<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] milk of  | <span class="ashebrew"><big>חֲלֵ֬ב</big></span><small><sup>[[H2461]]</sup></small> &#8207;| cha.Lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| goats  | <span class="ashebrew"><big>עִזִּ֗ים</big></span><small><sup>[[H5795]]</sup></small> &#8207;| 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for food your  | <span class="ashebrew"><big>לְֽ֭</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לַחְמְ</big></span><small><sup>[[H3899G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| Le.<small><sup>[[HR]]</sup></small> lach.me.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] food of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לֶ֣חֶם</big></span><small><sup>[[H3899G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| household your  | <span class="ashebrew"><big>בֵּיתֶ֑</big></span><small><sup>[[H1004M]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| bei.Te.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and life  | <span class="ashebrew"><big>וְ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חַיִּ֗ים</big></span><small><sup>[[H2416E]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> chai.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of maids your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נַעֲרוֹתֶֽי</big></span><small><sup>[[H5291]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> na.'a.ro.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.26|<< Proverbs 27:26]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.1|Proverbs 28:1 >>]]</td></tr></table>
+
+

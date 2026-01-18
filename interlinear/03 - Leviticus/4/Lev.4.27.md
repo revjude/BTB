@@ -1,0 +1,28 @@
+**Leviticus 4:27** 
+<small><sub>**KJV:**</sub></small>
+And if any one of the common people sin through ignorance, while he doeth [somewhat against] any of the commandments of the LORD [concerning things] which ought not to be done, and be guilty;
+<small><sub>**BSB:**</sub></small>
+And if one of the common people sins unintentionally and does what is prohibited by any of the LORD’s commandments, he incurs guilt.
+<small><sub>**Literal:**</sub></small>
+and  if a person one it will sin by  inadvertence one of  [the] people of the  land when  does  it one of  [the] commandments of Yahweh which not they will be done and  he will be guilty<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.26|<< Leviticus 4:26]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.28|Leviticus 4:28 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and if  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a person  | <span class="ashebrew"><big>נֶ֧פֶשׁ</big></span><small><sup>[[H5315J]]</sup></small> &#8207;| Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אַחַ֛ת</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'a.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will sin  | <span class="ashebrew"><big>תֶּחֱטָ֥א</big></span><small><sup>[[H2398]]</sup></small> &#8207;| te.che.Ta'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by inadvertence  | <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁגָגָ֖ה</big></span><small><sup>[[H7684]]</sup></small> &#8207;| vi<small><sup>[[HR]]</sup></small> sh.ga.Gah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one of [the] people of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עַ֣ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Am<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֑רֶץ</big></span><small><sup>[[H0776H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when does it  | <span class="ashebrew"><big>בַּ֠</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲשֹׂתָ</big></span><small><sup>[[H6213A]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9044]]</sup></small> &#8207;| Ba.<small><sup>[[HR]]</sup></small> 'a.so.ta<small><sup>[[HVqcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אַחַ֨ת</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'a.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] commandments of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּצְוֹ֧ת</big></span><small><sup>[[H4687]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mitz.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֛ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be done  | <span class="ashebrew"><big>תֵעָשֶׂ֖ינָה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| te.'a.Sei.nah<small><sup>[[HVNi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will be guilty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָשֵֽׁם</big></span><small><sup>[[H0816]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Shem<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.26|<< Leviticus 4:26]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.28|Leviticus 4:28 >>]]</td></tr></table>
+
+

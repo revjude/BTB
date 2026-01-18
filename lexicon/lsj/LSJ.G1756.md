@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==ἐνεργής, ἐναργής==</span>-<span class='asgreek'>ής</span></b>, <span class='asgreek'>ές</span>, 
+
+
+ later form of <span class='asgreek'>==ἐνεργής, ἐναργής==ός</span>, <b>active, effective,</b> <span class='asgreek'>μηχανὰς</span> <span class='asgreek'>==ἐνεργής, ἐναργής==εῖς</span> <span class='asgreek'>ποιοῦντες</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 17.44, etc. ">Refs 1st c.BC+</a>]; of medicines, <b>strong,</b> [<a href="javascript:void(0)" title=" POxy. 1088.56 (1st c.AD), 1st c.AD: Dioscorides (Dioscurides) Medicus 5.88, etc.: \_comparative\_ -έστερος">Refs 1st c.AD+</a>] <b>more effective,</b> <span class='asgreek'>πρός</span> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Topica” 105a19 ">Refs 4th c.BC+</a>]: <i>superlative</i> -<span class='asgreek'>έστατος</span>, <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 1.88, compare 1st c.AD: Dioscorides (Dioscurides) Medicus 1.19, 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 291.9. ">Refs 1st c.BC+</a>]
+

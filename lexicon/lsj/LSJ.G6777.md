@@ -1,0 +1,9 @@
+<span class="asgreek">γυρόω</span> <small>***(guroō)***</small> ==**to make a curvature**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==γυρόω==</span>-<span class='asgreek'>όω</span></b>, 
+
+
+ <b>make round,</b> <span class='asgreek'>οὐρανόν</span> [<a href="javascript:void(0)" title=" LXX.Sir.43.12 ">LXX</a>]; <b>bend,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 2.333 ">Refs 2nd c.AD+</a>]; <b>wind,</b> <span class='asgreek'>τρίχα</span> <span class='asgreek'>ἵππου</span> [<a href="javascript:void(0)" title=" “PHolm.” 3.42 (γήρ- Papyrus)">Refs</a>]; <b>bind up,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 4.419; ἐπ᾽ αὐχένι δεσμὰ βραχίοσι γ. of a bride, [prev. work] 159 ">Refs 2nd c.AD+</a>]:—<i>passive</i>, <b>to be bent</b>: hence of the aged, <b>to be weak</b> in body, [<a href="javascript:void(0)" title=" “Comica Adespota” 969. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>plant in a</b> <span class='asgreek'>γῦρος</span>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus 9, 1st c.AD: Philo Judaeus 2.294 ">Refs 4th c.BC+</a>]; <b>make a</b> <span class='asgreek'>γῦρος</span> <b>round</b> a tree,[<a href="javascript:void(0)" title=" [prev. work] 402, “Geoponica” 4.3.1">Refs</a>]:—<i>middle</i>, <b>dig, trench,</b> <span class='asgreek'>βώλακα</span> <span class='asgreek'>γαίης</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Alexipharmaca” 514. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>coil oneself up,</b> of the ichneumon, [<a href="javascript:void(0)" title=" 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 3.440. ">Refs 3rd c.AD+</a>]

@@ -1,0 +1,30 @@
+**Isaiah 16:10** 
+<small><sub>**KJV:**</sub></small>
+And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in [their] presses; I have made [their vintage] shouting to cease.
+<small><sub>**BSB:**</sub></small>
+Joy and gladness are removed from the orchard; no one sings or shouts in the vineyards. No one tramples the grapes in the winepresses; I have put an end to the cheering.
+<small><sub>**Literal:**</sub></small>
+and  it will be removed gladness and  rejoicing from the  orchard and  in the  vineyards not anything will be sung not anything will be shouted wine in the  wine-presses not he will tread the  treader shouting I have made to cease<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.9|<< Isaiah 16:9]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.11|Isaiah 16:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be removed  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נֶאֱסַ֨ף</big></span><small><sup>[[H0622]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ne.'e.Saf<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gladness  | <span class="ashebrew"><big>שִׂמְחָ֤ה</big></span><small><sup>[[H8057]]</sup></small> &#8207;| sim.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and rejoicing  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גִיל֙</big></span><small><sup>[[H1524A]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Gil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the orchard  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כַּרְמֶ֔ל</big></span><small><sup>[[H3759]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> kar.Mel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in the vineyards  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כְּרָמִ֥ים</big></span><small><sup>[[H3754]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> ke.ra.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anything will be sung  | <span class="ashebrew"><big>יְרֻנָּ֖ן</big></span><small><sup>[[H7442B]]</sup></small> &#8207;| ye.ru.Nan<small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anything will be shouted  | <span class="ashebrew"><big>יְרֹעָ֑ע</big></span><small><sup>[[H7321]]</sup></small> &#8207;| ye.ro.'A'<small><sup>[[HVPi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wine  | <span class="ashebrew"><big>יַ֗יִן</big></span><small><sup>[[H3196]]</sup></small> &#8207;| Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the wine-presses  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יְקָבִ֛ים</big></span><small><sup>[[H3342]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> y.ka.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will tread  | <span class="ashebrew"><big>יִדְרֹ֥ךְ</big></span><small><sup>[[H1869]]</sup></small> &#8207;| yid.Rokh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the treader  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דֹּרֵ֖ךְ</big></span><small><sup>[[H1869]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> do.Rekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shouting  | <span class="ashebrew"><big>הֵידָ֥ד</big></span><small><sup>[[H1959]]</sup></small> &#8207;| hei.Dad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have made to cease  | <span class="ashebrew"><big>הִשְׁבַּֽתִּי</big></span><small><sup>[[H7673A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hish.Ba.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.9|<< Isaiah 16:9]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.11|Isaiah 16:11 >>]]</td></tr></table>
+
+

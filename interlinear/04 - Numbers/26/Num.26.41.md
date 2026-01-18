@@ -1,0 +1,23 @@
+**Numbers 26:41** 
+<small><sub>**KJV:**</sub></small>
+These [are] the sons of Benjamin after their families: and they that were numbered of them [were] forty and five thousand and six hundred.
+<small><sub>**BSB:**</sub></small>
+These were the clans of Benjamin, and their registration numbered 45,600.
+<small><sub>**Literal:**</sub></small>
+these [were] [the] descendants of Benjamin to  clans  their and  enrolled [men]  their [were] five and  forty thousand and  six hundred\<s><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.40|<< Numbers 26:40]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.42|Numbers 26:42 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| these  | <span class="ashebrew"><big>אֵ֥לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] descendants of  | <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Benjamin  | <span class="ashebrew"><big>בִנְיָמִ֖ן</big></span><small><sup>[[H1144G]]</sup></small> &#8207;| vin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to clans their  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִשְׁפְּחֹתָ֑</big></span><small><sup>[[H4940]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mish.pe.cho.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and enrolled [men] their  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פְקֻ֣דֵי</big></span><small><sup>[[H6485A]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fe.Ku.dei.<small><sup>[[HVqsmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] five  | <span class="ashebrew"><big>חֲמִשָּׁ֧ה</big></span><small><sup>[[H2568]]</sup></small> &#8207;| cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and forty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַרְבָּעִ֛ים</big></span><small><sup>[[H0705]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  | <span class="ashebrew"><big>אֶ֖לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and six  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֵׁ֥שׁ</big></span><small><sup>[[H8337]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Shesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵאֽוֹת</big></span><small><sup>[[H3967]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.40|<< Numbers 26:40]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.42|Numbers 26:42 >>]]</td></tr></table>
+
+

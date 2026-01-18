@@ -1,0 +1,25 @@
+**Psalms 138:7** 
+<small><sub>**KJV:**</sub></small>
+Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.
+<small><sub>**BSB:**</sub></small>
+If I walk in the midst of trouble, You preserve me from the anger of my foes; You extend Your hand, and Your right hand saves me.
+<small><sub>**Literal:**</sub></small>
+if I will walk in  [the] midst of trouble you preserve alive  me on [the] anger of enemies  my you stretch out hand  your and  it saves  me right [hand]  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.6|<< Psalms 138:6]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.8|Psalms 138:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will walk  | <span class="ashebrew"><big>אֵלֵ֤ךְ</big></span><small><sup>[[H1980I]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'e.Lekh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] midst of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קֶ֥רֶב</big></span><small><sup>[[H7130G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ke.rev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trouble  | <span class="ashebrew"><big>צָרָ֗ה</big></span><small><sup>[[H6869B]]</sup></small> &#8207;| tza.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you preserve alive me  | <span class="ashebrew"><big>תְּחַ֫יֵּ֥</big></span><small><sup>[[H2421]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| te.Chai.Ye.<small><sup>[[HVpi2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַ֤ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] anger of  | <span class="ashebrew"><big>אַ֣ף</big></span><small><sup>[[H0639G]]</sup></small> &#8207;| 'af<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies my  | <span class="ashebrew"><big>אֹ֭יְבַ</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'O.ye.va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you stretch out  | <span class="ashebrew"><big>תִּשְׁלַ֣ח</big></span><small><sup>[[H7971K]]</sup></small> &#8207;| tish.Lach<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand your  | <span class="ashebrew"><big>יָדֶ֑</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ya.De.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it saves me  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ת֖וֹשִׁיעֵ֣</big></span><small><sup>[[H3467]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> To.o.shi.'E.<small><sup>[[HVhu3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| right [hand] your  | <span class="ashebrew"><big>יְמִינֶֽ</big></span><small><sup>[[H3225G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.mi.Ne.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.6|<< Psalms 138:6]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.8|Psalms 138:8 >>]]</td></tr></table>
+
+

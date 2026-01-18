@@ -1,0 +1,24 @@
+**Exodus 5:13** 
+<small><sub>**KJV:**</sub></small>
+And the taskmasters hasted [them], saying, Fulfil your works, [your] daily tasks, as when there was straw.
+<small><sub>**BSB:**</sub></small>
+The taskmasters kept pressing them, saying, “Fulfill your quota each day, just as you did when straw was provided.”
+<small><sub>**Literal:**</sub></small>
+and  the  taskmasters [were] pressing [them] \<to>  saying complete work\<s>  your a matter of a day in  day  its just  as when  was the  straw<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.12|<< Exodus 5:12]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.14|Exodus 5:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the taskmasters  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נֹּגְשִׂ֖ים</big></span><small><sup>[[H5065]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> no.ge.Sim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] pressing [them]  | <span class="ashebrew"><big>אָצִ֣ים</big></span><small><sup>[[H0213]]</sup></small> &#8207;| 'a.Tzim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹ֑ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| complete  | <span class="ashebrew"><big>כַּלּ֤וּ</big></span><small><sup>[[H3615G]]</sup></small> &#8207;| ka.Lu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| work\<s> your  | <span class="ashebrew"><big>מַעֲשֵׂי</big></span><small><sup>[[H4639G]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| ma.'a.sei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a matter of  | <span class="ashebrew"><big>דְּבַר</big></span><small><sup>[[H1697I]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a day  | <span class="ashebrew"><big>י֣וֹם</big></span><small><sup>[[H3117J]]</sup></small> &#8207;| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in day its  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יוֹמ֔</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> yo.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֖ר</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when was  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הְי֥וֹת</big></span><small><sup>[[H1961]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the straw  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>תֶּֽבֶן</big></span><small><sup>[[H8401]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Te.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.12|<< Exodus 5:12]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.14|Exodus 5:14 >>]]</td></tr></table>
+
+

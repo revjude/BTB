@@ -1,0 +1,25 @@
+**Isaiah 54:2** 
+<small><sub>**KJV:**</sub></small>
+Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;
+<small><sub>**BSB:**</sub></small>
+“Enlarge the site of your tent, stretch out the curtains of your dwellings, do not hold back. Lengthen your ropes and drive your stakes in deep.
+<small><sub>**Literal:**</sub></small>
+enlarge [the] place of tent  your and  [the] tent curtains of dwellings  your may people stretch out may not you refrain make long tent cords  your and  tent pegs  your make strong<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.1|<< Isaiah 54:1]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.3|Isaiah 54:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| enlarge  | <span class="ashebrew"><big>הַרְחִ֣יבִי</big></span><small><sup>[[H7337]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| har.Chi.vi<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] place of  | <span class="ashebrew"><big>מְק֣וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| me.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tent your  | <span class="ashebrew"><big>אָהֳלֵ֗</big></span><small><sup>[[H0168G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| 'o.ho.Le<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] tent curtains of  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ירִיע֧וֹת</big></span><small><sup>[[H3407]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> ri.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dwellings your  | <span class="ashebrew"><big>מִשְׁכְּנוֹתַ֛יִ</big></span><small><sup>[[H4908]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| mish.ke.no.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may people stretch out  | <span class="ashebrew"><big>יַטּ֖וּ</big></span><small><sup>[[H5186]]</sup></small> &#8207;| ya.Tu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you refrain  | <span class="ashebrew"><big>תַּחְשֹׂ֑כִי</big></span><small><sup>[[H2820]]</sup></small> &#8207;| tach.So.khi<small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| make long  | <span class="ashebrew"><big>הַאֲרִ֙יכִי֙</big></span><small><sup>[[H0748]]</sup></small> &#8207;| ha.'a.Ri.khi<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tent cords your  | <span class="ashebrew"><big>מֵֽיתָרַ֔יִ</big></span><small><sup>[[H4340]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| mei.ta.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and tent pegs your  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יתֵדֹתַ֖יִ</big></span><small><sup>[[H3489]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> te.do.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| make strong  | <span class="ashebrew"><big>חַזֵּֽקִי</big></span><small><sup>[[H2388G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| cha.Ze.ki<small><sup>[[HVpv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.1|<< Isaiah 54:1]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.3|Isaiah 54:3 >>]]</td></tr></table>
+
+

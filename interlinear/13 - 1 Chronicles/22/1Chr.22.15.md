@@ -1,0 +1,25 @@
+**1 Chronicles 22:15** 
+<small><sub>**KJV:**</sub></small>
+Moreover [there are] workmen with thee in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work.
+<small><sub>**BSB:**</sub></small>
+You also have many workers: stonecutters, masons, carpenters, and men skilled in every kind of work—
+<small><sub>**Literal:**</sub></small>
+and  [are] with  you to  abundance doers of work stone cutters and  craftsmen of stone and  wood and  every skillful [person] in  every work<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.14|<< 1 Chronicles 22:14]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.16|1 Chronicles 22:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [are] with you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עִמְּ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>ךָ֤</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'i.me.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to abundance  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רֹב֙</big></span><small><sup>[[H7230]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| doers of  | <span class="ashebrew"><big>עֹשֵׂ֣י</big></span><small><sup>[[H6213J]]</sup></small> &#8207;| 'o.Sei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| work  | <span class="ashebrew"><big>מְלָאכָ֔ה</big></span><small><sup>[[H4399]]</sup></small> &#8207;| me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stone cutters  | <span class="ashebrew"><big>חֹצְבִ֕ים</big></span><small><sup>[[H2672]]</sup></small> &#8207;| cho.tze.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and craftsmen of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חָרָשֵׁ֥י</big></span><small><sup>[[H2796]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> cha.ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stone  | <span class="ashebrew"><big>אֶ֖בֶן</big></span><small><sup>[[H0068G]]</sup></small> &#8207;| 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wood  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֵ֑ץ</big></span><small><sup>[[H6086K]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'Etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and every  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| skillful [person]  | <span class="ashebrew"><big>חָכָ֖ם</big></span><small><sup>[[H2450]]</sup></small> &#8207;| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in every  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| work  | <span class="ashebrew"><big>מְלָאכָֽה</big></span><small><sup>[[H4399]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.14|<< 1 Chronicles 22:14]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.16|1 Chronicles 22:16 >>]]</td></tr></table>
+
+

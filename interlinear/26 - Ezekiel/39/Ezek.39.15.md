@@ -1,0 +1,30 @@
+**Ezekiel 39:15** 
+<small><sub>**KJV:**</sub></small>
+And the passengers [that] pass through the land, when [any] seeth a man’s bone, then shall he set up a sign by it, till the buriers have buried it in the valley of Hamongog.
+<small><sub>**BSB:**</sub></small>
+As they pass through the land, anyone who sees a human bone will set up a pillar next to it, until the gravediggers have buried it in the Valley of Hamon-gog.
+<small><sub>**Literal:**</sub></small>
+and  they will pass those  [who] pass in the  land and  they will see a bone of a human and  he will build beside  it a marker until they have buried \<obj.>  it those  [who] bury to [the] valley of Hamon- Gog<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.14|<< Ezekiel 39:14]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.16|Ezekiel 39:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will pass  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָבְר֤וּ</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.ve.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| those [who] pass  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֹֽבְרִים֙</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'oe.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the land  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will see  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>רָאָה֙</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ra.'Ah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a bone of  | <span class="ashebrew"><big>עֶ֣צֶם</big></span><small><sup>[[H6106G]]</sup></small> &#8207;| 'E.tzem<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a human  | <span class="ashebrew"><big>אָדָ֔ם</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will build  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>בָנָ֥ה</big></span><small><sup>[[H1129]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> va.Nah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beside it  | <span class="ashebrew"><big>אֶצְל֖</big></span><small><sup>[[H0681]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'etz.L<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a marker  | <span class="ashebrew"><big>צִיּ֑וּן</big></span><small><sup>[[H6725]]</sup></small> &#8207;| tzi.Yun<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַ֣ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have buried  | <span class="ashebrew"><big>קָבְר֤וּ</big></span><small><sup>[[H6912]]</sup></small> &#8207;| ka.ve.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| those [who] bury  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְקַבְּרִ֔ים</big></span><small><sup>[[H6912]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> m.ka.be.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] valley of  | <span class="ashebrew"><big>גֵּ֖יא</big></span><small><sup>[[H1516N]]</sup></small> &#8207;| gei'<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hamon-  | <span class="ashebrew"><big>הֲמ֥וֹן</big></span><small><sup>[[H1996]]</sup></small> &#8207;| ha.Mon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gog  | <span class="ashebrew"><big>גּֽוֹג</big></span><small><sup>[[H1996]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Gog<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.14|<< Ezekiel 39:14]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.16|Ezekiel 39:16 >>]]</td></tr></table>
+
+

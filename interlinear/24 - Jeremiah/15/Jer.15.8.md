@@ -1,0 +1,33 @@
+**Jeremiah 15:8** 
+<small><sub>**KJV:**</sub></small>
+Their widows are increased to me above the sand of the seas: I have brought upon them against the mother of the young men a spoiler at noonday: I have caused [him] to fall upon it suddenly, and terrors upon the city.
+<small><sub>**BSB:**</sub></small>
+I will make their widows more numerous than the sand of the sea. I will bring a destroyer at noon against the mothers of young men. I will suddenly bring upon them anguish and dismay.
+<small><sub>**Literal:**</sub></small>
+they are numerous to \<the>  me widows  its more than  [the] sand of [the] seas I have brought to \<the>  them on a mother of a young man a destroyer at \<the>  noon\<s> I have made fall on  her suddenly anguish and  sudden terror<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.7|<< Jeremiah 15:7]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.9|Jeremiah 15:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| they are numerous  | <span class="ashebrew"><big>עָֽצְמוּ</big></span><small><sup>[[H6105A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.tze.mu-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> me  | <span class="ashebrew"><big>לִ֤</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| widows its  [^2] | <span class="ashebrew"><big>אַלְמְנֹתָי</big></span><small><sup>[[H0490]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;[^3] | 'al.me.no.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| more than [the] sand of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>ח֣וֹל</big></span><small><sup>[[H2344]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> Chol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] seas  | <span class="ashebrew"><big>יַמִּ֔ים</big></span><small><sup>[[H3220G]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have brought  | <span class="ashebrew"><big>הֵבֵ֨אתִי</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| he.Ve.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֥ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mother of  | <span class="ashebrew"><big>אֵ֛ם</big></span><small><sup>[[H0517]]</sup></small> &#8207;| 'em<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a young man  | <span class="ashebrew"><big>בָּח֖וּר</big></span><small><sup>[[H0970]]</sup></small> &#8207;| ba.Chur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a destroyer  | <span class="ashebrew"><big>שֹׁדֵ֣ד</big></span><small><sup>[[H7703]]</sup></small> &#8207;| sho.Ded<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at \<the> noon\<s>  | <span class="ashebrew"><big>בַּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צָּהֳרָ֑יִם</big></span><small><sup>[[H6672A]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> tzo.ho.Ra.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have made fall  | <span class="ashebrew"><big>הִפַּ֤לְתִּי</big></span><small><sup>[[H5307G]]</sup></small> &#8207;| hi.Pal.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on her  | <span class="ashebrew"><big>עָלֶ֙י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ֙</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| suddenly  | <span class="ashebrew"><big>פִּתְאֹ֔ם</big></span><small><sup>[[H6597]]</sup></small> &#8207;| pit.'Om<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anguish  | <span class="ashebrew"><big>עִ֖יר</big></span><small><sup>[[H5892A]]</sup></small> &#8207;| 'ir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sudden terror  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֶהָלֽוֹת</big></span><small><sup>[[H0928]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.ha.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.7|<< Jeremiah 15:7]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.9|Jeremiah 15:9 >>]]</td></tr></table>
+
+[^1]: ==K==: **widow its ** | <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H0490]]</sup></small><span class="ashebrew"><big>אַלְמְנֹת</big></span>  | 'al.me.no.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^2]: ==K==: **widow its ** | <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H0490]]</sup></small><span class="ashebrew"><big>אַלְמְנֹת</big></span>  | 'al.me.no.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>אַלְמְנֹתָו֙</big></span>**
+

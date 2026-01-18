@@ -1,0 +1,30 @@
+**Ezekiel 25:6** 
+<small><sub>**KJV:**</sub></small>
+For thus saith the Lord GOD; Because thou hast clapped [thine] hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;
+<small><sub>**BSB:**</sub></small>
+For this is what the Lord GOD says: ‘Because you clapped your hands and stomped your feet and rejoiced over the land of Israel with a heart full of contempt,
+<small><sub>**Literal:**</sub></small>
+for thus he says [the] Lord Yahweh because clapping  you a hand and  stamping  you with  a foot and  you rejoiced with  all scorn  your in  [the] self concerning [the] land of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.5|<< Ezekiel 25:5]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.7|Ezekiel 25:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֹ֤ה</big></span><small><sup>[[H3541]]</sup></small> &#8207;| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  | <span class="ashebrew"><big>אָמַר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוִ֔ה</big></span><small><sup>[[H3069]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  | <span class="ashebrew"><big>יַ֚עַן</big></span><small><sup>[[H3282]]</sup></small> &#8207;| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clapping you  | <span class="ashebrew"><big>מַחְאֲ</big></span><small><sup>[[H4222]]</sup></small> <span class="ashebrew"><big>ךָ֣</big></span><small><sup>[[H9041]]</sup></small> &#8207;| mach.'a.<small><sup>[[HVqcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a hand  | <span class="ashebrew"><big>יָ֔ד</big></span><small><sup>[[H3027G]]</sup></small> &#8207;| Yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and stamping you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רַקְעֲ</big></span><small><sup>[[H7554]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9041]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> rak.'a.<small><sup>[[HVqcc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with a foot  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רָ֑גֶל</big></span><small><sup>[[H7272]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ra.gel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you rejoiced  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּשְׂמַ֤ח</big></span><small><sup>[[H8055]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tis.Mach<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with all  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| scorn your  | <span class="ashebrew"><big>שָֽׁאטְ</big></span><small><sup>[[H7589]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| sha.te.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] self  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נֶ֔פֶשׁ</big></span><small><sup>[[H5315G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| concerning  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  | <span class="ashebrew"><big>אַדְמַ֖ת</big></span><small><sup>[[H0127G]]</sup></small> &#8207;| 'ad.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.5|<< Ezekiel 25:5]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.7|Ezekiel 25:7 >>]]</td></tr></table>
+
+

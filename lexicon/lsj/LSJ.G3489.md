@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==ναυαγέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>ναυηγ</span>-</b>, <i>perfect</i> <span class='asgreek'>νεναυάγηκα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.236 (-ηγ-), 4th c.BC: Eubulus Comicus 76 ">Refs 5th c.BC+</a>]: (<span class='asgreek'>ναῦς</span>, <span class='asgreek'>ἄγνυμι</span>):—<b>suffer shipwreck</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus [same place], 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 3.1.24, 4th c.BC: Demosthenes Orator 34.10, etc.: \_metaphorically\_, of chariots, [prev. author] 61.29 ">Refs 5th c.BC+</a>]; of an earthen vessel, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Fragmenta - American Journal of Philology” 180 ">Refs 4th c.BC+</a>]; of persons, <span class='asgreek'>ν</span>. <span class='asgreek'>ἐν</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἰδίοις</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus cited in 3rd c.AD(?): Diogenes Laertius 5.55, compare 1st c.BC: Philodemus Philosophus “περὶ κακιῶν ί” p.33 1st c.AD: Josephus Historicus; ἐν τῷ βίῳ 1st c.AD: Cebes Philosophus 24.2; περὶ τὴν πίστιν NT.1Tim.1.19; χὡ μὲν ἐναυάγει γαίης ἔπι “Anthologia Graeca” 5.208 (3rd c.BC: Posidippus Comicus or 3rd c.BC: Asclepiades Epigrammaticus); ναυαγεῖ συμπόσια μὴ τυχόντα παιδαγωγίας ὀρθῆς 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.622b. ">NT+4th c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[1Tim.1.19]]
+</sub></small>

@@ -1,0 +1,31 @@
+**2 Chronicles 11:17** 
+<small><sub>**KJV:**</sub></small>
+So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon.
+<small><sub>**BSB:**</sub></small>
+So they strengthened the kingdom of Judah and supported Rehoboam son of Solomon for three years, because they walked for three years in the way of David and Solomon.
+<small><sub>**Literal:**</sub></small>
+and  they strengthened \<obj.> [the] kingdom of Judah and  they strengthened \<obj.> Rehoboam [the] son of Solomon for  years three for they walked in  [the] way of David and  Solomon for  years three<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.16|<< 2 Chronicles 11:16]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.18|2 Chronicles 11:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they strengthened  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְחַזְּקוּ֙</big></span><small><sup>[[H2388G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.cha.ze.Ku<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kingdom of  | <span class="ashebrew"><big>מַלְכ֣וּת</big></span><small><sup>[[H4438]]</sup></small> &#8207;| mal.Khut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֔ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they strengthened  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְאַמְּצ֛וּ</big></span><small><sup>[[H0553]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.'a.me.Tzu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rehoboam  | <span class="ashebrew"><big>רְחַבְעָ֥ם</big></span><small><sup>[[H7346]]</sup></small> &#8207;| re.chav.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  | <span class="ashebrew"><big>שְׁלֹמֹ֖ה</big></span><small><sup>[[H8010]]</sup></small> &#8207;| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for years  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שָׁנִ֣ים</big></span><small><sup>[[H8141]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שָׁל֑וֹשׁ</big></span><small><sup>[[H7969]]</sup></small> &#8207;| sha.Lo.osh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they walked  | <span class="ashebrew"><big>הָֽלְכ֗וּ</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| ha.le.Khu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] way of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דֶ֧רֶךְ</big></span><small><sup>[[H1870G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֛יד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Solomon  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁלֹמֹ֖ה</big></span><small><sup>[[H8010]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for years  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שָׁנִ֥ים</big></span><small><sup>[[H8141]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שָׁלֽוֹשׁ</big></span><small><sup>[[H7969]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| sha.Lo.osh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.16|<< 2 Chronicles 11:16]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.18|2 Chronicles 11:18 >>]]</td></tr></table>
+
+

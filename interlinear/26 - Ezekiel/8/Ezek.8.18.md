@@ -1,0 +1,29 @@
+**Ezekiel 8:18** 
+<small><sub>**KJV:**</sub></small>
+Therefore will I also deal in fury: mine eye shall not spare, neither will I have pity: and though they cry in mine ears with a loud voice, [yet] will I not hear them.
+<small><sub>**BSB:**</sub></small>
+Therefore I will respond with wrath. I will not look on them with pity, nor will I spare them. Although they shout loudly in My ears, I will not listen to them.”
+<small><sub>**Literal:**</sub></small>
+and  also I I will act in  rage not it will look with compassion eye  my and  not I will show pity and  they will call out in  ears  my a voice great and  not I will hear \<obj.>  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.17|<< Ezekiel 8:17]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.1|Ezekiel 9:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and also  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גַם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִי֙</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will act  | <span class="ashebrew"><big>אֶעֱשֶׂ֣ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'e.'e.Seh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in rage  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֵמָ֔ה</big></span><small><sup>[[H2534]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> che.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will look with compassion  | <span class="ashebrew"><big>תָח֥וֹס</big></span><small><sup>[[H2347]]</sup></small> &#8207;| ta.Chos<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye my  | <span class="ashebrew"><big>עֵינִ֖</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'ei.N<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will show pity  | <span class="ashebrew"><big>אֶחְמֹ֑ל</big></span><small><sup>[[H2550]]</sup></small> &#8207;| 'ech.Mol<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will call out  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>קָרְא֤וּ</big></span><small><sup>[[H7121G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ka.re.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in ears my  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָזְנַ</big></span><small><sup>[[H0241I]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> 'a.ze.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a voice  | <span class="ashebrew"><big>ק֣וֹל</big></span><small><sup>[[H6963A]]</sup></small> &#8207;| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>גָּד֔וֹל</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will hear  | <span class="ashebrew"><big>אֶשְׁמַ֖ע</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| 'esh.Ma'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אוֹתָֽ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.17|<< Ezekiel 8:17]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.1|Ezekiel 9:1 >>]]</td></tr></table>
+
+

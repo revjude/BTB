@@ -1,0 +1,26 @@
+**1 Samuel 17:38** 
+<small><sub>**KJV:**</sub></small>
+And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail.
+<small><sub>**BSB:**</sub></small>
+Then Saul clothed David in his own tunic, put a bronze helmet on his head, and dressed him in armor.
+<small><sub>**Literal:**</sub></small>
+and  he clothed Saul \<obj.> David garments  his and  he put a helmet of bronze on head  his and  he clothed \<obj.>  him body armor<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.37|<< 1 Samuel 17:37]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.39|1 Samuel 17:39 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he clothed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּלְבֵּ֨שׁ</big></span><small><sup>[[H3847]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yal.Besh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  | <span class="ashebrew"><big>שָׁא֤וּל</big></span><small><sup>[[H7586G]]</sup></small> &#8207;| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִד֙</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| garments his  | <span class="ashebrew"><big>מַדָּ֔י</big></span><small><sup>[[H4055]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ma.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he put  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָתַ֛ן</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.Tan<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a helmet of  | <span class="ashebrew"><big>ק֥וֹבַע</big></span><small><sup>[[H6959]]</sup></small> &#8207;| Koa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bronze  | <span class="ashebrew"><big>נְחֹ֖שֶׁת</big></span><small><sup>[[H5178A]]</sup></small> &#8207;| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head his  | <span class="ashebrew"><big>רֹאשׁ֑</big></span><small><sup>[[H7218A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he clothed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּלְבֵּ֥שׁ</big></span><small><sup>[[H3847]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yal.Besh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  | <span class="ashebrew"><big>אֹת֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| body armor  | <span class="ashebrew"><big>שִׁרְיֽוֹן</big></span><small><sup>[[H8302B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| shir.Yon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.37|<< 1 Samuel 17:37]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.39|1 Samuel 17:39 >>]]</td></tr></table>
+
+

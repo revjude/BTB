@@ -1,0 +1,22 @@
+**Song of Solomon 6:2** 
+<small><sub>**KJV:**</sub></small>
+My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.
+<small><sub>**BSB:**</sub></small>
+My beloved has gone down to his garden, to the beds of spices, to pasture his flock in the gardens and to gather lilies.
+<small><sub>**Literal:**</sub></small>
+lover  my he has gone down to  garden  his to  [the] beds of \<the>  spice to  graze in the  gardens and  to  gather lilies<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.1|<< Song of Solomon 6:1]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.3|Song of Solomon 6:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| lover my  | <span class="ashebrew"><big>דּוֹדִ</big></span><small><sup>[[H1730G]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| do.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has gone down  | <span class="ashebrew"><big>יָרַ֣ד</big></span><small><sup>[[H3381]]</sup></small> &#8207;| ya.Rad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to garden his  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>גַנּ֔</big></span><small><sup>[[H1588M]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ga.N<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] beds of  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֲרוּג֖וֹת</big></span><small><sup>[[H6170]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.ru.Got<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> spice  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בֹּ֑שֶׂם</big></span><small><sup>[[H1314]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Bo.sem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to graze  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רְעוֹת֙</big></span><small><sup>[[H7462B]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> r.'Ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the gardens  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גַּנִּ֔ים</big></span><small><sup>[[H1588M]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> ga.Nim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to gather  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לְקֹ֖ט</big></span><small><sup>[[H3950]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> l.Kot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lilies  | <span class="ashebrew"><big>שֽׁוֹשַׁנִּֽים</big></span><small><sup>[[H7799]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Sho.o.sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.1|<< Song of Solomon 6:1]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.3|Song of Solomon 6:3 >>]]</td></tr></table>
+
+

@@ -1,0 +1,24 @@
+**1 Samuel 15:21** 
+<small><sub>**KJV:**</sub></small>
+But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal.
+<small><sub>**BSB:**</sub></small>
+The troops took sheep and cattle from the plunder, the best of the things devoted to destruction, in order to sacrifice them to the LORD your God at Gilgal.”
+<small><sub>**Literal:**</sub></small>
+and  it took the  people from  the  plunder sheep and  cattle [the] choicest of the  object[s] for destruction to  sacrifice [them] to  Yahweh God  your in \<the>  Gilgal<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.20|<< 1 Samuel 15:20]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.22|1 Samuel 15:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it took  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקַּ֨ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֧ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from the plunder  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁלָ֛ל</big></span><small><sup>[[H7998]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sha.Lal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sheep  | <span class="ashebrew"><big>צֹ֥אן</big></span><small><sup>[[H6629G]]</sup></small> &#8207;| tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cattle  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בָקָ֖ר</big></span><small><sup>[[H1241]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] choicest of  | <span class="ashebrew"><big>רֵאשִׁ֣ית</big></span><small><sup>[[H7225H]]</sup></small> &#8207;| re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the object[s] for destruction  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֵ֑רֶם</big></span><small><sup>[[H2764A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Che.rem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to sacrifice [them]  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>זְבֹּ֛חַ</big></span><small><sup>[[H2076]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> z.Bo.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֥ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹהֶ֖י</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> Gilgal  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גִּלְגָּֽל</big></span><small><sup>[[H1537G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> gil.Gal<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.20|<< 1 Samuel 15:20]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.22|1 Samuel 15:22 >>]]</td></tr></table>
+
+

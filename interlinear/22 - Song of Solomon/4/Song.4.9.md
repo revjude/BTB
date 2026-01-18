@@ -1,0 +1,25 @@
+**Song of Solomon 4:9** 
+<small><sub>**KJV:**</sub></small>
+Thou hast ravished my heart, my sister, [my] spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck.
+<small><sub>**BSB:**</sub></small>
+You have captured my heart, my sister, my bride; you have stolen my heart with one glance of your eyes, with one jewel of your neck.
+<small><sub>**Literal:**</sub></small>
+you have stolen heart  my O sister  my bride you have stolen heart  my with  one from  eyes  your with  one necklace from  necklaces  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.8|<< Song of Solomon 4:8]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.10|Song of Solomon 4:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| you have stolen heart my  | <span class="ashebrew"><big>לִבַּבְתִּ֖</big></span><small><sup>[[H3823A]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| li.bav.Ti.<small><sup>[[HVpp2fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O sister my  | <span class="ashebrew"><big>אֲחֹתִ֣</big></span><small><sup>[[H0269]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.cho.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bride  | <span class="ashebrew"><big>כַלָּ֑ה</big></span><small><sup>[[H3618G]]</sup></small> &#8207;| kha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have stolen heart my  | <span class="ashebrew"><big>לִבַּבְתִּ֙י</big></span><small><sup>[[H3823A]]</sup></small> <span class="ashebrew"><big>נִי֙</big></span><small><sup>[[H9030]]</sup></small> &#8207;| li.bav.Ti.<small><sup>[[HVpp2fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with one  [^2] | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַחַ֣ת</big></span><small><sup>[[H0259]]</sup></small> &#8207;[^3] | be.<small><sup>[[HR]]</sup></small> 'a.chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| from eyes your  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עֵינַ֔יִ</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'ei.Na.yi<small><sup>[[HNcfdc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with one  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַחַ֥ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'a.Chad<small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| necklace  | <span class="ashebrew"><big>עֲנָ֖ק</big></span><small><sup>[[H6060B]]</sup></small> &#8207;| 'a.Nak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from necklaces your  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>צַּוְּרֹנָֽיִ</big></span><small><sup>[[H6677B]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> tza.ve.ro.Na.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.8|<< Song of Solomon 4:8]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.10|Song of Solomon 4:10 >>]]</td></tr></table>
+
+[^1]: ==K==: **with one ** | <small><sup>[[H0259]]</sup></small><span class="ashebrew"><big>אַחַד</big></span> <small><sup>[[H9003]]</sup></small><span class="ashebrew"><big>בְּ</big></span>  | be.<small><sup>[[HR]]</sup></small> 'a.chad<small><sup>[[HNcbsc]]</sup></small> 
+[^2]: ==K==: **with one ** | <small><sup>[[H0259]]</sup></small><span class="ashebrew"><big>אַחַד</big></span> <small><sup>[[H9003]]</sup></small><span class="ashebrew"><big>בְּ</big></span>  | be.<small><sup>[[HR]]</sup></small> 'a.chad<small><sup>[[HNcbsc]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>בְּאַחַ֣ד</big></span>**
+

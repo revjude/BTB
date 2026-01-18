@@ -1,0 +1,24 @@
+**Genesis 44:14** 
+<small><sub>**KJV:**</sub></small>
+And Judah and his brethren came to Joseph’s house; for he [was] yet there: and they fell before him on the ground.
+<small><sub>**BSB:**</sub></small>
+When Judah and his brothers arrived at Joseph’s house, he was still there, and they fell to the ground before him.
+<small><sub>**Literal:**</sub></small>
+and  he came Judah and  brothers  his [the] house of  towards Joseph and  he still  he [was] there and  they fell \<to>  before  him [the] ground  towards<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.13|<< Genesis 44:13]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.15|Genesis 44:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבֹ֨א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֤ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and brothers his  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶחָי</big></span><small><sup>[[H0251G]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of towards  | <span class="ashebrew"><big>בֵּ֣יתָ</big></span><small><sup>[[H1004B]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| Bei.ta<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  | <span class="ashebrew"><big>יוֹסֵ֔ף</big></span><small><sup>[[H3130G]]</sup></small> &#8207;| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ה֖וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still he  | <span class="ashebrew"><big>עוֹדֶ֣</big></span><small><sup>[[H5750]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| o.De.<small><sup>[[HAcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] there  | <span class="ashebrew"><big>שָׁ֑ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they fell  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּפְּל֥וּ</big></span><small><sup>[[H5307J]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.pe.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before him  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנָ֖י</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ground towards  | <span class="ashebrew"><big>אָֽרְצָ</big></span><small><sup>[[H0776H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'A.re.tza<small><sup>[[HNcfsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.13|<< Genesis 44:13]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.15|Genesis 44:15 >>]]</td></tr></table>
+
+

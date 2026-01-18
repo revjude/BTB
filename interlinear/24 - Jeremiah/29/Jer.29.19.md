@@ -1,0 +1,33 @@
+**Jeremiah 29:19** 
+<small><sub>**KJV:**</sub></small>
+Because they have not hearkened to my words, saith the LORD, which I sent unto them by my servants the prophets, rising up early and sending [them]; but ye would not hear, saith the LORD.
+<small><sub>**BSB:**</sub></small>
+I will do this because they have not listened to My words, declares the LORD, which I sent to them again and again through My servants the prophets. And neither have you exiles listened, declares the LORD.”
+<small><sub>**Literal:**</sub></small>
+because that not they listened to words  my [the] utterance of Yahweh [those] whom I sent to  them \<obj.> servants  my the  prophets rising early and  sending and  not you listened [the] utterance of Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.18|<< Jeremiah 29:18]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.20|Jeremiah 29:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| because  | <span class="ashebrew"><big>תַּ֛חַת</big></span><small><sup>[[H8478J]]</sup></small> &#8207;| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶֽׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they listened  | <span class="ashebrew"><big>שָׁמְע֥וּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words my  | <span class="ashebrew"><big>דְּבָרַ֖</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| de.va.Ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  | <span class="ashebrew"><big>נְאֻם</big></span><small><sup>[[H5002]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] whom  | <span class="ashebrew"><big>אֲשֶׁר֩</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I sent  | <span class="ashebrew"><big>שָׁלַ֨חְתִּי</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| sha.Lach.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶ֜ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servants my  | <span class="ashebrew"><big>עֲבָדַ֤</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the prophets  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נְּבִאִים֙</big></span><small><sup>[[H5030]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ne.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rising early  | <span class="ashebrew"><big>הַשְׁכֵּ֣ם</big></span><small><sup>[[H7925]]</sup></small> &#8207;| hash.Kem<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sending  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שָׁלֹ֔חַ</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sha.Lo.ach<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you listened  | <span class="ashebrew"><big>שְׁמַעְתֶּ֖ם</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| she.ma'.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  | <span class="ashebrew"><big>נְאֻם</big></span><small><sup>[[H5002]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.18|<< Jeremiah 29:18]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.20|Jeremiah 29:20 >>]]</td></tr></table>
+
+

@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==ἀπειθέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <i>Attic dialect</i> form of <span class='asgreek'>ἀπῐθέω</span> (though even Trag. preferred <span class='asgreek'>ἀπιστέω</span>, which see 11), <b>to be disobedient, refuse compliance,</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1049">Refs 4th c.BC+</a>]; opposed to <span class='asgreek'>πείθομαι</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 271b">Refs 5th c.BC+</a>]: frequently with <i>dative</i>, <b>disobey,</b> <span class='asgreek'>οὐκ</span> <span class='asgreek'>==ἀπειθέω==ήσας</span> <span class='asgreek'>θεῷ</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Orestes” 31; ἀ. ἅμα νόμῳ καὶ τῷ θεῷ 5th-6th c.BC: Plato Philosophus “Leges” 741d, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>μεγάλα</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τινί</span> <b>in</b> great matters, [<a href="javascript:void(0)" title=" [prev. author] “R.” 538b">Refs</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>ταῖς</span> <span class='asgreek'>ἐνεχυρασίαις</span> <b>not to abide by</b> them, [<a href="javascript:void(0)" title=" [prev. author] “Lg.” 949d: later with \_genitive\_, ψαφίσματος “GDI” 3705.111 (from Cos)">Refs</a>]; <span class='asgreek'>ἐντολῶν</span>[<a href="javascript:void(0)" title=" LXX.Josh.5.6. ">LXX</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> of animals, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 7.5.62 ">Refs 5th c.BC+</a>]; of ships, <span class='asgreek'>τοῖς</span> <span class='asgreek'>οἴαξιν</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 13.46. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> of a woman, <b>refuse compliance,</b> [<a href="javascript:void(0)" title=" 5th c.AD: Aristaenetus Rhetor 2.20.">Refs 5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Josh.5.6]]
+</sub></small>

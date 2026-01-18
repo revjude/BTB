@@ -1,0 +1,22 @@
+**Genesis 34:10** 
+<small><sub>**KJV:**</sub></small>
+And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein.
+<small><sub>**BSB:**</sub></small>
+You may settle among us, and the land will be open to you. Live here, move about freely, and acquire your own property.”
+<small><sub>**Literal:**</sub></small>
+and  with  us you will dwell and  the  land it will be \<to>  before  you dwell and  go about in  it and  have possessions in \<the>  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.9|<< Genesis 34:9]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.11|Genesis 34:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and with us  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִתָּ֖</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'i.Ta.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will dwell  | <span class="ashebrew"><big>תֵּשֵׁ֑בוּ</big></span><small><sup>[[H3427]]</sup></small> &#8207;| te.She.vu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the land  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֙רֶץ֙</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  | <span class="ashebrew"><big>תִּהְיֶ֣ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before you  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵי</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dwell  | <span class="ashebrew"><big>שְׁבוּ֙</big></span><small><sup>[[H3427]]</sup></small> &#8207;| she.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and go about in it  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>סְחָר֔וּ</big></span><small><sup>[[H5503]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> se.cha.Ru.<small><sup>[[HVqv2mp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and have possessions  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הֵֽאָחֲז֖וּ</big></span><small><sup>[[H0270]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> he.'a.cha.Zu<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> it  | <span class="ashebrew"><big>בָּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ba<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.9|<< Genesis 34:9]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.11|Genesis 34:11 >>]]</td></tr></table>
+
+

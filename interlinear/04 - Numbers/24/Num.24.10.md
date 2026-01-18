@@ -1,0 +1,34 @@
+**Numbers 24:10** 
+<small><sub>**KJV:**</sub></small>
+And Balak’s anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed [them] these three times.
+<small><sub>**BSB:**</sub></small>
+Then Balak’s anger burned against Balaam, and he struck his hands together and said to Balaam, “I summoned you to curse my enemies, but behold, you have persisted in blessing them these three times.
+<small><sub>**Literal:**</sub></small>
+and  it burned [the] anger of Balak on Balaam and  he clapped \<obj.> hands  his and  he said Balak to Balaam to  curse enemies  my I summoned  you and  here! you have blessed actually \<bless> this three times<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.9|<< Numbers 24:9]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.11|Numbers 24:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it burned  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּֽחַר</big></span><small><sup>[[H2734]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.char-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] anger of  | <span class="ashebrew"><big>אַ֤ף</big></span><small><sup>[[H0639G]]</sup></small> &#8207;| 'af<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balak  | <span class="ashebrew"><big>בָּלָק֙</big></span><small><sup>[[H1111]]</sup></small> &#8207;| ba.Lak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balaam  | <span class="ashebrew"><big>בִּלְעָ֔ם</big></span><small><sup>[[H1109A]]</sup></small> &#8207;| bil.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he clapped  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּסְפֹּ֖ק</big></span><small><sup>[[H5606A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yis.Pok<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands his  | <span class="ashebrew"><big>כַּפָּ֑י</big></span><small><sup>[[H3709G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ka.Pa<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֨אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balak  | <span class="ashebrew"><big>בָּלָ֜ק</big></span><small><sup>[[H1111]]</sup></small> &#8207;| ba.Lak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balaam  | <span class="ashebrew"><big>בִּלְעָ֗ם</big></span><small><sup>[[H1109A]]</sup></small> &#8207;| bil.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to curse  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>קֹ֤ב</big></span><small><sup>[[H6895]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Ko<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies my  | <span class="ashebrew"><big>אֹֽיְבַ</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I summoned you  | <span class="ashebrew"><big>קְרָאתִ֔י</big></span><small><sup>[[H7121G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ke.ra.Ti.<small><sup>[[HVqp1cs]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and here!  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנֵּה֙</big></span><small><sup>[[H2009]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have blessed  | <span class="ashebrew"><big>בֵּרַ֣כְתָּ</big></span><small><sup>[[H1288]]</sup></small> &#8207;| be.Rakh.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| actually \<bless>  | <span class="ashebrew"><big>בָרֵ֔ךְ</big></span><small><sup>[[H1288]]</sup></small> &#8207;| va.Rekh<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֶ֖ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שָׁלֹ֥שׁ</big></span><small><sup>[[H7969]]</sup></small> &#8207;| sha.Losh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| times  | <span class="ashebrew"><big>פְּעָמִֽים</big></span><small><sup>[[H6471]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| pe.'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.9|<< Numbers 24:9]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.11|Numbers 24:11 >>]]</td></tr></table>
+
+

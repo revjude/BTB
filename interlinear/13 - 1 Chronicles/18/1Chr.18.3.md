@@ -1,0 +1,25 @@
+**1 Chronicles 18:3** 
+<small><sub>**KJV:**</sub></small>
+And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates.
+<small><sub>**BSB:**</sub></small>
+As far as Hamath, David also defeated King Hadadezer of Zobah, who had marched out to establish his dominion along the Euphrates River.
+<small><sub>**Literal:**</sub></small>
+and  he struck down David \<obj.> Hadadezer [the] king of Zobah Hamath  towards when  went  he to  establish monument  his at  [the] river of Euphrates<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.2|<< 1 Chronicles 18:2]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.4|1 Chronicles 18:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he struck down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֥ךְ</big></span><small><sup>[[H5221]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yakh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֛יד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hadadezer  | <span class="ashebrew"><big>הֲדַדְעֶ֥זֶר</big></span><small><sup>[[H1928]]</sup></small> &#8207;| ha.dad.'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zobah  | <span class="ashebrew"><big>צוֹבָ֖ה</big></span><small><sup>[[H6678H]]</sup></small> &#8207;| tzo.Vah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hamath towards  | <span class="ashebrew"><big>חֲמָ֑תָ</big></span><small><sup>[[H2574H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| cha.Ma.ta<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when went he  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לֶכְתּ֕</big></span><small><sup>[[H1980G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> lekh.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to establish  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַצִּ֥יב</big></span><small><sup>[[H5324]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Tziv<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| monument his  | <span class="ashebrew"><big>יָד֖</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at [the] river of  | <span class="ashebrew"><big>בִּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נְהַר</big></span><small><sup>[[H5104H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> n.har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Euphrates  | <span class="ashebrew"><big>פְּרָֽת</big></span><small><sup>[[H6578]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| pe.Rat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.2|<< 1 Chronicles 18:2]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.4|1 Chronicles 18:4 >>]]</td></tr></table>
+
+

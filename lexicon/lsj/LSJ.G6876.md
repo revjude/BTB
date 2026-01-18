@@ -1,0 +1,14 @@
+<span class="asgreek">διασκεδάννυμι</span> <small>***(diaskedannumi)***</small> ==**to disperse**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==διασκεδάννυμι==</span>-<span class='asgreek'>άννῡμι</span></b>, 
+
+
+ <i>Attic dialect</i> <i>future</i> <b>-<span class='asgreek'>σκεδῶ</span></b>[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 287, 5th-6th c.BC: Aristophanes Comicus “Vespae” 229, etc.">Refs 5th c.BC+</a>]:— <b>scatter abroad, scatter to the winds,</b> <span class='asgreek'>δούρατα</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 5.370; τῷ κέ τοι ἀγλαΐας γε ==διασκεδάννυμι==άσειεν 17.244; γῆν ἐκείνων καὶ νόμους ==διασκεδάννυμι==ῶν 5th c.BC: Sophocles Tragicus [same place]; τὰ νῦν ξύμφωνα δεξιώματα δόρει ==διασκεδάννυμι==ῶσιν [prev. author] “OC” 620; ==διασκεδάννυμι==ᾶτε τὸ προσὸν νῦν νέφος 4th c.BC: Anaxandrides Comicus 58 ">Refs 8th c.BC+</a>]; of the wind, <span class='asgreek'>διεσκέδασεν</span> <span class='asgreek'>αὐτὰ</span> (i.e. <span class='asgreek'>ναυάγια</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>νεκροὺς</span>) <span class='asgreek'>πανταχῇ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.54: \_metaphorically\_, “BGU” 1253.12 (2nd c.BC)">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 4th c.AD: Eusebius Myndius Philosophus 63. ">Refs 4th c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus, τὸν στρατὸν διεσκέδασε">Refs 5th c.BC+</a>] <b>disbanded</b> it, [<a href="javascript:void(0)" title=" 1.77, compare 79 ">Refs</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 1.63, 5.15, 5th c.BC: Thucydides Historicus 3.98, 2nd-3rd c.AD: Dio Cassius Historicus 47.38; δ. κατ᾽ ἑωυτοὺς ἕκαστοι 5th c.BC: Herodotus Historicus 8.57 ">Refs 5th c.BC+</a>] (but also of an enemy, <b>scatter,</b> [<a href="javascript:void(0)" title=" 8.68.β). ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>disperse</b> the soul, when it leaves the body, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 77e, compare 70a, 78b. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> in <i>passive</i>, of reports, <b>to be spread abroad,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 7.6.9. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>reject,</b> <span class='asgreek'>βουλήν</span> [<a href="javascript:void(0)" title=" LXX.1Kgs.12.24. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Kgs.12.24]]
+</sub></small>

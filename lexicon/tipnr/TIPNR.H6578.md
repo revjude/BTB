@@ -1,0 +1,29 @@
+<small>*Euphrates • Major river in ancient Near East; boundary of Promised Land*</small>
+
+The <span class='tipnrhighlight'>Euphrates</span>, a major river in the ancient Near East, often served as a boundary marker for the Promised Land and was the site of significant events in biblical history.
+- A location first mentioned at [[Gen.2.14|Gen.2.14]]; 
+- referred to as Euphrates<[[H6578]]> \(<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ת</span>\), or Euphrates \(KJV= "channel" <[[H7641G]]> \(<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ב</span>ֹּ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ת</span>\), or River or Euphrates<[[H5104G]]> \(<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ר</span>\), or River<[[H5103G]]> \(Aramiac <span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ר</span>\), or Euphrates<[[G2166]]> \(<span class='tipnrLangGreek'>Εὐφράτης</span>\).
+<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=35.090577,40.427780&zoom=10&maptype=satellite"></iframe>
+
+
+The Euphrates is one of the most significant rivers mentioned in the Bible, playing a crucial role in the geography, history, and prophecy of the ancient Near East. It is often referred to simply as "the River" or "Shibolet" \(meaning "ear of grain"\) in Hebrew. 
+
+In the Garden of Eden narrative, the Euphrates is one of the four rivers that flowed from the garden \([[Gen.2.14|Genesis 2:14]]\). Later, it is mentioned as part of the boundary of the Promised Land, as God promised Abraham that his descendants would inherit the land from the river of Egypt to the Euphrates \([[Gen.15.18|Genesis 15:18]]; Deuteronomy 1:7; 11:24; [[Josh.1.4|Joshua 1:4]]\). 
+
+The Euphrates served as a natural boundary between the Assyrian and Babylonian empires and the kingdoms of Israel and Judah. It was the site of several significant events, such as the battle of Carchemish, where the Babylonians defeated the Egyptians \([[Jer.46.2|Jeremiah 46:2]]\), and the place where Jeremiah hid a linen belt as a symbol of God's judgment on Judah \([[Jer.13.4|Jeremiah 13:4]]-7\). 
+
+In the book of Revelation, the Euphrates is mentioned in connection with the sixth trumpet judgment \([[Rev.9.14|Revelation 9:14]]\) and the sixth bowl judgment \([[Rev.16.12|Revelation 16:12]]\), where the river is dried up to prepare the way for the kings from the east. 
+
+Throughout the Bible, the Euphrates is used as a symbol of the extent of God's promised blessings \(Psalm 72:8\), the reach of Israel's enemies \([[Isa.7.20|Isaiah 7:20]]; 8:7\), and the future restoration of Israel \([[Isa.11.15|Isaiah 11:15]]; 27:12; [[Mic.7.12|Micah 7:12]]; [[Zech.9.10|Zechariah 9:10]]\). 
+
+The Euphrates played a significant role in the history and commerce of the ancient Near East, with many important cities and civilizations situated along its banks, such as Babylon, Ur, and Carchemish. It was a vital source of water for irrigation and transportation, and its fertile floodplains supported agriculture and trade.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Euphrates | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ת</span>](H6578) <small>*Hebrew*</small> | 18x | [[Gen.2.14] ... [Jer.51.63] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Euphrates\*\|reference=Gen.2.14;Gen.15.18;Deu.1.7;Deu.11.24;Jos.1.4;2Ki.23.29;2Ki.24.7;1Ch.5.9;1Ch.18.3;2Ch.35.20;Jer.13.4;Jer.13.5;Jer.13.6;Jer.13.7;Jer.46.2;Jer.46.6;Jer.46.10;Jer.51.63) |
+| Euphrates (KJV= channel | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ב</span>ֹּ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H7641G) <small>*Hebrew*</small> | 1x | [Isa.27.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Euphrates\*\|reference=Isa.27.12) |
+| River | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ר</span>](H5104G) <small>*Hebrew*</small> | 16x | [[Num.22.5] ... [Zec.9.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=River\*\|reference=Num.22.5;Deu.11.24;Jos.24.3;Jos.24.14;Jos.24.15;Ezr.8.36;Neh.2.7;Neh.2.9;Neh.3.7;Psa.72.8;Psa.80.11;Isa.7.20;Isa.8.7;Isa.11.15;Mic.7.12;Zec.9.10) |
+| Euphrates | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ר</span>](H5104G) <small>*Hebrew*</small> | 14x | [[Gen.31.21] ... [Jer.2.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Euphrates\*\|reference=Gen.31.21;Gen.36.37;Exo.23.31;Jos.24.2;2Sa.8.3;2Sa.10.16;1Ki.4.21;1Ki.4.24;1Ki.4.24;1Ki.14.15;1Ch.1.48;1Ch.19.16;2Ch.9.26;Jer.2.18) |
+| River | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ר</span>](H5103G) <small>*Aramaic*</small> | 14x | [[Ezr.4.10] ... [Ezr.7.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beyond\*\|reference=Ezr.4.10;Ezr.4.11;Ezr.4.16;Ezr.4.17;Ezr.4.20;Ezr.5.3;Ezr.5.6;Ezr.5.6;Ezr.6.6;Ezr.6.6;Ezr.6.8;Ezr.6.13;Ezr.7.21;Ezr.7.25) |
+| Euphrates | [<span class='tipnrLangGreek'>Εὐφράτης</span>](G2166) <small>*Greek*</small> | 2x | [[Rev.9.14] & [Rev.16.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Euphrates\*\|reference=Rev.9.14;Rev.16.12) |
+All Strong's for **Euphrates or Shibolet or River**: \[[[H6578]]\] \[[[H7641G]]\] \[[[H5104G]]\] \[[[H5103G]]\] \[[[G2166]]\]

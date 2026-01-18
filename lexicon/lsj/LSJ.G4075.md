@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==πετρώδης==</span>-<span class='asgreek'>ώδης</span></b>, <span class='asgreek'>ες</span>, 
+
+
+ <b>like rock</b> or <b>stone, rocky, stony</b>, <span class='asgreek'>π</span>. <span class='asgreek'>κατῶρυξ</span>, of a grave, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 774, compare 3rd c.AD: Porphyrius Tyrius Philosophus “de Antro Nympharum - Porphyrii Opuscula” 9 ">Refs 5th c.BC+</a>]; of ground, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Aër.” 1; γεηρὰ καὶ ==πετρώδης==ώδη καὶ ἄγρια 5th-6th c.BC: Plato Philosophus “Respublica” 612a; ἐν τοῖς τραχέσι καὶ ==πετρώδης==ώδεσι 4th c.BC: Aristoteles Philosophus “Historia Animalium” 549b14 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" “BMus.Inscription” 3.407.8 (from Priene)">Refs</a>]; <span class='asgreek'>ἄνθρωποι</span> <span class='asgreek'>π</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>δενδρώδεις</span> [<a href="javascript:void(0)" title=" Heraclitus Paradoxographus “de incredibilibus - Mythographi Graeci” 23; π. κεφαλή 3rd c.AD: Philumenus Medicus “de Venenatis Animalibus” 15.4. ">Refs 3rd c.AD+</a>]
+

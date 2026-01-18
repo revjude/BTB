@@ -1,0 +1,37 @@
+**Leviticus 17:14** 
+<small><sub>**KJV:**</sub></small>
+For [it is] the life of all flesh; the blood of it [is] for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh [is] the blood thereof: whosoever eateth it shall be cut off.
+<small><sub>**BSB:**</sub></small>
+For the life of all flesh is its blood. Therefore I have told the Israelites, ‘You must not eat the blood of any living thing, because the life of all flesh is its blood; whoever eats it must be cut off.’
+<small><sub>**Literal:**</sub></small>
+for [the] life of all flesh blood  its [is] \<in>  life  its it and  I have said to  [the] people of Israel [the] blood of any flesh not you must eat for [the] life of all flesh [is] blood  its it all [those who] eat  it he will be cut off<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.13|<< Leviticus 17:13]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.15|Leviticus 17:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] life of  | <span class="ashebrew"><big>נֶ֣פֶשׁ</big></span><small><sup>[[H5315H]]</sup></small> &#8207;| Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flesh  | <span class="ashebrew"><big>בָּשָׂ֗ר</big></span><small><sup>[[H1320]]</sup></small> &#8207;| ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood its  | <span class="ashebrew"><big>דָּמ֣</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| da.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] \<in> life its  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נַפְשׁ</big></span><small><sup>[[H5315H]]</sup></small> <span class="ashebrew"><big>וֹ֮</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>הוּא֒</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I have said  | <span class="ashebrew"><big>וָֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֹמַר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] people of  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] blood of  | <span class="ashebrew"><big>דַּ֥ם</big></span><small><sup>[[H1818]]</sup></small> &#8207;| dam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flesh  | <span class="ashebrew"><big>בָּשָׂ֖ר</big></span><small><sup>[[H1320]]</sup></small> &#8207;| ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must eat  | <span class="ashebrew"><big>תֹאכֵ֑לוּ</big></span><small><sup>[[H0398]]</sup></small> &#8207;| to.Khe.lu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] life of  | <span class="ashebrew"><big>נֶ֤פֶשׁ</big></span><small><sup>[[H5315H]]</sup></small> &#8207;| Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flesh  | <span class="ashebrew"><big>בָּשָׂר֙</big></span><small><sup>[[H1320]]</sup></small> &#8207;| ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] blood its  | <span class="ashebrew"><big>דָּמ֣</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| da.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>הִ֔וא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] eat it  | <span class="ashebrew"><big>אֹכְלָ֖י</big></span><small><sup>[[H0398]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.khe.La<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be cut off  | <span class="ashebrew"><big>יִכָּרֵֽת</big></span><small><sup>[[H3772I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yi.ka.Ret<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.13|<< Leviticus 17:13]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.15|Leviticus 17:15 >>]]</td></tr></table>
+
+

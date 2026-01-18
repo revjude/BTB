@@ -1,0 +1,27 @@
+**Jeremiah 51:30** 
+<small><sub>**KJV:**</sub></small>
+The mighty men of Babylon have forborn to fight, they have remained in [their] holds: their might hath failed; they became as women: they have burned her dwellingplaces; her bars are broken.
+<small><sub>**BSB:**</sub></small>
+The warriors of Babylon have stopped fighting; they sit in their strongholds. Their strength is exhausted; they have become like women. Babylon’s homes have been set ablaze, the bars of her gates are broken.
+<small><sub>**Literal:**</sub></small>
+they will cease [the] warriors of Babylon to  fight they will remain in the  strongholds it will be dry strength  their they will become \<into>  women they will be set on fire dwellings  its they will be broken bars  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.29|<< Jeremiah 51:29]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.31|Jeremiah 51:31 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| they will cease  | <span class="ashebrew"><big>חָדְלוּ֩</big></span><small><sup>[[H2308]]</sup></small> &#8207;| cha.de.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] warriors of  | <span class="ashebrew"><big>גִבּוֹרֵ֨י</big></span><small><sup>[[H1368]]</sup></small> &#8207;| gi.bo.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="ashebrew"><big>בָבֶ֜ל</big></span><small><sup>[[H0894]]</sup></small> &#8207;| va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to fight  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הִלָּחֵ֗ם</big></span><small><sup>[[H3898A]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hi.la.Chem<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will remain  | <span class="ashebrew"><big>יָֽשְׁבוּ֙</big></span><small><sup>[[H3427]]</sup></small> &#8207;| ya.she.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the strongholds  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְּצָד֔וֹת</big></span><small><sup>[[H4679]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> me.tza.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be dry  | <span class="ashebrew"><big>נָשְׁתָ֥ה</big></span><small><sup>[[H5405]]</sup></small> &#8207;| na.she.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength their  | <span class="ashebrew"><big>גְבוּרָתָ֖</big></span><small><sup>[[H1369]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ge.vu.ra.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will become  | <span class="ashebrew"><big>הָי֣וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> women  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נָשִׁ֑ים</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be set on fire  | <span class="ashebrew"><big>הִצִּ֥יתוּ</big></span><small><sup>[[H3341]]</sup></small> &#8207;| hi.Tzi.tu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dwellings its  | <span class="ashebrew"><big>מִשְׁכְּנֹתֶ֖י</big></span><small><sup>[[H4908]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| mish.ke.no.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be broken  | <span class="ashebrew"><big>נִשְׁבְּר֥וּ</big></span><small><sup>[[H7665]]</sup></small> &#8207;| nish.be.Ru<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bars its  | <span class="ashebrew"><big>בְרִיחֶֽי</big></span><small><sup>[[H1280]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.ri.Chei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.29|<< Jeremiah 51:29]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.31|Jeremiah 51:31 >>]]</td></tr></table>
+
+

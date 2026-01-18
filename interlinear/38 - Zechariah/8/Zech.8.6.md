@@ -1,0 +1,31 @@
+**Zechariah 8:6** 
+<small><sub>**KJV:**</sub></small>
+Thus saith the LORD of hosts; If it be marvellous in the eyes of the remnant of this people in these days, should it also be marvellous in mine eyes? saith the LORD of hosts.
+<small><sub>**BSB:**</sub></small>
+This is what the LORD of Hosts says: “If this is impossible in the eyes of the remnant of this people in these days, should it also be impossible in My eyes?” declares the LORD of Hosts.
+<small><sub>**Literal:**</sub></small>
+thus he says Yahweh of hosts if it will be difficult in  [the] eyes of [the] remnant of the  people \<the>  this in the  days \<the>  those also in  view  my will it be difficult? [the] utterance of Yahweh of hosts<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.5|<< Zechariah 8:5]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.7|Zechariah 8:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| thus  | <span class="ashebrew"><big>כֹּ֤ה</big></span><small><sup>[[H3541]]</sup></small> &#8207;| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  | <span class="ashebrew"><big>אָמַר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  | <span class="ashebrew"><big>צְבָא֔וֹת</big></span><small><sup>[[H6635B]]</sup></small> &#8207;| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be difficult  | <span class="ashebrew"><big>יִפָּלֵ֗א</big></span><small><sup>[[H6381]]</sup></small> &#8207;| yi.pa.Le'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] eyes of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵינֵי֙</big></span><small><sup>[[H5869H]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] remnant of  | <span class="ashebrew"><big>שְׁאֵרִית֙</big></span><small><sup>[[H7611]]</sup></small> &#8207;| she.'e.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֣ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֶּ֔ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the days  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יָּמִ֖ים</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> those  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הֵ֑ם</big></span><small><sup>[[H1992]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>גַּם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in view my  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵינַ</big></span><small><sup>[[H5869H]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will it be difficult?  | <span class="ashebrew"><big>יִפָּלֵ֔א</big></span><small><sup>[[H6381]]</sup></small> &#8207;| yi.pa.Le'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  | <span class="ashebrew"><big>נְאֻ֖ם</big></span><small><sup>[[H5002]]</sup></small> &#8207;| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  | <span class="ashebrew"><big>צְבָאֽוֹת</big></span><small><sup>[[H6635B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.5|<< Zechariah 8:5]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.7|Zechariah 8:7 >>]]</td></tr></table>
+
+

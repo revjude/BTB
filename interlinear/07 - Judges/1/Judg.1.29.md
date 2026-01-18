@@ -1,0 +1,24 @@
+**Judges 1:29** 
+<small><sub>**KJV:**</sub></small>
+Neither did Ephraim drive out the Canaanites that dwelt in Gezer; but the Canaanites dwelt in Gezer among them.
+<small><sub>**BSB:**</sub></small>
+Ephraim also failed to drive out the Canaanites living in Gezer; so the Canaanites continued to dwell among them in Gezer.
+<small><sub>**Literal:**</sub></small>
+and  Ephraim not it dispossessed \<obj.> the  Canaanite[s] who  dwelt in  Gezer and  it dwelt the  Canaanite[s] in  midst  its in  Gezer<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.28|<< Judges 1:28]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.30|Judges 1:30 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Ephraim  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶפְרַ֙יִם֙</big></span><small><sup>[[H0669G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it dispossessed  | <span class="ashebrew"><big>הוֹרִ֔ישׁ</big></span><small><sup>[[H3423H]]</sup></small> &#8207;| ho.Rish<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Canaanite[s]  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כְּנַעֲנִ֖י</big></span><small><sup>[[H3669A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ke.na.'a.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who dwelt  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּוֹשֵׁ֣ב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Gezer  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גָ֑זֶר</big></span><small><sup>[[H1507]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ga.zer<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it dwelt  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֧שֶׁב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Canaanite[s]  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כְּנַעֲנִ֛י</big></span><small><sup>[[H3669A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ke.na.'a.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in midst its  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קִרְבּ֖</big></span><small><sup>[[H7130G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> kir.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Gezer  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גָֽזֶר</big></span><small><sup>[[H1507]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ga.zer<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.28|<< Judges 1:28]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.30|Judges 1:30 >>]]</td></tr></table>
+
+

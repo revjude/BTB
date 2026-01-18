@@ -1,0 +1,28 @@
+**Esther 6:14** 
+<small><sub>**KJV:**</sub></small>
+And while they [were] yet talking with him, came the king’s chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared.
+<small><sub>**BSB:**</sub></small>
+While they were still speaking with Haman, the king’s eunuchs arrived and rushed him to the banquet that Esther had prepared.
+<small><sub>**Literal:**</sub></small>
+still  they [were] speaking with  him and  [the] eunuchs of the  king they arrived and  they made haste to  bring \<obj.> Haman to the  feast which she had prepared Esther<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.13|<< Esther 6:13]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.1|Esther 7:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| still they  | <span class="ashebrew"><big>עוֹדָ</big></span><small><sup>[[H5750]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9048]]</sup></small> &#8207;| o.Da<small><sup>[[HAcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] speaking  | <span class="ashebrew"><big>מְדַבְּרִ֣ים</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| me.da.be.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  | <span class="ashebrew"><big>עִמּ֔</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| i.M<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] eunuchs of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>סָרִיסֵ֥י</big></span><small><sup>[[H5631]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sa.ri.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֖לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they arrived  | <span class="ashebrew"><big>הִגִּ֑יעוּ</big></span><small><sup>[[H5060]]</sup></small> &#8207;| hi.Gi.'u<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they made haste  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּבְהִ֙לוּ֙</big></span><small><sup>[[H0926]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yav.Hi.lu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to bring  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הָבִ֣יא</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Vi'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Haman  | <span class="ashebrew"><big>הָמָ֔ן</big></span><small><sup>[[H2001]]</sup></small> &#8207;| ha.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the feast  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּשְׁתֶּ֖ה</big></span><small><sup>[[H4960]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mish.Teh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she had prepared  | <span class="ashebrew"><big>עָשְׂתָ֥ה</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| 'a.se.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Esther  | <span class="ashebrew"><big>אֶסְתֵּֽר</big></span><small><sup>[[H0635]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.13|<< Esther 6:13]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.1|Esther 7:1 >>]]</td></tr></table>
+
+

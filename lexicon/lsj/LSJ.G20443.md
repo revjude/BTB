@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==ἐπίπληξις==</span></b>, 
+
+
+ <i>Doric dialect</i><b><span class='asgreek'>ἐπίπλαξις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, <b>blame, rebuke</b>, [<a href="javascript:void(0)" title=" 5th-4th c.BC: Timaeus Locrus Philosophus 103e (\_plural\_), 4th c.BC: Demosthenes Orator 61.18 (\_plural\_)">Refs 5th c.BC+</a>]; <span class='asgreek'>τυγχάνειν</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>καθηκούσης</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" “SIG” 630.9 (Delph., 2nd c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἔχειν</span> incur <b>criticism</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 1.177 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span> or <span class='asgreek'>τινα</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ εὐσχημοσύνης” 12, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Solon” 3 (\_plural\_). ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b>. in strong sense, <b>punishment</b>, [<a href="javascript:void(0)" title=" LXX.2Mac.7.33, “PSI” 5.542.30 (3rd c.BC), Mitteis “Chr.” 31 iii 14 (2nd c.BC)">LXX+3rd c.BC+</a>]: <i>plural</i>, of <b>plagues</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.100. ">Refs 1st c.AD+</a>]

@@ -1,0 +1,10 @@
+<span class="asgreek">ξίφος</span> <small>***(xiphos)***</small> ==**a  knife-blade**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==ξίφος==</span></b> [<span class='asgreek'>ῐ</span>], 
+
+
+ <i>Aeolic dialect</i> <b><span class='asgreek'>σκίφος</span></b> (which see), <span class='asgreek'>εος</span>, <span class='asgreek'>τό</span>, <b>sword,</b> <span class='asgreek'>ξ</span>. <span class='asgreek'>μέγα</span>, <span class='asgreek'>ὀξύ</span>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 1.194, 4.530, etc., compare 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 863, 5th c.BC: Herodotus Historicus 3.64, 5th-6th c.BC: Xenophon Historicus “Anabasis” 2.2.9, etc.; ξ. ἄμφηκες 8th c.BC: Ilias Homerus Epicus “Illiad” 21.118, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 16.80; ξ. ἀργυρόηλον χάλκεον 8th c.BC: Ilias Homerus Epicus “Illiad” 19.372; ξ. σὺν κολεῷ.. καὶ ἐϋτμήτῳ τελαμῶνι 7.303: used by 8th c.BC: Homerus Epicus as equivalent of ἄορ and φάσγανον, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 11.48 (compare 24, 82), 10.294 (compare 321) ">Refs 8th c.BC+</a>]; compare <span class='asgreek'>μάχαιρα</span>. 
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>power of life and death,</b> Latin <i>jus gladii,</i> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 4.42. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>sword-shaped bone</b> in the cuttle-fish (<span class='asgreek'>τευθίς</span>), [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 524b24, “PA” 654a21, 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 3.558 ">Refs 4th c.BC+</a>]; also in the <span class='asgreek'>ξιφίας</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 325. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ξιφίον</span>}, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 7.13.1. ">Refs 4th c.BC+</a>]

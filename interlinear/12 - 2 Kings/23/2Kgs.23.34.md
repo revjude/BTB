@@ -1,0 +1,34 @@
+**2 Kings 23:34** 
+<small><sub>**KJV:**</sub></small>
+And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
+<small><sub>**BSB:**</sub></small>
+Then Pharaoh Neco made Eliakim son of Josiah king in place of his father Josiah, and he changed Eliakim’s name to Jehoiakim. But Neco took Jehoahaz and carried him off to Egypt, where he died.
+<small><sub>**Literal:**</sub></small>
+and  he made king Pharaoh Necho \<obj.> Eliakim [the] son of Josiah in place of Josiah father  his and  he changed \<obj.> name  his Jehoiakim and  \<obj.> Jehoahaz he took and  he came Egypt and  he died there<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.33|<< 2 Kings 23:33]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.35|2 Kings 23:35 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he made king  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּמְלֵךְ֩</big></span><small><sup>[[H4427A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yam.leKh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹ֨ה</big></span><small><sup>[[H6547Q]]</sup></small> &#8207;| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Necho  | <span class="ashebrew"><big>נְכֹ֜ה</big></span><small><sup>[[H5224H]]</sup></small> &#8207;| ne.Khoh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliakim  | <span class="ashebrew"><big>אֶלְיָקִ֣ים</big></span><small><sup>[[H0471I]]</sup></small> &#8207;| 'el.ya.Kim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Josiah  | <span class="ashebrew"><big>יֹאשִׁיָּ֗הוּ</big></span><small><sup>[[H2977G]]</sup></small> &#8207;| yo.shi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of  | <span class="ashebrew"><big>תַּ֚חַת</big></span><small><sup>[[H8478H]]</sup></small> &#8207;| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Josiah  | <span class="ashebrew"><big>יֹאשִׁיָּ֣הוּ</big></span><small><sup>[[H2977G]]</sup></small> &#8207;| yo.shi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  | <span class="ashebrew"><big>אָבִ֔י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he changed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּסֵּ֥ב</big></span><small><sup>[[H5437K]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Sev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  | <span class="ashebrew"><big>שְׁמ֖</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehoiakim  | <span class="ashebrew"><big>יְהוֹיָקִ֑ים</big></span><small><sup>[[H3079]]</sup></small> &#8207;| ye.ho.ya.Kim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehoahaz  | <span class="ashebrew"><big>יְהוֹאָחָ֣ז</big></span><small><sup>[[H3059H]]</sup></small> &#8207;| ye.ho.'a.Chaz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he took  | <span class="ashebrew"><big>לָקָ֔ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| la.Kach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבֹ֥א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרַ֖יִם</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he died  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֥מָת</big></span><small><sup>[[H4191]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָֽׁם</big></span><small><sup>[[H8033G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.33|<< 2 Kings 23:33]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.35|2 Kings 23:35 >>]]</td></tr></table>
+
+

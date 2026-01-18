@@ -1,0 +1,24 @@
+**1 Samuel 31:3** 
+<small><sub>**KJV:**</sub></small>
+And the battle went sore against Saul, and the archers hit him; and he was sore wounded of the archers.
+<small><sub>**BSB:**</sub></small>
+When the battle intensified against Saul, the archers overtook him and wounded him critically.
+<small><sub>**Literal:**</sub></small>
+and  it was heavy the  battle against Saul and  they found  him the  archers men with the  bow and  he was in severe pain exceedingly from  the  archers<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.2|<< 1 Samuel 31:2]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.4|1 Samuel 31:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was heavy  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּכְבַּ֤ד</big></span><small><sup>[[H3513H]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tikh.Bad<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the battle  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּלְחָמָה֙</big></span><small><sup>[[H4421]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  | <span class="ashebrew"><big>שָׁא֔וּל</big></span><small><sup>[[H7586G]]</sup></small> &#8207;| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they found him  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּמְצָאֻ֥</big></span><small><sup>[[H4672]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yim.tza.'U.<small><sup>[[HVqw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the archers  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מּוֹרִ֖ים</big></span><small><sup>[[H3384A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mo.Rim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men  | <span class="ashebrew"><big>אֲנָשִׁ֣ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with the bow  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קָּ֑שֶׁת</big></span><small><sup>[[H7198]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Ka.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was in severe pain  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֥חֶל</big></span><small><sup>[[H2342I]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.chel<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  | <span class="ashebrew"><big>מְאֹ֖ד</big></span><small><sup>[[H3966]]</sup></small> &#8207;| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from the archers  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מּוֹרִֽים</big></span><small><sup>[[H3384A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> mo.Rim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.2|<< 1 Samuel 31:2]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.4|1 Samuel 31:4 >>]]</td></tr></table>
+
+

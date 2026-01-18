@@ -1,0 +1,27 @@
+**Jeremiah 51:31** 
+<small><sub>**KJV:**</sub></small>
+One post shall run to meet another, and one messenger to meet another, to shew the king of Babylon that his city is taken at [one] end,
+<small><sub>**BSB:**</sub></small>
+One courier races to meet another, and messenger follows messenger, to announce to the king of Babylon that his city has been captured from end to end.
+<small><sub>**Literal:**</sub></small>
+a runner to  meet a runner he will run and  a messenger to  meet a messenger to  tell to  [the] king of Babylon that it has been captured city  his from  [the] end<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.30|<< Jeremiah 51:30]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.32|Jeremiah 51:32 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| a runner  | <span class="ashebrew"><big>רָ֤ץ</big></span><small><sup>[[H7323G]]</sup></small> &#8207;| ratz<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to meet  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>קְרַאת</big></span><small><sup>[[H7122G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> k.rat-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a runner  | <span class="ashebrew"><big>רָץ֙</big></span><small><sup>[[H7323G]]</sup></small> &#8207;| ratz<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will run  | <span class="ashebrew"><big>יָר֔וּץ</big></span><small><sup>[[H7323G]]</sup></small> &#8207;| ya.Rutz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a messenger  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַגִּ֖יד</big></span><small><sup>[[H5046]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.Gid<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to meet  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>קְרַ֣את</big></span><small><sup>[[H7122G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> k.Rat<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a messenger  | <span class="ashebrew"><big>מַגִּ֑יד</big></span><small><sup>[[H5046]]</sup></small> &#8207;| ma.Gid<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to tell  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַגִּיד֙</big></span><small><sup>[[H5046]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Gid<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] king of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֶ֣לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="ashebrew"><big>בָּבֶ֔ל</big></span><small><sup>[[H0894]]</sup></small> &#8207;| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been captured  | <span class="ashebrew"><big>נִלְכְּדָ֥ה</big></span><small><sup>[[H3920]]</sup></small> &#8207;| nil.ke.Dah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| city his  | <span class="ashebrew"><big>עִיר֖</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| i.R<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] end  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>קָּצֶֽה</big></span><small><sup>[[H7097A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ka.Tzeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.30|<< Jeremiah 51:30]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.32|Jeremiah 51:32 >>]]</td></tr></table>
+
+

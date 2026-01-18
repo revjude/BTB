@@ -1,0 +1,28 @@
+**1 Chronicles 9:8** 
+<small><sub>**KJV:**</sub></small>
+And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah;
+<small><sub>**BSB:**</sub></small>
+Ibneiah son of Jeroham; Elah son of Uzzi, the son of Michri; Meshullam son of Shephatiah, the son of Reuel, the son of Ibnijah;
+<small><sub>**Literal:**</sub></small>
+and  Ibneiah [the] son of Jeroham and  Elah [the] son of Uzzi [the] son of Mikri and  Meshullam [the] son of Shephatiah [the] son of Reuel [the] son of Ibnijah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.7|<< 1 Chronicles 9:7]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.9|1 Chronicles 9:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Ibneiah  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יִבְנְיָה֙</big></span><small><sup>[[H2997]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yiv.ne.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeroham  | <span class="ashebrew"><big>יְרֹחָ֔ם</big></span><small><sup>[[H3395I]]</sup></small> &#8207;| ye.ro.Cham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Elah  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵלָ֥ה</big></span><small><sup>[[H0425K]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'e.Lah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Uzzi  | <span class="ashebrew"><big>עֻזִּ֖י</big></span><small><sup>[[H5813J]]</sup></small> &#8207;| 'u.Zi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mikri  | <span class="ashebrew"><big>מִכְרִ֑י</big></span><small><sup>[[H4381]]</sup></small> &#8207;| mikh.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Meshullam  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְשֻׁלָּם֙</big></span><small><sup>[[H4918L]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.shu.Lam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shephatiah  | <span class="ashebrew"><big>שְׁפַטְיָ֔ה</big></span><small><sup>[[H8203H]]</sup></small> &#8207;| she.fat.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Reuel  | <span class="ashebrew"><big>רְעוּאֵ֖ל</big></span><small><sup>[[H7467H]]</sup></small> &#8207;| re.'u.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ibnijah  | <span class="ashebrew"><big>יִבְנִיָּֽה</big></span><small><sup>[[H2998]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yiv.ni.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.7|<< 1 Chronicles 9:7]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.9|1 Chronicles 9:9 >>]]</td></tr></table>
+
+

@@ -1,0 +1,24 @@
+**Judges 18:4** 
+<small><sub>**KJV:**</sub></small>
+And he said unto them, Thus and thus dealeth Micah with me, and hath hired me, and I am his priest.
+<small><sub>**BSB:**</sub></small>
+“Micah has done this and that for me,” he replied, “and he has hired me to be his priest.”
+<small><sub>**Literal:**</sub></small>
+and  he said to  them like  this and  like  this he has done for \<the>  me Micah and  he has hired  me and  I have become of  him \<into>  a priest<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.3|<< Judges 18:3]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.5|Judges 18:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵ</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.le.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like this  | <span class="ashebrew"><big>כָּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>זֹ֣ה</big></span><small><sup>[[H2090]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> Zoh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like this  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>זֶ֔ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HR]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has done  | <span class="ashebrew"><big>עָ֥שָׂה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'A.sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> me  | <span class="ashebrew"><big>לִ֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Micah  | <span class="ashebrew"><big>מִיכָ֑ה</big></span><small><sup>[[H4318G]]</sup></small> &#8207;| mi.Khah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has hired me  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׂכְּרֵ֕</big></span><small><sup>[[H7936B]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yis.ke.Re.<small><sup>[[HVqw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I have become  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֱהִי</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'e.hi-<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of him  | <span class="ashebrew"><big>ל֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a priest  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֹהֵֽן</big></span><small><sup>[[H3548]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> kho.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.3|<< Judges 18:3]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.5|Judges 18:5 >>]]</td></tr></table>
+
+

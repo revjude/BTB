@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==βύσσος==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>flax</b>, and <b>the linen made from it</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 93, 3rd c.BC: Theocritus Poeta Bucolicus 2.73, etc.">Refs 5th c.BC+</a>]; used of <b>perennial flax, Linum angustifolium</b>, grown in Elis, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 6.26.6 ">Refs 2nd c.AD+</a>], and of <b>Linum usitatissimum</b>, ={<span class='asgreek'>λίνον</span> <span class='asgreek'>Ἑβραίων</span>}, [<a href="javascript:void(0)" title=" [prev. author] 5.5.2 ">Refs</a>]; also, in later writers, of <b>Indian cotton, Gossypium herbaceum</b>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 7.76, 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 2.20 ">Refs 2nd c.AD+</a>]; and of <b>silk</b>, <span class='asgreek'>τὰ</span> <span class='asgreek'>Σηρικὰ</span> <span class='asgreek'>ἔκ</span> <span class='asgreek'>τινων</span> <span class='asgreek'>φλοιῶν</span> <span class='asgreek'>ξαινουένης</span> <span class='asgreek'>βύσσου</span> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 15.1.20. ">Refs 1st c.BC+</a>]
+

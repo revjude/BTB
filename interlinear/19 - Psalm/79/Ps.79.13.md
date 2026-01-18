@@ -1,0 +1,24 @@
+**Psalms 79:13** 
+<small><sub>**KJV:**</sub></small>
+So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.
+<small><sub>**BSB:**</sub></small>
+Then we Your people, the sheep of Your pasture, will thank You forever; from generation to generation we will declare Your praise.
+<small><sub>**Literal:**</sub></small>
+and  we people  your and  [the] sheep of pasture  your we will give thanks to  you for  ever to  a generation and  a generation we will recount praise  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.12|<< Psalms 79:12]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.0|Psalms 80:0 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and we  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲנַ֤חְנוּ</big></span><small><sup>[[H0587]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people your  | <span class="ashebrew"><big>עַמְּ</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>ךָ֨</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sheep of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צֹ֥אן</big></span><small><sup>[[H6629G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Tzon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pasture your  | <span class="ashebrew"><big>מַרְעִיתֶ</big></span><small><sup>[[H4830]]</sup></small> <span class="ashebrew"><big>ךָ֮</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mar.'i.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will give thanks  | <span class="ashebrew"><big>נ֤וֹדֶ֥ה</big></span><small><sup>[[H3034]]</sup></small> &#8207;| no.Deh<small><sup>[[HVhi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>לְּ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֗</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ע֫וֹלָ֥ם</big></span><small><sup>[[H5769G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a generation  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דֹ֥ר</big></span><small><sup>[[H1755]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a generation  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דֹ֑ר</big></span><small><sup>[[H1755]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will recount  | <span class="ashebrew"><big>נְ֝סַפֵּ֗ר</big></span><small><sup>[[H5608A]]</sup></small> &#8207;| ne.sa.Per<small><sup>[[HVpi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| praise your  | <span class="ashebrew"><big>תְּהִלָּתֶֽ</big></span><small><sup>[[H8416]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| te.hi.la.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.12|<< Psalms 79:12]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.0|Psalms 80:0 >>]]</td></tr></table>
+
+

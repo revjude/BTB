@@ -1,0 +1,27 @@
+**Amos 8:3** 
+<small><sub>**KJV:**</sub></small>
+And the songs of the temple shall be howlings in that day, saith the Lord GOD: [there shall be] many dead bodies in every place; they shall cast [them] forth with silence.
+<small><sub>**BSB:**</sub></small>
+“In that day,” declares the Lord GOD, “the songs of the temple will turn to wailing. Many will be the corpses, strewn in silence everywhere!”
+<small><sub>**Literal:**</sub></small>
+and  they will wail songs of [the] temple on the  day \<the>  that [the] utterance of [the] Lord Yahweh many the  corpse[s] in  every place someone will throw hush!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.2|<< Amos 8:2]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.4|Amos 8:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will wail  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֵילִ֜ילוּ</big></span><small><sup>[[H3213]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hei.Li.lu<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| songs of  | <span class="ashebrew"><big>שִׁיר֤וֹת</big></span><small><sup>[[H7892A]]</sup></small> &#8207;| shi.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] temple  | <span class="ashebrew"><big>הֵיכָל֙</big></span><small><sup>[[H1964G]]</sup></small> &#8207;| hei.Khal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the day  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּ֣וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ה֔וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  | <span class="ashebrew"><big>נְאֻ֖ם</big></span><small><sup>[[H5002]]</sup></small> &#8207;| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוִ֑ה</big></span><small><sup>[[H3069]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  | <span class="ashebrew"><big>רַ֣ב</big></span><small><sup>[[H7227A]]</sup></small> &#8207;| rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the corpse[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פֶּ֔גֶר</big></span><small><sup>[[H6297]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Pe.ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in every  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| place  | <span class="ashebrew"><big>מָק֖וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone will throw  | <span class="ashebrew"><big>הִשְׁלִ֥יךְ</big></span><small><sup>[[H7993]]</sup></small> &#8207;| hish.Likh<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hush!  | <span class="ashebrew"><big>הָֽס</big></span><small><sup>[[H2013]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| Has<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.2|<< Amos 8:2]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.4|Amos 8:4 >>]]</td></tr></table>
+
+

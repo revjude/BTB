@@ -1,0 +1,22 @@
+**Micah 5:13** (5:12)
+<small><sub>**KJV:**</sub></small>
+Thy graven images also will I cut off, and thy standing images out of the midst of thee; and thou shalt no more worship the work of thine hands.
+<small><sub>**BSB:**</sub></small>
+I will also cut off the carved images and sacred pillars from among you, so that you will no longer bow down to the work of your own hands.
+<small><sub>**Literal:**</sub></small>
+and  I will cut off images  your and  sacred pillars  your from  midst  your and  not you will bow down again to  [the] work of hands  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.12|<< Micah 5:12]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.14|Micah 5:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will cut off  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִכְרַתִּ֧י</big></span><small><sup>[[H3772I]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hikh.ra.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| images your  | <span class="ashebrew"><big>פְסִילֶ֛י</big></span><small><sup>[[H6456]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| fe.si.Lei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sacred pillars your  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַצֵּבוֹתֶ֖י</big></span><small><sup>[[H4676]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.tze.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from midst your  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>קִּרְבֶּ֑</big></span><small><sup>[[H7130G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> kir.Be.<small><sup>[[HNcmsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will bow down  | <span class="ashebrew"><big>תִשְׁתַּחֲוֶ֥ה</big></span><small><sup>[[H7812]]</sup></small> &#8207;| tish.ta.cha.Veh<small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  | <span class="ashebrew"><big>ע֖וֹד</big></span><small><sup>[[H5750]]</sup></small> &#8207;| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] work of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַעֲשֵׂ֥ה</big></span><small><sup>[[H4639G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands your  | <span class="ashebrew"><big>יָדֶֽי</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ya.Dei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.12|<< Micah 5:12]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.14|Micah 5:14 >>]]</td></tr></table>
+
+

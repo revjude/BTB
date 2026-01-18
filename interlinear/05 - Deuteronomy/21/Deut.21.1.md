@@ -1,0 +1,29 @@
+**Deuteronomy 21:1** 
+<small><sub>**KJV:**</sub></small>
+If [one] be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, [and] it be not known who hath slain him:
+<small><sub>**BSB:**</sub></small>
+If one is found slain, lying in a field in the land that the LORD your God is giving you to possess, and it is not known who killed him,
+<small><sub>**Literal:**</sub></small>
+if it will be found [one] slain in the  land which Yahweh God  your [is] about to give to \<the>  you to  take possession of  it lying in the  open country not it is known who? did he strike  him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.20|<< Deuteronomy 20:20]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.2|Deuteronomy 21:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| if  | <span class="ashebrew"><big>כִּי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be found  | <span class="ashebrew"><big>יִמָּצֵ֣א</big></span><small><sup>[[H4672]]</sup></small> &#8207;| yi.ma.Tze'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one] slain  | <span class="ashebrew"><big>חָלָ֗ל</big></span><small><sup>[[H2491A]]</sup></small> &#8207;| cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the land  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֲדָמָה֙</big></span><small><sup>[[H0127G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר֩</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֨ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹהֶ֜י</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] about to give  | <span class="ashebrew"><big>נֹתֵ֤ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to take possession of it  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רִשְׁתָּ֔</big></span><small><sup>[[H3423H]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> rish.Ta<small><sup>[[HVqcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lying  | <span class="ashebrew"><big>נֹפֵ֖ל</big></span><small><sup>[[H5307J]]</sup></small> &#8207;| no.Fel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the open country  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׂדֶ֑ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is known  | <span class="ashebrew"><big>נוֹדַ֖ע</big></span><small><sup>[[H3045]]</sup></small> &#8207;| no.Da'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  | <span class="ashebrew"><big>מִ֥י</big></span><small><sup>[[H4310]]</sup></small> &#8207;| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| did he strike him  | <span class="ashebrew"><big>הִכָּֽה</big></span><small><sup>[[H5221]]</sup></small> <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hi.Ka.<small><sup>[[HVhp3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.20|<< Deuteronomy 20:20]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.2|Deuteronomy 21:2 >>]]</td></tr></table>
+
+

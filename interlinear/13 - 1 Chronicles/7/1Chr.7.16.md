@@ -1,0 +1,27 @@
+**1 Chronicles 7:16** 
+<small><sub>**KJV:**</sub></small>
+And Maachah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother [was] Sheresh; and his sons [were] Ulam and Rakem.
+<small><sub>**BSB:**</sub></small>
+Machir’s wife Maacah gave birth to a son, and she named him Peresh. His brother was named Sheresh, and his sons were Ulam and Rekem.
+<small><sub>**Literal:**</sub></small>
+and  she bore Maacah [the] wife of Makir a son and  she called name  his Peresh and  [the] name of brother  his Sheresh and  sons  his [were] Ulam and  Rekem<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.15|<< 1 Chronicles 7:15]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.17|1 Chronicles 7:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she bore  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֵּ֨לֶד</big></span><small><sup>[[H3205]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Maacah  | <span class="ashebrew"><big>מַעֲכָ֤ה</big></span><small><sup>[[H4601M]]</sup></small> &#8207;| ma.'a.Khah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wife of  | <span class="ashebrew"><big>אֵֽשֶׁת</big></span><small><sup>[[H0802H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'e.shet-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Makir  | <span class="ashebrew"><big>מָכִיר֙</big></span><small><sup>[[H4353G]]</sup></small> &#8207;| ma.Khir<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  | <span class="ashebrew"><big>בֵּ֔ן</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| Ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she called  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּקְרָ֤א</big></span><small><sup>[[H7121H]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tik.Ra'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  | <span class="ashebrew"><big>שְׁמ</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Peresh  | <span class="ashebrew"><big>פֶּ֔רֶשׁ</big></span><small><sup>[[H6570]]</sup></small> &#8207;| Pe.resh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] name of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֵׁ֥ם</big></span><small><sup>[[H8034]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brother his  | <span class="ashebrew"><big>אָחִ֖י</big></span><small><sup>[[H0251G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheresh  | <span class="ashebrew"><big>שָׁ֑רֶשׁ</big></span><small><sup>[[H8329]]</sup></small> &#8207;| Sha.resh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sons his  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בָנָ֖י</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] Ulam  | <span class="ashebrew"><big>אוּלָ֥ם</big></span><small><sup>[[H0198G]]</sup></small> &#8207;| 'u.Lam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Rekem  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רָֽקֶם</big></span><small><sup>[[H7552J]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Ra.kem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.15|<< 1 Chronicles 7:15]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.17|1 Chronicles 7:17 >>]]</td></tr></table>
+
+

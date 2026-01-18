@@ -1,0 +1,33 @@
+**Genesis 42:34** 
+<small><sub>**KJV:**</sub></small>
+And bring your youngest brother unto me: then shall I know that ye [are] no spies, but [that] ye [are] true [men: so] will I deliver you your brother, and ye shall traffick in the land.
+<small><sub>**BSB:**</sub></small>
+But bring your youngest brother back to me so I will know that you are not spies but honest men. Then I will give your brother back to you, and you can trade in the land.’”
+<small><sub>**Literal:**</sub></small>
+and  bring \<obj.> brother  your \<the>  young to  me so  let me know that not [are] spies you that [are] honest you \<obj.> brother  your I will give to \<the>  you and  \<obj.> the  land you will go about in<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.33|<< Genesis 42:33]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.35|Genesis 42:35 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and bring  | <span class="ashebrew"><big>וְ֠</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָבִיאוּ</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| Ve.<small><sup>[[HC]]</sup></small> ha.vi.'u<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brother your  | <span class="ashebrew"><big>אֲחִי</big></span><small><sup>[[H0251G]]</sup></small> <span class="ashebrew"><big>כֶ֣ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'a.chi.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> young  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קָּטֹן֮</big></span><small><sup>[[H6996H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ka.Ton<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלַ</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י֒</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so let me know  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵֽדְעָ֗ה</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'e.de.'Ah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֤א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] spies  | <span class="ashebrew"><big>מְרַגְּלִים֙</big></span><small><sup>[[H7270]]</sup></small> &#8207;| me.ra.ge.Lim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתֶּ֔ם</big></span><small><sup>[[H0859D]]</sup></small> &#8207;| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] honest  | <span class="ashebrew"><big>כֵנִ֖ים</big></span><small><sup>[[H3651A]]</sup></small> &#8207;| khe.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתֶּ֑ם</big></span><small><sup>[[H0859D]]</sup></small> &#8207;| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brother your  | <span class="ashebrew"><big>אֲחִי</big></span><small><sup>[[H0251G]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'a.chi.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will give  | <span class="ashebrew"><big>אֶתֵּ֣ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| 'e.Ten<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֖רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will go about in  | <span class="ashebrew"><big>תִּסְחָֽרוּ</big></span><small><sup>[[H5503]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tis.Cha.ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.33|<< Genesis 42:33]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.35|Genesis 42:35 >>]]</td></tr></table>
+
+

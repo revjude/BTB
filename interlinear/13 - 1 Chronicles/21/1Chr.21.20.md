@@ -1,0 +1,25 @@
+**1 Chronicles 21:20** 
+<small><sub>**KJV:**</sub></small>
+And Ornan turned back, and saw the angel; and his four sons with him hid themselves. Now Ornan was threshing wheat.
+<small><sub>**BSB:**</sub></small>
+Now Ornan was threshing wheat when he turned and saw the angel; and his four sons who were with him hid themselves.
+<small><sub>**Literal:**</sub></small>
+and  he turned Ornan and  he saw \<obj.> the  angel and  [the] four sons  his with  him [were] hiding themselves and  Ornan he threshed wheat\<s><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.19|<< 1 Chronicles 21:19]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.21|1 Chronicles 21:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he turned  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֣שָׁב</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ornan  | <span class="ashebrew"><big>אָרְנָ֗ן</big></span><small><sup>[[H0771]]</sup></small> &#8207;| 'a.re.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he saw  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּרְא֙</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yaR'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the angel  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּלְאָ֔ךְ</big></span><small><sup>[[H4397H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mal.'Akh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] four  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַרְבַּ֧עַת</big></span><small><sup>[[H0702]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ar.Ba.'at<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons his  | <span class="ashebrew"><big>בָּנָ֛י</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ba.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  | <span class="ashebrew"><big>עִמּ֖</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| i.M<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] hiding themselves  | <span class="ashebrew"><big>מִֽתְחַבְּאִ֑ים</big></span><small><sup>[[H2244]]</sup></small> &#8207;| mit.cha.be.'Im<small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ornan  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אָרְנָ֖ן</big></span><small><sup>[[H0771]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.re.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he threshed  | <span class="ashebrew"><big>דָּ֥שׁ</big></span><small><sup>[[H1758]]</sup></small> &#8207;| dash<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wheat\<s>  | <span class="ashebrew"><big>חִטִּֽים</big></span><small><sup>[[H2406]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| chi.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.19|<< 1 Chronicles 21:19]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.21|1 Chronicles 21:21 >>]]</td></tr></table>
+
+

@@ -1,0 +1,34 @@
+**Numbers 7:88** 
+<small><sub>**KJV:**</sub></small>
+And all the oxen for the sacrifice of the peace offerings [were] twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This [was] the dedication of the altar, after that it was anointed.
+<small><sub>**BSB:**</sub></small>
+All the livestock sacrificed for the peace offering totaled twenty-four bulls, sixty rams, sixty male goats, and sixty male lambs a year old. This was the dedication offering for the altar after it was anointed.
+<small><sub>**Literal:**</sub></small>
+and  all [the] cattle of [the] sacrifice of the  peace offerings [was] twenty and  four young bulls rams sixty goats sixty lambs sons of a year sixty this [was] [the] dedication of the  altar after was anointed \<obj.>  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.87|<< Numbers 7:87]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.89|Numbers 7:89 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹ֞ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] cattle of  | <span class="ashebrew"><big>בְּקַ֣ר</big></span><small><sup>[[H1241]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| be.Kar<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sacrifice of  | <span class="ashebrew"><big>זֶ֣בַח</big></span><small><sup>[[H2077]]</sup></small> &#8207;| Ze.vach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the peace offerings  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁלָמִ֗ים</big></span><small><sup>[[H8002]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.la.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] twenty  | <span class="ashebrew"><big>עֶשְׂרִ֣ים</big></span><small><sup>[[H6242]]</sup></small> &#8207;| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and four  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַרְבָּעָה֮</big></span><small><sup>[[H0702]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young bulls  | <span class="ashebrew"><big>פָּרִים֒</big></span><small><sup>[[H6499]]</sup></small> &#8207;| pa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rams  | <span class="ashebrew"><big>אֵילִ֤ם</big></span><small><sup>[[H0352A]]</sup></small> &#8207;| 'ei.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sixty  | <span class="ashebrew"><big>שִׁשִּׁים֙</big></span><small><sup>[[H8346]]</sup></small> &#8207;| shi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| goats  | <span class="ashebrew"><big>עַתֻּדִ֣ים</big></span><small><sup>[[H6260]]</sup></small> &#8207;| 'a.tu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sixty  | <span class="ashebrew"><big>שִׁשִּׁ֔ים</big></span><small><sup>[[H8346]]</sup></small> &#8207;| shi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lambs  | <span class="ashebrew"><big>כְּבָשִׂ֥ים</big></span><small><sup>[[H3532]]</sup></small> &#8207;| ke.va.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons of  | <span class="ashebrew"><big>בְּנֵי</big></span><small><sup>[[H1121H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a year  | <span class="ashebrew"><big>שָׁנָ֖ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sixty  | <span class="ashebrew"><big>שִׁשִּׁ֑ים</big></span><small><sup>[[H8346]]</sup></small> &#8207;| shi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֹ֚את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] [the] dedication of  | <span class="ashebrew"><big>חֲנֻכַּ֣ת</big></span><small><sup>[[H2598]]</sup></small> &#8207;| cha.nu.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the altar  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּזְבֵּ֔חַ</big></span><small><sup>[[H4196]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  | <span class="ashebrew"><big>אַחֲרֵ֖י</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| was anointed  | <span class="ashebrew"><big>הִמָּשַׁ֥ח</big></span><small><sup>[[H4886]]</sup></small> &#8207;| hi.ma.Shach<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹתֽ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.87|<< Numbers 7:87]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.89|Numbers 7:89 >>]]</td></tr></table>
+
+

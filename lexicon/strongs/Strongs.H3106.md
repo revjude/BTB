@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎יוּבַל‎</span></big> **Yûwbal** <small>*(yoo-bawl')*</small> ==**Jubal**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from <span class="ashebrew">‎יָבַל‎</span><sup><small>[[H2986]]</small></sup>; stream</small>
+
+$\quad$ Jubal.
+- § Jubal = *"stream"*
+- ***Jubal***, an antediluvian
+
+**1)** the son of Lamech by Adah and the inventor of musical instruments

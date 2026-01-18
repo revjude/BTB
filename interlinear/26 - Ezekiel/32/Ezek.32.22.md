@@ -1,0 +1,23 @@
+**Ezekiel 32:22** 
+<small><sub>**KJV:**</sub></small>
+Asshur [is] there and all her company: his graves [are] about him: all of them slain, fallen by the sword:
+<small><sub>**BSB:**</sub></small>
+Assyria is there with her whole company; her graves are all around her. All of them are slain, fallen by the sword.
+<small><sub>**Literal:**</sub></small>
+[is] there Assyria and  all company  its [are] around  it graves  its all of  them [are] slain those  [who] have fallen by the  sword<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.21|<< Ezekiel 32:21]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.23|Ezekiel 32:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [is] there  | <span class="ashebrew"><big>שָׁ֤ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Assyria  | <span class="ashebrew"><big>אַשּׁוּר֙</big></span><small><sup>[[H0804G]]</sup></small> &#8207;| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| company its  | <span class="ashebrew"><big>קְהָלָ֔</big></span><small><sup>[[H6951]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ke.ha.La<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] around it  | <span class="ashebrew"><big>סְבִֽיבוֹתָ֖י</big></span><small><sup>[[H5439G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| se.vi.vo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| graves its  | <span class="ashebrew"><big>קִבְרֹתָ֑י</big></span><small><sup>[[H6913]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| kiv.ro.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  | <span class="ashebrew"><big>כֻּלָּ֣</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] slain  | <span class="ashebrew"><big>חֲלָלִ֔ים</big></span><small><sup>[[H2491A]]</sup></small> &#8207;| cha.la.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| those [who] have fallen  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נֹּפְלִ֖ים</big></span><small><sup>[[H5307G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> no.fe.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by the sword  | <span class="ashebrew"><big>בֶּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חָֽרֶב</big></span><small><sup>[[H2719]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HRd]]</sup></small> Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.21|<< Ezekiel 32:21]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.23|Ezekiel 32:23 >>]]</td></tr></table>
+
+

@@ -1,0 +1,27 @@
+**Judges 11:3** 
+<small><sub>**KJV:**</sub></small>
+Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him.
+<small><sub>**BSB:**</sub></small>
+So Jephthah fled from his brothers and settled in the land of Tob, where worthless men gathered around him and traveled with him.
+<small><sub>**Literal:**</sub></small>
+and  he fled Jephthah [away] from  before brothers  his and  he dwelt in  [the] land of Tob and  they joined themselves to Jephthah men unprincipled and  they went out with  him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.2|<< Judges 11:2]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.4|Judges 11:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he fled  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּבְרַ֤ח</big></span><small><sup>[[H1272]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yiv.Rach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jephthah  | <span class="ashebrew"><big>יִפְתָּח֙</big></span><small><sup>[[H3316H]]</sup></small> &#8207;| yif.Tach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [away] from before  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֣י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brothers his  | <span class="ashebrew"><big>אֶחָ֔י</big></span><small><sup>[[H0251G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he dwelt  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֖שֶׁב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tob  | <span class="ashebrew"><big>ט֑וֹב</big></span><small><sup>[[H2897]]</sup></small> &#8207;| Tov<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they joined themselves  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּֽתְלַקְּט֤וּ</big></span><small><sup>[[H3950]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yit.la.ke.Tu<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jephthah  | <span class="ashebrew"><big>יִפְתָּח֙</big></span><small><sup>[[H3316H]]</sup></small> &#8207;| yif.Tach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men  | <span class="ashebrew"><big>אֲנָשִׁ֣ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unprincipled  | <span class="ashebrew"><big>רֵיקִ֔ים</big></span><small><sup>[[H7386]]</sup></small> &#8207;| rei.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they went out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּצְא֖וּ</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  | <span class="ashebrew"><big>עִמּֽ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.2|<< Judges 11:2]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.4|Judges 11:4 >>]]</td></tr></table>
+
+

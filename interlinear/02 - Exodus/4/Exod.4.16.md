@@ -1,0 +1,27 @@
+**Exodus 4:16** 
+<small><sub>**KJV:**</sub></small>
+And he shall be thy spokesman unto the people: and he shall be, [even] he shall be to thee instead of a mouth, and thou shalt be to him instead of God.
+<small><sub>**BSB:**</sub></small>
+He will speak to the people for you. He will be your spokesman, and it will be as if you were God to him.
+<small><sub>**Literal:**</sub></small>
+and  he will speak he for \<the>  you to the  people and  it will be he he will become of  you \<into>  a mouth and  you you will become of  him \<into>  a god<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.15|<< Exodus 4:15]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.17|Exodus 4:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will speak  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>דִבֶּר</big></span><small><sup>[[H1696G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> di.ber-<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  | <span class="ashebrew"><big>ה֥וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֑ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָ֤יָה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> Ha.yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  | <span class="ashebrew"><big>הוּא֙</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will become  | <span class="ashebrew"><big>יִֽהְיֶה</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| yih.yeh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of you  | <span class="ashebrew"><big>לְּ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֣</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a mouth  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פֶ֔ה</big></span><small><sup>[[H6310G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Peh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַתָּ֖ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will become  | <span class="ashebrew"><big>תִּֽהְיֶה</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| tih.yeh-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of him  | <span class="ashebrew"><big>לּ֥</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a god  | <span class="ashebrew"><big>לֵֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אלֹהִֽים</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.15|<< Exodus 4:15]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.17|Exodus 4:17 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**Daniel 12:6** 
+<small><sub>**KJV:**</sub></small>
+And [one] said to the man clothed in linen, which [was] upon the waters of the river, How long [shall it be to] the end of these wonders?
+<small><sub>**BSB:**</sub></small>
+One of them said to the man dressed in linen, who was above the waters of the river, “How long until the fulfillment of these wonders?”
+<small><sub>**Literal:**</sub></small>
+and  someone said to the  man \<the> clothed of \<the>  linen\<s> who [was] from  above \<to>  [the] water of the  River until when? [will be] [the] end of the  wonders<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.5|<< Daniel 12:5]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.7|Daniel 12:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and someone said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֗אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the man  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אִישׁ֙</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> clothed of  | <span class="ashebrew"><big>לְב֣וּשׁ</big></span><small><sup>[[H3847]]</sup></small> &#8207;| le.Vush<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> linen\<s>  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בַּדִּ֔ים</big></span><small><sup>[[H0906]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ba.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] from above  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מַּ֖עַל</big></span><small><sup>[[H4605]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ma.'al<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> [the] water of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֵימֵ֣י</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mei.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the River  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יְאֹ֑ר</big></span><small><sup>[[H2975H]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> y.'Or<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when?  | <span class="ashebrew"><big>מָתַ֖י</big></span><small><sup>[[H4970]]</sup></small> &#8207;| ma.Tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] [the] end of  | <span class="ashebrew"><big>קֵ֥ץ</big></span><small><sup>[[H7093]]</sup></small> &#8207;| ketz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the wonders  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פְּלָאֽוֹת</big></span><small><sup>[[H6382]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> pe.la.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.5|<< Daniel 12:5]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.7|Daniel 12:7 >>]]</td></tr></table>
+
+

@@ -1,0 +1,28 @@
+**Isaiah 59:9** 
+<small><sub>**KJV:**</sub></small>
+Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, [but] we walk in darkness.
+<small><sub>**BSB:**</sub></small>
+Therefore justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we walk in gloom.
+<small><sub>**Literal:**</sub></small>
+there- -fore it is far justice from  us and  not it reaches  us righteousness we wait eagerly for the  light and  there! darkness for  gleams of light in \<the>  gloom\<s> we walk<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.8|<< Isaiah 59:8]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.10|Isaiah 59:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| there-  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  | <span class="ashebrew"><big>כֵּ֗ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is far  | <span class="ashebrew"><big>רָחַ֤ק</big></span><small><sup>[[H7368]]</sup></small> &#8207;| ra.Chak<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  | <span class="ashebrew"><big>מִשְׁפָּט֙</big></span><small><sup>[[H4941H]]</sup></small> &#8207;| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from us  | <span class="ashebrew"><big>מִמֶּ֔</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| mi.Me.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it reaches us  | <span class="ashebrew"><big>תַשִּׂיגֵ֖</big></span><small><sup>[[H5381]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| ta.si.Ge.<small><sup>[[HVhi3fs]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  | <span class="ashebrew"><big>צְדָקָ֑ה</big></span><small><sup>[[H6666]]</sup></small> &#8207;| tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we wait eagerly  | <span class="ashebrew"><big>נְקַוֶּ֤ה</big></span><small><sup>[[H6960A]]</sup></small> &#8207;| ne.ka.Veh<small><sup>[[HVpi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the light  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אוֹר֙</big></span><small><sup>[[H0216]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'Or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there!  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנֵּה</big></span><small><sup>[[H2009]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| darkness  | <span class="ashebrew"><big>חֹ֔שֶׁךְ</big></span><small><sup>[[H2822]]</sup></small> &#8207;| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for gleams of light  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נְגֹה֖וֹת</big></span><small><sup>[[H5054]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> n.go.Hot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> gloom\<s>  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֲפֵל֥וֹת</big></span><small><sup>[[H0653]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.fe.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we walk  | <span class="ashebrew"><big>נְהַלֵּֽךְ</big></span><small><sup>[[H1980I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ne.ha.Lekh<small><sup>[[HVpi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.8|<< Isaiah 59:8]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.10|Isaiah 59:10 >>]]</td></tr></table>
+
+

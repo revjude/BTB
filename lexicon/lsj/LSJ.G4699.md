@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==σπόγγος==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>sponge</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>πολυτρήτοισι</span> <span class='asgreek'>τραπέζας</span> <span class='asgreek'>νίζον</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 1.111, compare 22.439; σπόγγῳ ἀμφὶ πρόσωπα καὶ ἄμφω χεῖρ᾽ ἀπομόργνυ 8th c.BC: Ilias Homerus Epicus “Illiad” 18.414; ὑγρώσσων σ. ὤλεσεν γραφήν 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1329 ">Refs 8th c.BC+</a>]; used at the bath, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 55, 5th c.BC: Crates Comicus 15.7 ">Refs 5th c.BC+</a>]; for cleaning shoes. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 600 (compare σπογγίζω);compare 4th c.BC: Aristoteles Philosophus “Historia Animalium” 487b9, 588b20, NT.Matt.27.48, etc. ">NT+5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>any spongy substance</b>, <span class='asgreek'>σικυώνης</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Steril.” 221">Refs 5th c.BC+</a>]; <span class='asgreek'>οἱ</span> <span class='asgreek'>σ</span>. the <b>glands</b> in the throat, <b>tonsils</b>, from their <b>spongy</b> nature and liability to swell, [<a href="javascript:void(0)" title=" [prev. author] “Epid.” 4.7, 2nd c.AD: Galenus Medicus 19.140. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>νήριον</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.81">Refs 1st c.AD+</a>]. (<b><span class='asgreek'>σφόγγος</span></b> is found in [<a href="javascript:void(0)" title=" “IG” 11 (2). 144 A 37 (Delos, 4th c.BC), “PSI” 6.558.7 (3rd c.BC), “POxy.” 1384.25 (V 2nd c.AD: Apollonius Dyscolus Grammaticus)">Refs 4th c.BC+</a>]; compare <span class='asgreek'>σπογγιά</span>, <span class='asgreek'>σπογγίον</span>.)
+
+<small><sub>LSJ Scripture Refs: [[Matt.27.48]]
+</sub></small>

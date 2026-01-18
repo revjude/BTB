@@ -1,0 +1,33 @@
+**Exodus 6:23** 
+<small><sub>**KJV:**</sub></small>
+And Aaron took him Elisheba, daughter of Amminadab, sister of Naashon, to wife; and she bare him Nadab, and Abihu, Eleazar, and Ithamar.
+<small><sub>**BSB:**</sub></small>
+And Aaron married Elisheba, the daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar.
+<small><sub>**Literal:**</sub></small>
+and  he took Aaron \<obj.> Elisheba [the] daughter of Amminadab [the] sister of Nahshon for \<the>  himself to  a wife and  she bore to \<the>  him \<obj.> Nadab and  \<obj.> Abihu \<obj.> Eleazar and  \<obj.> Ithamar<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.22|<< Exodus 6:22]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.24|Exodus 6:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he took  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקַּ֨ח</big></span><small><sup>[[H3947I]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aaron  | <span class="ashebrew"><big>אַהֲרֹ֜ן</big></span><small><sup>[[H0175]]</sup></small> &#8207;| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elisheba  | <span class="ashebrew"><big>אֱלִישֶׁ֧בַע</big></span><small><sup>[[H0472]]</sup></small> &#8207;| 'e.li.She.va'<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  | <span class="ashebrew"><big>בַּת</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amminadab  | <span class="ashebrew"><big>עַמִּינָדָ֛ב</big></span><small><sup>[[H5992G]]</sup></small> &#8207;| 'a.mi.na.Dav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sister of  | <span class="ashebrew"><big>אֲח֥וֹת</big></span><small><sup>[[H0269]]</sup></small> &#8207;| 'a.Chot<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nahshon  | <span class="ashebrew"><big>נַחְשׁ֖וֹן</big></span><small><sup>[[H5177]]</sup></small> &#8207;| nach.Shon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> himself  | <span class="ashebrew"><big>ל֣</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a wife  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אִשָּׁ֑ה</big></span><small><sup>[[H0802H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she bore  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֵּ֣לֶד</big></span><small><sup>[[H3205]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  | <span class="ashebrew"><big>ל֗</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nadab  | <span class="ashebrew"><big>נָדָב֙</big></span><small><sup>[[H5070G]]</sup></small> &#8207;| na.Dav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abihu  | <span class="ashebrew"><big>אֲבִיה֔וּא</big></span><small><sup>[[H0030]]</sup></small> &#8207;| 'a.vi.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eleazar  | <span class="ashebrew"><big>אֶלְעָזָ֖ר</big></span><small><sup>[[H0499G]]</sup></small> &#8207;| 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ithamar  | <span class="ashebrew"><big>אִֽיתָמָֽר</big></span><small><sup>[[H0385]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'I.ta.Mar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.22|<< Exodus 6:22]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.24|Exodus 6:24 >>]]</td></tr></table>
+
+

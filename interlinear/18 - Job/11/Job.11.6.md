@@ -1,0 +1,26 @@
+**Job 11:6** 
+<small><sub>**KJV:**</sub></small>
+And that he would shew thee the secrets of wisdom, that [they are] double to that which is! Know therefore that God exacteth of thee [less] than thine iniquity [deserveth].
+<small><sub>**BSB:**</sub></small>
+and disclose to you the secrets of wisdom, for true wisdom has two sides. Know then that God exacts from you less than your iniquity deserves.
+<small><sub>**Literal:**</sub></small>
+and  may he tell to  you [the] secrets of wisdom for double [belongs] to  sound wisdom and  know that he will cause to forget to  you God some of  iniquity  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.5|<< Job 11:5]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.7|Job 11:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and may he tell  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יַגֶּד</big></span><small><sup>[[H5046]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ya.ged-<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֨</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] secrets of  | <span class="ashebrew"><big>תַּֽעֲלֻמ֣וֹת</big></span><small><sup>[[H8587]]</sup></small> &#8207;| ta.'a.lu.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  | <span class="ashebrew"><big>חָכְמָה֮</big></span><small><sup>[[H2451]]</sup></small> &#8207;| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| double  | <span class="ashebrew"><big>כִפְלַ֪יִם</big></span><small><sup>[[H3718]]</sup></small> &#8207;| khif.La.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to sound wisdom  | <span class="ashebrew"><big>לְֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ת֫וּשִׁיָּ֥ה</big></span><small><sup>[[H8454]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Tu.shi.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and know  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דַ֡ע</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Da'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will cause to forget  | <span class="ashebrew"><big>יַשֶּׁ֥ה</big></span><small><sup>[[H5382]]</sup></small> &#8207;| ya.Sheh<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֥</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱ֝ל֗וֹהַ</big></span><small><sup>[[H0433]]</sup></small> &#8207;| 'e.Lo.ha<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| some of iniquity your  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עֲוֹנֶֽ</big></span><small><sup>[[H5771H]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'a.vo.Ne.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.5|<< Job 11:5]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.7|Job 11:7 >>]]</td></tr></table>
+
+

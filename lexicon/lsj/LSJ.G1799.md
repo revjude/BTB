@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==ἐνώπιον==</span>-<span class='asgreek'>ιος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ (<span class='asgreek'>ὤψ</span>) <b>facing, to the front,</b> <span class='asgreek'>πρό</span> <span class='asgreek'>τ᾽</span> <span class='asgreek'>==ἐνώπιον==ια</span> [<a href="javascript:void(0)" title=" 7th-6th c.BC: Alcaeus Lyricus “Supp.” 4.17; ==ἐνώπιον==ιος ἐνωπίῳ λαλεῖν ">Refs 7th c.BC+</a>]<b>face to face,</b> [<a href="javascript:void(0)" title=" LXX.Exod.33.11 ">LXX</a>]; <span class='asgreek'>ἄρτοι</span> <span class='asgreek'>ἐ</span>. <b>shew</b>bread, [<a href="javascript:void(0)" title="[prev. work] 25.29(30) ">Refs</a>]; <span class='asgreek'>διαστολῶν</span> <span class='asgreek'>γεγονυιῶν</span> <span class='asgreek'>ὑμῖν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐνοπίοις</span> (sic) <span class='asgreek'>καὶ</span> <span class='asgreek'>διὰ</span> <span class='asgreek'>γραμμάτων</span> <b>in person</b>, [<a href="javascript:void(0)" title=" “UPZ” 110.36 (2nd c.BC),compare “Sammelb.” 3925.6 (2nd c.BC). ">Refs 2nd c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>neuter</i> <span class='asgreek'>==ἐνώπιον==ιον</span> as <i>adverb</i>, <b>face to face,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 22.152 ">Refs 3rd c.BC+</a>]; <b>in person,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 12(5).1061.10 (from Carthaea), “PTeb.” 14.13 (2nd c.BC)">Refs 2nd c.BC+</a>]: as <i>preposition</i> with <i>genitive</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 3.43 codices, “PCair.Zen.” 73.14 (3rd c.BC), “PGrenf.” 1.38.11 (2nd-1st c.BC), NT.Rom.12.17, NT.Gal.1.20, 2nd c.AD: Hermogenes Rhetor “περὶ εὑρέσεως” 1.1; ἐ. θεῶν “SIG” 2843.7 (Delph., 2nd c.AD)">NT+4th c.BC+</a>]. Regul. <i>adverb</i> <b>-<span class='asgreek'>ίως</span></b>[<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.33.11]] ☩ [[Rom.12.17]] ☩ [[Gal.1.20]]
+</sub></small>

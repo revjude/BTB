@@ -1,0 +1,23 @@
+**Jonah 4:7** 
+<small><sub>**KJV:**</sub></small>
+But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.
+<small><sub>**BSB:**</sub></small>
+When dawn came the next day, God appointed a worm that attacked the plant so that it withered.
+<small><sub>**Literal:**</sub></small>
+and  he appointed \<the>  God a worm when  came up the  dawn to the  next day and  it attacked \<obj.> the  plant and  it withered<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.6|<< Jonah 4:6]]</td><td align="center" style="border:none;">[[Jonah.4|Jonah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.4.8|Jonah 4:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he appointed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְמַ֤ן</big></span><small><sup>[[H4487]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Man<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִים֙</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a worm  | <span class="ashebrew"><big>תּוֹלַ֔עַת</big></span><small><sup>[[H8438B]]</sup></small> &#8207;| to.La.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when came up  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲל֥וֹת</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> 'a.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the dawn  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שַּׁ֖חַר</big></span><small><sup>[[H7837]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Sha.char<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the next day  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מָּחֳרָ֑ת</big></span><small><sup>[[H4283]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> mo.cho.Rat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it attacked  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תַּ֥ךְ</big></span><small><sup>[[H5221]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Takh<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the plant  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קִּֽיקָי֖וֹן</big></span><small><sup>[[H7021]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ki.ka.Yon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it withered  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּיבָֽשׁ</big></span><small><sup>[[H3001]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Vash<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.6|<< Jonah 4:6]]</td><td align="center" style="border:none;">[[Jonah.4|Jonah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.4.8|Jonah 4:8 >>]]</td></tr></table>
+
+

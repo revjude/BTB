@@ -1,0 +1,27 @@
+**Numbers 8:8** 
+<small><sub>**KJV:**</sub></small>
+Then let them take a young bullock with his meat offering, [even] fine flour mingled with oil, and another young bullock shalt thou take for a sin offering.
+<small><sub>**BSB:**</sub></small>
+Then have them take a young bull with its grain offering of fine flour mixed with oil, and you are to take a second young bull for a sin offering.
+<small><sub>**Literal:**</sub></small>
+and  they will take a young bull a young one of cattle and  grain offering  its fine flour mixed with \<the>  oil and  a young bull second a young one of cattle you will take to  a sin offering<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.7|<< Numbers 8:7]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.9|Numbers 8:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will take  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>לָֽקְחוּ֙</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> la.ke.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a young bull  | <span class="ashebrew"><big>פַּ֣ר</big></span><small><sup>[[H6499]]</sup></small> &#8207;| par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a young one of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cattle  | <span class="ashebrew"><big>בָּקָ֔ר</big></span><small><sup>[[H1241]]</sup></small> &#8207;| ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and grain offering its  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִנְחָת֔</big></span><small><sup>[[H4503G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> min.cha.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fine flour  | <span class="ashebrew"><big>סֹ֖לֶת</big></span><small><sup>[[H5560]]</sup></small> &#8207;| So.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mixed  | <span class="ashebrew"><big>בְּלוּלָ֣ה</big></span><small><sup>[[H1101A]]</sup></small> &#8207;| be.lu.Lah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> oil  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׁ֑מֶן</big></span><small><sup>[[H8081]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> Sha.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a young bull  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פַר</big></span><small><sup>[[H6499]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> far-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| second  | <span class="ashebrew"><big>שֵׁנִ֥י</big></span><small><sup>[[H8145]]</sup></small> &#8207;| she.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a young one of  | <span class="ashebrew"><big>בֶן</big></span><small><sup>[[H1121H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cattle  | <span class="ashebrew"><big>בָּקָ֖ר</big></span><small><sup>[[H1241]]</sup></small> &#8207;| ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will take  | <span class="ashebrew"><big>תִּקַּ֥ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| ti.Kach<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a sin offering  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חַטָּֽאת</big></span><small><sup>[[H2403H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> cha.Tat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.7|<< Numbers 8:7]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.9|Numbers 8:9 >>]]</td></tr></table>
+
+

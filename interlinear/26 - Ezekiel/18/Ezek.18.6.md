@@ -1,0 +1,34 @@
+**Ezekiel 18:6** 
+<small><sub>**KJV:**</sub></small>
+[And] hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, neither hath defiled his neighbour’s wife, neither hath come near to a menstruous woman,
+<small><sub>**BSB:**</sub></small>
+He does not eat at the mountain or look to the idols of the house of Israel. He does not defile his neighbor’s wife or approach a woman during her period.
+<small><sub>**Literal:**</sub></small>
+to the  mountains not he has eaten and  eyes  his not he has lifted up to [the] idols of [the] house of Israel and  \<obj.> [the] wife of neighbor  his not he has defiled and  to a woman menstruation not he drew near<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.5|<< Ezekiel 18:5]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.7|Ezekiel 18:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the mountains  | <span class="ashebrew"><big>הֶֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הָרִים֙</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has eaten  | <span class="ashebrew"><big>אָכָ֔ל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| 'a.Khal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and eyes his  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֵינָי</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has lifted up  | <span class="ashebrew"><big>נָשָׂ֔א</big></span><small><sup>[[H5375M]]</sup></small> &#8207;| na.Sa'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] idols of  | <span class="ashebrew"><big>גִּלּוּלֵ֖י</big></span><small><sup>[[H1544]]</sup></small> &#8207;| gi.lu.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wife of  | <span class="ashebrew"><big>אֵ֤שֶׁת</big></span><small><sup>[[H0802H]]</sup></small> &#8207;| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neighbor his  | <span class="ashebrew"><big>רֵעֵ֙</big></span><small><sup>[[H7453]]</sup></small> <span class="ashebrew"><big>הוּ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has defiled  | <span class="ashebrew"><big>טִמֵּ֔א</big></span><small><sup>[[H2930A]]</sup></small> &#8207;| ti.Me'<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  | <span class="ashebrew"><big>אִשָּׁ֥ה</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| menstruation  | <span class="ashebrew"><big>נִדָּ֖ה</big></span><small><sup>[[H5079]]</sup></small> &#8207;| ni.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he drew near  | <span class="ashebrew"><big>יִקְרָֽב</big></span><small><sup>[[H7126G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yik.Rav<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.5|<< Ezekiel 18:5]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.7|Ezekiel 18:7 >>]]</td></tr></table>
+
+

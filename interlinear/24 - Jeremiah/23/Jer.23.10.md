@@ -1,0 +1,31 @@
+**Jeremiah 23:10** 
+<small><sub>**KJV:**</sub></small>
+For the land is full of adulterers; for because of swearing the land mourneth; the pleasant places of the wilderness are dried up, and their course is evil, and their force [is] not right.
+<small><sub>**BSB:**</sub></small>
+For the land is full of adulterers—because of the curse, the land mourns and the pastures of the wilderness have dried up—their course is evil and their power is misused.
+<small><sub>**Literal:**</sub></small>
+for adulterers it is full the  land for \<from>  because of a curse it has dried up the  land they have become dry [the] pastures of [the] wilderness and  it has become course [of life]  their evil and  strength  their [is] not right<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.9|<< Jeremiah 23:9]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.11|Jeremiah 23:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| adulterers  | <span class="ashebrew"><big>מְנָֽאֲפִים֙</big></span><small><sup>[[H5003]]</sup></small> &#8207;| me.na.'a.Fim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is full  | <span class="ashebrew"><big>מָלְאָ֣ה</big></span><small><sup>[[H4390]]</sup></small> &#8207;| mal.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> because of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֤י</big></span><small><sup>[[H6440I]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a curse  | <span class="ashebrew"><big>אָלָה֙</big></span><small><sup>[[H0423]]</sup></small> &#8207;| 'a.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has dried up  | <span class="ashebrew"><big>אָבְלָ֣ה</big></span><small><sup>[[H0056]]</sup></small> &#8207;| 'a.ve.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have become dry  | <span class="ashebrew"><big>יָבְשׁ֖וּ</big></span><small><sup>[[H3001]]</sup></small> &#8207;| ya.ve.Shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pastures of  | <span class="ashebrew"><big>נְא֣וֹת</big></span><small><sup>[[H4999]]</sup></small> &#8207;| ne.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wilderness  | <span class="ashebrew"><big>מִדְבָּ֑ר</big></span><small><sup>[[H4057B]]</sup></small> &#8207;| mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it has become  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּהִ֤י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| course [of life] their  | <span class="ashebrew"><big>מְרֽוּצָתָ</big></span><small><sup>[[H4794]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| me.ru.tza.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  | <span class="ashebrew"><big>רָעָ֔ה</big></span><small><sup>[[H7451H]]</sup></small> &#8207;| ra.'Ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and strength their  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גְבוּרָתָ֖</big></span><small><sup>[[H1369]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ge.vu.ra.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| right  | <span class="ashebrew"><big>כֵֽן</big></span><small><sup>[[H3651A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Khen<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.9|<< Jeremiah 23:9]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.11|Jeremiah 23:11 >>]]</td></tr></table>
+
+

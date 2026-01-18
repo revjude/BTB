@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎תּוֹלָעִי‎</span></big> **Tôwlâʻîy** <small>*(to-law-ee')*</small> ==**Tolaite**==  <sup><small>[[TEHMC#N:N--PG|N:N--PG]]</small></sup> 
+<small>patronymically from <span class="ashebrew">‎תּוֹלָע‎</span><sup><small>[[H8439]]</small></sup></small>
+
+$\quad$ Tolaites.
+- § Tolaites = *see Tola "worm"*
+- ***a Tolaite*** (collectively) or descendants of Tola
+
+**1)** descendants of Tola the son of Issachar

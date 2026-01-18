@@ -1,0 +1,32 @@
+**Zechariah 1:8** 
+<small><sub>**KJV:**</sub></small>
+I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees that [were] in the bottom; and behind him [were there] red horses, speckled, and white.
+<small><sub>**BSB:**</sub></small>
+I looked out into the night and saw a man riding on a red horse. He was standing among the myrtle trees in the hollow, and behind him were red, sorrel, and white horses.
+<small><sub>**Literal:**</sub></small>
+I saw the  night and  there! a man [was] riding on a horse red and  he [was] standing between the  myrtle trees which [were] in the  hollow and  [were] behind  him horses red sorrel and  white<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.7|<< Zechariah 1:7]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.9|Zechariah 1:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| I saw  | <span class="ashebrew"><big>רָאִ֣יתִי</big></span><small><sup>[[H7200L]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the night  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לַּ֗יְלָה</big></span><small><sup>[[H3915]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there!  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנֵּה</big></span><small><sup>[[H2009]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  | <span class="ashebrew"><big>אִישׁ֙</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] riding  | <span class="ashebrew"><big>רֹכֵב֙</big></span><small><sup>[[H7392]]</sup></small> &#8207;| ro.Khev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a horse  | <span class="ashebrew"><big>ס֣וּס</big></span><small><sup>[[H5483M]]</sup></small> &#8207;| sus<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| red  | <span class="ashebrew"><big>אָדֹ֔ם</big></span><small><sup>[[H0122A]]</sup></small> &#8207;| 'a.Dom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ה֣וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] standing  | <span class="ashebrew"><big>עֹמֵ֔ד</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| 'o.Med<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  | <span class="ashebrew"><big>בֵּ֥ין</big></span><small><sup>[[H0996G]]</sup></small> &#8207;| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the myrtle trees  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הֲדַסִּ֖ים</big></span><small><sup>[[H1918]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ha.da.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] in the hollow  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְּצֻלָ֑ה</big></span><small><sup>[[H4699]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> me.tzu.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [were] behind him  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַחֲרָי</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horses  | <span class="ashebrew"><big>סוּסִ֣ים</big></span><small><sup>[[H5483M]]</sup></small> &#8207;| su.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| red  | <span class="ashebrew"><big>אֲדֻמִּ֔ים</big></span><small><sup>[[H0122A]]</sup></small> &#8207;| 'a.du.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sorrel  | <span class="ashebrew"><big>שְׂרֻקִּ֖ים</big></span><small><sup>[[H8320]]</sup></small> &#8207;| se.ru.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and white  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְבָנִֽים</big></span><small><sup>[[H3836]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.va.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.7|<< Zechariah 1:7]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.9|Zechariah 1:9 >>]]</td></tr></table>
+
+

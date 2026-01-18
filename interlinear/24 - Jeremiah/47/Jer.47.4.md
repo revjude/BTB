@@ -1,0 +1,34 @@
+**Jeremiah 47:4** 
+<small><sub>**KJV:**</sub></small>
+Because of the day that cometh to spoil all the Philistines, [and] to cut off from Tyrus and Zidon every helper that remaineth: for the LORD will spoil the Philistines, the remnant of the country of Caphtor.
+<small><sub>**BSB:**</sub></small>
+For the day has come to destroy all the Philistines, to cut off from Tyre and Sidon every remaining ally. Indeed, the LORD is about to destroy the Philistines, the remnant from the coasts of Caphtor.
+<small><sub>**Literal:**</sub></small>
+on the  day which  is coming to  devastate \<obj.> all [the] Philistines to  cut off to  Tyre and  to  Sidon every survivor helping for [is] about to devastate Yahweh \<obj.> [the] Philistines [the] remnant of [the] coastland of Caphtor<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.3|<< Jeremiah 47:3]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.5|Jeremiah 47:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the day  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּ֗וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which is coming  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בָּא֙</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ba'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to devastate  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שְׁד֣וֹד</big></span><small><sup>[[H7703]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> sh.Dod<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  | <span class="ashebrew"><big>פְּלִשְׁתִּ֔ים</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to cut off  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַכְרִ֤ית</big></span><small><sup>[[H3772I]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hakh.Rit<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Tyre  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>צֹר֙</big></span><small><sup>[[H6865]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Tzor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to Sidon  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>צִיד֔וֹן</big></span><small><sup>[[H6721H]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> tzi.Don<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כֹּ֖ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| survivor  | <span class="ashebrew"><big>שָׂרִ֣יד</big></span><small><sup>[[H8300]]</sup></small> &#8207;| sa.Rid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| helping  | <span class="ashebrew"><big>עֹזֵ֑ר</big></span><small><sup>[[H5826]]</sup></small> &#8207;| 'o.Zer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] about to devastate  | <span class="ashebrew"><big>שֹׁדֵ֤ד</big></span><small><sup>[[H7703]]</sup></small> &#8207;| sho.Ded<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  | <span class="ashebrew"><big>פְּלִשְׁתִּ֔ים</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] remnant of  | <span class="ashebrew"><big>שְׁאֵרִ֖ית</big></span><small><sup>[[H7611]]</sup></small> &#8207;| she.'e.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] coastland of  | <span class="ashebrew"><big>אִ֥י</big></span><small><sup>[[H0339]]</sup></small> &#8207;| 'i<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Caphtor  | <span class="ashebrew"><big>כַפְתּֽוֹר</big></span><small><sup>[[H3731]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| khaf.Tor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.3|<< Jeremiah 47:3]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.5|Jeremiah 47:5 >>]]</td></tr></table>
+
+

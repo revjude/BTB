@@ -1,0 +1,30 @@
+**Jeremiah 18:22** 
+<small><sub>**KJV:**</sub></small>
+Let a cry be heard from their houses, when thou shalt bring a troop suddenly upon them: for they have digged a pit to take me, and hid snares for my feet.
+<small><sub>**BSB:**</sub></small>
+Let a cry be heard from their houses when You suddenly bring raiders against them, for they have dug a pit to capture me and have hidden snares for my feet.
+<small><sub>**Literal:**</sub></small>
+may it be heard a cry of distress from  houses  their if you will bring on  them a marauding band suddenly for they have dug a pit to  capture  me and  snares they have hidden for  feet  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.21|<< Jeremiah 18:21]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.23|Jeremiah 18:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| may it be heard  | <span class="ashebrew"><big>תִּשָּׁמַ֤ע</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| ti.sha.Ma'<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cry of distress  | <span class="ashebrew"><big>זְעָקָה֙</big></span><small><sup>[[H2201]]</sup></small> &#8207;| ze.'a.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from houses their  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בָּ֣תֵּי</big></span><small><sup>[[H1004B]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ba.tei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will bring  | <span class="ashebrew"><big>תָבִ֧יא</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| ta.Vi'<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הֶ֛ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a marauding band  | <span class="ashebrew"><big>גְּד֖וּד</big></span><small><sup>[[H1416]]</sup></small> &#8207;| ge.Dud<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| suddenly  | <span class="ashebrew"><big>פִּתְאֹ֑ם</big></span><small><sup>[[H6597]]</sup></small> &#8207;| pit.'Om<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have dug  | <span class="ashebrew"><big>כָר֤וּ</big></span><small><sup>[[H3738B]]</sup></small> &#8207;| kha.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a pit  [^1] | <span class="ashebrew"><big>שׁוּחָה֙</big></span><small><sup>[[H7745]]</sup></small> &#8207;[^2] | shi.chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| to capture me  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לָכְדֵ֔</big></span><small><sup>[[H3920]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> la.khe.De.<small><sup>[[HVqcc]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and snares  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פַחִ֖ים</big></span><small><sup>[[H6341A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fa.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have hidden  | <span class="ashebrew"><big>טָמְנ֥וּ</big></span><small><sup>[[H2934]]</sup></small> &#8207;| ta.me.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for feet my  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רַגְלָֽ</big></span><small><sup>[[H7272]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> rag.La<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.21|<< Jeremiah 18:21]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.23|Jeremiah 18:23 >>]]</td></tr></table>
+
+[^1]: ==K==: **a pit ** | <small><sup>[[H7882]]</sup></small><span class="ashebrew"><big>שִׁיחָה</big></span>  | shi.chah<small><sup>[[HNcfsa]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>שׁיּחָה֙</big></span>**
+

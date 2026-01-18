@@ -1,0 +1,26 @@
+**Genesis 34:2** 
+<small><sub>**KJV:**</sub></small>
+And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her, and lay with her, and defiled her.
+<small><sub>**BSB:**</sub></small>
+When Shechem son of Hamor the Hivite, the prince of the region, saw her, he took her and lay with her by force.
+<small><sub>**Literal:**</sub></small>
+and  he saw \<obj.>  her Shechem [the] son of Hamor the  Hivite [the] chief of the  land and  he took \<obj.>  her and  he lay with with \<the>  her and  he humiliated  her<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.1|<< Genesis 34:1]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.3|Genesis 34:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he saw  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֨רְא</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> her  | <span class="ashebrew"><big>אֹתָ֜</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shechem  | <span class="ashebrew"><big>שְׁכֶ֧ם</big></span><small><sup>[[H7927H]]</sup></small> &#8207;| she.Khem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hamor  | <span class="ashebrew"><big>חֲמ֛וֹר</big></span><small><sup>[[H2544]]</sup></small> &#8207;| cha.Mor<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Hivite  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חִוִּ֖י</big></span><small><sup>[[H2340]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chi.Vi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chief of  | <span class="ashebrew"><big>נְשִׂ֣יא</big></span><small><sup>[[H5387A]]</sup></small> &#8207;| ne.Si'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֑רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he took  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקַּ֥ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> her  | <span class="ashebrew"><big>אֹתָ֛</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he lay with  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁכַּ֥ב</big></span><small><sup>[[H7901I]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> her  | <span class="ashebrew"><big>אֹתָ֖</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he humiliated her  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְעַנֶּֽ</big></span><small><sup>[[H6031B]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.'a.Ne.<small><sup>[[HVpw3ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.1|<< Genesis 34:1]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.3|Genesis 34:3 >>]]</td></tr></table>
+
+

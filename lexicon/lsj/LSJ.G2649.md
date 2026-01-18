@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==καταμαρτυρέω==</span></b>, 
+
+
+ <b>bear witness against</b>, <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 2.4.10, 4th c.BC: Demosthenes Orator 19.120, 29.9, Mitteis “Chr.” 31v33 (2nd c.BC)">Refs 5th c.BC+</a>], etc.; <span class='asgreek'>κατά</span> <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 28.3, etc.: with \_accusative\_ \_of things\_, ψευδῆ κ. τινός [prev. author] 45.46 (Docum.), 29.2, 4th c.BC: Isaeus Orator 5.12, cf. NT.Matt.26.62: \_absolutely\_, αὐτὸ τὸ ψήφισμα τῆς βουλῆς—μαρτυρήσει 5th c.BC: Lysias Orator 13.28 ">NT+5th c.BC+</a>]:—<i>passive</i>, <b>have evidence given against</b> one, <span class='asgreek'>μὴ</span> <span class='asgreek'>πιστῶς</span> <span class='asgreek'>καταμαρτυρηθείς</span> [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 2.4.7 ">Refs 5th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>βίου</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἑαυτοῦ</span> <b>to be convicted</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 1.90. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>passive</i>, of evidence, <b>to be given against</b> one, <span class='asgreek'>ἃ</span> <span class='asgreek'>καταμαρτυρεῖται</span> <span class='asgreek'>αὐτοῦ</span> [<a href="javascript:void(0)" title=" 4th c.BC: Isaeus Orator 5.25, compare 6.15: \_absolutely\_, 4th c.BC: Demosthenes Orator 29.55. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>assert concerning</b>, <span class='asgreek'>οὐδὲν</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>οὐ</span> <span class='asgreek'>παρόντων</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 5.5.13. ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> Astrology texts, <b>exercise malign influence over, 'aspect</b>', [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 104.2. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Matt.26.62]]
+</sub></small>

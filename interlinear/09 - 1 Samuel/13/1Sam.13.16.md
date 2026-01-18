@@ -1,0 +1,25 @@
+**1 Samuel 13:16** 
+<small><sub>**KJV:**</sub></small>
+And Saul, and Jonathan his son, and the people [that were] present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash.
+<small><sub>**BSB:**</sub></small>
+Now Saul and Jonathan his son and the troops with them were staying in Geba of Benjamin, while the Philistines camped at Michmash.
+<small><sub>**Literal:**</sub></small>
+and  Saul and  Jonathan son  his and  the  people which  was found with  them [were] remaining in  Geba of Benjamin and  [the] Philistines they encamped in  Micmash<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.15|<< 1 Samuel 13:15]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.17|1 Samuel 13:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Saul  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שָׁא֞וּל</big></span><small><sup>[[H7586G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jonathan  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יוֹנָתָ֣ן</big></span><small><sup>[[H3129N]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yo.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  | <span class="ashebrew"><big>בְּנ֗</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the people  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָם֙</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which was found  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נִּמְצָ֣א</big></span><small><sup>[[H4672]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> nim.Tza'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with them  | <span class="ashebrew"><big>עִמָּ֔</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'i.Ma<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] remaining  | <span class="ashebrew"><big>יֹשְׁבִ֖ים</big></span><small><sup>[[H3427]]</sup></small> &#8207;| yo.she.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Geba  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גֶ֣בַע</big></span><small><sup>[[H1387G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ge.va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Benjamin  | <span class="ashebrew"><big>בִּנְיָמִ֑ן</big></span><small><sup>[[H1144G]]</sup></small> &#8207;| bin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] Philistines  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פְלִשְׁתִּ֖ים</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they encamped  | <span class="ashebrew"><big>חָנ֥וּ</big></span><small><sup>[[H2583]]</sup></small> &#8207;| cha.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Micmash  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִכְמָֽשׂ</big></span><small><sup>[[H4363]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> mikh.Mas<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.15|<< 1 Samuel 13:15]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.17|1 Samuel 13:17 >>]]</td></tr></table>
+
+

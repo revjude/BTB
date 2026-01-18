@@ -1,0 +1,11 @@
+
+Included with: <b> <span class='asgreek'>==γενέσια, γενέθλιος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ ={<span class='asgreek'>γενέθλιος</span>},{<span class='asgreek'>θεός</span>} [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2. 402a">Refs 1st c.AD+</a>]; epithet of Posidon, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 2.38.4. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>Γενέσιον</span>, <span class='asgreek'>τό</span>, shrine of Posidon <span class='asgreek'>Γ</span>., Paus. [prev. cited] 
+$\quad$ $\quad$<b>\_\_III</b> <u><span class='asgreek'>==γενέσια, γενέθλιος==α</span></u>, <span class='asgreek'>τά</span>, <b>day kept in memory of the birthday of the dead</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.26, cf. Ammon. p.36V., 2nd c.AD: Phrynichus Atticista 83">Refs 5th c.BC+</a>]; to be distinguished from <span class='asgreek'>γενέθλια</span> <b>birthday-feast</b>, though used for it in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 784d (assuming variant) and later Gk., “POxy.” 736.56 (1st c.BC-1st c.AD), “PFay.” 114.20 (1st-2nd c.AD), etc., 4th c.AD: Alciphro Epistolographus 3.18 and 55, NT.Matt.14.6, NT.Mark.6.21, 2nd-3rd c.AD: Dio Cassius Historicus 47.18 ">NT+5th c.BC+</a>]; so <span class='asgreek'>ἡ</span> <span class='asgreek'>γ</span>. <span class='asgreek'>ἡμέρα</span>, ={<span class='asgreek'>ἡ</span> <span class='asgreek'>γενέθλιος</span>}, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2883c (from Branchidae)">Refs</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>γ</span>. alone, [<a href="javascript:void(0)" title=" “OGI” 583.14 (from Cyprus)">Refs</a>]; <span class='asgreek'>τῇ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Σεβαστοῦ</span> <span class='asgreek'>ἐμμήνῳ</span> <span class='asgreek'>γ</span>. [<a href="javascript:void(0)" title=" “IGRom.” 4.353b (Pergam., 2nd c.AD). ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Matt.14.6]] ☩ [[Mark.6.21]]
+</sub></small>

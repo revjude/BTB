@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ῥαβδίον==</span>-<span class='asgreek'>ίον</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ <i>diminutive</i> of <span class='asgreek'>ῥάβδος</span>, <b>little rod</b> or <b>shoot</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 3.17.6, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.14">Refs 4th c.BC+</a>]; <b>the wand</b> of Hermes, [<a href="javascript:void(0)" title=" 2nd c.AD: Babrius Fabularum Scriptor 117.9, 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 3.20.12 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>==ῥαβδίον==ίου</span> <span class='asgreek'>οἰακίζεσθαι</span>, of horses, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 17.3.7. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>divining-rod</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.21.21 (26)(codex A). ">LXX</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>barbel</b> or <b>filament appended to the lips of certain fishes</b>, which are said <span class='asgreek'>==ῥαβδίον==εύεσθαι</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>στόματι</span>, <span class='asgreek'>ἃ</span> <span class='asgreek'>καλοῦσιν</span> <span class='asgreek'>οἱ</span> <span class='asgreek'>ἁλιεῖς</span> <span class='asgreek'>==ῥαβδίον==ία</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 620b32. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>iron stile</b>, used in encaustic painting, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.568a, 2nd c.AD: Athenaeus Epigrammaticus 15.687b. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>==ῥαβδίον==ία</span> <span class='asgreek'>ἀκοντίων</span> perhaps javelin <b>shafts</b>, [<a href="javascript:void(0)" title=" “BCH” 35.16 (Delian inventory). ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> teacher's <b>pointer</b> (or ={<span class='asgreek'>ῥάβδος</span>} 1.7), [<a href="javascript:void(0)" title=" 4th c.BC: Eudemus Philosophus cited in 6th c.AD: Simplicius Philosophus “in Aristotelis Physica commentaria - Comm. in Arist. Graeca” 732.32. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ἅλιμον</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.91. ">Refs 1st c.AD+</a>]

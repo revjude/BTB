@@ -1,0 +1,32 @@
+**Ezekiel 3:6** 
+<small><sub>**KJV:**</sub></small>
+Not to many people of a strange speech and of an hard language, whose words thou canst not understand. Surely, had I sent thee to them, they would have hearkened unto thee.
+<small><sub>**BSB:**</sub></small>
+not to the many peoples of unfamiliar speech and difficult language whose words you cannot understand. Surely if I had sent you to them, they would have listened to you.
+<small><sub>**Literal:**</sub></small>
+not to peoples many deep of lip and  heavy of tongue whom not you will understand words  their if not to  them I had sent  you they they will listen to  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.5|<< Ezekiel 3:5]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.7|Ezekiel 3:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peoples  | <span class="ashebrew"><big>עַמִּ֣ים</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  | <span class="ashebrew"><big>רַבִּ֗ים</big></span><small><sup>[[H7227A]]</sup></small> &#8207;| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deep of  | <span class="ashebrew"><big>עִמְקֵ֤י</big></span><small><sup>[[H6012]]</sup></small> &#8207;| 'im.Kei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lip  | <span class="ashebrew"><big>שָׂפָה֙</big></span><small><sup>[[H8193H]]</sup></small> &#8207;| sa.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and heavy of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כִבְדֵ֣י</big></span><small><sup>[[H3515]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khiv.Dei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tongue  | <span class="ashebrew"><big>לָשׁ֔וֹן</big></span><small><sup>[[H3956H]]</sup></small> &#8207;| la.Shon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will understand  | <span class="ashebrew"><big>תִשְׁמַ֖ע</big></span><small><sup>[[H8085J]]</sup></small> &#8207;| tish.Ma'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words their  | <span class="ashebrew"><big>דִּבְרֵי</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>הֶ֑ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| div.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֤א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I had sent you  | <span class="ashebrew"><big>שְׁלַחְתִּ֔י</big></span><small><sup>[[H7971G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| she.lach.Ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֖מָּה</big></span><small><sup>[[H1992]]</sup></small> &#8207;| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will listen  | <span class="ashebrew"><big>יִשְׁמְע֥וּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| yish.me.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>אֵלֶֽי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.5|<< Ezekiel 3:5]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.7|Ezekiel 3:7 >>]]</td></tr></table>
+
+

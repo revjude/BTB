@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==καταλαλέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <i>perfect</i> <b>-<span class='asgreek'>λελάληκα</span></b>[<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 323.7 ">Refs 2nd c.AD+</a>]:—<b>talk, babble loudly</b>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>θύραζε</span> <span class='asgreek'>ταῦτα</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 752 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τινος</span> <b>before</b> another, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Asin.” 12. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>talk down, rail at</b>, <span class='asgreek'>ἡμᾶς</span> [<a href="javascript:void(0)" title=" “IG” 9(2).338.6 (Thess.); τινὰ πρὸς πάντας 2nd c.BC: Polybius Historicus 3.90.6; τὸ δόγμα [prev. author] 18.45.1 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 11.44; ὑμῶν ὡς κακοποιῶν NT.1Pet.2.12; τινὸς ψευδῆ LXX.Hos.7.13 ">NT+1st c.BC+</a>]; <span class='asgreek'>κατά</span> <span class='asgreek'>τινος</span>[<a href="javascript:void(0)" title="LXX.Ps.49.20 ">LXX</a>]:—<i>passive</i>, <span class='asgreek'>ἐπί</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 27.13.2 ">Refs 2nd c.BC+</a>]; <b>to be outdone in speech</b>, <span class='asgreek'>ὑπ᾽</span> <span class='asgreek'>ἰδιωτῶν</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.343S. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>weary by talking</b>, gloss on{<span class='asgreek'>καταγλωττίζειν</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Phrynichus Atticista “Praeparatio Sophistica” p.79B. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> simply, <b>interview, address</b> a person, [<a href="javascript:void(0)" title=" “PHib.” 1.151 (3rd c.BC). ">Refs 3rd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Pet.2.12]] ☩ [[Hos.7.13]] ☩ [[Ps.49.20]]
+</sub></small>

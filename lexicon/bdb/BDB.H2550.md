@@ -1,0 +1,26 @@
+ <span class="bdbLangHebrew">‎חָמַל‎</span> **verb** ==spare== (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKQAbAIAAAAAAAP///yH5BAAAAAAALAAAAAApABsAAAJZjI+py+0PowGgUXch3WtX5X1Y1pGgKKXqyrYui76SKUd0/dw4tqd6fwJqYjkPjDgphVScRJMRIkovomgFZXVOJ9ZuVwtCeK8B4yiofJl+u69QHH0rkfK6ogAAOw==">; is ***bear, become responsible***; Aramaic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhOQAVAIAAAAAAAP///yH5BAAAAAAALAAAAAA5ABUAAAJojI+py+0PIYi0UoCz3Txjznxgoo2BeKJjubJsp5qeMZs24r63XNa7XfMpXp7JL4XSHYpI4Y2JDBWnxmMuRoNmqykcV9JTbpOqMNYR1I41M6oaLHLL51QY/Y7/Vpy405q95Hc0SFjoUAAAOw=="> ***comportavit, congessit***); — 
+
+**Qal** ***Perfect*** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> [[1Sam.15.15|1Sam 15:15]] + 3 t.; <span class="bdbLangHebrew">‎חָמָ֑ל‎</span> [[2Sam.12.6|2Sam 12:6]]; [[Lam.2.17|Lam 2:17]] <span class="bdbLangHebrew">‎חָמָ֑לְתָּ‎</span> [[Lam.2.21|Lam 2:21]]; [[Lam.3.43|Lam 3:43]] <span class="bdbLangHebrew">‎וְחָמַלְתִּ֫י‎</span> [[Mal.3.17|Mal 3:17]] ***Imperfect*** <span class="bdbLangHebrew">‎יַחְמֹל‎</span> [[Job.16.13|Job 16:13]] + 6 t.; <span class="bdbLangHebrew">‎יַחְמוֺל‎</span> [[Job.6.10|Job 6:10]] + 3 t.; <span class="bdbLangHebrew">‎וַיַּחְמֹל‎</span> [[1Sam.15.9|1Sam 15:9]] + 3 t.; 3 feminine singular <span class="bdbLangHebrew">‎וַתַּחְמֹל‎</span> [[Exod.2.6|Exod 2:6]] 2 masculine singular <span class="bdbLangHebrew">‎תַּחְמֹל‎</span> [[Deut.13.9|Deut 13:9]]; [[1Sam.15.3|1Sam 15:3]] <span class="bdbLangHebrew">‎אֶחְמֹל‎</span> [[Ezek.8.18|Ezek 8:18]]; [[Ezek.9.10|Ezek 9:10]] <span class="bdbLangHebrew">‎אֶחְמוֺל‎</span> [[Jer.13.14|Jer 13:14]] + 4 t.; <span class="bdbLangHebrew">‎וָאֶחְמֹל‎</span> [[Ezek.36.21|Ezek 36:21]] <span class="bdbLangHebrew">‎יַחְמֹ֑לוּ‎</span> [[Isa.9.18|Isa 9:18]] <span class="bdbLangHebrew">‎תַּחְמְלוּ‎</span> [[Jer.50.14|Jer 50:14]]; [[Jer.51.3|Jer 51:3]] <span class="bdbLangHebrew">‎תַּחְמֹ֑לוּ‎</span> [[Ezek.9.5|Ezek 9:5]] ***Infinitive construct*** <span class="bdbLangHebrew">‎חֻמְלָה‎</span> [[Ezek.16.5|Ezek 16:5]] ([[BDB#Ges|Ges]]<sup>«GKC:45»§ 45</sup>, 1. b); — ***spare, have compassion***, with <span class="bdbLangHebrew">‎על‎</span> [[Exod.2.6|Exod 2:6]] ([[BDB#E|E]]), [[1Sam.15.3|1Sam 15:3]]; [[1Sam.15.9|1Sam 15:9]]; [[1Sam.15.15|1Sam 15:15]]; [[1Sam.23.21|1Sam 23:21]]; [[2Sam.21.7|2Sam 21:7]]; [[2Chr.36.15|2Chr 36:15]]; [[2Chr.36.17|2Chr 36:17]]; [[Jer.15.5|Jer 15:5]]; [[Ezek.16.5|Ezek 16:5]]; [[Ezek.36.21|Ezek 36:21]]; [[Job.20.13|Job 20:13]]; [[Zech.11.5|Zech 11:5]]; [[Zech.11.6|Zech 11:6]]; [[Mal.3.17|Mal 3:17]] (twice in verse); [[Joel.2.18|Joel 2:18]]; [[Deut.13.9|Deut 13:9]] (\|\| <span class="bdbLangHebrew">‎חוס‎</span> followed by <span class="bdbLangHebrew">‎על‎</span>), [[Jer.21.7|Jer 21:7]] (\|\| <span class="bdbLangHebrew">‎חוס‎</span> followed by <span class="bdbLangHebrew">‎על‎</span> + <span class="bdbLangHebrew">‎רחם‎</span>), [[Ezek.9.10|Ezek 9:10]] (\|\| <span class="bdbLangHebrew">‎חוס‎</span> followed by <span class="bdbLangHebrew">‎על‎</span>according to [[BDB#Syr|ᵑ6]] [[BDB#Tg|ᵑ7]] [[BDB#Co|Co]]); followed by <span class="bdbLangHebrew">‎אֶלֿ‎</span> [[Jer.51.3|Jer 51:3]]; [[Isa.9.18|Isa 9:18]] note poetic <span class="bdbLangHebrew">‎אֶלחֵֿץ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אַלתַּֿחְ‎</span> = ***spare no arrow*** [[Jer.50.14|Jer 50:14]] followed by ***Infinitive*** [[2Sam.12.4|2Sam 12:4]] absolute [[2Sam.12.6|2Sam 12:6]]; [[Isa.30.14|Isa 30:14]]; [[Lam.2.17|Lam 2:17]]; [[Lam.2.21|Lam 2:21]], also v[[Lam.2.2|Lam 2:2]] where apparently followed by accusative, [[Lam.3.43|Lam 3:43]]; [[Job.6.10|Job 6:10]]; [[Job.16.13|Job 16:13]]; [[Job.27.22|Job 27:22]]; [[Prov.6.34|Prov 6:34]]; [[Hab.1.17|Hab 1:17]] \|\| <span class="bdbLangHebrew">‎חוס‎</span> [[Ezek.5.11|Ezek 5:11]]; [[Ezek.7.4|Ezek 7:4]] (strike out [[BDB#Co|Co]] as doubl. of v[[Ezek.7.9|Ezek 7:9]]), [[Ezek.7.9|Ezek 7:9]]; [[Ezek.8.18|Ezek 8:18]]; [[Ezek.9.5|Ezek 9:5]]; [[Jer.13.14|Jer 13:14]] (\|\| <span class="bdbLangHebrew">‎אחוס‎</span> and <span class="bdbLangHebrew">‎ארחם‎</span>). 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.2.6\|2:6]] |
+| Deuteronomy | [[Deut.13.9\|13:9]] |
+| 1 Samuel | [[1Sam.15.3\|15:3]] · [[1Sam.15.9\|15:9]] · [[1Sam.15.15\|15:15]] · [[1Sam.23.21\|23:21]] |
+| 2 Samuel | [[2Sam.12.4\|12:4]] · [[2Sam.12.6\|12:6]] · [[2Sam.21.7\|21:7]] |
+| 2 Chronicles | [[2Chr.36.15\|36:15]] · [[2Chr.36.17\|36:17]] |
+| Job | [[Job.6.10\|6:10]] · [[Job.16.13\|16:13]] · [[Job.20.13\|20:13]] · [[Job.27.22\|27:22]] |
+| Proverbs | [[Prov.6.34\|6:34]] |
+| Isaiah | [[Isa.9.18\|9:18]] · [[Isa.30.14\|30:14]] |
+| Jeremiah | [[Jer.13.14\|13:14]] · [[Jer.15.5\|15:5]] · [[Jer.21.7\|21:7]] · [[Jer.50.14\|50:14]] · [[Jer.51.3\|51:3]] |
+| Lamentations | [[Lam.2.2\|2:2]] · [[Lam.2.17\|2:17]] · [[Lam.2.21\|2:21]] · [[Lam.3.43\|3:43]] |
+| Ezekiel | [[Ezek.5.11\|5:11]] · [[Ezek.7.4\|7:4]] · [[Ezek.7.9\|7:9]] · [[Ezek.8.18\|8:18]] · [[Ezek.9.5\|9:5]] · [[Ezek.9.10\|9:10]] · [[Ezek.16.5\|16:5]] · [[Ezek.36.21\|36:21]] |
+| Joel | [[Joel.2.18\|2:18]] |
+| Habakkuk | [[Hab.1.17\|1:17]] |
+| Zechariah | [[Zech.11.5\|11:5]] · [[Zech.11.6\|11:6]] |
+| Malachi | [[Mal.3.17\|3:17]] |
+

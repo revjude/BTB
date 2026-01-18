@@ -1,0 +1,9 @@
+<span class="asgreek">χόριον</span> <small>***(chorion)***</small> ==**afterbirth**==  <sup><small>[[TEGMC#|]]</small></sup> 
+
+<b> <span class='asgreek'>==χόριον==</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ <b>membrane that encloses the foetus</b> in the womb, <b>afterbirth,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ φύσιος παιδίου” 16, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 562a6, 1st c.AD: Dioscorides (Dioscurides) Medicus 3.150, 2nd c.AD: Galenus Medicus “de Usu Partium” 15.4, 2nd c.AD: Rufus Medicus “περὶ ὀνομασίας” 230, 3rd c.AD: Porphyrius Tyrius Philosophus “ad Marcellam - Porphyrii Opuscula” 32, etc.">Refs 5th c.BC+</a>]; certain animals are said to eat it, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 611a18, 4th-3rd c.BC: Theophrastus Philosophus “Fragmenta” 175; compare ἀμνίον 1.2. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>membrane round the inside of the egg,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 754a1. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>any intestinal membrane</b>: hence in <i>plural</i> <span class='asgreek'>χόρια</span>, <span class='asgreek'>τά</span>, <b>a dish made by stuffing it with honey and milk, haggis,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Cratinus Comicus 326, 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 569.4, 2nd c.AD: Alexander Rhetor 172.17, 3rd c.BC: Theocritus Poeta Bucolicus 9.19, ubi see Scholia ">Refs 5th c.BC+</a>] —It is uncertain to which of these senses is to be referred the proverbial <span class='asgreek'>χαλεπὸν</span> <span class='asgreek'>χορίω</span> <span class='asgreek'>κύνα</span> <span class='asgreek'>γεῦσαι</span> 'don't let a dog taste blood', [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 10.11. ">Refs 3rd c.BC+</a>]

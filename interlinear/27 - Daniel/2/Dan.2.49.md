@@ -1,0 +1,30 @@
+**Daniel 2:49** 
+<small><sub>**KJV:**</sub></small>
+Then Daniel requested of the king, and he set Shadrach, Meshach, and Abednego, over the affairs of the province of Babylon: but Daniel [sat] in the gate of the king.
+<small><sub>**BSB:**</sub></small>
+And at Daniel’s request, the king appointed Shadrach, Meshach, and Abednego to manage the province of Babylon, while Daniel remained in the king’s court.
+<small><sub>**Literal:**</sub></small>
+and  Daniel he asked from king  the and  he appointed over administration  the of [the] province of Babylon \<obj.>  Shadrach Meshach and  Abed- -nego and  Daniel [was] in  [the] gate king  the<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.48|<< Daniel 2:48]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.1|Daniel 3:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Daniel  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דָנִיֵּאל֙</big></span><small><sup>[[H1841H]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> da.ni.yeL<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he asked  | <span class="asaramaic"><big>בְּעָ֣א</big></span><small><sup>[[H1156]]</sup></small> &#8207;| be.'A'<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="asaramaic"><big>מִן</big></span><small><sup>[[H4481]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  | <span class="asaramaic"><big>מַלְכָּ֔</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he appointed  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>מַנִּ֗י</big></span><small><sup>[[H4483]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> ma.Ni<small><sup>[[AVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="asaramaic"><big>עַ֤ל</big></span><small><sup>[[H5922]]</sup></small> &#8207;| 'al<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| administration the  | <span class="asaramaic"><big>עֲבִֽידְתָּ</big></span><small><sup>[[H5673]]</sup></small> <span class="asaramaic"><big>א֙</big></span><small><sup>[[H9010]]</sup></small> &#8207;| 'a.vi.de.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of  | <span class="asaramaic"><big>דִּ֚י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] province of  | <span class="asaramaic"><big>מְדִינַ֣ת</big></span><small><sup>[[H4083]]</sup></small> &#8207;| me.di.Nat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="asaramaic"><big>בָּבֶ֔ל</big></span><small><sup>[[H0895]]</sup></small> &#8207;| ba.Vel<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> Shadrach  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>שַׁדְרַ֥ךְ</big></span><small><sup>[[H7715]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> shad.Rakh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Meshach  | <span class="ashebrew"><big>מֵישַׁ֖ךְ</big></span><small><sup>[[H4336]]</sup></small> &#8207;| mei.Shakh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abed-  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲבֵ֣ד</big></span><small><sup>[[H5665]]</sup></small> &#8207;| va.<small><sup>[[AC]]</sup></small> 'a.Ved<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -nego  | <span class="ashebrew"><big>נְג֑וֹ</big></span><small><sup>[[H5665]]</sup></small> &#8207;| ne.Go<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Daniel  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דָנִיֵּ֖אל</big></span><small><sup>[[H1841H]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> da.ni.Yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] in [the] gate  | <span class="asaramaic"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="asaramaic"><big>תְרַ֥ע</big></span><small><sup>[[H8651]]</sup></small> &#8207;| bi<small><sup>[[AR]]</sup></small> t.Ra'<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  | <span class="asaramaic"><big>מַלְכָּֽ</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="asaramaic"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="asaramaic"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.48|<< Daniel 2:48]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.1|Daniel 3:1 >>]]</td></tr></table>
+
+

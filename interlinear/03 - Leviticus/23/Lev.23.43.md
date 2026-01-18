@@ -1,0 +1,29 @@
+**Leviticus 23:43** 
+<small><sub>**KJV:**</sub></small>
+That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I [am] the LORD your God.
+<small><sub>**BSB:**</sub></small>
+so that your descendants may know that I made the Israelites dwell in booths when I brought them out of the land of Egypt. I am the LORD your God.’”
+<small><sub>**Literal:**</sub></small>
+so that \<they> may know generations  your that in \<the>  booths I caused to dwell \<obj.> [the] people of Israel when  brought out  I \<obj.>  them from  [the] land of Egypt I [am] Yahweh God  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.42|<< Leviticus 23:42]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.44|Leviticus 23:44 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| so that  | <span class="ashebrew"><big>לְמַעַן֮</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.ma.'An<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<they> may know  | <span class="ashebrew"><big>יֵדְע֣וּ</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ye.de.'U<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| generations your  | <span class="ashebrew"><big>דֹרֹֽתֵי</big></span><small><sup>[[H1755]]</sup></small> <span class="ashebrew"><big>כֶם֒</big></span><small><sup>[[H9026]]</sup></small> &#8207;| do.ro.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> booths  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>סֻּכּ֗וֹת</big></span><small><sup>[[H5521]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> su.Kot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I caused to dwell  | <span class="ashebrew"><big>הוֹשַׁ֙בְתִּי֙</big></span><small><sup>[[H3427]]</sup></small> &#8207;| ho.Shav.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when brought out I  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הוֹצִיאִ֥</big></span><small><sup>[[H3318H]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9040]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ho.tzi.'<small><sup>[[HVhcc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אוֹתָ֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] land of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרָ֑יִם</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֖י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹהֵי</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.42|<< Leviticus 23:42]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.44|Leviticus 23:44 >>]]</td></tr></table>
+
+

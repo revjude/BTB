@@ -1,0 +1,21 @@
+**Ezekiel 22:21** 
+<small><sub>**KJV:**</sub></small>
+Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof.
+<small><sub>**BSB:**</sub></small>
+Yes, I will gather you together and blow on you with the fire of My wrath, and you will be melted within the city.
+<small><sub>**Literal:**</sub></small>
+and  I will gather \<obj.>  you and  I will blow on  you with  [the] fire of wrath  my and  you will be melted in  [the] midst of  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.20|<< Ezekiel 22:20]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.22|Ezekiel 22:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will gather  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>כִנַּסְתִּ֣י</big></span><small><sup>[[H3664]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> khi.nas.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  | <span class="ashebrew"><big>אֶתְ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will blow  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָפַחְתִּ֥י</big></span><small><sup>[[H5301]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.fach.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with [the] fire of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֵ֣שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'Esh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wrath my  | <span class="ashebrew"><big>עֶבְרָתִ֑</big></span><small><sup>[[H5678]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'ev.ra.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will be melted  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נִתַּכְתֶּ֖ם</big></span><small><sup>[[H5413]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ni.takh.Tem<small><sup>[[HVNq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] midst of it  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹכָֽ</big></span><small><sup>[[H8432]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.20|<< Ezekiel 22:20]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.22|Ezekiel 22:22 >>]]</td></tr></table>
+
+

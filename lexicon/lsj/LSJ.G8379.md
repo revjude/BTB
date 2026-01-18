@@ -1,0 +1,12 @@
+<span class="asgreek">νεᾶνις</span> <small>***(neanis)***</small> ==**a young woman**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==νεᾶνις==</span></b>, 
+
+
+ <i>Epic dialect</i> and <i>Ionic dialect</i> <b><span class='asgreek'>νεῆνις</span></b> (<i>contraction</i> <b><span class='asgreek'>νῆνις</span></b> [<a href="javascript:void(0)" title=" 6th c.BC: Anacreon Lyricus 14.3, “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 7629 (vase), Kretschmer “Griech.Vaseninschr.” p.144, “Etymologicum Magnum” 448.29)">Refs 6th c.BC+</a>], <span class='asgreek'>ῐδος</span>, <span class='asgreek'>ἡ</span>, <i>accusative</i> <b>-<span class='asgreek'>ιδα</span></b>[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 704">Refs 4th c.BC+</a>], <b>-<span class='asgreek'>ιν</span></b> [<a href="javascript:void(0)" title="5th c.BC: Euripides Tragicus “Cyclops” 179 ">Refs 5th c.BC+</a>]:—<b>girl, maiden,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 18.418, 5th c.BC: Pindarus Lyricus “P.” 9.31, A.[same place], “Eu.” 958 (Lyric poetry), 5th c.BC: Sophocles Tragicus “Antigone” 784 (Lyric poetry), E.[same place], +others, 3rd c.BC: Apollonius Rhodius Epicus 1.843, “Lyric poetry Alex.Adesp.” 26 ">Refs 8th c.BC+</a>]; of a young married woman, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Andromache” 192; παρθενικὴ ν. 8th c.BC: Odyssea Homerus Epicus “Odyssey” 7.20. ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> as <i>adjective</i>, <b>youthful,</b> <span class='asgreek'>χεῖρες</span>, <span class='asgreek'>ἧβαι</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 745, “Ion” 477 (Lyric poetry). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>new,</b> <span class='asgreek'>βίβλος</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 4.3b75 (6th c.AD: Agathias Historicus et Epigrammaticus).—poetical word, but frequently in LXX, LXX.Exod.2.8, +others ">LXX+6th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.2.8]]
+</sub></small>

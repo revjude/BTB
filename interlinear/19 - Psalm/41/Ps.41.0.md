@@ -1,0 +1,16 @@
+**Psalms 41:0** (41:1)
+<small><sub>**KJV:**</sub></small>
+To the chief Musician, A Psalm of David. Blessed [is] he that considereth the poor: the LORD will deliver him in time of trouble.
+<small><sub>**BSB:**</sub></small>
+For the choirmaster. A Psalm of David. Blessed is the one who cares for the poor; the LORD will deliver him in the day of trouble.
+<small><sub>**Literal:**</sub></small>
+to the  choirmaster a psalm of  David<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.17|<< Psalms 40:17]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.1|Psalms 41:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to the choirmaster  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מְנַצֵּ֗חַ</big></span><small><sup>[[H5329]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a psalm  | <span class="ashebrew"><big>מִזְמ֥וֹר</big></span><small><sup>[[H4210]]</sup></small> &#8207;| miz.Mor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of David  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָוִֽד</big></span><small><sup>[[H1732]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.17|<< Psalms 40:17]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.1|Psalms 41:1 >>]]</td></tr></table>
+
+

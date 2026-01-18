@@ -1,0 +1,21 @@
+**Leviticus 14:57** 
+<small><sub>**KJV:**</sub></small>
+To teach when [it is] unclean, and when [it is] clean: this [is] the law of leprosy.
+<small><sub>**BSB:**</sub></small>
+to determine when something is clean or unclean. This is the law regarding skin diseases and mildew.”
+<small><sub>**Literal:**</sub></small>
+to  teach on  [the] day of the  unclean [thing] and  on  [the] day of the  pure [thing] this [is] [the] legal [procedure] of \<the>  serious skin disease<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.56|<< Leviticus 14:56]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.1|Leviticus 15:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to teach  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הוֹרֹ֕ת</big></span><small><sup>[[H3384B]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ho.Rot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י֥וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the unclean [thing]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>טָּמֵ֖א</big></span><small><sup>[[H2931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on [the] day of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י֣וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the pure [thing]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>טָּהֹ֑ר</big></span><small><sup>[[H2889]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ta.Hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֹ֥את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] legal [procedure] of  | <span class="ashebrew"><big>תּוֹרַ֖ת</big></span><small><sup>[[H8451]]</sup></small> &#8207;| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> serious skin disease  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צָּרָֽעַת</big></span><small><sup>[[H6883]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> tza.Ra.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.56|<< Leviticus 14:56]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.1|Leviticus 15:1 >>]]</td></tr></table>
+
+

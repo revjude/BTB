@@ -1,0 +1,26 @@
+<small>*Female • Sister of Jemimah • Job's second daughter born after his restoration*</small>
+
+Woman living at the time of the Patriarchs
+
+<span class='tipnrhighlight'>Keziah</span> was the name of Job's second daughter, born to him after God restored his fortunes.
+- A woman living at the time of the Patriarchs, only mentioned at [[Job.42.14|Job.42.14]]; 
+- only referred to as Keziah<[[H7103]]> \(<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>יע</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
+-  daughter of Job<[[H0347]]>; 
+- a sister of Jemimah<[[H3224]]>, Keren-happuch<[[H7163]]>.
+
+Keziah is mentioned in [[Job.42.14|Job 42:14]] as the name of Job's second daughter, born to him after God restored his fortunes. The name Keziah means "cassia," which is a fragrant spice. 
+
+The context of Keziah's mention is the conclusion of the Book of Job, where God blessed Job abundantly after his period of suffering and testing. Job's restoration included not only material wealth but also a new family. He had seven sons and three daughters, and Keziah was the second of the daughters. 
+
+The Bible notes that Job's daughters were the most beautiful in all the land, and he gave them an inheritance along with their brothers \(Job 42:15\). This was unusual in ancient Near Eastern culture and demonstrates Job's love and respect for his daughters. 
+
+The mention of Keziah and her sisters highlights the completeness of Job's restoration and the blessing of family in his life after enduring great trials. It also emphasizes the value and dignity given to women in this narrative.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Keziah (KJV= Kezia) | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>יע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7103) <small>*Hebrew*</small> | 1x | [Job.42.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keziah\*\|reference=Job.42.14) |
+All Strong's for **Keziah**: \[[[H7103]]\]
+#### Related Profiles:
+- **[Job](H0347)** (father)
+- **[Jemimah](H3224)** (sibling)
+- **[Keren-happuch](Keren)** (sibling)

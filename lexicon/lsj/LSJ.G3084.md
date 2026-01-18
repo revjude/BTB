@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==λυτρόω==</span>-<span class='asgreek'>όω</span></b>, 
+
+
+ <b>release on receipt of a ransom, hold to ransom</b>, <span class='asgreek'>τινὰ</span> <span class='asgreek'>χρημάτων</span> <span class='asgreek'>ὅσων</span> <span class='asgreek'>δοκεῖ</span> <b>for</b> such a sum as is agreed on, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 165e ">Refs 5th c.BC+</a>]; <b>redeem</b> a pledge, <span class='asgreek'>λ</span>. <span class='asgreek'>τὰ</span> <span class='asgreek'>ἱμάτια</span> [<a href="javascript:void(0)" title=" “POxy.” 530.14 (2nd c.AD)">Refs 2nd c.AD+</a>], etc.:—<i>middle</i>, <b>release by payment of ransom, redeem</b>, <span class='asgreek'>παρὰ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>Αἰτωλῶν</span> [<a href="javascript:void(0)" title=" “IG” 12(5).36 (Naxos, 3rd c.BC),cf. LXX.Exod.13.15, +others; τὴν χώραν χρημάτων οὐκ ὀλίγων 2nd c.BC: Polybius Historicus 18.16.1; ἡμᾶς ἀπὸ πάσης ἀνομίας NT.Titus.2.14 ">NT+3rd c.BC+</a>]:—<i>passive</i>, <b>to be ransomed</b>, <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἰδίων</span> <span class='asgreek'>λε==λυτρόω==ῶσθαι</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.170, compare 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1164b34; αἵματι NT.1Pet.1.18. ">NT+4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be released</b> from an obligation, [<a href="javascript:void(0)" title=" “PEleph.” 19.8 (3rd c.BC). ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> mistranslation of Hebrew '<b>rp</b> 'break the neck', [<a href="javascript:void(0)" title=" LXX.Exod.13.13 ">LXX</a>]. -<span class='asgreek'>ών</span>, <span class='asgreek'>ῶνος</span>, <span class='asgreek'>ὁ</span>, ={<span class='asgreek'>ἀπόπατος</span>}[<a href="javascript:void(0)" title=" 2, LXX.2Kgs.10.27, “Anecdota Graeca - Bekker” 433. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.13.15]] ☩ [[Titus.2.14]] ☩ [[1Pet.1.18]] ☩ [[Exod.13.13]] ☩ [[2Kgs.10.27]]
+</sub></small>

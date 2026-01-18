@@ -1,0 +1,26 @@
+**Genesis 20:14** 
+<small><sub>**KJV:**</sub></small>
+And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave [them] unto Abraham, and restored him Sarah his wife.
+<small><sub>**BSB:**</sub></small>
+So Abimelech brought sheep and cattle, menservants and maidservants, and he gave them to Abraham and restored his wife Sarah to him.
+<small><sub>**Literal:**</sub></small>
+and  he took Abimelech sheep and  cattle and  [male] servants and  female servants and  he gave [them] to  Abraham and  he restored to \<the>  him \<obj.> Sarah wife  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.13|<< Genesis 20:13]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.15|Genesis 20:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he took  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקַּ֨ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abimelech  | <span class="ashebrew"><big>אֲבִימֶ֜לֶךְ</big></span><small><sup>[[H0040G]]</sup></small> &#8207;| 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sheep  | <span class="ashebrew"><big>צֹ֣אן</big></span><small><sup>[[H6629G]]</sup></small> &#8207;| tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cattle  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בָקָ֗ר</big></span><small><sup>[[H1241]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [male] servants  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲבָדִים֙</big></span><small><sup>[[H5650]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.va.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and female servants  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁפָחֹ֔ת</big></span><small><sup>[[H8198]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.fa.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he gave [them]  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתֵּ֖ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Abraham  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַבְרָהָ֑ם</big></span><small><sup>[[H0085]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he restored  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֣שֶׁב</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.shev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  | <span class="ashebrew"><big>ל֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֖ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sarah  | <span class="ashebrew"><big>שָׂרָ֥ה</big></span><small><sup>[[H8283]]</sup></small> &#8207;| sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wife his  | <span class="ashebrew"><big>אִשְׁתּֽ</big></span><small><sup>[[H0802H]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'ish.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.13|<< Genesis 20:13]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.15|Genesis 20:15 >>]]</td></tr></table>
+
+

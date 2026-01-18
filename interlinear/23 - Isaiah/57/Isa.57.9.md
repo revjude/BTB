@@ -1,0 +1,26 @@
+**Isaiah 57:9** 
+<small><sub>**KJV:**</sub></small>
+And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst debase [thyself even] unto hell.
+<small><sub>**BSB:**</sub></small>
+You went to Molech with oil and multiplied your perfumes. You have sent your envoys a great distance; you have descended even to Sheol itself.
+<small><sub>**Literal:**</sub></small>
+and  you journeyed to the  king with \<the>  oil and  you increased perfumes  your and  you sent envoys  your to from  a distance and  you showed abasement to Sheol<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.8|<< Isaiah 57:8]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.10|Isaiah 57:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you journeyed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תָּשֻׁ֤רִי</big></span><small><sup>[[H7788]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ta.Shu.ri<small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the king  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֶּ֙לֶךְ֙</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> oil  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שֶּׁ֔מֶן</big></span><small><sup>[[H8081]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> She.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you increased  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תַּרְבִּ֖י</big></span><small><sup>[[H7235A]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tar.Bi<small><sup>[[HVhw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perfumes your  | <span class="ashebrew"><big>רִקֻּחָ֑יִ</big></span><small><sup>[[H7547]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ri.ku.Cha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you sent  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּשַׁלְּחִ֤י</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.sha.le.Chi<small><sup>[[HVpw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| envoys your  | <span class="ashebrew"><big>צִרַ֙י</big></span><small><sup>[[H6735A]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9022]]</sup></small> &#8207;[^1] | tzi.Rai<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a distance  | <span class="ashebrew"><big>מֵ֣</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>רָחֹ֔ק</big></span><small><sup>[[H7350]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you showed abasement  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תַּשְׁפִּ֖ילִי</big></span><small><sup>[[H8213]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tash.Pi.li<small><sup>[[HVhw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheol  | <span class="ashebrew"><big>שְׁאֽוֹל</big></span><small><sup>[[H7585]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| she.'ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.8|<< Isaiah 57:8]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.10|Isaiah 57:10 >>]]</td></tr></table>
+
+[^1]: ==ABH== spelled: **<span class="ashebrew"><big>צִרַ֙יִךְ֙</big></span>**
+

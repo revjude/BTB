@@ -1,0 +1,33 @@
+**1 Samuel 29:9** 
+<small><sub>**KJV:**</sub></small>
+And Achish answered and said to David, I know that thou [art] good in my sight, as an angel of God: notwithstanding the princes of the Philistines have said, He shall not go up with us to the battle.
+<small><sub>**BSB:**</sub></small>
+Achish replied, “I know that you are as pleasing in my sight as an angel of God. But the commanders of the Philistines have said, ‘He must not go into battle with us.’
+<small><sub>**Literal:**</sub></small>
+and  he answered Achish and  he said to David I know that [are] good you in  view  my like  an angel of God nevertheless [the] commanders of [the] Philistines they have said not he will go up with  us in \<the>  battle<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.8|<< 1 Samuel 29:8]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.10|1 Samuel 29:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he answered  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֣עַן</big></span><small><sup>[[H6030B]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Achish  | <span class="ashebrew"><big>אָכִישׁ֮</big></span><small><sup>[[H0397]]</sup></small> &#8207;| 'a.Khish<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִד֒</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I know  | <span class="ashebrew"><big>יָדַ֕עְתִּי</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ya.Da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] good  | <span class="ashebrew"><big>ט֥וֹב</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתָּ֛ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in view my  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵינַ֖</big></span><small><sup>[[H5869H]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like an angel of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מַלְאַ֣ךְ</big></span><small><sup>[[H4397H]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱלֹהִ֑ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nevertheless  | <span class="ashebrew"><big>אַ֣ךְ</big></span><small><sup>[[H0389]]</sup></small> &#8207;| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] commanders of  | <span class="ashebrew"><big>שָׂרֵ֤י</big></span><small><sup>[[H8269]]</sup></small> &#8207;| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  | <span class="ashebrew"><big>פְלִשְׁתִּים֙</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have said  | <span class="ashebrew"><big>אָֽמְר֔וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.me.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will go up  | <span class="ashebrew"><big>יַעֲלֶ֥ה</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| ya.'a.Leh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with us  | <span class="ashebrew"><big>עִמָּ֖</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| 'i.Ma.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> battle  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִּלְחָמָֽה</big></span><small><sup>[[H4421]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.8|<< 1 Samuel 29:8]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.10|1 Samuel 29:10 >>]]</td></tr></table>
+
+

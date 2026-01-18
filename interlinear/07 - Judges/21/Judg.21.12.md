@@ -1,0 +1,35 @@
+**Judges 21:12** 
+<small><sub>**KJV:**</sub></small>
+And they found among the inhabitants of Jabeshgilead four hundred young virgins, that had known no man by lying with any male: and they brought them unto the camp to Shiloh, which [is] in the land of Canaan.
+<small><sub>**BSB:**</sub></small>
+So they found among the inhabitants of Jabesh-gilead four hundred young women who had not had relations with a man, and they brought them to the camp at Shiloh in the land of Canaan.
+<small><sub>**Literal:**</sub></small>
+and  they found of  [the] inhabitants of Jabesh Gilead four hundred\<s> young woman virgin[s] who not she had known a man to  lying of a male and  they brought \<obj.>  them to the  camp Shiloh which [is] in  [the] land of Canaan<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.11|<< Judges 21:11]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.13|Judges 21:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they found  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּמְצְא֞וּ</big></span><small><sup>[[H4672]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yim.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] inhabitants of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יּוֹשְׁבֵ֣י</big></span><small><sup>[[H3427]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jabesh  | <span class="ashebrew"><big>יָבֵ֣ישׁ</big></span><small><sup>[[H3003G]]</sup></small> &#8207;| ya.Veish<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  | <span class="ashebrew"><big>גִּלְעָ֗ד</big></span><small><sup>[[H1568L]]</sup></small> &#8207;| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  | <span class="ashebrew"><big>אַרְבַּ֤ע</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.Ba'<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵאוֹת֙</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young woman  | <span class="ashebrew"><big>נַעֲרָ֣ה</big></span><small><sup>[[H5291]]</sup></small> &#8207;| na.'a.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| virgin[s]  | <span class="ashebrew"><big>בְתוּלָ֔ה</big></span><small><sup>[[H1330]]</sup></small> &#8207;| ve.tu.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֧ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she had known  | <span class="ashebrew"><big>יָדְעָ֛ה</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ya.de.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  | <span class="ashebrew"><big>אִ֖ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to lying of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִשְׁכַּ֣ב</big></span><small><sup>[[H4904]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mish.Kav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a male  | <span class="ashebrew"><big>זָכָ֑ר</big></span><small><sup>[[H2145]]</sup></small> &#8207;| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they brought  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבִ֨יאוּ</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vi.'u<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אוֹתָ֤</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the camp  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּחֲנֶה֙</big></span><small><sup>[[H4264]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ma.cha.Neh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shiloh  | <span class="ashebrew"><big>שִׁלֹ֔ה</big></span><small><sup>[[H7887]]</sup></small> &#8207;| shi.Loh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֖ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in [the] land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֥רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  | <span class="ashebrew"><big>כְּנָֽעַן</big></span><small><sup>[[H3667A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.11|<< Judges 21:11]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.13|Judges 21:13 >>]]</td></tr></table>
+
+

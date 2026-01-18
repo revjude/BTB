@@ -1,0 +1,15 @@
+<big><span class="ashebrew">‎חָמַם‎</span></big> **châmam** <small>*(khaw-mam')*</small> ==**to warm**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root</small>
+
+$\quad$ enflame self, get (have) heat, be (wax) hot, (be, wax) warm (self, at).
+- ***to be hot*** (literally or figuratively)
+
+**1)** to be hot, become warm
+$\quad$ **1a)** (Qal)
+$\quad$ $\quad$ **1a1)** to be or grow warm
+$\quad$ $\quad$ **1a2)** of passion (fig.)
+$\quad$ **1b)** (Niphal) to become aroused, inflame oneself with
+$\quad$ **1c)** (Piel) to warm
+$\quad$ **1d)** (Hithpael) to warm oneself
+
+<sub><small>See Greek: </small></sub><span class="asgreek">ἀδίκημα</span><sup><small>[[G0092]]</small></sup> · <span class="asgreek">θάλπω</span><sup><small>[[G2282]]</small></sup> · <span class="asgreek">θερμαίνω</span><sup><small>[[G2328]]</small></sup> · <span class="asgreek">θέρμη</span><sup><small>[[G2329]]</small></sup>

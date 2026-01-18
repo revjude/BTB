@@ -1,0 +1,28 @@
+**Deuteronomy 1:35** 
+<small><sub>**KJV:**</sub></small>
+Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,
+<small><sub>**BSB:**</sub></small>
+“Not one of the men of this evil generation shall see the good land I swore to give your fathers,
+<small><sub>**Literal:**</sub></small>
+if he will see anyone among the  men \<the>  these the  generation \<the>  evil \<the>  this \<obj.> the  land \<the>  good which I swore to  give to  ancestors  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.34|<< Deuteronomy 1:34]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.36|Deuteronomy 1:36 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will see  | <span class="ashebrew"><big>יִרְאֶ֥ה</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| yir.'Eh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  | <span class="ashebrew"><big>אִישׁ֙</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the men  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֲנָשִׁ֣ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> these  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֵ֔לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the generation  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דּ֥וֹר</big></span><small><sup>[[H1755]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> evil  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רָ֖ע</big></span><small><sup>[[H7451H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֶּ֑ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֚ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> good  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>טּוֹבָ֔ה</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> to.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I swore  | <span class="ashebrew"><big>נִשְׁבַּ֔עְתִּי</big></span><small><sup>[[H7650]]</sup></small> &#8207;| nish.Ba'.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תֵ֖ת</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to ancestors your  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲבֹתֵי</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.34|<< Deuteronomy 1:34]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.36|Deuteronomy 1:36 >>]]</td></tr></table>
+
+

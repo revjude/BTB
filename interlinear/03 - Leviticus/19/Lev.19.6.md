@@ -1,0 +1,23 @@
+**Leviticus 19:6** 
+<small><sub>**KJV:**</sub></small>
+It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire.
+<small><sub>**BSB:**</sub></small>
+It shall be eaten on the day you sacrifice it, or on the next day; but what remains on the third day must be burned up.
+<small><sub>**Literal:**</sub></small>
+on  [the] day of sacrifice  your it will be eaten and  from  [the] next day and  \<the>  [what] remains until [the] day \<the>  third with \<the>  fire it will be burned<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.5|<< Leviticus 19:5]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.7|Leviticus 19:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| on [the] day of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י֧וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sacrifice your  | <span class="ashebrew"><big>זִבְחֲ</big></span><small><sup>[[H2077]]</sup></small> <span class="ashebrew"><big>כֶ֛ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| ziv.cha.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be eaten  | <span class="ashebrew"><big>יֵאָכֵ֖ל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| ye.'a.Khel<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from [the] next day  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מָּחֳרָ֑ת</big></span><small><sup>[[H4283]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> mo.cho.Rat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<the> [what] remains  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נּוֹתָר֙</big></span><small><sup>[[H3498]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> no.Tar<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] day  | <span class="ashebrew"><big>י֣וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> third  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁלִישִׁ֔י</big></span><small><sup>[[H7992]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.li.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> fire  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֵ֖שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be burned  | <span class="ashebrew"><big>יִשָּׂרֵֽף</big></span><small><sup>[[H8313]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yi.sa.Ref<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.5|<< Leviticus 19:5]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.7|Leviticus 19:7 >>]]</td></tr></table>
+
+

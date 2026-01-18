@@ -1,0 +1,34 @@
+**Jeremiah 51:11** 
+<small><sub>**KJV:**</sub></small>
+Make bright the arrows; gather the shields: the LORD hath raised up the spirit of the kings of the Medes: for his device [is] against Babylon, to destroy it; because it [is] the vengeance of the LORD, the vengeance of his temple.
+<small><sub>**BSB:**</sub></small>
+Sharpen the arrows! Fill the quivers! The LORD has aroused the spirit of the kings of the Medes, because His plan is aimed at Babylon to destroy her, for it is the vengeance of the LORD—vengeance for His temple.
+<small><sub>**Literal:**</sub></small>
+sharpen the  arrows fill the  shields he has roused Yahweh \<obj.> [the] spirit of [the] kings of Media for on Babylon purpose  his [is] to  destroy  it for [is] [the] vengeance of Yahweh it [the] vengeance of temple  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.10|<< Jeremiah 51:10]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.12|Jeremiah 51:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| sharpen  | <span class="ashebrew"><big>הָבֵ֣רוּ</big></span><small><sup>[[H1305]]</sup></small> &#8207;| ha.Ve.ru<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the arrows  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חִצִּים֮</big></span><small><sup>[[H2671]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chi.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fill  | <span class="ashebrew"><big>מִלְא֣וּ</big></span><small><sup>[[H4390]]</sup></small> &#8207;| mil.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the shields  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁלָטִים֒</big></span><small><sup>[[H7982]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.la.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has roused  | <span class="ashebrew"><big>הֵעִ֣יר</big></span><small><sup>[[H5782]]</sup></small> &#8207;| he.'Ir<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] spirit of  | <span class="ashebrew"><big>ר֙וּחַ֙</big></span><small><sup>[[H7307G]]</sup></small> &#8207;| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kings of  | <span class="ashebrew"><big>מַלְכֵ֣י</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Media  | <span class="ashebrew"><big>מָדַ֔י</big></span><small><sup>[[H4074I]]</sup></small> &#8207;| ma.Dai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="ashebrew"><big>בָּבֶ֥ל</big></span><small><sup>[[H0894]]</sup></small> &#8207;| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| purpose his  | <span class="ashebrew"><big>מְזִמָּת֖</big></span><small><sup>[[H4209]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| me.zi.ma.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] to destroy it  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַשְׁחִיתָ֑</big></span><small><sup>[[H7843]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hash.chi.Ta<small><sup>[[HVhcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] vengeance of  | <span class="ashebrew"><big>נִקְמַ֤ת</big></span><small><sup>[[H5360]]</sup></small> &#8207;| nik.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>הִ֔יא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vengeance of  | <span class="ashebrew"><big>נִקְמַ֖ת</big></span><small><sup>[[H5360]]</sup></small> &#8207;| nik.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| temple his  | <span class="ashebrew"><big>הֵיכָלֽ</big></span><small><sup>[[H1964G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hei.kha.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.10|<< Jeremiah 51:10]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.12|Jeremiah 51:12 >>]]</td></tr></table>
+
+

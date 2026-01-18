@@ -1,0 +1,24 @@
+**Isaiah 64:8** (64:7)
+<small><sub>**KJV:**</sub></small>
+But now, O LORD, thou [art] our father; we [are] the clay, and thou our potter; and we all [are] the work of thy hand.
+<small><sub>**BSB:**</sub></small>
+But now, O LORD, You are our Father; we are the clay, and You are the potter; we are all the work of Your hand.
+<small><sub>**Literal:**</sub></small>
+and  now O Yahweh [are] father  our you we [are] the  clay and  you [are] [the] [one who] formed  us and  [are] [the] work of hand  your all of  us<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.7|<< Isaiah 64:7]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.9|Isaiah 64:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and now  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַתָּ֥ה</big></span><small><sup>[[H6258]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] father our  | <span class="ashebrew"><big>אָבִ֣י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אָ֑תָּה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we  | <span class="ashebrew"><big>אֲנַ֤חְנוּ</big></span><small><sup>[[H0587]]</sup></small> &#8207;| 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] the clay  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֹ֙מֶר֙</big></span><small><sup>[[H2563A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Cho.mer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַתָּ֣ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] [one who] formed us  | <span class="ashebrew"><big>יֹצְרֵ֔</big></span><small><sup>[[H3335H]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| yo.tze.Re.<small><sup>[[HVqrmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [are] [the] work of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַעֲשֵׂ֥ה</big></span><small><sup>[[H4639G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand your  | <span class="ashebrew"><big>יָדְ</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ya.de.<small><sup>[[HNcbsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of us  | <span class="ashebrew"><big>כֻּלָּֽ</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ku.La.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.7|<< Isaiah 64:7]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.9|Isaiah 64:9 >>]]</td></tr></table>
+
+

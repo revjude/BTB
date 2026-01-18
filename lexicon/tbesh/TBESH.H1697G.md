@@ -1,0 +1,2 @@
+<span class="ashebrew">‎דָּבָר‎</span> <small>***(da.var)***</small> ==**word**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+- : word/speech/command

@@ -1,0 +1,24 @@
+**Joshua 13:7** 
+<small><sub>**KJV:**</sub></small>
+Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,
+<small><sub>**BSB:**</sub></small>
+Now therefore divide this land as an inheritance to the nine tribes and the half-tribe of Manasseh.”
+<small><sub>**Literal:**</sub></small>
+and  therefore apportion \<obj.> the  land \<the>  this \<in>  an inheritance to  [the] nine the  tribes and  [the] half of the  tribe \<the>  Manasseh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.6|<< Joshua 13:6]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.8|Joshua 13:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and therefore  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַתָּ֗ה</big></span><small><sup>[[H6258]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| apportion  | <span class="ashebrew"><big>חַלֵּ֞ק</big></span><small><sup>[[H2505A]]</sup></small> &#8207;| cha.Lek<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֧רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֹּ֛את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> an inheritance  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נַחֲלָ֖ה</big></span><small><sup>[[H5159]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> na.cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] nine  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תִשְׁעַ֣ת</big></span><small><sup>[[H8672]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> tish.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tribes  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁבָטִ֑ים</big></span><small><sup>[[H7626H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.va.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] half of  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֲצִ֖י</big></span><small><sup>[[H2677]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tribe  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֵּׁ֥בֶט</big></span><small><sup>[[H7626H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> She.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Manasseh  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְנַשֶּֽׁה</big></span><small><sup>[[H4519G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ha<small><sup>[[HTd]]</sup></small> m.na.Sheh<small><sup>[[HNgbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.6|<< Joshua 13:6]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.8|Joshua 13:8 >>]]</td></tr></table>
+
+

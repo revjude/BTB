@@ -1,0 +1,23 @@
+**Song of Solomon 5:9** 
+<small><sub>**KJV:**</sub></small>
+What [is] thy beloved more than [another] beloved, O thou fairest among women? what [is] thy beloved more than [another] beloved, that thou dost so charge us?
+<small><sub>**BSB:**</sub></small>
+How is your beloved better than others, O most beautiful among women? How is your beloved better than another, that you charge us so?
+<small><sub>**Literal:**</sub></small>
+how [is]? lover  your more than  a lover O  beautiful [one] among \<the>  women how? [is] lover  your more than  a lover that  thus you have adjured  us<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.8|<< Song of Solomon 5:8]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.10|Song of Solomon 5:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| how [is]?  | <span class="ashebrew"><big>מַה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lover your  | <span class="ashebrew"><big>דּוֹדֵ֣</big></span><small><sup>[[H1730G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| do.De<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than a lover  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>דּ֔וֹד</big></span><small><sup>[[H1730G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Dod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O beautiful [one]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּפָ֖ה</big></span><small><sup>[[H3303]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> ya.Fah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among \<the> women  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נָּשִׁ֑ים</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how?  | <span class="ashebrew"><big>מַה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] lover your  | <span class="ashebrew"><big>דּוֹדֵ֣</big></span><small><sup>[[H1730G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| do.De<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than a lover  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>דּ֔וֹד</big></span><small><sup>[[H1730G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Dod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that thus  | <span class="ashebrew"><big>שֶׁ</big></span><small><sup>[[H9007]]</sup></small> <span class="ashebrew"><big>כָּ֖כָה</big></span><small><sup>[[H3602]]</sup></small> &#8207;| she.<small><sup>[[HTr]]</sup></small> Ka.khah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have adjured us  | <span class="ashebrew"><big>הִשְׁבַּעְתָּֽ</big></span><small><sup>[[H7650]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hish.ba'.Ta.<small><sup>[[HVhp2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.8|<< Song of Solomon 5:8]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.10|Song of Solomon 5:10 >>]]</td></tr></table>
+
+

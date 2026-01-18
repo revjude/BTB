@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==ἀποσφενδονάω==</span>-<span class='asgreek'>άω</span></b>, 
+
+
+ <b>hurl from</b> or <b>as from a sling,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 2.50, 2nd c.AD: Lucianus Sophista “JTr.” 33">Refs 1st c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" LXX.4Mac.16.21, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1062a.">LXX+1st c.AD+</a>]
+

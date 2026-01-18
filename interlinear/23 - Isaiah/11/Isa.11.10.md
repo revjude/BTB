@@ -1,0 +1,28 @@
+**Isaiah 11:10** 
+<small><sub>**KJV:**</sub></small>
+And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek: and his rest shall be glorious.
+<small><sub>**BSB:**</sub></small>
+On that day the Root of Jesse will stand as a banner for the peoples. The nations will seek Him, and His place of rest will be glorious.
+<small><sub>**Literal:**</sub></small>
+and  it will be in the  day \<the>  that [the] root of Jesse who [will be] standing for  a standard of peoples \<to>  him nations they will seek and  it will be resting place  his glory<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.9|<< Isaiah 11:9]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.11|Isaiah 11:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָה֙</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the day  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּ֣וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ה֔וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] root of  | <span class="ashebrew"><big>שֹׁ֣רֶשׁ</big></span><small><sup>[[H8328]]</sup></small> &#8207;| Sho.resh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jesse  | <span class="ashebrew"><big>יִשַׁ֗י</big></span><small><sup>[[H3448]]</sup></small> &#8207;| yi.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֤ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] standing  | <span class="ashebrew"><big>עֹמֵד֙</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| 'o.Med<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for a standard of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נֵ֣ס</big></span><small><sup>[[H5251H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Nes<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peoples  | <span class="ashebrew"><big>עַמִּ֔ים</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> him  | <span class="ashebrew"><big>אֵלָ֖י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  | <span class="ashebrew"><big>גּוֹיִ֣ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will seek  | <span class="ashebrew"><big>יִדְרֹ֑שׁוּ</big></span><small><sup>[[H1875]]</sup></small> &#8207;| yid.Ro.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיְתָ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| resting place his  | <span class="ashebrew"><big>מְנֻחָת֖</big></span><small><sup>[[H4496H]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| me.nu.cha.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| glory  | <span class="ashebrew"><big>כָּבֽוֹד</big></span><small><sup>[[H3519]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.9|<< Isaiah 11:9]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.11|Isaiah 11:11 >>]]</td></tr></table>
+
+

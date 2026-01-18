@@ -1,0 +1,26 @@
+**Isaiah 58:1** 
+<small><sub>**KJV:**</sub></small>
+Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.
+<small><sub>**BSB:**</sub></small>
+“Cry aloud, do not hold back! Raise your voice like a ram’s horn. Declare to My people their transgression and to the house of Jacob their sins.
+<small><sub>**Literal:**</sub></small>
+call out with  a throat may not you refrain like \<the>  trumpet raise voice  your and  declare to  people  my transgression  their and  to  [the] house of Jacob sins  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.21|<< Isaiah 57:21]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.2|Isaiah 58:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| call out  | <span class="ashebrew"><big>קְרָ֤א</big></span><small><sup>[[H7121I]]</sup></small> &#8207;| ke.Ra'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with a throat  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גָרוֹן֙</big></span><small><sup>[[H1627]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> ga.rOn<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you refrain  | <span class="ashebrew"><big>תַּחְשֹׂ֔ךְ</big></span><small><sup>[[H2820]]</sup></small> &#8207;| tach.Sokh<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> trumpet  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>שּׁוֹפָ֖ר</big></span><small><sup>[[H7782]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| raise  | <span class="ashebrew"><big>הָרֵ֣ם</big></span><small><sup>[[H7311A]]</sup></small> &#8207;| ha.Rem<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| voice your  | <span class="ashebrew"><big>קוֹלֶ֑</big></span><small><sup>[[H6963A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ko.Le.<small><sup>[[HNcmsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and declare  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַגֵּ֤ד</big></span><small><sup>[[H5046]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.Ged<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to people my  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עַמִּ</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| transgression their  | <span class="ashebrew"><big>פִּשְׁעָ֔</big></span><small><sup>[[H6588]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| pish.'A<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to [the] house of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בֵ֥ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֖ב</big></span><small><sup>[[H3290]]</sup></small> &#8207;| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sins their  | <span class="ashebrew"><big>חַטֹּאתָֽ</big></span><small><sup>[[H2403B]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| cha.to.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.21|<< Isaiah 57:21]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.2|Isaiah 58:2 >>]]</td></tr></table>
+
+

@@ -1,0 +1,22 @@
+**Psalms 37:40** 
+<small><sub>**KJV:**</sub></small>
+And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.
+<small><sub>**BSB:**</sub></small>
+The LORD helps and delivers them; He rescues and saves them from the wicked, because they take refuge in Him.
+<small><sub>**Literal:**</sub></small>
+and  he helped  them Yahweh and  he delivered  them he delivers  them from  wicked [people] and  he saves  them for they have taken refuge in  him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.39|<< Psalms 37:39]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.0|Psalms 38:0 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he helped them  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעְזְרֵ֥</big></span><small><sup>[[H5826]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya'.ze.Re<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he delivered them  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְפַ֫לְּטֵ֥</big></span><small><sup>[[H6403]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Fa.le.Te<small><sup>[[HVpw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he delivers them  | <span class="ashebrew"><big>יְפַלְּטֵ֣</big></span><small><sup>[[H6403]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| ye.fa.le.Te<small><sup>[[HVpi3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from wicked [people]  | <span class="ashebrew"><big>מֵ֭</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>רְשָׁעִים</big></span><small><sup>[[H7563]]</sup></small> &#8207;| Me.<small><sup>[[HR]]</sup></small> re.sha.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he saves them  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יוֹשִׁיעֵ֑</big></span><small><sup>[[H3467]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yo.shi.'E<small><sup>[[HVhu3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have taken refuge  | <span class="ashebrew"><big>חָ֥סוּ</big></span><small><sup>[[H2620]]</sup></small> &#8207;| Cha.su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in him  | <span class="ashebrew"><big>בֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| v<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.39|<< Psalms 37:39]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.0|Psalms 38:0 >>]]</td></tr></table>
+
+

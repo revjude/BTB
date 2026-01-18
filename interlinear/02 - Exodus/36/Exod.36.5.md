@@ -1,0 +1,28 @@
+**Exodus 36:5** 
+<small><sub>**KJV:**</sub></small>
+And they spake unto Moses, saying, The people bring much more than enough for the service of the work, which the LORD commanded to make.
+<small><sub>**BSB:**</sub></small>
+and said to Moses, “The people are bringing more than enough for doing the work the LORD has commanded us to do.”
+<small><sub>**Literal:**</sub></small>
+and  they said to Moses \<to>  saying [are] multiplying the  people to  bring more than  sufficiency of the  service for the  work which he has commanded Yahweh to  do \<obj.>  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.4|<< Exodus 36:4]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.6|Exodus 36:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּאמְרוּ֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  | <span class="ashebrew"><big>מֹשֶׁ֣ה</big></span><small><sup>[[H4872]]</sup></small> &#8207;| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵּ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹ֔ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] multiplying  | <span class="ashebrew"><big>מַרְבִּ֥ים</big></span><small><sup>[[H7235A]]</sup></small> &#8207;| mar.Bim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֖ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to bring  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הָבִ֑יא</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Vi'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than sufficiency of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>דֵּ֤י</big></span><small><sup>[[H1767]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Dei<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the service  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֲבֹדָה֙</big></span><small><sup>[[H5656H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.vo.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the work  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מְּלָאכָ֔ה</big></span><small><sup>[[H4399]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has commanded  | <span class="ashebrew"><big>צִוָּ֥ה</big></span><small><sup>[[H6680]]</sup></small> &#8207;| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to do  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֲשֹׂ֥ת</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹתָֽ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.4|<< Exodus 36:4]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.6|Exodus 36:6 >>]]</td></tr></table>
+
+

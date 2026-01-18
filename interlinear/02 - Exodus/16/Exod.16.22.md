@@ -1,0 +1,28 @@
+**Exodus 16:22** 
+<small><sub>**KJV:**</sub></small>
+And it came to pass, [that] on the sixth day they gathered twice as much bread, two omers for one [man]: and all the rulers of the congregation came and told Moses.
+<small><sub>**BSB:**</sub></small>
+On the sixth day, they gathered twice as much food—two omers per person—and all the leaders of the congregation came and reported this to Moses.
+<small><sub>**Literal:**</sub></small>
+and  it was on the  day \<the>  sixth they gathered bread of double \<the> two \<the>  omer[s] for the  one and  they came all [the] leaders of the  congregation and  they told to  Moses<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.21|<< Exodus 16:21]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.23|Exodus 16:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִ֣י</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the day  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּ֣וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> sixth  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שִּׁשִּׁ֗י</big></span><small><sup>[[H8345]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> shi.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they gathered  | <span class="ashebrew"><big>לָֽקְט֥וּ</big></span><small><sup>[[H3950]]</sup></small> &#8207;| la.ke.Tu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread of  | <span class="ashebrew"><big>לֶ֙חֶם֙</big></span><small><sup>[[H3899H]]</sup></small> &#8207;| le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| double  | <span class="ashebrew"><big>מִשְׁנֶ֔ה</big></span><small><sup>[[H4932H]]</sup></small> &#8207;| mish.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> two  | <span class="ashebrew"><big>שְׁנֵ֥י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> omer[s]  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֹ֖מֶר</big></span><small><sup>[[H6016B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'O.mer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the one  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֶחָ֑ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבֹ֙אוּ֙</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] leaders of  | <span class="ashebrew"><big>נְשִׂיאֵ֣י</big></span><small><sup>[[H5387A]]</sup></small> &#8207;| ne.si.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the congregation  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֵדָ֔ה</big></span><small><sup>[[H5712]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'e.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they told  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּגִּ֖ידוּ</big></span><small><sup>[[H5046]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Gi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Moses  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֹשֶֽׁה</big></span><small><sup>[[H4872]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.21|<< Exodus 16:21]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.23|Exodus 16:23 >>]]</td></tr></table>
+
+

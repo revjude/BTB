@@ -1,0 +1,25 @@
+**Leviticus 1:16** 
+<small><sub>**KJV:**</sub></small>
+And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:
+<small><sub>**BSB:**</sub></small>
+And he is to remove the crop with its contents and throw it to the east side of the altar, in the place for ashes.
+<small><sub>**Literal:**</sub></small>
+and  he will remove \<obj.> craw  its with  feather[s]  its and  he will throw \<obj.>  it beside the  altar east  -ward to [the] place of the  fatty ash<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.15|<< Leviticus 1:15]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.17|Leviticus 1:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will remove  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֵסִ֥יר</big></span><small><sup>[[H5493G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> he.Sir<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| craw its  | <span class="ashebrew"><big>מֻרְאָת֖</big></span><small><sup>[[H4760]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| mur.'a.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with feather[s] its  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נֹצָתָ֑</big></span><small><sup>[[H5133]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> no.tza.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will throw  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִשְׁלִ֨יךְ</big></span><small><sup>[[H7993]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hish.Likh<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹתָ֜</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beside  | <span class="ashebrew"><big>אֵ֤צֶל</big></span><small><sup>[[H0681]]</sup></small> &#8207;| 'E.tzel<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the altar  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּזְבֵּ֙חַ֙</big></span><small><sup>[[H4196]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| east -ward  | <span class="ashebrew"><big>קֵ֔דְמָ</big></span><small><sup>[[H6924B]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| Ke.de.ma<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] place of  | <span class="ashebrew"><big>מְק֖וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| me.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the fatty ash  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דָּֽשֶׁן</big></span><small><sup>[[H1880]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Da.shen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.15|<< Leviticus 1:15]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.17|Leviticus 1:17 >>]]</td></tr></table>
+
+

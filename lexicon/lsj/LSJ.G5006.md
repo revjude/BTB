@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==ταλαντιαῖος==</span>-<span class='asgreek'>ιαῖος</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, 
+
+
+ <b>worth a talent</b>, <span class='asgreek'>οἶκος</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 27.64; κτῆσις 2nd c.BC: Polybius Historicus 23.4.3 ">Refs 4th c.BC+</a>]; <span class='asgreek'>νοσήματα</span> <span class='asgreek'>τ</span>. <b>costing a talent</b>, probably in fee to the physician, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Alcaeus Comicus 12. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> of persons, <b>worth a talent</b>, i.e. <b>possessed of one</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Crates Comicus 32 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἔγγυοι</span> <span class='asgreek'>τ</span>. giving surety <b>to the amount of a talent</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Oeconomica” 1350a19. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>weighing a talent</b>, <span class='asgreek'>ξύλον</span> [<a href="javascript:void(0)" title=" [prev. author] “Cael.” 311b3 ">Refs</a>]; <span class='asgreek'>λιθοβόλος</span> <span class='asgreek'>τ</span>. an engine throwing stones <b>of a talent weight</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 9.41.8 codices ">Refs 2nd c.BC+</a>]; <span class='asgreek'>πετροβόλος</span> <span class='asgreek'>τ</span>. [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 85.2. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>in which the prize is a talent</b>, <span class='asgreek'>ἀγών</span> [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2810.18 (from Aphrodisias). ">Refs</a>]

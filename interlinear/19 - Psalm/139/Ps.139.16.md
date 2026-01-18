@@ -1,0 +1,29 @@
+**Psalms 139:16** 
+<small><sub>**KJV:**</sub></small>
+Thine eyes did see my substance, yet being unperfect; and in thy book all [my members] were written, [which] in continuance were fashioned, when [as yet there was] none of them.
+<small><sub>**BSB:**</sub></small>
+Your eyes saw my unformed body; all my days were written in Your book and ordained for me before one of them came to be.
+<small><sub>**Literal:**</sub></small>
+shapeless form  my they saw eyes  your and  on scroll  your all of  them they were written days [which] they were ordained and  to  it one among  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.15|<< Psalms 139:15]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.17|Psalms 139:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| shapeless form my  | <span class="ashebrew"><big>גָּלְמִ֤</big></span><small><sup>[[H1564]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| gal.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they saw  | <span class="ashebrew"><big>רָ֘א֤וּ</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ra.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes your  | <span class="ashebrew"><big>עֵינֶ֗י</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'ei.Nei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַֽל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| scroll your  | <span class="ashebrew"><big>סִפְרְ</big></span><small><sup>[[H5612H]]</sup></small> <span class="ashebrew"><big>ךָ֮</big></span><small><sup>[[H9021]]</sup></small> &#8207;| sif.re.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  | <span class="ashebrew"><big>כֻּלָּ֪</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were written  | <span class="ashebrew"><big>יִכָּ֫תֵ֥בוּ</big></span><small><sup>[[H3789]]</sup></small> &#8207;| yi.Ka.Te.vu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִ֥ים</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] they were ordained  | <span class="ashebrew"><big>יֻצָּ֑רוּ</big></span><small><sup>[[H3335G]]</sup></small> &#8207;| yu.Tza.ru<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to it  [^3] | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ל֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;[^4] | ve.<small><sup>[[HC]]</sup></small> l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָ֣ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among them  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.15|<< Psalms 139:15]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.17|Psalms 139:17 >>]]</td></tr></table>
+
+[^1]: ==K==: **and not ** | <small><sup>[[H3808]]</sup></small><span class="ashebrew"><big>לֹא</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> 
+[^2]: ==K==: **and not ** | <small><sup>[[H3808]]</sup></small><span class="ashebrew"><big>לֹא</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> 
+[^3]: ==K==: **and not ** | <small><sup>[[H3808]]</sup></small><span class="ashebrew"><big>לֹא</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> 
+[^4]: ==L== spelled: **<span class="ashebrew"><big>וְלֹ֖א</big></span>**
+

@@ -1,0 +1,25 @@
+**Nehemiah 13:16** 
+<small><sub>**KJV:**</sub></small>
+There dwelt men of Tyre also therein, which brought fish, and all manner of ware, and sold on the sabbath unto the children of Judah, and in Jerusalem.
+<small><sub>**BSB:**</sub></small>
+Additionally, men of Tyre who lived there were importing fish and all kinds of merchandise and selling them on the Sabbath to the people of Judah in Jerusalem.
+<small><sub>**Literal:**</sub></small>
+and  the  Tyrians [who] they dwelt in  it [were] bringing fish and  every merchandise and  [were] selling [it] on the  sabbath to  [the] people of Judah and  in  Jerusalem<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.15|<< Nehemiah 13:15]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.17|Nehemiah 13:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the Tyrians  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צֹּרִים֙</big></span><small><sup>[[H6876]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> tzo.Rim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] they dwelt  | <span class="ashebrew"><big>יָ֣שְׁבוּ</big></span><small><sup>[[H3427]]</sup></small> &#8207;| Ya.she.vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in it  | <span class="ashebrew"><big>בָ֔</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] bringing  | <span class="ashebrew"><big>מְבִיאִ֥ים</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| me.vi.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fish  | <span class="ashebrew"><big>דָּ֖אג</big></span><small><sup>[[H1709H]]</sup></small> &#8207;| dag<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and every  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| merchandise  | <span class="ashebrew"><big>מֶ֑כֶר</big></span><small><sup>[[H4377]]</sup></small> &#8207;| Me.kher<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [were] selling [it]  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֹכְרִ֧ים</big></span><small><sup>[[H4376]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mo.khe.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the sabbath  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שַּׁבָּ֛ת</big></span><small><sup>[[H7676]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> sha.Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] people of  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְנֵ֥י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֖ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in Jerusalem  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ירוּשָׁלִָֽם</big></span><small><sup>[[H3389]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.15|<< Nehemiah 13:15]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.17|Nehemiah 13:17 >>]]</td></tr></table>
+
+

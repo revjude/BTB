@@ -1,0 +1,24 @@
+<span class="asform"><span class="asgreek"><span class="asbold">ἀν-οίγω</span></span></span> <span class="asetym">  <span class="asderivation">(<span class="asref"><span class="asgreek">ἀνά</span></span>, <span class="asref"><span class="asgreek">οἴγω</span></span> = <span class="asref"><span class="asgreek">οἴγνυμι</span></span>),</span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">פָּתַח</span> <small><sup>[[H6605]]</sup></small>;\]</span> </span>
+<span class="asitalic">to open</span>;
+<span class="asbullet"><span class="asbold">1.</span> trans., c. acc.; a door or gate, [[Acts.5.19|Ac 5:19]] [[Acts.12.14|12:14]], [[Rev.4.1|Re 4:1]]; pass., [[Acts.12.10|Ac 12:10]] [[Acts.16.26|16:26]], [[Acts.16.27|27]]; metaph. of opportunity or welcome, [[Acts.14.27|Ac 14:27]], [[Col.4.3|Col 4:3]], [[Rev.3.20|Re 3:20]]; pass., [[1Cor.16.9|I Co 16:9]], [[2Cor.2.12|II Co 2:12]], [[Rev.3.8|Re 3:8]]; absol. (sc. <span class="asgreek">θύραν</span>), [[Acts.5.23|Ac 5:23]] [[Acts.12.16|12:16]]; c. dat. pers., [[Luke.12.36|Lk 12:36]], [[John.10.3|Jo 10:3]]; metaph., [[Matt.7.7|Mt 7:7]], [[Matt.7.8|8]] [[Matt.25.11|25:11]], [[Luke.11.9|Lk 11:9]], [[Luke.11.10|10]] [[Luke.13.25|13:25]], [[Rev.3.7|Re 3:7]]; <span class="asgreek">θησαυρούς</span> ([[Sir.43.14|Si 43:14]]), [[Matt.2.11|Mt 2:11]]; <span class="asgreek">τ. μνημεῖα</span>, [[Matt.27.52|Mt 27:52]]; <span class="asgreek">τάφος</span>, [[Rom.3.13|Ro 3:13]]; <span class="asgreek">τ. φρέαρ</span>, [[Rev.9.2|Re 9:2]]; of heaven, [[Matt.3.16|Mt 3:16]], [[Luke.3.21|Lk 3:21]], [[Acts.10.11|Ac 10:11]], [[Rev.11.19|Re 11:19]] [[Rev.15.5|15:5]] [[Rev.19.11|19:11]]; <span class="asgreek">σφραγῖδα</span>, [[Rev.5.9|Re 5:9]] [[Rev.6.1|6:1]] ff. [[Rev.8.1|8:1]]; <span class="asgreek">βιβλίον</span>, <span class="asgreek">βιβλαρίδιον</span>, [[Luke.4.17|Lk 4:17]], [[Rev.5.2|Re 5:2-5]] [[Rev.10.2|10:2]], [[Rev.10.8|8]] [[Rev.20.12|20:12]]; <span class="asgreek">τ. στόμα</span>, [[Matt.17.27|Mt 17:27]]; id. Hebraistically ([[Num.22.28|Nu 22:28]], [[Job.3.1|Jb 3:1]], [[Isa.50.5|Is 50:5]], al.), of beginning to speak, [[Matt.5.2|Mt 5:2]], [[Acts.8.32|Ac 8:32]], [[Acts.8.35|35]] [[Acts.10.34|10:34]] [[Acts.18.14|18:14]]; seq. <span class="asgreek">εἰς βλαιφημίας</span>, [[Rev.13.6|Re 13:6]]; <span class="asgreek">ἐν παραβολαῖς</span> ([[Ps.78.2|Ps 77 (78):2]]), [[Matt.13.35|Mt 13:35]]; of recovering speech, [[Luke.1.64|Lk 1:64]]; of the earth opening, [[Rev.12.16|Re 12:16]]; <span class="asgreek">τ. ὀφθαλμούς</span>, [[Acts.9.8|Ac 9:8]], [[Acts.9.40|40]]; id. c. gen. pers., of restoring sight, [[Matt.9.30|Mt 9:30]] [[Matt.20.33|20:33]], [[John.9.10|Jo 9:10]] ff. [[John.10.21|10:21]] [[John.11.37|11:37]]; metaph., [[Acts.26.18|Ac 26:18]]; <span class="asgreek">ἀκοάς</span>, c. gen. pers., of restoring hearing, [[Mark.7.35|Mk 7:35]].</span>
+<span class="asbullet"><span class="asbold">2.</span> Intrans. in 2 pf., <span class="asgreek">ἀνέῳγα</span> (M, <span class="asitalic">Pr.</span>, 154); heaven, [[John.1.51|Jo 1:51]]; <span class="asgreek">τ. στόμα</span>, seq. <span class="asgreek">πρός</span>, of speaking freely, [[2Cor.6.11|II Co 6:11]] (cf. <span class="asgreek">δι-ανοίγω</span> and v. MM, <span class="asitalic">VGT</span>, 45).†</span>
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Numbers | [[Num.22.28\|22:28]] |
+| Job | [[Job.3.1\|3:1]] |
+| Psalms | [[Ps.78.2\|78:2]] |
+| Isaiah | [[Isa.50.5\|50:5]] |
+| Matthew | [[Matt.2.11\|2:11]] · [[Matt.3.16\|3:16]] · [[Matt.5.2\|5:2]] · [[Matt.7.7\|7:7]] · [[Matt.7.8\|7:8]] · [[Matt.9.30\|9:30]] · [[Matt.13.35\|13:35]] · [[Matt.17.27\|17:27]] · [[Matt.20.33\|20:33]] · [[Matt.25.11\|25:11]] · [[Matt.27.52\|27:52]] |
+| Mark | [[Mark.7.35\|7:35]] |
+| Luke | [[Luke.1.64\|1:64]] · [[Luke.3.21\|3:21]] · [[Luke.4.17\|4:17]] · [[Luke.11.9\|11:9]] · [[Luke.11.10\|11:10]] · [[Luke.12.36\|12:36]] · [[Luke.13.25\|13:25]] |
+| John | [[John.1.51\|1:51]] · [[John.9.10\|9:10]] · [[John.10.3\|10:3]] · [[John.10.21\|10:21]] · [[John.11.37\|11:37]] |
+| Acts | [[Acts.5.19\|5:19]] · [[Acts.5.23\|5:23]] · [[Acts.8.32\|8:32]] · [[Acts.8.35\|8:35]] · [[Acts.9.8\|9:8]] · [[Acts.9.40\|9:40]] · [[Acts.10.11\|10:11]] · [[Acts.10.34\|10:34]] · [[Acts.12.10\|12:10]] · [[Acts.12.14\|12:14]] · [[Acts.12.16\|12:16]] · [[Acts.14.27\|14:27]] · [[Acts.16.26\|16:26]] · [[Acts.16.27\|16:27]] · [[Acts.18.14\|18:14]] · [[Acts.26.18\|26:18]] |
+| Romans | [[Rom.3.13\|3:13]] |
+| 1 Corinthians | [[1Cor.16.9\|16:9]] |
+| 2 Corinthians | [[2Cor.2.12\|2:12]] · [[2Cor.6.11\|6:11]] |
+| Colossians | [[Col.4.3\|4:3]] |
+| Revelation | [[Rev.3.7\|3:7]] · [[Rev.3.8\|3:8]] · [[Rev.3.20\|3:20]] · [[Rev.4.1\|4:1]] · [[Rev.5.2\|5:2]] · [[Rev.5.9\|5:9]] · [[Rev.6.1\|6:1]] · [[Rev.8.1\|8:1]] · [[Rev.9.2\|9:2]] · [[Rev.10.2\|10:2]] · [[Rev.10.8\|10:8]] · [[Rev.11.19\|11:19]] · [[Rev.12.16\|12:16]] · [[Rev.13.6\|13:6]] · [[Rev.15.5\|15:5]] · [[Rev.19.11\|19:11]] · [[Rev.20.12\|20:12]] |
+

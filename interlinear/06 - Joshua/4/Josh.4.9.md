@@ -1,0 +1,32 @@
+**Joshua 4:9** 
+<small><sub>**KJV:**</sub></small>
+And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there unto this day.
+<small><sub>**BSB:**</sub></small>
+Joshua also set up twelve stones in the middle of the Jordan, in the place where the priests who carried the ark of the covenant stood. And the stones are there to this day.
+<small><sub>**Literal:**</sub></small>
+and  two [plus] ten stones he set up Joshua in  [the] middle of the  Jordan in [the] standing-place of [the] feet of the  priests [the] bearers of [the] ark of the  covenant and  they have been there until the  day \<the>  this<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.8|<< Joshua 4:8]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.10|Joshua 4:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and two [plus]  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁתֵּ֧ים</big></span><small><sup>[[H8147]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עֶשְׂרֵ֣ה</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'es.Reh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stones  | <span class="ashebrew"><big>אֲבָנִ֗ים</big></span><small><sup>[[H0068G]]</sup></small> &#8207;| 'a.va.Nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he set up  | <span class="ashebrew"><big>הֵקִ֣ים</big></span><small><sup>[[H6965I]]</sup></small> &#8207;| he.Kim<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joshua  | <span class="ashebrew"><big>יְהוֹשֻׁעַ֮</big></span><small><sup>[[H3091G]]</sup></small> &#8207;| ye.ho.shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] middle of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ת֣וֹךְ</big></span><small><sup>[[H8432]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Jordan  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יַּרְדֵּן֒</big></span><small><sup>[[H3383]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in  | <span class="ashebrew"><big>תַּ֗חַת</big></span><small><sup>[[H8478I]]</sup></small> &#8207;| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] standing-place of  | <span class="ashebrew"><big>מַצַּב֙</big></span><small><sup>[[H4673]]</sup></small> &#8207;| ma.Tzav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] feet of  | <span class="ashebrew"><big>רַגְלֵ֣י</big></span><small><sup>[[H7272]]</sup></small> &#8207;| rag.Lei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priests  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֲנִ֔ים</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] bearers of  | <span class="ashebrew"><big>נֹשְׂאֵ֖י</big></span><small><sup>[[H5375H]]</sup></small> &#8207;| no.se.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ark of  | <span class="ashebrew"><big>אֲר֣וֹן</big></span><small><sup>[[H0727]]</sup></small> &#8207;| 'a.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the covenant  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בְּרִ֑ית</big></span><small><sup>[[H1285]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> be.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they have been  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּ֣הְיוּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yih.yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֔ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַ֖ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the day  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּ֥וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֶּֽה</big></span><small><sup>[[H2088]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.8|<< Joshua 4:8]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.10|Joshua 4:10 >>]]</td></tr></table>
+
+

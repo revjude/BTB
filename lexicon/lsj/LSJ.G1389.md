@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==δολόω==</span></b>, 
+
+
+ <b>beguile, ensnare, take by craft,</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 273, 1636; φαρμάκῳ δ. 5th c.BC: Herodotus Historicus 1.212; ὗς πλέγμασι δ. 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.6.28 ">Refs 5th c.BC+</a>]; <span class='asgreek'>δολοῦν</span> <span class='asgreek'>τινὰ</span> <span class='asgreek'>γάμοις</span> <b>beguile</b> by the anticipation of.., [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Aulidensis” 898 (\_anapaest meter\_)">Refs 5th c.BC+</a>]:—<i>middle</i>, [<a href="javascript:void(0)" title=" “Leg.Gort.” 2.36, 44">Refs</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 494, 5th c.BC: Sophocles Tragicus “Philoctetes” 1288. ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>disguise,</b> <span class='asgreek'>μορφήν</span> [<a href="javascript:void(0)" title="[prev. work] 129 ">Refs</a>]; <b>adulterate</b> incense, wine, etc., [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.81, 2nd c.AD: Lucianus Sophista “Herm.” 59 ">Refs 1st c.AD+</a>]; <b>alloy,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 14.48 (\_passive\_)">Refs 2nd c.AD+</a>]; <b>dye,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἔρια</span> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 7.169. ">Refs 2nd c.AD+</a>]

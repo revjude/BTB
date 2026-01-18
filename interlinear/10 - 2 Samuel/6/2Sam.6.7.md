@@ -1,0 +1,27 @@
+**2 Samuel 6:7** 
+<small><sub>**KJV:**</sub></small>
+And the anger of the LORD was kindled against Uzzah; and God smote him there for [his] error; and there he died by the ark of God.
+<small><sub>**BSB:**</sub></small>
+And the anger of the LORD burned against Uzzah, and God struck him down on the spot for his irreverence, and he died there beside the ark of God.
+<small><sub>**Literal:**</sub></small>
+and  it burned [the] anger of Yahweh on  Uzzah and  he struck down  him there \<the>  God on the  presumption and  he died there beside [the] ark of \<the>  God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.6|<< 2 Samuel 6:6]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.8|2 Samuel 6:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it burned  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּֽחַר</big></span><small><sup>[[H2734]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.char-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] anger of  | <span class="ashebrew"><big>אַ֤ף</big></span><small><sup>[[H0639G]]</sup></small> &#8207;| 'af<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on Uzzah  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֻזָּ֔ה</big></span><small><sup>[[H5798A]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'u.Zah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he struck down him  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּכֵּ֥</big></span><small><sup>[[H5221]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Ke.<small><sup>[[HVhw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֛ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֖ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the presumption  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שַּׁ֑ל</big></span><small><sup>[[H7944]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Shal<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he died  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֣מָת</big></span><small><sup>[[H4191]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֔ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beside  | <span class="ashebrew"><big>עִ֖ם</big></span><small><sup>[[H5973A]]</sup></small> &#8207;| 'im<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ark of  | <span class="ashebrew"><big>אֲר֥וֹן</big></span><small><sup>[[H0727]]</sup></small> &#8207;| 'a.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִֽים</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.6|<< 2 Samuel 6:6]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.8|2 Samuel 6:8 >>]]</td></tr></table>
+
+

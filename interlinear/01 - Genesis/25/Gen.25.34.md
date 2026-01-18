@@ -1,0 +1,27 @@
+**Genesis 25:34** 
+<small><sub>**KJV:**</sub></small>
+Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised [his] birthright.
+<small><sub>**BSB:**</sub></small>
+Then Jacob gave some bread and lentil stew to Esau, who ate and drank and then got up and went away. Thus Esau despised his birthright.
+<small><sub>**Literal:**</sub></small>
+and  Jacob he gave to  Esau bread and  cooked food of lentils and  he ate and  he drank and  he arose and  he went and  he despised Esau \<obj.> the  birthright<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.33|<< Genesis 25:33]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.1|Genesis 26:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Jacob  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יַעֲקֹ֞ב</big></span><small><sup>[[H3290]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he gave  | <span class="ashebrew"><big>נָתַ֣ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Esau  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֵשָׂ֗ו</big></span><small><sup>[[H6215G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread  | <span class="ashebrew"><big>לֶ֚חֶם</big></span><small><sup>[[H3899H]]</sup></small> &#8207;| Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cooked food of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נְזִ֣יד</big></span><small><sup>[[H5138]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ne.Zid<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lentils  | <span class="ashebrew"><big>עֲדָשִׁ֔ים</big></span><small><sup>[[H5742]]</sup></small> &#8207;| 'a.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he ate  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אכַל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.khal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he drank  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֔שְׁתְּ</big></span><small><sup>[[H8354]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.shet<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he arose  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֖קָם</big></span><small><sup>[[H6965B]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּלַ֑ךְ</big></span><small><sup>[[H1980M]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.Lakh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he despised  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּ֥בֶז</big></span><small><sup>[[H0959]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yi.vez<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Esau  | <span class="ashebrew"><big>עֵשָׂ֖ו</big></span><small><sup>[[H6215G]]</sup></small> &#8207;| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the birthright  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בְּכֹרָֽה</big></span><small><sup>[[H1062]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> be.kho.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.33|<< Genesis 25:33]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.1|Genesis 26:1 >>]]</td></tr></table>
+
+

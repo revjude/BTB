@@ -1,0 +1,25 @@
+**Isaiah 13:22** 
+<small><sub>**KJV:**</sub></small>
+And the wild beasts of the islands shall cry in their desolate houses, and dragons in [their] pleasant palaces: and her time [is] near to come, and her days shall not be prolonged.
+<small><sub>**BSB:**</sub></small>
+Hyenas will howl in her fortresses and jackals in her luxurious palaces. Babylon’s time is at hand, and her days will not be prolonged.
+<small><sub>**Literal:**</sub></small>
+and  it will sing hyenas in  palaces  its and  jackals in  [the] palaces of delight and  [is] near to  go time  its and  days  its not they will be prolonged<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.21|<< Isaiah 13:21]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.1|Isaiah 14:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will sing  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָנָ֤ה</big></span><small><sup>[[H6030A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Nah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hyenas  | <span class="ashebrew"><big>אִיִּים֙</big></span><small><sup>[[H0338]]</sup></small> &#8207;| 'i.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in palaces its  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַלְמנוֹתָ֔י</big></span><small><sup>[[H0490]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'al.m.no.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and jackals  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תַנִּ֖ים</big></span><small><sup>[[H8577A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ta.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] palaces of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הֵ֣יכְלֵי</big></span><small><sup>[[H1964H]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Hei.khe.lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| delight  | <span class="ashebrew"><big>עֹ֑נֶג</big></span><small><sup>[[H6027]]</sup></small> &#8207;| 'O.neg<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] near  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קָר֤וֹב</big></span><small><sup>[[H7138]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to go  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בוֹא֙</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| time its  | <span class="ashebrew"><big>עִתָּ֔</big></span><small><sup>[[H6256]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| 'i.Ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and days its  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יָמֶ֖י</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ya.Mei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be prolonged  | <span class="ashebrew"><big>יִמָּשֵֽׁכוּ</big></span><small><sup>[[H4900]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yi.ma.She.khu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.21|<< Isaiah 13:21]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.1|Isaiah 14:1 >>]]</td></tr></table>
+
+

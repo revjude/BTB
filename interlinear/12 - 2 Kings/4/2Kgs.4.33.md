@@ -1,0 +1,21 @@
+**2 Kings 4:33** 
+<small><sub>**KJV:**</sub></small>
+He went in therefore, and shut the door upon them twain, and prayed unto the LORD.
+<small><sub>**BSB:**</sub></small>
+So he went in, closed the door behind the two of them, and prayed to the LORD.
+<small><sub>**Literal:**</sub></small>
+and  he went and  he shut the  door behind [the] two of  them and  he prayed to Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.32|<< 2 Kings 4:32]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.34|2 Kings 4:34 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבֹ֕א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he shut  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּסְגֹּ֥ר</big></span><small><sup>[[H5462]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yis.Gor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the door  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דֶּ֖לֶת</big></span><small><sup>[[H1817C]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> De.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| behind  | <span class="ashebrew"><big>בְּעַ֣ד</big></span><small><sup>[[H1157]]</sup></small> &#8207;| be.'Ad<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two of them  | <span class="ashebrew"><big>שְׁנֵי</big></span><small><sup>[[H8147]]</sup></small> <span class="ashebrew"><big>הֶ֑ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| she.nei.<small><sup>[[HNcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he prayed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתְפַּלֵּ֖ל</big></span><small><sup>[[H6419]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yit.pa.Lel<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.32|<< 2 Kings 4:32]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.34|2 Kings 4:34 >>]]</td></tr></table>
+
+

@@ -1,0 +1,7 @@
+<span class="asgreek">εὐώδης</span> <small>***(euōdēs)***</small> ==**sweet smelling**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==εὐώδης==</span>-<span class='asgreek'>ης</span></b>, <span class='asgreek'>ες</span>, 
+
+
+ (<span class='asgreek'>ὄδωδα</span>) <b>sweetsmelling, fragrant</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>θαλάμῳ</span> <span class='asgreek'>==εὐώδης==ε</span>ϊ [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 3.382; ἔλαιον 8th c.BC: Odyssea Homerus Epicus “Odyssey” 2.339; κυπάρισσος 5.64 ">Refs 8th c.BC+</a>]: <i>comparative</i> -<span class='asgreek'>έστερος</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Hp.Ma.” 290e, 4th c.BC: Aristoteles Philosophus “Problemata” 877b25 ">Refs 5th c.BC+</a>]: <i>superlative</i> -<span class='asgreek'>έστατος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.112; ἄδυτον 5th c.BC: Pindarus Lyricus “O.” 7.32, compare 5th c.BC: Bacchylides Lyricus 13.40, etc.; ὀδόντες 5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.185 ">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>δυσώδης</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Anima” 421b23; εὐῶδες ὄζειν [prev. author] “Pr.” 906b14 ">Refs 4th c.BC+</a>]; of wines, <b>having a bouquet,</b> [<a href="javascript:void(0)" title=" PTeb. 120.62 (1st c.BC), etc. ">Refs 1st c.BC+</a>]
+

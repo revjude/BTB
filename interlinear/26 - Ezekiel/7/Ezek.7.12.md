@@ -1,0 +1,28 @@
+**Ezekiel 7:12** 
+<small><sub>**KJV:**</sub></small>
+The time is come, the day draweth near: let not the buyer rejoice, nor the seller mourn: for wrath [is] upon all the multitude thereof.
+<small><sub>**BSB:**</sub></small>
+The time has come; the day has arrived. Let the buyer not rejoice and the seller not mourn, for wrath is upon the whole multitude.
+<small><sub>**Literal:**</sub></small>
+it has come the  time it has arrived the  day the  buyer may not he rejoice and  the  seller may not he mourn for anger [is] against all multitude  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.11|<< Ezekiel 7:11]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.13|Ezekiel 7:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| it has come  | <span class="ashebrew"><big>בָּ֤א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the time  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֵת֙</big></span><small><sup>[[H6256]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has arrived  | <span class="ashebrew"><big>הִגִּ֣יעַ</big></span><small><sup>[[H5060]]</sup></small> &#8207;| hi.Gi.a'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the day  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּ֔וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the buyer  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קּוֹנֶה֙</big></span><small><sup>[[H7069]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he rejoice  | <span class="ashebrew"><big>יִשְׂמָ֔ח</big></span><small><sup>[[H8055]]</sup></small> &#8207;| yis.Mach<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the seller  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מּוֹכֵ֖ר</big></span><small><sup>[[H4376]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> mo.Kher<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he mourn  | <span class="ashebrew"><big>יִתְאַבָּ֑ל</big></span><small><sup>[[H0056]]</sup></small> &#8207;| yit.'a.Bal<small><sup>[[HVtj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anger  | <span class="ashebrew"><big>חָר֖וֹן</big></span><small><sup>[[H2740]]</sup></small> &#8207;| cha.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] against  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| multitude its  | <span class="ashebrew"><big>הֲמוֹנָֽ</big></span><small><sup>[[H1995A]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.mo.Na<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.11|<< Ezekiel 7:11]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.13|Ezekiel 7:13 >>]]</td></tr></table>
+
+

@@ -1,0 +1,24 @@
+**Ezekiel 41:26** 
+<small><sub>**KJV:**</sub></small>
+And [there were] narrow windows and palm trees on the one side and on the other side, on the sides of the porch, and [upon] the side chambers of the house, and thick planks.
+<small><sub>**BSB:**</sub></small>
+There were beveled windows and palm trees on the sidewalls of the portico. The side rooms of the temple also had canopies.
+<small><sub>**Literal:**</sub></small>
+and  windows closed and  palm trees from  here and  from  here to [the] sides of the  porch and  [the] side-chambers of the  house and  the  thresholds<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.25|<< Ezekiel 41:25]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.1|Ezekiel 42:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and windows  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חַלּוֹנִ֨ים</big></span><small><sup>[[H2474]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> cha.lo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| closed  | <span class="ashebrew"><big>אֲטֻמ֤וֹת</big></span><small><sup>[[H0331]]</sup></small> &#8207;| 'a.tu.Mot<small><sup>[[HVqsfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and palm trees  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תִֽמֹרִים֙</big></span><small><sup>[[H8561]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ti.mo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from here  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פּ֣וֹ</big></span><small><sup>[[H6311]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Po<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from here  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פּ֔וֹ</big></span><small><sup>[[H6311]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Po<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sides of  | <span class="ashebrew"><big>כִּתְפ֖וֹת</big></span><small><sup>[[H3802]]</sup></small> &#8207;| kit.Fot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the porch  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אוּלָ֑ם</big></span><small><sup>[[H0197J]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'u.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] side-chambers of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צַלְע֥וֹת</big></span><small><sup>[[H6763]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tzal.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the house  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בַּ֖יִת</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the thresholds  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֻבִּֽים</big></span><small><sup>[[H5646]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'u.Bim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.25|<< Ezekiel 41:25]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.1|Ezekiel 42:1 >>]]</td></tr></table>
+
+

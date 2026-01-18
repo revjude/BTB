@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==ἐμπόριον==</span>-<span class='asgreek'>ιον</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ <b>trading-station, mart, factory</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.165, +others, 5th c.BC: Thucydides Historicus 1.100, 5th-6th c.BC: Aristophanes Comicus “Aves” 1523, “IPE” 12.47.9 (Olbia, 1st c.AD), etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>προστάται</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.178 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>παρέχειν</span>, of Corinth, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.13. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>market-centre</b> for a district which had no <span class='asgreek'>πόλις</span>, [<a href="javascript:void(0)" title=" “SIG” 880.22 (Macedonia, 3rd c.AD). ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἐ</span>., at Athens, <b>the Exchange</b>, where the merchants resorted, <span class='asgreek'>δανείσασθαι</span> <span class='asgreek'>Χρήματα</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>ἐμπορίῶ</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 35.1, compare 18.309 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἐκ</span> <span class='asgreek'>τοὐμπορίου</span> <span class='asgreek'>τινές</span> foreign <b>merchants</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Diphilus Comicus 17.3, compare 43.9. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b><span class='asgreek'>==ἐμπόριον==ια</span></b>, <span class='asgreek'>τά</span>, <b>merchandise</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Vectigalibus” 1.7. ">Refs 5th c.BC+</a>]

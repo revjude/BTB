@@ -1,0 +1,13 @@
+<span class="asgreek">κατάχυσις</span> <small>***(katachusis)***</small> ==**a throwing down**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==κατάχυσις==</span>-<span class='asgreek'>χῠσις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>pouring on</b> or <b>over</b>, <span class='asgreek'>πολλοῦ</span> <span class='asgreek'>ψυχροῦ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἀφορισμοί” 5.21 ">Refs 5th c.BC+</a>]; <b>affusion, besprinkling</b>, [<a href="javascript:void(0)" title=" [prev. author] “Art.” 27; ἡ τοῦ θερμοῦ κ. “Geoponica” 13.14.11. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>vase for pouring</b>, later Gr. for <i>Attic dialect</i> <span class='asgreek'>πρόχους</span>, Moer.p.296 P.,[<a href="javascript:void(0)" title="compare 5th c.AD(?): Hesychius Legal icographus see at {προχοΐδια}. ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> mistranslation of Hebrew <b>mû[snull]aq</b> 'straitness', as if <b>mû[snull]a ¯ q</b> 'smelting', [<a href="javascript:void(0)" title=" LXX.Job.36.16. ">LXX</a>]
+$\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>ἀήρ</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Job.36.16]]
+</sub></small>

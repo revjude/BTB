@@ -1,0 +1,25 @@
+**Isaiah 11:12** 
+<small><sub>**KJV:**</sub></small>
+And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
+<small><sub>**BSB:**</sub></small>
+He will raise a banner for the nations and gather the exiles of Israel; He will collect the scattered of Judah from the four corners of the earth.
+<small><sub>**Literal:**</sub></small>
+and  he will lift up a standard for the  nations and  he will gather [the] banished [men] of Israel and  [the] scattered [women] of Judah he will assemble from  [the] four [the] corners of the  earth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.11|<< Isaiah 11:11]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.13|Isaiah 11:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will lift up  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָשָׂ֥א</big></span><small><sup>[[H5375G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.Sa'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a standard  | <span class="ashebrew"><big>נֵס֙</big></span><small><sup>[[H5251H]]</sup></small> &#8207;| nes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the nations  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>גּוֹיִ֔ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will gather  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָסַ֖ף</big></span><small><sup>[[H0622]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Saf<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] banished [men] of  | <span class="ashebrew"><big>נִדְחֵ֣י</big></span><small><sup>[[H5080]]</sup></small> &#8207;| nid.Chei<small><sup>[[HVNrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] scattered [women] of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נְפֻצ֤וֹת</big></span><small><sup>[[H5310B]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ne.fu.Tzot<small><sup>[[HVNrfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָה֙</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will assemble  | <span class="ashebrew"><big>יְקַבֵּ֔ץ</big></span><small><sup>[[H6908]]</sup></small> &#8207;| ye.ka.Betz<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] four  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אַרְבַּ֖ע</big></span><small><sup>[[H0702]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'ar.Ba'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] corners of  | <span class="ashebrew"><big>כַּנְפ֥וֹת</big></span><small><sup>[[H3671]]</sup></small> &#8207;| kan.Fot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָֽרֶץ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.11|<< Isaiah 11:11]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.13|Isaiah 11:13 >>]]</td></tr></table>
+
+

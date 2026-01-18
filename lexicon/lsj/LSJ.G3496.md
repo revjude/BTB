@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==Νεάπολις==</span></b> [<span class='asgreek'>ᾱ</span>], <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>new city,</b> <i>proper name</i> of several cities, [<a href="javascript:void(0)" title=" “Neapolis”: at first in two words, Νέα πόλις, \_genitive\_ Νέης πόλιος 5th c.BC: Herodotus Historicus 2.91, compare 5th c.BC: Thucydides Historicus 7.50 ">Refs 5th c.BC+</a>]; later in one, <span class='asgreek'>==Νεάπολις==</span>, <i>genitive</i> <span class='asgreek'>Νεαπόλεως</span> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 2.5.40, \_dative\_ Νεαπόλει [prev. author] 1.2.13 ">Refs 1st c.BC+</a>]: hence <b><span class='asgreek'>Νεοπολίτης</span></b> [<span class='asgreek'>ῑ</span>], <span class='asgreek'>ου</span>, <span class='asgreek'>ὁ</span>, [<a href="javascript:void(0)" title=" “IG” 12.191.31, +others">Refs</a>], later <b><span class='asgreek'>Νεαπολίτης</span></b> [<a href="javascript:void(0)" title=" “Tab.Heracl.” 1.187, 3rd c.BC: Lycophron Tragicus 736, 2nd c.BC: Polybius Historicus 1.20.14, etc., compare 5th-6th c.BC: Plato Philosophus cited in 2nd c.AD(?): Pollianus Epigrammaticus 9.26. ">Refs 5th c.BC+</a>]
+

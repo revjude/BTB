@@ -1,0 +1,35 @@
+**2 Kings 19:6** 
+<small><sub>**KJV:**</sub></small>
+And Isaiah said unto them, Thus shall ye say to your master, Thus saith the LORD, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me.
+<small><sub>**BSB:**</sub></small>
+who replied, “Tell your master that this is what the LORD says: ‘Do not be afraid of the words you have heard, with which the servants of the king of Assyria have blasphemed Me.
+<small><sub>**Literal:**</sub></small>
+and  he said to  them Isaiah thus you will say  ! to master\<s>  your thus he says Yahweh may not you be afraid of  \<the face of> the  words which you have heard which they have blasphemed [the] servants of [the] king of Assyria \<obj.>  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.5|<< 2 Kings 19:5]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.7|2 Kings 19:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֤אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Isaiah  | <span class="ashebrew"><big>יְשַֽׁעְיָ֔הוּ</big></span><small><sup>[[H3470A]]</sup></small> &#8207;| ye.sha'.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֹּ֥ה</big></span><small><sup>[[H3541]]</sup></small> &#8207;| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will say !  | <span class="ashebrew"><big>תֹאמְר֖וּ</big></span><small><sup>[[H0559]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;| tom.Ru<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| master\<s> your  | <span class="ashebrew"><big>אֲדֹֽנֵי</big></span><small><sup>[[H0113]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'a.do.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֹּ֣ה</big></span><small><sup>[[H3541]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  | <span class="ashebrew"><big>אָמַ֣ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you be afraid  | <span class="ashebrew"><big>תִּירָא֙</big></span><small><sup>[[H3372G]]</sup></small> &#8207;| ti.Ra'<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the face of>  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֤י</big></span><small><sup>[[H6440L]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the words  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דְּבָרִים֙</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have heard  | <span class="ashebrew"><big>שָׁמַ֗עְתָּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| sha.Ma'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֧ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have blasphemed  | <span class="ashebrew"><big>גִּדְּפ֛וּ</big></span><small><sup>[[H1442]]</sup></small> &#8207;| gi.de.Fu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] servants of  | <span class="ashebrew"><big>נַעֲרֵ֥י</big></span><small><sup>[[H5288]]</sup></small> &#8207;| na.'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Assyria  | <span class="ashebrew"><big>אַשּׁ֖וּר</big></span><small><sup>[[H0804G]]</sup></small> &#8207;| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> me  | <span class="ashebrew"><big>אֹתִֽ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.5|<< 2 Kings 19:5]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.7|2 Kings 19:7 >>]]</td></tr></table>
+
+

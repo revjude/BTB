@@ -1,0 +1,23 @@
+**Psalms 50:21** 
+<small><sub>**KJV:**</sub></small>
+These [things] hast thou done, and I kept silence; thou thoughtest that I was altogether [such an one] as thyself: [but] I will reprove thee, and set [them] in order before thine eyes.
+<small><sub>**BSB:**</sub></small>
+You have done these things, and I kept silent; you thought I was just like you. But now I rebuke you and accuse you to your face.
+<small><sub>**Literal:**</sub></small>
+these [things] you have done and  I kept silent you imagined exactly \<be> I am like  you I will rebuke  you and  I will arrange to  eyes  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.20|<< Psalms 50:20]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.22|Psalms 50:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| these [things]  | <span class="ashebrew"><big>אֵ֤לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have done  | <span class="ashebrew"><big>עָשִׂ֨יתָ</big></span><small><sup>[[H6213A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'a.Si.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I kept silent  | <span class="ashebrew"><big>וְֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הֶחֱרַ֗שְׁתִּי</big></span><small><sup>[[H2790B]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> he.che.Rash.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you imagined  | <span class="ashebrew"><big>דִּמִּ֗יתָ</big></span><small><sup>[[H1819]]</sup></small> &#8207;| di.Mi.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exactly \<be>  | <span class="ashebrew"><big>הֱֽיוֹת</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| he.yot-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am  | <span class="ashebrew"><big>אֶֽהְיֶ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| 'eh.Yeh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like you  | <span class="ashebrew"><big>כָמ֑וֹ</big></span><small><sup>[[H3644G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| kha.Mo.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will rebuke you  | <span class="ashebrew"><big>אוֹכִיחֲ</big></span><small><sup>[[H3198]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'o.khi.cha.<small><sup>[[HVhi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will arrange  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶֽעֶרְכָ֣ה</big></span><small><sup>[[H6186A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'e.'er.Khah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to eyes your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֵינֶֽי</big></span><small><sup>[[H5869J]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ei.Nei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.20|<< Psalms 50:20]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.22|Psalms 50:22 >>]]</td></tr></table>
+
+

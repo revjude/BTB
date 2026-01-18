@@ -1,0 +1,27 @@
+**Numbers 32:19** 
+<small><sub>**KJV:**</sub></small>
+For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward.
+<small><sub>**BSB:**</sub></small>
+Yet we will not have an inheritance with them across the Jordan and beyond, because our inheritance has come to us on the east side of the Jordan.”
+<small><sub>**Literal:**</sub></small>
+for not we will inherit with  them from  [the] other side of the  Jordan and  beyond for it has come inheritance  our to  us from  [the] other side of the  Jordan east  -ward<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.18|<< Numbers 32:18]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.20|Numbers 32:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֤א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will inherit  | <span class="ashebrew"><big>נִנְחַל֙</big></span><small><sup>[[H5157]]</sup></small> &#8207;| nin.Chal<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with them  | <span class="ashebrew"><big>אִתָּ֔</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'i.Ta<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] other side  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עֵ֥בֶר</big></span><small><sup>[[H5676G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the Jordan  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יַּרְדֵּ֖ן</big></span><small><sup>[[H3383]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> i.yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and beyond  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ֑לְאָה</big></span><small><sup>[[H1973]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Hal.'ah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has come  | <span class="ashebrew"><big>בָ֤אָה</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| Va.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inheritance our  | <span class="ashebrew"><big>נַחֲלָתֵ֙</big></span><small><sup>[[H5159]]</sup></small> <span class="ashebrew"><big>נוּ֙</big></span><small><sup>[[H9025]]</sup></small> &#8207;| na.cha.la.Te.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to us  | <span class="ashebrew"><big>אֵלֵ֔י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| 'e.Lei.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] other side of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עֵ֥בֶר</big></span><small><sup>[[H5676G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Jordan  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יַּרְדֵּ֖ן</big></span><small><sup>[[H3383]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| east -ward  | <span class="ashebrew"><big>מִזְרָֽחָ</big></span><small><sup>[[H4217H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| miz.Ra.cha<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.18|<< Numbers 32:18]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.20|Numbers 32:20 >>]]</td></tr></table>
+
+

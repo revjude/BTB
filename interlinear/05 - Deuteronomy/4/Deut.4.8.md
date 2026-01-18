@@ -1,0 +1,29 @@
+**Deuteronomy 4:8** 
+<small><sub>**KJV:**</sub></small>
+And what nation [is there so] great, that hath statutes and judgments [so] righteous as all this law, which I set before you this day?
+<small><sub>**BSB:**</sub></small>
+And what nation is great enough to have righteous statutes and ordinances like this entire law I set before you today?
+<small><sub>**Literal:**</sub></small>
+and  who? [is] a nation great which [belongs] to  it statutes and  judgments righteous like  all the  law \<the>  this which I [am] setting \<to>  before  you this  day<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.7|<< Deuteronomy 4:7]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.9|Deuteronomy 4:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and who?  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִי֙</big></span><small><sup>[[H4310]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a nation  | <span class="ashebrew"><big>גּ֣וֹי</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>גָּד֔וֹל</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to it  | <span class="ashebrew"><big>ל֛</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| statutes  | <span class="ashebrew"><big>חֻקִּ֥ים</big></span><small><sup>[[H2706G]]</sup></small> &#8207;| chu.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and judgments  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִשְׁפָּטִ֖ים</big></span><small><sup>[[H4941G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mish.pa.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteous  | <span class="ashebrew"><big>צַדִּיקִ֑ם</big></span><small><sup>[[H6662]]</sup></small> &#8207;| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like all  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כֹל֙</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the law  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>תּוֹרָ֣ה</big></span><small><sup>[[H8451]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> to.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֹּ֔את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֧ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אָנֹכִ֛י</big></span><small><sup>[[H0595]]</sup></small> &#8207;| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] setting  | <span class="ashebrew"><big>נֹתֵ֥ן</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before you  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵי</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this day  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּֽוֹם</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.7|<< Deuteronomy 4:7]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.9|Deuteronomy 4:9 >>]]</td></tr></table>
+
+

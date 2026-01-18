@@ -1,0 +1,13 @@
+<span class="asgreek">μαῖα</span> <small>***(maia)***</small> ==**a midwife**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==μαῖα==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>good mother</b>, form of address to old women, [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus (only in 8th c.BC: Odyssea Homerus Epicus “Odyssey”)">Refs 8th c.BC+</a>], always in <i>vocative</i>, usually addressed to Eurycleia, the nurse of Odysseus, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 19.482, +others; but also to Eurynome the ταμίη, 17.499 ">Refs 8th c.BC+</a>]: hence not only of nurses,[<a href="javascript:void(0)" title="compare “hymnus ad Cererem” 147, 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 915 (Lyric poetry). ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> later, <b>foster-mother</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hippolytus” 243 (\_anapaest meter\_), 4th c.BC: Antiphanes Comicus 159.6 ">Refs 5th c.BC+</a>]; also, a true <b>mother</b>, <span class='asgreek'>==μαῖα==</span> <span class='asgreek'>δὴ</span> <span class='asgreek'>κάτω</span> <span class='asgreek'>βέβακεν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Alcestis” 393 (Lyric poetry)">Refs 5th c.BC+</a>]: <i>metaphorically</i>, of the earth, <span class='asgreek'>ἰὼ</span> <span class='asgreek'>γαῖα</span> <span class='asgreek'>==μαῖα==</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Choephori” 44 (Lyric poetry), compare 5th c.BC: Sophocles Tragicus “Fragmenta” 959. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>midwife</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 149a, 3rd c.BC: Isyllus Lyricus 54, 2nd c.AD: Soranus Medicus 2.3, +others, etc. ">Refs 5th c.BC+</a>] 
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <b>lady doctor</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 14.641. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> in <i>Doric dialect</i>, <b>grandmother</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de vita Pythagorica” 11.56, “IG” 12(3).1120 (from Melos). ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>large kind of crab</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 525b4, +others ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> a plant, ={<span class='asgreek'>λεπίδιον</span>}, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus “fragment” 102. (Prob. from same Root as μήτηρ.) ">Refs 4th c.AD+</a>]

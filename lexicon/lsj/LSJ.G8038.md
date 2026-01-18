@@ -1,0 +1,11 @@
+<span class="asgreek">κοιλάς</span> <small>***(koilas)***</small> ==**a cavity**==  <sup><small>[[TEGMC#N:N|N:N]]</small></sup> 
+
+<b> <span class='asgreek'>==κοιλάς==</span>-<span class='asgreek'>άς</span></b>, <span class='asgreek'>άδος</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <i>substantive</i>, <b>hollow</b>, <span class='asgreek'>δρυός</span> [<a href="javascript:void(0)" title=" 1st c.AD(?): Pseudo-Phocylidea 173, compare 4th-3rd c.BC: Theophrastus Philosophus “Fragmenta” 169 ">Refs 4th c.BC+</a>]; in a wall, [<a href="javascript:void(0)" title=" LXX.Lev.14.37 ">LXX</a>]; in a rock, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 12.3.11 ">Refs 1st c.BC+</a>]; <b>deep valley</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Epigrammata - PLG” 5.6, LXX.Gen.14.8, +others, “BGU” 995 iii 4 (2nd c.BC), “SIG” 827 iii 11 (Delph., 2nd c.AD), 2nd c.BC: Polybius Historicus 5.44.7, 1st c.BC: Diodorus Siculus Historicus 3.15. ">LXX+5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>adjective</i>, <i>feminine</i> of <span class='asgreek'>κοῖλος</span>, <span class='asgreek'>νεφέλαι</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Signis Tempestatum” 51 (nisi to be read κηλ-); εὐνή 3rd-4th c.AD: Tryphiodorus Epicus 194. ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Lev.14.37]] ☩ [[Gen.14.8]]
+</sub></small>

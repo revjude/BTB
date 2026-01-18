@@ -1,0 +1,31 @@
+**Ezekiel 23:40** 
+<small><sub>**KJV:**</sub></small>
+And furthermore, that ye have sent for men to come from far, unto whom a messenger [was] sent; and, lo, they came: for whom thou didst wash thyself, paintedst thy eyes, and deckedst thyself with ornaments,
+<small><sub>**BSB:**</sub></small>
+Furthermore, you sisters sent messengers for men who came from afar; and behold, when they arrived, you bathed for them, painted your eyes, and adorned yourself with jewelry.
+<small><sub>**Literal:**</sub></small>
+and  also for they sent for  men [who] come from  a distance whom a messenger [was] sent to  them and  there! they came for  whom you bathed you painted eyes  your and  you put on ornament[s]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.39|<< Ezekiel 23:39]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.41|Ezekiel 23:41 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and also  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַ֗ף</big></span><small><sup>[[H0637]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they sent  | <span class="ashebrew"><big>תִשְׁלַ֙חְנָה֙</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| tish.Lach.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for men  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲנָשִׁ֔ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] come  | <span class="ashebrew"><big>בָּאִ֖ים</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ba.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a distance  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מֶּרְחָ֑ק</big></span><small><sup>[[H4801]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mer.Chak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁ֨ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a messenger  | <span class="ashebrew"><big>מַלְאָ֜ךְ</big></span><small><sup>[[H4397G]]</sup></small> &#8207;| mal.'Akh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] sent  | <span class="ashebrew"><big>שָׁל֤וּחַ</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| sha.Lu.ach<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there!  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנֵּה</big></span><small><sup>[[H2009]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they came  | <span class="ashebrew"><big>בָ֔אוּ</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| Va.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for whom  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you bathed  | <span class="ashebrew"><big>רָחַ֛צְתְּ</big></span><small><sup>[[H7364]]</sup></small> &#8207;| ra.Chatzt<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you painted  | <span class="ashebrew"><big>כָּחַ֥לְתְּ</big></span><small><sup>[[H3583]]</sup></small> &#8207;| ka.Chalt<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes your  | <span class="ashebrew"><big>עֵינַ֖יִ</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| 'ei.Na.yi<small><sup>[[HNcfdc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you put on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָ֥דִית</big></span><small><sup>[[H5710B]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'A.dit<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ornament[s]  | <span class="ashebrew"><big>עֶֽדִי</big></span><small><sup>[[H5716]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'E.di<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.39|<< Ezekiel 23:39]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.41|Ezekiel 23:41 >>]]</td></tr></table>
+
+

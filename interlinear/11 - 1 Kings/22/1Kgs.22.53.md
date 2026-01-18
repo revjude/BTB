@@ -1,0 +1,27 @@
+**1 Kings 22:53** (22:54)
+<small><sub>**KJV:**</sub></small>
+For he served Baal, and worshipped him, and provoked to anger the LORD God of Israel, according to all that his father had done.
+<small><sub>**BSB:**</sub></small>
+Ahaziah served and worshiped Baal, provoking the LORD, the God of Israel, to anger, just as his father had done.
+<small><sub>**Literal:**</sub></small>
+and  he served \<obj.> \<the>  Baal and  he bowed down to  it and  he provoked to anger \<obj.> Yahweh [the] God of Israel according to  all that he had done father  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.52|<< 1 Kings 22:52]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.1|2 Kings 1:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he served  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעֲבֹד֙</big></span><small><sup>[[H5647H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Baal  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בַּ֔עַל</big></span><small><sup>[[H1168A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ba.'al<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he bowed down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּֽשְׁתַּחֲוֶ֖ה</big></span><small><sup>[[H7812]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.ta.cha.Veh<small><sup>[[HVvw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to it  | <span class="ashebrew"><big>ל֑</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he provoked to anger  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּכְעֵ֗ס</big></span><small><sup>[[H3707]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yakh.'Es<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  | <span class="ashebrew"><big>אֱלֹהֵ֣י</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to all  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כֹ֥ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had done  | <span class="ashebrew"><big>עָשָׂ֖ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  | <span class="ashebrew"><big>אָבִֽי</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.52|<< 1 Kings 22:52]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.1|2 Kings 1:1 >>]]</td></tr></table>
+
+

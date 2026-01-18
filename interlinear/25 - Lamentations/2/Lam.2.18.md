@@ -1,0 +1,33 @@
+**Lamentations 2:18** 
+<small><sub>**KJV:**</sub></small>
+Their heart cried unto the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of thine eye cease.
+<small><sub>**BSB:**</sub></small>
+The hearts of the people cry out to the Lord. O wall of the Daughter of Zion, let your tears run down like a river day and night. Give yourself no relief, and your eyes no rest.
+<small><sub>**Literal:**</sub></small>
+it has cried out heart  their to [the] Lord O wall of [the] daughter of Zion send down like \<the>  river tear[s] by day and  night may not you give rest to  yourself may not it be still [the] daughter of eye  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.17|<< Lamentations 2:17]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.19|Lamentations 2:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| it has cried out  | <span class="ashebrew"><big>צָעַ֥ק</big></span><small><sup>[[H6817]]</sup></small> &#8207;| tza.'Ak<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart their  | <span class="ashebrew"><big>לִבָּ֖</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| li.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֑י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O wall of  | <span class="ashebrew"><big>חוֹמַ֣ת</big></span><small><sup>[[H2346G]]</sup></small> &#8207;| cho.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  | <span class="ashebrew"><big>בַּת</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  | <span class="ashebrew"><big>צִ֠יּוֹן</big></span><small><sup>[[H6726]]</sup></small> &#8207;| Tzi.yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| send down  | <span class="ashebrew"><big>הוֹרִ֨ידִי</big></span><small><sup>[[H3381]]</sup></small> &#8207;| ho.Ri.di<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> river  | <span class="ashebrew"><big>כַ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>נַּ֤חַל</big></span><small><sup>[[H5158A]]</sup></small> &#8207;| kha.<small><sup>[[HRd]]</sup></small> Na.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tear[s]  | <span class="ashebrew"><big>דִּמְעָה֙</big></span><small><sup>[[H1832]]</sup></small> &#8207;| dim.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by day  | <span class="ashebrew"><big>יוֹמָ֣ם</big></span><small><sup>[[H3119]]</sup></small> &#8207;| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and night  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ֔יְלָה</big></span><small><sup>[[H3915]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַֽל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you give  | <span class="ashebrew"><big>תִּתְּנִ֤י</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| ti.te.Ni<small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rest  | <span class="ashebrew"><big>פוּגַת֙</big></span><small><sup>[[H6314]]</sup></small> &#8207;| fu.Gat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to yourself  | <span class="ashebrew"><big>לָ֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it be still  | <span class="ashebrew"><big>תִּדֹּ֖ם</big></span><small><sup>[[H1826A]]</sup></small> &#8207;| ti.Dom<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  | <span class="ashebrew"><big>בַּת</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye your  | <span class="ashebrew"><big>עֵינֵֽ</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'ei.Ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.17|<< Lamentations 2:17]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.19|Lamentations 2:19 >>]]</td></tr></table>
+
+

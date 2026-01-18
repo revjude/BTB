@@ -1,0 +1,28 @@
+**1 Chronicles 27:14** 
+<small><sub>**KJV:**</sub></small>
+The eleventh [captain] for the eleventh month [was] Benaiah the Pirathonite, of the children of Ephraim: and in his course [were] twenty and four thousand.
+<small><sub>**BSB:**</sub></small>
+The eleventh, for the eleventh month, was Benaiah the Pirathonite, an Ephraimite. There were 24,000 men in his division.
+<small><sub>**Literal:**</sub></small>
+[was] one [plus] ten for  [the] one [plus] ten the  month Benaiah the  Pirathonite one of [the] descendants of Ephraim and  [were] with division  his twenty and  four thousand<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.13|<< 1 Chronicles 27:13]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.15|1 Chronicles 27:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [was] one [plus]  | <span class="ashebrew"><big>עַשְׁתֵּֽי</big></span><small><sup>[[H6249]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ash.tei-<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עָשָׂר֙</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'a.Sar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] one [plus]  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עַשְׁתֵּ֣י</big></span><small><sup>[[H6249]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ash.Tei-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עָשָׂ֣ר</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'a.Sar<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the month  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֹ֔דֶשׁ</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Benaiah  | <span class="ashebrew"><big>בְּנָיָ֥ה</big></span><small><sup>[[H1141H]]</sup></small> &#8207;| be.na.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Pirathonite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פִּרְעָתוֹנִ֖י</big></span><small><sup>[[H6553]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> pir.'a.to.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one of  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  | <span class="ashebrew"><big>אֶפְרָ֑יִם</big></span><small><sup>[[H0669G]]</sup></small> &#8207;| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [were] with  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל֙</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| division his  | <span class="ashebrew"><big>מַחֲלֻקְתּ֔</big></span><small><sup>[[H4256]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ma.cha.luk.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twenty  | <span class="ashebrew"><big>עֶשְׂרִ֥ים</big></span><small><sup>[[H6242]]</sup></small> &#8207;| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and four  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַרְבָּעָ֖ה</big></span><small><sup>[[H0702]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  | <span class="ashebrew"><big>אָֽלֶף</big></span><small><sup>[[H0505G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.13|<< 1 Chronicles 27:13]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.15|1 Chronicles 27:15 >>]]</td></tr></table>
+
+

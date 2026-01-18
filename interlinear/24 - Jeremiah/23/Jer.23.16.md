@@ -1,0 +1,33 @@
+**Jeremiah 23:16** 
+<small><sub>**KJV:**</sub></small>
+Thus saith the LORD of hosts, Hearken not unto the words of the prophets that prophesy unto you: they make you vain: they speak a vision of their own heart, [and] not out of the mouth of the LORD.
+<small><sub>**BSB:**</sub></small>
+This is what the LORD of Hosts says: “Do not listen to the words of the prophets who prophesy to you. They are filling you with false hopes. They speak visions from their own minds, not from the mouth of the LORD.
+<small><sub>**Literal:**</sub></small>
+thus he says Yahweh of hosts may not you listen to [the] words of the  prophets who  are prophesying to \<the>  you [are] deluding they \<obj.>  you [the] vision of own heart  their they speak not from  [the] mouth of Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.15|<< Jeremiah 23:15]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.17|Jeremiah 23:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| thus  | <span class="ashebrew"><big>כֹּֽה</big></span><small><sup>[[H3541]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  | <span class="ashebrew"><big>אָמַ֞ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  | <span class="ashebrew"><big>צְבָא֗וֹת</big></span><small><sup>[[H6635B]]</sup></small> &#8207;| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַֽל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you listen  | <span class="ashebrew"><big>תִּשְׁמְע֞וּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| tish.me.'U<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  | <span class="ashebrew"><big>דִּבְרֵ֤י</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the prophets  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נְּבִאִים֙</big></span><small><sup>[[H5030]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ne.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who are prophesying  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נִּבְּאִ֣ים</big></span><small><sup>[[H5012]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ni.be.'Im<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] deluding  | <span class="ashebrew"><big>מַהְבִּלִ֥ים</big></span><small><sup>[[H1891]]</sup></small> &#8207;| mah.bi.Lim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֖מָּה</big></span><small><sup>[[H1992]]</sup></small> &#8207;| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  | <span class="ashebrew"><big>אֶתְ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vision of  | <span class="ashebrew"><big>חֲז֤וֹן</big></span><small><sup>[[H2377]]</sup></small> &#8207;| cha.Zon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own heart their  | <span class="ashebrew"><big>לִבָּ</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| li.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they speak  | <span class="ashebrew"><big>יְדַבֵּ֔רוּ</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| ye.da.Be.ru<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֖א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] mouth of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פִּ֥י</big></span><small><sup>[[H6310G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.15|<< Jeremiah 23:15]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.17|Jeremiah 23:17 >>]]</td></tr></table>
+
+

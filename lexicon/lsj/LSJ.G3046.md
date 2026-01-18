@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==λίτρα==</span>-<span class='asgreek'>α</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>a silver coin</b> of Sicily, [<a href="javascript:void(0)" title=" 5th c.BC: Epicharmus Comicus 9, 5th c.BC: Sophron Comicus 72, 4th-3rd c.BC: Diphilus Comicus 71, 3rd c.BC: Posidippus Comicus 8.—On its value see 4th c.BC: Aristoteles Philosophus “Fragmenta” 476, 510. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> as a weight, [<a href="javascript:void(0)" title=" 12 ounces, ">Refs</a>]<b>a pound</b>, [[<a href="javascript:void(0)" title=" 4th-5th c.BC: Simonides Lyricus] 141, 2nd c.BC: Polybius Historicus 21.43.19, 1st c.BC: Diodorus Siculus Historicus 14.116, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.43, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Tiberius Gracchus” 2, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 14.7.1: \_metaphorically\_, ==λίτρα==ᾰν ἐτῶν ζήσας">Refs 4th c.BC+</a>] having lived <b>a pound</b> of years, i.e. [<a href="javascript:void(0)" title=" 72 (in late times a pound of gold was coined into 72 pieces), “Anthologia Graeca” 10.97 (6th c.AD: Palladas Epigrammaticus). ">Refs 6th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> measure of capacity, = [<a href="javascript:void(0)" title=" 1 Italic κοτύλη, 2nd c.AD: Galenus Medicus 6.287">Refs 2nd c.AD+</a>]. [<span class='asgreek'>ῑ</span> as in Latin <i>libra</i>; written <span class='asgreek'>λείτρα</span> in [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2040.7 (Bosp.).] (Both ==λίτρα==α">Refs</a>] and Latin <i>libra</i> probably from early Italic <b>\*līprā.</b>)

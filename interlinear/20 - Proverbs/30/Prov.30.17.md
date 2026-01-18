@@ -1,0 +1,25 @@
+**Proverbs 30:17** 
+<small><sub>**KJV:**</sub></small>
+The eye [that] mocketh at [his] father, and despiseth to obey [his] mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.
+<small><sub>**BSB:**</sub></small>
+As for the eye that mocks a father and scorns obedience to a mother, may the ravens of the valley pluck it out and young vultures devour it.
+<small><sub>**Literal:**</sub></small>
+an eye [which] it mocks \<to>  a father so  it may despise \<to>  obedience of a mother they will pluck out  it [the] ravens of [the] wadi and  they will eat  it [the] young of an eagle<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.16|<< Proverbs 30:16]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.18|Proverbs 30:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| an eye  | <span class="ashebrew"><big>עַ֤יִן</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] it mocks  | <span class="ashebrew"><big>תִּֽלְעַ֣ג</big></span><small><sup>[[H3932]]</sup></small> &#8207;| til.'Ag<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> a father  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אָב֮</big></span><small><sup>[[H0001G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so it may despise  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תָב֪וּז</big></span><small><sup>[[H0936]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ta.Vuz<small><sup>[[HVqu3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> obedience of  | <span class="ashebrew"><big>לִֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יקֲּהַ֫ת</big></span><small><sup>[[H3349]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| li.<small><sup>[[HR]]</sup></small> ka.Hat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mother  | <span class="ashebrew"><big>אֵ֥ם</big></span><small><sup>[[H0517]]</sup></small> &#8207;| 'em<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will pluck out it  | <span class="ashebrew"><big>יִקְּר֥וּ</big></span><small><sup>[[H5365]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| yi.ke.Ru.<small><sup>[[HVqi3mp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ravens of  | <span class="ashebrew"><big>עֹרְבֵי</big></span><small><sup>[[H6158]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'o.re.vei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wadi  | <span class="ashebrew"><big>נַ֑חַל</big></span><small><sup>[[H5158N]]</sup></small> &#8207;| Na.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will eat it  | <span class="ashebrew"><big>וְֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יֹאכְל֥וּ</big></span><small><sup>[[H0398]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yo.khe.Lu.<small><sup>[[HVqu3mp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] young of  | <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an eagle  | <span class="ashebrew"><big>נָֽשֶׁר</big></span><small><sup>[[H5404]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| Na.sher<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.16|<< Proverbs 30:16]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.18|Proverbs 30:18 >>]]</td></tr></table>
+
+

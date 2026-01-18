@@ -1,0 +1,15 @@
+<span class="asgreek">διάβασις</span> <small>***(diabasis)***</small> ==**a ford**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==διάβασις==</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>crossing over, passage,</b> <span class='asgreek'>δ</span>. <span class='asgreek'>ποιεῖσθαι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.186, etc.">Refs 5th c.BC+</a>]; <b>act of crossing,</b> <span class='asgreek'>αἱ</span> <span class='asgreek'>δ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ὀχετῶν</span> <span class='asgreek'>διασπῶσι</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>φάλαγγας</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1303b12. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>means</b> or <b>place of crossing,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.205; δ. ποταμῶν ">Refs 5th c.BC+</a>]<b>fords,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 7.74, compare 5th-6th c.BC: Xenophon Historicus “Anabasis” 1.5.12, etc.">Refs 5th c.BC+</a>]; <b>bridge,</b> [<a href="javascript:void(0)" title="[prev. work] 2.3.10 ">Refs</a>]; <b>passage along a ship's deck, gangway,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 14, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cimon” 12 ">Refs 5th c.BC+</a>]; <b>ferry-boat,</b> [<a href="javascript:void(0)" title=" LXX.2Kgs.19.18. ">LXX</a>]
+$\quad$ $\quad$<b>\_\_II</b> the Jewish <b>Passover,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.117. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ὡρῶν</span> <span class='asgreek'>δ</span>. <b>transition</b> of the seasons, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 9.46. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> in Grammars, <b>transitive force</b> of Verbs, <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>δ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>προσώπου</span> <span class='asgreek'>ῥήματα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 202.7, +others ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_V</b> in Rhet. of <b>intervals</b> or <b>pauses</b> in pronunciation caused by long syllables and the like, <span class='asgreek'>ῥυθμοὶ</span> <span class='asgreek'>πλείστην</span> <span class='asgreek'>ἔχοντες</span> <span class='asgreek'>δ</span>. [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 20; compare διαβαίνω 1. ">Refs 1st c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Kgs.19.18]]
+</sub></small>

@@ -1,0 +1,23 @@
+**Ezra 10:25** 
+<small><sub>**KJV:**</sub></small>
+Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah.
+<small><sub>**BSB:**</sub></small>
+And among the other Israelites, from the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah.
+<small><sub>**Literal:**</sub></small>
+and  of  Israel of  [the] sons of Parosh Ramiah and  Izziah and  Malkijah and  Mijamin and  Eleazar and  Malkijah and  Benaiah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.24|<< Ezra 10:24]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.26|Ezra 10:26 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and of Israel  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יִּשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] sons of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Parosh  | <span class="ashebrew"><big>פַרְעֹ֡שׁ</big></span><small><sup>[[H6551G]]</sup></small> &#8207;| far.'Osh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ramiah  | <span class="ashebrew"><big>רַ֠מְיָה</big></span><small><sup>[[H7422]]</sup></small> &#8207;| Ram.yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Izziah  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יִזִּיָּ֤ה</big></span><small><sup>[[H3150]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yi.zi.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Malkijah  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַלְכִּיָּה֙</big></span><small><sup>[[H4441K]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mal.ki.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Mijamin  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִיָּמִ֣ן</big></span><small><sup>[[H4326H]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Eleazar  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶלְעָזָ֔ר</big></span><small><sup>[[H0499L]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Malkijah  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַלְכִּיָּ֖ה</big></span><small><sup>[[H4441J]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mal.ki.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Benaiah  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנָיָֽה</big></span><small><sup>[[H1141N]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.na.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.24|<< Ezra 10:24]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.26|Ezra 10:26 >>]]</td></tr></table>
+
+

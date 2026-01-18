@@ -1,0 +1,16 @@
+
+<b> <span class='asgreek'>==εἴδωλον==</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>εἶδος</span>) <b>phantom</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 5.451, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 4.796, 5th c.BC: Herodotus Historicus 5.92.ή, 5th-6th c.BC: Plato Philosophus “Leges” 959b ">Refs 8th c.BC+</a>]; <span class='asgreek'>βροτῶν</span> <span class='asgreek'>εἴδωλα</span> <span class='asgreek'>καμόντων</span>, of ghosts, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 11.476, etc.; ψυχῶν 5th c.AD: Proclus Philosophus “Inst.” 64. ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>any unsubstantial form</b>, <span class='asgreek'>==εἴδωλον==</span> <span class='asgreek'>σκιᾶς</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 839, 5th c.BC: Sophocles Tragicus “Fragmenta” 659.6, 4th c.BC: Chaeremon Tragicus 14.15; οὐδὲν ἄλλο πλὴν εἴδωλα.. ἢ κούφην σκιάν 5th c.BC: Sophocles Tragicus “Ajax” 126 ">Refs 5th c.BC+</a>]; <span class='asgreek'>εἴ</span>. <span class='asgreek'>ἄλλως</span> a mere <b>form</b>, [<a href="javascript:void(0)" title=" [prev. author] “Ph.” 947 ">Refs</a>]; <span class='asgreek'>αἰῶνος</span> <span class='asgreek'>εἴ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “Fragmenta.” 131.3. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>image reflected</b> in a mirror or in water, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Sophista” 266b, 4th c.BC: Aristoteles Philosophus “de Divinatione per Somnia” 464b9. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> in the system of Epicurus, <b>film</b> given off by any object and conveying an impression to the eye, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 1p.10U., “Nat.” 2.1, +others, 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Epistulae ad Familiares” 15.16.1, etc. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>image in the mind, idea</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Symposium” 4.21 ">Refs 5th c.BC+</a>]; <b>phantom of the mind, fancy</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 66c; εἴ. καὶ ψεῦδος [prev. author] “Tht.” 150c. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>image, likeness</b>, <span class='asgreek'>γυναικὸς</span> <span class='asgreek'>εἴ</span>. <span class='asgreek'>χρύσεον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.51, compare 6.58: \_metaphorically\_, λόγος εἴ. ψυχῆς 5th-6th c.BC: Isocrates Orator 3.7. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> later, <b>image of a god, idol</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.17.12, NT.1Cor.12.2, “OGI” 201.8 (Silco, 6th c.AD), etc. ">LXX+NT+6th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>εἴ</span>. <span class='asgreek'>οὐράνια</span> <b>constellations</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 3.1004, compare 1st c.BC(?): Maximus Astrologus 56. ">Refs 3rd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Kgs.17.12]] ☩ [[1Cor.12.2]]
+</sub></small>

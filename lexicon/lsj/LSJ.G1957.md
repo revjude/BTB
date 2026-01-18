@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἐπιμαρτυρέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>bear witness to</b> a thing, <b>depose to</b>, <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἡμῖν</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ὀνόματα</span> <span class='asgreek'>μὴ</span>.. <span class='asgreek'>κεῖσθαι</span> 5th-6th c.BC: Plato Philosophus “Cratylus” 397a; <span class='asgreek'>ἐ</span>. <span class='asgreek'>τι</span> <span class='asgreek'>πρός</span> <span class='asgreek'>τινας</span> 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Lysander” 22; <span class='asgreek'>τὰ</span> <span class='asgreek'>χρήματα</span> <span class='asgreek'>ἅ</span> <span class='asgreek'>κα</span> <span class='asgreek'>ἐπιμαρτυρήσωντι</span> of which they <b>admit the possession,</b> [<a href="javascript:void(0)" title=" Tab.Heracl. 1.156">Refs</a>]: with <i>infinitive</i>, <span class='asgreek'>τῶν</span> <span class='asgreek'>πραγμάτων</span> -<span class='asgreek'>ούντων</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>δύναμιν</span> <span class='asgreek'>αὐξάνεσθαι</span> [<a href="javascript:void(0)" title="1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sertorius” 12, cf. NT.1Pet.5.12; ὅτι.. 2nd c.AD: Lucianus Sophista “Alex.” 42: \_absolutely\_, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Nic.” 6 ">NT+1st c.AD+</a>]:— <i>passive</i>, <b>to be confirmed by evidence</b>, [<a href="javascript:void(0)" title=" S.E. “M.” 7.211, Polystr. p.31 W. ">Refs</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>bear witness in favour of</b>, <span class='asgreek'>τινί</span> 1st c.BC: Philodemus Philosophus “<span class='asgreek'>περὶ</span> <span class='asgreek'>οἰκονομίας</span>” p.57J. 
+$\quad$ $\quad$<b>\_\_II</b>. Astrology texts, <b>support</b> <b>by aspect</b>, [<a href="javascript:void(0)" title=" Vett.Val. 111.31, “PMag.Leid.W.” 24.16 (2nd-3rd c.AD). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b>. in <i>middle</i>, <b>adjure</b>, <span class='asgreek'>τισὶ</span> <span class='asgreek'>μὴ</span> <span class='asgreek'>ποιέειν</span> <span class='asgreek'>τι</span> 5th c.BC: Herodotus Historicus 5.93 (as variant for{<span class='asgreek'>ἐπιμαρτύρομαι</span>}).
+
+<small><sub>LSJ Scripture Refs: [[1Pet.5.12]]
+</sub></small>

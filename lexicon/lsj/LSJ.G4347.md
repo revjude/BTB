@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==προσκολλάω==</span>-<span class='asgreek'>άω</span></b>, 
+
+
+ <b>glue on</b> or <b>to</b>, <span class='asgreek'>τι</span> <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 33 ">Refs 5th c.BC+</a>]:—<i>passive</i>, generally, <b>to be stuck to, stick</b> or <b>cleave to</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 82e, “Lg.” 728b ">Refs 5th c.BC+</a>]; <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>αἵματος</span> <span class='asgreek'>==προσκολλάω==ηθῆναι</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ῥομφαίαν</span> <span class='asgreek'>αὐτοῦ</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>δεξιᾷ</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 7.12.4 ">Refs 1st c.AD+</a>]; of a snail, <span class='asgreek'>τοῖς</span> <span class='asgreek'>θαμνίσκοις</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 2.9 ">Refs 1st c.AD+</a>]; of a husband, <span class='asgreek'>π</span>. <span class='asgreek'>τῇ</span> <span class='asgreek'>γυναικί</span> [<a href="javascript:void(0)" title=" NT.Matt.19.5, cf. LXX.Gen.2.24, NT.Mark.10.7, NT.Eph.5.31; τοῖς ἐπαοιδοῖς LXX.Lev.19.31; ψυχαὶ π. θεῷ 1st c.AD: Philo Judaeus “Fragmenta” 51 H. ">LXX+NT+1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> of style, <b>to be compact</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Demosthene” 43. ">Refs 1st c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Matt.19.5]] ☩ [[Gen.2.24]] ☩ [[Mark.10.7]] ☩ [[Eph.5.31]] ☩ [[Lev.19.31]]
+</sub></small>

@@ -1,0 +1,26 @@
+**Jeremiah 18:3** 
+<small><sub>**KJV:**</sub></small>
+Then I went down to the potter’s house, and, behold, he wrought a work on the wheels.
+<small><sub>**BSB:**</sub></small>
+So I went down to the potter’s house and saw him working at the wheel.
+<small><sub>**Literal:**</sub></small>
+and  I went down [the] house of the  potter and  there! - he [was] doing work on the  stones<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.2|<< Jeremiah 18:2]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.4|Jeremiah 18:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I went down  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֵרֵ֖ד</big></span><small><sup>[[H3381]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'e.Red<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the potter  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּוֹצֵ֑ר</big></span><small><sup>[[H3335H]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yo.Tzer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there! - he  [^4] | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנֵּה</big></span><small><sup>[[H2009]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> <span class="ashebrew"><big>ה֛וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;[^5] | ve.<small><sup>[[HC]]</sup></small> hi.neh<small><sup>[[HTj]]</sup></small> - hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [was] doing  | <span class="ashebrew"><big>עֹשֶׂ֥ה</big></span><small><sup>[[H6213J]]</sup></small> &#8207;| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| work  | <span class="ashebrew"><big>מְלָאכָ֖ה</big></span><small><sup>[[H4399]]</sup></small> &#8207;| me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the stones  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָבְנָֽיִם</big></span><small><sup>[[H0070]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.ve.Na.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.2|<< Jeremiah 18:2]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.4|Jeremiah 18:4 >>]]</td></tr></table>
+
+[^1]: ==K==: **and there! he ** | <small><sup>[[H9043]]</sup></small><span class="ashebrew"><big>הוּ</big></span> <small><sup>[[H2009]]</sup></small><span class="ashebrew"><big>הִנֵּ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
+[^2]: ==K==: **and there! he ** | <small><sup>[[H9043]]</sup></small><span class="ashebrew"><big>הוּ</big></span> <small><sup>[[H2009]]</sup></small><span class="ashebrew"><big>הִנֵּ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
+[^3]: ==K==: **and there! he ** | <small><sup>[[H9043]]</sup></small><span class="ashebrew"><big>הוּ</big></span> <small><sup>[[H2009]]</sup></small><span class="ashebrew"><big>הִנֵּ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
+[^4]: ==K==: **and there! he ** | <small><sup>[[H9043]]</sup></small><span class="ashebrew"><big>הוּ</big></span> <small><sup>[[H2009]]</sup></small><span class="ashebrew"><big>הִנֵּ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
+[^5]: ==L== spelled: **<span class="ashebrew"><big>וְהִנֵּ/ה֛וּ</big></span>**
+

@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==χαλκίον==</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ <b>copper vessel, cauldron, kettle,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 12.393, 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 1128, “fragment” 107, 330, 5th c.BC: Eupolis Comicus 108, 256, 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 8.19 ">Refs 5th c.BC+</a>]; <span class='asgreek'>χ</span>. <span class='asgreek'>θερμαντήριον</span>, ={<span class='asgreek'>θερμαντήρ</span>}, [<a href="javascript:void(0)" title=" “IG” 22.1416, 4.39 (from Aegina), 2nd c.AD: Galenus Medicus 13.663. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>cymbal,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>Δωδωναῖον</span> <span class='asgreek'>χ</span>., proverbial of a <b>chatterbox,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 66, compare 2nd c.AD: Zenobius Paroemiographus 6.5. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>bowl of the</b> <span class='asgreek'>κότταβος</span>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 6.110. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>copper ticket</b> given to the dicasts, bearing the name of the court in which they were to serve, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 39.10. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>piece of copper money,</b> <span class='asgreek'>πονηρὰ</span> <span class='asgreek'>χαλκία</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 724 (troch.); παραλαβὼν τὼ χαλκίω 4th c.BC: Eubulus Comicus 83; compare 2nd c.AD(?): Pollianus Epigrammaticus 9.90.—Freq. written χαλκεῖον in codices, but ==χαλκίον== is required by the metre in Comedy texts, and corroborated by Inscrr. (see. above), and Papyrus, “PCair.Zen.” 630.4 (3rd c.BC), “PMich.Zen.” 65.2 (3rd c.BC), “PSI” 6.625.12 (3rd c.BC), etc. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> probably <i>diminutive</i> of <span class='asgreek'>χάλκη</span>, ={<span class='asgreek'>κάλχη</span>}[<a href="javascript:void(0)" title=" 11, “IG” 42(1).102.242 (Epid., 4th c.BC). ">Refs 4th c.BC+</a>]

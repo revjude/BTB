@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==παντευχία==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ ={<span class='asgreek'>πανοπλία</span>} (for which it is variant in [<a href="javascript:void(0)" title=" LXX.4Mac.3.12)">LXX</a>], <b>complete armour</b>, [<a href="javascript:void(0)" title=" 6th c.BC: Pherecydes Lerius Historicus 158 1st c.AD: Josephus Historicus, 5th c.BC: Euripides Tragicus “Heraclidae” 787; ὅπλων π. [prev. work] 720 ">Refs 6th c.BC+</a>]; <span class='asgreek'>πολέμιον</span> <span class='asgreek'>==παντευχία==ν</span> enemies <b>in full array</b>, [<a href="javascript:void(0)" title=" [prev. author] “Supp.” 1192 ">Refs</a>]; <span class='asgreek'>==παντευχία==ν</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>θεοῦ</span>.. <span class='asgreek'>λαβεῖν</span> his <b>panoply</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristomenes Comicus 5 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ξὺν</span>, <span class='asgreek'>ἐν</span> <span class='asgreek'>παντευχίᾳ</span>, <b>in full armour</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 31, “fragment” 304.3: \_plural\_, 1st c.BC: Philodemus Philosophus “περὶ τοῦ καθ᾽ Ὅμηρον ἀγαθοῦ βασιλέως” p.58 O. ">Refs 4th c.BC+</a>]
+

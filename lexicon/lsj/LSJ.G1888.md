@@ -1,0 +1,8 @@
+
+Related to: <b> <span class='asgreek'>==ἐπαυτόφωρος, αὐτόφωρος==</span>-<span class='asgreek'>φωρος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ (<span class='asgreek'>φώρ</span>) <b>self-detected,</b> <span class='asgreek'>ἀμπλακήματα</span>[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 51. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> mostly in the phrase <span class='asgreek'>ἐπ᾽</span> <span class='asgreek'>αὐτοφώρῳ</span> <span class='asgreek'>λαμβάνειν</span> to catch <b>in the act,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 13.85, 4th c.BC: Demosthenes Orator 19.132; ἑλεῖν 5th c.BC: Euripides Tragicus “Ion” 1214; ἐλέγχειν 5th c.BC: Lysias Orator 7.42: with \_passive\_ Verbs, ἐπ᾽ αὐτοφώρῳ ἁλῶναι 5th c.BC: Herodotus Historicus 6.72; εἰλῆφθαι 5th-6th c.BC: Aristophanes Comicus “Plutus” 455, 5th c.BC: Eupolis Comicus 181: hence, ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in a more general sense, <b>notoriously, manifestly,</b> <span class='asgreek'>ἐπιβουλεύοντας</span> <span class='asgreek'>φανῆναι</span> <span class='asgreek'>ἐπ᾽</span> <span class='asgreek'>αὐ</span>.[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 6.137; ἐπ᾽ αὐ. αὐτὸν ἐλέγξω 5th c.BC: Lysias Orator 13.30; τὸν θάνατόν τινος ἐπ. αὐ. μηχανωμένη 5th c.BC: Antipho Orator 1.3; ἐπ᾽ αὐ. καταλαμβάνειν τινὰ ἀμαθέστερον ὄντα 5th-6th c.BC: Plato Philosophus “Apologia” 22b, compare “R.” 359c; ἐπ᾽ αὐ. εἴλημμαι πλουσιώτατος ὤν 5th-6th c.BC: Xenophon Historicus “Symposium” 3.13; ἀξιῶ σε.. ἐπ᾽. αὐ. ταῦτά μοι ἐπιδεῖξαι 5th c.BC: Lysias Orator 1.21; ἐπ᾽ αὐ. κλέπται ὄντες ἐξελεγχόμενοι 4th c.BC: Aeschines Orator 3.10.">Refs 5th c.BC+</a>]

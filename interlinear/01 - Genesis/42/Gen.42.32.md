@@ -1,0 +1,27 @@
+**Genesis 42:32** 
+<small><sub>**KJV:**</sub></small>
+We [be] twelve brethren, sons of our father; one [is] not, and the youngest [is] this day with our father in the land of Canaan.
+<small><sub>**BSB:**</sub></small>
+We are twelve brothers, sons of one father. One is no more, and the youngest is now with our father in the land of Canaan.’
+<small><sub>**Literal:**</sub></small>
+[are] two [plus] ten we brothers sons of father  our the  one not [is]  he and  the  young [brother] this  day [is] with father  our in  [the] land of Canaan<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.31|<< Genesis 42:31]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.33|Genesis 42:33 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [are] two [plus]  | <span class="ashebrew"><big>שְׁנֵים</big></span><small><sup>[[H8147]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| she.neim-<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עָשָׂ֥ר</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we  | <span class="ashebrew"><big>אֲנַ֛חְנוּ</big></span><small><sup>[[H0587]]</sup></small> &#8207;| 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brothers  | <span class="ashebrew"><big>אַחִ֖ים</big></span><small><sup>[[H0251G]]</sup></small> &#8207;| 'a.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father our  | <span class="ashebrew"><big>אָבִ֑י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the one  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֶחָ֣ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not [is] he  | <span class="ashebrew"><big>אֵינֶ֔</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the young [brother]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קָּטֹ֥ן</big></span><small><sup>[[H6996H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ka.Ton<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this day  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּ֛וֹם</big></span><small><sup>[[H3117L]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father our  | <span class="ashebrew"><big>אָבִ֖י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֥רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  | <span class="ashebrew"><big>כְּנָֽעַן</big></span><small><sup>[[H3667A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.31|<< Genesis 42:31]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.33|Genesis 42:33 >>]]</td></tr></table>
+
+

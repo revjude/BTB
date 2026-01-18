@@ -1,0 +1,24 @@
+**Deuteronomy 23:11** (23:12)
+<small><sub>**KJV:**</sub></small>
+But it shall be, when evening cometh on, he shall wash [himself] with water: and when the sun is down, he shall come into the camp [again].
+<small><sub>**BSB:**</sub></small>
+When evening approaches, he must wash with water, and when the sun sets he may return to the camp.
+<small><sub>**Literal:**</sub></small>
+and  it will be to  [the] turning of evening he will wash with \<the>  water and  just as  goes the  sun he will come into [the] middle of the  camp<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.10|<< Deuteronomy 23:10]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.12|Deuteronomy 23:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] turning of  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֽוֹת</big></span><small><sup>[[H6437G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.not-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evening  | <span class="ashebrew"><big>עֶ֖רֶב</big></span><small><sup>[[H6153]]</sup></small> &#8207;| 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will wash  | <span class="ashebrew"><big>יִרְחַ֣ץ</big></span><small><sup>[[H7364]]</sup></small> &#8207;| yir.Chatz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> water  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מָּ֑יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and just as goes  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>בֹ֣א</big></span><small><sup>[[H0935K]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sun  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֶּׁ֔מֶשׁ</big></span><small><sup>[[H8121]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will come  | <span class="ashebrew"><big>יָבֹ֖א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] middle of  | <span class="ashebrew"><big>תּ֥וֹךְ</big></span><small><sup>[[H8432]]</sup></small> &#8207;| Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the camp  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּחֲנֶה</big></span><small><sup>[[H4264]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ha.<small><sup>[[HTd]]</sup></small> ma.cha.neh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.10|<< Deuteronomy 23:10]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.12|Deuteronomy 23:12 >>]]</td></tr></table>
+
+

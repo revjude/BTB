@@ -1,0 +1,23 @@
+<small>*Amalek • In Edom • A nomadic people, descendants of Esau, enemies of Israel.*</small>
+
+<span class='tipnrhighlight'>Amalek</span>, a nomadic tribe descended from Esau, who were persistent enemies of Israel.
+- A location in Edom first mentioned at [[Gen.14.7|Gen.14.7]]; 
+- referred to as Amalek or Amalekite or "valley" \(KJV= Amalek\) <[[H6002G]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>ק</span>\), or Amalekite<[[H6003]]> \(<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=30.659770,34.835554&zoom=10&maptype=satellite"></iframe>
+
+
+Amalek was a nomadic people group descended from Esau's grandson, Eliphaz \(Genesis 36:12; [[1Chr.1.36|1 Chronicles 1:36]]\). They inhabited the desert regions of the Sinai Peninsula and the Negev. The Amalekites were the first nation to attack Israel after the Exodus, at Rephidim \([[Exod.17.8|Exodus 17:8]]-16\). Moses, with the help of Aaron and Hur, interceded for Israel while Joshua led the army in battle. As a result, God declared that He would be at war with Amalek from generation to generation \([[Exod.17.16|Exodus 17:16]]\). 
+
+The Amalekites, along with other enemies, continued to harass Israel during the period of the judges \([[Judg.3.13|Judges 3:13]]; 6:3,33; 7:12; 10:12\). Saul, Israel's first king, was commanded to completely destroy the Amalekites \([[1Sam.15.2|1 Samuel 15:2]]-3\). However, he disobeyed by sparing their king, Agag, and some of the livestock \([[1Sam.15.7|1 Samuel 15:7]]-9\). This act of disobedience led to God's rejection of Saul as king \([[1Sam.15.2|1 Samuel 15:2]]3; 28:18\). 
+
+During David's reign, the Amalekites were among the enemies he defeated \([[1Sam.30.1|1 Samuel 30:1]]-20; [[2Sam.8.12|2 Samuel 8:12]]; [[1Chr.18.11|1 Chronicles 18:11]]\). The last mention of the Amalekites is in [[1Chr.4.43|1 Chronicles 4:43]], which records that some of the Simeonites destroyed the remnant of the Amalekites during the time of Hezekiah. 
+
+The Amalekites are also mentioned in prophetic and poetic texts as symbols of Israel's enemies \(Numbers 24:20; Psalm 83:7\). Their persistent opposition to Israel and their role in the narratives of Saul and David make them significant adversaries in the biblical history of Israel.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Amalek | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>ק</span>](H6002G) <small>*Hebrew*</small> | 20x | [[Exo.17.8] ... [Psa.83.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amalek\*\|reference=Exo.17.8;Exo.17.9;Exo.17.10;Exo.17.11;Exo.17.13;Exo.17.14;Exo.17.16;Num.24.20;Num.24.20;Deu.25.17;Deu.25.19;1Sa.15.2;1Sa.15.3;1Sa.15.5;1Sa.15.20;1Sa.28.18;2Sa.8.12;1Ch.1.36;1Ch.18.11;Psa.83.7) |
+| Amalekite | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>ק</span>](H6002G) <small>*Hebrew*</small> | 16x | [[Num.13.29] ... [1Ch.4.43] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amalekite\*\|reference=Num.13.29;Jdg.3.13;Jdg.6.3;Jdg.6.33;Jdg.7.12;Jdg.10.12;1Sa.14.48;1Sa.15.6;1Sa.15.7;1Sa.15.8;1Sa.15.18;1Sa.15.20;1Sa.15.32;1Sa.30.18;2Sa.1.1;1Ch.4.43) |
+| valley (KJV= Amalek) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>ק</span>](H6002G) <small>*Hebrew*</small> | 1x | [Jdg.5.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=valley\*\|reference=Jdg.5.14) |
+| Amalekite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ל</span>ֵ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>](H6003) <small>*Hebrew*</small> | 12x | [[Gen.14.7] ... [2Sa.1.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amalekite\*\|reference=Gen.14.7;Num.14.25;Num.14.43;Num.14.45;Jdg.12.15;1Sa.15.6;1Sa.15.15;1Sa.27.8;1Sa.30.1;1Sa.30.13;2Sa.1.8;2Sa.1.13) |
+All Strong's for **Amalek or valley**: \[[[H6002G]]\] \[[[H6003]]\]

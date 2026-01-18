@@ -1,0 +1,21 @@
+**Jeremiah 10:4** 
+<small><sub>**KJV:**</sub></small>
+They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.
+<small><sub>**BSB:**</sub></small>
+They adorn it with silver and gold and fasten it with hammer and nails, so that it will not totter.
+<small><sub>**Literal:**</sub></small>
+with  silver and  with  gold he beautifies  it with  nails and  with  hammers they make strong  them and  not it will wobble<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.3|<< Jeremiah 10:3]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.5|Jeremiah 10:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| with silver  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כֶ֥סֶף</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with gold  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>זָהָ֖ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he beautifies it  | <span class="ashebrew"><big>יְיַפֵּ֑</big></span><small><sup>[[H3302]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ye.ya.Pe.<small><sup>[[HVpi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with nails  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מַסְמְר֧וֹת</big></span><small><sup>[[H4548]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mas.me.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with hammers  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מַקָּב֛וֹת</big></span><small><sup>[[H4717]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> ma.ka.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they make strong them  | <span class="ashebrew"><big>יְחַזְּק֖וּ</big></span><small><sup>[[H2388H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| ye.cha.ze.Ku<small><sup>[[HVpi3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ל֥וֹא</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will wobble  | <span class="ashebrew"><big>יָפִֽיק</big></span><small><sup>[[H6328]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ya.Fik<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.3|<< Jeremiah 10:3]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.5|Jeremiah 10:5 >>]]</td></tr></table>
+
+

@@ -1,0 +1,12 @@
+<span class="asgreek">διάταξις</span> <small>***(diataxis)***</small> ==**a disposition**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==διάταξις==</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>διατάσσω</span>) <b>disposition, arrangement,</b> of troops, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 9.26; ἡ δ. τῶν φυλάκων 4th c.BC: Demosthenes Orator 18.248 ">Refs 5th c.BC+</a>]; <b>disposition</b> of the elements, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 53b; ταύτην ὁ κόσμος ἔχει τὴν δ. 4th c.BC: Aristoteles Philosophus “de Caelo” 300b25 ">Refs 5th c.BC+</a>]; of a treatise, [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 49.4 ">Refs 3rd c.BC+</a>]; Rhet., <b>arrangement of topics,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Hist.Conscr.” 24. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>command,</b> [<a href="javascript:void(0)" title=" LXX.Ps.118.91, 2nd c.BC: Polybius Historicus 4.19.10, 1st c.BC: Philodemus Gadarensis Epigrammaticus “Herc.” 1251.20, “Po.” 2.48 (\_plural\_)">LXX+2nd c.BC+</a>]; <b>testamentary disposition,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.87.5 ">Refs 2nd c.BC+</a>]; <b>compact,</b> [<a href="javascript:void(0)" title=" [prev. author] 8.16.12. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>imperial constitution,</b> <span class='asgreek'>θεῖαι</span> <span class='asgreek'>δ</span>. Wilcken[<a href="javascript:void(0)" title=" “Chr.” 41 iii 20 (3rd c.AD)">Refs 3rd c.AD+</a>]; <span class='asgreek'>κατὰ</span> <span class='asgreek'>διάταξιν</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Ἁδριανοῦ</span> [<a href="javascript:void(0)" title=" “BGU” 1022.9 (2nd c.AD)">Refs 2nd c.AD+</a>]; <span class='asgreek'>νεαραὶ</span> <span class='asgreek'>δ</span>., title of Justinian's Novels; of the <b>decree</b> of the <b>praefectus Aegypti,</b> Wilcken[<a href="javascript:void(0)" title=" “Chr.” 27.10 (2nd c.AD). ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Ps.118.91]]
+</sub></small>

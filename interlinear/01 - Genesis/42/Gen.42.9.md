@@ -1,0 +1,29 @@
+**Genesis 42:9** 
+<small><sub>**KJV:**</sub></small>
+And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye [are] spies; to see the nakedness of the land ye are come.
+<small><sub>**BSB:**</sub></small>
+Joseph remembered his dreams about them and said, “You are spies! You have come to see if our land is vulnerable.”
+<small><sub>**Literal:**</sub></small>
+and  he remembered Joseph \<obj.> the  dreams which he had dreamed of \<the>  them and  he said to  them [are] spies you to  see \<obj.> [the] nakedness of the  land you have come<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.8|<< Genesis 42:8]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.10|Genesis 42:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he remembered  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּזְכֹּ֣ר</big></span><small><sup>[[H2142]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yiz.Kor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  | <span class="ashebrew"><big>יוֹסֵ֔ף</big></span><small><sup>[[H3130G]]</sup></small> &#8207;| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֚ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the dreams  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֲלֹמ֔וֹת</big></span><small><sup>[[H2472]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> cha.lo.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had dreamed  | <span class="ashebrew"><big>חָלַ֖ם</big></span><small><sup>[[H2492B]]</sup></small> &#8207;| cha.Lam<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֑ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֤אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵ</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.le.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] spies  | <span class="ashebrew"><big>מְרַגְּלִ֣ים</big></span><small><sup>[[H7270]]</sup></small> &#8207;| me.ra.ge.Lim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתֶּ֔ם</big></span><small><sup>[[H0859D]]</sup></small> &#8207;| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to see  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רְא֛וֹת</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] nakedness of  | <span class="ashebrew"><big>עֶרְוַ֥ת</big></span><small><sup>[[H6172]]</sup></small> &#8207;| 'er.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֖רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have come  | <span class="ashebrew"><big>בָּאתֶֽם</big></span><small><sup>[[H0935G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.8|<< Genesis 42:8]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.10|Genesis 42:10 >>]]</td></tr></table>
+
+

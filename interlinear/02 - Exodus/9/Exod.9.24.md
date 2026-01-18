@@ -1,0 +1,31 @@
+**Exodus 9:24** 
+<small><sub>**KJV:**</sub></small>
+So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation.
+<small><sub>**BSB:**</sub></small>
+The hail fell and the lightning continued flashing through it. The hail was so severe that nothing like it had ever been seen in all the land of Egypt from the time it became a nation.
+<small><sub>**Literal:**</sub></small>
+and  it was hail and  fire [was] flashing in  [the] middle of the  hail heavy very which not it had been like  it in  all [the] land of Egypt from  then it had become \<into>  a nation<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.23|<< Exodus 9:23]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.25|Exodus 9:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִ֣י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hail  | <span class="ashebrew"><big>בָרָ֔ד</big></span><small><sup>[[H1259]]</sup></small> &#8207;| va.Rad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and fire  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֕שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] flashing  | <span class="ashebrew"><big>מִתְלַקַּ֖חַת</big></span><small><sup>[[H3947L]]</sup></small> &#8207;| mit.la.Ka.chat<small><sup>[[HVtrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] middle of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ת֣וֹךְ</big></span><small><sup>[[H8432]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the hail  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בָּרָ֑ד</big></span><small><sup>[[H1259]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ba.Rad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heavy  | <span class="ashebrew"><big>כָּבֵ֣ד</big></span><small><sup>[[H3515]]</sup></small> &#8207;| ka.Ved<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| very  | <span class="ashebrew"><big>מְאֹ֔ד</big></span><small><sup>[[H3966]]</sup></small> &#8207;| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲ֠שֶׁר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had been  | <span class="ashebrew"><big>הָיָ֤ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like it  | <span class="ashebrew"><big>כָמֹ֙</big></span><small><sup>[[H3644G]]</sup></small> <span class="ashebrew"><big>הוּ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| kha.Mo.<small><sup>[[HRd]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  | <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרַ֔יִם</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from then  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אָ֖ז</big></span><small><sup>[[H0227B]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had become  | <span class="ashebrew"><big>הָיְתָ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a nation  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>גֽוֹי</big></span><small><sup>[[H1471A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.23|<< Exodus 9:23]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.25|Exodus 9:25 >>]]</td></tr></table>
+
+

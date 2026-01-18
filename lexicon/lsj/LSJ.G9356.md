@@ -1,0 +1,12 @@
+<span class="asgreek">συσπάω</span> <small>***(suspaō)***</small> ==**to shrivel**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==συσπάω==</span></b>, 
+
+
+ <b>draw together, contract</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 71c ">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>ἀνίημι</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 949a9, +others">Refs 4th c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>δέρμα</span>[<a href="javascript:void(0)" title=" [prev. work] 888a39, compare 4th-3rd c.BC: Theophrastus Philosophus “de Sensu” 65; συνεσπᾰκὼς τοὺς δακτύλους 2nd c.AD: Lucianus Sophista “Tim.” 13; τὰς ὀφρῦς [prev. author] “Vit.Auct.” 7 ">Refs 4th c.BC+</a>]:—<i>middle</i>, <span class='asgreek'>σ</span>. <span class='asgreek'>τὰς</span> <span class='asgreek'>κοχώνας</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 482 (assuming variant)">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be drawn up, retracted</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 508a21, etc.">Refs 4th c.BC+</a>]; but also, <b>to be shrivelled up</b> by fire, [<a href="javascript:void(0)" title=" LXX.Lam.5.10 ">LXX</a>]; <span class='asgreek'>συνεσπασμένους</span> <span class='asgreek'>σμένους</span> <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>νόσου</span> [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 6.92 ">Refs 3rd c.AD+</a>]; <span class='asgreek'>συνεσπασμένοι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>κακοπινεῖς</span> <b>shrivelled</b> and dirty, [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 13.565d: \_metaphorically\_, λόγοι ἰσχνοὶ καὶ συνεσπ">Refs 2nd c.AD+</a>]. dry and <b>shrunken</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Demosthene” 15. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>draw together</b> by stitching, <b>sew together</b>, <span class='asgreek'>διφθέρας</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 1.5.10. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> in <i>middle</i>, <b>draw along with one</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Publicola” 16. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Lam.5.10]]
+</sub></small>

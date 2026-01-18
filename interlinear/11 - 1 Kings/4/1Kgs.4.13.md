@@ -1,0 +1,35 @@
+**1 Kings 4:13** 
+<small><sub>**KJV:**</sub></small>
+The son of Geber, in Ramothgilead; to him [pertained] the towns of Jair the son of Manasseh, which [are] in Gilead; to him [also pertained] the region of Argob, which [is] in Bashan, threescore great cities with walls and brasen bars:
+<small><sub>**BSB:**</sub></small>
+Ben-geber in Ramoth-gilead (the villages of Jair son of Manasseh in Gilead belonged to him, as well as the region of Argob in Bashan with its sixty great cities with walls and bronze bars);
+<small><sub>**Literal:**</sub></small>
+Ben- Geber in  Ramoth Gilead [belonged] to \<the>  him [the] villages of Jair [the] son of Manasseh which [are] in \<the>  Gilead [belonged] to \<the>  him [the] region of Argob which [is] in \<the>  Bashan sixty cities large a wall and  bar[s] of bronze<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.12|<< 1 Kings 4:12]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.14|1 Kings 4:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| Ben-  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1127]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Geber  | <span class="ashebrew"><big>גֶּ֖בֶר</big></span><small><sup>[[H1127]]</sup></small> &#8207;| Ge.ver<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Ramoth  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רָמֹ֣ת</big></span><small><sup>[[H7418G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ra.Mot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  | <span class="ashebrew"><big>גִּלְעָ֑ד</big></span><small><sup>[[H1568M]]</sup></small> &#8207;| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to \<the> him  | <span class="ashebrew"><big>ל֡</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] villages of  | <span class="ashebrew"><big>חַוֹּת֩</big></span><small><sup>[[H2333]]</sup></small> &#8207;| cha.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jair  | <span class="ashebrew"><big>יָאִ֨יר</big></span><small><sup>[[H2971G]]</sup></small> &#8207;| ya.'Ir<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Manasseh  | <span class="ashebrew"><big>מְנַשֶּׁ֜ה</big></span><small><sup>[[H4519G]]</sup></small> &#8207;| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] in \<the> Gilead  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גִּלְעָ֗ד</big></span><small><sup>[[H1568G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to \<the> him  | <span class="ashebrew"><big>ל֚</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] region of  | <span class="ashebrew"><big>חֶ֤בֶל</big></span><small><sup>[[H2256M]]</sup></small> &#8207;| Che.vel<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Argob  | <span class="ashebrew"><big>אַרְגֹּב֙</big></span><small><sup>[[H0709G]]</sup></small> &#8207;| 'ar.Go<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in \<the> Bashan  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בָּשָׁ֔ן</big></span><small><sup>[[H1316]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> ba.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sixty  | <span class="ashebrew"><big>שִׁשִּׁים֙</big></span><small><sup>[[H8346]]</sup></small> &#8207;| shi.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities  | <span class="ashebrew"><big>עָרִ֣ים</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| large  | <span class="ashebrew"><big>גְּדֹל֔וֹת</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ge.do.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wall  | <span class="ashebrew"><big>חוֹמָ֖ה</big></span><small><sup>[[H2346G]]</sup></small> &#8207;| cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and bar[s] of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְרִ֥יחַ</big></span><small><sup>[[H1280]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.Ri.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bronze  | <span class="ashebrew"><big>נְחֹֽשֶׁת</big></span><small><sup>[[H5178A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.12|<< 1 Kings 4:12]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.14|1 Kings 4:14 >>]]</td></tr></table>
+
+

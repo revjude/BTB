@@ -1,0 +1,8 @@
+<span class="asgreek">ὑγραίνω</span> <small>***(hugrainō)***</small> ==**to wet**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ὑγραίνω==</span>-<span class='asgreek'>αίνω</span></b>, 
+
+
+ <b>wet, mositen,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 5.3, 5th-6th c.BC: Plato Philosophus “Respublica” 335d ">Refs 5th c.BC+</a>]; of a river, <b>water</b> a country, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Troades” 226 (Lyric poetry), “Hel.” 3; βλέφαρον ὑ. δάκρυσιν [prev. work] 673 (Lyric poetry)">Refs 5th c.BC+</a>]; <span class='asgreek'>πηγαῖς</span> <span class='asgreek'>οὐχ</span> <span class='asgreek'>==ὑγραίνω==αίνουσιν</span> <span class='asgreek'>πόδας</span> [<a href="javascript:void(0)" title=" [prev. author] “fragment” 367 ">Refs</a>]:—<i>passive</i>, of water, <b>collect in pools,</b> and of solids, <b>to be liquefied,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 382b28 ">Refs 4th c.BC+</a>]; opposed to <span class='asgreek'>ξηραίνεσθαι</span>, [<a href="javascript:void(0)" title=" [prev. author] “PA” 653b3, “HA” 557b11, etc.">Refs</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>==ὑγραίνω==ανθὲν</span> [<span class='asgreek'>μέρος</span>] the part which <b>is liquefied,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 51b. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>relax</b> the bowels, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἀφορισμοί” 3.17:">Refs 5th c.BC+</a>] —<i>passive</i> [<a href="javascript:void(0)" title=", [prev. work] 2.20. ">Refs</a>]

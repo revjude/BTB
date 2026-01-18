@@ -1,0 +1,28 @@
+**Genesis 47:13** 
+<small><sub>**KJV:**</sub></small>
+And [there was] no bread in all the land; for the famine [was] very sore, so that the land of Egypt and [all] the land of Canaan fainted by reason of the famine.
+<small><sub>**BSB:**</sub></small>
+There was no food, however, in all that region, because the famine was so severe; the lands of Egypt and Canaan had been exhausted by the famine.
+<small><sub>**Literal:**</sub></small>
+and  [was] food there not in  all the  land for [was] heavy the  famine very and  it languished [the] land of Egypt and  [the] land of Canaan \<from>  because of the  famine<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.12|<< Genesis 47:12]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.14|Genesis 47:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [was] food  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֶ֤חֶם</big></span><small><sup>[[H3899G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  | <span class="ashebrew"><big>אֵין֙</big></span><small><sup>[[H0369]]</sup></small> &#8207;| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] heavy  | <span class="ashebrew"><big>כָבֵ֥ד</big></span><small><sup>[[H3515]]</sup></small> &#8207;| kha.Ved<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the famine  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רָעָ֖ב</big></span><small><sup>[[H7458]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| very  | <span class="ashebrew"><big>מְאֹ֑ד</big></span><small><sup>[[H3966]]</sup></small> &#8207;| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it languished  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֵּ֜לַהּ</big></span><small><sup>[[H3856A]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Te.lah<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  | <span class="ashebrew"><big>אֶ֤רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרַ֙יִם֙</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] land of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  | <span class="ashebrew"><big>כְּנַ֔עַן</big></span><small><sup>[[H3667A]]</sup></small> &#8207;| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> because of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֖י</big></span><small><sup>[[H6440I]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the famine  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רָעָֽב</big></span><small><sup>[[H7458]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.12|<< Genesis 47:12]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.14|Genesis 47:14 >>]]</td></tr></table>
+
+

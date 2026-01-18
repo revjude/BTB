@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==καθαίρεσις==</span>-<span class='asgreek'>εσις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>pulling down, demolition</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.42, 5th-6th c.BC: Isocrates Orator 7.66, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.2.15, “IG” 22.1672.75 (4th c.BC), “PMagd.” 9.6 (3rd c.BC), etc.: \_metaphorically\_, τινῶν, opposed to οἰκοδομή, NT.2Cor.10.8 ">NT+5th c.BC+</a>]; <span class='asgreek'>ἀναστήσωμεν</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>λαοῦ</span> <span class='asgreek'>ἡμῶν</span> [<a href="javascript:void(0)" title=" LXX.1Mac.3.43: in concrete sense, αἱ καθαιρέσεις">LXX</a>] <b>the débris</b>, [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 92.31. ">Refs 3rd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>overthrow, subjugation</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Julianus Imperator “Caesares” 320d; τῆς ἀνέτου ἐξουσίας 2nd c.AD: Herodianus Grammaticus 2.4.4; Ἰουλιανοῦ [prev. author] 3.1.1 ">Refs 2nd c.AD+</a>]; <b>killing</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Antonius” 82. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>reduction, diminution</b>, opposed to <span class='asgreek'>πρόσθεσις</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physica” 207a23 ">Refs 4th c.BC+</a>]: in Medicine texts, <b>bringing down superfluous flesh, lowering, reducing</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 6.3.1, compare 2nd c.AD: Galenus Medicus 17(2).368; τῶν σωμάτων 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 738a31; τῶν ὄγκων 5th-6th c.BC: Plato Philosophus “Timaeus” 58e. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>eclipse</b> of sun or moon (with reference to the magical process of <b>drawing down</b> those bodies), [<a href="javascript:void(0)" title="Scholia 3rd c.BC: Apollonius Rhodius Epicus 3.533 (\_plural\_). ">Refs 3rd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Cor.10.8]]
+</sub></small>

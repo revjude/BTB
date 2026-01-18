@@ -1,0 +1,11 @@
+ <span class="bdbLangHebrew">‎מִקָצֹעַ‎</span> **noun masculine**<sup>[[Ezek.46.21|Ezek 46:21]]</sup> ==place of corner-structure==, (inner) ==corner-buttress== (as (place of) ***cutting off*** of an inner angle if √ rightly explained; see [[BDB#RS|RS]]<sup>l.c. 71-81</sup>); — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Neh.3.19|Neh 3:19]] +, <span class="bdbLangHebrew">‎צוֺעַ‎</span>- [[Neh.3.20|Neh 3:20]] +; construct <span class="bdbLangHebrew">‎צֹעַ‎</span>- [[Ezek.46.21|Ezek 46:21]] (twice in verse); plural absolute <span class="bdbLangHebrew">‎מִקָצֹעֹת‎</span> [[Exod.26.24|Exod 26:24]]; [[Exod.36.29|Exod 36:29]], construct <span class="bdbLangHebrew">‎עוֺת‎</span>- [[Ezek.46.22|Ezek 46:22]], <span class="bdbLangHebrew">‎מִקְצוֺעֵי‎</span> v[[Ezek.46.21|Ezek 46:21]], also <span class="bdbLangHebrew">‎מְקֻצְעֹת‎</span> [[Exod.26.23|Exod 26:23]]; [[Exod.36.28|Exod 36:28]] [[BDB#Di|Di]] (not **Pu\`al** ***Participle*** from <span class="bdbLangHebrew">‎קָצַע‎</span> [[BDB#Thes|Thes]] [[BDB#Buhl|Buhl]]<sup>Lex 13</sup> and others), but read probably <span class="bdbLangHebrew">‎מִקְצֹעֹת‎</span>, so [[BDB#SS|SS]] [[BDB#Baen|Baen]]; suffix <span class="bdbLangHebrew">‎מִקְצֹעוֺתָיו‎</span> [[Ezek.41.22|Ezek 41:22]]-***corner-post*** of altar [[Ezek.41.22|Ezek 41:22]], tabernacle [[Exod.26.23|Exod 26:23]]; [[Exod.26.24|Exod 26:24]] = [[Exod.36.28|Exod 36:28]]; [[Exod.36.29|Exod 36:29]] (inner) ***buttress-place*** of court, where the small corner-courts were, [[Ezek.46.21|Ezek 46:21]] (3 t. in verse); [[Ezek.46.22|Ezek 46:22]] of inner (rock- ?) ***buttress*** at northeast corner of wall of Jerusalem, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַמּ‎</span>, nearly = proper name, [[Neh.3.19|Neh 3:19]]; [[Neh.3.20|Neh 3:20]]; [[Neh.3.25|Neh 3:25]], also (distinguished from <span class="bdbLangHebrew">‎פִּנָּה‎</span>) v[[Neh.3.24|Neh 3:24]]; [[2Chr.26.9|2Chr 26:9]]. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.26.23\|26:23]] · [[Exod.26.24\|26:24]] · [[Exod.36.28\|36:28]] · [[Exod.36.29\|36:29]] |
+| 2 Chronicles | [[2Chr.26.9\|26:9]] |
+| Nehemiah | [[Neh.3.19\|3:19]] · [[Neh.3.20\|3:20]] · [[Neh.3.24\|3:24]] · [[Neh.3.25\|3:25]] |
+| Ezekiel | [[Ezek.41.22\|41:22]] · [[Ezek.46.21\|46:21]] · [[Ezek.46.22\|46:22]] |
+

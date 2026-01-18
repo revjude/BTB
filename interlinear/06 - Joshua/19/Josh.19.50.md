@@ -1,0 +1,32 @@
+**Joshua 19:50** 
+<small><sub>**KJV:**</sub></small>
+According to the word of the LORD they gave him the city which he asked, [even] Timnathserah in mount Ephraim: and he built the city, and dwelt therein.
+<small><sub>**BSB:**</sub></small>
+as the LORD had commanded. They gave him the city of Timnath-serah in the hill country of Ephraim, as he requested. He rebuilt the city and settled in it.
+<small><sub>**Literal:**</sub></small>
+on [the] mouth of Yahweh they gave to \<the>  him \<obj.> the  city which he asked for \<obj.> Timnath Serah in  [the] hill country of Ephraim and  he built \<obj.> the  city and  he dwelt in \<the>  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.49|<< Joshua 19:49]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.51|Joshua 19:51 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mouth of  | <span class="ashebrew"><big>פִּ֨י</big></span><small><sup>[[H6310I]]</sup></small> &#8207;| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they gave  | <span class="ashebrew"><big>נָ֣תְנוּ</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| Na.te.nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  | <span class="ashebrew"><big>ל֗</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִיר֙</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he asked for  | <span class="ashebrew"><big>שָׁאָ֔ל</big></span><small><sup>[[H7592]]</sup></small> &#8207;| sha.'Al<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Timnath  | <span class="ashebrew"><big>תִּמְנַת</big></span><small><sup>[[H8556B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| tim.nat-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Serah  | <span class="ashebrew"><big>סֶ֖רַח</big></span><small><sup>[[H8556B]]</sup></small> &#8207;| Se.rach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] hill country of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הַ֣ר</big></span><small><sup>[[H2022H]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  | <span class="ashebrew"><big>אֶפְרָ֑יִם</big></span><small><sup>[[H0669G]]</sup></small> &#8207;| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he built  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּבְנֶ֥ה</big></span><small><sup>[[H1129]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yiv.Neh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִ֖יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he dwelt  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֥שֶׁב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> it  | <span class="ashebrew"><big>בָּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ba<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.49|<< Joshua 19:49]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.51|Joshua 19:51 >>]]</td></tr></table>
+
+

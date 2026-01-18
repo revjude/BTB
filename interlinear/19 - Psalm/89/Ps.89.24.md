@@ -1,0 +1,19 @@
+**Psalms 89:24** (89:25)
+<small><sub>**KJV:**</sub></small>
+But my faithfulness and my mercy [shall be] with him: and in my name shall his horn be exalted.
+<small><sub>**BSB:**</sub></small>
+My faithfulness and loving devotion will be with him, and through My name his horn will be exalted.
+<small><sub>**Literal:**</sub></small>
+and  faithfulness  my and  covenant loyalty  my [will be] with  him and  in  name  my it will be exalted horn  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.23|<< Psalms 89:23]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.25|Psalms 89:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and faithfulness my  | <span class="ashebrew"><big>וֶֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶֽמוּנָתִ֣</big></span><small><sup>[[H0530]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'e.mu.na.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and covenant loyalty my  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חַסְדִּ֣</big></span><small><sup>[[H2617A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> chas.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] with him  | <span class="ashebrew"><big>עִמּ֑</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| i.M<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in name my  | <span class="ashebrew"><big>וּ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁמִ֗</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> sh.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be exalted  | <span class="ashebrew"><big>תָּר֥וּם</big></span><small><sup>[[H7311A]]</sup></small> &#8207;| ta.Rum<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horn his  | <span class="ashebrew"><big>קַרְנֽ</big></span><small><sup>[[H7161A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| kar.N<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.23|<< Psalms 89:23]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.25|Psalms 89:25 >>]]</td></tr></table>
+
+

@@ -1,0 +1,8 @@
+<span class="asgreek">σκύμνος</span> <small>***(skumnos)***</small> ==**a cub**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==σκύμνος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ὁ</span> 
+
+
+ (and <span class='asgreek'>ἡ</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Orestes” 1493 (Lyric poetry))">Refs 5th c.BC+</a>], <b>cub. whelp</b>, especially <b>lion's whelp</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 18.319; in full, σ. λέοντος 5th c.BC: Herodotus Historicus 3.32, 5th c.BC: Euripides Tragicus “Supplices” 1223, 5th-6th c.BC: Aristophanes Comicus “Ranae” 1431, compare “Eq.” 1039; λεαίνης 5th c.BC: Sophocles Tragicus “Ajax” 987 ">Refs 8th c.BC+</a>]; also of other animals, <span class='asgreek'>σ</span>. <span class='asgreek'>λύκων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 699; λυγγός 6th c.BC: Lasus Lyricus 3 ">Refs 6th c.BC+</a>]; <span class='asgreek'>τῆς</span> <span class='asgreek'>ἄρκτου</span>, <span class='asgreek'>τῆς</span> <span class='asgreek'>ἐλέφαντος</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 571b30, 578a22; ἀλώπεκος 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Lycurgus” 18. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in poets also of men, <span class='asgreek'>Ἀχίλλειος</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Andromache” 1170 (\_anapaest meter\_), compare “Rh.” 381 (\_anapaest meter\_) ">Refs 5th c.BC+</a>]; of women, [<a href="javascript:void(0)" title=" [prev. author] “Or.” 1213, 1387 (Lyric poetry). ">Refs</a>]

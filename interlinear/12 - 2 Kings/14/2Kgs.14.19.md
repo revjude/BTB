@@ -1,0 +1,24 @@
+**2 Kings 14:19** 
+<small><sub>**KJV:**</sub></small>
+Now they made a conspiracy against him in Jerusalem: and he fled to Lachish; but they sent after him to Lachish, and slew him there.
+<small><sub>**BSB:**</sub></small>
+And conspirators plotted against Amaziah in Jerusalem, and he fled to Lachish. But men were sent after him to Lachish, and they killed him there.
+<small><sub>**Literal:**</sub></small>
+and  people conspired on  him a conspiracy in  Jerusalem and  he fled Lachish  towards and  they sent after  him Lachish  towards and  they put to death  him there<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.18|<< 2 Kings 14:18]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.20|2 Kings 14:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and people conspired  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְשְׁר֨וּ</big></span><small><sup>[[H7194]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.she.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on him  | <span class="ashebrew"><big>עָלָ֥י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a conspiracy  | <span class="ashebrew"><big>קֶ֛שֶׁר</big></span><small><sup>[[H7195]]</sup></small> &#8207;| Ke.sher<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Jerusalem  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ירוּשָׁלִַ֖ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he fled  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֣נָס</big></span><small><sup>[[H5127]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.nos<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lachish towards  | <span class="ashebrew"><big>לָכִ֑ישָׁ</big></span><small><sup>[[H3923]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| la.Khi.sha<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they sent  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁלְח֤וּ</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.le.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after him  | <span class="ashebrew"><big>אַֽחֲרָי</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lachish towards  | <span class="ashebrew"><big>לָכִ֔ישָׁ</big></span><small><sup>[[H3923]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| la.Khi.sha<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they put to death him  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְמִתֻ֖</big></span><small><sup>[[H4191]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.mi.Tu.<small><sup>[[HVhw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָֽׁם</big></span><small><sup>[[H8033G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.18|<< 2 Kings 14:18]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.20|2 Kings 14:20 >>]]</td></tr></table>
+
+

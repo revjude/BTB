@@ -1,0 +1,19 @@
+**1 Samuel 8:15** 
+<small><sub>**KJV:**</sub></small>
+And he will take the tenth of your seed, and of your vineyards, and give to his officers, and to his servants.
+<small><sub>**BSB:**</sub></small>
+He will take a tenth of your grain and grape harvest and give it to his officials and servants.
+<small><sub>**Literal:**</sub></small>
+and  seed\<s>  your and  vineyards  your he will take a tenth and  he will give [them] to  officials  his and  to  servants  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.14|<< 1 Samuel 8:14]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.16|1 Samuel 8:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and seed\<s> your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זַרְעֵי</big></span><small><sup>[[H2233G]]</sup></small> <span class="ashebrew"><big>כֶ֥ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> zar.'ei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and vineyards your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כַרְמֵי</big></span><small><sup>[[H3754]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khar.mei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will take a tenth  | <span class="ashebrew"><big>יַעְשֹׂ֑ר</big></span><small><sup>[[H6237]]</sup></small> &#8207;| ya'.Sor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will give [them]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָתַ֥ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.Tan<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to officials his  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>סָרִיסָ֖י</big></span><small><sup>[[H5631]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> sa.ri.Sa<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to servants his  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֲבָדָֽי</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.14|<< 1 Samuel 8:14]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.16|1 Samuel 8:16 >>]]</td></tr></table>
+
+

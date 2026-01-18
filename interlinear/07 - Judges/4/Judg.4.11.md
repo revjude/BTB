@@ -1,0 +1,32 @@
+**Judges 4:11** 
+<small><sub>**KJV:**</sub></small>
+Now Heber the Kenite, [which was] of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which [is] by Kedesh.
+<small><sub>**BSB:**</sub></small>
+Now Heber the Kenite had moved away from the Kenites, the descendants of Hobab the father-in-law of Moses, and had pitched his tent by the great tree of Zaanannim, which was near Kedesh.
+<small><sub>**Literal:**</sub></small>
+and  Heber the  Kenite [was] separate from  [the] Kenite[s] from  [the] descendants of Hobab [the] father-in-law of Moses and  he had pitched tent  his to [the] great tree in  Zaanannim which [is] with Kedesh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.10|<< Judges 4:10]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.12|Judges 4:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Heber  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֶ֤בֶר</big></span><small><sup>[[H2268H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Che.ver<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Kenite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קֵּינִי֙</big></span><small><sup>[[H7017]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> kei.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] separate  | <span class="ashebrew"><big>נִפְרָ֣ד</big></span><small><sup>[[H6504]]</sup></small> &#8207;| nif.Rad<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] Kenite[s]  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>קַּ֔יִן</big></span><small><sup>[[H7014G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ka.yin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] descendants of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hobab  | <span class="ashebrew"><big>חֹבָ֖ב</big></span><small><sup>[[H2246]]</sup></small> &#8207;| cho.Vav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] father-in-law of  | <span class="ashebrew"><big>חֹתֵ֣ן</big></span><small><sup>[[H2859A]]</sup></small> &#8207;| cho.Ten<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  | <span class="ashebrew"><big>מֹשֶׁ֑ה</big></span><small><sup>[[H4872]]</sup></small> &#8207;| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he had pitched  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֣ט</big></span><small><sup>[[H5186]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yet<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tent his  | <span class="ashebrew"><big>אָהֳל֔</big></span><small><sup>[[H0168G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'o.ho.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] great tree  | <span class="ashebrew"><big>אֵל֥וֹן</big></span><small><sup>[[H0436H]]</sup></small> &#8207;| 'e.Lon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Zaanannim  [^2] | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צַעֲנַנִּ֖ים</big></span><small><sup>[[H6815]]</sup></small> &#8207;[^3] | ba<small><sup>[[HR]]</sup></small> tz.'a.nim<small><sup>[[HNpl]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kedesh  | <span class="ashebrew"><big>קֶֽדֶשׁ</big></span><small><sup>[[H6943G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ke.desh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.10|<< Judges 4:10]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.12|Judges 4:12 >>]]</td></tr></table>
+
+[^1]: ==K==: **in Zaanim ** | <small><sup>[[H6815]]</sup></small><span class="ashebrew"><big>צְעַנִּים</big></span> <small><sup>[[H9003]]</sup></small><span class="ashebrew"><big>בַּ</big></span>  | ba<small><sup>[[HR]]</sup></small> tz.'a.nim<small><sup>[[HNpl]]</sup></small> 
+[^2]: ==K==: **in Zaanim ** | <small><sup>[[H6815]]</sup></small><span class="ashebrew"><big>צְעַנִּים</big></span> <small><sup>[[H9003]]</sup></small><span class="ashebrew"><big>בַּ</big></span>  | ba<small><sup>[[HR]]</sup></small> tz.'a.nim<small><sup>[[HNpl]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>בְּצַעֲנַּיִ֖ם</big></span>**
+

@@ -1,0 +1,26 @@
+**Numbers 24:8** 
+<small><sub>**KJV:**</sub></small>
+God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce [them] through with his arrows.
+<small><sub>**BSB:**</sub></small>
+God brought him out of Egypt with strength like a wild ox, to devour hostile nations and crush their bones, to pierce them with arrows.
+<small><sub>**Literal:**</sub></small>
+God [is] bringing out  it from  Egypt like  [the] horns of a wild ox [belong] to \<the>  him it will consume nations opponents  its and  bones  their it will break and  arrows  its it will wound [them]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.7|<< Numbers 24:7]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.9|Numbers 24:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| God  | <span class="ashebrew"><big>אֵ֚ל</big></span><small><sup>[[H0410G]]</sup></small> &#8207;| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] bringing out it  | <span class="ashebrew"><big>מוֹצִיא֣</big></span><small><sup>[[H3318H]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| mo.tzi.'<small><sup>[[HVhrmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Egypt  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּצְרַ֔יִם</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] horns of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>תוֹעֲפֹ֥ת</big></span><small><sup>[[H8443]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> to.'a.Fot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wild ox  | <span class="ashebrew"><big>רְאֵ֖ם</big></span><small><sup>[[H7214]]</sup></small> &#8207;| re.'Em<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belong] to \<the> him  | <span class="ashebrew"><big>ל֑</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will consume  | <span class="ashebrew"><big>יֹאכַ֞ל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| yo.Khal<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  | <span class="ashebrew"><big>גּוֹיִ֣ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| opponents its  | <span class="ashebrew"><big>צָרָ֗י</big></span><small><sup>[[H6862C]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| tza.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and bones their  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַצְמֹתֵי</big></span><small><sup>[[H6106G]]</sup></small> <span class="ashebrew"><big>הֶ֛ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'atz.mo.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will break  | <span class="ashebrew"><big>יְגָרֵ֖ם</big></span><small><sup>[[H1633B]]</sup></small> &#8207;| ye.ga.Rem<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and arrows its  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חִצָּ֥י</big></span><small><sup>[[H2671]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> chi.Tza<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will wound [them]  | <span class="ashebrew"><big>יִמְחָֽץ</big></span><small><sup>[[H4272]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yim.Chatz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.7|<< Numbers 24:7]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.9|Numbers 24:9 >>]]</td></tr></table>
+
+

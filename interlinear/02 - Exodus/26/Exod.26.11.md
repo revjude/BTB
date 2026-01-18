@@ -1,0 +1,26 @@
+**Exodus 26:11** 
+<small><sub>**KJV:**</sub></small>
+And thou shalt make fifty taches of brass, and put the taches into the loops, and couple the tent together, that it may be one.
+<small><sub>**BSB:**</sub></small>
+Make fifty bronze clasps and put them through the loops to join the tent together as a unit.
+<small><sub>**Literal:**</sub></small>
+and  you will make hooks of bronze fifty and  you will put \<obj.> the  hooks in the  loops and  you will join \<obj.> the  tent and  it will be one<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.10|<< Exodus 26:10]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.12|Exodus 26:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will make  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָשִׂ֛יתָ</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hooks of  | <span class="ashebrew"><big>קַרְסֵ֥י</big></span><small><sup>[[H7165]]</sup></small> &#8207;| kar.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bronze  | <span class="ashebrew"><big>נְחֹ֖שֶׁת</big></span><small><sup>[[H5178A]]</sup></small> &#8207;| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fifty  | <span class="ashebrew"><big>חֲמִשִּׁ֑ים</big></span><small><sup>[[H2572]]</sup></small> &#8207;| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will put  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֵבֵאתָ֤</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> he.ve.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the hooks  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קְּרָסִים֙</big></span><small><sup>[[H7165]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ke.ra.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the loops  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לֻּ֣לָאֹ֔ת</big></span><small><sup>[[H3924]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Lu.la.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will join  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>חִבַּרְתָּ֥</big></span><small><sup>[[H2266]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> chi.bar.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tent  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֹ֖הֶל</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'O.hel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָֽד</big></span><small><sup>[[H0259]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.10|<< Exodus 26:10]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.12|Exodus 26:12 >>]]</td></tr></table>
+
+

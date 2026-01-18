@@ -1,0 +1,22 @@
+ [<span class="bdbLangHebrew">‎כָּבָה‎</span>] **verb** ==be quenched, extinguished, go out==, of fire or lamp (Late Hebrew ***id.***; Aramaic <span class="bdbLangAramaic">‎כְּבָא‎</span> ***id.*** of light of eyes (rare)) — 
+
+**Qal** ***Perfect*** 3 plural <span class="bdbLangHebrew">‎כָּבוּ‎</span> [[Isa.43.17|Isa 43:17]] ***Imperfect*** <span class="bdbLangHebrew">‎יִכְבֶּה‎</span> [[1Sam.3.3|1Sam 3:3]]; [[Prov.21.18|Prov 21:18]] 3 feminine singular <span class="bdbLangHebrew">‎תִּכְבֶּה‎</span> [[Lev.6.5|Lev 6:5]] + 10 t.; ***Infinitive construct*** <span class="bdbLangHebrew">‎כְּבוֺתְךָ‎</span> [[Ezek.32.7|Ezek 32:7]] [[BDB#Sept|ᵐ5]] [[BDB#Syr|ᵑ6]] [[BDB#Vg|ᵑ9]] [[BDB#Co|Co]] ([[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כַּבּ‎</span> Pi) — ***be quenched, extinguished*** (c. negative except [[1Sam.3.3|1Sam 3:3]]; [[Prov.26.20|Prov 26:20]]; [[Isa.43.17|Isa 43:17]]), of lamp (<span class="bdbLangHebrew">‎נֵר אֱלֹהִים‎</span>) in sanctuary [[1Sam.3.3|1Sam 3:3]] of altar-fire [[Lev.6.5|Lev 6:5]]; [[Lev.6.6|Lev 6:6]] of <span class="bdbLangHebrew">‎נֵרָהּ‎</span> [[Prov.31.18|Prov 31:18]] of bodies of renegade Israelites [[Isa.66.24|Isa 66:24]] (compare <span class="bdbLangHebrew">‎גֵּיא בֶןהִֿנֹּם‎</span>); subject <span class="bdbLangHebrew">‎אֵשׁ‎</span> figurative of contention [[Prov.26.20|Prov 26:20]] figurative, subject fire kindled by <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[Ezek.21.3|Ezek 21:3]]; [[Ezek.21.4|Ezek 21:4]] subject wrath (<span class="bdbLangHebrew">‎חֵמָה‎</span>) of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[2Kgs.22.17|2Kgs 22:17]] = [[2Chr.34.25|2Chr 34:25]]; [[Jer.7.20|Jer 7:20]] wrath under figure of fire (<span class="bdbLangHebrew">‎אֵשׁ‎</span>) [[Jer.17.27|Jer 17:27]] so of burning land of Edom [[Isa.34.10|Isa 34:10]] of annihilation of Yahweh's enemies [[Isa.43.17|Isa 43:17]] (<span class="bdbLangHebrew">‎כַּפִּשְׁתָּה‎</span>; \|\| <span class="bdbLangHebrew">‎דָּעַךְ‎</span>), compare Pharaoh [[Ezek.32.7|Ezek 32:7]] (see above) **Pi\`el** ***Perfect*** <span class="bdbLangHebrew">‎וְכִבּוּ‎</span> consecutive [[2Sam.14.7|2Sam 14:7]] ***Imperfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎יְכַבֶּנָּה‎</span> [[Isa.42.3|Isa 42:3]] 2 masculine singular <span class="bdbLangHebrew">‎תְּכַבֶּה‎</span> [[2Sam.21.17|2Sam 21:17]] <span class="bdbLangHebrew">‎וַיְכַבּוּ‎</span> [[2Chr.29.7|2Chr 29:7]] ***Infinitive*** <span class="bdbLangHebrew">‎כַּבּוֺת‎</span> [[Song.8.7|Song 8:7]] also [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎כַּבּוֺתְךָ‎</span> [[Ezek.32.7|Ezek 32:7]] (but compare above); ***Participle*** <span class="bdbLangHebrew">‎מְכַבֶּה‎</span> [[Isa.1.31|Isa 1:31]] + 3 t.; — ***quench, extinguish***, figurative except [[2Chr.29.7|2Chr 29:7]] (of extinguishing lamps, <span class="bdbLangHebrew">‎נֵרוֺת‎</span>, in temple); followed by <span class="bdbLangHebrew">‎נֵר יִשְׂרָאֵל‎</span> (figurative for life of David) [[2Sam.21.17|2Sam 21:17]] followed by <span class="bdbLangHebrew">‎גַּחַלְתִּי‎</span> (***coal*** = family-hope) [[2Sam.14.7|2Sam 14:7]] (of killing widow's only son); followed by <span class="bdbLangHebrew">‎פִּשְׁתָּה כֵהָה‎</span> [[Isa.42.3|Isa 42:3]] ***dimly-burning*** wick (figurative of spiritually weak); implied object reference to wrath of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[Amos.5.6|Amos 5:6]]; [[Jer.4.4|Jer 4:4]]; [[Jer.21.12|Jer 21:12]] to people and idols [[Isa.1.31|Isa 1:31]] followed by love <span class="bdbLangHebrew">‎אַהֲבָה‎</span> [[Song.8.7|Song 8:7]] (subject <span class="bdbLangHebrew">‎מַיִם רַבִּים‎</span>); [[Ezek.32.7|Ezek 32:7]] compare above 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Leviticus | [[Lev.6.5\|6:5]] · [[Lev.6.6\|6:6]] |
+| 1 Samuel | [[1Sam.3.3\|3:3]] |
+| 2 Samuel | [[2Sam.14.7\|14:7]] · [[2Sam.21.17\|21:17]] |
+| 2 Kings | [[2Kgs.22.17\|22:17]] |
+| 2 Chronicles | [[2Chr.29.7\|29:7]] · [[2Chr.34.25\|34:25]] |
+| Proverbs | [[Prov.21.18\|21:18]] · [[Prov.26.20\|26:20]] · [[Prov.31.18\|31:18]] |
+| Song of Solomon | [[Song.8.7\|8:7]] |
+| Isaiah | [[Isa.1.31\|1:31]] · [[Isa.34.10\|34:10]] · [[Isa.42.3\|42:3]] · [[Isa.43.17\|43:17]] · [[Isa.66.24\|66:24]] |
+| Jeremiah | [[Jer.4.4\|4:4]] · [[Jer.7.20\|7:20]] · [[Jer.17.27\|17:27]] · [[Jer.21.12\|21:12]] |
+| Ezekiel | [[Ezek.21.3\|21:3]] · [[Ezek.21.4\|21:4]] · [[Ezek.32.7\|32:7]] |
+| Amos | [[Amos.5.6\|5:6]] |
+

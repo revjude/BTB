@@ -1,0 +1,33 @@
+**Jeremiah 35:13** 
+<small><sub>**KJV:**</sub></small>
+Thus saith the LORD of hosts, the God of Israel; Go and tell the men of Judah and the inhabitants of Jerusalem, Will ye not receive instruction to hearken to my words? saith the LORD.
+<small><sub>**BSB:**</sub></small>
+“This is what the LORD of Hosts, the God of Israel, says: Go and tell the men of Judah and the residents of Jerusalem: ‘Will you not accept discipline and obey My words?’ declares the LORD.
+<small><sub>**Literal:**</sub></small>
+thus he says Yahweh of hosts [the] God of Israel go and  you will say to  [the] man of Judah and  to  [the] inhabitants of Jerusalem ¿  not will you accept correction to  listen to words  my [the] utterance of Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.12|<< Jeremiah 35:12]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.14|Jeremiah 35:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| thus  | <span class="ashebrew"><big>כֹּֽה</big></span><small><sup>[[H3541]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  | <span class="ashebrew"><big>אָמַ֞ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֤ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  | <span class="ashebrew"><big>צְבָאוֹת֙</big></span><small><sup>[[H6635B]]</sup></small> &#8207;| tze.va.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  | <span class="ashebrew"><big>אֱלֹהֵ֣י</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  | <span class="ashebrew"><big>הָלֹ֤ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ha.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will say  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָֽמַרְתָּ֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] man of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'Ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֔ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to [the] inhabitants of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יֽוֹשְׁבֵ֖י</big></span><small><sup>[[H3427]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  | <span class="ashebrew"><big>יְרֽוּשָׁלִָ֑ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>ל֨וֹא</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you accept  | <span class="ashebrew"><big>תִקְח֥וּ</big></span><small><sup>[[H3947H]]</sup></small> &#8207;| tik.Chu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| correction  | <span class="ashebrew"><big>מוּסָ֛ר</big></span><small><sup>[[H4148H]]</sup></small> &#8207;| mu.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to listen  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שְׁמֹ֥עַ</big></span><small><sup>[[H8085H]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words my  | <span class="ashebrew"><big>דְּבָרַ֖</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| de.va.Ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  | <span class="ashebrew"><big>נְאֻם</big></span><small><sup>[[H5002]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.12|<< Jeremiah 35:12]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.14|Jeremiah 35:14 >>]]</td></tr></table>
+
+

@@ -1,0 +1,27 @@
+**2 Samuel 2:17** 
+<small><sub>**KJV:**</sub></small>
+And there was a very sore battle that day; and Abner was beaten, and the men of Israel, before the servants of David.
+<small><sub>**BSB:**</sub></small>
+The battle that day was intense, and Abner and the men of Israel were defeated by the servants of David.
+<small><sub>**Literal:**</sub></small>
+and  it was the  battle severe up to muchness on the  day \<the>  that and  he was defeated Abner and  [the] men of Israel \<to>  before [the] servants of David<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.16|<< 2 Samuel 2:16]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.18|2 Samuel 2:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּהִ֧י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the battle  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּלְחָמָ֛ה</big></span><small><sup>[[H4421]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| severe  | <span class="ashebrew"><big>קָשָׁ֥ה</big></span><small><sup>[[H7186]]</sup></small> &#8207;| ka.Shah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| up to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| muchness  | <span class="ashebrew"><big>מְאֹ֖ד</big></span><small><sup>[[H3966]]</sup></small> &#8207;| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the day  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּ֣וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ה֑וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was defeated  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּנָּ֤גֶף</big></span><small><sup>[[H5062]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Na.gef<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abner  | <span class="ashebrew"><big>אַבְנֵר֙</big></span><small><sup>[[H0074]]</sup></small> &#8207;| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] men of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַנְשֵׁ֣י</big></span><small><sup>[[H0582]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֖י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] servants of  | <span class="ashebrew"><big>עַבְדֵ֥י</big></span><small><sup>[[H5650]]</sup></small> &#8207;| 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָוִֽד</big></span><small><sup>[[H1732]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.16|<< 2 Samuel 2:16]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.18|2 Samuel 2:18 >>]]</td></tr></table>
+
+

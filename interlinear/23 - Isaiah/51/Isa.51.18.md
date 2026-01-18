@@ -1,0 +1,25 @@
+**Isaiah 51:18** 
+<small><sub>**KJV:**</sub></small>
+[There is] none to guide her among all the sons [whom] she hath brought forth; neither [is there any] that taketh her by the hand of all the sons [that] she hath brought up.
+<small><sub>**BSB:**</sub></small>
+Among all the sons she bore, there is no one to guide her; among all the sons she brought up, there is no one to take her hand.
+<small><sub>**Literal:**</sub></small>
+there not [is one who] leads \<to>  her of  all [the] children [whom] she has borne and  there not [is one who] takes hold on  hand  her from  all [the] children [whom] she has brought up<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.17|<< Isaiah 51:17]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.19|Isaiah 51:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| there not  | <span class="ashebrew"><big>אֵין</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is one who] leads  | <span class="ashebrew"><big>מְנַהֵ֣ל</big></span><small><sup>[[H5095]]</sup></small> &#8207;| me.na.Hel<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> her  | <span class="ashebrew"><big>לָ֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| La<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of all  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] children  | <span class="ashebrew"><big>בָּנִ֖ים</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [whom] she has borne  | <span class="ashebrew"><big>יָלָ֑דָה</big></span><small><sup>[[H3205]]</sup></small> &#8207;| ya.La.dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֤ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is one who] takes hold  | <span class="ashebrew"><big>מַחֲזִיק֙</big></span><small><sup>[[H2388H]]</sup></small> &#8207;| ma.cha.Zik<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on hand her  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יָדָ֔</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ya.Da<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from all  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] children  | <span class="ashebrew"><big>בָּנִ֖ים</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [whom] she has brought up  | <span class="ashebrew"><big>גִּדֵּֽלָה</big></span><small><sup>[[H1431]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| gi.De.lah<small><sup>[[HVpp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.17|<< Isaiah 51:17]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.19|Isaiah 51:19 >>]]</td></tr></table>
+
+

@@ -1,0 +1,21 @@
+**Ezekiel 22:15** 
+<small><sub>**KJV:**</sub></small>
+And I will scatter thee among the heathen, and disperse thee in the countries, and will consume thy filthiness out of thee.
+<small><sub>**BSB:**</sub></small>
+I will disperse you among the nations and scatter you throughout the lands; I will purge your uncleanness.
+<small><sub>**Literal:**</sub></small>
+and  I will scatter \<obj.>  you among the  nations and  I will disperse  you among the  lands and  I will make an end of uncleanness  your from  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.14|<< Ezekiel 22:14]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.16|Ezekiel 22:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will scatter  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֲפִיצוֹתִ֤י</big></span><small><sup>[[H6327A]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ha.fi.tzo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  | <span class="ashebrew"><big>אוֹתָ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'o.to<small><sup>[[HTo]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the nations  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גּוֹיִ֔ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will disperse you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>זֵרִיתִ֖י</big></span><small><sup>[[H2219]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ze.ri.Ti<small><sup>[[HVpq1cs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the lands  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֲרָצ֑וֹת</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.ra.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will make an end of  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֲתִמֹּתִ֥י</big></span><small><sup>[[H8552]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ha.ti.mo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| uncleanness your  | <span class="ashebrew"><big>טֻמְאָתֵ֖</big></span><small><sup>[[H2932]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| tum.'a.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from you  | <span class="ashebrew"><big>מִמֵּֽ</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi.Me<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.14|<< Ezekiel 22:14]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.16|Ezekiel 22:16 >>]]</td></tr></table>
+
+

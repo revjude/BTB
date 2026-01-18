@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==εὐνοέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>to be well-inclined</b> or <b>favourable</b>, with <i>dative</i>, <span class='asgreek'>τοῖσι</span> <span class='asgreek'>ἐμοῖσι</span> <span class='asgreek'>πρήγμασι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.237 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 689, 5th c.BC: Lysias Orator 13.13, 5th-6th c.BC: Aristophanes Comicus “Nubes” 1411, 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 12.5, etc.; ὀμνύω.. ==εὐνοέω==ήσειν Καίσαρι “OGI” 532.9 (Galatia, Aug.); τῷ ἀντιδίκῳ ">Refs 5th c.BC+</a>]<b>be at peace with,</b> [<a href="javascript:void(0)" title="NT.Matt.5.25: \_absolutely\_, 5th c.BC: Herodotus Historicus 9.79 ">NT+5th c.BC+</a>]; <span class='asgreek'>ὁ</span> <span class='asgreek'>==εὐνοέω==ῶν</span> one's <b>well-wisher</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Eudemia” 1241a11 ">Refs 4th c.BC+</a>]:—<i>middle</i>, [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Phalaris Epistolographus “Epistulae - Epistolographi” 119 ">Refs 3rd c.BC+</a>]:—<i>passive</i>, <b>to be kindly</b> or <b>affectionately treated</b>, uncertain reading in [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 1087; ὑπὸ γυναικός Vett. Val. 68.3 ">Refs 4th c.BC+</a>]; <b>to be liked</b>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>θεῶν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>γυναικῶν</span> [<a href="javascript:void(0)" title=" 4th c.AD: Hephaestio Astrologus 1.1. ">Refs 4th c.AD+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Matt.5.25]]
+</sub></small>

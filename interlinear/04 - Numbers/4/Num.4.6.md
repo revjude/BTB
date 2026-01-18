@@ -1,0 +1,25 @@
+**Numbers 4:6** 
+<small><sub>**KJV:**</sub></small>
+And shall put thereon the covering of badgers’ skins, and shall spread over [it] a cloth wholly of blue, and shall put in the staves thereof.
+<small><sub>**BSB:**</sub></small>
+They are to place over this a covering of fine leather, spread a solid blue cloth over it, and insert its poles.
+<small><sub>**Literal:**</sub></small>
+and  they will put over  it a covering of skin of dolphin and  they will spread out a covering of an entirety of violet stuff from  to  above  \<towards> and  they will put in poles  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.5|<< Numbers 4:5]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.7|Numbers 4:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will put  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָתְנ֣וּ</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.te.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over it  | <span class="ashebrew"><big>עָלָ֗י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a covering of  | <span class="ashebrew"><big>כְּסוּי֙</big></span><small><sup>[[H3681]]</sup></small> &#8207;| ke.Sui<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| skin of  | <span class="ashebrew"><big>ע֣וֹר</big></span><small><sup>[[H5785]]</sup></small> &#8207;| or<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dolphin  | <span class="ashebrew"><big>תַּ֔חַשׁ</big></span><small><sup>[[H8476]]</sup></small> &#8207;| Ta.chash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will spread out  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>פָרְשׂ֧וּ</big></span><small><sup>[[H6566]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> fa.re.Su<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a covering of  | <span class="ashebrew"><big>בֶֽגֶד</big></span><small><sup>[[H0899B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.ged-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an entirety of  | <span class="ashebrew"><big>כְּלִ֛יל</big></span><small><sup>[[H3632]]</sup></small> &#8207;| ke.Lil<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| violet stuff  | <span class="ashebrew"><big>תְּכֵ֖לֶת</big></span><small><sup>[[H8504]]</sup></small> &#8207;| te.Khe.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from to above \<towards>  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מָ֑עְלָ</big></span><small><sup>[[H4605]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| mi<small><sup>[[HR]]</sup></small> l.<small><sup>[[HR]]</sup></small> Ma.'e.la<small><sup>[[HAcbsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will put in  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׂמ֖וּ</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sa.Mu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poles its  | <span class="ashebrew"><big>בַּדָּֽי</big></span><small><sup>[[H0905G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.5|<< Numbers 4:5]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.7|Numbers 4:7 >>]]</td></tr></table>
+
+

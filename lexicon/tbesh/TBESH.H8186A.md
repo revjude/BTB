@@ -1,0 +1,2 @@
+<span class="ashebrew">‎שַׁעֲרוּרָה‎</span> <small>***(sha.a.ru.rah)***</small> ==**horror**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+- Also means: <i>sha.a.ri.riy.yah</i> (<span class='ashebrew'>‎ש‎</span>ַׁ<span class='ashebrew'>‎ע‎</span>ֲ<span class='ashebrew'>‎ר‎</span>ִ<span class='ashebrew'>‎יר‎</span>ִ<span class='ashebrew'>‎י‎</span>ָּ<span class='ashebrew'>‎ה‎</span> "horror" [[H8186B]])

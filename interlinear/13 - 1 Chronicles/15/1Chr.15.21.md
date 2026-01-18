@@ -1,0 +1,24 @@
+**1 Chronicles 15:21** 
+<small><sub>**KJV:**</sub></small>
+And Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.
+<small><sub>**BSB:**</sub></small>
+And Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to lead the music with lyres according to Sheminith.
+<small><sub>**Literal:**</sub></small>
+and  Mattithiah and  Eliphelehu and  Mikneiah and  Obed- Edom and  Jeiel and  Azaziah with  harps on the  sheminith to  act as overseers<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.20|<< 1 Chronicles 15:20]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.22|1 Chronicles 15:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Mattithiah  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַתִּתְיָ֣הוּ</big></span><small><sup>[[H4993H]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.tit.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Eliphelehu  | <span class="ashebrew"><big>וֶ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֱלִֽיפְלֵ֗הוּ</big></span><small><sup>[[H0466]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'e.li.fe.Le.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Mikneiah  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִקְנֵיָ֙הוּ֙</big></span><small><sup>[[H4737]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mik.ne.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Obed-  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֹבֵ֣ד</big></span><small><sup>[[H5654]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'o.Ved<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Edom  | <span class="ashebrew"><big>אֱדֹ֔ם</big></span><small><sup>[[H5654]]</sup></small> &#8207;| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jeiel  | <span class="ashebrew"><big>וִֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יעִיאֵ֖ל</big></span><small><sup>[[H3273I]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> 'i.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Azaziah  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲזַזְיָ֑הוּ</big></span><small><sup>[[H5812G]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.zaz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with harps  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כִנֹּר֥וֹת</big></span><small><sup>[[H3658]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khi.no.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sheminith  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁמִינִ֖ית</big></span><small><sup>[[H8067]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.mi.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to act as overseers  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נַצֵּֽחַ</big></span><small><sup>[[H5329]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> na.Tze.ach<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.20|<< 1 Chronicles 15:20]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.22|1 Chronicles 15:22 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**Nehemiah 4:5** (3:37)
+<small><sub>**KJV:**</sub></small>
+And cover not their iniquity, and let not their sin be blotted out from before thee: for they have provoked [thee] to anger before the builders.
+<small><sub>**BSB:**</sub></small>
+Do not cover up their iniquity or let their sin be blotted out from Your sight, for they have provoked the builders.
+<small><sub>**Literal:**</sub></small>
+and  may not you cover over iniquity  their and  sin  their from  to  before  you may not it be wiped out for they have provoked to anger to  before the  builders<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.4|<< Nehemiah 4:4]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.6|Nehemiah 4:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and may not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you cover  | <span class="ashebrew"><big>תְּכַס֙</big></span><small><sup>[[H3680]]</sup></small> &#8207;| te.Khas<small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iniquity their  | <span class="ashebrew"><big>עֲוֹנָ֔</big></span><small><sup>[[H5771H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sin their  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חַטָּאתָ֖</big></span><small><sup>[[H2403B]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> cha.ta.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from to before you  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>לְּ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנֶ֣י</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> fa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it be wiped out  | <span class="ashebrew"><big>תִּמָּחֶ֑ה</big></span><small><sup>[[H4229A]]</sup></small> &#8207;| ti.ma.Cheh<small><sup>[[HVNj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have provoked to anger  | <span class="ashebrew"><big>הִכְעִ֖יסוּ</big></span><small><sup>[[H3707]]</sup></small> &#8207;| hikh.'I.su<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to before  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נֶ֥גֶד</big></span><small><sup>[[H5048]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the builders  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בּוֹנִֽים</big></span><small><sup>[[H1129]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> bo.Nim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.4|<< Nehemiah 4:4]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.6|Nehemiah 4:6 >>]]</td></tr></table>
+
+

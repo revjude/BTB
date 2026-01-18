@@ -1,0 +1,15 @@
+<span class="asgreek">μεταλλεύω</span> <small>***(metalleuō)***</small> ==**to mine**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==μεταλλεύω==</span>-<span class='asgreek'>εύω</span></b>, 
+
+
+ <b>get by mining</b>, <span class='asgreek'>χαλκόν</span> [<a href="javascript:void(0)" title=" LXX.Deut.8.9; χρυσοῖο γενέθλην 2nd c.AD: Dionysius Periegeta 1114 ">LXX+2nd c.AD+</a>]:—<i>passive</i>, <b>to be got by mining</b>, of metals, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Politicus” 288d, 4th c.BC: Aristoteles Philosophus “Meteorologica” 378a27, “Pol.” 1258b32. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b><i>absolutely</i>, <b>mine</b>, <span class='asgreek'>οἱ</span> <span class='asgreek'>==μεταλλεύω==εύοντες</span> [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 99.13, 1st c.BC: Diodorus Siculus Historicus 5.37, 2nd c.AD: Lucianus Sophista “Cont.” 11 ">Refs 3rd c.BC+</a>]; <span class='asgreek'>Λαμψακηνοῖς</span> <span class='asgreek'>μ</span>. <b>work in mines</b> for the L., [<a href="javascript:void(0)" title=" 2nd c.AD: Polyaenus Historicus 2.1.26 ">Refs 2nd c.AD+</a>] (-<span class='asgreek'>ηνοί</span> codices, i. e. <b>condemn to labour in mines</b>): with <i>accusative</i> <i>cognate</i>, <span class='asgreek'>πᾶν</span> <span class='asgreek'>==μεταλλεύω==εύων</span> <span class='asgreek'>γνύθος</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 485. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>carry on mining operations</b>, of besiegers, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 18.70: also with \_accusative\_ \_cognate\_, μ. τὰς ὑπονόμους σήραγγας 1st c.BC: Dionysius Halicarnassensis 4.44, compare 2nd c.AD: Polyaenus Historicus 7.11.5. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>undermine</b>, <span class='asgreek'>τείχη</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 17.10.3. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>explore,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 6.302 (1st c.AD: Leonidas Alexandrinus Epigrammaticus), 2nd c.BC: Nicander Epicus “Theriaca” 672; μ. τὴν ἔρευναν 3rd c.AD: Porphyrius Tyrius Philosophus “ad Marcellam - Porphyrii Opuscula” 26. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==μεταλλεύω==άσσω</span>}, <b>pervert</b>, <span class='asgreek'>ῥεμβασμὸς</span> <span class='asgreek'>ἐπιθυμίας</span> <span class='asgreek'>μ</span>. <span class='asgreek'>νοῦν</span> <span class='asgreek'>ἄκακον</span> [<a href="javascript:void(0)" title=" LXX.Wis.4.12 ">LXX</a>]:—<i>passive</i>, <b>to be converted</b>, <span class='asgreek'>εἰς</span> <span class='asgreek'>πάντα</span> [<a href="javascript:void(0)" title="[prev. work] 16.25. ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Deut.8.9]]
+</sub></small>

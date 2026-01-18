@@ -1,0 +1,26 @@
+**Genesis 31:26** 
+<small><sub>**KJV:**</sub></small>
+And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives [taken] with the sword?
+<small><sub>**BSB:**</sub></small>
+Then Laban said to Jacob, “What have you done? You have deceived me and carried off my daughters like captives of war!
+<small><sub>**Literal:**</sub></small>
+and  he said Laban to  Jacob what? have you done and  you have stolen \<obj.> heart  my and  you have led away \<obj.> daughters  my like  captives of [the] sword<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.25|<< Genesis 31:25]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.27|Genesis 31:27 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֤אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Laban  | <span class="ashebrew"><big>לָבָן֙</big></span><small><sup>[[H3837A]]</sup></small> &#8207;| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Jacob  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יַעֲקֹ֔ב</big></span><small><sup>[[H3290]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  | <span class="ashebrew"><big>מֶ֣ה</big></span><small><sup>[[H4100]]</sup></small> &#8207;| meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have you done  | <span class="ashebrew"><big>עָשִׂ֔יתָ</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Si.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you have stolen  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּגְנֹ֖ב</big></span><small><sup>[[H1589]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tig.No<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  | <span class="ashebrew"><big>לְבָבִ֑</big></span><small><sup>[[H3824]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| le.va.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you have led away  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּנַהֵג֙</big></span><small><sup>[[H5090A]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.na.Heg<small><sup>[[HVpw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| daughters my  | <span class="ashebrew"><big>בְּנֹתַ֔</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| be.no.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like captives of  | <span class="ashebrew"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>שְׁבֻי֖וֹת</big></span><small><sup>[[H7617]]</sup></small> &#8207;| ki<small><sup>[[HR]]</sup></small> sh.vu.Yot<small><sup>[[HVqsfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sword  | <span class="ashebrew"><big>חָֽרֶב</big></span><small><sup>[[H2719]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.25|<< Genesis 31:25]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.27|Genesis 31:27 >>]]</td></tr></table>
+
+

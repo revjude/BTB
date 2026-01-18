@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==μεταπέμπω==</span>-<span class='asgreek'>πέμπω</span></b>, 
+
+
+ <b>send after</b> or <b>for</b>, <span class='asgreek'>Ἀγαμέμνονος</span> <span class='asgreek'>πέμψαντος</span>.. <span class='asgreek'>μέτα</span> <b>having sent for</b> thee, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hecuba” 504; παρ᾽ Εὐχαρίδου τρεῖς ἄγλιθας μετέπεμψα 5th-6th c.BC: Aristophanes Comicus “Vespae” 680 ">Refs 5th c.BC+</a>]. 
+
+$\quad$ $\quad$<b>\_\_II</b> mostly in <i>middle</i>, <span class='asgreek'>==μεταπέμπω==πέμπεσθαί</span> <span class='asgreek'>τινα</span> <b>summon</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.41, +others, 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 1087, +others, 5th c.BC: Antipho Orator 1.15, etc.">Refs 5th c.BC+</a>]; of things, <b>send for</b>, <span class='asgreek'>σῖτον</span> [<a href="javascript:void(0)" title=" “OGI” 56.17 (Canopus, 3rd c.BC), etc.: 5th c.BC: Thucydides Historicus ">Refs 5th c.BC+</a>] uses <i>active</i> and <i>middle</i> indifferently, compare [<a href="javascript:void(0)" title=" 1.112, 4.30, 6.52, with 2.29, 5.82 ">Refs</a>]:—<i>passive</i>, <span class='asgreek'>==μεταπέμπω==πεμφθῆναι</span> <b>to be sent for</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 28.14, compare 5th-6th c.BC: Plato Philosophus “Protagoras” 319b; ἐξ Ἀθηνῶν ==μεταπέμπω==πεπέμφθαι 1st c.BC: Philodemus Gadarensis Epigrammaticus “Mus.” p.28 K. ">Refs 5th c.BC+</a>]

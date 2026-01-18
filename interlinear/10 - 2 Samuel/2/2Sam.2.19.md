@@ -1,0 +1,26 @@
+**2 Samuel 2:19** 
+<small><sub>**KJV:**</sub></small>
+And Asahel pursued after Abner; and in going he turned not to the right hand nor to the left from following Abner.
+<small><sub>**BSB:**</sub></small>
+and he chased Abner, not turning to the right or to the left in his pursuit.
+<small><sub>**Literal:**</sub></small>
+and  he pursued Asahel after Abner and  not he turned aside to  go to the  right and  to the  left from  after Abner<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.18|<< 2 Samuel 2:18]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.20|2 Samuel 2:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he pursued  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּרְדֹּ֥ף</big></span><small><sup>[[H7291]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yir.Dof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Asahel  | <span class="ashebrew"><big>עֲשָׂהאֵ֖ל</big></span><small><sup>[[H6214G]]</sup></small> &#8207;| 'a.sa.h.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  | <span class="ashebrew"><big>אַחֲרֵ֣י</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abner  | <span class="ashebrew"><big>אַבְנֵ֑ר</big></span><small><sup>[[H0074]]</sup></small> &#8207;| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he turned aside  | <span class="ashebrew"><big>נָטָ֣ה</big></span><small><sup>[[H5186]]</sup></small> &#8207;| na.Tah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to go  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לֶ֗כֶת</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Le.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the right  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּמִין֙</big></span><small><sup>[[H3225G]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> ya.Min<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַֽל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the left  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׂמֹ֔אול</big></span><small><sup>[[H8040G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> se.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from after  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אַחֲרֵ֖י</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abner  | <span class="ashebrew"><big>אַבְנֵֽר</big></span><small><sup>[[H0074]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.18|<< 2 Samuel 2:18]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.20|2 Samuel 2:20 >>]]</td></tr></table>
+
+

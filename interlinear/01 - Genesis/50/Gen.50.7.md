@@ -1,0 +1,29 @@
+**Genesis 50:7** 
+<small><sub>**KJV:**</sub></small>
+And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,
+<small><sub>**BSB:**</sub></small>
+Then Joseph went to bury his father, and all the servants of Pharaoh accompanied him—the elders of Pharaoh’s household and all the elders of the land of Egypt—
+<small><sub>**Literal:**</sub></small>
+and  he went up Joseph to  bury \<obj.> father  his and  they went up with  him all [the] servants of Pharaoh [the] elders of household  his and  all [the] elders of [the] land of Egypt<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.6|<< Genesis 50:6]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.8|Genesis 50:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he went up  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֥עַל</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  | <span class="ashebrew"><big>יוֹסֵ֖ף</big></span><small><sup>[[H3130G]]</sup></small> &#8207;| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to bury  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>קְבֹּ֣ר</big></span><small><sup>[[H6912]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> k.Bor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  | <span class="ashebrew"><big>אָבִ֑י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they went up  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּֽעֲל֨וּ</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  | <span class="ashebrew"><big>אִתּ֜</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'i.T<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] servants of  | <span class="ashebrew"><big>עַבְדֵ֤י</big></span><small><sup>[[H5650]]</sup></small> &#8207;| 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַרְעֹה֙</big></span><small><sup>[[H6547H]]</sup></small> &#8207;| far.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] elders of  | <span class="ashebrew"><big>זִקְנֵ֣י</big></span><small><sup>[[H2205G]]</sup></small> &#8207;| zik.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| household his  | <span class="ashebrew"><big>בֵית֔</big></span><small><sup>[[H1004M]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| vei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹ֖ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] elders of  | <span class="ashebrew"><big>זִקְנֵ֥י</big></span><small><sup>[[H2205G]]</sup></small> &#8207;| zik.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  | <span class="ashebrew"><big>אֶֽרֶץ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'e.retz-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרָֽיִם</big></span><small><sup>[[H4714G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.6|<< Genesis 50:6]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.8|Genesis 50:8 >>]]</td></tr></table>
+
+

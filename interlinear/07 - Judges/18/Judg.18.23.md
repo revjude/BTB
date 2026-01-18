@@ -1,0 +1,25 @@
+**Judges 18:23** 
+<small><sub>**KJV:**</sub></small>
+And they cried unto the children of Dan. And they turned their faces, and said unto Micah, What aileth thee, that thou comest with such a company?
+<small><sub>**BSB:**</sub></small>
+When they called out after them, the Danites turned to face them and said to Micah, “What is the matter with you that you have called out such a company?”
+<small><sub>**Literal:**</sub></small>
+and  they called out to [the] descendants of Dan and  they turned round faces  their and  they said to  Micah what? [is that] to  you that you have been called together<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.22|<< Judges 18:22]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.24|Judges 18:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they called out  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְרְאוּ֙</big></span><small><sup>[[H7121I]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵי</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dan  | <span class="ashebrew"><big>דָ֔ן</big></span><small><sup>[[H1835G]]</sup></small> &#8207;| Dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they turned round  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּסֵּ֖בּוּ</big></span><small><sup>[[H5437G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yas.Se.bu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faces their  | <span class="ashebrew"><big>פְּנֵי</big></span><small><sup>[[H6440H]]</sup></small> <span class="ashebrew"><big>הֶ֑ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| pe.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּאמְר֣וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Micah  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִיכָ֔ה</big></span><small><sup>[[H4318G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mi.Khah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  | <span class="ashebrew"><big>מַה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is that] to you  | <span class="ashebrew"><big>לְּ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have been called together  | <span class="ashebrew"><big>נִזְעָֽקְתָּ</big></span><small><sup>[[H2199]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| niz.'A.ke.ta<small><sup>[[HVNp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.22|<< Judges 18:22]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.24|Judges 18:24 >>]]</td></tr></table>
+
+

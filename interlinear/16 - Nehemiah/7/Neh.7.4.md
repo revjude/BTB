@@ -1,0 +1,23 @@
+**Nehemiah 7:4** 
+<small><sub>**KJV:**</sub></small>
+Now the city [was] large and great: but the people [were] few therein, and the houses [were] not builded.
+<small><sub>**BSB:**</sub></small>
+Now the city was large and spacious, but there were few people in it, and the houses had not yet been rebuilt.
+<small><sub>**Literal:**</sub></small>
+and  the  city [was] broad of both hands and  large and  the  people [were] few in  [the] midst of  it and  not houses [were] rebuilt<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.3|<< Nehemiah 7:3]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.5|Nehemiah 7:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the city  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִ֞יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] broad of  | <span class="ashebrew"><big>רַחֲבַ֤ת</big></span><small><sup>[[H7342H]]</sup></small> &#8207;| ra.cha.Vat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| both hands  | <span class="ashebrew"><big>יָדַ֙יִם֙</big></span><small><sup>[[H3027Q]]</sup></small> &#8207;| ya.Da.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and large  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גְדוֹלָ֔ה</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the people  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֥ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] few  | <span class="ashebrew"><big>מְעַ֖ט</big></span><small><sup>[[H4592]]</sup></small> &#8207;| me.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] midst of it  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹכָ֑</big></span><small><sup>[[H8432]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֥ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| houses  | <span class="ashebrew"><big>בָּתִּ֖ים</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| ba.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] rebuilt  | <span class="ashebrew"><big>בְּנוּיִֽם</big></span><small><sup>[[H1129]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.nu.Yim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.3|<< Nehemiah 7:3]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.5|Nehemiah 7:5 >>]]</td></tr></table>
+
+

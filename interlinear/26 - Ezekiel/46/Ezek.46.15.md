@@ -1,0 +1,26 @@
+**Ezekiel 46:15** 
+<small><sub>**KJV:**</sub></small>
+Thus shall they prepare the lamb, and the meat offering, and the oil, every morning [for] a continual burnt offering.
+<small><sub>**BSB:**</sub></small>
+Thus they shall provide the lamb, the grain offering, and the oil every morning as a regular burnt offering.’
+<small><sub>**Literal:**</sub></small>
+they will offer \<obj.> the  lamb and  \<obj.> the  grain offering and  \<obj.> the  oil in the  morning in the  morning a burnt offering of continuity<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.14|<< Ezekiel 46:14]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.16|Ezekiel 46:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| they will offer  [^1] | <span class="ashebrew"><big>יַעֲשׂ֨וּ</big></span><small><sup>[[H6213I]]</sup></small> &#8207;[^2] | va.'a.su<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the lamb  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֶּ֧בֶשׂ</big></span><small><sup>[[H3532]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ke.ves<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the grain offering  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּנְחָ֛ה</big></span><small><sup>[[H4503G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the oil  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֶּׁ֖מֶן</big></span><small><sup>[[H8081]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> She.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the morning  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בֹּ֣קֶר</big></span><small><sup>[[H1242]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the morning  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בֹּ֑קֶר</big></span><small><sup>[[H1242]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a burnt offering of  | <span class="ashebrew"><big>עוֹלַ֖ת</big></span><small><sup>[[H5930A]]</sup></small> &#8207;| o.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| continuity  | <span class="ashebrew"><big>תָּמִֽיד</big></span><small><sup>[[H8548]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.14|<< Ezekiel 46:14]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.16|Ezekiel 46:16 >>]]</td></tr></table>
+
+[^1]: ==K==: **and they will offer ** | <small><sup>[[H6213I]]</sup></small><span class="ashebrew"><big>עָשׂוּ</big></span> <small><sup>[[H9001]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | va.<small><sup>[[Hc]]</sup></small> 'a.su<small><sup>[[HVqq3cp]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>וַעֲשׂ֨וּ</big></span>**
+

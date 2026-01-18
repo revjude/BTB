@@ -1,0 +1,30 @@
+**Leviticus 19:19** 
+<small><sub>**KJV:**</sub></small>
+Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.
+<small><sub>**BSB:**</sub></small>
+You are to keep My statutes. You shall not crossbreed two different kinds of livestock; you shall not sow your fields with two kinds of seed; and you shall not wear clothing made of two kinds of material.
+<small><sub>**Literal:**</sub></small>
+\<obj.> statutes  my you will keep livestock  your not you will make lie two kinds field  your not you will sow two kinds and  clothing two kinds mixed stuff not it will go up on  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.18|<< Leviticus 19:18]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.20|Leviticus 19:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| \<obj.>  | <span class="ashebrew"><big>אֶֽת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| statutes my  | <span class="ashebrew"><big>חֻקֹּתַ</big></span><small><sup>[[H2708]]</sup></small> <span class="ashebrew"><big>י֮</big></span><small><sup>[[H9020]]</sup></small> &#8207;| chu.ko.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will keep  | <span class="ashebrew"><big>תִּשְׁמֹרוּ֒</big></span><small><sup>[[H8104G]]</sup></small> &#8207;| tish.mo.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| livestock your  | <span class="ashebrew"><big>בְּהֶמְתְּ</big></span><small><sup>[[H0929]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| be.hem.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make lie  | <span class="ashebrew"><big>תַרְבִּ֣יעַ</big></span><small><sup>[[H7250]]</sup></small> &#8207;| tar.Bi.a'<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two kinds  | <span class="ashebrew"><big>כִּלְאַ֔יִם</big></span><small><sup>[[H3610]]</sup></small> &#8207;| kil.'A.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| field your  | <span class="ashebrew"><big>שָׂדְ</big></span><small><sup>[[H7704G]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| sa.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will sow  | <span class="ashebrew"><big>תִזְרַ֣ע</big></span><small><sup>[[H2232]]</sup></small> &#8207;| tiz.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two kinds  | <span class="ashebrew"><big>כִּלְאָ֑יִם</big></span><small><sup>[[H3610]]</sup></small> &#8207;| kil.'A.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and clothing  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֶ֤גֶד</big></span><small><sup>[[H0899B]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Ve.ged<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two kinds  | <span class="ashebrew"><big>כִּלְאַ֙יִם֙</big></span><small><sup>[[H3610]]</sup></small> &#8207;| kil.'A.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mixed stuff  | <span class="ashebrew"><big>שַֽׁעַטְנֵ֔ז</big></span><small><sup>[[H8162]]</sup></small> &#8207;| sha.'at.Nez<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go up  | <span class="ashebrew"><big>יַעֲלֶ֖ה</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| ya.'a.Leh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עָלֶֽי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.18|<< Leviticus 19:18]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.20|Leviticus 19:20 >>]]</td></tr></table>
+
+

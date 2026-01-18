@@ -1,0 +1,25 @@
+**Isaiah 63:17** 
+<small><sub>**KJV:**</sub></small>
+O LORD, why hast thou made us to err from thy ways, [and] hardened our heart from thy fear? Return for thy servants’ sake, the tribes of thine inheritance.
+<small><sub>**BSB:**</sub></small>
+Why, O LORD, do You make us stray from Your ways and harden our hearts from fearing You? Return, for the sake of Your servants, the tribes of Your heritage.
+<small><sub>**Literal:**</sub></small>
+\<to>  why? do you make wander  us O Yahweh from  ways  your do you harden? heart  our from  fear of  you return for [the] sake of servants  your [the] tribes of inheritance  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.16|<< Isaiah 63:16]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.18|Isaiah 63:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| \<to> why?  | <span class="ashebrew"><big>לָ֣</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מָּה</big></span><small><sup>[[H4100]]</sup></small> &#8207;| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| do you make wander us  | <span class="ashebrew"><big>תַתְעֵ֤</big></span><small><sup>[[H8582]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| tat.'E.<small><sup>[[HVhi2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  | <span class="ashebrew"><big>יְהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from ways your  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>דְּרָכֶ֔י</big></span><small><sup>[[H1870G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> de.ra.Khei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| do you harden?  | <span class="ashebrew"><big>תַּקְשִׁ֥יחַ</big></span><small><sup>[[H7188]]</sup></small> &#8207;| tak.Shi.ach<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart our  | <span class="ashebrew"><big>לִבֵּ֖</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| li.Be.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from fear of you  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יִּרְאָתֶ֑</big></span><small><sup>[[H3374]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> yir.'a.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| return  | <span class="ashebrew"><big>שׁ֚וּב</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| Shuv<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] sake of  | <span class="ashebrew"><big>לְמַ֣עַן</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servants your  | <span class="ashebrew"><big>עֲבָדֶ֔י</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'a.va.Dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tribes of  | <span class="ashebrew"><big>שִׁבְטֵ֖י</big></span><small><sup>[[H7626H]]</sup></small> &#8207;| shiv.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inheritance your  | <span class="ashebrew"><big>נַחֲלָתֶֽ</big></span><small><sup>[[H5159]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| na.cha.la.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.16|<< Isaiah 63:16]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.18|Isaiah 63:18 >>]]</td></tr></table>
+
+

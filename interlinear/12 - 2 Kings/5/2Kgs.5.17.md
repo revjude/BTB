@@ -1,0 +1,35 @@
+**2 Kings 5:17** 
+<small><sub>**KJV:**</sub></small>
+And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules’ burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the LORD.
+<small><sub>**BSB:**</sub></small>
+“If you will not,” said Naaman, “please let me, your servant, be given as much soil as a pair of mules can carry. For your servant will never again make a burnt offering or a sacrifice to any other god but the LORD.
+<small><sub>**Literal:**</sub></small>
+and  he said Naaman and  not let it be given please to  servant  your [the] load of a pair of mules earth for not he will offer again servant  your burnt offering and  sacrifice to  gods other that except to  Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.16|<< 2 Kings 5:16]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.18|2 Kings 5:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּאמֶר֮</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Naaman  | <span class="ashebrew"><big>נַעֲמָן֒</big></span><small><sup>[[H5283I]]</sup></small> &#8207;| na.'a.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֕א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it be given  | <span class="ashebrew"><big>יֻתַּן</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| yu.tan-<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָ֣א</big></span><small><sup>[[H4994]]</sup></small> &#8207;| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to servant your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עַבְדְּ</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>ךָ֔</big></span><small><sup>[[H9021]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'av.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] load of  | <span class="ashebrew"><big>מַשָּׂ֥א</big></span><small><sup>[[H4853A]]</sup></small> &#8207;| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a pair of  | <span class="ashebrew"><big>צֶֽמֶד</big></span><small><sup>[[H6776]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| tze.med-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mules  | <span class="ashebrew"><big>פְּרָדִ֖ים</big></span><small><sup>[[H6505]]</sup></small> &#8207;| pe.ra.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| earth  | <span class="ashebrew"><big>אֲדָמָ֑ה</big></span><small><sup>[[H0127G]]</sup></small> &#8207;| 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֡י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֽוֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will offer  | <span class="ashebrew"><big>יַעֲשֶׂה֩</big></span><small><sup>[[H6213I]]</sup></small> &#8207;| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  | <span class="ashebrew"><big>ע֨וֹד</big></span><small><sup>[[H5750]]</sup></small> &#8207;| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant your  | <span class="ashebrew"><big>עַבְדְּ</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>ךָ֜</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'av.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| burnt offering  | <span class="ashebrew"><big>עֹלָ֤ה</big></span><small><sup>[[H5930A]]</sup></small> &#8207;| 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sacrifice  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זֶ֙בַח֙</big></span><small><sup>[[H2077]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Ze.vach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אלֹהִ֣ים</big></span><small><sup>[[H0430J]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| other  | <span class="ashebrew"><big>אֲחֵרִ֔ים</big></span><small><sup>[[H0312]]</sup></small> &#8207;| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֖י</big></span><small><sup>[[H3588B]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| except  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.16|<< 2 Kings 5:16]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.18|2 Kings 5:18 >>]]</td></tr></table>
+
+

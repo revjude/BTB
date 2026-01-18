@@ -1,0 +1,24 @@
+**1 Samuel 25:6** 
+<small><sub>**KJV:**</sub></small>
+And thus shall ye say to him that liveth [in prosperity], Peace [be] both to thee, and peace [be] to thine house, and peace [be] unto all that thou hast.
+<small><sub>**BSB:**</sub></small>
+and say to him, ‘Long life to you, and peace to you and to your house and to all that belongs to you.
+<small><sub>**Literal:**</sub></small>
+and  you will say thus to the  living [one] and  you peace and  house  your peace and  all that [belongs] to \<the>  you peace<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.5|<< 1 Samuel 25:5]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.7|1 Samuel 25:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will say  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֲמַרְתֶּ֥ם</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֹּ֖ה</big></span><small><sup>[[H3541]]</sup></small> &#8207;| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the living [one]  | <span class="ashebrew"><big>לֶ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חָ֑י</big></span><small><sup>[[H2416A]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> Chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַתָּ֤ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace  | <span class="ashebrew"><big>שָׁלוֹם֙</big></span><small><sup>[[H7965K]]</sup></small> &#8207;| sha.lOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and house your  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵיתְ</big></span><small><sup>[[H1004M]]</sup></small> <span class="ashebrew"><big>ךָ֣</big></span><small><sup>[[H9021]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vei.te.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace  | <span class="ashebrew"><big>שָׁל֔וֹם</big></span><small><sup>[[H7965K]]</sup></small> &#8207;| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹ֥ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to \<the> you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace  | <span class="ashebrew"><big>שָׁלֽוֹם</big></span><small><sup>[[H7965K]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.5|<< 1 Samuel 25:5]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.7|1 Samuel 25:7 >>]]</td></tr></table>
+
+

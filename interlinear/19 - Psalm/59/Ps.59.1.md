@@ -1,0 +1,18 @@
+**Psalms 59:1** (59:2)
+<small><sub>**KJV:**</sub></small>
+To the chief Musician, Altaschith, Michtam of David; when Saul sent, and they watched the house to kill him. Deliver me from mine enemies, O my God: defend me from them that rise up against me.
+<small><sub>**BSB:**</sub></small>
+For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David, when Saul sent men to watch David’s house in order to kill him. Deliver me from my enemies, O my God; protect me from those who rise against me.
+<small><sub>**Literal:**</sub></small>
+deliver  me from  enemies  my O God  my from  [those who] rise up against  me may you set on high  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.0|<< Psalms 59:0]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.2|Psalms 59:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| deliver me  | <span class="ashebrew"><big>הַצִּילֵ֖</big></span><small><sup>[[H5337]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| ha.tzi.Le.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from enemies my  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֹיְבַ֥</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God my  | <span class="ashebrew"><big>אֱלֹהָ֑</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [those who] rise up against me  | <span class="ashebrew"><big>מִּ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִתְקוֹמְמַ֥</big></span><small><sup>[[H6965J]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mit.ko.Ma<small><sup>[[HVtrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may you set on high me  | <span class="ashebrew"><big>תְּשַׂגְּבֵֽ</big></span><small><sup>[[H7682]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| te.sa.ge.Ve.<small><sup>[[HVpi2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.0|<< Psalms 59:0]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.2|Psalms 59:2 >>]]</td></tr></table>
+
+

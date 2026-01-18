@@ -1,0 +1,23 @@
+**Psalms 80:2** (80:3)
+<small><sub>**KJV:**</sub></small>
+Before Ephraim and Benjamin and Manasseh stir up thy strength, and come [and] save us.
+<small><sub>**BSB:**</sub></small>
+before Ephraim, Benjamin, and Manasseh. Rally Your mighty power and come to save us.
+<small><sub>**Literal:**</sub></small>
+\<to>  before Ephraim and  Benjamin and  Manasseh stir up  ! \<obj.> might  your and  come  ! for  salvation of  us<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.1|<< Psalms 80:1]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.3|Psalms 80:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֤י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֨יִם</big></span><small><sup>[[H0669G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Benjamin  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִנְיָ֘מִ֤ן</big></span><small><sup>[[H1144G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vin.Ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Manasseh  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְנַשֶּׁ֗ה</big></span><small><sup>[[H4519G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stir up !  | <span class="ashebrew"><big>עוֹרְרָ֥</big></span><small><sup>[[H5782]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| 'o.Ra<small><sup>[[HVpv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| might your  | <span class="ashebrew"><big>גְּבֽוּרָתֶ֑</big></span><small><sup>[[H1369]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ge.vu.ra.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and come !  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְכָ֖</big></span><small><sup>[[H1980H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.Kha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for salvation  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ישֻׁעָ֣תָה</big></span><small><sup>[[H3444]]</sup></small> &#8207;| li.<small><sup>[[HR]]</sup></small> shu.'A.tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of us  | <span class="ashebrew"><big>לָּֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.1|<< Psalms 80:1]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.3|Psalms 80:3 >>]]</td></tr></table>
+
+

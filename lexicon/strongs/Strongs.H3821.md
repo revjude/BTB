@@ -1,0 +1,9 @@
+<big><span class="asaramaic">‎לֵב‎</span></big> **lêb** <small>*(labe)*</small> ==**heart**==  <sup><small>[[TEHMC#A:N-M|A:N-M]]</small></sup> 
+<small>(Aramaic) corresponding to <span class="ashebrew">‎לֵב‎</span><sup><small>[[H3820]]</small></sup></small>
+
+$\quad$ heart.
+- {***the heart***
+-  also used (figuratively) very widely for ***the feelings***, ***the will*** and even ***the intellect***
+-  likewise for ***the centre*** of anything}
+
+**1)** heart, mind

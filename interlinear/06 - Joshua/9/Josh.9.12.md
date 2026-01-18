@@ -1,0 +1,28 @@
+**Joshua 9:12** 
+<small><sub>**KJV:**</sub></small>
+This our bread we took hot [for] our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:
+<small><sub>**BSB:**</sub></small>
+This bread of ours was warm when we packed it at home on the day we left to come to you. But look, it is now dry and moldy.
+<small><sub>**Literal:**</sub></small>
+this bread  our warm we took as our provisions \<obj.>  it from  homes  our on  [the] day came out  we to  come to  you and  now here! it has dried up and  it has been crumbs<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.11|<< Joshua 9:11]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.13|Joshua 9:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| this  | <span class="ashebrew"><big>זֶ֣ה</big></span><small><sup>[[H2088]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread our  | <span class="ashebrew"><big>לַחְמֵ֗</big></span><small><sup>[[H3899H]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| lach.Me.<small><sup>[[HNcbsc]]</sup></small> nu<small><sup>[[HSp1mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| warm  | <span class="ashebrew"><big>חָ֞ם</big></span><small><sup>[[H2525]]</sup></small> &#8207;| cham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we took as our provisions  | <span class="ashebrew"><big>הִצְטַיַּ֤דְנוּ</big></span><small><sup>[[H6679B]]</sup></small> &#8207;| hitz.tai.Yad.nu<small><sup>[[HVtp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from homes our  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בָּ֣תֵּ֔י</big></span><small><sup>[[H1004B]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ba.Tei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י֥וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| came out we  | <span class="ashebrew"><big>צֵאתֵ֖</big></span><small><sup>[[H3318G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9045]]</sup></small> &#8207;| tze.Te.<small><sup>[[HVqcc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to come  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לֶ֣כֶת</big></span><small><sup>[[H1980H]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Le.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>אֲלֵי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and now  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַתָּה֙</big></span><small><sup>[[H6258]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  | <span class="ashebrew"><big>הִנֵּ֣ה</big></span><small><sup>[[H2009]]</sup></small> &#8207;| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has dried up  | <span class="ashebrew"><big>יָבֵ֔שׁ</big></span><small><sup>[[H3001]]</sup></small> &#8207;| ya.Vesh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it has been  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָיָ֖ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| crumbs  | <span class="ashebrew"><big>נִקֻּדִֽים</big></span><small><sup>[[H5350]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ni.ku.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.11|<< Joshua 9:11]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.13|Joshua 9:13 >>]]</td></tr></table>
+
+

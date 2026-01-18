@@ -1,0 +1,26 @@
+**Leviticus 26:20** 
+<small><sub>**KJV:**</sub></small>
+And your strength shall be spent in vain: for your land shall not yield her increase, neither shall the trees of the land yield their fruits.
+<small><sub>**BSB:**</sub></small>
+and your strength will be spent in vain. For your land will not yield its produce, and the trees of the land will not bear their fruit.
+<small><sub>**Literal:**</sub></small>
+and  it will be consumed to \<the>  emptiness strength  your and  not it will give land  your \<obj.> produce  its and  [the] tree[s] of the  land not it will give fruit  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.19|<< Leviticus 26:19]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.21|Leviticus 26:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be consumed  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תַ֥ם</big></span><small><sup>[[H8552]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> Tam<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> emptiness  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רִ֖יק</big></span><small><sup>[[H7385]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Rik<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength your  | <span class="ashebrew"><big>כֹּחֲ</big></span><small><sup>[[H3581B]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| ko.cha.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will give  | <span class="ashebrew"><big>תִתֵּ֤ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| ti.Ten<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| land your  | <span class="ashebrew"><big>אַרְצְ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'ar.tze.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| produce its  | <span class="ashebrew"><big>יְבוּלָ֔</big></span><small><sup>[[H2981]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ye.vu.La<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] tree[s] of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֵ֣ץ</big></span><small><sup>[[H6086H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Etz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will give  | <span class="ashebrew"><big>יִתֵּ֖ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruit its  | <span class="ashebrew"><big>פִּרְיֽ</big></span><small><sup>[[H6529]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| pir.Y<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.19|<< Leviticus 26:19]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.21|Leviticus 26:21 >>]]</td></tr></table>
+
+

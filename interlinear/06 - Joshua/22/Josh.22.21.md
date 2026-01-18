@@ -1,0 +1,26 @@
+**Joshua 22:21** 
+<small><sub>**KJV:**</sub></small>
+Then the children of Reuben and the children of Gad and the half tribe of Manasseh answered, and said unto the heads of the thousands of Israel,
+<small><sub>**BSB:**</sub></small>
+Then the Reubenites, the Gadites, and the half-tribe of Manasseh answered the leaders of the clans of Israel:
+<small><sub>**Literal:**</sub></small>
+and  they answered [the] descendants of Reuben and  [the] descendants of Gad and  [the] half of [the] tribe of \<the>  Manasseh and  they spoke with [the] leaders of [the] families of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.20|<< Joshua 22:20]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.22|Joshua 22:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they answered  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעֲנוּ֙</big></span><small><sup>[[H6030B]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵי</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Reuben  | <span class="ashebrew"><big>רְאוּבֵ֣ן</big></span><small><sup>[[H7205]]</sup></small> &#8207;| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] descendants of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gad  | <span class="ashebrew"><big>גָ֔ד</big></span><small><sup>[[H1410G]]</sup></small> &#8207;| Gad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] half of  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֲצִ֖י</big></span><small><sup>[[H2677]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tribe of  | <span class="ashebrew"><big>שֵׁ֣בֶט</big></span><small><sup>[[H7626H]]</sup></small> &#8207;| She.vet<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Manasseh  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְנַשֶּׁ֑ה</big></span><small><sup>[[H4519G]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> m.na.Sheh<small><sup>[[HNgbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they spoke  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְדַבְּר֔וּ</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.da.be.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] leaders of  | <span class="ashebrew"><big>רָאשֵׁ֖י</big></span><small><sup>[[H7218H]]</sup></small> &#8207;| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] families of  | <span class="ashebrew"><big>אַלְפֵ֥י</big></span><small><sup>[[H0505H]]</sup></small> &#8207;| 'al.Fei<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.20|<< Joshua 22:20]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.22|Joshua 22:22 >>]]</td></tr></table>
+
+

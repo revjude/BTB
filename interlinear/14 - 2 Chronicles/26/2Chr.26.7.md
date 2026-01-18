@@ -1,0 +1,25 @@
+**2 Chronicles 26:7** 
+<small><sub>**KJV:**</sub></small>
+And God helped him against the Philistines, and against the Arabians that dwelt in Gurbaal, and the Mehunims.
+<small><sub>**BSB:**</sub></small>
+God helped him against the Philistines, against the Arabs living in Gur-baal, and against the Meunites.
+<small><sub>**Literal:**</sub></small>
+and  he helped  him \<the>  God on [the] Philistines and  on the  Arabs who  were dwelling in  Gur Baal and  the  Meunites<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.6|<< 2 Chronicles 26:6]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.8|2 Chronicles 26:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he helped him  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעְזְרֵ֨</big></span><small><sup>[[H5826]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya'.ze.Re.<small><sup>[[HVqw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֜ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  | <span class="ashebrew"><big>פְּלִשְׁתִּ֧ים</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Arabs  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עַרְבִ֛ים</big></span><small><sup>[[H6163B]]</sup></small> &#8207;[^1] [^2] | ha.<small><sup>[[HTd]]</sup></small> 'ar.vi.yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| who were dwelling  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יֹּשְׁבִ֥ים</big></span><small><sup>[[H3427]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yo.she.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Gur  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גוּר</big></span><small><sup>[[H1485]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> gur-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Baal  | <span class="ashebrew"><big>בָּ֖עַל</big></span><small><sup>[[H1485]]</sup></small> &#8207;| Ba.'al<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the Meunites  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְּעוּנִֽים</big></span><small><sup>[[H4586G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> me.'u.Nim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.6|<< 2 Chronicles 26:6]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.8|2 Chronicles 26:8 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="ashebrew"><big>הָֽעַרְבִ֛יים</big></span>**
+[^2]: ==K== spelled: **<span class="ashebrew"><big>הָעַרְבִיִּים</big></span>**
+

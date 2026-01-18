@@ -1,0 +1,27 @@
+**Exodus 26:29** 
+<small><sub>**KJV:**</sub></small>
+And thou shalt overlay the boards with gold, and make their rings [of] gold [for] places for the bars: and thou shalt overlay the bars with gold.
+<small><sub>**BSB:**</sub></small>
+Overlay the frames with gold and make gold rings to hold the crossbars. Also overlay the crossbars with gold.
+<small><sub>**Literal:**</sub></small>
+and  \<obj.> the  frames you will overlay gold and  \<obj.> rings  their you will make gold holders for the  bars and  you will overlay \<obj.> the  bars gold<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.28|<< Exodus 26:28]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.30|Exodus 26:30 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.>  | <span class="ashebrew"><big>וְֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the frames  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קְּרָשִׁ֞ים</big></span><small><sup>[[H7175]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ke.ra.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will overlay  | <span class="ashebrew"><big>תְּצַפֶּ֣ה</big></span><small><sup>[[H6823]]</sup></small> &#8207;| te.tza.Peh<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  | <span class="ashebrew"><big>זָהָ֗ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rings their  | <span class="ashebrew"><big>טַבְּעֹֽתֵי</big></span><small><sup>[[H2885]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ta.be.'o.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make  | <span class="ashebrew"><big>תַּעֲשֶׂ֣ה</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  | <span class="ashebrew"><big>זָהָ֔ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holders  | <span class="ashebrew"><big>בָּתִּ֖ים</big></span><small><sup>[[H1004N]]</sup></small> &#8207;| ba.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the bars  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְּרִיחִ֑ם</big></span><small><sup>[[H1280]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> be.ri.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will overlay  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>צִפִּיתָ֥</big></span><small><sup>[[H6823]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> tzi.pi.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the bars  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בְּרִיחִ֖ם</big></span><small><sup>[[H1280]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> be.ri.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  | <span class="ashebrew"><big>זָהָֽב</big></span><small><sup>[[H2091]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.28|<< Exodus 26:28]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.30|Exodus 26:30 >>]]</td></tr></table>
+
+

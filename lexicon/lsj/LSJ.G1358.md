@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==διορύσσω==</span>-<span class='asgreek'>ύσσω</span></b>, 
+
+
+ <i>Attic dialect</i> <b><span class='asgreek'>==διορύσσω==ύττω</span></b>, <b>dig through,</b> <span class='asgreek'>διὰ</span> <span class='asgreek'>τάφρον</span> <span class='asgreek'>ὀρύξας</span> <b>having dug</b> a trench <b>across</b> or <b>along,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 21.120 ">Refs 8th c.BC+</a>]; <span class='asgreek'>τοῖχον</span> <span class='asgreek'>δ</span>., ={<span class='asgreek'>τοιχωρυχέω</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 9.37, compare 5th-6th c.BC: Aristophanes Comicus “Plutus” 565, 5th c.BC: Thucydides Historicus 2.3, 4th c.BC: Demosthenes Orator 54.37; δεσμωτήριον [prev. author] 25.56; οἰκίαν 5th-6th c.BC: Xenophon Historicus “Symposium” 4.30, “PPetr.” 3p.60: with \_accusative\_ loci, τὸν Ἄθω 5th c.BC: Lysias Orator 2.29, compare 5th-6th c.BC: Plato Philosophus “Leges” 699a, 4th c.BC: Demosthenes Orator 6.30 ">Refs 5th c.BC+</a>]: —<i>passive</i>, [<a href="javascript:void(0)" title=" NT.Matt.24.43. ">NT</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>undermine, ruin,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 45.30; φιλίαν 4th c.AD: Libanius Sophista “Orationes” 1.123; δημοκρατίαν [prev. author] “Decl.” 1.41 ">Refs 4th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>==διορύσσω==ωρυγμένα</span> <span class='asgreek'>δωροδοκίαις</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Phocion” 12, compare 4th c.AD: Himerius Sophista “Eclogae” 5.6 ">Refs 1st c.AD+</a>] (but <b>to be entrenched</b> in our <b>several</b> cities, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 9.28). ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>worm out,</b> <span class='asgreek'>ἀπόρρητα</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Bato Comicus 6; τὰ βουλευόμενα 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.87c. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <b>to be shut up in a funeral vault,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 4.43. ">Refs 1st c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Matt.24.43]]
+</sub></small>

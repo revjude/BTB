@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==κράββατος==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ also <b><span class='asgreek'>κράβᾰτος</span></b>, [<a href="javascript:void(0)" title=" “Sammelb.” 4292.9, variant in NT.Mark.2.4 ">NT</a>], <b><span class='asgreek'>κράβακτος</span></b>, variant in [<a href="javascript:void(0)" title=" “NT” (codex 2nd c.AD: Alexander Rhetor), “PTeb.” 406.19 (3rd c.AD)">NT+2nd c.AD+</a>] (whence <i>diminutive</i> <b><span class='asgreek'>κραβάκτιον</span></b>, <span class='asgreek'>τό</span>, [<a href="javascript:void(0)" title=" “PGrenf.” 2.111.32 (5th-6th c.AD)">Refs 5th c.AD+</a>], and <i>adjective</i> <b><span class='asgreek'>κραβακτήριος</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, [<a href="javascript:void(0)" title=" “PMasp.” 6 ii 46 (6th c.AD))">Refs 6th c.AD+</a>]:—also <b><span class='asgreek'>κράβακτον</span></b>, <span class='asgreek'>τό</span>, [same place] [<a href="javascript:void(0)" title=" 97 (6th c.AD), ">Refs 6th c.AD+</a>]<b><span class='asgreek'>κράβαττος</span></b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 1.24.14, variant in “NT” (codex W), “Corpus Glossariorum Latinorum” ">NT+2nd c.AD+</a>], compare <b>grabattus</b>, [<a href="javascript:void(0)" title="Virg. “Mor.” 5">Refs</a>]:—<b>couch, mattress, pallet</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Rhinthon Comicus 11, 2nd c.BC: Crito Comicus 2 ">Refs 3rd c.BC+</a>]; but condemned as un-Attic by [<a href="javascript:void(0)" title=" 2nd c.AD: Phrynichus Atticista 44; frequently in later Gr., ἐπὶ κλιναρίων καὶ κραββάτων NT.Acts.5.15, etc., compare 2nd c.AD: Arrianus Historicus “Epict.” [same place], “PLond.” 2.191.16 (2nd c.AD). ">NT+2nd c.AD+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Mark.2.4]] ☩ [[Acts.5.15]]
+</sub></small>

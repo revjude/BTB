@@ -1,0 +1,27 @@
+**Exodus 13:12** 
+<small><sub>**KJV:**</sub></small>
+That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males [shall be] the LORD’S.
+<small><sub>**BSB:**</sub></small>
+you are to present to the LORD the firstborn male of every womb. All the firstborn males of your livestock belong to the LORD.
+<small><sub>**Literal:**</sub></small>
+and  you will dedicate every firstborn of a womb to  Yahweh and  every firstborn of [the] offspring of cattle which it will be[long] to  you the  males [will belong] to  Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.11|<< Exodus 13:11]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.13|Exodus 13:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will dedicate  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הַעֲבַרְתָּ֥</big></span><small><sup>[[H5674C]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.'a.var.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| firstborn of  | <span class="ashebrew"><big>פֶּֽטֶר</big></span><small><sup>[[H6363A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| pe.ter-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a womb  | <span class="ashebrew"><big>רֶ֖חֶם</big></span><small><sup>[[H7358]]</sup></small> &#8207;| Re.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהֹוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and every  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| firstborn of  | <span class="ashebrew"><big>פֶּ֣טֶר</big></span><small><sup>[[H6363A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Pe.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] offspring of  | <span class="ashebrew"><big>שֶׁ֣גֶר</big></span><small><sup>[[H7698]]</sup></small> &#8207;| She.ger<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cattle  | <span class="ashebrew"><big>בְּהֵמָ֗ה</big></span><small><sup>[[H0929]]</sup></small> &#8207;| be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֨ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be[long]  | <span class="ashebrew"><big>יִהְיֶ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֛</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the males  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זְּכָרִ֖ים</big></span><small><sup>[[H2145]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ze.kha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will belong] to Yahweh  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.11|<< Exodus 13:11]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.13|Exodus 13:13 >>]]</td></tr></table>
+
+

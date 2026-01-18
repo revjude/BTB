@@ -1,0 +1,1 @@
+<span class="ashebrew">‎מֵן‎</span> <small>***(men)***</small> ==**string**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 

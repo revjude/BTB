@@ -1,0 +1,8 @@
+<span class="asgreek">περισκέπω</span> <small>***(periskepō)***</small> ==**to cover**==  <sup><small>[[TEGMC#|]]</small></sup> 
+
+<b> <span class='asgreek'>==περισκέπω==</span>-<span class='asgreek'>άζω</span></b>, 
+
+
+ <b>cover, screen all round</b>, <span class='asgreek'>βύσσῳ</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 5.103 (Marc. argument), compare “Geoponica” 2.4.2">Refs</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.5.3, 1st c.AD: Dioscorides (Dioscurides) Medicus 2.76">Refs 4th c.BC+</a>]. -<span class='asgreek'>ής</span>, <span class='asgreek'>ές</span>, (<span class='asgreek'>σκέπας</span>) <b>covered all round</b>, <span class='asgreek'>ὄρος</span> <span class='asgreek'>θάμνοισι</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Hymnus in Jovem” 11; οἶκοι 4th c.BC: Moschio Tragicus Trag. 7.27: \_metaphorically\_, λόγος π. ἑτέρῳ κόσμῳ">Refs 4th c.BC+</a>], of a myth, [<a href="javascript:void(0)" title=" 2nd c.AD: Maximus Tyrius Sophista 10.5 (assuming variant). ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>covering</b> or <b>screening all round</b>, <span class='asgreek'>πύργοι</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Hymnus in Delum” 23 ">Refs 3rd c.BC+</a>]; [<span class='asgreek'>ὥρα</span>] <span class='asgreek'>τῷ</span> <span class='asgreek'>ἀέρι</span> <span class='asgreek'>==περισκέπω==ής</span> (perhaps -<span class='asgreek'>σκελής</span>) [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 7.1.4. ">Refs 4th c.BC+</a>]

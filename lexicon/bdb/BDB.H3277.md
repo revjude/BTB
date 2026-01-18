@@ -1,0 +1,10 @@
+ I. [<span class="bdbLangHebrew">‎יָעֵל‎</span>] **noun [masculine]** ==mountain-goat== (Late Hebrew ***id.***; [[BDB#Tg|ᵑ7]] <span class="bdbLangHebrew">‎יְעֵיעָא‎</span>, Syriac <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJAAbAIAAAAAAAP///yH5BAAAAAAALAAAAAAkABsAAAJgjI+py+3vwAESqrpopfZqbGiB2CEfOHJpaaoJ6bLxu6HWTIc2y6jzx2vpaKSgbwc01nrF0rGRdHKant8udbpiXdFW9gvOVkXhchd7k2gztnUw9+7g4uw53Xt/UPP8Pr0AADs=">; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJAAiAIAAAAAAAP///yH5BAAAAAAALAAAAAAkACIAAAJljI+py+0PDYh0gXtrxVlHPnkfKB5hc2pk6awsmkLdK8e0Mt+w3tq86ePccpIJhkac+TwxIjInlBSXsBSoE8XhrldENhGcHrfOgLNcZSSpKLWS3bZwRWiza1Mf5ln33/cHGCh4UAAAOw==">, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIgAjAIAAAAAAAP///yH5BAAAAAAALAAAAAAiACMAAAJnjI+py+0Po0yg1intxU8DDnlg9I3moZ3MViotx1JW9yIpOtPNZuRhrZIFd8Bhrxi4gXg20QjIY2KkUkoGWlQ6fEenNrnwiH3famkc5iahMGqtSpK11BmX+Jn9Xo12JF4fRMc3SKhSAAA7">; Assyrian <abbr title="transliteration"><u>***ia'ilu***</u></abbr> [[BDB#Dl|Dl]]<sup>S 53</sup> (but [[BDB#Hpt|Hpt]]<sup>BAS i. 170</sup>, Jäger<sup>ib. 465</sup>); Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhNQAUAIAAAAAAAP///yH5BAAAAAAALAAAAAA1ABQAAAJ3jI+py+0PD4i0NoBdthzhyXxgZ4ljIpKV+aFsx24u2EoxFb9enRpp/eDJgDaacPMj+obMU6AHbS5lxer0mYkipVjq9dvVTie9riTELJrCYzb4sh0p3eUT0Um/KcRoozdXtqDXZ4XyxDEo2BKoMgOR5NUoOUlJUQAAOw=="> see [[BDB#Hom|Hom]]<sup>NS 280</sup>) — ***Plural*** <span class="bdbLangHebrew">‎יְעֵלִים‎</span> [[Ps.104.18|Ps 104:18]] (\|\| <span class="bdbLangHebrew">‎שְׁפַנִּים‎</span>); <span class="bdbLangHebrew">‎צוּרֵי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַיּ‎</span> [[1Sam.24.3|1Sam 24:3]] <span class="bdbLangHebrew">‎יַעֲלֵיסָֿ֑לַע‎</span> [[Job.39.1|Job 39:1]] (\|\| <span class="bdbLangHebrew">‎אַיָּלוֺת‎</span>; compare I. <span class="bdbLangHebrew">‎יַעֲלָה‎</span>). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 1 Samuel | [[1Sam.24.3\|24:3]] |
+| Job | [[Job.39.1\|39:1]] |
+| Psalms | [[Ps.104.18\|104:18]] |
+

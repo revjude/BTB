@@ -1,0 +1,8 @@
+<span class="asgreek">αὐτόχθων</span> <small>***(autochthōn)***</small> ==**native-born**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==αὐτόχθων==</span>-<span class='asgreek'>χθων</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <i>genitive</i> <span class='asgreek'>ονος</span>, <b>sprung from the land itself;</b> <span class='asgreek'>==αὐτόχθων==χθονες</span>, <span class='asgreek'>οἱ</span>, <b>not settlers, of native stock,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.171, 5th c.BC: Thucydides Historicus 6.2, etc.: with \_genitive\_, αὐ. Ἰταλίας 1st c.BC: Dionysius Halicarnassensis 1.10">Refs 5th c.BC+</a>]: especially of the Athenians, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Ion” 29, +others, “fragment” 360.8, 5th-6th c.BC: Aristophanes Comicus “Vespae” 1076, 5th-6th c.BC: Isocrates Orator 4.24, 12.124. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>adjective</i>, <b>indigenous, native,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>μὲν</span> <span class='asgreek'>δύο</span> <span class='asgreek'>==αὐτόχθων==χθονα</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἐθνέων</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.197; αὐ. Αἰγύπτιοι “PGiss.” 99.5 (2nd c.AD)">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀρετή</span>[<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 2.43; λάχανα τῶν αὐτοχθόνων Poliochus Comicus 2.6; κόσμος 4th c.BC: Philodamus Scarpheus Lyricus 127">Refs 5th c.BC+</a>]; <b>urbanitas, racy of the soil,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Epistulae ad Atticum” 7.2.3.">Refs 1st c.BC+</a>]

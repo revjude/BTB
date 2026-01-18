@@ -1,0 +1,30 @@
+**Isaiah 47:14** 
+<small><sub>**KJV:**</sub></small>
+Behold, they shall be as stubble; the fire shall burn them; they shall not deliver themselves from the power of the flame: [there shall] not [be] a coal to warm at, [nor] fire to sit before it.
+<small><sub>**BSB:**</sub></small>
+Surely they are like stubble; the fire will burn them up. They cannot deliver themselves from the power of the flame. There will be no coals to warm them or fire to sit beside.
+<small><sub>**Literal:**</sub></small>
+there! they have become like  chaff a fire it has burned  them not they will deliver \<obj.> self  their from  [the] hand of [the] flame there not [will be] coal to  warm  them a fire to  sit before  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.13|<< Isaiah 47:13]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.15|Isaiah 47:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| there!  | <span class="ashebrew"><big>הִנֵּ֨ה</big></span><small><sup>[[H2009]]</sup></small> &#8207;| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have become  | <span class="ashebrew"><big>הָי֤וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like chaff  | <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>קַשׁ֙</big></span><small><sup>[[H7179]]</sup></small> &#8207;| khe.<small><sup>[[HR]]</sup></small> Kash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire  | <span class="ashebrew"><big>אֵ֣שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has burned them  | <span class="ashebrew"><big>שְׂרָפָ֔תַ</big></span><small><sup>[[H8313]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| se.ra.Fa.ta<small><sup>[[HVqp3fs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will deliver  | <span class="ashebrew"><big>יַצִּ֥ילוּ</big></span><small><sup>[[H5337]]</sup></small> &#8207;| ya.Tzi.lu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self their  | <span class="ashebrew"><big>נַפְשָׁ֖</big></span><small><sup>[[H5315I]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| naf.Sha<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] hand of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יַּ֣ד</big></span><small><sup>[[H3027H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] flame  | <span class="ashebrew"><big>לֶֽהָבָ֑ה</big></span><small><sup>[[H3852]]</sup></small> &#8207;| le.ha.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  | <span class="ashebrew"><big>אֵין</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] coal  | <span class="ashebrew"><big>גַּחֶ֣לֶת</big></span><small><sup>[[H1513]]</sup></small> &#8207;| ga.Che.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to warm them  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חְמָ֔</big></span><small><sup>[[H2552]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la<small><sup>[[HR]]</sup></small> ch.Ma<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire  | <span class="ashebrew"><big>א֖וּר</big></span><small><sup>[[H0217A]]</sup></small> &#8207;| 'ur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to sit  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שֶׁ֥בֶת</big></span><small><sup>[[H3427]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> She.vet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before it  | <span class="ashebrew"><big>נֶגְדּֽ</big></span><small><sup>[[H5048]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| neg.D<small><sup>[[HAcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.13|<< Isaiah 47:13]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.15|Isaiah 47:15 >>]]</td></tr></table>
+
+

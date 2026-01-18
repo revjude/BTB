@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==κατηχέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>sound over</b> or <b>through</b>, <span class='asgreek'>ἁρμονία</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>θαλάττης</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.19, compare 2.12. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>sound amiss</b>, opposed to <span class='asgreek'>συνηχέω</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Vitruvius Scriptor de Architectura Latinus 5.8.1. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>teach by word of mouth</b>: hence generally, <b>instruct</b>, <span class='asgreek'>κ</span>. <span class='asgreek'>τινὰ</span> <span class='asgreek'>πολλὰ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀγνοουμένων</span> Agrippa 11 cited in [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Vita” 65, compare 2nd c.AD: Lucianus Sophista “Asin.” 48, “PStrassb.” 41.37 (3rd c.AD)">Refs 1st c.AD+</a>]:—<i>passive</i>, <b>to be informed</b> or <b>instructed</b>, <span class='asgreek'>περί</span> <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" NT.Acts.21.21 ">NT</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>ὅτι</span>.. [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.575; ὥσπερ ==κατηχέω==ήμεθα 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 5.5. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in <b>NT, instruct in the elements of religion</b>, [<a href="javascript:void(0)" title=" NT.1Cor.14.19 ">NT</a>]:—<i>passive</i>, <span class='asgreek'>περὶ</span> <span class='asgreek'>ὧν</span> <span class='asgreek'>==κατηχέω==ήθης</span> <span class='asgreek'>λόγων</span> [<a href="javascript:void(0)" title=" NT.Luke.1.4; ὁ ==κατηχέω==ούμενος τὸν λόγον NT.Gal.6.6; ==κατηχέω==ημένος τὴν ὁδὸν τοῦ Κυρίου NT.Acts.18.25, compare 3rd c.AD: Porphyrius Tyrius Philosophus “adversus Christianos - Abh. Berl. Akad.” 26. ">NT+3rd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.21.21]] ☩ [[1Cor.14.19]] ☩ [[Luke.1.4]] ☩ [[Gal.6.6]] ☩ [[Acts.18.25]]
+</sub></small>

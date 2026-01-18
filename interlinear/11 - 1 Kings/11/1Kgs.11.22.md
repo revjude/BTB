@@ -1,0 +1,31 @@
+**1 Kings 11:22** 
+<small><sub>**KJV:**</sub></small>
+Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, thou seekest to go to thine own country? And he answered, Nothing: howbeit let me go in any wise.
+<small><sub>**BSB:**</sub></small>
+But Pharaoh asked him, “What have you lacked here with me that you suddenly want to go back to your own country?” “Nothing,” Hadad replied, “but please let me go.”
+<small><sub>**Literal:**</sub></small>
+and  he said to  him Pharaoh that what? [are] you lacking with  me and  here  you [are] seeking to  go to own land  your and  he said In- deed really \<let go> you will let go  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.21|<< 1 Kings 11:21]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.23|1 Kings 11:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֧אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>ל֣</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַרְעֹ֗ה</big></span><small><sup>[[H6547K]]</sup></small> &#8207;| far.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֠י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  | <span class="ashebrew"><big>מָה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] you  | <span class="ashebrew"><big>אַתָּ֤ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lacking  | <span class="ashebrew"><big>חָסֵר֙</big></span><small><sup>[[H2638]]</sup></small> &#8207;| cha.Ser<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with me  | <span class="ashebrew"><big>עִמִּ֔</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'i.M<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and here you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנְּ</big></span><small><sup>[[H2005]]</sup></small> <span class="ashebrew"><big>ךָ֥</big></span><small><sup>[[H9041]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] seeking  | <span class="ashebrew"><big>מְבַקֵּ֖שׁ</big></span><small><sup>[[H1245]]</sup></small> &#8207;| me.va.Kesh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to go  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לֶ֣כֶת</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Le.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own land your  | <span class="ashebrew"><big>אַרְצֶ֑</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'ar.Tze.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| In-  | <span class="ashebrew"><big>לֹ֔א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deed  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| really \<let go>  | <span class="ashebrew"><big>שַׁלֵּ֖חַ</big></span><small><sup>[[H7971H]]</sup></small> &#8207;| sha.Le.ach<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will let go me  | <span class="ashebrew"><big>תְּשַׁלְּחֵֽ</big></span><small><sup>[[H7971H]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| te.sha.le.Che.<small><sup>[[HVpi2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.21|<< 1 Kings 11:21]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.23|1 Kings 11:23 >>]]</td></tr></table>
+
+

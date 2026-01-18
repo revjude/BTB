@@ -1,0 +1,27 @@
+**Zechariah 6:5** 
+<small><sub>**KJV:**</sub></small>
+And the angel answered and said unto me, These [are] the four spirits of the heavens, which go forth from standing before the Lord of all the earth.
+<small><sub>**BSB:**</sub></small>
+And the angel told me, “These are the four spirits of heaven, going forth from their station before the Lord of all the earth.
+<small><sub>**Literal:**</sub></small>
+and  he answered the  angel and  he said to  me these [are] [the] four [the] winds of the  heavens going forth from  when presented themselves on [the] lord of all the  earth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.4|<< Zechariah 6:4]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.6|Zechariah 6:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he answered  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֥עַן</big></span><small><sup>[[H6030B]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the angel  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּלְאָ֖ךְ</big></span><small><sup>[[H4397H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mal.'Akh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלָ֑</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  | <span class="ashebrew"><big>אֵ֗לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] four  | <span class="ashebrew"><big>אַרְבַּע֙</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.Ba'<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] winds of  | <span class="ashebrew"><big>רֻח֣וֹת</big></span><small><sup>[[H7307H]]</sup></small> &#8207;| ru.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the heavens  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁמַ֔יִם</big></span><small><sup>[[H8064]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| going forth  | <span class="ashebrew"><big>יוֹצְא֕וֹת</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| yotz.'ot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from when presented themselves  | <span class="ashebrew"><big>מֵֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>הִתְיַצֵּ֖ב</big></span><small><sup>[[H3320]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> hit.ya.Tzev<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] lord of  | <span class="ashebrew"><big>אֲד֥וֹן</big></span><small><sup>[[H0113]]</sup></small> &#8207;| 'a.Don<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָֽרֶץ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.4|<< Zechariah 6:4]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.6|Zechariah 6:6 >>]]</td></tr></table>
+
+

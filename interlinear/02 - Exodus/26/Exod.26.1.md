@@ -1,0 +1,29 @@
+**Exodus 26:1** 
+<small><sub>**KJV:**</sub></small>
+Moreover thou shalt make the tabernacle [with] ten curtains [of] fine twined linen, and blue, and purple, and scarlet: [with] cherubims of cunning work shalt thou make them.
+<small><sub>**BSB:**</sub></small>
+“You are to construct the tabernacle itself with ten curtains of finely spun linen, each with blue, purple, and scarlet yarn, and cherubim skillfully worked into them.
+<small><sub>**Literal:**</sub></small>
+and  \<obj.> the  tabernacle you will make ten curtains fine linen twisted and  violet stuff and  purple and  scarlet stuff of scarlet cherubim [the] work of a skillful worker you will make \<obj.>  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.40|<< Exodus 25:40]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.2|Exodus 26:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tabernacle  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּשְׁכָּ֥ן</big></span><small><sup>[[H4908]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mish.Kan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make  | <span class="ashebrew"><big>תַּעֲשֶׂ֖ה</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עֶ֣שֶׂר</big></span><small><sup>[[H6235]]</sup></small> &#8207;| 'E.ser<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| curtains  | <span class="ashebrew"><big>יְרִיעֹ֑ת</big></span><small><sup>[[H3407]]</sup></small> &#8207;| ye.ri.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fine linen  | <span class="ashebrew"><big>שֵׁ֣שׁ</big></span><small><sup>[[H8336B]]</sup></small> &#8207;| shesh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twisted  | <span class="ashebrew"><big>מָשְׁזָ֗ר</big></span><small><sup>[[H7806]]</sup></small> &#8207;| ma.she.Zar<small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and violet stuff  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְכֵ֤לֶת</big></span><small><sup>[[H8504]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.Khe.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and purple  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַרְגָּמָן֙</big></span><small><sup>[[H0713]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ar.ga.Man<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and scarlet stuff of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תֹלַ֣עַת</big></span><small><sup>[[H8438B]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> to.La.'at<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| scarlet  | <span class="ashebrew"><big>שָׁנִ֔י</big></span><small><sup>[[H8144]]</sup></small> &#8207;| sha.Ni<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cherubim  | <span class="ashebrew"><big>כְּרֻבִ֛ים</big></span><small><sup>[[H3742]]</sup></small> &#8207;| ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] work of  | <span class="ashebrew"><big>מַעֲשֵׂ֥ה</big></span><small><sup>[[H4639G]]</sup></small> &#8207;| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a skillful worker  | <span class="ashebrew"><big>חֹשֵׁ֖ב</big></span><small><sup>[[H2803G]]</sup></small> &#8207;| cho.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make  | <span class="ashebrew"><big>תַּעֲשֶׂ֥ה</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אֹתָֽ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.40|<< Exodus 25:40]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.2|Exodus 26:2 >>]]</td></tr></table>
+
+

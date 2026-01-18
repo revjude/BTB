@@ -1,0 +1,28 @@
+**Ezekiel 40:2** 
+<small><sub>**KJV:**</sub></small>
+In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which [was] as the frame of a city on the south.
+<small><sub>**BSB:**</sub></small>
+In visions of God He took me to the land of Israel and set me on a very high mountain, on whose southern slope was a structure that resembled a city.
+<small><sub>**Literal:**</sub></small>
+in  visions of God he brought  me to [the] land of Israel and  he set down  me to a mountain high very and  [was] on  it like  [the] structure of a city from  [the] south<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.1|<< Ezekiel 40:1]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.3|Ezekiel 40:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| in visions of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מַרְא֣וֹת</big></span><small><sup>[[H4759A]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mar.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱלֹהִ֔ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he brought me  | <span class="ashebrew"><big>הֱבִיאַ֖</big></span><small><sup>[[H0935P]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| he.vi.'A.<small><sup>[[HVhp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  | <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he set down me  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְנִיחֵ֗</big></span><small><sup>[[H5117]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.ni.Che.<small><sup>[[HVhw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mountain  | <span class="ashebrew"><big>הַ֤ר</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| high  | <span class="ashebrew"><big>גָּבֹ֙הַּ֙</big></span><small><sup>[[H1364]]</sup></small> &#8207;| ga.Vo.ah<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| very  | <span class="ashebrew"><big>מְאֹ֔ד</big></span><small><sup>[[H3966]]</sup></small> &#8207;| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] on it  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עָלָ֥י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] structure of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מִבְנֵה</big></span><small><sup>[[H4011]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> miv.neh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a city  | <span class="ashebrew"><big>עִ֖יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| 'ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] south  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>נֶּֽגֶב</big></span><small><sup>[[H5045H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ne.gev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.1|<< Ezekiel 40:1]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.3|Ezekiel 40:3 >>]]</td></tr></table>
+
+

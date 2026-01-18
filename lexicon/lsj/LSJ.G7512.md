@@ -1,0 +1,7 @@
+<span class="asgreek">ἐρῳδιός</span> <small>***(erōdios)***</small> ==**a heron**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐρῳδιός==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>heron,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 10.274, 5th c.BC: Epicharmus Comicus 46, 7th-6th c.BC(?): Semonides Iambographus 9, 5th-6th c.BC: Aristophanes Comicus “Aves” 886, Callias Epigrammaticus “Aet.Oxy.” 2080.64, Clitarchus Gnomologus 22 1st c.AD: Josephus Historicus, 2nd c.AD(?): Antoninus Liberalis Mythographus 7.7, etc.:—also ῥῳδιός, 6th c.BC: Hipponax Iambographus 63 ">Refs 8th c.BC+</a>], and <b><span class='asgreek'>ἀρῳδιός</span></b> (which see):—Aristotle mentions three kinds: <span class='asgreek'>ὁ</span> <span class='asgreek'>πέλλος</span>, probably <b>common heron, Ardea cinerea</b>; <span class='asgreek'>ὁ</span> <span class='asgreek'>λευκός</span>, <b>egret, A. alba, gazetta</b>; <span class='asgreek'>ὁ</span> <span class='asgreek'>ἀστερίας</span>, <b>bittern, A. Stellaris, HA</b>[<a href="javascript:void(0)" title=" 609b21: the ==ἐρῳδιός== in Il. [prev. cited] compare (2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 1.1)">Refs 2nd c.AD+</a>] was probably a <b>shearwater.</b> (<span class='asgreek'>ἐρωδιός</span> frequently in codices, even in Papyrus of Call. [prev. cited] [<a href="javascript:void(0)" title="(2nd c.AD), but ==ἐρῳδιός== (with ωι and oxytone) Hdn.Gr. 2.924 and codices 8th c.BC: Homerus Epicus) ">Refs 8th c.BC+</a>]
+

@@ -1,0 +1,27 @@
+**1 Chronicles 27:29** 
+<small><sub>**KJV:**</sub></small>
+And over the herds that fed in Sharon [was] Shitrai the Sharonite: and over the herds [that were] in the valleys [was] Shaphat the son of Adlai:
+<small><sub>**BSB:**</sub></small>
+Shitrai the Sharonite was in charge of the herds grazing in Sharon. Shaphat son of Adlai was in charge of the herds in the valleys.
+<small><sub>**Literal:**</sub></small>
+and  [was] over the  cattle which  grazed in \<the>  Sharon Shirtai the  Sharonite and  [was] over the  cattle in the  valleys Shaphat [the] son Adlai<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.28|<< 1 Chronicles 27:28]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.30|1 Chronicles 27:30 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [was] over  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cattle  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בָּקָר֙</big></span><small><sup>[[H1241]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which grazed  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רֹעִ֣ים</big></span><small><sup>[[H7462B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ro.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> Sharon  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׁר֔וֹן</big></span><small><sup>[[H8289I]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> sha.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shirtai  [^1] | <span class="ashebrew"><big>שִׁרְטַ֖י</big></span><small><sup>[[H7861]]</sup></small> &#8207;[^2] | shit.rai<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| the Sharonite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁרוֹנִ֑י</big></span><small><sup>[[H8290]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sha.ro.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] over  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cattle  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בָּקָר֙</big></span><small><sup>[[H1241]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the valleys  | <span class="ashebrew"><big>בָּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲמָקִ֔ים</big></span><small><sup>[[H6010R]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.ma.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shaphat  | <span class="ashebrew"><big>שָׁפָ֖ט</big></span><small><sup>[[H8202K]]</sup></small> &#8207;| sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Adlai  | <span class="ashebrew"><big>עַדְלָֽי</big></span><small><sup>[[H5724]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'ad.Lai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.28|<< 1 Chronicles 27:28]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.30|1 Chronicles 27:30 >>]]</td></tr></table>
+
+[^1]: ==K==: **Shitrai ** | <small><sup>[[H7861]]</sup></small><span class="ashebrew"><big>שִׁטְרַי</big></span>  | shit.rai<small><sup>[[HNpm]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>שִׁטְרַ֖י</big></span>**
+

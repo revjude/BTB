@@ -1,0 +1,33 @@
+**Deuteronomy 4:23** 
+<small><sub>**KJV:**</sub></small>
+Take heed unto yourselves, lest ye forget the covenant of the LORD your God, which he made with you, and make you a graven image, [or] the likeness of any [thing], which the LORD thy God hath forbidden thee.
+<small><sub>**BSB:**</sub></small>
+Be careful that you do not forget the covenant of the LORD your God that He made with you; do not make an idol for yourselves in the form of anything He has forbidden you.
+<small><sub>**Literal:**</sub></small>
+take heed to  yourselves lest you should forget \<obj.> [the] covenant of Yahweh God  your which he has made with  you and  you will make for  yourselves an image a form of anything which he commanded  you Yahweh God  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.22|<< Deuteronomy 4:22]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.24|Deuteronomy 4:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| take heed  | <span class="ashebrew"><big>הִשָּׁמְר֣וּ</big></span><small><sup>[[H8104J]]</sup></small> &#8207;| hi.sha.me.Ru<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to yourselves  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֗ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lest  | <span class="ashebrew"><big>פֶּֽן</big></span><small><sup>[[H6435]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you should forget  | <span class="ashebrew"><big>תִּשְׁכְּחוּ֙</big></span><small><sup>[[H7911]]</sup></small> &#8207;| tish.ke.Chu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] covenant of  | <span class="ashebrew"><big>בְּרִ֤ית</big></span><small><sup>[[H1285]]</sup></small> &#8207;| be.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹ֣הֵי</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'e.Lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has made  | <span class="ashebrew"><big>כָּרַ֖ת</big></span><small><sup>[[H3772H]]</sup></small> &#8207;| ka.Rat<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  | <span class="ashebrew"><big>עִמָּ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'i.ma.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will make  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עֲשִׂיתֶ֨ם</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.si.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for yourselves  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֥ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an image  | <span class="ashebrew"><big>פֶּ֙סֶל֙</big></span><small><sup>[[H6459]]</sup></small> &#8207;| pe.sel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a form of  | <span class="ashebrew"><big>תְּמ֣וּנַת</big></span><small><sup>[[H8544]]</sup></small> &#8207;| te.Mu.nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anything  | <span class="ashebrew"><big>כֹּ֔ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he commanded you  | <span class="ashebrew"><big>צִוְּ</big></span><small><sup>[[H6680]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| tzi.ve.<small><sup>[[HVpp3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹהֶֽי</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.22|<< Deuteronomy 4:22]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.24|Deuteronomy 4:24 >>]]</td></tr></table>
+
+

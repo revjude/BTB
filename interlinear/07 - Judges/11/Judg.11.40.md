@@ -1,0 +1,25 @@
+**Judges 11:40** 
+<small><sub>**KJV:**</sub></small>
+[That] the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year.
+<small><sub>**BSB:**</sub></small>
+that each year the young women of Israel go out for four days to lament the daughter of Jephthah the Gileadite.
+<small><sub>**Literal:**</sub></small>
+from  days days  towards they go [the] daughters of Israel to  recount for  [the] daughter of Jephthah the  Gileadite four days in the  year<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.39|<< Judges 11:39]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.1|Judges 12:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| from days  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יָּמִ֣ים</big></span><small><sup>[[H3117I]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days towards  | <span class="ashebrew"><big>יָמִ֗ימָ</big></span><small><sup>[[H3117I]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| ya.Mi.ma<small><sup>[[HNcmpa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they go  | <span class="ashebrew"><big>תֵּלַ֙כְנָה֙</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| te.Lakh.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughters of  | <span class="ashebrew"><big>בְּנ֣וֹת</big></span><small><sup>[[H1323G]]</sup></small> &#8207;| be.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to recount  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תַנּ֕וֹת</big></span><small><sup>[[H8567]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ta.Not<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] daughter of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בַת</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> vat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jephthah  | <span class="ashebrew"><big>יִפְתָּ֖ח</big></span><small><sup>[[H3316H]]</sup></small> &#8207;| yif.Tach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Gileadite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּלְעָדִ֑י</big></span><small><sup>[[H1569]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> gil.'a.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  | <span class="ashebrew"><big>אַרְבַּ֥עַת</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.Ba.'at<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִ֖ים</big></span><small><sup>[[H3117I]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the year  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׁנָֽה</big></span><small><sup>[[H8141]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.39|<< Judges 11:39]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.1|Judges 12:1 >>]]</td></tr></table>
+
+

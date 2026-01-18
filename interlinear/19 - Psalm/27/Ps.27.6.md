@@ -1,0 +1,26 @@
+**Psalms 27:6** 
+<small><sub>**KJV:**</sub></small>
+And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD.
+<small><sub>**BSB:**</sub></small>
+Then my head will be held high above my enemies around me. At His tabernacle I will offer sacrifices with shouts of joy; I will sing and make music to the LORD.
+<small><sub>**Literal:**</sub></small>
+and  now it will rise head  my above enemies  my around  me and  I will sacrifice in  tent  his sacrifices of a shout of joy I will sing and  I will sing praises to  Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.5|<< Psalms 27:5]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.7|Psalms 27:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and now  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַתָּ֨ה</big></span><small><sup>[[H6258]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will rise  | <span class="ashebrew"><big>יָר֪וּם</big></span><small><sup>[[H7311A]]</sup></small> &#8207;| ya.Rum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head my  | <span class="ashebrew"><big>רֹאשִׁ֡</big></span><small><sup>[[H7218A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ro.Sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| above  | <span class="ashebrew"><big>עַ֤ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies my  | <span class="ashebrew"><big>אֹֽיְבַ֬</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| around me  | <span class="ashebrew"><big>סְֽבִיבוֹתַ֗</big></span><small><sup>[[H5439G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| se.vi.vo.Ta<small><sup>[[HNcbpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will sacrifice  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶזְבְּחָ֣ה</big></span><small><sup>[[H2076]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ez.be.Chah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in tent his  | <span class="ashebrew"><big>בְ֭</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָהֳל</big></span><small><sup>[[H0168G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> 'o.ho.l<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sacrifices of  | <span class="ashebrew"><big>זִבְחֵ֣י</big></span><small><sup>[[H2077]]</sup></small> &#8207;| ziv.Chei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a shout of joy  | <span class="ashebrew"><big>תְרוּעָ֑ה</big></span><small><sup>[[H8643]]</sup></small> &#8207;| te.ru.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will sing  | <span class="ashebrew"><big>אָשִׁ֥ירָה</big></span><small><sup>[[H7891]]</sup></small> &#8207;| 'a.Shi.rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will sing praises  | <span class="ashebrew"><big>וַ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲזַמְּרָ֗ה</big></span><small><sup>[[H2167]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.za.me.Rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.5|<< Psalms 27:5]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.7|Psalms 27:7 >>]]</td></tr></table>
+
+

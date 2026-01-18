@@ -1,0 +1,31 @@
+**Deuteronomy 28:67** 
+<small><sub>**KJV:**</sub></small>
+In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see.
+<small><sub>**BSB:**</sub></small>
+In the morning you will say, ‘If only it were evening!’ and in the evening you will say, ‘If only it were morning!’—because of the dread in your hearts of the terrifying sights you will see.
+<small><sub>**Literal:**</sub></small>
+in the  morning you will say who? will he give evening and  in the  evening you will say who? will he give morning from  [the] dread of heart  your which you will dread and  from  [the] sight[s] of eyes  your which you will see<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.66|<< Deuteronomy 28:66]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.68|Deuteronomy 28:68 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| in the morning  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בֹּ֤קֶר</big></span><small><sup>[[H1242]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will say  | <span class="ashebrew"><big>תֹּאמַר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| to.Mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  | <span class="ashebrew"><big>מִֽי</big></span><small><sup>[[H4310]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he give  | <span class="ashebrew"><big>יִתֵּ֣ן</big></span><small><sup>[[H5414Q]]</sup></small> &#8207;| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evening  | <span class="ashebrew"><big>עֶ֔רֶב</big></span><small><sup>[[H6153]]</sup></small> &#8207;| 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in the evening  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בָ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֶ֥רֶב</big></span><small><sup>[[H6153]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will say  | <span class="ashebrew"><big>תֹּאמַ֖ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| to.Mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  | <span class="ashebrew"><big>מִֽי</big></span><small><sup>[[H4310]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he give  | <span class="ashebrew"><big>יִתֵּ֣ן</big></span><small><sup>[[H5414Q]]</sup></small> &#8207;| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| morning  | <span class="ashebrew"><big>בֹּ֑קֶר</big></span><small><sup>[[H1242]]</sup></small> &#8207;| Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] dread of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פַּ֤חַד</big></span><small><sup>[[H6343]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Pa.chad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart your  | <span class="ashebrew"><big>לְבָֽבְ</big></span><small><sup>[[H3824]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| le.va.ve.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will dread  | <span class="ashebrew"><big>תִּפְחָ֔ד</big></span><small><sup>[[H6342]]</sup></small> &#8207;| tif.Chad<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from [the] sight[s] of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מַּרְאֵ֥ה</big></span><small><sup>[[H4758]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> mar.'Eh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes your  | <span class="ashebrew"><big>עֵינֶ֖י</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'ei.Nei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will see  | <span class="ashebrew"><big>תִּרְאֶֽה</big></span><small><sup>[[H7200G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tir.'Eh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.66|<< Deuteronomy 28:66]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.68|Deuteronomy 28:68 >>]]</td></tr></table>
+
+

@@ -1,0 +1,32 @@
+**Lamentations 2:17** 
+<small><sub>**KJV:**</sub></small>
+The LORD hath done [that] which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused [thine] enemy to rejoice over thee, he hath set up the horn of thine adversaries.
+<small><sub>**BSB:**</sub></small>
+The LORD has done what He planned; He has accomplished His decree, which He ordained in days of old; He has overthrown you without pity. He has let the enemy gloat over you and exalted the horn of your foes.
+<small><sub>**Literal:**</sub></small>
+he has done Yahweh what he purposed he has fulfilled word  his which he commanded from  days of antiquity he has torn down and  not he has spared and  he has caused to rejoice on  you an enemy he has lifted up [the] horn of opponents  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.16|<< Lamentations 2:16]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.18|Lamentations 2:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| he has done  | <span class="ashebrew"><big>עָשָׂ֨ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he purposed  | <span class="ashebrew"><big>זָמָ֗ם</big></span><small><sup>[[H2161]]</sup></small> &#8207;| za.Mam<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has fulfilled  | <span class="ashebrew"><big>בִּצַּ֤ע</big></span><small><sup>[[H1214I]]</sup></small> &#8207;| bi.Tza'<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| word his  | <span class="ashebrew"><big>אֶמְרָת</big></span><small><sup>[[H0565B]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'em.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he commanded  | <span class="ashebrew"><big>צִוָּ֣ה</big></span><small><sup>[[H6680]]</sup></small> &#8207;| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from days of  | <span class="ashebrew"><big>מִֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>ימֵי</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| antiquity  | <span class="ashebrew"><big>קֶ֔דֶם</big></span><small><sup>[[H6924H]]</sup></small> &#8207;| Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has torn down  | <span class="ashebrew"><big>הָרַ֖ס</big></span><small><sup>[[H2040]]</sup></small> &#8207;| ha.Ras<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has spared  | <span class="ashebrew"><big>חָמָ֑ל</big></span><small><sup>[[H2550]]</sup></small> &#8207;| cha.Mal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has caused to rejoice  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְשַׂמַּ֤ח</big></span><small><sup>[[H8055]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.sa.Mach<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עָלַ֙יִ</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an enemy  | <span class="ashebrew"><big>אוֹיֵ֔ב</big></span><small><sup>[[H0341]]</sup></small> &#8207;| 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has lifted up  | <span class="ashebrew"><big>הֵרִ֖ים</big></span><small><sup>[[H7311A]]</sup></small> &#8207;| he.Rim<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] horn of  | <span class="ashebrew"><big>קֶ֥רֶן</big></span><small><sup>[[H7161A]]</sup></small> &#8207;| Ke.ren<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| opponents your  | <span class="ashebrew"><big>צָרָֽיִ</big></span><small><sup>[[H6862C]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| tza.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.16|<< Lamentations 2:16]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.18|Lamentations 2:18 >>]]</td></tr></table>
+
+

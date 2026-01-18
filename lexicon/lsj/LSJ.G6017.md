@@ -1,0 +1,8 @@
+<span class="asgreek">διαχλευάζω</span> <small>***(diachleuazō)***</small> ==**to deride**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+Related to: <b> <span class='asgreek'>==διαχλευάζω==</span>-<span class='asgreek'>άζω</span></b>, 
+
+
+ (<span class='asgreek'>χλεύη</span>) <b>jest, scoff,</b> <span class='asgreek'>ἐπισκώπτων</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>παίζων</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>χ</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 376 (Lyric poetry); τοῖς καταγελῶσι καὶ χ. καὶ σκώπτουσι 4th c.BC: Aristoteles Philosophus “Rhetorica” 1379a29, compare 2nd c.BC: Polybius Historicus 4.3.13, 3rd c.BC: Cercidas Iambographus 18 ii 5, 1st c.BC: Philodemus Philosophus “περὶ παρρησίας” p.29 O., etc. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i>, <b>scoff, jeer at, treat scornfully,</b> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Eryxias” 397d, 4th c.BC: Demosthenes Orator 7.7, 19.23, 47.34, 2nd-3rd c.AD: Dio Cassius Historicus “fragment” 109.16; ἐμαυτὴν.. λέληθα ==διαχλευάζω==άζουσ᾽ 4th-3rd c.BC: Menander Comicus “Ἐπιτρέποντες” 215; with \_accusative\_ \_of things\_, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Romulus” 10, etc.">Refs 5th c.BC+</a>]:—<i>middle</i>, [<a href="javascript:void(0)" title=" [prev. author] “Brut.” 45 ">Refs</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Epicrates Comicus 11.31 (\_anapaest meter\_), 4th c.BC: Aristoteles Philosophus “Problemata” 952b22, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sertorius” 13, 25, 2.504f. ">Refs 4th c.BC+</a>]

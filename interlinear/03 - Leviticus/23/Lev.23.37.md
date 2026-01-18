@@ -1,0 +1,31 @@
+**Leviticus 23:37** 
+<small><sub>**KJV:**</sub></small>
+These [are] the feasts of the LORD, which ye shall proclaim [to be] holy convocations, to offer an offering made by fire unto the LORD, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:
+<small><sub>**BSB:**</sub></small>
+These are the LORD’s appointed feasts, which you are to proclaim as sacred assemblies for presenting food offerings to the LORD—burnt offerings and grain offerings, sacrifices and drink offerings, each on its designated day.
+<small><sub>**Literal:**</sub></small>
+these [are] [the] appointed feasts of Yahweh which you will proclaim \<obj.>  them convocations of holiness to  present a fire offering to  Yahweh a burnt offering and  a grain offering a sacrifice and  drink offerings a matter of a day in  day  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.36|<< Leviticus 23:36]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.38|Leviticus 23:38 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| these  | <span class="ashebrew"><big>אֵ֚לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] appointed feasts of  | <span class="ashebrew"><big>מוֹעֲדֵ֣י</big></span><small><sup>[[H4150H]]</sup></small> &#8207;| mo.'a.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will proclaim  | <span class="ashebrew"><big>תִּקְרְא֥וּ</big></span><small><sup>[[H7121I]]</sup></small> &#8207;| tik.re.'U<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אֹתָ֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| convocations of  | <span class="ashebrew"><big>מִקְרָאֵ֣י</big></span><small><sup>[[H4744]]</sup></small> &#8207;| mik.ra.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holiness  | <span class="ashebrew"><big>קֹ֑דֶשׁ</big></span><small><sup>[[H6944G]]</sup></small> &#8207;| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to present  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַקְרִ֨יב</big></span><small><sup>[[H7126H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hak.Riv<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire offering  | <span class="ashebrew"><big>אִשֶּׁ֜ה</big></span><small><sup>[[H0801]]</sup></small> &#8207;| 'i.Sheh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a burnt offering  | <span class="ashebrew"><big>עֹלָ֧ה</big></span><small><sup>[[H5930A]]</sup></small> &#8207;| 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a grain offering  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִנְחָ֛ה</big></span><small><sup>[[H4503G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sacrifice  | <span class="ashebrew"><big>זֶ֥בַח</big></span><small><sup>[[H2077]]</sup></small> &#8207;| Ze.vach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and drink offerings  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נְסָכִ֖ים</big></span><small><sup>[[H5262]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ne.sa.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a matter of  | <span class="ashebrew"><big>דְּבַר</big></span><small><sup>[[H1697N]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a day  | <span class="ashebrew"><big>י֥וֹם</big></span><small><sup>[[H3117J]]</sup></small> &#8207;| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in day its  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יוֹמֽ</big></span><small><sup>[[H3117J]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> yo.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.36|<< Leviticus 23:36]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.38|Leviticus 23:38 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**Leviticus 13:15** 
+<small><sub>**KJV:**</sub></small>
+And the priest shall see the raw flesh, and pronounce him to be unclean: [for] the raw flesh [is] unclean: it [is] a leprosy.
+<small><sub>**BSB:**</sub></small>
+When the priest sees the raw flesh, he must pronounce him unclean. The raw flesh is unclean; it is a skin disease.
+<small><sub>**Literal:**</sub></small>
+and  he will see the  priest \<obj.> the  flesh \<the>  living and  he will declare unclean  him the  flesh \<the>  living [is] unclean it [is] a serious skin disease it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.14|<< Leviticus 13:14]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.16|Leviticus 13:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will see  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>רָאָ֧ה</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ra.'Ah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֵ֛ן</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the flesh  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בָּשָׂ֥ר</big></span><small><sup>[[H1320]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> living  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חַ֖י</big></span><small><sup>[[H2416A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will declare unclean him  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>טִמְּא֑</big></span><small><sup>[[H2930A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ti.me.'<small><sup>[[HVpq3ms]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the flesh  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בָּשָׂ֥ר</big></span><small><sup>[[H1320]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> living  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חַ֛י</big></span><small><sup>[[H2416A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] unclean  | <span class="ashebrew"><big>טָמֵ֥א</big></span><small><sup>[[H2931]]</sup></small> &#8207;| ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>ה֖וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a serious skin disease  | <span class="ashebrew"><big>צָרַ֥עַת</big></span><small><sup>[[H6883]]</sup></small> &#8207;| tza.Ra.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>הֽוּא</big></span><small><sup>[[H1931]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.14|<< Leviticus 13:14]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.16|Leviticus 13:16 >>]]</td></tr></table>
+
+

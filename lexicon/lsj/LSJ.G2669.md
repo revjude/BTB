@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==καταπονέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>subdue</b>, [<a href="javascript:void(0)" title=" τῇ ἐνδείᾳ τῆς τροφῆς τὴν ἀλκὴν τοῦ θηρίου 1st c.BC: Diodorus Siculus Historicus 3.37, compare 1st c.AD(?): Heraclitus “Incred.” 11 ">Refs 1st c.BC+</a>]: in <i>future</i> <i>middle</i>, [<a href="javascript:void(0)" title=" τὰς ὀλίγας ναῦς ταῖς πολλαπλασίαις 1st c.BC: Diodorus Siculus Historicus 11.15 ">Refs 1st c.BC+</a>]; <b>worst</b> in a lawsuit, [<a href="javascript:void(0)" title=" “POxy.” 1101.9 (4th c.AD):">Refs 4th c.AD+</a>] —<i>passive</i>, <b>to be subdued, reduced, worn out</b>, [<a href="javascript:void(0)" title=" δῆμος -πεπονημένος 4th c.BC: Aeschines Orator 2.36, compare 2nd c.BC: Polybius Historicus 29.27.11, 1st c.BC: Diodorus Siculus Historicus 11.6; πάντα ταῖς ἐνδελεχείαις -πονεῖται πράγματα Menander Comicus [{4-3rd c.BC}] 744 ">Refs 4th c.BC+</a>]; <b>to be exhausted</b>, [<a href="javascript:void(0)" title=" τῷ θάλπει 2nd c.AD: Galenus Medicus 10.715 ">Refs 2nd c.AD+</a>]. 
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>handle roughly, crush, damage</b>, [<a href="javascript:void(0)" title=" τὰ -πονούμενα καὶ συμπατούμενα Theophrastus Philosophus [{4-3rd c.BC}] “Historia Plantarum” 8.7.5 ">Refs 3rd c.BC+</a>]; <b>maltreat, oppress</b>, especially in <i>passive</i>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>τυράννων</span>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>τελωνῶν</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “fragment” 575, “BGU” 1188.17 (Aug.), cf. NT.Acts.7.24, 2nd c.AD: Diogenes Oenoandensis Epicureus 1. ">NT+4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>digest</b> food, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 2.32 (\_passive\_). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> in <i>perfect</i> <i>participle</i> -<span class='asgreek'>πεπονηκώς</span> <b>ruinous</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Procopius Caesariensis Historicus “Aed.” 1.4, 8. ">Refs 6th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.7.24]]
+</sub></small>

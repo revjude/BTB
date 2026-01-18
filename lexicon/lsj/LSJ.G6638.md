@@ -1,0 +1,10 @@
+<span class="asgreek">ἀωρία</span> <small>***(aōria)***</small> ==**midnight**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀωρία==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>wrong time</b>: hence, <b>untimely fate</b> or <b>death,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 10.16; but ἀωρίη ">Refs 3rd c.AD+</a>]<b>old age,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 3.29">Refs 3rd c.BC+</a>]; <b>bad condition,</b> <span class='asgreek'>πραγμάτων</span>[<a href="javascript:void(0)" title=" 6th c.AD: Procopius Caesariensis Historicus “Historia Arcana” 14">Refs 6th c.AD+</a>]: <i>plural</i>, <span class='asgreek'>==ἀωρία==ι</span> <b>bad seasons,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.371b">Refs 1st c.AD+</a>]; <span class='asgreek'>==ἀωρία==</span> <b>midnight, dead of night,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pherecrates Comicus 6D., 2nd-3rd c.AD: Aelianus “Fragmenta” 81; in full, ἦν ἀ. τῆς νυκτὸς μεσούσης 4th c.AD: Alciphro Epistolographus 3.47: \_metaphorically\_, ἀωρίῃ τοῦ πρήγματος 2nd c.AD: Aretaeus Medicus “χρονίων νούσων θεραπευτικόν” 1.4">Refs 5th c.BC+</a>]; <b>darkness</b> (figure of <b>calamity</b>), probably in [<a href="javascript:void(0)" title=" LXX.Isa.59.9: \_accusative\_ as ">LXX</a>]<i>adverb</i>, <span class='asgreek'>==ἀωρία==ν</span> <span class='asgreek'>ἥκειν</span> to have come <b>too late,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 23">Refs 5th c.BC+</a>]; <span class='asgreek'>ποῦ</span> <span class='asgreek'>βαδίζεις</span> <span class='asgreek'>ἀωρί</span>; whither <b>so late ?</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Asin.” 24.">Refs 2nd c.AD+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Isa.59.9]]
+</sub></small>

@@ -1,0 +1,24 @@
+**2 Kings 11:16** 
+<small><sub>**KJV:**</sub></small>
+And they laid hands on her; and she went by the way by the which the horses came into the king’s house: and there was she slain.
+<small><sub>**BSB:**</sub></small>
+So they seized Athaliah as she reached the horses’ entrance to the palace grounds, and there she was put to death.
+<small><sub>**Literal:**</sub></small>
+and  they put to  her hands and  she went [the] way of [the] entrance of the  horses [the] house of the  king and  she was put to death there<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.15|<< 2 Kings 11:15]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.17|2 Kings 11:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they put  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּשִׂ֤מוּ</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Si.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to her  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הּ֙</big></span><small><sup>[[H9034]]</sup></small> &#8207;| la<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands  | <span class="ashebrew"><big>יָדַ֔יִם</big></span><small><sup>[[H3027G]]</sup></small> &#8207;| ya.Da.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תָּב֛וֹא</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] way of  | <span class="ashebrew"><big>דֶּֽרֶךְ</big></span><small><sup>[[H1870K]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.rekh-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] entrance of  | <span class="ashebrew"><big>מְב֥וֹא</big></span><small><sup>[[H3996]]</sup></small> &#8207;| me.Vo'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the horses  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>סּוּסִ֖ים</big></span><small><sup>[[H5483M]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> su.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֑לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she was put to death  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תּוּמַ֖ת</big></span><small><sup>[[H4191]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tu.Mat<small><sup>[[HVHw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָֽׁם</big></span><small><sup>[[H8033G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.15|<< 2 Kings 11:15]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.17|2 Kings 11:17 >>]]</td></tr></table>
+
+

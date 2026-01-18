@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==μαστιγόω==</span>-<span class='asgreek'>όω</span></b>, 
+
+
+ <i>optative</i> <span class='asgreek'>μαστιγοίην</span> (variant -<span class='asgreek'>οῖμι</span>) [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 2.157 ">Refs 4th c.BC+</a>]: <i>future</i> -<span class='asgreek'>ώσω</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.4.13 ">Refs 5th c.BC+</a>]: <i>aorist</i> -<span class='asgreek'>ωσα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.54 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <i>future</i> <span class='asgreek'>μαστιγωθήσομαι</span> [<a href="javascript:void(0)" title=" LXX.Ps.72.5, μαστιγώσομαι 5th-6th c.BC: Plato Philosophus “Respublica” 361e, “IG” 22.1362.9">LXX+5th c.BC+</a>]: <i>aorist</i> <i>participle</i> -<span class='asgreek'>ωθείς</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2.180 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]:—<b>whip, flog</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.114 (μαστιγέων codices), 3.16, 7.54; μυρίκῃ ἢ μαλάχῃ 2nd c.AD: Lucianus Sophista “Ind.” 3 ">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 1.18, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>πληγὰς</span> <span class='asgreek'>μαστιγούσθω</span> <b>let him be whipped</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 914b, compare 845a; ψυχῆς ἠσκημένης καὶ μεμαστιγωμένης 2nd c.AD: Maximus Tyrius Sophista 25.5. ">Refs 5th c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Ps.72.5]]
+</sub></small>

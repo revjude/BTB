@@ -1,0 +1,35 @@
+**Joshua 7:19** 
+<small><sub>**KJV:**</sub></small>
+And Joshua said unto Achan, My son, give, I pray thee, glory to the LORD God of Israel, and make confession unto him; and tell me now what thou hast done; hide [it] not from me.
+<small><sub>**BSB:**</sub></small>
+So Joshua said to Achan, “My son, give glory to the LORD, the God of Israel, and make a confession to Him. I urge you to tell me what you have done; do not hide it from me.”
+<small><sub>**Literal:**</sub></small>
+and  he said Joshua to Achan O son  my put please glory to  Yahweh [the] God of Israel and  give to \<the>  him confession and  tell please to \<the>  me what? have you done may not you hide [it] from  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.18|<< Joshua 7:18]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.20|Joshua 7:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֨אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joshua  | <span class="ashebrew"><big>יְהוֹשֻׁ֜עַ</big></span><small><sup>[[H3091G]]</sup></small> &#8207;| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Achan  | <span class="ashebrew"><big>עָכָ֗ן</big></span><small><sup>[[H5912]]</sup></small> &#8207;| 'a.Khan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O son my  | <span class="ashebrew"><big>בְּנִ</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| be.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| put  | <span class="ashebrew"><big>שִֽׂים</big></span><small><sup>[[H7760H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| sim-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָ֣א</big></span><small><sup>[[H4994]]</sup></small> &#8207;| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| glory  | <span class="ashebrew"><big>כָב֗וֹד</big></span><small><sup>[[H3519]]</sup></small> &#8207;| kha.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֛ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  | <span class="ashebrew"><big>אֱלֹהֵ֥י</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and give  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תֶן</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ten-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  | <span class="ashebrew"><big>ל֣</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| confession  | <span class="ashebrew"><big>תוֹדָ֑ה</big></span><small><sup>[[H8426]]</sup></small> &#8207;| to.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and tell  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַגֶּד</big></span><small><sup>[[H5046]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.ged-<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָ֥א</big></span><small><sup>[[H4994]]</sup></small> &#8207;| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> me  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  | <span class="ashebrew"><big>מֶ֣ה</big></span><small><sup>[[H4100]]</sup></small> &#8207;| meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have you done  | <span class="ashebrew"><big>עָשִׂ֔יתָ</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Si.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you hide [it]  | <span class="ashebrew"><big>תְּכַחֵ֖ד</big></span><small><sup>[[H3582]]</sup></small> &#8207;| te.kha.Ched<small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from me  | <span class="ashebrew"><big>מִמֶּֽ</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נִּי</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi.Me.<small><sup>[[HRd]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.18|<< Joshua 7:18]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.20|Joshua 7:20 >>]]</td></tr></table>
+
+

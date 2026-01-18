@@ -1,0 +1,27 @@
+**Isaiah 42:19** 
+<small><sub>**KJV:**</sub></small>
+Who [is] blind, but my servant? or deaf, as my messenger [that] I sent? who [is] blind as [he that is] perfect, and blind as the LORD’S servant?
+<small><sub>**BSB:**</sub></small>
+Who is blind but My servant, or deaf like the messenger I am sending? Who is blind like My covenant partner, or blind like the servant of the LORD?
+<small><sub>**Literal:**</sub></small>
+who? [is] blind that except servant  my and  deaf like  messenger  my [whom] I will send who? [is] blind like  [one] in a covenant and  blind like  [the] servant of Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.18|<< Isaiah 42:18]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.20|Isaiah 42:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| who?  | <span class="ashebrew"><big>מִ֤י</big></span><small><sup>[[H4310]]</sup></small> &#8207;| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] blind  | <span class="ashebrew"><big>עִוֵּר֙</big></span><small><sup>[[H5787]]</sup></small> &#8207;| 'i.Ver<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588B]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| except  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant my  | <span class="ashebrew"><big>עַבְדִּ֔</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'av.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and deaf  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֵרֵ֖שׁ</big></span><small><sup>[[H2795]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> che.Resh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like messenger my  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מַלְאָכִ֣</big></span><small><sup>[[H4397G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> mal.'a.Kh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [whom] I will send  | <span class="ashebrew"><big>אֶשְׁלָ֑ח</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| 'esh.Lach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  | <span class="ashebrew"><big>מִ֤י</big></span><small><sup>[[H4310]]</sup></small> &#8207;| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] blind  | <span class="ashebrew"><big>עִוֵּר֙</big></span><small><sup>[[H5787]]</sup></small> &#8207;| 'i.Ver<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [one] in a covenant  | <span class="ashebrew"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מְשֻׁלָּ֔ם</big></span><small><sup>[[H7999B]]</sup></small> &#8207;| ki<small><sup>[[HR]]</sup></small> m.shu.Lam<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and blind  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עִוֵּ֖ר</big></span><small><sup>[[H5787]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'i.Ver<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] servant of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֶ֥בֶד</big></span><small><sup>[[H5650]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> 'E.ved<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.18|<< Isaiah 42:18]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.20|Isaiah 42:20 >>]]</td></tr></table>
+
+

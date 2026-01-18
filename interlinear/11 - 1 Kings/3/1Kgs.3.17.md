@@ -1,0 +1,27 @@
+**1 Kings 3:17** 
+<small><sub>**KJV:**</sub></small>
+And the one woman said, O my lord, I and this woman dwell in one house; and I was delivered of a child with her in the house.
+<small><sub>**BSB:**</sub></small>
+One woman said, “Please, my lord, this woman and I live in the same house, and I gave birth while she was in the house.
+<small><sub>**Literal:**</sub></small>
+and  she said the  woman \<the>  one pardon me O lord  my I and  the  woman \<the>  this [are] dwelling in  a house one and  I gave birth with  her in the  house<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.16|<< 1 Kings 3:16]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.18|1 Kings 3:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּ֜אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the woman  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אִשָּׁ֤ה</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> one  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אַחַת֙</big></span><small><sup>[[H0259]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pardon me  | <span class="ashebrew"><big>בִּ֣י</big></span><small><sup>[[H0994]]</sup></small> &#8207;| bi<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O lord my  | <span class="ashebrew"><big>אֲדֹנִ֔</big></span><small><sup>[[H0113]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִי֙</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the woman  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אִשָּׁ֣ה</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֹּ֔את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] dwelling  | <span class="ashebrew"><big>יֹשְׁבֹ֖ת</big></span><small><sup>[[H3427]]</sup></small> &#8207;| yo.she.Vot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a house  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בַ֣יִת</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Va.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָ֑ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I gave birth  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֵלֵ֥ד</big></span><small><sup>[[H3205]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'e.Led<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with her  | <span class="ashebrew"><big>עִמָּ֖</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'i.Ma<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the house  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בָּֽיִת</big></span><small><sup>[[H1004B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.16|<< 1 Kings 3:16]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.18|1 Kings 3:18 >>]]</td></tr></table>
+
+

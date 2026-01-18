@@ -1,0 +1,12 @@
+<span class="asgreek">ἱππεύω</span> <small>***(hippeuō)***</small> ==**to ride horseback**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἱππεύω==</span>-<span class='asgreek'>εύω</span></b>, 
+
+
+ <b>to be a horseman</b> or <b>rider, ride</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.136, etc.; ἱ. ταῖς κυούσαις ἵπποις 4th c.BC: Aristoteles Philosophus “Historia Animalium” 576a21; ἱ. ἐπ᾽ ὄνου 2nd c.AD: Lucianus Sophista “Bacch.” 2 ">Refs 5th c.BC+</a>]; of a people, <span class='asgreek'>==ἱππεύω==εύει</span> <span class='asgreek'>ταῦτα</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἔθνη</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.84, compare 87 ">Refs 5th c.BC+</a>]:—also in <i>middle</i>, [<a href="javascript:void(0)" title=" [prev. author] 1.27, 79. ">Refs</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, of the wind, <span class='asgreek'>ζεφύρου</span> <span class='asgreek'>πνοαῖς</span> <span class='asgreek'>==ἱππεύω==εύσαντος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 212 (Lyric poetry); σελάνα ==ἱππεύω==εύουσα δι᾽ ὀρφναίας [prev. author] “Supp.” 994 (Lyric poetry)">Refs 5th c.BC+</a>]; also, <b>rush</b>, <span class='asgreek'>πρὸς</span> <span class='asgreek'>φόνον</span> [<a href="javascript:void(0)" title=" [prev. author] “HF” 1001. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>serve in the cavalry</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 14.7, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 3.1.4, 5th-6th c.BC: Plato Philosophus “Leges” 756b, etc. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> at Rome, <b>to be an eques</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 49.12 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>τὸ</span> -<span class='asgreek'>εῦον</span> the <b>ordo equester</b>, [<a href="javascript:void(0)" title=" [prev. author] 60.7. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_III</b> of a horse, as we say 'the horse <b>rides</b> (i.e. <b>carries his rider</b>) well', [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 1.6, 3.4, 10.3. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> <b>drive</b> a team, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 1406. ">Refs 5th c.BC+</a>]

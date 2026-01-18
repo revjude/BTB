@@ -1,0 +1,22 @@
+**Daniel 11:23** 
+<small><sub>**KJV:**</sub></small>
+And after the league [made] with him he shall work deceitfully: for he shall come up, and shall become strong with a small people.
+<small><sub>**BSB:**</sub></small>
+After an alliance is made with him, he will act deceitfully; for he will rise to power with only a few people.
+<small><sub>**Literal:**</sub></small>
+and  from when made an alliance with  him he will act deceit and  he will rise and  he will become mighty with  fewness of a nation<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.22|<< Daniel 11:22]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.24|Daniel 11:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and from when  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| made an alliance  | <span class="ashebrew"><big>הִֽתְחַבְּר֥וּת</big></span><small><sup>[[H2266]]</sup></small> &#8207;| hit.cha.be.Rut<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  | <span class="ashebrew"><big>אֵלָ֖י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will act  | <span class="ashebrew"><big>יַעֲשֶׂ֣ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deceit  | <span class="ashebrew"><big>מִרְמָ֑ה</big></span><small><sup>[[H4820]]</sup></small> &#8207;| mir.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will rise  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָלָ֥ה</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Lah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will become mighty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָצַ֖ם</big></span><small><sup>[[H6105A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Tzam<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with fewness of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְעַט</big></span><small><sup>[[H4592]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> m.'at-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a nation  | <span class="ashebrew"><big>גּֽוֹי</big></span><small><sup>[[H1471A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.22|<< Daniel 11:22]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.24|Daniel 11:24 >>]]</td></tr></table>
+
+

@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==ἀπελπίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <i>Attic dialect</i> <i>future</i> <b>-<span class='asgreek'>ιῶ</span></b>[<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 19.50: ">Refs 1st c.BC+</a>]<i>perfect</i> -<span class='asgreek'>ήλπικα</span>:—<b>despair of,</b> <span class='asgreek'>τῆς</span> <span class='asgreek'>πόλεως</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>σωτηρίαν</span>[<a href="javascript:void(0)" title=" 4th c.BC: Hyperides Orator “adv. Athenogenem” 35; τὸ μέλλον 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 3p.62U.; πράξεις 2nd c.BC: Polybius Historicus 1.19.12, etc.">Refs 4th c.BC+</a>]:—<i>passive</i>, <b>to be given up in despair,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>πράγματα</span>[<a href="javascript:void(0)" title=" [prev. author] 10.6.10 ">Refs</a>]; of persons, <b>to be despaired of,</b> <span class='asgreek'>οἱ</span> <span class='asgreek'>ἀπηλπισμένοι</span>[<a href="javascript:void(0)" title=" LXX.Isa.29.19, compare 2nd c.BC: Polybius Historicus 9.5.2; ὑπὸ τῶν ἰατρῶν 1st c.BC: Diodorus Siculus Historicus 1.25, 3rd c.AD(?): Diogenes Laertius 8.69, compare “IG” 14.966">LXX+2nd c.BC+</a>] (<span class='asgreek'>ἀφηλπ</span>-). 
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τινός</span> <b>despair of,</b>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.55.2, +others; ">Refs 2nd c.BC+</a>] <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τινός</span> <b>to be confident of,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 8.365; περὶ τῆς νίκης 1st c.BC: Diodorus Siculus Historicus 2.25. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>absolutely</i>, <b>hope</b> that a thing will <b>not</b> happen, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 1.59. ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> causal, <b>drive to despair,</b> <span class='asgreek'>τινά</span>[<a href="javascript:void(0)" title=" “Anthologia Graeca” 11.114 (1st c.AD: Nicarchus Epigrammaticus). ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>hope to receive back,</b> <span class='asgreek'>μηδὲν</span> (variant{<span class='asgreek'>μηδένα</span>}) <span class='asgreek'>==ἀπελπίζω==ίζοντες</span>[<a href="javascript:void(0)" title=" NT.Luke.6.35 (uncertain).">NT</a>]
+
+<small><sub>LSJ Scripture Refs: [[Isa.29.19]] ☩ [[Luke.6.35]]
+</sub></small>

@@ -1,0 +1,29 @@
+**1 Kings 8:21** 
+<small><sub>**KJV:**</sub></small>
+And I have set there a place for the ark, wherein [is] the covenant of the LORD, which he made with our fathers, when he brought them out of the land of Egypt.
+<small><sub>**BSB:**</sub></small>
+And there I have provided a place for the ark, which contains the covenant of the LORD that He made with our fathers when He brought them out of the land of Egypt.”
+<small><sub>**Literal:**</sub></small>
+and  I have set up there a place for the  ark where [is] there [the] covenant of Yahweh which he made with ancestors  our when  brought out  he \<obj.>  them from  [the] land of Egypt<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.20|<< 1 Kings 8:20]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.22|1 Kings 8:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I have set up  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָשִׂ֨ם</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.Sim<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֤ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a place  | <span class="ashebrew"><big>מָקוֹם֙</big></span><small><sup>[[H4725]]</sup></small> &#8207;| ma.kOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the ark  | <span class="ashebrew"><big>לָֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אָר֔וֹן</big></span><small><sup>[[H0727]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'a.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] there  | <span class="ashebrew"><big>שָׁ֖ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] covenant of  | <span class="ashebrew"><big>בְּרִ֣ית</big></span><small><sup>[[H1285]]</sup></small> &#8207;| be.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֤ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he made  | <span class="ashebrew"><big>כָּרַת֙</big></span><small><sup>[[H3772H]]</sup></small> &#8207;| ka.Rat<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors our  | <span class="ashebrew"><big>אֲבֹתֵ֔י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| 'a.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when brought out he  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הוֹצִיא֥</big></span><small><sup>[[H3318H]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ho.tzi.'<small><sup>[[HVhcc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אֹתָ֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] land of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֶ֥רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרָֽיִם</big></span><small><sup>[[H4714G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.20|<< 1 Kings 8:20]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.22|1 Kings 8:22 >>]]</td></tr></table>
+
+

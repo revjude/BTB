@@ -1,0 +1,13 @@
+<span class="asgreek">συναναφέρω</span> <small>***(sunanapherō)***</small> ==**to join in carrying off**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==συναναφέρω==</span>-<span class='asgreek'>φέρω</span></b>, 
+
+
+ <i>future</i> -<span class='asgreek'>ανοίσω</span> probably in [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]:— <b>carry up together</b>, [<a href="javascript:void(0)" title=" LXX.Gen.50.25; ἑαυτῷ τοὺς παχεῖς χυμούς 2nd c.AD: Galenus Medicus 15.634 ">LXX+2nd c.AD+</a>]:—<i>passive</i>, <b>to be carried up</b> or <b>ascend together with</b>, [<span class='asgreek'>ὁ</span> <span class='asgreek'>ἀὴρ</span>] <span class='asgreek'>σ</span>. <span class='asgreek'>τῷ</span>.. <span class='asgreek'>πυρί</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 341a7 ">Refs 4th c.BC+</a>]; <b>to be carried along with</b>, <span class='asgreek'>τῷ</span> <span class='asgreek'>αἵματι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus “Nat. Fac.” 2.2, compare [prev. author] 2.819">Refs 2nd c.AD+</a>]; <b>to be imparted</b> (to milk), [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.95 ">Refs 2nd c.AD+</a>]; <b>to be brought up to the surface</b>, of heat, [<a href="javascript:void(0)" title=" 1st c.AD: Herodotus Medicus cited in 4th c.AD: Oribasius Medicus 5.30.9. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> Astron., <b>rise with</b>, in <i>passive</i>, [<a href="javascript:void(0)" title=" 2nd c.BC: Hipparchus Astronomicus 2.3.30, 2nd c.AD: Vettius Valens Astrologus 6.10. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>bring up together with itself</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.451a">Refs 1st c.AD+</a>]; <span class='asgreek'>τὴ</span> <span class='asgreek'>ἀρχήν</span> <b>refer to</b> its origin <b>at the same time</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 5.32.4, compare 5th-6th c.AD: Damascius Philosophus “de Principiis” 64. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>certify at the same time</b>, <span class='asgreek'>συνανενηνοχέναι</span> <span class='asgreek'>τινὶ</span> <span class='asgreek'>συγχώρησιν</span> Mitteis [<a href="javascript:void(0)" title=" “Chr.” 31 iii 28 (2nd c.BC)">Refs 2nd c.BC+</a>]; <b>report</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>καθ᾽</span> <span class='asgreek'>ἓν</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" “PSI” 4.386.32 (3rd c.BC). ">Refs 3rd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Gen.50.25]]
+</sub></small>

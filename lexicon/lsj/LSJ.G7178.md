@@ -1,0 +1,9 @@
+<span class="asgreek">ἐλάτινος</span> <small>***(elatinos)***</small> ==**of fir**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐλάτινος==</span></b> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 
+
+
+ also <span class='asgreek'>ος</span>, <span class='asgreek'>ον</span> [<a href="javascript:void(0)" title=" 4th c.BC: Anaxilas Comicus 22.17 ">Refs 4th c.BC+</a>]: <i>Epic dialect</i> <b><span class='asgreek'>εἰλάτινος</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, as also [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Helena” 1461 (Lyric poetry), “Hec.” 632 (Lyric poetry)">Refs 5th c.BC+</a>]:— <b>of the fir</b>, <span class='asgreek'>ὄζοι</span> <span class='asgreek'>εἰ</span>. [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 14.289, compare 5th c.BC: Euripides Tragicus “Bacchae” 1070 ">Refs 8th c.BC+</a>]; <span class='asgreek'>ὕλα</span> <span class='asgreek'>εἰ</span>. [<a href="javascript:void(0)" title=" [prev. author] “Hec.” 632 ">Refs</a>]; [<span class='asgreek'>ῥητίνη</span>] [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 9.2.2; ξύλα “SIG” 135.11 (Olynthus, 4th c.BC). ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>made of fir</b> or <b>pine-wood</b>, <span class='asgreek'>ἱστὸς</span> <span class='asgreek'>εἰ</span>. [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 2.424; πλάται 5th c.BC: Euripides Tragicus “Helena” 1461, cf. Anaxil. [prev. cited] ">Refs 8th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>of the date inflorescence</b>, <span class='asgreek'>ἔλαιον</span> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.44. ">Refs 1st c.AD+</a>]

@@ -1,0 +1,21 @@
+**1 Samuel 30:27** 
+<small><sub>**KJV:**</sub></small>
+To [them] which [were] in Bethel, and to [them] which [were] in south Ramoth, and to [them] which [were] in Jattir,
+<small><sub>**BSB:**</sub></small>
+He sent gifts to those in Bethel, Ramoth Negev, and Jattir;
+<small><sub>**Literal:**</sub></small>
+for  [those] who [were] in  Beth- -el and  for  [those] who [were] in  Ramoth Negev and  for  [those] who [were] in  Jattir<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.26|<< 1 Samuel 30:26]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.28|1 Samuel 30:28 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for [those] who  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֧ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] in Beth-  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בֵֽית</big></span><small><sup>[[H1008H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> veit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -el  | <span class="ashebrew"><big>אֵ֛ל</big></span><small><sup>[[H1008H]]</sup></small> &#8207;| 'el<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for [those] who  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] in Ramoth  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רָמֽוֹת</big></span><small><sup>[[H7418H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ra.mot-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Negev  | <span class="ashebrew"><big>נֶ֖גֶב</big></span><small><sup>[[H5045G]]</sup></small> &#8207;| Ne.gev<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for [those] who  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] in Jattir  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יַתִּֽר</big></span><small><sup>[[H3492]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ya.Tir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.26|<< 1 Samuel 30:26]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.28|1 Samuel 30:28 >>]]</td></tr></table>
+
+

@@ -1,0 +1,13 @@
+<span class="asform"><span class="asgreek"><span class="asbold">ἀνα-δείκνυμι</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Hab.3.2|Hb 3:2]] (<span class="ashebrew">יָדַע</span> <small><sup>[[H3045]]</sup></small>), [[Dan.1.11|Da LXX 1:11]] (<span class="ashebrew">מָנָה</span> <small><sup>[[H4487]]</sup></small>), [[Dan.1.20|Da 1:20]] (<span class="ashebrew">מָצָא</span> <small><sup>[[H4672]]</sup></small>), I Es<span class="assubscript">6</span>, II, III Mac<span class="assubscript">9</span>\*;\]</span> </span>
+<span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to lift up and show</span>, <span class="asitalic">show forth</span>, <span class="asitalic">declare</span> (cf. [[2Macc.2.8|II Mac 2:8]], v. MM, <span class="asitalic">VGT</span>, s.v.): [[Acts.1.24|Ac 1:24]].</span>
+<span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to consecrate</span>, <span class="asitalic">set apart</span>, (Strab., Plut., Anth.): [[Luke.10.1|Lk 10:1]].†</span>
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Daniel | [[Dan.1.11\|1:11]] · [[Dan.1.20\|1:20]] |
+| Habakkuk | [[Hab.3.2\|3:2]] |
+| Luke | [[Luke.10.1\|10:1]] |
+| Acts | [[Acts.1.24\|1:24]] |
+

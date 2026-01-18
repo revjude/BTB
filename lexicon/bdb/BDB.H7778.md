@@ -1,0 +1,12 @@
+ <span class="bdbLangHebrew">‎שֹׁעֵר‎</span><sub>37</sub> **noun masculine** ==porter== (denominative from  <span class="bdbLangHebrew">‎שַׁעַר‎</span>); — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁוֺ‎</span> [[2Chr.31.14|2Chr 31:14]], construct <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שֹׁ‎</span> [[2Kgs.7.10|2Kgs 7:10]]; [[1Chr.9.21|1Chr 9:21]], + feminine <span class="bdbLangHebrew">‎שׁוֺעֶ֫רֶת‎</span> [[2Sam.4.6|2Sam 4:6]] (for [[BDB#MT|ᵑ0]] [<span class="bdbLangHebrew">‎וֺךְ‎</span>] <span class="bdbLangHebrew">‎בֹּאוּ עַד תּ‎</span>) [[BDB#We|We]] [[BDB#Dr|Dr]] [[BDB#HPS|HPS]] [[BDB#Bu|Bu]] [[BDB#Now|Now]] after [[BDB#Sept|ᵐ5]] ([[BDB#The|Th]] <span class="bdbLangHebrew">‎פְּקִידַת דֶּלֶת‎</span>); plural <span class="bdbLangHebrew">‎שֹׁעֲרִים‎</span> [[2Kgs.7.11|2Kgs 7:11]] +; construct <span class="bdbLangHebrew">‎שֹׁעֲרֵי‎</span> [[2Chr.23.4|2Chr 23:4]] — ***porter*** of city gate [[2Kgs.7.10|2Kgs 7:10]]; [[2Kgs.7.11|2Kgs 7:11]] ([[2Sam.18.26|2Sam 18:26]] read <span class="bdbLangHebrew">‎הַשַּׁעַר‎</span> [[BDB#Sept|ᵐ5]] [[BDB#Syr|ᵑ6]] [[BDB#Vg|ᵑ9]] [[BDB#The|Th]] [[BDB#We|We]] [[BDB#Dr|Dr]] and most); ***portress*** of house [[2Sam.4.6|2Sam 4:6]] (see above); elsewhere (34 t. Chronicles Ezra Nehemiah) of gate-keepers in sanctuary [[1Chr.9.17|1Chr 9:17]]; [[1Chr.9.18|1Chr 9:18]]; [[1Chr.9.24|1Chr 9:24]] +; 4,000 in number, [[1Chr.23.5|1Chr 23:5]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> <span class="bdbLangHebrew">‎פֶּתַח לְאֹהֶל מוֺעֵד‎</span> [[1Chr.9.21|1Chr 9:21]] <span class="bdbLangHebrew">‎שֹׁעֲרִים בַּסִּפִּים‎</span> v[[1Chr.9.22|1Chr 9:22]] <span class="bdbLangHebrew">‎לָאָרוֺן‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> [[1Chr.15.23|1Chr 15:23]]; [[1Chr.15.24|1Chr 15:24]] <span class="bdbLangHebrew">‎שֹׁעֲרֵי הַסִּפִּים‎</span> [[2Chr.23.4|2Chr 23:4]] <span class="bdbLangHebrew">‎בְּנֵי הַשֹּׁעֲרִים‎</span> [[Ezra.2.42|Ezra 2:42]]. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 2 Samuel | [[2Sam.4.6\|4:6]] · [[2Sam.18.26\|18:26]] |
+| 2 Kings | [[2Kgs.7.10\|7:10]] · [[2Kgs.7.11\|7:11]] |
+| 1 Chronicles | [[1Chr.9.17\|9:17]] · [[1Chr.9.18\|9:18]] · [[1Chr.9.21\|9:21]] · [[1Chr.9.22\|9:22]] · [[1Chr.9.24\|9:24]] · [[1Chr.15.23\|15:23]] · [[1Chr.15.24\|15:24]] · [[1Chr.23.5\|23:5]] |
+| 2 Chronicles | [[2Chr.23.4\|23:4]] · [[2Chr.31.14\|31:14]] |
+| Ezra | [[Ezra.2.42\|2:42]] |
+

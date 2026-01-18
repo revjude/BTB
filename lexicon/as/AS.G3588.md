@@ -1,0 +1,35 @@
+<span class="asform"><span class="asgreek"><span class="asbold">ὁ</span></span>, <span class="asgreek">ἡ, τό</span>,</span>  <span class="asgramGrp"><span class="aspos">the prepositive article</span> (<span class="asgreek">ἄρθρον προτακτικόν</span>), originally a demonstr. pron. (so usually in Hom.), in general corresponding to the Eng. definite article.</span>
+<span class="asbullet"><span class="asbold">I.</span> As demonstr. pron.</span>
+$\quad$ <span class="asbullet"><span class="asbold">1.</span> As freq. in Hom., absol., <span class="asitalic">he</span> (<span class="asitalic">she</span>, <span class="asitalic">it</span>), <span class="asitalic">his</span> (etc.): [[Acts.17.28|Ac 17:28]] (quoted from the poet Aratus).</span>
+$\quad$ <span class="asbullet"><span class="asbold">2.</span> Distributive, <span class="asgreek">ὁ μὲν . . . ὁ δέ</span>, <span class="asitalic">the one . . . the other</span>: [[1Cor.7.7|I Co 7:7]], [[Gal.4.22|Ga 4:22]]; pl., [[Acts.14.4|Ac 14:4]], [[Acts.17.32|17:32]], [[Phil.1.16|Phl 1:16]], al.; <span class="asgreek">οἱ μὲν . . . ἄλλοι δέ</span>, [[Matt.16.14|Mt 16:14]], [[John.7.12|Jo 7:12]]; <span class="asgreek">οἱ μεν̀ . . . ὁ</span> <span class="asgreek">δέ</span>, [[Heb.7.21|He 7:21]], [[Heb.7.23|23]].</span>
+$\quad$ <span class="asbullet"><span class="asbold">3.</span> In narration (without <span class="asgreek">ὁ μὲν</span> preceding), <span class="asgreek">ὁ δέ</span>, <span class="asitalic">but he</span>: [[Matt.2.14|Mt 2:14]], [[Mark.1.45|Mk 1:45]], [[Luke.8.21|Lk 8:21]], [[John.9.38|Jo 9:38]], al. mult.</span>
+<span class="asbullet"><span class="asbold">II.</span> As prepositive article, <span class="asitalic">the</span>, prefixed,</span>
+$\quad$ <span class="asbullet"><span class="asbold">1.</span> to nouns unmodified: <span class="asgreek">ὁ θεός</span>, <span class="asgreek">τὸ φῶς</span>, etc.; to abstract nouns, <span class="asgreek">ἡ σοφία</span>, etc., to pl. nouns which indicate a class, <span class="asgreek">οἱ ἀλώπεκες</span>, <span class="asitalic">foxes</span>, [[Matt.8.20|Mt 8:20]], al.; to an individual as representing a class, <span class="asgreek">ὁ ἐργάτης</span>, [[Luke.10.7|Lk 10:7]]; c. nom. = voc. in addresses, [[Matt.11.26|Mt 11:26]], [[John.19.3|Jo 19:3]], [[Jas.5.1|Ja 5:1]], al.; to things which pertain to one, <span class="asgreek">ἡ χεῖρ</span>, <span class="asitalic">his hand</span>, [[Mark.3.1|Mk 3:1]]; to names of persons well known or already mentioned; usually to names of countries (originally adjectives), <span class="asgreek">ἡ Ἰουδαία</span>, etc.</span>
+$\quad$ <span class="asbullet"><span class="asbold">2.</span> To modified nouns: c. pers. pron. gen., <span class="asgreek">μοῦ, σοῦ</span>, etc.; c. poss. pron., <span class="asgreek">ἐμός, σός</span>, etc.; c. adj. between the art. and the noun, <span class="asgreek">ὁ ἀγαθὸς ἄνθρωπος</span>, [[Matt.12.35|Mt 12:35]]; the noun foll. by adj., both c. art., <span class="asgreek">ὁ ποιμὴν ὁ καλός</span>, [[John.10.11|Jo 10:11]] (on <span class="asgreek">ὁ ὄχλος πολύς</span>, [[John.12.9|Jo 12:9]], v. M, <span class="asitalic">Pr.</span>, 84); before adjectival phrases, <span class="asgreek">ἡ κατ’ ἐκλογὴν πρόθεσις</span>, [[Rom.9.11|Ro 9:11]].</span>
+$\quad$ <span class="asbullet"><span class="asbold">3.</span> To Other parts of speech used as substantives;</span>
+$\quad$$\quad$ <span class="asbullet"><span class="asbold">(a)</span> neuter adjectives: <span class="asgreek">τ. ἀγαθόν</span>, etc.;</span>
+$\quad$$\quad$ <span class="asbullet"><span class="asbold">(b)</span> cardinal numerals: <span class="asgreek">ὁ εἶς, οἷ δύο</span>, etc.;</span>
+$\quad$$\quad$ <span class="asbullet"><span class="asbold">(c)</span> participles: <span class="asgreek">ὁ βαπτίζων</span> (= <span class="asgreek">ὁ Βαπτιστής</span>, [[Matt.14.2|Mt 14:2]]), [[Mark.6.14|Mk 6:14]]; <span class="asgreek">πᾶς ὁ</span>, c. ptcp., <span class="asitalic">every one who</span>, etc.;</span>
+$\quad$$\quad$ <span class="asbullet"><span class="asbold">(d)</span> adverbs: <span class="asgreek">τὸ πέραν</span>, <span class="asgreek">τὰ νῦν</span>, <span class="asgreek">ὁ ἔσω ἄνθρωπος</span>;</span>
+$\quad$$\quad$ <span class="asbullet"><span class="asbold">(e)</span> infinitives: nom., <span class="asgreek">τὸ θέλειν</span>, [[Rom.7.18|Ro 7:18]], al.; gen., <span class="asgreek">τοῦ</span>, after adjectives, <span class="asgreek">ἄξιον τοῦ πορεύεσθαι</span>, [[1Cor.16.4|I Co 16:4]]; verbs, <span class="asgreek">ἔλαχεν τοῦ θυμιᾶσαι</span>, [[Luke.1.9|Lk 1:9]]; and freq. in a final sense, <span class="asgreek">ἐξῆλθεν ὁ σπείρειν</span>, [[Matt.13.3|Mt 13:3]] (on the artic. inf., v. Bl., § 71).</span>
+$\quad$ <span class="asbullet"><span class="asbold">4.</span> In the neut. to sentences, phrases or single words treated as a quotation: <span class="asgreek">τὸ Ἐι δύνῃ</span>, [[Mark.9.23|Mk 9:23]]; <span class="asgreek">τὸ ἔτι ἅπαξ</span>, [[Heb.12.27|He 12:27]]; <span class="asgreek">τὸ ἀνέβη</span>, [[Eph.4.9|Eph 4:9]], al.</span>
+$\quad$ <span class="asbullet"><span class="asbold">5.</span> To prepositional phrases: <span class="asgreek">οἱ ἀπὸ Ἰταλίας</span>, [[Heb.13.24|He 13:24]]; <span class="asgreek">οἱ ἐκ νόμου</span>, [[Rom.4.14|Ro 4:14]]; neut. acc. absol., in adverbial phrases, <span class="asgreek">τὸ καθ’ ἡμέραν</span>, <span class="asitalic">daily</span>, [[Luke.11.3|Lk 11:3]]; <span class="asgreek">τὸ κατὰ σάρκα</span>, <span class="asitalic">as regards the flesh</span>, [[Rom.9.5|Ro 9:5]].</span>
+$\quad$ <span class="asbullet"><span class="asbold">6.</span> To nouns in the genitive, denoting kinship, association, etc.: <span class="asgreek">ὁ τοῦ</span>, <span class="asitalic">the son of</span> (unless context indicates a different relationship), [[Matt.10.2|Mt 10:2]], al.; <span class="asgreek">τὰ τοῦ θεοῦ</span>, <span class="asitalic">the things that pertain to God</span>, [[Matt.16.23|Mt 16:23]]; <span class="asgreek">τὰ τῆς εἰρήνης</span>, [[Rom.14.19|Ro 14:19]] (cf. M, <span class="asitalic">Pr.</span>, 81 ff.; Bl, §§ 46, 47).</span>
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Matthew | [[Matt.2.14\|2:14]] · [[Matt.8.20\|8:20]] · [[Matt.10.2\|10:2]] · [[Matt.11.26\|11:26]] · [[Matt.12.35\|12:35]] · [[Matt.13.3\|13:3]] · [[Matt.14.2\|14:2]] · [[Matt.16.14\|16:14]] · [[Matt.16.23\|16:23]] |
+| Mark | [[Mark.1.45\|1:45]] · [[Mark.3.1\|3:1]] · [[Mark.6.14\|6:14]] · [[Mark.9.23\|9:23]] |
+| Luke | [[Luke.1.9\|1:9]] · [[Luke.8.21\|8:21]] · [[Luke.10.7\|10:7]] · [[Luke.11.3\|11:3]] |
+| John | [[John.7.12\|7:12]] · [[John.9.38\|9:38]] · [[John.10.11\|10:11]] · [[John.12.9\|12:9]] · [[John.19.3\|19:3]] |
+| Acts | [[Acts.14.4\|14:4]] · [[Acts.17.28\|17:28]] · [[Acts.17.32\|17:32]] |
+| Romans | [[Rom.4.14\|4:14]] · [[Rom.7.18\|7:18]] · [[Rom.9.5\|9:5]] · [[Rom.9.11\|9:11]] · [[Rom.14.19\|14:19]] |
+| 1 Corinthians | [[1Cor.7.7\|7:7]] · [[1Cor.16.4\|16:4]] |
+| Galatians | [[Gal.4.22\|4:22]] |
+| Ephesians | [[Eph.4.9\|4:9]] |
+| Philippians | [[Phil.1.16\|1:16]] |
+| Hebrews | [[Heb.7.21\|7:21]] · [[Heb.7.23\|7:23]] · [[Heb.12.27\|12:27]] · [[Heb.13.24\|13:24]] |
+| James | [[Jas.5.1\|5:1]] |
+

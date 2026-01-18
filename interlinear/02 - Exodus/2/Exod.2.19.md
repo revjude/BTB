@@ -1,0 +1,26 @@
+**Exodus 2:19** 
+<small><sub>**KJV:**</sub></small>
+And they said, An Egyptian delivered us out of the hand of the shepherds, and also drew [water] enough for us, and watered the flock.
+<small><sub>**BSB:**</sub></small>
+“An Egyptian rescued us from the shepherds,” they replied. “He even drew water for us and watered the flock.”
+<small><sub>**Literal:**</sub></small>
+and  they said a man Egyptian he rescued  us from  [the] hand of the  shepherds and  also carefully \<to draw> he drew for \<the>  us and  he watered \<obj.> the  flock<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.18|<< Exodus 2:18]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.20|Exodus 2:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּאמַ֕רְןָ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> to.Mar.na<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  | <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egyptian  | <span class="ashebrew"><big>מִצְרִ֔י</big></span><small><sup>[[H4713]]</sup></small> &#8207;| mitz.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he rescued us  | <span class="ashebrew"><big>הִצִּילָ֖</big></span><small><sup>[[H5337]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| hi.tzi.La.<small><sup>[[HVhp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] hand of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יַּ֣ד</big></span><small><sup>[[H3027H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the shepherds  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רֹעִ֑ים</big></span><small><sup>[[H7462B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ro.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גַם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| carefully \<to draw>  | <span class="ashebrew"><big>דָּלֹ֤ה</big></span><small><sup>[[H1802]]</sup></small> &#8207;| da.Loh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he drew  | <span class="ashebrew"><big>דָלָה֙</big></span><small><sup>[[H1802]]</sup></small> &#8207;| da.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> us  | <span class="ashebrew"><big>לָ֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| La.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he watered  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֖שְׁקְ</big></span><small><sup>[[H8248G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yashk<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the flock  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צֹּֽאן</big></span><small><sup>[[H6629G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.18|<< Exodus 2:18]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.20|Exodus 2:20 >>]]</td></tr></table>
+
+

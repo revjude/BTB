@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ὅριον==</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ ={<span class='asgreek'>ὅρος</span>}, <i>diminutive</i> only in form, <b>boundary, limit,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “κατ᾽ ἰητρεῖον” 3, “Schwyzer” 664.4 (Orchom. 4th c.AD(?): Arcadius Grammaticus, 4th c.BC), “epigram Gr.” 978.12 (from Philae), “POxy.” 2134.18 (2nd c.AD)">Refs 5th c.BC+</a>]: mostly in <i>plural</i>, <b>boundaries, bounds, frontier,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Troades” 375, 4th c.BC: Demosthenes Orator 18.230, “PCair.Zen.” 251.3 (3rd c.BC), “Supp.epigram” 3.378 B 11 (Delph., 2nd-1st c.BC) ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ὁ</span>. on <b>the frontier,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 2.12, 5th-6th c.BC: Andocides Orator 1.45 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ὅρια</span> <span class='asgreek'>κελεύθου</span> <b>limits</b> of a road, i.e. the road itself, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 721 (uncertain); μὴ κινείτω γῆς ὅ. μηδείς 5th-6th c.BC: Plato Philosophus “Leges” 842e ">Refs 5th c.BC+</a>]; <b>territories,</b> [<a href="javascript:void(0)" title=" LXX.Exod.10.4, +others ">LXX</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> Astrology texts, a subdivision of a zodiacal sign, appropriated to a planet, [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 43, 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 5.37, “PMag.Lond.” 46.48, “PTeb.” 277.15, 4th c.AD: Hephaestio Astrologus 1.1, 4th c.AD(?): Manetho Astrologus 2.166, 4.265. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>plural</i>, <b>rules,</b> e.g. for the use of wine, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ὑγρῶν χρήσιος” 5. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>==ὅριον==</span>· <span class='asgreek'>τείχισμα</span>, <span class='asgreek'>φραγμόν</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus; so ὅρια καὶ σταυρώματα 5th c.BC: Thucydides Historicus 6.74 (restored from Scholia). ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.10.4]]
+</sub></small>

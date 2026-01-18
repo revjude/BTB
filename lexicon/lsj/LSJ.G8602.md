@@ -1,0 +1,10 @@
+<span class="asgreek">παραβλέπω</span> <small>***(parablepō)***</small> ==**to look over**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==παραβλέπω==</span>-<span class='asgreek'>βλέπω</span></b>, 
+
+
+ <b>look aside, take a side look</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 411 ">Refs 5th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>θατέρῳ</span> (i.e. <span class='asgreek'>ὀφθαλμῷ</span>) <b>look suspiciously</b> with one eye, [<a href="javascript:void(0)" title=" [prev. author] “V.” 497 ">Refs</a>] (also, <b>peep out of the corner of</b> one's eye, [<a href="javascript:void(0)" title=" [prev. author] “Ec.” 498)">Refs</a>]; opposed to <span class='asgreek'>ἀτενίζω</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 343b13 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τῷ</span> <span class='asgreek'>ὀφθαλμῷ</span> <span class='asgreek'>π</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>δεινὸν</span> <span class='asgreek'>δέδορκε</span> <b>looked askance</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Nicostratus Philosophus cited in 5th c.AD: Stobaeus, Joannes 4.22.102. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>see wrong</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Nec.” 1. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>overlook</b>, <span class='asgreek'>τί</span> <span class='asgreek'>τἀλλότριον</span>.. <span class='asgreek'>κακὸν</span> <span class='asgreek'>ὀξυδερκεῖς</span>, <span class='asgreek'>τὸ</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἴδιον</span> <span class='asgreek'>==παραβλέπω==βλέπεις</span> <b>;</b> [<a href="javascript:void(0)" title=" Comica Adespota 359, compare 2nd c.BC: Polybius Historicus 6.46.6. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>despise</b>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus see at {ὑπερορᾷ}. ">Refs 5th c.AD+</a>]

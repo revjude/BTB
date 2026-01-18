@@ -1,0 +1,16 @@
+
+<b> <span class='asgreek'>==καθέδρα==</span>-<span class='asgreek'>α</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>seat</b>, <span class='asgreek'>κ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>λαγῶ</span> a hare's <b>seat</b> or <b>form</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 4.4 ">Refs 5th c.BC+</a>]; <b>chair</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Herodotus Medicus cited in 4th c.AD: Oribasius Medicus 6.25.1, “CPR” 22.8 (2nd c.AD), 2nd c.AD: Herodianus Grammaticus 2.3.7 ">Refs 1st c.AD+</a>]; opposed to <span class='asgreek'>κλίνη</span>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.714e">Refs 1st c.AD+</a>]; of rowers' <b>seats</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.21.2 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>λοιμῶν</span>, <span class='asgreek'>πρεσβυτέρων</span>, [<a href="javascript:void(0)" title=" LXX.Ps.1.1, 106(107).32. ">LXX</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>sitting part, posteriors</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ τῶν ἐντὸς παθῶν” 47, 2nd c.AD(?): Pollianus Epigrammaticus 2.184, “PRyl.” 63.10 (3rd c.AD). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>base</b> of a column, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 17.1.46. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>sitting posture</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Categoriae” 6b11, “PA” 689b21, 4th-3rd c.BC: Theophrastus Philosophus “de Lassitudine” 5, 7, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.45c, etc. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>sitting idle, inaction</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>==καθέδρα==ᾳ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 2.18; κ. καὶ σχολή 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Camillus” 28. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>session</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “JTr.” 11. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>chair</b> of a teacher, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>Μωυσέως</span> <span class='asgreek'>κ</span>. <span class='asgreek'>ἐκάθισαν</span> [<a href="javascript:void(0)" title=" NT.Matt.23.2 ">NT</a>]; <b>professorial chair</b>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>κ</span>. <span class='asgreek'>σοφιστής</span> [<a href="javascript:void(0)" title=" “SIG” 845 (Eleusis, 3rd c.AD). ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> imperial <b>throne</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>Αὐτοκράτορος</span>, the Emperor's representative, [<a href="javascript:void(0)" title=" “BSA” 27.234 (Sparta, 2nd c.AD). ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Ps.1.1]] ☩ [[Matt.23.2]]
+</sub></small>

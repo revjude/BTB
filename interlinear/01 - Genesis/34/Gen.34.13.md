@@ -1,0 +1,28 @@
+**Genesis 34:13** 
+<small><sub>**KJV:**</sub></small>
+And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:
+<small><sub>**BSB:**</sub></small>
+But because Shechem had defiled their sister Dinah, Jacob’s sons answered him and his father Hamor deceitfully.
+<small><sub>**Literal:**</sub></small>
+and  they answered [the] sons of Jacob \<obj.> Shechem and  \<obj.> Hamor father  his with  deceit and  they spoke that he had defiled \<obj.> Dinah sister  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.12|<< Genesis 34:12]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.14|Genesis 34:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they answered  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעֲנ֨וּ</big></span><small><sup>[[H6030B]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  | <span class="ashebrew"><big>בְנֵֽי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֜ב</big></span><small><sup>[[H3290]]</sup></small> &#8207;| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shechem  | <span class="ashebrew"><big>שְׁכֶ֨ם</big></span><small><sup>[[H7927H]]</sup></small> &#8207;| she.Khem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hamor  | <span class="ashebrew"><big>חֲמ֥וֹר</big></span><small><sup>[[H2544]]</sup></small> &#8207;| cha.Mor<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  | <span class="ashebrew"><big>אָבִ֛י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with deceit  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִרְמָ֖ה</big></span><small><sup>[[H4820]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mir.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they spoke  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְדַבֵּ֑רוּ</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.da.Be.ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had defiled  | <span class="ashebrew"><big>טִמֵּ֔א</big></span><small><sup>[[H2930A]]</sup></small> &#8207;| ti.Me'<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֖ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Dinah  | <span class="ashebrew"><big>דִּינָ֥ה</big></span><small><sup>[[H1783]]</sup></small> &#8207;| di.Nah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sister their  | <span class="ashebrew"><big>אֲחֹתָֽ</big></span><small><sup>[[H0269]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.cho.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.12|<< Genesis 34:12]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.14|Genesis 34:14 >>]]</td></tr></table>
+
+

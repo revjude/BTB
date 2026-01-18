@@ -1,0 +1,22 @@
+**Isaiah 1:25** 
+<small><sub>**KJV:**</sub></small>
+And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:
+<small><sub>**BSB:**</sub></small>
+I will turn My hand against you; I will thoroughly purge your dross; I will remove all your impurities.
+<small><sub>**Literal:**</sub></small>
+and  I will turn hand  my on  you so  I may refine like \<the>  potash dross\<es>  your and  I will remove all slag\<s>  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.24|<< Isaiah 1:24]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.26|Isaiah 1:26 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will turn  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אָשִׁ֤יבָה</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Shi.vah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand my  | <span class="ashebrew"><big>יָדִ</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ya.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עָלַ֔יִ</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so I may refine  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶצְרֹ֥ף</big></span><small><sup>[[H6884]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'etz.Rof<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> potash  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>בֹּ֖ר</big></span><small><sup>[[H1253]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dross\<es> your  | <span class="ashebrew"><big>סִיגָ֑יִ</big></span><small><sup>[[H5509]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| si.Ga.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will remove  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אָסִ֖ירָה</big></span><small><sup>[[H5493G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Si.rah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| slag\<s> your  | <span class="ashebrew"><big>בְּדִילָֽיִ</big></span><small><sup>[[H0913]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.di.La.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.24|<< Isaiah 1:24]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.26|Isaiah 1:26 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**Malachi 4:2** (3:20)
+<small><sub>**KJV:**</sub></small>
+But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.
+<small><sub>**BSB:**</sub></small>
+“But for you who fear My name, the sun of righteousness will rise with healing in its wings, and you will go out and leap like calves from the stall.
+<small><sub>**Literal:**</sub></small>
+and  it will rise for  you [those] fearing \<of> name  my a sun of righteousness and  healing [will be] in  wings  its and  you will go out and  you will skip like  calves of [the] stall<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.1|<< Malachi 4:1]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.3|Malachi 4:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will rise  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>זָרְחָ֨ה</big></span><small><sup>[[H2224]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> za.re.Chah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֜ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] fearing  | <span class="ashebrew"><big>יִרְאֵ֤י</big></span><small><sup>[[H3373]]</sup></small> &#8207;| yir.'Ei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> name my  | <span class="ashebrew"><big>שְׁמִ</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| she.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sun of  | <span class="ashebrew"><big>שֶׁ֣מֶשׁ</big></span><small><sup>[[H8121]]</sup></small> &#8207;| She.mesh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  | <span class="ashebrew"><big>צְדָקָ֔ה</big></span><small><sup>[[H6666]]</sup></small> &#8207;| tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and healing  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַרְפֵּ֖א</big></span><small><sup>[[H4832]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mar.Pe'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] in wings its  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כְנָפֶ֑י</big></span><small><sup>[[H3671]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> kh.na.Fei.<small><sup>[[HNcfdc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will go out  | <span class="ashebrew"><big>וִֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יצָאתֶ֥ם</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| vi.<small><sup>[[Hc]]</sup></small> tza.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will skip  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>פִשְׁתֶּ֖ם</big></span><small><sup>[[H6335A]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> fish.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like calves of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֶגְלֵ֥י</big></span><small><sup>[[H5695]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> 'eg.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] stall  | <span class="ashebrew"><big>מַרְבֵּֽק</big></span><small><sup>[[H4770]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mar.Bek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.1|<< Malachi 4:1]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.3|Malachi 4:3 >>]]</td></tr></table>
+
+

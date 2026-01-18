@@ -1,0 +1,15 @@
+ [<span class="bdbLangHebrew">‎אָמַל‎</span>] **verb** ==be weak, languish== (compare Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIQAhAIAAAAAAAP///yH5BAAAAAAALAAAAAAhACEAAAJjjI+py+0PYwIygnurxVTv7jmcBD6jeKKYWorhC8faGrYGV2abok8204MEUbMfzwgkIRdD4PK4a7SaTCTt9jxQcdosNocDNW3c8DUwHVO46GGa2RX63rK2r9424/Opfca7F1IAADs="> ***hope, expect***). **Qal** ***Participle*** passive feminine <span class="bdbLangHebrew">‎מָה אֲמֻלָה‎</span> <span class="bdbLangHebrew">‎לִכָּתֵךְ‎</span> ***how weak is thy heart!*** [[Ezek.16.30|Ezek 16:30]] (but &lt; [[BDB#Co|Co]] <span class="bdbLangHebrew">‎מַהלִּֿי וְלִבְרִיתֵח‎</span>); **Pu\`lal** ***Perfect*** <span class="bdbLangHebrew">‎אֻמְלַל‎</span> [[Joel.1.10|Joel 1:10]] +; <span class="bdbLangHebrew">‎אֻמְלְלָה‎</span> [[Isa.33.9|Isa 33:9]] +; <span class="bdbLangHebrew">‎אֻמְלְלוּ‎</span> [[Jer.14.2|Jer 14:2]] etc.; — ***be*** or ***grow feeble, languish***; of loss of fertility (woman) [[1Sam.2.5|1Sam 2:5]]; [[Jer.15.19|Jer 15:19]] of fisherman whose trade fails [[Isa.19.8|Isa 19:8]] \|\| <span class="bdbLangHebrew">‎אנה‎</span>, <span class="bdbLangHebrew">‎אבל‎</span>); in genl. of inhabitants of smitten land [[Hos.4.3|Hos 4:3]] (\|\| <span class="bdbLangHebrew">‎תֶּאֱבַל הָאָרֶץ‎</span>); [[Isa.24.4|Isa 24:4]] compare below usually subject inanimate, personified; <span class="bdbLangHebrew">‎שַׁדְמוֺת‎</span> <span class="bdbLangHebrew">‎חֶשְׁבּוֺן‎</span> [[Isa.16.8|Isa 16:8]] compare [[Nah.1.4|Nah 1:4]] (twice in verse); <span class="bdbLangHebrew">‎תֵּבֵל‎</span> [[Isa.24.4|Isa 24:4]] (\|\| <span class="bdbLangHebrew">‎נבל‎</span>, <span class="bdbLangHebrew">‎אבל‎</span>); <span class="bdbLangHebrew">‎אֶרֶץ‎</span> [[Isa.33.9|Isa 33:9]] (\|\| <span class="bdbLangHebrew">‎אבל‎</span>); subject <span class="bdbLangHebrew">‎גֶּפֶן‎</span> [[Isa.24.7|Isa 24:7]] (\|\| <span class="bdbLangHebrew">‎אָבַל תִּירוֺשׁ‎</span>; <span class="bdbLangHebrew">‎יִצְּהָר‎</span> [[Joel.1.10|Joel 1:10]] (\|\| <span class="bdbLangHebrew">‎שׁדד‎</span>, <span class="bdbLangHebrew">‎אבל‎</span>, <span class="bdbLangHebrew">‎הובישׁ‎</span>; kindred subject); <span class="bdbLangHebrew">‎תְּאֵנָה‎</span> v[[Joel.1.12|Joel 1:12]] (\|\| <span class="bdbLangHebrew">‎הַגֶּפֶן הוֺבִישָׁה‎</span>); <span class="bdbLangHebrew">‎שְׁעָרִים‎</span> [[Jer.14.2|Jer 14:2]] (\|\| <span class="bdbLangHebrew">‎אָֽבְלָה‎</span> <span class="bdbLangHebrew">‎יְהוּדָה‎</span>); compare [[Lam.2.8|Lam 2:8]] <span class="bdbLangHebrew">‎וַיַּאֲבֶלחֵֿל וְחוֺמָה יַחְדָּו אֻמְלָ֑לוּ‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 1 Samuel | [[1Sam.2.5\|2:5]] |
+| Isaiah | [[Isa.16.8\|16:8]] · [[Isa.19.8\|19:8]] · [[Isa.24.4\|24:4]] · [[Isa.24.7\|24:7]] · [[Isa.33.9\|33:9]] |
+| Jeremiah | [[Jer.14.2\|14:2]] · [[Jer.15.19\|15:19]] |
+| Lamentations | [[Lam.2.8\|2:8]] |
+| Ezekiel | [[Ezek.16.30\|16:30]] |
+| Hosea | [[Hos.4.3\|4:3]] |
+| Joel | [[Joel.1.10\|1:10]] · [[Joel.1.12\|1:12]] |
+| Nahum | [[Nah.1.4\|1:4]] |
+

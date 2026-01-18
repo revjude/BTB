@@ -1,0 +1,35 @@
+**Jeremiah 51:27** 
+<small><sub>**KJV:**</sub></small>
+Set ye up a standard in the land, blow the trumpet among the nations, prepare the nations against her, call together against her the kingdoms of Ararat, Minni, and Ashchenaz; appoint a captain against her; cause the horses to come up as the rough caterpillers.
+<small><sub>**BSB:**</sub></small>
+“Raise a banner in the land! Blow the ram’s horn among the nations! Prepare the nations against her. Summon the kingdoms against her—Ararat, Minni, and Ashkenaz. Appoint a captain against her; bring up horses like swarming locusts.
+<small><sub>**Literal:**</sub></small>
+lift up a standard in the  land blow a trumpet among the  nations consecrate on  it nations summon on  it [the] kingdoms of Ararat Minni and  Ashkenaz appoint on  it an official bring up horse[s] like  a locust bristly<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.26|<< Jeremiah 51:26]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.28|Jeremiah 51:28 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| lift up  | <span class="ashebrew"><big>שְׂאוּ</big></span><small><sup>[[H5375G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| se.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a standard  | <span class="ashebrew"><big>נֵ֣ס</big></span><small><sup>[[H5251H]]</sup></small> &#8207;| nes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the land  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָ֗רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blow  | <span class="ashebrew"><big>תִּקְע֨וּ</big></span><small><sup>[[H8628]]</sup></small> &#8207;| tik.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a trumpet  | <span class="ashebrew"><big>שׁוֹפָ֤ר</big></span><small><sup>[[H7782]]</sup></small> &#8207;| sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the nations  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גּוֹיִם֙</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| consecrate  | <span class="ashebrew"><big>קַדְּשׁ֤וּ</big></span><small><sup>[[H6942J]]</sup></small> &#8207;| ka.de.Shu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלֶ֙י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ֙</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  | <span class="ashebrew"><big>גּוֹיִ֔ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| summon  | <span class="ashebrew"><big>הַשְׁמִ֧יעוּ</big></span><small><sup>[[H8085I]]</sup></small> &#8207;| hash.Mi.'u<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלֶ֛י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kingdoms of  | <span class="ashebrew"><big>מַמְלְכ֥וֹת</big></span><small><sup>[[H4467]]</sup></small> &#8207;| mam.le.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ararat  | <span class="ashebrew"><big>אֲרָרַ֖ט</big></span><small><sup>[[H0780]]</sup></small> &#8207;| 'a.ra.Rat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Minni  | <span class="ashebrew"><big>מִנִּ֣י</big></span><small><sup>[[H4508]]</sup></small> &#8207;| mi.Ni<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ashkenaz  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַשְׁכְּנָ֑ז</big></span><small><sup>[[H0813H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ash.ke.Naz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| appoint  | <span class="ashebrew"><big>פִּקְד֤וּ</big></span><small><sup>[[H6485J]]</sup></small> &#8207;| pik.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלֶ֙י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ֙</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an official  | <span class="ashebrew"><big>טִפְסָ֔ר</big></span><small><sup>[[H2951]]</sup></small> &#8207;| tif.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bring up  | <span class="ashebrew"><big>הַֽעֲלוּ</big></span><small><sup>[[H5927J]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ha.'a.lu-<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horse[s]  | <span class="ashebrew"><big>ס֖וּס</big></span><small><sup>[[H5483M]]</sup></small> &#8207;| sus<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a locust  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>יֶ֥לֶק</big></span><small><sup>[[H3218]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> Ye.lek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bristly  | <span class="ashebrew"><big>סָמָֽר</big></span><small><sup>[[H5569]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| sa.Mar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.26|<< Jeremiah 51:26]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.28|Jeremiah 51:28 >>]]</td></tr></table>
+
+

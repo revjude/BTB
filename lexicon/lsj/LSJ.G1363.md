@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==διπλόω==</span>-<span class='asgreek'>όω</span></b>, 
+
+
+ <b>repeat</b> a process, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Posteriora” 91a21 ">Refs 4th c.BC+</a>]; <b>double,</b> <span class='asgreek'>τρίβωνα</span>, of philosophers, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 6.22 ">Refs 3rd c.AD+</a>]; <b>multiply by two,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 159.27 ">Refs 2nd c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>ἐδεδίπλωτο</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>φάλαγξ</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 6.5.19 ">Refs 5th c.BC+</a>]; of swords, <b>to be bent double,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Camillus” 41 ">Refs 1st c.AD+</a>]; of a bow-string, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Achilles Tatius Astronomus 3.8 ">Refs 3rd c.AD+</a>]; of fevers (compare <span class='asgreek'>==διπλόω==οῦς</span>), [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 7.472">Refs 2nd c.AD+</a>]; <span class='asgreek'>δε==διπλόω==ωμένον</span> <span class='asgreek'>ἔμβρυον</span>, of position of foetus at birth, Aspasia cited in [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 16.22, compare 2nd c.AD: Soranus Medicus 2.55. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>repay twofold,</b> <span class='asgreek'>δ</span>. <span class='asgreek'>==διπλόω==ᾶ</span> <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἔργα</span> <span class='asgreek'>αὐτῆς</span> [<a href="javascript:void(0)" title=" NT.Rev.18.6. ">NT</a>]
+
+<small><sub>LSJ Scripture Refs: [[Rev.18.6]]
+</sub></small>

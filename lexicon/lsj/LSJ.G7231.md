@@ -1,0 +1,7 @@
+<span class="asgreek">ἐνεῖδον</span> <small>***(eneidon)***</small> ==**to see in**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐνεῖδον==</span></b>, 
+
+
+ <i>aorist 2</i> with no <i>present</i> in use, <span class='asgreek'>ἐνοράω</span> being used instead, <b>see</b> or <b>observe in,</b> <span class='asgreek'>τι</span> <span class='asgreek'>ἔν</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.95; τί τινι 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.7.45 ">Refs 5th c.BC+</a>]: with <i>accusative</i>, <b>observe, remark,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Philoctetes” 854 (Lyric poetry)">Refs 5th c.BC+</a>]: with <i>participle</i>, <span class='asgreek'>πλέον</span> <span class='asgreek'>==ἐνεῖδον==</span> <span class='asgreek'>σχήσοντες</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 7.36: with ">Refs 5th c.BC+</a>]<i>infinitive</i>, <span class='asgreek'>ἃ</span> <span class='asgreek'>ἀρωγὰ</span> <span class='asgreek'>ἐνείδομεν</span>.. <span class='asgreek'>ἔσεσθαι</span>[<a href="javascript:void(0)" title=" [prev. work] 62 ">Refs</a>]: with <i>dative</i>, <b>gaze at,</b> <span class='asgreek'>ἀτενὲς</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>αὐγῇ</span> [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus “Eup.” 4.13.1. ">Refs 4th c.AD+</a>]
+

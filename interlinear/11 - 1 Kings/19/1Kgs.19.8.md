@@ -1,0 +1,28 @@
+**1 Kings 19:8** 
+<small><sub>**KJV:**</sub></small>
+And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God.
+<small><sub>**BSB:**</sub></small>
+So he got up and ate and drank. And strengthened by that food, he walked forty days and forty nights until he reached Horeb, the mountain of God.
+<small><sub>**Literal:**</sub></small>
+and  he arose and  he ate and  he drank and  he went in  [the] strength of the  food \<the>  that forty day[s] and  forty night[s] to [the] mountain of \<the>  God Horeb<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.7|<< 1 Kings 19:7]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.9|1 Kings 19:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he arose  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֖קָם</big></span><small><sup>[[H6965B]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he ate  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אכַל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.khal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he drank  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁתֶּ֑ה</big></span><small><sup>[[H8354]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Teh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֜לֶךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] strength of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כֹ֣חַ</big></span><small><sup>[[H3581B]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Kho.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the food  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲכִילָ֣ה</big></span><small><sup>[[H0396]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.khi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הִ֗יא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| forty  | <span class="ashebrew"><big>אַרְבָּעִ֥ים</big></span><small><sup>[[H0705]]</sup></small> &#8207;| 'ar.ba.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| day[s]  | <span class="ashebrew"><big>יוֹם֙</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and forty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַרְבָּעִ֣ים</big></span><small><sup>[[H0705]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| night[s]  | <span class="ashebrew"><big>לַ֔יְלָה</big></span><small><sup>[[H3915]]</sup></small> &#8207;| Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַ֛ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  | <span class="ashebrew"><big>הַ֥ר</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֖ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Horeb  | <span class="ashebrew"><big>חֹרֵֽב</big></span><small><sup>[[H2722]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| cho.Rev<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.7|<< 1 Kings 19:7]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.9|1 Kings 19:9 >>]]</td></tr></table>
+
+

@@ -1,0 +1,26 @@
+**Deuteronomy 14:25** 
+<small><sub>**KJV:**</sub></small>
+Then shalt thou turn [it] into money, and bind up the money in thine hand, and shalt go unto the place which the LORD thy God shall choose:
+<small><sub>**BSB:**</sub></small>
+then exchange it for money, take the money in your hand, and go to the place the LORD your God will choose.
+<small><sub>**Literal:**</sub></small>
+and  you will exchange [it] for \<the>  money and  you will secure the  money in  hand  your and  you will go to the  place which he will choose Yahweh God  your \<in> \<the>  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.24|<< Deuteronomy 14:24]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.26|Deuteronomy 14:26 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will exchange [it]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָתַתָּ֖ה</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.ta.Tah<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> money  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָּ֑סֶף</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Ka.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will secure  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>צַרְתָּ֤</big></span><small><sup>[[H6696A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> tzar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the money  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֶּ֙סֶף֙</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in hand your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יָ֣דְ</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>ךָ֔</big></span><small><sup>[[H9021]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ya.de.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will go  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָֽלַכְתָּ֙</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.lakh.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the place  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מָּק֔וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will choose  | <span class="ashebrew"><big>יִבְחַ֛ר</big></span><small><sup>[[H0977]]</sup></small> &#8207;| yiv.Char<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹהֶ֖י</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> \<the> it  | <span class="ashebrew"><big>בּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| b<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.24|<< Deuteronomy 14:24]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.26|Deuteronomy 14:26 >>]]</td></tr></table>
+
+

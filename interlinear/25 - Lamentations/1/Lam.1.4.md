@@ -1,0 +1,29 @@
+**Lamentations 1:4** 
+<small><sub>**KJV:**</sub></small>
+The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she [is] in bitterness.
+<small><sub>**BSB:**</sub></small>
+The roads to Zion mourn, because no one comes to her appointed feasts. All her gates are deserted; her priests groan, her maidens grieve, and she herself is bitter with anguish.
+<small><sub>**Literal:**</sub></small>
+[the] roads of Zion [are] mourning because  not [those who] come \<of> an appointed feast all gates  her [are] desolate priests  her [are] groaning virgins  her [are] grieving and  she it is bitter to  her<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.3|<< Lamentations 1:3]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.5|Lamentations 1:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] roads of  | <span class="ashebrew"><big>דַּרְכֵ֨י</big></span><small><sup>[[H1870K]]</sup></small> &#8207;| dar.Khei<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  | <span class="ashebrew"><big>צִיּ֜וֹן</big></span><small><sup>[[H6726]]</sup></small> &#8207;| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] mourning  | <span class="ashebrew"><big>אֲבֵל֗וֹת</big></span><small><sup>[[H0057]]</sup></small> &#8207;| 'a.ve.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because not  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בְּלִי֙</big></span><small><sup>[[H1097]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> be.Li<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] come  | <span class="ashebrew"><big>בָּאֵ֣י</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ba.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> an appointed feast  | <span class="ashebrew"><big>מוֹעֵ֔ד</big></span><small><sup>[[H4150H]]</sup></small> &#8207;| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gates her  | <span class="ashebrew"><big>שְׁעָרֶ֙י</big></span><small><sup>[[H8179G]]</sup></small> <span class="ashebrew"><big>הָ֙</big></span><small><sup>[[H9024]]</sup></small> &#8207;| she.'a.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] desolate  | <span class="ashebrew"><big>שֽׁוֹמֵמִ֔ין</big></span><small><sup>[[H8074G]]</sup></small> &#8207;| sho.me.Min<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| priests her  | <span class="ashebrew"><big>כֹּהֲנֶ֖י</big></span><small><sup>[[H3548]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ko.ha.Nei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] groaning  | <span class="ashebrew"><big>נֶאֱנָחִ֑ים</big></span><small><sup>[[H0584]]</sup></small> &#8207;| ne.'e.na.Chim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| virgins her  | <span class="ashebrew"><big>בְּתוּלֹתֶ֥י</big></span><small><sup>[[H1330]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| be.tu.lo.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] grieving  | <span class="ashebrew"><big>נּוּג֖וֹת</big></span><small><sup>[[H3013]]</sup></small> &#8207;| nu.Got<small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִ֥יא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is bitter  | <span class="ashebrew"><big>מַר</big></span><small><sup>[[H4843]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mar-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to her  | <span class="ashebrew"><big>לָֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| La<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.3|<< Lamentations 1:3]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.5|Lamentations 1:5 >>]]</td></tr></table>
+
+

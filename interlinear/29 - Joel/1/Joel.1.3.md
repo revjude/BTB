@@ -1,0 +1,21 @@
+**Joel 1:3** 
+<small><sub>**KJV:**</sub></small>
+Tell ye your children of it, and [let] your children [tell] their children, and their children another generation.
+<small><sub>**BSB:**</sub></small>
+Tell it to your children; let your children tell it to their children, and their children to the next generation.
+<small><sub>**Literal:**</sub></small>
+on  it to  children  your recount and  children  your to  children  their and  children  their to  a generation another<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.2|<< Joel 1:2]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.4|Joel 1:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| on it  | <span class="ashebrew"><big>עָלֶ֖</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>יהָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HR]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to children your  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>כֶ֣ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> v.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| recount  | <span class="ashebrew"><big>סַפֵּ֑רוּ</big></span><small><sup>[[H5608A]]</sup></small> &#8207;| sa.Pe.ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and children your  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to children their  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> v.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and children their  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a generation  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ד֥וֹר</big></span><small><sup>[[H1755]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| another  | <span class="ashebrew"><big>אַחֵֽר</big></span><small><sup>[[H0312]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Cher<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.2|<< Joel 1:2]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.4|Joel 1:4 >>]]</td></tr></table>
+
+

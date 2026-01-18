@@ -1,0 +1,9 @@
+<span class="asgreek">ἐξαντλέω</span> <small>***(exantleō)***</small> ==**to draw out**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐξαντλέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>drain</b> or <b>draw off,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 736b, “PTeb.” 123.6 (1st c.BC), 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων ὀξέων παθῶν” 2.4 ">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 570a8. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>endure to the end, see out,</b> <span class='asgreek'>ἐκείνων</span> <span class='asgreek'>μείζον᾽</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>πόνον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Cyclops” 10 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τὸν</span> <span class='asgreek'>αὐτὸν</span> <span class='asgreek'>δαίμον᾽</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἐμοί</span>[<a href="javascript:void(0)" title=" [prev. work] 110; τὸν αὐτὸν ἐ. βίον [prev. author] “fragment” 454; βίον οἰκτρὸν ἐ. 4th-3rd c.BC: Menander Comicus 74; στρατῷ γόους 5th c.BC: Euripides Tragicus “Supplices” 838. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>empty out,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 1.3 ">Refs 3rd c.AD+</a>]; <b>squander,</b> [<span class='asgreek'>πλοῦτον</span>] [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Tim.” 18, compare 17 (\_passive\_)">Refs 2nd c.AD+</a>]; <span class='asgreek'>δύναμιν</span> <span class='asgreek'>πόνοις</span> [<a href="javascript:void(0)" title=" [prev. author] “Anach.” 35, compare 4th c.AD: Alciphro Epistolographus 1.21. ">Refs 4th c.AD+</a>]

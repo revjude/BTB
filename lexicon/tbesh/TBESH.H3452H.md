@@ -1,0 +1,1 @@
+<span class="ashebrew">‎יְשִׁימוֹן‎</span> <small>***(ye.shi.mon)***</small> ==**wilderness**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 

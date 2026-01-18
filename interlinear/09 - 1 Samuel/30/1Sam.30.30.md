@@ -1,0 +1,21 @@
+**1 Samuel 30:30** 
+<small><sub>**KJV:**</sub></small>
+And to [them] which [were] in Hormah, and to [them] which [were] in Chorashan, and to [them] which [were] in Athach,
+<small><sub>**BSB:**</sub></small>
+to those in Hormah, Bor-ashan, and Athach;
+<small><sub>**Literal:**</sub></small>
+and  for  [those] who [were] in  Hormah and  for  [those] who [were] in  Bor Ashan and  for  [those] who [were] in  Athach<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.29|<< 1 Samuel 30:29]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.31|1 Samuel 30:31 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and for [those] who  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֧ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] in Hormah  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חָרְמָ֛ה</big></span><small><sup>[[H2767]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> cha.re.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for [those] who  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] in Bor  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בוֹר</big></span><small><sup>[[H3565]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Vor-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ashan  | <span class="ashebrew"><big>עָשָׁ֖ן</big></span><small><sup>[[H3565]]</sup></small> &#8207;| 'a.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for [those] who  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] in Athach  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲתָֽךְ</big></span><small><sup>[[H6269]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;[^1] | ba.<small><sup>[[HR]]</sup></small> 'a.Takh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad Aleppo (biblia benchayim)">LA(bh)</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.29|<< 1 Samuel 30:29]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.31|1 Samuel 30:31 >>]]</td></tr></table>
+
+[^1]: ==BH== spelled: **<span class="ashebrew"><big>בַעֲתָֽךְ\׃</big></span>**
+

@@ -1,0 +1,23 @@
+**Exodus 22:24** (22:23)
+<small><sub>**KJV:**</sub></small>
+And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.
+<small><sub>**BSB:**</sub></small>
+My anger will be kindled, and I will kill you with the sword; then your wives will become widows and your children will be fatherless.
+<small><sub>**Literal:**</sub></small>
+and  it will burn anger  my and  I will kill \<obj.>  you with the  sword and  they will be wives  your widows and  children  your fatherless ones<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.23|<< Exodus 22:23]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.25|Exodus 22:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will burn  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>חָרָ֣ה</big></span><small><sup>[[H2734]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> cha.Rah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anger my  | <span class="ashebrew"><big>אַפִּ֔</big></span><small><sup>[[H0639G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.P<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will kill  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָרַגְתִּ֥י</big></span><small><sup>[[H2026]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.rag.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  | <span class="ashebrew"><big>אֶתְ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with the sword  | <span class="ashebrew"><big>בֶּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חָ֑רֶב</big></span><small><sup>[[H2719]]</sup></small> &#8207;| be.<small><sup>[[HRd]]</sup></small> Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָי֤וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wives your  | <span class="ashebrew"><big>נְשֵׁי</big></span><small><sup>[[H0802H]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| ne.shei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| widows  | <span class="ashebrew"><big>אַלְמָנ֔וֹת</big></span><small><sup>[[H0490]]</sup></small> &#8207;| 'al.ma.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and children your  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fatherless ones  | <span class="ashebrew"><big>יְתֹמִֽים</big></span><small><sup>[[H3490]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| ye.to.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.23|<< Exodus 22:23]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.25|Exodus 22:25 >>]]</td></tr></table>
+
+

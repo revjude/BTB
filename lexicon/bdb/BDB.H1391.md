@@ -1,0 +1,16 @@
+ <span class="bdbLangHebrew">‎גִּבְעוֺן‎</span> **proper name, of a location** — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ג‎</span> [[Josh.9.17|Josh 9:17]] +; with <span class="bdbLangHebrew">‎ָ  ה‎</span> locative; <span class="bdbLangHebrew">‎גִּבְע֫וֺנָה‎</span> [[2Sam.2.12|2Sam 2:12]] compare [[1Kgs.3.4|1Kgs 3:4]] — Levitical city in tribe of Benjamin; formerly inhabited by Hivites [[Josh.9.17|Josh 9:17]]; [[Josh.10.2|Josh 10:2]]; [[Josh.10.4|Josh 10:4]]; [[Josh.10.5|Josh 10:5]]; [[Josh.10.10|Josh 10:10]]; [[Josh.10.12|Josh 10:12]]; [[Josh.10.41|Josh 10:41]]; [[Josh.11.19|Josh 11:19]]; [[Josh.18.25|Josh 18:25]]; [[Josh.21.17|Josh 21:17]]; [[2Sam.2.12|2Sam 2:12]]; [[2Sam.2.13|2Sam 2:13]] (***pool of Gibeon***) v[[2Sam.2.16|2Sam 2:16]]; [[2Sam.3.30|2Sam 3:30]]; [[2Sam.20.8|2Sam 20:8]]; [[Jer.28.1|Jer 28:1]]; [[Jer.41.12|Jer 41:12]] (***great waters which are in Gibeon***) v[[Jer.41.16|Jer 41:16]]; [[1Chr.14.16|1Chr 14:16]] see especially <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יוֺשְׁבַי ג‎</span>, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אַנְשֵׁי ג‎</span> [[Josh.9.3|Josh 9:3]], (called Hivites [[Josh.9.7|Josh 9:7]]) [[Josh.10.1|Josh 10:1]]; [[Josh.10.6|Josh 10:6]]; [[Josh.11.19|Josh 11:19]]; [[Neh.3.7|Neh 3:7]], so <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּנֵי ג‎</span> [[Neh.7.25|Neh 7:25]] (= <span class="bdbLangHebrew">‎בְּנֵי גִבָּר‎</span> [[Ezra.2.20|Ezra 2:20]], see  <span class="bdbLangHebrew">‎גִּבָּר‎</span>); compare also as proper name, masculine [[1Chr.8.29|1Chr 8:29]] <span class="bdbLangHebrew">‎וּבְגִבְעוֺן יָָֽשְׁבו אֲבִי גִבְעוֺן‎</span> = [[1Chr.9.35|1Chr 9:35]] compare <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מִדְבַּר ג‎</span> [[2Sam.2.24|2Sam 2:24]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עֵמֶק בְּג‎</span> [[Isa.28.21|Isa 28:21]] it was the site of great ***Bamah*** [[1Kgs.3.4|1Kgs 3:4]]; [[1Kgs.3.5|1Kgs 3:5]]; [[1Kgs.9.2|1Kgs 9:2]], where was 'the tabernacle of Yahweh in the high place' according to [[1Chr.16.39|1Chr 16:39]] compare [[1Chr.21.20|1Chr 21:20]]; [[2Chr.1.13|2Chr 1:13]] (twice in verse). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Joshua | [[Josh.9.3\|9:3]] · [[Josh.9.7\|9:7]] · [[Josh.9.17\|9:17]] · [[Josh.10.1\|10:1]] · [[Josh.10.2\|10:2]] · [[Josh.10.4\|10:4]] · [[Josh.10.5\|10:5]] · [[Josh.10.6\|10:6]] · [[Josh.10.10\|10:10]] · [[Josh.10.12\|10:12]] · [[Josh.10.41\|10:41]] · [[Josh.11.19\|11:19]] · [[Josh.18.25\|18:25]] · [[Josh.21.17\|21:17]] |
+| 2 Samuel | [[2Sam.2.12\|2:12]] · [[2Sam.2.13\|2:13]] · [[2Sam.2.16\|2:16]] · [[2Sam.2.24\|2:24]] · [[2Sam.3.30\|3:30]] · [[2Sam.20.8\|20:8]] |
+| 1 Kings | [[1Kgs.3.4\|3:4]] · [[1Kgs.3.5\|3:5]] · [[1Kgs.9.2\|9:2]] |
+| 1 Chronicles | [[1Chr.8.29\|8:29]] · [[1Chr.9.35\|9:35]] · [[1Chr.14.16\|14:16]] · [[1Chr.16.39\|16:39]] · [[1Chr.21.20\|21:20]] |
+| 2 Chronicles | [[2Chr.1.13\|1:13]] |
+| Ezra | [[Ezra.2.20\|2:20]] |
+| Nehemiah | [[Neh.3.7\|3:7]] · [[Neh.7.25\|7:25]] |
+| Isaiah | [[Isa.28.21\|28:21]] |
+| Jeremiah | [[Jer.28.1\|28:1]] · [[Jer.41.12\|41:12]] · [[Jer.41.16\|41:16]] |
+

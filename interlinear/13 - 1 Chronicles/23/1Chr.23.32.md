@@ -1,0 +1,28 @@
+**1 Chronicles 23:32** 
+<small><sub>**KJV:**</sub></small>
+And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy [place], and the charge of the sons of Aaron their brethren, in the service of the house of the LORD.
+<small><sub>**BSB:**</sub></small>
+So the Levites were to carry out the responsibilities for the Tent of Meeting and the Holy Place, and, under their brothers the descendants of Aaron, the service of the house of the LORD.
+<small><sub>**Literal:**</sub></small>
+and  they kept \<obj.> [the] duty of [the] tent of meeting and  \<obj.> [the] duty of the  holy place and  [the] duty of [the] descendants of Aaron relatives  their for  [the] service of [the] house of Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.31|<< 1 Chronicles 23:31]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.1|1 Chronicles 24:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they kept  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׁמְר֞וּ</big></span><small><sup>[[H8104G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sha.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] duty of  | <span class="ashebrew"><big>מִשְׁמֶ֣רֶת</big></span><small><sup>[[H4931]]</sup></small> &#8207;| mish.Me.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tent of  | <span class="ashebrew"><big>אֹֽהֶל</big></span><small><sup>[[H0168G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'o.hel-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  | <span class="ashebrew"><big>מוֹעֵ֗ד</big></span><small><sup>[[H4150I]]</sup></small> &#8207;| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵת֙</big></span><small><sup>[[H0853]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] duty of  | <span class="ashebrew"><big>מִשְׁמֶ֣רֶת</big></span><small><sup>[[H4931]]</sup></small> &#8207;| mish.Me.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the holy place  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קֹּ֔דֶשׁ</big></span><small><sup>[[H6944G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] duty of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִשְׁמֶ֕רֶת</big></span><small><sup>[[H4931]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mish.Me.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aaron  | <span class="ashebrew"><big>אַהֲרֹ֖ן</big></span><small><sup>[[H0175]]</sup></small> &#8207;| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| relatives their  | <span class="ashebrew"><big>אֲחֵי</big></span><small><sup>[[H0251H]]</sup></small> <span class="ashebrew"><big>הֶ֑ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] service of  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֲבֹדַ֖ת</big></span><small><sup>[[H5656H]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.vo.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֥ית</big></span><small><sup>[[H1004Q]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.31|<< 1 Chronicles 23:31]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.1|1 Chronicles 24:1 >>]]</td></tr></table>
+
+

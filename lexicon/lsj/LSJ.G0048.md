@@ -1,0 +1,14 @@
+
+<b> <span class='asgreek'>==ἁγνίζω==</span></b>, 
+
+
+ <i>future</i> <span class='asgreek'>ῐῶ</span> (<span class='asgreek'>ἀφ</span>-) [<a href="javascript:void(0)" title=" LXX.Num.8.6">LXX</a>]: <i>perfect</i> <span class='asgreek'>ἥγνικα</span>[<a href="javascript:void(0)" title=" NT.1Pet.1.22">NT</a>]: (<span class='asgreek'>ἁγνός</span>): —<b>wash off, cleanse away</b>, especially by water (<span class='asgreek'>τὸ</span> <span class='asgreek'>πῦρ</span> <span class='asgreek'>καθαίρει</span>.. <span class='asgreek'>τὸ</span> <span class='asgreek'>ὕδωρ</span> <span class='asgreek'>ἁγνίζει</span>[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.263e), λύμαθ᾽ ἁγνίσας ἐμά 5th c.BC: Sophocles Tragicus “Ajax” 655; τινὰ πηγαῖς 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 1039. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>cleanse, purify</b>, <span class='asgreek'>χέρας</span> <span class='asgreek'>σὰς</span> <span class='asgreek'>ἁγνίσας</span> <span class='asgreek'>μιάσματος</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hercules Furens” 1324, compare 4th-3rd c.BC: Diphilus Comicus 126.1, LXX.Exod.19.10">LXX+5th c.BC+</a>]:—<i>middle</i>, <b>purify oneself</b>,[<a href="javascript:void(0)" title="LXX.Josh.3.5, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1105b">LXX+1st c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>ἁγνίσθητι</span>[<a href="javascript:void(0)" title=" NT.Acts.21.24; ἀπὸ οἴνου LXX.Num.6.3 (\_passive\_). ">LXX+NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> especially <span class='asgreek'>ἁ</span>. <span class='asgreek'>τὸν</span> <span class='asgreek'>θανόντα</span> <b>purify</b> the dead <b>by fire</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 545">Refs 5th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>σώμαθ᾽</span> <span class='asgreek'>ἡγνίσθη</span> <span class='asgreek'>πυρί</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Supplices” 1211. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>sacrifice</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Fragmenta” 314, “IT” 705 (\_passive\_). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>hallow, consecrate</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Aristonous Lyricus 1.17 (\_passive\_). ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>burn up, consume</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 116; ἐπαστράψας αἰθὴρ ἥγνισε.. ἱστορίαν “Anthologia Graeca” 7.49 (from Bianor).">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Num.8.6]] ☩ [[1Pet.1.22]] ☩ [[Exod.19.10]] ☩ [[Josh.3.5]] ☩ [[Acts.21.24]] ☩ [[Num.6.3]]
+</sub></small>

@@ -1,0 +1,18 @@
+ [<span class="bdbLangHebrew">‎טוּחַ‎</span>] **verb** ==over-spread, over-lay, coat, besmear== (Late Hebrew ***id.***; compare Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJAAkAIAAAAAAAP///yH5BAAAAAAALAAAAAAkACQAAAJrjI+py+0Po5zUgDqB1hhu3j1gSJZmsCXjsXqfqqSSHF8IbdqqnvOWTwKihJ3WEGNM6owLZW2IozA/URbqeuEJR0rqi+V7Vb3UG9nbPKfPxN/3ZG734A0m/XpP55/7eD8OVIXEJldB9of4VwAAOw=="> ***re foeda contaminatus fuit***, or ***contaminavit***; <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLwAnAIAAAAAAAP///yH5BAAAAAAALAAAAAAvACcAAAKLjI+py+0Po5SgzvuqxnzZ3mgAyGyOOJKJGKIry5klfFjbF8ltWrs49IvhdDOeanU8BpOXJZNifEZbAZeKWLQqnJ6JyUkD/YbTKjY7QqXUQXaGDY/Ly+YwSys3cOvw57vv92elFUhYoxfIlwhFt7jV6IiwFykJSalneWmmeTKpCciJqRb64kl6ihpQAAA7"> camel ***smeared with tar***); — 
+
+**Qal** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎וְטָח‎</span> consecutive [[Lev.14.42|Lev 14:42]] (on <span class="bdbLangHebrew">‎טַח‎</span> [[Isa.44.18|Isa 44:18]] see  <span class="bdbLangHebrew">‎טחח‎</span>); 3 plural <span class="bdbLangHebrew">‎טָחוּ‎</span> [[Exod.22.28|Exod 22:28]] <span class="bdbLangHebrew">‎טַחְתֶּם‎</span> [[Ezek.13.12|Ezek 13:12]]; [[Ezek.13.14|Ezek 13:14]] ***Infinitive construct*** <span class="bdbLangHebrew">‎לָטוּחַ‎</span> [[1Chr.29.4|1Chr 29:4]] ***Participle*** plural <span class="bdbLangHebrew">‎טָחִים‎</span> [[Ezek.13.10|Ezek 13:10]] + 2 t.; construct <span class="bdbLangHebrew">‎טָחֵי‎</span> [[Ezek.13.11|Ezek 13:11]] only [[BDB#P|P]], Ezekiel, Chronicles; — ***over-spread, coat*** (with accusative of house) with earth (clay, <span class="bdbLangHebrew">‎עָפָר‎</span>) [[Lev.14.42|Lev 14:42]] ***over-lay*** (walls with gold and silver) with accusative of wall [[1Chr.29.4|1Chr 29:4]] metaphor of coating over Jerusalem, under figure of a wall, with a superficial coating, to hide its real weakness [[Ezek.13.15|Ezek 13:15]] (accusative of wall), v[[Ezek.13.12|Ezek 13:12]] with accusative of coating (<span class="bdbLangHebrew">‎טִיחַ‎</span>); with  <span class="bdbLangHebrew">‎תָּפֵל‎</span> (q. v.) v[[Ezek.13.11|Ezek 13:11]] c. 2 accusative v[[Ezek.13.10|Ezek 13:10]] v[[Ezek.13.14|Ezek 13:14]] v[[Ezek.13.15|Ezek 13:15]] compare <span class="bdbLangHebrew">‎תָּפֵל וּנְבִיאֶיהָ טָחוּ להם‎</span> [[Ezek.22.28|Ezek 22:28]] where suffix reference to oppressive nobles, i.e. the prophets 'whitewash' for them (their evil deeds). **Niph\`al** ***Infinitive construct*** <span class="bdbLangHebrew">‎הִטּוֺחַ‎</span> ***be coated*** (with <span class="bdbLangHebrew">‎עפר‎</span>) [[Lev.14.43|Lev 14:43]] and, fully, <span class="bdbLangHebrew">‎הִטֹּחַ אתהֿבית‎</span> [[Lev.14.48|Lev 14:48]] (both [[BDB#P|P]]). 
+
+
+
+ [<span class="bdbLangHebrew">‎טָחַח‎</span>] **verb** ==be besmeared== — only **Qal** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎טַח מֵרְאוֺת עֵינֵיהֶם‎</span> [[Isa.44.18|Isa 44:18]] ***their eyes have been besmeared so that they do not see***, see [[BDB#Di|Di]] [[BDB#Du|Du]], and on singular with subject plural [[BDB#Ges|Ges]]<sup>«GKC:145»§ 145</sup>, 7a; others regard <span class="bdbLangHebrew">‎טַח‎</span> as metaplastic pointing for <span class="bdbLangHebrew">‎טָח‎</span> from <span class="bdbLangHebrew">‎טוח‎</span>, see [[BDB#Sta|Sta]]<sup>§ 385d</sup>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.22.28\|22:28]] |
+| Leviticus | [[Lev.14.42\|14:42]] · [[Lev.14.43\|14:43]] · [[Lev.14.48\|14:48]] |
+| 1 Chronicles | [[1Chr.29.4\|29:4]] |
+| Isaiah | [[Isa.44.18\|44:18]] |
+| Ezekiel | [[Ezek.13.10\|13:10]] · [[Ezek.13.11\|13:11]] · [[Ezek.13.12\|13:12]] · [[Ezek.13.14\|13:14]] · [[Ezek.13.15\|13:15]] · [[Ezek.22.28\|22:28]] |
+

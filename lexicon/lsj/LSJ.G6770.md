@@ -1,0 +1,11 @@
+<span class="asgreek">γρύζω</span> <small>***(gruzō)***</small> ==**to growl**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==γρύζω==</span></b>, 
+
+
+ <i>future</i> <span class='asgreek'>γρύξω</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 294 codices, LXX.Exod.11.7 ">LXX+5th c.BC+</a>], <span class='asgreek'>γρύξομαι</span> [<a href="javascript:void(0)" title=" 7th-6th c.BC: Alcaeus Lyricus Comedy texts 22: ">Refs 7th c.BC+</a>]<i>aorist</i> <span class='asgreek'>ἔγρυξα</span> (see. below):—<b>say</b> <span class='asgreek'>γρῦ</span> (see. entry), <b>grumble, mutter</b>, <span class='asgreek'>γρύζειν</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τολμᾶτον</span>.. <b>;</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Plutus” 454; παιδὸς φωνὴν γρύξαντος [prev. author] “Nu.” 963; εἴ τι γρύξει [prev. author] “Eq.” 294; μὴ φλαῦρον μηδὲν γρύζειν [prev. author] “Pax” 97 (\_anapaest meter\_); γρύζοντας οὐδὲ τουτί [prev. author] “Ra.” 913 ">Refs 5th c.BC+</a>]; <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἐτόλμα</span> <span class='asgreek'>γρύξαι</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>παράπαν</span> probably in [<a href="javascript:void(0)" title=" 4th c.BC: Isaeus Orator 8.27: with double \_accusative\_, ἐγὼ μὲν οὔτε χρηστὸν οὔτε σε ==γρύζω== ἀπηνὲς οὐδέν 3rd c.BC: Callimachus Epicus “Iambi” 1.257 ">Refs 4th c.BC+</a>]; later, <b>growl</b>, of a dog, LXX [same place]; <b>grunt</b>, of a pig, [<a href="javascript:void(0)" title=" 4th c.AD: Alciphro Epistolographus 3.73 ">Refs 4th c.AD+</a>]; <b>grumble, murmur</b>, <span class='asgreek'>πρός</span> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus “de Abstinentia - Porphyrii Opuscula” 1.27. ">Refs 3rd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>future</i> <span class='asgreek'>γρύσει</span>, ={<span class='asgreek'>τήξει</span>} <b>will liquefy</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 876b18. ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.11.7]]
+</sub></small>

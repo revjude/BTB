@@ -1,0 +1,7 @@
+<span class="asgreek">συνωμότης</span> <small>***(sunōmotēs)***</small> ==**a confederate**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==συνωμότης==</span>-<span class='asgreek'>ότης</span></b>, <span class='asgreek'>ου</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>one who is leagued by oath, fellow-conspirator, confederate</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1302, 5th-6th c.BC: Aristophanes Comicus “Equites” 452 (Lyric poetry), “V.” 507 (troch.), 5th-6th c.BC: Andocides Orator 4.4, 5th c.BC: Lysias Orator 12.43, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>ἄνδρες</span>.. <span class='asgreek'>ξ</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 257 (troch.); οἱ σ. ἐπὶ τῷ Πέρσῃ 5th c.BC: Herodotus Historicus 7.148 ">Refs 5th c.BC+</a>]; <span class='asgreek'>οἱ</span> <span class='asgreek'>Κατιλίνα</span> <span class='asgreek'>σ</span>. his <b>fellowconspirators</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Antonius” 2 ">Refs 1st c.AD+</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>ἐπιβουλῆς</span> <b>confederate in</b> the plot, [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 4.14.2: \_metaphorically\_, ὕπνος πόνος τε, κύριοι ξ. 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 126. ">Refs 4th c.BC+</a>]
+

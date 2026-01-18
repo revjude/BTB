@@ -1,0 +1,27 @@
+<small>*Male • Son of Ephraim • Son of Ephraim born after family tragedy*</small>
+
+Man living at the time of Egypt and Wilderness
+
+<span class='tipnrhighlight'>Beriah</span> was born to Ephraim after his other sons were killed by the men of Gath.
+- A man from the tribe of Ephraim living at the time of Egypt and Wilderness, only mentioned at [[1Chr.7.23|1Ch.7.23]]; 
+- only referred to as Beriah<[[H1283H]]> \(<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יע</span>ָ<span class='tipnrLangHebrew'>ה</span>\); 
+-  son of Ephraim<[[H0669G]]>; 
+- a brother of Shuthelah<[[H7803G]]>, Becher<[[H1071H]]>, Tahan<[[H8465G]]>, Ezer<[[H5829H]]> and Elead<[[H0496]]>; 
+-  father of Sheerah<[[H7609]]>, Rephah<[[H7506]]> and Resheph<[[H7566]]>.
+
+Beriah was a son of Ephraim, the younger son of Joseph, born after a tragic event in the family's history \(1 Ch. 7:23\). The men of Gath, who were native to the land, had killed Ephraim's other sons when they went down to raid the Gathites' livestock. In response to this loss, Ephraim named his next son Beriah, which means "misfortune" or "tragedy," because of the calamity that had befallen his house. This event highlights the challenges and conflicts faced by the Israelites as they settled in Canaan and interacted with the local populations.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Beriah | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1283H) <small>*Hebrew*</small> | 1x | [1Ch.7.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beriah\*\|reference=1Ch.7.23) |
+All Strong's for **Beriah**: \[[[H1283H]]\]
+#### Related Profiles:
+- **[Ephraim](H0669G)** (father)
+- **[Shuthelah](H7803G)** (sibling)
+- **[Becher](H1071H)** (sibling)
+- **[Tahan](H8465G)** (sibling)
+- **[Ezer](H5829K)** (sibling)
+- **[Elead](H0496)** (sibling)
+- **[Sheerah](H7609)** (child)
+- **[Rephah](H7506)** (child)
+- **[Resheph](H7566)** (child)

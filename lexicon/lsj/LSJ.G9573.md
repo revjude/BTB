@@ -1,0 +1,11 @@
+<span class="asgreek">ὑποκαίω</span> <small>***(hupokaiō)***</small> ==**to fire up**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ὑποκαίω==</span></b>, 
+
+
+ <i>Attic dialect</i> <b><span class='asgreek'>ὑποκάω</span></b>, <b>burn by applying fire below,</b> <span class='asgreek'>τινὰς</span> <span class='asgreek'>ζῶντας</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 20.71, compare 19.108 ">Refs 1st c.BC+</a>]; <b>burn underneath,</b> <span class='asgreek'>ὀστέα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.61 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ξύλα</span> <span class='asgreek'>ὑ</span>. <span class='asgreek'>τῷ</span> <span class='asgreek'>τρίποδι</span> <b>under</b> the tripod, [<a href="javascript:void(0)" title=" Anonymus cited in 12th c.AD: Eustathius Episcopus Thessalonicensis 1146.37 ">Refs</a>]; <b>light sacrificial fires,</b> compare <span class='asgreek'>ὑποκλαίω</span>. 
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>light under,</b> <span class='asgreek'>πῦρ</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Phal.” 1.11 ">Refs 2nd c.AD+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 355a17. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>ὑ</span>. <span class='asgreek'>λέβητα</span>, [<span class='asgreek'>κακκάβην</span>], <b>light a fire under</b> it, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 13.37,6.707. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>heat</b> a bath, [<a href="javascript:void(0)" title=" “PFlor.” 127.4 (3rd c.AD), “PGiss.” 40 ii 19 (3rd c.AD). ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i> in <i>passive</i>, <span class='asgreek'>ὑ</span>. <span class='asgreek'>τινός</span> <b>to be inflamed by love for</b>.., [<a href="javascript:void(0)" title=" 1st c.BC: Parthenius Mythographus 12.1, 23.2 ">Refs 1st c.BC+</a>]; <b>to be inflamed,</b> <span class='asgreek'>φλύκταιναι</span> -<span class='asgreek'>όμεναι</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.101. ">Refs 1st c.AD+</a>]

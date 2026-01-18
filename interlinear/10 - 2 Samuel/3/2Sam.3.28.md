@@ -1,0 +1,29 @@
+**2 Samuel 3:28** 
+<small><sub>**KJV:**</sub></small>
+And afterward when David heard [it], he said, I and my kingdom [are] guiltless before the LORD for ever from the blood of Abner the son of Ner:
+<small><sub>**BSB:**</sub></small>
+Afterward, David heard about this and said, “I and my kingdom are forever guiltless before the LORD concerning the blood of Abner son of Ner.
+<small><sub>**Literal:**</sub></small>
+and  he heard David from  after thus and  he said [am] innocent I and  kingdom  my from  with Yahweh until perpetuity from  [the] blood\<s> of Abner [the] son of Ner<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.27|<< 2 Samuel 3:27]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.29|2 Samuel 3:29 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he heard  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁמַ֤ע</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִד֙</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from after  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אַ֣חֲרֵי</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'A.cha.rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֵ֔ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֗אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] innocent  | <span class="ashebrew"><big>נָקִ֨י</big></span><small><sup>[[H5355A]]</sup></small> &#8207;| na.Ki<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אָנֹכִ֧י</big></span><small><sup>[[H0595]]</sup></small> &#8207;| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and kingdom my  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַמְלַכְתִּ֛</big></span><small><sup>[[H4467]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mam.lakh.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עִ֥ם</big></span><small><sup>[[H5973B]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Im<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  | <span class="ashebrew"><big>עוֹלָ֑ם</big></span><small><sup>[[H5769G]]</sup></small> &#8207;| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] blood\<s> of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>דְּמֵ֖י</big></span><small><sup>[[H1818]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> de.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abner  | <span class="ashebrew"><big>אַבְנֵ֥ר</big></span><small><sup>[[H0074]]</sup></small> &#8207;| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ner  | <span class="ashebrew"><big>נֵֽר</big></span><small><sup>[[H5369G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.27|<< 2 Samuel 3:27]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.29|2 Samuel 3:29 >>]]</td></tr></table>
+
+

@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>πρω</span>ϊ<span class='asgreek'>ζός</span></b>, 
+
+
+ <i>Attic dialect</i> <b><span class='asgreek'>πρῳζός</span></b>, <span class='asgreek'>όν</span>, uncertain meaning in [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Fragmenta” 63 P.">Refs 3rd c.BC+</a>];= <span class='asgreek'>προχθεσινός</span>, <span class='asgreek'>ὑπόγυος</span>, [<a href="javascript:void(0)" title=" “Etymologicum Magnum” 691.56 ">Refs</a>]. 
+
+$\quad$ $\quad$<b>\_\_II</b> <i>neuter</i> <i>plural</i> <span class='asgreek'>πρω</span>ϊ<span class='asgreek'>ζά</span> as <i>adverb</i>,= <span class='asgreek'>πρώην</span>, <span class='asgreek'>χθιζά</span> <span class='asgreek'>τε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>π</span>. yesterday or <b>the day before</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 2.303, compare 5th-6th c.BC: Plato Philosophus Alcaeus2.141d. ">Refs 8th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>οὕτω</span> <span class='asgreek'>δὴ</span> <span class='asgreek'>π</span>. <span class='asgreek'>κατέδραθες</span> so very <b>early</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 18.9 ">Refs 3rd c.BC+</a>]; <span class='asgreek'>πρω</span>ϊ<span class='asgreek'>ζὸν</span> <span class='asgreek'>ὁδεύων</span> uncertain meaning in [<a href="javascript:void(0)" title=" “Epica Alexandrina Adespota” 4.6. (In codices frequently written \_proparoxytone\_, but compare 2nd c.AD: Herodianus Grammaticus Gr. 1.144.) ">Refs 2nd c.AD+</a>]

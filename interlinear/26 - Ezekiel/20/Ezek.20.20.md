@@ -1,0 +1,25 @@
+**Ezekiel 20:20** 
+<small><sub>**KJV:**</sub></small>
+And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I [am] the LORD your God.
+<small><sub>**BSB:**</sub></small>
+Keep My Sabbaths holy, that they may be a sign between us, so that you may know that I am the LORD your God.’
+<small><sub>**Literal:**</sub></small>
+and  \<obj.> sabbaths  my keep holy and  they will become \<into>  a sign between  me and  between  you to  know that I [am] Yahweh God  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.19|<< Ezekiel 20:19]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.21|Ezekiel 20:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sabbaths my  | <span class="ashebrew"><big>שַׁבְּתוֹתַ֖</big></span><small><sup>[[H7676]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| sha.be.to.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| keep holy  | <span class="ashebrew"><big>קַדֵּ֑שׁוּ</big></span><small><sup>[[H6942G]]</sup></small> &#8207;| ka.De.shu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will become  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָי֤וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a sign  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אוֹת֙</big></span><small><sup>[[H0226H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'Ot<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between me  | <span class="ashebrew"><big>בֵּינִ֣</big></span><small><sup>[[H0996G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| bei.<small><sup>[[HAcmsc]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between you  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵֽינֵי</big></span><small><sup>[[H0996G]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vei.nei.<small><sup>[[HAcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to know  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דַ֕עַת</big></span><small><sup>[[H3045]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Da.'at<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֛י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֥י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹהֵי</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.19|<< Ezekiel 20:19]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.21|Ezekiel 20:21 >>]]</td></tr></table>
+
+

@@ -1,0 +1,28 @@
+**Ezekiel 38:15** 
+<small><sub>**KJV:**</sub></small>
+And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army:
+<small><sub>**BSB:**</sub></small>
+And you will come from your place out of the far north—you and many peoples with you, all riding horses—a mighty horde, a huge army.
+<small><sub>**Literal:**</sub></small>
+and  you will come from  place  your from  [the] remotest parts of [the] north you and  peoples many with  you riders of horses all of  them a company great and  an army great<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.14|<< Ezekiel 38:14]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.16|Ezekiel 38:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will come  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>בָ֤אתָ</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> Va.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from place your  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מְּקֽוֹמְ</big></span><small><sup>[[H4725]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> me.kom.<small><sup>[[HNcmsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] remotest parts of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יַּרְכְּתֵ֣י</big></span><small><sup>[[H3411]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> yar.ke.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] north  | <span class="ashebrew"><big>צָפ֔וֹן</big></span><small><sup>[[H6828G]]</sup></small> &#8207;| tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתָּ֕ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and peoples  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַמִּ֥ים</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  | <span class="ashebrew"><big>רַבִּ֖ים</big></span><small><sup>[[H7227A]]</sup></small> &#8207;| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  | <span class="ashebrew"><big>אִתָּ֑</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'i.Ta<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| riders of  | <span class="ashebrew"><big>רֹכְבֵ֤י</big></span><small><sup>[[H7392]]</sup></small> &#8207;| ro.khe.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horses  | <span class="ashebrew"><big>סוּסִים֙</big></span><small><sup>[[H5483M]]</sup></small> &#8207;| su.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  | <span class="ashebrew"><big>כֻּלָּ֔</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a company  | <span class="ashebrew"><big>קָהָ֥ל</big></span><small><sup>[[H6951]]</sup></small> &#8207;| ka.Hal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>גָּד֖וֹל</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and an army  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חַ֥יִל</big></span><small><sup>[[H2428A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>רָֽב</big></span><small><sup>[[H7227A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.14|<< Ezekiel 38:14]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.16|Ezekiel 38:16 >>]]</td></tr></table>
+
+

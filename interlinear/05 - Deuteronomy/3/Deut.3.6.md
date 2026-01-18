@@ -1,0 +1,26 @@
+**Deuteronomy 3:6** 
+<small><sub>**KJV:**</sub></small>
+And we utterly destroyed them, as we did unto Sihon king of Heshbon, utterly destroying the men, women, and children, of every city.
+<small><sub>**BSB:**</sub></small>
+We devoted them to destruction, as we had done to Sihon king of Heshbon, utterly destroying the men, women, and children of every city.
+<small><sub>**Literal:**</sub></small>
+and  we totally destroyed \<obj.>  them just  as we had done to  Sihon [the] king of Heshbon we totally destroyed every city of men the  women and  the  little one[s]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.5|<< Deuteronomy 3:5]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.7|Deuteronomy 3:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and we totally destroyed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נַּחֲרֵ֣ם</big></span><small><sup>[[H2763A]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> na.cha.Rem<small><sup>[[HVhw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אוֹתָ֔</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we had done  | <span class="ashebrew"><big>עָשִׂ֔ינוּ</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Si.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Sihon  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>סִיחֹ֖ן</big></span><small><sup>[[H5511]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> si.Chon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Heshbon  | <span class="ashebrew"><big>חֶשְׁבּ֑וֹן</big></span><small><sup>[[H2809]]</sup></small> &#8207;| chesh.Bon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we totally destroyed  | <span class="ashebrew"><big>הַחֲרֵם֙</big></span><small><sup>[[H2763A]]</sup></small> &#8207;| ha.cha.Rem<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| city of  | <span class="ashebrew"><big>עִ֣יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| 'ir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men  | <span class="ashebrew"><big>מְתִ֔ם</big></span><small><sup>[[H4962]]</sup></small> &#8207;| me.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the women  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נָּשִׁ֖ים</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the little one[s]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>טָּֽף</big></span><small><sup>[[H2945]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Taf<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.5|<< Deuteronomy 3:5]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.7|Deuteronomy 3:7 >>]]</td></tr></table>
+
+

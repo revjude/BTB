@@ -1,0 +1,22 @@
+**Numbers 31:24** 
+<small><sub>**KJV:**</sub></small>
+And ye shall wash your clothes on the seventh day, and ye shall be clean, and afterward ye shall come into the camp.
+<small><sub>**BSB:**</sub></small>
+On the seventh day you are to wash your clothes, and you will be clean. After that you may enter the camp.”
+<small><sub>**Literal:**</sub></small>
+and  you will wash clothes  your on the  day \<the>  seventh and  you will be pure and  after you will come to the  camp<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.23|<< Numbers 31:23]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.25|Numbers 31:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will wash  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>כִבַּסְתֶּ֧ם</big></span><small><sup>[[H3526H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> khi.bas.Tem<small><sup>[[HVpq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clothes your  | <span class="ashebrew"><big>בִּגְדֵי</big></span><small><sup>[[H0899B]]</sup></small> <span class="ashebrew"><big>כֶ֛ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| big.dei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the day  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּ֥וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> seventh  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁבִיעִ֖י</big></span><small><sup>[[H7637]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will be pure  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>טְהַרְתֶּ֑ם</big></span><small><sup>[[H2891]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> te.har.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and after  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַחַ֖ר</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will come  | <span class="ashebrew"><big>תָּבֹ֥אוּ</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ta.Vo.'u<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the camp  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּחֲנֶֽה</big></span><small><sup>[[H4264]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| Ha.<small><sup>[[HTd]]</sup></small> ma.cha.Neh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.23|<< Numbers 31:23]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.25|Numbers 31:25 >>]]</td></tr></table>
+
+

@@ -1,0 +1,23 @@
+**Ezra 8:24** 
+<small><sub>**KJV:**</sub></small>
+Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brethren with them,
+<small><sub>**BSB:**</sub></small>
+Then I set apart twelve of the leading priests, together with Sherebiah, Hashabiah, and ten of their brothers,
+<small><sub>**Literal:**</sub></small>
+and  I set apart  ! of  [the] leaders of the  priests two [plus] ten to  Sherebiah Hashabiah and  with  them of  brothers  their ten<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.23|<< Ezra 8:23]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.25|Ezra 8:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I set apart !  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אַבְדִּ֛ילָ</big></span><small><sup>[[H0914]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'av.Di.la<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] leaders of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שָּׂרֵ֥י</big></span><small><sup>[[H8269]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priests  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֲנִ֖ים</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two [plus]  | <span class="ashebrew"><big>שְׁנֵ֣ים</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Neim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עָשָׂ֑ר</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Sherebiah  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שֵׁרֵֽבְיָ֣ה</big></span><small><sup>[[H8274G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> she.re.ve.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hashabiah  | <span class="ashebrew"><big>חֲשַׁבְיָ֔ה</big></span><small><sup>[[H2811M]]</sup></small> &#8207;| cha.shav.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with them  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עִמָּ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>הֶ֥ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'i.ma.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of brothers their  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֲחֵי</big></span><small><sup>[[H0251H]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עֲשָׂרָֽה</big></span><small><sup>[[H6235]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.23|<< Ezra 8:23]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.25|Ezra 8:25 >>]]</td></tr></table>
+
+

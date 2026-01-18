@@ -1,0 +1,30 @@
+**Judges 2:22** 
+<small><sub>**KJV:**</sub></small>
+That through them I may prove Israel, whether they will keep the way of the LORD to walk therein, as their fathers did keep [it], or not.
+<small><sub>**BSB:**</sub></small>
+In this way I will test whether Israel will keep the way of the LORD by walking in it as their fathers did.”
+<small><sub>**Literal:**</sub></small>
+so as to put to [the] test by \<the>  them \<obj.> Israel ¿  [be] keeping [will] they \<obj.> [the] way of Yahweh by  walking in \<the>  them just  as they kept [it] ancestors  their or? not<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.21|<< Judges 2:21]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.23|Judges 2:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| so as  | <span class="ashebrew"><big>לְמַ֛עַן</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to put to [the] test  | <span class="ashebrew"><big>נַסּ֥וֹת</big></span><small><sup>[[H5254G]]</sup></small> &#8207;| na.Sot<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> them  | <span class="ashebrew"><big>בָּ֖</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ [be] keeping  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>שֹׁמְרִ֣ים</big></span><small><sup>[[H8104J]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> sho.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will] they  | <span class="ashebrew"><big>הֵם֩</big></span><small><sup>[[H1992]]</sup></small> &#8207;| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] way of  | <span class="ashebrew"><big>דֶּ֨רֶךְ</big></span><small><sup>[[H1870G]]</sup></small> &#8207;| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by walking  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לֶ֣כֶת</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Le.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> them  | <span class="ashebrew"><big>בָּ֗</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| Ba<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֛ר</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they kept [it]  | <span class="ashebrew"><big>שָׁמְר֥וּ</big></span><small><sup>[[H8104G]]</sup></small> &#8207;| sha.me.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors their  | <span class="ashebrew"><big>אֲבוֹתָ֖</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or?  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.21|<< Judges 2:21]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.23|Judges 2:23 >>]]</td></tr></table>
+
+

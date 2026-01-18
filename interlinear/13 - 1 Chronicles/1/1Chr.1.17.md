@@ -1,0 +1,24 @@
+**1 Chronicles 1:17** 
+<small><sub>**KJV:**</sub></small>
+The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.
+<small><sub>**BSB:**</sub></small>
+The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram. The sons of Aram: Uz, Hul, Gether, and Meshech.
+<small><sub>**Literal:**</sub></small>
+[the] sons of Shem Elam and  Asshur and  Arphaxad and  Lud and  Aram and  Uz and  Hul and  Gether and  Meshech<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.16|<< 1 Chronicles 1:16]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.18|1 Chronicles 1:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shem  | <span class="ashebrew"><big>שֵׁ֔ם</big></span><small><sup>[[H8035]]</sup></small> &#8207;| Shem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elam  | <span class="ashebrew"><big>עֵילָ֣ם</big></span><small><sup>[[H5867C]]</sup></small> &#8207;| 'ei.Lam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Asshur  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַשּׁ֔וּר</big></span><small><sup>[[H0804H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Shur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Arphaxad  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַרְפַּכְשַׁ֖ד</big></span><small><sup>[[H0775]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ar.pakh.Shad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Lud  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ל֣וּד</big></span><small><sup>[[H3865]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lud<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Aram  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲרָ֑ם</big></span><small><sup>[[H0758G]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Uz  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ע֥וּץ</big></span><small><sup>[[H5780G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Utz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Hul  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ח֖וּל</big></span><small><sup>[[H2343]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Chul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Gether  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גֶ֥תֶר</big></span><small><sup>[[H1666]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ge.ter<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Meshech  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֶֽשֶׁךְ</big></span><small><sup>[[H4902J]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Me.shekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.16|<< 1 Chronicles 1:16]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.18|1 Chronicles 1:18 >>]]</td></tr></table>
+
+

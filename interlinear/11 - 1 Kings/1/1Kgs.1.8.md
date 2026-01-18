@@ -1,0 +1,29 @@
+**1 Kings 1:8** 
+<small><sub>**KJV:**</sub></small>
+But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which [belonged] to David, were not with Adonijah.
+<small><sub>**BSB:**</sub></small>
+But Zadok the priest, Benaiah son of Jehoiada, Nathan the prophet, Shimei, Rei, and David’s mighty men would not join Adonijah.
+<small><sub>**Literal:**</sub></small>
+and  Zadok the  priest and  Benaiah [the] son of Jehoiada and  Nathan the  prophet and  Shimei and  Rei and  the  mighty [men] who [belonged] to  David not they were with Adonijah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.7|<< 1 Kings 1:7]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.9|1 Kings 1:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Zadok  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צָד֣וֹק</big></span><small><sup>[[H6659G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tza.Dok<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  | <span class="ashebrew"><big>הַ֠</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֵן</big></span><small><sup>[[H3548]]</sup></small> &#8207;| Ha.<small><sup>[[HTd]]</sup></small> ko.hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Benaiah  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנָיָ֨הוּ</big></span><small><sup>[[H1141G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.na.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehoiada  | <span class="ashebrew"><big>יְהוֹיָדָ֜ע</big></span><small><sup>[[H3077G]]</sup></small> &#8207;| ye.ho.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Nathan  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נָתָ֤ן</big></span><small><sup>[[H5416H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the prophet  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נָּבִיא֙</big></span><small><sup>[[H5030]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Shimei  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שִׁמְעִ֣י</big></span><small><sup>[[H8096I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> shim.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Rei  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רֵעִ֔י</big></span><small><sup>[[H7472]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> re.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the mighty [men]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּבּוֹרִ֖ים</big></span><small><sup>[[H1368]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> g.gi.bo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to David  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָוִ֑ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were  | <span class="ashebrew"><big>הָי֖וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Adonijah  | <span class="ashebrew"><big>אֲדֹנִיָּֽהוּ</big></span><small><sup>[[H0138G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.do.ni.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.7|<< 1 Kings 1:7]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.9|1 Kings 1:9 >>]]</td></tr></table>
+
+

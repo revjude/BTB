@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==συμπάσχω==</span></b>, 
+
+
+ <b>have the same thing happen to one</b>, <span class='asgreek'>οἱ</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>Χασμωμένους</span>.. <span class='asgreek'>ὁρῶντες</span> <span class='asgreek'>ταὐτὸν</span> <span class='asgreek'>τοῦτο</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Charmides” 169c, cf. NT.Rom.8.17; θαυμαστὸν.. τὸ συμπάσχειν τὰς τραγέας 4th-3rd c.BC: Theophrastus Philosophus “de Odoribus” 62. ">NT+5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> with <i>dative</i>, <b>to be affected in common with</b>, <span class='asgreek'>ἀλλήλοις</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Priora” 70b16 ">Refs 4th c.BC+</a>]; <b>commotiunculis</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Epistulae ad Atticum” 12.11 ">Refs 1st c.BC+</a>]; <span class='asgreek'>προσώποις</span>, of a mimic dancer, [<a href="javascript:void(0)" title=" “IG” 14.2124.3 (Rome, 2nd-3rd c.AD)">Refs 2nd c.AD+</a>]; <span class='asgreek'>τοῖς</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ψυχῆς</span> <span class='asgreek'>παθήμασι</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>σῶμα</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physiognomonica” 805a6; εἰ [ὅλον τὸ σῶμα] σ. τι τῇ ἀκοῇ 4th-3rd c.BC: Theophrastus Philosophus “de Sensu” 57 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἀναπνευστικοῖς</span> <span class='asgreek'>ὀργάνοις</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἧπαρ</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(1).25, compare 16.555, 2nd c.AD: Soranus Medicus 2.20, +others ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>have a fellow-feeling, sympathize, feel sympathy</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 605d, 4th c.BC: Antiphanes Comicus 84, 2nd c.AD: Soranus Medicus 1.4. Cf. συμπαθέω. ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Rom.8.17]]
+</sub></small>

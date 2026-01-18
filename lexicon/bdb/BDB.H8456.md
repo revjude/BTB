@@ -1,0 +1,8 @@
+ [<span class="bdbLangHebrew">‎תָּזַז‎</span>] **verb Hiph\`il** ==strike away== ([[BDB#Tg|ᵑ7]] <span class="bdbLangHebrew">‎נְתַז‎</span> (rare) ***spring forth***; Late Hebrew <span class="bdbLangHebrew">‎נִתֵּז‎</span> ***spring, spurt, out***; Hiph\`il, Aph\`el ***cut off*** (head, etc.)); — ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎אֶתהַֿנְּטִישׁוֺת הֵמִיר הֵתַ֑ז‎</span> [[Isa.18.5|Isa 18:5]]. <span class="bdbLangHebrew">‎תַּזְנוּת‎</span> see  <span class="bdbLangHebrew">‎זנה‎</span>. [<span class="bdbLangHebrew">‎תַּחְבֻּלָה‎</span>] see I.  <span class="bdbLangHebrew">‎חבל‎</span>. <span class="bdbLangHebrew">‎תֹּחוּ‎</span> see  <span class="bdbLangHebrew">‎תּוֺחַ‎</span>. <span class="bdbLangHebrew">‎תַּחְכְמֹנִי‎</span>. <span class="bdbLangHebrew">‎תַּחֲלֻאִים‎</span> see I.  <span class="bdbLangHebrew">‎חלא‎</span>. <span class="bdbLangHebrew">‎תְּחִלָּה‎</span> see II.  <span class="bdbLangHebrew">‎חלל‎</span> p. 321. <span class="bdbLangHebrew">‎תֹּחֶ֫לֶת‎</span> see  <span class="bdbLangHebrew">‎תּוֺחֶלֶת‎</span> below <span class="bdbLangHebrew">‎יחל‎</span>. <span class="bdbLangHebrew">‎תַּחְמָס‎</span> see  <span class="bdbLangHebrew">‎חמם‎</span>. <span class="bdbLangHebrew">‎תַּ֫חַן‎</span> see  <span class="bdbLangHebrew">‎חנה‎</span>. I, II. <span class="bdbLangHebrew">‎תְּחִנָּה‎</span> see I. <span class="bdbLangHebrew">‎חק‎</span>. <span class="bdbLangHebrew">‎תַּחֲנוּן‎</span> see  <span class="bdbLangHebrew">‎חנן‎</span>. [<span class="bdbLangHebrew">‎תַּתֲנְה‎</span>], <span class="bdbLangHebrew">‎תַּחֲנִי‎</span> see  <span class="bdbLangHebrew">‎חנה‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Isaiah | [[Isa.18.5\|18:5]] |
+

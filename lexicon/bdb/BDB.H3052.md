@@ -1,0 +1,27 @@
+ <span class="bdbLangAramaic">‎יְהַב‎</span> **verb** ==give== ([[BDB#Tg|ᵑ7]] Syriac; compare Biblical Hebrew); — 
+
+**Pe\`al** ***Perfect*** 3 masculine singular <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎י‎</span> [[Ezra.5.12|Ezra 5:12]] +; 2 masculine singular <span class="bdbLangAramaic">‎יְהַבְתְּ‎</span> [[Dan.2.23|Dan 2:23]] 3 masculine plural <span class="bdbLangAramaic">‎וִיהַ֫בוּ‎</span> [[Dan.3.28|Dan 3:28]] ***Imperative*** masculine singular <span class="bdbLangAramaic">‎הַב‎</span> ([[BDB#Kau|K]]<sup>§ 11. 3. a</sup>)) [[Dan.5.17|Dan 5:17]] ***Participle active*** <span class="bdbLangAramaic">‎יָהֵב‎</span> [[Dan.2.21|Dan 2:21]], plural <span class="bdbLangAramaic">‎יָָֽהֲבִין‎</span> [[Dan.6.3|Dan 6:3]] — 
+
+**1.** ***give***, accusative of thing + <span class="bdbLangAramaic">‎ל‎</span> person [[Dan.2.48|Dan 2:48]]; [[Dan.5.17|Dan 5:17]], also (subject God) [[Dan.2.21|Dan 2:21]]; [[Dan.2.23|Dan 2:23]]; [[Dan.2.37|Dan 2:37]]; [[Dan.2.38|Dan 2:38]]; [[Dan.5.18|Dan 5:18]]; [[Dan.5.19|Dan 5:19]] ***give*** report [[Dan.6.3|Dan 6:3]] (<span class="bdbLangAramaic">‎ל‎</span> person); ***give over***, accusative of person + <span class="bdbLangAramaic">‎בְּיַד‎</span> (<span class="bdbLangAramaic">‎יַד‎</span> 
+
+**2.**) [[Ezra.5.12|Ezra 5:12]] (subject God); ***give up, surrender*** [[Dan.3.28|Dan 3:28]] (one's body, accusative). 
+
+**2.** ***place, lay*** foundations [[Ezra.5.16|Ezra 5:16]] (Nabataean also ***place*** [[BDB#Cooke|Cooke]]<sup>102, 1. 6</sup> [[BDB#Cook|SAC]]<sup>JQ 1904, 274</sup>; see <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIQATAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAhABMABwiNAP8JHEiwoMGDCBMqXMiwocOHECNKnAjRDQAAKagNdHbxgD18+B7Co/evxcWLdP7Jm3BhAoAlI6IMlKNK4RAA5giuAMBMFgBs/2idBPXPJwBECaucrDCjyAAAtOCdBPAgwtSLZBTuvOpGoKqLP/7teOCIkJopnBjy88ZNm7eEiNhRnEu3rt27ePPqvRsQADs="> 
+
+**2.** [[BDB#Schulth|Schulth]]<sup>Lex; and ZAW xxii (1902), 162</sup>; compare [[BDB#Dalm|D]]<sup>WB 171</sup>). **Pe\`il** ([[BDB#W|W]]<sup>CG 224</sup>), ***be given***, subject thing, with <span class="bdbLangAramaic">‎ל‎</span> person: 3 masculine singular <span class="bdbLangAramaic">‎יְהִיב‎</span> [[Ezra.7.4|Ezra 7:4]]; [[Ezra.7.6|Ezra 7:6]], <span class="bdbLangAramaic">‎יְהִב‎</span> v[[Ezra.7.14|Ezra 7:14]] v[[Ezra.7.22|Ezra 7:22]], 3 feminine singular <span class="bdbLangAramaic">‎יְהִיבַת‎</span> [[Ezra.5.28|Ezra 5:28]]; [[Ezra.7.12|Ezra 7:12]]; [[Ezra.7.27|Ezra 7:27]] 3 masculine plural <span class="bdbLangAramaic">‎וִיהִ֫יבוּ‎</span> [[Ezra.5.14|Ezra 5:14]] ***be given up*** (<span class="bdbLangAramaic">‎ל‎</span> of flame) [[Dan.7.11|Dan 7:11]]. ***Hithpe\`el*** ***Imperfect*** 3 masculine singular <span class="bdbLangAramaic">‎יִתְיְהֵב‎</span> [[Dan.4.13|Dan 4:13]], 3 feminine singular <span class="bdbLangAramaic">‎תִּתְיְה֑ב‎</span> [[Ezra.6.4|Ezra 6:4]] 3 masculine plural <span class="bdbLangAramaic">‎יִתְיַהֲבוּן‎</span> [[Dan.7.25|Dan 7:25]] ***Participle*** <span class="bdbLangAramaic">‎מִתְיְהֵב‎</span> [[Ezra.4.20|Ezra 4:20]]; [[Ezra.6.9|Ezra 6:9]], feminine singular <span class="bdbLangAramaic">‎מִתְיִהֲבָא‎</span> v[[Ezra.6.8|Ezra 6:8]], plural <span class="bdbLangAramaic">‎בין‎</span>- [[Ezra.7.19|Ezra 7:19]] — 
+
+**1.** ***be given***, subject thing, <span class="bdbLangAramaic">‎ל‎</span> person [[Dan.4.13|Dan 4:13]]; [[Ezra.6.9|Ezra 6:9]]; [[Ezra.7.19|Ezra 7:19]] ***be given over***, subject person <span class="bdbLangAramaic">‎בִּידֵהּ‎</span> (<span class="bdbLangAramaic">‎יַד‎</span> 
+
+**2.**) [[Dan.7.25|Dan 7:25]]. 
+
+**2.** ***be paid***, of cost [[Ezra.6.4|Ezra 6:4]] (<span class="bdbLangAramaic">‎מִן‎</span> of source), v[[Ezra.6.8|Ezra 6:8]] (<span class="bdbLangAramaic">‎ל‎</span> person), toll [[Ezra.4.20|Ezra 4:20]] (<span class="bdbLangAramaic">‎ל‎</span> person). 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ezra | [[Ezra.4.20\|4:20]] · [[Ezra.5.12\|5:12]] · [[Ezra.5.14\|5:14]] · [[Ezra.5.16\|5:16]] · [[Ezra.5.28\|5:28]] · [[Ezra.6.4\|6:4]] · [[Ezra.6.8\|6:8]] · [[Ezra.6.9\|6:9]] · [[Ezra.7.4\|7:4]] · [[Ezra.7.6\|7:6]] · [[Ezra.7.12\|7:12]] · [[Ezra.7.14\|7:14]] · [[Ezra.7.19\|7:19]] · [[Ezra.7.22\|7:22]] · [[Ezra.7.27\|7:27]] |
+| Daniel | [[Dan.2.21\|2:21]] · [[Dan.2.23\|2:23]] · [[Dan.2.37\|2:37]] · [[Dan.2.38\|2:38]] · [[Dan.2.48\|2:48]] · [[Dan.3.28\|3:28]] · [[Dan.4.13\|4:13]] · [[Dan.5.17\|5:17]] · [[Dan.5.18\|5:18]] · [[Dan.5.19\|5:19]] · [[Dan.6.3\|6:3]] · [[Dan.7.11\|7:11]] · [[Dan.7.25\|7:25]] |
+

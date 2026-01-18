@@ -1,0 +1,38 @@
+**Exodus 4:10** 
+<small><sub>**KJV:**</sub></small>
+And Moses said unto the LORD, O my Lord, I [am] not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I [am] slow of speech, and of a slow tongue.
+<small><sub>**BSB:**</sub></small>
+“Please, Lord,” Moses replied, “I have never been eloquent, neither in the past nor since You have spoken to Your servant, for I am slow of speech and tongue.”
+<small><sub>**Literal:**</sub></small>
+and  he said Moses to Yahweh pardon me O Lord not [am] a man of words I neither from  yesterday nor from  three days ago nor from  then speaking  you to servant  your for [am] heavy of mouth and  heavy of tongue I<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.9|<< Exodus 4:9]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.11|Exodus 4:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֨אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  | <span class="ashebrew"><big>מֹשֶׁ֣ה</big></span><small><sup>[[H4872]]</sup></small> &#8207;| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָה֮</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pardon me  | <span class="ashebrew"><big>בִּ֣י</big></span><small><sup>[[H0994]]</sup></small> &#8207;| bi<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Lord  | <span class="ashebrew"><big>אֲדֹנָי֒</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא֩</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] a man of  | <span class="ashebrew"><big>אִ֨ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words  | <span class="ashebrew"><big>דְּבָרִ֜ים</big></span><small><sup>[[H1697H]]</sup></small> &#8207;| de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אָנֹ֗כִי</big></span><small><sup>[[H0595]]</sup></small> &#8207;| 'a.No.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neither  | <span class="ashebrew"><big>גַּ֤ם</big></span><small><sup>[[H1571]]</sup></small> &#8207;| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from yesterday  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>תְּמוֹל֙</big></span><small><sup>[[H8543]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> te.mOl<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nor  | <span class="ashebrew"><big>גַּ֣ם</big></span><small><sup>[[H1571]]</sup></small> &#8207;| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from three days ago  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שִּׁלְשֹׁ֔ם</big></span><small><sup>[[H8032]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> shil.Shom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nor  | <span class="ashebrew"><big>גַּ֛ם</big></span><small><sup>[[H1571]]</sup></small> &#8207;| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from then  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אָ֥ז</big></span><small><sup>[[H0227B]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| speaking you  | <span class="ashebrew"><big>דַּבֶּרְ</big></span><small><sup>[[H1696G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9041]]</sup></small> &#8207;| da.ber.<small><sup>[[HVpcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant your  | <span class="ashebrew"><big>עַבְדֶּ֑</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'av.De.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֧י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] heavy of  | <span class="ashebrew"><big>כְבַד</big></span><small><sup>[[H3515]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| khe.vad-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth  | <span class="ashebrew"><big>פֶּ֛ה</big></span><small><sup>[[H6310I]]</sup></small> &#8207;| peh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and heavy of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְבַ֥ד</big></span><small><sup>[[H3515]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.Vad<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tongue  | <span class="ashebrew"><big>לָשׁ֖וֹן</big></span><small><sup>[[H3956G]]</sup></small> &#8207;| la.Shon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אָנֹֽכִי</big></span><small><sup>[[H0595]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.No.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.9|<< Exodus 4:9]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.11|Exodus 4:11 >>]]</td></tr></table>
+
+

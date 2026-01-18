@@ -1,0 +1,16 @@
+ <span class="bdbLangHebrew">‎גָּדֵר‎</span> **noun masculine**<sup>[[Ezek.42.7|Ezek 42:7]]</sup> ==wall== (Late Hebrew <span class="bdbLangHebrew">‎גָּדֵר‎</span>, Aramaic <span class="bdbLangAramaic">‎גָּדֵירָא‎</span>, <span class="bdbLangHebrew">‎גְּדֵירָא‎</span>, Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKgAeAIAAAP///wAAACH5BAAAAAAALAAAAAAqAB4AAAJmhI+py80BnZwKWmMD3RjE82nSR0WXBzaZuGWIyCYrN8ayTef6zut4XyIBOcJhsOIyvoqrYuthYzV/UI/0Mp0SNdmutsVtWkFJHsyplO2oE3SNrXI7Tlt4PEdPQ+X6mf4PGCg4OFQAADs=">, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKQAgAIAAAP///wAAACH5BAAAAAAALAAAAAApACAAAAJohI+py+0PYwtUWkCzqfVCHmxH6Dlkh21kyWQo9rLyTNdPbJtrfuP84tP8YAqXT9eKGYUR1MpIRCx3ydP0em1aXSJs6Fh8SqgW8DBaMofJY/XIPWEDmec3vLyWy7h1Kb0vAig4SFgIUAAAOw==">, and more commonly <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLwAeAIAAAP///wAAACH5BAAAAAAALAAAAAAvAB4AAAJuhI+py+0Po5yUhlBzu/dg1WlOaJAAZ4oJxpXf+aqjGctibWd4boE7D/L9gB5cykOE+YTHSezYQqCilmdpNYShnK9Pd6udTrnIsPgMruzGSWm2jX1H5MIcdX6/NRlpG90MRMcmMwjHt2eYqLg4UQAAOw=="> ***enclosing-wall*** compare Hebrew <span class="bdbLangHebrew">‎גְּדוֺר‎</span> below) — absolute <span class="bdbLangHebrew">‎גָּדֵר‎</span> [[Num.22.24|Num 22:24]]; [[Num.24.24|Num 24:24]] + 5 t. + [[Ps.62.4|Ps 62:4]] (read <span class="bdbLangHebrew">‎גדרה‎</span> compare below) + [[Ezek.13.5|Ezek 13:5]] ([[BDB#Co|Co]] <span class="bdbLangHebrew">‎גדרת‎</span> compare below); construct <span class="bdbLangHebrew">‎גָּדֶר‎</span> [[Prov.24.31|Prov 24:31]]; [[Ezek.42.10|Ezek 42:10]] ([[BDB#Co|Co]] strike out); suffix <span class="bdbLangHebrew">‎גְּדֵרוֺ‎</span> [[Isa.5.5|Isa 5:5]], <span class="bdbLangHebrew">‎גְּדֵרָהּ‎</span> [[Hos.2.8|Hos 2:8]] (compare [[BDB#Baer|Baer]], note); plural suffix <span class="bdbLangHebrew">‎גְּדֵרַיִךְ‎</span> [[Mic.7.11|Mic 7:11]], <span class="bdbLangHebrew">‎גְּדֵרֶיהָ‎</span> [[Ps.80.13|Ps 80:13]] — ***wall, fence***, bordering a road [[Num.2.24|Num 2:24]] (twice in verse) compare [[Eccl.10.8|Eccl 10:8]] connected with Ezekiel's temple [[Ezek.42.7|Ezek 42:7]] city wall [[Mic.7.11|Mic 7:11]] compare [[Ezra.9.9|Ezra 9:9]] figurative of Yahweh's vineyard [[Isa.5.5|Isa 5:5]]; [[Ps.80.13|Ps 80:13]] of fortunes of Israel [[Ezek.22.30|Ezek 22:30]] so also [[Ezek.13.5|Ezek 13:5]] ([[BDB#Co|Co]] <span class="bdbLangHebrew">‎גְּדֶרֶת‎</span> compare<span class="bdbLangHebrew">‎גְּדֵרָה‎</span>); of hindrance in path of Israel (figurative as woman) [[Hos.2.8|Hos 2:8]] of man beset by enemies [[Ps.62.4|Ps 62:4]] (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ג‎</span> <span class="bdbLangHebrew">‎הַדְּחוּיָה‎</span>, but read <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎גְּדֵרָה ד‎</span> [[BDB#Ol|Ol]] [[BDB#De|De]] etc.) 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Numbers | [[Num.2.24\|2:24]] · [[Num.22.24\|22:24]] · [[Num.24.24\|24:24]] |
+| Ezra | [[Ezra.9.9\|9:9]] |
+| Psalms | [[Ps.62.4\|62:4]] · [[Ps.80.13\|80:13]] |
+| Proverbs | [[Prov.24.31\|24:31]] |
+| Ecclesiastes | [[Eccl.10.8\|10:8]] |
+| Isaiah | [[Isa.5.5\|5:5]] |
+| Ezekiel | [[Ezek.13.5\|13:5]] · [[Ezek.22.30\|22:30]] · [[Ezek.42.7\|42:7]] · [[Ezek.42.10\|42:10]] |
+| Hosea | [[Hos.2.8\|2:8]] |
+| Micah | [[Mic.7.11\|7:11]] |
+

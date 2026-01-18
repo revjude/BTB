@@ -1,0 +1,34 @@
+**Amos 4:13** 
+<small><sub>**KJV:**</sub></small>
+For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what [is] his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The LORD, The God of hosts, [is] his name.
+<small><sub>**BSB:**</sub></small>
+For behold, He who forms the mountains, who creates the wind and reveals His thoughts to man, who turns the dawn to darkness and strides on the heights of the earth—the LORD, the God of Hosts, is His name.”
+<small><sub>**Literal:**</sub></small>
+for here! [one who] formed mountains and  [one who] created wind and  [one who] tells to  humankind what? [is] thought  his [one who] makes \<of> dawn darkness and  [one who] treads on [the] high places of [the] earth [is] Yahweh God of hosts name  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.12|<< Amos 4:12]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.1|Amos 5:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֡י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  | <span class="ashebrew"><big>הִנֵּה֩</big></span><small><sup>[[H2009]]</sup></small> &#8207;| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] formed  | <span class="ashebrew"><big>יוֹצֵ֨ר</big></span><small><sup>[[H3335G]]</sup></small> &#8207;| yo.Tzer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mountains  | <span class="ashebrew"><big>הָרִ֜ים</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] created  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֹרֵ֣א</big></span><small><sup>[[H1254A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vo.Re'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wind  | <span class="ashebrew"><big>ר֗וּחַ</big></span><small><sup>[[H7307H]]</sup></small> &#8207;| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] tells  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַגִּ֤יד</big></span><small><sup>[[H5046]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.Gid<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to humankind  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אָדָם֙</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  | <span class="ashebrew"><big>מַה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] thought his  | <span class="ashebrew"><big>שֵּׂח֔</big></span><small><sup>[[H7808]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| se.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] makes  | <span class="ashebrew"><big>עֹשֵׂ֥ה</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| 'o.Seh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> dawn  | <span class="ashebrew"><big>שַׁ֙חַר֙</big></span><small><sup>[[H7837]]</sup></small> &#8207;| sha.char<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| darkness  | <span class="ashebrew"><big>עֵיפָ֔ה</big></span><small><sup>[[H5890]]</sup></small> &#8207;| 'ei.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] treads  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דֹרֵ֖ךְ</big></span><small><sup>[[H1869]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> do.Rekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] high places of  | <span class="ashebrew"><big>בָּ֣מֳתֵי</big></span><small><sup>[[H1116]]</sup></small> &#8207;| Bo.mo.tei<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] earth  | <span class="ashebrew"><big>אָ֑רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God of  | <span class="ashebrew"><big>אֱלֹהֵֽי</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'e.lo.hei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hosts  | <span class="ashebrew"><big>צְבָא֖וֹת</big></span><small><sup>[[H6635B]]</sup></small> &#8207;| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  | <span class="ashebrew"><big>שְׁמֽ</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.12|<< Amos 4:12]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.1|Amos 5:1 >>]]</td></tr></table>
+
+

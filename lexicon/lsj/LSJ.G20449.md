@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==ἐπιτομή==</span>-<span class='asgreek'>ή</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>ἐπιτέμνω</span>) <b>cutting on the surface, incision,</b> <span class='asgreek'>τῆς</span> <span class='asgreek'>κεφαλῆς</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 3.51, compare 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 64.1. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>epitome, abridgement,</b> <span class='asgreek'>φυσικῶν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 891a7; ἐ. καὶ στοιχείωσις 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 1p.4U. ">Refs 4th c.BC+</a>]; title of works by Chrysippus, etc., [<a href="javascript:void(0)" title=" “Stoicorum Veterum Fragmenta” 2.5, etc.; ἐ. κεφαλαιώδεις 1st c.BC: Dionysius Halicarnassensis 1.5, cf. LXX.2Mac.2.28; ἐν ==ἐπιτομή==ῇ ">LXX+1st c.BC+</a>]<b>briefly,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Epistulae ad Atticum” 5.20.1 ">Refs 1st c.BC+</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>οἰκουμένης</span>, of Rome, [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 1.20b. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>right of cutting,</b> <span class='asgreek'>εἰ</span> <span class='asgreek'>δέ</span> <span class='asgreek'>κα</span> <span class='asgreek'>ἀμπέλους</span>, <span class='asgreek'>==ἐπιτομή==ὰ</span> <span class='asgreek'>ἔστω</span> [<a href="javascript:void(0)" title=" “Supp.epigram” 2.293.11 (Delph., 3rd-2nd c.BC). ">Refs 3rd c.BC+</a>]

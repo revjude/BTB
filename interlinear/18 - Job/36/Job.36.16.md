@@ -1,0 +1,25 @@
+**Job 36:16** 
+<small><sub>**KJV:**</sub></small>
+Even so would he have removed thee out of the strait [into] a broad place, where [there is] no straitness; and that which should be set on thy table [should be] full of fatness.
+<small><sub>**BSB:**</sub></small>
+Indeed, He drew you from the jaws of distress to a spacious and broad place, to a table full of richness.
+<small><sub>**Literal:**</sub></small>
+and  also he has allured  you from  [the] mouth of enemy a broad place not constraint in place  its and  [the] quietness of table  your it was full fatness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.15|<< Job 36:15]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.17|Job 36:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and also  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַ֤ף</big></span><small><sup>[[H0637]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has allured you  | <span class="ashebrew"><big>הֲסִיתְ</big></span><small><sup>[[H5496]]</sup></small> <span class="ashebrew"><big>ךָ֨</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ha.si.te.<small><sup>[[HVhp3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] mouth of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פִּי</big></span><small><sup>[[H6310J]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemy  | <span class="ashebrew"><big>צָ֗ר</big></span><small><sup>[[H6862C]]</sup></small> &#8207;| Tzar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a broad place  | <span class="ashebrew"><big>רַ֭חַב</big></span><small><sup>[[H7338]]</sup></small> &#8207;| Ra.chav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| constraint  | <span class="ashebrew"><big>מוּצָ֣ק</big></span><small><sup>[[H4164]]</sup></small> &#8207;| mu.Tzak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place its  | <span class="ashebrew"><big>תַּחְתֶּ֑י</big></span><small><sup>[[H8478I]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| tach.Tei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] quietness of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נַ֥חַת</big></span><small><sup>[[H5183A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Na.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| table your  | <span class="ashebrew"><big>שֻׁ֝לְחָנְ</big></span><small><sup>[[H7979]]</sup></small> <span class="ashebrew"><big>ךָ֗</big></span><small><sup>[[H9021]]</sup></small> &#8207;| Shul.cha.ne.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was full  | <span class="ashebrew"><big>מָ֣לֵא</big></span><small><sup>[[H4390]]</sup></small> &#8207;| Ma.le'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fatness  | <span class="ashebrew"><big>דָֽשֶׁן</big></span><small><sup>[[H1880]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Da.shen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.15|<< Job 36:15]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.17|Job 36:17 >>]]</td></tr></table>
+
+

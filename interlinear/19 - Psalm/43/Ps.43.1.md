@@ -1,0 +1,24 @@
+**Psalms 43:1** 
+<small><sub>**KJV:**</sub></small>
+Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.
+<small><sub>**BSB:**</sub></small>
+Vindicate me, O God, and plead my case against an ungodly nation; deliver me from deceitful and unjust men.
+<small><sub>**Literal:**</sub></small>
+vindicate  me O God and  conduct  ! case  my from  a nation not faithful from  a man of deceit and  injustice you will deliver  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.11|<< Psalms 42:11]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.2|Psalms 43:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| vindicate me  | <span class="ashebrew"><big>שָׁפְטֵ֤</big></span><small><sup>[[H8199]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| sha.fe.Te.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God  | <span class="ashebrew"><big>אֱלֹהִ֨ים</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and conduct !  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רִ֘יבָ֤</big></span><small><sup>[[H7378]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ri.Va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| case my  | <span class="ashebrew"><big>רִיבִ֗</big></span><small><sup>[[H7379]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ri.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a nation  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>גּ֥וֹי</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faithful  | <span class="ashebrew"><big>חָסִ֑יד</big></span><small><sup>[[H2623]]</sup></small> &#8207;| cha.Sid<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a man of  | <span class="ashebrew"><big>מֵ֤</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אִישׁ</big></span><small><sup>[[H0376G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| Me.<small><sup>[[HR]]</sup></small> 'ish-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deceit  | <span class="ashebrew"><big>מִרְמָ֖ה</big></span><small><sup>[[H4820]]</sup></small> &#8207;| mir.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and injustice  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַוְלָ֣ה</big></span><small><sup>[[H5766B]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'av.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will deliver me  | <span class="ashebrew"><big>תְפַלְּטֵֽ</big></span><small><sup>[[H6403]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| te.fa.le.Te.<small><sup>[[HVpi2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.11|<< Psalms 42:11]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.2|Psalms 43:2 >>]]</td></tr></table>
+
+

@@ -1,0 +1,27 @@
+**2 Kings 9:13** 
+<small><sub>**KJV:**</sub></small>
+Then they hasted, and took every man his garment, and put [it] under him on the top of the stairs, and blew with trumpets, saying, Jehu is king.
+<small><sub>**BSB:**</sub></small>
+Quickly, each man took his garment and put it under Jehu on the bare steps. Then they blew the ram’s horn and proclaimed, “Jehu is king!”
+<small><sub>**Literal:**</sub></small>
+and  they hurried and  they took each garment  his and  they put [them] under  him to [the] bone of the  steps and  they gave a blast on the  trumpet and  they said he is king Jehu<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.12|<< 2 Kings 9:12]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.14|2 Kings 9:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they hurried  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְמַהֲר֗וּ</big></span><small><sup>[[H4116A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.ma.ha.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they took  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְחוּ֙</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| each  | <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| garment his  | <span class="ashebrew"><big>בִּגְד֔</big></span><small><sup>[[H0899B]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| big.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they put [them]  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּשִׂ֥ימוּ</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Si.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| under him  | <span class="ashebrew"><big>תַחְתָּ֖י</big></span><small><sup>[[H8478G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] bone of  | <span class="ashebrew"><big>גֶּ֣רֶם</big></span><small><sup>[[H1634]]</sup></small> &#8207;| Ge.rem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the steps  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּעֲל֑וֹת</big></span><small><sup>[[H4609B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ma.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they gave a blast  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתְקְעוּ֙</big></span><small><sup>[[H8628]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yit.ke.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the trumpet  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שּׁוֹפָ֔ר</big></span><small><sup>[[H7782]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּאמְר֖וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he is king  | <span class="ashebrew"><big>מָלַ֥ךְ</big></span><small><sup>[[H4427A]]</sup></small> &#8207;| ma.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehu  | <span class="ashebrew"><big>יֵהֽוּא</big></span><small><sup>[[H3058H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.12|<< 2 Kings 9:12]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.14|2 Kings 9:14 >>]]</td></tr></table>
+
+

@@ -1,0 +1,14 @@
+<small>Also see: [[H0439]]</small>
+
+ I. <span class="bdbLangHebrew">‎אֵלוֺן‎</span> **noun [feminine]** ==terebinth== (= <span class="bdbLangHebrew">‎אֵלָה‎</span>) — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> construct [[Gen.12.6|Gen 12:6]] + 4 t.; plural construct <span class="bdbLangHebrew">‎אֵלוֺנֵי‎</span> [[Gen.13.18|Gen 13:18]] + 3 t. — ***terebinth*** (or other tall tree, compare below on [[1Sam.10.3|1Sam 10:3]]; [[Judg.4.5|Judg 4:5]]), marking shrine, &amp; hence used in topographic designations; <span class="bdbLangHebrew">‎מוֺרֶה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> (***teacher's terebinth***) [[Gen.12.6|Gen 12:6]] (see [[BDB#Di|Di]]) so [[Deut.11.30|Deut 11:30]] <span class="bdbLangHebrew">‎מְעוֺנְנִים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> (***eonjurors' tereb.***) [[Judg.9.37|Judg 9:37]] distinguished by owner or ruler <span class="bdbLangHebrew">‎מַמְרֵא‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Gen.13.18|Gen 13:18]]; [[Gen.14.13|Gen 14:13]]; [[Gen.18.1|Gen 18:1]] by neighbouring town <span class="bdbLangHebrew">‎(ב)צענים‎</span> [[Judg.4.11|Judg 4:11]] compare <span class="bdbLangHebrew">‎בְּצַעֲנַנִּים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Josh.19.33|Josh 19:33]] (editions <span class="bdbLangHebrew">‎אַלּוֺן‎</span>, but see [[BDB#Norzi|Norzi]] [[BDB#Baer|Baer]] [[BDB#Di|Di]].); <span class="bdbLangHebrew">‎מֻצָּב אֲשֶׁר בִּשְׁכֶם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֵ‎</span> [[Judg.9.6|Judg 9:6]] (compare <span class="bdbLangHebrew">‎אֵלָה‎</span> [[Gen.35.4|Gen 35:4]]); <span class="bdbLangHebrew">‎תָּבוֺר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[1Sam.10.3|1Sam 10:3]] read <span class="bdbLangHebrew">‎דְּבוֺרָה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> (&amp; compare <span class="bdbLangHebrew">‎אַלּוֺן בָּכוּת‎</span> [[Gen.35.8|Gen 35:8]], &amp; <span class="bdbLangHebrew">‎תֹּמֶר דְּבוֺרָה‎</span> [[Judg.4.5|Judg 4:5]]) compare [[BDB#Ew|Ew]]<sup>Geschichte iii. 31</sup> [[BDB#The|Th]] [[BDB#Di|Di]] [[Gen.35.8|Gen 35:8]] (see also below <span class="bdbLangHebrew">‎אַלּוֺן‎</span>). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.12.6\|12:6]] · [[Gen.13.18\|13:18]] · [[Gen.14.13\|14:13]] · [[Gen.18.1\|18:1]] · [[Gen.35.4\|35:4]] · [[Gen.35.8\|35:8]] |
+| Deuteronomy | [[Deut.11.30\|11:30]] |
+| Joshua | [[Josh.19.33\|19:33]] |
+| Judges | [[Judg.4.5\|4:5]] · [[Judg.4.11\|4:11]] · [[Judg.9.6\|9:6]] · [[Judg.9.37\|9:37]] |
+| 1 Samuel | [[1Sam.10.3\|10:3]] |
+

@@ -1,0 +1,22 @@
+**Genesis 21:21** 
+<small><sub>**KJV:**</sub></small>
+And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt.
+<small><sub>**BSB:**</sub></small>
+And while he was dwelling in the Wilderness of Paran, his mother got a wife for him from the land of Egypt.
+<small><sub>**Literal:**</sub></small>
+and  he dwelt in  [the] wilderness of Paran and  she took for \<the>  him mother  his a wife from  [the] land of Egypt<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.20|<< Genesis 21:20]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.22|Genesis 21:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he dwelt  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֖שֶׁב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] wilderness of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִדְבַּ֣ר</big></span><small><sup>[[H4057B]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mid.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Paran  | <span class="ashebrew"><big>פָּארָ֑ן</big></span><small><sup>[[H6290G]]</sup></small> &#8207;| pa.Ran<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she took  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּֽקַּֽח</big></span><small><sup>[[H3947G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ti.kach-<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> him  | <span class="ashebrew"><big>ל֥</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mother his  | <span class="ashebrew"><big>אִמּ֛</big></span><small><sup>[[H0517]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'i.M<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wife  | <span class="ashebrew"><big>אִשָּׁ֖ה</big></span><small><sup>[[H0802H]]</sup></small> &#8207;| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] land of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֶ֥רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרָֽיִם</big></span><small><sup>[[H4714G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.20|<< Genesis 21:20]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.22|Genesis 21:22 >>]]</td></tr></table>
+
+

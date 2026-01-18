@@ -1,0 +1,25 @@
+**Leviticus 26:8** 
+<small><sub>**KJV:**</sub></small>
+And five of you shall chase an hundred, and an hundred of you shall put ten thousand to flight: and your enemies shall fall before you by the sword.
+<small><sub>**BSB:**</sub></small>
+Five of you will pursue a hundred, and a hundred of you will pursue ten thousand, and your enemies will fall by the sword before you.
+<small><sub>**Literal:**</sub></small>
+and  they will pursue of \<the>  you five one hundred and  one hundred of \<the>  you ten thousand they will pursue and  they will fall enemies  your \<to>  before  you to the  sword<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.7|<< Leviticus 26:7]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.9|Leviticus 26:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will pursue  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>רָדְפ֨וּ</big></span><small><sup>[[H7291]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> rad.Fu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> you  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>כֶּ֤ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| mi.<small><sup>[[HRd]]</sup></small> Kem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  | <span class="ashebrew"><big>חֲמִשָּׁה֙</big></span><small><sup>[[H2568]]</sup></small> &#8207;| cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one hundred  | <span class="ashebrew"><big>מֵאָ֔ה</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'Ah<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and one hundred  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֵאָ֥ה</big></span><small><sup>[[H3967]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.'Ah<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> you  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>כֶּ֖ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| mi.<small><sup>[[HRd]]</sup></small> Kem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten thousand  | <span class="ashebrew"><big>רְבָבָ֣ה</big></span><small><sup>[[H7233]]</sup></small> &#8207;| re.va.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will pursue  | <span class="ashebrew"><big>יִרְדֹּ֑פוּ</big></span><small><sup>[[H7291]]</sup></small> &#8207;| yir.Do.fu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will fall  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָפְל֧וּ</big></span><small><sup>[[H5307J]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> naf.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies your  | <span class="ashebrew"><big>אֹיְבֵי</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>כֶ֛ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'o.ye.vei.<small><sup>[[HVqrmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before you  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵי</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the sword  | <span class="ashebrew"><big>לֶ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חָֽרֶב</big></span><small><sup>[[H2719]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.7|<< Leviticus 26:7]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.9|Leviticus 26:9 >>]]</td></tr></table>
+
+

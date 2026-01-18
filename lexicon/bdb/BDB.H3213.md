@@ -1,0 +1,20 @@
+ [<span class="bdbLangHebrew">‎יָלַל‎</span>] **verb Hiph\`il** ==howl, make a howling== (onomatopoetic) — 
+
+**Hiph\`il** ***Perfect*** <span class="bdbLangHebrew">‎וְהֵילִל‎</span> consecutive [[Jer.47.2|Jer 47:2]] <span class="bdbLangHebrew">‎וְהֵילִיל֫וּ‎</span> consecutive [[Amos.8.3|Amos 8:3]] ***Imperfect*** <span class="bdbLangHebrew">‎יְיֵלִיל‎</span> [[Isa.15.2|Isa 15:2]] + 3 t. ([[BDB#Ges|Ges]]<sup>«GKC:70»§ 70</sup>. 2, R. 2 [[BDB#Kö|Kö]]<sup>i. 437, 421</sup>); <span class="bdbLangHebrew">‎אֲיֵלִיל‎</span> [[Jer.48.31|Jer 48:31]] <span class="bdbLangHebrew">‎וְאֵילִי֫לָה‎</span> [[Mic.1.8|Mic 1:8]] <span class="bdbLangHebrew">‎יְיֵלִיל֫וּ‎</span> [[Hos.7.14|Hos 7:14]] ([[BDB#Kö|Kö]]<sup>i. 421</sup>); <span class="bdbLangHebrew">‎יְהֵילִי֫לוּ‎</span> [[Isa.52.5|Isa 52:5]] <span class="bdbLangHebrew">‎תִּיִלִי֫לוּ‎</span> [[Isa.65.14|Isa 65:14]] ***Imperative*** <span class="bdbLangHebrew">‎הֵילֵל‎</span> [[Ezek.21.17|Ezek 21:17]]; [[Zech.11.2|Zech 11:2]] <span class="bdbLangHebrew">‎הֵילִי֫לִי‎</span> [[Isa.14.31|Isa 14:31]]; [[Isa.49.3|Isa 49:3]] + [[Jer.48.20|Jer 48:20]] [[BDB#Kt|Kt]]; <span class="bdbLangHebrew">‎הֵילִי֫לוּ‎</span> [[Isa.13.6|Isa 13:6]] + 13 t. + [[Jer.48.20|Jer 48:20]] [[BDB#Qr|Qr]], + [[Ezek.30.2|Ezek 30:2]] (strike out [[BDB#Sept|ᵐ5]] [[BDB#Co|Co]]); — ***utter*** or ***make a howling, give a howl***, in distress, \|\| <span class="bdbLangHebrew">‎זעק‎</span> [[Hos.7.14|Hos 7:14]]; [[Jer.47.2|Jer 47:2]]; [[Isa.14.31|Isa 14:31]]; [[Jer.25.34|Jer 25:34]]; [[Jer.48.20|Jer 48:20]]; [[Jer.48.31|Jer 48:31]] (followed by <span class="bdbLangHebrew">‎על‎</span>), [[Ezek.21.17|Ezek 21:17]] \|\| <span class="bdbLangHebrew">‎צעק‎</span> [[Isa.65.14|Isa 65:14]] (followed by <span class="bdbLangHebrew">‎מִן‎</span> of occasion, source); \|\| <span class="bdbLangHebrew">‎ספד‎</span> [[Mic.1.8|Mic 1:8]]; [[Jer.4.8|Jer 4:8]]; [[Joel.1.13|Joel 1:13]] \|\| <span class="bdbLangHebrew">‎הֹבִישׁ‎</span> [[Joel.1.11|Joel 1:11]] \|\| <span class="bdbLangHebrew">‎בכה‎</span> [[Joel.1.5|Joel 1:5]] (compare [[Isa.15.2|Isa 15:2]]; [[Isa.15.3|Isa 15:3]] + <span class="bdbLangHebrew">‎בֶּ֑כִי‎</span>); followed by <span class="bdbLangHebrew">‎על‎</span> [[Jer.51.8|Jer 51:8]]; [[Isa.15.2|Isa 15:2]]; [[Isa.15.3|Isa 15:3]] [[BDB#We|We]] proposes <span class="bdbLangHebrew">‎ילילו‎</span> for <span class="bdbLangHebrew">‎יגילו‎</span> [[Hos.10.5|Hos 10:5]] (others <span class="bdbLangHebrew">‎יחילו‎</span>, see <span class="bdbLangHebrew">‎גיל‎</span> above); followed by <span class="bdbLangHebrew">‎לְ‎</span> [[Isa.16.7|Isa 16:7]] absolute <span class="bdbLangHebrew">‎והילילו שׁירות היכל‎</span> [[Amos.8.3|Amos 8:3]] ***and palace-songs shall become howlings***, [[Isa.13.6|Isa 13:6]]; [[Isa.16.7|Isa 16:7]]; [[Isa.23.1|Isa 23:1]]; [[Isa.23.6|Isa 23:6]]; [[Isa.23.14|Isa 23:14]]; [[Jer.48.39|Jer 48:39]]; [[Jer.49.3|Jer 49:3]] ([[Ezek.30.2|Ezek 30:2]] see above), [[Zeph.1.11|Zeph 1:11]]; [[Zech.11.2|Zech 11:2]] (twice in verse); in cruel exultation [[Isa.52.5|Isa 52:5]] compare [[BDB#De|De]] [[BDB#Che|Che]] di. — On <span class="bdbLangHebrew">‎הֵילֵל בֶּןשָֿׁ֑חַר‎</span> [[Isa.14.12|Isa 14:12]] compare below I. <span class="bdbLangHebrew">‎הלל‎</span> above. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Isaiah | [[Isa.13.6\|13:6]] · [[Isa.14.12\|14:12]] · [[Isa.14.31\|14:31]] · [[Isa.15.2\|15:2]] · [[Isa.15.3\|15:3]] · [[Isa.16.7\|16:7]] · [[Isa.23.1\|23:1]] · [[Isa.23.6\|23:6]] · [[Isa.23.14\|23:14]] · [[Isa.49.3\|49:3]] · [[Isa.52.5\|52:5]] · [[Isa.65.14\|65:14]] |
+| Jeremiah | [[Jer.4.8\|4:8]] · [[Jer.25.34\|25:34]] · [[Jer.47.2\|47:2]] · [[Jer.48.20\|48:20]] · [[Jer.48.31\|48:31]] · [[Jer.48.39\|48:39]] · [[Jer.49.3\|49:3]] · [[Jer.51.8\|51:8]] |
+| Ezekiel | [[Ezek.21.17\|21:17]] · [[Ezek.30.2\|30:2]] |
+| Hosea | [[Hos.7.14\|7:14]] · [[Hos.10.5\|10:5]] |
+| Joel | [[Joel.1.5\|1:5]] · [[Joel.1.11\|1:11]] · [[Joel.1.13\|1:13]] |
+| Amos | [[Amos.8.3\|8:3]] |
+| Micah | [[Mic.1.8\|1:8]] |
+| Zephaniah | [[Zeph.1.11\|1:11]] |
+| Zechariah | [[Zech.11.2\|11:2]] |
+

@@ -1,0 +1,24 @@
+**Genesis 40:4** 
+<small><sub>**KJV:**</sub></small>
+And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward.
+<small><sub>**BSB:**</sub></small>
+The captain of the guard assigned them to Joseph, and he became their personal attendant. After they had been in custody for some time,
+<small><sub>**Literal:**</sub></small>
+and  he appointed [the] commander of the  bodyguards \<obj.> Joseph with  them and  he served \<obj.>  them and  they were days in  custody<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.3|<< Genesis 40:3]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.5|Genesis 40:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he appointed  | <span class="ashebrew"><big>וַ֠</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּפְקֹד</big></span><small><sup>[[H6485J]]</sup></small> &#8207;| Va<small><sup>[[Hc]]</sup></small> i.yif.kod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] commander of  | <span class="ashebrew"><big>שַׂ֣ר</big></span><small><sup>[[H8269]]</sup></small> &#8207;| sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the bodyguards  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>טַּבָּחִ֧ים</big></span><small><sup>[[H2876]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ta.ba.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  | <span class="ashebrew"><big>יוֹסֵ֛ף</big></span><small><sup>[[H3130G]]</sup></small> &#8207;| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with them  | <span class="ashebrew"><big>אִתָּ֖</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'i.Ta<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he served  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְשָׁ֣רֶת</big></span><small><sup>[[H8334]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Sha.ret<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אֹתָ֑</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they were  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּהְי֥וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִ֖ים</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in custody  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִשְׁמָֽר</big></span><small><sup>[[H4929]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mish.Mar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.3|<< Genesis 40:3]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.5|Genesis 40:5 >>]]</td></tr></table>
+
+

@@ -1,0 +1,22 @@
+**Deuteronomy 20:2** 
+<small><sub>**KJV:**</sub></small>
+And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,
+<small><sub>**BSB:**</sub></small>
+When you are about to go into battle, the priest is to come forward and address the army,
+<small><sub>**Literal:**</sub></small>
+and  it will be when  draw near  you to the  battle and  he will come near the  priest and  he will speak to the  people<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.1|<< Deuteronomy 20:1]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.3|Deuteronomy 20:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֕ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when draw near you  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>קָֽרָבְ</big></span><small><sup>[[H7126G]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9046]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> ka.ra.ve.<small><sup>[[HVqcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the battle  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּלְחָמָ֑ה</big></span><small><sup>[[H4421]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will come near  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נִגַּ֥שׁ</big></span><small><sup>[[H5066G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ni.Gash<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֵ֖ן</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will speak  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>דִבֶּ֥ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> di.Ber<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָֽם</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.1|<< Deuteronomy 20:1]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.3|Deuteronomy 20:3 >>]]</td></tr></table>
+
+

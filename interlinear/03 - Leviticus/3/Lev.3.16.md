@@ -1,0 +1,23 @@
+**Leviticus 3:16** 
+<small><sub>**KJV:**</sub></small>
+And the priest shall burn them upon the altar: [it is] the food of the offering made by fire for a sweet savour: all the fat [is] the LORD’S.
+<small><sub>**BSB:**</sub></small>
+Then the priest is to burn the food on the altar as a food offering, a pleasing aroma. All the fat is the LORD’s.
+<small><sub>**Literal:**</sub></small>
+and  he will make smoke  them the  priest the  altar  towards food of a fire offering to  an odor of soothing all fat [belongs] to  Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.15|<< Leviticus 3:15]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.17|Leviticus 3:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will make smoke them  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִקְטִירָ֥</big></span><small><sup>[[H6999A]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hik.ti.Ra<small><sup>[[HVhq3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֵ֖ן</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the altar towards  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּזְבֵּ֑חָ</big></span><small><sup>[[H4196]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> miz.Be.cha<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food of  | <span class="ashebrew"><big>לֶ֤חֶם</big></span><small><sup>[[H3899G]]</sup></small> &#8207;| Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fire offering  | <span class="ashebrew"><big>אִשֶּׁה֙</big></span><small><sup>[[H0801]]</sup></small> &#8207;| 'i.Sheh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to an odor of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רֵ֣יחַ</big></span><small><sup>[[H7381]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Rei.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| soothing  | <span class="ashebrew"><big>נִיחֹ֔חַ</big></span><small><sup>[[H5207]]</sup></small> &#8207;| ni.Cho.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fat  | <span class="ashebrew"><big>חֵ֖לֶב</big></span><small><sup>[[H2459]]</sup></small> &#8207;| Che.lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to Yahweh  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.15|<< Leviticus 3:15]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.17|Leviticus 3:17 >>]]</td></tr></table>
+
+

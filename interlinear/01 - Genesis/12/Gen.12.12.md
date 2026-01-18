@@ -1,0 +1,25 @@
+**Genesis 12:12** 
+<small><sub>**KJV:**</sub></small>
+Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This [is] his wife: and they will kill me, but they will save thee alive.
+<small><sub>**BSB:**</sub></small>
+and when the Egyptians see you, they will say, ‘This is his wife.’ Then they will kill me but will let you live.
+<small><sub>**Literal:**</sub></small>
+and  it will be that they will see \<obj.>  you the  Egyptians and  they will say [is] wife  his this and  they will kill \<obj.>  me and  \<obj.>  you they will let live<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.11|<< Genesis 12:11]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.13|Genesis 12:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֗ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will see  | <span class="ashebrew"><big>יִרְא֤וּ</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| yir.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  | <span class="ashebrew"><big>אֹתָ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'o.to<small><sup>[[HTo]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Egyptians  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּצְרִ֔ים</big></span><small><sup>[[H4713]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mitz.Rim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will say  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָמְר֖וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] wife his  | <span class="ashebrew"><big>אִשְׁתּ֣</big></span><small><sup>[[H0802H]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'ish.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֹ֑את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will kill  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָרְג֥וּ</big></span><small><sup>[[H2026]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.re.Gu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> me  | <span class="ashebrew"><big>אֹתִ֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.> you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֹתָ֥</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'o.Ta<small><sup>[[HTo]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will let live  | <span class="ashebrew"><big>יְחַיּֽוּ</big></span><small><sup>[[H2421]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.chai.Yu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.11|<< Genesis 12:11]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.13|Genesis 12:13 >>]]</td></tr></table>
+
+

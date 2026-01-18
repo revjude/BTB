@@ -1,0 +1,25 @@
+**Genesis 28:19** 
+<small><sub>**KJV:**</sub></small>
+And he called the name of that place Bethel: but the name of that city [was called] Luz at the first.
+<small><sub>**BSB:**</sub></small>
+and he called that place Bethel, though previously the city had been named Luz.
+<small><sub>**Literal:**</sub></small>
+and  he called \<obj.> [the] name of the  place \<the>  that Beth- -el and  but [was] Luz [the] name of the  city to the  former [time]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.18|<< Genesis 28:18]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.20|Genesis 28:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he called  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְרָ֛א</big></span><small><sup>[[H7121H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  | <span class="ashebrew"><big>שֵֽׁם</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the place  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מָּק֥וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ה֖וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth-  | <span class="ashebrew"><big>בֵּֽית</big></span><small><sup>[[H1008G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| beit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -el  | <span class="ashebrew"><big>אֵ֑ל</big></span><small><sup>[[H1008G]]</sup></small> &#8207;| 'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and but  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אוּלָ֛ם</big></span><small><sup>[[H0199]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'u.Lam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Luz  | <span class="ashebrew"><big>ל֥וּז</big></span><small><sup>[[H3870H]]</sup></small> &#8207;| luz<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  | <span class="ashebrew"><big>שֵׁם</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִ֖יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the former [time]  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רִאשֹׁנָֽה</big></span><small><sup>[[H7223G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> ri.sho.Nah<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.18|<< Genesis 28:18]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.20|Genesis 28:20 >>]]</td></tr></table>
+
+

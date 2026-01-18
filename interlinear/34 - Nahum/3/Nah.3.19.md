@@ -1,0 +1,31 @@
+**Nahum 3:19** 
+<small><sub>**KJV:**</sub></small>
+[There is] no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?
+<small><sub>**BSB:**</sub></small>
+There is no healing for your injury; your wound is severe. All who hear the news of you applaud your downfall, for who has not experienced your constant cruelty?
+<small><sub>**Literal:**</sub></small>
+there not [is] relief for  fracture  your [is] severe wound  your all [those who] hear \<of> report  your they strike a palm on  you for over whom? not has it passed evil  your continually<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.18|<< Nahum 3:18]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.1|Habakkuk 1:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| there not  | <span class="ashebrew"><big>אֵין</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] relief  | <span class="ashebrew"><big>כֵּהָ֣ה</big></span><small><sup>[[H3545]]</sup></small> &#8207;| ke.Hah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for fracture your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שִׁבְרֶ֔</big></span><small><sup>[[H7667]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> shiv.Re.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] severe  | <span class="ashebrew"><big>נַחְלָ֖ה</big></span><small><sup>[[H2470I]]</sup></small> &#8207;| nach.Lah<small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wound your  | <span class="ashebrew"><big>מַכָּתֶ֑</big></span><small><sup>[[H4347]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ma.ka.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כֹּ֣ל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] hear  | <span class="ashebrew"><big>שֹׁמְעֵ֣י</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| sho.me.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> report your  | <span class="ashebrew"><big>שִׁמְעֲ</big></span><small><sup>[[H8088B]]</sup></small> <span class="ashebrew"><big>ךָ֗</big></span><small><sup>[[H9021]]</sup></small> &#8207;| shim.'a.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they strike  | <span class="ashebrew"><big>תָּ֤קְעוּ</big></span><small><sup>[[H8628]]</sup></small> &#8207;| Ta.ke.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a palm  | <span class="ashebrew"><big>כַף֙</big></span><small><sup>[[H3709G]]</sup></small> &#8207;| khaf<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עָלֶ֔י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֗י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| Ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom?  | <span class="ashebrew"><big>מִ֛י</big></span><small><sup>[[H4310]]</sup></small> &#8207;| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| has it passed  | <span class="ashebrew"><big>עָבְרָ֥ה</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| 'a.ve.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil your  | <span class="ashebrew"><big>רָעָתְ</big></span><small><sup>[[H7451I]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ra.'a.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| continually  | <span class="ashebrew"><big>תָּמִֽיד</big></span><small><sup>[[H8548]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.18|<< Nahum 3:18]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.1|Habakkuk 1:1 >>]]</td></tr></table>
+
+

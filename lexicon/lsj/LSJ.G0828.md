@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==Αὔγουστος==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>Augustus,</b> used as an <i>adjective</i>, = Gr. <span class='asgreek'>σεβαστός</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 3.11.4">Refs 2nd c.AD+</a>], etc.:—hence <span class='asgreek'>Αὐγούστειος</span>, <span class='asgreek'>ον</span>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 61.20">Refs 2nd c.AD+</a>]: <span class='asgreek'>Αὐγουστεῖον</span>, <span class='asgreek'>τό</span>, <b>temple of Augustus,</b> [<a href="javascript:void(0)" title=" [prev. author] 57.10">Refs</a>]: <span class='asgreek'>Αὐγούστεια</span>, <span class='asgreek'>τά</span>, <b>festival of A.,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 3.129, 14.739">Refs</a>]:—<span class='asgreek'>Αὐγουστάλιος</span>, <span class='asgreek'>ον</span>, <b>Augustalis,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>Αὐγουστάλια</span> <b>ludi Augustales,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 54.34">Refs 2nd c.AD+</a>]; -<span class='asgreek'>άλιος</span>, <span class='asgreek'>ὁ</span>, <b>praefectus Augusti,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Lydus, Joannes Laurentius Historicus “Mag.” 2.3. ">Refs 6th c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> the month <b>August,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Numa” 19.">Refs 1st c.AD+</a>]

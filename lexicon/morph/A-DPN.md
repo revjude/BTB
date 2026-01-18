@@ -1,0 +1,5 @@
+###### A-DPN
+$\quad$ Function=Adjective; Case=Dative; Number=Plural; Gender=Neuter
+$\quad$ Adjective Dative Plural Neuter 
+$\quad$ "DESCRIBING neuter people or things that something is done for‚ or in relation to "
+$\qquad$ _"giving to \_wise\_ nations"_

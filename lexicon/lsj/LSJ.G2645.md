@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==κατάλοιπος==</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>left remaining</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>ἀπεργάζεσθαι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 39e ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐκ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 548b18, compare “Michel” 829.23 (1st c.BC)">Refs 4th c.BC+</a>], etc.; <span class='asgreek'>τὰ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>διεξόδου</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.120 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]; <span class='asgreek'>τοῦτο</span>.. <span class='asgreek'>κατάλοιπόν</span> [<span class='asgreek'>ἐστι</span>] with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 3rd c.BC(?): Strato Comicus 1.10; ἡ κ. εἰσβολή 2nd c.BC: Polybius Historicus 3.91.9 ">Refs 3rd c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>κ</span>. the <b>other</b> of two, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 7.314. ">Refs 2nd c.AD+</a>]
+

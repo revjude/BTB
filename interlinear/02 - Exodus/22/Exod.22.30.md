@@ -1,0 +1,26 @@
+**Exodus 22:30** (22:29)
+<small><sub>**KJV:**</sub></small>
+Likewise shalt thou do with thine oxen, [and] with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me.
+<small><sub>**BSB:**</sub></small>
+You shall do likewise with your cattle and your sheep. Let them stay with their mothers for seven days, but on the eighth day you are to give them to Me.
+<small><sub>**Literal:**</sub></small>
+thus you will do to  ox  your to  sheep  your seven days it will be with mother  its on the  day \<the>  eighth you will give  it to \<the>  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.29|<< Exodus 22:29]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.31|Exodus 22:31 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| thus  | <span class="ashebrew"><big>כֵּֽן</big></span><small><sup>[[H3651C]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ken-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will do  | <span class="ashebrew"><big>תַּעֲשֶׂ֥ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to ox your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שֹׁרְ</big></span><small><sup>[[H7794]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> sho.re.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to sheep your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>צֹאנֶ֑</big></span><small><sup>[[H6629G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> tzo.Ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שִׁבְעַ֤ת</big></span><small><sup>[[H7651]]</sup></small> &#8207;| shiv.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִים֙</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  | <span class="ashebrew"><big>יִהְיֶ֣ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mother its  | <span class="ashebrew"><big>אִמּ֔</big></span><small><sup>[[H0517]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'i.M<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the day  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּ֥וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> eighth  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁמִינִ֖י</big></span><small><sup>[[H8066]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.mi.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will give it  | <span class="ashebrew"><big>תִּתְּנ</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ti.te.no<small><sup>[[HVqi2ms]]</sup></small> v-<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> me  | <span class="ashebrew"><big>לִֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.29|<< Exodus 22:29]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.31|Exodus 22:31 >>]]</td></tr></table>
+
+

@@ -1,0 +1,22 @@
+**Nehemiah 11:16** 
+<small><sub>**KJV:**</sub></small>
+And Shabbethai and Jozabad, of the chief of the Levites, [had] the oversight of the outward business of the house of God.
+<small><sub>**BSB:**</sub></small>
+Shabbethai and Jozabad, two leaders of the Levites, who supervised the work outside the house of God;
+<small><sub>**Literal:**</sub></small>
+and  Shabbethai and  Jozabad over the  work \<the>  external of  [the] house of \<the>  God [were] of  [the] leaders of the  Levites<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.15|<< Nehemiah 11:15]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.17|Nehemiah 11:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Shabbethai  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שַׁבְּתַ֨י</big></span><small><sup>[[H7678I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sha.be.Tai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jozabad  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יוֹזָבָ֜ד</big></span><small><sup>[[H3107Q]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yo.za.Vad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the work  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְּלָאכָ֤ה</big></span><small><sup>[[H4399]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> external  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חִֽיצֹנָה֙</big></span><small><sup>[[H2435]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chi.tzo.Nah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] house of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בֵ֣ית</big></span><small><sup>[[H1004Q]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֔ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] of [the] leaders of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>רָאשֵׁ֖י</big></span><small><sup>[[H7218H]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Levites  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לְוִיִּֽם</big></span><small><sup>[[H3881]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.15|<< Nehemiah 11:15]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.17|Nehemiah 11:17 >>]]</td></tr></table>
+
+

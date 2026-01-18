@@ -1,0 +1,27 @@
+ <span class="bdbLangHebrew">‎אֲשִׁימָא‎</span> **proper name [masculine]** ==a god of Hamath== [[2Kgs.17.30|2Kgs 17:30]], otherwise wholly unknown. 
+
+ <span class="bdbLangHebrew">‎בָּאַשׁ‎</span> **verb** ==have a bad smell==, stink (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKQAhAIAAAP///wAAACH5BAAAAAAALAAAAAApACEAAAJphI+py+1/ApwzWEmzsgbrD3AhCF4iGXnMhabno2rmu7Il7ZitbO/5HPNtesIWrlhDVo7KBC3YkYiO1Bg0JAU6iVgVEwgOz7Y18VhMXjCxN+j1Yz3pfER00T1u6ve7d3POFwUYuBZoSFEAADs="> ***be evil***, Aramaic <span class="bdbLangAramaic">‎בְּאֵשׁ‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJQAWAIAAAP///wAAACH5BAAAAAAALAAAAAAlABYAAAJWhI+py+0WVpjxWZootm7DqHHdpJCkyHiHWaHl6bpqzM30Y7d3BgOangpJYD/bqjjUgZCrDxNhdLYwxdM06iNWq8ft0/sF/6DIsTO7vYyAu0av3YHLHQUAOw=="> ***be evil***, Assyrian <abbr title="transliteration"><u>***bîšu***</u></abbr> Lotz<sup>TP 78</sup>) — 
+
+**Qal** ***Perfect*** <span class="bdbLangHebrew">‎וּבָאַשׁ‎</span> consecutive [[Exod.7.18|Exod 7:18]] ***Imperfect*** <span class="bdbLangHebrew">‎וַיִּבְאַשׁ‎</span> v[[Exod.7.21|Exod 7:21]], <span class="bdbLangHebrew">‎אַֿ֑שׁ‎</span> [[Exod.16.20|Exod 16:20]] 3 feminine singular <span class="bdbLangHebrew">‎תִּבְאַשׁ‎</span> [[Isa.50.2|Isa 50:2]] <span class="bdbLangHebrew">‎וַתִּבְאַשׁ‎</span> [[Exod.8.10|Exod 8:10]] — ***stink***, of Nile, on account of dead fish [[Exod.7.18|Exod 7:18]]; [[Exod.7.21|Exod 7:21]] ([[BDB#E|E]]); of land of Egypt, owing to dead frogs [[Exod.8.10|Exod 8:10]] ([[BDB#J|J]]); of manna kept over [[Exod.16.20|Exod 16:20]] ([[BDB#P|P]] ? or [[BDB#R|R]]) <span class="bdbLangHebrew">‎וַיָּרֻם תּוֺלָעִים וַיִּבְאַ֑שׁ‎</span> ***and it grew foul*** (rotten, decayed) ***with worms, and stank***; [[Isa.50.2|Isa 50:2]] <span class="bdbLangHebrew">‎תִּבְאַשׁ דְּגָתָם מֵאֵין מַיִם וְתָמֹת בַּצָּמָא‎</span> ***their fish stink for lack of water***, etc. ([[BDB#Sept|ᵐ5]] [[BDB#Lo|Lo]] [[BDB#Di|Di]] read <span class="bdbLangHebrew">‎תִּיבַשׁ‎</span>, ***dry up*** and die, which suits \|\|, but not the usage of <span class="bdbLangHebrew">‎יָבֵשׁ‎</span>). **Niph\`al** ***Perfect*** <span class="bdbLangHebrew">‎נִבְאַשׁ‎</span> [[1Sam.13.4|1Sam 13:4]] <span class="bdbLangHebrew">‎נִבְאֲשׁוּ‎</span> [[2Sam.10.6|2Sam 10:6]] <span class="bdbLangHebrew">‎נִבְאַשְׁתָּ‎</span> [[2Sam.16.2|2Sam 16:2]] — only figurative ***make oneself odious, become odious*** (compare English ***be in bad odour***), followed by <span class="bdbLangHebrew">‎אֵת‎</span> ***with*** = ***towards***; <span class="bdbLangHebrew">‎נִבְאַשְׁתָּ אֶתאָֿבִיךָ‎</span> [[2Sam.16.21|2Sam 16:21]] ***thou hast become odious with thy father***; also followed by <span class="bdbLangHebrew">‎בְּ‎</span> (rather strangely) [[1Sam.13.4|1Sam 13:4]] ***Israel made themselves odious to the Philistines***; [[2Sam.10.6|2Sam 10:6]] Ammonites to David **Hiph\`il** ***Perfect*** <span class="bdbLangHebrew">‎הִבְאִישׁ‎</span> [[Exod.16.24|Exod 16:24]]; [[1Sam.27.12|1Sam 27:12]] <span class="bdbLangHebrew">‎הִבְאִישׁוּ‎</span> [[Ps.38.6|Ps 38:6]] <span class="bdbLangHebrew">‎הִבְאַשְׁתֶּם‎</span> [[Exod.5.21|Exod 5:21]] ***Imperfect*** <span class="bdbLangHebrew">‎יַבְאִישׁ‎</span> [[Prov.13.5|Prov 13:5]]; [[Eccl.10.1|Eccl 10:1]] ***Infinitive absolute*** <span class="bdbLangHebrew">‎הַבְאֵשׁ‎</span> [[1Sam.27.12|1Sam 27:12]] ***construct suffix*** <span class="bdbLangHebrew">‎לְהַבְאִישֵׁנִי‎</span> [[Gen.34.30|Gen 34:30]] — 
+
+**1.** ***emit a stinking odour*** [[Exod.16.24|Exod 16:24]] of manna (compare Qal v[[Exod.16.20|Exod 16:20]]); [[Ps.38.6|Ps 38:6]] <span class="bdbLangHebrew">‎הִבְאִישׁוּ נָמַקּוּ חַבּוּרֹתָ֑י‎</span> ***my wounds have grown stinking, they have festered*** (of chastisement for sin); [[1Sam.17.12|1Sam 17:12]] figurative of David <span class="bdbLangHebrew">‎הַבְאֵשׁ הִבְאִישׁ בְּעַמּוֺ‎</span> ***he hath become utterly abhorred among his people***. 
+
+**2.** ***cause to stink***, <span class="bdbLangHebrew">‎זְבוּבֵי מָוֶת יַבְאִישׁ יַבִּיעַ שֶׁמֶן רוֺקֵ֑חַ‎</span> ***dead flies cause to stink*** (and) ***to ferment the oil of a perfumer***; usually figurative <span class="bdbLangHebrew">‎הִבְאַשְׁתֶּם אֶתרֵֿיחֵנוּ‎</span> [[Exod.5.21|Exod 5:21]] ([[BDB#J|J]]), i.e. ye have made us odious, followed by <span class="bdbLangHebrew">‎בְּעֵינֵי‎</span>, compare (with accusative of person) [[Gen.34.30|Gen 34:30]] followed by <span class="bdbLangHebrew">‎בְ‎</span>; also without object [[Prov.13.5|Prov 13:5]] ***a wicked man makes odious and shameful*** ([[BDB#De|De]] [[BDB#Now|Now]] [[BDB#Str|Str]]; [[BDB#Be|Be]] [[BDB#Ew|Ew]] [[BDB#Hi|Hi]] [[BDB#Zö|Zö]] ***acts odiously and shamefully***). **Hithpa\`el** ***Perfect*** <span class="bdbLangHebrew">‎הִתְבָּאֲשׁוּ‎</span> [[1Chr.19.6|1Chr 19:6]] ***they had made themselves odious*** (= Niph\`al in \|\| [[2Sam.10.6|2Sam 10:6]]), followed by <span class="bdbLangHebrew">‎עִם‎</span>. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.34.30\|34:30]] |
+| Exodus | [[Exod.5.21\|5:21]] · [[Exod.7.18\|7:18]] · [[Exod.7.21\|7:21]] · [[Exod.8.10\|8:10]] · [[Exod.16.20\|16:20]] · [[Exod.16.24\|16:24]] |
+| 1 Samuel | [[1Sam.13.4\|13:4]] · [[1Sam.17.12\|17:12]] · [[1Sam.27.12\|27:12]] |
+| 2 Samuel | [[2Sam.10.6\|10:6]] · [[2Sam.16.2\|16:2]] · [[2Sam.16.21\|16:21]] |
+| 2 Kings | [[2Kgs.17.30\|17:30]] |
+| 1 Chronicles | [[1Chr.19.6\|19:6]] |
+| Psalms | [[Ps.38.6\|38:6]] |
+| Proverbs | [[Prov.13.5\|13:5]] |
+| Ecclesiastes | [[Eccl.10.1\|10:1]] |
+| Isaiah | [[Isa.50.2\|50:2]] |
+

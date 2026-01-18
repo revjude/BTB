@@ -1,0 +1,19 @@
+ <span class="bdbLangAramaic">‎מַלְכוּ‎</span> **noun feminine** ==royalty, reign, kingdom==; — absolute <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎מ‎</span> [[Dan.2.39|Dan 2:39]] +; construct <span class="bdbLangAramaic">‎מַלְכוּת‎</span> [[Ezra.4.24|Ezra 4:24]] +; emphatic <span class="bdbLangAramaic">‎תָא‎</span>- [[Dan.2.37|Dan 2:37]] +, <span class="bdbLangAramaic">‎תָה‎</span>- [[Dan.2.44|Dan 2:44]] suffix <span class="bdbLangAramaic">‎תִי‎</span>- [[Dan.4.15|Dan 4:15]] +, <span class="bdbLangAramaic">‎הֵתּ‎</span>- [[Dan.3.33|Dan 3:33]] +, <span class="bdbLangAramaic">‎תָךְ‎</span>- [[Dan.4.23|Dan 4:23]] +; plural construct <span class="bdbLangAramaic">‎מַלְכְוָת‎</span> [[Dan.7.27|Dan 7:27]] emphatic <span class="bdbLangAramaic">‎וָתָא‎</span>- [[Dan.2.44|Dan 2:44]]; [[Dan.7.23|Dan 7:23]] — 
+
+**1.** ***royalty, kingship, kingly authority:*** [[Dan.4.23|Dan 4:23]]; [[Dan.4.28|Dan 4:28]]; [[Dan.4.33|Dan 4:33]] <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎הֵיכַל מ‎</span> v.[[Dan.4.26|Dan 4:26]], <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎בֵּית מ‎</span> v.[[Dan.4.27|Dan 4:27]], <span class="bdbLangAramaic">‎כָּרְסֵא‎</span> [[Dan.5.20|Dan 5:20]]. 
+
+**2.** organized (world-) kingdom: [[Dan.2.39|Dan 2:39]] (twice in verse); [[Dan.2.40|Dan 2:40]]; [[Dan.2.41|Dan 2:41]]; [[Dan.2.42|Dan 2:42]]; [[Dan.2.44|Dan 2:44]]; [[Dan.7.23|Dan 7:23]] (twice in verse); [[Dan.7.24|Dan 7:24]]; [[Dan.7.27|Dan 7:27]] <span class="bdbLangAramaic">‎אֲנָשָׁא‎</span> <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎מ‎</span> [[Dan.4.14|Dan 4:14]]; [[Dan.4.22|Dan 4:22]]; [[Dan.4.29|Dan 4:29]]; [[Dan.5.21|Dan 5:21]] of specific kings [[Dan.2.37|Dan 2:37]]; [[Dan.5.18|Dan 5:18]]; [[Dan.5.28|Dan 5:28]]; [[Dan.6.1|Dan 6:1]] of God [[Dan.3.33|Dan 3:33]]; [[Dan.7.27|Dan 7:27]] (both <span class="bdbLangAramaic">‎עָלַם‎</span> <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎מ‎</span>), [[Dan.2.44|Dan 2:44]] (twice in verse); [[Dan.3.33|Dan 3:33]]; [[Dan.4.31|Dan 4:31]]; [[Dan.6.27|Dan 6:27]]; [[Dan.7.27|Dan 7:27]] of Messiah [[Dan.7.14|Dan 7:14]] (twice in verse); of saints [[Dan.7.18|Dan 7:18]] (twice in verse); [[Dan.7.22|Dan 7:22]]; [[Dan.7.27|Dan 7:27]]. 
+
+**3.** ***realm*** (territorial) [[Dan.4.15|Dan 4:15]]; [[Dan.4.33|Dan 4:33]]b; [[Dan.5.7|Dan 5:7]]; [[Dan.5.11|Dan 5:11]]; [[Dan.5.16|Dan 5:16]]; [[Dan.5.29|Dan 5:29]]; [[Dan.6.2|Dan 6:2]] (twice in verse); [[Dan.6.4|Dan 6:4]]; [[Dan.6.8|Dan 6:8]]; [[Dan.6.27|Dan 6:27]]; [[Ezra.7.13|Ezra 7:13]]; [[Ezra.7.23|Ezra 7:23]] metonymy [[Ezra.6.5|Ezra 6:5]] = administration of realm. 
+
+**4.** ***reign***, time of reigning [[Dan.5.26|Dan 5:26]]; [[Dan.6.29|Dan 6:29]] (twice in verse); [[Ezra.4.24|Ezra 4:24]]; [[Ezra.6.15|Ezra 6:15]]. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ezra | [[Ezra.4.24\|4:24]] · [[Ezra.6.5\|6:5]] · [[Ezra.6.15\|6:15]] · [[Ezra.7.13\|7:13]] · [[Ezra.7.23\|7:23]] |
+| Daniel | [[Dan.2.37\|2:37]] · [[Dan.2.39\|2:39]] · [[Dan.2.40\|2:40]] · [[Dan.2.41\|2:41]] · [[Dan.2.42\|2:42]] · [[Dan.2.44\|2:44]] · [[Dan.3.33\|3:33]] · [[Dan.4.14\|4:14]] · [[Dan.4.15\|4:15]] · [[Dan.4.22\|4:22]] · [[Dan.4.23\|4:23]] · [[Dan.4.26\|4:26]] · [[Dan.4.27\|4:27]] · [[Dan.4.28\|4:28]] · [[Dan.4.29\|4:29]] · [[Dan.4.31\|4:31]] · [[Dan.4.33\|4:33]] · [[Dan.5.7\|5:7]] · [[Dan.5.11\|5:11]] · [[Dan.5.16\|5:16]] · [[Dan.5.18\|5:18]] · [[Dan.5.20\|5:20]] · [[Dan.5.21\|5:21]] · [[Dan.5.26\|5:26]] · [[Dan.5.28\|5:28]] · [[Dan.5.29\|5:29]] · [[Dan.6.1\|6:1]] · [[Dan.6.2\|6:2]] · [[Dan.6.4\|6:4]] · [[Dan.6.8\|6:8]] · [[Dan.6.27\|6:27]] · [[Dan.6.29\|6:29]] · [[Dan.7.14\|7:14]] · [[Dan.7.18\|7:18]] · [[Dan.7.22\|7:22]] · [[Dan.7.23\|7:23]] · [[Dan.7.24\|7:24]] · [[Dan.7.27\|7:27]] |
+

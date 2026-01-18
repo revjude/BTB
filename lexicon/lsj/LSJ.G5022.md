@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==ταῦρος==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>bull</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 2.481, etc.">Refs 8th c.BC+</a>]; as a sacrifice to Poseidon, [<a href="javascript:void(0)" title=" 11.728, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 13.181; also ==ταῦρος== βοῦς 8th c.BC: Ilias Homerus Epicus “Illiad” 17.389 ">Refs 8th c.BC+</a>]; <span class='asgreek'>ἄπεχε</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>βοὸς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>τ</span>., oracularly of Agamemnon and his wife, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1126 (Lyric poetry). ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>priest of Poseidon Taureios</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 10.425c. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> a kind of Lycian boat with bull as figurehead, postulated to explain Europa's bull, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 1.83. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>the bull as a sign of the Zodiac</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Eudoxus Astronomus cited in 2nd c.BC: Hipparchus Astronomicus 1.2.10, 4th-3rd c.BC: Aratus Epicus 167, +others, “IG” 14.1307, “Supp.epigram” 7.363.8 (Dura-Europus, 2nd c.AD), etc. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>κοχώνη</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.173, 2nd c.AD: Galenus Medicus 14.706">Refs 2nd c.AD+</a>]: also <b>the pudenda muliebria</b>, [<a href="javascript:void(0)" title=" 9th c.AD: Photius Legal icographus, etc. ">Refs 9th c.AD+</a>]: <b>the male</b> <span class='asgreek'>αἰδοῖον</span>, [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>] (Cf. Latin <i>taurus</i>, Lithuanian <i>tauras</i>, Slavonic <i>tur[ucaron]</i>, etc.)

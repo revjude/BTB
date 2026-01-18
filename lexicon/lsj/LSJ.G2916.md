@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==κρίθινος==</span>-<span class='asgreek'>ῐνος</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 
+
+
+ <b>made of</b> or <b>from barley</b>, <span class='asgreek'>κόλλιξ</span>, <span class='asgreek'>ἄρτος</span>, [<a href="javascript:void(0)" title=" 6th c.BC: Hipponax Iambographus 35, 2nd c.AD: Lucianus Sophista “Macr.” 5; ἄχυρον, ἄλευρον, 4th-3rd c.BC: Theophrastus Philosophus “HP” 8.4.1, “PEleph.” 5.25 (3rd c.BC), 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.397a; τὸ κ. ποτόν 5th c.BC: Hippocrates Medicus “περὶ διαίτης ὀξέων” 64 ">Refs 6th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>ὕδωρ</span> [<a href="javascript:void(0)" title="[prev. work](“Sp.”) 30; κ. οἶνος">Refs</a>] <b>beer</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 34.9.15; πόμα Plutarchus Biographus et Philosophus [{1-2nd c.AD}] 2.752b ">Refs 2nd c.BC+</a>]: <i>metaphorically</i>, <span class='asgreek'>κ</span>. <span class='asgreek'>Δημοσθένης</span>, 'gingerbread Demosthenes', nickname of Dinarchus, [<a href="javascript:void(0)" title=" 2nd c.AD: Hermogenes Rhetor  [prev\. author] 2.11. ">Refs 2nd c.AD+</a>]
+

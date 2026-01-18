@@ -1,0 +1,2 @@
+<span class="asform"><span class="asgreek"><span class="asbold">μητρό-πολις</span></span>, <span class="asgreek">-εως, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">אָב</span> <small><sup>[[H0001]]</sup></small> etc.;\]</span> </span>
+<span class="asitalic">a metropolis</span>, <span class="asitalic">chief city</span>: ITi, <span class="asitalic">subscr.</span> (Rec.).†

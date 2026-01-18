@@ -1,0 +1,25 @@
+<small>*Gibeon • Hivite city that tricked Joshua into a peace treaty.*</small>
+
+<span class='tipnrhighlight'>Gibeon</span> was a prominent Hivite city that deceived Joshua into making a peace treaty, and later became a Levitical city and site of worship.
+- A location first mentioned at [[Josh.9.3|Jos.9.3]]; 
+- referred to as Gibeon<[[H1391]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\), or Gibeonite or Gibeon<[[H1393]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\), or Geba<[[H1387I]]> \(<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ע</span>\), or Gibbar<[[H1402]]> \(<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ר</span>\), or Bamah<[[H1117]]> \(<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\).
+<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.84684772753698,35.18491237777512&zoom=10&maptype=satellite"></iframe>
+
+
+Gibeon was a significant city in ancient Israel, located in the territory of Benjamin, about 6 miles northwest of Jerusalem. It was inhabited by Hivites, a Canaanite people group. 
+
+When Joshua led the Israelites into Canaan, the Gibeonites tricked them into making a peace treaty by pretending to be from a distant land \([[Josh.9.3|Joshua 9:3]]-15\). Despite the deception, Joshua honored the treaty when the truth was discovered. 
+
+Gibeon's importance is underscored by the fact that its king, Hoham, led a coalition of five Amorite kings against Israel \([[Josh.10.1|Joshua 10:1]]-5\). In response, Joshua asked God for the sun to stand still during the ensuing battle, allowing Israel to defeat the coalition \([[Josh.10.1|Joshua 10:1]]2-14\). 
+
+After the conquest, Gibeon was allotted to the tribe of Benjamin and designated as a Levitical city \([[Josh.18.25|Joshua 18:25]], 21:17\). The tabernacle was set up at Gibeon for a period, and it became a major worship center \([[1Chr.16.39|1 Chronicles 16:39]], 21:29\).
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Gibeon | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1391) <small>*Hebrew*</small> | 37x | [[Jos.9.3] ... [Jer.41.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gibeon\*\|reference=Jos.9.3;Jos.9.17;Jos.10.1;Jos.10.2;Jos.10.4;Jos.10.5;Jos.10.6;Jos.10.10;Jos.10.12;Jos.10.41;Jos.11.19;Jos.18.25;Jos.21.17;2Sa.2.12;2Sa.2.13;2Sa.2.16;2Sa.2.24;2Sa.3.30;2Sa.20.8;1Ki.3.4;1Ki.3.5;1Ki.9.2;1Ch.8.29;1Ch.8.29;1Ch.9.35;1Ch.9.35;1Ch.14.16;1Ch.16.39;1Ch.21.29;2Ch.1.3;2Ch.1.13;Neh.3.7;Neh.7.25;Isa.28.21;Jer.28.1;Jer.41.12;Jer.41.16) |
+| Gibeonite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H1393) <small>*Hebrew*</small> | 7x | [[2Sa.21.1] ... [Neh.3.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gibeonite\*\|reference=2Sa.21.1;2Sa.21.2;2Sa.21.2;2Sa.21.3;2Sa.21.4;2Sa.21.9;Neh.3.7) |
+| Gibeon | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H1393) <small>*Hebrew*</small> | 1x | [1Ch.12.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gibeon\*\|reference=1Ch.12.4) |
+| Geba | [<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ע</span>](H1387I) <small>*Hebrew*</small> | 1x | [2Sa.5.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Geba\*\|reference=2Sa.5.25) |
+| Gibbar | [<span class='tipnrLangHebrew'>ג</span>ִּ<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>ר</span>](H1402) <small>*Hebrew*</small> | 1x | [Ezr.2.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gibbar\*\|reference=Ezr.2.20) |
+| Bamah | [<span class='tipnrLangHebrew'>ב</span>ָּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1117) <small>*Hebrew*</small> | 1x | [Ezk.20.29 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bamah\*\|reference=Ezk.20.29) |
+All Strong's for **Gibeon or Geba or Gibbar or Bamah**: \[[[H1391]]\] \[[[H1393]]\] \[[[H1387I]]\] \[[[H1402]]\] \[[[H1117]]\]

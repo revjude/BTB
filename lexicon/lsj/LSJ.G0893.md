@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἀψευδής==</span>-<span class='asgreek'>ής</span></b>, <span class='asgreek'>ές</span>, 
+
+
+ <b>without deceit, truthful,</b> especially of oracles and the like, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 233, 5th c.BC: Herodotus Historicus 1.49, 2.152 (\_superlative\_), +others">Refs 8th c.BC+</a>]; <span class='asgreek'>μάντις</span> <span class='asgreek'>ἀ</span>., of Apollo, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Choephori” 559, compare “fragment” 350.5, 5th c.BC: Cratinus Comicus 29 4th c.BC: Demosthenes Orator (\_superlative\_)">Refs 5th c.BC+</a>]; <span class='asgreek'>θεός</span>[<a href="javascript:void(0)" title=" NT.Titus.1.2">NT</a>]; <span class='asgreek'>==ἀψευδής==εῖ</span> <span class='asgreek'>τέχνῃ</span>, of augury, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 26; ἦθος 5th c.BC: Euripides Tragicus “Supplices” 869">Refs 5th c.BC+</a>]; <b>unerring,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 160d, etc.; μάρτυς -έστατος 1st c.AD: Philo Judaeus 2.341. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> of things, <b>uncorrupt,</b> <b>pure from all deceit,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἄκμονι</span> <span class='asgreek'>χάλκευε</span> <span class='asgreek'>γλῶσσαν</span>[<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 1.86. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>==ἀψευδής==ής</span>, ={<span class='asgreek'>κώνειον</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.78. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> -<span class='asgreek'>δέως</span>, <i>Attic dialect</i>-<span class='asgreek'>δῶς</span>, <b>really and truly,</b> <span class='asgreek'>οἱ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἄριστοι</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 9.58, compare 1st c.AD: Philo Judaeus 1.19, +others, 4th c.AD: Iamblichus Philosophus “de Mysteriis” 2.2">Refs 5th c.BC+</a>]: <i>superlative</i> -<span class='asgreek'>έστατα</span>, <span class='asgreek'>ἐρεῖν</span>[<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.34.">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Titus.1.2]]
+</sub></small>

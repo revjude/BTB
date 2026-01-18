@@ -1,0 +1,25 @@
+**Hosea 7:2** 
+<small><sub>**KJV:**</sub></small>
+And they consider not in their hearts [that] I remember all their wickedness: now their own doings have beset them about; they are before my face.
+<small><sub>**BSB:**</sub></small>
+But they fail to consider in their hearts that I remember all their evil. Now their deeds are all around them; they are before My face.
+<small><sub>**Literal:**</sub></small>
+and  not they say to  heart  their all evil  their I remember now they have surrounded  them deeds  their before face  my they are<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.1|<< Hosea 7:1]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.3|Hosea 7:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and not  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַל</big></span><small><sup>[[H1077]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> val-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they say  | <span class="ashebrew"><big>יֹֽאמְרוּ֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| yo.me.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to heart their  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לְבָבָ֔</big></span><small><sup>[[H3824]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> l.va.Va<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil their  | <span class="ashebrew"><big>רָעָתָ֖</big></span><small><sup>[[H7451I]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ra.'a.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I remember  | <span class="ashebrew"><big>זָכָ֑רְתִּי</big></span><small><sup>[[H2142]]</sup></small> &#8207;| za.Kha.re.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  | <span class="ashebrew"><big>עַתָּה֙</big></span><small><sup>[[H6258]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have surrounded them  | <span class="ashebrew"><big>סְבָב֣וּ</big></span><small><sup>[[H5437H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| se.va.Vu<small><sup>[[HVqp3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deeds their  | <span class="ashebrew"><big>מַֽעַלְלֵי</big></span><small><sup>[[H4611]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before  | <span class="ashebrew"><big>נֶ֥גֶד</big></span><small><sup>[[H5048]]</sup></small> &#8207;| Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face my  | <span class="ashebrew"><big>פָּנַ֖</big></span><small><sup>[[H6440H]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| pa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are  | <span class="ashebrew"><big>הָיֽוּ</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.1|<< Hosea 7:1]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.3|Hosea 7:3 >>]]</td></tr></table>
+
+

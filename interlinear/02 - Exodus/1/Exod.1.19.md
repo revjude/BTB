@@ -1,0 +1,30 @@
+**Exodus 1:19** 
+<small><sub>**KJV:**</sub></small>
+And the midwives said unto Pharaoh, Because the Hebrew women [are] not as the Egyptian women; for they [are] lively, and are delivered ere the midwives come in unto them.
+<small><sub>**BSB:**</sub></small>
+The midwives answered Pharaoh, “The Hebrew women are not like the Egyptian women, for they are vigorous and give birth before a midwife arrives.”
+<small><sub>**Literal:**</sub></small>
+and  they said the  midwives to Pharaoh for not [are] like the  women \<the>  Egyptian the  Hebrew [women] that [are] vigorous they \<in>  before she comes to  them the  midwife and  they give birth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.18|<< Exodus 1:18]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.20|Exodus 1:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּאמַ֤רְןָ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> to.Mar.na<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the midwives  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְיַלְּדֹת֙</big></span><small><sup>[[H3205]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> m.ya.le.Dot<small><sup>[[HVprfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹ֔ה</big></span><small><sup>[[H6547I]]</sup></small> &#8207;| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֧א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] like the women  | <span class="ashebrew"><big>כַ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>נָּשִׁ֛ים</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| kha.<small><sup>[[HRd]]</sup></small> na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Egyptian  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּצְרִיֹּ֖ת</big></span><small><sup>[[H4713]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mitz.ri.Yot<small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Hebrew [women]  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִבְרִיֹּ֑ת</big></span><small><sup>[[H5680]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'iv.ri.Yot<small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] vigorous  | <span class="ashebrew"><big>חָי֣וֹת</big></span><small><sup>[[H2422]]</sup></small> &#8207;| cha.Yot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֔נָּה</big></span><small><sup>[[H2007]]</sup></small> &#8207;| He.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> before  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>טֶ֨רֶם</big></span><small><sup>[[H2962]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she comes  | <span class="ashebrew"><big>תָּב֧וֹא</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ta.Vo'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵ</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶ֛ן</big></span><small><sup>[[H9039]]</sup></small> &#8207;| 'a.le.<small><sup>[[HRd]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the midwife  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְיַלֶּ֖דֶת</big></span><small><sup>[[H3205]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> m.ya.Le.det<small><sup>[[HVprfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they give birth  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָלָֽדוּ</big></span><small><sup>[[H3205]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ya.La.du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.18|<< Exodus 1:18]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.20|Exodus 1:20 >>]]</td></tr></table>
+
+

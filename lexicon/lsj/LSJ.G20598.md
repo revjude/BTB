@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==κενεών==</span></b>, <span class='asgreek'>ῶνος</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ (<span class='asgreek'>κενός</span>) <b>hollow between ribs and hip, flank</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 22.295, 2nd c.AD(?): Pollianus Epigrammaticus 2.166, etc.; νείατον ἐς κενεῶνα, ὅθι ζωννύσκετο μίτρῃ 8th c.BC: Ilias Homerus Epicus “Illiad” 5.857, compare 5th c.BC: Hippocrates Medicus “προγνωστικόν” 8 (\_plural\_)">Refs 8th c.BC+</a>]; of horses, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 12.8 ">Refs 5th c.BC+</a>]; of dogs, [<a href="javascript:void(0)" title=" [prev. author] “Cyn.” 4.1. ">Refs</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>οἱ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>περιτοναίου</span> the <b>hollows</b> of the peritonaeum, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD: Oribasius Medicus 50.48.4. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> any <b>hollow</b>, hence <i>periphrastic</i> <span class='asgreek'>οὐράνιοι</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 9.207 ">Refs</a>]; <span class='asgreek'>αἰθέριος</span>, <span class='asgreek'>χθόνιος</span> <span class='asgreek'>κ</span>., [<a href="javascript:void(0)" title=" 4th-5th c.AD(?): Nonnus Epicus “Dionysiaca” 13.453, 9.82; κενεὼν ἀρούρης [prev. work] 41.3 ">Refs 4th c.AD+</a>]; <b>vacant space</b> in a crowd, [<a href="javascript:void(0)" title=" LXX.2Mac.14.44. ">LXX</a>]

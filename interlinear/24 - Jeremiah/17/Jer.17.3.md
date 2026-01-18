@@ -1,0 +1,24 @@
+**Jeremiah 17:3** 
+<small><sub>**KJV:**</sub></small>
+O my mountain in the field, I will give thy substance [and] all thy treasures to the spoil, [and] thy high places for sin, throughout all thy borders.
+<small><sub>**BSB:**</sub></small>
+O My mountain in the countryside, I will give over your wealth and all your treasures as plunder, because of the sin of your high places, within all your borders.
+<small><sub>**Literal:**</sub></small>
+mountain  my in the  field wealth  your all treasures  your to  plunder I will give high places  your for  sin in  all territories  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.2|<< Jeremiah 17:2]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.4|Jeremiah 17:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| mountain my  | <span class="ashebrew"><big>הֲרָרִ</big></span><small><sup>[[H2042]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ha.ra.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the field  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׂדֶ֔ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wealth your  | <span class="ashebrew"><big>חֵילְ</big></span><small><sup>[[H2428H]]</sup></small> <span class="ashebrew"><big>ךָ֥</big></span><small><sup>[[H9021]]</sup></small> &#8207;| chei.le.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| treasures your  | <span class="ashebrew"><big>אוֹצְרוֹתֶ֖י</big></span><small><sup>[[H0214]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'otz.ro.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to plunder  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בַ֣ז</big></span><small><sup>[[H0957]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Vaz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will give  | <span class="ashebrew"><big>אֶתֵּ֑ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| 'e.Ten<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| high places your  | <span class="ashebrew"><big>בָּמֹתֶ֕י</big></span><small><sup>[[H1116]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ba.mo.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for sin  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חַטָּ֖את</big></span><small><sup>[[H2403B]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> cha.Tat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| territories your  | <span class="ashebrew"><big>גְּבוּלֶֽי</big></span><small><sup>[[H1366H]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ge.vu.Lei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.2|<< Jeremiah 17:2]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.4|Jeremiah 17:4 >>]]</td></tr></table>
+
+

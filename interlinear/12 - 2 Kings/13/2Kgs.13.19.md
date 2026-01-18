@@ -1,0 +1,35 @@
+**2 Kings 13:19** 
+<small><sub>**KJV:**</sub></small>
+And the man of God was wroth with him, and said, Thou shouldest have smitten five or six times; then hadst thou smitten Syria till thou hadst consumed [it]: whereas now thou shalt smite Syria [but] thrice.
+<small><sub>**BSB:**</sub></small>
+But the man of God was angry with him and said, “You should have struck the ground five or six times. Then you would have struck down Aram until you had put an end to it. But now you will strike down Aram only three times.”
+<small><sub>**Literal:**</sub></small>
+and  he was angry towards  him [the] man of \<the>  God and  he said to  strike five or six times then you have struck down \<obj.> Aram until make an end and  now three times you will strike down \<obj.> Aram<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.18|<< 2 Kings 13:18]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.20|2 Kings 13:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he was angry  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְצֹ֨ף</big></span><small><sup>[[H7107]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.Tzof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| towards him  | <span class="ashebrew"><big>עָלָ֜י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] man of  | <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֗ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֙אמֶר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to strike  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַכּ֨וֹת</big></span><small><sup>[[H5221]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Kot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  | <span class="ashebrew"><big>חָמֵ֤שׁ</big></span><small><sup>[[H2568]]</sup></small> &#8207;| cha.Mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  | <span class="ashebrew"><big>אוֹ</big></span><small><sup>[[H0176A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  | <span class="ashebrew"><big>שֵׁשׁ֙</big></span><small><sup>[[H8337]]</sup></small> &#8207;| shesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| times  | <span class="ashebrew"><big>פְּעָמִ֔ים</big></span><small><sup>[[H6471]]</sup></small> &#8207;| pe.'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  | <span class="ashebrew"><big>אָ֛ז</big></span><small><sup>[[H0227A]]</sup></small> &#8207;| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have struck down  | <span class="ashebrew"><big>הִכִּ֥יתָ</big></span><small><sup>[[H5221]]</sup></small> &#8207;| hi.Ki.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aram  | <span class="ashebrew"><big>אֲרָ֖ם</big></span><small><sup>[[H0758I]]</sup></small> &#8207;| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| make an end  | <span class="ashebrew"><big>כַּלֵּ֑ה</big></span><small><sup>[[H3615H]]</sup></small> &#8207;| ka.Leh<small><sup>[[HVpaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and now  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַתָּ֕ה</big></span><small><sup>[[H6258]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שָׁלֹ֥שׁ</big></span><small><sup>[[H7969]]</sup></small> &#8207;| sha.Losh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| times  | <span class="ashebrew"><big>פְּעָמִ֖ים</big></span><small><sup>[[H6471]]</sup></small> &#8207;| pe.'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will strike down  | <span class="ashebrew"><big>תַּכֶּ֥ה</big></span><small><sup>[[H5221]]</sup></small> &#8207;| ta.Keh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aram  | <span class="ashebrew"><big>אֲרָֽם</big></span><small><sup>[[H0758I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.18|<< 2 Kings 13:18]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.20|2 Kings 13:20 >>]]</td></tr></table>
+
+

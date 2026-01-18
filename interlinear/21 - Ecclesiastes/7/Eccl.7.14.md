@@ -1,0 +1,34 @@
+**Ecclesiastes 7:14** 
+<small><sub>**KJV:**</sub></small>
+In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.
+<small><sub>**BSB:**</sub></small>
+In the day of prosperity, be joyful, but in the day of adversity, consider this: God has made one of these along with the other, so that a man cannot discover anything that will come after him.
+<small><sub>**Literal:**</sub></small>
+on  a day of good be in  good and  on  a day of adversity consider also \<obj.> this \<to>  exactly as this he has made \<the>  God on reason that  not he will find out \<the>  humankind after  him anything<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.13|<< Ecclesiastes 7:13]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.15|Ecclesiastes 7:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| on a day of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י֤וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  | <span class="ashebrew"><big>טוֹבָה֙</big></span><small><sup>[[H2896C]]</sup></small> &#8207;| to.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| be  | <span class="ashebrew"><big>הֱיֵ֣ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| he.Yeh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in good  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ט֔וֹב</big></span><small><sup>[[H2896B]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on a day of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י֥וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| adversity  | <span class="ashebrew"><big>רָעָ֖ה</big></span><small><sup>[[H7451C]]</sup></small> &#8207;| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| consider  | <span class="ashebrew"><big>רְאֵ֑ה</big></span><small><sup>[[H7200H]]</sup></small> &#8207;| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>גַּ֣ם</big></span><small><sup>[[H1571]]</sup></small> &#8207;| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֶ֤ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> exactly as  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֻמַּת</big></span><small><sup>[[H5980]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'u.mat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֶה֙</big></span><small><sup>[[H2088]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has made  | <span class="ashebrew"><big>עָשָׂ֣ה</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֔ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| reason  | <span class="ashebrew"><big>דִּבְרַ֗ת</big></span><small><sup>[[H1700]]</sup></small> &#8207;| div.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that not  | <span class="ashebrew"><big>שֶׁ</big></span><small><sup>[[H9007]]</sup></small> <span class="ashebrew"><big>לֹּ֨א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| she.<small><sup>[[HTr]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will find out  | <span class="ashebrew"><big>יִמְצָ֧א</big></span><small><sup>[[H4672]]</sup></small> &#8207;| yim.Tza'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> humankind  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָדָ֛ם</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after him  | <span class="ashebrew"><big>אַחֲרָ֖י</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anything  | <span class="ashebrew"><big>מְאֽוּמָה</big></span><small><sup>[[H3972]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.'U.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.13|<< Ecclesiastes 7:13]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.15|Ecclesiastes 7:15 >>]]</td></tr></table>
+
+

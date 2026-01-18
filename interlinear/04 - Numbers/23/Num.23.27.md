@@ -1,0 +1,30 @@
+**Numbers 23:27** 
+<small><sub>**KJV:**</sub></small>
+And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence.
+<small><sub>**BSB:**</sub></small>
+“Please come,” said Balak, “I will take you to another place. Perhaps it will please God that you curse them for me from there.”
+<small><sub>**Literal:**</sub></small>
+and  he said Balak to Balaam come  ! please let me take  you to a place another perhaps it will be pleasing in  [the] eyes of \<the>  God and  you will curse  it for \<the>  me from  there<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.26|<< Numbers 23:26]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.28|Numbers 23:28 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֤אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balak  | <span class="ashebrew"><big>בָּלָק֙</big></span><small><sup>[[H1111]]</sup></small> &#8207;| ba.Lak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Balaam  | <span class="ashebrew"><big>בִּלְעָ֔ם</big></span><small><sup>[[H1109A]]</sup></small> &#8207;| bil.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| come !  | <span class="ashebrew"><big>לְכָ</big></span><small><sup>[[H1980K]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.kha<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָּא֙</big></span><small><sup>[[H4994]]</sup></small> &#8207;| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let me take you  | <span class="ashebrew"><big>אֶקָּ֣חֲ</big></span><small><sup>[[H3947G]]</sup></small> <span class="ashebrew"><big>ךָ֔</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'e.Ka.cha.<small><sup>[[HVqi1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a place  | <span class="ashebrew"><big>מָק֖וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| another  | <span class="ashebrew"><big>אַחֵ֑ר</big></span><small><sup>[[H0312]]</sup></small> &#8207;| 'a.Cher<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perhaps  | <span class="ashebrew"><big>אוּלַ֤י</big></span><small><sup>[[H0194]]</sup></small> &#8207;| 'u.Lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be pleasing  | <span class="ashebrew"><big>יִישַׁר֙</big></span><small><sup>[[H3474]]</sup></small> &#8207;| yi.Shar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] eyes of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵינֵ֣י</big></span><small><sup>[[H5869I]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֔ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will curse it  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>קַבֹּ֥ת</big></span><small><sup>[[H6895]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ka.Bo.to<small><sup>[[HVqq2ms]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> me  | <span class="ashebrew"><big>לִ֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from there  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שָּֽׁם</big></span><small><sup>[[H8033G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.26|<< Numbers 23:26]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.28|Numbers 23:28 >>]]</td></tr></table>
+
+

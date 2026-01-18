@@ -1,0 +1,34 @@
+**Exodus 5:14** 
+<small><sub>**KJV:**</sub></small>
+And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, [and] demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?
+<small><sub>**BSB:**</sub></small>
+Then the Israelite foremen, whom Pharaoh’s taskmasters had set over the people, were beaten and asked, “Why have you not fulfilled your quota of bricks yesterday or today, as you did before?”
+<small><sub>**Literal:**</sub></small>
+and  they were struck [the] foremen of [the] people of Israel whom they had appointed over  them [the] taskmasters of Pharaoh \<to>  saying why? not have you completed prescribed portion  your by  making bricks as  yesterday three days ago neither yesterday nor this  day<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.13|<< Exodus 5:13]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.15|Exodus 5:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they were struck  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֻּכּ֗וּ</big></span><small><sup>[[H5221]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yu.Ku<small><sup>[[HVHw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] foremen of  | <span class="ashebrew"><big>שֹֽׁטְרֵי֙</big></span><small><sup>[[H7860]]</sup></small> &#8207;| sho.te.Rei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had appointed  | <span class="ashebrew"><big>שָׂ֣מוּ</big></span><small><sup>[[H7760L]]</sup></small> &#8207;| Sa.mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over them  | <span class="ashebrew"><big>עֲלֵ</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.le.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] taskmasters of  | <span class="ashebrew"><big>נֹגְשֵׂ֥י</big></span><small><sup>[[H5065]]</sup></small> &#8207;| no.ge.Sei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַרְעֹ֖ה</big></span><small><sup>[[H6547J]]</sup></small> &#8207;| far.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹ֑ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| why?  | <span class="ashebrew"><big>מַדּ֡וּעַ</big></span><small><sup>[[H4069]]</sup></small> &#8207;| ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא֩</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have you completed  | <span class="ashebrew"><big>כִלִּיתֶ֨ם</big></span><small><sup>[[H3615G]]</sup></small> &#8207;| khi.li.Tem<small><sup>[[HVpp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prescribed portion your  | <span class="ashebrew"><big>חָקְ</big></span><small><sup>[[H2706G]]</sup></small> <span class="ashebrew"><big>כֶ֤ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| cha.ke.<small><sup>[[HNcmsc]]</sup></small> Chem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by making bricks  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לְבֹּן֙</big></span><small><sup>[[H3835B]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> l.Bon<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as yesterday  | <span class="ashebrew"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>תְמ֣וֹל</big></span><small><sup>[[H8543]]</sup></small> &#8207;| ki<small><sup>[[HR]]</sup></small> t.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three days ago  | <span class="ashebrew"><big>שִׁלְשֹׁ֔ם</big></span><small><sup>[[H8032]]</sup></small> &#8207;| shil.Shom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neither  | <span class="ashebrew"><big>גַּם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| yesterday  | <span class="ashebrew"><big>תְּמ֖וֹל</big></span><small><sup>[[H8543]]</sup></small> &#8207;| te.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nor  | <span class="ashebrew"><big>גַּם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this day  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּֽוֹם</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.13|<< Exodus 5:13]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.15|Exodus 5:15 >>]]</td></tr></table>
+
+

@@ -1,0 +1,23 @@
+**Micah 2:9** 
+<small><sub>**KJV:**</sub></small>
+The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever.
+<small><sub>**BSB:**</sub></small>
+You drive the women of My people from their pleasant homes. You take away My blessing from their children forever.
+<small><sub>**Literal:**</sub></small>
+[the] women of people  my you drive out  ! from  [the] house of delights  her from  with children  her you take away glory  my for  ever<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.8|<< Micah 2:8]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.10|Micah 2:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] women of  | <span class="ashebrew"><big>נְשֵׁ֤י</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| ne.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  | <span class="ashebrew"><big>עַמִּ</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you drive out !  | <span class="ashebrew"><big>תְּגָ֣רְשׁ֔וּ</big></span><small><sup>[[H1644H]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;| te.Ga.re.Shu<small><sup>[[HVpi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] house of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בֵּ֖ית</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| delights her  | <span class="ashebrew"><big>תַּֽעֲנֻגֶ֑י</big></span><small><sup>[[H8588]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ta.'a.nu.Gei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עַל֙</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children her  | <span class="ashebrew"><big>עֹֽלָלֶ֔י</big></span><small><sup>[[H5768]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| 'o.la.Lei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you take away  | <span class="ashebrew"><big>תִּקְח֥וּ</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| tik.Chu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| glory my  | <span class="ashebrew"><big>הֲדָרִ֖</big></span><small><sup>[[H1926]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ha.da.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עוֹלָֽם</big></span><small><sup>[[H5769G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.8|<< Micah 2:8]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.10|Micah 2:10 >>]]</td></tr></table>
+
+

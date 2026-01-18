@@ -1,0 +1,23 @@
+**Ezekiel 1:25** 
+<small><sub>**KJV:**</sub></small>
+And there was a voice from the firmament that [was] over their heads, when they stood, [and] had let down their wings.
+<small><sub>**BSB:**</sub></small>
+And there came a voice from above the expanse over their heads as they stood still with their wings lowered.
+<small><sub>**Literal:**</sub></small>
+and  it came a sound \<from>  above \<to> the  expanse which [was] above head  their when  stood still  they they let drop wings  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.24|<< Ezekiel 1:24]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.26|Ezekiel 1:26 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִי</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.hi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sound  | <span class="ashebrew"><big>ק֕וֹל</big></span><small><sup>[[H6963A]]</sup></small> &#8207;| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> above  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עַ֕ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> the expanse  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רָקִ֖יעַ</big></span><small><sup>[[H7549]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> ra.Ki.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] above  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head their  | <span class="ashebrew"><big>רֹאשָׁ֑</big></span><small><sup>[[H7218A]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ro.Sha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when stood still they  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עָמְדָ֖</big></span><small><sup>[[H5975G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9048]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'a.me.Da<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they let drop  | <span class="ashebrew"><big>תְּרַפֶּ֥ינָה</big></span><small><sup>[[H7503]]</sup></small> &#8207;| te.ra.Pei.nah<small><sup>[[HVpi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wings their  | <span class="ashebrew"><big>כַנְפֵי</big></span><small><sup>[[H3671]]</sup></small> <span class="ashebrew"><big>הֶֽן</big></span><small><sup>[[H9029]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| khan.fei.<small><sup>[[HNcfdc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.24|<< Ezekiel 1:24]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.26|Ezekiel 1:26 >>]]</td></tr></table>
+
+

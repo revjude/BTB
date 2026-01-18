@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==πολεμόω==</span>-<span class='asgreek'>όω</span></b>, 
+
+
+ <b>make hostile, make an enemy of,</b> <span class='asgreek'>τινα</span> variant in [<a href="javascript:void(0)" title=" LXX.4Mac.4.21 ">LXX</a>]:—<i>middle</i>, <span class='asgreek'>πῶς</span> <span class='asgreek'>οὐ</span> <span class='asgreek'>==πολεμόω==ώσεσθε</span> <span class='asgreek'>αὐτού</span>; surely <b>you will make</b> them <b>your enemies,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.98 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be made an enemy of,</b> <span class='asgreek'>μετὰ</span> <span class='asgreek'>μεγίστων</span> <span class='asgreek'>καιρῶν</span> <span class='asgreek'>οἰκειοῦταί</span> <span class='asgreek'>τε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>==πολεμόω==οῦται</span> [<a href="javascript:void(0)" title=" [prev. author] 1.36 ">Refs</a>]; <span class='asgreek'>ἐ==πολεμόω==ώθη</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>ὅτι</span>..[<a href="javascript:void(0)" title=" [prev. work] 57 ">Refs</a>]: —in other passages (<span class='asgreek'>==πολεμόω==ουμένων</span> [<a href="javascript:void(0)" title=" [prev. author] 3.82, ==πολεμόω==οῦνται 4.20) it is doubtful whether the word should be referred to ==πολεμόω==όω or -έω. ">Refs</a>]
+

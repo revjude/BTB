@@ -1,0 +1,19 @@
+**1 Chronicles 24:15** 
+<small><sub>**KJV:**</sub></small>
+The seventeenth to Hezir, the eighteenth to Aphses,
+<small><sub>**BSB:**</sub></small>
+the seventeenth to Hezir, the eighteenth to Happizzez,
+<small><sub>**Literal:**</sub></small>
+to  Hezir seven- teen to  Happizzez eight- teen<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.14|<< 1 Chronicles 24:14]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.16|1 Chronicles 24:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to Hezir  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֵזִיר֙</big></span><small><sup>[[H2387G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> che.Zir<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven-  | <span class="ashebrew"><big>שִׁבְעָ֣ה</big></span><small><sup>[[H7651]]</sup></small> &#8207;| shiv.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  | <span class="ashebrew"><big>עָשָׂ֔ר</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'a.Sar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Happizzez  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַפִּצֵּ֖ץ</big></span><small><sup>[[H6483]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hap.pi.Tzetz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eight-  | <span class="ashebrew"><big>שְׁמוֹנָ֥ה</big></span><small><sup>[[H8083]]</sup></small> &#8207;| she.mo.Nah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  | <span class="ashebrew"><big>עָשָֽׂר</big></span><small><sup>[[H6240]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Sar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.14|<< 1 Chronicles 24:14]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.16|1 Chronicles 24:16 >>]]</td></tr></table>
+
+

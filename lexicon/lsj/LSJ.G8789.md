@@ -1,0 +1,7 @@
+<span class="asgreek">πήλινος</span> <small>***(pēlinos)***</small> ==**of clay**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==πήλινος==</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 
+
+
+ also <span class='asgreek'>ος</span>, <span class='asgreek'>ον</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Dio Chrysostomus Sophista 31.152 ">Refs 1st c.AD+</a>]: (<span class='asgreek'>πηλός</span>):— <b>of clay</b>, <span class='asgreek'>ἀνδριὰς</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Metaphysica” 1035a32 ">Refs 4th c.BC+</a>]; <span class='asgreek'>οἱ</span> <span class='asgreek'>π</span>. <b>clay figures</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 4.26 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τοῖχοι</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Demosthenes” 11; π. εἰκόνες 1st-2nd c.AD: Dio Chrysostomus Sophista [same place]; π. βωμός “Comica Adespota” 341 ">Refs 1st c.AD+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ὀξύ</span> pointed nest <b>of clay</b>, built by the mason-bee, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 555a14; π. ἔργα “PPetr.” 3p.143 (3rd c.BC). ">Refs 4th c.BC+</a>]
+

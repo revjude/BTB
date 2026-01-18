@@ -1,0 +1,25 @@
+**Deuteronomy 22:9** 
+<small><sub>**KJV:**</sub></small>
+Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled.
+<small><sub>**BSB:**</sub></small>
+Do not plant your vineyard with two types of seed; if you do, the entire harvest will be defiled—both the crop you plant and the fruit of your vineyard.
+<small><sub>**Literal:**</sub></small>
+not you will sow vineyard  your two kinds lest it should be set apart the  full produce the  seed which you will sow and  [the] produce of the  vineyard<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.8|<< Deuteronomy 22:8]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.10|Deuteronomy 22:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will sow  | <span class="ashebrew"><big>תִזְרַ֥ע</big></span><small><sup>[[H2232]]</sup></small> &#8207;| tiz.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vineyard your  | <span class="ashebrew"><big>כַּרְמְ</big></span><small><sup>[[H3754]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| kar.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two kinds  | <span class="ashebrew"><big>כִּלְאָ֑יִם</big></span><small><sup>[[H3610]]</sup></small> &#8207;| kil.'A.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lest  | <span class="ashebrew"><big>פֶּן</big></span><small><sup>[[H6435]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it should be set apart  | <span class="ashebrew"><big>תִּקְדַּ֗שׁ</big></span><small><sup>[[H6942I]]</sup></small> &#8207;| tik.Dash<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the full produce  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְלֵאָ֤ה</big></span><small><sup>[[H4395]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> m.le.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the seed  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֶּ֙רַע֙</big></span><small><sup>[[H2233G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ze.ra'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will sow  | <span class="ashebrew"><big>תִּזְרָ֔ע</big></span><small><sup>[[H2232]]</sup></small> &#8207;| tiz.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] produce of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְבוּאַ֖ת</big></span><small><sup>[[H8393]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.vu.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the vineyard  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כָּֽרֶם</big></span><small><sup>[[H3754]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ka.rem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.8|<< Deuteronomy 22:8]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.10|Deuteronomy 22:10 >>]]</td></tr></table>
+
+

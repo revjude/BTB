@@ -1,0 +1,26 @@
+**Isaiah 1:7** 
+<small><sub>**KJV:**</sub></small>
+Your country [is] desolate, your cities [are] burned with fire: your land, strangers devour it in your presence, and [it is] desolate, as overthrown by strangers.
+<small><sub>**BSB:**</sub></small>
+Your land is desolate; your cities are burned with fire. Foreigners devour your fields before you—a desolation demolished by strangers.
+<small><sub>**Literal:**</sub></small>
+land  your [is] a desolation cities  your [have been] burned fire ground  your to  before  you strangers [are] devouring \<obj.>  it and  desolation [is] like  [the] overthrow of strangers<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.6|<< Isaiah 1:6]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.8|Isaiah 1:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| land your  | <span class="ashebrew"><big>אַרְצְ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>כֶ֣ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'ar.tze.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a desolation  | <span class="ashebrew"><big>שְׁמָמָ֔ה</big></span><small><sup>[[H8077A]]</sup></small> &#8207;| she.ma.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities your  | <span class="ashebrew"><big>עָרֵי</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'a.rei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [have been] burned  | <span class="ashebrew"><big>שְׂרֻפ֣וֹת</big></span><small><sup>[[H8313]]</sup></small> &#8207;| se.ru.Fot<small><sup>[[HVqsfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  | <span class="ashebrew"><big>אֵ֑שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ground your  | <span class="ashebrew"><big>אַדְמַתְ</big></span><small><sup>[[H0127G]]</sup></small> <span class="ashebrew"><big>כֶ֗ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'ad.mat.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to before you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נֶגְדְּ</big></span><small><sup>[[H5048]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9036]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> neg.de.<small><sup>[[HAcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strangers  | <span class="ashebrew"><big>זָרִים֙</big></span><small><sup>[[H2114A]]</sup></small> &#8207;| za.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] devouring  | <span class="ashebrew"><big>אֹכְלִ֣ים</big></span><small><sup>[[H0398]]</sup></small> &#8207;| 'o.khe.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹתָ֔</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and desolation  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁמָמָ֖ה</big></span><small><sup>[[H8077A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.ma.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] like [the] overthrow of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מַהְפֵּכַ֥ת</big></span><small><sup>[[H4114]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> mah.pe.Khat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strangers  | <span class="ashebrew"><big>זָרִֽים</big></span><small><sup>[[H2114A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| za.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.6|<< Isaiah 1:6]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.8|Isaiah 1:8 >>]]</td></tr></table>
+
+

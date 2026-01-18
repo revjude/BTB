@@ -1,0 +1,25 @@
+ <span class="bdbLangHebrew">‎סַ֫עַר‎</span> **noun masculine**<sup>[[Jer.23.19|Jer 23:19]]</sup> ==tempest==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ס‎</span> [[Amos.1.14|Amos 1:14]] + 5 t.; <span class="bdbLangHebrew">‎סָ֑עַר‎</span> [[Ps.55.9|Ps 55:9]] plural suffix <span class="bdbLangHebrew">‎סַעֲרֶיךָ‎</span> [[Ps.83.16|Ps 83:16]] — ***tempest***, especially figurative: of passionate acts ofmen, <span class="bdbLangHebrew">‎מֵרוּחַ סֹעָה‎</span> <span class="bdbLangHebrew">‎מִסָּ֑עַר‎</span> [[Ps.55.9|Ps 55:9]] (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מִסּ‎</span> here awkward, without <span class="bdbLangHebrew">‎ו‎</span>); of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s wrath [[Jer.23.19|Jer 23:19]] (<span class="bdbLangHebrew">‎מִתְחוֺלֵל‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ס‎</span>), compare [[Jer.25.32|Jer 25:32]]; [[Jer.30.23|Jer 30:23]] ***tempest*** as instrument of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s wrath, [[Ps.83.16|Ps 83:16]] (\|\| <span class="bdbLangHebrew">‎סוּפָה‎</span>); see also <span class="bdbLangHebrew">‎בְּסַעַר בְּיוֺם סוּפָה‎</span> [[Amos.1.14|Amos 1:14]] and [[Joel.1.4|Joel 1:4]]; [[Joel.1.12|Joel 1:12]]. 
+
+ <span class="bdbLangHebrew">‎סְעָרָה‎</span> **noun feminine** ==tempest, storm-wind==; — absolute <span class="bdbLangHebrew">‎סְעָרָה‎</span> [[Isa.29.6|Isa 29:6]] + (so also [[2Kgs.2.1|2Kgs 2:1]]; [[2Kgs.2.11|2Kgs 2:11]] [[BDB#Gi|Ginsb]]; [[BDB#Baer|Baer]] <span class="bdbLangHebrew">‎בַּסֳּעָרָה‎</span>); construct <span class="bdbLangHebrew">‎סַעֲרַת‎</span> [[Jer.23.19|Jer 23:19]]; [[Jer.30.23|Jer 30:23]] plural <span class="bdbLangHebrew">‎סְעָרוֺת‎</span> [[Ezek.13.11|Ezek 13:11]]; [[Ezek.13.13|Ezek 13:13]] construct <span class="bdbLangHebrew">‎סַעֲרוֺת‎</span> [[Zech.9.14|Zech 9:14]] — ***tempest, storm-wind***, as instrument of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s wrath, [[Isa.29.6|Isa 29:6]] (+ <span class="bdbLangHebrew">‎סוּפָה‎</span>), compare [[Isa.40.24|Isa 40:24]]; [[Isa.41.16|Isa 41:16]], also <span class="bdbLangHebrew">‎רוּחַ סְעָרוֺת‎</span> [[Ezek.13.11|Ezek 13:11]]; [[Ezek.13.13|Ezek 13:13]] (against nation under figure of wall); storm-wind of Elijah's translation [[2Kgs.2.1|2Kgs 2:1]]; [[2Kgs.2.11|2Kgs 2:11]] of theophany [[Ezek.1.4|Ezek 1:4]] (<span class="bdbLangHebrew">‎רוּחַ‎</span> <span class="bdbLangHebrew">‎סְעָרָה‎</span>), [[Job.38.1|Job 38:1]]; [[Job.40.6|Job 40:6]], and <span class="bdbLangHebrew">‎סַעֲרוֺת תֵּימָן‎</span> [[Zech.9.14|Zech 9:14]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎סַעֲרַת י‎</span> as figurative of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s wrath [[Jer.23.19|Jer 23:19]]; [[Jer.30.23|Jer 30:23]] of ordinary tempests only in late Psalms: <span class="bdbLangHebrew">‎רוּחַ סְעָרָה‎</span> [[Jer.107.25|Jer 107:25]]; [[Jer.148.8|Jer 148:8]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ס‎</span> opposed to <span class="bdbLangHebrew">‎דְּמָמָה‎</span> [[Jer.107.29|Jer 107:29]]. I, II, III. <span class="bdbLangHebrew">‎סַף‎</span> see  <span class="bdbLangHebrew">‎ספף‎</span>. 
+
+<small>Also see: [[H8178]]</small>
+
+ II. <span class="bdbLangHebrew">‎שַׂ֫עַר‎</span> **noun [masculine]** ==storm== (= <span class="bdbLangHebrew">‎סַ֫עַר‎</span>); — only construct <span class="bdbLangHebrew">‎קָ֑טֶב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׂ‎</span> [[Isa.28.2|Isa 28:2]] ***a storm of destruction*** (in simile; \|\| <span class="bdbLangHebrew">‎זֶרֶם בָּרָד‎</span>). 
+
+ <span class="bdbLangHebrew">‎שְׂעָרָה‎</span> **noun feminine** id. (= <span class="bdbLangHebrew">‎סְעָרָה‎</span>); — of way of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּסוּפָה וּבִשׂ‎</span> [[Nah.1.3|Nah 1:3]] figurative of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s judgments; <span class="bdbLangHebrew">‎יְשׁוּפֵנִי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֲשֶׁרבִּֿשׂ‎</span> [[Job.9.17|Job 9:17]]. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 2 Kings | [[2Kgs.2.1\|2:1]] · [[2Kgs.2.11\|2:11]] |
+| Job | [[Job.9.17\|9:17]] · [[Job.38.1\|38:1]] · [[Job.40.6\|40:6]] |
+| Psalms | [[Ps.55.9\|55:9]] · [[Ps.83.16\|83:16]] |
+| Isaiah | [[Isa.28.2\|28:2]] · [[Isa.29.6\|29:6]] · [[Isa.40.24\|40:24]] · [[Isa.41.16\|41:16]] |
+| Jeremiah | [[Jer.23.19\|23:19]] · [[Jer.25.32\|25:32]] · [[Jer.30.23\|30:23]] · [[Jer.107.25\|107:25]] · [[Jer.107.29\|107:29]] · [[Jer.148.8\|148:8]] |
+| Ezekiel | [[Ezek.1.4\|1:4]] · [[Ezek.13.11\|13:11]] · [[Ezek.13.13\|13:13]] |
+| Joel | [[Joel.1.4\|1:4]] · [[Joel.1.12\|1:12]] |
+| Amos | [[Amos.1.14\|1:14]] |
+| Nahum | [[Nah.1.3\|1:3]] |
+| Zechariah | [[Zech.9.14\|9:14]] |
+

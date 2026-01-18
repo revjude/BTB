@@ -1,0 +1,9 @@
+<big><span class="ashebrew">‎בְּדָן‎</span></big> **Bᵉdân** <small>*(bed-awn')*</small> ==**Bedan**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably shortened for <span class="ashebrew">‎עַבְדוֹן‎</span><sup><small>[[H5658]]</small></sup>; servile</small>
+
+$\quad$ Bedan.
+- § Bedan = *"in judging"*
+- ***Bedan***, the name of two Israelites
+
+**1)** a judge who followed Gideon
+**2)** a Manassite

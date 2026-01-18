@@ -1,0 +1,28 @@
+**Isaiah 37:27** 
+<small><sub>**KJV:**</sub></small>
+Therefore their inhabitants [were] of small power, they were dismayed and confounded: they were [as] the grass of the field, and [as] the green herb, [as] the grass on the housetops, and [as corn] blasted before it be grown up.
+<small><sub>**BSB:**</sub></small>
+Therefore their inhabitants, devoid of power, are dismayed and ashamed. They are like plants in the field, tender green shoots, grass on the rooftops, scorched before it is grown.
+<small><sub>**Literal:**</sub></small>
+and  inhabitants  their [were] short of hand they were dismayed and  they were ashamed they were [the] vegetation of [the] field and  [the] greenery of vegetation grass of roofs and  a field \<to>  before standing grain<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.26|<< Isaiah 37:26]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.28|Isaiah 37:28 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and inhabitants their  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יֹֽשְׁבֵי</big></span><small><sup>[[H3427]]</sup></small> <span class="ashebrew"><big>הֶן֙</big></span><small><sup>[[H9029]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yo.she.vei.<small><sup>[[HVqrmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] short of  | <span class="ashebrew"><big>קִצְרֵי</big></span><small><sup>[[H7116]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kitz.rei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand  | <span class="ashebrew"><big>יָ֔ד</big></span><small><sup>[[H3027H]]</sup></small> &#8207;| Yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were dismayed  | <span class="ashebrew"><big>חַ֖תּוּ</big></span><small><sup>[[H2865]]</sup></small> &#8207;| Cha.tu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they were ashamed  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֹ֑שׁוּ</big></span><small><sup>[[H0954]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Vo.shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were  | <span class="ashebrew"><big>הָי֞וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vegetation of  | <span class="ashebrew"><big>עֵ֤שֶׂב</big></span><small><sup>[[H6212]]</sup></small> &#8207;| 'E.sev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] field  | <span class="ashebrew"><big>שָׂדֶה֙</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] greenery of  | <span class="ashebrew"><big>וִ֣</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ירַק</big></span><small><sup>[[H3419]]</sup></small> &#8207;| Vi.<small><sup>[[HC]]</sup></small> rak<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vegetation  | <span class="ashebrew"><big>דֶּ֔שֶׁא</big></span><small><sup>[[H1877]]</sup></small> &#8207;| De.she'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grass of  | <span class="ashebrew"><big>חֲצִ֣יר</big></span><small><sup>[[H2682A]]</sup></small> &#8207;| cha.Tzir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| roofs  | <span class="ashebrew"><big>גַּגּ֔וֹת</big></span><small><sup>[[H1406]]</sup></small> &#8207;| ga.Got<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a field  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁדֵמָ֖ה</big></span><small><sup>[[H7709]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.de.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֥י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| standing grain  | <span class="ashebrew"><big>קָמָֽה</big></span><small><sup>[[H7054]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ka.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.26|<< Isaiah 37:26]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.28|Isaiah 37:28 >>]]</td></tr></table>
+
+

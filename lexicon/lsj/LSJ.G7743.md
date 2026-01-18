@@ -1,0 +1,8 @@
+<span class="asgreek">ἰχνεύω</span> <small>***(ichneuō)***</small> ==**to prowl**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἰχνεύω==</span>-<span class='asgreek'>εύω</span></b>, 
+
+
+ <b>track out, hunt after</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 20, “OT” 221, 476 (Lyric poetry); ἰ. θῆρας κυσίν 5th c.BC: Euripides Tragicus “Cyclops” 130 ">Refs 5th c.BC+</a>]; <span class='asgreek'>κύνες</span> <span class='asgreek'>ἰχνεύουσαι</span> <b>hunting by scent</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 654e: \_metaphorically\_, κατὰ σοῦ τὴν ψῆφον ἰ.">Refs 5th c.BC+</a>] <b>seeking for</b> a vote of condemnation, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 808; ἰ. τὰ λεχθέντα 5th-6th c.BC: Plato Philosophus “Parmenides” 128c; τὴν τοῦ καλοῦ φύσιν [prev. author] “R.” 401c ">Refs 5th c.BC+</a>]; [<span class='asgreek'>σοφίαν</span>] [<a href="javascript:void(0)" title=" LXX.Sir.51.15 ">LXX</a>]; <span class='asgreek'>ἰχνεύεις</span>.. <span class='asgreek'>τίς</span> <span class='asgreek'>εἴμ᾽</span> <span class='asgreek'>ἐγώ</span>..; [<a href="javascript:void(0)" title=" “epigram Gr.” 227 (from Teos)">Refs</a>]; <b>follow on the track of, emulate</b>, <span class='asgreek'>ματραδελφεούς</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 8.35. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἰ</span>. <span class='asgreek'>ὄρη</span> <b>to hunt</b> the mountains, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 4.9. ">Refs 5th c.BC+</a>]

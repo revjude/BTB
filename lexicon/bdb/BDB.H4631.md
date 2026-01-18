@@ -1,0 +1,18 @@
+ <span class="bdbLangHebrew">‎מְעָרָה‎</span><sub>40</sub> **noun feminine** ==cave==; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Gen.19.30|Gen 19:30]] +; construct <span class="bdbLangHebrew">‎מְעָרַת‎</span> [[Gen.23.19|Gen 23:19]] +; plural <span class="bdbLangHebrew">‎מְעָרוֺת‎</span> [[Judg.6.2|Judg 6:2]] +, construct ***id.*** [[Isa.2.19|Isa 2:19]] — ***cave***, especially as place of sojourn or refuge [[Gen.19.30|Gen 19:30]] ([[BDB#J|J]]), [[1Sam.24.3|1Sam 24:3]] (twice in verse); [[1Sam.24.7|1Sam 24:7]]; [[1Sam.24.8|1Sam 24:8]]; [[1Sam.24.10|1Sam 24:10]] ([[BDB#Gi|Ginsb]]; v.[[1Sam.24.4|1Sam 24:4]] v.[[1Sam.24.8|1Sam 24:8]] v.[[1Sam.24.9|1Sam 24:9]] v.[[1Sam.24.11|1Sam 24:11]] [[BDB#van d.H.|van d. H.]] Bear), [[1Kgs.19.1|1Kgs 19:1]]; [[1Kgs.19.13|1Kgs 19:13]]; [[Ezek.33.27|Ezek 33:27]]; [[Josh.10.16|Josh 10:16]] (<span class="bdbLangHebrew">‎בַמַּקֵּדָה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span>) + 7 t. [[Josh.10|Josh 10]]; [[Judg.6.2|Judg 6:2]]; [[1Sam.13.6|1Sam 13:6]]; [[1Kgs.18.4|1Kgs 18:4]]; [[1Kgs.18.13|1Kgs 18:13]], compare [[Ps.57.1|Ps 57:1]]; [[Ps.142.1|Ps 142:1]] <span class="bdbLangHebrew">‎מְעָרוֺת צֻרִים‎</span> [[Isa.2.19|Isa 2:19]], hence <span class="bdbLangHebrew">‎פָּרִצִים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Jer.7.11|Jer 7:11]] ***robbers' cave***; [[Isa.32.14|Isa 32:14]] ***den*** (of wild beasts); — <span class="bdbLangHebrew">‎עֲדֻלָּם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[1Sam.22.1|1Sam 22:1]]; [[2Sam.23.13|2Sam 23:13]], whence in \|\| [[1Chr.11.15|1Chr 11:15]], read probably <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מְצֻדַת ע‎</span> or <span class="bdbLangHebrew">‎מְצָדַת‎</span> [[BDB#We|We]], compare [[BDB#Dr|Dr]], [[BDB#Bu|Bu]] [[BDB#Kit|Kit]] [[BDB#HPS|HPS]]; — as burial place, <span class="bdbLangHebrew">‎הַמַּכְפֵּלָה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Gen.23.9|Gen 23:9]] + (see  <span class="bdbLangHebrew">‎מַכְפֵּלָה‎</span>) = <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> alone [[Gen.23.11|Gen 23:11]]; [[Gen.23.17|Gen 23:17]]; [[Gen.23.20|Gen 23:20]]; [[Gen.49.29|Gen 49:29]]; [[Gen.49.32|Gen 49:32]] (all [[BDB#P|P]]). <span class="bdbLangHebrew">‎אֲשֶׁר לַצִּידֹנִים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Josh.13.4|Josh 13:4]] ([[BDB#D|D]]), cave-region in Lebanon east of Sidon, modern ***Mughâr Gezzîn***, according to most, but dubious; perhaps, rather, near Tyre [[BDB#Buhl|Buhl]]<sup>MDPV 1895, 55</sup>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.19.30\|19:30]] · [[Gen.23.9\|23:9]] · [[Gen.23.11\|23:11]] · [[Gen.23.17\|23:17]] · [[Gen.23.19\|23:19]] · [[Gen.23.20\|23:20]] · [[Gen.49.29\|49:29]] · [[Gen.49.32\|49:32]] |
+| Joshua | [[Josh.10\|Chapter 10]] · [[Josh.10.16\|10:16]] · [[Josh.13.4\|13:4]] |
+| Judges | [[Judg.6.2\|6:2]] |
+| 1 Samuel | [[1Sam.13.6\|13:6]] · [[1Sam.22.1\|22:1]] · [[1Sam.24.3\|24:3]] · [[1Sam.24.4\|24:4]] · [[1Sam.24.7\|24:7]] · [[1Sam.24.8\|24:8]] · [[1Sam.24.9\|24:9]] · [[1Sam.24.10\|24:10]] · [[1Sam.24.11\|24:11]] |
+| 2 Samuel | [[2Sam.23.13\|23:13]] |
+| 1 Kings | [[1Kgs.18.4\|18:4]] · [[1Kgs.18.13\|18:13]] · [[1Kgs.19.1\|19:1]] · [[1Kgs.19.13\|19:13]] |
+| 1 Chronicles | [[1Chr.11.15\|11:15]] |
+| Psalms | [[Ps.57.1\|57:1]] · [[Ps.142.1\|142:1]] |
+| Isaiah | [[Isa.2.19\|2:19]] · [[Isa.32.14\|32:14]] |
+| Jeremiah | [[Jer.7.11\|7:11]] |
+| Ezekiel | [[Ezek.33.27\|33:27]] |
+

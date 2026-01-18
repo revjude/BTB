@@ -1,0 +1,7 @@
+<big><span class="ashebrew">‎דּוּגָה‎</span></big> **dûwgâh** <small>*(doo-gaw')*</small> ==**fishhook**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine from the same as <span class="ashebrew">‎דַּוָּג‎</span><sup><small>[[H1728]]</small></sup></small>
+
+$\quad$ fish (hook).
+- properly, ***fishery***, i.e. ***a hook for******fishing***
+
+**1)** fishing, fishery

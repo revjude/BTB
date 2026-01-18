@@ -1,0 +1,28 @@
+**Psalms 63:1** (63:2)
+<small><sub>**KJV:**</sub></small>
+A Psalm of David, when he was in the wilderness of Judah. O God, thou [art] my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;
+<small><sub>**BSB:**</sub></small>
+A Psalm of David, when he was in the Wilderness of Judah. O God, You are my God. Earnestly I seek You; my soul thirsts for You. My body yearns for You in a dry and weary land without water.
+<small><sub>**Literal:**</sub></small>
+O God [are] God  my you I am seeking earnestly  you it is thirsty for  you self  my it longs for  you flesh  my in  a land dry and  weary not water<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.63.0|<< Psalms 63:0]]</td><td align="center" style="border:none;">[[Ps.63|Psalms 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.2|Psalms 63:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| O God  | <span class="ashebrew"><big>אֱלֹהִ֤ים</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] God my  | <span class="ashebrew"><big>אֵלִ֥</big></span><small><sup>[[H0410G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'e.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתָּ֗ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am seeking earnestly you  | <span class="ashebrew"><big>אֲֽשַׁחֲ֫רֶ֥</big></span><small><sup>[[H7836]]</sup></small> <span class="ashebrew"><big>ךָּ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'asha.Cha.Re.<small><sup>[[HVpi1cs]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is thirsty  | <span class="ashebrew"><big>צָמְאָ֬ה</big></span><small><sup>[[H6770]]</sup></small> &#8207;| tza.me.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֨</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self my  | <span class="ashebrew"><big>נַפְשִׁ֗</big></span><small><sup>[[H5315G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it longs  | <span class="ashebrew"><big>כָּמַ֣הּ</big></span><small><sup>[[H3642]]</sup></small> &#8207;| ka.Mah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֣</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flesh my  | <span class="ashebrew"><big>בְשָׂרִ֑</big></span><small><sup>[[H1320]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ve.sa.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a land  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶֽרֶץ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'e.retz-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dry  | <span class="ashebrew"><big>צִיָּ֖ה</big></span><small><sup>[[H6723]]</sup></small> &#8207;| tzi.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and weary  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עָיֵ֣ף</big></span><small><sup>[[H5889]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Yef<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>בְּלִי</big></span><small><sup>[[H1097]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.li-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  | <span class="ashebrew"><big>מָֽיִם</big></span><small><sup>[[H4325G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.63.0|<< Psalms 63:0]]</td><td align="center" style="border:none;">[[Ps.63|Psalms 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.2|Psalms 63:2 >>]]</td></tr></table>
+
+

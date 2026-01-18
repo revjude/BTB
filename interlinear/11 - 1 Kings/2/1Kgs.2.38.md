@@ -1,0 +1,30 @@
+**1 Kings 2:38** 
+<small><sub>**KJV:**</sub></small>
+And Shimei said unto the king, The saying [is] good: as my lord the king hath said, so will thy servant do. And Shimei dwelt in Jerusalem many days.
+<small><sub>**BSB:**</sub></small>
+“The sentence is fair,” Shimei replied. “Your servant will do as my lord the king has spoken.” And Shimei lived in Jerusalem for a long time.
+<small><sub>**Literal:**</sub></small>
+and  he said Shimei to the  king [is] good the  word just  as he has spoken lord  my the  king so he will do servant  your and  he dwelt Shimei in  Jerusalem days many<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.37|<< 1 Kings 2:37]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.39|1 Kings 2:39 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֨אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shimei  | <span class="ashebrew"><big>שִׁמְעִ֤י</big></span><small><sup>[[H8096H]]</sup></small> &#8207;| shim.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the king  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֶּ֙לֶךְ֙</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  | <span class="ashebrew"><big>ט֣וֹב</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the word  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דָּבָ֔ר</big></span><small><sup>[[H1697H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֤ר</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has spoken  | <span class="ashebrew"><big>דִּבֶּר֙</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lord my  | <span class="ashebrew"><big>אֲדֹנִ֣</big></span><small><sup>[[H0113]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֔לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  | <span class="ashebrew"><big>כֵּ֖ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will do  | <span class="ashebrew"><big>יַעֲשֶׂ֣ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant your  | <span class="ashebrew"><big>עַבְדֶּ֑</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'av.De.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he dwelt  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֧שֶׁב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shimei  | <span class="ashebrew"><big>שִׁמְעִ֛י</big></span><small><sup>[[H8096H]]</sup></small> &#8207;| shim.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Jerusalem  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ירוּשָׁלִַ֖ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִ֥ים</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  | <span class="ashebrew"><big>רַבִּֽים</big></span><small><sup>[[H7227A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.37|<< 1 Kings 2:37]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.39|1 Kings 2:39 >>]]</td></tr></table>
+
+

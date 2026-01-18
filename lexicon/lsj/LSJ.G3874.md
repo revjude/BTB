@@ -1,0 +1,14 @@
+
+<b> <span class='asgreek'>==παράκλησις==</span>-<span class='asgreek'>κλησις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>calling to one's aid, summons</b>, <span class='asgreek'>οἱ</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>παρακλήσεως</span> <span class='asgreek'>συγκαθήμενοι</span> a <b>packed</b> party in the assembly, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 18.143. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>imploring, appealing</b>, <span class='asgreek'>τινος</span> <b>of</b> or <b>on the part of</b> one, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 4.61 ">Refs 5th c.BC+</a>]; <b>deprecation</b>, <span class='asgreek'>συγγνώμης</span> <span class='asgreek'>δεῖ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 13.1.1. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>invocation</b> of gods, [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de Mysteriis” 4.3 (\_plural\_). ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>demand, request,</b> [<a href="javascript:void(0)" title=" PGrenf. 1.32.7 (\_plural\_, 2nd c.BC), etc.">Refs 2nd c.BC+</a>]; <span class='asgreek'>κατὰ</span>-<span class='asgreek'>σιν</span> on <b>demand,</b> [<a href="javascript:void(0)" title=" PLond. 3.1164d10 (3rd c.AD). ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>exhortation, address</b>, <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ὄχλον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.92 ">Refs 5th c.BC+</a>]; <span class='asgreek'>οὐ</span> <span class='asgreek'>π</span>. <span class='asgreek'>εὑρόντες</span>, <span class='asgreek'>ἀλλὰ</span> <span class='asgreek'>παραίνεσιν</span> <span class='asgreek'>γράψαντες</span> not <b>a mere address</b> to their feelings, but counsel to act rightly, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 1.5; π. τῶν πολιτῶν πρὸς ἀρετήν 4th c.BC: Aeschines Orator 1.117; τὴν τῆς σωφροσύνης ==παράκλησις==κλησιν.. αὐτοὺς παρακέκληκα [prev. author] 2.180 ">Refs 5th c.BC+</a>]; <b><span class='asgreek'>ἀξιώσεισκαὶ</span>-<span class='asgreek'>κλήσεις</span></b> [<a href="javascript:void(0)" title="2nd c.BC: Polybius Historicus 1.67.10. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>consolation</b>, [<a href="javascript:void(0)" title=" LXX.Isa.30.7, LXX.Nah.3.7, NT.Heb.6.18, 3rd-2nd c.BC: Phalaris Epistolographus “Epistulae - Epistolographi” 103.1. ">LXX+NT+3rd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Isa.30.7]] ☩ [[Nah.3.7]] ☩ [[Heb.6.18]]
+</sub></small>

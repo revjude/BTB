@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==πανόδυρτος==</span>-<span class='asgreek'>όδυρτος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>most lamentable,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 7.476.9 (1st c.BC: Meleager Epigrammaticus), “epigram Gr.” 230 (from Erythrae), “IG” 12(8).445.7 (from Thasos)">Refs 1st c.BC+</a>]; <span class='asgreek'>βοή</span> [<a href="javascript:void(0)" title=" LXX.3Mac.4.2, compare 6.32. ">LXX</a>]
+

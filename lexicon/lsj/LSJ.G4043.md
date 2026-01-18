@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==περιπατέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>walk up and down</b>, as in a cloister, opposed to <span class='asgreek'>βαδίζειν</span> (take a walk), <span class='asgreek'>ἐν</span> <span class='asgreek'>ταῖς</span> <span class='asgreek'>στοαῖς</span> [<a href="javascript:void(0)" title=" 4th c.BC: Dicaearchus Geographus cited in 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.796d ">Refs 4th c.BC+</a>]; <b>walk about</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 744, “V.” 237; περιπατῶν ἀνδριάς 2nd c.AD: Alexander Rhetor 204; ἐν τῷ καταστέγῳ δρόμῳ 5th-6th c.BC: Plato Philosophus “Euthydemus” 273a; π. ἄνω κάτω 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 709; π. περιπάτους 5th-6th c.BC: Xenophon Historicus “Memorabilia” 3.13.5, compare 4th-3rd c.BC: Menander Comicus “Περικειρομένη” 156 ">Refs 5th c.BC+</a>]; <span class='asgreek'>περιπατεῖται</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>ὁδός</span> the road <b>is for walking on</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 279.19 ">Refs 2nd c.AD+</a>]: with <i>accusative</i>, <b>traverse</b>, <span class='asgreek'>ὅλην</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>Αἴγυπτον</span> [<a href="javascript:void(0)" title=" “POxy.” 471.124 (2nd c.AD). ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>walk about while teaching, discourse</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Epistulae” 348c, 3rd c.AD(?): Diogenes Laertius 7.109 ">Refs 5th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ἐς</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἀκροωμένους</span> <b>dispute, argue</b> with them, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 1.17, compare 7.22. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>walk</b>, i.e. <b>live</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ παρρησίας” p.12 O.; κατὰ τὴν παράδοσιν NT.Mark.7.5; ἀτάκτως NT.2Thess.3.6. ">NT+1st c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Mark.7.5]] ☩ [[2Thess.3.6]]
+</sub></small>

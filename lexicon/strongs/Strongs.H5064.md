@@ -1,0 +1,19 @@
+<big><span class="ashebrew">‎נָגַר‎</span></big> **nâgar** <small>*(naw-gar')*</small> ==**to pour**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root</small>
+
+$\quad$ fall, flow away, pour down (out), run, shed, spilt, trickle down.
+- ***to flow***
+-  figuratively, ***to stretch out***
+-  causatively, ***to pour out*** or ***down***
+-  figuratively, ***to deliver over***
+
+**1)** to pour, run, flow, pour down
+$\quad$ **1a)** (Niphal)
+$\quad$ $\quad$ **1a1)** to be poured, be spilt
+$\quad$ $\quad$ **1a2)** to pour oneself, flow, trickle
+$\quad$ $\quad$ **1a3)** to vanish (fig.)
+$\quad$ $\quad$ **1a4)** to be stretched out
+$\quad$ **1b)** (Hiphil) to pour down
+$\quad$ **1c)** (Hophal) to melt
+
+<sub><small>See Greek: </small></sub><span class="asgreek">ἐπέρχομαι</span><sup><small>[[G1904]]</small></sup> · <span class="asgreek">καταπίνω</span><sup><small>[[G2666]]</small></sup> · <span class="asgreek">καταφέρω</span><sup><small>[[G2702]]</small></sup> · <span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup> · <span class="asgreek">συναθροίζω</span><sup><small>[[G4867]]</small></sup>

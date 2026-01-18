@@ -1,0 +1,23 @@
+**Isaiah 41:12** 
+<small><sub>**KJV:**</sub></small>
+Thou shalt seek them, and shalt not find them, [even] them that contended with thee: they that war against thee shall be as nothing, and as a thing of nought.
+<small><sub>**BSB:**</sub></small>
+You will seek them but will not find them. Those who wage war against you will come to nothing.
+<small><sub>**Literal:**</sub></small>
+you will seek  them and  not you will find  them [the] people of strife  your they will be as  nothing and  as  nothing [the] people of warfare  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.11|<< Isaiah 41:11]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.13|Isaiah 41:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| you will seek them  | <span class="ashebrew"><big>תְּבַקְשֵׁ</big></span><small><sup>[[H1245]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| te.vak.She<small><sup>[[HVpi2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will find them  | <span class="ashebrew"><big>תִמְצָאֵ֔</big></span><small><sup>[[H4672]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| tim.tza.'E<small><sup>[[HVqi2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>אַנְשֵׁ֖י</big></span><small><sup>[[H0582]]</sup></small> &#8207;| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strife your  | <span class="ashebrew"><big>מַצֻּתֶ֑</big></span><small><sup>[[H4695]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ma.tzu.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  | <span class="ashebrew"><big>יִהְי֥וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as nothing  | <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אַ֛יִן</big></span><small><sup>[[H0369]]</sup></small> &#8207;| khe.<small><sup>[[HR]]</sup></small> 'A.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and as nothing  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֶ֖פֶס</big></span><small><sup>[[H0657A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> 'E.fes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>אַנְשֵׁ֥י</big></span><small><sup>[[H0582]]</sup></small> &#8207;| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| warfare your  | <span class="ashebrew"><big>מִלְחַמְתֶּֽ</big></span><small><sup>[[H4421]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mil.cham.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.11|<< Isaiah 41:11]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.13|Isaiah 41:13 >>]]</td></tr></table>
+
+

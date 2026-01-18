@@ -1,0 +1,29 @@
+**1 Kings 22:42** 
+<small><sub>**KJV:**</sub></small>
+Jehoshaphat [was] thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name [was] Azubah the daughter of Shilhi.
+<small><sub>**BSB:**</sub></small>
+Jehoshaphat was thirty-five years old when he became king, and he reigned in Jerusalem twenty-five years. His mother’s name was Azubah daughter of Shilhi.
+<small><sub>**Literal:**</sub></small>
+Jehoshaphat [was] a son of thirty and  five year[s] when  became king  he and  twenty and  five year[s] he reigned in  Jerusalem and  [the] name of mother  his [was] Azubah [the] daughter of Shilhi<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.41|<< 1 Kings 22:41]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.43|1 Kings 22:43 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| Jehoshaphat  | <span class="ashebrew"><big>יְהוֹשָׁפָ֗ט</big></span><small><sup>[[H3092I]]</sup></small> &#8207;| ye.ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] a son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121L]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֨ים</big></span><small><sup>[[H7970]]</sup></small> &#8207;| she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חָמֵ֤שׁ</big></span><small><sup>[[H2568]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> cha.Mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  | <span class="ashebrew"><big>שָׁנָה֙</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when became king he  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מָלְכ֔</big></span><small><sup>[[H4427A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ma.le.Kh<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and twenty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֶשְׂרִ֤ים</big></span><small><sup>[[H6242]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חָמֵשׁ֙</big></span><small><sup>[[H2568]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> cha.Mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  | <span class="ashebrew"><big>שָׁנָ֔ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he reigned  | <span class="ashebrew"><big>מָלַ֖ךְ</big></span><small><sup>[[H4427A]]</sup></small> &#8207;| ma.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Jerusalem  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ירוּשָׁלִָ֑ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] name of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֵׁ֣ם</big></span><small><sup>[[H8034]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mother his  | <span class="ashebrew"><big>אִמּ֔</big></span><small><sup>[[H0517]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'i.M<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Azubah  | <span class="ashebrew"><big>עֲזוּבָ֖ה</big></span><small><sup>[[H5806G]]</sup></small> &#8207;| 'a.zu.Vah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  | <span class="ashebrew"><big>בַּת</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shilhi  | <span class="ashebrew"><big>שִׁלְחִֽי</big></span><small><sup>[[H7977]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| shil.Chi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.41|<< 1 Kings 22:41]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.43|1 Kings 22:43 >>]]</td></tr></table>
+
+

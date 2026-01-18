@@ -1,0 +1,26 @@
+**1 Chronicles 3:5** 
+<small><sub>**KJV:**</sub></small>
+And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bathshua the daughter of Ammiel:
+<small><sub>**BSB:**</sub></small>
+and these sons were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon. These four were born to him by Bathsheba daughter of Ammiel.
+<small><sub>**Literal:**</sub></small>
+and  these they were born to  him in  Jerusalem Shimea and  Shobab and  Nathan and  Solomon four to  Bath- -shua [the] daughter of Ammiel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.4|<< 1 Chronicles 3:4]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.6|1 Chronicles 3:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and these  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֥לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were born  | <span class="ashebrew"><big>נוּלְּדוּ</big></span><small><sup>[[H3205]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| nu.le.du-<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>ל֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Jerusalem  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ירוּשָׁלָ֑יִם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> ru.sha.La.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shimea  | <span class="ashebrew"><big>שִׁ֠מְעָא</big></span><small><sup>[[H8092J]]</sup></small> &#8207;| Shim.'a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Shobab  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שׁוֹבָ֞ב</big></span><small><sup>[[H7727G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sho.Vav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Nathan  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נָתָ֤ן</big></span><small><sup>[[H5416G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Solomon  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁלֹמֹה֙</big></span><small><sup>[[H8010]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  | <span class="ashebrew"><big>אַרְבָּעָ֔ה</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Bath-  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בַת</big></span><small><sup>[[H1340]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> vat-<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -shua  | <span class="ashebrew"><big>שׁ֖וּעַ</big></span><small><sup>[[H1340]]</sup></small> &#8207;| Shu.a'<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  | <span class="ashebrew"><big>בַּת</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ammiel  | <span class="ashebrew"><big>עַמִּיאֵֽל</big></span><small><sup>[[H5988J]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.mi.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.4|<< 1 Chronicles 3:4]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.6|1 Chronicles 3:6 >>]]</td></tr></table>
+
+

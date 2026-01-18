@@ -1,0 +1,27 @@
+**1 Chronicles 9:33** 
+<small><sub>**KJV:**</sub></small>
+And these [are] the singers, chief of the fathers of the Levites, [who remaining] in the chambers [were] free: for they were employed in [that] work day and night.
+<small><sub>**BSB:**</sub></small>
+Those who were musicians, the heads of Levite families, stayed in the temple chambers and were exempt from other duties because they were on duty day and night.
+<small><sub>**Literal:**</sub></small>
+and  these the  singers [the] chiefs of fathers of the  Levites [were] in the  rooms set free for by day and  night [was] on  them in the  work<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.32|<< 1 Chronicles 9:32]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.34|1 Chronicles 9:34 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and these  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֣לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the singers  | <span class="ashebrew"><big>הַ֠</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְשֹׁרְרִים</big></span><small><sup>[[H7891]]</sup></small> &#8207;| Ha<small><sup>[[HTd]]</sup></small> m.sho.re.rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chiefs of  | <span class="ashebrew"><big>רָאשֵׁ֨י</big></span><small><sup>[[H7218H]]</sup></small> &#8207;| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fathers  | <span class="ashebrew"><big>אָב֧וֹת</big></span><small><sup>[[H0001G]]</sup></small> &#8207;| 'a.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the Levites  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לְוִיִּ֛ם</big></span><small><sup>[[H3881]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] in the rooms  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לְּשָׁכֹ֖ת</big></span><small><sup>[[H3957]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> le.sha.Khot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| set free  [^1] | <span class="ashebrew"><big>פְּטוּרִ֑ים</big></span><small><sup>[[H6362]]</sup></small> &#8207;[^2] | pe.ti.rim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by day  | <span class="ashebrew"><big>יוֹמָ֥ם</big></span><small><sup>[[H3119]]</sup></small> &#8207;| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and night  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ֛יְלָה</big></span><small><sup>[[H3915]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] on them  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the work  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְּלָאכָֽה</big></span><small><sup>[[H4399]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.32|<< 1 Chronicles 9:32]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.34|1 Chronicles 9:34 >>]]</td></tr></table>
+
+[^1]: ==K==: **set free ** | <small><sup>[[H6359]]</sup></small><span class="ashebrew"><big>פְּטִירִים</big></span>  | pe.ti.rim<small><sup>[[HNcmpa]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>פְּטיּרִ֑ים</big></span>**
+

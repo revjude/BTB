@@ -1,0 +1,34 @@
+**2 Samuel 21:16** 
+<small><sub>**KJV:**</sub></small>
+And Ishbibenob, which [was] of the sons of the giant, the weight of whose spear [weighed] three hundred [shekels] of brass in weight, he being girded with a new [sword], thought to have slain David.
+<small><sub>**BSB:**</sub></small>
+Then Ishbi-benob, a descendant of Rapha, whose bronze spear weighed three hundred shekels and who was bearing a new sword, resolved to kill David.
+<small><sub>**Literal:**</sub></small>
+and  Ishbi- Benob who [was] among  those born of the  Raphah and  [the] weight of spear  his [was] three hundred\<s> [the] weight of bronze and  he [was] girded a new [weapon] and  he said to  strike down \<obj.> David<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.15|<< 2 Samuel 21:15]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.17|2 Samuel 21:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Ishbi-  [^2] | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יִשְׁבִּ֨י</big></span><small><sup>[[H3430]]</sup></small> &#8207;[^3] | ve.<small><sup>[[HC]]</sup></small> yish.bo<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| Benob  | <span class="ashebrew"><big>בְּנֹ֜ב</big></span><small><sup>[[H3430]]</sup></small> &#8207;| be.No<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] among those born of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ילִידֵ֣י</big></span><small><sup>[[H3211]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> li.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Raphah  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רָפָ֗ה</big></span><small><sup>[[H7497A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ra.Fah<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] weight of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִשְׁקַ֤ל</big></span><small><sup>[[H4948]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mish.Kal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spear his  | <span class="ashebrew"><big>קֵינ</big></span><small><sup>[[H7013]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| kei.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] three  | <span class="ashebrew"><big>שְׁלֹ֤שׁ</big></span><small><sup>[[H7969]]</sup></small> &#8207;| she.Losh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵאוֹת֙</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] weight of  | <span class="ashebrew"><big>מִשְׁקַ֣ל</big></span><small><sup>[[H4948]]</sup></small> &#8207;| mish.Kal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bronze  | <span class="ashebrew"><big>נְחֹ֔שֶׁת</big></span><small><sup>[[H5178A]]</sup></small> &#8207;| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ה֖וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] girded  | <span class="ashebrew"><big>חָג֣וּר</big></span><small><sup>[[H2296]]</sup></small> &#8207;| cha.Gur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a new [weapon]  | <span class="ashebrew"><big>חֲדָשָׁ֑ה</big></span><small><sup>[[H2319H]]</sup></small> &#8207;| cha.da.Shah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֖אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to strike down  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַכּ֥וֹת</big></span><small><sup>[[H5221]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Kot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִֽד</big></span><small><sup>[[H1732]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.15|<< 2 Samuel 21:15]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.17|2 Samuel 21:17 >>]]</td></tr></table>
+
+[^1]: ==K==: **and Ishbo- ** | <small><sup>[[H3430+]]</sup></small><span class="ashebrew"><big>יִשְׁבּוֹ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> yish.bo<small><sup>[[HNpm]]</sup></small> 
+[^2]: ==K==: **and Ishbo- ** | <small><sup>[[H3430+]]</sup></small><span class="ashebrew"><big>יִשְׁבּוֹ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> yish.bo<small><sup>[[HNpm]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>וְיִשְׁבִּ֨ו</big></span>**
+

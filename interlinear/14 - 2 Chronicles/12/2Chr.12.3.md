@@ -1,0 +1,29 @@
+**2 Chronicles 12:3** 
+<small><sub>**KJV:**</sub></small>
+With twelve hundred chariots, and threescore thousand horsemen: and the people [were] without number that came with him out of Egypt; the Lubims, the Sukkiims, and the Ethiopians.
+<small><sub>**BSB:**</sub></small>
+with 1,200 chariots, 60,000 horsemen, and countless troops who came with him out of Egypt—Libyans, Sukkites, and Cushites.
+<small><sub>**Literal:**</sub></small>
+with  one thousand and  two hundred chariot[s] and  with  sixty thousand horsemen and  not number [belonged] to the  people which they came with  him from  Egypt Libyans Sukkites and  Cushites<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.2|<< 2 Chronicles 12:2]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.4|2 Chronicles 12:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| with one thousand  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֤לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and two hundred  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מָאתַ֙יִם֙</big></span><small><sup>[[H3967]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chariot[s]  | <span class="ashebrew"><big>רֶ֔כֶב</big></span><small><sup>[[H7393G]]</sup></small> &#8207;| Re.khev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with sixty  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שִׁשִּׁ֥ים</big></span><small><sup>[[H8346]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> shi.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  | <span class="ashebrew"><big>אֶ֖לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'E.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horsemen  | <span class="ashebrew"><big>פָּרָשִׁ֑ים</big></span><small><sup>[[H6571B]]</sup></small> &#8207;| pa.ra.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֣ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| number  | <span class="ashebrew"><big>מִסְפָּ֗ר</big></span><small><sup>[[H4557]]</sup></small> &#8207;| mis.Par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to the people  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עָ֞ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they came  | <span class="ashebrew"><big>בָּ֤אוּ</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  | <span class="ashebrew"><big>עִמּ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| i.M<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Egypt  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּצְרַ֔יִם</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Libyans  | <span class="ashebrew"><big>לוּבִ֥ים</big></span><small><sup>[[H3864]]</sup></small> &#8207;| lu.Vim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sukkites  | <span class="ashebrew"><big>סֻכִּיִּ֖ים</big></span><small><sup>[[H5525]]</sup></small> &#8207;| su.ki.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Cushites  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כוּשִֽׁים</big></span><small><sup>[[H3569G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khu.Shim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.2|<< 2 Chronicles 12:2]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.4|2 Chronicles 12:4 >>]]</td></tr></table>
+
+

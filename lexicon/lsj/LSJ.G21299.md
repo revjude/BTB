@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==ὑψαυχενέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>carry the neck high, show off,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 7.46, 1st c.AD: Philo Judaeus 1.145, +others, LXX.2Mac.15.6, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.324e, 2nd c.AD(?): Pollianus Epigrammaticus 2.135 ">LXX+1st c.BC+</a>]; of the cock, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 4.29. ">Refs 2nd c.AD+</a>]
+

@@ -1,0 +1,10 @@
+<span class="asgreek">καταπέτομαι</span> <small>***(katapetomai)***</small> ==**to fly down**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==καταπέτομαι==</span></b>, 
+
+
+ <b>fly down</b>: <i>future</i> [<a href="javascript:void(0)" title=" καταπτήσομαι 2nd c.AD: Lucianus Sophista “Prom.” 2 ">Refs 2nd c.AD+</a>]: <i>aorist</i> [<a href="javascript:void(0)" title=" κατέπτᾰτο Aristophanes Comicus [{5-6th c.BC}] “Aves” 789 ">Refs 6th c.BC+</a>], +others codices; <i>participle</i> [<a href="javascript:void(0)" title=" καταπτάμενος 5th c.BC: Herodotus Historicus 3.111 ">Refs 5th c.BC+</a>] (variant{-<span class='asgreek'>πετομένας</span>},{-<span class='asgreek'>πετεωμένας</span>}), [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “V.” 16, “Av.” 1624 ">Refs 5th c.BC+</a>] codices; <i>subjunctive</i> and <i>optative</i> <span class='asgreek'>κατάπτωμαι</span>, -<span class='asgreek'>πτοῖο</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Icar.” 13, Bis Acc. 8 ">Refs 2nd c.AD+</a>]: <i>aorist 2</i> <i>active</i> <span class='asgreek'>κατέπτην</span>, <i>participle</i> [<a href="javascript:void(0)" title=" καταπτάς 4th c.BC: Aristoteles Philosophus “Historia Animalium” 614b21, 1st c.AD: Philo Judaeus 2.318, 2nd c.AD: Lucianus Sophista “Charid.” 7, 3rd c.AD: Porphyrius Tyrius Philosophus “Abst.” 1.25 ">Refs 4th c.BC+</a>]: <i>perfect</i> [<a href="javascript:void(0)" title=" κατέπτηκα Menander Comicus [{4-3rd c.BC}] “Κόλαξ” 39 ">Refs 3rd c.BC+</a>]: <i>aorist 1</i> <i>passive</i> [<a href="javascript:void(0)" title=" κατεπετάσθην Vetus Testamentum Graece redditum LXX.Prov.27.8, 1st c.BC: Diodorus Siculus Historicus 2.20. ">LXX+1st c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Prov.27.8]]
+</sub></small>

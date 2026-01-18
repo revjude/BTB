@@ -1,0 +1,29 @@
+**Numbers 27:4** 
+<small><sub>**KJV:**</sub></small>
+Why should the name of our father be done away from among his family, because he hath no son? Give unto us [therefore] a possession among the brethren of our father.
+<small><sub>**BSB:**</sub></small>
+Why should the name of our father disappear from his clan because he had no sons? Give us property among our father’s brothers.”
+<small><sub>**Literal:**</sub></small>
+\<to>  why? will it be withdrawn [the] name of father  our from  among clan  his for not [belonged] to \<the>  him a son give  ! to \<the>  us a possession in  among [the] brothers of father  our<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.3|<< Numbers 27:3]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.5|Numbers 27:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| \<to> why?  | <span class="ashebrew"><big>לָ֣</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מָּה</big></span><small><sup>[[H4100]]</sup></small> &#8207;| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will it be withdrawn  | <span class="ashebrew"><big>יִגָּרַ֤ע</big></span><small><sup>[[H1639]]</sup></small> &#8207;| yi.ga.Ra'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  | <span class="ashebrew"><big>שֵׁם</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father our  | <span class="ashebrew"><big>אָבִ֙י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>נוּ֙</big></span><small><sup>[[H9025]]</sup></small> &#8207;| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from among  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>תּ֣וֹךְ</big></span><small><sup>[[H8432]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clan his  | <span class="ashebrew"><big>מִשְׁפַּחְתּ֔</big></span><small><sup>[[H4940]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| mish.pach.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֛י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>אֵ֥ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to \<the> him  | <span class="ashebrew"><big>ל֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son  | <span class="ashebrew"><big>בֵּ֑ן</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| Ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| give !  | <span class="ashebrew"><big>תְּנָ</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| te.na<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> us  | <span class="ashebrew"><big>לָּ֣</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| La.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a possession  | <span class="ashebrew"><big>אֲחֻזָּ֔ה</big></span><small><sup>[[H0272]]</sup></small> &#8207;| 'a.chu.Zah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in among  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ת֖וֹךְ</big></span><small><sup>[[H8432]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] brothers of  | <span class="ashebrew"><big>אֲחֵ֥י</big></span><small><sup>[[H0251G]]</sup></small> &#8207;| 'a.Chei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father our  | <span class="ashebrew"><big>אָבִֽי</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.3|<< Numbers 27:3]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.5|Numbers 27:5 >>]]</td></tr></table>
+
+

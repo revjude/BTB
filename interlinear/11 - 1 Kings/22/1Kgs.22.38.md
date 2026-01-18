@@ -1,0 +1,29 @@
+**1 Kings 22:38** 
+<small><sub>**KJV:**</sub></small>
+And [one] washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the LORD which he spake.
+<small><sub>**BSB:**</sub></small>
+And the chariot was washed at the pool of Samaria where the prostitutes bathed, and the dogs licked up Ahab’s blood, according to the word that the LORD had spoken.
+<small><sub>**Literal:**</sub></small>
+and  someone washed off \<obj.> the  chariot at [the] pool of Samaria and  they licked up the  dogs \<obj.> blood  his and  the  prostitutes they bathed according to  [the] word of Yahweh which he had spoken<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.37|<< 1 Kings 22:37]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.39|1 Kings 22:39 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and someone washed off  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁטֹ֨ף</big></span><small><sup>[[H7857]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Tof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the chariot  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רֶ֜כֶב</big></span><small><sup>[[H7393G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Re.khev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at  | <span class="ashebrew"><big>עַ֣ל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pool of  | <span class="ashebrew"><big>בְּרֵכַ֣ת</big></span><small><sup>[[H1295H]]</sup></small> &#8207;| be.re.Khat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samaria  | <span class="ashebrew"><big>שֹׁמְר֗וֹן</big></span><small><sup>[[H8111]]</sup></small> &#8207;| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they licked up  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּלֹ֤קּוּ</big></span><small><sup>[[H3952]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Lo.ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the dogs  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כְּלָבִים֙</big></span><small><sup>[[H3611]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ke.la.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood his  | <span class="ashebrew"><big>דָּמ֔</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| da.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the prostitutes  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֹּנ֖וֹת</big></span><small><sup>[[H2181]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> zo.Not<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they bathed  | <span class="ashebrew"><big>רָחָ֑צוּ</big></span><small><sup>[[H7364]]</sup></small> &#8207;| ra.Cha.tzu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to [the] word of  | <span class="ashebrew"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>דְבַ֥ר</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| ki<small><sup>[[HR]]</sup></small> d.Var<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had spoken  | <span class="ashebrew"><big>דִּבֵּֽר</big></span><small><sup>[[H1696G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.37|<< 1 Kings 22:37]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.39|1 Kings 22:39 >>]]</td></tr></table>
+
+

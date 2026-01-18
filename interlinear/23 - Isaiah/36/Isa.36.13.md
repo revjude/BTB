@@ -1,0 +1,28 @@
+**Isaiah 36:13** 
+<small><sub>**KJV:**</sub></small>
+Then Rabshakeh stood, and cried with a loud voice in the Jews’ language, and said, Hear ye the words of the great king, the king of Assyria.
+<small><sub>**BSB:**</sub></small>
+Then the Rabshakeh stood and called out loudly in Hebrew: “Hear the words of the great king, the king of Assyria!
+<small><sub>**Literal:**</sub></small>
+and  he stood [the] chief commander and  he called out with  a voice great [in] Judean and  he said hear \<obj.> [the] words of the  king \<the>  great [the] king of Assyria<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.12|<< Isaiah 36:12]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.14|Isaiah 36:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he stood  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעֲמֹד֙</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chief  | <span class="ashebrew"><big>רַב</big></span><small><sup>[[H7262]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| rav-<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| commander  | <span class="ashebrew"><big>שָׁקֵ֔ה</big></span><small><sup>[[H7262]]</sup></small> &#8207;| sha.Keh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he called out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְרָ֥א</big></span><small><sup>[[H7121I]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with a voice  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קוֹל</big></span><small><sup>[[H6963A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>גָּד֖וֹל</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [in] Judean  | <span class="ashebrew"><big>יְהוּדִ֑ית</big></span><small><sup>[[H3066]]</sup></small> &#8207;| ye.hu.Dit<small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֕אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hear  | <span class="ashebrew"><big>שִׁמְע֗וּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  | <span class="ashebrew"><big>דִּבְרֵ֛י</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֥לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> great  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גָּד֖וֹל</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶ֥לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Assyria  | <span class="ashebrew"><big>אַשּֽׁוּר</big></span><small><sup>[[H0804G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.12|<< Isaiah 36:12]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.14|Isaiah 36:14 >>]]</td></tr></table>
+
+

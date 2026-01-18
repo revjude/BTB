@@ -1,0 +1,25 @@
+**2 Samuel 22:51** 
+<small><sub>**KJV:**</sub></small>
+[He is] the tower of salvation for his king: and sheweth mercy to his anointed, unto David, and to his seed for evermore.
+<small><sub>**BSB:**</sub></small>
+Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever.”
+<small><sub>**Literal:**</sub></small>
+[the] tower of [the] salvation\<s> of king  his and  [who] does covenant loyalty to  anointed  his to  David and  to  offspring  his until perpetuity<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.50|<< 2 Samuel 22:50]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.1|2 Samuel 23:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] tower  [^1] | <span class="ashebrew"><big>מִגְדּ֖וֹל</big></span><small><sup>[[H4024A]]</sup></small> &#8207;[^2] | mig.dil<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| of [the] salvation\<s> of  | <span class="ashebrew"><big>יְשׁוּע֣וֹת</big></span><small><sup>[[H3444]]</sup></small> &#8207;| ye.shu.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king his  | <span class="ashebrew"><big>מַלְכּ֑</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| mal.K<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [who] does  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֹֽשֶׂה</big></span><small><sup>[[H6213A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'o.seh-<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| covenant loyalty  | <span class="ashebrew"><big>חֶ֧סֶד</big></span><small><sup>[[H2617A]]</sup></small> &#8207;| Che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to anointed his  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מְשִׁיח֛</big></span><small><sup>[[H4899]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> m.shi.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to David  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָוִ֥ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to offspring his  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>זַרְע֖</big></span><small><sup>[[H2233H]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> zar.'<small><sup>[[HNcmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  | <span class="ashebrew"><big>עוֹלָֽם</big></span><small><sup>[[H5769G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.50|<< 2 Samuel 22:50]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.1|2 Samuel 23:1 >>]]</td></tr></table>
+
+[^1]: ==K==: **[one who] makes great ** | <small><sup>[[H1431]]</sup></small><span class="ashebrew"><big>מַגְדִּיל</big></span>  | mig.dil<small><sup>[[HVhrmsa]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>מִגְדֹּ֖יל</big></span>**
+

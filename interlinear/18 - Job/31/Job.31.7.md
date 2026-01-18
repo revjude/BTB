@@ -1,0 +1,25 @@
+**Job 31:7** 
+<small><sub>**KJV:**</sub></small>
+If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;
+<small><sub>**BSB:**</sub></small>
+If my steps have turned from the path, if my heart has followed my eyes, or if impurity has stuck to my hands,
+<small><sub>**Literal:**</sub></small>
+if it turned aside step  my from the  way and  after eyes  my it has gone heart  my and  to  hands  my it has stuck a blemish<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.6|<< Job 31:6]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.8|Job 31:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| if  | <span class="ashebrew"><big>אִ֥ם</big></span><small><sup>[[H0518A]]</sup></small> &#8207;| 'im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it turned aside  | <span class="ashebrew"><big>תִּטֶּ֣ה</big></span><small><sup>[[H5186]]</sup></small> &#8207;| ti.Teh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| step my  | <span class="ashebrew"><big>אַשֻּׁרִ</big></span><small><sup>[[H0838B]]</sup></small> <span class="ashebrew"><big>י֮</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.shu.R<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִנִּ֪י</big></span><small><sup>[[H4480A]]</sup></small> &#8207;| mi.Ni<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the way  | <span class="ashebrew"><big>הַ֫</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דָּ֥רֶךְ</big></span><small><sup>[[H1870G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Da.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and after  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַחַ֣ר</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes my  | <span class="ashebrew"><big>עֵ֭ינַ</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'Ei.na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has gone  | <span class="ashebrew"><big>הָלַ֣ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ha.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  | <span class="ashebrew"><big>לִבִּ֑</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to hands my  | <span class="ashebrew"><big>וּ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כַפַּ֗</big></span><small><sup>[[H3709G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> kha.Pa<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has stuck  | <span class="ashebrew"><big>דָּ֣בַק</big></span><small><sup>[[H1692]]</sup></small> &#8207;| Da.vak<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a blemish  | <span class="ashebrew"><big>מֻאֽוּם</big></span><small><sup>[[H3971A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| mu.'Um<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.6|<< Job 31:6]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.8|Job 31:8 >>]]</td></tr></table>
+
+

@@ -1,0 +1,23 @@
+**2 Chronicles 29:9** 
+<small><sub>**KJV:**</sub></small>
+For, lo, our fathers have fallen by the sword, and our sons and our daughters and our wives [are] in captivity for this.
+<small><sub>**BSB:**</sub></small>
+For behold, this is why our fathers have fallen by the sword, and our sons and daughters and wives are in captivity.
+<small><sub>**Literal:**</sub></small>
+and  there! they have fallen fathers  our by the  sword and  sons  our and  daughters  our and  wives  our [are] in \<the>  captivity on this<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.8|<< 2 Chronicles 29:8]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.10|2 Chronicles 29:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and there!  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנֵּ֛ה</big></span><small><sup>[[H2009]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have fallen  | <span class="ashebrew"><big>נָפְל֥וּ</big></span><small><sup>[[H5307G]]</sup></small> &#8207;| na.fe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fathers our  | <span class="ashebrew"><big>אֲבוֹתֵ֖י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| 'a.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by the sword  | <span class="ashebrew"><big>בֶּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חָ֑רֶב</big></span><small><sup>[[H2719]]</sup></small> &#8207;| be.<small><sup>[[HRd]]</sup></small> Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sons our  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בָנֵ֨י</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.Nei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and daughters our  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנוֹתֵ֧י</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.no.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wives our  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נָשֵׁ֛י</big></span><small><sup>[[H0802H]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> na.Shei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] in \<the> captivity  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְּׁבִ֖י</big></span><small><sup>[[H7628A]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> she.Vi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֹֽאת</big></span><small><sup>[[H2063]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.8|<< 2 Chronicles 29:8]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.10|2 Chronicles 29:10 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**2 Chronicles 31:4** 
+<small><sub>**KJV:**</sub></small>
+Moreover he commanded the people that dwelt in Jerusalem to give the portion of the priests and the Levites, that they might be encouraged in the law of the LORD.
+<small><sub>**BSB:**</sub></small>
+Moreover, he commanded the people living in Jerusalem to make a contribution for the priests and Levites so that they could devote themselves to the Law of the LORD.
+<small><sub>**Literal:**</sub></small>
+and  he said to the  people to  [the] inhabitants of Jerusalem to  give [the] portion of the  priests and  the  Levites so that they may be strong in  [the] law of Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.3|<< 2 Chronicles 31:3]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.5|2 Chronicles 31:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֤אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the people  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עָם֙</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] inhabitants of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יוֹשְׁבֵ֣י</big></span><small><sup>[[H3427]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִַ֔ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תֵ֕ת</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] portion of  | <span class="ashebrew"><big>מְנָ֥ת</big></span><small><sup>[[H4521]]</sup></small> &#8207;| me.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priests  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֲנִ֖ים</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the Levites  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לְוִיִּ֑ם</big></span><small><sup>[[H3881]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so that  | <span class="ashebrew"><big>לְמַ֥עַן</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they may be strong  | <span class="ashebrew"><big>יֶחֶזְק֖וּ</big></span><small><sup>[[H2388G]]</sup></small> &#8207;| ye.chez.Ku<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] law of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹרַ֥ת</big></span><small><sup>[[H8451]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.3|<< 2 Chronicles 31:3]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.5|2 Chronicles 31:5 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**Joshua 21:7** 
+<small><sub>**KJV:**</sub></small>
+The children of Merari by their families [had] out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.
+<small><sub>**BSB:**</sub></small>
+And the descendants of Merari received twelve cities from the tribes of Reuben, Gad, and Zebulun.
+<small><sub>**Literal:**</sub></small>
+[and belonged] to  [the] descendants of Merari to  clans  their from  [the] tribe of Reuben and  from  [the] tribe of Gad and  from  [the] tribe of Zebulun cities two [plus] ten<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.6|<< Joshua 21:6]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.8|Joshua 21:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [and belonged] to [the] descendants of  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְנֵ֨י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Merari  | <span class="ashebrew"><big>מְרָרִ֜י</big></span><small><sup>[[H4847]]</sup></small> &#8207;| me.ra.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to clans their  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִשְׁפְּחֹתָ֗</big></span><small><sup>[[H4940]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mish.pe.cho.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] tribe of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מַּטֵּ֨ה</big></span><small><sup>[[H4294H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Reuben  | <span class="ashebrew"><big>רְאוּבֵ֤ן</big></span><small><sup>[[H7205]]</sup></small> &#8207;| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from [the] tribe of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מַּטֵּה</big></span><small><sup>[[H4294H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ma.teh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gad  | <span class="ashebrew"><big>גָד֙</big></span><small><sup>[[H1410G]]</sup></small> &#8207;| gad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from [the] tribe of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מַּטֵּ֣ה</big></span><small><sup>[[H4294H]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zebulun  | <span class="ashebrew"><big>זְבוּלֻ֔ן</big></span><small><sup>[[H2074]]</sup></small> &#8207;| ze.vu.Lun<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities  | <span class="ashebrew"><big>עָרִ֖ים</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two [plus]  | <span class="ashebrew"><big>שְׁתֵּ֥ים</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עֶשְׂרֵֽה</big></span><small><sup>[[H6240]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.6|<< Joshua 21:6]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.8|Joshua 21:8 >>]]</td></tr></table>
+
+

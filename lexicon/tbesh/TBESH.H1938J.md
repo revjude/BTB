@@ -1,0 +1,2 @@
+<span class="ashebrew">‎הוֹדַוְיָה‎</span> <small>***(ho.dav.yah)***</small> ==**Hodaviah**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.40|Ezr.2.40]] [[Ezra.2.0| a]] lso called Hodevah at [[Neh.7.43|Neh.7.43]] Judah at [[Ezra.3.9|Ezr.3.9]]

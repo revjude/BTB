@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==ἐμβατεύω==</span>-<span class='asgreek'>εύω</span></b>, 
+
+
+ <b>step in</b> or <b>on, frequent, haunt</b>: with <i>accusative</i>, of tutelary gods, <span class='asgreek'>νῆσος</span>.. <span class='asgreek'>ἣν</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>φιλόχορος</span> <span class='asgreek'>Πὰν</span> <span class='asgreek'>ἐμβατεύει</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 449, compare 5th c.BC: Euripides Tragicus “Electra” 595; Πὰν Πελασγικὸν Ἄργος ἐμβατεύων 5th c.BC: Cratinus Comicus 321; ἵνα Διόνυσος ἐμβατεύει 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 679 (Lyric poetry): with \_dative\_, ὁ -εύων τῷ χωρίῳ δαίμων 1st c.BC: Dionysius Halicarnassensis 1.77 ">Refs 5th c.BC+</a>]: with <i>genitive</i>, in simple sense, <b>set foot upon</b>, <span class='asgreek'>μήτ᾽</span> <span class='asgreek'>ἐμβατεύειν</span> <span class='asgreek'>πατρίδος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 825 ">Refs 5th c.BC+</a>]: <i>absolutely</i>, <b>enter</b> a sacred cave, [<a href="javascript:void(0)" title=" “OGI” 530.15 (from Iasus). ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>κλήρους</span> <span class='asgreek'>χθονός</span> <b>enter on, come into possession of</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Heraclidae” 876, cf. LXX.Josh.19.49: more frequently ἐ. εἰς τὴν ναῦν">LXX+5th c.BC+</a>] <b>enter on possession of</b> the vessel, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 33.6; εἰς τὴν οὐσίαν [prev. author] 44.19; εἰς τὸ χωρίον 4th c.BC: Isaeus Orator 9.3 ">Refs 4th c.BC+</a>]: <i>absolutely</i>, <b>enter on an inheritance,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Elephantine Papyri 2.14 (3rd c.BC). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <span class='asgreek'>νέων</span> <span class='asgreek'>ψυχάς</span> [<a href="javascript:void(0)" title=" 4th c.AD: Himerius Sophista “Orationes” 4.5. ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>mount, cover</b>, of the male, [<a href="javascript:void(0)" title=" 4th c.AD: Palaephatus Paradoxographus 39. ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> <b>to be initiated</b> into the mysteries, [<a href="javascript:void(0)" title=" “Jahresh.” 15.46 (from Notium), cf. NT.Col.2.18. ">NT</a>]
+
+<small><sub>LSJ Scripture Refs: [[Josh.19.49]] ☩ [[Col.2.18]]
+</sub></small>

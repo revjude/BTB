@@ -1,0 +1,23 @@
+**Exodus 37:6** 
+<small><sub>**KJV:**</sub></small>
+And he made the mercy seat [of] pure gold: two cubits and a half [was] the length thereof, and one cubit and a half the breadth thereof.
+<small><sub>**BSB:**</sub></small>
+He constructed a mercy seat of pure gold, two and a half cubits long and a cubit and a half wide.
+<small><sub>**Literal:**</sub></small>
+and  he made an atonement cover of gold pure [was] two cubits and  a half length  its and  [was] a cubit and  a half breadth  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.5|<< Exodus 37:5]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.7|Exodus 37:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he made  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֥עַשׂ</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an atonement cover of  | <span class="ashebrew"><big>כַּפֹּ֖רֶת</big></span><small><sup>[[H3727]]</sup></small> &#8207;| ka.Po.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  | <span class="ashebrew"><big>זָהָ֣ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pure  | <span class="ashebrew"><big>טָה֑וֹר</big></span><small><sup>[[H2889]]</sup></small> &#8207;| ta.Hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] two cubits  | <span class="ashebrew"><big>אַמָּתַ֤יִם</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| 'a.ma.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a half  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֵ֙צִי֙</big></span><small><sup>[[H2677]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Che.tzi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| length its  | <span class="ashebrew"><big>אָרְכָּ֔</big></span><small><sup>[[H0753]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| 'a.re.Ka<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] a cubit  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַמָּ֥ה</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a half  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֵ֖צִי</big></span><small><sup>[[H2677]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Che.tzi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| breadth its  | <span class="ashebrew"><big>רָחְבָּֽ</big></span><small><sup>[[H7341]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ra.che.Ba<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.5|<< Exodus 37:5]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.7|Exodus 37:7 >>]]</td></tr></table>
+
+

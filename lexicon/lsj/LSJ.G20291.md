@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==εἰσκυκλέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>wheel in,</b> especially in a theatre, <b>turn</b> a thing <b>inwards by machinery,</b> and so, <b>withdraw it from the eyes of the spectators,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 265, compare 2nd c.AD: Lucianus Sophista “Lex.” 8: generally, ὄψων παρασκευὴν ==εἰσκυκλέω==ουμένην 2nd c.AD: Athenaeus Epigrammaticus 6.27o e: \_metaphorically\_, πράγματα δαίμων τις ἐσκεκύκληκεν ἐς τὴν οἰκίαν">Refs 5th c.BC+</a>] some spirit <b>has wheeled</b> ill luck into the house, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 1475 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>plunge into,</b> <span class='asgreek'>τοῖς</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἱστορίας</span> <span class='asgreek'>διηγήμασι</span> [<a href="javascript:void(0)" title=" LXX.2Mac.2.24:—">LXX</a>]<i>middle</i>, with <i>accusative</i>, [<span class='asgreek'>ἡρῷ᾽</span> <span class='asgreek'>ἔπη</span>].. <span class='asgreek'>==εἰσκυκλέω==ήσομαι</span> poetical in [<a href="javascript:void(0)" title=" “BKT” 5(1)p. 84. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==εἰσκυκλέω==ήσας</span>· <span class='asgreek'>περιελθών</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]

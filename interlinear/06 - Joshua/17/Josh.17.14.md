@@ -1,0 +1,36 @@
+**Joshua 17:14** 
+<small><sub>**KJV:**</sub></small>
+And the children of Joseph spake unto Joshua, saying, Why hast thou given me [but] one lot and one portion to inherit, seeing I [am] a great people, forasmuch as the LORD hath blessed me hitherto?
+<small><sub>**BSB:**</sub></small>
+Then the sons of Joseph said to Joshua, “Why have you given us only one portion as an inheritance? We have many people, because the LORD has blessed us abundantly.”
+<small><sub>**Literal:**</sub></small>
+and  they spoke [the] descendants of Joseph with Joshua \<to>  saying why? have you given to \<the>  me an inheritance a lot one and  a portion one and  I [am] a people numerous to that until thus he has blessed  me Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.13|<< Joshua 17:13]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.15|Joshua 17:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they spoke  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְדַבְּרוּ֙</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.da.be.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  | <span class="ashebrew"><big>יוֹסֵ֔ף</big></span><small><sup>[[H3130G]]</sup></small> &#8207;| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joshua  | <span class="ashebrew"><big>יְהוֹשֻׁ֖עַ</big></span><small><sup>[[H3091G]]</sup></small> &#8207;| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹ֑ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| why?  | <span class="ashebrew"><big>מַדּוּעַ֩</big></span><small><sup>[[H4069]]</sup></small> &#8207;| ma.du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have you given  | <span class="ashebrew"><big>נָתַ֨תָּה</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| na.Ta.tah<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> me  | <span class="ashebrew"><big>לִּ֜</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an inheritance  | <span class="ashebrew"><big>נַחֲלָ֗ה</big></span><small><sup>[[H5159]]</sup></small> &#8207;| na.cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a lot  | <span class="ashebrew"><big>גּוֹרָ֤ל</big></span><small><sup>[[H1486]]</sup></small> &#8207;| go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָד֙</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a portion  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֶ֣בֶל</big></span><small><sup>[[H2256M]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Che.vel<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָ֔ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲנִ֣י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] a people  | <span class="ashebrew"><big>עַם</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'am-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| numerous  | <span class="ashebrew"><big>רָ֔ב</big></span><small><sup>[[H7227A]]</sup></small> &#8207;| Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַ֥ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֹּ֖ה</big></span><small><sup>[[H3541]]</sup></small> &#8207;| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has blessed me  | <span class="ashebrew"><big>בֵּֽרְכַ֥</big></span><small><sup>[[H1288]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| be.re.Kha.<small><sup>[[HVpp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.13|<< Joshua 17:13]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.15|Joshua 17:15 >>]]</td></tr></table>
+
+

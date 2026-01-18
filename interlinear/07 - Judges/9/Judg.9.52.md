@@ -1,0 +1,25 @@
+**Judges 9:52** 
+<small><sub>**KJV:**</sub></small>
+And Abimelech came unto the tower, and fought against it, and went hard unto the door of the tower to burn it with fire.
+<small><sub>**BSB:**</sub></small>
+When Abimelech came to attack the tower, he approached its entrance to set it on fire.
+<small><sub>**Literal:**</sub></small>
+and  he came Abimelech to the  tower and  he fought against \<the>  it and  he drew near to [the] entrance of the  tower to  burn  it with \<the>  fire<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.51|<< Judges 9:51]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.53|Judges 9:53 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבֹ֤א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abimelech  | <span class="ashebrew"><big>אֲבִימֶ֙לֶךְ֙</big></span><small><sup>[[H0040H]]</sup></small> &#8207;| 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tower  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּגְדָּ֔ל</big></span><small><sup>[[H4026M]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mig.Dal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he fought  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּלָּ֖חֶם</big></span><small><sup>[[H3898A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.La.chem<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against \<the> it  | <span class="ashebrew"><big>בּ֑</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| b<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he drew near  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּגַּ֛שׁ</big></span><small><sup>[[H5066G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Gash<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] entrance of  | <span class="ashebrew"><big>פֶּ֥תַח</big></span><small><sup>[[H6607]]</sup></small> &#8207;| Pe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tower  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּגְדָּ֖ל</big></span><small><sup>[[H4026M]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mig.Dal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to burn it  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שָׂרְפ֥</big></span><small><sup>[[H8313]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> sa.re.F<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> fire  | <span class="ashebrew"><big>בָ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֵֽשׁ</big></span><small><sup>[[H0784]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.51|<< Judges 9:51]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.53|Judges 9:53 >>]]</td></tr></table>
+
+

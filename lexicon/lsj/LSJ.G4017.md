@@ -1,0 +1,14 @@
+
+<b> <span class='asgreek'>==περιβλέπω==</span>-<span class='asgreek'>βλέπω</span></b>, 
+
+
+ <b>look round about, gaze around</b>, <span class='asgreek'>==περιβλέπω==βλέψας</span> <span class='asgreek'>ἔφη</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 403; πρὸς τοὺς παρόντας 5th-6th c.BC: Plato Philosophus “Eryxias” 395c; μηδαμοῖ 5th-6th c.BC: Xenophon Historicus “Respublica Lacedaemoniorum” 3.4; πάντῃ 2nd c.AD: Lucianus Sophista “Sacr.” 9, etc.">Refs 5th c.BC+</a>]:— <i>middle</i>, <b>look about one</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cat.Mi.” 37, 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 3.14.3 ">Refs 1st c.AD+</a>]; <span class='asgreek'>==περιβλέπω==εβλέποντο</span> <span class='asgreek'>ζητοῦντες</span>.. [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 16.32. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>look round at</b>, <span class='asgreek'>πάσας</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 5.1.4:">Refs 5th c.BC+</a>] —<i>middle</i>, <span class='asgreek'>ἀλλότρια</span> <span class='asgreek'>ἡγεμονικὰ</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Marcus Antoninus Imperator 7.55, cf. NT.Mark.3.5. ">NT+2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>seek after, covet for oneself</b>, <span class='asgreek'>ἀρχήν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Bella Civilia” 3.7. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>look about for</b>, <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Vit.Auct.” 12; τόπον εὐφυῆ 2nd c.BC: Polybius Historicus 5.20.5 ">Refs 2nd c.BC+</a>]:—<i>middle</i>, [<a href="javascript:void(0)" title=" [prev. author] 9.17.6, LXX.Tob.11.5. ">LXX</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>admire, respect</b>, <span class='asgreek'>τοὔνδικον</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 996 (unless in signification 11.3)">Refs 5th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>==περιβλέπω==βλέπεσθαι</span> <span class='asgreek'>τίμιον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 551, compare 2nd-3rd c.AD: Philostratus Sophista “Heroicus” 15. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <i>middle</i>, <b>look up, consult</b>, <span class='asgreek'>βίβλους</span> [<a href="javascript:void(0)" title=" 3rd-4th c.AD: Zosimus Alchemista p.138 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Mark.3.5]]
+</sub></small>

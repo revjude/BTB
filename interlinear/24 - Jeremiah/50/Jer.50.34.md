@@ -1,0 +1,29 @@
+**Jeremiah 50:34** 
+<small><sub>**KJV:**</sub></small>
+Their Redeemer [is] strong; the LORD of hosts [is] his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon.
+<small><sub>**BSB:**</sub></small>
+Their Redeemer is strong; the LORD of Hosts is His name. He will fervently plead their case so that He may bring rest to the earth, but turmoil to those who live in Babylon.
+<small><sub>**Literal:**</sub></small>
+redeemer  their [is] strong [is] Yahweh of hosts name  his certainly \<conduct> he will conduct \<obj.> case  their so as to give rest to \<obj.> the  earth and  to cause disquiet to  [the] inhabitants of Babylon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.33|<< Jeremiah 50:33]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.35|Jeremiah 50:35 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| redeemer their  | <span class="ashebrew"><big>גֹּאֲלָ֣</big></span><small><sup>[[H1350A]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| go.'a.La<small><sup>[[HVqrmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] strong  | <span class="ashebrew"><big>חָזָ֗ק</big></span><small><sup>[[H2389]]</sup></small> &#8207;| cha.Zak<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] Yahweh  | <span class="ashebrew"><big>יְהוָ֤ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  | <span class="ashebrew"><big>צְבָאוֹת֙</big></span><small><sup>[[H6635B]]</sup></small> &#8207;| tze.va.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  | <span class="ashebrew"><big>שְׁמ֔</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<conduct>  | <span class="ashebrew"><big>רִ֥יב</big></span><small><sup>[[H7378]]</sup></small> &#8207;| riv<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will conduct  | <span class="ashebrew"><big>יָרִ֖יב</big></span><small><sup>[[H7378]]</sup></small> &#8207;| ya.Riv<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| case their  | <span class="ashebrew"><big>רִיבָ֑</big></span><small><sup>[[H7379]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ri.Va<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so as  | <span class="ashebrew"><big>לְמַ֙עַן֙</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give rest to  | <span class="ashebrew"><big>הִרְגִּ֣יעַ</big></span><small><sup>[[H7280B]]</sup></small> &#8207;| hir.Gi.a'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to cause disquiet  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִרְגִּ֖יז</big></span><small><sup>[[H7264]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hir.Giz<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] inhabitants of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יֹשְׁבֵ֥י</big></span><small><sup>[[H3427]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="ashebrew"><big>בָבֶֽל</big></span><small><sup>[[H0894]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.33|<< Jeremiah 50:33]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.35|Jeremiah 50:35 >>]]</td></tr></table>
+
+

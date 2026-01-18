@@ -1,0 +1,39 @@
+ <span class="bdbLangHebrew">‎יָצַק‎</span> **verb** ==pour, cast, flow== (Talmud ***id.***) — 
+
+**Qal** ***Perfect*** <span class="bdbLangHebrew">‎יְצַק‎</span> [[Lev.8.15|Lev 8:15]]+ 2 t.; <span class="bdbLangHebrew">‎וְיָצַק‎</span> consecutive [[Lev.2.1|Lev 2:1]]; [[Lev.14.15|Lev 14:15]] suffix <span class="bdbLangHebrew">‎יְצָקָם‎</span> [[1Kgs.7.46|1Kgs 7:46]]; [[2Chr.4.17|2Chr 4:17]], etc.; ***Imperfect*** <span class="bdbLangHebrew">‎יִצֹּק‎</span> [[Lev.14.26|Lev 14:26]]; [[Num.5.15|Num 5:15]] <span class="bdbLangHebrew">‎וַיִּצֹּק‎</span> [[Gen.28.18|Gen 28:18]] + 8 t.; <span class="bdbLangHebrew">‎וַּ֫יִּצֶק‎</span> [[1Kgs.22.35|1Kgs 22:35]] (intransitive sense); 3 feminine singular <span class="bdbLangHebrew">‎וַתִּצֹּק‎</span> [[2Sam.13.9|2Sam 13:9]] <span class="bdbLangHebrew">‎אֶצֹק‎</span> [[Isa.44.3|Isa 44:3]]<span class="bdbLangHebrew">‎אֶצָּקֿ‎</span> v[[Isa.44.3|Isa 44:3]] <span class="bdbLangHebrew">‎וַיִּצְקוּ‎</span> [[2Kgs.4.40|2Kgs 4:40]] ***Imperative*** <span class="bdbLangHebrew">‎יְצֹק‎</span> [[Ezek.24.3|Ezek 24:3]] <span class="bdbLangHebrew">‎צַק‎</span> [[2Kgs.4.41|2Kgs 4:41]] <span class="bdbLangHebrew">‎יִצְקוּ‎</span> [[1Kgs.18.34|1Kgs 18:34]] ***Infinitive*** <span class="bdbLangHebrew">‎צֶ֫קֶת‎</span> [[Exod.38.27|Exod 38:27]]; [[Job.38.38|Job 38:38]] ***Participle Pass.*** <span class="bdbLangHebrew">‎יָצוּק‎</span> [[Job.28.2|Job 28:2]] + 5 t.; plural <span class="bdbLangHebrew">‎יְצוּקִים‎</span> [[2Chr.4.3|2Chr 4:3]] <span class="bdbLangHebrew">‎יְצֻקִים‎</span> [[1Kgs.7.24|1Kgs 7:24]] <span class="bdbLangHebrew">‎יְצֻקוֺת‎</span> v[[1Kgs.7.30|1Kgs 7:30]] — 
+
+**1.** ***pour, pour out***, oil, in anointing, followed by accusative (<span class="bdbLangHebrew">‎שׁמן‎</span>) + <span class="bdbLangHebrew">‎על‎</span> [[Gen.28.18|Gen 28:18]] ([[BDB#E|E]]), [[Gen.35.14|Gen 35:14]] ([[BDB#J|J]]); followed by <span class="bdbLangHebrew">‎מִשֶּׁמֶן‎</span> + <span class="bdbLangHebrew">‎לְ‎</span> [[Lev.8.12|Lev 8:12]] ([[BDB#P|P]]); followed by <span class="bdbLangHebrew">‎על‎</span> (<span class="bdbLangHebrew">‎שׁמן‎</span> implied from context) [[Exod.29.7|Exod 29:7]] ([[BDB#P|P]]), [[1Sam.10.1|1Sam 10:1]]; [[2Kgs.9.3|2Kgs 9:3]] followed by <span class="bdbLangHebrew">‎שֶׁמֶן‎</span> + <span class="bdbLangHebrew">‎אֶלֿ‎</span> v[[2Kgs.9.6|2Kgs 9:6]] figurative, with <span class="bdbLangHebrew">‎רוּחִי‎</span> + <span class="bdbLangHebrew">‎על‎</span> [[Isa.44.3|Isa 44:3]] oil in sacrifice, + <span class="bdbLangHebrew">‎על‎</span> [[Lev.2.1|Lev 2:1]]; [[Lev.2.6|Lev 2:6]]; [[Num.5.15|Num 5:15]] in cleansing, + <span class="bdbLangHebrew">‎על‎</span> [[Lev.14.15|Lev 14:15]]; [[Lev.14.26|Lev 14:26]] (upon his plam; all [[BDB#P|P]]); oil into (<span class="bdbLangHebrew">‎על‎</span>) vessels [[2Kgs.4.4|2Kgs 4:4]] water, for washing, + <span class="bdbLangHebrew">‎על‎</span> [[2Kgs.3.11|2Kgs 3:11]] for drenching, + <span class="bdbLangHebrew">‎על‎</span> [[1Kgs.18.34|1Kgs 18:34]] for boiling (into (<span class="bdbLangHebrew">‎בְּ‎</span>) the caldron), symbolic, [[Ezek.24.3|Ezek 24:3]]; [[Ezek.24.3|Ezek 24:3]] for satisfying thirst (figurative) + <span class="bdbLangHebrew">‎על‎</span> [[Isa.44.3|Isa 44:3]] blood (of sacrifice) + <span class="bdbLangHebrew">‎אֶליְֿסוֺד‎</span> [[Lev.8.15|Lev 8:15]]; [[Lev.9.9|Lev 9:9]] ([[BDB#P|P]]); pottage, for eating, [[2Kgs.4.40|2Kgs 4:40]]; [[2Kgs.4.41|2Kgs 4:41]] cakes (<span class="bdbLangHebrew">‎לְבִבוֺת‎</span>) [[2Sam.13.9|2Sam 13:9]] figurative of disease <span class="bdbLangHebrew">‎יָצוּק בּוֺ‎</span> [[Ps.41.9|Ps 41:9]] ***infused into him*** (al. less probably as **3** ***molten***, i.e. ***fixed upon***). 
+
+**2.** ***cast*** (objects of metal) [[Exod.25.12|Exod 25:12]]; [[Exod.26.37|Exod 26:37]]; [[Exod.36.36|Exod 36:36]]; [[Exod.37.3|Exod 37:3]]; [[Exod.37.13|Exod 37:13]]; [[Exod.38.5|Exod 38:5]]; [[Exod.38.27|Exod 38:27]] (all [[BDB#P|P]]), [[1Kgs.7.46|1Kgs 7:46]] = [[2Chr.4.17|2Chr 4:17]]; [[1Kgs.7.24|1Kgs 7:24]]; [[1Kgs.7.30|1Kgs 7:30]]; [[2Chr.4.3|2Chr 4:3]]. 
+
+**3.** ***Passive participle*** as adjective figurative ***cast, hard***, of crocodile's scales [[Job.41.15|Job 41:15]] of crocodile's heart v.[[Job.41.16|Job 41:16]] v.[[Job.41.16|Job 41:16]] (as stone). 
+
+**4.** intransitive ***flow, pour***, only <span class="bdbLangHebrew">‎וַיִּ֫צֶק‎</span> [[1Kgs.22.35|1Kgs 22:35]] (of blood), [[Job.38.38|Job 38:38]] <span class="bdbLangHebrew">‎בְּצֶקֶת‎</span> <span class="bdbLangHebrew">‎עָפָר לַמּוּצָק‎</span> **Hiph\`il** ***Imperfect*** <span class="bdbLangHebrew">‎וַיַּצִּ֫קוּ‎</span> [[2Sam.15.24|2Sam 15:24]] <span class="bdbLangHebrew">‎וַיַּצִּקֻם‎</span> [[Josh.7.23|Josh 7:23]] ***Participle f.*** <span class="bdbLangHebrew">‎מֹי֯צָ֑קֶת‎</span> [[2Kgs.4.5|2Kgs 4:5]] — ***pour*** (oil) [[2Kgs.4.5|2Kgs 4:5]], figurative of shekels of silver, etc., ***pour out*** [[Josh.7.23|Josh 7:23]] of the ark, [[2Sam.15.24|2Sam 15:24]] ***set down*** (?); but read <span class="bdbLangHebrew">‎וַיַצִּיגוּ‎</span> ([[BDB#Dr|Dr]] [[BDB#Gr|Gr]]). **Hoph\`al** ***Perfect*** <span class="bdbLangHebrew">‎הוּצַק‎</span> [[Ps.45.3|Ps 45:3]]***Imperfect*** <span class="bdbLangHebrew">‎יוּצַק‎</span> [[Lev.21.10|Lev 21:10]]; [[Job.22.16|Job 22:16]] ***Participle*** <span class="bdbLangHebrew">‎מוּצָ֑ק‎</span> [[1Kgs.7.23|1Kgs 7:23]]; [[1Kgs.7.33|1Kgs 7:33]]; [[2Chr.4.2|2Chr 4:2]]; [[Job.37.18|Job 37:18]] <span class="bdbLangHebrew">‎מֻצָק‎</span> [[Job.11.15|Job 11:15]] construct <span class="bdbLangHebrew">‎מֻצַּק‎</span> [[1Kgs.7.16|1Kgs 7:16]] — 
+
+**1.** ***be poured***, subject <span class="bdbLangHebrew">‎שֶׁמֶן‎</span> followed by <span class="bdbLangHebrew">‎לְ‎</span> (in anointing), [[Lev.21.10|Lev 21:10]] ([[BDB#H|H]]); figurative of foundation of wicked [[Job.22.16|Job 22:16]], see [[BDB#Di|Di]]; of grace <span class="bdbLangHebrew">‎חֵן‎</span> on lips, [[Ps.45.3|Ps 45:3]] (followed by <span class="bdbLangHebrew">‎ב‎</span>), see [[BDB#Che|Che]]. 
+
+**2.** ***Participle = cast, molten*** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הים המ‎</span> [[1Kgs.7.23|1Kgs 7:23]] = [[2Chr.4.2|2Chr 4:2]] as predicate [[1Kgs.7.33|1Kgs 7:33]] construct as substantive <span class="bdbLangHebrew">‎מֻצַּק נְחשֶׁת‎</span> [[1Kgs.7.16|1Kgs 7:16]]. 
+
+**3.** ***Participle***, figurative ***firmly established***, predicate of person, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְהָיִיתָ מ‎</span> [[Job.11.15|Job 11:15]] ***and thou shalt be established*** (\|\| <span class="bdbLangHebrew">‎לֹא תִירָא‎</span>). 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.28.18\|28:18]] · [[Gen.35.14\|35:14]] |
+| Exodus | [[Exod.25.12\|25:12]] · [[Exod.26.37\|26:37]] · [[Exod.29.7\|29:7]] · [[Exod.36.36\|36:36]] · [[Exod.37.3\|37:3]] · [[Exod.37.13\|37:13]] · [[Exod.38.5\|38:5]] · [[Exod.38.27\|38:27]] |
+| Leviticus | [[Lev.2.1\|2:1]] · [[Lev.2.6\|2:6]] · [[Lev.8.12\|8:12]] · [[Lev.8.15\|8:15]] · [[Lev.9.9\|9:9]] · [[Lev.14.15\|14:15]] · [[Lev.14.26\|14:26]] · [[Lev.21.10\|21:10]] |
+| Numbers | [[Num.5.15\|5:15]] |
+| Joshua | [[Josh.7.23\|7:23]] |
+| 1 Samuel | [[1Sam.10.1\|10:1]] |
+| 2 Samuel | [[2Sam.13.9\|13:9]] · [[2Sam.15.24\|15:24]] |
+| 1 Kings | [[1Kgs.7.16\|7:16]] · [[1Kgs.7.23\|7:23]] · [[1Kgs.7.24\|7:24]] · [[1Kgs.7.30\|7:30]] · [[1Kgs.7.33\|7:33]] · [[1Kgs.7.46\|7:46]] · [[1Kgs.18.34\|18:34]] · [[1Kgs.22.35\|22:35]] |
+| 2 Kings | [[2Kgs.3.11\|3:11]] · [[2Kgs.4.4\|4:4]] · [[2Kgs.4.5\|4:5]] · [[2Kgs.4.40\|4:40]] · [[2Kgs.4.41\|4:41]] · [[2Kgs.9.3\|9:3]] · [[2Kgs.9.6\|9:6]] |
+| 2 Chronicles | [[2Chr.4.2\|4:2]] · [[2Chr.4.3\|4:3]] · [[2Chr.4.17\|4:17]] |
+| Job | [[Job.11.15\|11:15]] · [[Job.22.16\|22:16]] · [[Job.28.2\|28:2]] · [[Job.37.18\|37:18]] · [[Job.38.38\|38:38]] · [[Job.41.15\|41:15]] · [[Job.41.16\|41:16]] |
+| Psalms | [[Ps.41.9\|41:9]] · [[Ps.45.3\|45:3]] |
+| Isaiah | [[Isa.44.3\|44:3]] |
+| Ezekiel | [[Ezek.24.3\|24:3]] |
+

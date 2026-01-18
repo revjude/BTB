@@ -1,0 +1,12 @@
+<span class="asgreek">εὔελπις</span> <small>***(euelpis)***</small> ==**confident**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==εὔελπις==</span>-<span class='asgreek'>ις</span></b>, <span class='asgreek'>ὁ</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <i>neuter</i> <span class='asgreek'>==εὔελπις==ι</span>, <i>genitive</i> <span class='asgreek'>ῐδος</span>, <b>hopeful, cheerful</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 4.10, 62, 5th-6th c.BC: Xenophon Historicus “Anabasis” 2.1.18, etc.; ἐν τοῖς δεινοῖς 5th c.BC: Thucydides Historicus 1.70; περὶ τῆς ψυχῆς 5th-6th c.BC: Plato Philosophus “Hp.Mi.” 364a; πρὸς τὸν θάνατον [prev. author] “Ap.” 41c, compare 2nd c.AD: Lucianus Sophista “Demon.” 6, 2nd-3rd c.AD: Dio Cassius Historicus 57.19; τοῦ κρατήσειν 1st c.BC: Diodorus Siculus Historicus 30.16. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i> et <i>future</i> <i>infinitive</i>, <span class='asgreek'>==εὔελπις==ίς</span> <span class='asgreek'>εἰμί</span> <span class='asgreek'>σ᾽</span> <span class='asgreek'>ἰσχύσειν</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 509 ">Refs 4th c.BC+</a>]; <span class='asgreek'>==εὔελπις==ις</span> <span class='asgreek'>σωθήσεσθαι</span> <b>in good hope</b> to be saved, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.24 ">Refs 5th c.BC+</a>]: with <i>accusative</i> et <i>present</i> <i>infinitive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 63c ">Refs 5th c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>==εὔελπις==ι</span> <b>hopefulness</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1101d, 2nd-3rd c.AD: Dio Cassius Historicus 42.1, etc.">Refs 1st c.AD+</a>]; <span class='asgreek'>εὔ</span>. <span class='asgreek'>λαλιά</span> <b>cheerful</b> talk, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.32.6. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>well hoped of, the subject of hope</b>, [<a href="javascript:void(0)" title=" LXX.Prov.19.15(18) ">LXX</a>]: in Medicine texts, of a patient, [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 1.13. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Prov.19.15]]
+</sub></small>

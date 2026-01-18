@@ -1,0 +1,14 @@
+ <span class="bdbLangHebrew">‎תְּרָפִים‎</span> **noun masculine**<sup>[[Zech.10.2|Zech 10:2]]</sup> **plural** (= plural of majesty [[BDB#Nö|Nö]]<sup>ZMG xlii (1888), 476</sup>) ==a kind of idol, object of reverence, and means of divination== (√ and etymology-meaning dubious, compare [[BDB#GFM|GFM]]<sup>Hast. DB TERAPHIM</sup> [[BDB#Say|Say]]<sup>ZA ii. 195</sup> (citing Neubauer, and Assyrian <abbr title="transliteration"><u>***tarpû***</u></abbr>, ***spectre***), al. √ <span class="bdbLangHebrew">‎רפא‎</span>, compare <span class="bdbLangHebrew">‎רְפָאִים‎</span>); — always <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ת‎</span>: — portable and sometimes small [[Gen.31.19|Gen 31:19]]; [[Gen.31.34|Gen 31:34]]: [[Gen.31.35|Gen 31:35]] (called <span class="bdbLangHebrew">‎אֱלֹהִים‎</span> v[[Gen.31.30|Gen 31:30]], all [[BDB#E|E]]), but in size and shape like a man [[1Sam.19.13|1Sam 19:13]]; [[1Sam.19.16|1Sam 19:16]] in household shrine (see also l.c.) [[Judg.17.5|Judg 17:5]] (+ <span class="bdbLangHebrew">‎אֵפוֺד‎</span>, compare [[BDB#GFM|GFM]]<sup>Ju</sup>), [[Judg.18.14|Judg 18:14]]; [[Judg.18.17|Judg 18:17]] (both + <span class="bdbLangHebrew">‎אֵפוֺד‎</span>, <span class="bdbLangHebrew">‎פֶּסֶל‎</span>, <span class="bdbLangHebrew">‎מַסֵּכָה‎</span>), compare v[[Judg.18.20|Judg 18:20]] (omitted <span class="bdbLangHebrew">‎מַסֵּכָה‎</span>), [[Hos.3.4|Hos 3:4]] (+ <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span>, <span class="bdbLangHebrew">‎מַצֵּבָה‎</span>, <span class="bdbLangHebrew">‎וֶבַךְ‎</span>); condemned [[1Sam.15.23|1Sam 15:23]]; [[2Kgs.23.24|2Kgs 23:24]] (+ <span class="bdbLangHebrew">‎גִּלֻּלִים‎</span>); used in divining (by king of Babylonian ), <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שָׁאַל בַּתּ‎</span> [[Ezek.21.26|Ezek 21:26]] (+ <span class="bdbLangHebrew">‎קִלְקַל בַּתִצִּים‎</span>, <span class="bdbLangHebrew">‎רָאָח בַּכָּבֵד‎</span>); as giving empty oracles [[Zech.10.2|Zech 10:2]] (\|\| <span class="bdbLangHebrew">‎הַקּוֺסְמִים‎</span>). — See [[BDB#GFM|GFM]]<sup>l.c.</sup> [[BDB#Now|Now]]<sup>Archaeology ii. 23</sup> [[BDB#Sta|Sta]]<sup>Blb. Theol. d. A. T. under the word</sup>. <span class="bdbLangHebrew">‎תִּרְצָה‎</span> see  <span class="bdbLangHebrew">‎רצה‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.31.19\|31:19]] · [[Gen.31.30\|31:30]] · [[Gen.31.34\|31:34]] · [[Gen.31.35\|31:35]] |
+| Judges | [[Judg.17.5\|17:5]] · [[Judg.18.14\|18:14]] · [[Judg.18.17\|18:17]] · [[Judg.18.20\|18:20]] |
+| 1 Samuel | [[1Sam.15.23\|15:23]] · [[1Sam.19.13\|19:13]] · [[1Sam.19.16\|19:16]] |
+| 2 Kings | [[2Kgs.23.24\|23:24]] |
+| Ezekiel | [[Ezek.21.26\|21:26]] |
+| Hosea | [[Hos.3.4\|3:4]] |
+| Zechariah | [[Zech.10.2\|10:2]] |
+

@@ -1,0 +1,29 @@
+**Exodus 39:18** 
+<small><sub>**KJV:**</sub></small>
+And the two ends of the two wreathen chains they fastened in the two ouches, and put them on the shoulderpieces of the ephod, before it.
+<small><sub>**BSB:**</sub></small>
+and they fastened the other ends of the two chains to the two filigree settings, attaching them to the shoulder pieces of the ephod at the front.
+<small><sub>**Literal:**</sub></small>
+and  \<obj.> [the] two [the] ends of [the] two the  cords they put on [the] two the  filigree settings and  they put  them on [the] shoulder-pieces of the  ephod to [the] front of face  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.17|<< Exodus 39:17]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.19|Exodus 39:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֨ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two  | <span class="ashebrew"><big>שְׁתֵּ֤י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ends of  | <span class="ashebrew"><big>קְצוֹת֙</big></span><small><sup>[[H7098]]</sup></small> &#8207;| ke.tzOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two  | <span class="ashebrew"><big>שְׁתֵּ֣י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cords  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֲבֹתֹ֔ת</big></span><small><sup>[[H5688]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.vo.Tot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they put  | <span class="ashebrew"><big>נָתְנ֖וּ</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two  | <span class="ashebrew"><big>שְׁתֵּ֣י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the filigree settings  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּשְׁבְּצֹ֑ת</big></span><small><sup>[[H4865]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mish.be.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they put them  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתְּנֻ֛</big></span><small><sup>[[H5414H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu<small><sup>[[HVqw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] shoulder-pieces of  | <span class="ashebrew"><big>כִּתְפֹ֥ת</big></span><small><sup>[[H3802]]</sup></small> &#8207;| kit.Fot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ephod  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֵפֹ֖ד</big></span><small><sup>[[H0646]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'e.Fod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] front of  | <span class="ashebrew"><big>מ֥וּל</big></span><small><sup>[[H4136]]</sup></small> &#8207;| mul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face its  | <span class="ashebrew"><big>פָּנָֽי</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.17|<< Exodus 39:17]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.19|Exodus 39:19 >>]]</td></tr></table>
+
+

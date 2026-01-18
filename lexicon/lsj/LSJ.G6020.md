@@ -1,0 +1,13 @@
+<span class="asgreek">δοκιμασία</span> <small>***(dokimasia)***</small> ==**examination**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==δοκιμασία==</span>-<span class='asgreek'>ᾰσία</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>examination, scrutiny:</b> 
+
+$\quad$ $\quad$ $\quad$<b>\_\_1</b> of magistrates after election, to see if they fulfil the legal requirements of legitimacy, full citizenship, etc., <span class='asgreek'>ἡ</span> <span class='asgreek'>δ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>στρατηγῶν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 15.2, compare 16.9 (\_plural\_); τῶν ἱερέων 5th-6th c.BC: Plato Philosophus “Leges” 759d; δ. εἰσάγειν ταῖς ἀρχαῖς 4th c.BC: Aristoteles Philosophus “Ἀθηναίων Πολιτεία” 59.4 (\_plural\_), compare “IG” 22.856,980. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>δ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ἱππέων</span> <b>passing muster,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitum magistro” 3.9 (\_plural\_). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>δ</span>. (i.e. <span class='asgreek'>ἐφήβων</span>), before admission to the rights of manhood, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 44.41, see reading in 57.62. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>δ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ῥητόρων</span> a judicial <b>process to determine the right</b> of a man <b>to speak</b> in the <span class='asgreek'>ἐκκλησία</span> or in the law-courts, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 1.2. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>examination</b> of recruits, [<a href="javascript:void(0)" title=" “PLond.” 3.982.6 (4th c.AD). ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_6</b> generally, <b>test,</b> <span class='asgreek'>δ</span>. <span class='asgreek'>ἱκανήν</span> [<span class='asgreek'>τινος</span>] <span class='asgreek'>λαβεῖν</span> make full <b>trial of,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Isaeus Orator 7.34 ">Refs 4th c.BC+</a>] (but, receive <b>assurance</b> of.., [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.31.8); ἡ κατὰ τὸν χρόνον δ. 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1162a14; κρίσιν καὶ δ. τινῶν ποιεῖν 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cleomenes” 10; λίθος δοκιμασίας LXX.Sir.6.21; δ. οἰκοδόμων “PSI” 3.176 (5th c.AD). ">LXX+4th c.BC+</a>]

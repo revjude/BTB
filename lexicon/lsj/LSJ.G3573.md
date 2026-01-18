@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==νυστάζω==</span>-<span class='asgreek'>άζω</span></b>, 
+
+
+ <i>future</i> -<span class='asgreek'>άξω</span> [<a href="javascript:void(0)" title=" LXX.Isa.5.27 ">LXX</a>]: <i>aorist</i> <span class='asgreek'>ἐνύσταξα</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 7.8, LXX.2Kgs.4.6, +others; ἐνύστασα 4th c.BC: Dionysius Comicus 2.43, “Anthologia Graeca” 12.135 (3rd c.BC: Asclepiades Epigrammaticus)">LXX+4th c.BC+</a>]:— mostly <i>present</i>, <b>to be half asleep, doze,</b> <span class='asgreek'>==νυστάζω==άζοντα</span> <span class='asgreek'>οὐδένα</span> <span class='asgreek'>ἂν</span> <span class='asgreek'>ἴδοις</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.3.43; ὥσπερ οἱ ==νυστάζω==άζοντες ἐγειρόμενοι 5th-6th c.BC: Plato Philosophus “Apologia” 31a; ὀφθαλμοὶ πλέοντες ὥσπερ τῶν ==νυστάζω==αζόντων 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 7.17 ">Refs 5th c.BC+</a>]; <span class='asgreek'>οὐχὶ</span> <span class='asgreek'>==νυστάζω==άζειν</span> <span class='asgreek'>ἔτι</span> <span class='asgreek'>ὥρα</span> ’<span class='asgreek'>στίν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 639, compare 4th c.BC: Xenarchus Comicus 2.1, “Comica Adespota” 185; ==νυστάζω==άζοντος δικαστοῦ 5th-6th c.BC: Plato Philosophus “Respublica” 405c: \_metaphorically\_, ν. τε καὶ ἀπορεῖ [prev. author] “Ion” 533a; τὸν ==νυστάζω==άζοντα καὶ ἀμαθῆ φύσει [prev. author] “Lg.” 747b ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἔν</span> <span class='asgreek'>τινι</span> <b>in</b> a thing, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.675b. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>hang the head,</b> <span class='asgreek'>ἐδάκρυσεν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐνύστασε</span> [<a href="javascript:void(0)" title="“Anthologia Graeca” l">Refs</a>].with (Cf. Lithuanian <i>snústi</i> (stem <b>snúd</b>-) 'grow drowsy'.)
+
+<small><sub>LSJ Scripture Refs: [[Isa.5.27]] ☩ [[2Kgs.4.6]]
+</sub></small>

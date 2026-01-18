@@ -1,0 +1,26 @@
+**Jeremiah 2:22** 
+<small><sub>**KJV:**</sub></small>
+For though thou wash thee with nitre, and take thee much soap, [yet] thine iniquity is marked before me, saith the Lord GOD.
+<small><sub>**BSB:**</sub></small>
+Although you wash with lye and use an abundance of soap, the stain of your guilt is still before Me,” declares the Lord GOD.
+<small><sub>**Literal:**</sub></small>
+that though you will wash with \<the>  soda so  you may increase for \<the>  yourself soap [is] stained iniquity  your \<to>  before  me [the] utterance of [the] Lord Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.21|<< Jeremiah 2:21]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.23|Jeremiah 2:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| that  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| though  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will wash  | <span class="ashebrew"><big>תְּכַבְּסִי֙</big></span><small><sup>[[H3526H]]</sup></small> &#8207;| te.kha.be.Si<small><sup>[[HVpi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> soda  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נֶּ֔תֶר</big></span><small><sup>[[H5427]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Ne.ter<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so you may increase  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תַרְבִּי</big></span><small><sup>[[H7235A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tar.bi-<small><sup>[[HVhu2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> yourself  | <span class="ashebrew"><big>לָ֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| soap  | <span class="ashebrew"><big>בֹּרִ֑ית</big></span><small><sup>[[H1287]]</sup></small> &#8207;| bo.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] stained  | <span class="ashebrew"><big>נִכְתָּ֤ם</big></span><small><sup>[[H3799]]</sup></small> &#8207;| nikh.Tam<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iniquity your  | <span class="ashebrew"><big>עֲוֹנֵ</big></span><small><sup>[[H5771H]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9022]]</sup></small> &#8207;| 'a.vo.ne<small><sup>[[HNcmsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before me  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנַ֔</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  | <span class="ashebrew"><big>נְאֻ֖ם</big></span><small><sup>[[H5002]]</sup></small> &#8207;| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֥י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוִֽה</big></span><small><sup>[[H3069]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.21|<< Jeremiah 2:21]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.23|Jeremiah 2:23 >>]]</td></tr></table>
+
+

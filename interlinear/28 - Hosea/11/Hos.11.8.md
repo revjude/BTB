@@ -1,0 +1,29 @@
+**Hosea 11:8** 
+<small><sub>**KJV:**</sub></small>
+How shall I give thee up, Ephraim? [how] shall I deliver thee, Israel? how shall I make thee as Admah? [how] shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.
+<small><sub>**BSB:**</sub></small>
+How could I give you up, O Ephraim? How could I surrender you, O Israel? How could I make you like Admah? How could I treat you like Zeboiim? My heart is turned within Me; My compassion is stirred!
+<small><sub>**Literal:**</sub></small>
+how? will I give up  you O Ephraim will I deliver up?  you O Israel how? will I make  you like  Admah will I make?  you like  Zeboiim it has been changed on  me heart  my together they have grown warm compassions  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.7|<< Hosea 11:7]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.9|Hosea 11:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| how?  | <span class="ashebrew"><big>אֵ֞יךְ</big></span><small><sup>[[H0349A]]</sup></small> &#8207;| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I give up you  | <span class="ashebrew"><big>אֶתֶּנְ</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>ךָ֣</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'e.ten.<small><sup>[[HVqi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Ephraim  | <span class="ashebrew"><big>אֶפְרַ֗יִם</big></span><small><sup>[[H0669G]]</sup></small> &#8207;| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I deliver up? you  | <span class="ashebrew"><big>אֲמַגֶּנְ</big></span><small><sup>[[H4042]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'a.ma.gen.<small><sup>[[HVpi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how?  | <span class="ashebrew"><big>אֵ֚יךְ</big></span><small><sup>[[H0349A]]</sup></small> &#8207;| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I make you  | <span class="ashebrew"><big>אֶתֶּנְ</big></span><small><sup>[[H5414I]]</sup></small> <span class="ashebrew"><big>ךָ֣</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'e.ten.<small><sup>[[HVqi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like Admah  | <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אַדְמָ֔ה</big></span><small><sup>[[H0126]]</sup></small> &#8207;| khe.<small><sup>[[HR]]</sup></small> 'ad.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I make? you  | <span class="ashebrew"><big>אֲשִֽׂימְ</big></span><small><sup>[[H7760A]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'a.si.me.<small><sup>[[HVqi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like Zeboiim  | <span class="ashebrew"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>צְבֹאיִ֑ם</big></span><small><sup>[[H6636]]</sup></small> &#8207;| ki<small><sup>[[HR]]</sup></small> tz.vo.Yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been changed  | <span class="ashebrew"><big>נֶהְפַּ֤ךְ</big></span><small><sup>[[H2015]]</sup></small> &#8207;| neh.Pakh<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on me  | <span class="ashebrew"><big>עָלַ</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  | <span class="ashebrew"><big>לִבִּ֔</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  | <span class="ashebrew"><big>יַ֖חַד</big></span><small><sup>[[H3162A]]</sup></small> &#8207;| Ya.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have grown warm  | <span class="ashebrew"><big>נִכְמְר֥וּ</big></span><small><sup>[[H3648]]</sup></small> &#8207;| nikh.me.Ru<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| compassions my  | <span class="ashebrew"><big>נִחוּמָֽ</big></span><small><sup>[[H5150]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ni.chu.Ma<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.7|<< Hosea 11:7]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.9|Hosea 11:9 >>]]</td></tr></table>
+
+

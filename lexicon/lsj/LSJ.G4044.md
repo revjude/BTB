@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==περιπείρω==</span></b>, 
+
+
+ <b>put on a spit</b>, <span class='asgreek'>π</span>. <span class='asgreek'>τι</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>λόγχην</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Galba” 27 ">Refs 1st c.AD+</a>]: <i>metaphorically</i>, <b>pierce</b>, <span class='asgreek'>ἑαυτοὺς</span> <span class='asgreek'>π</span>. <span class='asgreek'>ὀδύναις</span> [<a href="javascript:void(0)" title=" NT.1Tim.6.10">NT</a>]:—<i>passive</i>, <b>to be spitted</b> or <b>pierced</b>, <span class='asgreek'>ξίφεσι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>λόγχαις</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 16.80; Χάρακι [prev. author] 19.84; σκόλοπι 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 7.48; ὀβελοῖς 2nd c.AD: Lucianus Sophista “Gall.” 2 ">Refs 1st c.BC+</a>]: <i>metaphorically</i>, <b>to become entangled</b>, <span class='asgreek'>δυσαναπορεύτοις</span> <span class='asgreek'>βαράθροις</span> <span class='asgreek'>περιπαρέντες</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.672; δίκτυα, οἷς ἀνάγκη περιπείρεσθαι [prev. author] 2.411, compare 2nd c.AD: Vettius Valens Astrologus 250.11. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>run into</b>, <span class='asgreek'>τοὺς</span> <span class='asgreek'>ὀδόντας</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>δειρῇ</span> [<a href="javascript:void(0)" title=" 4th c.AD: Libanius Sophista “Descriptiones” 12.2 (\_passive\_)">Refs 4th c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>ἄγκιστρα</span> <span class='asgreek'>περιπαρέντα</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἰχθύσι</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 15.10. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Tim.6.10]]
+</sub></small>

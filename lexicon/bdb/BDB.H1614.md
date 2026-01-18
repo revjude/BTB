@@ -1,0 +1,13 @@
+ <span class="bdbLangHebrew">‎גָּפְרִית‎</span> **noun feminine** ==brimstone== (Aramaic <span class="bdbLangAramaic">‎גּוּפְרִיתָא‎</span>, also <span class="bdbLangHebrew">‎כבריתא‎</span>, <span class="bdbLangHebrew">‎כובריתא‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhPwAWAIAAAP///wAAACH5BAAAAAAALAAAAAA/ABYAAAKThI+py+1vAgRy2ouCfrriHy2dJ0reRoLKuHYcdYyumsltnW6xnILojIsAKTqhjZZAtU5FGPJT6QFZz2qJ2bRaskEjd7v88q4ZomrIy6aX5aHoXSNShbtcM+qu+6bYZPGPJnfXU8LgxoflsuaFl6bo6Icz4zh3RHnJBXjEOCfYiDnml5gH8eVAGGmI+qLV6voK+1EAADs=">, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhPwAaAIAAAP///wAAACH5BAAAAAAALAAAAAA/ABoAAAKThI+py+0Po5wgBIozs1eb7klcWFkLSJbjibIoB5PwitCbecytNys2ngOqYilbDfgTpnhImnLJDD6hRRCRKjIGj9OIUufSlrhdh1G3Q/tel7J5PRQ2W/K2+LPzyrmJOn56hQdxd8YmFaP2N4LGCNZn1ROXKNlYGSioWGcXaNl5iUmZ4RZ1I5onM4qFqsra6voKa1AAADs=">; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhQgAkAIAAAP///wAAACH5BAAAAAAALAAAAABCACQAAAKehI+py+0Po5y02otCwJzr3YWUJpYRaabMp7YJ6rpsjH1gdtMWCs/61TvAfkBDbkis2HC5JKCpRHagL+mIen1icSFr40jyvrpbhbRsRj8d4qrE2jay1UL1DOQzgvN1ur5sE3gmSCh4VYjI1xf4ZxiVePQQZ1J44nbptLLRQ+WlGNP0qSn6Q7owCWqayaaluvq19JoqC8RI+3hbk7vrUAAAOw=="> (certainly foreign word); derived from (<span class="bdbLangHebrew">‎כֹּפֶר‎</span>), <span class="bdbLangHebrew">‎גֹּפֶר‎</span> by [[BDB#Thes|Thes]] [[BDB#Ges|Rob-Ges]], compare [[BDB#Di|Di]] [[Gen.6.14|Gen 6:14]] i.e. ***pitch***, and then other combustibles, especially ***sulphur***; [[BDB#Lag|Lag]]<sup>l.c.</sup> thinks from Bactrian <abbr title="transliteration"><u>***vohûkereti***</u></abbr>) — <span class="bdbLangHebrew">‎גָּפְרִית‎</span> [[Gen.19.24|Gen 19:24]] + 6 t. — ***brimstone***, after <span class="bdbLangHebrew">‎הִמְטִיר‎</span> [[Gen.19.24|Gen 19:24]] ([[BDB#J|J]]), figurative of judgment [[Ps.11.6|Ps 11:6]]; [[Ezek.38.22|Ezek 38:22]] (in all \|\| <span class="bdbLangHebrew">‎אֵשׁ‎</span> etc.), compare also [[Job.18.15|Job 18:15]]; [[Isa.34.9|Isa 34:9]], &amp; [[Deut.29.22|Deut 29:22]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נַחַל ג‎</span> simile for the destroying breath of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[Isa.30.33|Isa 30:33]]. <span class="bdbLangHebrew">‎גֵּר‎</span> see below I. <span class="bdbLangHebrew">‎גור‎</span>. <span class="bdbLangHebrew">‎גִּר‎</span> see below <span class="bdbLangHebrew">‎גיר‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.6.14\|6:14]] · [[Gen.19.24\|19:24]] |
+| Deuteronomy | [[Deut.29.22\|29:22]] |
+| Job | [[Job.18.15\|18:15]] |
+| Psalms | [[Ps.11.6\|11:6]] |
+| Isaiah | [[Isa.30.33\|30:33]] · [[Isa.34.9\|34:9]] |
+| Ezekiel | [[Ezek.38.22\|38:22]] |
+

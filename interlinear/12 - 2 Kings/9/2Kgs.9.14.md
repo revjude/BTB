@@ -1,0 +1,33 @@
+**2 Kings 9:14** 
+<small><sub>**KJV:**</sub></small>
+So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram had kept Ramothgilead, he and all Israel, because of Hazael king of Syria.
+<small><sub>**BSB:**</sub></small>
+Thus Jehu son of Jehoshaphat, the son of Nimshi, conspired against Joram. (Now Joram and all Israel had been defending Ramoth-gilead against Hazael king of Aram,
+<small><sub>**Literal:**</sub></small>
+and  he conspired Jehu [the] son of Jehoshaphat [the] son of Nimshi against Joram and  Joram he had been watching at  Ramoth Gilead he and  all Israel from  before Hazael [the] king of Aram<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.13|<< 2 Kings 9:13]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.15|2 Kings 9:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he conspired  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתְקַשֵּׁ֗ר</big></span><small><sup>[[H7194]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yit.ka.Sher<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehu  | <span class="ashebrew"><big>יֵה֛וּא</big></span><small><sup>[[H3058H]]</sup></small> &#8207;| ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehoshaphat  | <span class="ashebrew"><big>יְהוֹשָׁפָ֥ט</big></span><small><sup>[[H3092J]]</sup></small> &#8207;| ye.ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nimshi  | <span class="ashebrew"><big>נִמְשִׁ֖י</big></span><small><sup>[[H5250]]</sup></small> &#8207;| nim.Shi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joram  | <span class="ashebrew"><big>יוֹרָ֑ם</big></span><small><sup>[[H3141H]]</sup></small> &#8207;| yo.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Joram  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יוֹרָם֩</big></span><small><sup>[[H3141H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yo.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had been  | <span class="ashebrew"><big>הָיָ֨ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| watching  | <span class="ashebrew"><big>שֹׁמֵ֜ר</big></span><small><sup>[[H8104H]]</sup></small> &#8207;| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at Ramoth  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רָמֹ֣ת</big></span><small><sup>[[H7418G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ra.Mot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  | <span class="ashebrew"><big>גִּלְעָ֗ד</big></span><small><sup>[[H1568M]]</sup></small> &#8207;| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  | <span class="ashebrew"><big>ה֚וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֥י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hazael  | <span class="ashebrew"><big>חֲזָאֵ֖ל</big></span><small><sup>[[H2371]]</sup></small> &#8207;| cha.za.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aram  | <span class="ashebrew"><big>אֲרָֽם</big></span><small><sup>[[H0758I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.13|<< 2 Kings 9:13]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.15|2 Kings 9:15 >>]]</td></tr></table>
+
+

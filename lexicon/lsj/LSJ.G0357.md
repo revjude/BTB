@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἀναλογίζομαι==</span>-<span class='asgreek'>ίζομαι</span></b>, 
+
+
+ <b>reckon up, sum up,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>ὡμολογημένα</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Protagoras” 332d, compare “R.” 330e: \_absolutely\_, ἐκ τῶν προειρημένων ἀ. [prev. work] 524d; τὰ δεινά 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.1.4, cf. NT.Heb.12.3">NT+5th c.BC+</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>γεγονότα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>παρόντα</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>μέλλοντα</span> <span class='asgreek'>ἀ</span>. <b>calculate</b> the past and the present <b>in comparison with</b> the future, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 186a; ἀ. τι πρός τι 4th c.BC: Aristoteles Philosophus “Politica” 1320b20">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐκ</span> <span class='asgreek'>τούτων</span> <span class='asgreek'>ἀ</span>. <b>make calculations</b> from.., [<a href="javascript:void(0)" title=" [prev. author] “Cael.” 293a33">Refs</a>]; <b>infer,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “De rerum natura - Wien. Stud.” 14.4, 1st c.BC: Philodemus Gadarensis Epigrammaticus “D.” 1.13, 2nd c.AD: Diogenes Oenoandensis Epicureus “fragment” 38. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>calculate, consider,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.7, 5th c.BC: Lysias Orator 14.47. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> followed by a Conjunction, <span class='asgreek'>ἀ</span>. <span class='asgreek'>ὡς</span>.. <b>calculate</b> or <b>reflect</b> that, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.83, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.4.23, etc.">Refs 5th c.BC+</a>]; <b>take into account,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Herc.” 1251.5. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>recapitulate,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Hyperides Orator “adv. Philippum” 4.">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Heb.12.3]]
+</sub></small>

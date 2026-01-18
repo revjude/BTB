@@ -1,0 +1,32 @@
+**Joshua 22:14** 
+<small><sub>**KJV:**</sub></small>
+And with him ten princes, of each chief house a prince throughout all the tribes of Israel; and each one [was] an head of the house of their fathers among the thousands of Israel.
+<small><sub>**BSB:**</sub></small>
+With him they sent ten chiefs—one family leader from each tribe of Israel, each the head of a family among the clans of Israel.
+<small><sub>**Literal:**</sub></small>
+and  ten leaders [were] with  him a leader one a leader one to  [the] house of a father to  all [the] tribes of Israel and  each [was] a leader of [the] house of fathers  their they [belong] to  [the] families of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.13|<< Joshua 22:13]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.15|Joshua 22:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and ten  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲשָׂרָ֤ה</big></span><small><sup>[[H6235]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| leaders  | <span class="ashebrew"><big>נְשִׂאִים֙</big></span><small><sup>[[H5387A]]</sup></small> &#8207;| ne.si.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] with him  | <span class="ashebrew"><big>עִמּ֔</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a leader  | <span class="ashebrew"><big>נָשִׂ֨יא</big></span><small><sup>[[H5387A]]</sup></small> &#8207;| na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָ֜ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a leader  | <span class="ashebrew"><big>נָשִׂ֤יא</big></span><small><sup>[[H5387A]]</sup></small> &#8207;| na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָד֙</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] house of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בֵ֣ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a father  | <span class="ashebrew"><big>אָ֔ב</big></span><small><sup>[[H0001G]]</sup></small> &#8207;| 'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to all  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֹ֖ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tribes of  | <span class="ashebrew"><big>מַטּ֣וֹת</big></span><small><sup>[[H4294H]]</sup></small> &#8207;| ma.Tot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and each  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִ֨ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] a leader of  | <span class="ashebrew"><big>רֹ֧אשׁ</big></span><small><sup>[[H7218H]]</sup></small> &#8207;| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּית</big></span><small><sup>[[H1004M]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fathers their  | <span class="ashebrew"><big>אֲבוֹתָ֛</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֖מָּה</big></span><small><sup>[[H1992]]</sup></small> &#8207;| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belong] to [the] families of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַלְפֵ֥י</big></span><small><sup>[[H0505H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'al.Fei<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.13|<< Joshua 22:13]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.15|Joshua 22:15 >>]]</td></tr></table>
+
+

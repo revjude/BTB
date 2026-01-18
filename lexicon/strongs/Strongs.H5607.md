@@ -1,0 +1,9 @@
+<big><span class="ashebrew">‎סֵפֶק‎</span></big> **çêpheq** <small>*(say'-fek)*</small> ==**mockery**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>or <span class="ashebrew">שֶׂפֶק</span> **sepheq** <small>*(seh'-fek)*</small>; (Job 20:22; Job 36:18), from <span class="ashebrew">‎סָפַק‎</span><sup><small>[[H5606]]</small></sup></small>
+
+$\quad$ stroke, sufficiency.
+- ***chastisement***
+-  also ***satiety***
+
+**1)** handclapping, mocking, mockery, scorn
+$\quad$ **1a)** meaning dubious

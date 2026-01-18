@@ -1,0 +1,28 @@
+**Genesis 15:4** 
+<small><sub>**KJV:**</sub></small>
+And, behold, the word of the LORD [came] unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir.
+<small><sub>**BSB:**</sub></small>
+Then the word of the LORD came to Abram, saying, “This one will not be your heir, but one who comes from your own body will be your heir.”
+<small><sub>**Literal:**</sub></small>
+and  there! [the] word of Yahweh [was] to  him \<to>  saying not he will inherit  you this [one] that except [one] who he will come out from  inward parts  your he he will inherit  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.3|<< Genesis 15:3]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.5|Genesis 15:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and there!  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנֵּ֨ה</big></span><small><sup>[[H2009]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  | <span class="ashebrew"><big>דְבַר</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֤ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] to him  | <span class="ashebrew"><big>אֵלָי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹ֔ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will inherit you  | <span class="ashebrew"><big>יִֽירָשְׁ</big></span><small><sup>[[H3423G]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| yi.ra.she.<small><sup>[[HVqi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this [one]  | <span class="ashebrew"><big>זֶ֑ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּי</big></span><small><sup>[[H3588B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| except  | <span class="ashebrew"><big>אִם֙</big></span><small><sup>[[H0518B]]</sup></small> &#8207;| 'im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one] who  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will come out  | <span class="ashebrew"><big>יֵצֵ֣א</big></span><small><sup>[[H3318M]]</sup></small> &#8207;| ye.Tze'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from inward parts your  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מֵּעֶ֔י</big></span><small><sup>[[H4578]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> me.'Ei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  | <span class="ashebrew"><big>ה֖וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will inherit you  | <span class="ashebrew"><big>יִֽירָשֶֽׁ</big></span><small><sup>[[H3423G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yi.ra.She.<small><sup>[[HVqi3ms]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.3|<< Genesis 15:3]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.5|Genesis 15:5 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**Malachi 3:8** 
+<small><sub>**KJV:**</sub></small>
+Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.
+<small><sub>**BSB:**</sub></small>
+Will a man rob God? Yet you are robbing Me! But you ask, ‘How do we rob You?’ In tithes and offerings.
+<small><sub>**Literal:**</sub></small>
+¿  will he rob someone God for you [are] robbing \<obj.>  me and  you say \<in>  how? have we robbed  you the  tithe and  the  contribution<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.7|<< Malachi 3:7]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.9|Malachi 3:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| ¿ will he rob  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>יִקְבַּ֨ע</big></span><small><sup>[[H6906]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> yik.Ba'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone  | <span class="ashebrew"><big>אָדָ֜ם</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱלֹהִ֗ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתֶּם֙</big></span><small><sup>[[H0859D]]</sup></small> &#8207;| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] robbing  | <span class="ashebrew"><big>קֹבְעִ֣ים</big></span><small><sup>[[H6906]]</sup></small> &#8207;| koe.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> me  | <span class="ashebrew"><big>אֹתִ֔</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you say  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֲמַרְתֶּ֖ם</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> how?  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מֶּ֣ה</big></span><small><sup>[[H4100]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> Meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have we robbed you  | <span class="ashebrew"><big>קְבַעֲנ֑וּ</big></span><small><sup>[[H6906]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ke.va.'a.Nu.<small><sup>[[HVqp1cp]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tithe  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּעֲשֵׂ֖ר</big></span><small><sup>[[H4643]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ma.'a.Ser<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the contribution  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>תְּרוּמָֽה</big></span><small><sup>[[H8641]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> te.ru.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.7|<< Malachi 3:7]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.9|Malachi 3:9 >>]]</td></tr></table>
+
+

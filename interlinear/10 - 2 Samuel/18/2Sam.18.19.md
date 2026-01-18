@@ -1,0 +1,27 @@
+**2 Samuel 18:19** 
+<small><sub>**KJV:**</sub></small>
+Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies.
+<small><sub>**BSB:**</sub></small>
+Then Ahimaaz son of Zadok said, “Please let me run and tell the king the good news that the LORD has avenged him of his enemies.”
+<small><sub>**Literal:**</sub></small>
+and  Ahimaaz [the] son of Zadok he said let me run please and  let me bear [the] news to \<obj.> the  king that he has vindicated  him Yahweh from  [the] hand of enemies  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.18|<< 2 Samuel 18:18]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.20|2 Samuel 18:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Ahimaaz  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲחִימַ֤עַץ</big></span><small><sup>[[H0290H]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.chi.Ma.'atz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zadok  | <span class="ashebrew"><big>צָדוֹק֙</big></span><small><sup>[[H6659G]]</sup></small> &#8207;| tza.dOk<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he said  | <span class="ashebrew"><big>אָמַ֔ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let me run  | <span class="ashebrew"><big>אָר֣וּצָה</big></span><small><sup>[[H7323G]]</sup></small> &#8207;| 'a.Ru.tzah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָּ֔א</big></span><small><sup>[[H4994]]</sup></small> &#8207;| Na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and let me bear [the] news to  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲבַשְּׂרָ֖ה</big></span><small><sup>[[H1319]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.va.se.Rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֑לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has vindicated him  | <span class="ashebrew"><big>שְׁפָט֥</big></span><small><sup>[[H8199]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| she.fa.T<small><sup>[[HVqp3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] hand of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יַּ֥ד</big></span><small><sup>[[H3027H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies his  | <span class="ashebrew"><big>אֹיְבָֽי</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.18|<< 2 Samuel 18:18]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.20|2 Samuel 18:20 >>]]</td></tr></table>
+
+

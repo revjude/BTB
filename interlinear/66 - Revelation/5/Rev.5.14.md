@@ -1,0 +1,36 @@
+**Revelation 5:14
+**<small><sub>**KJV:**</sub></small>
+And the four beasts said, Amen. And the four [and] twenty elders fell down and worshipped him that liveth for ever and ever.
+<small><sub>**BSB:**</sub></small>
+And the four living creatures said, “Amen,” and the elders fell down and worshiped.
+<small><sub>**Literal:**</sub></small>
+And the four living creatures were saying; \<the> Amen. And the twenty four elders fell down and they worshiped [the one] living into the ages of the ages.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.13|<< Revelation 5:13]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.1|Revelation 6:1 >>]]</td></tr></table>
+
+| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<span class="asgreek">τὰ</span> <small><sup>[[G3588]]</sup></small> |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| four |<span class="asgreek">τέσσαρα</span> <small><sup>[[G5064]]</sup></small> [^1] |tessara <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| living creatures |<span class="asgreek">ζῷα</span> <small><sup>[[G2226]]</sup></small> |zōa <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were saying; [^2] |<span class="asgreek">ἔλεγον·</span> <small><sup>[[G3004G]]</sup></small> |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
+| \<the> |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="Byz">o</abbr> | |
+| Amen. |<span class="asgreek">ἀμήν.</span> <small><sup>[[G0281]]</sup></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| twenty four [^3] |<span class="asgreek">εἴκοσιτέσσαρες</span> <small><sup>[[G1501]]</sup></small> |eikositessares <small><sup>[[A-NPM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| elders |<span class="asgreek">πρεσβύτεροι</span> <small><sup>[[G4245G]]</sup></small> |presbuteroi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fell down |<span class="asgreek">ἔπεσαν</span> <small><sup>[[G4098]]</sup></small> |epesan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they worshiped |<span class="asgreek">προσεκύνησαν</span> <small><sup>[[G4352]]</sup></small> |prosekunēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the one] living |<span class="asgreek">ζῶντι</span> <small><sup>[[G2198]]</sup></small> |zōnti <small><sup>[[V-PAP-DSM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| into |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |
+| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| ages |<span class="asgreek">αἰωνας</span> <small><sup>[[G0165H]]</sup></small> |aiōnas <small><sup>[[N-APM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| of the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| ages. [^4] |<span class="asgreek">αἰώνων.¶</span> <small><sup>[[G0165H]]</sup></small> |aiōnōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="TR">K</abbr> | |
+[[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.13|<< Revelation 5:13]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.1|Revelation 6:1 >>]]</td></tr></table>
+
+[^1]: ==WH== spelled: <span class='asgreek'>**τέσσερα**</span>
+[^2]: ==Byz==: are saying | <span class="asgreek">λέγοντα</span><small><sup>[[G3004]]</sup></small> | legonta<small><sup>[[V-PAP-NPN]]</sup></small>
+[^3]: Extra Text:  <span class='asgreek'>**εἴκοσιτέσσαρες**</span>  (<i>eikositessares</i>) 'twenty four' is only in traditional manuscripts (TR)
+[^4]: Extra Text (15-19):  <span class='asgreek'>**ζῶντι**</span>   <span class='asgreek'>**εἰς**</span>    <span class='asgreek'>**τοὺς**</span>    <span class='asgreek'>**αἰωνας**</span>    <span class='asgreek'>**τῶν**</span>    <span class='asgreek'>**αἰώνων**</span>.¶   (<i>zōnti eis tous aiōnas tōn aiōnōn</i>) '[the one] living into the ages of the ages.' is only in traditional manuscripts (TR)

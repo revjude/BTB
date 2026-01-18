@@ -1,0 +1,9 @@
+<span class="asgreek">ἐξοπλίζω</span> <small>***(exoplizō)***</small> ==**to completely arm**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐξοπλίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <b>arm completely,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.100, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 4.5.22, +others; poetry, ἐ. Ἄρη 4th-5th c.BC: Aeschylus Tragicus “Supplices” 683, 702, compare 99 (all Lyric poetry)">Refs 5th c.BC+</a>]:—<i>middle</i> and <i>passive</i>, <b>arm oneself,</b> <span class='asgreek'>στολήν</span>.. <span class='asgreek'>λέοντος</span>, <span class='asgreek'>ᾗπερ</span>.. <span class='asgreek'>ἐξωπλίζετο</span>, of Hercules, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hercules Furens” 466 ">Refs 5th c.BC+</a>]; <b>get under arms, stand in armed array,</b> [<a href="javascript:void(0)" title=" [prev. author] “IT” 302; ὄπισθεν τῶν ἁρμαμαξῶν ==ἐξοπλίζω==ίσθητε 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 6.3.32; ἐξωπλισμένος ">Refs 5th c.BC+</a>]<b>fully armed,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 454, 5th-6th c.BC: Plato Philosophus “Respublica” 555d, etc. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <span class='asgreek'>ἐξωπλισμένος</span> <b>fully prepared, ready,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Pax” 566; μᾶζα.. πρὸς εὐτέλειαν ἐξωπλισμένη 4th c.BC: Antiphanes Comicus 226.2, compare 217.19. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>disarm,</b> <b>deprive,</b> <span class='asgreek'>Καίσαρα</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>στρατιᾶς</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Bella Civilia” 2.28, compare 2nd c.AD: Maximus Tyrius Sophista 29.3, 40.5. ">Refs 2nd c.AD+</a>]

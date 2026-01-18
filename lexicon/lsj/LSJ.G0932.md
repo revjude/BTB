@@ -1,0 +1,15 @@
+
+<b> <span class='asgreek'>==βασιλεία==</span>-<span class='asgreek'>είᾱ</span></b>, 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>==βασιλεία==</span>-<span class='asgreek'>ηΐη</span></b>, <span class='asgreek'>ἡ</span>, <b>kingdom, dominion,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.11, etc.; παιδὸς ἡ β. 1st c.AD(?): Heraclitus 52 ">Refs 5th c.BC+</a>]; <b>hereditary monarchy,</b> opposed to <span class='asgreek'>τυραννίς</span>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>ῥητοῖς</span> <span class='asgreek'>γέρασι</span> <span class='asgreek'>πατρικαὶ</span> <span class='asgreek'>β</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.13; βασιλείας εἴδη τέτταρα 4th c.BC: Aristoteles Philosophus “Politica” 1285b20 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>πρώτη</span> <span class='asgreek'>πολιτεία</span> <span class='asgreek'>μετὰ</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>β</span>. after <b>the age of monarchies,</b> [<a href="javascript:void(0)" title="[prev. work] 1297b17: \_metaphorically\_, ἐποίησεν ἡμᾶς β. NT.Rev.1.6; β. τῶν οὐρανῶν NT.Matt.3.2; τοῦ θεοῦ [prev. work] 6.33, etc. ">NT</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>kingly office,</b> <span class='asgreek'>β</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>στρατηγία</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1273a37. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> at Athens, <b>the office of the archon</b> <span class='asgreek'>βασιλεύς</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 1.3.1. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>passive</i>, <b>being ruled by a king,</b> <span class='asgreek'>τῆς</span> <span class='asgreek'>ὑπ᾽</span> <span class='asgreek'>ἐκείνου</span> <span class='asgreek'>βασιλείας</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 9.43. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>diadem,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 1.47, “OGI” 90.43 (from Rosetta). ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>reign,</b> [<a href="javascript:void(0)" title="[prev. work]331.40 (Pergam.), 1st c.BC: Diodorus Siculus Historicus 17.1, “POxy.” 1257.7 (3rd c.AD)">Refs 1st c.BC+</a>]; so <span class='asgreek'>αἱ</span> <span class='asgreek'>β</span>. <b>the reigns of the Kings,</b> title of book of “VT”; <b>accession to the throne</b>, [<a href="javascript:void(0)" title=" “BGU” 646.12 (2nd c.AD). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> concrete, <b>His Majesty,</b> [<a href="javascript:void(0)" title=" LXX.2Kgs.11.1, LXX.1Mac.6.47. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[Rev.1.6]] ☩ [[Matt.3.2]] ☩ [[2Kgs.11.1]]
+</sub></small>

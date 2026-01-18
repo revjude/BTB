@@ -1,0 +1,27 @@
+**Genesis 48:10** 
+<small><sub>**KJV:**</sub></small>
+Now the eyes of Israel were dim for age, [so that] he could not see. And he brought them near unto him; and he kissed them, and embraced them.
+<small><sub>**BSB:**</sub></small>
+Now Israel’s eyesight was poor because of old age; he could hardly see. Joseph brought his sons to him, and his father kissed them and embraced them.
+<small><sub>**Literal:**</sub></small>
+and  [the] eyes of Israel they were heavy from  old age not he was able to  see and  he brought near \<obj.>  them to  him and  he kissed \<to>  them and  he embraced \<to>  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.9|<< Genesis 48:9]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.11|Genesis 48:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] eyes of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֵינֵ֤י</big></span><small><sup>[[H5869A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵל֙</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were heavy  | <span class="ashebrew"><big>כָּבְד֣וּ</big></span><small><sup>[[H3513J]]</sup></small> &#8207;| ka.ve.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from old age  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>זֹּ֔קֶן</big></span><small><sup>[[H2207]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Zo.ken<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he was able  | <span class="ashebrew"><big>יוּכַ֖ל</big></span><small><sup>[[H3201]]</sup></small> &#8207;| yu.Khal<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to see  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רְא֑וֹת</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he brought near  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּגֵּ֤שׁ</big></span><small><sup>[[H5066H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Gesh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אֹתָ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>אֵלָ֔י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he kissed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשַּׁ֥ק</big></span><small><sup>[[H5401A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Shak<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he embraced  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְחַבֵּ֥ק</big></span><small><sup>[[H2263]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.cha.Bek<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.9|<< Genesis 48:9]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.11|Genesis 48:11 >>]]</td></tr></table>
+
+

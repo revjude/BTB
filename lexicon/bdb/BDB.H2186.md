@@ -1,0 +1,20 @@
+ I. <span class="bdbLangHebrew">‎זָנַח‎</span> **verb** ==reject, spurn== (perhaps compare Assyrian <abbr title="transliteration"><u>***zinû***</u></abbr>, ***be angry***, especially of gods [[BDB#Gu|Gu]]<sup>§ 105</sup> [[BDB#Zim|Zim]]<sup>BP 23 ff.</sup>) — 
+
+**Qal** ***Perfect*** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ז‎</span> [[Hos.8.3|Hos 8:3]]; [[Hos.8.5|Hos 8:5]]; [[Lam.2.7|Lam 2:7]] <span class="bdbLangHebrew">‎זָנַחְתָּ‎</span> [[Ps.44.10|Ps 44:10]] + 2 t.; suffix <span class="bdbLangHebrew">‎זְנַחְתָּ֑נִי‎</span> [[Ps.43.2|Ps 43:2]] <span class="bdbLangHebrew">‎זְנַחְתָּנוּ‎</span> [[Ps.60.3|Ps 60:3]]; [[Ps.60.12|Ps 60:12]]; [[Ps.108.12|Ps 108:12]] <span class="bdbLangHebrew">‎זְנַחְתִּים‎</span> [[Zech.10.6|Zech 10:6]] ***Imperfect*** <span class="bdbLangHebrew">‎יִזְנַח‎</span> [[Ps.77.8|Ps 77:8]]; [[Lam.3.31|Lam 3:31]] <span class="bdbLangHebrew">‎תִּזְנַח‎</span> [[Ps.44.24|Ps 44:24]] + 2 t.; — ***reject***, Israel rejects good [[Hos.8.3|Hos 8:3]] Samaria's calf rejects her [[Hos.8.5|Hos 8:5]] (others make <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> subject; [[BDB#We|We]]<sup>Kl. Proph.</sup> reads <span class="bdbLangHebrew">‎אזנת‎</span> ***I reject***), elsewhere God rejects people [[Ps.43.2|Ps 43:2]]; [[Ps.60.3|Ps 60:3]]; [[Ps.77.8|Ps 77:8]]; [[Ps.88.15|Ps 88:15]]; [[Zech.10.6|Zech 10:6]] <span class="bdbLangHebrew">‎לָנֶצַח‎</span> [[Ps.44.24|Ps 44:24]]; [[Ps.74.1|Ps 74:1]] <span class="bdbLangHebrew">‎לעולם‎</span> [[Lam.3.31|Lam 3:31]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ולא תצא בצבאתינו ז‎</span> [[Ps.44.10|Ps 44:10]]; [[Ps.60.12|Ps 60:12]]; [[Ps.108.12|Ps 108:12]] <span class="bdbLangHebrew">‎נַפְשִׁי מִשָּׁלוֺם‎</span> [[Lam.3.17|Lam 3:17]] king [[Ps.89.39|Ps 89:39]] altar [[Lam.2.7|Lam 2:7]]. **Hiph\`il** ***Perfect*** <span class="bdbLangHebrew">‎הִזְנִיחַ‎</span> [[2Chr.29.19|2Chr 29:19]] suffix <span class="bdbLangHebrew">‎הִזְנִיחָם‎</span> [[2Chr.11.14|2Chr 11:14]] 3 plural <span class="bdbLangHebrew">‎הֶאֶזְנִיחוּ‎</span> [[Isa.19.6|Isa 19:6]], see II.  <span class="bdbLangHebrew">‎זנח‎</span>; ***Imperfect*** <span class="bdbLangHebrew">‎יַזְנִיחֲךָ‎</span> [[1Chr.28.9|1Chr 28:9]] — (late) ***reject*** (= earlier **Qal**), ==Jeroboam== ***rejects*** the Levites <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מכהן לי‎</span> [[2Chr.11.14|2Chr 11:14]] Ahaz the sacred vessels [[2Chr.29.19|2Chr 29:19]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> rejects Solomon [[1Chr.28.9|1Chr 28:9]]. 
+
+
+
+ II. [<span class="bdbLangHebrew">‎זָנַח‎</span>] ==stink, emit stench== (compare Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIwAnAIAAAP///wAAACH5BAAAAAAALAAAAAAjACcAAAJ3hI+py+0PowlUprqoDki3zWXbATJgGJUiagHYxz5xm86080635e1Zl/ORWDYYrgjpmZBJpgsVvEGJURjnegI6JyMs9lIdjlrh50lpPZ7L5lpW3RzL2FyyfMlT4STvOc+VJ9QkmEQ4tyX0puezhmZ4ZxgpOUkZWQAAOw=="> ***become rancid***, of oil, etc., [[BDB#Lane|Lane]]); — only **Hiph\`il** ***Perfect*** 3 masculine plural <span class="bdbLangHebrew">‎הֶאֶזְנִיחוּ נְהָרוֺת‎</span> ***rivers stink*** [[Isa.19.6|Isa 19:6]] (read <span class="bdbLangHebrew">‎הִזְנִיחוּ‎</span> [[BDB#Ges|Ges]]<sup>«GKC:53»§ 53</sup>, 6 [[BDB#Ol|Ol]]<sup>§ 255 b</sup> [[BDB#Sta|Sta]]<sup>§ 420 a</sup> [[BDB#Kö|Kö]]<sup>i. 293</sup>; but [[BDB#Ew|Ew]]<sup>§ 123 b</sup> [[BDB#De|De]] [[BDB#Di|Di]] derive from elative <span class="bdbLangHebrew">‎אַזְנָח‎</span> or <span class="bdbLangHebrew">‎אֶזְנָח‎</span>). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 1 Chronicles | [[1Chr.28.9\|28:9]] |
+| 2 Chronicles | [[2Chr.11.14\|11:14]] · [[2Chr.29.19\|29:19]] |
+| Psalms | [[Ps.43.2\|43:2]] · [[Ps.44.10\|44:10]] · [[Ps.44.24\|44:24]] · [[Ps.60.3\|60:3]] · [[Ps.60.12\|60:12]] · [[Ps.74.1\|74:1]] · [[Ps.77.8\|77:8]] · [[Ps.88.15\|88:15]] · [[Ps.89.39\|89:39]] · [[Ps.108.12\|108:12]] |
+| Isaiah | [[Isa.19.6\|19:6]] |
+| Lamentations | [[Lam.2.7\|2:7]] · [[Lam.3.17\|3:17]] · [[Lam.3.31\|3:31]] |
+| Hosea | [[Hos.8.3\|8:3]] · [[Hos.8.5\|8:5]] |
+| Zechariah | [[Zech.10.6\|10:6]] |
+

@@ -1,0 +1,23 @@
+**Daniel 3:11** 
+<small><sub>**KJV:**</sub></small>
+And whoso falleth not down and worshippeth, [that] he should be cast into the midst of a burning fiery furnace.
+<small><sub>**BSB:**</sub></small>
+and that whoever does not fall down and worship will be thrown into the blazing fiery furnace.
+<small><sub>**Literal:**</sub></small>
+and  whoever that not he will fall down so  he may pay homage he will be thrown to  [the] midst of [the] furnace of fire  the \<the>  burning<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.10|<< Daniel 3:10]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.12|Daniel 3:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and whoever  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>מַן</big></span><small><sup>[[H4479]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> man-<small><sup>[[APi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="asaramaic"><big>דִּי</big></span><small><sup>[[H1768]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="asaramaic"><big>לָ֥א</big></span><small><sup>[[H3809]]</sup></small> &#8207;| la'<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will fall down  | <span class="asaramaic"><big>יִפֵּ֖ל</big></span><small><sup>[[H5308]]</sup></small> &#8207;| yi.Pel<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so he may pay homage  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>יִסְגֻּ֑ד</big></span><small><sup>[[H5457]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> yis.Gud<small><sup>[[AVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be thrown  | <span class="asaramaic"><big>יִתְרְמֵ֕א</big></span><small><sup>[[H7412]]</sup></small> &#8207;| yit.re.Me'<small><sup>[[AVui3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] midst of  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>גֽוֹא</big></span><small><sup>[[H1459]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> goy'-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] furnace of  | <span class="asaramaic"><big>אַתּ֥וּן</big></span><small><sup>[[H0861]]</sup></small> &#8207;| 'a.Tun<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire the  | <span class="asaramaic"><big>נוּרָ֖</big></span><small><sup>[[H5135]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| nu.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> burning  | <span class="asaramaic"><big>יָקִֽדְתָּֽ</big></span><small><sup>[[H3345]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ya.Kid.Ta<small><sup>[[AVqrfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.10|<< Daniel 3:10]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.12|Daniel 3:12 >>]]</td></tr></table>
+
+

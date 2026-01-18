@@ -1,0 +1,28 @@
+**Genesis 33:18** 
+<small><sub>**KJV:**</sub></small>
+And Jacob came to Shalem, a city of Shechem, which [is] in the land of Canaan, when he came from Padanaram; and pitched his tent before the city.
+<small><sub>**BSB:**</sub></small>
+After Jacob had come from Paddan-aram, he arrived safely at the city of Shechem in the land of Canaan, and he camped just outside the city.
+<small><sub>**Literal:**</sub></small>
+and  he came Jacob safe [the] city of Shechem which [is] in  [the] land of Canaan when  came  he from  Paddan Aram and  he camped with [the] face of the  city<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.17|<< Genesis 33:17]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.19|Genesis 33:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבֹא֩</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֨ב</big></span><small><sup>[[H3290]]</sup></small> &#8207;| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| safe  | <span class="ashebrew"><big>שָׁלֵ֜ם</big></span><small><sup>[[H8003]]</sup></small> &#8207;| sha.Lem<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] city of  | <span class="ashebrew"><big>עִ֣יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| 'ir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shechem  | <span class="ashebrew"><big>שְׁכֶ֗ם</big></span><small><sup>[[H7927G]]</sup></small> &#8207;| she.Khem<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר֙</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in [the] land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  | <span class="ashebrew"><big>כְּנַ֔עַן</big></span><small><sup>[[H3667A]]</sup></small> &#8207;| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when came he  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בֹא֖</big></span><small><sup>[[H0935G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> vo.'<small><sup>[[HVqcc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Paddan  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פַּדַּ֣ן</big></span><small><sup>[[H6307]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pa.Dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aram  | <span class="ashebrew"><big>אֲרָ֑ם</big></span><small><sup>[[H0758L]]</sup></small> &#8207;| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he camped  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּ֖חַן</big></span><small><sup>[[H2583]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yi.chan<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  | <span class="ashebrew"><big>פְּנֵ֥י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִֽיר</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.17|<< Genesis 33:17]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.19|Genesis 33:19 >>]]</td></tr></table>
+
+

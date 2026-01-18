@@ -1,0 +1,30 @@
+**Lamentations 2:8** 
+<small><sub>**KJV:**</sub></small>
+The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.
+<small><sub>**BSB:**</sub></small>
+The LORD determined to destroy the wall of the Daughter of Zion. He stretched out a measuring line and did not withdraw His hand from destroying. He made the ramparts and walls lament; together they waste away.
+<small><sub>**Literal:**</sub></small>
+he has planned Yahweh to  destroy [the] wall of [the] daughter of Zion he has stretched out a measuring-line not he has turned back hand  his from  swallowing up and  he has caused to mourn rampart and  wall together they have languished<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.7|<< Lamentations 2:7]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.9|Lamentations 2:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| he has planned  | <span class="ashebrew"><big>חָשַׁ֨ב</big></span><small><sup>[[H2803I]]</sup></small> &#8207;| cha.Shav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֤ה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to destroy  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַשְׁחִית֙</big></span><small><sup>[[H7843]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hash.Chit<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wall of  | <span class="ashebrew"><big>חוֹמַ֣ת</big></span><small><sup>[[H2346G]]</sup></small> &#8207;| cho.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  | <span class="ashebrew"><big>בַּת</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  | <span class="ashebrew"><big>צִיּ֔וֹן</big></span><small><sup>[[H6726]]</sup></small> &#8207;| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has stretched out  | <span class="ashebrew"><big>נָ֣טָה</big></span><small><sup>[[H5186]]</sup></small> &#8207;| Na.tah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a measuring-line  | <span class="ashebrew"><big>קָ֔ו</big></span><small><sup>[[H6957B]]</sup></small> &#8207;| Kav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has turned back  | <span class="ashebrew"><big>הֵשִׁ֥יב</big></span><small><sup>[[H7725I]]</sup></small> &#8207;| he.Shiv<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  | <span class="ashebrew"><big>יָד֖</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from swallowing up  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בַּלֵּ֑עַ</big></span><small><sup>[[H1104]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ba.Le.a'<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has caused to mourn  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּֽאֲבֶל</big></span><small><sup>[[H0056]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.vel-<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rampart  | <span class="ashebrew"><big>חֵ֥ל</big></span><small><sup>[[H2426]]</sup></small> &#8207;| chel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wall  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חוֹמָ֖ה</big></span><small><sup>[[H2346G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  | <span class="ashebrew"><big>יַחְדָּ֥ו</big></span><small><sup>[[H3162B]]</sup></small> &#8207;| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have languished  | <span class="ashebrew"><big>אֻמְלָֽלוּ</big></span><small><sup>[[H0535]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'um.La.lu<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.7|<< Lamentations 2:7]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.9|Lamentations 2:9 >>]]</td></tr></table>
+
+

@@ -1,0 +1,15 @@
+
+<b> <span class='asgreek'>==πτέρνα==</span></b> 
+
+
+ [<a href="javascript:void(0)" title="(5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 3, “Epid.” 5.48, 9th c.AD: Photius Legal icographus, etc.)">Refs 5th c.BC+</a>], later <b><span class='asgreek'>πτέρνᾰ</span></b> [<a href="javascript:void(0)" title="(3rd c.BC: Lycophron Tragicus 500, LXX.Gen.3.15, etc.)">LXX+3rd c.BC+</a>], <span class='asgreek'>ἡ</span>, <b>heel</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 22.397, Hp. [prev. cited], 4th c.BC: Aristoteles Philosophus “Historia Animalium” 494b7 ">Refs 8th c.BC+</a>]; <b>under part of the heel</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Choephori” 209 (\_plural\_)">Refs 4th c.BC+</a>]; <b>heel-bone</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 2.776, +others: proverbial, εἴπερ τὸν ἐγκέφαλον.. μὴ ἐν ταῖς π. φορεῖτε 4th c.BC: Demosthenes Orator 7.45. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>hoof</b>, [<a href="javascript:void(0)" title=" LXX.Judg.5.22. ">LXX</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>heel</b> of a shoe, [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 7.21, 2nd c.AD: Phrynichus Atticista “Praeparatio Sophistica” p.69B. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>footstep</b>, [<a href="javascript:void(0)" title=" LXX.Song.1.8. ">LXX</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>foot</b> or <b>lower part</b> of anything, <span class='asgreek'>πύργων</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 442; τῆς μηχανῆς 2nd c.BC: Polybius Historicus 8.6.2 ">Refs 3rd c.BC+</a>]; of a mast, [<a href="javascript:void(0)" title=" 2nd-1st c.BC: Asclepiades Myrleanus Historicus cited in 2nd c.AD: Athenaeus Epigrammaticus 11.474f ">Refs 2nd c.BC+</a>] (but, <b>waist</b> of a ship, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “\*Stereom.” 2.52). ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>butt-end</b> of the <span class='asgreek'>ἀγκών</span> of a torsion-engine, [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 59.30, 66.2 ">Refs 3rd c.BC+</a>]; of a surgical machine, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus 49.4.9, +others ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>ham</b> (mock Epicism formed from Latin <i>perna</i>), [<a href="javascript:void(0)" title=" Batrachomyomachia 37 ">Refs</a>]; <i>falsa lectio</i> for{<span class='asgreek'>πέρνα</span>} in [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 15.15, 7th c.AD: Paulus Aegineta Medicus 7.17.74 (πέρνα correctly in 4.32). ">Refs 6th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Gen.3.15]] ☩ [[Judg.5.22]] ☩ [[Song.1.8]]
+</sub></small>

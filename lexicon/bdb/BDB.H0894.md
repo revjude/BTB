@@ -1,0 +1,18 @@
+<small>Aramaic form: [[H0895]]</small>
+ <span class="bdbLangHebrew">‎בָּבֶ֫ל‎</span><sub>262</sub> **proper name, of a location** ==Babel, Babylon== (in Assyrian written ***Bab-ilu, gate of god*** [[BDB#Dl|Dl]]<sup>Pa 212</sup>, compare on other hand [[BDB#Jen|Jen]]<sup>Kosmol. 498</sup>) — with <span class="bdbLangHebrew">‎ָ  ה‎</span> locative <span class="bdbLangHebrew">‎בָּבֶ֫לָה‎</span> [[Ezek.12.13|Ezek 12:13]] +, <span class="bdbLangHebrew">‎בָּבֶ֑לָה‎</span> [[2Kgs.20.17|2Kgs 20:17]] + once <span class="bdbLangHebrew">‎מִבָּבֶ֫לָה‎</span> [[Jer.27.16|Jer 27:16]] — the ancient capital of Babylonia, modern ***Hillah***, situated on Euphrates, in long. approximately 440 30° east, and latitude approximately 320 50° north; [[Gen.10.10|Gen 10:10]]; [[Gen.11.9|Gen 11:9]] (where name connected with <span class="bdbLangHebrew">‎בלל‎</span> ***confuse, confound***), both [[BDB#J|J]], not elsewhere in Hexateuch; [[2Kgs.17.24|2Kgs 17:24]] + 31 t. 2 Kings; 18 t. Chronicles; [[Esth.2.6|Esth 2:6]] late [[Ps.87.4|Ps 87:4]]; [[Ps.137.1|Ps 137:1]]; [[Ps.137.8|Ps 137:8]] [[BDB#Isa|Isa]]<sup>2</sup>; [[BDB#Isa|Isa]]<sup>3</sup>, namely [[Isa.13.1|Isa 13:1]]; [[Isa.13.19|Isa 13:19]]; [[Isa.14.4|Isa 14:4]]; [[Isa.14.22|Isa 14:22]]; [[Isa.21.9|Isa 21:9]]; [[Isa.39.1|Isa 39:1]]; [[Isa.39.3|Isa 39:3]]; [[Isa.39.6|Isa 39:6]]; [[Isa.39.7|Isa 39:7]]; [[Isa.43.14|Isa 43:14]]; [[Isa.47.1|Isa 47:1]]; [[Isa.48.14|Isa 48:14]]; [[Isa.48.20|Isa 48:20]]; [[Mic.4.10|Mic 4:10]] (but here probably not original, compare [[BDB#RS|RS]]<sup>Proph. vii. n. 5 &amp; references</sup>) [[Zech.2.11|Zech 2:11]]; [[Zech.6.10|Zech 6:10]];   + 19 t. Ezekiel; [[Jer.20.4|Jer 20:4]] (twice in verse); [[Jer.20.5|Jer 20:5]]; [[Jer.20.6|Jer 20:6]] + 165 t. Jeremiah — note especially <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֶרֶץ בּ‎</span> [[Jer.50.28|Jer 50:28]] also of land &amp; people = realm, particular in <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מֶלֶךְ בּ‎</span> [[2Kgs.20.12|2Kgs 20:12]] of Merodach Baladan; v[[2Kgs.20.18|2Kgs 20:18]]; [[2Kgs.24.1|2Kgs 24:1]]; [[2Kgs.24.7|2Kgs 24:7]]; [[2Kgs.24.11|2Kgs 24:11]]; [[2Kgs.24.12|2Kgs 24:12]] (twice in verse) + often of Nebuchadrezzar; [[2Kgs.25.27|2Kgs 25:27]] = [[Jer.52.31|Jer 52:31]] compare v[[Jer.52.34|Jer 52:34]] of Evil-Merodach; [[Neh.13.6|Neh 13:6]] of Artaxerxes; the city personified as <span class="bdbLangHebrew">‎בַּת בָּבֶל‎</span> [[Isa.47.1|Isa 47:1]]; [[Jer.50.42|Jer 50:42]]. (See [[BDB#Dl|Dl]]<sup>Pa 212</sup> [[BDB#COT|COT]] [[Gen.11.9|Gen 11:9]] [[BDB#Schr|KG]]<sup>95</sup>.) 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.10.10\|10:10]] · [[Gen.11.9\|11:9]] |
+| 2 Kings | [[2Kgs.17.24\|17:24]] · [[2Kgs.20.12\|20:12]] · [[2Kgs.20.17\|20:17]] · [[2Kgs.20.18\|20:18]] · [[2Kgs.24.1\|24:1]] · [[2Kgs.24.7\|24:7]] · [[2Kgs.24.11\|24:11]] · [[2Kgs.24.12\|24:12]] · [[2Kgs.25.27\|25:27]] |
+| Nehemiah | [[Neh.13.6\|13:6]] |
+| Esther | [[Esth.2.6\|2:6]] |
+| Psalms | [[Ps.87.4\|87:4]] · [[Ps.137.1\|137:1]] · [[Ps.137.8\|137:8]] |
+| Isaiah | [[Isa.13.1\|13:1]] · [[Isa.13.19\|13:19]] · [[Isa.14.4\|14:4]] · [[Isa.14.22\|14:22]] · [[Isa.21.9\|21:9]] · [[Isa.39.1\|39:1]] · [[Isa.39.3\|39:3]] · [[Isa.39.6\|39:6]] · [[Isa.39.7\|39:7]] · [[Isa.43.14\|43:14]] · [[Isa.47.1\|47:1]] · [[Isa.48.14\|48:14]] · [[Isa.48.20\|48:20]] |
+| Jeremiah | [[Jer.20.4\|20:4]] · [[Jer.20.5\|20:5]] · [[Jer.20.6\|20:6]] · [[Jer.27.16\|27:16]] · [[Jer.50.28\|50:28]] · [[Jer.50.42\|50:42]] · [[Jer.52.31\|52:31]] · [[Jer.52.34\|52:34]] |
+| Ezekiel | [[Ezek.12.13\|12:13]] |
+| Micah | [[Mic.4.10\|4:10]] |
+| Zechariah | [[Zech.2.11\|2:11]] · [[Zech.6.10\|6:10]] |
+

@@ -1,0 +1,22 @@
+**Exodus 31:3** 
+<small><sub>**KJV:**</sub></small>
+And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,
+<small><sub>**BSB:**</sub></small>
+And I have filled him with the Spirit of God, with skill, ability, and knowledge in all kinds of craftsmanship,
+<small><sub>**Literal:**</sub></small>
+and  I have filled \<obj.>  him [the] spirit of God with  skill and  with  understanding and  with  knowledge and  with  all workmanship<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.2|<< Exodus 31:2]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.4|Exodus 31:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I have filled  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֲמַלֵּ֥א</big></span><small><sup>[[H4390]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.ma.Le'<small><sup>[[HVpw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  | <span class="ashebrew"><big>אֹת֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] spirit of  | <span class="ashebrew"><big>ר֣וּחַ</big></span><small><sup>[[H7307G]]</sup></small> &#8207;| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱלֹהִ֑ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with skill  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חָכְמָ֛ה</big></span><small><sup>[[H2451]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> cha.khe.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with understanding  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תְבוּנָ֥ה</big></span><small><sup>[[H8394]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> t.vu.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with knowledge  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דַ֖עַת</big></span><small><sup>[[H1847]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Da.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with all  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| workmanship  | <span class="ashebrew"><big>מְלָאכָֽה</big></span><small><sup>[[H4399]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.2|<< Exodus 31:2]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.4|Exodus 31:4 >>]]</td></tr></table>
+
+

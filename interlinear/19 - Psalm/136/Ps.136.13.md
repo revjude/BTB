@@ -1,0 +1,20 @@
+**Psalms 136:13** 
+<small><sub>**KJV:**</sub></small>
+To him which divided the Red sea into parts: for his mercy [endureth] for ever:
+<small><sub>**BSB:**</sub></small>
+He divided the Red Sea in two His loving devotion endures forever.
+<small><sub>**Literal:**</sub></small>
+to  [one who] cut \<of> [the] sea of reed[s] into  pieces for [is] for  ever covenant loyalty  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.12|<< Psalms 136:12]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.14|Psalms 136:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to [one who] cut  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>גֹזֵ֣ר</big></span><small><sup>[[H1504]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> go.Zer<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> [the] sea of  | <span class="ashebrew"><big>יַם</big></span><small><sup>[[H3220G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| yam-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| reed[s]  | <span class="ashebrew"><big>ס֭וּף</big></span><small><sup>[[H5488G]]</sup></small> &#8207;| suf<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into pieces  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>גְזָרִ֑ים</big></span><small><sup>[[H1506]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> g.za.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֖י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] for ever  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עוֹלָ֣ם</big></span><small><sup>[[H5769G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| covenant loyalty his  | <span class="ashebrew"><big>חַסְדּֽ</big></span><small><sup>[[H2617A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| chas.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.12|<< Psalms 136:12]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.14|Psalms 136:14 >>]]</td></tr></table>
+
+

@@ -1,0 +1,7 @@
+<span class="asgreek">γλύμμα</span> <small>***(glumma)***</small> ==**a carving**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==γλύμμα==</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>γλύφω</span>) <b>engraved figure, signet</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Eupolis Comicus 406, 1st c.BC-1st c.AD: Strabo Geographus 14.1.16, “BGU” 86.45 (2nd c.AD)">Refs 5th c.BC+</a>]; <b>inscription,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 11.38 (Polemo Rex), 2nd c.AD: Galenus Medicus 12.773. ">Refs 2nd c.AD+</a>]
+

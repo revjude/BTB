@@ -1,0 +1,19 @@
+**Psalms 97:3** 
+<small><sub>**KJV:**</sub></small>
+A fire goeth before him, and burneth up his enemies round about.
+<small><sub>**BSB:**</sub></small>
+Fire goes before Him and consumes His foes on every side.
+<small><sub>**Literal:**</sub></small>
+fire \<to>  before  him it goes and  it may burn up all around opponents  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.2|<< Psalms 97:2]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.4|Psalms 97:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| fire  | <span class="ashebrew"><big>אֵ֭שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before him  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנָ֣י</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it goes  | <span class="ashebrew"><big>תֵּלֵ֑ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| te.Lekh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it may burn up  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְלַהֵ֖ט</big></span><small><sup>[[H3857]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.la.Het<small><sup>[[HVpu3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all around  | <span class="ashebrew"><big>סָבִ֣יב</big></span><small><sup>[[H5439G]]</sup></small> &#8207;| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| opponents his  | <span class="ashebrew"><big>צָרָֽי</big></span><small><sup>[[H6862C]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tza.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.2|<< Psalms 97:2]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.4|Psalms 97:4 >>]]</td></tr></table>
+
+

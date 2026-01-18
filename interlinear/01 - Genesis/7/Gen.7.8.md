@@ -1,0 +1,28 @@
+**Genesis 7:8** 
+<small><sub>**KJV:**</sub></small>
+Of clean beasts, and of beasts that [are] not clean, and of fowls, and of every thing that creepeth upon the earth,
+<small><sub>**BSB:**</sub></small>
+The clean and unclean animals, the birds, and everything that crawls along the ground
+<small><sub>**Literal:**</sub></small>
+of the  animal[s] \<the>  clean and  of the  animal[s] which not [was]  it clean and  of the  bird[s] and  all that [was] creeping on the  ground<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.7|<< Genesis 7:7]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.9|Genesis 7:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| of  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the animal[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בְּהֵמָה֙</big></span><small><sup>[[H0929]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> clean  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>טְּהוֹרָ֔ה</big></span><small><sup>[[H2889]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> te.ho.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the animal[s]  | <span class="ashebrew"><big>הַ֨</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בְּהֵמָ֔ה</big></span><small><sup>[[H0929]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not [was] it  | <span class="ashebrew"><big>אֵינֶ֖</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>נָּה</big></span><small><sup>[[H9044]]</sup></small> &#8207;| 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clean  | <span class="ashebrew"><big>טְהֹרָ֑ה</big></span><small><sup>[[H2889]]</sup></small> &#8207;| te.ho.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ֨ן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the bird[s]  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ע֔וֹף</big></span><small><sup>[[H5775]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'of<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹ֥ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] creeping  | <span class="ashebrew"><big>רֹמֵ֖שׂ</big></span><small><sup>[[H7430]]</sup></small> &#8207;| ro.Mes<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ground  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲדָמָֽה</big></span><small><sup>[[H0127G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.7|<< Genesis 7:7]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.9|Genesis 7:9 >>]]</td></tr></table>
+
+

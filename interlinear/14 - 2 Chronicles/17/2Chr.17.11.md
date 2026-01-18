@@ -1,0 +1,35 @@
+**2 Chronicles 17:11** 
+<small><sub>**KJV:**</sub></small>
+Also [some] of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats.
+<small><sub>**BSB:**</sub></small>
+Some Philistines also brought gifts and silver as tribute to Jehoshaphat, and the Arabs brought him 7,700 rams and 7,700 goats from their flocks.
+<small><sub>**Literal:**</sub></small>
+and  some of [the] Philistines [were] bringing to  Jehoshaphat tribute and  silver a load also the  Arabs [were] bringing to  him flock[s] rams seven thousand\<s> and  seven hundred\<s> and  male goats seven thousand\<s> and  seven hundred\<s><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.10|<< 2 Chronicles 17:10]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.12|2 Chronicles 17:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and some of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  | <span class="ashebrew"><big>פְּלִשְׁתִּ֗ים</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] bringing  | <span class="ashebrew"><big>מְבִיאִ֧ים</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| me.vi.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Jehoshaphat  | <span class="ashebrew"><big>לִֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוֹשָׁפָ֛ט</big></span><small><sup>[[H3092I]]</sup></small> &#8207;| li.<small><sup>[[HR]]</sup></small> ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tribute  | <span class="ashebrew"><big>מִנְחָ֖ה</big></span><small><sup>[[H4503H]]</sup></small> &#8207;| min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and silver  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֶ֣סֶף</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a load  | <span class="ashebrew"><big>מַשָּׂ֑א</big></span><small><sup>[[H4853A]]</sup></small> &#8207;| ma.Sa'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>גַּ֣ם</big></span><small><sup>[[H1571]]</sup></small> &#8207;| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Arabs  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עַרְבִיאִ֗ים</big></span><small><sup>[[H6163B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'ar.vi.'Im<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] bringing  | <span class="ashebrew"><big>מְבִיאִ֥ים</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| me.vi.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>ל</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flock[s]  | <span class="ashebrew"><big>צֹ֕אן</big></span><small><sup>[[H6629G]]</sup></small> &#8207;| tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rams  | <span class="ashebrew"><big>אֵילִ֔ים</big></span><small><sup>[[H0352A]]</sup></small> &#8207;| 'ei.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שִׁבְעַ֤ת</big></span><small><sup>[[H7651]]</sup></small> &#8207;| shiv.'At<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִים֙</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and seven  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁבַ֣ע</big></span><small><sup>[[H7651]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.Va'<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵא֔וֹת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and male goats  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְיָשִׁ֕ים</big></span><small><sup>[[H8495]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.ya.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שִׁבְעַ֥ת</big></span><small><sup>[[H7651]]</sup></small> &#8207;| shiv.'At<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִ֖ים</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and seven  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁבַ֥ע</big></span><small><sup>[[H7651]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.Va'<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵאֽוֹת</big></span><small><sup>[[H3967]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.10|<< 2 Chronicles 17:10]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.12|2 Chronicles 17:12 >>]]</td></tr></table>
+
+

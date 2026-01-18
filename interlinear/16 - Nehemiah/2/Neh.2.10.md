@@ -1,0 +1,30 @@
+**Nehemiah 2:10** 
+<small><sub>**KJV:**</sub></small>
+When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard [of it], it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel.
+<small><sub>**BSB:**</sub></small>
+But when Sanballat the Horonite and Tobiah the Ammonite official heard about this, they were deeply disturbed that someone had come to seek the well-being of the Israelites.
+<small><sub>**Literal:**</sub></small>
+and  he heard Sanballat the  Horonite and  Tobiah the  servant the  Ammonite and  it was displeasing to  them displeasure great that he had come someone to  seek good for  [the] people of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.9|<< Nehemiah 2:9]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.11|Nehemiah 2:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he heard  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁמַ֞ע</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sanballat  | <span class="ashebrew"><big>סַנְבַלַּ֣ט</big></span><small><sup>[[H5571]]</sup></small> &#8207;| san.va.Lat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Horonite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֹרֹנִ֗י</big></span><small><sup>[[H2772]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> cho.ro.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Tobiah  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>טֽוֹבִיָּה֙</big></span><small><sup>[[H2900I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> toi.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the servant  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֶ֣בֶד</big></span><small><sup>[[H5650]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Ammonite  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עַמֹּנִ֔י</big></span><small><sup>[[H5984H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.mo.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was displeasing  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֥רַע</big></span><small><sup>[[H7489A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| displeasure  | <span class="ashebrew"><big>רָעָ֣ה</big></span><small><sup>[[H7451I]]</sup></small> &#8207;| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>גְדֹלָ֑ה</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had come  | <span class="ashebrew"><big>בָּ֥א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone  | <span class="ashebrew"><big>אָדָ֔ם</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to seek  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בַקֵּ֥שׁ</big></span><small><sup>[[H1245]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> va.Kesh<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  | <span class="ashebrew"><big>טוֹבָ֖ה</big></span><small><sup>[[H2896C]]</sup></small> &#8207;| to.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] people of  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְנֵ֥י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.9|<< Nehemiah 2:9]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.11|Nehemiah 2:11 >>]]</td></tr></table>
+
+

@@ -1,0 +1,28 @@
+**Judges 5:14** 
+<small><sub>**KJV:**</sub></small>
+Out of Ephraim [was there] a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer.
+<small><sub>**BSB:**</sub></small>
+Some came from Ephraim, with their roots in Amalek; Benjamin came with your people after you. The commanders came down from Machir, the bearers of the marshal’s staff from Zebulun.
+<small><sub>**Literal:**</sub></small>
+some of Ephraim root  their [was] in  Amalek after  you Benjamin [was] among  people\<s>  your from Makir they came down commanders and  from  Zebulun [those who] march with  [the] staff of a muster-officer<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.13|<< Judges 5:13]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.15|Judges 5:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| some of  | <span class="ashebrew"><big>מִנִּ֣י</big></span><small><sup>[[H4480A]]</sup></small> &#8207;| mi.Ni<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֗יִם</big></span><small><sup>[[H0669G]]</sup></small> &#8207;| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| root their  | <span class="ashebrew"><big>שָׁרְשָׁ</big></span><small><sup>[[H8328]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| sha.re.Sha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] in Amalek  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲמָלֵ֔ק</big></span><small><sup>[[H6002G]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> 'a.ma.Lek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after you  | <span class="ashebrew"><big>אַחֲרֶ֥י</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'a.cha.Rei.<small><sup>[[HAcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Benjamin  | <span class="ashebrew"><big>בִנְיָמִ֖ין</big></span><small><sup>[[H1144G]]</sup></small> &#8207;| vin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] among people\<s> your  | <span class="ashebrew"><big>בַּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲמָמֶ֑י</big></span><small><sup>[[H5971B]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> 'a.ma.Mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִנִּ֣י</big></span><small><sup>[[H4480A]]</sup></small> &#8207;| mi.Ni<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Makir  | <span class="ashebrew"><big>מָכִ֗יר</big></span><small><sup>[[H4353G]]</sup></small> &#8207;| ma.Khir<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they came down  | <span class="ashebrew"><big>יָֽרְדוּ֙</big></span><small><sup>[[H3381]]</sup></small> &#8207;| ya.re.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| commanders  | <span class="ashebrew"><big>מְחֹ֣קְקִ֔ים</big></span><small><sup>[[H2710]]</sup></small> &#8207;| me.Cho.ke.Kim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from Zebulun  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ֨</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>זְּבוּלֻ֔ן</big></span><small><sup>[[H2074]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Mi.<small><sup>[[HR]]</sup></small> ze.vu.Lun<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] march  | <span class="ashebrew"><big>מֹשְׁכִ֖ים</big></span><small><sup>[[H4900]]</sup></small> &#8207;| mo.she.Khim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with [the] staff of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שֵׁ֥בֶט</big></span><small><sup>[[H7626G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> She.vet<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a muster-officer  | <span class="ashebrew"><big>סֹפֵֽר</big></span><small><sup>[[H5608B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| so.Fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.13|<< Judges 5:13]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.15|Judges 5:15 >>]]</td></tr></table>
+
+

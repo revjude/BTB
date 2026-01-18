@@ -1,0 +1,15 @@
+meaning of: <small>[[G0032G]]</small> 
+
+
+<b> <span class='asgreek'>==ἄγγελος==</span></b>, <span class='asgreek'>ὁ</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>messenger, envoy</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 2.26, etc.; δι᾽ ἀγγέλων ὁμιλέειν τινί 5th c.BC: Herodotus Historicus 5.92.ζ,compare “SIG” 229.25 (from Erythrae):">Refs 8th c.BC+</a>] — proverbial, <span class='asgreek'>Ἀράβιος</span> <span class='asgreek'>ἄ</span>., of a loquacious person, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 32. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>one that announces</b> or <b>tells</b>, e.g. of birds of augury, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 24.292, 296">Refs 8th c.BC+</a>]; <span class='asgreek'>Μουσῶν</span> <span class='asgreek'>==ἄγγελος==</span>, of a poet, [<a href="javascript:void(0)" title=" 6th c.BC: Theognis Elegiacus 769; ἄγγελε ἔαρος.. χελιδοῖ 4th-5th c.BC: Simonides Lyricus 74">Refs 6th c.BC+</a>]; <span class='asgreek'>ἄ</span>. <span class='asgreek'>ἄφθογγος</span>, of a beacon, [<a href="javascript:void(0)" title=" 6th c.BC: Theognis Elegiacus 549 ">Refs 6th c.BC+</a>]; of the nightingale, <span class='asgreek'>ὄρνις</span>.. <span class='asgreek'>Διὸς</span> <span class='asgreek'>ἄ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 149: with \_genitive\_ \_of things\_, ἄ. κακῶν ἐμῶν [prev. author] “Ant.” 277; ἄγγελον γλῶσσαν λόγων 5th c.BC: Euripides Tragicus “Supplices” 203; αἴσθησις ἡμῖν ἄ. 3rd c.AD: Plotinus Philosophus 5.3.3; \_neuter\_ \_plural\_, ἄγγελα νίκης 4th-5th c.AD(?): Nonnus Epicus “Dionysiaca” 34.226. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>angel</b>, [<a href="javascript:void(0)" title=" LXX.Gen.28.12, +others, NT.Matt.1.24, +others, 1st c.AD: Philo Judaeus 2.604, etc. ">LXX+NT+1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> in later philosophical, <b>semi-divine being</b>, <span class='asgreek'>ἡλιακοὶ</span> <span class='asgreek'>ἄ</span>.[<a href="javascript:void(0)" title=" 4th c.AD: Julianus Imperator “Orationes” 4.141b, compare 4th c.AD: Iamblichus Philosophus “de Mysteriis” 2.6, 5th c.AD: Proclus Philosophus ">Refs 4th c.AD+</a>] <b>in R.</b>2.243 K.; <span class='asgreek'>ἄ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>ἀρχάγγελοι</span>[<a href="javascript:void(0)" title=" “Theologumena Arithmeticae” 43.10, compare 5th-6th c.AD: Damascius Philosophus “de Principiis” 183, +others">Refs 5th c.AD+</a>]: also in mystical and magical writings, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Hermes Trismegistus cited in 5th c.AD: Stobaeus, Joannes 1.49.45, “PMag.Lond.” 46.121, etc. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> title of Artemis at Syracuse, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Gen.28.12]] ☩ [[Matt.1.24]]
+</sub></small>

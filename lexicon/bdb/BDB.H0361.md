@@ -1,0 +1,8 @@
+ [<span class="bdbLangHebrew">‎אֵילָם‎</span>] **noun masculine** ==porch== (= <span class="bdbLangHebrew">‎אוּלָם‎</span>), q. v.; only Ezekiel, where [[BDB#Co|Co]] always for <span class="bdbLangHebrew">‎אוּלָם‎</span>, compare [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">αἰλαμ</span>; [[BDB#Bö|Bö]]<sup>NÄ 929</sup>; makes <span class="bdbLangHebrew">‎אילם‎</span> ***vestibule***, <span class="bdbLangHebrew">‎אולם‎</span> ***porch***) — <span class="bdbLangHebrew">‎אֵילָם‎</span> read for <span class="bdbLangHebrew">‎אֵילִים‎</span> [[Ezek.40.37|Ezek 40:37]] (so [[BDB#Sm|Sm]] [[BDB#Co|Co]]); suffix <span class="bdbLangHebrew">‎אילמו‎</span> [[BDB#Kt|Kt]] [[Ezek.40.22|Ezek 40:22]] (twice in verse) + 4 t. ([[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎אֵילַמָּיו‎</span>) + [[Ezek.41.15|Ezek 41:15]] [[BDB#Co|Co]] (for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎אֻלַמֵּי‎</span>); <span class="bdbLangHebrew">‎אלמו‎</span> [[BDB#Kt|Kt]] [[Ezek.40.21|Ezek 40:21]] + 6 t. ([[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎אֵלַמָּיו‎</span>). — [[BDB#Co|Co]] all singular: — plural <span class="bdbLangHebrew">‎אֵלַמּוֺת‎</span> [[Ezek.40.16|Ezek 40:16]] ([[BDB#Co|Co]] singular) v[[Ezek.40.30|Ezek 40:30]] (strike out [[BDB#Co|Co]] compare [[BDB#MSS|MSS]]. of HCT, [[BDB#B|B]] etc., also [[BDB#Ew|Ew]] [[BDB#Hi|Hi]] [[BDB#Sm|Sm]]). — ***porch***, of Ezekiel's temple [[Ezek.40.16|Ezek 40:16]]; [[Ezek.40.21|Ezek 40:21]] + 13 t. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ezekiel | [[Ezek.40.16\|40:16]] · [[Ezek.40.21\|40:21]] · [[Ezek.40.22\|40:22]] · [[Ezek.40.30\|40:30]] · [[Ezek.40.37\|40:37]] · [[Ezek.41.15\|41:15]] |
+

@@ -1,0 +1,26 @@
+**Isaiah 14:21** 
+<small><sub>**KJV:**</sub></small>
+Prepare slaughter for his children for the iniquity of their fathers; that they do not rise, nor possess the land, nor fill the face of the world with cities.
+<small><sub>**BSB:**</sub></small>
+Prepare a place to slaughter his sons for the iniquities of their forefathers. They will never rise up to possess a land or cover the earth with their cities.
+<small><sub>**Literal:**</sub></small>
+prepare for  sons  his a place of slaughter in  [the] iniquity of ancestors  their not they will arise and  they will take possession of [the] earth and  they will fill [the] surface of [the] world cities<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.20|<< Isaiah 14:20]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.22|Isaiah 14:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| prepare  | <span class="ashebrew"><big>הָכִ֧ינוּ</big></span><small><sup>[[H3559A]]</sup></small> &#8207;| ha.Khi.nu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for sons his  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בָנָ֛י</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> va.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a place of slaughter  | <span class="ashebrew"><big>מַטְבֵּ֖חַ</big></span><small><sup>[[H4293]]</sup></small> &#8207;| mat.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] iniquity of  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲוֹ֣ן</big></span><small><sup>[[H5771H]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> 'a.Von<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors their  | <span class="ashebrew"><big>אֲבוֹתָ֑</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>בַּל</big></span><small><sup>[[H1077]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bal-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will arise  | <span class="ashebrew"><big>יָקֻ֙מוּ֙</big></span><small><sup>[[H6965B]]</sup></small> &#8207;| ya.Ku.mu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will take possession of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָ֣רְשׁוּ</big></span><small><sup>[[H3423H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> Ya.re.shu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] earth  | <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will fill  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>מָלְא֥וּ</big></span><small><sup>[[H4390]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> mal.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] surface of  | <span class="ashebrew"><big>פְנֵֽי</big></span><small><sup>[[H6440J]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| fe.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] world  | <span class="ashebrew"><big>תֵבֵ֖ל</big></span><small><sup>[[H8398]]</sup></small> &#8207;| te.Vel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities  | <span class="ashebrew"><big>עָרִֽים</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.20|<< Isaiah 14:20]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.22|Isaiah 14:22 >>]]</td></tr></table>
+
+

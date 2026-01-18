@@ -1,0 +1,26 @@
+**Isaiah 3:8** 
+<small><sub>**KJV:**</sub></small>
+For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings [are] against the LORD, to provoke the eyes of his glory.
+<small><sub>**BSB:**</sub></small>
+For Jerusalem has stumbled and Judah has fallen because they spoke and acted against the LORD, defying His glorious presence.
+<small><sub>**Literal:**</sub></small>
+for it has stumbled Jerusalem and  Judah it has fallen for tongue  their and  deeds  their [are] against Yahweh to  rebel toward [the] eyes of glory  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.7|<< Isaiah 3:7]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.9|Isaiah 3:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has stumbled  | <span class="ashebrew"><big>כָשְׁלָה֙</big></span><small><sup>[[H3782]]</sup></small> &#8207;| kha.she.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  | <span class="ashebrew"><big>יְר֣וּשָׁלִַ֔ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| ye.Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Judah  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יהוּדָ֖ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has fallen  | <span class="ashebrew"><big>נָפָ֑ל</big></span><small><sup>[[H5307G]]</sup></small> &#8207;| na.Fal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tongue their  | <span class="ashebrew"><big>לְשׁוֹנָ֤</big></span><small><sup>[[H3956G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| le.sho.Na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and deeds their  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַֽעַלְלֵי</big></span><small><sup>[[H4611]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] against  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to rebel toward  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מְר֖וֹת</big></span><small><sup>[[H4784]]</sup></small> &#8207;| la<small><sup>[[HR]]</sup></small> m.Rot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] eyes of  | <span class="ashebrew"><big>עֵנֵ֥י</big></span><small><sup>[[H5869I]]</sup></small> &#8207;| 'e.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| glory his  | <span class="ashebrew"><big>כְבוֹדֽ</big></span><small><sup>[[H3519]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| khe.vo.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.7|<< Isaiah 3:7]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.9|Isaiah 3:9 >>]]</td></tr></table>
+
+

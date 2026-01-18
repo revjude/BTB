@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎פְּרִזִּי‎</span></big> **Pᵉrizzîy** <small>*(per-iz-zee')*</small> ==**Perizzite**==  <sup><small>[[TEHMC#N:N--LG|N:N--LG]]</small></sup> 
+<small>for <span class="ashebrew">‎פְּרָזִי‎</span><sup><small>[[H6521]]</small></sup>; inhabitant of the open country</small>
+
+$\quad$ Perizzite.
+- § Perizzite = *"belonging to a village"*
+- ***a Perizzite***, one of the Canaanitish tribes
+
+**1)** a people who inhabited southern Canaan prior to the conquest

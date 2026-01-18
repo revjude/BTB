@@ -1,0 +1,27 @@
+**Isaiah 65:1** 
+<small><sub>**KJV:**</sub></small>
+I am sought of [them that] asked not [for me]; I am found of [them that] sought me not: I said, Behold me, behold me, unto a nation [that] was not called by my name.
+<small><sub>**BSB:**</sub></small>
+“I revealed Myself to those who did not ask for Me; I was found by those who did not seek Me. To a nation that did not call My name, I said, ‘Here I am! Here I am!’
+<small><sub>**Literal:**</sub></small>
+I let myself be consulted by  [those who] not they had asked I let myself be found by  [those who] not they had sought  me I said here [am]  I here [am]  I to a nation [which] not it had been called by  name  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.12|<< Isaiah 64:12]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.2|Isaiah 65:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| I let myself be consulted  | <span class="ashebrew"><big>נִדְרַ֙שְׁתִּי֙</big></span><small><sup>[[H1875]]</sup></small> &#8207;| nid.Rash.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [those who] not  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ל֣וֹא</big></span><small><sup>[[H3808]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had asked  | <span class="ashebrew"><big>שָׁאָ֔לוּ</big></span><small><sup>[[H7592]]</sup></small> &#8207;| sha.'A.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I let myself be found  | <span class="ashebrew"><big>נִמְצֵ֖אתִי</big></span><small><sup>[[H4672]]</sup></small> &#8207;| nim.Tze.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [those who] not  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had sought me  | <span class="ashebrew"><big>בִקְשֻׁ֑</big></span><small><sup>[[H1245]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| vik.Shu.<small><sup>[[HVpp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I said  | <span class="ashebrew"><big>אָמַ֙רְתִּי֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here [am] I  | <span class="ashebrew"><big>הִנֵּ֣</big></span><small><sup>[[H2005]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9040]]</sup></small> &#8207;| hi.Ne.<small><sup>[[HTj]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here [am] I  | <span class="ashebrew"><big>הִנֵּ֔</big></span><small><sup>[[H2005]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9040]]</sup></small> &#8207;| hi.Ne.<small><sup>[[HTj]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a nation  | <span class="ashebrew"><big>גּ֖וֹי</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had been called  | <span class="ashebrew"><big>קֹרָ֥א</big></span><small><sup>[[H7121H]]</sup></small> &#8207;| ko.Ra'<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by name my  | <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁמִֽ</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| vi<small><sup>[[HR]]</sup></small> sh.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.12|<< Isaiah 64:12]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.2|Isaiah 65:2 >>]]</td></tr></table>
+
+

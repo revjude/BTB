@@ -1,0 +1,31 @@
+**Deuteronomy 32:39** 
+<small><sub>**KJV:**</sub></small>
+See now that I, [even] I, [am] he, and [there is] no god with me: I kill, and I make alive; I wound, and I heal: neither [is there any] that can deliver out of my hand.
+<small><sub>**BSB:**</sub></small>
+See now that I am He; there is no God besides Me. I bring death and I give life; I wound and I heal, and there is no one who can deliver from My hand.
+<small><sub>**Literal:**</sub></small>
+see now that I I [am] he and  there not [is] a god with  me I I put to death and  I may restore to life I wound and  I I heal and  there not from  hand  my [is] a deliverer<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.38|<< Deuteronomy 32:38]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.40|Deuteronomy 32:40 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| see  | <span class="ashebrew"><big>רְא֣וּ</big></span><small><sup>[[H7200G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| re.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  | <span class="ashebrew"><big>עַתָּ֗ה</big></span><small><sup>[[H6258]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֤י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִי֙</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] he  | <span class="ashebrew"><big>ה֔וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֥ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a god  | <span class="ashebrew"><big>אֱלֹהִ֖ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with me  | <span class="ashebrew"><big>עִמָּ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>דִ֑י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'i.ma.D<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֧י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I put to death  | <span class="ashebrew"><big>אָמִ֣ית</big></span><small><sup>[[H4191]]</sup></small> &#8207;| 'a.Mit<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I may restore to life  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲחַיֶּ֗ה</big></span><small><sup>[[H2421]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.chai.Yeh<small><sup>[[HVpu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I wound  | <span class="ashebrew"><big>מָחַ֙צְתִּי֙</big></span><small><sup>[[H4272]]</sup></small> &#8207;| ma.Chatz.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲנִ֣י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I heal  | <span class="ashebrew"><big>אֶרְפָּ֔א</big></span><small><sup>[[H7495]]</sup></small> &#8207;| 'er.Pa'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֥ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from hand my  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יָּדִ֖</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ya.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a deliverer  | <span class="ashebrew"><big>מַצִּֽיל</big></span><small><sup>[[H5337]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ma.Tzil<small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.38|<< Deuteronomy 32:38]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.40|Deuteronomy 32:40 >>]]</td></tr></table>
+
+

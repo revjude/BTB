@@ -1,0 +1,23 @@
+**Judges 10:12** 
+<small><sub>**KJV:**</sub></small>
+The Zidonians also, and the Amalekites, and the Maonites, did oppress you; and ye cried to me, and I delivered you out of their hand.
+<small><sub>**BSB:**</sub></small>
+Sidonians, Amalekites, and Maonites oppressed you and you cried out to Me, did I not save you from their hands?
+<small><sub>**Literal:**</sub></small>
+and  [the] Sidonians and  Amalek and  Maon they oppressed \<obj.>  you and  you cried out to  me and  I delivered  ! \<obj.>  you from  hand  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.11|<< Judges 10:11]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.13|Judges 10:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] Sidonians  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צִידוֹנִ֤ים</big></span><small><sup>[[H6722]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tzi.do.Nim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Amalek  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲמָלֵק֙</big></span><small><sup>[[H6002G]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.ma.Lek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Maon  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מָע֔וֹן</big></span><small><sup>[[H4584G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they oppressed  | <span class="ashebrew"><big>לָחֲצ֖וּ</big></span><small><sup>[[H3905]]</sup></small> &#8207;| la.cha.Tzu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  | <span class="ashebrew"><big>אֶתְ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you cried out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּצְעֲק֣וּ</big></span><small><sup>[[H6817]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> titz.'a.Ku<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלַ֔</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I delivered !  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אוֹשִׁ֥יעָ</big></span><small><sup>[[H3467]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'o.Shi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  | <span class="ashebrew"><big>אֶתְ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from hand their  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יָּדָֽ</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.11|<< Judges 10:11]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.13|Judges 10:13 >>]]</td></tr></table>
+
+

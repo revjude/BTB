@@ -1,0 +1,24 @@
+**Ezekiel 23:49** 
+<small><sub>**KJV:**</sub></small>
+And they shall recompense your lewdness upon you, and ye shall bear the sins of your idols: and ye shall know that I [am] the Lord GOD.
+<small><sub>**BSB:**</sub></small>
+They will repay you for your indecency, and you will bear the consequences of your sins of idolatry. Then you will know that I am the Lord GOD.’”
+<small><sub>**Literal:**</sub></small>
+and  people will requite licentiousness  your to  you and  [the] sins of idols  your you will bear and  you will know that I [am the] Lord Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.48|<< Ezekiel 23:48]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.1|Ezekiel 24:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and people will requite  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָתְנ֤וּ</big></span><small><sup>[[H5414N]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.te.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| licentiousness your  | <span class="ashebrew"><big>זִמַּתְ</big></span><small><sup>[[H2154]]</sup></small> <span class="ashebrew"><big>כֶ֙נָה֙</big></span><small><sup>[[H9027]]</sup></small> &#8207;| zi.mat.<small><sup>[[HNcfsc]]</sup></small> Khe.nah<small><sup>[[HSp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>כֶ֔ן</big></span><small><sup>[[H9037]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HSp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sins of  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֲטָאֵ֥י</big></span><small><sup>[[H2399]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> cha.ta.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| idols your  | <span class="ashebrew"><big>גִלּוּלֵי</big></span><small><sup>[[H1544]]</sup></small> <span class="ashebrew"><big>כֶ֖ן</big></span><small><sup>[[H9027]]</sup></small> &#8207;| gi.lu.lei.<small><sup>[[HNcmpc]]</sup></small> Khen<small><sup>[[HSp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will bear  | <span class="ashebrew"><big>תִּשֶּׂ֑אינָה</big></span><small><sup>[[H5375J]]</sup></small> &#8207;| ti.Se.nah<small><sup>[[HVqi2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will know  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>ידַעְתֶּ֕ם</big></span><small><sup>[[H3045]]</sup></small> &#8207;| vi.<small><sup>[[Hc]]</sup></small> da'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֖י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֥י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוִֽה</big></span><small><sup>[[H3069]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.48|<< Ezekiel 23:48]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.1|Ezekiel 24:1 >>]]</td></tr></table>
+
+

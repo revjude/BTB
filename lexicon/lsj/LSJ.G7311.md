@@ -1,0 +1,8 @@
+<span class="asgreek">ἐξεμέω</span> <small>***(exemeō)***</small> ==**to vomit forth**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐξεμέω==</span></b>, 
+
+
+ <i>perfect</i> <span class='asgreek'>ἐξεμήμεκα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Aristides Rhetor “Orationes” 50(26).5 (variant{ἐξημεκώς}), 5th c.AD(?): Hesychius Legal icographus ">Refs 2nd c.AD+</a>]:— <b>vomit forth, disgorge,</b> of Charybdis, <span class='asgreek'>ὅτ᾽</span> <span class='asgreek'>ἐξεμέσειε</span>.. [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 12.237; ὄφρ᾽ ἐξεμέσειεν ὀπίσσω.. [prev. work] 437 ">Refs 8th c.BC+</a>]: <i>aorist 1</i> <span class='asgreek'>ἐξήμησε</span> [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 497 codices; ἐ. τὸ νόσημα 5th-6th c.BC: Plato Philosophus “Respublica” 406d; πάντα ἐ. ἀκριβῶς Diocl.fragment 139; λώπιον μεστὸν ὧν ἐξήμεσε κακῶν “IG” 4.952.128 (Epid.)">Refs 8th c.BC+</a>]: <i>metaphorically</i>, <b>disgorge</b> ill-gotten gains, <span class='asgreek'>τὰ</span> <span class='asgreek'>τάλαντα</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 6; ἅττ᾽ ἂν κεκλόφωσί μου [prev. author] “Eq.” 1148: \_absolutely\_, 4th c.AD: Libanius Sophista “Orationes” 63.22; also νειόθεν ἐξεμέσαι 3rd c.BC: Cercidas Iambographus 4.55 ">Refs 5th c.BC+</a>]; also of <b>rejecting</b> an opinion, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 5.325. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <b>vomit, be sick,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 11. ">Refs 5th c.BC+</a>]

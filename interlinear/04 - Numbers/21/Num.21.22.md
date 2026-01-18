@@ -1,0 +1,30 @@
+**Numbers 21:22** 
+<small><sub>**KJV:**</sub></small>
+Let me pass through thy land: we will not turn into the fields, or into the vineyards; we will not drink [of] the waters of the well: [but] we will go along by the king’s [high] way, until we be past thy borders.
+<small><sub>**BSB:**</sub></small>
+“Let us pass through your land. We will not turn aside into any field or vineyard, or drink water from any well. We will stay on the King’s Highway until we have passed through your territory.”
+<small><sub>**Literal:**</sub></small>
+let me pass in  land  your not we will turn aside in  a field and  in  a vineyard not we will drink water of a well on  [the] way of the  king we will go until that we will pass through territory  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.21|<< Numbers 21:21]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.23|Numbers 21:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| let me pass  | <span class="ashebrew"><big>אֶעְבְּרָ֣ה</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| 'e'.be.Rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in land your  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַרְצֶ֗</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> 'ar.Tze.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֤א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will turn aside  | <span class="ashebrew"><big>נִטֶּה֙</big></span><small><sup>[[H5186]]</sup></small> &#8207;| ni.Teh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a field  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָׂדֶ֣ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in a vineyard  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כֶ֔רֶם</big></span><small><sup>[[H3754]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Khe.rem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will drink  | <span class="ashebrew"><big>נִשְׁתֶּ֖ה</big></span><small><sup>[[H8354]]</sup></small> &#8207;| nish.Teh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water of  | <span class="ashebrew"><big>מֵ֣י</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a well  | <span class="ashebrew"><big>בְאֵ֑ר</big></span><small><sup>[[H0875]]</sup></small> &#8207;| ve.'Er<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] way of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דֶ֤רֶךְ</big></span><small><sup>[[H1870I]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֙לֶךְ֙</big></span><small><sup>[[H4428I]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will go  | <span class="ashebrew"><big>נֵלֵ֔ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ne.Lekh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַ֥ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶֽׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will pass through  | <span class="ashebrew"><big>נַעֲבֹ֖ר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| na.'a.Vor<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| territory your  | <span class="ashebrew"><big>גְּבֻלֶֽ</big></span><small><sup>[[H1366H]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ge.vu.Le.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.21|<< Numbers 21:21]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.23|Numbers 21:23 >>]]</td></tr></table>
+
+

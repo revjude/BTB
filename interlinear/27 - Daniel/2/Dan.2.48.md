@@ -1,0 +1,33 @@
+**Daniel 2:48** 
+<small><sub>**KJV:**</sub></small>
+Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise [men] of Babylon.
+<small><sub>**BSB:**</sub></small>
+Then the king promoted Daniel and gave him many generous gifts. He made him ruler over the entire province of Babylon and chief administrator over all the wise men of Babylon.
+<small><sub>**Literal:**</sub></small>
+then king  the \<obj.>  Daniel he made great and  gifts great many he gave to  him and  he made ruler  him over all [the] province of Babylon and  chief of prefects over all [the] wise men of Babylon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.47|<< Daniel 2:47]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.49|Daniel 2:49 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| then  | <span class="asaramaic"><big>אֱדַ֨יִן</big></span><small><sup>[[H0116]]</sup></small> &#8207;| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  | <span class="asaramaic"><big>מַלְכָּ֜</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> Daniel  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָנִיֵּ֣אל</big></span><small><sup>[[H1841H]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> da.ni.Yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he made great  | <span class="asaramaic"><big>רַבִּ֗י</big></span><small><sup>[[H7236]]</sup></small> &#8207;| ra.Bi<small><sup>[[AVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gifts  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>מַתְּנָ֨ן</big></span><small><sup>[[H4978]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> ma.te.Nan<small><sup>[[ANcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="asaramaic"><big>רַבְרְבָ֤ן</big></span><small><sup>[[H7260]]</sup></small> &#8207;| rav.re.Van<small><sup>[[AAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  | <span class="asaramaic"><big>שַׂגִּיאָן֙</big></span><small><sup>[[H7690]]</sup></small> &#8207;| sa.gi.'An<small><sup>[[AAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he gave  | <span class="asaramaic"><big>יְהַב</big></span><small><sup>[[H3052]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ye.hav-<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>לֵ֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| Le<small><sup>[[AR]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he made ruler him  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>הַ֨שְׁלְטֵ֔</big></span><small><sup>[[H7981]]</sup></small> <span class="asaramaic"><big>הּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> Hash.le.Te<small><sup>[[AVhp3ms]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="asaramaic"><big>עַ֖ל</big></span><small><sup>[[H5922]]</sup></small> &#8207;| 'al<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="asaramaic"><big>כָּל</big></span><small><sup>[[H3606]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] province of  | <span class="asaramaic"><big>מְדִינַ֣ת</big></span><small><sup>[[H4083]]</sup></small> &#8207;| me.di.Nat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="asaramaic"><big>בָּבֶ֑ל</big></span><small><sup>[[H0895]]</sup></small> &#8207;| ba.Vel<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and chief of  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>רַב</big></span><small><sup>[[H7229]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> rav-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prefects  | <span class="asaramaic"><big>סִגְנִ֔ין</big></span><small><sup>[[H5460]]</sup></small> &#8207;| sig.Nin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="asaramaic"><big>עַ֖ל</big></span><small><sup>[[H5922]]</sup></small> &#8207;| 'al<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="asaramaic"><big>כָּל</big></span><small><sup>[[H3606]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wise men of  | <span class="asaramaic"><big>חַכִּימֵ֥י</big></span><small><sup>[[H2445]]</sup></small> &#8207;| cha.ki.Mei<small><sup>[[AAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="asaramaic"><big>בָבֶֽל</big></span><small><sup>[[H0895]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.Vel<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.47|<< Daniel 2:47]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.49|Daniel 2:49 >>]]</td></tr></table>
+
+

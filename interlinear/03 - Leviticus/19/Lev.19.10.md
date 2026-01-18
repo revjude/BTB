@@ -1,0 +1,27 @@
+**Leviticus 19:10** 
+<small><sub>**KJV:**</sub></small>
+And thou shalt not glean thy vineyard, neither shalt thou gather [every] grape of thy vineyard; thou shalt leave them for the poor and stranger: I [am] the LORD your God.
+<small><sub>**BSB:**</sub></small>
+You must not strip your vineyard bare or gather its fallen grapes. Leave them for the poor and the foreigner. I am the LORD your God.
+<small><sub>**Literal:**</sub></small>
+and  vineyard  your not you will glean and  [the] fallen grape[s] of vineyard  your not you will gather for the  poor [person] and  for the  sojourner you will leave \<obj.>  them I [am] Yahweh God  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.9|<< Leviticus 19:9]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.11|Leviticus 19:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and vineyard your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כַרְמְ</big></span><small><sup>[[H3754]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khar.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will glean  | <span class="ashebrew"><big>תְעוֹלֵ֔ל</big></span><small><sup>[[H5953B]]</sup></small> &#8207;| te.'o.Lel<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] fallen grape[s] of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פֶ֥רֶט</big></span><small><sup>[[H6528]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Fe.ret<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vineyard your  | <span class="ashebrew"><big>כַּרְמְ</big></span><small><sup>[[H3754]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| kar.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will gather  | <span class="ashebrew"><big>תְלַקֵּ֑ט</big></span><small><sup>[[H3950]]</sup></small> &#8207;| te.la.Ket<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the poor [person]  | <span class="ashebrew"><big>לֶֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עָנִ֤י</big></span><small><sup>[[H6041]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for the sojourner  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>גֵּר֙</big></span><small><sup>[[H1616]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> Ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will leave  | <span class="ashebrew"><big>תַּעֲזֹ֣ב</big></span><small><sup>[[H5800A]]</sup></small> &#8207;| ta.'a.Zo<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אֹתָ֔</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֖י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלֹהֵי</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.9|<< Leviticus 19:9]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.11|Leviticus 19:11 >>]]</td></tr></table>
+
+

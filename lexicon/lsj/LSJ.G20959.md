@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==περιτήκω==</span>-<span class='asgreek'>τήκω</span></b>, 
+
+
+ <b>melt, melt away</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>σίδηρον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ διαίτης” 1.13 ">Refs 5th c.BC+</a>]; <b>wash away</b>, <span class='asgreek'>γῆν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Critias” 112a; τῶν σωμάτων τὰ νοσερά 1st c.AD: Herodotus Medicus cited in 4th c.AD: Oribasius Medicus 10.40.1:">Refs 5th c.BC+</a>] —<i>passive</i>, with <i>perfect</i> -<span class='asgreek'>τέτηκα</span>, <b>melt entirely, melt away</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>χιὼν</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.648c; ==περιτήκω==τετηγμένον ὀστέων πῆγμα LXX.4Mac.9.21 ">LXX+1st c.AD+</a>]; <b>become emaciated</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “προρρητικόν” 2.6, 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 2.13 ">Refs 5th c.BC+</a>]; <b>to be washed away</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Mirabilia” 833b7. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>τι</span> <span class='asgreek'>καττιτέρῳ</span> <span class='asgreek'>π</span>. <b>cover with a coat</b> of tin, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Critias” 116b. ">Refs 5th c.BC+</a>]

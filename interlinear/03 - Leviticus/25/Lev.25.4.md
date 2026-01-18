@@ -1,0 +1,27 @@
+**Leviticus 25:4** 
+<small><sub>**KJV:**</sub></small>
+But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard.
+<small><sub>**BSB:**</sub></small>
+But in the seventh year there shall be a Sabbath of complete rest for the land—a Sabbath to the LORD. You are not to sow your field or prune your vineyard.
+<small><sub>**Literal:**</sub></small>
+and  in the  year \<the>  seventh a sabbath of sabbath observance it will belong to the  land a sabbath to  Yahweh field  your not you will sow and  vineyard  your not you will prune<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.3|<< Leviticus 25:3]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.5|Leviticus 25:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and in the year  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׁנָ֣ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> seventh  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁבִיעִ֗ת</big></span><small><sup>[[H7637]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.vi.'It<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sabbath of  | <span class="ashebrew"><big>שַׁבַּ֤ת</big></span><small><sup>[[H7676]]</sup></small> &#8207;| sha.Bat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sabbath observance  | <span class="ashebrew"><big>שַׁבָּתוֹן֙</big></span><small><sup>[[H7677]]</sup></small> &#8207;| sha.ba.tOn<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will belong  | <span class="ashebrew"><big>יִהְיֶ֣ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the land  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sabbath  | <span class="ashebrew"><big>שַׁבָּ֖ת</big></span><small><sup>[[H7676]]</sup></small> &#8207;| sha.Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| field your  | <span class="ashebrew"><big>שָֽׂדְ</big></span><small><sup>[[H7704G]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| sa.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will sow  | <span class="ashebrew"><big>תִזְרָ֔ע</big></span><small><sup>[[H2232]]</sup></small> &#8207;| tiz.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and vineyard your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כַרְמְ</big></span><small><sup>[[H3754]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khar.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will prune  | <span class="ashebrew"><big>תִזְמֹֽר</big></span><small><sup>[[H2168]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tiz.Mor<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.3|<< Leviticus 25:3]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.5|Leviticus 25:5 >>]]</td></tr></table>
+
+

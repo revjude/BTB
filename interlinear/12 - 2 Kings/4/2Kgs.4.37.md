@@ -1,0 +1,23 @@
+**2 Kings 4:37** 
+<small><sub>**KJV:**</sub></small>
+Then she went in, and fell at his feet, and bowed herself to the ground, and took up her son, and went out.
+<small><sub>**BSB:**</sub></small>
+She came in, fell at his feet, and bowed to the ground. Then she picked up her son and went out.
+<small><sub>**Literal:**</sub></small>
+and  she came and  she fell at feet  his and  she bowed down [the] ground  towards and  she took up \<obj.> son  her and  she went out<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.36|<< 2 Kings 4:36]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.38|2 Kings 4:38 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תָּבֹא֙</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she fell  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּפֹּ֣ל</big></span><small><sup>[[H5307G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ti.Pol<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet his  | <span class="ashebrew"><big>רַגְלָ֔י</big></span><small><sup>[[H7272]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| rag.La<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she bowed down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּשְׁתַּ֖חוּ</big></span><small><sup>[[H7812]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tish.Ta.chu<small><sup>[[HVvw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ground towards  | <span class="ashebrew"><big>אָ֑רְצָ</big></span><small><sup>[[H0776H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| 'A.re.tza<small><sup>[[HNcfsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she took up  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּשָּׂ֥א</big></span><small><sup>[[H5375G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ti.Sa'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son her  | <span class="ashebrew"><big>בְּנָ֖</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| be.Na<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she went out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֵּצֵֽא</big></span><small><sup>[[H3318G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.Tze'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.36|<< 2 Kings 4:36]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.38|2 Kings 4:38 >>]]</td></tr></table>
+
+

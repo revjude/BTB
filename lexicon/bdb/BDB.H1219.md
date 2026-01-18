@@ -1,0 +1,30 @@
+ [<span class="bdbLangHebrew">‎בָּצַר‎</span>] **verb** ==cut off, make inaccessible== (especially by fortifying), enclose (Late Hebrew ***id.***, Aramaic <span class="bdbLangAramaic">‎בְּצַר‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHwAhAIAAAP///wAAACH5BAAAAAAALAAAAAAfACEAAAJYhI+pyxsPYJvp2UCzubrb7mFgJo2KaE5f2pTsm3KqzFxuZd9HPvOnDaIhgBshDjUs5ZbGnZLJdNxW0JougoQltVLu0ZvMeldgrNiUJbPI11GUuwQ3y3RWAQA7"> (Pa\`el ***diminish, substract***), perhaps compare Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIwAeAIAAAP///wAAACH5BAAAAAAALAAAAAAjAB4AAAJehI+py+0Po5wn2MCu0woD33GhaFgliGBmhlbempCp2p5wXM+3tFP+DwwKh70hLke5tJRCZa7oWoqQSNvHttrRNs6u1/mYvrofZrhqlPmqUN5TvR6hf2Sjrm3P6/f2AgA7"> ***side, edge***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJwAdAIAAAP///wAAACH5BAAAAAAALAAAAAAnAB0AAAJghI+py+0YYnjUyAlnrE+CfYAgp1xYZp1kci3tyowuTNf2jcc55+2dvOtlVDcT8XNcbURHoAP4Qp6ilKXxaoRptlKTtJb0lWzORrlyLoXFqbVYmEtSyfAszt52k9Lsvq0AADs=">, etc., ***rough stone***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhTwAjAIAAAP///wAAACH5BAAAAAAALAAAAABPACMAAALXhI+py+0Po5yUhluz1reHDYbO14nmeXgfym5lC2dejK6S+mB0Pic9YOO9REHhAlfRHSe/HFCZWkGLCqSh2cAKoVepjXtUWndbBNhIthTP5mc6STXHU+73jd21w/D1MPA0RIaHMQdXyMIXCKGlaNjYF3boM/ZExRdFmZd16aZi+ZnV5cUw2DT1cwrG5kkiFlSIxSor6xfJKtdG2jjj1Xpba7v7ytEyGME5IjmneoYsyaP7CInZ+zytFpcZFaxdZe1tHOJ5jDwprWd7140OXs7Osf5eI08fUQAAOw=="> ***land in which are sharp stones*** (compare [[BDB#Lane|Lane]])) — 
+
+**Qal** ***Imperfect*** <span class="bdbLangHebrew">‎יִבְצֹר‎</span> [[Ps.76.13|Ps 76:13]] 2 masculine singular <span class="bdbLangHebrew">‎תִּבְצֹר‎</span> [[Lev.25.5|Lev 25:5]]; [[Deut.24.21|Deut 24:21]], <span class="bdbLangHebrew">‎וַיִּבְצְרוּ‎</span> [[Judg.9.27|Judg 9:27]], <span class="bdbLangHebrew">‎תִּבְצְרוּ‎</span> [[Lev.25.11|Lev 25:11]] ***Participle*** active <span class="bdbLangHebrew">‎בּוֺצֵר‎</span> [[Jer.6.9|Jer 6:9]], <span class="bdbLangHebrew">‎בֹּצְרִים‎</span> [[Jer.49.9|Jer 49:9]]; [[Obad.1.5|Obad 1:5]] passive masculine <span class="bdbLangHebrew">‎בָּצוּר‎</span> [[Zech.11.2|Zech 11:2]] [[BDB#Kt|Kt]] ([[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎בָּצִיר‎</span>), feminine <span class="bdbLangHebrew">‎בְּצוּרָה‎</span> [[Isa.2.15|Isa 2:15]] + 3 t. + [[Ezek.21.25|Ezek 21:25]] see below; plural feminine <span class="bdbLangHebrew">‎בְּצוּרוֺת‎</span> [[Ezek.36.35|Ezek 36:35]], <span class="bdbLangHebrew">‎בְּצֻרוֺת‎</span> [[Num.13.28|Num 13:28]] + 14 t., <span class="bdbLangHebrew">‎בְּצוּרֹת‎</span> [[Deut.1.28|Deut 1:28]]; [[Neh.9.25|Neh 9:25]], <span class="bdbLangHebrew">‎בְּצֻרֹת‎</span> [[Deut.3.5|Deut 3:5]]; [[Deut.9.1|Deut 9:1]] — ***cut off***, grape-clusters, <span class="bdbLangHebrew">‎ענבים‎</span> [[Lev.25.5|Lev 25:5]], compare v[[Lev.25.11|Lev 25:11]] (object <span class="bdbLangHebrew">‎נזיר‎</span>), [[Deut.24.21|Deut 24:21]]; [[Judg.9.27|Judg 9:27]] (object in both, <span class="bdbLangHebrew">‎כרם‎</span>); hence Participle active ***grape-gathering, -gatherer*** [[Jer.6.9|Jer 6:9]]; [[Jer.49.9|Jer 49:9]]; [[Obad.1.5|Obad 1:5]] figurative ***cut off*** (= take away) [[Ps.76.13|Ps 76:13]] (object <span class="bdbLangHebrew">‎רות נגידים‎</span>); most often Passive participle ***cut off, made inaccessible***, [[BDB#De|De]] [[Isa.2.15|Isa 2:15]] = ***fortified***, always f.; generally adjective with <span class="bdbLangHebrew">‎עיר‎</span>, <span class="bdbLangHebrew">‎ערים‎</span>; [[Num.13.28|Num 13:28]]; [[Deut.1.28|Deut 1:28]]; [[Deut.3.5|Deut 3:5]]; [[Deut.9.1|Deut 9:1]]; [[Josh.14.12|Josh 14:12]]; [[2Sam.20.6|2Sam 20:6]]; [[2Kgs.18.13|2Kgs 18:13]] = [[Isa.36.1|Isa 36:1]]; [[2Kgs.19.25|2Kgs 19:25]] = [[Isa.37.26|Isa 37:26]]; [[2Chr.17.2|2Chr 17:2]]; [[2Chr.19.5|2Chr 19:5]]; [[2Chr.32.1|2Chr 32:1]]; [[2Chr.33.14|2Chr 33:14]]; [[Neh.9.25|Neh 9:25]]; [[Isa.25.2|Isa 25:2]]; [[Isa.27.10|Isa 27:10]]; [[Ezek.36.35|Ezek 36:35]]; [[Hos.8.14|Hos 8:14]]; [[Zeph.1.16|Zeph 1:16]] rarely with <span class="bdbLangHebrew">‎חומה‎</span> [[Deut.28.52|Deut 28:52]]; [[Isa.2.15|Isa 2:15]]; [[Jer.15.20|Jer 15:20]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יער הב‎</span> [[Zech.11.2|Zech 11:2]] (read [[BDB#Kt|Kt]]); once, substantive of ***secrets, mysteries*** (= unattainable things) [[Jer.33.3|Jer 33:3]] — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ב‎</span> [[Ezek.21.25|Ezek 21:25]] [[BDB#Sept|ᵐ5]] [[BDB#Sm|Sm]] [[BDB#Co|Co]] <span class="bdbLangHebrew">‎בְּתוֺכָהּ‎</span>, doubtless right. **Niph\`al** ***Imperfect*** <span class="bdbLangHebrew">‎יִבָּצֵר‎</span> ***be withheld*** [[Gen.11.6|Gen 11:6]] (<span class="bdbLangHebrew">‎מֵהֶם‎</span>), [[Job.42.2|Job 42:2]] (<span class="bdbLangHebrew">‎מִמְּךָ‎</span>). **Pi\`el** ***Imperfect*** 3 feminine singular <span class="bdbLangHebrew">‎תְּבַצֵּר‎</span> [[Jer.51.53|Jer 51:53]] ***fortify***; so ***Infinitive*** <span class="bdbLangHebrew">‎לְבַּצֵר‎</span> [[Isa.22.10|Isa 22:10]]. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.11.6\|11:6]] |
+| Leviticus | [[Lev.25.5\|25:5]] · [[Lev.25.11\|25:11]] |
+| Numbers | [[Num.13.28\|13:28]] |
+| Deuteronomy | [[Deut.1.28\|1:28]] · [[Deut.3.5\|3:5]] · [[Deut.9.1\|9:1]] · [[Deut.24.21\|24:21]] · [[Deut.28.52\|28:52]] |
+| Joshua | [[Josh.14.12\|14:12]] |
+| Judges | [[Judg.9.27\|9:27]] |
+| 2 Samuel | [[2Sam.20.6\|20:6]] |
+| 2 Kings | [[2Kgs.18.13\|18:13]] · [[2Kgs.19.25\|19:25]] |
+| 2 Chronicles | [[2Chr.17.2\|17:2]] · [[2Chr.19.5\|19:5]] · [[2Chr.32.1\|32:1]] · [[2Chr.33.14\|33:14]] |
+| Nehemiah | [[Neh.9.25\|9:25]] |
+| Job | [[Job.42.2\|42:2]] |
+| Psalms | [[Ps.76.13\|76:13]] |
+| Isaiah | [[Isa.2.15\|2:15]] · [[Isa.22.10\|22:10]] · [[Isa.25.2\|25:2]] · [[Isa.27.10\|27:10]] · [[Isa.36.1\|36:1]] · [[Isa.37.26\|37:26]] |
+| Jeremiah | [[Jer.6.9\|6:9]] · [[Jer.15.20\|15:20]] · [[Jer.33.3\|33:3]] · [[Jer.49.9\|49:9]] · [[Jer.51.53\|51:53]] |
+| Ezekiel | [[Ezek.21.25\|21:25]] · [[Ezek.36.35\|36:35]] |
+| Hosea | [[Hos.8.14\|8:14]] |
+| Obadiah | [[Obad.1.5\|1:5]] |
+| Zephaniah | [[Zeph.1.16\|1:16]] |
+| Zechariah | [[Zech.11.2\|11:2]] |
+

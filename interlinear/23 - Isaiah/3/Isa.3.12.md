@@ -1,0 +1,25 @@
+**Isaiah 3:12** 
+<small><sub>**KJV:**</sub></small>
+[As for] my people, children [are] their oppressors, and women rule over them. O my people, they which lead thee cause [thee] to err, and destroy the way of thy paths.
+<small><sub>**BSB:**</sub></small>
+Youths oppress My people, and women rule over them. O My people, your guides mislead you; they turn you from your paths.
+<small><sub>**Literal:**</sub></small>
+people  my oppressors  its [is] acting like children and  women they have ruled over  it O people  my guides  your [are] misleading and  [the] way of paths  your they have confused<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.11|<< Isaiah 3:11]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.13|Isaiah 3:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| people my  | <span class="ashebrew"><big>עַמִּ</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| oppressors its  | <span class="ashebrew"><big>נֹגְשָׂ֣י</big></span><small><sup>[[H5065]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| no.ge.Sa<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] acting like children  | <span class="ashebrew"><big>מְעוֹלֵ֔ל</big></span><small><sup>[[H5953C]]</sup></small> &#8207;| me.'o.Lel<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and women  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נָשִׁ֖ים</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have ruled  | <span class="ashebrew"><big>מָ֣שְׁלוּ</big></span><small><sup>[[H4910]]</sup></small> &#8207;| Ma.she.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over it  | <span class="ashebrew"><big>ב֑</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| v<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O people my  | <span class="ashebrew"><big>עַמִּ</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| guides your  | <span class="ashebrew"><big>מְאַשְּׁרֶ֣י</big></span><small><sup>[[H0833]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| me.'a.she.Rei.<small><sup>[[HVprmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] misleading  | <span class="ashebrew"><big>מַתְעִ֔ים</big></span><small><sup>[[H8582]]</sup></small> &#8207;| mat.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] way of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דֶ֥רֶךְ</big></span><small><sup>[[H1870G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| paths your  | <span class="ashebrew"><big>אֹֽרְחֹתֶ֖י</big></span><small><sup>[[H0734]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'o.re.cho.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have confused  | <span class="ashebrew"><big>בִּלֵּֽעוּ</big></span><small><sup>[[H1104]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| bi.Le.'u<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.11|<< Isaiah 3:11]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.13|Isaiah 3:13 >>]]</td></tr></table>
+
+

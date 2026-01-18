@@ -1,0 +1,23 @@
+**1 Chronicles 5:16** 
+<small><sub>**KJV:**</sub></small>
+And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders.
+<small><sub>**BSB:**</sub></small>
+They lived in Gilead, in Bashan and its towns, and throughout the pasturelands of Sharon.
+<small><sub>**Literal:**</sub></small>
+and  they dwelt in \<the>  Gilead in \<the>  Bashan and  in  daughters  its and  in  all [the] pasture lands of Sharon on extremities  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.15|<< 1 Chronicles 5:15]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.17|1 Chronicles 5:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they dwelt  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּֽשְׁב֛וּ</big></span><small><sup>[[H3427]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.she.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> Gilead  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גִּלְעָ֥ד</big></span><small><sup>[[H1568G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> Bashan  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בָּשָׁ֖ן</big></span><small><sup>[[H1316]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> ba.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in daughters its  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בְנֹתֶ֑י</big></span><small><sup>[[H1323H]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> v.no.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in all  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָֽל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pasture lands of  | <span class="ashebrew"><big>מִגְרְשֵׁ֥י</big></span><small><sup>[[H4054]]</sup></small> &#8207;| mig.re.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sharon  | <span class="ashebrew"><big>שָׁר֖וֹן</big></span><small><sup>[[H8289H]]</sup></small> &#8207;| sha.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| extremities their  | <span class="ashebrew"><big>תּוֹצְאוֹתָֽ</big></span><small><sup>[[H8444]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;[^1] | totz.'o.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad Aleppo (biblia benchayim)">LA(bh)</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.15|<< 1 Chronicles 5:15]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.17|1 Chronicles 5:17 >>]]</td></tr></table>
+
+[^1]: ==BH== spelled: **<span class="ashebrew"><big>תוֹצְאוֹתָֽם\׃</big></span>**
+

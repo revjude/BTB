@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==βούλημα==</span>-<span class='asgreek'>ημα</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ <b>purpose</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Gorgias Rhetor et Sophista “Hel.” 6 (\_plural\_), 5th-6th c.BC: Aristophanes Comicus “Aves” 993, 5th-6th c.BC: Isocrates Orator 3.15, 4th c.BC: Demosthenes Orator 18.49 (\_plural\_)">Refs 5th c.BC+</a>]; <b>intent</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>νομοθέτου</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 769d, 802c (\_plural\_), +others">Refs 5th c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>β</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>κρίσεως</span> <b>intention</b> to judge, [<a href="javascript:void(0)" title=" [prev. author] “Phlb.” 41e: \_plural\_, βουλήμασι Μοίρης “IG” 12(7).303. ">Refs</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>meaning</b>, <span class='asgreek'>οὐδεὶς</span> <span class='asgreek'>σαφῶς</span> <span class='asgreek'>παρέδωκε</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>β</span>. [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 18.1; τὸ β. τοῦ ποιητοῦ 2nd c.BC: Hipparchus Astronomicus 1.4.9, +others ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>intention of a testator</b>, [<a href="javascript:void(0)" title=" “BGU” 361ii 23 (2nd c.AD)">Refs 2nd c.AD+</a>]: hence, <b>will, testament,</b> [<a href="javascript:void(0)" title=" POxy. 907.1 (3rd c.AD), “PLips.” 29.7 (3rd c.AD). ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>express will, consent</b>, <span class='asgreek'>τῆς</span> <span class='asgreek'>συγκλήτου</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.15.4. ">Refs 2nd c.BC+</a>]

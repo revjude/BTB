@@ -1,0 +1,29 @@
+**Judges 4:20** 
+<small><sub>**KJV:**</sub></small>
+Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and inquire of thee, and say, Is there any man here? that thou shalt say, No.
+<small><sub>**BSB:**</sub></small>
+“Stand at the entrance to the tent,” he said, “and if anyone comes and asks you, ‘Is there a man here?’ say, ‘No.’”
+<small><sub>**Literal:**</sub></small>
+and  he said to  her stand [the] opening of the  tent and  it will be if anyone he will come and  he will ask  you and  he will say ¿  [is] there here anyone and  you will say no<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.19|<< Judges 4:19]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.21|Judges 4:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to her  | <span class="ashebrew"><big>אֵלֶ֔י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'e.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stand  | <span class="ashebrew"><big>עֲמֹ֖ד</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| 'a.Mod<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] opening of  | <span class="ashebrew"><big>פֶּ֣תַח</big></span><small><sup>[[H6607]]</sup></small> &#8207;| Pe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tent  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֹ֑הֶל</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'O.hel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָה֩</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  | <span class="ashebrew"><big>אִ֨ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will come  | <span class="ashebrew"><big>יָב֜וֹא</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will ask you  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שְׁאֵלֵ֗</big></span><small><sup>[[H7592]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> she.'e.Le<small><sup>[[HVqq3ms]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will say  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָמַ֛ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Mar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ [is] there  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>יֵֽשׁ</big></span><small><sup>[[H3426]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> yesh-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here  | <span class="ashebrew"><big>פֹּ֥ה</big></span><small><sup>[[H6311]]</sup></small> &#8207;| poh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  | <span class="ashebrew"><big>אִ֖ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will say  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָמַ֥רְתְּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Mart<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| no  | <span class="ashebrew"><big>אָֽיִן</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'A.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.19|<< Judges 4:19]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.21|Judges 4:21 >>]]</td></tr></table>
+
+

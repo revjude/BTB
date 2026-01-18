@@ -1,0 +1,26 @@
+**Zechariah 9:14** 
+<small><sub>**KJV:**</sub></small>
+And the LORD shall be seen over them, and his arrow shall go forth as the lightning: and the Lord GOD shall blow the trumpet, and shall go with whirlwinds of the south.
+<small><sub>**BSB:**</sub></small>
+Then the LORD will appear over them, and His arrow will go forth like lightning. The Lord GOD will sound the ram’s horn and advance in the whirlwinds of the south.
+<small><sub>**Literal:**</sub></small>
+and  Yahweh over  them he will appear and  it will go forth like \<the>  lightning arrow  his and  [the] Lord Yahweh on the  ram's horn he will give a blast and  he will go in  [the] storm winds of [the] south<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.13|<< Zechariah 9:13]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.15|Zechariah 9:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Yahweh  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over them  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הֶ֣ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will appear  | <span class="ashebrew"><big>יֵֽרָאֶ֔ה</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ye.ra.'Eh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will go forth  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָצָ֥א</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ya.Tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> lightning  | <span class="ashebrew"><big>כַ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>בָּרָ֖ק</big></span><small><sup>[[H1300B]]</sup></small> &#8207;| kha.<small><sup>[[HRd]]</sup></small> ba.Rak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arrow his  | <span class="ashebrew"><big>חִצּ֑</big></span><small><sup>[[H2671]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| chi.Tz<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] Lord  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אדֹנָ֤י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהֹוִה֙</big></span><small><sup>[[H3069]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the ram's horn  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שּׁוֹפָ֣ר</big></span><small><sup>[[H7782]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will give a blast  | <span class="ashebrew"><big>יִתְקָ֔ע</big></span><small><sup>[[H8628]]</sup></small> &#8207;| yit.Ka'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will go  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָלַ֖ךְ</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Lakh<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] storm winds of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>סַעֲר֥וֹת</big></span><small><sup>[[H5591B]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> sa.'a.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] south  | <span class="ashebrew"><big>תֵּימָֽן</big></span><small><sup>[[H8486]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tei.Man<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.13|<< Zechariah 9:13]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.15|Zechariah 9:15 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**Hosea 13:3** 
+<small><sub>**KJV:**</sub></small>
+Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff [that] is driven with the whirlwind out of the floor, and as the smoke out of the chimney.
+<small><sub>**BSB:**</sub></small>
+Therefore they will be like the morning mist, like the early dew that vanishes, like chaff blown from a threshing floor, like smoke through an open window.
+<small><sub>**Literal:**</sub></small>
+\<to>  therefore they will become like  a cloud of [the] morning and  like \<the>  dew rising early going like  chaff [which] it is storm-driven from  a threshing floor and  like  smoke from  a window<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.2|<< Hosea 13:2]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.4|Hosea 13:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| \<to> therefore  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֵ֗ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will become  | <span class="ashebrew"><big>יִֽהְיוּ֙</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a cloud of  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֲנַן</big></span><small><sup>[[H6051]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.nan-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] morning  | <span class="ashebrew"><big>בֹּ֔קֶר</big></span><small><sup>[[H1242]]</sup></small> &#8207;| Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like \<the> dew  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כַ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>טַּ֖ל</big></span><small><sup>[[H2919]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HRd]]</sup></small> Tal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rising early  | <span class="ashebrew"><big>מַשְׁכִּ֣ים</big></span><small><sup>[[H7925]]</sup></small> &#8207;| mash.Kim<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| going  | <span class="ashebrew"><big>הֹלֵ֑ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like chaff  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מֹץ֙</big></span><small><sup>[[H4671]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> Motz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] it is storm-driven  | <span class="ashebrew"><big>יְסֹעֵ֣ר</big></span><small><sup>[[H5590]]</sup></small> &#8207;| ye.so.'Er<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a threshing floor  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>גֹּ֔רֶן</big></span><small><sup>[[H1637]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Go.ren<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like smoke  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עָשָׁ֖ן</big></span><small><sup>[[H6227]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> 'a.Shan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a window  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֲרֻבָּֽה</big></span><small><sup>[[H0699]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'a.ru.Bah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.2|<< Hosea 13:2]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.4|Hosea 13:4 >>]]</td></tr></table>
+
+

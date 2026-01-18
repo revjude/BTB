@@ -1,0 +1,30 @@
+**Isaiah 5:27** 
+<small><sub>**KJV:**</sub></small>
+None shall be weary nor stumble among them; none shall slumber nor sleep; neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken:
+<small><sub>**BSB:**</sub></small>
+None of them grows weary or stumbles; no one slumbers or sleeps. No belt is loose and no sandal strap is broken.
+<small><sub>**Literal:**</sub></small>
+there not [is] a weary [one] and  there not [is one who] stumbles among  it not anyone will slumber and  not anyone will sleep and  not it has been opened [the] waistband of loins  its and  not it has been torn apart a thong of sandals  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.26|<< Isaiah 5:26]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.28|Isaiah 5:28 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| there not  | <span class="ashebrew"><big>אֵין</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a weary [one]  | <span class="ashebrew"><big>עָיֵ֤ף</big></span><small><sup>[[H5889]]</sup></small> &#8207;| 'a.Yef<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵין</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is one who] stumbles  | <span class="ashebrew"><big>כּוֹשֵׁל֙</big></span><small><sup>[[H3782]]</sup></small> &#8207;| ko.Shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among it  | <span class="ashebrew"><big>בּ֔</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone will slumber  | <span class="ashebrew"><big>יָנ֖וּם</big></span><small><sup>[[H5123]]</sup></small> &#8207;| ya.Num<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone will sleep  | <span class="ashebrew"><big>יִישָׁ֑ן</big></span><small><sup>[[H3462]]</sup></small> &#8207;| yi.Shan<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֤א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been opened  | <span class="ashebrew"><big>נִפְתַּח֙</big></span><small><sup>[[H6605A]]</sup></small> &#8207;| nif.Tach<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] waistband of  | <span class="ashebrew"><big>אֵז֣וֹר</big></span><small><sup>[[H0232]]</sup></small> &#8207;| 'e.Zor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| loins its  | <span class="ashebrew"><big>חֲלָצָ֔י</big></span><small><sup>[[H2504]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| cha.la.Tza<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been torn apart  | <span class="ashebrew"><big>נִתַּ֖ק</big></span><small><sup>[[H5423]]</sup></small> &#8207;| ni.Tak<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a thong of  | <span class="ashebrew"><big>שְׂר֥וֹךְ</big></span><small><sup>[[H8288]]</sup></small> &#8207;| se.Rokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sandals its  | <span class="ashebrew"><big>נְעָלָֽי</big></span><small><sup>[[H5275]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ne.'a.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.26|<< Isaiah 5:26]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.28|Isaiah 5:28 >>]]</td></tr></table>
+
+

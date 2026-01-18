@@ -1,0 +1,23 @@
+**Ruth 1:5** 
+<small><sub>**KJV:**</sub></small>
+And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.
+<small><sub>**BSB:**</sub></small>
+both Mahlon and Chilion also died, and Naomi was left without her two sons and without her husband.
+<small><sub>**Literal:**</sub></small>
+and  they died also both of  them Mahlon and  Kilion and  she was left the  woman from  both children  her and  from  husband  her<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.4|<< Ruth 1:4]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.6|Ruth 1:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they died  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּמ֥וּתוּ</big></span><small><sup>[[H4191]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Mu.tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>גַם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| both of them  | <span class="ashebrew"><big>שְׁנֵי</big></span><small><sup>[[H8147]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| she.nei.<small><sup>[[HNcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mahlon  | <span class="ashebrew"><big>מַחְל֣וֹן</big></span><small><sup>[[H4248]]</sup></small> &#8207;| mach.Lon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Kilion  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כִלְי֑וֹן</big></span><small><sup>[[H3630]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khil.Yon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she was left  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּשָּׁאֵר֙</big></span><small><sup>[[H7604]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ti.sha.'Er<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the woman  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אִשָּׁ֔ה</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from both  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שְּׁנֵ֥י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> she.Nei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children her  | <span class="ashebrew"><big>יְלָדֶ֖י</big></span><small><sup>[[H3206]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ye.la.Dei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from husband her  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אִישָֽׁ</big></span><small><sup>[[H0376H]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'i.Sha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.4|<< Ruth 1:4]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.6|Ruth 1:6 >>]]</td></tr></table>
+
+

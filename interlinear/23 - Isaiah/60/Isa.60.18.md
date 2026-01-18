@@ -1,0 +1,26 @@
+**Isaiah 60:18** 
+<small><sub>**KJV:**</sub></small>
+Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.
+<small><sub>**BSB:**</sub></small>
+No longer will violence be heard in your land, nor ruin or destruction within your borders. But you will name your walls Salvation and your gates Praise.
+<small><sub>**Literal:**</sub></small>
+not it will be heard again violence in  land  your devastation and  destruction in  territories  your and  you will call salvation walls  your and  gates  your praise<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.17|<< Isaiah 60:17]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.19|Isaiah 60:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be heard  | <span class="ashebrew"><big>יִשָּׁמַ֨ע</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| yi.sha.Ma'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  | <span class="ashebrew"><big>ע֤וֹד</big></span><small><sup>[[H5750]]</sup></small> &#8207;| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| violence  | <span class="ashebrew"><big>חָמָס֙</big></span><small><sup>[[H2555]]</sup></small> &#8207;| cha.Mas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in land your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַרְצֵ֔</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ar.Tze<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| devastation  | <span class="ashebrew"><big>שֹׁ֥ד</big></span><small><sup>[[H7701]]</sup></small> &#8207;| shod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and destruction  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֶׁ֖בֶר</big></span><small><sup>[[H7667]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> She.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in territories your  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גְבוּלָ֑יִ</big></span><small><sup>[[H1366G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> g.vu.La.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will call  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>קָרָ֤את</big></span><small><sup>[[H7121H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ka.Rat<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| salvation  | <span class="ashebrew"><big>יְשׁוּעָה֙</big></span><small><sup>[[H3444]]</sup></small> &#8207;| ye.shu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| walls your  | <span class="ashebrew"><big>חוֹמֹתַ֔יִ</big></span><small><sup>[[H2346G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| cho.mo.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gates your  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁעָרַ֖יִ</big></span><small><sup>[[H8179G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.'a.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| praise  | <span class="ashebrew"><big>תְּהִלָּֽה</big></span><small><sup>[[H8416]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| te.hi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.17|<< Isaiah 60:17]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.19|Isaiah 60:19 >>]]</td></tr></table>
+
+

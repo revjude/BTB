@@ -1,0 +1,31 @@
+**Ezekiel 32:23** 
+<small><sub>**KJV:**</sub></small>
+Whose graves are set in the sides of the pit, and her company is round about her grave: all of them slain, fallen by the sword, which caused terror in the land of the living.
+<small><sub>**BSB:**</sub></small>
+Her graves are set in the depths of the Pit, and her company is all around her grave. All of them are slain, fallen by the sword—those who once spread terror in the land of the living.
+<small><sub>**Literal:**</sub></small>
+which they have been put graves  its in  [the] remotest parts of [the] pit and  it was company  its around grave  its all of  them [are] slain [those who] have fallen by the  sword who they had put terror in  [the] land of [the] living<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.22|<< Ezekiel 32:22]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.24|Ezekiel 32:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֨ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have been put  | <span class="ashebrew"><big>נִתְּנ֤וּ</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| ni.te.Nu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| graves its  | <span class="ashebrew"><big>קִבְרֹתֶ֙י</big></span><small><sup>[[H6913]]</sup></small> <span class="ashebrew"><big>הָ֙</big></span><small><sup>[[H9024]]</sup></small> &#8207;| kiv.ro.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] remotest parts of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יַרְכְּתֵי</big></span><small><sup>[[H3411]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> yar.ke.tei-<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pit  | <span class="ashebrew"><big>ב֔וֹר</big></span><small><sup>[[H0953A]]</sup></small> &#8207;| Vor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִ֣י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| company its  | <span class="ashebrew"><big>קְהָלָ֔</big></span><small><sup>[[H6951]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ke.ha.La<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| around  | <span class="ashebrew"><big>סְבִיב֖וֹת</big></span><small><sup>[[H5439G]]</sup></small> &#8207;| se.vi.Vot<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grave its  | <span class="ashebrew"><big>קְבֻרָתָ֑</big></span><small><sup>[[H6900]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ke.vu.ra.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  | <span class="ashebrew"><big>כֻּלָּ֤</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] slain  | <span class="ashebrew"><big>חֲלָלִים֙</big></span><small><sup>[[H2491A]]</sup></small> &#8207;| cha.la.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] have fallen  | <span class="ashebrew"><big>נֹפְלִ֣ים</big></span><small><sup>[[H5307G]]</sup></small> &#8207;| no.fe.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by the sword  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֶ֔רֶב</big></span><small><sup>[[H2719]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had put  | <span class="ashebrew"><big>נָתְנ֥וּ</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| terror  | <span class="ashebrew"><big>חִתִּ֖ית</big></span><small><sup>[[H2851]]</sup></small> &#8207;| chi.Tit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֥רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] living  | <span class="ashebrew"><big>חַיִּֽים</big></span><small><sup>[[H2416A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| chai.Yim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.22|<< Ezekiel 32:22]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.24|Ezekiel 32:24 >>]]</td></tr></table>
+
+

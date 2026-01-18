@@ -1,0 +1,28 @@
+**Joshua 6:9** 
+<small><sub>**KJV:**</sub></small>
+And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, [the priests] going on, and blowing with the trumpets.
+<small><sub>**BSB:**</sub></small>
+While the horns continued to sound, the armed troops marched ahead of the priests who blew the horns, and the rear guard followed the ark.
+<small><sub>**Literal:**</sub></small>
+and  the  armed [man] [was] walking \<to>  before the  priests [who] give a blast on \<of> the  trumpets and  the  rearguard [was] walking behind the  ark walking and  giving blasts on the  trumpets<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.8|<< Joshua 6:8]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.10|Joshua 6:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the armed [man]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הֶ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חָל֣וּץ</big></span><small><sup>[[H2502B]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> he.<small><sup>[[HTd]]</sup></small> cha.Lutz<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] walking  | <span class="ashebrew"><big>הֹלֵ֔ךְ</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵי֙</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priests  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּ֣הֲנִ֔ים</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] give a blast on  [^1] | <span class="ashebrew"><big>תֹּקְעֵ֖י</big></span><small><sup>[[H8628]]</sup></small> &#8207;[^2] | ta.ke.'u<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| \<of> the trumpets  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שּֽׁוֹפָר֑וֹת</big></span><small><sup>[[H7782]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sho.fa.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the rearguard  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְאַסֵּ֗ף</big></span><small><sup>[[H0622]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> m.'a.Sef<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] walking  | <span class="ashebrew"><big>הֹלֵךְ֙</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| ho.leKh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| behind  | <span class="ashebrew"><big>אַחֲרֵ֣י</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ark  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָר֔וֹן</big></span><small><sup>[[H0727]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| walking  | <span class="ashebrew"><big>הָל֖וֹךְ</big></span><small><sup>[[H1980L]]</sup></small> &#8207;| ha.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and giving blasts  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תָק֥וֹעַ</big></span><small><sup>[[H8628]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ta.Ko.a'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the trumpets  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שּׁוֹפָרֽוֹת</big></span><small><sup>[[H7782]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> sho.fa.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.8|<< Joshua 6:8]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.10|Joshua 6:10 >>]]</td></tr></table>
+
+[^1]: ==K==: **they gave a blast on ** | <small><sup>[[H8628]]</sup></small><span class="ashebrew"><big>תָּקְעוּ</big></span>  | ta.ke.'u<small><sup>[[HVqp3cp]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>תֹּקְעֵ֖ו</big></span>**
+

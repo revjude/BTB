@@ -1,0 +1,21 @@
+**Psalms 39:3** (39:4)
+<small><sub>**KJV:**</sub></small>
+My heart was hot within me, while I was musing the fire burned: [then] spake I with my tongue,
+<small><sub>**BSB:**</sub></small>
+My heart grew hot within me; as I mused, the fire burned. Then I spoke with my tongue:
+<small><sub>**Literal:**</sub></small>
+it became hot heart  my in  inner being  my in  sighing  my it burned fire I spoke with  tongue  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.2|<< Psalms 39:2]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.4|Psalms 39:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| it became hot  | <span class="ashebrew"><big>חַם</big></span><small><sup>[[H2552]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| cham-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  | <span class="ashebrew"><big>לִבִּ֨</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in inner being my  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קִרְבִּ֗</big></span><small><sup>[[H7130G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> kir.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in sighing my  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הֲגִיגִ֥</big></span><small><sup>[[H1901]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> ha.gi.G<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it burned  | <span class="ashebrew"><big>תִבְעַר</big></span><small><sup>[[H1197A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| tiv.'ar-<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  | <span class="ashebrew"><big>אֵ֑שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I spoke  | <span class="ashebrew"><big>דִּ֝בַּ֗רְתִּי</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with tongue my  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לְשֽׁוֹנִ</big></span><small><sup>[[H3956G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> l.Sho.n<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.2|<< Psalms 39:2]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.4|Psalms 39:4 >>]]</td></tr></table>
+
+

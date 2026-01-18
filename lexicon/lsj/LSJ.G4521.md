@@ -1,0 +1,13 @@
+spelling of: <small>[[H7676]]</small> 
+
+
+<b> <span class='asgreek'>==σάββατον==</span>-<span class='asgreek'>ον</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ the Hebrew [<a href="javascript:void(0)" title=" “Sabbath”, i.e. “Rest” ">Refs</a>] (<span class='asgreek'>δηλοῖ</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>ἀνάπαυσιν</span>.. <span class='asgreek'>τὸ</span> <span class='asgreek'>ὄνομα</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 1.1.1), LXX.Exod.16.23, +others, NT.Mark.6.2, +others">NT+1st c.AD+</a>]: frequently in <i>plural</i> of the single day, [<a href="javascript:void(0)" title=" “PCair.Zen.” 762.6 (3rd c.BC), LXX.4Ki.4.23; ὀψὲ σαββάτων NT.Matt.28.1 ">NT+3rd c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>ἡμέρα</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" LXX.Num.15.32, NT.Luke.4.16, +others (but ἡ ἡμ. τοῦ σ. [prev. work] 13.14): irregular \_dative\_ \_plural\_ σάββασι (ν) LXX.1Mac.2.38, 1st c.AD: Josephus Historicus “Bellum Judaicum” 1.7.3, +others, NT.Mark.2.23, +others">LXX+NT+1st c.AD+</a>], frequently with variant{<span class='asgreek'>σαββάτοις</span>}; but <span class='asgreek'>σάββασι</span> is certain in [<a href="javascript:void(0)" title="“Anthologia Graeca” 5.159 (1st c.BC: Meleager Epigrammaticus). ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>period of seven days, week</b>, <span class='asgreek'>εἰς</span> <span class='asgreek'>μίαν</span> <span class='asgreek'>σαββάτων</span> toward the first day <b>of the week,</b> [<a href="javascript:void(0)" title="NT.Matt.28.1; κατὰ μίαν σαββάτου NT.1Cor.16.2; πρώτῃ σαββάτου NT.Mark.16.9 ">NT</a>]; <span class='asgreek'>τῇ</span> <span class='asgreek'>μιᾷ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>σ</span>[<a href="javascript:void(0)" title=". [prev. work] 2, NT.John.20.1 ">NT</a>]; <span class='asgreek'>δὶς</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" NT.Luke.18.12. ">NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b><span class='asgreek'>Σαβάτ</span></b>, the [<a href="javascript:void(0)" title=" 11th month of the Hebrew year, nearly = February, LXX.1Mac.16.14. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.16.23]] ☩ [[Mark.6.2]] ☩ [[Matt.28.1]] ☩ [[Num.15.32]] ☩ [[Luke.4.16]] ☩ [[Mark.2.23]] ☩ [[Matt.28.1]] ☩ [[1Cor.16.2]] ☩ [[Mark.16.9]] ☩ [[John.20.1]] ☩ [[Luke.18.12]]
+</sub></small>

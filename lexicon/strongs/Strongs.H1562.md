@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎גִּלֲלַי‎</span></big> **Gilălay** <small>*(ghe-lal-ah'-ee)*</small> ==**Gilalai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from <span class="ashebrew">‎גֵּלֶל‎</span><sup><small>[[H1561]]</small></sup>; dungy</small>
+
+$\quad$ Gilalai.
+- ***Gilalai***, an Israelite
+
+Gilalai "weighty"
+**1)** a Levitical musician, one of the priest's sons at the consecration of the wall of Jerusalem

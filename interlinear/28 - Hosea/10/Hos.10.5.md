@@ -1,0 +1,31 @@
+**Hosea 10:5** 
+<small><sub>**KJV:**</sub></small>
+The inhabitants of Samaria shall fear because of the calves of Bethaven: for the people thereof shall mourn over it, and the priests thereof [that] rejoiced on it, for the glory thereof, because it is departed from it.
+<small><sub>**BSB:**</sub></small>
+The people of Samaria will fear for the calf of Beth-aven. Indeed, its people will mourn over it with its idolatrous priests—those who rejoiced in its glory—for it has been taken from them into exile.
+<small><sub>**Literal:**</sub></small>
+for  [the] heifers of Beth Aven they will be afraid [the] inhabitant[s] of Samaria for it will mourn on  it people  its and  pagan priests  its on  it they will tremble on glory  its for it has gone into exile from  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.4|<< Hosea 10:4]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.6|Hosea 10:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for [the] heifers of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֶגְלוֹת֙</big></span><small><sup>[[H5697A]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'eg.lOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1007]]</sup></small> &#8207;| beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aven  | <span class="ashebrew"><big>אָ֔וֶן</big></span><small><sup>[[H1007]]</sup></small> &#8207;| 'A.ven<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be afraid  | <span class="ashebrew"><big>יָג֖וּרוּ</big></span><small><sup>[[H1481C]]</sup></small> &#8207;| ya.Gu.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] inhabitant[s] of  | <span class="ashebrew"><big>שְׁכַ֣ן</big></span><small><sup>[[H7934]]</sup></small> &#8207;| she.Khan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samaria  | <span class="ashebrew"><big>שֹֽׁמְר֑וֹן</big></span><small><sup>[[H8111]]</sup></small> &#8207;| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will mourn  | <span class="ashebrew"><big>אָבַ֨ל</big></span><small><sup>[[H0056]]</sup></small> &#8207;| 'a.Val<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלָ֜י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people its  | <span class="ashebrew"><big>עַמּ֗</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| a.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and pagan priests its  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְמָרָי</big></span><small><sup>[[H3649]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.ma.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלָ֣י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will tremble  | <span class="ashebrew"><big>יָגִ֔ילוּ</big></span><small><sup>[[H1523]]</sup></small> &#8207;| ya.Gi.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| glory its  | <span class="ashebrew"><big>כְּבוֹד֖</big></span><small><sup>[[H3519]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ke.vo.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has gone into exile  | <span class="ashebrew"><big>גָלָ֥ה</big></span><small><sup>[[H1540K]]</sup></small> &#8207;| ga.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from it  | <span class="ashebrew"><big>מִמֶּֽ</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi.Me.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.4|<< Hosea 10:4]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.6|Hosea 10:6 >>]]</td></tr></table>
+
+

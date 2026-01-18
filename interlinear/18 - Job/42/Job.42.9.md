@@ -1,0 +1,30 @@
+**Job 42:9** 
+<small><sub>**KJV:**</sub></small>
+So Eliphaz the Temanite and Bildad the Shuhite [and] Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job.
+<small><sub>**BSB:**</sub></small>
+So Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite went and did as the LORD had told them; and the LORD accepted Job’s prayer.
+<small><sub>**Literal:**</sub></small>
+and  they went Eliphaz the  Temanite and  Bildad the  Shuhite Zophar the  Naamathite and  they did just  as he had spoken to  them Yahweh and  he lifted up Yahweh \<obj.> [the] face of Job<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.8|<< Job 42:8]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.10|Job 42:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּלְכוּ֩</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliphaz  | <span class="ashebrew"><big>אֱלִיפַ֨ז</big></span><small><sup>[[H0464H]]</sup></small> &#8207;| 'e.li.Faz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Temanite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>תֵּֽימָנִ֜י</big></span><small><sup>[[H8489]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> tei.ma.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Bildad  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִלְדַּ֣ד</big></span><small><sup>[[H1085]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vil.Dad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Shuhite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שּׁוּחִ֗י</big></span><small><sup>[[H7747]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> shu.Chi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zophar  | <span class="ashebrew"><big>צֹפַר֙</big></span><small><sup>[[H6691]]</sup></small> &#8207;| tzo.Far<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Naamathite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נַּ֣עֲמָתִ֔י</big></span><small><sup>[[H5284]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Na.'a.ma.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they did  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעֲשׂ֔וּ</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֛ר</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had spoken  | <span class="ashebrew"><big>דִּבֶּ֥ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he lifted up  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשָּׂ֥א</big></span><small><sup>[[H5375P]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  | <span class="ashebrew"><big>פְּנֵ֥י</big></span><small><sup>[[H6440N]]</sup></small> &#8207;| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Job  | <span class="ashebrew"><big>אִיּֽוֹב</big></span><small><sup>[[H0347]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'i.Yov<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.8|<< Job 42:8]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.10|Job 42:10 >>]]</td></tr></table>
+
+

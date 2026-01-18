@@ -1,0 +1,21 @@
+**Psalms 83:11** (83:12)
+<small><sub>**KJV:**</sub></small>
+Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:
+<small><sub>**BSB:**</sub></small>
+Make their nobles like Oreb and Zeeb, and all their princes like Zebah and Zalmunna,
+<small><sub>**Literal:**</sub></small>
+make  them noble [people]  their like  Oreb and  like  Zeeb and  like  Zebah and  like  Zalmunna all princes  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.10|<< Psalms 83:10]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.12|Psalms 83:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| make them  | <span class="ashebrew"><big>שִׁיתֵ֣</big></span><small><sup>[[H7896G]]</sup></small> <span class="ashebrew"><big>מוֹ</big></span><small><sup>[[H9038]]</sup></small> &#8207;| shi.Te.<small><sup>[[HVqv2ms]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| noble [people] their  | <span class="ashebrew"><big>נְ֭דִיבֵ</big></span><small><sup>[[H5081H]]</sup></small> <span class="ashebrew"><big>מוֹ</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ne.di.ve.<small><sup>[[HAampc]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like Oreb  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֹרֵ֣ב</big></span><small><sup>[[H6159]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> 'o.Rev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like Zeeb  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כִ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>זְאֵ֑ב</big></span><small><sup>[[H2062]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khi<small><sup>[[HR]]</sup></small> z.'Ev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like Zebah  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>זֶ֥בַח</big></span><small><sup>[[H2078]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> Ze.vach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like Zalmunna  | <span class="ashebrew"><big>וּ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>צַלְמֻנָּ֗ע</big></span><small><sup>[[H6759]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> tzal.mu.Na'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| princes their  | <span class="ashebrew"><big>נְסִיכֵֽ</big></span><small><sup>[[H5257B]]</sup></small> <span class="ashebrew"><big>מוֹ</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ne.si.Khe.<small><sup>[[HNcmpc]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.10|<< Psalms 83:10]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.12|Psalms 83:12 >>]]</td></tr></table>
+
+

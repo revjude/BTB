@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎אֶקְדָּח‎</span></big> **ʼeqdâch** <small>*(ek-dawkh')*</small> ==**carbuncle**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from <span class="ashebrew">‎קִדָּה‎</span><sup><small>[[H6916]]</small></sup></small>
+
+$\quad$ carbuncle.
+- ***burning***, i.e. ***a carbuncle*** or ***other fiery gem***
+
+**1)** fiery glow, sparkle
+**2)** (CLBL) the name of a gem-carbuncle

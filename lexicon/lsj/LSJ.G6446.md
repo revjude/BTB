@@ -1,0 +1,8 @@
+<span class="asgreek">ἀποκλύζω</span> <small>***(apokluzō)***</small> ==**to rinse off**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀποκλύζω==</span>-<span class='asgreek'>κλύζω</span></b>, 
+
+
+ <b>wash off,</b> [<span class='asgreek'>πίσσαν</span>] <span class='asgreek'>εἰς</span> <span class='asgreek'>οἶνον</span>[<a href="javascript:void(0)" title=" 3rd c.BC: Erasistratus Medicus cited in 3rd c.AD: Philumenus Medicus “de Venenatis Animalibus” 17.12: \_metaphorically\_, τὸν λόγον ἀ. τῆς ψυχῆς 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cicero” 32">Refs 3rd c.BC+</a>]; <b>wash clean,</b> <span class='asgreek'>σέρεις</span>[<a href="javascript:void(0)" title=" 4th c.BC: Diogenes Cynicus Philosophus “Epistulae - Epistolographi” 32.1; ἔρια “PHolm.” 27.2">Refs 4th c.BC+</a>]; <b>rinse</b> the mouth, [<a href="javascript:void(0)" title=" “Geoponica” 14.17.5">Refs</a>]:— <i>passive</i>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 8.6.5, 4th c.BC: Aristoteles Philosophus “de Mundo” 397a34. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> in <i>middle</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 4.51: \_metaphorically\_, ποτίμφ λόγῳ ἀλμυρὰν ἀκοὴν ἀ. 5th-6th c.BC: Plato Philosophus “Phaedrus” 243d">Refs 5th c.BC+</a>]: hence, <b>avert by purifications,</b> <span class='asgreek'>ὄνειρον</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 1340.">Refs 5th c.BC+</a>]

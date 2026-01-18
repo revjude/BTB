@@ -1,0 +1,7 @@
+<span class="asgreek">καταβρώσκω</span> <small>***(katabrōskō)***</small> ==**to devour**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==καταβρώσκω==</span></b> 
+
+
+ (<i>present</i> not found, see at {<span class='asgreek'>ἐσθίω</span>}), <i>aorist</i> <span class='asgreek'>κατέβρων</span> [<a href="javascript:void(0)" title=" “hymnus ad Apollinem” 127: ">Refs</a>]<i>perfect</i> <i>passive</i> <span class='asgreek'>καταβέβρωμαι</span>: <i>aorist</i> <span class='asgreek'>κατεβρώθην</span> (see. below):—<b>eat up, devour,</b> [<a href="javascript:void(0)" title=" Hymnus ad Apollinem [same place]; καταβεβρωκὼς σιτία ἴσως ἐλεφάντων τεττάρων 4th c.BC: Antiphanes Comicus 82: \_metaphorically\_, καταβεβρώκασι.. τὰς οὐσίας 3rd c.BC: Hegesippus Comicus 1.30; τὰ ὄντα 4th c.BC: Hyperides Orator “Fragmenta” 249 ">Refs 4th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>εὐλέων</span> <span class='asgreek'>κατεβρώθη</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.16; κατεβρώθη ὑπὸ τῶν ἰδίων κυνῶν 4th c.AD: Palaephatus Paradoxographus 6; καταβέβρωται 5th c.BC: Herodotus Historicus 4.199 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ὑπ᾽</span> <span class='asgreek'>ἰχθύων</span> probably in [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “de Morte - Papiri Ercolanesi” 32 ">Refs 1st c.BC+</a>]; <b>to be corroded</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 110a. ">Refs 5th c.BC+</a>]
+

@@ -1,0 +1,23 @@
+**Leviticus 22:24** 
+<small><sub>**KJV:**</sub></small>
+Ye shall not offer unto the LORD that which is bruised, or crushed, or broken, or cut; neither shall ye make [any offering thereof] in your land.
+<small><sub>**BSB:**</sub></small>
+You are not to present to the LORD an animal whose testicles are bruised, crushed, torn, or cut; you are not to sacrifice them in your land.
+<small><sub>**Literal:**</sub></small>
+and  [one which] is squashed and  [one which] is crushed and  [one which] is torn and  [one which] is cut not you will present to  Yahweh and  in  land  your not you will do [it]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.23|<< Leviticus 22:23]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.25|Leviticus 22:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [one which] is squashed  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מָע֤וּךְ</big></span><small><sup>[[H4600]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.'Ukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one which] is crushed  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָתוּת֙</big></span><small><sup>[[H3807]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> kha.Tut<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one which] is torn  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נָת֣וּק</big></span><small><sup>[[H5423]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> na.Tuk<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one which] is cut  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָר֔וּת</big></span><small><sup>[[H3772G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> kha.Rut<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will present  | <span class="ashebrew"><big>תַקְרִ֖יבוּ</big></span><small><sup>[[H7126H]]</sup></small> &#8207;| tak.Ri.vu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in land your  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַרְצְ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'ar.tze.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will do [it]  | <span class="ashebrew"><big>תַעֲשֽׂוּ</big></span><small><sup>[[H6213A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.23|<< Leviticus 22:23]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.25|Leviticus 22:25 >>]]</td></tr></table>
+
+

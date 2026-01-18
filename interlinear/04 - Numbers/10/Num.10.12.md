@@ -1,0 +1,23 @@
+**Numbers 10:12** 
+<small><sub>**KJV:**</sub></small>
+And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran.
+<small><sub>**BSB:**</sub></small>
+and the Israelites set out from the Wilderness of Sinai, traveling from place to place until the cloud settled in the Wilderness of Paran.
+<small><sub>**Literal:**</sub></small>
+and  they set out [the] people of Israel to  journeyings  their from  [the] wilderness of Sinai and  it settled down the  cloud in  [the] wilderness of Paran<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.11|<< Numbers 10:11]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.13|Numbers 10:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they set out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּסְע֧וּ</big></span><small><sup>[[H5265]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְנֵֽי</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֛ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to journeyings their  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַסְעֵי</big></span><small><sup>[[H4550]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mas.'ei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] wilderness of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּדְבַּ֣ר</big></span><small><sup>[[H4057B]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mid.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sinai  | <span class="ashebrew"><big>סִינָ֑י</big></span><small><sup>[[H5514H]]</sup></small> &#8207;| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it settled down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁכֹּ֥ן</big></span><small><sup>[[H7931]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Kon<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cloud  | <span class="ashebrew"><big>הֶ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָנָ֖ן</big></span><small><sup>[[H6051]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] wilderness of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִדְבַּ֥ר</big></span><small><sup>[[H4057B]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mid.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Paran  | <span class="ashebrew"><big>פָּארָֽן</big></span><small><sup>[[H6290G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| pa.Ran<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.11|<< Numbers 10:11]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.13|Numbers 10:13 >>]]</td></tr></table>
+
+

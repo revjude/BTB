@@ -1,0 +1,9 @@
+<span class="asgreek">ἀδυναμία</span> <small>***(adunamia)***</small> ==**powerlessness**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀδυναμία==</span>-<span class='asgreek'>ία</span></b>, 
+
+
+ <i>Ionic dialect</i> -<span class='asgreek'>ιη</span>, <span class='asgreek'>ἡ</span>, <b>want of strength, debility</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 10: \_plural\_, [prev. work] 19, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.791d ">Refs 5th c.BC+</a>]; of medicine, <b>want of strength</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 9.18.4. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>inability, incapacity</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.111, 4th c.BC: Aristoteles Philosophus “Metaphysica” 1019b15, etc.; ἡ τοῦ λέγειν ἀ. 5th c.BC: Antipho Orator 5.2, compare 5th-6th c.BC: Plato Philosophus “Leges” 646b, etc.: \_plural\_, LXX.3Mac.2.13: with \_genitive\_, ἀ. τοῦ ἀδικεῖν">LXX+5th c.BC+</a>] <b>for</b> wrongdoing, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 359b">Refs 5th c.BC+</a>]; <span class='asgreek'>τῶν</span> <span class='asgreek'>πραγμάτων</span> <b>for</b> political action, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1314a23">Refs 4th c.BC+</a>]; [<span class='asgreek'>ψυχῆς</span>] [<a href="javascript:void(0)" title=" “Stoicorum Veterum Fragmenta” 3.23">Refs</a>]: with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 532b. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>poverty, lack of resources</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 20.22, 4th c.BC: Demosthenes Orator 19.186.">Refs 5th c.BC+</a>]

@@ -1,0 +1,36 @@
+**1 Kings 8:37** 
+<small><sub>**KJV:**</sub></small>
+If there be in the land famine, if there be pestilence, blasting, mildew, locust, [or] if there be caterpiller; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness [there be];
+<small><sub>**BSB:**</sub></small>
+When famine or plague comes upon the land, or blight or mildew or locusts or grasshoppers, or when their enemy besieges them in their cities, whatever plague or sickness may come,
+<small><sub>**Literal:**</sub></small>
+famine if it will be in the  land pestilence for it will be blight mildew locust[s] locust[s] for it will be that he will lay siege to  it enemy  its in  [the] land of gates  its every plague any sickness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.36|<< 1 Kings 8:36]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.38|1 Kings 8:38 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| famine  | <span class="ashebrew"><big>רָעָ֞ב</big></span><small><sup>[[H7458]]</sup></small> &#8207;| ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  | <span class="ashebrew"><big>יִהְיֶ֣ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the land  | <span class="ashebrew"><big>בָ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָ֗רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pestilence  | <span class="ashebrew"><big>דֶּ֣בֶר</big></span><small><sup>[[H1698]]</sup></small> &#8207;| De.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  | <span class="ashebrew"><big>יִ֠הְיֶה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| Yih.yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blight  | <span class="ashebrew"><big>שִׁדָּפ֨וֹן</big></span><small><sup>[[H7711B]]</sup></small> &#8207;| shi.da.Fon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mildew  | <span class="ashebrew"><big>יֵרָק֜וֹן</big></span><small><sup>[[H3420]]</sup></small> &#8207;| ye.ra.Kon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| locust[s]  | <span class="ashebrew"><big>אַרְבֶּ֤ה</big></span><small><sup>[[H0697]]</sup></small> &#8207;| 'ar.Beh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| locust[s]  | <span class="ashebrew"><big>חָסִיל֙</big></span><small><sup>[[H2625]]</sup></small> &#8207;| cha.Sil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  | <span class="ashebrew"><big>יִהְיֶ֔ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֧י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will lay siege  | <span class="ashebrew"><big>יָֽצַר</big></span><small><sup>[[H6887B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ya.tzar-<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to it  | <span class="ashebrew"><big>ל֛</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemy its  | <span class="ashebrew"><big>אֹיְב֖</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'o.ye.V<small><sup>[[HVqrmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gates its  | <span class="ashebrew"><big>שְׁעָרָ֑י</big></span><small><sup>[[H8179G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| she.'a.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| plague  | <span class="ashebrew"><big>נֶ֖גַע</big></span><small><sup>[[H5061]]</sup></small> &#8207;| Ne.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any  | <span class="ashebrew"><big>כָּֽל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kal-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sickness  | <span class="ashebrew"><big>מַחֲלָֽה</big></span><small><sup>[[H4245B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ma.cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.36|<< 1 Kings 8:36]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.38|1 Kings 8:38 >>]]</td></tr></table>
+
+

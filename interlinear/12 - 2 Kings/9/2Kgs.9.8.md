@@ -1,0 +1,24 @@
+**2 Kings 9:8** 
+<small><sub>**KJV:**</sub></small>
+For the whole house of Ahab shall perish: and I will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel:
+<small><sub>**BSB:**</sub></small>
+The whole house of Ahab will perish, and I will cut off from Ahab every male, both slave and free, in Israel.
+<small><sub>**Literal:**</sub></small>
+and  it will perish all [the] house of Ahab and  I will cut off to  Ahab [one who] urinates on  a wall and  shut up and  freed in  Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.7|<< 2 Kings 9:7]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.9|2 Kings 9:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will perish  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָבַ֖ד</big></span><small><sup>[[H0006]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Vad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahab  | <span class="ashebrew"><big>אַחְאָ֑ב</big></span><small><sup>[[H0256G]]</sup></small> &#8207;| 'ach.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will cut off  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִכְרַתִּ֤י</big></span><small><sup>[[H3772I]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hikh.ra.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Ahab  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַחְאָב֙</big></span><small><sup>[[H0256G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ach.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] urinates  | <span class="ashebrew"><big>מַשְׁתִּ֣ין</big></span><small><sup>[[H8366]]</sup></small> &#8207;| mash.Tin<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on a wall  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קִ֔יר</big></span><small><sup>[[H7023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Kir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and shut up  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עָצ֥וּר</big></span><small><sup>[[H6113]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tzur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and freed  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עָז֖וּב</big></span><small><sup>[[H5800C]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Zuv<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Israel  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.7|<< 2 Kings 9:7]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.9|2 Kings 9:9 >>]]</td></tr></table>
+
+

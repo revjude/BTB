@@ -1,0 +1,20 @@
+**Job 19:20** 
+<small><sub>**KJV:**</sub></small>
+My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.
+<small><sub>**BSB:**</sub></small>
+My skin and flesh cling to my bones; I have escaped by the skin of my teeth.
+<small><sub>**Literal:**</sub></small>
+on  skin  my and  on  flesh  my it clings bone  my and  I have escaped  ! with  [the] skin of teeth  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.19|<< Job 19:19]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.21|Job 19:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| on skin my  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עוֹרִ֣</big></span><small><sup>[[H5785]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'o.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on flesh my  | <span class="ashebrew"><big>וּ֭</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בְשָׂרִ</big></span><small><sup>[[H1320]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| U.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> v.sa.r<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it clings  | <span class="ashebrew"><big>דָּבְקָ֣ה</big></span><small><sup>[[H1692]]</sup></small> &#8207;| da.ve.Kah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bone my  | <span class="ashebrew"><big>עַצְמִ֑</big></span><small><sup>[[H6106G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'atz.M<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I have escaped !  | <span class="ashebrew"><big>וָ֝</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֶתְמַלְּטָ֗</big></span><small><sup>[[H4422]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'et.ma.le.Ta<small><sup>[[HVtw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with [the] skin of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ע֣וֹר</big></span><small><sup>[[H5785]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'or<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teeth my  | <span class="ashebrew"><big>שִׁנָּֽ</big></span><small><sup>[[H8127G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| shi.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.19|<< Job 19:19]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.21|Job 19:21 >>]]</td></tr></table>
+
+

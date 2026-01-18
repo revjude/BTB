@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==νομοφύλαξ==</span></b> [<span class='asgreek'>ῠ</span>], <span class='asgreek'>ᾰκος</span>, <span class='asgreek'>ὁ</span> 
+
+
+ (<span class='asgreek'>ἡ</span> [<a href="javascript:void(0)" title=" LXX.4Mac.15.32)">LXX</a>], <b>guardian of the laws,</b> title of officials appointed to watch over the laws and their observance, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 755a, 770c, etc.; οἱ ν. ἀριστοκρατικόν 4th c.BC: Aristoteles Philosophus “Politica” 1323a8, compare 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Legg.” 3.20.46; at Athens, 4th c.BC: Philochorus Historicus 141b, etc.; at Sparta, 2nd c.AD: Pausanias Periegeta 3.11.2, “IG” 5(1).31, +others; at Thasos, “BCH” 52.55 (4th-3rd c.BC)">Refs 5th c.BC+</a>]; at Alexandria, [<a href="javascript:void(0)" title=" “PHal.” 1.42 (3rd c.BC)">Refs 3rd c.BC+</a>], probably in Mitteis [<a href="javascript:void(0)" title=" “Chr.” 369 i 33 (3rd c.BC)">Refs 3rd c.BC+</a>]; at Priene, [<a href="javascript:void(0)" title=" “SIG” 282.17 (4th c.BC)">Refs 4th c.BC+</a>]; at Cyrene, [<a href="javascript:void(0)" title=" “Abh.Berl.Akad.” 1925(5).7 (3rd c.BC). ">Refs 3rd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>observer of the law,</b> <span class='asgreek'>σὺ</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>ν</span>. [<a href="javascript:void(0)" title=" LXX [prev. cited] ">Refs</a>]
+$\quad$ $\quad$<b>\_\_II</b> minor official under control of village elders, with police and fiscal duties, [<a href="javascript:void(0)" title=" “PAmh.” 2.108.8, “BGU” 759.20, “PRyl.” 122.7, “POxy.” 1440.7 (all 2nd c.AD). ">Refs 2nd c.AD+</a>]

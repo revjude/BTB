@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==συμπαρακαλέω==</span>-<span class='asgreek'>κᾰλέω</span></b>, 
+
+
+ <b>call upon</b> or <b>exhort together</b>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>συμμαχίαν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 555a ">Refs 5th c.BC+</a>]; <b>invite at the same time</b>, <span class='asgreek'>εἰς</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>θήραν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.1.38 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἥρωας</span> <span class='asgreek'>σ</span>. <span class='asgreek'>οἰκήτορας</span> <b>invite</b> them as.., [<a href="javascript:void(0)" title="[prev. work] 3.3.21 ">Refs</a>]; with <i>infinitive</i>, <span class='asgreek'>σῶσαι</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Dinarchus Orator 1.65 ">Refs 4th c.BC+</a>]; <b>summon at the same time</b>, <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>συμμάχων</span> <span class='asgreek'>πρέσβεις</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 4.8.13. ">Refs 5th c.BC+</a>]
+

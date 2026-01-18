@@ -1,0 +1,9 @@
+
+Included with: <b> <span class='asgreek'>==ἀφόβως==</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>without fear,</b> and so: 
+
+$\quad$ $\quad$ $\quad$<b>\_\_1</b> <b>fearless, intrepid,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “I.” 5(4).40, 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1325, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἐρημίαν</span>, <span class='asgreek'>περὶ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>μέλλοντος</span>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Lycurgus” 16, “Galb.” 23">Refs 1st c.AD+</a>]: with <i>genitive</i>, <b>having no fear of,</b> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀρχόντων</span>[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Dio Chrysostomus Sophista 2.52">Refs 1st c.AD+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>ἄφοβον</span>, ={<span class='asgreek'>ἀφοβία</span>}, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Laches” 197b">Refs 5th c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>βως</span></b>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Hiero” 7.10, 5th-6th c.BC: Plato Philosophus “Leges” 682c, “PTeb.” 24.74(2nd c.BC). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>causing no fear, free from fear,</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Pr.” 902; λόγος οὐκ ἄ. εἰπεῖν 5th-6th c.BC: Plato Philosophus “Leges” 797a. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>ἄ</span>. <span class='asgreek'>θῆρες</span>, in [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 366">Refs 5th c.BC+</a>], is an oxymoron, beasts <b>which fear not men</b> or <b>which no one fears, tame</b> beasts, <b>cattle.</b>

@@ -1,0 +1,27 @@
+**Zechariah 13:4** 
+<small><sub>**KJV:**</sub></small>
+And it shall come to pass in that day, [that] the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive:
+<small><sub>**BSB:**</sub></small>
+And on that day every prophet who prophesies will be ashamed of his vision, and he will not put on a hairy cloak in order to deceive.
+<small><sub>**Literal:**</sub></small>
+and  it will be on the  day \<the>  that they will be ashamed the  prophets each one from  vision  his when  prophecies  he and  not they will wear a cloak of hair so as to deceive<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.13.3|<< Zechariah 13:3]]</td><td align="center" style="border:none;">[[Zech.13|Zechariah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.13.5|Zechariah 13:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֣ה</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the day  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּ֣וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ה֗וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be ashamed  | <span class="ashebrew"><big>יֵבֹ֧שׁוּ</big></span><small><sup>[[H0954]]</sup></small> &#8207;| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the prophets  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נְּבִיאִ֛ים</big></span><small><sup>[[H5030]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ne.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| each one  | <span class="ashebrew"><big>אִ֥ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from vision his  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>חֶזְיֹנ֖</big></span><small><sup>[[H2384]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> chez.yo.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when prophecies he  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הִנָּֽבְאֹת֑</big></span><small><sup>[[H5012]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> hi.na.ve.'o.T<small><sup>[[HVNcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֧א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will wear  | <span class="ashebrew"><big>יִלְבְּשׁ֛וּ</big></span><small><sup>[[H3847]]</sup></small> &#8207;| yil.be.Shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cloak of  | <span class="ashebrew"><big>אַדֶּ֥רֶת</big></span><small><sup>[[H0155]]</sup></small> &#8207;| 'a.De.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hair  | <span class="ashebrew"><big>שֵׂעָ֖ר</big></span><small><sup>[[H8181]]</sup></small> &#8207;| se.'Ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so as  | <span class="ashebrew"><big>לְמַ֥עַן</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to deceive  | <span class="ashebrew"><big>כַּחֵֽשׁ</big></span><small><sup>[[H3584]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ka.Chesh<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.13.3|<< Zechariah 13:3]]</td><td align="center" style="border:none;">[[Zech.13|Zechariah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.13.5|Zechariah 13:5 >>]]</td></tr></table>
+
+

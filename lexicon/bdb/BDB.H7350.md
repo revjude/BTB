@@ -1,0 +1,44 @@
+<small>Aramaic form: [[H7368]]</small>
+ <span class="bdbLangHebrew">‎רָחֹק‎</span>, <span class="bdbLangHebrew">‎רָחוֺק‎</span> **adjective** ==distant, far==, and **noun masculine**<sup>[[Josh.3.4|Josh 3:4]]</sup> ==distance== ([[BDB#Lag|Lag]]<sup>BN 31</sup>); — absolute <span class="bdbLangHebrew">‎רָחֹק‎</span> [[Exod.2.4|Exod 2:4]] +, <span class="bdbLangHebrew">‎רָחוֺק‎</span> [[Ezek.6.12|Ezek 6:12]] +; feminine singular <span class="bdbLangHebrew">‎רְחֹקָה‎</span> [[Deut.30.11|Deut 30:11]] +, <span class="bdbLangHebrew">‎רְחוֺקָה‎</span> [[Josh.9.6|Josh 9:6]] +; masculine plural <span class="bdbLangHebrew">‎רְחֹקִים‎</span> [[Deut.13.8|Deut 13:8]] +, etc., feminine plural absolute <span class="bdbLangHebrew">‎רְחֹקוֺת‎</span> [[Jer.48.24|Jer 48:24]] +, etc.; — often opposed to <span class="bdbLangHebrew">‎קָרוֺב‎</span>: 
+
+**1. adjective a.** ==of space:== ***distant***, land [[Josh.9.6|Josh 9:6]]; [[Josh.9.9|Josh 9:9]] (+ <span class="bdbLangHebrew">‎מְאֹד‎</span>), [[Deut.29.21|Deut 29:21]]; [[1Kgs.8.41|1Kgs 8:41]]; [[1Kgs.8.46|1Kgs 8:46]] = [[2Chr.6.32|2Chr 6:32]]; [[2Chr.6.36|2Chr 6:36]]; [[2Kgs.20.14|2Kgs 20:14]] = [[Isa.39.3|Isa 39:3]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אִיִּים ר‎</span> [[Isa.66.19|Isa 66:19]] + perhaps [[Ps.65.6|Ps 65:6]] ([[BDB#Che|Che]] [[BDB#We|We]] read <span class="bdbLangHebrew">‎אִיִּם‎</span> for <span class="bdbLangHebrew">‎יָם‎</span>; Weir in [[BDB#Che|Che]] <span class="bdbLangHebrew">‎גּוֺיִם‎</span>; [[BDB#MT|ᵑ0]] makes <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> = ***distant ones***, people); with <span class="bdbLangHebrew">‎מִן‎</span> person, of peoples [[Josh.9.22|Josh 9:22]] ([[BDB#J|J]][[BDB#E|E]]), [[Judg.18.7|Judg 18:7]], persons [[Ezek.22.5|Ezek 22:5]]; [[Neh.4.13|Neh 4:13]]; [[Prov.15.29|Prov 15:29]] (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>, figurative), compare [[Jer.12.2|Jer 12:2]] (***id.***,), cities [[Deut.20.15|Deut 20:15]], so (<span class="bdbLangHebrew">‎מִן‎</span> local) [[Judg.18.28|Judg 18:28]] absolute of people [[Joel.4.8|Joel 4:8]], persons [[Isa.33.13|Isa 33:13]]; [[Isa.57.19|Isa 57:19]]; [[Jer.25.26|Jer 25:26]]; [[Ezek.6.12|Ezek 6:12]]; [[Zech.6.15|Zech 6:15]]; [[Prov.27.10|Prov 27:10]]; [[Dan.9.7|Dan 9:7]]; [[Esth.9.20|Esth 9:20]], cities [[Jer.48.24|Jer 48:24]], trees [[Ps.56.1|Ps 56:1]] (title; see  <span class="bdbLangHebrew">‎יוֺנָה‎</span> ***near the end***, p. 401), of ***distant*** journey [[Num.9.10|Num 9:10]] ([[BDB#P|P]]); figurative, <span class="bdbLangHebrew">‎רָחוֺק‎</span> predicate (indefinite) [[Eccl.7.24|Eccl 7:24]], of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s <span class="bdbLangHebrew">‎מִצְוָה‎</span> [[Deut.30.11|Deut 30:11]] with <span class="bdbLangHebrew">‎מִן‎</span> person (i.e. absent from, lacking to), of salvation [[Ps.119.155|Ps 119:155]], wisdom [[Eccl.7.23|Eccl 7:23]] of person with <span class="bdbLangHebrew">‎מִן‎</span> of act or quality [[Isa.46.12|Isa 46:12]]; [[Ps.22.2|Ps 22:2]] of price, with <span class="bdbLangHebrew">‎מִן‎</span> compare = ***far beyond*** [[Prov.31.10|Prov 31:10]]. 
+$\quad$ $\quad$ **b.** of time: <span class="bdbLangHebrew">‎לְעִתִּים רְחוֺקוֺת‎</span> [[Ezek.12.27|Ezek 12:27]]. 
+
+**2. noun masculine** always singular: 
+$\quad$ $\quad$ **a.** of space: ***distance*** [[Josh.3.4|Josh 3:4]] ([[BDB#D|D]]); elsewhere with preposition: (1) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מֵר‎</span> ***from a distance***, with verbs implying motion, physical or mental: look [[Gen.24.4|Gen 24:4]] ([[BDB#E|E]]) [[Gen.37.18|Gen 37:18]] ([[BDB#J|J]]) [[Job.2.12|Job 2:12]]; [[Job.36.25|Job 36:25]] bring [[Deut.28.49|Deut 28:49]]; [[Isa.43.6|Isa 43:6]]; [[Isa.60.9|Isa 60:9]], compare [[Jer.46.27|Jer 46:27]] come [[Isa.49.12|Isa 49:12]]; [[Isa.60.4|Isa 60:4]]; [[Hab.1.8|Hab 1:8]] hear [[Isa.49.1|Isa 49:1]] smell [[Job.39.25|Job 39:25]] remember [[Jer.51.50|Jer 51:50]] probably also worship [[Exod.24.1|Exod 24:1]] ([[BDB#J|J]]); (2) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מֵר‎</span> ***at a distance*** (<span class="bdbLangHebrew">‎מִן‎</span> **1 c**) [[Exod.2.4|Exod 2:4]] ([[BDB#E|E]]), [[Exod.20.18|Exod 20:18]]; [[Exod.20.21|Exod 20:21]] ([[BDB#E|E]]; [[BDB#Gi|Gi]] v[[Exod.20.15|Exod 20:15]] v[[Exod.20.18|Exod 20:18]]), [[1Sam.26.13|1Sam 26:13]]; [[2Kgs.2.7|2Kgs 2:7]]; [[Isa.5.26|Isa 5:26]]; [[Isa.59.14|Isa 59:14]]; [[Ps.38.12|Ps 38:12]], compare <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֱלֹהֵי מֵר‎</span> [[Jer.23.23|Jer 23:23]] ***a God afar off*** (on construct of. [[BDB#Ges|Ges]]<sup>«GKC:130a»§ 130a</sup>; &lt; read <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אלהים ר‎</span> [[BDB#Gie|Gie]], compare [[BDB#Sept|ᵐ5]]); (3) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מֵר‎</span> ***to a distance*** (<span class="bdbLangHebrew">‎מִן‎</span> **1 c**) [[Isa.22.3|Isa 22:3]]; [[Isa.23.7|Isa 23:7]]; [[Prov.7.19|Prov 7:19]] (4) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּר‎</span> ***at a distance*** [[Ps.10.1|Ps 10:1]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עַדרֿ‎</span> ***to a distance*** [[Mic.4.3|Mic 4:3]] also with two prepp.: (5) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎לְמֵר‎</span> ***from*** (<span class="bdbLangHebrew">‎מִן‎</span> **9 b**), [[Job.36.3|Job 36:3]]; [[Job.39.29|Job 39:29]] (6) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עַדמֵֿר‎</span> (III. <span class="bdbLangHebrew">‎עַד‎</span> **I. 1 a**) ***to a distance*** [[Isa.57.9|Isa 57:9]] + [[Neh.12.43|Neh 12:43]] [[BDB#van d.H.|van d. H.]] (<span class="bdbLangHebrew">‎עַד‎</span> omitted by [[BDB#Baer|Baer]] [[BDB#Gi|Gi]]); even (7) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עַדלְֿמֵר‎</span> (<span class="bdbLangHebrew">‎עַד‎</span> III.) [[2Chr.26.15|2Chr 26:15]]; [[Ezra.3.13|Ezra 3:13]]. 
+$\quad$ $\quad$ **b.** of time, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מֵר‎</span> ***long ago*** [[Isa.22.11|Isa 22:11]], with noun = ***ancient, of long standing*** [[Isa.25.1|Isa 25:1]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎לְמֵר‎</span> ***long ago*** [[2Kgs.19.25|2Kgs 19:25]] = [[Isa.37.26|Isa 37:26]] ***from afar*** [[2Sam.7.19|2Sam 7:19]] = [[1Chr.17.17|1Chr 17:17]]. **\*\***[[Ps.139.2|Ps 139:2]]. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.24.4\|24:4]] · [[Gen.37.18\|37:18]] |
+| Exodus | [[Exod.2.4\|2:4]] · [[Exod.20.15\|20:15]] · [[Exod.20.18\|20:18]] · [[Exod.20.21\|20:21]] · [[Exod.24.1\|24:1]] |
+| Numbers | [[Num.9.10\|9:10]] |
+| Deuteronomy | [[Deut.13.8\|13:8]] · [[Deut.20.15\|20:15]] · [[Deut.28.49\|28:49]] · [[Deut.29.21\|29:21]] · [[Deut.30.11\|30:11]] |
+| Joshua | [[Josh.3.4\|3:4]] · [[Josh.9.6\|9:6]] · [[Josh.9.9\|9:9]] · [[Josh.9.22\|9:22]] |
+| Judges | [[Judg.18.7\|18:7]] · [[Judg.18.28\|18:28]] |
+| 1 Samuel | [[1Sam.26.13\|26:13]] |
+| 2 Samuel | [[2Sam.7.19\|7:19]] |
+| 1 Kings | [[1Kgs.8.41\|8:41]] · [[1Kgs.8.46\|8:46]] |
+| 2 Kings | [[2Kgs.2.7\|2:7]] · [[2Kgs.19.25\|19:25]] · [[2Kgs.20.14\|20:14]] |
+| 1 Chronicles | [[1Chr.17.17\|17:17]] |
+| 2 Chronicles | [[2Chr.6.32\|6:32]] · [[2Chr.6.36\|6:36]] · [[2Chr.26.15\|26:15]] |
+| Ezra | [[Ezra.3.13\|3:13]] |
+| Nehemiah | [[Neh.4.13\|4:13]] · [[Neh.12.43\|12:43]] |
+| Esther | [[Esth.9.20\|9:20]] |
+| Job | [[Job.2.12\|2:12]] · [[Job.36.3\|36:3]] · [[Job.36.25\|36:25]] · [[Job.39.25\|39:25]] · [[Job.39.29\|39:29]] |
+| Psalms | [[Ps.10.1\|10:1]] · [[Ps.22.2\|22:2]] · [[Ps.38.12\|38:12]] · [[Ps.56.1\|56:1]] · [[Ps.65.6\|65:6]] · [[Ps.119.155\|119:155]] · [[Ps.139.2\|139:2]] |
+| Proverbs | [[Prov.7.19\|7:19]] · [[Prov.15.29\|15:29]] · [[Prov.27.10\|27:10]] · [[Prov.31.10\|31:10]] |
+| Ecclesiastes | [[Eccl.7.23\|7:23]] · [[Eccl.7.24\|7:24]] |
+| Isaiah | [[Isa.5.26\|5:26]] · [[Isa.22.3\|22:3]] · [[Isa.22.11\|22:11]] · [[Isa.23.7\|23:7]] · [[Isa.25.1\|25:1]] · [[Isa.33.13\|33:13]] · [[Isa.37.26\|37:26]] · [[Isa.39.3\|39:3]] · [[Isa.43.6\|43:6]] · [[Isa.46.12\|46:12]] · [[Isa.49.1\|49:1]] · [[Isa.49.12\|49:12]] · [[Isa.57.9\|57:9]] · [[Isa.57.19\|57:19]] · [[Isa.59.14\|59:14]] · [[Isa.60.4\|60:4]] · [[Isa.60.9\|60:9]] · [[Isa.66.19\|66:19]] |
+| Jeremiah | [[Jer.12.2\|12:2]] · [[Jer.23.23\|23:23]] · [[Jer.25.26\|25:26]] · [[Jer.46.27\|46:27]] · [[Jer.48.24\|48:24]] · [[Jer.51.50\|51:50]] |
+| Ezekiel | [[Ezek.6.12\|6:12]] · [[Ezek.12.27\|12:27]] · [[Ezek.22.5\|22:5]] |
+| Daniel | [[Dan.9.7\|9:7]] |
+| Joel | [[Joel.4.8\|4:8]] |
+| Micah | [[Mic.4.3\|4:3]] |
+| Habakkuk | [[Hab.1.8\|1:8]] |
+| Zechariah | [[Zech.6.15\|6:15]] |
+

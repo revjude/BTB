@@ -1,0 +1,27 @@
+**Jeremiah 7:9** 
+<small><sub>**KJV:**</sub></small>
+Will ye steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods whom ye know not;
+<small><sub>**BSB:**</sub></small>
+Will you steal and murder, commit adultery and perjury, burn incense to Baal, and follow other gods that you have not known,
+<small><sub>**Literal:**</sub></small>
+¿  will you steal will you murder? and  will you commit adultery? and  will you swear? to \<the>  falsehood and  will you make smoke? to \<the>  Baal and  will you walk? after gods other which not you have known<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.8|<< Jeremiah 7:8]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.10|Jeremiah 7:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| ¿ will you steal  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>גָנֹ֤ב</big></span><small><sup>[[H1589]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> ga.No<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you murder?  | <span class="ashebrew"><big>רָצֹ֙חַ֙</big></span><small><sup>[[H7523]]</sup></small> &#8207;| ra.Tzo.ach<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and will you commit adultery?  | <span class="ashebrew"><big>וְֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נָאֹ֔ף</big></span><small><sup>[[H5003]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> na.'Of<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and will you swear?  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִשָּׁבֵ֥עַ</big></span><small><sup>[[H7650]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.sha.Ve.a'<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> falsehood  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שֶּׁ֖קֶר</big></span><small><sup>[[H8267]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and will you make smoke?  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קַטֵּ֣ר</big></span><small><sup>[[H6999H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ka.Ter<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> Baal  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בָּ֑עַל</big></span><small><sup>[[H1168A]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Ba.'al<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and will you walk?  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָלֹ֗ךְ</big></span><small><sup>[[H1980N]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  | <span class="ashebrew"><big>אַחֲרֵ֛י</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  | <span class="ashebrew"><big>אֱלֹהִ֥ים</big></span><small><sup>[[H0430J]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| other  | <span class="ashebrew"><big>אֲחֵרִ֖ים</big></span><small><sup>[[H0312]]</sup></small> &#8207;| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have known  | <span class="ashebrew"><big>יְדַעְתֶּֽם</big></span><small><sup>[[H3045]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.da'.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.8|<< Jeremiah 7:8]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.10|Jeremiah 7:10 >>]]</td></tr></table>
+
+

@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎גּוּר‎</span></big> **Gûwr** <small>*(goor)*</small> ==**Gur**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as <span class="ashebrew">‎גּוּר‎</span><sup><small>[[H1482]]</small></sup></small>
+
+$\quad$ Gur.
+- § Gur = *"sojourning"*
+- ***Gur***, a place in Palestine
+
+**1)** the place Ahaziah was smitten

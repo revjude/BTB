@@ -1,0 +1,27 @@
+**Deuteronomy 3:10** 
+<small><sub>**KJV:**</sub></small>
+All the cities of the plain, and all Gilead, and all Bashan, unto Salchah and Edrei, cities of the kingdom of Og in Bashan.
+<small><sub>**BSB:**</sub></small>
+all the cities of the plateau, all of Gilead, and all of Bashan as far as the cities of Salecah and Edrei in the kingdom of Og.
+<small><sub>**Literal:**</sub></small>
+all [the] cities of the  plain and  all \<the>  Gilead and  all \<the>  Bashan to Salecah and  Edrei [the] cities of [the] kingdom of Og in \<the>  Bashan<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.9|<< Deuteronomy 3:9]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.11|Deuteronomy 3:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| all  | <span class="ashebrew"><big>כֹּ֣ל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] cities of  | <span class="ashebrew"><big>עָרֵ֣י</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the plain  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּישֹׁ֗ר</big></span><small><sup>[[H4334]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mi.Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Gilead  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּלְעָד֙</big></span><small><sup>[[H1568G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Bashan  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בָּשָׁ֔ן</big></span><small><sup>[[H1316]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ba.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Salecah  | <span class="ashebrew"><big>סַלְכָ֖ה</big></span><small><sup>[[H5548]]</sup></small> &#8207;| sal.Khah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Edrei  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶדְרֶ֑עִי</big></span><small><sup>[[H0154]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ed.Re.'i<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] cities of  | <span class="ashebrew"><big>עָרֵ֛י</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kingdom of  | <span class="ashebrew"><big>מַמְלֶ֥כֶת</big></span><small><sup>[[H4467]]</sup></small> &#8207;| mam.Le.khet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Og  | <span class="ashebrew"><big>ע֖וֹג</big></span><small><sup>[[H5747]]</sup></small> &#8207;| og<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> Bashan  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בָּשָֽׁן</big></span><small><sup>[[H1316]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> ba.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.9|<< Deuteronomy 3:9]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.11|Deuteronomy 3:11 >>]]</td></tr></table>
+
+

@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ὑπερφρονέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ (<span class='asgreek'>ὑπέρφρων</span>) <b>to be over-proud, have high thoughts,</b> <span class='asgreek'>μηδ᾽</span> <span class='asgreek'>ὑπερφρόνει</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1039, compare 2nd c.BC: Polybius Historicus 6.18.7; μὴ ὑ. παρ᾽ ὃ δεῖ φρονεῖν, ἀλλὰ φρονεῖν εἰς τὸ σωφρονεῖν NT.Rom.12.3 ">NT+4th c.BC+</a>]: with <i>dative</i> modi, <b>to be proud in</b> or <b>of</b> a thing, <span class='asgreek'>πλούτῳ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.199; τὸν λόγον, ᾧ ὑπερπεφρόνηκας 5th-6th c.BC: Plato Philosophus Alcaeus1.104a. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i>, <b>overlook, look down upon, despise,</b> <span class='asgreek'>==ὑπερφρονέω==ήσας</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>παρόντα</span> <span class='asgreek'>δαίμονα</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 825; τοὺς θεούς 5th-6th c.BC: Aristophanes Comicus “Nubes” 226; πέφυκε ἄνθρωπος τὸ.. θεραπεῦον ==ὑπερφρονέω==εῖν 5th c.BC: Thucydides Historicus 3.39; ἑτέρους Aristeas 122 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be despised,</b> <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>εὐπραγούντων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.16. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>genitive</i>, <b>think slightly of,</b> <span class='asgreek'>δαιμόνων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 1325; τῶν καθεστώτων νόμων 5th-6th c.BC: Aristophanes Comicus “Nubes” 1400; τοῦ ἐπιτηδεύματος 5th-6th c.BC: Plato Philosophus “Phaedrus” 258b. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>surpass in knowledge,</b> <span class='asgreek'>ὑ</span>. <span class='asgreek'>ἱστορίᾳ</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>δῆμον</span> (variant for{<span class='asgreek'>περιφρ</span>-}) [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 1.141: with \_accusative\_ \_cognate\_, πάντα ὑ.">Refs 4th c.BC+</a>] <b>excel in</b> all <b>wisdom,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 17. ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Rom.12.3]]
+</sub></small>

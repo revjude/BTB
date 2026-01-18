@@ -1,0 +1,27 @@
+**1 Kings 20:16** 
+<small><sub>**KJV:**</sub></small>
+And they went out at noon. But Benhadad [was] drinking himself drunk in the pavilions, he and the kings, the thirty and two kings that helped him.
+<small><sub>**BSB:**</sub></small>
+They marched out at noon while Ben-hadad and the 32 kings allied with him were in their tents getting drunk.
+<small><sub>**Literal:**</sub></small>
+and  they went out at the  noontide\<s> and  Ben Hadad [was] drinking drunken in the  booths he and  the  kings thirty and  two king[s] [who] was helping \<obj.>  him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.15|<< 1 Kings 20:15]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.17|1 Kings 20:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they went out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּצְא֖וּ</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at the noontide\<s>  | <span class="ashebrew"><big>בַּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צָּהֳרָ֑יִם</big></span><small><sup>[[H6672A]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> tzo.ho.Ra.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ben  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֶן</big></span><small><sup>[[H1130G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ven-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hadad  | <span class="ashebrew"><big>הֲדַד֩</big></span><small><sup>[[H1130G]]</sup></small> &#8207;| ha.Dad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] drinking  | <span class="ashebrew"><big>שֹׁתֶ֨ה</big></span><small><sup>[[H8354]]</sup></small> &#8207;| sho.Teh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| drunken  | <span class="ashebrew"><big>שִׁכּ֜וֹר</big></span><small><sup>[[H7910]]</sup></small> &#8207;| shi.Kor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the booths  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>סֻּכּ֗וֹת</big></span><small><sup>[[H5521]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> su.Kot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  | <span class="ashebrew"><big>ה֧וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the kings  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְּלָכִ֛ים</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  | <span class="ashebrew"><big>שְׁלֹשִֽׁים</big></span><small><sup>[[H7970]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| she.lo.shim-<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and two  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁנַ֥יִם</big></span><small><sup>[[H8147]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.Na.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king[s]  | <span class="ashebrew"><big>מֶ֖לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] was helping  | <span class="ashebrew"><big>עֹזֵ֥ר</big></span><small><sup>[[H5826]]</sup></small> &#8207;| 'o.Zer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  | <span class="ashebrew"><big>אֹתֽ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.15|<< 1 Kings 20:15]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.17|1 Kings 20:17 >>]]</td></tr></table>
+
+

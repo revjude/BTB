@@ -1,0 +1,29 @@
+**Ezekiel 20:32** 
+<small><sub>**KJV:**</sub></small>
+And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.
+<small><sub>**BSB:**</sub></small>
+When you say, ‘Let us be like the nations, like the peoples of the lands, serving wood and stone,’ what you have in mind will never come to pass.
+<small><sub>**Literal:**</sub></small>
+and  the  [thing which] comes up on spirit  your certainly \<happen> not it will happen [that] which you [are] saying we will be like the  nations like  [the] clans of the  lands to  serve wood and  stone<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.31|<< Ezekiel 20:31]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.33|Ezekiel 20:33 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the [thing which] comes up  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֹלָה֙</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'o.Lah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spirit your  | <span class="ashebrew"><big>ר֣וּחֲ</big></span><small><sup>[[H7307G]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| ru.cha.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<happen>  | <span class="ashebrew"><big>הָי֖וֹ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yo<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will happen  | <span class="ashebrew"><big>תִֽהְיֶ֑ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתֶּ֣ם</big></span><small><sup>[[H0859D]]</sup></small> &#8207;| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] saying  | <span class="ashebrew"><big>אֹמְרִ֗ים</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will be  | <span class="ashebrew"><big>נִֽהְיֶ֤ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| nih.Yeh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like the nations  | <span class="ashebrew"><big>כַ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>גּוֹיִם֙</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| kha.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] clans of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מִשְׁפְּח֣וֹת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the lands  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲרָצ֔וֹת</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.ra.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to serve  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שָׁרֵ֖ת</big></span><small><sup>[[H8334]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> sha.Ret<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wood  | <span class="ashebrew"><big>עֵ֥ץ</big></span><small><sup>[[H6086G]]</sup></small> &#8207;| 'etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and stone  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אָֽבֶן</big></span><small><sup>[[H0068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'A.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.31|<< Ezekiel 20:31]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.33|Ezekiel 20:33 >>]]</td></tr></table>
+
+

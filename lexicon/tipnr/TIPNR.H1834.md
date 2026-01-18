@@ -1,0 +1,16 @@
+<small>*Damascus • Ancient city, capital of Syria, important in biblical history.*</small>
+
+<span class='tipnrhighlight'>Damascus</span>, an ancient city in Syria, played a significant role in biblical history.
+- A location first mentioned at [[Gen.14.15|Gen.14.15]]; 
+- referred to as Damascus<[[H1834]]> \(<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>מ</span>ֶּ֫<span class='tipnrLangHebrew'>ש</span>ֶׂ<span class='tipnrLangHebrew'>ק</span>\), or Damascus<[[G1153]]> \(<span class='tipnrLangGreek'>Δαμασκηνός</span>\), or Damascus<[[G1154]]> \(<span class='tipnrLangGreek'>Δαμασκός</span>\).
+<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=33.519299,36.31344999999999&zoom=10&maptype=satellite"></iframe>
+
+
+Damascus is one of the oldest continuously inhabited cities in the world, serving as the capital of Syria. It is first mentioned in [[Gen.14.15|Genesis 14:15]] in connection with Abraham's rescue of Lot. Later, David brought the city under Israelite control \([[2Sam.8.5|2 Samuel 8:5]]-6\), but it regained its independence during Solomon's reign \(1 Kings 11:24\). Damascus was involved in conflicts with Israel and Judah, often aligning with their enemies \([[1Kgs.15.18|1 Kings 15:18]]; [[2Kgs.16.9|2 Kings 16:9]]\). The city was known for its beauty and prosperity, with references to its fertile gardens and bustling trade \(Song of Solomon 7:4; [[Ezek.27.18|Ezekiel 27:18]]\). In the New Testament, Damascus is significant as the place of Paul's conversion on the road to the city \(Acts 9:1-19\). The city played a crucial role in the early spread of Christianity, with Paul spending time there after his conversion \([[Gal.1.17|Galatians 1:17]]\).
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Damascus | [<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>מ</span>ֶּ֫<span class='tipnrLangHebrew'>ש</span>ֶׂ<span class='tipnrLangHebrew'>ק</span>](H1834) <small>*Hebrew*</small> | 45x | [[Gen.14.15] ... [Zec.9.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Damascus\*\|reference=Gen.14.15;Gen.15.2;2Sa.8.5;2Sa.8.6;1Ki.11.24;1Ki.11.24;1Ki.15.18;1Ki.19.15;1Ki.20.34;2Ki.5.12;2Ki.8.7;2Ki.8.9;2Ki.14.28;2Ki.16.9;2Ki.16.10;2Ki.16.10;2Ki.16.11;2Ki.16.11;2Ki.16.12;1Ch.18.5;1Ch.18.6;2Ch.16.2;2Ch.24.23;2Ch.28.5;2Ch.28.23;Sng.7.4;Isa.7.8;Isa.7.8;Isa.8.4;Isa.10.9;Isa.17.1;Isa.17.1;Isa.17.3;Jer.49.23;Jer.49.24;Jer.49.27;Ezk.27.18;Ezk.47.16;Ezk.47.17;Ezk.47.18) |
+| Damascus | [<span class='tipnrLangGreek'>Δαμασκηνός</span>](G1153) <small>*Greek*</small> | 1x | [2Co.11.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Damascus\*\|reference=2Co.11.32) |
+| Damascus | [<span class='tipnrLangGreek'>Δαμασκός</span>](G1154) <small>*Greek*</small> | 15x | [[Act.9.2] ... [Gal.1.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Damascus\*\|reference=Act.9.2;Act.9.3;Act.9.8;Act.9.10;Act.9.19;Act.9.22;Act.9.27;Act.22.5;Act.22.6;Act.22.10;Act.22.11;Act.26.12;Act.26.20;2Co.11.32;Gal.1.17) |
+All Strong's for **Damascus**: \[[[H1834]]\] \[[[G1153]]\] \[[[G1154]]\]

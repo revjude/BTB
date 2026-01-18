@@ -1,0 +1,21 @@
+**Leviticus 25:7** 
+<small><sub>**KJV:**</sub></small>
+And for thy cattle, and for the beast that [are] in thy land, shall all the increase thereof be meat.
+<small><sub>**BSB:**</sub></small>
+and for your livestock and the wild animals in your land. All its growth may serve as food.
+<small><sub>**Literal:**</sub></small>
+and  to  livestock  your and  to the  animal[s] which [is] in  land  your it will be all produce  its to  eat<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.6|<< Leviticus 25:6]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.8|Leviticus 25:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and to livestock your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לִ֨</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְהֶמְתְּ</big></span><small><sup>[[H0929]]</sup></small> <span class="ashebrew"><big>ךָ֔</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Li<small><sup>[[HR]]</sup></small> v.hem.te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to the animal[s]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חַיָּ֖ה</big></span><small><sup>[[H2416C]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> chai.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in land your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַרְצֶ֑</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ar.Tze.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  | <span class="ashebrew"><big>תִּהְיֶ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| produce its  | <span class="ashebrew"><big>תְּבוּאָתָ֖</big></span><small><sup>[[H8393]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| te.vu.'a.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to eat  | <span class="ashebrew"><big>לֶ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֱכֹֽל</big></span><small><sup>[[H0398]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'e.Khol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.6|<< Leviticus 25:6]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.8|Leviticus 25:8 >>]]</td></tr></table>
+
+

@@ -1,0 +1,33 @@
+**Ezekiel 16:53** 
+<small><sub>**KJV:**</sub></small>
+When I shall bring again their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, then [will I bring again] the captivity of thy captives in the midst of them:
+<small><sub>**BSB:**</sub></small>
+But I will restore Sodom and her daughters from captivity, as well as Samaria and her daughters. And I will restore you along with them.
+<small><sub>**Literal:**</sub></small>
+and  I will turn back \<obj.> captivity  their \<obj.> [the] captivity of Sodom and  daughters  her and  \<obj.> [the] captivity of Samaria and  daughters  her and  [the] captivity of captivities  your in  midst of  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.52|<< Ezekiel 16:52]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.54|Ezekiel 16:54 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will turn back  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שַׁבְתִּי֙</big></span><small><sup>[[H7725H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> shav.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| captivity their  | <span class="ashebrew"><big>שְׁבִ֣יתְ</big></span><small><sup>[[H7622]]</sup></small> <span class="ashebrew"><big>הֶ֔ן</big></span><small><sup>[[H9029]]</sup></small> &#8207;| she.Vi.te.<small><sup>[[HNcfsc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] captivity of  | <span class="ashebrew"><big>שְׁב֤וּת</big></span><small><sup>[[H7622]]</sup></small> &#8207;[^1] [^2] | she.vit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| Sodom  | <span class="ashebrew"><big>סְדֹם֙</big></span><small><sup>[[H5467]]</sup></small> &#8207;| se.Dom<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and daughters her  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנוֹתֶ֔י</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.no.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] captivity of  | <span class="ashebrew"><big>שְׁב֥וּת</big></span><small><sup>[[H7622]]</sup></small> &#8207;[^3] [^4] | she.vit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| Samaria  | <span class="ashebrew"><big>שֹׁמְר֖וֹן</big></span><small><sup>[[H8111]]</sup></small> &#8207;| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and daughters her  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנוֹתֶ֑י</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.no.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] captivity of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁב֥וּת</big></span><small><sup>[[H7622]]</sup></small> &#8207;[^5] [^6] | u.<small><sup>[[HC]]</sup></small> she.vit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| captivities your  | <span class="ashebrew"><big>שְׁבִיתַ֖יִ</big></span><small><sup>[[H7622]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| she.vi.Ta.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in midst of them  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹכָֽ</big></span><small><sup>[[H8432]]</sup></small> <span class="ashebrew"><big>הְנָה</big></span><small><sup>[[H9029]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> to.Kha.<small><sup>[[HNcmsc]]</sup></small> he.nah<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.52|<< Ezekiel 16:52]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.54|Ezekiel 16:54 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="ashebrew"><big>שְׁב֤יּת</big></span>**
+[^2]: ==K== spelled: **<span class="ashebrew"><big>שְׁבִית</big></span>**
+[^3]: ==L== spelled: **<span class="ashebrew"><big>שְׁב֥יּת</big></span>**
+[^4]: ==K== spelled: **<span class="ashebrew"><big>שְׁבִית</big></span>**
+[^5]: ==L== spelled: **<span class="ashebrew"><big>וּשְׁב֥יּת</big></span>**
+[^6]: ==K== spelled: **<span class="ashebrew"><big>וּשְׁבִית</big></span>**
+

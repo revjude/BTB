@@ -1,0 +1,30 @@
+**Genesis 34:22** 
+<small><sub>**KJV:**</sub></small>
+Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they [are] circumcised.
+<small><sub>**BSB:**</sub></small>
+But only on this condition will the men agree to dwell with us and be one people: if all our men are circumcised as they are.
+<small><sub>**Literal:**</sub></small>
+only in  this they will agree to \<the>  us the  men to  dwell with  us to  become \<into>  a people one when  has been circumcised of  us every male just  as they [are] circumcised<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.21|<< Genesis 34:21]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.23|Genesis 34:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| only  | <span class="ashebrew"><big>אַךְ</big></span><small><sup>[[H0389]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in this  | <span class="ashebrew"><big>בְּ֠</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>זֹאת</big></span><small><sup>[[H2063]]</sup></small> &#8207;| Be.<small><sup>[[HR]]</sup></small> zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will agree  | <span class="ashebrew"><big>יֵאֹ֨תוּ</big></span><small><sup>[[H0225]]</sup></small> &#8207;| ye.'O.tu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> us  | <span class="ashebrew"><big>לָ֤</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| La.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the men  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲנָשִׁים֙</big></span><small><sup>[[H0582]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to dwell  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שֶׁ֣בֶת</big></span><small><sup>[[H3427]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> She.vet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with us  | <span class="ashebrew"><big>אִתָּ֔</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| 'i.Ta.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to become  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הְי֖וֹת</big></span><small><sup>[[H1961]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a people  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עַ֣ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָ֑ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when has been circumcised  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הִמּ֥וֹל</big></span><small><sup>[[H4135A]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> hi.Mol<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of us  | <span class="ashebrew"><big>לָ֙</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נוּ֙</big></span><small><sup>[[H9035]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| male  | <span class="ashebrew"><big>זָכָ֔ר</big></span><small><sup>[[H2145]]</sup></small> &#8207;| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֖ר</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֥ם</big></span><small><sup>[[H1992]]</sup></small> &#8207;| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] circumcised  | <span class="ashebrew"><big>נִמֹּלִֽים</big></span><small><sup>[[H4135A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ni.mo.Lim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.21|<< Genesis 34:21]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.23|Genesis 34:23 >>]]</td></tr></table>
+
+

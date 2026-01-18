@@ -1,0 +1,23 @@
+**Psalms 57:3** (57:4)
+<small><sub>**KJV:**</sub></small>
+He shall send from heaven, and save me [from] the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.
+<small><sub>**BSB:**</sub></small>
+He reaches down from heaven and saves me; He rebukes those who trample me. Selah God sends forth His loving devotion and His truth.
+<small><sub>**Literal:**</sub></small>
+he will send from  heaven and  he will save  me he will reproach [one who] crushes  me Selah he will send God covenant loyalty  his and  faithfulness  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.2|<< Psalms 57:2]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.4|Psalms 57:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| he will send  | <span class="ashebrew"><big>יִשְׁלַ֤ח</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| yish.Lach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from heaven  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שָּׁמַ֨יִם</big></span><small><sup>[[H8064]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will save me  | <span class="ashebrew"><big>וְֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יוֹשִׁיעֵ֗</big></span><small><sup>[[H3467]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yo.shi.'E.<small><sup>[[HVhu3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will reproach  | <span class="ashebrew"><big>חֵרֵ֣ף</big></span><small><sup>[[H2778A]]</sup></small> &#8207;| che.Ref<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] crushes me  | <span class="ashebrew"><big>שֹׁאֲפִ֣</big></span><small><sup>[[H7602B]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| sho.'a.F<small><sup>[[HVqrmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  | <span class="ashebrew"><big>סֶ֑לָה</big></span><small><sup>[[H5542]]</sup></small> &#8207;| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will send  | <span class="ashebrew"><big>יִשְׁלַ֥ח</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| yish.Lach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱ֝לֹהִ֗ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| covenant loyalty his  | <span class="ashebrew"><big>חַסְדּ֥</big></span><small><sup>[[H2617A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| chas.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and faithfulness his  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲמִתּֽ</big></span><small><sup>[[H0571G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.mi.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.2|<< Psalms 57:2]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.4|Psalms 57:4 >>]]</td></tr></table>
+
+

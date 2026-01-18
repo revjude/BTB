@@ -1,0 +1,26 @@
+**Jeremiah 48:41** 
+<small><sub>**KJV:**</sub></small>
+Kerioth is taken, and the strong holds are surprised, and the mighty men’s hearts in Moab at that day shall be as the heart of a woman in her pangs.
+<small><sub>**BSB:**</sub></small>
+Kirioth has been taken, and the strongholds seized. In that day the heart of Moab’s warriors will be like the heart of a woman in labor.
+<small><sub>**Literal:**</sub></small>
+it will be captured \<the>  Kerioth and  the  strongholds it will be seized and  it will be [the] heart of [the] warriors of Moab on the  day \<the>  that like  [the] heart of a woman in labor<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.40|<< Jeremiah 48:40]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.42|Jeremiah 48:42 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| it will be captured  | <span class="ashebrew"><big>נִלְכְּדָה֙</big></span><small><sup>[[H3920]]</sup></small> &#8207;| nil.ke.Dah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Kerioth  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קְּרִיּ֔וֹת</big></span><small><sup>[[H7152H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ke.ri.Yot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the strongholds  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְּצָד֖וֹת</big></span><small><sup>[[H4679]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> me.tza.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be seized  | <span class="ashebrew"><big>נִתְפָּ֑שָׂה</big></span><small><sup>[[H8610]]</sup></small> &#8207;| nit.Pa.sah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  | <span class="ashebrew"><big>וְֽ֠</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| Ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heart of  | <span class="ashebrew"><big>לֵ֞ב</big></span><small><sup>[[H3820A]]</sup></small> &#8207;| lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] warriors of  | <span class="ashebrew"><big>גִּבּוֹרֵ֤י</big></span><small><sup>[[H1368]]</sup></small> &#8207;| gi.bo.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  | <span class="ashebrew"><big>מוֹאָב֙</big></span><small><sup>[[H4124G]]</sup></small> &#8207;| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the day  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּ֣וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ה֔וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] heart of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>לֵ֖ב</big></span><small><sup>[[H3820A]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> Lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  | <span class="ashebrew"><big>אִשָּׁ֥ה</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in labor  | <span class="ashebrew"><big>מְצֵרָֽה</big></span><small><sup>[[H6887C]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.tze.Rah<small><sup>[[HVhrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.40|<< Jeremiah 48:40]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.42|Jeremiah 48:42 >>]]</td></tr></table>
+
+

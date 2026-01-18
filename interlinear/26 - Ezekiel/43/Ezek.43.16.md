@@ -1,0 +1,28 @@
+**Ezekiel 43:16** 
+<small><sub>**KJV:**</sub></small>
+And the altar [shall be] twelve [cubits] long, twelve broad, square in the four squares thereof.
+<small><sub>**BSB:**</sub></small>
+The altar hearth shall be square at its four corners, twelve cubits long and twelve cubits wide.
+<small><sub>**Literal:**</sub></small>
+and  the  altar hearth [is] two [plus] ten [cubits] [the] length by  two [plus] ten [cubits] [the] breadth square to [the] four sides  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.15|<< Ezekiel 43:15]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.17|Ezekiel 43:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the altar hearth  [^3] | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲרִיאֵ֗ל</big></span><small><sup>[[H0741]]</sup></small> &#8207;[^4] | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ri.'eil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [is] two [plus]  | <span class="ashebrew"><big>שְׁתֵּ֤ים</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten [cubits]  | <span class="ashebrew"><big>עֶשְׂרֵה֙</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] length  | <span class="ashebrew"><big>אֹ֔רֶךְ</big></span><small><sup>[[H0753]]</sup></small> &#8207;| 'O.rekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by two [plus]  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁתֵּ֥ים</big></span><small><sup>[[H8147]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> sh.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten [cubits]  | <span class="ashebrew"><big>עֶשְׂרֵ֖ה</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] breadth  | <span class="ashebrew"><big>רֹ֑חַב</big></span><small><sup>[[H7341]]</sup></small> &#8207;| Ro.chav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| square  | <span class="ashebrew"><big>רָב֕וּעַ</big></span><small><sup>[[H7251]]</sup></small> &#8207;| ra.Vu.a'<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶ֖ל</big></span><small><sup>[[H0413]]</sup></small> &#8207;| 'el<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] four  | <span class="ashebrew"><big>אַרְבַּ֥עַת</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.Ba.'at<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sides its  | <span class="ashebrew"><big>רְבָעָֽי</big></span><small><sup>[[H7253]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| re.va.'A<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.15|<< Ezekiel 43:15]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.17|Ezekiel 43:17 >>]]</td></tr></table>
+
+[^1]: ==K==: **and the altar hearth ** | <small><sup>[[H0741]]</sup></small><span class="ashebrew"><big>אֲרִאֵיל</big></span> <small><sup>[[H9009]]</sup></small><span class="ashebrew"><big>הָ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ri.'eil<small><sup>[[HNcbsa]]</sup></small> 
+[^2]: ==K==: **and the altar hearth ** | <small><sup>[[H0741]]</sup></small><span class="ashebrew"><big>אֲרִאֵיל</big></span> <small><sup>[[H9009]]</sup></small><span class="ashebrew"><big>הָ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ri.'eil<small><sup>[[HNcbsa]]</sup></small> 
+[^3]: ==K==: **and the altar hearth ** | <small><sup>[[H0741]]</sup></small><span class="ashebrew"><big>אֲרִאֵיל</big></span> <small><sup>[[H9009]]</sup></small><span class="ashebrew"><big>הָ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ri.'eil<small><sup>[[HNcbsa]]</sup></small> 
+[^4]: ==L== spelled: **<span class="ashebrew"><big>וְהָ/אֲרִאיֵ֗ל</big></span>**
+

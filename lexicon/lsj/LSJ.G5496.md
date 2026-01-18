@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==χειραγωγέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>lead by the hand,</b> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" LXX.Judg.16.26 codex A, 1st c.AD: Musonius Philosophus “fragment” 15Ap.79H., NT.Acts.9.8, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cleomenes” 38 ">LXX+1st c.AD+</a>]: generally, <b>guide, direct,</b> <span class='asgreek'>φρυκτώρια</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>ἀσφαλεῖς</span> <span class='asgreek'>καταγωγὰς</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>ναῦς</span> <span class='asgreek'>χ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 4.2.8 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>χ</span>. <span class='asgreek'>τούτῳ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἔξοδον</span> will <b>guide</b> his exit, Procop.Gaz.[<a href="javascript:void(0)" title=" p.158B.: \_metaphorically\_, χ. τὴν εὕρεσιν μνήμῃ 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.48b; τὴν ψυχὴν ἐπί τι 1st c.BC(?): Maximus Astrologus Tyr. 10.6 ">Refs 1st c.BC+</a>]; also <b>'lead by the nose', cajole,</b> [<a href="javascript:void(0)" title=" 2nd-1st c.BC: Posidonius Historicus 36J.: \_absolutely\_, 2nd c.AD: Lucianus Sophista “Tim.” 32, 3rd c.AD: Porphyrius Tyrius Philosophus “adversus Christianos - Abh. Berl. Akad.” 30 ">Refs 2nd c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" LXX.Tob.11.16 codex א ὑπ᾽ αὐτῶν τῶν πραγμάτων “PPetr.” 3p.22 (3rd c.BC),compare 1st c.BC: Diodorus Siculus Historicus 13.20; ἐπί τι 2nd c.AD: Herodianus Grammaticus 7.1.2. ">LXX+3rd c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Judg.16.26]] ☩ [[Acts.9.8]]
+</sub></small>

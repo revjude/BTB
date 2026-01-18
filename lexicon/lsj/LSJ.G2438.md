@@ -1,0 +1,25 @@
+
+<b> <span class='asgreek'>==ἱμάς==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <i>genitive</i> <span class='asgreek'>ἱμάντος</span> (not <span class='asgreek'>ἱμᾶς</span>, <span class='asgreek'>ἱμᾶντος</span> Hdn.Gr. 2.939): <i>Epic dialect</i> <i>dative</i> <i>plural</i> <span class='asgreek'>ἱμάντεσσι</span>:— <b>leathern strap</b> or <b>thong</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 10.262, etc.; ἱμάντα βοός 3.375; βοέους ἱμάντας 22.397: mostly in \_plural\_, in various senses: ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_a</b> <b>traces</b>, [<a href="javascript:void(0)" title=" 10.475, 499, +others ">Refs</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>reins</b>, [<a href="javascript:void(0)" title=" 23.324 ">Refs</a>], etc.; <span class='asgreek'>τμητοῖς</span> <span class='asgreek'>ἱμᾶσι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 747, compare 5th c.BC: Euripides Tragicus “Hippolytus” 1222. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_c</b> <b>straps</b> on which the body of the chariot was hung, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 5.727. ">Refs 8th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_d</b> <b>lash</b> of a whip, formed by several thongs, [<a href="javascript:void(0)" title=" 23.363. ">Refs</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_e</b> <b>boxing-glove</b>, consisting of <b>several straps put round the hand</b>,[<a href="javascript:void(0)" title=" [prev. work] 684, 5th c.BC: Pindarus Lyricus “N.” 6.35, 5th-6th c.BC: Plato Philosophus “Protagoras” 342c; ἱ. πυκτικοί 5th c.BC: Eupolis Comicus 22 4th c.BC: Demosthenes Orator ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in <i>singular</i>, the magic <b>girdle</b> of Aphrodite, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 14.214, 219. ">Refs 8th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>chin-strap</b> of the helmet, [<a href="javascript:void(0)" title=" 3.371. ">Refs</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.c</b> <b>thong</b>, by which the bolt was shot home into the socket, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 1.442, compare 4.802, 21.46. ">Refs 8th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.d</b> after [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus ">Refs 8th c.BC+</a>], <b>thong</b> or <b>latchet</b> of a sandal, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 4.5.14, 4th c.BC: Ephippus Comicus 14.9, 4th-3rd c.BC: Menander Comicus 109.2, NT.Mark.1.7. ">NT+5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.e</b> <b>rail-rope</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Aristagoras Comicus 5. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.f</b> <b>well-rope</b>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 10.31, 2nd c.AD: Moeris Grammaticus ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.g</b> <b>dog-leash</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 7.6: proverbial, ἦσθ᾽ ἱμὰς κύνειος">Refs 5th c.BC+</a>] you were tough as a dog-<b>leash</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 231; also σὺν τῷ κυνὶ καὶ τὸν ἱμάντα 9th c.AD: Photius Legal icographus, etc. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.h</b> <b>whip, scourge</b>, <span class='asgreek'>ἔξω</span> <span class='asgreek'>τις</span> <span class='asgreek'>δότω</span> <span class='asgreek'>ἱμάντα</span> [<a href="javascript:void(0)" title=" 4th c.BC: Antiphanes Comicus 74.8, compare 4th-3rd c.BC: Menander Comicus “Σαμία” 106; ἡ διὰ τῶν ἱ. αἰκεία “POxy.” 1186.2 (4th c.AD),cf. NT.Acts.22.25; ἱμάντες παιδαγωγῶν 4th c.AD: Libanius Sophista “Epistulae” 911.2. ">NT+4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_i</b> <b>cord</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 10.1001, compare 1.616. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>diseased condition of the uvula</b>, [<a href="javascript:void(0)" title=" [prev. author] 17(1).379. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ἱμάντες</span>, in Architecture texts, <b>planks</b> laid on rafters, [<a href="javascript:void(0)" title=" “IG” 12.372.82, 373.236, +others, 22.1668.55, 1672.305">Refs</a>]; on <span class='asgreek'>στρωτῆρες</span> (which see), [<a href="javascript:void(0)" title="[prev. work]463.66. (Cf.Sanskrit ">Refs</a>]<b>sināti</b> 'bind', Latin <i>saeta.</i>) [?\~X ¯, usually; but also <span class='asgreek'>ῑ</span> in <i>Epic dialect</i>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 8.544, etc.: in derivations and compounds always ῐ.] ">Refs 8th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Mark.1.7]] ☩ [[Acts.22.25]]
+</sub></small>

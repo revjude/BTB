@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==διαθήκη==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>διατίθημι</span>) <b>disposition</b> of property by will, <b>testament,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 584, 589, 4th c.BC: Demosthenes Orator 27.13, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>κατὰ</span> <span class='asgreek'>==διαθήκη==ν</span> by <b>will</b>, [<a href="javascript:void(0)" title=" “OGI” 753.8 (from Cilicia), “Test.Epict.” 4.8, “BGU” 1113.5 (1st c.BC)">Refs 1st c.BC+</a>], etc.: in <i>plural</i>, <span class='asgreek'>διαθήκας</span> <span class='asgreek'>διαθέσθαι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 19.39; θέσθαι “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2690 (from Iasus). ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>αἱ</span> <span class='asgreek'>ἀπόρρητοι</span> <span class='asgreek'>δ</span>. mystic <b>deposits</b> on which the common weal depended, probably oracles (compare <span class='asgreek'>διαθέτης</span>), [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Dinarchus Orator 1.9 codices ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> name of an eyesalve, because the recipe was <b>deposited</b> in a temple, [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 7.118. ">Refs 6th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>compact, covenant,</b> <span class='asgreek'>ἢν</span> <span class='asgreek'>μὴ</span> <span class='asgreek'>διαθῶνται</span> <span class='asgreek'>==διαθήκη==ν</span> <span class='asgreek'>ἐμοί</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 440; frequently in LXX, LXX.Gen.6.18, +others">LXX+5th c.BC+</a>]; <span class='asgreek'>καινή</span>, <span class='asgreek'>παλαιὰ</span> <span class='asgreek'>δ</span>., [<a href="javascript:void(0)" title=" NT.Luke.22.20, NT.2Cor.3.14 ">NT</a>]; <b>disposition</b> (with allusion to [<a href="javascript:void(0)" title=" 1), NT.Gal.3.15, cf. NT.Heb.9.15. ">NT</a>]
+$\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>διάθεσις</span>}[<a href="javascript:void(0)" title=" 11, σώματος δ. 3rd c.AD: Democritus Epigrammaticus 9. ">Refs 3rd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Gen.6.18]] ☩ [[Luke.22.20]] ☩ [[2Cor.3.14]] ☩ [[Gal.3.15]] ☩ [[Heb.9.15]]
+</sub></small>

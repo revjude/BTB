@@ -1,0 +1,29 @@
+**Isaiah 58:3** 
+<small><sub>**KJV:**</sub></small>
+Wherefore have we fasted, [say they], and thou seest not? [wherefore] have we afflicted our soul, and thou takest no knowledge? Behold, in the day of your fast ye find pleasure, and exact all your labours.
+<small><sub>**BSB:**</sub></small>
+“Why have we fasted, and You have not seen? Why have we humbled ourselves, and You have not noticed?” “Behold, on the day of your fast, you do as you please, and you oppress all your workers.
+<small><sub>**Literal:**</sub></small>
+\<to>  why? have we fasted and  not you have seen have we humbled? self  our and  not you know there! on  [the] day of fasting  your you find pleasure and  all laborers  your you drive hard<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.2|<< Isaiah 58:2]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.4|Isaiah 58:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| \<to> why?  | <span class="ashebrew"><big>לָ֤</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מָּה</big></span><small><sup>[[H4100]]</sup></small> &#8207;| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have we fasted  | <span class="ashebrew"><big>צַּ֙מְנוּ֙</big></span><small><sup>[[H6684]]</sup></small> &#8207;| tzam.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have seen  | <span class="ashebrew"><big>רָאִ֔יתָ</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ra.'I.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have we humbled?  | <span class="ashebrew"><big>עִנִּ֥ינוּ</big></span><small><sup>[[H6031B]]</sup></small> &#8207;| 'i.Ni.nu<small><sup>[[HVpp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self our  | <span class="ashebrew"><big>נַפְשֵׁ֖</big></span><small><sup>[[H5315I]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| naf.She.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you know  | <span class="ashebrew"><big>תֵדָ֑ע</big></span><small><sup>[[H3045]]</sup></small> &#8207;| te.Da'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  | <span class="ashebrew"><big>הֵ֣ן</big></span><small><sup>[[H2005]]</sup></small> &#8207;| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י֤וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fasting your  | <span class="ashebrew"><big>צֹֽמְ</big></span><small><sup>[[H6685]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| tzo.me.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you find  | <span class="ashebrew"><big>תִּמְצְאוּ</big></span><small><sup>[[H4672]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| tim.tze.'u-<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pleasure  | <span class="ashebrew"><big>חֵ֔פֶץ</big></span><small><sup>[[H2656]]</sup></small> &#8207;| Che.fetz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| laborers your  | <span class="ashebrew"><big>עַצְּבֵי</big></span><small><sup>[[H6092]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'a.tze.vei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you drive hard  | <span class="ashebrew"><big>תִּנְגֹּֽשׂוּ</big></span><small><sup>[[H5065]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tin.Go.su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.2|<< Isaiah 58:2]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.4|Isaiah 58:4 >>]]</td></tr></table>
+
+

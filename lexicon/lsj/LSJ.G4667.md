@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==Σμύρνα==</span></b>, 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>Σμύρ</span>-<span class='asgreek'>νη</span></b>, <span class='asgreek'>ἡ</span>, [<a href="javascript:void(0)" title=" “Smyrna”, in Ionia, 8th c.BC: Homerus Epicus “Epigrammata” 4.6, 6th c.BC: Mimnermus Lyricus 9.6 ">Refs 8th c.BC+</a>] (where it is called Aeolic,[<a href="javascript:void(0)" title="compare 5th c.BC: Herodotus Historicus 1.149)">Refs 5th c.BC+</a>]:—<b><span class='asgreek'>Σμυρναῖος</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, <b>of Smyrna</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “Fragmenta.” 204 ">Refs 5th c.BC+</a>]; <b><span class='asgreek'>Σμυρνα</span>ϊ<span class='asgreek'>κός</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Dorio Rerum Naturalium Scriptor cited in 2nd c.AD: Athenaeus Epigrammaticus 7.319d, etc.">Refs 1st c.BC+</a>]— In Inscrr. and Coins frequently written <b><span class='asgreek'>Ζμύρνα</span></b>, <b><span class='asgreek'>Ζμυρναῖος</span></b>, [<a href="javascript:void(0)" title=" “IG” 3.128.14, “IGRom.” 4.1545 (from Erythrae), Head “Hist.Num.” p.593. ">Refs</a>]
+

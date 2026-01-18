@@ -1,0 +1,22 @@
+ <span class="bdbLangHebrew">‎גָּדַע‎</span> **verb ** ==hew, hew down or off== (Late Hebrew ***id.*** (rare), Aramaic <span class="bdbLangAramaic">‎גְּדַע‎</span> Ithpe\`el; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKQAiAIAAAP///wAAACH5BAAAAAAALAAAAAApACIAAAJuhI+py+0PIwyysoCp3SBn7nyH+JCNh3HoZFYtCMdyuCrp3KFacss9vYO9Fr+Ri/Qq6iK65K8ZPNWCno6tRqyOoFwsr7dbWindqGF4LiLMNJzLnS7B0UY3PT4vseHZPX875CfU9bcmVoiYqLi4WAAAOw=="> ***cut off*** hand or other member, ***mutilate***) — 
+
+**Qal** ***Perfect*** <span class="bdbLangHebrew">‎גָּדַע‎</span> [[Lam.2.3|Lam 2:3]] <span class="bdbLangHebrew">‎וְגָדַעְתִּ֫י‎</span> [[1Sam.2.31|1Sam 2:31]] ***Imperfect*** <span class="bdbLangHebrew">‎וָאָגְדַּע‎</span> [[Zech.11.10|Zech 11:10]]; [[Zech.11.14|Zech 11:14]] ***Participle*** passive <span class="bdbLangHebrew">‎גְּדוּעָה‎</span> [[Isa.15.2|Isa 15:2]] (so many editions but) [[BDB#Baer|Baer]] <span class="bdbLangHebrew">‎גְּרוּעָה‎</span>; compare below, <span class="bdbLangHebrew">‎גְּדֻעִים‎</span> [[Isa.10.33|Isa 10:33]] — ***hew, cut in two***, a staff [[Zech.11.10|Zech 11:10]]; [[Zech.11.14|Zech 11:14]] metaphor ***hew off***, an arm [[1Sam.2.31|1Sam 2:31]] horns [[Lam.2.3|Lam 2:3]] ***hew down***, trees [[Isa.10.33|Isa 10:33]] if in [[Isa.15.2|Isa 15:2]] then = ***shave off*** (object <span class="bdbLangHebrew">‎זקן‎</span>, beard), but no other indication of this meaning, and true [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎גְּרוּעָה‎</span>, compare [[BDB#Baer|Baer's]] note &amp; [[Jer.48.37|Jer 48:37]] see  <span class="bdbLangHebrew">‎גרע‎</span>. **Niph\`al** ***Perfect*** <span class="bdbLangHebrew">‎נִגְדַּע‎</span> [[Judg.21.6|Judg 21:6]] <span class="bdbLangHebrew">‎נֶגְדַּע‎</span> [[Jer.50.23|Jer 50:23]] 3 feminine singular <span class="bdbLangHebrew">‎נִגְדְּעָה‎</span> [[Jer.48.25|Jer 48:25]] <span class="bdbLangHebrew">‎וְנִגְדְּעָה‎</span> consecutive [[Isa.22.25|Isa 22:25]] 2 masculine singular <span class="bdbLangHebrew">‎נִגְדַּעְתָּ‎</span> [[Isa.14.12|Isa 14:12]] 3 plural <span class="bdbLangHebrew">‎וְנִגְדְּעוּ‎</span> consecutive [[Ezek.6.6|Ezek 6:6]]; [[Amos.3.14|Amos 3:14]] — ***be hewn off***, of altar-horns [[Amos.3.14|Amos 3:14]], of idols [[Ezek.6.6|Ezek 6:6]] (\|\| <span class="bdbLangHebrew">‎נשׁבר‎</span>); of severance of a tribe from nation [[Judg.21.6|Judg 21:6]] figurative of king of Babylon [[Isa.14.12|Isa 14:12]] of Babylon as hammer [[Jer.50.23|Jer 50:23]] (\|\| <span class="bdbLangHebrew">‎נשׁבר‎</span>); of a minister, under figure of secure peg or pin [[Isa.22.25|Isa 22:25]] of horn of Moab [[Jer.48.25|Jer 48:25]] (\|\| <span class="bdbLangHebrew">‎נשׁבר‎</span>). **Pi\`el** ***Perfect*** <span class="bdbLangHebrew">‎גִּדַּע‎</span> [[2Chr.34.7|2Chr 34:7]], <span class="bdbLangHebrew">‎גִּדֵּ֑עַ‎</span> [[2Chr.34.4|2Chr 34:4]]; [[Ps.107.16|Ps 107:16]], <span class="bdbLangHebrew">‎וַיְגַדַּע‎</span> [[2Chr.14.2|2Chr 14:2]], <span class="bdbLangHebrew">‎אֲגַדֵּ֑עַ‎</span> [[Ps.7.5|Ps 7:5]]; [[Isa.45.2|Isa 45:2]], <span class="bdbLangHebrew">‎וַיְגַדְּעוּ‎</span> [[2Chr.31.1|2Chr 31:1]] 3 masculine plural <span class="bdbLangHebrew">‎תְּגַדֵּע֑וּן‎</span> [[Deut.7.5|Deut 7:5]]; [[Deut.12.3|Deut 12:3]] — ***hew off, down, in two*** (compare Qal) of ***Asherîm*** [[Deut.7.5|Deut 7:5]]; [[2Chr.14.2|2Chr 14:2]]; [[2Chr.31.1|2Chr 31:1]], of idols [[Deut.12.3|Deut 12:3]] (<span class="bdbLangHebrew">‎פְּסִילִים‎</span>) [[2Chr.34.4|2Chr 34:4]]; [[2Chr.34.7|2Chr 34:7]] (<span class="bdbLangHebrew">‎חַמָּנִים‎</span>); figurative horns of wicked [[Ps.75.11|Ps 75:11]] bars of iron (i.e. of Babylon's gates) [[Isa.45.2|Isa 45:2]], compare [[Ps.107.16|Ps 107:16]]. **Pu\`al** ***Perfect*** <span class="bdbLangHebrew">‎גֻּדָּ֑עוּ‎</span> [[Isa.9.9|Isa 9:9]] ***hew down*** (of trees). 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Deuteronomy | [[Deut.7.5\|7:5]] · [[Deut.12.3\|12:3]] |
+| Judges | [[Judg.21.6\|21:6]] |
+| 1 Samuel | [[1Sam.2.31\|2:31]] |
+| 2 Chronicles | [[2Chr.14.2\|14:2]] · [[2Chr.31.1\|31:1]] · [[2Chr.34.4\|34:4]] · [[2Chr.34.7\|34:7]] |
+| Psalms | [[Ps.7.5\|7:5]] · [[Ps.75.11\|75:11]] · [[Ps.107.16\|107:16]] |
+| Isaiah | [[Isa.9.9\|9:9]] · [[Isa.10.33\|10:33]] · [[Isa.14.12\|14:12]] · [[Isa.15.2\|15:2]] · [[Isa.22.25\|22:25]] · [[Isa.45.2\|45:2]] |
+| Jeremiah | [[Jer.48.25\|48:25]] · [[Jer.48.37\|48:37]] · [[Jer.50.23\|50:23]] |
+| Lamentations | [[Lam.2.3\|2:3]] |
+| Ezekiel | [[Ezek.6.6\|6:6]] |
+| Amos | [[Amos.3.14\|3:14]] |
+| Zechariah | [[Zech.11.10\|11:10]] · [[Zech.11.14\|11:14]] |
+

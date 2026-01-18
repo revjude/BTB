@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==ἐμβλέπω==</span>-<span class='asgreek'>βλέπω</span></b>, 
+
+
+ <i>perfect</i> <span class='asgreek'>==ἐμβλέπω==βέβλοφα</span> [<a href="javascript:void(0)" title=" “PLond.” 1.42.21 (2nd c.BC)">Refs 2nd c.BC+</a>]:—<b>look in the face, look at</b>, <span class='asgreek'>τινὶ</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ὀφθαλμοῖς</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Charmides” 155c, compare 4th c.BC: Demosthenes Orator 19.69; ἐ. εἰς τὸν ὀφθαλμόν 5th-6th c.BC: Plato Philosophus Alcaeus 1.132e, etc.: with \_accusative\_, ==ἐμβλέπω==βλέπω σε, παῖ, “Comica Adespota” 17.7 4th c.BC: Demosthenes Orator, compare 3rd c.BC: Herodas Mimographus 2.68, “Anthologia Graeca” 11.3, NT.Mark.8.25: \_absolutely\_, 5th-6th c.BC: Xenophon Historicus “Memorabilia” 3.11.10, 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1175a9. ">NT+5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>εἰς</span> <b>consider</b>, <span class='asgreek'>τὰ</span> <span class='asgreek'>πετεινὰ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>οὐρανοῦ</span> [<a href="javascript:void(0)" title=" NT.Matt.6.26 ">NT</a>]; <b>look into</b> a matter, [<a href="javascript:void(0)" title=" “PTeb.” 28.15 (2nd c.BC). ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> simply, <b>look</b>, <span class='asgreek'>ποῖ</span> <span class='asgreek'>==ἐμβλέπω==βλέψασα</span>..; [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 995 ">Refs 5th c.BC+</a>]; <span class='asgreek'>δεινὸν</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Ion” 535e, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pyrrhus” 34, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>πῦρ</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.28; ἱρὰ ἐς λῷον -οντα 3rd c.BC: Herodas Mimographus 4.80. ">Refs 3rd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Mark.8.25]] ☩ [[Matt.6.26]]
+</sub></small>

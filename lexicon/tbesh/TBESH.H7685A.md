@@ -1,0 +1,1 @@
+<span class="ashebrew">‎שָׂגָה‎</span> <small>***(sa.gah)***</small> ==**to grow**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 

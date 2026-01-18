@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==κεφαλαιόω==</span>-<span class='asgreek'>όω</span></b>, 
+
+
+ <b>bring under heads, sum up</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.67, +others">Refs 5th c.BC+</a>]:—<i>middle</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Magna Moralia” 1207b22 ">Refs 4th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>τινά</span> <b>characterize generally</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 576b; τὰς δυνάμεις τινῶν 1st c.BC: Philodemus Philosophus “περὶ κακιῶν ί” p.17 1st c.AD: Josephus Historicus ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be summed up</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Metaphysica” 1013b30; κ. ἑκάστην τῶν ἀρετῶν περὶ ἴδιόν τι κεφάλαιον “Stoicorum Veterum Fragmenta” 3.73 ">Refs 4th c.BC+</a>]; <span class='asgreek'>==κεφαλαιόω==οῦσθαι</span> <span class='asgreek'>ἐννακισχιλίων</span> <span class='asgreek'>ἑξακοσίων</span> [<span class='asgreek'>σταδίων</span>] <b>to amount in all to</b>.., [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 2.1.39 ">Refs 1st c.BC+</a>]; <span class='asgreek'>εἰς</span> <span class='asgreek'>δύο</span> <span class='asgreek'>ἀρτηρίας</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>πάντων</span> <span class='asgreek'>ἀγγείων</span> <span class='asgreek'>κ</span>. <span class='asgreek'>σύνοδος</span> <b>is combined in</b>.., [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 4.657, compare 3rd c.AD: Porphyrius Tyrius Philosophus “Sententiae ad intelligibilia ducentes” 44 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>==κεφαλαιόω==ούσθω</span> <span class='asgreek'>διότι</span>.. [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2.35 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>smite on the head,</b> [<a href="javascript:void(0)" title="NT.Mark.12.4. ">NT</a>]
+
+<small><sub>LSJ Scripture Refs: [[Mark.12.4]]
+</sub></small>

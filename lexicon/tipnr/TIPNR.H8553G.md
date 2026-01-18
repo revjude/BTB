@@ -1,0 +1,17 @@
+<small>*Timnah\_1 • In Philistia • Canaanite city associated with Judah and Dan*</small>
+
+<span class='tipnrhighlight'>Timnah</span>, a Canaanite city on the border between Judah and Dan, associated with Judah's son Er and Samson \(Gen. 38:12-14; Josh. 15:10; 19:43; Judg. 14:1-5\).
+- A location in Philistia first mentioned at [[Gen.38.12|Gen.38.12]]; 
+- referred to as Timnah<[[H8553G]]> \(<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Timnite<[[H8554]]> \(<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.784368,34.909680&zoom=10&maptype=satellite"></iframe>
+
+
+Timnah was a Canaanite city located on the border between the territories of Judah and Dan. It is first mentioned in the story of Judah and Tamar, where Judah's son Er was married to Tamar \(Gen. 38:12-14\). Later, during the conquest of Canaan, Timnah was allocated to the tribe of Dan \(Josh. 19:43\) but was also mentioned as part of Judah's territory \(Josh. 15:10\). In the time of the judges, Samson went down to Timnah and fell in love with a Philistine woman, whom he desired to marry \(Judg. 14:1-5\). The city was later captured by the Philistines during the reign of King Ahaz of Judah \(2 Chr. 28:18\). Timnah was situated in the Sorek Valley, known for its fertile land and strategic location on trade routes. 
+
+The Timnites are mentioned in [[Judg.15.6|Judges 15:6]] as the people of the Philistine city of Timnah. Samson, one of the judges of Israel, had married a Philistine woman from Timnah. However, during the wedding feast, Samson posed a riddle to the Philistine guests, which they could not solve. They threatened Samson's wife to reveal the answer, which she did. In anger, Samson killed thirty Philistine men and left his wife. Later, when Samson attempted to visit his wife, he discovered that her father had given her to another man. In revenge, Samson burned the Philistines' fields, vineyards, and olive groves. The Timnites retaliated by burning Samson's wife and her father to death. This escalated the conflict between Samson and the Philistines.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Timnah | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H8553G) <small>*Hebrew*</small> | 11x | [[Gen.38.12] ... [2Ch.28.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Timnah\*\|reference=Gen.38.12;Gen.38.13;Gen.38.14;Jos.15.10;Jos.19.43;Jdg.14.1;Jdg.14.1;Jdg.14.2;Jdg.14.5;Jdg.14.5;2Ch.28.18) |
+| Timnite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ת</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8554) <small>*Hebrew*</small> | 1x | [Jdg.15.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Timnite\*\|reference=Jdg.15.6) |
+All Strong's for **Timnah or Timnites**: \[[[H8553G]]\] \[[[H8554]]\]

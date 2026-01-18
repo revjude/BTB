@@ -1,0 +1,26 @@
+**Hosea 12:4** (12:5)
+<small><sub>**KJV:**</sub></small>
+Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him [in] Bethel, and there he spake with us;
+<small><sub>**BSB:**</sub></small>
+Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there—
+<small><sub>**Literal:**</sub></small>
+and  he struggled against an angel and  he prevailed he wept and  he sought favor to  him Beth- -el he found  him and  there he spoke with  us<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.3|<< Hosea 12:3]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.5|Hosea 12:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he struggled  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֤שַׂר</big></span><small><sup>[[H7786]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.sar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an angel  | <span class="ashebrew"><big>מַלְאָךְ֙</big></span><small><sup>[[H4397H]]</sup></small> &#8207;| mal.'oKh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he prevailed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֻּכָ֔ל</big></span><small><sup>[[H3201]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yu.Khal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he wept  | <span class="ashebrew"><big>בָּכָ֖ה</big></span><small><sup>[[H1058]]</sup></small> &#8207;| ba.Khah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he sought favor  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתְחַנֶּן</big></span><small><sup>[[H2603A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yit.cha.nen-<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>ל֑</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth-  | <span class="ashebrew"><big>בֵּֽית</big></span><small><sup>[[H1008G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| beit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -el  | <span class="ashebrew"><big>אֵל֙</big></span><small><sup>[[H1008G]]</sup></small> &#8207;| 'el<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he found him  | <span class="ashebrew"><big>יִמְצָאֶ֔</big></span><small><sup>[[H4672]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| yim.tza.'E.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שָׁ֖ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he spoke  | <span class="ashebrew"><big>יְדַבֵּ֥ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| ye.da.Ber<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with us  | <span class="ashebrew"><big>עִמָּֽ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'i.Ma.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.3|<< Hosea 12:3]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.5|Hosea 12:5 >>]]</td></tr></table>
+
+

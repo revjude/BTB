@@ -1,0 +1,22 @@
+**Psalms 59:12** (59:13)
+<small><sub>**KJV:**</sub></small>
+[For] the sin of their mouth [and] the words of their lips let them even be taken in their pride: and for cursing and lying [which] they speak.
+<small><sub>**BSB:**</sub></small>
+By the sins of their mouths and the words of their lips, let them be trapped in their pride, in the curses and lies they utter.
+<small><sub>**Literal:**</sub></small>
+[the] sin of mouth  their [the] word of lips  their and  let them be caught in  pride  their and  from  a curse and  from  lying [which] they speak<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.11|<< Psalms 59:11]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.13|Psalms 59:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] sin of  | <span class="ashebrew"><big>חַטַּאת</big></span><small><sup>[[H2403B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| cha.tat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth their  | <span class="ashebrew"><big>פִּ֗י</big></span><small><sup>[[H6310G]]</sup></small> <span class="ashebrew"><big>מוֹ</big></span><small><sup>[[H9028]]</sup></small> &#8207;| pi.<small><sup>[[HNcmsc]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  | <span class="ashebrew"><big>דְּֽבַר</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips their  | <span class="ashebrew"><big>שְׂפָ֫תֵ֥י</big></span><small><sup>[[H8193G]]</sup></small> <span class="ashebrew"><big>מוֹ</big></span><small><sup>[[H9028]]</sup></small> &#8207;| se.Fa.Tei.<small><sup>[[HNcfdc]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and let them be caught  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יִלָּכְד֥וּ</big></span><small><sup>[[H3920]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yi.la.khe.Du<small><sup>[[HVNu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in pride their  | <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גְאוֹנָ֑</big></span><small><sup>[[H1347]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| vi<small><sup>[[HR]]</sup></small> g.'o.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from a curse  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אָלָ֖ה</big></span><small><sup>[[H0423]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'a.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from lying  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>כַּ֣חַשׁ</big></span><small><sup>[[H3585]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Ka.chash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] they speak  | <span class="ashebrew"><big>יְסַפֵּֽרוּ</big></span><small><sup>[[H5608A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.sa.Pe.ru<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.11|<< Psalms 59:11]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.13|Psalms 59:13 >>]]</td></tr></table>
+
+

@@ -1,0 +1,20 @@
+**Proverbs 9:10** 
+<small><sub>**KJV:**</sub></small>
+The fear of the LORD [is] the beginning of wisdom: and the knowledge of the holy [is] understanding.
+<small><sub>**BSB:**</sub></small>
+The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding.
+<small><sub>**Literal:**</sub></small>
+[is the] beginning of wisdom [the] fear of Yahweh and  [the] knowledge of [the] holy [one\<s>] [is] understanding<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.9|<< Proverbs 9:9]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.11|Proverbs 9:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [is the] beginning of  | <span class="ashebrew"><big>תְּחִלַּ֣ת</big></span><small><sup>[[H8462]]</sup></small> &#8207;| te.chi.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  | <span class="ashebrew"><big>חָ֭כְמָה</big></span><small><sup>[[H2451]]</sup></small> &#8207;| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] fear of  | <span class="ashebrew"><big>יִרְאַ֣ת</big></span><small><sup>[[H3374]]</sup></small> &#8207;| yir.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] knowledge of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דַ֖עַת</big></span><small><sup>[[H1847]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Da.'at<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] holy [one\<s>]  | <span class="ashebrew"><big>קְדֹשִׁ֣ים</big></span><small><sup>[[H6918G]]</sup></small> &#8207;| ke.do.Shim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] understanding  | <span class="ashebrew"><big>בִּינָֽה</big></span><small><sup>[[H0998]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| bi.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.9|<< Proverbs 9:9]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.11|Proverbs 9:11 >>]]</td></tr></table>
+
+

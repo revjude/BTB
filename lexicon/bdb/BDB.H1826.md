@@ -1,0 +1,30 @@
+ I. [<span class="bdbLangHebrew">‎דָּמַם‎</span>] **verb** ==be or grow dumb, silent, still== (Late Hebrew ***id.***; Ethiopic in II. <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhTgATAIAAAP///wAAACH5BAAAAAAALAAAAABOABMAAAKehI+py+0PUZgzAmqzfrTyHmziaHRXuIAeyUYqmmAn/L2W6s6MrPPli4sBg7UGzzbDyZZAndN3wKwkHibK+rtWt9puVtEUhqan5wprMnudVGIUKv7+5NY1tr1uf6IXOjc7JkUGdjaYtgNTd/SXdJiyePV295UGEmfpxpYk2ThEE+YAGjpVOYmntzEI4XMoSEPYEgsXS9vyWoubq7tLUgAAOw=="> ***stupefy***; III., 1 &amp; 2 <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhigAXAIAAAP///wAAACH5BAAAAAAALAAAAACKABcAAAL/hI+py+0Po5y02ouz3rz7D0rBGExkGSqnuKbdiT5w7BpkNNM11jY38NsBgzpbLIgr1lpI46G3yI0ozCmCaI1Ks4ltU2vMdbNQb+k7NuuwNPWwbX630zN5+kkWv8P26+2MgsTmB2j19yPFtwelSKRyxIVoOBlYJMl1t4dXCbnZd9mIOeTJoEeKdSpKqBSmCqr5WpXK2uqDBkupCATBuFoKyRkajHvEe2sz+jirm6TaqpQXXDW8cqzl/MwX/YyJ3febSMkpmCtHTvuNx109NW1pzah2WFgJDsO8iR5fl29uTWqPTrd53gSiy2RvDZpDFnqtUsjqnwt4+/RlcKguUkEhFwEvHOQIMqTIkSRLmjyJMqXKlSxbuigAADs="> ***be astounded, stupefied***) — 
+
+**Qal** ***Perfect*** <span class="bdbLangHebrew">‎דַּ֫מּוּ‎</span> [[Job.30.27|Job 30:27]], <span class="bdbLangHebrew">‎דָּ֑מּוּ‎</span> [[Ps.35.15|Ps 35:15]] ***Imperfect*** <span class="bdbLangHebrew">‎יִדֹּם‎</span> [[Amos.5.13|Amos 5:13]] + 2 t., <span class="bdbLangHebrew">‎וַיִּדֹּם‎</span> [[Lev.10.3|Lev 10:3]]; [[Josh.10.13|Josh 10:13]] 3 feminine singular <span class="bdbLangHebrew">‎תִּדֹּם‎</span> [[Lam.2.18|Lam 2:18]] 2 feminine singular <span class="bdbLangHebrew">‎תִּדֹּמִּי‎</span> [[Jer.48.2|Jer 48:2]] (so [[BDB#Ki|Ki]] [[BDB#Ol|Ol]] &amp; [[BDB#Kö|Kö]]<sup>327</sup> q. v.; others Niph\`al); <span class="bdbLangHebrew">‎וָאֶדֹּם‎</span> [[Job.31.34|Job 31:34]]: <span class="bdbLangHebrew">‎יִדְּמוּ‎</span> [[Exod.15.16|Exod 15:16]] + 3 t.; 1 plural cohortative <span class="bdbLangHebrew">‎נִדְּמָה‎</span> [[Jer.8.14|Jer 8:14]] (so [[BDB#Thes|Thes]] [[BDB#Ol|Ol]] [[BDB#Bö|Bö]] [[BDB#Kö|Kö]]<sup>327 q.</sup> see; others Niph\`al); — 
+
+**1.** ***be silent*** [[Ps.4.5|Ps 4:5]]; [[Ps.30.13|Ps 30:13]]; [[Ps.35.15|Ps 35:15]] (probably, compare [[BDB#De|De]] [[BDB#Che|Che]]), [[Ezek.24.17|Ezek 24:17]]; [[Lev.10.3|Lev 10:3]] ([[BDB#P|P]]) [[Amos.5.13|Amos 5:13]] in grief [[Lam.2.10|Lam 2:10]]; [[Lam.3.28|Lam 3:28]]. 
+
+**2.** ***be still*** (opposed to both speech and motion) [[Job.31.34|Job 31:34]] = perish [[Jer.8.14|Jer 8:14]]; [[Jer.48.2|Jer 48:2]]; [[Ps.31.18|Ps 31:18]] (<span class="bdbLangHebrew">‎לשׁאול‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ד‎</span>); with <span class="bdbLangHebrew">‎לְ‎</span> ***be silent to*** i.e. be resigned to [[Ps.37.7|Ps 37:7]]; [[Ps.62.6|Ps 62:6]], followed by <span class="bdbLangHebrew">‎לְמוֺ עֲצָתִי‎</span> [[Job.29.21|Job 29:21]] (\|\| <span class="bdbLangHebrew">‎לִי שָֽׁמְעוּ‎</span>); ***be still***, motionless, stand still [[Josh.10.12|Josh 10:12]]; [[Josh.10.13|Josh 10:13]] (of sun \|\| <span class="bdbLangHebrew">‎עמד‎</span>); [[1Sam.14.9|1Sam 14:9]] (men); [[Jer.47.6|Jer 47:6]] (of sword \|\| <span class="bdbLangHebrew">‎הֵרָֽגְעִי‎</span>); so also of bowels, as seat of mental excitement [[Job.30.27|Job 30:27]]; [[Lam.2.18|Lam 2:18]] <span class="bdbLangHebrew">‎אַלתִּֿדֹּם בַּתעֵֿינֵךְ‎</span>, i.e. cease not to weep (\|\| <span class="bdbLangHebrew">‎הוֺרִידִי כַנַּחַל דִּמְעָה‎</span>). 
+
+**3.** ***be struck dumb, astounded***, in amazement and fear [[Exod.15.16|Exod 15:16]] (<span class="bdbLangHebrew">‎כאבן‎</span>) [[Isa.23.2|Isa 23:2]] (but compare II. <span class="bdbLangHebrew">‎דמם‎</span>). **Niph\`al** ***Perfect*** 3 plural <span class="bdbLangHebrew">‎וְנָדַמּוּ‎</span> consecutive [[Jer.25.37|Jer 25:37]] ***Imperfect*** <span class="bdbLangHebrew">‎יִדַּמּוּ‎</span> [[Jer.49.26|Jer 49:26]]; [[Jer.50.30|Jer 50:30]], <span class="bdbLangHebrew">‎יִדָּ֑מּוּ‎</span> [[1Sam.2.9|1Sam 2:9]] 2 masculine plural <span class="bdbLangHebrew">‎תִּדַּמּוּ‎</span> [[Jer.51.6|Jer 51:6]] — ***be made silent***, i.e. destroyed; the wicked [[1Sam.2.9|1Sam 2:9]] (<span class="bdbLangHebrew">‎בַּחשֶׁךְ‎</span>), compare [[Jer.51.6|Jer 51:6]] men of war [[Jer.49.25|Jer 49:25]]; [[Jer.50.30|Jer 50:30]] dwellings [[Jer.25.37|Jer 25:37]]. **Po.** ***Perfect*** 1 singular <span class="bdbLangHebrew">‎שִׁוִּיתִי וְדוֺמַ֫מְתִּי נַפְשִׁי‎</span> [[Ps.131.2|Ps 131:2]] '***composed and quieted my soul***' [[BDB#Che|Che]] (as a weaned child). **Hiph\`il** ***Perfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎הֲדִמָּנוּ‎</span> ***he*** (God) ***hath silenced us*** ( = caused to perish) [[Jer.8.14|Jer 8:14]]. 
+
+
+
+ II. [<span class="bdbLangHebrew">‎דָּמַם‎</span>] **verb** ==wail== (?; compare Assyrian <abbr title="transliteration"><u>***damâmu***</u></abbr>, ***groan, wail***, ***lament***, [[BDB#Dl|Dl]]<sup>Baer's Ezech xi; pr 64</sup>) — only **Qal** ***Imperative*** <span class="bdbLangHebrew">‎דֹּ֫מּוּ ישְׁבֵי אִי‎</span> [[Isa.23.2|Isa 23:2]] ***wail, ye coast dwellers*** (compare [[BDB#Dl|Dl]]<sup>l.c</sup>.), \|\| <span class="bdbLangHebrew">‎הֵילִילוּ‎</span> v[[Isa.23.1|Isa 23:1]], &amp; <span class="bdbLangHebrew">‎הֵילִילוּ ישְׁבֵי אִי‎</span> v[[Isa.23.6|Isa 23:6]] most, however, assign this to  I. <span class="bdbLangHebrew">‎דמם‎</span> q. v. (**3**). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.15.16\|15:16]] |
+| Leviticus | [[Lev.10.3\|10:3]] |
+| Joshua | [[Josh.10.12\|10:12]] · [[Josh.10.13\|10:13]] |
+| 1 Samuel | [[1Sam.2.9\|2:9]] · [[1Sam.14.9\|14:9]] |
+| Job | [[Job.29.21\|29:21]] · [[Job.30.27\|30:27]] · [[Job.31.34\|31:34]] |
+| Psalms | [[Ps.4.5\|4:5]] · [[Ps.30.13\|30:13]] · [[Ps.31.18\|31:18]] · [[Ps.35.15\|35:15]] · [[Ps.37.7\|37:7]] · [[Ps.62.6\|62:6]] · [[Ps.131.2\|131:2]] |
+| Isaiah | [[Isa.23.1\|23:1]] · [[Isa.23.2\|23:2]] · [[Isa.23.6\|23:6]] |
+| Jeremiah | [[Jer.8.14\|8:14]] · [[Jer.25.37\|25:37]] · [[Jer.47.6\|47:6]] · [[Jer.48.2\|48:2]] · [[Jer.49.25\|49:25]] · [[Jer.49.26\|49:26]] · [[Jer.50.30\|50:30]] · [[Jer.51.6\|51:6]] |
+| Lamentations | [[Lam.2.10\|2:10]] · [[Lam.2.18\|2:18]] · [[Lam.3.28\|3:28]] |
+| Ezekiel | [[Ezek.24.17\|24:17]] |
+| Amos | [[Amos.5.13\|5:13]] |
+

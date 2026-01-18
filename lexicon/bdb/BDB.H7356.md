@@ -1,0 +1,44 @@
+ <span class="bdbLangHebrew">‎רֶ֫חֶם‎</span>, <span class="bdbLangHebrew">‎רַ֫הַם‎</span> **noun masculine**<sup>[[Hos.9.14|Hos 9:14]]</sup> ==womb== (**feminine** [[Jer.20.17|Jer 20:17]], unless <span class="bdbLangHebrew">‎הֲרַת‎</span> a noun, compare [[BDB#Albr.|Albr]]<sup>ZAW xvi.81</sup> [[BDB#SS|SS]]); — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> [[Gen.20.18|Gen 20:18]] +, <span class="bdbLangHebrew">‎רַ֫חַם‎</span> [[Judg.5.30|Judg 5:30]], <span class="bdbLangHebrew">‎רָ֑חֶם‎</span> [[Jer.20.17|Jer 20:17]] +, <span class="bdbLangHebrew">‎רָ֑חַם‎</span> [[Gen.49.25|Gen 49:25]] +; construct <span class="bdbLangHebrew">‎רֶ֫חֶם‎</span> [[Num.12.12|Num 12:12]]; [[Job.3.11|Job 3:11]] suffix <span class="bdbLangHebrew">‎רַחְמָהּ‎</span> [[Gen.29.31|Gen 29:31]] +, <span class="bdbLangHebrew">‎רַחְמָהֿ‎</span> [[Jer.20.17|Jer 20:17]] ([[BDB#Ges|Ges]]<sup>«GKC:91e»§ 91e</sup>; &gt;f. absolute [[BDB#Kö|Kö]]<sup>ii. 1. 159</sup>); dual <span class="bdbLangHebrew">‎רַחֲמָתַיִם‎</span> [[Judg.5.30|Judg 5:30]] — 
+
+**1.** ***womb***, [[Gen.49.25|Gen 49:25]] ([[BDB#J|J]]) [[Jer.20.17|Jer 20:17]]; [[Job.24.20|Job 24:20]] <span class="bdbLangHebrew">‎מֵרחם‎</span> i.e. from birth [[Jer.20.17|Jer 20:17]]; [[Ps.22.11|Ps 22:11]]; [[Ps.58.4|Ps 58:4]]; [[Job.3.11|Job 3:11]] (<span class="bdbLangHebrew">‎מִנִּי‎</span>), [[Isa.46.3|Isa 46:3]], figurative [[Ps.110.3|Ps 110:3]] <span class="bdbLangHebrew">‎בָּרֶחֶם‎</span> [[Job.31.15|Job 31:15]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יצא מֵר‎</span> ***go forth from womb*** in birth [[Jer.1.5|Jer 1:5]]; [[Jer.20.18|Jer 20:18]]; [[Job.38.8|Job 38:8]], compare [[Job.10.18|Job 10:18]] <span class="bdbLangHebrew">‎אֵם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מֵר‎</span> [[Num.12.12|Num 12:12]] ([[BDB#E|E]]); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פתח ר‎</span> ***open the womb***, in order to childbirth [[Gen.29.31|Gen 29:31]]; [[Gen.30.22|Gen 30:22]] ([[BDB#J|J]][[BDB#E|E]]); <span class="bdbLangHebrew">‎כָּלפֶּֿטֶר רחם‎</span> ***all that first opens womb*** (of men and animals) [[Exod.13.12|Exod 13:12]]; [[Exod.13.15|Exod 13:15]]; [[Exod.34.19|Exod 34:19]] ([[BDB#J|J]]) [[Num.18.15|Num 18:15]] ([[BDB#P|P]]) [[Ezek.20.26|Ezek 20:26]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פטר ר‎</span> [[Num.3.12|Num 3:12]] ([[BDB#P|P]]), <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פִּטְרַת כל ר‎</span> [[Num.8.16|Num 8:16]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פטר כל ר‎</span> [[Exod.13.2|Exod 13:2]] ([[BDB#P|P]]); on the other hand, <span class="bdbLangHebrew">‎מַשִׁכִּיל‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> [[Hos.9.14|Hos 9:14]] ***miscarrying womb***; <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עֹצֶר ר‎</span> [[Prov.30.16|Prov 30:16]] ***restraint*** (i.e. barrenness) ***of womb*** (so [[Ps.107.36|Ps 107:36]] [[BDB#Perles|Perles]]<sup>Anal. 85</sup>); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עָצַר בְּעַד ר‎</span> (of God) [[Gen.20.18|Gen 20:18]] ([[BDB#E|E]]); <span class="bdbLangHebrew">‎סָגַר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> (<span class="bdbLangHebrew">‎בְּעַד‎</span>) [[1Sam.1.5|1Sam 1:5]]; [[1Sam.1.6|1Sam 1:6]], preventing childbirth. 
+
+**2.** ***womb-man, woman-slave:*** <span class="bdbLangHebrew">‎רַחַם רַחֲמָתַיִם‎</span> [[Judg.5.30|Judg 5:30]] ***a woman, two women.*** 
+
+
+
+ <span class="bdbLangHebrew">‎רַחֲמִים‎</span> **noun masculine**<sup>[[2Sam.24.14|2Sam 24:14]]</sup> **absolute plural intensive** ==compassion== (according to many denominative from <span class="bdbLangHebrew">‎רֶחֶם‎</span>, originally ***brotherhood, brotherly feeling***, of those born from same womb, see [[BDB#Nö|Nö]]<sup>ZMG xl (1886), 151</sup> (yet see 152) [[BDB#We|We]]<sup>GGN 1893, 475</sup> [[BDB#Gerber|Gerber]]<sup>126</sup>, or ***motherly feeling*** [[BDB#Kö|Kö]]<sup>ii. 1, 34</sup>); — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> [[Gen.43.14|Gen 43:14]] +; construct <span class="bdbLangHebrew">‎רַחֲמֵי‎</span> [[Prov.12.10|Prov 12:10]] suffix <span class="bdbLangHebrew">‎רַחֲמָיו‎</span> [[Lam.3.22|Lam 3:22]] ([[BDB#Baer|Baer]] [[BDB#Gi|Gi]]; [[BDB#van d.H.|van d. H.]] [[BDB#Qr|Qr]], [[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎רחמו‎</span>), [[2Sam.24.14|2Sam 24:14]] [[BDB#Qr|Qr]] (&gt; [[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎רחמו‎</span>), etc.; — 
+
+**1.** ***compassion:*** usually of God [[Isa.63.7|Isa 63:7]]; [[Isa.63.15|Isa 63:15]]; [[Ps.77.10|Ps 77:10]]; [[Ps.79.8|Ps 79:8]]; [[Ps.119.77|Ps 119:77]]; [[Zech.1.16|Zech 1:16]]; [[Dan.9.9|Dan 9:9]]; [[Neh.9.28|Neh 9:28]] with <span class="bdbLangHebrew">‎רבים‎</span> [[2Sam.24.14|2Sam 24:14]] = [[1Chr.21.13|1Chr 21:13]]; [[Neh.9.19|Neh 9:19]]; [[Neh.9.27|Neh 9:27]]; [[Neh.9.31|Neh 9:31]]; [[Ps.119.156|Ps 119:156]]; [[Dan.9.18|Dan 9:18]] <span class="bdbLangHebrew">‎גדולים‎</span> [[Isa.54.7|Isa 54:7]] \|\| <span class="bdbLangHebrew">‎חסד‎</span> [[Ps.40.12|Ps 40:12]]; [[Ps.103.4|Ps 103:4]]; [[Hos.2.21|Hos 2:21]]; [[Jer.16.5|Jer 16:5]] <span class="bdbLangHebrew">‎חסדים‎</span> [[Ps.25.6|Ps 25:6]] <span class="bdbLangHebrew">‎כרֹב רחמיךָ‎</span> [[Ps.51.3|Ps 51:3]]; [[Ps.69.17|Ps 69:17]] with <span class="bdbLangHebrew">‎על‎</span> of thing [[Ps.145.9|Ps 145:9]] <span class="bdbLangHebrew">‎ל‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נתן ר‎</span> [[Deut.13.18|Deut 13:18]]; [[Jer.42.12|Jer 42:12]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎לא כלו ר‎</span> [[Lam.3.22|Lam 3:22]]. 
+
+**2.** of man, [[Amos.1.11|Amos 1:11]]; [[Prov.12.10|Prov 12:10]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עשׂה ר‎</span> [[Zech.7.9|Zech 7:9]] <span class="bdbLangHebrew">‎לִפְנֵי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נָתַן לפ‎</span> [[Gen.43.14|Gen 43:14]] ([[BDB#R|R]]); <span class="bdbLangHebrew">‎נתן‎</span> <span class="bdbLangHebrew">‎לִפְנֵי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎לר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> [[1Kgs.8.50|1Kgs 8:50]]; [[Neh.1.11|Neh 1:11]]; [[Dan.1.9|Dan 1:9]]; [[Ps.106.46|Ps 106:46]], compare [[2Chr.30.9|2Chr 30:9]] <span class="bdbLangHebrew">‎ל‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׂם ר‎</span> [[Isa.47.6|Isa 47:6]] <span class="bdbLangHebrew">‎אל‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נִכְמְרוּ ר‎</span> [[Gen.43.30|Gen 43:30]] ([[BDB#J|J]]), with <span class="bdbLangHebrew">‎על‎</span> [[2Kgs.3.26|2Kgs 3:26]]. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.20.18\|20:18]] · [[Gen.29.31\|29:31]] · [[Gen.30.22\|30:22]] · [[Gen.43.14\|43:14]] · [[Gen.43.30\|43:30]] · [[Gen.49.25\|49:25]] |
+| Exodus | [[Exod.13.2\|13:2]] · [[Exod.13.12\|13:12]] · [[Exod.13.15\|13:15]] · [[Exod.34.19\|34:19]] |
+| Numbers | [[Num.3.12\|3:12]] · [[Num.8.16\|8:16]] · [[Num.12.12\|12:12]] · [[Num.18.15\|18:15]] |
+| Deuteronomy | [[Deut.13.18\|13:18]] |
+| Judges | [[Judg.5.30\|5:30]] |
+| 1 Samuel | [[1Sam.1.5\|1:5]] · [[1Sam.1.6\|1:6]] |
+| 2 Samuel | [[2Sam.24.14\|24:14]] |
+| 1 Kings | [[1Kgs.8.50\|8:50]] |
+| 2 Kings | [[2Kgs.3.26\|3:26]] |
+| 1 Chronicles | [[1Chr.21.13\|21:13]] |
+| 2 Chronicles | [[2Chr.30.9\|30:9]] |
+| Nehemiah | [[Neh.1.11\|1:11]] · [[Neh.9.19\|9:19]] · [[Neh.9.27\|9:27]] · [[Neh.9.28\|9:28]] · [[Neh.9.31\|9:31]] |
+| Job | [[Job.3.11\|3:11]] · [[Job.10.18\|10:18]] · [[Job.24.20\|24:20]] · [[Job.31.15\|31:15]] · [[Job.38.8\|38:8]] |
+| Psalms | [[Ps.22.11\|22:11]] · [[Ps.25.6\|25:6]] · [[Ps.40.12\|40:12]] · [[Ps.51.3\|51:3]] · [[Ps.58.4\|58:4]] · [[Ps.69.17\|69:17]] · [[Ps.77.10\|77:10]] · [[Ps.79.8\|79:8]] · [[Ps.103.4\|103:4]] · [[Ps.106.46\|106:46]] · [[Ps.107.36\|107:36]] · [[Ps.110.3\|110:3]] · [[Ps.119.77\|119:77]] · [[Ps.119.156\|119:156]] · [[Ps.145.9\|145:9]] |
+| Proverbs | [[Prov.12.10\|12:10]] · [[Prov.30.16\|30:16]] |
+| Isaiah | [[Isa.46.3\|46:3]] · [[Isa.47.6\|47:6]] · [[Isa.54.7\|54:7]] · [[Isa.63.7\|63:7]] · [[Isa.63.15\|63:15]] |
+| Jeremiah | [[Jer.1.5\|1:5]] · [[Jer.16.5\|16:5]] · [[Jer.20.17\|20:17]] · [[Jer.20.18\|20:18]] · [[Jer.42.12\|42:12]] |
+| Lamentations | [[Lam.3.22\|3:22]] |
+| Ezekiel | [[Ezek.20.26\|20:26]] |
+| Daniel | [[Dan.1.9\|1:9]] · [[Dan.9.9\|9:9]] · [[Dan.9.18\|9:18]] |
+| Hosea | [[Hos.2.21\|2:21]] · [[Hos.9.14\|9:14]] |
+| Amos | [[Amos.1.11\|1:11]] |
+| Zechariah | [[Zech.1.16\|1:16]] · [[Zech.7.9\|7:9]] |
+

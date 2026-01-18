@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==αὐχμηρός==</span></b>, <span class='asgreek'>ά</span>, <span class='asgreek'>όν</span>, 
+
+
+ <b>dry, without rain,</b> <span class='asgreek'>χειμών</span>[<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἀφορισμοί” 3.11, compare “Aër.” 10; ἔτη 4th c.BC: Aristoteles Philosophus “Historia Animalium” 605b19; ἔαρ [prev. author] “Pr.” 860a13 ">Refs 5th c.BC+</a>]; of places, <b>dry, parched,</b> <span class='asgreek'>τόποι</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 761b (\_superlative\_),cf. NT.2Pet.1.19; χωρία 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 9.11.10, etc.; καρποί 1st c.BC: Diodorus Siculus Historicus 2.53. ">NT+5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>parching,</b> <span class='asgreek'>νόσοι</span>[<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 121.3. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>dry, rough, squalid,</b> <span class='asgreek'>οὖδας</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Alcestis” 947; σκληρὸς καὶ αὐ. 5th-6th c.BC: Plato Philosophus “Symposium” 203d">Refs 5th c.BC+</a>]; especially of hair (compare {<span class='asgreek'>αὐχμηροκόμης</span>}), [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 475, 5th c.BC: Euripides Tragicus “Orestes” 387, 3rd c.BC: Theocritus Poeta Bucolicus 25.225; βίος 2nd c.AD: Lucianus Sophista “Salt.” 1">Refs 5th c.BC+</a>]. <i>adverb</i> -<span class='asgreek'>ρῶς</span>, <span class='asgreek'>ἔχειν</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>προσώπου</span>[<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 4.10. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>miserable,</b> [<a href="javascript:void(0)" title=" 4th c.AD(?): Manetho Astrologus 2.169: with \_genitive\_, βιότοιο [prev. work] 454: irregular \_superlative\_ αὐχμότατος">Refs 4th c.AD+</a>] uncertain reading in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Comicus 169.">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Pet.1.19]]
+</sub></small>

@@ -1,0 +1,30 @@
+**1 Kings 19:16** 
+<small><sub>**KJV:**</sub></small>
+And Jehu the son of Nimshi shalt thou anoint [to be] king over Israel: and Elisha the son of Shaphat of Abelmeholah shalt thou anoint [to be] prophet in thy room.
+<small><sub>**BSB:**</sub></small>
+You are also to anoint Jehu son of Nimshi as king over Israel and Elisha son of Shaphat from Abel-meholah to succeed you as prophet.
+<small><sub>**Literal:**</sub></small>
+and  \<obj.> Jehu [the] son of Nimshi you will anoint to  king over Israel and  \<obj.> Elisha [the] son of Shaphat from  Abel Meholah you will anoint to  prophet in place of  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.15|<< 1 Kings 19:15]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.17|1 Kings 19:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵת֙</big></span><small><sup>[[H0853]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehu  | <span class="ashebrew"><big>יֵה֣וּא</big></span><small><sup>[[H3058H]]</sup></small> &#8207;| ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nimshi  | <span class="ashebrew"><big>נִמְשִׁ֔י</big></span><small><sup>[[H5250]]</sup></small> &#8207;| nim.Shi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will anoint  | <span class="ashebrew"><big>תִּמְשַׁ֥ח</big></span><small><sup>[[H4886]]</sup></small> &#8207;| tim.Shach<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to king  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֶ֖לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elisha  | <span class="ashebrew"><big>אֱלִישָׁ֤ע</big></span><small><sup>[[H0477]]</sup></small> &#8207;| 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shaphat  | <span class="ashebrew"><big>שָׁפָט֙</big></span><small><sup>[[H8202H]]</sup></small> &#8207;| sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Abel  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אָבֵ֣ל</big></span><small><sup>[[H0065]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'a.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Meholah  | <span class="ashebrew"><big>מְחוֹלָ֔ה</big></span><small><sup>[[H0065]]</sup></small> &#8207;| me.cho.Lah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will anoint  | <span class="ashebrew"><big>תִּמְשַׁ֥ח</big></span><small><sup>[[H4886]]</sup></small> &#8207;| tim.Shach<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to prophet  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נָבִ֖יא</big></span><small><sup>[[H5030]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of you  | <span class="ashebrew"><big>תַּחְתֶּֽי</big></span><small><sup>[[H8478H]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tach.Tei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.15|<< 1 Kings 19:15]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.17|1 Kings 19:17 >>]]</td></tr></table>
+
+

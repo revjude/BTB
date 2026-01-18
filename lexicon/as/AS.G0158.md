@@ -1,0 +1,1 @@
+<span class="asform">\* <span class="asgreek"><span class="asbold">αἴτιον</span></span>, <span class="asgreek">-ου, τό</span>, v.s. <span class="asref"><span class="asgreek">αἴτιος</span></span>.</span>

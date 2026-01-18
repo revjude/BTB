@@ -1,0 +1,14 @@
+ II. [<span class="bdbLangHebrew">‎גֵּב‎</span>] ==pit==, III. [<span class="bdbLangHebrew">‎גֵּב‎</span>] ***beam***, see below <span class="bdbLangHebrew">‎גוב‎</span>. 
+
+ II. <span class="bdbLangHebrew">‎גֵּב‎</span> **noun [masculine]** ==pit, ditch, trench==, (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLAAfAIAAAP///wAAACH5BAAAAAAALAAAAAAsAB8AAAJ2hI+py+0PYwoyUOmsfvritXnGNo7idCoUCXRiirhQd1ggW9sY/PWl7gu2Wjyh8XgEIhlK0zKTwj1zMGWTeG3QVK+mq5hzosInz5cpw1pXl/KZ+93GQvE3Z7aWTkv7m6rP9IcGKHYD5qM3N5VGOCfXCBkpOdlYAAA7"> ***hollow, depression***; Syriac <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhOgAgAIAAAP///wAAACH5BAAAAAAALAAAAAA6ACAAAAKLhI+py+0Po5y02oszC1rxbgTiNk4lKH4ecD5tl25slKroi+AeF4Os/jP1brYMEDP0KX/F5S1Ra9SOsOK0eaUaW7xpLqdFHqMhGzcMIZMOSbPacmVGT151HN7Netn63l1Y1oeVJReY5HBINPRH0uSzJ5fo5AIJOSnx93ZJI7h5oeep4RhKWmp6impRAAA7"> ***cistern***) — only plural <span class="bdbLangHebrew">‎גֵּבִים‎</span> [[Jer.14.3|Jer 14:3]] in [[2Kgs.3.16|2Kgs 3:16]] <span class="bdbLangHebrew">‎גבים גבים‎</span>, i.e. ***full of ditches***; further, ***cisterns*** (according to [[BDB#Klo|Klo]] [[2Kgs.25.12|2Kgs 25:12]]) [[Jer.39.10|Jer 39:10]] <span class="bdbLangHebrew">‎וִּיגֵבִים‎</span> (read <span class="bdbLangHebrew">‎וְגֵבִים‎</span>); compare also \|\| [[2Kgs.25.12|2Kgs 25:12]] (<span class="bdbLangHebrew">‎ולגבים‎</span> [[BDB#Kt|Kt]], <span class="bdbLangHebrew">‎וּלְיוֺגְבִים‎</span> [[BDB#Qr|Qr]]) = [[Jer.52.16|Jer 52:16]] (<span class="bdbLangHebrew">‎וּלְֹיגְבִים‎</span>; both with <span class="bdbLangHebrew">‎כֹּרְמִים‎</span>); [[BDB#Klo|Klo]] propose to emend these, so as to read in all <span class="bdbLangHebrew">‎וַיִּתֵּן לָהֶם כְּרָמִים וְגֵבִים‎</span> ***and gave to them vineyards and cisterns***; another view in [[BDB#The|Th]]; compare further <span class="bdbLangHebrew">‎גוב‎</span>, <span class="bdbLangHebrew">‎יגב‎</span>. — I. <span class="bdbLangHebrew">‎גֵּב‎</span> see below <span class="bdbLangHebrew">‎גבה‎</span>. 
+
+ III. [<span class="bdbLangHebrew">‎גֵּב‎</span>] **noun [masculine]** ==beam, rafter==? ([[BDB#Thes|Thes]] below <span class="bdbLangHebrew">‎גוב‎</span>, but meaning &amp; √ dubious), <span class="bdbLangHebrew">‎גֵּבִים‎</span> [[1Kgs.6.9|1Kgs 6:9]] but [[BDB#Lag|Lag]]<sup>Armen. Stud. § 499, M i. 212; BN 155</sup> reads <span class="bdbLangHebrew">‎גֻּבְּדִים‎</span> (Persian <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMwAaAIAAAP///wAAACH5BAAAAAAALAAAAAAzABoAAAJYhI+py+0PIwiy2kSv3ry3AHodGIocmZkbqp5lO6awG2vvcV95RCq79IPIcENL0FasHHVJYDOYbH4QPUyVupMySqiu9wtmsiasTPi7Ws5U6vVH647L5/RIAQA7">, Armenian <span class="bdbLangGreek">γμβεθ</span>) ***vaulted roofs***. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 1 Kings | [[1Kgs.6.9\|6:9]] |
+| 2 Kings | [[2Kgs.3.16\|3:16]] · [[2Kgs.25.12\|25:12]] |
+| Jeremiah | [[Jer.14.3\|14:3]] · [[Jer.39.10\|39:10]] · [[Jer.52.16\|52:16]] |
+

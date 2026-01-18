@@ -1,0 +1,11 @@
+<span class="asgreek">ἐξηγητής</span> <small>***(exēgētēs)***</small> ==**an expositor**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐξηγητής==</span>-<span class='asgreek'>ητής</span></b>, <span class='asgreek'>οῦ</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>one who leads on, adviser,</b> <span class='asgreek'>πρηγμάτων</span> <span class='asgreek'>ἀγαθῶν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.31 codices; οὑτοσὶ δὲ.. ἁπάντων ἦν τούτων ὁ ἐ. 4th c.BC: Demosthenes Orator 35.17. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>expounder, interpreter,</b> especially of oracles, dreams, or omens, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.78 ">Refs 5th c.BC+</a>]; at Athens, of sacred rites or customs, modes of burial, expiation, etc., <b>spiritual director,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Euthyphro” 4d, 9a, “Lg.” 759c, 759e, 775a, 4th c.BC: Demosthenes Orator 47.68, 4th c.BC: Isaeus Orator 8.39, 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 16.6 ">Refs 5th c.BC+</a>]: as an official title, <span class='asgreek'>ἐ</span>. <span class='asgreek'>Πυθόχρηστος</span> [<a href="javascript:void(0)" title=" “IG” 3.241; ἐ. ἐξ Εὐπατριδῶν [prev. work]267; ἐ. ἐξ Εὐμολπιδῶν 5th c.BC: Lysias Orator 6.10, etc.">Refs 5th c.BC+</a>], cf. Suid. see entry ; <span class='asgreek'>πάτριος</span> <span class='asgreek'>ἐ</span>., of Apollo, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 427c. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> at Rome, of the <b>pontifices,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 2.73. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>guide, cicerone,</b> to temples, etc., [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 5.15.10, “SIG” 1021.20 (from Olympia). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>commentator,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 15.518, 11th-12th c.AD: Michael Ephesius Philosophus “in Ethica Nicomachea commentarium - pars” 50.8. ">Refs 2nd c.AD+</a>]

@@ -1,0 +1,8 @@
+ [<span class="bdbLangHebrew">‎תַּזְנוּת‎</span>] **noun feminine abstract** ==fornication==: — suffix <span class="bdbLangHebrew">‎תַּזְנוּתֵךְ‎</span> [[Ezek.16.20|Ezek 16:20]] ([[BDB#Kt|Kt]]) v[[Ezek.16.25|Ezek 16:25]] ([[BDB#Kt|Kt]]) v[[Ezek.16.29|Ezek 16:29]] <span class="bdbLangHebrew">‎תַּזְנֻתֵךְ‎</span> [[Ezek.16.26|Ezek 16:26]] <span class="bdbLangHebrew">‎תַּזְנוּתָם‎</span> [[Ezek.23.8|Ezek 23:8]]; [[Ezek.23.17|Ezek 23:17]] <span class="bdbLangHebrew">‎תַּזְנוּתַיִךְ‎</span> [[Ezek.16.15|Ezek 16:15]]; [[Ezek.16.34|Ezek 16:34]]; [[Ezek.16.36|Ezek 16:36]] <span class="bdbLangHebrew">‎תַּזְנֻתַיִךְ‎</span> [[Ezek.16.22|Ezek 16:22]] <span class="bdbLangHebrew">‎תַּזְנוּתָ֑יִךְ‎</span> [[Ezek.16.20|Ezek 16:20]] ([[BDB#Qr|Qr]]) v[[Ezek.16.25|Ezek 16:25]] ([[BDB#Qr|Qr]]) v[[Ezek.16.33|Ezek 16:33]]; [[Ezek.23.29|Ezek 23:29]]; [[Ezek.23.35|Ezek 23:35]] <span class="bdbLangHebrew">‎תַּזְנוּתֶיהָ‎</span> [[Ezek.23.7|Ezek 23:7]]; [[Ezek.23.8|Ezek 23:8]]; [[Ezek.23.11|Ezek 23:11]]; [[Ezek.23.14|Ezek 23:14]]; [[Ezek.23.18|Ezek 23:18]]; [[Ezek.23.19|Ezek 23:19]]; [[Ezek.23.43|Ezek 23:43]]. These are all international mingled with religious references. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ezekiel | [[Ezek.16.15\|16:15]] · [[Ezek.16.20\|16:20]] · [[Ezek.16.22\|16:22]] · [[Ezek.16.25\|16:25]] · [[Ezek.16.26\|16:26]] · [[Ezek.16.29\|16:29]] · [[Ezek.16.33\|16:33]] · [[Ezek.16.34\|16:34]] · [[Ezek.16.36\|16:36]] · [[Ezek.23.7\|23:7]] · [[Ezek.23.8\|23:8]] · [[Ezek.23.11\|23:11]] · [[Ezek.23.14\|23:14]] · [[Ezek.23.17\|23:17]] · [[Ezek.23.18\|23:18]] · [[Ezek.23.19\|23:19]] · [[Ezek.23.29\|23:29]] · [[Ezek.23.35\|23:35]] · [[Ezek.23.43\|23:43]] |
+

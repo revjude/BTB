@@ -1,0 +1,22 @@
+**Isaiah 44:22** 
+<small><sub>**KJV:**</sub></small>
+I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee.
+<small><sub>**BSB:**</sub></small>
+I have blotted out your transgressions like a cloud, and your sins like a mist. Return to Me, for I have redeemed you.
+<small><sub>**Literal:**</sub></small>
+I have wiped out like \<the>  dark cloud transgressions  your and  like \<the>  cloud sins  your return  ! to  me for I have redeemed  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.21|<< Isaiah 44:21]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.23|Isaiah 44:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| I have wiped out  | <span class="ashebrew"><big>מָחִ֤יתִי</big></span><small><sup>[[H4229A]]</sup></small> &#8207;| ma.Chi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> dark cloud  | <span class="ashebrew"><big>כָ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עָב֙</big></span><small><sup>[[H5645]]</sup></small> &#8207;| kha.<small><sup>[[HRd]]</sup></small> 'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| transgressions your  | <span class="ashebrew"><big>פְּשָׁעֶ֔י</big></span><small><sup>[[H6588]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| pe.sha.'Ei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like \<the> cloud  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֶ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עָנָ֖ן</big></span><small><sup>[[H6051]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HRd]]</sup></small> 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sins your  | <span class="ashebrew"><big>חַטֹּאותֶ֑י</big></span><small><sup>[[H2403B]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| cha.to.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| return !  | <span class="ashebrew"><big>שׁוּבָ֥</big></span><small><sup>[[H7725G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| shu.Va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלַ֖</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have redeemed you  | <span class="ashebrew"><big>גְאַלְתִּֽי</big></span><small><sup>[[H1350A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ge.'al.Ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.21|<< Isaiah 44:21]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.23|Isaiah 44:23 >>]]</td></tr></table>
+
+

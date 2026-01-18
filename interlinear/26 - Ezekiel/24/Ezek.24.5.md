@@ -1,0 +1,26 @@
+**Ezekiel 24:5** 
+<small><sub>**KJV:**</sub></small>
+Take the choice of the flock, and burn also the bones under it, [and] make it boil well, and let them seethe the bones of it therein.
+<small><sub>**BSB:**</sub></small>
+Take the choicest of the flock and pile the fuel beneath it. Bring it to a boil and cook the bones in it.’
+<small><sub>**Literal:**</sub></small>
+[the] choicest of the  flock take and  also pile up the  bones under  it make boil boiling  its also they have cooked bones  its in  [the] midst of  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.4|<< Ezekiel 24:4]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.6|Ezekiel 24:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] choicest of  | <span class="ashebrew"><big>מִבְחַ֤ר</big></span><small><sup>[[H4005]]</sup></small> &#8207;| miv.Char<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the flock  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צֹּאן֙</big></span><small><sup>[[H6629G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> tzoN<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| take  | <span class="ashebrew"><big>לָק֔וֹחַ</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| la.Ko.ach<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גַ֛ם</big></span><small><sup>[[H1571]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pile up  | <span class="ashebrew"><big>דּ֥וּר</big></span><small><sup>[[H1752]]</sup></small> &#8207;| dur<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the bones  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֲצָמִ֖ים</big></span><small><sup>[[H6106G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.tza.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| under it  | <span class="ashebrew"><big>תַּחְתֶּ֑י</big></span><small><sup>[[H8478G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| tach.Tei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| make boil  | <span class="ashebrew"><big>רַתַּ֣ח</big></span><small><sup>[[H7570]]</sup></small> &#8207;| ra.Tach<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| boiling its  | <span class="ashebrew"><big>רְתָחֶ֔י</big></span><small><sup>[[H7571]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| re.ta.Chei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>גַּם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have cooked  | <span class="ashebrew"><big>בָּשְׁל֥וּ</big></span><small><sup>[[H1310]]</sup></small> &#8207;| ba.she.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bones its  | <span class="ashebrew"><big>עֲצָמֶ֖י</big></span><small><sup>[[H6106G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| 'a.tza.Mei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] midst of it  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹכָֽ</big></span><small><sup>[[H8432]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.4|<< Ezekiel 24:4]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.6|Ezekiel 24:6 >>]]</td></tr></table>
+
+

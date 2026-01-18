@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==φλύαρος==</span>-<span class='asgreek'>ος</span></b> [<span class='asgreek'>ῠ</span>], <span class='asgreek'>ὁ</span>, 
+
+
+ <b>silly talk, foolery, nonsense,</b> <span class='asgreek'>τἄλλα</span> <span class='asgreek'>πάντ᾽</span> <span class='asgreek'>ἐστὶ</span> <span class='asgreek'>φ</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 365 (\_anapaest meter\_), compare 4th-3rd c.BC: Menander Comicus 541.2, 5th-6th c.BC: Plato Philosophus “Axiochus” 365e, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cicero” 2, etc.">Refs 5th c.BC+</a>]: <i>plural</i>, <b>fooleries,</b> <span class='asgreek'>πολλῶν</span> <span class='asgreek'>φλυάρων</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ταὧν</span> <span class='asgreek'>ἀντάξια</span> [<a href="javascript:void(0)" title=" 5th c.BC: Strattis Comicus 27. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>tattler, babbler,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Axiochus” 369a, NT.1Tim.5.13, 1st c.BC-1st c.AD: Strabo Geographus 1.2.5, etc.">NT+5th c.BC+</a>]: as <i>adjective</i>, <span class='asgreek'>ἡ</span> <span class='asgreek'>φ</span>. <span class='asgreek'>φιλοσοφία</span> [<a href="javascript:void(0)" title=" LXX.4Mac.5.10; φ. λόγος 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 26; φ. γλῶττα 4th c.AD: Alciphro Epistolographus 3.69 ">LXX+1st c.BC+</a>]: <i>comparative</i> <span class='asgreek'>φλυαρότερος</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 2.19.10. ">Refs 2nd c.AD+</a>] <i>adverb</i> <span class='asgreek'>φλυάρως</span>[<a href="javascript:void(0)" title=" Scholia 5th-6th c.BC: Aristophanes Comicus “Vespae” 855. ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Tim.5.13]]
+</sub></small>

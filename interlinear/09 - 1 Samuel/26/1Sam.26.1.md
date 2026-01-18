@@ -1,0 +1,27 @@
+**1 Samuel 26:1** 
+<small><sub>**KJV:**</sub></small>
+And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, [which is] before Jeshimon?
+<small><sub>**BSB:**</sub></small>
+Then the Ziphites came to Saul at Gibeah and said, “Is not David hiding on the hill of Hachilah, opposite Jeshimon?”
+<small><sub>**Literal:**</sub></small>
+and  they went the  Ziphites to Saul \<the>  Gibeah  towards \<to>  saying ¿  not [is] David hiding himself on  [the] hill of \<the>  Hakilah on [the] face of \<the>  Jeshimon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.44|<< 1 Samuel 25:44]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.2|1 Samuel 26:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבֹ֤אוּ</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Ziphites  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זִּפִים֙</big></span><small><sup>[[H2130]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> zi.Fim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  | <span class="ashebrew"><big>שָׁא֔וּל</big></span><small><sup>[[H7586G]]</sup></small> &#8207;| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Gibeah towards  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּבְעָ֖תָ</big></span><small><sup>[[H1390H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> giv.'A.ta<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹ֑ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>ל֨וֹא</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] David  | <span class="ashebrew"><big>דָוִ֤ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hiding himself  | <span class="ashebrew"><big>מִסְתַּתֵּר֙</big></span><small><sup>[[H5641]]</sup></small> &#8207;| mis.ta.Ter<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] hill of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גִבְעַ֣ת</big></span><small><sup>[[H1389I]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> giv.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Hakilah  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֲכִילָ֔ה</big></span><small><sup>[[H2444]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> cha.khi.Lah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַ֖ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  | <span class="ashebrew"><big>פְּנֵ֥י</big></span><small><sup>[[H6440K]]</sup></small> &#8207;| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Jeshimon  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יְשִׁימֹֽן</big></span><small><sup>[[H3452G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> y.shi.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.44|<< 1 Samuel 25:44]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.2|1 Samuel 26:2 >>]]</td></tr></table>
+
+

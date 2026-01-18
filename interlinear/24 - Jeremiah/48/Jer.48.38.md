@@ -1,0 +1,30 @@
+**Jeremiah 48:38** 
+<small><sub>**KJV:**</sub></small>
+[There shall be] lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein [is] no pleasure, saith the LORD.
+<small><sub>**BSB:**</sub></small>
+On all the rooftops of Moab and in the public squares, everyone is mourning; for I have shattered Moab like an unwanted jar,” declares the LORD.
+<small><sub>**Literal:**</sub></small>
+[will be] on all [the] roofs of Moab and  in  open places  its all of  it wailing for I will break \<obj.> Moab like  a vessel [which] there not [is] pleasure in \<the>  it [the] utterance of Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.37|<< Jeremiah 48:37]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.39|Jeremiah 48:39 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [will be] on  | <span class="ashebrew"><big>עַ֣ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] roofs of  | <span class="ashebrew"><big>גַּגּ֥וֹת</big></span><small><sup>[[H1406]]</sup></small> &#8207;| ga.Got<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  | <span class="ashebrew"><big>מוֹאָ֛ב</big></span><small><sup>[[H4124G]]</sup></small> &#8207;| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in open places its  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רְחֹבֹתֶ֖י</big></span><small><sup>[[H7339]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> r.cho.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of it  | <span class="ashebrew"><big>כֻּלֹּ֣</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ku.Lo<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wailing  | <span class="ashebrew"><big>מִסְפֵּ֑ד</big></span><small><sup>[[H4553]]</sup></small> &#8207;| mis.Ped<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will break  | <span class="ashebrew"><big>שָׁבַ֣רְתִּי</big></span><small><sup>[[H7665]]</sup></small> &#8207;| sha.Var.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  | <span class="ashebrew"><big>מוֹאָ֗ב</big></span><small><sup>[[H4124G]]</sup></small> &#8207;| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a vessel  | <span class="ashebrew"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כְלִ֛י</big></span><small><sup>[[H3627]]</sup></small> &#8207;| ki<small><sup>[[HR]]</sup></small> kh.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] there not  | <span class="ashebrew"><big>אֵֽין</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] pleasure  | <span class="ashebrew"><big>חֵ֥פֶץ</big></span><small><sup>[[H2656]]</sup></small> &#8207;| Che.fetz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> it  | <span class="ashebrew"><big>בּ֖</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| b<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  | <span class="ashebrew"><big>נְאֻם</big></span><small><sup>[[H5002]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.37|<< Jeremiah 48:37]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.39|Jeremiah 48:39 >>]]</td></tr></table>
+
+

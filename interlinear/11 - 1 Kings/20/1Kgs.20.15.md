@@ -1,0 +1,32 @@
+**1 Kings 20:15** 
+<small><sub>**KJV:**</sub></small>
+Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, [even] all the children of Israel, [being] seven thousand.
+<small><sub>**BSB:**</sub></small>
+So Ahab assembled the young officers of the district governors, and there were 232 men. And after them, he assembled the rest of the Israelite troops, 7,000 in all.
+<small><sub>**Literal:**</sub></small>
+and  he mustered \<obj.> [the] young men of [the] officials of the  provinces and  they were two hundred two and  thirty and  after  them he mustered \<obj.> all the  people all [the] people of Israel [were] seven thousand\<s><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.14|<< 1 Kings 20:14]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.16|1 Kings 20:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he mustered  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּפְקֹ֗ד</big></span><small><sup>[[H6485A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yif.Kod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶֽת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] young men of  | <span class="ashebrew"><big>נַעֲרֵי֙</big></span><small><sup>[[H5288]]</sup></small> &#8207;| na.'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] officials of  | <span class="ashebrew"><big>שָׂרֵ֣י</big></span><small><sup>[[H8269]]</sup></small> &#8207;| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the provinces  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְּדִינ֔וֹת</big></span><small><sup>[[H4082]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> me.di.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they were  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּהְי֕וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two hundred  | <span class="ashebrew"><big>מָאתַ֖יִם</big></span><small><sup>[[H3967]]</sup></small> &#8207;| ma.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  | <span class="ashebrew"><big>שְׁנַ֣יִם</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Na.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and thirty  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁלֹשִׁ֑ים</big></span><small><sup>[[H7970]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and after them  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַחֲרֵי</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>הֶ֗ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.cha.rei.<small><sup>[[HAcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he mustered  | <span class="ashebrew"><big>פָּקַ֧ד</big></span><small><sup>[[H6485A]]</sup></small> &#8207;| pa.Kad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֛ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] seven  | <span class="ashebrew"><big>שִׁבְעַ֥ת</big></span><small><sup>[[H7651]]</sup></small> &#8207;| shiv.'At<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִֽים</big></span><small><sup>[[H0505G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.14|<< 1 Kings 20:14]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.16|1 Kings 20:16 >>]]</td></tr></table>
+
+

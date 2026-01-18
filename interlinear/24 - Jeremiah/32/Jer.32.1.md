@@ -1,0 +1,34 @@
+**Jeremiah 32:1** 
+<small><sub>**KJV:**</sub></small>
+The word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which [was] the eighteenth year of Nebuchadrezzar.
+<small><sub>**BSB:**</sub></small>
+This is the word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.
+<small><sub>**Literal:**</sub></small>
+the  word which it came to Jeremiah from  with Yahweh in the  year \<the>  tenth of  Zedekiah [the] king of Judah that [was] the  year eight- teen year of  Nebuchadnezzar<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.40|<< Jeremiah 31:40]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.2|Jeremiah 32:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| the word  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דָּבָ֞ר</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it came  | <span class="ashebrew"><big>הָיָ֤ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶֽל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeremiah  | <span class="ashebrew"><big>יִרְמְיָ֙הוּ֙</big></span><small><sup>[[H3414L]]</sup></small> &#8207;| yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from with  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֵ֣ת</big></span><small><sup>[[H0854]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the year  [^2] | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׁנָה֙</big></span><small><sup>[[H8141]]</sup></small> &#8207;[^3] | bi<small><sup>[[HRd]]</sup></small> sh.nat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| \<the> tenth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֲשִׂרִ֔ית</big></span><small><sup>[[H6224]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.si.Rit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Zedekiah  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>צִדְקִיָּ֖הוּ</big></span><small><sup>[[H6667H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> tzid.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֑ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>הִ֧יא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] the year  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁנָ֛ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eight-  | <span class="ashebrew"><big>שְׁמֹנֶֽה</big></span><small><sup>[[H8083]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| she.mo.neh-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  | <span class="ashebrew"><big>עֶשְׂרֵ֥ה</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year  | <span class="ashebrew"><big>שָׁנָ֖ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Nebuchadnezzar  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נְבֽוּכַדְרֶאצַּֽר</big></span><small><sup>[[H5019]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> n.Vu.khad.re.Tzar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.40|<< Jeremiah 31:40]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.2|Jeremiah 32:2 >>]]</td></tr></table>
+
+[^1]: ==K==: **in the year ** | <small><sup>[[H8141]]</sup></small><span class="ashebrew"><big>שְׁנַת</big></span> <small><sup>[[H9003]]</sup></small><span class="ashebrew"><big>בִּ</big></span>  | bi<small><sup>[[HRd]]</sup></small> sh.nat<small><sup>[[HNcfsc]]</sup></small> 
+[^2]: ==K==: **in the year ** | <small><sup>[[H8141]]</sup></small><span class="ashebrew"><big>שְׁנַת</big></span> <small><sup>[[H9003]]</sup></small><span class="ashebrew"><big>בִּ</big></span>  | bi<small><sup>[[HRd]]</sup></small> sh.nat<small><sup>[[HNcfsc]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>בַּשָּׁנָת֙</big></span>**
+

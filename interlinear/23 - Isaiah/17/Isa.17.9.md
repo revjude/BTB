@@ -1,0 +1,28 @@
+**Isaiah 17:9** 
+<small><sub>**KJV:**</sub></small>
+In that day shall his strong cities be as a forsaken bough, and an uppermost branch, which they left because of the children of Israel: and there shall be desolation.
+<small><sub>**BSB:**</sub></small>
+In that day their strong cities will be like forsaken thickets and summits, abandoned to the Israelites and to utter desolation.
+<small><sub>**Literal:**</sub></small>
+in the  day \<the>  that they will be [the] cities of refuge  his like  [the] forsaken [place] of the  forest and  the  tree-top which they abandoned \<from>  because of [the] people of Israel and  it will be a desolation<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.8|<< Isaiah 17:8]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.10|Isaiah 17:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| in the day  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּ֨וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ה֜וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be  | <span class="ashebrew"><big>יִהְי֣וּ</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] cities of  | <span class="ashebrew"><big>עָרֵ֣י</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| refuge his  | <span class="ashebrew"><big>מָעֻזּ֗</big></span><small><sup>[[H4581]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ma.'u.Z<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] forsaken [place] of  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֲזוּבַ֤ת</big></span><small><sup>[[H5800A]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.zu.Vat<small><sup>[[HVqsfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the forest  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֹ֙רֶשׁ֙</big></span><small><sup>[[H2793H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Cho.resh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the tree-top  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ֣</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָמִ֔יר</big></span><small><sup>[[H0534]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> 'a.Mir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they abandoned  | <span class="ashebrew"><big>עָזְב֔וּ</big></span><small><sup>[[H5800A]]</sup></small> &#8207;| 'a.ze.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> because of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֖י</big></span><small><sup>[[H6440I]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיְתָ֖ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a desolation  | <span class="ashebrew"><big>שְׁמָמָֽה</big></span><small><sup>[[H8077A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| she.ma.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.8|<< Isaiah 17:8]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.10|Isaiah 17:10 >>]]</td></tr></table>
+
+

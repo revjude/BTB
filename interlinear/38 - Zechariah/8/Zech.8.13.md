@@ -1,0 +1,31 @@
+**Zechariah 8:13** 
+<small><sub>**KJV:**</sub></small>
+And it shall come to pass, [that] as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, [but] let your hands be strong.
+<small><sub>**BSB:**</sub></small>
+As you have been a curse among the nations, O house of Judah and house of Israel, so I will save you, and you will be a blessing. Do not be afraid; let your hands be strong.”
+<small><sub>**Literal:**</sub></small>
+and  it will be just  as you were a curse among the  nations O house of Judah and  [the] house of Israel so I will save \<obj.>  you and  you will be a blessing may not you be afraid let them be strong hands  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.12|<< Zechariah 8:12]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.14|Zechariah 8:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֡ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁר֩</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you were  | <span class="ashebrew"><big>הֱיִיתֶ֨ם</big></span><small><sup>[[H1961]]</sup></small> &#8207;| he.yi.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a curse  | <span class="ashebrew"><big>קְלָלָ֜ה</big></span><small><sup>[[H7045]]</sup></small> &#8207;| ke.la.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the nations  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גּוֹיִ֗ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O house of  | <span class="ashebrew"><big>בֵּ֤ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָה֙</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] house of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵ֣ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  | <span class="ashebrew"><big>כֵּ֚ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will save  | <span class="ashebrew"><big>אוֹשִׁ֣יעַ</big></span><small><sup>[[H3467]]</sup></small> &#8207;| 'o.Shi.a'<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  | <span class="ashebrew"><big>אֶתְ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will be  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הְיִיתֶ֖ם</big></span><small><sup>[[H1961]]</sup></small> &#8207;| vi<small><sup>[[Hc]]</sup></small> h.yi.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a blessing  | <span class="ashebrew"><big>בְּרָכָ֑ה</big></span><small><sup>[[H1293]]</sup></small> &#8207;| be.ra.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you be afraid  | <span class="ashebrew"><big>תִּירָ֖אוּ</big></span><small><sup>[[H3372G]]</sup></small> &#8207;| ti.Ra.'u<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let them be strong  | <span class="ashebrew"><big>תֶּחֱזַ֥קְנָה</big></span><small><sup>[[H2388G]]</sup></small> &#8207;| te.che.Zak.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands your  | <span class="ashebrew"><big>יְדֵי</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ye.dei.<small><sup>[[HNcbdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.12|<< Zechariah 8:12]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.14|Zechariah 8:14 >>]]</td></tr></table>
+
+

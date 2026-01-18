@@ -1,0 +1,30 @@
+**Deuteronomy 9:1** 
+<small><sub>**KJV:**</sub></small>
+Hear, O Israel: Thou [art] to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,
+<small><sub>**BSB:**</sub></small>
+Hear, O Israel: Today you are about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities fortified to the heavens.
+<small><sub>**Literal:**</sub></small>
+hear O Israel you [are] about to pass over this  day \<obj.> the  Jordan to  go to  dispossess nations great and  mighty more than  you cities large and  fortified in the  heavens<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.20|<< Deuteronomy 8:20]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.2|Deuteronomy 9:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| hear  | <span class="ashebrew"><big>שְׁמַ֣ע</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| she.Ma'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֗ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתָּ֨ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] about to pass over  | <span class="ashebrew"><big>עֹבֵ֤ר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| 'o.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this day  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּוֹם֙</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Jordan  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יַּרְדֵּ֔ן</big></span><small><sup>[[H3383]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to go  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בֹא֙</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to dispossess  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רֶ֣שֶׁת</big></span><small><sup>[[H3423H]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Re.shet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  | <span class="ashebrew"><big>גּוֹיִ֔ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>גְּדֹלִ֥ים</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ge.do.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and mighty  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲצֻמִ֖ים</big></span><small><sup>[[H6099]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.tzu.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than you  | <span class="ashebrew"><big>מִמֶּ֑</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>ךָּ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| mi.Me.<small><sup>[[HRd]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities  | <span class="ashebrew"><big>עָרִ֛ים</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| large  | <span class="ashebrew"><big>גְּדֹלֹ֥ת</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ge.do.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and fortified  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְצֻרֹ֖ת</big></span><small><sup>[[H1219]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.tzu.Rot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the heavens  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׁמָֽיִם</big></span><small><sup>[[H8064]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.20|<< Deuteronomy 8:20]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.2|Deuteronomy 9:2 >>]]</td></tr></table>
+
+

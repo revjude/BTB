@@ -1,0 +1,32 @@
+**1 Chronicles 19:18** 
+<small><sub>**KJV:**</sub></small>
+But the Syrians fled before Israel; and David slew of the Syrians seven thousand [men which fought in] chariots, and forty thousand footmen, and killed Shophach the captain of the host.
+<small><sub>**BSB:**</sub></small>
+But the Arameans fled before Israel, and David killed seven thousand of their charioteers and forty thousand foot soldiers. He also killed Shophach the commander of their army.
+<small><sub>**Literal:**</sub></small>
+and  it fled Aram from  to  before Israel and  he killed David of  Aram seven thousand\<s> charioteer[s] and  forty thousand man on foot and  \<obj.> Shophach [the] commander of the  army he killed<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.17|<< 1 Chronicles 19:17]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.19|1 Chronicles 19:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it fled  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֣נָס</big></span><small><sup>[[H5127]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.nos<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aram  | <span class="ashebrew"><big>אֲרָם֮</big></span><small><sup>[[H0758I]]</sup></small> &#8207;| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from to before  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>לִּ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֣י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵל֒</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he killed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּהֲרֹ֨ג</big></span><small><sup>[[H2026]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.ha.Rog<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֜יד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Aram  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֲרָ֗ם</big></span><small><sup>[[H0758I]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שִׁבְעַ֤ת</big></span><small><sup>[[H7651]]</sup></small> &#8207;| shiv.'At<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִים֙</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| charioteer[s]  | <span class="ashebrew"><big>רֶ֔כֶב</big></span><small><sup>[[H7393G]]</sup></small> &#8207;| Re.khev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and forty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַרְבָּעִ֥ים</big></span><small><sup>[[H0705]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  | <span class="ashebrew"><big>אֶ֖לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'E.lef<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| man  | <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on foot  | <span class="ashebrew"><big>רַגְלִ֑י</big></span><small><sup>[[H7273]]</sup></small> &#8207;| rag.Li<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֛ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shophach  | <span class="ashebrew"><big>שׁוֹפַ֥ךְ</big></span><small><sup>[[H7780]]</sup></small> &#8207;| sho.Fakh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] commander of  | <span class="ashebrew"><big>שַֽׂר</big></span><small><sup>[[H8269]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| sar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the army  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צָּבָ֖א</big></span><small><sup>[[H6635A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> tza.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he killed  | <span class="ashebrew"><big>הֵמִֽית</big></span><small><sup>[[H4191]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| he.Mit<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.17|<< 1 Chronicles 19:17]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.19|1 Chronicles 19:19 >>]]</td></tr></table>
+
+

@@ -1,0 +1,26 @@
+**Nehemiah 12:26** 
+<small><sub>**KJV:**</sub></small>
+These [were] in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.
+<small><sub>**BSB:**</sub></small>
+They served in the days of Joiakim son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor and Ezra the priest and scribe.
+<small><sub>**Literal:**</sub></small>
+these [were] in  [the] days of Joiakim [the] son of Jeshua [the] son of Jozadak and  in  [the] days of Nehemiah the  governor and  Ezra the  priest the  scribe<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.25|<< Nehemiah 12:25]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.27|Nehemiah 12:27 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| these  | <span class="ashebrew"><big>אֵ֕לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] in [the] days of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ימֵ֛י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joiakim  | <span class="ashebrew"><big>יוֹיָקִ֥ים</big></span><small><sup>[[H3113]]</sup></small> &#8207;| yo.ya.Kim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeshua  | <span class="ashebrew"><big>יֵשׁ֖וּעַ</big></span><small><sup>[[H3442P]]</sup></small> &#8207;| ye.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jozadak  | <span class="ashebrew"><big>יוֹצָדָ֑ק</big></span><small><sup>[[H3136A]]</sup></small> &#8207;| yo.tza.Dak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in [the] days of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ימֵי֙</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nehemiah  | <span class="ashebrew"><big>נְחֶמְיָ֣ה</big></span><small><sup>[[H5166H]]</sup></small> &#8207;| ne.chem.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the governor  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פֶּחָ֔ה</big></span><small><sup>[[H6346]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> pe.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ezra  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֶזְרָ֥א</big></span><small><sup>[[H5830G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ez.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֵ֖ן</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the scribe  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>סּוֹפֵֽר</big></span><small><sup>[[H5608B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> so.Fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.25|<< Nehemiah 12:25]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.27|Nehemiah 12:27 >>]]</td></tr></table>
+
+

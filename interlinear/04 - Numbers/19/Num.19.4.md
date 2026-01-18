@@ -1,0 +1,27 @@
+**Numbers 19:4** 
+<small><sub>**KJV:**</sub></small>
+And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:
+<small><sub>**BSB:**</sub></small>
+Eleazar the priest is to take some of its blood on his finger and sprinkle it seven times toward the front of the Tent of Meeting.
+<small><sub>**Literal:**</sub></small>
+and  he will take Eleazar the  priest some of  blood  its with  finger  his and  he will spatter to before [the] face of [the] tent of meeting some of  blood  its seven times<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.3|<< Numbers 19:3]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.5|Numbers 19:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will take  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>לָקַ֞ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> la.Kach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eleazar  | <span class="ashebrew"><big>אֶלְעָזָ֧ר</big></span><small><sup>[[H0499G]]</sup></small> &#8207;| 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֵ֛ן</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| some of blood its  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>דָּמָ֖</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> da.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with finger his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶצְבָּע֑</big></span><small><sup>[[H0676]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'etz.ba.'<small><sup>[[HNcfsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will spatter  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִזָּ֞ה</big></span><small><sup>[[H5137A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hi.Zah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before  | <span class="ashebrew"><big>נֹ֨כַח</big></span><small><sup>[[H5227]]</sup></small> &#8207;| No.khach<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  | <span class="ashebrew"><big>פְּנֵ֧י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tent of  | <span class="ashebrew"><big>אֹֽהֶל</big></span><small><sup>[[H0168G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'o.hel-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  | <span class="ashebrew"><big>מוֹעֵ֛ד</big></span><small><sup>[[H4150I]]</sup></small> &#8207;| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| some of blood its  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>דָּמָ֖</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> da.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שֶׁ֥בַע</big></span><small><sup>[[H7651]]</sup></small> &#8207;| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| times  | <span class="ashebrew"><big>פְּעָמִֽים</big></span><small><sup>[[H6471]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| pe.'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.3|<< Numbers 19:3]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.5|Numbers 19:5 >>]]</td></tr></table>
+
+

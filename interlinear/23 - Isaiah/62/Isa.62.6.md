@@ -1,0 +1,31 @@
+**Isaiah 62:6** 
+<small><sub>**KJV:**</sub></small>
+I have set watchmen upon thy walls, O Jerusalem, [which] shall never hold their peace day nor night: ye that make mention of the LORD, keep not silence,
+<small><sub>**BSB:**</sub></small>
+On your walls, O Jerusalem, I have posted watchmen; they will never be silent day or night. You who call on the LORD shall take no rest for yourselves,
+<small><sub>**Literal:**</sub></small>
+on walls  your O Jerusalem I have appointed watchmen all the  day and  all the  night continually not they will be silent O those  [who] cause to remember \<obj.> Yahweh [let] not rest [belong] to  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.5|<< Isaiah 62:5]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.7|Isaiah 62:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| walls your  | <span class="ashebrew"><big>חוֹמֹתַ֣יִ</big></span><small><sup>[[H2346G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| cho.mo.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִַ֗ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have appointed  | <span class="ashebrew"><big>הִפְקַ֙דְתִּי֙</big></span><small><sup>[[H6485J]]</sup></small> &#8207;| hif.Kad.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| watchmen  | <span class="ashebrew"><big>שֹֽׁמְרִ֔ים</big></span><small><sup>[[H8104H]]</sup></small> &#8207;| sho.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the day  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּ֧וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the night  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לַּ֛יְלָה</big></span><small><sup>[[H3915]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| continually  | <span class="ashebrew"><big>תָּמִ֖יד</big></span><small><sup>[[H8548]]</sup></small> &#8207;| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be silent  | <span class="ashebrew"><big>יֶחֱשׁ֑וּ</big></span><small><sup>[[H2814]]</sup></small> &#8207;| ye.che.Shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O those [who] cause to remember  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּזְכִּרִים֙</big></span><small><sup>[[H2142]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> maz.ki.Rim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [let] not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rest  | <span class="ashebrew"><big>דֳּמִ֖י</big></span><small><sup>[[H1824]]</sup></small> &#8207;| do.Mi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belong] to you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9036]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.5|<< Isaiah 62:5]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.7|Isaiah 62:7 >>]]</td></tr></table>
+
+

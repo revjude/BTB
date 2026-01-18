@@ -1,0 +1,26 @@
+**Obadiah 1:3** 
+<small><sub>**KJV:**</sub></small>
+The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation [is] high; that saith in his heart, Who shall bring me down to the ground?
+<small><sub>**BSB:**</sub></small>
+The pride of your heart has deceived you, O dwellers in the clefts of the rocks whose habitation is the heights, who say in your heart, ‘Who can bring me down to the ground?’
+<small><sub>**Literal:**</sub></small>
+[the] presumption of heart  your it has deceived  you O dweller in  clefts of rock [the] height of dwelling  his [who] says in  heart  his who? will he bring down  me [the] ground<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.2|<< Obadiah 1:2]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.4|Obadiah 1:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] presumption of  | <span class="ashebrew"><big>זְד֤וֹן</big></span><small><sup>[[H2087]]</sup></small> &#8207;| ze.Don<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart your  | <span class="ashebrew"><big>לִבְּ</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| li.be.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has deceived you  | <span class="ashebrew"><big>הִשִּׁיאֶ֔</big></span><small><sup>[[H5377]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| hi.shi.'E.<small><sup>[[HVhp3ms]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O dweller  | <span class="ashebrew"><big>שֹׁכְנִ֥י</big></span><small><sup>[[H7931]]</sup></small> &#8207;| sho.khe.Ni<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in clefts of  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חַגְוֵי</big></span><small><sup>[[H2288]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> chag.vei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rock  | <span class="ashebrew"><big>סֶּ֖לַע</big></span><small><sup>[[H5553H]]</sup></small> &#8207;| Se.la'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] height of  | <span class="ashebrew"><big>מְר֣וֹם</big></span><small><sup>[[H4791]]</sup></small> &#8207;| me.Rom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dwelling his  | <span class="ashebrew"><big>שִׁבְתּ֑</big></span><small><sup>[[H7675]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| shiv.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] says  | <span class="ashebrew"><big>אֹמֵ֣ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'o.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in heart his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לִבּ֔</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> li.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  | <span class="ashebrew"><big>מִ֥י</big></span><small><sup>[[H4310]]</sup></small> &#8207;| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he bring down me  | <span class="ashebrew"><big>יוֹרִדֵ֖</big></span><small><sup>[[H3381]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| yo.ri.De.<small><sup>[[HVhi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ground  | <span class="ashebrew"><big>אָֽרֶץ</big></span><small><sup>[[H0776H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.2|<< Obadiah 1:2]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.4|Obadiah 1:4 >>]]</td></tr></table>
+
+

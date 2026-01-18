@@ -1,0 +1,7 @@
+<span class="asgreek">προσεκκαίω</span> <small>***(prosekkaiō)***</small> ==**to burn besides**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==προσεκκαίω==</span>-<span class='asgreek'>καίω</span></b>, 
+
+
+ <b>set fire to besides</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 62.17 ">Refs 2nd c.AD+</a>]: <i>metaphorically</i>, <b>inflame</b> or <b>provoke besides</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ παρρησίας” p.21 O.; [τινὰς] περὶ τοὺς ἔρωτας 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.60e; φιλοτιμίαν [prev. author] “Cleom.” 2; τὰς ὑπολήψεις 3rd c.AD: Porphyrius Tyrius Philosophus “de Abstinentia - Porphyrii Opuscula” 2.41 ">Refs 1st c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 11.179; ταῖς κακοπραγίαις 1st c.AD: Josephus Historicus “Bellum Judaicum” 3.9.6. ">Refs 1st c.AD+</a>]
+

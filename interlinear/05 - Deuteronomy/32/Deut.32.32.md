@@ -1,0 +1,25 @@
+**Deuteronomy 32:32** 
+<small><sub>**KJV:**</sub></small>
+For their vine [is] of the vine of Sodom, and of the fields of Gomorrah: their grapes [are] grapes of gall, their clusters [are] bitter:
+<small><sub>**BSB:**</sub></small>
+But their vine is from the vine of Sodom and from the fields of Gomorrah. Their grapes are poisonous; their clusters are bitter.
+<small><sub>**Literal:**</sub></small>
+for [is] from  [the] vine of Sodom vine  their and  from  [the] terraced fields of Gomorrah grapes  their [are] grapes of poison clusters [are] bitter of \<the>  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.31|<< Deuteronomy 32:31]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.33|Deuteronomy 32:33 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] from [the] vine of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>גֶּ֤פֶן</big></span><small><sup>[[H1612]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ge.fen<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sodom  | <span class="ashebrew"><big>סְדֹם֙</big></span><small><sup>[[H5467]]</sup></small> &#8207;| se.Dom<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vine their  | <span class="ashebrew"><big>גַּפְנָ֔</big></span><small><sup>[[H1612]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| gaf.Na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from [the] terraced fields of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שַּׁדְמֹ֖ת</big></span><small><sup>[[H7709]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> shad.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gomorrah  | <span class="ashebrew"><big>עֲמֹרָ֑ה</big></span><small><sup>[[H6017]]</sup></small> &#8207;| 'a.mo.Rah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grapes their  | <span class="ashebrew"><big>עֲנָבֵ֙</big></span><small><sup>[[H6025]]</sup></small> <span class="ashebrew"><big>מוֹ֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.na.Ve.<small><sup>[[HNcmpc]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] grapes of  | <span class="ashebrew"><big>עִנְּבֵי</big></span><small><sup>[[H6025]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'i.ne.vei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poison  | <span class="ashebrew"><big>ר֔וֹשׁ</big></span><small><sup>[[H7219]]</sup></small> &#8207;| Ro.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clusters  | <span class="ashebrew"><big>אַשְׁכְּלֹ֥ת</big></span><small><sup>[[H0811]]</sup></small> &#8207;| 'ash.ke.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] bitter  | <span class="ashebrew"><big>מְרֹרֹ֖ת</big></span><small><sup>[[H4846]]</sup></small> &#8207;| me.ro.Rot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> them  | <span class="ashebrew"><big>לָֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מוֹ</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.31|<< Deuteronomy 32:31]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.33|Deuteronomy 32:33 >>]]</td></tr></table>
+
+

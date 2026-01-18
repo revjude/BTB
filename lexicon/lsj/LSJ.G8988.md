@@ -1,0 +1,12 @@
+<span class="asgreek">πυλωρός</span> <small>***(pulōros)***</small> ==**a gatekeeper**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==πυλωρός==</span>-<span class='asgreek'>ός</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>gate-keeper, warder, porter</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 621 ">Refs 4th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>πύργων</span>, <span class='asgreek'>ναῶν</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Troades” 956, “IT” 1227 (troch.); Ἅιδου κύων [prev. author] “HF” 1277: as \_feminine\_, ἡ π. δωμάτων γυνή [prev. author] “IT” 1153: in Prose, 4th c.BC: Aeneas Tacticus 28.2, +others, LXX.Neh.7.1, +others, 1st c.AD: Philo Judaeus 2.216 ">LXX+5th c.BC+</a>]; of the guards of the Propylaea at Athens, [<a href="javascript:void(0)" title=" “IG” 22.2297: \_metaphorically\_, τοῖον πυλωρὸν φύλακα.. τροφῆς">Refs</a>] such a <b>watchful</b> guardian of thy life, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 562 ">Refs 5th c.BC+</a>]; <span class='asgreek'>κακοὺς</span> <span class='asgreek'>π</span>. <span class='asgreek'>ὑμᾶς</span>, <span class='asgreek'>ὦ</span> <span class='asgreek'>Κορίνθιοι</span>, <span class='asgreek'>ἡ</span> <span class='asgreek'>Πελοπόννησος</span> <span class='asgreek'>ἔχει</span> Prov. cited in [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.221f. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> in Medicine texts, <b>pylorus</b> or <b>lower orifice of the stomach</b>, <span class='asgreek'>οἷον</span> <span class='asgreek'>π</span>. <span class='asgreek'>τις</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus “de Usu Partium” 4.7, compare “Nat.Fac.” 3.4, 1st c.AD: Celsus Medicus 4.1.7, 2nd c.AD: Rufus Medicus “περὶ ὀνομασίας” 169, [prev. author] cited in 4th c.AD: Oribasius Medicus 7.26.34. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>π</span>., <span class='asgreek'>ἡ</span>, <b>os uteri</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Pseudo-Democritus Alchemista cited in 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 23. (Cf. πυλαωρός.) ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Neh.7.1]]
+</sub></small>

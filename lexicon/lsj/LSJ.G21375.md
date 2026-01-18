@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==ἀνασύρω==</span></b> [<span class='asgreek'>ῡ</span>], 
+
+
+&nbsp;&nbsp;<b>pull up,</b> <span class='asgreek'>δοκόν</span>[<a href="javascript:void(0)" title=" 6th c.AD: Procopius Caesariensis Historicus “de Bello Gothico” 4.11; another's clothes, 3rd c.AD(?): Diogenes Laertius 2.110">Refs 3rd c.AD+</a>]; <b>expose to view,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀκρασίαν</span>[<a href="javascript:void(0)" title=" 4th-3rd c.BC: Clearchus Historicus 14">Refs 4th c.BC+</a>]:—<i>middle</i>, <b>pull up one's clothes, expose one's person,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.60, 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 11.2, 1st c.BC: Diodorus Siculus Historicus 1.85, etc.; ἀνασυράμεναι τοὺς χιτωνίσκους 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.248b: ">Refs 5th c.BC+</a>]<i>perfect</i> <i>participle</i> <i>passive</i> as <i>adjective</i>, <span class='asgreek'>ἀνασεσυρμένος</span> <b>obscene,</b> Anacr cited in Phot.p.123 R.; <b>lacking in decency,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 6.2. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in <i>passive</i> also, of Alexander's hair, <b>to be curly,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Varia Historia” 12.14. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, <b>plunder, ravage,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.330d, compare 5th c.AD(?): Hesychius Legal icographus ">Refs 1st c.AD+</a>]

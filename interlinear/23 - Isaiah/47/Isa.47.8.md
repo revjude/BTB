@@ -1,0 +1,30 @@
+**Isaiah 47:8** 
+<small><sub>**KJV:**</sub></small>
+Therefore hear now this, [thou that art] given to pleasures, that dwellest carelessly, that sayest in thine heart, I [am], and none else beside me; I shall not sit [as] a widow, neither shall I know the loss of children:
+<small><sub>**BSB:**</sub></small>
+So now hear this, O lover of luxury who sits securely, who says to herself, ‘I am, and there is none besides me. I will never be a widow or know the loss of children.’
+<small><sub>**Literal:**</sub></small>
+and  therefore listen to this O voluptuous [woman] who  dwells to  security who  says in  heart  her I and  only  I [am] yet not I will live a widow and  not I will know childlessness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.7|<< Isaiah 47:7]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.9|Isaiah 47:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and therefore  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַתָּ֞ה</big></span><small><sup>[[H6258]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| listen to  | <span class="ashebrew"><big>שִׁמְעִי</big></span><small><sup>[[H8085G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| shim.'i-<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֹ֤את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O voluptuous [woman]  | <span class="ashebrew"><big>עֲדִינָה֙</big></span><small><sup>[[H5719]]</sup></small> &#8207;| 'a.di.Nah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who dwells  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּוֹשֶׁ֣בֶת</big></span><small><sup>[[H3427]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yo.She.vet<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to security  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בֶ֔טַח</big></span><small><sup>[[H0983]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Ve.tach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who says  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֹֽמְרָה֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.me.Rah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in heart her  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לְבָ֔בָ</big></span><small><sup>[[H3824]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> l.Va.va<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֖י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and only I  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַפְסִ֣</big></span><small><sup>[[H0657A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9040]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'af.S<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] yet  | <span class="ashebrew"><big>ע֑וֹד</big></span><small><sup>[[H5750]]</sup></small> &#8207;| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֤א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will live  | <span class="ashebrew"><big>אֵשֵׁב֙</big></span><small><sup>[[H3427]]</sup></small> &#8207;| 'e.Shev<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a widow  | <span class="ashebrew"><big>אַלְמָנָ֔ה</big></span><small><sup>[[H0490]]</sup></small> &#8207;| 'al.ma.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will know  | <span class="ashebrew"><big>אֵדַ֖ע</big></span><small><sup>[[H3045]]</sup></small> &#8207;| 'e.Da'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| childlessness  | <span class="ashebrew"><big>שְׁכֽוֹל</big></span><small><sup>[[H7908]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| she.Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.7|<< Isaiah 47:7]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.9|Isaiah 47:9 >>]]</td></tr></table>
+
+

@@ -1,0 +1,31 @@
+**Joel 1:12** 
+<small><sub>**KJV:**</sub></small>
+The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, [even] all the trees of the field, are withered: because joy is withered away from the sons of men.
+<small><sub>**BSB:**</sub></small>
+The grapevine is dried up, and the fig tree is withered; the pomegranate, palm, and apple—all the trees of the orchard—are withered. Surely the joy of mankind has dried up.
+<small><sub>**Literal:**</sub></small>
+the  vine it has dried up and  the  fig tree it has dried out [the] pomegranate tree also [the] palm tree and  [the] apple tree all [the] trees of the  field they have dried up for it has been ashamed joy from [the] children of humankind<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.11|<< Joel 1:11]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.13|Joel 1:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| the vine  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גֶּ֣פֶן</big></span><small><sup>[[H1612]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ge.fen<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has dried up  | <span class="ashebrew"><big>הוֹבִ֔ישָׁה</big></span><small><sup>[[H0954]]</sup></small> &#8207;| ho.Vi.shah<small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the fig tree  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>תְּאֵנָ֖ה</big></span><small><sup>[[H8384]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> te.'e.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has dried out  | <span class="ashebrew"><big>אֻמְלָ֑לָה</big></span><small><sup>[[H0535]]</sup></small> &#8207;| 'um.La.lah<small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pomegranate tree  | <span class="ashebrew"><big>רִמּ֞וֹן</big></span><small><sup>[[H7416]]</sup></small> &#8207;| ri.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>גַּם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] palm tree  | <span class="ashebrew"><big>תָּמָ֣ר</big></span><small><sup>[[H8558]]</sup></small> &#8207;| ta.Mar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] apple tree  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תַפּ֗וּחַ</big></span><small><sup>[[H8598]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ta.Pu.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] trees of  | <span class="ashebrew"><big>עֲצֵ֤י</big></span><small><sup>[[H6086H]]</sup></small> &#8207;| 'a.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׂדֶה֙</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have dried up  | <span class="ashebrew"><big>יָבֵ֔שׁוּ</big></span><small><sup>[[H3001]]</sup></small> &#8207;| ya.Ve.shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been ashamed  | <span class="ashebrew"><big>הֹבִ֥ישׁ</big></span><small><sup>[[H0954]]</sup></small> &#8207;| ho.Vish<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| joy  | <span class="ashebrew"><big>שָׂשׂ֖וֹן</big></span><small><sup>[[H8342]]</sup></small> &#8207;| sa.Son<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] children of  | <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  | <span class="ashebrew"><big>אָדָֽם</big></span><small><sup>[[H0120G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.11|<< Joel 1:11]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.13|Joel 1:13 >>]]</td></tr></table>
+
+

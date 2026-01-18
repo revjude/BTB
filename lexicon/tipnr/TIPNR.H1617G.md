@@ -1,0 +1,30 @@
+<small>*Male • Son of Benjamin • Descendant of Benjamin; ancestor of Ehud, a judge of Israel.*</small>
+
+Man living at the time of Egypt and Wilderness
+
+<span class='tipnrhighlight'>Gera</span> was a descendant of Benjamin and an ancestor of Ehud, a left-handed judge who delivered Israel from Moabite oppression.
+- A man from the tribe of Benjamin living at the time of Egypt and Wilderness, first mentioned at [[Gen.46.21|Gen.46.21]]; 
+- only referred to as Gera<[[H1617G]]> \(<span class='tipnrLangHebrew'>ג</span>ֵּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>א</span>\); 
+-  son of Benjamin<[[H1144G]]>; 
+- a brother of Bela<[[H1106A]]>, Becher<[[H1071G]]>, Ashbel<[[H0788]]>, Naaman<[[H5283G]]>, Ahiram<[[H0297]]>, Rosh<[[H7220]]>, Muppim<[[H4649]]>, Huppim<[[H2650H]]>, Ard<[[H0714G]]>, Ahiram<[[H0297]]> and Jediael<[[H3043G]]>; 
+-  father or founder of Ehud<[[H0164G]]>.
+
+Gera is mentioned in several genealogical lists in the Old Testament. In [[Gen.46.21|Genesis 46:21]], he is listed as one of the sons of Benjamin who went down to Egypt with Israel \(or 'Jacob'\) and his family. This places Gera as one of the founding members of the tribe of Benjamin. In [[Judg.3.15|Judges 3:15]], Gera is mentioned as an ancestor of Ehud, a left-handed Benjamite who was raised up by God to deliver Israel from the oppression of Eglon, king of Moab. Ehud's successful assassination of Eglon and his leadership in the subsequent battle against the Moabites brought peace to Israel for eighty years \(Judges 3:16-30\). In [[1Chr.8.5|1 Chronicles 8:5]], Gera is again mentioned in the genealogy of Benjamin, confirming his role as a significant figure in the tribe's history. Although little is known about Gera himself, his inclusion in these genealogies highlights the importance of family lineage and tribal identity in ancient Israel.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Gera | [<span class='tipnrLangHebrew'>ג</span>ֵּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>א</span>](H1617G) <small>*Hebrew*</small> | 3x | [[Gen.46.21] ... [1Ch.8.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gera\*\|reference=Gen.46.21;Jdg.3.15;1Ch.8.5) |
+All Strong's for **Gera**: \[[[H1617G]]\]
+#### Related Profiles:
+- **[Benjamin](H1144G)** (father)
+- **[Bela](H1106A)** (sibling)
+- **[Becher](H1071G)** (sibling)
+- **[Ashbel](H0788)** (sibling)
+- **[Naaman](H5283G)** (sibling)
+- **[Rosh](H7220)** (sibling)
+- **[Muppim](H4649)** (sibling)
+- **[Huppim](H2650H)** (sibling)
+- **[Ard](H0714G)** (sibling)
+- **[Ahiram](H0297)** (sibling)
+- **[Jediael](H3043G)** (sibling)
+- **[Ehud](H0164G)** (child)

@@ -1,0 +1,26 @@
+**Malachi 2:12** 
+<small><sub>**KJV:**</sub></small>
+The LORD will cut off the man that doeth this, the master and the scholar, out of the tabernacles of Jacob, and him that offereth an offering unto the LORD of hosts.
+<small><sub>**BSB:**</sub></small>
+As for the man who does this, may the LORD cut off from the tents of Jacob everyone who is awake and aware—even if he brings an offering to the LORD of Hosts.
+<small><sub>**Literal:**</sub></small>
+may he cut off Yahweh \<to> the  person who he does  it a protector and  [one who] answers from  [the] tents of Jacob and  [one who] brings near an offering to  Yahweh of hosts<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.11|<< Malachi 2:11]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.13|Malachi 2:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| may he cut off  | <span class="ashebrew"><big>יַכְרֵ֨ת</big></span><small><sup>[[H3772I]]</sup></small> &#8207;| yakh.Ret<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> the person  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אִ֨ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֤ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he does it  | <span class="ashebrew"><big>יַעֲשֶׂ֙</big></span><small><sup>[[H6213A]]</sup></small> <span class="ashebrew"><big>נָּה֙</big></span><small><sup>[[H9034]]</sup></small> &#8207;| ya.'a.Se.<small><sup>[[HVqi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a protector  | <span class="ashebrew"><big>עֵ֣ר</big></span><small><sup>[[H5782]]</sup></small> &#8207;| 'er<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] answers  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֹנֶ֔ה</big></span><small><sup>[[H6030B]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'o.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] tents of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אָהֳלֵ֖י</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'o.ho.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  | <span class="ashebrew"><big>יַֽעֲקֹ֑ב</big></span><small><sup>[[H3290]]</sup></small> &#8207;| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] brings near  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַגִּ֣ישׁ</big></span><small><sup>[[H5066H]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.Gish<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an offering  | <span class="ashebrew"><big>מִנְחָ֔ה</big></span><small><sup>[[H4503G]]</sup></small> &#8207;| min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  | <span class="ashebrew"><big>צְבָאֽוֹת</big></span><small><sup>[[H6635B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.11|<< Malachi 2:11]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.13|Malachi 2:13 >>]]</td></tr></table>
+
+

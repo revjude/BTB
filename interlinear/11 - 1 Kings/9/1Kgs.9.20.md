@@ -1,0 +1,27 @@
+**1 Kings 9:20** 
+<small><sub>**KJV:**</sub></small>
+[And] all the people [that were] left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which [were] not of the children of Israel,
+<small><sub>**BSB:**</sub></small>
+As for all the people who remained of the Amorites, Hittites, Perizzites, Hivites, and Jebusites (the people who were not Israelites)—
+<small><sub>**Literal:**</sub></small>
+all the  people which  remained of the  Amorite[s] the  Hittite[s] the  Perizzite[s] the  Hivite[s] and  the  Jebusite[s] who not [were] of  [the] people of Israel they<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.19|<< 1 Kings 9:19]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.21|1 Kings 9:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ֠</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| Ha.<small><sup>[[HTd]]</sup></small> 'om<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which remained  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נּוֹתָ֨ר</big></span><small><sup>[[H3498]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> no.Tar<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Amorite[s]  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱמֹרִ֜י</big></span><small><sup>[[H0567]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'e.mo.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Hittite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חִתִּ֤י</big></span><small><sup>[[H2850]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chi.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Perizzite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פְּרִזִּי֙</big></span><small><sup>[[H6522]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> pe.ri.Zi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Hivite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חִוִּ֣י</big></span><small><sup>[[H2340]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chi.Vi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the Jebusite[s]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יְבוּסִ֔י</big></span><small><sup>[[H2983G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> y.vu.Si<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֛ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] of [the] people of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵֽמָּה</big></span><small><sup>[[H1992]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.19|<< 1 Kings 9:19]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.21|1 Kings 9:21 >>]]</td></tr></table>
+
+

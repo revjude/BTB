@@ -1,0 +1,40 @@
+(KJV) **Numbers 36**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35|<< Numbers 35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1|Deuteronomy 1 >>]]</td></tr></table>
+
+***Zelophehad’s Daughters Marry***&emsp;<small><sup>\[ [[Num.27|Numbers 27:1–11]] ]</sup></small> ^bsb454
+
+ $\quad$ <span class="startversemarker">[</span>**[[Num.36.1|1]]**<span class="endversemarker">]</span> And the chief fathers of the families of the children of Gilead<small><small>[^2]</small></small>, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel: <span class="startversemarker">[</span>**[[Num.36.2|2]]**<span class="endversemarker">]</span> And they said, The <span class="smallcaps">Lord</span> commanded my lord to give<small><small>[^3]</small></small> the land for an inheritance by lot to the children of Israel: and my lord was commanded by the <span class="smallcaps">Lord</span> to give the inheritance of Zelophehad our brother unto his daughters.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[Num.36.3|3]]**<span class="endversemarker">]</span> And if they be married to any of the sons of the \[other\] tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received<small><small>[^5]</small></small>: so shall it be taken from the lot of our inheritance. <span class="startversemarker">[</span>**[[Num.36.4|4]]**<span class="endversemarker">]</span> And when the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers.<small><small>[^6]</small></small> <span class="startversemarker">[</span>**[[Num.36.5|5]]**<span class="endversemarker">]</span> And Moses commanded the children of Israel according to the word of the <span class="smallcaps">Lord</span>, saying, The tribe of the sons of Joseph hath said well<small><small>[^7]</small></small>. <span class="startversemarker">[</span>**[[Num.36.6|6]]**<span class="endversemarker">]</span> This \[is\] the thing which the <span class="smallcaps">Lord</span> doth command concerning the daughters of Zelophehad, saying, Let them marry<small><small>[^8]</small></small> to whom they think best; only to the family<small><small>[^9]</small></small> of the tribe of their father shall they marry. <span class="startversemarker">[</span>**[[Num.36.7|7]]**<span class="endversemarker">]</span> So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one<small><small>[^10]</small></small> of the children of Israel shall keep himself<small><small>[^11]</small></small> to the inheritance of the tribe of his fathers. <span class="startversemarker">[</span>**[[Num.36.8|8]]**<span class="endversemarker">]</span> And every daughter<small><small>[^12]</small></small>, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers. <span class="startversemarker">[</span>**[[Num.36.9|9]]**<span class="endversemarker">]</span> Neither shall the inheritance remove from \[one\] tribe to another tribe; but every one of the tribes of the children of Israel shall keep himself to his own inheritance. <span class="startversemarker">[</span>**[[Num.36.10|10]]**<span class="endversemarker">]</span> Even as the <span class="smallcaps">Lord</span> commanded Moses, so did the daughters of Zelophehad:<small><small>[^13]</small></small> <span class="startversemarker">[</span>**[[Num.36.11|11]]**<span class="endversemarker">]</span> For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brothers’ sons:<small><small>[^14]</small></small> <span class="startversemarker">[</span>**[[Num.36.12|12]]**<span class="endversemarker">]</span> \[And\] they were married into the families<small><small>[^15]</small></small> of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father. <span class="startversemarker">[</span>**[[Num.36.13|13]]**<span class="endversemarker">]</span> These \[are\] the commandments<small><small>[^16]</small></small> and the judgments, which the <span class="smallcaps">Lord</span> commanded by the hand of Moses unto the children of Israel in the plains of Moab<small><small>[^17]</small></small> by Jordan \[near\] Jericho.  <div canonical="true" eID="gen149" osisID="Num" type="book"/><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35|<< Numbers 35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1|Deuteronomy 1 >>]]</td></tr></table>
+
+
+[^1]:  [[Num.36|Num 36:1]], The inconvenience of the inheritance of daughters is remedied by marrying in their own tribes, [[Num.36|Num 36:7]], lest the inheritance should be removed from the tribe; [[Num.36|Num 36:10]], The daughters of Zelophehad marry their father’s brothers’ sons.
+
+[^2]: [[Num.26|Num 26:29-33]], [[Num.27|Num 27:1]]; [[Josh.17|Josh 17:2-3]]; [[1Chr.7|1Chr 7:14-16]]
+
+[^3]: [[Num.27|Num 27:1]], [[Num.27|Num 27:7]]; [[Josh.17|Josh 17:3-6]]; [[Job.42|Job 42:15]]
+
+[^4]: ***The Lord commanded*** To one division of the tribe of Manasseh, a portion had been assigned eastward of Jordan; but Zelophehad was of that division, to which an inheritance was afterwards allotted west of Jordan; yet, expecting the promised land, the elders of the Manassites now propose a difficulty, upon the adjudged case of Zelophehad's daughters ( [[Num.27|Num 27:1-11]]). If the females should inherit, in defect of male issue, and should intermarry with other tribes they would diminish the interest, and weaken the influence of their own tribes, and give occasion to future confusion, and perhaps contention. The Manassites therefore referred the case to Moses; and he, by the authority of God, annexed a clause, which would effectually keep the tribes and inheritances distinct, as long as it was observed. Heiresses were not allowed to marry out of their own tribe, though within those bounds they might consult their own inclinations. [[Num.26|Num 26:55-56]], [[Num.27|Num 27:1-7]], [[Num.33|Num 33:54]]; [[Josh.13|Josh 13:6]], [[Josh.14|Josh 14:1-2]], [[Josh.17|Josh 17:3]]
+
+[^5]: Heb. unto whom they shall be, [[Num.36|Num 36:3]]
+
+[^6]: [[Lev.25|Lev 25:10-18]], [[Lev.25|Lev 25:23]]; [[Isa.61|Isa 61:2]]; [[Luke.4|Luke 4:18-19]]
+
+[^7]: [[Num.27|Num 27:7]]; [[Deut.5|Deut 5:28]]
+
+[^8]: Heb. be wives
+
+[^9]: [[Num.36|Num 36:12]]; [[Gen.24|Gen 24:3]], [[Gen.24|Gen 24:57-58]]; [[2Cor.6|2Cor 6:14]]
+
+[^10]: That is, he shall not endeavour to obtain any part of the inheritance of another tribe by marrying an heiress.
+
+[^11]: Heb. cleave, [[Num.36|Num 36:9]]; [[1Kgs.21|1Kgs 21:3]]
+
+[^12]: [[1Chr.23|1Chr 23:22]]
+
+[^13]: [[Exod.39|Exod 39:42-43]]; [[Lev.24|Lev 24:23]]; [[2Chr.30|2Chr 30:12]]; [[Matt.28|Matt 28:20]]
+
+[^14]: [[Num.27|Num 27:1]]
+
+[^15]: Heb. to some that were of the families, [[Num.36|Num 36:12]]
+
+[^16]: [[Lev.7|Lev 7:37-38]], [[Lev.11|Lev 11:46]], [[Lev.13|Lev 13:59]], [[Lev.14|Lev 14:54-57]], [[Lev.15|Lev 15:32-33]], [[Lev.27|Lev 27:34]]
+
+[^17]: [[Num.26|Num 26:3]], [[Num.33|Num 33:50]], [[Num.35|Num 35:1]]

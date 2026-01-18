@@ -1,0 +1,32 @@
+**Exodus 7:9** 
+<small><sub>**KJV:**</sub></small>
+When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast [it] before Pharaoh, [and] it shall become a serpent.
+<small><sub>**BSB:**</sub></small>
+“When Pharaoh tells you, ‘Perform a miracle,’ you are to say to Aaron, ‘Take your staff and throw it down before Pharaoh,’ and it will become a serpent.”
+<small><sub>**Literal:**</sub></small>
+that he will say to  you Pharaoh \<to>  saying give for \<the>  yourselves a wonder and  you will say to Aaron take \<obj.> staff  your and  throw [it] \<to>  before Pharaoh it may become \<into>  a serpent<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.8|<< Exodus 7:8]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.10|Exodus 7:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| that  | <span class="ashebrew"><big>כִּי֩</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will say  | <span class="ashebrew"><big>יְדַבֵּ֨ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| ye.da.Ber<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>אֲלֵ</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>כֶ֤ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'a.le.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹה֙</big></span><small><sup>[[H6547J]]</sup></small> &#8207;| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹ֔ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| give  | <span class="ashebrew"><big>תְּנ֥וּ</big></span><small><sup>[[H5414I]]</sup></small> &#8207;| te.Nu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> yourselves  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wonder  | <span class="ashebrew"><big>מוֹפֵ֑ת</big></span><small><sup>[[H4159]]</sup></small> &#8207;| mo.Fet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will say  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָמַרְתָּ֣</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶֽל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aaron  | <span class="ashebrew"><big>אַהֲרֹ֗ן</big></span><small><sup>[[H0175]]</sup></small> &#8207;| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| take  | <span class="ashebrew"><big>קַ֧ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| kach<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶֽת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| staff your  | <span class="ashebrew"><big>מַטְּ</big></span><small><sup>[[H4294G]]</sup></small> <span class="ashebrew"><big>ךָ֛</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ma.te.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and throw [it]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַשְׁלֵ֥ךְ</big></span><small><sup>[[H7993]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hash.Lekh<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵֽי</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַרְעֹ֖ה</big></span><small><sup>[[H6547J]]</sup></small> &#8207;| far.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it may become  | <span class="ashebrew"><big>יְהִ֥י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ye.Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a serpent  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תַנִּֽין</big></span><small><sup>[[H8577M]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ta.Nin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.8|<< Exodus 7:8]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.10|Exodus 7:10 >>]]</td></tr></table>
+
+

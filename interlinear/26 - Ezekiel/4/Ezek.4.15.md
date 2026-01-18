@@ -1,0 +1,30 @@
+**Ezekiel 4:15** 
+<small><sub>**KJV:**</sub></small>
+Then he said unto me, Lo, I have given thee cow’s dung for man’s dung, and thou shalt prepare thy bread therewith.
+<small><sub>**BSB:**</sub></small>
+“Look,” He replied, “I will let you use cow dung instead of human excrement, and you may bake your bread over that.”
+<small><sub>**Literal:**</sub></small>
+and  he said to  me see I give to  you \<obj.> [the] dung\<s> of \<the>  cattle in place of [the] dung\<s> of \<the>  humankind and  you will make \<obj.> bread  your on  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.14|<< Ezekiel 4:14]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.16|Ezekiel 4:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלַ֔</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| see  | <span class="ashebrew"><big>רְאֵ֗ה</big></span><small><sup>[[H7200I]]</sup></small> &#8207;| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I give  | <span class="ashebrew"><big>נָתַ֤תִּֽי</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] dung\<s> of  | <span class="ashebrew"><big>צְפִיעֵ֣י</big></span><small><sup>[[H6832]]</sup></small> &#8207;[^1] [^2] | tze.fu.'ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| \<the> cattle  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בָּקָ֔ר</big></span><small><sup>[[H1241]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of  | <span class="ashebrew"><big>תַּ֖חַת</big></span><small><sup>[[H8478H]]</sup></small> &#8207;| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] dung\<s> of  | <span class="ashebrew"><big>גֶּלְלֵ֣י</big></span><small><sup>[[H1561]]</sup></small> &#8207;| ge.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> humankind  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָדָ֑ם</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will make  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָשִׂ֥יתָ</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶֽת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread your  | <span class="ashebrew"><big>לַחְמְ</big></span><small><sup>[[H3899H]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| lach.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.14|<< Ezekiel 4:14]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.16|Ezekiel 4:16 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="ashebrew"><big>צְפִועֵ֣י</big></span>**
+[^2]: ==K== spelled: **<span class="ashebrew"><big>צְפוּעֵי</big></span>**
+

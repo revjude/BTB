@@ -1,0 +1,9 @@
+<span class="asgreek">πέτρινος</span> <small>***(petrinos)***</small> ==**of rock**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==πέτρινος==</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 
+
+
+ <b>rocky</b>, <span class='asgreek'>ὄρος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.8; κοίτη 5th c.BC: Sophocles Tragicus “Philoctetes” 160 (\_anapaest meter\_)">Refs 5th c.BC+</a>]; <span class='asgreek'>ὄχθος</span>, <span class='asgreek'>δειράδες</span>, etc., [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 290, 1089 (Lyric poetry), etc.; στάλα “IG” 5(1).1111.37 (from Geronthrae)">Refs 5th c.BC+</a>]; <span class='asgreek'>ποτήριον</span> [<a href="javascript:void(0)" title=" Anonymus Vaticanus 56 ">Refs</a>]; <span class='asgreek'>λίθοι</span> (opposed to <span class='asgreek'>λευκοί</span>, 'marble') [<a href="javascript:void(0)" title=" “Supp.epigram” 4.446 (Didyma, 3rd c.BC)">Refs 3rd c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ῥόος</span>, <span class='asgreek'>τοῖχος</span> <span class='asgreek'>π</span>., [<a href="javascript:void(0)" title=" “Schwyzer” 89.9, 18 (Argos, 3rd c.BC)">Refs 3rd c.BC+</a>]: <i>metaphorically</i>, of a person, [<a href="javascript:void(0)" title=" 4th c.BC: Anaxippus Comicus 3.3 (assuming variant). ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>changed into rock</b>, of Niobe, [<a href="javascript:void(0)" title=" 12th c.AD: Tzetzes, Joannes Grammaticus “Historiarum variarum chiliades” 4.715. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>π</span>. <span class='asgreek'>ἀκοντισμός</span>, a Celtic manoeuvre, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Tactica” 37.4. ">Refs 2nd c.AD+</a>]

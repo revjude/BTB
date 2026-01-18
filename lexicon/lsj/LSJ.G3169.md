@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==μεγαλοπρεπής==</span>-<span class='asgreek'>πρεπής</span></b>, <span class='asgreek'>ές</span>, 
+
+
+ <b>befitting a great man, magnificent</b>, <span class='asgreek'>δεῖπνον</span> <span class='asgreek'>μ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.18; δωρεὴν μεγαλοπρεπεστάτην [prev. author] 6.122; κάλλιστον ἔργον καὶ μεγαλοπρεπέστατον 5th-6th c.BC: Aristophanes Comicus “Aves” 1125; ταφή 5th-6th c.BC: Plato Philosophus “Menexenus” 234c; προαίρεσις 4th c.BC: Hyperides Orator “Epitaphius” 40; πράξεις [prev. work] 1 (\_comparative\_)">Refs 5th c.BC+</a>]; <span class='asgreek'>δόξα</span> [<a href="javascript:void(0)" title=" NT.2Pet.1.17, etc. ">NT</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> of persons, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 487a, +others, 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1107b17; τὸ μ. 5th-6th c.BC: Xenophon Historicus “Memorabilia” 3.10.5 ">Refs 5th c.BC+</a>]; of a horse, [<a href="javascript:void(0)" title=" [prev. author] “Eq.” 10.1 (\_comparative\_)">Refs</a>]: <i>superlative</i>, as honorific title, [<a href="javascript:void(0)" title=" “PGrenf.” 2.81 (a). 14 (5th c.AD), etc. ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> of style, <span class='asgreek'>μ</span>. <span class='asgreek'>λόγοι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Symposium” 210d; λέξις 4th c.BC: Aristoteles Philosophus “Rhetorica ad Alexandrum” 1441b12; μεθιστάναι ἐπὶ τὸ -έστερον [prev. work] 1423b12. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> -<span class='asgreek'>πέως</span>, <i>Attic dialect</i> -<span class='asgreek'>πῶς</span>[<a href="javascript:void(0)" title=", 5th c.BC: Herodotus Historicus 6.128, 5th-6th c.BC: Xenophon Historicus “Anabasis” 1.4.17, etc.">Refs 5th c.BC+</a>]: <i>comparative</i> -<span class='asgreek'>έστερον</span> [<a href="javascript:void(0)" title=" [prev. author] “Vect.” 6.1, 5th-6th c.BC: Plato Philosophus “Lysis” 215e ">Refs 5th c.BC+</a>]: <i>superlative</i> -<span class='asgreek'>έστατα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.57. ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Pet.1.17]]
+</sub></small>

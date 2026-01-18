@@ -1,0 +1,28 @@
+**Isaiah 48:14** 
+<small><sub>**KJV:**</sub></small>
+All ye, assemble yourselves, and hear; which among them hath declared these [things]? The LORD hath loved him: he will do his pleasure on Babylon, and his arm [shall be on] the Chaldeans.
+<small><sub>**BSB:**</sub></small>
+Come together, all of you, and listen: Which of the idols has foretold these things? The LORD’s chosen ally will carry out His desire against Babylon, and His arm will be against the Chaldeans.
+<small><sub>**Literal:**</sub></small>
+gather together all of  you and  listen who? among  them has he declared \<obj.> these [things] Yahweh he loves  him he will execute pleasure  his on  Babylon and  arm  his [the] Chaldeans<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.13|<< Isaiah 48:13]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.15|Isaiah 48:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| gather together  | <span class="ashebrew"><big>הִקָּבְצ֤וּ</big></span><small><sup>[[H6908]]</sup></small> &#8207;| hi.ka.ve.Tzu<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of you  | <span class="ashebrew"><big>כֻלְּ</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| khu.le.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and listen  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֲׁמָ֔עוּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> sha.Ma.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  | <span class="ashebrew"><big>מִ֥י</big></span><small><sup>[[H4310]]</sup></small> &#8207;| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among them  | <span class="ashebrew"><big>בָ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| has he declared  | <span class="ashebrew"><big>הִגִּ֣יד</big></span><small><sup>[[H5046]]</sup></small> &#8207;| hi.Gid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these [things]  | <span class="ashebrew"><big>אֵ֑לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he loves him  | <span class="ashebrew"><big>אֲהֵב֔</big></span><small><sup>[[H0157G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.he.V<small><sup>[[HVqp3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will execute  | <span class="ashebrew"><big>יַעֲשֶׂ֤ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pleasure his  | <span class="ashebrew"><big>חֶפְצ</big></span><small><sup>[[H2656]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| chef.Tz<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on Babylon  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בָבֶ֔ל</big></span><small><sup>[[H0894]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and arm his  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זְרֹע֖</big></span><small><sup>[[H2220]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ze.ro.'<small><sup>[[HNcfsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Chaldeans  | <span class="ashebrew"><big>כַּשְׂדִּֽים</big></span><small><sup>[[H3778]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| kas.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.13|<< Isaiah 48:13]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.15|Isaiah 48:15 >>]]</td></tr></table>
+
+

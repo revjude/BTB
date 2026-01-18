@@ -1,0 +1,23 @@
+**1 Kings 8:49** 
+<small><sub>**KJV:**</sub></small>
+Then hear thou their prayer and their supplication in heaven thy dwelling place, and maintain their cause,
+<small><sub>**BSB:**</sub></small>
+then may You hear from heaven, Your dwelling place, their prayer and petition, and may You uphold their cause.
+<small><sub>**Literal:**</sub></small>
+and  you will hear the  heavens [the] place dwelling  you \<obj.> prayer  their and  \<obj.> supplication  their and  you will do justice  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.48|<< 1 Kings 8:48]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.50|1 Kings 8:50 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will hear  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׁמַעְתָּ֤</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sha.ma'.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the heavens  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁמַ֙יִם֙</big></span><small><sup>[[H8064]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] place  | <span class="ashebrew"><big>מְכ֣וֹן</big></span><small><sup>[[H4349]]</sup></small> &#8207;| me.Khon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dwelling you  | <span class="ashebrew"><big>שִׁבְתְּ</big></span><small><sup>[[H3427]]</sup></small> <span class="ashebrew"><big>ךָ֔</big></span><small><sup>[[H9041]]</sup></small> &#8207;| shiv.te.<small><sup>[[HVqcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prayer their  | <span class="ashebrew"><big>תְּפִלָּתָ֖</big></span><small><sup>[[H8605]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| te.fi.la.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| supplication their  | <span class="ashebrew"><big>תְּחִנָּתָ֑</big></span><small><sup>[[H8467]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| te.chi.na.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will do  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָשִׂ֖יתָ</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice their  | <span class="ashebrew"><big>מִשְׁפָּטָֽ</big></span><small><sup>[[H4941H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mish.pa.Ta<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.48|<< 1 Kings 8:48]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.50|1 Kings 8:50 >>]]</td></tr></table>
+
+

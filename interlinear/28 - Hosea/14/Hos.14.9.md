@@ -1,0 +1,29 @@
+**Hosea 14:9** (14:10)
+<small><sub>**KJV:**</sub></small>
+Who [is] wise, and he shall understand these [things]? prudent, and he shall know them? for the ways of the LORD [are] right, and the just shall walk in them: but the transgressors shall fall therein.
+<small><sub>**BSB:**</sub></small>
+Whoever is wise, let him understand these things; whoever is discerning, let him know them. For the ways of the LORD are right, and the righteous walk in them but the rebellious stumble in them.
+<small><sub>**Literal:**</sub></small>
+who? [is] wise and  let him understand these [things] discerning? and  let him know  them for [are] upright [the] ways of Yahweh and  righteous [people] they walk in  them and  transgressors they stumble in  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.8|<< Hosea 14:8]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.1|Joel 1:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| who?  | <span class="ashebrew"><big>מִ֤י</big></span><small><sup>[[H4310]]</sup></small> &#8207;| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] wise  | <span class="ashebrew"><big>חָכָם֙</big></span><small><sup>[[H2450]]</sup></small> &#8207;| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and let him understand  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יָ֣בֵֽן</big></span><small><sup>[[H0995]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ya.ven<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these [things]  | <span class="ashebrew"><big>אֵ֔לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| discerning?  | <span class="ashebrew"><big>נָב֖וֹן</big></span><small><sup>[[H0995]]</sup></small> &#8207;| na.Von<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and let him know them  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יֵֽדָעֵ֑</big></span><small><sup>[[H3045]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ye.da.'E<small><sup>[[HVqu3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] upright  | <span class="ashebrew"><big>יְשָׁרִ֞ים</big></span><small><sup>[[H3477G]]</sup></small> &#8207;| ye.sha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ways of  | <span class="ashebrew"><big>דַּרְכֵ֣י</big></span><small><sup>[[H1870G]]</sup></small> &#8207;| dar.Khei<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and righteous [people]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צַדִּקִים֙</big></span><small><sup>[[H6662]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they walk  | <span class="ashebrew"><big>יֵ֣לְכוּ</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| Ye.le.khu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in them  | <span class="ashebrew"><big>בָ֔</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| Va<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and transgressors  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פֹשְׁעִ֖ים</big></span><small><sup>[[H6586]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fo.she.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they stumble  | <span class="ashebrew"><big>יִכָּ֥שְׁלוּ</big></span><small><sup>[[H3782]]</sup></small> &#8207;| yi.Ka.she.lu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in them  | <span class="ashebrew"><big>בָֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Va<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.8|<< Hosea 14:8]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.1|Joel 1:1 >>]]</td></tr></table>
+
+

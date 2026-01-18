@@ -1,0 +1,9 @@
+<span class="asgreek">λαμπτήρ</span> <small>***(lamptēr)***</small> ==**a torch**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==λαμπτήρ==</span>-<span class='asgreek'>τήρ</span></b>, <span class='asgreek'>ῆρος</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ (<span class='asgreek'>λάμπω</span>) <b>stand</b> or <b>grate</b> for pine and other wood used <b>for lighting rooms</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 18.307f, 343, 19.63 ">Refs 8th c.BC+</a>]; <span class='asgreek'>ὦ</span> <span class='asgreek'>χαῖρε</span>, <span class='asgreek'>λ</span>. <span class='asgreek'>νυκτός</span> <b>thou that lightest up</b> the night, of a beacon-fire, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 22 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἕσπεροι</span> <span class='asgreek'>==λαμπτήρ==τῆρες</span> the evening <b>watch-fires</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 286; ἡλίου ==λαμπτήρ==τῆρες 5th c.BC: Euripides Tragicus “Rhesus” 60. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> epithet of Dionysus, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 7.27.3. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>lantern</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Aulidensis” 34 (\_anapaest meter\_), 5th c.BC: Hippocrates Medicus “περὶ τῶν ἐντὸς παθῶν” 26, 5th-6th c.BC: Xenophon Historicus “Symposium” 5.2, 4th c.BC: Aeneas Tacticus 22.21, “PCornell” 1.85 ">Refs 5th c.BC+</a>]; <span class='asgreek'>λ</span>. <span class='asgreek'>ἀντιπεφραγμένος</span>, of a horn-<b>lantern</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Philistus Historicus 15, compare 5th c.BC: Empedocles Poeta Philosophus 84.3; λ. μὴ ἔχοντι τὸ κύκλῳ δέρμα 4th c.BC: Aristoteles Philosophus “Historia Animalium” 531a5. ">Refs 5th c.BC+</a>]

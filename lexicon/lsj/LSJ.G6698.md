@@ -1,0 +1,9 @@
+<span class="asgreek">βροντάω</span> <small>***(brontaō)***</small> ==**to thunder**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==βροντάω==</span>-<span class='asgreek'>άω</span></b>, 
+
+
+ <b>thunder</b>, <span class='asgreek'>Ζεὺς</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἄμυδις</span> <span class='asgreek'>βρόντησε</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 14.305, compare 8th c.BC: Ilias Homerus Epicus “Illiad” 8.133; ==βροντάω==ᾶν οὐκ ἐμὸν ἀλλὰ Διός 3rd c.BC: Callimachus Epicus “Fragmenta” 490 ">Refs 8th c.BC+</a>]; so <span class='asgreek'>Βροντῶν</span>, title of Zeus in Phrygia, [<a href="javascript:void(0)" title=" “JHS” 5.258, etc. (but ==βροντάω==ῶν θεός">Refs</a>], = <b>Jupiter Tonans,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 14.982, compare 2nd-3rd c.AD: Dio Cassius Historicus 54.4): \_metaphorically\_ of Pericles, 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 531, compare “V.” 624 ">Refs 5th c.BC+</a>]; of a seller asking too high a price, [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 7.65. ">Refs 3rd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>impersonal</i>, <span class='asgreek'>χειμέρια</span> <span class='asgreek'>==βροντάω==ᾷ</span> <b>it thunders</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 46 ">Refs 5th c.BC+</a>]; <span class='asgreek'>==βροντάω==ήσαντος</span> <b>if it thunders</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 610b35. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be thunderstruck</b>, [<a href="javascript:void(0)" title=" [prev. author] “Div.Somn.” 463a13. ">Refs</a>]

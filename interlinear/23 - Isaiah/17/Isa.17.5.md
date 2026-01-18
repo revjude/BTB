@@ -1,0 +1,25 @@
+**Isaiah 17:5** 
+<small><sub>**KJV:**</sub></small>
+And it shall be as when the harvestman gathereth the corn, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim.
+<small><sub>**BSB:**</sub></small>
+as the reaper gathers the standing grain and harvests the ears with his arm, as one gleans heads of grain in the Valley of Rephaim.
+<small><sub>**Literal:**</sub></small>
+and  it will be like  [the] gathering of a harvest of standing grain and  arm  his ears of grain someone will reap and  it will be like  [one who] gathers ears of grain in  [the] valley of Rephaim<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.4|<< Isaiah 17:4]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.6|Isaiah 17:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֗ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] gathering of  | <span class="ashebrew"><big>כֶּֽ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֱסֹף֙</big></span><small><sup>[[H0622]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> 'e.Sof<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a harvest of  | <span class="ashebrew"><big>קָצִ֣יר</big></span><small><sup>[[H7105A]]</sup></small> &#8207;| ka.Tzir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| standing grain  | <span class="ashebrew"><big>קָמָ֔ה</big></span><small><sup>[[H7054]]</sup></small> &#8207;| ka.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and arm his  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זְרֹע֖</big></span><small><sup>[[H2220]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ze.ro.'<small><sup>[[HNcfsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ears of grain  | <span class="ashebrew"><big>שִׁבֳּלִ֣ים</big></span><small><sup>[[H7641B]]</sup></small> &#8207;| shi.bo.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone will reap  | <span class="ashebrew"><big>יִקְצ֑וֹר</big></span><small><sup>[[H7114B]]</sup></small> &#8207;| yik.Tzor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֛ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [one who] gathers  | <span class="ashebrew"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מְלַקֵּ֥ט</big></span><small><sup>[[H3950]]</sup></small> &#8207;| ki<small><sup>[[HR]]</sup></small> m.la.Ket<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ears of grain  | <span class="ashebrew"><big>שִׁבֳּלִ֖ים</big></span><small><sup>[[H7641B]]</sup></small> &#8207;| shi.bo.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] valley of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵ֥מֶק</big></span><small><sup>[[H6010P]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.mek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rephaim  | <span class="ashebrew"><big>רְפָאִֽים</big></span><small><sup>[[H7497G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| re.fa.'Im<small><sup>[[HNgbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.4|<< Isaiah 17:4]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.6|Isaiah 17:6 >>]]</td></tr></table>
+
+

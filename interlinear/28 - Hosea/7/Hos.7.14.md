@@ -1,0 +1,27 @@
+**Hosea 7:14** 
+<small><sub>**KJV:**</sub></small>
+And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, [and] they rebel against me.
+<small><sub>**BSB:**</sub></small>
+They do not cry out to Me from their hearts when they wail upon their beds. They slash themselves for grain and new wine, but turn away from Me.
+<small><sub>**Literal:**</sub></small>
+and  not they have cried out to  me with  heart  their if they wail on beds  their on grain and  new wine they assemble themselves they turn aside against  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.13|<< Hosea 7:13]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.15|Hosea 7:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have cried out  | <span class="ashebrew"><big>זָעֲק֤וּ</big></span><small><sup>[[H2199]]</sup></small> &#8207;| za.'a.Ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלַ</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with heart their  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לִבָּ֔</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> li.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they wail  | <span class="ashebrew"><big>יְיֵלִ֖ילוּ</big></span><small><sup>[[H3213]]</sup></small> &#8207;| ye.ye.Li.lu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beds their  | <span class="ashebrew"><big>מִשְׁכְּבוֹתָ֑</big></span><small><sup>[[H4904]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| mish.ke.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grain  | <span class="ashebrew"><big>דָּגָ֧ן</big></span><small><sup>[[H1715]]</sup></small> &#8207;| da.Gan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and new wine  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תִיר֛וֹשׁ</big></span><small><sup>[[H8492]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ti.Ro.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they assemble themselves  | <span class="ashebrew"><big>יִתְגּוֹרָ֖רוּ</big></span><small><sup>[[H1641]]</sup></small> &#8207;| yit.go.Ra.ru<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they turn aside  | <span class="ashebrew"><big>יָס֥וּרוּ</big></span><small><sup>[[H5493I]]</sup></small> &#8207;| ya.Su.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against me  | <span class="ashebrew"><big>בִֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| V<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.13|<< Hosea 7:13]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.15|Hosea 7:15 >>]]</td></tr></table>
+
+

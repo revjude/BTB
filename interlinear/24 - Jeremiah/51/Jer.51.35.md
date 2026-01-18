@@ -1,0 +1,26 @@
+**Jeremiah 51:35** 
+<small><sub>**KJV:**</sub></small>
+The violence done to me and to my flesh [be] upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say.
+<small><sub>**BSB:**</sub></small>
+May the violence done to me and to my flesh be upon Babylon,” says the dweller of Zion. “May my blood be on the dwellers of Chaldea,” says Jerusalem.
+<small><sub>**Literal:**</sub></small>
+violence  my and  flesh  my [be] on Babylon she will say [the] inhabitant[s] of Zion and  blood  my [be] to [the] inhabitants of Chaldea it will say Jerusalem<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.34|<< Jeremiah 51:34]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.36|Jeremiah 51:36 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| violence my  | <span class="ashebrew"><big>חֲמָסִ֤</big></span><small><sup>[[H2555]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| cha.ma.S<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and flesh my  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁאֵרִ</big></span><small><sup>[[H7607]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.'e.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [be] on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="ashebrew"><big>בָּבֶ֔ל</big></span><small><sup>[[H0894]]</sup></small> &#8207;| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will say  | <span class="ashebrew"><big>תֹּאמַ֖ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| to.Mar<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] inhabitant[s] of  | <span class="ashebrew"><big>יֹשֶׁ֣בֶת</big></span><small><sup>[[H3427]]</sup></small> &#8207;| yo.She.vet<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  | <span class="ashebrew"><big>צִיּ֑וֹן</big></span><small><sup>[[H6726]]</sup></small> &#8207;| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and blood my  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דָמִ</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> da.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [be] to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] inhabitants of  | <span class="ashebrew"><big>יֹשְׁבֵ֣י</big></span><small><sup>[[H3427]]</sup></small> &#8207;| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Chaldea  | <span class="ashebrew"><big>כַשְׂדִּ֔ים</big></span><small><sup>[[H3778]]</sup></small> &#8207;| khas.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will say  | <span class="ashebrew"><big>תֹּאמַ֖ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| to.Mar<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִָֽם</big></span><small><sup>[[H3389]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.34|<< Jeremiah 51:34]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.36|Jeremiah 51:36 >>]]</td></tr></table>
+
+

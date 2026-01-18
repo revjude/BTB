@@ -1,0 +1,19 @@
+**Exodus 37:20** 
+<small><sub>**KJV:**</sub></small>
+And in the candlestick [were] four bowls made like almonds, his knops, and his flowers:
+<small><sub>**BSB:**</sub></small>
+And on the lampstand were four cups shaped like almond blossoms with buds and petals.
+<small><sub>**Literal:**</sub></small>
+and  [were] on the  lampstand four cups shaped like almond blossoms bulbs  its and  blossoms  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.19|<< Exodus 37:19]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.21|Exodus 37:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [were] on the lampstand  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְּנֹרָ֖ה</big></span><small><sup>[[H4501]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> me.no.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  | <span class="ashebrew"><big>אַרְבָּעָ֣ה</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cups  | <span class="ashebrew"><big>גְבִעִ֑ים</big></span><small><sup>[[H1375]]</sup></small> &#8207;| ge.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shaped like almond blossoms  | <span class="ashebrew"><big>מְשֻׁ֨קָּדִ֔ים</big></span><small><sup>[[H8246]]</sup></small> &#8207;| me.Shu.ka.Dim<small><sup>[[HVPrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bulbs its  | <span class="ashebrew"><big>כַּפְתֹּרֶ֖י</big></span><small><sup>[[H3730]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| kaf.to.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and blossoms its  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פְרָחֶֽי</big></span><small><sup>[[H6525]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fe.ra.Chei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.19|<< Exodus 37:19]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.21|Exodus 37:21 >>]]</td></tr></table>
+
+

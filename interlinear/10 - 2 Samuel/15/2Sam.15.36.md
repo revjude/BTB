@@ -1,0 +1,29 @@
+**2 Samuel 15:36** 
+<small><sub>**KJV:**</sub></small>
+Behold, [they have] there with them their two sons, Ahimaaz Zadok’s [son], and Jonathan Abiathar’s [son]; and by them ye shall send unto me every thing that ye can hear.
+<small><sub>**BSB:**</sub></small>
+Indeed, their two sons, Ahimaaz son of Zadok and Jonathan son of Abiathar, are there with them. Send them to me with everything you hear.”
+<small><sub>**Literal:**</sub></small>
+there! there [are] with  them [the] two sons  their Ahimaaz of  Zadok and  Jonathan of  Abiathar and  you will send by  hand  their to  me every word which you will hear<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.35|<< 2 Samuel 15:35]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.37|2 Samuel 15:37 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| there!  | <span class="ashebrew"><big>הִנֵּה</big></span><small><sup>[[H2009]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֤ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] with them  | <span class="ashebrew"><big>עִמָּ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'i.Ma<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two  | <span class="ashebrew"><big>שְׁנֵ֣י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Nei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons their  | <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ve.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahimaaz  | <span class="ashebrew"><big>אֲחִימַ֣עַץ</big></span><small><sup>[[H0290H]]</sup></small> &#8207;| 'a.chi.Ma.'atz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Zadok  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>צָד֔וֹק</big></span><small><sup>[[H6659G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> tza.Dok<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jonathan  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יהוֹנָתָ֖ן</big></span><small><sup>[[H3083I]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Abiathar  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֶבְיָתָ֑ר</big></span><small><sup>[[H0054]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ev.ya.Tar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will send  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שְׁלַחְתֶּ֤ם</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> she.lach.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by hand their  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יָדָ</big></span><small><sup>[[H3027J]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלַ֔</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| word  | <span class="ashebrew"><big>דָּבָ֖ר</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will hear  | <span class="ashebrew"><big>תִּשְׁמָֽעוּ</big></span><small><sup>[[H8085G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tish.Ma.'u<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.35|<< 2 Samuel 15:35]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.37|2 Samuel 15:37 >>]]</td></tr></table>
+
+

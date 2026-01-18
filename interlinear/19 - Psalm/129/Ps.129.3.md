@@ -1,0 +1,23 @@
+**Psalms 129:3** 
+<small><sub>**KJV:**</sub></small>
+The plowers plowed upon my back: they made long their furrows.
+<small><sub>**BSB:**</sub></small>
+The plowmen plowed over my back; they made their furrows long.
+<small><sub>**Literal:**</sub></small>
+on back  my they have plowed plowmen they have made long \<to>  furrows  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.129.2|<< Psalms 129:2]]</td><td align="center" style="border:none;">[[Ps.129|Psalms 129]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.129.4|Psalms 129:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| back my  | <span class="ashebrew"><big>גַּ֭בִּ</big></span><small><sup>[[H1354]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| Ga.b<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have plowed  | <span class="ashebrew"><big>חָרְשׁ֣וּ</big></span><small><sup>[[H2790A]]</sup></small> &#8207;| cha.re.Shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| plowmen  | <span class="ashebrew"><big>חֹרְשִׁ֑ים</big></span><small><sup>[[H2790A]]</sup></small> &#8207;| cho.re.Shim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have made long  | <span class="ashebrew"><big>הֶ֝אֱרִ֗יכוּ</big></span><small><sup>[[H0748]]</sup></small> &#8207;| he.'e.Ri.khu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> furrows their  [^3] | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַעֲנִיתָֽ</big></span><small><sup>[[H4618]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;[^4] | le.<small><sup>[[HR]]</sup></small> ma.'a.no.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.129.2|<< Psalms 129:2]]</td><td align="center" style="border:none;">[[Ps.129|Psalms 129]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.129.4|Psalms 129:4 >>]]</td></tr></table>
+
+[^1]: ==K==: **\<to> furrow their ** | <small><sup>[[H9016]]</sup></small><span class="ashebrew"><big>׃</big></span> <small><sup>[[H9028]]</sup></small><span class="ashebrew"><big>ם</big></span> <small><sup>[[H4618]]</sup></small><span class="ashebrew"><big>מַעֲנוֹתָ</big></span> <small><sup>[[H9005]]</sup></small><span class="ashebrew"><big>לְ</big></span>  | le.<small><sup>[[HR]]</sup></small> ma.'a.no.ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
+[^2]: ==K==: **\<to> furrow their ** | <small><sup>[[H9016]]</sup></small><span class="ashebrew"><big>׃</big></span> <small><sup>[[H9028]]</sup></small><span class="ashebrew"><big>ם</big></span> <small><sup>[[H4618]]</sup></small><span class="ashebrew"><big>מַעֲנוֹתָ</big></span> <small><sup>[[H9005]]</sup></small><span class="ashebrew"><big>לְ</big></span>  | le.<small><sup>[[HR]]</sup></small> ma.'a.no.ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
+[^3]: ==K==: **\<to> furrow their ** | <small><sup>[[H9016]]</sup></small><span class="ashebrew"><big>׃</big></span> <small><sup>[[H9028]]</sup></small><span class="ashebrew"><big>ם</big></span> <small><sup>[[H4618]]</sup></small><span class="ashebrew"><big>מַעֲנוֹתָ</big></span> <small><sup>[[H9005]]</sup></small><span class="ashebrew"><big>לְ</big></span>  | le.<small><sup>[[HR]]</sup></small> ma.'a.no.ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
+[^4]: ==L== spelled: **<span class="ashebrew"><big>לְמַעֲנִותָֽ/ם\׃</big></span>**
+

@@ -1,0 +1,22 @@
+**1 Chronicles 2:26** 
+<small><sub>**KJV:**</sub></small>
+Jerahmeel had also another wife, whose name [was] Atarah; she [was] the mother of Onam.
+<small><sub>**BSB:**</sub></small>
+Jerahmeel had another wife named Atarah, who was the mother of Onam.
+<small><sub>**Literal:**</sub></small>
+and  she belonged a wife another to  Jerahmeel and  name  her [was] Atarah she [was] [the] mother of Onam<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.25|<< 1 Chronicles 2:25]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.27|1 Chronicles 2:27 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she belonged  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּהִ֨י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wife  | <span class="ashebrew"><big>אִשָּׁ֥ה</big></span><small><sup>[[H0802H]]</sup></small> &#8207;| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| another  | <span class="ashebrew"><big>אַחֶ֛רֶת</big></span><small><sup>[[H0312]]</sup></small> &#8207;| 'a.Che.ret<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Jerahmeel  | <span class="ashebrew"><big>לִֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ירַחְמְאֵ֖ל</big></span><small><sup>[[H3396G]]</sup></small> &#8207;| li.<small><sup>[[HR]]</sup></small> rach.me.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and name her  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁמָ֣</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Atarah  | <span class="ashebrew"><big>עֲטָרָ֑ה</big></span><small><sup>[[H5851]]</sup></small> &#8207;| 'a.ta.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she  | <span class="ashebrew"><big>הִ֖יא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] [the] mother of  | <span class="ashebrew"><big>אֵ֥ם</big></span><small><sup>[[H0517]]</sup></small> &#8207;| 'em<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Onam  | <span class="ashebrew"><big>אוֹנָֽם</big></span><small><sup>[[H0208H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'o.Nam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.25|<< 1 Chronicles 2:25]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.27|1 Chronicles 2:27 >>]]</td></tr></table>
+
+

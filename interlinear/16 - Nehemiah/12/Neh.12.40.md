@@ -1,0 +1,22 @@
+**Nehemiah 12:40** 
+<small><sub>**KJV:**</sub></small>
+So stood the two [companies of them that gave] thanks in the house of God, and I, and the half of the rulers with me:
+<small><sub>**BSB:**</sub></small>
+The two thanksgiving choirs then stood in the house of God, as did I, along with the half of the officials accompanying me,
+<small><sub>**Literal:**</sub></small>
+and  they took their stand [the] two the  thanksgiving choirs in  [the] house of \<the>  God and  I and  [the] half of the  officials with  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.39|<< Nehemiah 12:39]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.41|Nehemiah 12:41 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they took their stand  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תַּעֲמֹ֛דְנָה</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ta.'a.Mo.de.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two  | <span class="ashebrew"><big>שְׁתֵּ֥י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the thanksgiving choirs  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>תּוֹדֹ֖ת</big></span><small><sup>[[H8426]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> to.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] house of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בֵ֣ית</big></span><small><sup>[[H1004Q]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֑ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲנִ֕י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] half of  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֲצִ֥י</big></span><small><sup>[[H2677]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the officials  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>סְּגָנִ֖ים</big></span><small><sup>[[H5461]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> se.ga.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with me  | <span class="ashebrew"><big>עִמִּֽ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'i.M<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.39|<< Nehemiah 12:39]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.41|Nehemiah 12:41 >>]]</td></tr></table>
+
+

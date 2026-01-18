@@ -1,0 +1,26 @@
+**Proverbs 23:7** 
+<small><sub>**KJV:**</sub></small>
+For as he thinketh in his heart, so [is] he: Eat and drink, saith he to thee; but his heart [is] not with thee.
+<small><sub>**BSB:**</sub></small>
+for he is keeping track, inwardly counting the cost. “Eat and drink,” he says to you, but his heart is not with you.
+<small><sub>**Literal:**</sub></small>
+for as he calculates in  self  his [is] so he eat and  drink he says to  you and  heart  his not [is] with  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.6|<< Proverbs 23:6]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.8|Proverbs 23:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as  | <span class="ashebrew"><big>כְּמוֹ</big></span><small><sup>[[H3644G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ke.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he calculates  | <span class="ashebrew"><big>שָׁעַ֥ר</big></span><small><sup>[[H8176]]</sup></small> &#8207;| sha.'Ar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in self his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נַפְשׁ֗</big></span><small><sup>[[H5315G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] so  | <span class="ashebrew"><big>כֶּ֫ן</big></span><small><sup>[[H3651C]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| Ken-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  | <span class="ashebrew"><big>ה֥וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eat  | <span class="ashebrew"><big>אֱכֹ֣ל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| 'e.Khol<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and drink  | <span class="ashebrew"><big>וּ֭</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁתֵה</big></span><small><sup>[[H8354]]</sup></small> &#8207;| U.<small><sup>[[HC]]</sup></small> she.teh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  | <span class="ashebrew"><big>יֹ֣אמַר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| Yo.mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>לָ֑</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and heart his  | <span class="ashebrew"><big>וְ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לִבּ֗</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> li.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>בַּל</big></span><small><sup>[[H1077]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bal-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with you  | <span class="ashebrew"><big>עִמָּֽ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'i.Ma<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.6|<< Proverbs 23:6]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.8|Proverbs 23:8 >>]]</td></tr></table>
+
+

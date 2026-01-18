@@ -1,0 +1,26 @@
+**Jeremiah 36:25** 
+<small><sub>**KJV:**</sub></small>
+Nevertheless Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the roll: but he would not hear them.
+<small><sub>**BSB:**</sub></small>
+Even though Elnathan, Delaiah, and Gemariah urged the king not to burn the scroll, he would not listen to them.
+<small><sub>**Literal:**</sub></small>
+and  also Elnathan and  Delaiah and  Gemariah they had made entreaty with the  king to  not to burn \<obj.> the  scroll and  not he listened to  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.24|<< Jeremiah 36:24]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.26|Jeremiah 36:26 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and also  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גַם֩</big></span><small><sup>[[H1571]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elnathan  | <span class="ashebrew"><big>אֶלְנָתָ֨ן</big></span><small><sup>[[H0494K]]</sup></small> &#8207;| 'el.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Delaiah  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דְלָיָ֤הוּ</big></span><small><sup>[[H1806K]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> de.la.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Gemariah  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גְמַרְיָ֙הוּ֙</big></span><small><sup>[[H1587H]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ge.mar.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had made entreaty  | <span class="ashebrew"><big>הִפְגִּ֣עוּ</big></span><small><sup>[[H6293]]</sup></small> &#8207;| hif.Gi.'u<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with the king  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מֶּ֔לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to not  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בִלְתִּ֥י</big></span><small><sup>[[H1115]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> vil.Ti<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to burn  | <span class="ashebrew"><big>שְׂרֹ֖ף</big></span><small><sup>[[H8313]]</sup></small> &#8207;| se.Rof<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the scroll  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְּגִלָּ֑ה</big></span><small><sup>[[H4039]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> me.gi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he listened  | <span class="ashebrew"><big>שָׁמַ֖ע</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| sha.Ma'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.24|<< Jeremiah 36:24]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.26|Jeremiah 36:26 >>]]</td></tr></table>
+
+

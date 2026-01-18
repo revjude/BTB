@@ -1,0 +1,33 @@
+**Nehemiah 3:16** 
+<small><sub>**KJV:**</sub></small>
+After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Bethzur, unto [the place] over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty.
+<small><sub>**BSB:**</sub></small>
+Beyond him, Nehemiah son of Azbuk, ruler of a half-district of Beth-zur, made repairs up to a point opposite the tombs of David, as far as the artificial pool and the House of the Mighty.
+<small><sub>**Literal:**</sub></small>
+after  him he repaired Nehemiah [the] son of Azbuk [the] official of \<the> half of [the] district of Beth Zur to before [the] tombs of David and  to the  pool \<the>  made and  to [the] house of the  mighty [men]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.15|<< Nehemiah 3:15]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.17|Nehemiah 3:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| after him  | <span class="ashebrew"><big>אַחֲרָ֤י</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he repaired  | <span class="ashebrew"><big>הֶחֱזִיק֙</big></span><small><sup>[[H2388G]]</sup></small> &#8207;| he.che.Zik<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nehemiah  | <span class="ashebrew"><big>נְחֶמְיָ֣ה</big></span><small><sup>[[H5166I]]</sup></small> &#8207;| ne.chem.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Azbuk  | <span class="ashebrew"><big>עַזְבּ֔וּק</big></span><small><sup>[[H5802]]</sup></small> &#8207;| 'az.Buk<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] official of  | <span class="ashebrew"><big>שַׂ֕ר</big></span><small><sup>[[H8269]]</sup></small> &#8207;| sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> half of  | <span class="ashebrew"><big>חֲצִ֖י</big></span><small><sup>[[H2677]]</sup></small> &#8207;| cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] district of  | <span class="ashebrew"><big>פֶּ֣לֶךְ</big></span><small><sup>[[H6418]]</sup></small> &#8207;| Pe.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth  | <span class="ashebrew"><big>בֵּֽית</big></span><small><sup>[[H1049]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| beit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zur  | <span class="ashebrew"><big>צ֑וּר</big></span><small><sup>[[H1049]]</sup></small> &#8207;| Tzur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before  | <span class="ashebrew"><big>נֶ֙גֶד֙</big></span><small><sup>[[H5048]]</sup></small> &#8207;| ne.ged<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tombs of  | <span class="ashebrew"><big>קִבְרֵ֣י</big></span><small><sup>[[H6913]]</sup></small> &#8207;| kiv.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָוִ֔יד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the pool  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בְּרֵכָה֙</big></span><small><sup>[[H1295H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> be.re.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> made  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֲשׂוּיָ֔ה</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.su.Yah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַ֖ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֥ית</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the mighty [men]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּבֹּרִֽים</big></span><small><sup>[[H1368]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> gi.bo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.15|<< Nehemiah 3:15]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.17|Nehemiah 3:17 >>]]</td></tr></table>
+
+

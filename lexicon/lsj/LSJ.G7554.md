@@ -1,0 +1,12 @@
+<span class="asgreek">εὔοδος</span> <small>***(euodos)***</small> ==**prosperous**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==εὔοδος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>easy to pass</b>, of mountains, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 4.8.10 ">Refs 5th c.BC+</a>]; of a road, <b>easy to travel</b>, <span class='asgreek'>ὁδὸς</span>.. <span class='asgreek'>εὐοδωτάτη</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ὑποζυγίοις</span>[<a href="javascript:void(0)" title=" [prev. work] 4.2.9; οὐκ ==εὔοδος==α ἔσται ὑμῖν LXX.Num.14.41 ">LXX</a>]. <i>adverb</i> -<span class='asgreek'>όδως</span>, <span class='asgreek'>πορεύεσθαι</span>[<a href="javascript:void(0)" title="LXX.Prov.24.64 (30.29). ">LXX</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>free from difficulty, simple</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Fragmenta” 18, 1st c.BC: Ptolemaeus Epigrammaticus “Alm.” 1.2 (\_comparative\_)">Refs 4th c.BC+</a>]. <i>adverb</i> <b>simply, readily</b>, <span class='asgreek'>νοεῖσθαι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “D.” 3.11 ">Refs 1st c.BC+</a>]: <i>superlative</i> -<span class='asgreek'>ώτατα</span>, <span class='asgreek'>τῷ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἀνδρείας</span> <span class='asgreek'>ὀνόματι</span> <span class='asgreek'>προσαγορεύεσθαι</span>[<a href="javascript:void(0)" title="[prev. work] “fragment” 81. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>favourable</b>, <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span> Mnesith. cited in [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 3.92c ">Refs 2nd c.AD+</a>]; <span class='asgreek'>ὁ</span> <span class='asgreek'>==εὔοδος==ος</span> <span class='asgreek'>θεός</span>, of Pan, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 4705b, compare “OGI” 38 (Egypt, 3rd c.BC), +others, “epigram Gr.” 826, etc. ">Refs 3rd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Num.14.41]] ☩ [[Prov.24.64]]
+</sub></small>

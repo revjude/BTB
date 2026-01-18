@@ -1,0 +1,22 @@
+**Deuteronomy 9:17** 
+<small><sub>**KJV:**</sub></small>
+And I took the two tables, and cast them out of my two hands, and brake them before your eyes.
+<small><sub>**BSB:**</sub></small>
+So I took the two tablets and threw them out of my hands, shattering them before your eyes.
+<small><sub>**Literal:**</sub></small>
+and  I seized \<on>  [the] two the  tablets and  I threw  them from  on [the] two hands  my and  I broke  them to  eyes  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.16|<< Deuteronomy 9:16]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.18|Deuteronomy 9:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I seized  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֶתְפֹּשׂ֙</big></span><small><sup>[[H8610]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'et.Pos<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<on> [the] two  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁנֵ֣י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> sh.Nei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tablets  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לֻּחֹ֔ת</big></span><small><sup>[[H3871]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> lu.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I threw them  | <span class="ashebrew"><big>וָֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אַשְׁלִכֵ֔</big></span><small><sup>[[H7993]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'ash.li.Khe<small><sup>[[HVhw1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from on  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עַ֖ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two  | <span class="ashebrew"><big>שְׁתֵּ֣י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands my  | <span class="ashebrew"><big>יָדָ֑</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ya.Da<small><sup>[[HNcbdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I broke them  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֲשַׁבְּרֵ֖</big></span><small><sup>[[H7665]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.sha.be.Re<small><sup>[[HVpw1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to eyes your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֵינֵי</big></span><small><sup>[[H5869J]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.16|<< Deuteronomy 9:16]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.18|Deuteronomy 9:18 >>]]</td></tr></table>
+
+

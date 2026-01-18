@@ -1,0 +1,15 @@
+<small>*Gezer • A Canaanite city, conquered by Joshua and later by David.*</small>
+
+<span class='tipnrhighlight'>Gezer</span>, also known as Gob, was a Canaanite city conquered by Joshua and later by David, and it was fortified by Solomon \([[Josh.10.33|Joshua 10:33]]; 12:12; 16:3, 10; 21:21; Judges 1:29; [[2Sam.5.25|2 Samuel 5:25]]; 21:18-19; [[1Kgs.9.15|1 Kings 9:15]]-17; [[1Chr.6.67|1 Chronicles 6:67]]; 7:28; 14:16; 20:4\).
+- A location first mentioned at [[Josh.10.33|Jos.10.33]]; 
+- referred to as Gezer<[[H1507]]> \(<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ר</span>\), or Gob<[[H1359]]> \(<span class='tipnrLangHebrew'>ג</span>ֹּ<span class='tipnrLangHebrew'>ב</span>\).
+<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.87611111111111,34.9225&zoom=10&maptype=satellite"></iframe>
+
+
+Gezer, also referred to as Gob, was a significant Canaanite city located in the region allotted to the tribe of Ephraim. It was originally ruled by a Canaanite king, Horam, who came to the aid of Lachish but was defeated by Joshua \([[Josh.10.33|Joshua 10:33]]; 12:12\). Although the city was assigned to the Levites \([[Josh.21.21|Joshua 21:21]]; [[1Chr.6.67|1 Chronicles 6:67]]\), the Ephraimites failed to drive out the Canaanites, who continued to live there \([[Josh.16.10|Joshua 16:10]]; Judges 1:29\). During the reign of David, the Israelites fought battles against the Philistines at Gob \(Gezer\), where David's warriors defeated the giants \([[2Sam.21.18|2 Samuel 21:18]]-19; [[1Chr.20.4|1 Chronicles 20:4]]\). David also defeated the Philistines from Geba to Gezer \([[2Sam.5.25|2 Samuel 5:25]]; [[1Chr.14.16|1 Chronicles 14:16]]\). Later, King Solomon fortified Gezer, along with other key cities, using the labor of the Canaanites \([[1Kgs.9.15|1 Kings 9:15]]-17\). Gezer is mentioned as part of the inheritance of the descendants of Ephraim \([[1Chr.7.28|1 Chronicles 7:28]]\). The city's strategic location and its history of Canaanite occupation make it a significant site in the narratives of the conquest and establishment of Israel in the Promised Land.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Gezer | [<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ז</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1507) <small>*Hebrew*</small> | 15x | [[Jos.10.33] ... [1Ch.20.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gezer\*\|reference=Jos.10.33;Jos.12.12;Jos.16.3;Jos.16.10;Jos.21.21;Jdg.1.29;Jdg.1.29;2Sa.5.25;1Ki.9.15;1Ki.9.16;1Ki.9.17;1Ch.6.67;1Ch.7.28;1Ch.14.16;1Ch.20.4) |
+| Gob | [<span class='tipnrLangHebrew'>ג</span>ֹּ<span class='tipnrLangHebrew'>ב</span>](H1359) <small>*Hebrew*</small> | 2x | [[2Sa.21.18] & [2Sa.21.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gob\*\|reference=2Sa.21.18;2Sa.21.19) |
+All Strong's for **Gezer or Gob**: \[[[H1507]]\] \[[[H1359]]\]

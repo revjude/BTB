@@ -1,0 +1,26 @@
+**1 Chronicles 5:9** 
+<small><sub>**KJV:**</sub></small>
+And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead.
+<small><sub>**BSB:**</sub></small>
+They also settled in the east as far as the edge of the desert that extends to the Euphrates River, because their livestock had increased in the land of Gilead.
+<small><sub>**Literal:**</sub></small>
+and  to the  east he dwelt till to  [the] entrance of [the] wilderness  \<towards> \<to>  from the  river Euphrates for livestock  their they had increased in  [the] land of Gilead<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.8|<< 1 Chronicles 5:8]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.10|1 Chronicles 5:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and to the east  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִּזְרָ֗ח</big></span><small><sup>[[H4217H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> miz.Rach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he dwelt  | <span class="ashebrew"><big>יָשַׁב֙</big></span><small><sup>[[H3427]]</sup></small> &#8207;| ya.Shav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| till  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] entrance of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ב֣וֹא</big></span><small><sup>[[H0935I]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wilderness \<towards>  | <span class="ashebrew"><big>מִדְבָּ֔רָ</big></span><small><sup>[[H4057B]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| mid.Ba.ra<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> from  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the river  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נָּהָ֖ר</big></span><small><sup>[[H5104H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> na.Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Euphrates  | <span class="ashebrew"><big>פְּרָ֑ת</big></span><small><sup>[[H6578]]</sup></small> &#8207;| pe.Rat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֧י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| livestock their  | <span class="ashebrew"><big>מִקְנֵי</big></span><small><sup>[[H4735]]</sup></small> <span class="ashebrew"><big>הֶ֛ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| mik.nei.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had increased  | <span class="ashebrew"><big>רָב֖וּ</big></span><small><sup>[[H7235A]]</sup></small> &#8207;| ra.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֥רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  | <span class="ashebrew"><big>גִּלְעָֽד</big></span><small><sup>[[H1568G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.8|<< 1 Chronicles 5:8]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.10|1 Chronicles 5:10 >>]]</td></tr></table>
+
+

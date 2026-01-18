@@ -1,0 +1,1 @@
+<span class="ashebrew">‎רָגַע‎</span> <small>***(ra.ga)***</small> ==**to rest**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 

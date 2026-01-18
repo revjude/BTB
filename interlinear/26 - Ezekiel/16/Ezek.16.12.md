@@ -1,0 +1,23 @@
+**Ezekiel 16:12** 
+<small><sub>**KJV:**</sub></small>
+And I put a jewel on thy forehead, and earrings in thine ears, and a beautiful crown upon thine head.
+<small><sub>**BSB:**</sub></small>
+I put a ring in your nose, earrings on your ears, and a beautiful crown upon your head.
+<small><sub>**Literal:**</sub></small>
+and  I put a ring on nose  your and  earrings on ears  your and  a crown of beauty on  head  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.11|<< Ezekiel 16:11]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.13|Ezekiel 16:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I put  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֶתֵּ֥ן</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'e.Ten<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a ring  | <span class="ashebrew"><big>נֶ֙זֶם֙</big></span><small><sup>[[H5141]]</sup></small> &#8207;| ne.zem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nose your  | <span class="ashebrew"><big>אַפֵּ֔</big></span><small><sup>[[H0639H]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| 'a.Pe<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and earrings  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲגִילִ֖ים</big></span><small><sup>[[H5694]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.gi.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ears your  | <span class="ashebrew"><big>אָזְנָ֑יִ</big></span><small><sup>[[H0241G]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| 'a.ze.Na.yi<small><sup>[[HNcfdc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a crown of  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲטֶ֥רֶת</big></span><small><sup>[[H5850]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Te.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beauty  | <span class="ashebrew"><big>תִּפְאֶ֖רֶת</big></span><small><sup>[[H8597]]</sup></small> &#8207;| tif.'E.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on head your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רֹאשֵֽׁ</big></span><small><sup>[[H7218A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ro.She<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.11|<< Ezekiel 16:11]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.13|Ezekiel 16:13 >>]]</td></tr></table>
+
+

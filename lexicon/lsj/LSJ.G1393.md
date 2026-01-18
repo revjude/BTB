@@ -1,0 +1,11 @@
+name of: <small>[[G5000]]</small> 
+
+
+<b> <span class='asgreek'>==Δορκάς==</span></b>, <span class='asgreek'>άδος</span> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>δέρκομαι</span>, <span class='asgreek'>δέδορκα</span>) <b>an animal of the deer kind</b> (so called from its large bright eyes), in Greece, <b>roe, Cervus capreolus,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 699, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.4.7 ">Refs 5th c.BC+</a>]; in Syria and Africa, <b>gazelle, Antilope dorcas,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.192 (in form ζορκάς), 7.69.">Refs 5th c.BC+</a>]—Other forms:—<b><span class='asgreek'>δόρξ</span></b>, <span class='asgreek'>δορκός</span>, <span class='asgreek'>ἡ</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hercules Furens” 376 (probably), 3rd c.BC: Callimachus Epicus “Lavacrum Palladis” 91, 2nd c.AD: Lucianus Sophista “Am.” 16 ">Refs 5th c.BC+</a>]: <b><span class='asgreek'>δόρκος</span></b>, <span class='asgreek'>ὁ</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 2.75, 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 2.315, 3.3 ">Refs 1st c.AD+</a>]: <b><span class='asgreek'>δόρκων</span></b>, <span class='asgreek'>ωνος</span>, <span class='asgreek'>ὁ</span>, Palamed. cited in [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 11.397a, LXX.Song.2.17, 3rd-2nd c.BC: Aristophanes Byzantinus Philosophus “Historiae Animalium Epitome subiunctis Aeliani Timothei aliorumque eclogis - pars” 3.15 ">LXX+3rd c.BC+</a>]: <b><span class='asgreek'>ζορκάς</span></b> (see. above): <b><span class='asgreek'>ζόρξ</span></b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Hymnus in Dianam” 97, “fragment” 239, 2nd c.BC: Nicander Epicus “Theriaca” 42 ">Refs 3rd c.BC+</a>]: <b><span class='asgreek'>ἴορκος</span></b>, [<a href="javascript:void(0)" title=" 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 2.296, 3.3. (δόρκος and ἴορκος are distinguished from ==Δορκάς==.) ">Refs 3rd c.AD+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Song.2.17]]
+</sub></small>

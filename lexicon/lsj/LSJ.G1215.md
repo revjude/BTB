@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==δημηγορέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>practise speaking in the assembly,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 956, etc.; πρὸ τοῦ πολιτεύεσθαι καὶ δ. ἐμέ 4th c.BC: Demosthenes Orator 18.60; δ. περί τινος 5th c.BC: Lysias Orator 14.45; δ. πρός τινας 5th-6th c.BC: Plato Philosophus “Leges” 817c; ἐν τοῖς ὄχλοις 4th c.BC: Aristoteles Philosophus “Fragmenta” 83: with \_accusative\_ \_cognate\_, δ. καὶ συνηγορεῖν λόγους 4th c.BC: Demosthenes Orator 19.15; δ. λόγον παρά τισι [prev. author] 23.110 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>τὰ</span> <span class='asgreek'>δε==δημηγορέω==ημένα</span> <b>public speeches,</b> [<a href="javascript:void(0)" title=" [prev. author] 19.9. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> especially <b>make popular speeches, use clap-trap,</b> <span class='asgreek'>ταῦτα</span> <span class='asgreek'>==δημηγορέω==εῖς</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Gorgias” 482c: \_absolutely\_, [prev. work] 503b, “Tht.” 162d, “R.” 350e; τῶν ==δημηγορέω==ιῶν ὧν δ. 4th c.BC: Demosthenes Orator 21.202 ">Refs 5th c.BC+</a>]; <span class='asgreek'>δ</span>. <span class='asgreek'>πρὸς</span> <span class='asgreek'>χάριν</span>, <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἡδονήν</span>, [<a href="javascript:void(0)" title=" [prev. author] 3.3, 4.38, compare 2nd c.AD: Hermogenes Rhetor “περὶ μεθόδου δεινότητος” 1. ">Refs 2nd c.AD+</a>]

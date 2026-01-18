@@ -1,0 +1,28 @@
+**Jeremiah 22:15** 
+<small><sub>**KJV:**</sub></small>
+Shalt thou reign, because thou closest [thyself] in cedar? did not thy father eat and drink, and do judgment and justice, [and] then [it was] well with him?
+<small><sub>**BSB:**</sub></small>
+Does it make you a king to excel in cedar? Did not your father have food and drink? He administered justice and righteousness, and so it went well with him.
+<small><sub>**Literal:**</sub></small>
+¿  are you king for you [are] competing in \<the>  cedar father  your ¿  not did he eat and  did he drink? and  did he do? justice and  righteousness then it was well for \<the>  him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.14|<< Jeremiah 22:14]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.16|Jeremiah 22:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| ¿ are you king  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>תִֽמְלֹ֔ךְ</big></span><small><sup>[[H4427A]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> tim.Lokh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתָּ֖ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] competing  | <span class="ashebrew"><big>מְתַחֲרֶ֣ה</big></span><small><sup>[[H8474]]</sup></small> &#8207;| me.ta.cha.Reh<small><sup>[[HVcrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> cedar  | <span class="ashebrew"><big>בָ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָ֑רֶז</big></span><small><sup>[[H0730]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> 'A.rez<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father your  | <span class="ashebrew"><big>אָבִ֜י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>ל֧וֹא</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| did he eat  | <span class="ashebrew"><big>אָכַ֣ל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| 'a.Khal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and did he drink?  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שָׁתָ֗ה</big></span><small><sup>[[H8354]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sha.Tah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and did he do?  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָשָׂ֤ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  | <span class="ashebrew"><big>מִשְׁפָּט֙</big></span><small><sup>[[H4941H]]</sup></small> &#8207;| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and righteousness  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צְדָקָ֔ה</big></span><small><sup>[[H6666]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| then  | <span class="ashebrew"><big>אָ֖ז</big></span><small><sup>[[H0227A]]</sup></small> &#8207;| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was well  | <span class="ashebrew"><big>ט֥וֹב</big></span><small><sup>[[H2895]]</sup></small> &#8207;| Tov<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> him  | <span class="ashebrew"><big>לֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.14|<< Jeremiah 22:14]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.16|Jeremiah 22:16 >>]]</td></tr></table>
+
+

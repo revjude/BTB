@@ -1,0 +1,35 @@
+ <span class="bdbLangHebrew">‎בִּנְיָמִין‎</span> [[Gen.35.18|Gen 35:18]] +; usually <span class="bdbLangHebrew">‎בִּנְיָמִן‎</span> **proper name, masculine**<sub>166</sub> (***son of (the) right hand***) — 
+
+**1.** youngest son of Jacob, so called by him, but by Rachel, the mother, who died at Benjamin's birth, called  <span class="bdbLangHebrew">‎בֶּןאֿוֺנִי‎</span> (q. v.) [[Gen.35.18|Gen 35:18]] own brother of Joseph [[Gen.35.24|Gen 35:24]]; [[Gen.42.4|Gen 42:4]]; [[Gen.43.29|Gen 43:29]]; [[Gen.45.12|Gen 45:12]] compare [[Gen.42.36|Gen 42:36]]; [[Gen.45.15|Gen 45:15]]; [[Gen.45.34|Gen 45:34]] +; name of tribe of Benjamin [[Num.1.11|Num 1:11]]; [[Deut.27.12|Deut 27:12]]; [[Deut.33.12|Deut 33:12]]; [[Judg.5.14|Judg 5:14]] + 23 t. Judges; 32 t. Samuel Kings Chronicles; [[Hos.5.8|Hos 5:8]]; [[Ezek.48.23|Ezek 48:23]]; [[Obad.1.19|Obad 1:19]]; [[Ps.68.28|Ps 68:28]]; [[Ps.80.3|Ps 80:3]] <span class="bdbLangHebrew">‎בְּנֵי בנימן‎</span> (literal [[Gen.46.21|Gen 46:21]]) of tribe [[Num.1.36|Num 1:36]]; [[Num.2.22|Num 2:22]]; [[Num.7.60|Num 7:60]]; [[Num.26.38|Num 26:38]]; [[Num.26.41|Num 26:41]]; [[Josh.18.20|Josh 18:20]]; [[Josh.18.28|Josh 18:28]]; [[Judg.20.3|Judg 20:3]]; [[Judg.20.14|Judg 20:14]]; [[Judg.20.15|Judg 20:15]]; [[Judg.20.18|Judg 20:18]]; [[Judg.20.21|Judg 20:21]]; [[Judg.20.23|Judg 20:23]]; [[Judg.20.24|Judg 20:24]]; [[Judg.20.28|Judg 20:28]]; [[Judg.20.30|Judg 20:30]]; [[Judg.20.31|Judg 20:31]]; [[Judg.20.32|Judg 20:32]]; [[Judg.20.36|Judg 20:36]]; [[Judg.20.48|Judg 20:48]]; [[Judg.21.18|Judg 21:18]]; [[Judg.21.20|Judg 21:20]]; [[Judg.21.23|Judg 21:23]]; [[2Sam.2.25|2Sam 2:25]]; [[2Sam.4.2|2Sam 4:2]]; [[2Sam.23.29|2Sam 23:29]]; [[1Chr.8.40|1Chr 8:40]]; [[1Chr.9.3|1Chr 9:3]]; [[1Chr.9.7|1Chr 9:7]]; [[1Chr.11.31|1Chr 11:31]]; [[1Chr.12.17|1Chr 12:17]]; [[1Chr.12.30|1Chr 12:30]]; [[Neh.11.4|Neh 11:4]]; [[Neh.11.7|Neh 11:7]]; [[Neh.11.31|Neh 11:31]]; [[Jer.6.1|Jer 6:1]]; [[Judg.1.21|Judg 1:21]] (twice in verse) (but <span class="bdbLangHebrew">‎בני יהודה‎</span> in \|\| [[Josh.15.63|Josh 15:63]] compare [[BDB#Bu|Bu]]<sup>RS 7</sup>); explicitly <span class="bdbLangHebrew">‎מַטֵּה בִנְיָמִן‎</span> [[Num.1.37|Num 1:37]]; [[Num.2.22|Num 2:22]]; [[Num.13.9|Num 13:9]]; [[Num.34.21|Num 34:21]]; [[Josh.21.4|Josh 21:4]]; [[1Chr.6.45|1Chr 6:45]] compare [[Josh.21.17|Josh 21:17]] <span class="bdbLangHebrew">‎מַטֵּה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְנֵי ב‎</span> [[Num.10.24|Num 10:24]]; [[Josh.18.11|Josh 18:11]]; [[Josh.18.21|Josh 18:21]]; [[1Chr.6.50|1Chr 6:50]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שֵׁבֶט ב‎</span> [[1Sam.10.20|1Sam 10:20]]; [[1Sam.10.21|1Sam 10:21]]; [[1Kgs.12.21|1Kgs 12:21]] observe also <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כָּלשִֿׁבְטֵי ב‎</span> [[Judg.20.12|Judg 20:12]] compare [[1Sam.9.21|1Sam 9:21]] <span class="bdbLangHebrew">‎אִישׁ בִּנְיָמִן‎</span> [[Judg.20.41|Judg 20:41]]; [[1Sam.4.12|1Sam 4:12]] compare <span class="bdbLangHebrew">‎אִישׁ‎</span> <span class="bdbLangHebrew">‎מִבִּןיָֿ֯מִין‎</span> [[1Sam.9.1|1Sam 9:1]] <span class="bdbLangHebrew">‎אֶרֶץ בִּנְיָמִן‎</span> [[Judg.21.21|Judg 21:21]]; [[1Sam.9.16|1Sam 9:16]]; [[2Sam.21.14|2Sam 21:14]]; [[Jer.1.1|Jer 1:1]]; [[Jer.17.26|Jer 17:26]]; [[Jer.32.44|Jer 32:44]]; [[Jer.33.13|Jer 33:13]]; [[Jer.37.12|Jer 37:12]] compare [[Jer.32.8|Jer 32:8]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎גְּבוּל ב‎</span> [[1Sam.10.2|1Sam 10:2]]; [[Ezek.48.22|Ezek 48:22]] (strike out [[BDB#Co|Co]]) v[[Ezek.48.24|Ezek 48:24]] <span class="bdbLangHebrew">‎בֵּית בִּנְיָמִן‎</span> [[2Sam.3.19|2Sam 3:19]] <span class="bdbLangHebrew">‎בֵּית‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יְהוּדָה וּב‎</span> [[1Kgs.12.23|1Kgs 12:23]]; [[2Chr.11.1|2Chr 11:1]] in name of a temple-gate <span class="bdbLangHebrew">‎הָעֶלְיוֺן‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שַׁעַר ב‎</span> [[Jer.20.2|Jer 20:2]] compare [[Jer.37.13|Jer 37:13]]; [[Jer.38.7|Jer 38:7]]; [[Ezek.48.32|Ezek 48:32]]; [[Zech.14.10|Zech 14:10]]. 
+
+**2.** a son of Bilhan and great-grandson of Benjamin 
+
+**1.** [[1Chr.7.10|1Chr 7:10]]. 
+
+**3.** a Jew of Ezra's time [[Ezra.10.32|Ezra 10:32]] compare [[Neh.3.23|Neh 3:23]]; [[Neh.12.34|Neh 12:34]]. — <span class="bdbLangHebrew">‎בנימן בני פרץ‎</span> [[1Chr.9.4|1Chr 9:4]] [[BDB#Kt|Kt]] read with [[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בָּנִי מִןבְּֿנֵי פ‎</span>. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.35.18\|35:18]] · [[Gen.35.24\|35:24]] · [[Gen.42.4\|42:4]] · [[Gen.42.36\|42:36]] · [[Gen.43.29\|43:29]] · [[Gen.45.12\|45:12]] · [[Gen.45.15\|45:15]] · [[Gen.45.34\|45:34]] · [[Gen.46.21\|46:21]] |
+| Numbers | [[Num.1.11\|1:11]] · [[Num.1.36\|1:36]] · [[Num.1.37\|1:37]] · [[Num.2.22\|2:22]] · [[Num.7.60\|7:60]] · [[Num.10.24\|10:24]] · [[Num.13.9\|13:9]] · [[Num.26.38\|26:38]] · [[Num.26.41\|26:41]] · [[Num.34.21\|34:21]] |
+| Deuteronomy | [[Deut.27.12\|27:12]] · [[Deut.33.12\|33:12]] |
+| Joshua | [[Josh.15.63\|15:63]] · [[Josh.18.11\|18:11]] · [[Josh.18.20\|18:20]] · [[Josh.18.21\|18:21]] · [[Josh.18.28\|18:28]] · [[Josh.21.4\|21:4]] · [[Josh.21.17\|21:17]] |
+| Judges | [[Judg.1.21\|1:21]] · [[Judg.5.14\|5:14]] · [[Judg.20.3\|20:3]] · [[Judg.20.12\|20:12]] · [[Judg.20.14\|20:14]] · [[Judg.20.15\|20:15]] · [[Judg.20.18\|20:18]] · [[Judg.20.21\|20:21]] · [[Judg.20.23\|20:23]] · [[Judg.20.24\|20:24]] · [[Judg.20.28\|20:28]] · [[Judg.20.30\|20:30]] · [[Judg.20.31\|20:31]] · [[Judg.20.32\|20:32]] · [[Judg.20.36\|20:36]] · [[Judg.20.41\|20:41]] · [[Judg.20.48\|20:48]] · [[Judg.21.18\|21:18]] · [[Judg.21.20\|21:20]] · [[Judg.21.21\|21:21]] · [[Judg.21.23\|21:23]] |
+| 1 Samuel | [[1Sam.4.12\|4:12]] · [[1Sam.9.1\|9:1]] · [[1Sam.9.16\|9:16]] · [[1Sam.9.21\|9:21]] · [[1Sam.10.2\|10:2]] · [[1Sam.10.20\|10:20]] · [[1Sam.10.21\|10:21]] |
+| 2 Samuel | [[2Sam.2.25\|2:25]] · [[2Sam.3.19\|3:19]] · [[2Sam.4.2\|4:2]] · [[2Sam.21.14\|21:14]] · [[2Sam.23.29\|23:29]] |
+| 1 Kings | [[1Kgs.12.21\|12:21]] · [[1Kgs.12.23\|12:23]] |
+| 1 Chronicles | [[1Chr.6.45\|6:45]] · [[1Chr.6.50\|6:50]] · [[1Chr.7.10\|7:10]] · [[1Chr.8.40\|8:40]] · [[1Chr.9.3\|9:3]] · [[1Chr.9.4\|9:4]] · [[1Chr.9.7\|9:7]] · [[1Chr.11.31\|11:31]] · [[1Chr.12.17\|12:17]] · [[1Chr.12.30\|12:30]] |
+| 2 Chronicles | [[2Chr.11.1\|11:1]] |
+| Ezra | [[Ezra.10.32\|10:32]] |
+| Nehemiah | [[Neh.3.23\|3:23]] · [[Neh.11.4\|11:4]] · [[Neh.11.7\|11:7]] · [[Neh.11.31\|11:31]] · [[Neh.12.34\|12:34]] |
+| Psalms | [[Ps.68.28\|68:28]] · [[Ps.80.3\|80:3]] |
+| Jeremiah | [[Jer.1.1\|1:1]] · [[Jer.6.1\|6:1]] · [[Jer.17.26\|17:26]] · [[Jer.20.2\|20:2]] · [[Jer.32.8\|32:8]] · [[Jer.32.44\|32:44]] · [[Jer.33.13\|33:13]] · [[Jer.37.12\|37:12]] · [[Jer.37.13\|37:13]] · [[Jer.38.7\|38:7]] |
+| Ezekiel | [[Ezek.48.22\|48:22]] · [[Ezek.48.23\|48:23]] · [[Ezek.48.24\|48:24]] · [[Ezek.48.32\|48:32]] |
+| Hosea | [[Hos.5.8\|5:8]] |
+| Obadiah | [[Obad.1.19\|1:19]] |
+| Zechariah | [[Zech.14.10\|14:10]] |
+

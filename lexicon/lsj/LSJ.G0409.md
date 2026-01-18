@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==ἀνδροφόνος==</span>-<span class='asgreek'>φόνος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>man-slaying,</b> Homeric epithet of Hector, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 24.724, etc. ">Refs 8th c.BC+</a>]; of Achilles, <span class='asgreek'>χεῖρες</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" 18.317">Refs</a>]; <b>homicide,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 114a">Refs 5th c.BC+</a>]; generally, <b>murderous,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τὴν</span> <span class='asgreek'>φύσιν</span>[<a href="javascript:void(0)" title=" 4th c.BC: Theopompus Historicus 217">Refs 4th c.BC+</a>]:—rarely except of <b>slaughter in battle,</b> but in [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 1.261 φάρμακον ἀ.">Refs 8th c.BC+</a>] a <b>murderous</b> drug:—epithet of <span class='asgreek'>αῖμα</span>, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Orphica “Hymni” 65.4. ">Refs 5th c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> of women, <b>murdering their husbands,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 4.252. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> as law-term, <b>one convicted of manslaughter, homicide,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 10.7, 4th c.BC: Demosthenes Orator 23.29, compare [prev. work]216:—hence as a term of abuse, τοὺς ἀ. ἰχθυοπώλας 2nd c.AD: Athenaeus Epigrammaticus 6.228c, compare 4th c.BC: Amphis Comicus 30. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>Κῶνος</span>, a landmark at Athens, [<a href="javascript:void(0)" title=" “IG” 3.61 A ii 15.">Refs</a>]

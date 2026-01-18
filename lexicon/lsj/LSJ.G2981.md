@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==λαλιά==</span>-<span class='asgreek'>ιά</span></b>, 
+
+
+ <i>poetry</i> <b><span class='asgreek'>==λαλιά==</span>-<span class='asgreek'>ιή</span></b>, <span class='asgreek'>ἡ</span>, <b>talk, chat</b>, <span class='asgreek'>λαλιὰν</span> <span class='asgreek'>ἀσκῆσαι</span>, <span class='asgreek'>ἐπιτηδεῦσαι</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 931 (\_anapaest meter\_), “Ra.” 1069; πέρας ποιεῖ λαλιᾶς 4th-3rd c.BC: Menander Comicus 66.3, compare 4th-3rd c.BC: Hermesianax Elegiacus 7.78, “Anthologia Graeca” 7.440 (1st c.AD: Leonidas Alexandrinus Epigrammaticus)">Refs 5th c.BC+</a>]; <b>common talk, report</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.20.5; τῆς εὐανδρίας τινός LXX.2Mac.8.7; ἀχέων “APl.” 4.134 (1st c.BC: Meleager Epigrammaticus); λαλιάν τινα ποιεῖν LXX.Sir.42.11 ">LXX+2nd c.BC+</a>]; in good sense, <b>discussion</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>βυβλίων</span> <span class='asgreek'>λ</span>. [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 31.23.4, compare 36.12.3 ">Refs 2nd c.BC+</a>]; <b>speech, conversation,</b> [<a href="javascript:void(0)" title="NT.John.8.43">NT</a>]; <b>matter, subject</b>, [<a href="javascript:void(0)" title=" LXX.Eccl.3.18. ">LXX</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>loquacity</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 2.49, 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 7, 4th c.BC: Aristoteles Philosophus “Physiognomonica” 806b18, 4th-3rd c.BC: Menander Comicus “Σαμία” 46. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>a form of speech, dialect,</b> [<a href="javascript:void(0)" title="NT.Matt.26.73; ἡ λ. σου ὡραία LXX.Song.4.3 ">LXX+NT</a>]; <b>style</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2.27 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[John.8.43]] ☩ [[Eccl.3.18]] ☩ [[Matt.26.73]] ☩ [[Song.4.3]]
+</sub></small>

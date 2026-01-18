@@ -1,0 +1,32 @@
+**Judges 11:29** 
+<small><sub>**KJV:**</sub></small>
+Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over [unto] the children of Ammon.
+<small><sub>**BSB:**</sub></small>
+Then the Spirit of the LORD came upon Jephthah, and he passed through Gilead and Manasseh, then through Mizpah of Gilead. And from there he advanced against the Ammonites.
+<small><sub>**Literal:**</sub></small>
+and  it was on Jephthah [the] spirit of Yahweh and  he passed through \<obj.> \<the>  Gilead and  \<obj.> Manasseh and  he passed through \<obj.> Mizpah of Gilead and  from  Mizpah of Gilead he he passed on [the] people of Ammon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.28|<< Judges 11:28]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.30|Judges 11:30 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּהִ֤י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jephthah  | <span class="ashebrew"><big>יִפְתָּח֙</big></span><small><sup>[[H3316H]]</sup></small> &#8207;| yif.Tach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] spirit of  | <span class="ashebrew"><big>ר֣וּחַ</big></span><small><sup>[[H7307G]]</sup></small> &#8207;| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he passed through  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעֲבֹ֥ר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Gilead  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּלְעָ֖ד</big></span><small><sup>[[H1568G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Manasseh  | <span class="ashebrew"><big>מְנַשֶּׁ֑ה</big></span><small><sup>[[H4519G]]</sup></small> &#8207;| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he passed through  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעֲבֹר֙</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mizpah of  | <span class="ashebrew"><big>מִצְפֵּ֣ה</big></span><small><sup>[[H4708K]]</sup></small> &#8207;| mitz.Peh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  | <span class="ashebrew"><big>גִלְעָ֔ד</big></span><small><sup>[[H1568G]]</sup></small> &#8207;| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from Mizpah of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּצְפֵּ֣ה</big></span><small><sup>[[H4708K]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> mitz.Peh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  | <span class="ashebrew"><big>גִלְעָ֔ד</big></span><small><sup>[[H1568G]]</sup></small> &#8207;| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he he passed on  | <span class="ashebrew"><big>עָבַ֖ר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| 'a.Var<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ammon  | <span class="ashebrew"><big>עַמּֽוֹן</big></span><small><sup>[[H5983]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| a.Mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.28|<< Judges 11:28]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.30|Judges 11:30 >>]]</td></tr></table>
+
+

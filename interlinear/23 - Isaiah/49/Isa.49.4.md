@@ -1,0 +1,28 @@
+**Isaiah 49:4** 
+<small><sub>**KJV:**</sub></small>
+Then I said, I have laboured in vain, I have spent my strength for nought, and in vain: [yet] surely my judgment [is] with the LORD, and my work with my God.
+<small><sub>**BSB:**</sub></small>
+But I said, “I have labored in vain, I have spent My strength in futility and vanity; yet My vindication is with the LORD, and My reward is with My God.”
+<small><sub>**Literal:**</sub></small>
+and  I I said to  emptiness I have labored to  nothingness and  futility strength  my I have caused to fail nevertheless justice  my [is] with Yahweh and  recompense  my [is] with God  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.3|<< Isaiah 49:3]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.5|Isaiah 49:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲנִ֤י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I said  | <span class="ashebrew"><big>אָמַ֙רְתִּי֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to emptiness  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רִ֣יק</big></span><small><sup>[[H7385]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Rik<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have labored  | <span class="ashebrew"><big>יָגַ֔עְתִּי</big></span><small><sup>[[H3021]]</sup></small> &#8207;| ya.Ga'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to nothingness  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תֹ֥הוּ</big></span><small><sup>[[H8414]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> To.hu<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and futility  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הֶ֖בֶל</big></span><small><sup>[[H1892]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> He.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength my  | <span class="ashebrew"><big>כֹּחִ֣</big></span><small><sup>[[H3581B]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ko.Ch<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have caused to fail  | <span class="ashebrew"><big>כִלֵּ֑יתִי</big></span><small><sup>[[H3615J]]</sup></small> &#8207;| khi.Lei.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nevertheless  | <span class="ashebrew"><big>אָכֵן֙</big></span><small><sup>[[H0403]]</sup></small> &#8207;| 'a.Khen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice my  | <span class="ashebrew"><big>מִשְׁפָּטִ֣</big></span><small><sup>[[H4941H]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| mish.pa.T<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and recompense my  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פְעֻלָּתִ֖</big></span><small><sup>[[H6468]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fe.'u.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God my  | <span class="ashebrew"><big>אֱלֹהָֽ</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.3|<< Isaiah 49:3]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.5|Isaiah 49:5 >>]]</td></tr></table>
+
+

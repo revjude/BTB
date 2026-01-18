@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἄσπονδος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>without</b> <span class='asgreek'>σπονδή</span> or <b>drink-offering</b>: hence, 
+
+$\quad$ $\quad$<b>\_\_I</b> of a god, <b>to whom no drink-offering is poured,</b> <span class='asgreek'>ἄ</span>. <span class='asgreek'>θεός</span>, i.e. death, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Alcestis” 424. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>without a regular truce</b> (ratified by <span class='asgreek'>σπονδαί</span>), <span class='asgreek'>ἀνοκωχή</span>[<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.32 ">Refs 5th c.BC+</a>]; of persons, <b>without making a truce,</b> <span class='asgreek'>ἄ</span>. <span class='asgreek'>ἀπιέναι</span>[<a href="javascript:void(0)" title=" [prev. author] 3.111, compare 113">Refs</a>]; <span class='asgreek'>ἀσπόνδους</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>νεκροὺς</span> <span class='asgreek'>ἀνελέσθαι</span> take up their dead <b>without leave asked,</b> [<a href="javascript:void(0)" title=" [prev. author] 2.22">Refs</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>εὐπρεπὲς</span> <span class='asgreek'>==ἄσπονδος==ον</span> the specious plea <b>of neutrality,</b> [<a href="javascript:void(0)" title=" [prev. author] 1.37. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>admitting of no truce, implacable,</b> <span class='asgreek'>==ἄσπονδος==όν</span> <span class='asgreek'>τ᾽</span> <span class='asgreek'>Ἄρη</span> (<span class='asgreek'>ἀράν</span> codices) [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1235 (Pors.); πόλεμος 4th c.BC: Demosthenes Orator 18.262, 2nd c.BC: Polybius Historicus 1.65.6, etc.; ἔχθρα 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pericles” 30; ἀσπόνδοισι νόμοισιν ἔχθραν συμβάλλειν 5th c.BC: Euripides Tragicus “Electra” 905 (Lyric poetry) ">Refs 5th c.BC+</a>]; of persons, <b>implacable,</b> [<a href="javascript:void(0)" title=" NT.2Tim.3.3">NT</a>]. <i>adverb</i> -<span class='asgreek'>δως</span>, <span class='asgreek'>ἔχειν</span>[<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus “Fragmenta” 24H.">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Tim.3.3]]
+</sub></small>

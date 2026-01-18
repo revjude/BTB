@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==ἐπουράνιος==</span></b> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>ον</span>, 
+
+
+ <i>Epic dialect</i> <span class='asgreek'>η</span>, <span class='asgreek'>ον</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus (see.below), 4th c.AD(?): Quintus Smyrnaeus Epicus 2.429 ">Refs 4th c.BC+</a>]:— <b>heavenly,</b> in [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus only of the gods, ἐ. θεός, θεοί, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 17.484, 8th c.BC: Ilias Homerus Epicus “Illiad” 6.129, +others; εὐσεβέων ἐ. ψυχαί 5th c.BC: Pindarus Lyricus “Fragmenta.” 132.3; πατήρ NT.Matt.18.35 ">NT+8th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>πορεία</span> <i>falsa lectio</i> in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 256d. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>plural</i>, as <i>substantive</i>, <span class='asgreek'>οἱ</span> <span class='asgreek'>ἐ</span>., ={<span class='asgreek'>θεοί</span>}, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 25.5, 2nd c.BC: Moschus Bucolicus 2.21 ">Refs 3rd c.BC+</a>]; opposed to <span class='asgreek'>ἐπίγειοι</span>, [<a href="javascript:void(0)" title=" NT.Phil.2.11; so ἤδη ἐ. εἶ 2nd c.AD: Lucianus Sophista “DDeor.” 4.3 ">NT+2nd c.AD+</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐ</span>., ={<span class='asgreek'>τὰ</span> <span class='asgreek'>μετέωρα</span>}, variant in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Apologia” 19b (ἐ. σώματα NT.1Cor.15.40). ">NT+5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>up to heaven,</b> <span class='asgreek'>ἔπτατ᾽</span> <span class='asgreek'>ἐπουρανίη</span> variant in [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus 134. ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Matt.18.35]] ☩ [[Phil.2.11]] ☩ [[1Cor.15.40]]
+</sub></small>

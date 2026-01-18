@@ -1,0 +1,29 @@
+**Isaiah 47:6** 
+<small><sub>**KJV:**</sub></small>
+I was wroth with my people, I have polluted mine inheritance, and given them into thine hand: thou didst shew them no mercy; upon the ancient hast thou very heavily laid thy yoke.
+<small><sub>**BSB:**</sub></small>
+I was angry with My people; I profaned My heritage, and I placed them under your control. You showed them no mercy; even on the elderly you laid a most heavy yoke.
+<small><sub>**Literal:**</sub></small>
+I was angry towards people  my I profaned inheritance  my and  I gave  them in  hand  your not you appointed to \<the>  them compassion\<s> on [the] old you made heavy yoke  your exceedingly<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.5|<< Isaiah 47:5]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.7|Isaiah 47:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| I was angry  | <span class="ashebrew"><big>קָצַ֣פְתִּי</big></span><small><sup>[[H7107]]</sup></small> &#8207;| ka.Tzaf.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| towards  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  | <span class="ashebrew"><big>עַמִּ֗</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I profaned  | <span class="ashebrew"><big>חִלַּ֙לְתִּי֙</big></span><small><sup>[[H2490H]]</sup></small> &#8207;| chi.Lal.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inheritance my  | <span class="ashebrew"><big>נַחֲלָתִ֔</big></span><small><sup>[[H5159]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| na.cha.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I gave them  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֶתְּנֵ֖</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'e.te.Ne<small><sup>[[HVqw1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in hand your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יָדֵ֑</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ya.De<small><sup>[[HNcbsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you appointed  | <span class="ashebrew"><big>שַׂ֤מְתְּ</big></span><small><sup>[[H7760A]]</sup></small> &#8207;| samt<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| compassion\<s>  | <span class="ashebrew"><big>רַחֲמִ֔ים</big></span><small><sup>[[H7356B]]</sup></small> &#8207;| ra.cha.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] old  | <span class="ashebrew"><big>זָקֵ֕ן</big></span><small><sup>[[H2205H]]</sup></small> &#8207;| za.Ken<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you made heavy  | <span class="ashebrew"><big>הִכְבַּ֥דְתְּ</big></span><small><sup>[[H3513H]]</sup></small> &#8207;| hikh.Badt<small><sup>[[HVhp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| yoke your  | <span class="ashebrew"><big>עֻלֵּ֖</big></span><small><sup>[[H5923]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| 'u.Le<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  | <span class="ashebrew"><big>מְאֹֽד</big></span><small><sup>[[H3966]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.5|<< Isaiah 47:5]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.7|Isaiah 47:7 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**Ecclesiastes 3:16** 
+<small><sub>**KJV:**</sub></small>
+And moreover I saw under the sun the place of judgment, [that] wickedness [was] there; and the place of righteousness, [that] iniquity [was] there.
+<small><sub>**BSB:**</sub></small>
+Furthermore, I saw under the sun that in the place of judgment there is wickedness, and in the place of righteousness there is wickedness.
+<small><sub>**Literal:**</sub></small>
+and  again I have seen under the  sun [the] place of \<the>  justice [was] there  \<towards> \<the>  wickedness and  [the] place of \<the>  righteousness [was] there  \<towards> \<the>  wickedness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.15|<< Ecclesiastes 3:15]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.17|Ecclesiastes 3:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and again  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ע֥וֹד</big></span><small><sup>[[H5750]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have seen  | <span class="ashebrew"><big>רָאִ֖יתִי</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| under  | <span class="ashebrew"><big>תַּ֣חַת</big></span><small><sup>[[H8478G]]</sup></small> &#8207;| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sun  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁ֑מֶשׁ</big></span><small><sup>[[H8121]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Sha.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] place of  | <span class="ashebrew"><big>מְק֤וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| me.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> justice  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּשְׁפָּט֙</big></span><small><sup>[[H4941H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] there \<towards>  | <span class="ashebrew"><big>שָׁ֣מָּ</big></span><small><sup>[[H8033G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> wickedness  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רֶ֔שַׁע</big></span><small><sup>[[H7562]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Re.sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] place of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְק֥וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> righteousness  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צֶּ֖דֶק</big></span><small><sup>[[H6664G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] there \<towards>  | <span class="ashebrew"><big>שָׁ֥מָּ</big></span><small><sup>[[H8033G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> wickedness  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רָֽשַׁע</big></span><small><sup>[[H7562]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ra.sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.15|<< Ecclesiastes 3:15]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.17|Ecclesiastes 3:17 >>]]</td></tr></table>
+
+

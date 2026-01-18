@@ -1,0 +1,9 @@
+<span class="asgreek">εὐσταθέω</span> <small>***(eustatheō)***</small> ==**be stable**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==εὐσταθέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>to be steady, stable</b>, <span class='asgreek'>ὅταν</span> <span class='asgreek'>πολίταις</span> <span class='asgreek'>==εὐσταθέω==ῶσι</span> <span class='asgreek'>δαίμονες</span> <b>are favourable</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Rhesus” 317; εὐ. ταῖς διανοίαις 1st c.BC: Dionysius Halicarnassensis 6.51 ">Refs 5th c.BC+</a>]; <span class='asgreek'>εὐστάθει</span> <b>rest in peace</b>! in an epitaph, [<a href="javascript:void(0)" title=" “IG” 14.1464">Refs</a>]; <b>to be calm, tranquil</b>, of the sea, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “VH” 1.30; οὐκ εὐ. οἱ ὄρνιθες 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.281b. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>enjoy sound, stable health</b>, <span class='asgreek'>εὐ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>ὑγιαίνειν</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Fragmenta” 68, compare 413, 2nd c.AD: Soranus Medicus 1.87, 3rd c.BC: Herodas Mimographus ">Refs 4th c.BC+</a>] <i>middle</i> cited in [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus 7.8.1. ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> of cities or countries, <b>enjoy tranquillity</b>, <span class='asgreek'>==εὐσταθέω==οῦσα</span> <span class='asgreek'>βασιλεία</span> [<a href="javascript:void(0)" title=" “OGI” 56.19 (Canopus, 1st c.BC: Ptolemaeus Epigrammaticus III)">Refs 1st c.BC+</a>]; <span class='asgreek'>τὴν</span> <span class='asgreek'>πόλιν</span> <span class='asgreek'>εὐ</span>. [<a href="javascript:void(0)" title=" “SIG” 708.37 (Istropolis, 2nd c.BC),compare 2nd c.AD: Appianus Historicus “Ἰβηρική” 9. ">Refs 2nd c.BC+</a>]

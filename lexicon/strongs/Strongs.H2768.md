@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎חֶרְמוֹן‎</span></big> **Chermôwn** <small>*(kher-mone')*</small> ==**(Mount) Hermon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from <span class="ashebrew">‎חָרַם‎</span><sup><small>[[H2763]]</small></sup>; abrupt</small>
+
+$\quad$ Hermon.
+- § Hermon = *"a sanctuary"*
+- ***Chermon***, ***a mount of Palestine***
+
+**1)** a mountain on the northeastern border of Palestine and Lebanon and overlooking the border city of Dan

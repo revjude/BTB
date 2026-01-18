@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==ὡσαύτως==</span></b>, 
+
+
+ <i>adverb</i> of <span class='asgreek'>ὁ</span> <span class='asgreek'>αὐτός</span>, <b>in like manner, just so,</b> used by [<a href="javascript:void(0)" title="8th c.BC: Homerus Epicus only at the beginning of clauses with δέ inserted, ὣς δ᾽ αὔτως.. 8th c.BC: Ilias Homerus Epicus “Illiad” 3.339, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 9.31, +others; also in 5th c.BC: Herodotus Historicus 1.215, +others, 5th-6th c.BC: Plato Philosophus “Phaedo” 102e, 4th c.BC: Aristoteles Philosophus “Rhetorica” 1386b30, +others; after 8th c.BC: Homerus Epicus, in one word, ==ὡσαύτως== καὶ">Refs 8th c.BC+</a>].. <b>in like manner</b> as.. [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.86, etc.; with \_dative\_, ὣς δ᾽ αὔτως τῇσι κυσὶ οἱ ἰχνευταὶ θάπτονται [prev. author] 2.67; πολλοὶ συνεξήκουον ὡ. ἐμοί 5th c.BC: Sophocles Tragicus “Trachiniae” 372; ὥσπερ γὰρ.., ὡ. δὲ σύ [prev. author] “El.” 27 ">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>ὡς</span> <span class='asgreek'>ἑτέρως</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Sophistici Elenchi” 169a31. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> further strengthened, <span class='asgreek'>ὡ</span>. <span class='asgreek'>οὕτως</span> so <b>in like manner,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Gorgias” 460d; ὡ. κατὰ ταὐτά [prev. author] “Phd.” 78d. ">Refs 5th c.BC+</a>]

@@ -1,0 +1,28 @@
+**Judges 8:20** 
+<small><sub>**KJV:**</sub></small>
+And he said unto Jether his firstborn, Up, [and] slay them. But the youth drew not his sword: for he feared, because he [was] yet a youth.
+<small><sub>**BSB:**</sub></small>
+So he said to Jether, his firstborn, “Get up and kill them.” But the young man did not draw his sword; he was fearful because he was still a youth.
+<small><sub>**Literal:**</sub></small>
+and  he said to  Jether firstborn  his arise kill \<obj.>  them and  not he drew the  young man sword  his for he was afraid for still  he [was] a young man<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.19|<< Judges 8:19]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.21|Judges 8:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֙אמֶר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Jether  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יֶ֣תֶר</big></span><small><sup>[[H3500G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Ye.ter<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| firstborn his  | <span class="ashebrew"><big>בְּכוֹר֔</big></span><small><sup>[[H1060]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.kho.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| arise  | <span class="ashebrew"><big>ק֖וּם</big></span><small><sup>[[H6965B]]</sup></small> &#8207;| kum<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kill  | <span class="ashebrew"><big>הֲרֹ֣ג</big></span><small><sup>[[H2026]]</sup></small> &#8207;| ha.Rog<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אוֹתָ֑</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he drew  | <span class="ashebrew"><big>שָׁלַ֨ף</big></span><small><sup>[[H8025]]</sup></small> &#8207;| sha.Laf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the young man  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נַּ֤עַר</big></span><small><sup>[[H5288]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sword his  | <span class="ashebrew"><big>חַרְבּ</big></span><small><sup>[[H2719]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| char.B<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he was afraid  | <span class="ashebrew"><big>יָרֵ֔א</big></span><small><sup>[[H3372G]]</sup></small> &#8207;| ya.Re'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still he  | <span class="ashebrew"><big>עוֹדֶ֖</big></span><small><sup>[[H5750]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| o.De.<small><sup>[[HAcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] a young man  | <span class="ashebrew"><big>נָֽעַר</big></span><small><sup>[[H5288]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.19|<< Judges 8:19]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.21|Judges 8:21 >>]]</td></tr></table>
+
+

@@ -1,0 +1,8 @@
+ [<span class="bdbLangHebrew">‎גָּזָה‎</span>] **verb** ==cut==, (cut off, sever), √ of <span class="bdbLangHebrew">‎גָּזִית‎</span> (compare Talmud <span class="bdbLangHebrew">‎גְּזָא‎</span> ***cut off***); hence perhaps **Qal** ***Participle active*** suffix <span class="bdbLangHebrew">‎גּוֺזִי‎</span> [[Ps.71.6|Ps 71:6]] thou art ***he that severed me*** from my mother's womb ([[BDB#De|De]] [[BDB#Che|Che]]; [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">σκεπαστής</span>, [[BDB#De|De]] proposes <span class="bdbLangGreek">Εκσπαστής</span>, see [[BDB#Sept|ᵐ5]] [[Ps.22.10|Ps 22:10]] [[BDB#Vg|ᵑ9]] ***protector*** compare [[BDB#Sept|ᵐ5]], [[BDB#Thes|Thes]] [[BDB#Ew|Ew]] [[BDB#Hup|Hup]] [[BDB#Pe|Pe]] ***benefactor***, compare Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHgAdAIAAAP///wAAACH5BAAAAAAALAAAAAAeAB0AAAJThI+py+0eUJhz1XYBzWfDaHCd9z2aKaFquKqc2GpgCK/vHNNfbeHJRsL4JCAg7yYzGntEpRLzmwFzLCrjODTVgigsr5fVub4tbu5pHYXT7La7VQAAOw=="> ***requite***, Jerusalem Syriac <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJgAcAIAAAP///wAAACH5BAAAAAAALAAAAAAmABwAAAJZhI+py+0PTwixsjmtlnlv7HkdQoXNCIDmNaqrgrov2aKz4cp3Wpf4LVNhfKHckHcs9oZMW8TYxEUrPWmySWT5glGswwjzehfOU5e5Q2LLq7VuN07L5/R6pAAAOw==">, Talmud <span class="bdbLangHebrew">‎גְּזָא‎</span> ***id.***); — text and meaning dubious; \|\| [[Ps.22.10|Ps 22:10]] has <span class="bdbLangHebrew">‎גֹּחִי‎</span>; see [[BDB#Che|Che]]<sup>critical note and OP 476</sup>; [[BDB#Du|Du]] <span class="bdbLangHebrew">‎עֻזִּי‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Psalms | [[Ps.22.10\|22:10]] · [[Ps.71.6\|71:6]] |
+

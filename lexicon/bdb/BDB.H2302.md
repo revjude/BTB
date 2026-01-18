@@ -1,0 +1,15 @@
+ II. [<span class="bdbLangHebrew">‎חָדָה‎</span>] **verb** ==rejoice== (Assyrian <abbr title="transliteration"><u>***—adû***</u></abbr> [[BDB#Dl|Dl]]<sup>Pr 153</sup>; Aramaic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKAAkAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAoACQABwj/AP8JHEiwoMGDCBMqXMiwocOHECNKnCjxVkJntSga7OdCwY6DJwAAwKORYBIlV1IYTIfin6onJQcOIfMClUFqG/7hChJTYBMqMmQd3FDIh7me/8YwOZLnYB0AgpD+gwQlBi2DlQaokvrv0Y8ZiAr+AMBVoKslQNaURbitCA05aw/S+/oprkF+THbUMWiGWFlyRnoQKgjKgghrZXfECFXwAQ0Olco2eRG2IBRIa3WgYPTQTwFcBP0AYMXQyIpJBj2BMzgPC5AepwRag0KkQzGF9G7IsEmwgQYLrOjZI5gjCg0q+f7FweEFjIBSCeVR2aCNIBEfaqq82GABTT9KUYRomDGzIwcQIVWkcLnxKGE3ICpgDfQFQE4YKlC+XCFyhUMRK2B4ocVPX0RxhRUGeJOQOUKYEAxBOzzBhRNd7LBBE5Bw8FgJNLTwQgsytLDBAbwo5IcRFhikwBpF1ODIH7dVAggw//gzSR2XdGJLOAy1sMMUBqXSAAz6SJWFExwYcxAdZ0hVzA4iOGFXQfJkkMGUWGap5ZZcShUQADs=">, <span class="bdbLangHebrew">‎חֲדָא‎</span>) — 
+
+**Qal** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎וַיִּ֫חַדְּ‎</span> [[Exod.18.9|Exod 18:9]] ([[BDB#E|E]]), and Jethro ***rejoiced*** over (<span class="bdbLangHebrew">‎עַל‎</span> of thing); jussive <span class="bdbLangHebrew">‎אַליִֿ֫חַדְּ‎</span> [[Job.3.6|Job 3:6]] ***let it not rejoice*** among (<span class="bdbLangHebrew">‎בְּ‎</span>) the days of the year, i.e. not take its place joyfully among them (figurative of day of Job's birth). — [[BDB#Klo|Klo]] proposes <span class="bdbLangHebrew">‎וְלֹא חָדוּבְּ֗֗֗‎</span> [[1Sam.6.19|1Sam 6:19]] for <span class="bdbLangHebrew">‎וַיַּךְבְּ֗֗֗‎</span> compare also [[BDB#Dr|Dr]] **Pi\`el** ***Imperfect*** suffix (causative) <span class="bdbLangHebrew">‎תְּחַדֵּהוּ בְשִׂמְחְה‎</span> [[Ps.21.7|Ps 21:7]] ***thou makest him joyful*** ([[BDB#Che|Che]] ***cheerest him***) ***with gladness*** (\|\| <span class="bdbLangHebrew">‎תְּשִׁיתֵהוּ בְרָכוֺת‎</span>). 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.18.9\|18:9]] |
+| 1 Samuel | [[1Sam.6.19\|6:19]] |
+| Job | [[Job.3.6\|3:6]] |
+| Psalms | [[Ps.21.7\|21:7]] |
+

@@ -1,0 +1,9 @@
+<span class="asgreek">κατάγαιος</span> <small>***(katagaios)***</small> ==**on the ground**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==κατάγαιος==</span></b>, 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>κατάγαιος</span></b>, <span class='asgreek'>ον</span>, <b>under the earth, subterranean</b>, <span class='asgreek'>θησαυρός</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.150; οἰκήματα [prev. author] 3.97, etc.; οἰκίαι 5th-6th c.BC: Xenophon Historicus “Anabasis” 4.5.25; οἴκησις 5th-6th c.BC: Plato Philosophus “Respublica” 514a, “Prt.” 320e ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐκ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>κ</span>. from <b>below ground</b>, [<a href="javascript:void(0)" title=" [prev. author] “R.” 532b ">Refs</a>]; <span class='asgreek'>οἰκίσκος</span> <span class='asgreek'>κ</span>. variant in [<a href="javascript:void(0)" title=" 7th c.AD: Paulus Aegineta Medicus 6.21. ">Refs 7th c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>on the ground</b>, <span class='asgreek'>τὰ</span> <span class='asgreek'>κ</span>. <b>ground-floor</b> rooms, opposed to <span class='asgreek'>ὑπερῷα</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 10.32 ">Refs 1st c.BC+</a>]; <span class='asgreek'>στρουθοὶ</span> <span class='asgreek'>κ</span>. ostriches, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.175, 192 ">Refs 5th c.BC+</a>]; compare <span class='asgreek'>κατώγειος</span>. 
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>substantive</i>, <span class='asgreek'>κατάγειον</span> or <span class='asgreek'>κατάγαιον</span>, <span class='asgreek'>τό</span>, <b>cellar,</b> [<a href="javascript:void(0)" title=" POxy. 75.19 (2nd c.AD), etc. ">Refs 2nd c.AD+</a>]

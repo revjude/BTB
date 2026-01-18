@@ -1,0 +1,22 @@
+**Joshua 12:4** 
+<small><sub>**KJV:**</sub></small>
+And the coast of Og king of Bashan, [which was] of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,
+<small><sub>**BSB:**</sub></small>
+And Og king of Bashan, one of the remnant of the Rephaim, who lived in Ashtaroth and Edrei.
+<small><sub>**Literal:**</sub></small>
+and  [the] territory of Og [the] king of \<the>  Bashan one of  [the] remnant of the  Rephaites who  dwelt in  Ashtaroth and  in  Edrei<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.3|<< Joshua 12:3]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.5|Joshua 12:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] territory of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גְב֗וּל</big></span><small><sup>[[H1366G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Og  | <span class="ashebrew"><big>ע֚וֹג</big></span><small><sup>[[H5747]]</sup></small> &#8207;| og<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Bashan  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בָּשָׁ֔ן</big></span><small><sup>[[H1316]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ba.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one of [the] remnant of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יֶּ֖תֶר</big></span><small><sup>[[H3499A]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ye.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Rephaites  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רְפָאִ֑ים</big></span><small><sup>[[H7497B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> re.fa.'Im<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who dwelt  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּוֹשֵׁ֥ב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Ashtaroth  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עַשְׁתָּר֖וֹת</big></span><small><sup>[[H6252H]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ash.ta.Rot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in Edrei  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶדְרֶֽעִי</big></span><small><sup>[[H0154]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'ed.Re.'i<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.3|<< Joshua 12:3]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.5|Joshua 12:5 >>]]</td></tr></table>
+
+

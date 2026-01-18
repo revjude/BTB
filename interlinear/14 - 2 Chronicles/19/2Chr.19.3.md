@@ -1,0 +1,27 @@
+**2 Chronicles 19:3** 
+<small><sub>**KJV:**</sub></small>
+Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God.
+<small><sub>**BSB:**</sub></small>
+However, some good is found in you, for you have removed the Asherah poles from the land and have set your heart on seeking God.”
+<small><sub>**Literal:**</sub></small>
+but things good they have been found with  you for you have removed the  Asherah poles from the  land and  you have directed heart  your to  seek \<the>  God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.2|<< 2 Chronicles 19:2]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.4|2 Chronicles 19:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| but  | <span class="ashebrew"><big>אֲבָ֕ל</big></span><small><sup>[[H0061]]</sup></small> &#8207;| 'a.Val<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| things  | <span class="ashebrew"><big>דְּבָרִ֥ים</big></span><small><sup>[[H1697I]]</sup></small> &#8207;| de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  | <span class="ashebrew"><big>טוֹבִ֖ים</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| to.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have been found  | <span class="ashebrew"><big>נִמְצְא֣וּ</big></span><small><sup>[[H4672]]</sup></small> &#8207;| nim.tze.'U<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  | <span class="ashebrew"><big>עִמָּ֑</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'i.Ma<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have removed  | <span class="ashebrew"><big>בִעַ֤רְתָּ</big></span><small><sup>[[H1197H]]</sup></small> &#8207;| vi.'Ar.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Asherah poles  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲשֵׁרוֹת֙</big></span><small><sup>[[H0842]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.she.rOt<small><sup>[[HNtfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you have directed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֲכִינ֥וֹתָ</big></span><small><sup>[[H3559H]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ha.khi.No.ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart your  | <span class="ashebrew"><big>לְבָבְ</big></span><small><sup>[[H3824]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| le.va.ve.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to seek  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דְרֹ֥שׁ</big></span><small><sup>[[H1875]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> d.Rosh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִֽים</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.2|<< 2 Chronicles 19:2]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.4|2 Chronicles 19:4 >>]]</td></tr></table>
+
+

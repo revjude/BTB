@@ -1,0 +1,25 @@
+**Genesis 27:7** 
+<small><sub>**KJV:**</sub></small>
+Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death.
+<small><sub>**BSB:**</sub></small>
+‘Bring me some game and prepare me a tasty dish to eat, so that I may bless you in the presence of the LORD before I die.’
+<small><sub>**Literal:**</sub></small>
+bring  ! to \<the>  me wild game and  prepare for \<the>  me savory food\<s> so  let me eat [it] so  I may bless  you \<to>  before Yahweh \<to>  before death  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.6|<< Genesis 27:6]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.8|Genesis 27:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| bring !  | <span class="ashebrew"><big>הָבִ֨יאָ</big></span><small><sup>[[H0935P]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| ha.Vi.'a<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> me  | <span class="ashebrew"><big>לִּ֥</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wild game  | <span class="ashebrew"><big>צַ֛יִד</big></span><small><sup>[[H6718A]]</sup></small> &#8207;| Tza.yid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and prepare  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲשֵׂה</big></span><small><sup>[[H6213H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.seh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> me  | <span class="ashebrew"><big>לִ֥</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| savory food\<s>  | <span class="ashebrew"><big>מַטְעַמִּ֖ים</big></span><small><sup>[[H4303]]</sup></small> &#8207;| mat.'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so let me eat [it]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֹכֵ֑לָה</big></span><small><sup>[[H0398]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'o.Khe.lah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so I may bless you  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲבָרֶכְ</big></span><small><sup>[[H1288]]</sup></small> <span class="ashebrew"><big>כָ֛ה</big></span><small><sup>[[H9031]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.va.rekh.<small><sup>[[HVpu1cs]]</sup></small> Khah<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֥י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֥י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| death my  | <span class="ashebrew"><big>מוֹתִֽ</big></span><small><sup>[[H4194]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mo.T<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.6|<< Genesis 27:6]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.8|Genesis 27:8 >>]]</td></tr></table>
+
+

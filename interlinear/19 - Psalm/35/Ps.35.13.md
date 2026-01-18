@@ -1,0 +1,24 @@
+**Psalms 35:13** 
+<small><sub>**KJV:**</sub></small>
+But as for me, when they were sick, my clothing [was] sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.
+<small><sub>**BSB:**</sub></small>
+Yet when they were ill, I put on sackcloth; I humbled myself with fasting, but my prayers returned unanswered.
+<small><sub>**Literal:**</sub></small>
+and  I when  were sick  they clothing  my [was] sackcloth I humbled with \<the>  fasting self  my and  prayer  my to bosom  my it returned<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.12|<< Psalms 35:12]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.14|Psalms 35:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲנִ֤י</big></span><small><sup>[[H0589]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when were sick they  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֲלוֹתָ֡</big></span><small><sup>[[H2470H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9048]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> cha.lo.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clothing my  | <span class="ashebrew"><big>לְב֬וּשִׁ</big></span><small><sup>[[H3830]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| le.Vu.sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] sackcloth  | <span class="ashebrew"><big>שָׂ֗ק</big></span><small><sup>[[H8242]]</sup></small> &#8207;| Sak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I humbled  | <span class="ashebrew"><big>עִנֵּ֣יתִי</big></span><small><sup>[[H6031B]]</sup></small> &#8207;| 'i.Nei.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> fasting  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צּ֣וֹם</big></span><small><sup>[[H6685]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> Tzom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self my  | <span class="ashebrew"><big>נַפְשִׁ֑</big></span><small><sup>[[H5315I]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and prayer my  | <span class="ashebrew"><big>וּ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְפִלָּתִ֗</big></span><small><sup>[[H8605]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.fi.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bosom my  | <span class="ashebrew"><big>חֵיקִ֥</big></span><small><sup>[[H2436G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| chei.K<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it returned  | <span class="ashebrew"><big>תָשֽׁוּב</big></span><small><sup>[[H7725G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ta.Shuv<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.12|<< Psalms 35:12]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.14|Psalms 35:14 >>]]</td></tr></table>
+
+

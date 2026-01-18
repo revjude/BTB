@@ -1,0 +1,25 @@
+**2 Chronicles 3:16** 
+<small><sub>**KJV:**</sub></small>
+And he made chains, [as] in the oracle, and put [them] on the heads of the pillars; and made an hundred pomegranates, and put [them] on the chains.
+<small><sub>**BSB:**</sub></small>
+He made interwoven chains and put them on top of the pillars. He made a hundred pomegranates and fastened them into the chainwork.
+<small><sub>**Literal:**</sub></small>
+and  he made chains in the  innermost room and  he put [them] on [the] top of the  pillars and  he made pomegranates one hundred and  he put [them] on the  chains<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.15|<< 2 Chronicles 3:15]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.17|2 Chronicles 3:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he made  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֤עַשׂ</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chains  | <span class="ashebrew"><big>שַׁרְשְׁרוֹת֙</big></span><small><sup>[[H8333]]</sup></small> &#8207;| shar.she.rOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the innermost room  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דְּבִ֔יר</big></span><small><sup>[[H1687]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> de.Vir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he put [them]  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתֵּ֖ן</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] top of  | <span class="ashebrew"><big>רֹ֣אשׁ</big></span><small><sup>[[H7218I]]</sup></small> &#8207;| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the pillars  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עַמֻּדִ֑ים</big></span><small><sup>[[H5982G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.mu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he made  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּ֤עַשׂ</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pomegranates  | <span class="ashebrew"><big>רִמּוֹנִים֙</big></span><small><sup>[[H7416]]</sup></small> &#8207;| ri.mo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one hundred  | <span class="ashebrew"><big>מֵאָ֔ה</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he put [them]  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתֵּ֖ן</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the chains  | <span class="ashebrew"><big>בַּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שַּׁרְשְׁרֽוֹת</big></span><small><sup>[[H8333]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ba.<small><sup>[[HRd]]</sup></small> shar.she.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.15|<< 2 Chronicles 3:15]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.17|2 Chronicles 3:17 >>]]</td></tr></table>
+
+

@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==χάρτης==</span>-<span class='asgreek'>ης</span></b>, <span class='asgreek'>ου</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ = {<span class='asgreek'>χαρτηρία</span>}, <b>papyrus,</b> or a <b>roll</b> made thereof, <span class='asgreek'>χ</span>. <span class='asgreek'>δύο</span> [<a href="javascript:void(0)" title=" “IG” 12.374.279; τὰ γραμματεῖα τούς τε χ. ἐκφέρων 5th-6th c.BC: Plato Comicus 194, cf. LXX.Isa.8.1 codex 2nd c.AD: Alexander Rhetor, “PCair.Zen.” 687.4 (3rd c.BC), “Inscription Délos” 442 A 182 (2nd c.BC), “PTeb.” 112.61 (2nd c.BC), 1st c.AD: Dioscorides (Dioscurides) Medicus 1.86, 1st c.AD: Cebes Philosophus 4, etc., “Anthologia Graeca” 9.174 (6th c.AD: Palladas Epigrammaticus), 401 ([prev. author])">LXX+5th c.BC+</a>]; <span class='asgreek'>ὥσπερ</span> <span class='asgreek'>==χάρτης==ην</span> <span class='asgreek'>εὐεργὸν</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>ἀπολραφήν</span> (of the soul at birth) [<a href="javascript:void(0)" title=" “Stoicorum Veterum Fragmenta” 2.28; ==χάρτης==αι βυβλίων 4th c.BC: Theopompus Historicus 283 ">Refs 4th c.BC+</a>]; <span class='asgreek'>χ</span>. <span class='asgreek'>βασιλικοί</span>, of the finest papyrus, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “Automatopoetica” 26.3 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>χ</span>. <span class='asgreek'>κεκαυμένος</span> used in Medicine, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 10.382, 13.315; also ==χάρτης==ου σποδιά 4th-3rd c.BC: Lycus Historicus cited in 4th c.AD: Oribasius Medicus 8.25.15; τὸ διὰ ==χάρτης==ου μέλαν 2nd c.AD: Soranus Medicus 2.41. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>any leaf</b> or <b>thin plate,</b> <span class='asgreek'>χ</span>. <span class='asgreek'>μολύβδινοι</span> <b>sheets</b> of lead, [<a href="javascript:void(0)" title=" 2nd or1st c.BC: Lysimachus Historicus cited in 1st c.AD: Josephus Historicus “contra Apionem” 1.34. ">Refs 2nd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Isa.8.1]]
+</sub></small>

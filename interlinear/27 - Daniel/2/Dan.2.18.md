@@ -1,0 +1,31 @@
+**Daniel 2:18** 
+<small><sub>**KJV:**</sub></small>
+That they would desire mercies of the God of heaven concerning this secret; that Daniel and his fellows should not perish with the rest of the wise [men] of Babylon.
+<small><sub>**BSB:**</sub></small>
+urging them to plead for mercy from the God of heaven concerning this mystery, so that Daniel and his friends would not be killed with the rest of the wise men of Babylon.
+<small><sub>**Literal:**</sub></small>
+and  compassion\<s> to  ask from before [the] God of heavens  the concerning secret  the this that not they will destroy Daniel and  companions  his with [the] rest of [the] wise men of Babylon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.17|<< Daniel 2:17]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.19|Daniel 2:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and compassion\<s>  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>רַחֲמִ֗ין</big></span><small><sup>[[H7359]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> ra.cha.Min<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to ask  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>מִבְעֵא֙</big></span><small><sup>[[H1156]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> miv.'E'<small><sup>[[AVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="asaramaic"><big>מִן</big></span><small><sup>[[H4481]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before  | <span class="asaramaic"><big>קֳדָם֙</big></span><small><sup>[[H6925]]</sup></small> &#8207;| ko.Dam<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  | <span class="ashebrew"><big>אֱלָ֣הּ</big></span><small><sup>[[H0426]]</sup></small> &#8207;| 'e.Lah<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heavens the  | <span class="asaramaic"><big>שְׁמַיָּ֔</big></span><small><sup>[[H8065]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| she.mai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| concerning  | <span class="asaramaic"><big>עַל</big></span><small><sup>[[H5922]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| secret the  | <span class="asaramaic"><big>רָזָ֖</big></span><small><sup>[[H7328]]</sup></small> <span class="asaramaic"><big>ה</big></span><small><sup>[[H9010]]</sup></small> &#8207;| ra.Zah<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="asaramaic"><big>דְּנָ֑ה</big></span><small><sup>[[H1836]]</sup></small> &#8207;| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="asaramaic"><big>דִּ֣י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="asaramaic"><big>לָ֤א</big></span><small><sup>[[H3809]]</sup></small> &#8207;| la'<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will destroy  | <span class="asaramaic"><big>יְהֹֽבְדוּן֙</big></span><small><sup>[[H0007]]</sup></small> &#8207;| ye.hoe.Dun<small><sup>[[AVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Daniel  | <span class="ashebrew"><big>דָּנִיֵּ֣אל</big></span><small><sup>[[H1841H]]</sup></small> &#8207;| da.ni.Yel<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and companions his  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>חַבְר֔וֹ</big></span><small><sup>[[H2269]]</sup></small> <span class="asaramaic"><big>הִי</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> chav.Ro.<small><sup>[[ANcmpc]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="asaramaic"><big>עִם</big></span><small><sup>[[H5974]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] rest of  | <span class="asaramaic"><big>שְׁאָ֖ר</big></span><small><sup>[[H7606]]</sup></small> &#8207;| she.'Ar<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wise men of  | <span class="asaramaic"><big>חַכִּימֵ֥י</big></span><small><sup>[[H2445]]</sup></small> &#8207;| cha.ki.Mei<small><sup>[[AAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="asaramaic"><big>בָבֶֽל</big></span><small><sup>[[H0895]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.Vel<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.17|<< Daniel 2:17]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.19|Daniel 2:19 >>]]</td></tr></table>
+
+

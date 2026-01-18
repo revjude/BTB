@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==περιδέω==</span></b>, 
+
+
+ <b>bind, tie round</b> or <b>on</b>, <span class='asgreek'>τινί</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.193, 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 127 ">Refs 5th c.BC+</a>]:— <i>middle</i>, <b>bind round oneself</b>, <span class='asgreek'>περισφύριον</span> <span class='asgreek'>περιδέεται</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.176; τὴν ᾤαν π. περὶ τὴν ὀσφύν 5th c.BC: Hermippus Comicus 53 ">Refs 5th c.BC+</a>]; <span class='asgreek'>λόφον</span>, <span class='asgreek'>πώγωνα</span>, <span class='asgreek'>στεφάνους</span> <span class='asgreek'>π</span>., [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 1038, “Ec.” 100, 122 ">Refs 5th c.BC+</a>]; of pugilists, <span class='asgreek'>ἐπισφαίροις</span> <span class='asgreek'>π</span>. <span class='asgreek'>τὰς</span> <span class='asgreek'>χεῖρας</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.825e; ἀντὶ ἱμάντων σφαίρας ἂν περιεδούμεθα 5th-6th c.BC: Plato Philosophus “Leges” 830b. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>bind round, bandage</b> with, <span class='asgreek'>ἱμᾶσι</span> <span class='asgreek'>πόδα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀγμῶν” 13; ἀραχνίοις 4th c.BC: Aristoteles Philosophus “Historia Animalium” 623a14. ">Refs 5th c.BC+</a>]

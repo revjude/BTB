@@ -1,0 +1,21 @@
+<small>*Male • Son of Ham • Son of Ham, grandson of Noah*</small>
+
+Man living at the time of the Patriarchs
+
+<span class='tipnrhighlight'>Put</span> was a son of Ham and grandson of Noah.
+- A man living at the time of the Patriarchs, first mentioned at [[Gen.10.6|Gen.10.6]]; 
+- only referred to as Put<[[H6316G]]> \(<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ט</span>\); 
+-  son of Ham<[[H2526G]]>; 
+- a brother of Canaan<[[H3667G]]>, Cush<[[H3568G]]> and Egypt<[[H4714H]]>.
+
+Put was one of the sons of Ham, who was a son of Noah \([[Gen.10.6|Genesis 10:6]]; [[1Chr.1.8|1 Chronicles 1:8]]\). He was born after the Great Flood and was a brother to Cush, Mizraim \(Egypt\), and Canaan. The descendants of Put are not explicitly mentioned in the Bible, but his name is often associated with the region of Libya or the Libyan people. Some ancient historians and geographers, such as Josephus and Pliny the Elder, connected Put with Libya. In some Bible translations, the name Put is rendered as Libya or Libyans in passages such as Ezekiel 27:10 and Nahum 3:9, where it appears in the context of nations that had trade relations with Tyre or were part of the Assyrian army.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Put (KJV= Phut) | [<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ט</span>](H6316G) <small>*Hebrew*</small> | 2x | [[Gen.10.6] & [1Ch.1.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Put\*\|reference=Gen.10.6;1Ch.1.8) |
+All Strong's for **Put**: \[[[H6316G]]\]
+#### Related Profiles:
+- **[Ham](H2526G)** (father)
+- **[Canaan](H3667G)** (sibling)
+- **[Cush](H3568G)** (sibling)
+- **[Egypt](H4714H)** (sibling)

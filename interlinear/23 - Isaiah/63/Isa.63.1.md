@@ -1,0 +1,31 @@
+**Isaiah 63:1** 
+<small><sub>**KJV:**</sub></small>
+Who [is] this that cometh from Edom, with dyed garments from Bozrah? this [that is] glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.
+<small><sub>**BSB:**</sub></small>
+Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is this robed in splendor, marching in the greatness of His strength? “It is I, proclaiming vindication, mighty to save.”
+<small><sub>**Literal:**</sub></small>
+who? this [is] coming from  Edom red of garments from  Bozrah this one [is] adorned in  clothing  his [is] stooping in  [the] greatness of strength  his I [am] speaking in  righteousness great to  save<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.12|<< Isaiah 62:12]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.2|Isaiah 63:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| who?  | <span class="ashebrew"><big>מִי</big></span><small><sup>[[H4310]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֶ֣ה</big></span><small><sup>[[H2088]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] coming  | <span class="ashebrew"><big>בָּ֣א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ba'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Edom  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֱד֗וֹם</big></span><small><sup>[[H0123G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| red of  | <span class="ashebrew"><big>חֲמ֤וּץ</big></span><small><sup>[[H2556B]]</sup></small> &#8207;| cha.Mutz<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| garments  | <span class="ashebrew"><big>בְּגָדִים֙</big></span><small><sup>[[H0899B]]</sup></small> &#8207;| be.ga.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Bozrah  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בָּצְרָ֔ה</big></span><small><sup>[[H1224G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ba.tze.Rah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this one  | <span class="ashebrew"><big>זֶ֚ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] adorned  | <span class="ashebrew"><big>הָד֣וּר</big></span><small><sup>[[H1921]]</sup></small> &#8207;| ha.Dur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in clothing his  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לְבוּשׁ֔</big></span><small><sup>[[H3830]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> l.vu.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] stooping  | <span class="ashebrew"><big>צֹעֶ֖ה</big></span><small><sup>[[H6808]]</sup></small> &#8207;| tzo.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] greatness of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רֹ֣ב</big></span><small><sup>[[H7230]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strength his  | <span class="ashebrew"><big>כֹּח֑</big></span><small><sup>[[H3581B]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ko.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֛י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] speaking  | <span class="ashebrew"><big>מְדַבֵּ֥ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| me.da.Ber<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in righteousness  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צְדָקָ֖ה</big></span><small><sup>[[H6666]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> tz.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>רַ֥ב</big></span><small><sup>[[H7227A]]</sup></small> &#8207;| rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to save  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הוֹשִֽׁיעַ</big></span><small><sup>[[H3467]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ho.Shi.a'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.12|<< Isaiah 62:12]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.2|Isaiah 63:2 >>]]</td></tr></table>
+
+

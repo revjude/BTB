@@ -1,0 +1,7 @@
+<span class="asgreek">βόθρος</span> <small>***(bothros)***</small> ==**a cesspool**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==βόθρος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>hole, trench</b>, or <b>pit dug in the ground</b>, <span class='asgreek'>==βόθρος==ον</span> <span class='asgreek'>ὀρύξαι</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 10.517 ">Refs 8th c.BC+</a>]; <span class='asgreek'>==βόθρος==ου</span> <span class='asgreek'>τ᾽</span> <span class='asgreek'>ἐξέστρεψε</span> [<span class='asgreek'>τὴν</span> <span class='asgreek'>ἐλαίαν</span>] [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 17.58 ">Refs 8th c.BC+</a>]; <b>trough</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 6.92 ">Refs 8th c.BC+</a>]: generally, <b>hollow</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 4.5.6 ">Refs 5th c.BC+</a>]; <b>grave,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 14.238 (from Aerae)">Refs</a>]; ritual <b>pit</b> for offerings to <span class='asgreek'>ὑποχθόνιοι</span> <span class='asgreek'>θεοί</span>, <span class='asgreek'>β</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>μέγαρα</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus “de Antro Nympharum - Porphyrii Opuscula” 6. ">Refs 3rd c.AD+</a>]
+

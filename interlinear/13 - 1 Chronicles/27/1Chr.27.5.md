@@ -1,0 +1,28 @@
+**1 Chronicles 27:5** 
+<small><sub>**KJV:**</sub></small>
+The third captain of the host for the third month [was] Benaiah the son of Jehoiada, a chief priest: and in his course [were] twenty and four thousand.
+<small><sub>**BSB:**</sub></small>
+The third army commander, as chief for the third month, was Benaiah son of Jehoiada the priest. There were 24,000 men in his division.
+<small><sub>**Literal:**</sub></small>
+[was] [the] commander of the  army \<the>  third for the  month \<the>  third Benaiah [the] son of Jehoiada the  priest chief and  [were] with division  his twenty and  four thousand<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.4|<< 1 Chronicles 27:4]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.6|1 Chronicles 27:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [was] [the] commander of  | <span class="ashebrew"><big>שַׂ֣ר</big></span><small><sup>[[H8269]]</sup></small> &#8207;| sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the army  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צָּבָ֤א</big></span><small><sup>[[H6635A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> tza.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> third  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁלִישִׁי֙</big></span><small><sup>[[H7992]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.li.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the month  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֹ֣דֶשׁ</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> third  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁלִישִׁ֔י</big></span><small><sup>[[H7992]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.li.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Benaiah  | <span class="ashebrew"><big>בְּנָיָ֧הוּ</big></span><small><sup>[[H1141G]]</sup></small> &#8207;| be.na.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehoiada  | <span class="ashebrew"><big>יְהוֹיָדָ֛ע</big></span><small><sup>[[H3077G]]</sup></small> &#8207;| ye.ho.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֵ֖ן</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chief  | <span class="ashebrew"><big>רֹ֑אשׁ</big></span><small><sup>[[H7218H]]</sup></small> &#8207;| Rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [were] with  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל֙</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| division his  | <span class="ashebrew"><big>מַחֲלֻקְתּ֔</big></span><small><sup>[[H4256]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ma.cha.luk.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twenty  | <span class="ashebrew"><big>עֶשְׂרִ֥ים</big></span><small><sup>[[H6242]]</sup></small> &#8207;| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and four  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַרְבָּעָ֖ה</big></span><small><sup>[[H0702]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  | <span class="ashebrew"><big>אָֽלֶף</big></span><small><sup>[[H0505G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.4|<< 1 Chronicles 27:4]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.6|1 Chronicles 27:6 >>]]</td></tr></table>
+
+

@@ -1,0 +1,3 @@
+<span class="ashebrew">‎יְחִיאֵל‎</span> <small>***(ye.chi.el)***</small> ==**Jehiel**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+- A man living at the time of Exile and Return, only mentioned at [[Ezra.8.9|Ezr.8.9]]
+-  father of: Obadiah ([[H5662P]])

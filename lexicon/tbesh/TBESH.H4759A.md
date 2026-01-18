@@ -1,0 +1,1 @@
+<span class="ashebrew">‎מַרְאָה‎</span> <small>***(mar.ah)***</small> ==**vision**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 

@@ -1,0 +1,26 @@
+**Ezekiel 21:31** (21:36)
+<small><sub>**KJV:**</sub></small>
+And I will pour out mine indignation upon thee, I will blow against thee in the fire of my wrath, and deliver thee into the hand of brutish men, [and] skilful to destroy.
+<small><sub>**BSB:**</sub></small>
+I will pour out My anger upon you; I will breathe the fire of My fury against you; I will hand you over to brutal men, skilled in destruction.
+<small><sub>**Literal:**</sub></small>
+and  I will pour out on  you indignation  my with  [the] fire of wrath  my I will blow on  you and  I will give  you in  [the] hand of men brutish craftsmen of destruction<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.30|<< Ezekiel 21:30]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.32|Ezekiel 21:32 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will pour out  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׁפַכְתִּ֤י</big></span><small><sup>[[H8210G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sha.fakh.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עָלַ֙יִ</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| indignation my  | <span class="ashebrew"><big>זַעְמִ֔</big></span><small><sup>[[H2195]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| za'.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with [the] fire of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֵ֥שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'Esh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wrath my  | <span class="ashebrew"><big>עֶבְרָתִ֖</big></span><small><sup>[[H5678]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'ev.ra.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will blow  | <span class="ashebrew"><big>אָפִ֣יחַ</big></span><small><sup>[[H6315]]</sup></small> &#8207;| 'a.Fi.ach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עָלָ֑יִ</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will give you  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נְתַתִּ֗י</big></span><small><sup>[[H5414N]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> ne.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] hand of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יַד֙</big></span><small><sup>[[H3027H]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men  | <span class="ashebrew"><big>אֲנָשִׁ֣ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brutish  | <span class="ashebrew"><big>בֹּֽעֲרִ֔ים</big></span><small><sup>[[H1197B]]</sup></small> &#8207;| bo.'a.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| craftsmen of  | <span class="ashebrew"><big>חָרָשֵׁ֖י</big></span><small><sup>[[H2796]]</sup></small> &#8207;| cha.ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| destruction  | <span class="ashebrew"><big>מַשְׁחִֽית</big></span><small><sup>[[H4889]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mash.Chit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.30|<< Ezekiel 21:30]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.32|Ezekiel 21:32 >>]]</td></tr></table>
+
+

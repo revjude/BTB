@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==περιξύω==</span>-<span class='asgreek'>ξύω</span></b>, 
+
+
+ <b>scrape all round</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus cited in 2nd c.AD: Galenus Medicus 19.130 ">Refs 5th c.BC+</a>]; <b>scrape off</b> or <b>away</b>, <span class='asgreek'>φλοιόν</span> [<a href="javascript:void(0)" title=" LXX.Wis.13.11, compare 2nd c.AD: Galenus Medicus 2.653">LXX+2nd c.AD+</a>]; <b>nibble at</b>, <span class='asgreek'>ἄκροισι</span>.. <span class='asgreek'>στομάτεσσι</span> <span class='asgreek'>δαῖτα</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 3.525 ">Refs 2nd c.AD+</a>]:—<i>middle</i>, <b>scrape oneself</b>, [<a href="javascript:void(0)" title=" Diocl.fragment 141, 3rd c.AD: Alexander Aphrodisiensis Philosophus “in Aristotelis Topicorum libros octo commentaria - pars” 455.25 ">Refs 3rd c.AD+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.192 ">Refs 5th c.BC+</a>]; <span class='asgreek'>==περιξύω==ξυομένη</span> <span class='asgreek'>γῆ</span> <b>drilled out</b> by a borer, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus “Abhandlungen der Göttinger Gesellschaft der Wissenschaften (Phil.-hist. Klasse)” 149.3. ">Refs 2nd c.AD+</a>]
+

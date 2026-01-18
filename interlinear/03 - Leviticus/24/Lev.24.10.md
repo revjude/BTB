@@ -1,0 +1,30 @@
+**Leviticus 24:10** 
+<small><sub>**KJV:**</sub></small>
+And the son of an Israelitish woman, whose father [was] an Egyptian, went out among the children of Israel: and this son of the Israelitish [woman] and a man of Israel strove together in the camp;
+<small><sub>**BSB:**</sub></small>
+Now the son of an Israelite mother and an Egyptian father went out among the Israelites, and a fight broke out in the camp between him and an Israelite.
+<small><sub>**Literal:**</sub></small>
+and  he went out a son of a woman Israelite and  he [was] a son of a man Egyptian in  among [the] people of Israel and  they struggled together in the  camp [the] son of the  Israelite [woman] and  [the] man of the  Israelite[s]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.9|<< Leviticus 24:9]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.11|Leviticus 24:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he went out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּצֵא֙</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  | <span class="ashebrew"><big>אִשָּׁ֣ה</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israelite  | <span class="ashebrew"><big>יִשְׂרְאֵלִ֔ית</big></span><small><sup>[[H3481H]]</sup></small> &#8207;| yis.re.'e.Lit<small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הוּא֙</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] a son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a man  | <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egyptian  | <span class="ashebrew"><big>מִצְרִ֔י</big></span><small><sup>[[H4713]]</sup></small> &#8207;| mitz.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in among  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ת֖וֹךְ</big></span><small><sup>[[H8432]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they struggled together  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּנָּצוּ֙</big></span><small><sup>[[H5327A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.na.Tzu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the camp  | <span class="ashebrew"><big>בַּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מַּחֲנֶ֔ה</big></span><small><sup>[[H4264]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> ma.cha.Neh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּ֚ן</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| ben<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Israelite [woman]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יִּשְׂרְאֵלִ֔ית</big></span><small><sup>[[H3481H]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yis.re.'e.Lit<small><sup>[[HNgfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] man of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִ֖ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Israelite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יִּשְׂרְאֵלִֽי</big></span><small><sup>[[H3481H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yis.re.'e.Li<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.9|<< Leviticus 24:9]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.11|Leviticus 24:11 >>]]</td></tr></table>
+
+

@@ -1,0 +1,21 @@
+**1 Chronicles 9:17** 
+<small><sub>**KJV:**</sub></small>
+And the porters [were], Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum [was] the chief;
+<small><sub>**BSB:**</sub></small>
+These were the gatekeepers: Shallum, Akkub, Talmon, Ahiman, and their relatives. Shallum was their chief;
+<small><sub>**Literal:**</sub></small>
+and  the  gatekeepers Shallum and  Akkub and  Talmon and  Ahiman and  brother  their Shallum [was] the  chief<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.16|<< 1 Chronicles 9:16]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.18|1 Chronicles 9:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the gatekeepers  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֹּׁעֲרִים֙</big></span><small><sup>[[H7778]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sho.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shallum  | <span class="ashebrew"><big>שַׁלּ֣וּם</big></span><small><sup>[[H7967M]]</sup></small> &#8207;| sha.Lum<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Akkub  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַקּ֔וּב</big></span><small><sup>[[H6126H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Kuv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Talmon  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>טַלְמֹ֖ן</big></span><small><sup>[[H2929]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tal.Mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ahiman  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲחִימָ֑ן</big></span><small><sup>[[H0289H]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.chi.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and brother their  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲחִי</big></span><small><sup>[[H0251H]]</sup></small> <span class="ashebrew"><big>הֶ֥ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.chi.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shallum  | <span class="ashebrew"><big>שַׁלּ֖וּם</big></span><small><sup>[[H7967M]]</sup></small> &#8207;| sha.Lum<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] the chief  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רֹֽאשׁ</big></span><small><sup>[[H7218H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.16|<< 1 Chronicles 9:16]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.18|1 Chronicles 9:18 >>]]</td></tr></table>
+
+

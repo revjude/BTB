@@ -1,0 +1,18 @@
+<span class="asgreek">ἀπαγωγή</span> <small>***(apagōgē)***</small> ==**enslavement**==  <sup><small>[[TEGMC#|]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀπαγωγή==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>leading away,</b> of troops, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.6.5">Refs 5th c.BC+</a>]; <b>dragging away, rape,</b> <span class='asgreek'>γυναικῶν</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Phal.” 1.3 (\_plural\_). ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>leading into captivity,</b> [<a href="javascript:void(0)" title=" LXX.Isa.10.4, +others ">LXX</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_c</b> <b>separation, withdrawal,</b> <span class='asgreek'>σώματος</span> (from the soul), [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 4.4.19. ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>payment,</b> <span class='asgreek'>κατεστρέψατο</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>φόρου</span> <span class='asgreek'>ἀ</span>. subjected them to <b>payment</b> of tribute, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.6.27, 2.182. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> as <i>Attic dialect</i> lawterm, 
+$\quad$ $\quad$ $\quad$<b>\_\_III.1</b> <b>a summary process by which a person</b> caught in the act (<span class='asgreek'>ἐπ᾽</span> <span class='asgreek'>αὐτοφώρῳ</span>) <b>might be arrested</b> by any citizen and brought before the magistrates, [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 5.9, 5th-6th c.BC: Andocides Orator 1.88, 5th c.BC: Lysias Orator 13.85f, 4th c.BC: Demosthenes Orator 24.113; ἀπαγωγῆς ἄξια 4th c.BC: Hyperides Orator “pro Euxenippo” 16. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>written complaint</b> handed in to the magistrates, <span class='asgreek'>ἀπάγειν</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀ</span>. lay such <b>accusation,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 13.86">Refs 5th c.BC+</a>]; <span class='asgreek'>παραδέχεσθαι</span> <span class='asgreek'>ἀ</span>., of the Eleven, <b>admit it,</b> [<a href="javascript:void(0)" title="[prev. passage] ">Refs</a>]
+$\quad$ $\quad$<b>\_\_IV</b> in Logic, <b>shifting</b> of the basis of argument: hence of argument based on a probable or agreed assumption, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Priora” 69a20, cf. Anonymus “in SE” 65.35">Refs 4th c.BC+</a>]; <b>reduction,</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἀδύνατον</span> <span class='asgreek'>ἀ</span>. <b>reductio per impossibile, APr.</b> 29b6[<a href="javascript:void(0)" title="; ἡ ἀ. μετάβασίς ἐστιν ἀπ᾽ ἄλλου προβλήματος ἢ θεωρήματος ἐπ᾽ ἄλλο, οὗ γνωσθέντος ἢ πορισθέντος καὶ τὸ προκείμενον ἔσται καταφανές 5th c.AD: Proclus Philosophus “in primum Euclidis librum commentarius” p.212F.; τῶν ἀπορουμένων διαγραμμάτων τὴν ἀ. ποιήσασθαι [prev. work] p.213F. ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_IV.b</b> <b>reduction</b> of a disputant (compare <span class='asgreek'>ἀπάγω</span> see[<a href="javascript:void(0)" title=" 1c), ἡ ἐπὶ τὸ ἄδηλον ἀ. 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 2.234.">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Isa.10.4]]
+</sub></small>

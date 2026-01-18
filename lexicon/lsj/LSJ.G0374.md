@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==ἀναπείθω==</span></b> 
+
+
+ [<a href="javascript:void(0)" title="(4th c.AD(?): Arcadius Grammaticus ἀμπ- “SIG” 306.59)">Refs 4th c.AD+</a>], <b>persuade, convince,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.2.52, +others">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.84. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>persuade, move</b> to do a thing, with <i>accusative</i> <i>person</i> et <i>infinitive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.124, 156, etc.">Refs 5th c.BC+</a>]; followed by <i>conjunction</i>, <span class='asgreek'>ἀ</span>. <span class='asgreek'>ὡς</span> <span class='asgreek'>χρή</span>.. [<a href="javascript:void(0)" title=" [prev. author] 1.123; ἀ. λόγῳ ὅκως.. 1.37: with double \_accusative\_, ἀ. τινά τι">Refs</a>] <b>persuade</b> one <b>of</b> a thing, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 77, compare “Anthologia Graeca” 9.438 (1st c.AD: Philippus Epigrammaticus). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>seduce, mislead,</b> <span class='asgreek'>τινά</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.148, 5.66, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>χρήμασι</span>, <span class='asgreek'>δώροις</span>, <b>bribe,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Pax” 622, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.5.3">Refs 5th c.BC+</a>]; <span class='asgreek'>χρυσίον</span> <span class='asgreek'>διδοὺς</span> <span class='asgreek'>ἀναπείσεις</span> <span class='asgreek'>ὅπως</span>.. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 473, compare “PMagd.” 14.3, NT.Acts.18.13">NT+5th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>ἀναπεπεισμένος</span> <b>bribed,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 101.">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.18.13]]
+</sub></small>

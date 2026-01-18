@@ -1,0 +1,28 @@
+**Exodus 28:14** 
+<small><sub>**KJV:**</sub></small>
+And two chains [of] pure gold at the ends; [of] wreathen work shalt thou make them, and fasten the wreathen chains to the ouches.
+<small><sub>**BSB:**</sub></small>
+and two chains of pure gold, made of braided cord work; and attach these chains to the settings.
+<small><sub>**Literal:**</sub></small>
+and  two chains of gold pure twisted cords you will make \<obj.>  them a work of cordage and  you will put \<obj.> [the] chains of the  cords on the  filigree settings<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.13|<< Exodus 28:13]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.15|Exodus 28:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and two  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁתֵּ֤י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chains of  | <span class="ashebrew"><big>שַׁרְשְׁרֹת֙</big></span><small><sup>[[H8333]]</sup></small> &#8207;| shar.she.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  | <span class="ashebrew"><big>זָהָ֣ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pure  | <span class="ashebrew"><big>טָה֔וֹר</big></span><small><sup>[[H2889]]</sup></small> &#8207;| ta.Hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twisted cords  | <span class="ashebrew"><big>מִגְבָּלֹ֛ת</big></span><small><sup>[[H4020]]</sup></small> &#8207;| mig.ba.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make  | <span class="ashebrew"><big>תַּעֲשֶׂ֥ה</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אֹתָ֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a work of  | <span class="ashebrew"><big>מַעֲשֵׂ֣ה</big></span><small><sup>[[H4639G]]</sup></small> &#8207;| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cordage  | <span class="ashebrew"><big>עֲבֹ֑ת</big></span><small><sup>[[H5688]]</sup></small> &#8207;| 'a.Vot<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will put  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָתַתָּ֛ה</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.ta.Tah<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chains of  | <span class="ashebrew"><big>שַׁרְשְׁרֹ֥ת</big></span><small><sup>[[H8333]]</sup></small> &#8207;| shar.she.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cords  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֲבֹתֹ֖ת</big></span><small><sup>[[H5688]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.vo.Tot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the filigree settings  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּשְׁבְּצֹֽת</big></span><small><sup>[[H4865]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| Ha.<small><sup>[[HTd]]</sup></small> mish.be.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.13|<< Exodus 28:13]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.15|Exodus 28:15 >>]]</td></tr></table>
+
+

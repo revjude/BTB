@@ -1,0 +1,15 @@
+
+<b> <span class='asgreek'>==τοξικός==</span>-<span class='asgreek'>ικός</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 
+
+
+ <b>of</b> or <b>for the bow,</b> <span class='asgreek'>τ</span>. <span class='asgreek'>θῶμιγξ</span>, <span class='asgreek'>ἄτρακτος</span>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 460, “fragment” 139 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τ</span>. <span class='asgreek'>στολή</span> an <b>archer's</b> equipment, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 833b ">Refs 5th c.BC+</a>]; <span class='asgreek'>τ</span>. <span class='asgreek'>κάλαμος</span> a kind of Cretan reed used for arrows, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.11.11. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>==τοξικός==ική</span> (i.e. <span class='asgreek'>τέχνη</span>) <b>archery,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Symposium” 197a, “La.” 193b, +others, “SIG” 1060.5 (Tralles, 4th-3rd c.BC). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>τὸ</span> -<span class='asgreek'>κόν</span> <b>shot-hole, loophole,</b> [<a href="javascript:void(0)" title=" LXX.Judg.5.28, 2nd-3rd c.AD: Symmachus LXX.Ezek.40.16: so -κή (i.e. θυρίς) 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 81.25. ">LXX+3rd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> of persons, <b>skilled in the use of the bow,</b> [<span class='asgreek'>Πάνδαρος</span>] [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.405b; ==τοξικός==ικώτατοι 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 6.2.4. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>τὸ</span> -<span class='asgreek'>κόν</span>, collectively, <b>the bowmen,</b> for <span class='asgreek'>οἱ</span> <span class='asgreek'>==τοξικός==όται</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 462, 2nd-3rd c.AD: Dio Cassius Historicus 36.47; πηλίκα ==τοξικός==ικὰ ἔχουσ; “Mim.Oxy.” 413.198. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <span class='asgreek'>τ</span>. <span class='asgreek'>φάρμακον</span> poison <b>for smearing arrows with,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Mirabilia” 837a13, “BGU” 21 ii 14 (4th c.AD), 4th c.AD: Oribasius Medicus “fragment” 126: τὸ τ. 1st c.BC-1st c.AD: Strabo Geographus 3.4.18, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.106, 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 9.15: \_plural\_, 1st c.AD: Dioscorides (Dioscurides) Medicus 2.79. ">Refs 4th c.BC+</a>] 
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.2.b</b> = <b>venenum,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Judg.5.28]]
+</sub></small>

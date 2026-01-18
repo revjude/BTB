@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎שֹׁבַי‎</span></big> **Shôbay** <small>*(sho-bah'-ee)*</small> ==**Shobai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>for <span class="ashebrew">‎שֹׁבִי‎</span><sup><small>[[H7629]]</small></sup></small>
+
+$\quad$ Shobai.
+- § Shobai = *"glorious"*
+- ***Shobai***, an Israelite
+
+**1)** ancestor of a family of doorkeepers of the temple who returned with Zerubbabel

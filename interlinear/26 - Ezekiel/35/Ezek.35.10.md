@@ -1,0 +1,27 @@
+**Ezekiel 35:10** 
+<small><sub>**KJV:**</sub></small>
+Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the LORD was there:
+<small><sub>**BSB:**</sub></small>
+Because you have said, ‘These two nations and countries will be ours, and we will possess them,’ even though the LORD was there,
+<small><sub>**Literal:**</sub></small>
+because saying  you \<obj.> [the] two the  nations and  \<obj.> [the] two the  lands to  me they will belong and  we will take possession of  it and  Yahweh there he was<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.9|<< Ezekiel 35:9]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.11|Ezekiel 35:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| because  | <span class="ashebrew"><big>יַ֣עַן</big></span><small><sup>[[H3282]]</sup></small> &#8207;| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| saying you  | <span class="ashebrew"><big>אֲ֠מָרְ</big></span><small><sup>[[H0559]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9041]]</sup></small> &#8207;| 'A.ma.re.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two  | <span class="ashebrew"><big>שְׁנֵ֨י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the nations  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גּוֹיִ֜ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two  | <span class="ashebrew"><big>שְׁתֵּ֧י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the lands  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲרָצ֛וֹת</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.ra.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>לִ֥</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will belong  | <span class="ashebrew"><big>תִהְיֶ֖ינָה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| tih.Yei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and we will take possession of it  | <span class="ashebrew"><big>וִֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>ירַשְׁנ֑וּ</big></span><small><sup>[[H3423H]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| vi.<small><sup>[[Hc]]</sup></small> rash.Nu.<small><sup>[[HVqq1cp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Yahweh  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֥ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he was  | <span class="ashebrew"><big>הָיָֽה</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.9|<< Ezekiel 35:9]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.11|Ezekiel 35:11 >>]]</td></tr></table>
+
+

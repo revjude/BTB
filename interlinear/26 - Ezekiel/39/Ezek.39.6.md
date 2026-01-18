@@ -1,0 +1,23 @@
+**Ezekiel 39:6** 
+<small><sub>**KJV:**</sub></small>
+And I will send a fire on Magog, and among them that dwell carelessly in the isles: and they shall know that I [am] the LORD.
+<small><sub>**BSB:**</sub></small>
+I will send fire on Magog and on those who dwell securely in the coastlands, and they will know that I am the LORD.
+<small><sub>**Literal:**</sub></small>
+and  I will send fire on  Magog and  on  [the] inhabitants of the  islands to  security and  they will know that I [am] Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.5|<< Ezekiel 39:5]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.7|Ezekiel 39:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will send  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שִׁלַּחְתִּי</big></span><small><sup>[[H7971G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> shi.lach.ti-<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  | <span class="ashebrew"><big>אֵ֣שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on Magog  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מָג֔וֹג</big></span><small><sup>[[H4031H]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ma.Gog<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on [the] inhabitants of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יֹשְׁבֵ֥י</big></span><small><sup>[[H3427]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the islands  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אִיִּ֖ים</big></span><small><sup>[[H0339]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'i.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to security  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בֶ֑טַח</big></span><small><sup>[[H0983]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Ve.tach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will know  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָדְע֖וּ</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֥י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.5|<< Ezekiel 39:5]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.7|Ezekiel 39:7 >>]]</td></tr></table>
+
+

@@ -1,0 +1,24 @@
+**2 Kings 23:14** 
+<small><sub>**KJV:**</sub></small>
+And he brake in pieces the images, and cut down the groves, and filled their places with the bones of men.
+<small><sub>**BSB:**</sub></small>
+He smashed the sacred pillars to pieces, cut down the Asherah poles, and covered the sites with human bones.
+<small><sub>**Literal:**</sub></small>
+and  he broke \<obj.> the  sacred pillars and  he cut down \<obj.> the  Asherah poles and  he filled \<obj.> place  their bones of humankind<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.13|<< 2 Kings 23:13]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.15|2 Kings 23:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he broke  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שִׁבַּר֙</big></span><small><sup>[[H7665]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> shi.Bar<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sacred pillars  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּצֵּב֔וֹת</big></span><small><sup>[[H4676]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ma.tze.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he cut down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּכְרֹ֖ת</big></span><small><sup>[[H3772G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yikh.Rot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Asherah poles  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲשֵׁרִ֑ים</big></span><small><sup>[[H0842]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.she.Rim<small><sup>[[HNtmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he filled  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְמַלֵּ֥א</big></span><small><sup>[[H4390]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.ma.Le'<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| place their  | <span class="ashebrew"><big>מְקוֹמָ֖</big></span><small><sup>[[H4725]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| me.ko.Ma<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bones of  | <span class="ashebrew"><big>עַצְמ֥וֹת</big></span><small><sup>[[H6106G]]</sup></small> &#8207;| atz.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  | <span class="ashebrew"><big>אָדָֽם</big></span><small><sup>[[H0120G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.13|<< 2 Kings 23:13]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.15|2 Kings 23:15 >>]]</td></tr></table>
+
+

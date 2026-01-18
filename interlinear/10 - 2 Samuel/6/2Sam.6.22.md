@@ -1,0 +1,25 @@
+**2 Samuel 6:22** 
+<small><sub>**KJV:**</sub></small>
+And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour.
+<small><sub>**BSB:**</sub></small>
+and I will humiliate and humble myself even more than this. Yet I will be honored by the maidservants of whom you have spoken.”
+<small><sub>**Literal:**</sub></small>
+and  I will demean myself still more than  this and  I will be lowly in  own eyes  my and  with the  maidservants whom you have said with  them I will be honored<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.21|<< 2 Samuel 6:21]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.23|2 Samuel 6:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will demean myself  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נְקַלֹּ֤תִי</big></span><small><sup>[[H7043]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> ne.ka.Lo.ti<small><sup>[[HVNq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still  | <span class="ashebrew"><big>עוֹד֙</big></span><small><sup>[[H5750]]</sup></small> &#8207;| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than this  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>זֹּ֔את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיִ֥יתִי</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yi.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lowly  | <span class="ashebrew"><big>שָׁפָ֖ל</big></span><small><sup>[[H8217]]</sup></small> &#8207;| sha.Fal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in own eyes my  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵינָ֑</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the maidservants  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲמָהוֹת֙</big></span><small><sup>[[H0519]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.ma.hOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have said  | <span class="ashebrew"><big>אָמַ֔רְתְּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mart<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with them  | <span class="ashebrew"><big>עִמָּ֖</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'i.Ma<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will be honored  | <span class="ashebrew"><big>אִכָּבֵֽדָה</big></span><small><sup>[[H3513G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'i.ka.Ve.dah<small><sup>[[HVNc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.21|<< 2 Samuel 6:21]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.23|2 Samuel 6:23 >>]]</td></tr></table>
+
+

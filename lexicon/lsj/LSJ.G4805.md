@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==σύζυγος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>yoked together, paired, united</b>, especially by marriage, <span class='asgreek'>σ</span>. <span class='asgreek'>ὁμαυλίαι</span> <b>wedded</b> union, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Choephori” 599 (Lyric poetry) ">Refs 4th c.BC+</a>]; of fish, <b>swimming in pairs</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 610b8. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> as <i>substantive</i>, <i>feminine</i>, <b>wife</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Alcestis” 314, 342 ">Refs 5th c.BC+</a>]; <i>masculine</i>, <b>yoke-fellow, comrade</b>, [<a href="javascript:void(0)" title=" [prev. author] “IT” 250, 5th-6th c.BC: Aristophanes Comicus “Plutus” 945, NT.Phil.4.3 (unless \_proper name\_)">NT+5th c.BC+</a>]; <b>brother</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Troades” 1001 ">Refs 5th c.BC+</a>]; a gladiator's <b>adversary</b>, Herzog <b>Koische Forschungen</b>[<a href="javascript:void(0)" title=" No. 133, “JHS” 34.19 (from Lycia), “epigram Gr.” 318 (from Smyrna) ">Refs</a>]; of things, <span class='asgreek'>ἀδελφὰ</span> <span class='asgreek'>τούτοις</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>πεποιηκότες</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.10d. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>common</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>πᾶσι</span> <span class='asgreek'>πατρίς</span> [<a href="javascript:void(0)" title=" “App.Anth.” 2.26. ">Refs</a>] <i>adverb</i> -<span class='asgreek'>γως</span> <b>conjointly with</b>, <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 51.9, etc. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Phil.4.3]]
+</sub></small>

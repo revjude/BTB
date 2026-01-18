@@ -1,0 +1,26 @@
+**Isaiah 21:15** 
+<small><sub>**KJV:**</sub></small>
+For they fled from the swords, from the drawn sword, and from the bent bow, and from the grievousness of war.
+<small><sub>**BSB:**</sub></small>
+For they flee from the sword—the sword that is drawn—from the bow that is bent, and from the stress of battle.
+<small><sub>**Literal:**</sub></small>
+for from  before swords they have fled from  before a sword drawn and  from  before a bow bent and  from  before [the] weight of battle<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.14|<< Isaiah 21:14]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.16|Isaiah 21:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֥י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| swords  | <span class="ashebrew"><big>חֲרָב֖וֹת</big></span><small><sup>[[H2719]]</sup></small> &#8207;| cha.ra.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have fled  | <span class="ashebrew"><big>נָדָ֑דוּ</big></span><small><sup>[[H5074]]</sup></small> &#8207;| na.Da.du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֣י</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  | <span class="ashebrew"><big>חֶ֣רֶב</big></span><small><sup>[[H2719]]</sup></small> &#8207;| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| drawn  | <span class="ashebrew"><big>נְטוּשָׁ֗ה</big></span><small><sup>[[H5203]]</sup></small> &#8207;| ne.tu.Shah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from before  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵי֙</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a bow  | <span class="ashebrew"><big>קֶ֣שֶׁת</big></span><small><sup>[[H7198]]</sup></small> &#8207;| Ke.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bent  | <span class="ashebrew"><big>דְּרוּכָ֔ה</big></span><small><sup>[[H1869]]</sup></small> &#8207;| de.ru.Khah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from before  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֖י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] weight of  | <span class="ashebrew"><big>כֹּ֥בֶד</big></span><small><sup>[[H3514]]</sup></small> &#8207;| Koed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| battle  | <span class="ashebrew"><big>מִלְחָמָֽה</big></span><small><sup>[[H4421]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.14|<< Isaiah 21:14]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.16|Isaiah 21:16 >>]]</td></tr></table>
+
+

@@ -1,0 +1,26 @@
+**Zechariah 11:14** 
+<small><sub>**KJV:**</sub></small>
+Then I cut asunder mine other staff, [even] Bands, that I might break the brotherhood between Judah and Israel.
+<small><sub>**BSB:**</sub></small>
+Then I cut in two my second staff called Union, breaking the brotherhood between Judah and Israel.
+<small><sub>**Literal:**</sub></small>
+and  I cut up \<obj.> staff  my \<the>  second \<obj.> \<the>  Union to  break \<obj.> the  brotherhood between Judah and  between Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.13|<< Zechariah 11:13]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.15|Zechariah 11:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I cut up  | <span class="ashebrew"><big>וָֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֶגְדַּע֙</big></span><small><sup>[[H1438]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'eg.Da'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| staff my  | <span class="ashebrew"><big>מַקְלִ֣</big></span><small><sup>[[H4731]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| mak.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> second  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֵּׁנִ֔י</big></span><small><sup>[[H8145]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֖ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Union  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֹֽבְלִ֑ים</big></span><small><sup>[[H2256C]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> choe.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to break  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הָפֵר֙</big></span><small><sup>[[H6565A]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Fer<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the brotherhood  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אַחֲוָ֔ה</big></span><small><sup>[[H0264]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.cha.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  | <span class="ashebrew"><big>בֵּ֥ין</big></span><small><sup>[[H0996G]]</sup></small> &#8207;| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֖ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵ֥ין</big></span><small><sup>[[H0996G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.13|<< Zechariah 11:13]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.15|Zechariah 11:15 >>]]</td></tr></table>
+
+

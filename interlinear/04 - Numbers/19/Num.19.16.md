@@ -1,0 +1,31 @@
+**Numbers 19:16** 
+<small><sub>**KJV:**</sub></small>
+And whosoever toucheth one that is slain with a sword in the open fields, or a dead body, or a bone of a man, or a grave, shall be unclean seven days.
+<small><sub>**BSB:**</sub></small>
+Anyone in the open field who touches someone who has been killed by the sword or has died of natural causes, or anyone who touches a human bone or a grave, will be unclean for seven days.
+<small><sub>**Literal:**</sub></small>
+and  every [one] who he will touch on [the] face of the  field \<in>  [one] slain of a sword or \<in>  a dead [body] or \<in>  a bone of a human or \<in>  a grave he will be unclean seven days<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.15|<< Numbers 19:15]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.17|Numbers 19:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and every  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹ֨ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one] who  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will touch  | <span class="ashebrew"><big>יִגַּ֜ע</big></span><small><sup>[[H5060]]</sup></small> &#8207;| yi.Ga'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  | <span class="ashebrew"><big>פְּנֵ֣י</big></span><small><sup>[[H6440J]]</sup></small> &#8207;| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׂדֶ֗ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> [one] slain of  | <span class="ashebrew"><big>בַּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֲלַל</big></span><small><sup>[[H2491A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> cha.lal-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  | <span class="ashebrew"><big>חֶ֙רֶב֙</big></span><small><sup>[[H2719]]</sup></small> &#8207;| che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  | <span class="ashebrew"><big>א֣וֹ</big></span><small><sup>[[H0176A]]</sup></small> &#8207;| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> a dead [body]  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מֵ֔ת</big></span><small><sup>[[H4191]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> Met<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  | <span class="ashebrew"><big>אֽוֹ</big></span><small><sup>[[H0176A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> a bone of  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֶ֥צֶם</big></span><small><sup>[[H6106G]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> 'E.tzem<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a human  | <span class="ashebrew"><big>אָדָ֖ם</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  | <span class="ashebrew"><big>א֣וֹ</big></span><small><sup>[[H0176A]]</sup></small> &#8207;| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> a grave  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קָ֑בֶר</big></span><small><sup>[[H6913]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> Ka.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be unclean  | <span class="ashebrew"><big>יִטְמָ֖א</big></span><small><sup>[[H2930A]]</sup></small> &#8207;| yit.Ma'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שִׁבְעַ֥ת</big></span><small><sup>[[H7651]]</sup></small> &#8207;| shiv.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִֽים</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.15|<< Numbers 19:15]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.17|Numbers 19:17 >>]]</td></tr></table>
+
+

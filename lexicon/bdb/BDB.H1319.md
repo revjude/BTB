@@ -1,0 +1,25 @@
+ [<span class="bdbLangHebrew">‎בָּשַׂר‎</span>] **verb** ==bear tidings== (√ ***rub smooth the face***; compare Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJgAbAIAAAP///wAAACH5BAAAAAAALAAAAAAmABsAAAJahI+py+0PYwvBVUkT3YzbnR3eAkKlJKIXyrbuC4Qwtir1DN6GDIf6/pt1eMKPSbdKkoIIziUHrUhHn6g1StvFtEBRhmkrRogtssasQsfUqiFbmBPb4vK63V4AADs="> ***remove the face of surface of a thing***, compare Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJgAbAIAAAP///wAAACH5BAAAAAAALAAAAAAmABsAAAJWhI+py+0Po0ShzhokxnDbuGnfNZXmaYyouF5c+1jqMaNfprxwh+9xb7rharWF54js6RzJEAfpAv6KDSptZw0ZpVsu4MhYbsPeHFPso2nTag+b4n7LIQUAOw=="> ***be glad, joyful***; <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhXgAgAIAAAP///wAAACH5BAAAAAAALAAAAABeACAAAALxhI+py+0Po3QhzIuzVrXuD4ZIZ4nmKXXoyi5q+5El7MFc/cyzfe8iGdn5ODGhBTdCBl85GQO4YeoSUIyyehgmmRppyadN4ZzWcAaJBXG5vGb7HVLCxUWIvMxiX+5Uszj8NUGWZMc3EseXRnE0pOcCRmWS6EdkoOXYt3WYdYc5SYl3w7n1ZXSlCJCYCtrY+ji4uuql4kErgxqLVmtZ26tjCCubdktcvHhanIxb2An0a/gkt+srKwxql/P6FJqHSnmtKVj3CugH/bgH3nMMZq4edU4RjYW7LBkf1dOMebyEj+jJHjlW/PIEgUew4JyFhGwUAAA7"> ***he rejoiced him with the message of the birth of a son***; Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLAAUAIAAAP///wAAACH5BAAAAAAALAAAAAAsABQAAAJphI+py+0bYni0IjlbtgAzr4EOJilkBJWPqhpne8HpBrdyJ36ou/N07wPKbL2a8DYsKje4H/BgXEKPmVwsIQJFfZyms0rlYqexJZhZyrGe2jX6GxRPd22p9ySP373zC/bcFSg4SFhoCFAAADs="> ***bring a joyful message***, so Assyrian <abbr title="transliteration"><u>***bussuru***</u></abbr> (Pa.) [[BDB#Dl|Dl]]<sup>Pr 170</sup>, Sabean <span class="bdbLangHebrew">‎תבשר‎</span> [[BDB#DHM|DHM]]<sup>MV</sup>, also <span class="bdbLangHebrew">‎בשר‎</span> proper name, of deity, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMAAUAIAAAP///wAAACH5BAAAAAAALAAAAAAwABQAAAJRhI+py+0PTQixWjSvhjMvv0UZiJGh41GfebbspYqrGB+doqa1vTPdDwwKh72GUBIE3JbJyuvTQhWjSI5pNKVllSxsdPujnsJiGLDsbKLX7EQBADs="> [[BDB#DHM|DHM]]<sup>ZMG 1883, 358</sup>, [[BDB#CIS|CIS]]<sup>iv. 1, 41, 1. 3</sup>) — 
+
+**Pi\`el** ***Perfect*** <span class="bdbLangHebrew">‎בִּשַּׂר‎</span> [[Jer.20.15|Jer 20:15]] + 2 t.; ***Imperfect*** <span class="bdbLangHebrew">‎תְּבַשֵּׂר‎</span> [[2Sam.18.20|2Sam 18:20]] + 4 t.; <span class="bdbLangHebrew">‎אֲבַשְּׂרָה‎</span> [[2Sam.18.19|2Sam 18:19]] ***Imperative*** <span class="bdbLangHebrew">‎בַּשְּׂרוּ‎</span> [[1Chr.16.23|1Chr 16:23]] = [[Ps.96.2|Ps 96:2]] ***infinitive*** <span class="bdbLangHebrew">‎לְבַשֵּׂר‎</span> [[1Sam.31.9|1Sam 31:9]] + 2 t.; ***Participle*** <span class="bdbLangHebrew">‎מְבַשֵּׂר‎</span> [[Isa.41.27|Isa 41:27]] + 6 t.; feminine <span class="bdbLangHebrew">‎מְבַשֶּׂרֶת‎</span> [[Isa.40.9|Isa 40:9]] (twice in verse); plural <span class="bdbLangHebrew">‎מְבַשְּׂרוֺת‎</span> [[Ps.68.12|Ps 68:12]] — 
+
+**1.** ***gladden with good tidings:*** birth of a son [[Jer.20.15|Jer 20:15]] victory [[1Sam.31.9|1Sam 31:9]]; [[2Sam.1.20|2Sam 1:20]]; [[1Chr.10.9|1Chr 10:9]]; [[Ps.68.12|Ps 68:12]] <span class="bdbLangHebrew">‎היה כמבשׂר בעיניו‎</span> ***he was in his eyes as a bearer of good tidings*** [[2Sam.4.10|2Sam 4:10]]. 
+
+**2.** ***bear tidings*** [[2Sam.18.19|2Sam 18:19]]; [[2Sam.18.20|2Sam 18:20]] (twice in verse); [[2Sam.18.26|2Sam 18:26]] even of evil [[1Sam.4.17|1Sam 4:17]], and so with accusative <span class="bdbLangHebrew">‎בשׂר טוב‎</span> [[1Kgs.1.42|1Kgs 1:42]]. 
+
+**3.** ***herald as glad tidings:*** the salvation of God, ***peach*** (chiefly exilic usage) the advent of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> in salvation [[Nah.2.1|Nah 2:1]]; [[Isa.40.9|Isa 40:9]] (twice in verse); [[Isa.41.27|Isa 41:27]]; [[Isa.52.7|Isa 52:7]] (twice in verse); the praises of Yahweh [[Isa.60.6|Isa 60:6]] His righteousness in the great congregation [[Ps.40.10|Ps 40:10]] His salvation daily [[Ps.96.2|Ps 96:2]] = [[1Chr.16.23|1Chr 16:23]] the Messianic servant preaches good tidings to the meek [[Isa.61.1|Isa 61:1]]. **Hithpa\`el** ***Imperfect*** <span class="bdbLangHebrew">‎יִתְבַּשֵּׂר‎</span> [[2Sam.18.31|2Sam 18:31]] ***receive good tidings*** (so [[BDB#Kirkp|Kirkp]]. [[BDB#Klo|Klo]]; compare Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJwAZAIAAAP///wAAACH5BAAAAAAALAAAAAAnABkAAAJXhI+py83hXIBy2pjsrRufHlHeSJYmOZ1qqqLawrYfFCOgTIl2LWN8H9I1Updijvd70DRMJmCZhOWeSwOrWYoCFcJTVxriBJU3bvD76qW5X9d6uyvD56MCADs="> IV. X; otherwise [[BDB#AV|AV]]). 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 1 Samuel | [[1Sam.4.17\|4:17]] · [[1Sam.31.9\|31:9]] |
+| 2 Samuel | [[2Sam.1.20\|1:20]] · [[2Sam.4.10\|4:10]] · [[2Sam.18.19\|18:19]] · [[2Sam.18.20\|18:20]] · [[2Sam.18.26\|18:26]] · [[2Sam.18.31\|18:31]] |
+| 1 Kings | [[1Kgs.1.42\|1:42]] |
+| 1 Chronicles | [[1Chr.10.9\|10:9]] · [[1Chr.16.23\|16:23]] |
+| Psalms | [[Ps.40.10\|40:10]] · [[Ps.68.12\|68:12]] · [[Ps.96.2\|96:2]] |
+| Isaiah | [[Isa.40.9\|40:9]] · [[Isa.41.27\|41:27]] · [[Isa.52.7\|52:7]] · [[Isa.60.6\|60:6]] · [[Isa.61.1\|61:1]] |
+| Jeremiah | [[Jer.20.15\|20:15]] |
+| Nahum | [[Nah.2.1\|2:1]] |
+

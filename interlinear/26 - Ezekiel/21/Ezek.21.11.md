@@ -1,0 +1,27 @@
+**Ezekiel 21:11** (21:16)
+<small><sub>**KJV:**</sub></small>
+And he hath given it to be furbished, that it may be handled: this sword is sharpened, and it is furbished, to give it into the hand of the slayer.
+<small><sub>**BSB:**</sub></small>
+The sword is appointed to be polished, to be grasped in the hand. It is sharpened and polished, to be placed in the hand of the slayer.
+<small><sub>**Literal:**</sub></small>
+and  someone gave \<obj.>  it to  polish [it] to  grasp [it] in the  palm it it has been sharpened a sword and  it it has been polished to  put \<obj.>  it in  [the] hand of [one who] slays<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.10|<< Ezekiel 21:10]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.12|Ezekiel 21:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and someone gave  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתֵּ֥ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹתָ֛</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to polish [it]  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מָרְטָ֖ה</big></span><small><sup>[[H4803]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ma.re.Tah<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to grasp [it]  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תְפֹּ֣שׂ</big></span><small><sup>[[H8610]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> t.Pos<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the palm  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָּ֑ף</big></span><small><sup>[[H3709G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Kaf<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>הִֽיא</big></span><small><sup>[[H1931]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| hi'-<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been sharpened  | <span class="ashebrew"><big>הוּחַ֤דָּה</big></span><small><sup>[[H2300A]]</sup></small> &#8207;| hu.Cha.dah<small><sup>[[HVHp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  | <span class="ashebrew"><big>חֶ֙רֶב֙</big></span><small><sup>[[H2719]]</sup></small> &#8207;| che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִ֣יא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been polished  | <span class="ashebrew"><big>מֹרָ֔טָּה</big></span><small><sup>[[H4803]]</sup></small> &#8207;| mo.Ra.tah<small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to put  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תֵ֥ת</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אוֹתָ֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] hand of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יַד</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] slays  | <span class="ashebrew"><big>הוֹרֵֽג</big></span><small><sup>[[H2026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ho.Reg<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.10|<< Ezekiel 21:10]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.12|Ezekiel 21:12 >>]]</td></tr></table>
+
+

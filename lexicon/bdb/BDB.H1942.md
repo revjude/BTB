@@ -1,0 +1,22 @@
+ <span class="bdbLangHebrew">‎הַוָּה‎</span> 
+
+**noun feminine 1.** ==desire==; 
+
+**2.** ==chasm==, figurative ==destruction== (compare <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJQAcAIAAAAAAAP///yH5BAAAAAAALAAAAAAlABwAAAJcjI+py+0Po5wOWEspVjc/cFygx4khiabqyraTCW3LmIh01XFlBubIbQCGZKcgkRiA/ZDJnq9Zsw2f0uSSgbRpq8aGMAd8NsHjmfCzPQdRXLMLy3yLXW35/I3PIwoAOw=="> ***desire***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIwAcAIAAAAAAAP///yH5BAAAAAAALAAAAAAjABwAAAJcjI+py+0Po0Sggqkuq/hYm12cF2rBZ5bmaHxJOrFn98j0wsI3le9bqmsEeb0ICGP7JR3A5Gj58xxJp2ltZa2ChiHpVvuVNEUtkcvH5YrVvlb7+lbGX+c5mG3P2wsAOw=="> ***atmosphere, emptiness***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKwAeAIAAAAAAAP///yH5BAAAAAAALAAAAAArAB4AAAJ2jI+pyx0AnZwLRootSBr7roCGWG3VZI6Xs3pu+cZh6mp0Jkc3Ljd76ItZJL9Hi/M7AktD2FJFS5qaCGq1SlVOrUZt1LqzPbAq6I1kS4PVXChSLD50lCde73pnGZF51uZb1MfQJuhDV8iEmBOoaNbox/goOdlQAAA7"> ***a deep pit, hell*** (compare below <span class="bdbLangHebrew">‎הָוָה‎</span>); Aramaic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKwAcAIAAAAAAAP///yH5BAAAAAAALAAAAAArABwAAAJ2jI+py+0P4wKyIoBvtgfTnXgaaHnkGFJcd6Lu2r6GCKsNzdordOK745vpLoEhp2cUmhSxlJNpIkVVSeTklZkaexMpVReFjnzcInj5VKLNm7bWLGYpc2s2rdUsQvEg/u8XNPO3EzjIk2QIlJfYtcgo8xgpOXlQAAA7"> ***gulf, chasm*** ([[Luke.16.26|Luke 16:26]] [[BDB#Syr|ᵑ6]])) construct <span class="bdbLangHebrew">‎הַוַּת‎</span> [[Mic.7.3|Mic 7:3]] +, suffix <span class="bdbLangHebrew">‎הַוָּתִי‎</span> [[Job.6.2|Job 6:2]] +, plural <span class="bdbLangHebrew">‎הַוּוֺת‎</span> [[Ps.5.10|Ps 5:10]] +; — 
+
+**1.** ***desire*** (in bad sense) [[Mic.7.3|Mic 7:3]] <span class="bdbLangHebrew">‎דֹּבֵר הַוַּת נַפְשׁוֺ‎</span> speaketh ***the desire of*** his soul, [[Prov.10.3|Prov 10:3]] <span class="bdbLangHebrew">‎הַוַּת רְשָׁעִים‎</span>, [[Prov.11.6|Prov 11:6]] <span class="bdbLangHebrew">‎בֹּגְדִים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ה‎</span>, [[Ps.52.9|Ps 52:9]] <span class="bdbLangHebrew">‎יָעֹז בְּהַוָּתוֺ‎</span> became strong through his (evil) ***desire*** (but read rather with [[BDB#Syr|ᵑ6]] [[BDB#Tg|ᵑ7]] [[BDB#Lag|Lag]] [[BDB#Gr|Gr]] [[BDB#Bi|Bi]] [[BDB#Che|Che]] [[BDB#Now|Now]] <span class="bdbLangHebrew">‎׃ בְּהוֺנוֺ‎</span> \|\| <span class="bdbLangHebrew">‎בְּעָשְׁרוֺ‎</span>). 
+
+**2.** ***engulfing ruin, destruction*** [[Job.6.2|Job 6:2]] [[BDB#Qr|Qr]] [[Job.30.13|Job 30:13]] (compare [[BDB#Baer|Baer's]] note) <span class="bdbLangHebrew">‎הַוָּתִי‎</span> of Job's great calamity; plural (intensive) <span class="bdbLangHebrew">‎הַוּוֺת‎</span>, especially as wrought, or meditated, by one against another, [[Ps.5.10|Ps 5:10]] <span class="bdbLangHebrew">‎קִרְבָּם הַוּוֺת‎</span> their inward part is ***engulfing ruin*** ([[BDB#Che|Che]]), [[Ps.38.13|Ps 38:13]] <span class="bdbLangHebrew">‎דִּבְּרוּ הַוּוֺת‎</span>, [[Ps.52.4|Ps 52:4]] <span class="bdbLangHebrew">‎תַּחֲשֹׁב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ה‎</span> <span class="bdbLangHebrew">‎לְשׁוֺנְךָ‎</span> (compare [[Prov.17.4|Prov 17:4]] <span class="bdbLangHebrew">‎לְשׁוֺן הַוּוֺת‎</span>), [[Prov.55.12|Prov 55:12]] <span class="bdbLangHebrew">‎בְּקִרְבָּהּ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ה‎</span>, [[Prov.57.2|Prov 57:2]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עַד יַעֲבֹר ה‎</span> till ***the storm of ruin*** ([[BDB#Che|Che]]) pass by, [[Prov.91.3|Prov 91:3]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎דֶּבֶר ה‎</span> ***destructive*** pestilence, [[Prov.94.20|Prov 94:20]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כִּסֵּא ה‎</span> the seat (tribunal) of destruction (i.e. which ruins the innocent by injustice), [[Prov.19.13|Prov 19:13]] a foolish son is <span class="bdbLangHebrew">‎הַוּוֺת לְאָבָיו‎</span>, [[Job.6.30|Job 6:30]] (compare v[[Job.6.2|Job 6:2]] above) 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Job | [[Job.6.2\|6:2]] · [[Job.6.30\|6:30]] · [[Job.30.13\|30:13]] |
+| Psalms | [[Ps.5.10\|5:10]] · [[Ps.38.13\|38:13]] · [[Ps.52.4\|52:4]] · [[Ps.52.9\|52:9]] |
+| Proverbs | [[Prov.10.3\|10:3]] · [[Prov.11.6\|11:6]] · [[Prov.17.4\|17:4]] · [[Prov.19.13\|19:13]] · [[Prov.55.12\|55:12]] · [[Prov.57.2\|57:2]] · [[Prov.91.3\|91:3]] · [[Prov.94.20\|94:20]] |
+| Micah | [[Mic.7.3\|7:3]] |
+| Luke | [[Luke.16.26\|16:26]] |
+

@@ -1,0 +1,28 @@
+**Genesis 44:34** 
+<small><sub>**KJV:**</sub></small>
+For how shall I go up to my father, and the lad [be] not with me? lest peradventure I see the evil that shall come on my father.
+<small><sub>**BSB:**</sub></small>
+For how can I go back to my father without the boy? I could not bear to see the misery that would overwhelm him.”
+<small><sub>**Literal:**</sub></small>
+for how? will I go up to father  my and  the  lad not [is]  he with  me lest I should look on the  calamity which it will find \<obj.> father  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.33|<< Genesis 44:33]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.1|Genesis 45:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how?  | <span class="ashebrew"><big>אֵיךְ֙</big></span><small><sup>[[H0349A]]</sup></small> &#8207;| 'eiKh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I go up  | <span class="ashebrew"><big>אֶֽעֱלֶ֣ה</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| 'e.'e.Leh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father my  | <span class="ashebrew"><big>אָבִ֔</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the lad  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נַּ֖עַר</big></span><small><sup>[[H5288]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not [is] he  | <span class="ashebrew"><big>אֵינֶ֣</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| 'ei.ne.<small><sup>[[HNcmsc]]</sup></small> Nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with me  | <span class="ashebrew"><big>אִתִּ֑</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'i.T<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lest  | <span class="ashebrew"><big>פֶּ֚ן</big></span><small><sup>[[H6435]]</sup></small> &#8207;| pen<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I should look  | <span class="ashebrew"><big>אֶרְאֶ֣ה</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| 'er.'Eh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the calamity  | <span class="ashebrew"><big>בָ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רָ֔ע</big></span><small><sup>[[H7451B]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will find  | <span class="ashebrew"><big>יִמְצָ֖א</big></span><small><sup>[[H4672]]</sup></small> &#8207;| yim.Tza'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father my  | <span class="ashebrew"><big>אָבִֽ</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.33|<< Genesis 44:33]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.1|Genesis 45:1 >>]]</td></tr></table>
+
+

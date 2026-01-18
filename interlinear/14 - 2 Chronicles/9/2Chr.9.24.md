@@ -1,0 +1,29 @@
+**2 Chronicles 9:24** 
+<small><sub>**KJV:**</sub></small>
+And they brought every man his present, vessels of silver, and vessels of gold, and raiment, harness, and spices, horses, and mules, a rate year by year.
+<small><sub>**BSB:**</sub></small>
+Year after year, each visitor would bring his tribute: articles of silver and gold, clothing, weapons, spices, horses, and mules.
+<small><sub>**Literal:**</sub></small>
+and  they [were] bringing everyone gift  his articles of silver and  articles of gold and  garments weaponry and  spices horses and  mules [the] matter of a year in  a year<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.23|<< 2 Chronicles 9:23]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.25|2 Chronicles 9:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הֵ֣ם</big></span><small><sup>[[H1992]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] bringing  | <span class="ashebrew"><big>מְבִיאִ֣ים</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| me.vi.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| everyone  | <span class="ashebrew"><big>אִ֣ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gift his  | <span class="ashebrew"><big>מִנְחָת֡</big></span><small><sup>[[H4503H]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| min.cha.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| articles of  | <span class="ashebrew"><big>כְּלֵ֣י</big></span><small><sup>[[H3627]]</sup></small> &#8207;| ke.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  | <span class="ashebrew"><big>כֶסֶף֩</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| khe.Sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and articles of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְלֵ֨י</big></span><small><sup>[[H3627]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  | <span class="ashebrew"><big>זָהָ֤ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and garments  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׂלָמוֹת֙</big></span><small><sup>[[H8008]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> se.la.mOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| weaponry  | <span class="ashebrew"><big>נֵ֣שֶׁק</big></span><small><sup>[[H5402]]</sup></small> &#8207;| Ne.shek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and spices  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְשָׂמִ֔ים</big></span><small><sup>[[H1314]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.sa.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horses  | <span class="ashebrew"><big>סוּסִ֖ים</big></span><small><sup>[[H5483M]]</sup></small> &#8207;| su.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and mules  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פְרָדִ֑ים</big></span><small><sup>[[H6505]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fe.ra.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] matter of  | <span class="ashebrew"><big>דְּבַר</big></span><small><sup>[[H1697N]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a year  | <span class="ashebrew"><big>שָׁנָ֖ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a year  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָׁנָֽה</big></span><small><sup>[[H8141]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.23|<< 2 Chronicles 9:23]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.25|2 Chronicles 9:25 >>]]</td></tr></table>
+
+

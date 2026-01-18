@@ -1,0 +1,23 @@
+**Job 13:27** 
+<small><sub>**KJV:**</sub></small>
+Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet.
+<small><sub>**BSB:**</sub></small>
+You put my feet in the stocks and stand watch over all my paths; You set a limit for the soles of my feet.
+<small><sub>**Literal:**</sub></small>
+and  you put in the  stock[s] feet  my so  you may watch all paths  my on [the] roots of feet  my you make a mark<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.26|<< Job 13:26]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.28|Job 13:28 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you put  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תָ֘שֵׂ֤ם</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ta.Sem<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the stock[s]  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>סַּ֨ד</big></span><small><sup>[[H5465]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Sad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet my  | <span class="ashebrew"><big>רַגְלַ֗</big></span><small><sup>[[H7272]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| rag.La<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so you may watch  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תִשְׁמ֥וֹר</big></span><small><sup>[[H8104I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tish.Mor<small><sup>[[HVqu2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| paths my  | <span class="ashebrew"><big>אָרְחוֹתָ֑</big></span><small><sup>[[H0734]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.re.cho.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] roots of  | <span class="ashebrew"><big>שָׁרְשֵׁ֥י</big></span><small><sup>[[H8328]]</sup></small> &#8207;| sha.re.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet my  | <span class="ashebrew"><big>רַ֝גְלַ֗</big></span><small><sup>[[H7272]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| rag.La<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you make a mark  | <span class="ashebrew"><big>תִּתְחַקֶּֽה</big></span><small><sup>[[H2707]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tit.cha.Keh<small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.26|<< Job 13:26]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.28|Job 13:28 >>]]</td></tr></table>
+
+

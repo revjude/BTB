@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==κατάρα==</span>-<span class='asgreek'>άρα</span></b> [<span class='asgreek'>ᾰρ</span>], 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>==κατάρα==</span>-<span class='asgreek'>άρη</span></b>, <span class='asgreek'>ἡ</span>, <b>curse</b>, <span class='asgreek'>==κατάρα==άρας</span> <span class='asgreek'>ποιέεσθαί</span> <span class='asgreek'>τινι</span> to lay <b>curses</b> upon one, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.165; ἐποιήσαντο νόμον τε καὶ ==κατάρα==άρην μὴ.. θρέψειν κόμην.. μηδένα [prev. work] 82; ἐκ ==κατάρα==άρης τευ in consequence of.., [prev\. author] 4.30; διδόναι τινὰ ==κατάρα==άρᾳ 5th c.BC: Euripides Tragicus “Hecuba” 945 (Lyric poetry), compare “El.” 1324 (\_plural\_, \_anapaest meter\_), 4th-5th c.BC: Aeschylus Tragicus “Th.” 725 (\_plural\_, Lyric poetry); opposed to εὐχή, 5th-6th c.BC: Plato Philosophus “Alc.” 2.143b (\_plural\_), compare “SIG” 1241 (Lyttus, 3rd c.AD), etc.; opposed to εὐλογία, NT.Jas.3.10; ==κατάρα==άραι γίγνονται ==κατάρα==ά τινος 2nd c.BC: Polybius Historicus 23.10.7 ">NT+5th c.BC+</a>]; <span class='asgreek'>τὴν</span> <span class='asgreek'>κ</span>. <span class='asgreek'>ἀναγράψαι</span>, <span class='asgreek'>στηλιτεῦσαι</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 1.45, 1st-2nd c.AD: Plutarchus Biographus et Philosophus ">Refs 1st c.BC+</a>] 2.354b; <b>cursing</b>, [<a href="javascript:void(0)" title=" κ. καὶ λοιδορία 1st c.BC: Philodemus Philosophus “περὶ παρρησίας” p.11 ">Refs 1st c.BC+</a>] O.
+
+
+<small><sub>LSJ Scripture Refs: [[Jas.3.10]]
+</sub></small>

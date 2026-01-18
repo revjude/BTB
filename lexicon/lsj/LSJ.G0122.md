@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==αἴγειος==</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, 
+
+
+ <b>of a goat</b>, <span class='asgreek'>αἴγειον</span> <span class='asgreek'>κνῆ</span> <span class='asgreek'>τυρόν</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 11.639, 5th c.BC: Hippocrates Medicus “περὶ γυναικείης φύσιος” 38">Refs 8th c.BC+</a>]; <span class='asgreek'>ἀσκῷ</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>αἰγείῳ</span> in a <b>goat's</b> skin, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 3. 247">Refs 8th c.BC+</a>]; <span class='asgreek'>αἰγείη</span> <span class='asgreek'>κυνέη</span> a helmet <b>of goatskin</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 24.231">Refs 8th c.BC+</a>]; <span class='asgreek'>γάλα</span> <span class='asgreek'>αἴ</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 522a23">Refs 4th c.BC+</a>]; <span class='asgreek'>κρέα</span> <span class='asgreek'>αἴ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus (Sp.\_) 49.">Refs 5th c.BC+</a>]
+

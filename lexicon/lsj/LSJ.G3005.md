@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==λεῖμμα==</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>λείπω</span>) <b>remnant, residue</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Herc.” 1251.6 (\_plural\_), 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Nicias” 17, τοῦ παιδὸς τὰ λείμματα">Refs 1st c.BC+</a>] <b>what was left</b> of him, his <b>remains</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.119 ">Refs 5th c.BC+</a>]; so, of persons, [<a href="javascript:void(0)" title=" LXX.2Kgs.19.4, NT.Rom.11.5. ">LXX+NT</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in Music, <b>interval</b> of [<a href="javascript:void(0)" title=" 256 243 ">Refs</a>]<b>left</b> over when two <span class='asgreek'>τόνοι</span> of [<a href="javascript:void(0)" title=" 9 8 are measured off from the διὰ τεσσάρων (4 3), 2nd c.AD: Ptolemaeus Mathematicus “Harmonica - Opera Mathematica” 1.10, Gaudentius Musicus 13, 15, Adrast. cited in Theon.Sm. p.68 H., +others, 5th c.AD: Proclus Philosophus “in Platonis Timaeum commentarii” 2.168, 179 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]; misunderstood as the number 13 (256—243) by [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1017f, cf. Anonymus cited in Theon.Sm.p.69 H. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> in Rhythmic, the shortest pause, <span class='asgreek'>λ</span>. <span class='asgreek'>ἐν</span> <span class='asgreek'>ῥυθμῷ</span> <span class='asgreek'>χρόνος</span> <span class='asgreek'>κενὸς</span> <span class='asgreek'>ἐλάχιστος</span> [<a href="javascript:void(0)" title=" 3rd c.AD(?): Aristides Quintilianus Musicus 1.18. ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> in Medicine, <b>intermission</b> in fever, [<a href="javascript:void(0)" title=" 7th c.AD: Stephanus Medicus “in Gal.” 1.268 4th c.BC: Demosthenes Orator (\_sing.\_and \_plural\_). ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>deficiency</b>, <span class='asgreek'>μὴ</span> <span class='asgreek'>γενέσθαι</span> <span class='asgreek'>μήτε</span> <span class='asgreek'>δανεισμὸν</span> <span class='asgreek'>μήτε</span> <span class='asgreek'>λ</span>. <span class='asgreek'>περὶ</span> <span class='asgreek'>ταύτας</span> <span class='asgreek'>τᾶς</span> <span class='asgreek'>εἰσφορᾶς</span> [<a href="javascript:void(0)" title=" “IG” 5(1).1432.9 (Messene, 1st c.BC-1st c.AD). ">Refs 1st c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Kgs.19.4]] ☩ [[Rom.11.5]]
+</sub></small>

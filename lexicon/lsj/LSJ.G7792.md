@@ -1,0 +1,7 @@
+<span class="asgreek">καμπύλος</span> <small>***(kampulos)***</small> ==**curved**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==καμπύλος==</span></b> [<span class='asgreek'>ῠ</span>], <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 
+
+
+ (<span class='asgreek'>κάμπτω</span>) <b>bent, curved</b>, opposed to <span class='asgreek'>εὐθύς</span>, of a bow, <span class='asgreek'>κ</span>. <span class='asgreek'>τόξα</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 3.17, etc.; ἅρμα 5.231 ">Refs 8th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>κύκλα</span>, of wheels,[<a href="javascript:void(0)" title=" [prev. work] 722; ἄροτρα “hymnus ad Cererem” 308, 6th c.BC: Solon Lyricus 13.48; δίφρος 5th c.BC: Pindarus Lyricus “I.” 4(3).29; ὄχημα 4th-5th c.BC: Aeschylus Tragicus “Supplices” 183; σελίς “IG” 12.374.57; κῦμα “BMus.Inscription” 1012 (from Chalcedon)">Refs 6th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>ἐς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἔξω</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 1; καμπύλα τε καὶ εὐθέα 5th-6th c.BC: Plato Philosophus “Respublica” 602c: \_metaphorically\_, κ. μέλος">Refs 5th c.BC+</a>] an ode <b>of varied metre</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Simonides Lyricus 29 ">Refs 4th c.BC+</a>]; compare <span class='asgreek'>καμπύλη</span>.
+

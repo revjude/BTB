@@ -1,0 +1,10 @@
+<span class="asgreek">θίασος</span> <small>***(thiasos)***</small> ==**revelry**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==θίασος==</span>-<span class='asgreek'>ος</span></b> 
+
+
+ (<i>proparoxytone</i>), <span class='asgreek'>ὁ</span>, <b>Bacchic revel, rout</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.79, 5th c.BC: Euripides Tragicus “Bacchae” 680, 5th-6th c.BC: Aristophanes Comicus “Ranae” 156, etc.; θ. ἄγειν 5th c.BC: Euripides Tragicus “Bacchae” 115 (Lyric poetry); τοὺς.. θ. ἄγων διὰ τῶν ὁδῶν τοὺς ἐστεφανωμένους τῷ μαράθῳ καὶ τῇ λεύκῃ 4th c.BC: Demosthenes Orator 18.260, compare 2nd c.AD: Athenaeus Epigrammaticus 5.185c, 8.362e. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>religious guild, confraternity,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 2.986,1663,22.1177, “SIG” 1044.45 (Halic.), etc. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_II</b> generally, <b>company, troop</b>, used by Trag. in Lyric poetry, <span class='asgreek'>Κενταύρων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Aulidensis” 1059; ἡλίκων [prev. author] “IT” 1146; Μουσῶν 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 41 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐνόπλιος</span> <span class='asgreek'>θ</span>., of warriors, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 796; Κενταυρικὸς καὶ Σατυρικός 5th-6th c.BC: Plato Philosophus “Politicus” 303d ">Refs 5th c.BC+</a>]; <span class='asgreek'>τοῦ</span> <span class='asgreek'>σοῦ</span> <span class='asgreek'>θ</span>. of your <b>company</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.1.31 ">Refs 5th c.BC+</a>]; <span class='asgreek'>Ἀσιανῶν</span> <span class='asgreek'>ἀκροαμάτων</span> <span class='asgreek'>θ</span>. [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Antonius” 24. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>feast, banquet</b>, [<a href="javascript:void(0)" title=" [prev. author] 2.301f, “Cleom.” 34. ">Refs</a>]

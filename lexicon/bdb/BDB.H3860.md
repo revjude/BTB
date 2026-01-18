@@ -1,0 +1,12 @@
+<small>Aramaic form: [[H3861]]</small>
+<small>Also see: [[H2004]] | [[H2005]] | [[H3861]]</small>
+
+ <span class="bdbLangHebrew">‎לָהֵן‎</span> **conjunction** ==on this account, therefore==, [[Ruth.1.13|Ruth 1:13]] (twice in verse) (either from <span class="bdbLangHebrew">‎לְ‎</span> and <span class="bdbLangHebrew">‎הֵן‎</span> (see below <span class="bdbLangHebrew">‎הֵ֫מָּה‎</span>); or the Aramaic <span class="bdbLangAramaic">‎לָהֵן‎</span> [[Dan.2.6|Dan 2:6]]; [[Dan.2.9|Dan 2:9]]; [[Dan.4.24|Dan 4:24]]: see the Aramaic Lexicon) 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ruth | [[Ruth.1.13\|1:13]] |
+| Daniel | [[Dan.2.6\|2:6]] · [[Dan.2.9\|2:9]] · [[Dan.4.24\|4:24]] |
+

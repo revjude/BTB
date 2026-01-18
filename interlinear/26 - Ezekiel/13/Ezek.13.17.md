@@ -1,0 +1,25 @@
+**Ezekiel 13:17** 
+<small><sub>**KJV:**</sub></small>
+Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,
+<small><sub>**BSB:**</sub></small>
+Now, O son of man, set your face against the daughters of your people who prophesy out of their own imagination. Prophesy against them
+<small><sub>**Literal:**</sub></small>
+and  you O son of humankind set face  your against [the] daughters of people  your who  prophesy from  own heart  their and  prophesy on  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.16|<< Ezekiel 13:16]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.18|Ezekiel 13:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַתָּ֣ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O son of  | <span class="ashebrew"><big>בֶן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  | <span class="ashebrew"><big>אָדָ֗ם</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| set  | <span class="ashebrew"><big>שִׂ֤ים</big></span><small><sup>[[H7760A]]</sup></small> &#8207;| sim<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face your  | <span class="ashebrew"><big>פָּנֶ֙י</big></span><small><sup>[[H6440H]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| pa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughters of  | <span class="ashebrew"><big>בְּנ֣וֹת</big></span><small><sup>[[H1323G]]</sup></small> &#8207;| be.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people your  | <span class="ashebrew"><big>עַמְּ</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>ךָ֔</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who prophesy  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּֽתְנַבְּא֖וֹת</big></span><small><sup>[[H5012]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mit.na.be.'ot<small><sup>[[HVtrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from own heart their  | <span class="ashebrew"><big>מִֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>לִּבְּ</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>הֶ֑ן</big></span><small><sup>[[H9029]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> li.be.<small><sup>[[HNcmsc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and prophesy  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנָּבֵ֖א</big></span><small><sup>[[H5012]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.na.Ve'<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הֶֽן</big></span><small><sup>[[H9039]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HR]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.16|<< Ezekiel 13:16]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.18|Ezekiel 13:18 >>]]</td></tr></table>
+
+

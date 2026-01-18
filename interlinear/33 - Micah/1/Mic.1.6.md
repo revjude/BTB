@@ -1,0 +1,24 @@
+**Micah 1:6** 
+<small><sub>**KJV:**</sub></small>
+Therefore I will make Samaria as an heap of the field, [and] as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.
+<small><sub>**BSB:**</sub></small>
+Therefore I will make Samaria a heap of rubble in the open field, a planting area for a vineyard. I will pour her stones into the valley and expose her foundations.
+<small><sub>**Literal:**</sub></small>
+and  I will make Samaria into  [the] heap of ruins of the  field into  a planting place of a vineyard and  I will pour down to the  valley stones  its and  foundations  its I will uncover<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.5|<< Micah 1:5]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.7|Micah 1:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will make  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שַׂמְתִּ֥י</big></span><small><sup>[[H7760A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sam.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samaria  | <span class="ashebrew"><big>שֹׁמְר֛וֹן</big></span><small><sup>[[H8111]]</sup></small> &#8207;| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into [the] heap of ruins of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עִ֥י</big></span><small><sup>[[H5856]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'I<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׂדֶ֖ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into a planting place of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַטָּ֣עֵי</big></span><small><sup>[[H4302]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ma.Ta.'ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a vineyard  | <span class="ashebrew"><big>כָ֑רֶם</big></span><small><sup>[[H3754]]</sup></small> &#8207;| Kha.rem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will pour down  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִגַּרְתִּ֤י</big></span><small><sup>[[H5064]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hi.gar.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the valley  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>גַּי֙</big></span><small><sup>[[H1516R]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Gai<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stones its  | <span class="ashebrew"><big>אֲבָנֶ֔י</big></span><small><sup>[[H0068G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| 'a.va.Nei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and foundations its  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יסֹדֶ֖י</big></span><small><sup>[[H3247H]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> so.Dei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will uncover  | <span class="ashebrew"><big>אֲגַלֶּֽה</big></span><small><sup>[[H1540I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.ga.Leh<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.5|<< Micah 1:5]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.7|Micah 1:7 >>]]</td></tr></table>
+
+

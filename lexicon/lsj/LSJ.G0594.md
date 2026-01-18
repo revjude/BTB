@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==ἀποδοχή==</span>-<span class='asgreek'>ή</span></b>, 
+
+
+ <i>Aeolic dialect</i> <span class='asgreek'>ἀπυδοχά</span>, <span class='asgreek'>ἡ</span>, <b>receiving back, having restored to one,</b> opposed to <span class='asgreek'>ἀπόδοσις</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 4.81. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>entertainment, reception,</b> <span class='asgreek'>ξένων</span>[<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 12.2.12 (assuming variant). ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>place of reception,</b> <span class='asgreek'>γῆ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>πάντων</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Secundus Gnomologus “Sententiae - FPG” 15. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>acceptance, approbation, favour,</b> <span class='asgreek'>==ἀποδοχή==ῆς</span> <span class='asgreek'>τυγχάνειν</span> <span class='asgreek'>παρά</span> <span class='asgreek'>τινι</span>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.5.5, compare 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 6.14.4; ἀ. ἀξιοῦσθαι 2nd c.BC: Polybius Historicus 2.56.1, compare 1st c.BC: Diodorus Siculus Historicus 12.53; μετ᾽ εὐχαριστίας καὶ ==ἀποδοχή==ῆς 1st c.BC: Philodemus Gadarensis Epigrammaticus “D.” 3.2; εἶναι ἐν ἀ. τῷ δήμῳ “SIG” 807.21 (5th c.BC: Magnes Comicus Mae., 1st c.AD)">Refs 5th c.BC+</a>]; <span class='asgreek'>εἶναι</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>καλλίστῃ</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" “AJA” 18.324 (from Sardes)">Refs</a>]; <span class='asgreek'>ἐν</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἔχην</span> <span class='asgreek'>τινά</span>[<a href="javascript:void(0)" title=" “GDI” 311 (from Cyme)">Refs</a>]; <span class='asgreek'>πάσης</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἄξιος</span>[<a href="javascript:void(0)" title=" NT.1Tim.1.15, compare “SIG” 867.21 (Ephesus, 2nd c.AD), 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 20. ">NT+5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>acceptation, meaning</b> of terms, [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 1.232.">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Tim.1.15]]
+</sub></small>

@@ -1,0 +1,13 @@
+<span class="asform">† <span class="asgreek"><span class="asbold">τοπάζιον</span></span>, <span class="asgreek">-ου, τό</span></span> <span class="asetym">  <span class="asderivation">(and <span class="asgreek">τόπαζος, ὁ</span>), </span>  <span class="asseptuagint">\[in LXX: [[Exod.28.17|Ex 28:17]] [[Exod.35.17|35:17]] ([[Exod.39.10|Ex 39:10]]), [[Job.28.19|Jb 28:19]], [[Ezek.28.13|Ez 28:13]] (<span class="ashebrew">פִּטְדָה</span> <small><sup>[[H6357]]</sup></small>), [[Ps.119.127|Ps 118 (119):127]] (<span class="ashebrew">פָּז</span> <small><sup>[[H6337]]</sup></small>)\* ;\] </span> </span>
+<span class="asitalic">topaz</span>: [[Rev.21.20|Re 21:20]] (v. Swete, in l.).†
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.28.17\|28:17]] · [[Exod.35.17\|35:17]] · [[Exod.39.10\|39:10]] |
+| Job | [[Job.28.19\|28:19]] |
+| Psalms | [[Ps.119.127\|119:127]] |
+| Ezekiel | [[Ezek.28.13\|28:13]] |
+| Revelation | [[Rev.21.20\|21:20]] |
+

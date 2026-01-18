@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==μέτοχος==</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>sharing in, partaking of</b>, with <i>genitive</i>, [<span class='asgreek'>τῆς</span> <span class='asgreek'>συμφορῆς</span>] <span class='asgreek'>τὸ</span> <span class='asgreek'>πλεῦν</span> <span class='asgreek'>==μέτοχος==</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.52 ">Refs 5th c.BC+</a>]; <span class='asgreek'>μ</span>. <span class='asgreek'>ἐλπίδων</span>, <span class='asgreek'>τέχνης</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Ion” 698 (Lyric poetry), 5th-6th c.BC: Plato Philosophus “Phaedrus” 262d ">Refs 5th c.BC+</a>]; <span class='asgreek'>τοῦ</span> <span class='asgreek'>βίου</span>, of a wife, [<a href="javascript:void(0)" title=" 4th c.BC: Diodorus Comicus 3.5; δίκης 4th c.BC: Aristoteles Philosophus “de Mundo” 401b29. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>substantive</i>, <b>partner, accomplice in</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>φόνου</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hercules Furens” 721, 5th c.BC: Antipho Orator 3.3.11: \_absolutely\_, 5th c.BC: Thucydides Historicus 8.92 ">Refs 5th c.BC+</a>]; <b>partner</b> in business, [<a href="javascript:void(0)" title=" “PHib.” 1.109.3 (3rd c.BC), “PCair.Zen.” 176.102 (3rd c.BC), “Ostr.Bodl.” i92, 251 (2nd c.BC), NT.Luke.5.7, etc. ">NT+3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>member of a board</b> of officials, frequently in phrase <span class='asgreek'>ὁ</span> <span class='asgreek'>δεῖνα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>μέτοχοι</span> <span class='asgreek'>πράκτορες</span>, <span class='asgreek'>ἐπιτηρηταί</span>, <span class='asgreek'>ἀγορανόμοι</span>, <span class='asgreek'>τραπεζῖται</span>, etc., [<a href="javascript:void(0)" title=" “PFlor.” 358.5 (2nd c.AD), “PSI” 2.160.4 (2nd c.AD), “PStrassb.” 52.17 (2nd c.AD), “POxy.” 96.4 (2nd c.AD), etc. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>joint owner</b> of a house, [<a href="javascript:void(0)" title=" “CPHerm.” 119 A iv 20 (3rd c.AD). ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>θεῶν</span> <span class='asgreek'>μέτοχοι</span>, of the demigods, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 640.20, compare “IG” 14.2117 (from Rome). ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.5.7]]
+</sub></small>

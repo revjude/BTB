@@ -1,0 +1,40 @@
+<small>Also see: [[H4854]]</small>
+
+ II. <span class="bdbLangHebrew">‎מַשָּׂא‎</span> **noun masculine**<sup>[[Ps.38.5|Ps 38:5]]</sup> ==load, burden, lifting, bearing, tribute==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> absolute [[Neh.13.19|Neh 13:19]] +; construct [[2Kgs.5.17|2Kgs 5:17]] +; suffix <span class="bdbLangHebrew">‎מַשָּׂאוֺ‎</span> [[Exod.23.5|Exod 23:5]] + 2 t.; <span class="bdbLangHebrew">‎מַשַּׂאֲכֶם‎</span> [[Deut.1.12|Deut 1:12]] <span class="bdbLangHebrew">‎מַשָּׂאָם‎</span> [[Num.4.27|Num 4:27]] + 2 t.; — 
+
+**1.** ***load, burden*** of ass [[Exod.23.5|Exod 23:5]] ([[BDB#E|E]]), mules [[2Kgs.5.17|2Kgs 5:17]], camels [[2Kgs.8.9|2Kgs 8:9]], compare [[Isa.46.1|Isa 46:1]]; [[Isa.46.2|Isa 46:2]] hanging on a peg [[Isa.22.25|Isa 22:25]] (figurative); forbidden on Sabbath [[Jer.17.21|Jer 17:21]]; [[Jer.17.22|Jer 17:22]]; [[Jer.17.24|Jer 17:24]]; [[Jer.17.27|Jer 17:27]]; [[Neh.13.15|Neh 13:15]]; [[Neh.13.19|Neh 13:19]] figurative of people as burden [[Num.11.11|Num 11:11]]; [[Num.11.17|Num 11:17]] ([[BDB#J|J]][[BDB#E|E]]), [[Deut.1.12|Deut 1:12]], compare <span class="bdbLangHebrew">‎עַלֿ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הָיָה לְמ‎</span> [[2Sam.15.33|2Sam 15:33]]; [[2Sam.19.36|2Sam 19:36]] (<span class="bdbLangHebrew">‎אֶלֿ‎</span>), also <span class="bdbLangHebrew">‎וָאֶהְיֶה עָלַי לְמַשָּׂא‎</span> [[Job.7.20|Job 7:20]] of iniquities [[Ps.38.5|Ps 38:5]]. — [[Hos.8.10|Hos 8:10]] read <span class="bdbLangHebrew">‎מְשֹׁחַ‎</span>, so [[BDB#Sept|ᵐ5]] [[BDB#We|We]] [[BDB#Now|Now]] [[BDB#GASm|GASm]]. 
+
+**2.** verbal noun, ***lifting, uplifting***, only <span class="bdbLangHebrew">‎נַפְשָׁם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Ezek.24.25|Ezek 24:25]] ***the uplifting of their soul***, i.e. that to which they lift up their soul, their heart's desire. 
+
+**3.** verbal noun, ***bearing, carrying***, [[Num.4.24|Num 4:24]] (+ <span class="bdbLangHebrew">‎לַעֲבֹד‎</span>), [[2Chr.20.25|2Chr 20:25]]; [[2Chr.35.3|2Chr 35:3]] (<span class="bdbLangHebrew">‎בַּכָּתֵף‎</span>), so probably [[1Chr.15.22|1Chr 15:22]] (twice in verse); [[1Chr.15.27|1Chr 15:27]] (compare [[BDB#Be|Be]] [[BDB#Kau|Kau]]; &gt; ***singing, uplifting of voice***, e.g. [[BDB#Öt|Öttli]]); especially of ***responsibility and duty of bearing*** sacred vessels (often \|\| <span class="bdbLangHebrew">‎עֲבֹדָה‎</span>, <span class="bdbLangHebrew">‎פְּקֻדָּה‎</span>) [[Num.4.15|Num 4:15]]; [[Num.4.19|Num 4:19]]; [[Num.4.27|Num 4:27]] (twice in verse); [[Num.4.49|Num 4:49]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עֲבֹדַת מ‎</span> v[[Num.4.47|Num 4:47]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מִשְׁמֶרֶת מ‎</span> v[[Num.4.31|Num 4:31]] v[[Num.4.32|Num 4:32]]. 
+
+**4.** perhaps ***what is carried, brought***, i.e. ***tribute*** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כֶּסֶף מ‎</span> [[2Chr.17.11|2Chr 17:11]] ***silver*** as ***tribute*** (+ <span class="bdbLangHebrew">‎מִנְחָה‎</span>; compare <span class="bdbLangHebrew">‎נשׂא‎</span> **Qal**; others, ***silver by the load*** i.e. in great quantity). — I. <span class="bdbLangHebrew">‎מַשָּׂא‎</span> see above. 
+
+
+
+ III. <span class="bdbLangHebrew">‎מַשָּׂא‎</span> **noun masculine**<sup>[[Isa.14.28|Isa 14:28]]</sup> ==utterance, oracle== (compare <span class="bdbLangHebrew">‎נשׂא‎</span> **1 b** (6); [[BDB#Gf|Gf]]<sup>[[Jer.23.33|Jer 23:33]]</sup>); — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> absolute [[Isa.14.28|Isa 14:28]] +; usually construct [[Isa.13.1|Isa 13:1]] +; — of prophetic ***utterance:*** [[2Kgs.9.25|2Kgs 9:25]]; [[Isa.14.28|Isa 14:28]]; [[Ezek.12.10|Ezek 12:10]]; [[2Chr.24.27|2Chr 24:27]] (with <span class="bdbLangHebrew">‎עַל‎</span>); <span class="bdbLangHebrew">‎בָבֶל‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Isa.13.1|Isa 13:1]], <span class="bdbLangHebrew">‎מוֺאָב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Isa.15.1|Isa 15:1]], compare [[Isa.17.1|Isa 17:1]]; [[Isa.19.1|Isa 19:1]]; [[Isa.21.1|Isa 21:1]]; [[Isa.21.11|Isa 21:11]]; [[Isa.22.1|Isa 22:1]]; [[Isa.23.1|Isa 23:1]]; [[Isa.30.6|Isa 30:6]]; [[Nah.1.1|Nah 1:1]] <span class="bdbLangHebrew">‎בערב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Isa.21.13|Isa 21:13]] is later insert ([[BDB#Di|Di]]); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> = ***revelation***, <span class="bdbLangHebrew">‎אֲשֶׁר חָזָה חֲבַקּוּק הַנָּבִיא‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַמּ‎</span> [[Hab.1.1|Hab 1:1]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> ***utterance of*** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[Jer.23.33|Jer 23:33]]; [[Jer.23.34|Jer 23:34]]; [[Jer.23.36|Jer 23:36]]; [[Jer.23.38|Jer 23:38]] (3 t. in verse) (compare [[2Kgs.9.25|2Kgs 9:25]]), see also v[[2Kgs.9.33|2Kgs 9:33]] b (read <span class="bdbLangHebrew">‎אַתֶּם הַמַּשָּׂא‎</span>), with word-play, — followed by <span class="bdbLangHebrew">‎וְנָטַשְׁתִּי‎</span> v[[2Kgs.9.36|2Kgs 9:36]] b; <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎דְבַר י‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Zech.9.1|Zech 9:1]] (+ <span class="bdbLangHebrew">‎בארץ‎</span>), [[Zech.12.1|Zech 12:1]] (+ <span class="bdbLangHebrew">‎עַליִֿשְׂרָאֵל‎</span>), [[Mal.1.1|Mal 1:1]] (+ <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֶליִֿשׂ‎</span>). — [[Prov.31.1|Prov 31:1]] see I.  <span class="bdbLangHebrew">‎מַשָּׂא‎</span>, p. 601 above; in [[Prov.30.1|Prov 30:1]] read <span class="bdbLangHebrew">‎מִמַּשָּׂא‎</span> ***from Massa*** (Mühlau, [[BDB#De|De]]), or <span class="bdbLangHebrew">‎הַמַּשָּׂאִי‎</span> ([[BDB#Wild|Wild]]), which however is perhaps not original, but borrowed from [[Prov.31.1|Prov 31:1]] (compare [[BDB#Wild|Wild]]<sup>on the passage</sup> [[BDB#Frankenb|Frankenb]]<sup>Spr. p. 5</sup>; corrupt name of Agur's home or tribe, [[BDB#Kau|Kau]]). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.23.5\|23:5]] |
+| Numbers | [[Num.4.15\|4:15]] · [[Num.4.19\|4:19]] · [[Num.4.24\|4:24]] · [[Num.4.27\|4:27]] · [[Num.4.31\|4:31]] · [[Num.4.32\|4:32]] · [[Num.4.47\|4:47]] · [[Num.4.49\|4:49]] · [[Num.11.11\|11:11]] · [[Num.11.17\|11:17]] |
+| Deuteronomy | [[Deut.1.12\|1:12]] |
+| 2 Samuel | [[2Sam.15.33\|15:33]] · [[2Sam.19.36\|19:36]] |
+| 2 Kings | [[2Kgs.5.17\|5:17]] · [[2Kgs.8.9\|8:9]] · [[2Kgs.9.25\|9:25]] · [[2Kgs.9.33\|9:33]] · [[2Kgs.9.36\|9:36]] |
+| 1 Chronicles | [[1Chr.15.22\|15:22]] · [[1Chr.15.27\|15:27]] |
+| 2 Chronicles | [[2Chr.17.11\|17:11]] · [[2Chr.20.25\|20:25]] · [[2Chr.24.27\|24:27]] · [[2Chr.35.3\|35:3]] |
+| Nehemiah | [[Neh.13.15\|13:15]] · [[Neh.13.19\|13:19]] |
+| Job | [[Job.7.20\|7:20]] |
+| Psalms | [[Ps.38.5\|38:5]] |
+| Proverbs | [[Prov.30.1\|30:1]] · [[Prov.31.1\|31:1]] |
+| Isaiah | [[Isa.13.1\|13:1]] · [[Isa.14.28\|14:28]] · [[Isa.15.1\|15:1]] · [[Isa.17.1\|17:1]] · [[Isa.19.1\|19:1]] · [[Isa.21.1\|21:1]] · [[Isa.21.11\|21:11]] · [[Isa.21.13\|21:13]] · [[Isa.22.1\|22:1]] · [[Isa.22.25\|22:25]] · [[Isa.23.1\|23:1]] · [[Isa.30.6\|30:6]] · [[Isa.46.1\|46:1]] · [[Isa.46.2\|46:2]] |
+| Jeremiah | [[Jer.17.21\|17:21]] · [[Jer.17.22\|17:22]] · [[Jer.17.24\|17:24]] · [[Jer.17.27\|17:27]] · [[Jer.23.33\|23:33]] · [[Jer.23.34\|23:34]] · [[Jer.23.36\|23:36]] · [[Jer.23.38\|23:38]] |
+| Ezekiel | [[Ezek.12.10\|12:10]] · [[Ezek.24.25\|24:25]] |
+| Hosea | [[Hos.8.10\|8:10]] |
+| Nahum | [[Nah.1.1\|1:1]] |
+| Habakkuk | [[Hab.1.1\|1:1]] |
+| Zechariah | [[Zech.9.1\|9:1]] · [[Zech.12.1\|12:1]] |
+| Malachi | [[Mal.1.1\|1:1]] |
+

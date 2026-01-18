@@ -1,0 +1,24 @@
+**Job 39:30** 
+<small><sub>**KJV:**</sub></small>
+Her young ones also suck up blood: and where the slain [are], there [is] she.
+<small><sub>**BSB:**</sub></small>
+His young ones feast on blood; and where the slain are, there he is.”
+<small><sub>**Literal:**</sub></small>
+and  young ones  its they drink blood and  at  where [those] slain [are] [is] there it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.29|<< Job 39:29]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.1|Job 40:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and young ones its  [^3] | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶפְרֹחָ֥י</big></span><small><sup>[[H0667]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;[^4] | ve.<small><sup>[[HC]]</sup></small> 'ef.ro.cho<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| they drink  | <span class="ashebrew"><big>יְעַלְעוּ</big></span><small><sup>[[H5966]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ye.'al.'u-<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood  | <span class="ashebrew"><big>דָ֑ם</big></span><small><sup>[[H1818]]</sup></small> &#8207;| Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and at where  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834B]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those] slain [are]  | <span class="ashebrew"><big>חֲ֝לָלִ֗ים</big></span><small><sup>[[H2491A]]</sup></small> &#8207;| cha.la.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] there  | <span class="ashebrew"><big>שָׁ֣ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>הֽוּא</big></span><small><sup>[[H1931]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.29|<< Job 39:29]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.1|Job 40:1 >>]]</td></tr></table>
+
+[^1]: ==K==: **and young one its ** | <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H0667]]</sup></small><span class="ashebrew"><big>אֶפְרֹח</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> 'ef.ro.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^2]: ==K==: **and young one its ** | <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H0667]]</sup></small><span class="ashebrew"><big>אֶפְרֹח</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> 'ef.ro.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^3]: ==K==: **and young one its ** | <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H0667]]</sup></small><span class="ashebrew"><big>אֶפְרֹח</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> 'ef.ro.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^4]: ==L== spelled: **<span class="ashebrew"><big>וְאֶפְרֹחָ֥/ו</big></span>**
+

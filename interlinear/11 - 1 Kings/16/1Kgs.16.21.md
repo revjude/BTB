@@ -1,0 +1,29 @@
+**1 Kings 16:21** 
+<small><sub>**KJV:**</sub></small>
+Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.
+<small><sub>**BSB:**</sub></small>
+At that time the people of Israel were divided: Half of the people supported Tibni son of Ginath as king, and half supported Omri.
+<small><sub>**Literal:**</sub></small>
+then it was divided the  people Israel into the  half \<the> half of the  people it was behind Tibni [the] son of Ginath to  make king  him and  \<the>  half [was] behind Omri<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.20|<< 1 Kings 16:20]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.22|1 Kings 16:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| then  | <span class="ashebrew"><big>אָ֧ז</big></span><small><sup>[[H0227A]]</sup></small> &#8207;| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was divided  | <span class="ashebrew"><big>יֵחָלֵ֛ק</big></span><small><sup>[[H2505A]]</sup></small> &#8207;| ye.cha.Lek<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֥ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into the half  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֵ֑צִי</big></span><small><sup>[[H2677]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Che.tzi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> half of  | <span class="ashebrew"><big>חֲצִ֨י</big></span><small><sup>[[H2677]]</sup></small> &#8207;| cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֜ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was  | <span class="ashebrew"><big>הָ֠יָה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| Ha.yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| behind  | <span class="ashebrew"><big>אַחֲרֵ֨י</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tibni  | <span class="ashebrew"><big>תִבְנִ֤י</big></span><small><sup>[[H8402]]</sup></small> &#8207;| tiv.Ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ginath  | <span class="ashebrew"><big>גִּינַת֙</big></span><small><sup>[[H1527]]</sup></small> &#8207;| gi.Nat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to make king him  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַמְלִיכ֔</big></span><small><sup>[[H4427A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ham.li.Kh<small><sup>[[HVhcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<the> half  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֲצִ֖י</big></span><small><sup>[[H2677]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> cha.Tzi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] behind  | <span class="ashebrew"><big>אַחֲרֵ֥י</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Omri  | <span class="ashebrew"><big>עָמְרִֽי</big></span><small><sup>[[H6018G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.me.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.20|<< 1 Kings 16:20]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.22|1 Kings 16:22 >>]]</td></tr></table>
+
+

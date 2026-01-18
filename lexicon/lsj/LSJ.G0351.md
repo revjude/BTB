@@ -1,0 +1,14 @@
+
+<b> <span class='asgreek'>==ἀνάκρισις==</span></b>, 
+
+
+ <i>poetry</i> <span class='asgreek'>ἄγκρ</span>-, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, (<span class='asgreek'>ἀνακρίνω</span>[<a href="javascript:void(0)" title=" 11.1)">Refs</a>] <b>examination</b> of the qualifications of magistrates, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 8.85. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>ἀνακρίνω</span>[<a href="javascript:void(0)" title=" 11.2)">Refs</a>] <b>previous examination</b> of parties concerned in a suit, <b>preparation</b> of the matter for trial, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Symposium” 5.2, etc., compare “PSI” 4.392 (3rd c.BC), “OGI” 374 (\_plural\_), NT.Acts.25.26 ">NT+5th c.BC+</a>]; of the magistrate, <span class='asgreek'>ἀνάκρισιν</span> <span class='asgreek'>διδόναι</span>, <span class='asgreek'>παραδιδόναι</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Charmides” 176c, “Lg.” 855e ">Refs 5th c.BC+</a>]; of the parties, <span class='asgreek'>εἰς</span> <span class='asgreek'>ἀνάκρισιν</span> <span class='asgreek'>ἥκειν</span>[<a href="javascript:void(0)" title=" 4th c.BC: Isaeus Orator 6.13, etc.">Refs 4th c.BC+</a>]; <span class='asgreek'>μηδ᾽</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>ἄγκρισιν</span> <span class='asgreek'>ἐλθεῖν</span>, i. e. should not even <b>begin proceedings</b> (where however the [<a href="javascript:void(0)" title=" Scholia explains ἐς ἄγκρισιν by ἐς μάχην,compare ἀνακρίνω 111), 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 364">Refs 4th c.BC+</a>]; <span class='asgreek'>οὐδ᾽</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>μοι</span> <span class='asgreek'>δώσεις</span> you will not allow me <b>the first forms of law,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Chrm.” [prev. cited] ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> generally, <b>inquiry, examination,</b> [<a href="javascript:void(0)" title=" [prev. author] “Phdr.” 277e. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_IV</b> <b>preliminary examination</b> of a slave before sale, [<a href="javascript:void(0)" title=" “POxy.” 1463.12, etc. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_V</b> <b>examination, testing</b> of magical ingredients, etc., [<a href="javascript:void(0)" title=" “PMag.Par.” 1.1992, 2007. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_VI</b> <b>quarrel, dispute,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.69">Refs 5th c.BC+</a>]; <b>disputation,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “Academicorum Index” p.72 M.">Refs 1st c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.25.26]]
+</sub></small>

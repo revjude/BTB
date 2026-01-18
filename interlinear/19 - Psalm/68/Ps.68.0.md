@@ -1,0 +1,17 @@
+**Psalms 68:0** (68:1)
+<small><sub>**KJV:**</sub></small>
+To the chief Musician, A Psalm [or] Song of David. Let God arise, let his enemies be scattered: let them also that hate him flee before him.
+<small><sub>**BSB:**</sub></small>
+For the choirmaster. A Psalm of David. A song. God arises. His enemies are scattered, and those who hate Him flee His presence.
+<small><sub>**Literal:**</sub></small>
+to the  choirmaster of  David a psalm a song<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.67.7|<< Psalms 67:7]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.1|Psalms 68:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to the choirmaster  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מְנַצֵּ֥חַ</big></span><small><sup>[[H5329]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of David  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָוִ֗ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a psalm  | <span class="ashebrew"><big>מִזְמ֥וֹר</big></span><small><sup>[[H4210]]</sup></small> &#8207;| miz.Mor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a song  | <span class="ashebrew"><big>שִֽׁיר</big></span><small><sup>[[H7892A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Shir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.67.7|<< Psalms 67:7]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.1|Psalms 68:1 >>]]</td></tr></table>
+
+

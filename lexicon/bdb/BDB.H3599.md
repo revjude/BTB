@@ -1,0 +1,13 @@
+ <span class="bdbLangHebrew">‎כִּיס‎</span> **noun masculine**<sup>[[Prov.1.14|Prov 1:14]]</sup> ==bag, purse== (perhaps kindred with  <span class="bdbLangHebrew">‎כּוֺס‎</span>, q. v.; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMgAfAIAAAAAAAP///yH5BAAAAAAALAAAAAAyAB8AAAJtjI+py+0Po5y02rsA3gl4DgZfuI3kZZ5WSnls9bautsbSZ0P5NGO7+nABfbRhzVgrIm/KZeTnREANsRGuScWKtBnt7FsES6dbBviM7jHN6etBQx6zo2OskP7uqYNwLu+81nCns8chhtflh0hRAAA7"> (probably from Persian <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhNQAdAIAAAAAAAP///yH5BAAAAAAALAAAAAA1AB0AAAJzjI+py+0PIwSy2gTy3VLz32QUSGIjI55lqKKUt6RtJE7nHMj4A9u18rsEacOVoWckIZOfIpOzfAqj0oqTVz1Qgddk17TzbsETHm4Mvh11v1tK+zXl2PT6i23Vadf7Y04alyVIFJal4aE3CJSGprhW6EhSAAA7"> [[BDB#Lane|Lane]]<sup>2640</sup>); Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIwATAIAAAAAAAP///yH5BAAAAAAALAAAAAAjABMAAAJVjI+py90AoZsvymkBNRnbHWQXE4HiqJxluq6L6h5ui2rfl8xXzI1zWNuhgEIREUHTIJOdGC/HPDqHUOWxurQOcU/c1dshWnu+kvdKZhXJY5DJDV8UAAA7"> Late Hebrew <span class="bdbLangHebrew">‎כִּיס‎</span>; Aramaic <span class="bdbLangAramaic">‎כִּיסָא‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLAAbAIAAAAAAAP///yH5BAAAAAAALAAAAAAsABsAAAJnjI+py+0PYwCyRoCtZpi6vnHgN4ZJKXrmmT3tiqCKDE9vXdH41NCoCuncDjKhcbg4Ag3CmLJJokCJpVd1ectioVdPd+lkPcdkW2bKJKvXRqeKrUyPxTuLro7P6/eXI3/m9+eGJvhQAAA7">, Palmyrene <span class="bdbLangHebrew">‎מן כיסה‎</span> ***from his purse*** = at his own expense, [[BDB#Vog|Vog]]<sup>p. 13</sup> and others) — ***bag***, in which were carried: 
+$\quad$ $\quad$ **a.** weights (see  <span class="bdbLangHebrew">‎אֶבֶן‎</span> **5**) [[Deut.25.13|Deut 25:13]]; [[Mic.6.11|Mic 6:11]]; [[Prov.16.11|Prov 16:11]] 
+$\quad$ $\quad$ **b.** money, i.e. ***a purse*** [[Isa.46.6|Isa 46:6]]; [[Prov.1.14|Prov 1:14]]. <span class="bdbLangHebrew">‎כִּיִּר‎</span>, [<span class="bdbLangHebrew">‎כִּיר‎</span>], <span class="bdbLangHebrew">‎כִּירַיִם‎</span> see below I. <span class="bdbLangHebrew">‎כור‎</span>. <span class="bdbLangHebrew">‎כִּישׁוֺר‎</span> see below <span class="bdbLangHebrew">‎כשׁר‎</span>. <span class="bdbLangHebrew">‎כָּ֫כָה‎</span> see below <span class="bdbLangHebrew">‎כה‎</span> above<span class="bdbLangHebrew">‎כִּכָּר‎</span> see below <span class="bdbLangHebrew">‎כרר‎</span>; <span class="bdbLangHebrew">‎כֹּל‎</span> see below I. <span class="bdbLangHebrew">‎כלל‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Deuteronomy | [[Deut.25.13\|25:13]] |
+| Proverbs | [[Prov.1.14\|1:14]] · [[Prov.16.11\|16:11]] |
+| Isaiah | [[Isa.46.6\|46:6]] |
+| Micah | [[Mic.6.11\|6:11]] |
+

@@ -1,0 +1,9 @@
+<span class="asgreek">εὐπρόσωπος</span> <small>***(euprosōpos)***</small> ==**good-looking**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==εὐπρόσωπος==</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>fair of face</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Cratinus Comicus 304, 4th c.BC: Anaxandrides Comicus 9.5; μειράκιον 5th-6th c.BC: Aristophanes Comicus “Plutus” 976, compare “Ra.” 412 (Lyric poetry), 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.3.10 (\_superlative\_)">Refs 5th c.BC+</a>]; <b>with glad countenance</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 1009; comice, λοπάς 4th c.BC: Eubulus Comicus 44.1. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>fair in outward show, specious</b>, <span class='asgreek'>ὑπεκρίναντο</span>.. <span class='asgreek'>εὐπρόσωπα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.168; οὐκ εὐ. φροιμίοις 5th c.BC: Euripides Tragicus “Phoenissae” 1336; λόγους εὐ. καὶ μύθους 4th c.BC: Demosthenes Orator 18.149; εὐ. ἡ τοιαύτη νομοθεσία 4th c.BC: Aristoteles Philosophus “Politica” 1263b15 ">Refs 5th c.BC+</a>]: <i>comparative</i>, [<a href="javascript:void(0)" title=" 2nd c.AD: Aristides Rhetor 1.429 J">Refs 2nd c.AD+</a>]. <i>adverb</i> -<span class='asgreek'>πως</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vitae Sophistarum” 1.18.4, 5th c.AD: Aristaenetus Rhetor 1.9, 4th c.AD: Julianus Imperator “Orationes” 7.224b. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> perhaps <b>possessing legal personality</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Antigonus Carystius Paradoxographus cited in 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.458f (with pun on signification1). ">Refs 3rd c.BC+</a>]

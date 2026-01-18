@@ -1,0 +1,24 @@
+**1 Kings 18:28** 
+<small><sub>**KJV:**</sub></small>
+And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them.
+<small><sub>**BSB:**</sub></small>
+So they shouted louder and cut themselves with knives and lances, as was their custom, until the blood gushed over them.
+<small><sub>**Literal:**</sub></small>
+and  they called out with  a voice great and  they cut themselves according to  custom  their with \<the>  swords and  with \<the>  lances until poured out blood over  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.27|<< 1 Kings 18:27]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.29|1 Kings 18:29 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they called out  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְרְאוּ֙</big></span><small><sup>[[H7121I]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with a voice  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ק֣וֹל</big></span><small><sup>[[H6963A]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="ashebrew"><big>גָּד֔וֹל</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they cut themselves  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתְגֹּֽדְדוּ֙</big></span><small><sup>[[H1413]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yit.go.de.Du<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to custom their  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מִשְׁפָּטָ֔</big></span><small><sup>[[H4941J]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> mish.pa.Ta<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> swords  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֲרָב֖וֹת</big></span><small><sup>[[H2719]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> cha.ra.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with \<the> lances  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בָֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רְמָחִ֑ים</big></span><small><sup>[[H7420]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> re.ma.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poured out  | <span class="ashebrew"><big>שְׁפָךְ</big></span><small><sup>[[H8210G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| she.fokh-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood  | <span class="ashebrew"><big>דָּ֖ם</big></span><small><sup>[[H1818]]</sup></small> &#8207;| dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over them  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.27|<< 1 Kings 18:27]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.29|1 Kings 18:29 >>]]</td></tr></table>
+
+

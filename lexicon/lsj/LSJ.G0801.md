@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==ἀσύνετος==</span></b>, 
+
+
+ <i>Attic dialect</i> <span class='asgreek'>ἀξ</span>-, <span class='asgreek'>ον</span>, <b>void of understanding, witless,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀγμῶν” 31">Refs 5th c.BC+</a>]: <i>comparative</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.81, 5th c.BC: Euripides Tragicus “Orestes” 493, 5th c.BC: Thucydides Historicus 1.142; φρὴν ἀ. 5th-6th c.BC: Aristophanes Comicus “Aves” 456">Refs 5th c.BC+</a>]; <span class='asgreek'>τί</span> <span class='asgreek'>τάδ᾽</span> <span class='asgreek'>ἀσύνετ</span>; what <b>folly</b> is this? [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Helena” 352 (Lyric poetry)">Refs 5th c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>τως</span></b>[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.141b. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>genitive</i>, <b>not able to understand,</b> <span class='asgreek'>λόγου</span>[<a href="javascript:void(0)" title=" 1st c.AD(?): Heraclitus 1, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.713b, 4th c.AD: Julianus Imperator “Orationes” 7.218b. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>not to be understood, unintelligible,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Ion” 1205, “Ph.” 1731">Refs 5th c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>τως</span></b>[<a href="javascript:void(0)" title=" 2nd c.BC: Hipparchus Astronomicus 1.8.11.">Refs 2nd c.BC+</a>]

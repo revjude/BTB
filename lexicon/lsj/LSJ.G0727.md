@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==ἅρπαξ==</span></b>, <span class='asgreek'>ᾰγος</span>, <span class='asgreek'>ὁ</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>ἁρπάζω</span>) <b>robbing, rapacious,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 137, variant in “fragment” 628, 5th-6th c.BC: Xenophon Historicus “Memorabilia” 3.1.6; λύκοι 3rd c.BC: Lycophron Tragicus 1309 (variant{Ἄτρακας})">Refs 5th c.BC+</a>]: also with <i>substantive</i> <i>neuter</i>, <span class='asgreek'>ἅρπαγι</span> <span class='asgreek'>χείλει</span>[<a href="javascript:void(0)" title=" “Anthologia Graeca” 9.272 (from Bianor)">Refs</a>]: <i>superlative</i> <span class='asgreek'>ἁρπαγίστατος</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Comicus 57. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> mostly as <i>substantive</i>, 
+$\quad$ $\quad$ $\quad$<b>\_\_II.1</b> <span class='asgreek'>==ἅρπαξ==</span>, <span class='asgreek'>ἡ</span>, <b>rapine,</b> [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 356. ">Refs 8th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>==ἅρπαξ==</span>, <span class='asgreek'>ὁ</span>, <b>robber, peculator,</b> <span class='asgreek'>τῶν</span> <span class='asgreek'>δημοσίων</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 351; ὁ μὲν κλέπτης ὁ δ᾽ ἅ. 5th c.BC: Myrtilus Comicus 4">Refs 5th c.BC+</a>]; <span class='asgreek'>πάντες</span> <span class='asgreek'>εἰσὶν</span> <span class='asgreek'>ἅρπαγες</span> (i.e. <span class='asgreek'>οἱ</span> <span class='asgreek'>Ὠρώπιοι</span>) [<a href="javascript:void(0)" title=" Xeno 1. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> species of <b>wolf,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 3.304. ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>grappling-iron,</b> used in sea-fights, [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Bella Civilia” 5.118, 4th c.BC: Moschio Tragicus cited in 2nd c.AD: Athenaeus Epigrammaticus 5.208d">Refs 4th c.BC+</a>]; <b>flesh-hook,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 8.3.7.">Refs 1st c.AD+</a>]

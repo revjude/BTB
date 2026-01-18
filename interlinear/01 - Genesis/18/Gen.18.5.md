@@ -1,0 +1,32 @@
+**Genesis 18:5** 
+<small><sub>**KJV:**</sub></small>
+And I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said.
+<small><sub>**BSB:**</sub></small>
+And I will bring a bit of bread so that you may refresh yourselves. This is why you have passed your servant’s way. After that, you may continue on your way.” “Yes,” they replied, “you may do as you have said.”
+<small><sub>**Literal:**</sub></small>
+so  let me bring a piece of bread and  sustain \<you> heart  your after you will pass on for since \<thus> you have passed by at servant  your and  they said thus you will do just  as you have said<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.4|<< Genesis 18:4]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.6|Genesis 18:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| so let me bring  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶקְחָ֨ה</big></span><small><sup>[[H3947J]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ek.Chah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a piece of  | <span class="ashebrew"><big>פַת</big></span><small><sup>[[H6595A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| fat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread  | <span class="ashebrew"><big>לֶ֜חֶם</big></span><small><sup>[[H3899H]]</sup></small> &#8207;| Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sustain \<you>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>סַעֲד֤וּ</big></span><small><sup>[[H5582]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sa.'a.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart your  | <span class="ashebrew"><big>לִבְּ</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| li.be.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after  [^1] | <span class="ashebrew"><big>אַחַ֣ר</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'a.Char<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad (Scribal Traditions)">L(S)</abbr> |
+| you will pass on  | <span class="ashebrew"><big>תַּעֲבֹ֔רוּ</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| ta.'a.Vo.ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588C]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| since  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<thus>  | <span class="ashebrew"><big>כֵּ֥ן</big></span><small><sup>[[H3651B]]</sup></small> &#8207;| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have passed by  | <span class="ashebrew"><big>עֲבַרְתֶּ֖ם</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| 'a.var.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at  | <span class="ashebrew"><big>עַֽל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant your  | <span class="ashebrew"><big>עַבְדְּ</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'av.de.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמְר֔וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֵּ֥ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will do  | <span class="ashebrew"><big>תַּעֲשֶׂ֖ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have said  | <span class="ashebrew"><big>דִּבַּֽרְתָּ</big></span><small><sup>[[H1696G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| di.Bar.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.4|<< Genesis 18:4]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.6|Genesis 18:6 >>]]</td></tr></table>
+
+[^1]: ==S==: **and after ** | <small><sup>[[H0310A]]</sup></small><span class="ashebrew"><big>אַחַ֣ר</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> 
+

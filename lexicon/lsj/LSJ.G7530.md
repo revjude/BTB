@@ -1,0 +1,8 @@
+<span class="asgreek">εὖγε</span> <small>***(euge)***</small> ==**well done**==  <sup><small>[[TEGMC#G:INJ|G:INJ]]</small></sup> 
+
+<b> <span class='asgreek'>==εὖγε==</span></b> 
+
+
+ or <b><span class='asgreek'>εὖ</span> <span class='asgreek'>γε</span></b>, <i>adverb</i> <b>well, rightly</b>, in replies confirming or approving what has been said: as <span class='asgreek'>σοὶ</span> <span class='asgreek'>γὰρ</span> <span class='asgreek'>χαρίζομαι</span>. Answ. <span class='asgreek'>==εὖγε==</span> <span class='asgreek'>σὺ</span> <span class='asgreek'>ποιῶν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 351c; εὖγ᾽, ==εὖγε== ποιήσαντες 5th-6th c.BC: Aristophanes Comicus “Pax” 285; ==εὖγε==, ==εὖγε==, ὦ κύνες, ἕπεσθε 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 6.19: iron., εὖ γοῦν θίγοις ἂν χερνίβων 5th c.BC: Euripides Tragicus “Orestes” 1602; ==εὖγε== μέντἂν διετέθην 5th-6th c.BC: Aristophanes Comicus “Aves” 1692. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> without a Verb, <b>good! well said! well done</b>! [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Gorgias” 494c, +others; doubled εὖγ᾽, ==εὖγε== 5th-6th c.BC: Aristophanes Comicus “Equites” 470 ">Refs 5th c.BC+</a>]; <span class='asgreek'>εὖγ᾽</span>, <span class='asgreek'>==εὖγε==</span>, <span class='asgreek'>νὴ</span> <span class='asgreek'>Δἴ</span>, <span class='asgreek'>==εὖγε==</span> [<a href="javascript:void(0)" title=" [prev. author] “Ec.” 213; εὖγ᾽, ὅτι ἐπείσθης [prev. author] “Nu.” 866: with \_genitive\_, ==εὖγε== τῆς προαιρέσεως 2nd c.AD: Lucianus Sophista “Vit.Auct.” 8. ">Refs 2nd c.AD+</a>]

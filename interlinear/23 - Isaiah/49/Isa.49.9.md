@@ -1,0 +1,25 @@
+**Isaiah 49:9** 
+<small><sub>**KJV:**</sub></small>
+That thou mayest say to the prisoners, Go forth; to them that [are] in darkness, Shew yourselves. They shall feed in the ways, and their pastures [shall be] in all high places.
+<small><sub>**BSB:**</sub></small>
+to say to the prisoners, ‘Come out,’ and to those in darkness, ‘Show yourselves.’ They will feed along the pathways, and find pasture on every barren hill.
+<small><sub>**Literal:**</sub></small>
+to  say to  [the] prisoners come out to  [those] who [are] in \<the>  darkness reveal yourselves on roads they will graze and  [will be] on  all bare heights pasture  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.8|<< Isaiah 49:8]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.10|Isaiah 49:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to say  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹ֤ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] prisoners  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲסוּרִים֙</big></span><small><sup>[[H0631]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.su.Rim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| come out  | <span class="ashebrew"><big>צֵ֔אוּ</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| Tze.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [those] who  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] in \<the> darkness  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֹ֖שֶׁךְ</big></span><small><sup>[[H2822]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| reveal yourselves  | <span class="ashebrew"><big>הִגָּל֑וּ</big></span><small><sup>[[H1540I]]</sup></small> &#8207;| hi.ga.Lu<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| roads  | <span class="ashebrew"><big>דְּרָכִ֣ים</big></span><small><sup>[[H1870K]]</sup></small> &#8207;| de.ra.Khim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will graze  | <span class="ashebrew"><big>יִרְע֔וּ</big></span><small><sup>[[H7462B]]</sup></small> &#8207;| yir.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [will be] on all  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bare heights  | <span class="ashebrew"><big>שְׁפָיִ֖ים</big></span><small><sup>[[H8205]]</sup></small> &#8207;| she.fa.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pasture their  | <span class="ashebrew"><big>מַרְעִיתָֽ</big></span><small><sup>[[H4830]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mar.'i.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.8|<< Isaiah 49:8]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.10|Isaiah 49:10 >>]]</td></tr></table>
+
+

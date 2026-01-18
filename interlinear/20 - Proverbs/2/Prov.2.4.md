@@ -1,0 +1,18 @@
+**Proverbs 2:4** 
+<small><sub>**KJV:**</sub></small>
+If thou seekest her as silver, and searchest for her as [for] hid treasures;
+<small><sub>**BSB:**</sub></small>
+if you seek it like silver and search it out like hidden treasure,
+<small><sub>**Literal:**</sub></small>
+if you will seek  it like \<the>  silver and  like \<the>  treasures you will search for  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.3|<< Proverbs 2:3]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.5|Proverbs 2:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will seek it  | <span class="ashebrew"><big>תְּבַקְשֶׁ֥</big></span><small><sup>[[H1245]]</sup></small> <span class="ashebrew"><big>נָּה</big></span><small><sup>[[H9034]]</sup></small> &#8207;| te.vak.She.<small><sup>[[HVpi2ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> silver  | <span class="ashebrew"><big>כַ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כָּ֑סֶף</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| kha.<small><sup>[[HRd]]</sup></small> Ka.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like \<the> treasures  | <span class="ashebrew"><big>וְֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כַ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מַּטְמוֹנִ֥ים</big></span><small><sup>[[H4301]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HRd]]</sup></small> mat.mo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will search for it  | <span class="ashebrew"><big>תַּחְפְּשֶֽׂ</big></span><small><sup>[[H2664]]</sup></small> <span class="ashebrew"><big>נָּה</big></span><small><sup>[[H9034]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tach.pe.Se.<small><sup>[[HVqi2ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.3|<< Proverbs 2:3]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.5|Proverbs 2:5 >>]]</td></tr></table>
+
+

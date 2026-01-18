@@ -1,0 +1,30 @@
+**Leviticus 27:3** 
+<small><sub>**KJV:**</sub></small>
+And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary.
+<small><sub>**BSB:**</sub></small>
+if the valuation concerns a male from twenty to sixty years of age, then your valuation shall be fifty shekels of silver, according to the sanctuary shekel.
+<small><sub>**Literal:**</sub></small>
+and  it will be valuation of  your the  male from  a son of twenty year[s] and  to a son of sixty year[s] and  it will be valuation  your fifty shekel[s] silver by  [the] shekel of the  holy place<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.2|<< Leviticus 27:2]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.4|Leviticus 27:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֤ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| valuation of your  | <span class="ashebrew"><big>עֶרְכְּ</big></span><small><sup>[[H6187]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'er.ke.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the male  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זָּכָ֔ר</big></span><small><sup>[[H2145]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a son of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בֶּן֙</big></span><small><sup>[[H1121L]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ben<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twenty  | <span class="ashebrew"><big>עֶשְׂרִ֣ים</big></span><small><sup>[[H6242]]</sup></small> &#8207;| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  | <span class="ashebrew"><big>שָׁנָ֔ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַ֖ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121L]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sixty  | <span class="ashebrew"><big>שִׁשִּׁ֣ים</big></span><small><sup>[[H8346]]</sup></small> &#8207;| shi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  | <span class="ashebrew"><big>שָׁנָ֑ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֣ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| valuation your  | <span class="ashebrew"><big>עֶרְכְּ</big></span><small><sup>[[H6187]]</sup></small> <span class="ashebrew"><big>ךָ֗</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'er.ke.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fifty  | <span class="ashebrew"><big>חֲמִשִּׁ֛ים</big></span><small><sup>[[H2572]]</sup></small> &#8207;| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shekel[s]  | <span class="ashebrew"><big>שֶׁ֥קֶל</big></span><small><sup>[[H8255]]</sup></small> &#8207;| She.kel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  | <span class="ashebrew"><big>כֶּ֖סֶף</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [the] shekel of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שֶׁ֥קֶל</big></span><small><sup>[[H8255]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> She.kel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the holy place  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קֹּֽדֶשׁ</big></span><small><sup>[[H6944G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.2|<< Leviticus 27:2]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.4|Leviticus 27:4 >>]]</td></tr></table>
+
+

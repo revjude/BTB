@@ -1,0 +1,26 @@
+**Numbers 16:49** (17:14)
+<small><sub>**KJV:**</sub></small>
+Now they that died in the plague were fourteen thousand and seven hundred, beside them that died about the matter of Korah.
+<small><sub>**BSB:**</sub></small>
+But those who died from the plague numbered 14,700, in addition to those who had died on account of Korah.
+<small><sub>**Literal:**</sub></small>
+and  they were those  [who] died by the  plague four- teen thousand and  seven hundred\<s> \<from>  \<to>  besides the  [ones who] died on [the] matter of Korah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.48|<< Numbers 16:48]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.50|Numbers 16:50 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they were  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּהְי֗וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| those [who] died  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֵּתִים֙</big></span><small><sup>[[H4191]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> me.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by the plague  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מַּגֵּפָ֔ה</big></span><small><sup>[[H4046]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> ma.ge.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four-  | <span class="ashebrew"><big>אַרְבָּעָ֥ה</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  | <span class="ashebrew"><big>עָשָׂ֛ר</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  | <span class="ashebrew"><big>אֶ֖לֶף</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and seven  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁבַ֣ע</big></span><small><sup>[[H7651]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.Va'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵא֑וֹת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> \<to> besides  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>לְּ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בַ֥ד</big></span><small><sup>[[H0905J]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [ones who] died  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֵּתִ֖ים</big></span><small><sup>[[H4191]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> me.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] matter of  | <span class="ashebrew"><big>דְּבַר</big></span><small><sup>[[H1697I]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Korah  | <span class="ashebrew"><big>קֹֽרַח</big></span><small><sup>[[H7141I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ko.rach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.48|<< Numbers 16:48]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.50|Numbers 16:50 >>]]</td></tr></table>
+
+

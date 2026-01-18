@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==παρακαλύπτω==</span>-<span class='asgreek'>κᾰλύπτω</span></b>, 
+
+
+ <b>cover by hanging something beside, cloak, disguise</b>, <span class='asgreek'>τῇ</span> <span class='asgreek'>μέθῃ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>διάνοιαν</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Demetrius” 52 ">Refs 1st c.AD+</a>]:—<i>middle</i>, <b>cover one's face</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 439e, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Alcibiades” 34; πρὸς τὸ δεινόν [prev. author] “Pomp.” 60 ">Refs 5th c.BC+</a>] (<i>active</i> in same sense, [<a href="javascript:void(0)" title=" [prev. author] “Per.” 35): \_metaphorically\_, ==παρακαλύπτω==καλυπτομένου τοῦ λόγου">Refs</a>] <b>veiling itself</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 503a, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.370f; π. τὴν ἀλήθειαν 1st c.AD: Philo Judaeus 2.196 ">Refs 5th c.BC+</a>]; <b>set aside, ignore</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>θεόν</span> [<a href="javascript:void(0)" title="[prev. work] 189. ">Refs</a>]
+

@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==παράβασις==</span>-<span class='asgreek'>βᾰσις</span></b>, 
+
+
+ <i>Epic dialect</i> <b><span class='asgreek'>παραίβ</span>-</b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, <b>going aside, escape</b>, <span class='asgreek'>παραίβασις</span> <span class='asgreek'>ἔσσετ᾽</span> <span class='asgreek'>ὀλέθρου</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 4.832 ">Refs 3rd c.BC+</a>]; <b>deviation</b>, variant in [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1307b33, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.649b (\_plural\_)">Refs 4th c.BC+</a>]; <b>digression</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 1.2.2, 3rd c.AD: Longinus Rhetor 12.5 (\_plural\_). ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> of the action of <b>walking</b>, <span class='asgreek'>π</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>==παράβασις==λλαξις</span> <span class='asgreek'>σκελῶν</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Philopoemen” 6. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>transition, passage</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Demetrius Lacon Philosophus “Herc.” 1012.31. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>overstepping</b>, <span class='asgreek'>ὅρων</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.122e; ἔθους 1st c.BC-1st c.AD: Strabo Geographus 12.8.9; τοῦ πατρίου νόμου 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 18.8.2; τῶν δικαίων παραβάσεις 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Comp. Ages.Pomp.” 1 ">Refs 1st c.BC+</a>]: <i>absolutely</i>, <b>transgression</b>, [<a href="javascript:void(0)" title=" LXX.4Ki.2.24, NT.Gal.3.19, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.209a, 746c, etc.">LXX+NT+1st c.AD+</a>]; <b>error, illusion</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “De rerum natura - Wien. Stud.” 11.7 ">Refs 4th c.BC+</a>]; compare <span class='asgreek'>παραβασία</span>. 
+$\quad$ $\quad$<b>\_\_III</b> <b>parabasis</b>, a part of the Old Comedy, <b>in which the Chorus came forward</b> (compare <span class='asgreek'>παραβαίνω</span> IV) and addressed the audience in the Poet's name, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.711f, 7th c.AD: Hephaestio Grammaticus “Poëm.” 8, Scholia 5th-6th c.BC: Aristophanes Comicus “Pax” 733, etc. ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Gal.3.19]]
+</sub></small>

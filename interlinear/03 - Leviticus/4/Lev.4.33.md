@@ -1,0 +1,27 @@
+**Leviticus 4:33** 
+<small><sub>**KJV:**</sub></small>
+And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.
+<small><sub>**BSB:**</sub></small>
+And he is to lay his hand on the head of the sin offering and slaughter it as a sin offering at the place where the burnt offering is slaughtered.
+<small><sub>**Literal:**</sub></small>
+and  he will lean \<obj.> hand  his on [the] head of the  sin offering and  he will cut [the] throat of \<obj.>  it to  a sin offering in  [the] place \<of> where someone cuts [the] throat of \<obj.> the  burnt offering<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.32|<< Leviticus 4:32]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.34|Leviticus 4:34 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will lean  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>סָמַךְ֙</big></span><small><sup>[[H5564]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sa.maKh<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  | <span class="ashebrew"><big>יָד֔</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַ֖ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] head of  | <span class="ashebrew"><big>רֹ֣אשׁ</big></span><small><sup>[[H7218A]]</sup></small> &#8207;| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sin offering  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חַטָּ֑את</big></span><small><sup>[[H2403H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> cha.Tat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will cut [the] throat of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׁחַ֤ט</big></span><small><sup>[[H7819A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sha.Chat<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹתָ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ֙</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a sin offering  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חַטָּ֔את</big></span><small><sup>[[H2403H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> cha.Tat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] place  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְק֕וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> m.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> where  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone cuts [the] throat of  | <span class="ashebrew"><big>יִשְׁחַ֖ט</big></span><small><sup>[[H7819A]]</sup></small> &#8207;| yish.Chat<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the burnt offering  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֹלָֽה</big></span><small><sup>[[H5930A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.32|<< Leviticus 4:32]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.34|Leviticus 4:34 >>]]</td></tr></table>
+
+

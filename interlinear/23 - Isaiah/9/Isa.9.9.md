@@ -1,0 +1,23 @@
+**Isaiah 9:9** (9:8)
+<small><sub>**KJV:**</sub></small>
+And all the people shall know, [even] Ephraim and the inhabitant of Samaria, that say in the pride and stoutness of heart,
+<small><sub>**BSB:**</sub></small>
+All the people will know it—Ephraim and the dwellers of Samaria. With pride and arrogance of heart they will say:
+<small><sub>**Literal:**</sub></small>
+and  they will know the  people all of  it Ephraim and  [the] inhabitant[s] of Samaria with  pride and  with  greatness of heart \<to>  saying<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.8|<< Isaiah 9:8]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.10|Isaiah 9:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will know  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָדְעוּ֙</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֣ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of it  | <span class="ashebrew"><big>כֻּלּ֔</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ku.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֖יִם</big></span><small><sup>[[H0669G]]</sup></small> &#8207;| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] inhabitant[s] of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יוֹשֵׁ֣ב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yo.Shev<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samaria  | <span class="ashebrew"><big>שֹׁמְר֑וֹן</big></span><small><sup>[[H8111]]</sup></small> &#8207;| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with pride  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גַאֲוָ֛ה</big></span><small><sup>[[H1346]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ga.'a.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with greatness of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גֹ֥דֶל</big></span><small><sup>[[H1433]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Go.del<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  | <span class="ashebrew"><big>לֵבָ֖ב</big></span><small><sup>[[H3824]]</sup></small> &#8207;| le.Vav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹֽר</big></span><small><sup>[[H0559]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.8|<< Isaiah 9:8]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.10|Isaiah 9:10 >>]]</td></tr></table>
+
+

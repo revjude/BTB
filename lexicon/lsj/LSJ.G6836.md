@@ -1,0 +1,12 @@
+<span class="asgreek">διακλέπτω</span> <small>***(diakleptō)***</small> ==**to steal away**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==διακλέπτω==</span></b>, 
+
+
+ <b>steal at different times,</b> <span class='asgreek'>ὅσα</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>διακέκλεπται</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 27.12 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>διακλαπὲν</span> <span class='asgreek'>πολύ</span> <b>the number stolen</b> [by the soldiers] <b>and dispersed</b> was great, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 7.85, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Nicias” 27 ">Refs 5th c.BC+</a>]:—<i>middle</i>, <b>steal away,</b> [<a href="javascript:void(0)" title=" LXX.2Kgs.19.3(4). ">LXX</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>keep alive</b> or <b>save by stealth,</b> <span class='asgreek'>τινά</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.38; ἑαυτήν 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sulla” 22. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>evade,</b> <span class='asgreek'>τῇ</span> <span class='asgreek'>ἀπολογίᾳ</span> <span class='asgreek'>δ</span>. <span class='asgreek'>τὴν</span> <span class='asgreek'>κατηγορίαν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 26.3; δ. τοῖς ἑαυτοῦ λόγοις τὴν ἀλήθειαν 4th c.BC: Demosthenes Orator 29.5 ">Refs 5th c.BC+</a>]; <b>disguise,</b> <span class='asgreek'>τῇ</span> <span class='asgreek'>χάριτι</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>συνθέσεως</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀνάγκην</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 18 ">Refs 1st c.BC+</a>]; <b>pass in evasion of duty,</b> <span class='asgreek'>τὸν</span> <span class='asgreek'>λοιπὸν</span> <span class='asgreek'>χρόνον</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ὑπατείας</span> [<a href="javascript:void(0)" title=" [prev. author] 10.54. ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Kgs.19.3]]
+</sub></small>
