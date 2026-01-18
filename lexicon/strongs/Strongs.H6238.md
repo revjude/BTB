@@ -1,0 +1,15 @@
+<big><span class="ashebrew">‎עָשַׁר‎</span></big> **ʻâshar** <small>*(aw-shar')*</small> ==**to enrich**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root</small>
+
+$\quad$ be(-come, en-, make, make self, wax) rich, make (1 Kings 22:48 marg). See <span class="ashebrew">‎עָשָׂר‎</span><sup><small>[[H6240]]</small></sup>.
+- properly, ***to accumulate***
+-  ***chiefly*** (specifically) ***to grow*** (causatively, make) ***rich***
+
+**1)** to be or become rich or wealthy, enrich, pretend to be rich
+$\quad$ **1a)** (Qal) to be or become rich
+$\quad$ **1b)** (Hiphil)
+$\quad$ $\quad$ **1b1)** to make rich
+$\quad$ $\quad$ **1b2)** to gain riches
+$\quad$ **1c)** (Hithpael) to enrich oneself, pretend to be rich
+
+<sub><small>See Greek: </small></sub><span class="asgreek">πλουτέω</span><sup><small>[[G4147]]</small></sup> · <span class="asgreek">πλουτίζω</span><sup><small>[[G4148]]</small></sup>

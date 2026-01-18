@@ -1,0 +1,28 @@
+**2 Chronicles 9:19** 
+<small><sub>**KJV:**</sub></small>
+And twelve lions stood there on the one side and on the other upon the six steps. There was not the like made in any kingdom.
+<small><sub>**BSB:**</sub></small>
+Twelve lions stood on the six steps, one at either end of each step. Nothing like this had ever been made for any kingdom.
+<small><sub>**Literal:**</sub></small>
+and  two [plus] ten lions [were] standing there on [the] six the  steps from  this and  from  this not it had been made thus for  any kingdom<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.18|<< 2 Chronicles 9:18]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.20|2 Chronicles 9:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and two [plus]  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁנֵ֧ים</big></span><small><sup>[[H8147]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.Neim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עָשָׂ֣ר</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'a.Sar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lions  | <span class="ashebrew"><big>אֲרָי֗וֹת</big></span><small><sup>[[H0738A]]</sup></small> &#8207;| 'a.ra.Yot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] standing  | <span class="ashebrew"><big>עֹמְדִ֥ים</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| 'o.me.Dim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֛ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] six  | <span class="ashebrew"><big>שֵׁ֥שׁ</big></span><small><sup>[[H8337]]</sup></small> &#8207;| shesh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the steps  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּעֲל֖וֹת</big></span><small><sup>[[H4609B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ma.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from this  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>זֶּ֣ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from this  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>זֶּ֑ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had been made  | <span class="ashebrew"><big>נַעֲשָׂ֥ה</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| na.'a.Sah<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֵ֖ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for any  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kingdom  | <span class="ashebrew"><big>מַמְלָכָֽה</big></span><small><sup>[[H4467]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mam.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.18|<< 2 Chronicles 9:18]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.20|2 Chronicles 9:20 >>]]</td></tr></table>
+
+

@@ -1,0 +1,26 @@
+**Jeremiah 35:5** 
+<small><sub>**KJV:**</sub></small>
+And I set before the sons of the house of the Rechabites pots full of wine, and cups, and I said unto them, Drink ye wine.
+<small><sub>**BSB:**</sub></small>
+Then I set pitchers full of wine and some cups before the men of the house of the Rechabites, and I said to them, “Drink some wine.”
+<small><sub>**Literal:**</sub></small>
+and  I put \<to>  before [the] sons of [the] house of the  Rechabites bowls full wine and  cups and  I said to  them drink wine<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.4|<< Jeremiah 35:4]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.6|Jeremiah 35:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I put  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֶתֵּ֞ן</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'e.Ten<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֣י</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵית</big></span><small><sup>[[H1004M]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| veit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Rechabites  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רֵכָבִ֗ים</big></span><small><sup>[[H7397A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> re.kha.Vim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bowls  | <span class="ashebrew"><big>גְּבִעִ֛ים</big></span><small><sup>[[H1375]]</sup></small> &#8207;| ge.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| full  | <span class="ashebrew"><big>מְלֵאִ֥ים</big></span><small><sup>[[H4392]]</sup></small> &#8207;| me.le.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wine  | <span class="ashebrew"><big>יַ֖יִן</big></span><small><sup>[[H3196]]</sup></small> &#8207;| Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cups  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹס֑וֹת</big></span><small><sup>[[H3563A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> kho.Sot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I said  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֹמַ֥ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>אֲלֵי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| drink  | <span class="ashebrew"><big>שְׁתוּ</big></span><small><sup>[[H8354]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| she.tu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wine  | <span class="ashebrew"><big>יָֽיִן</big></span><small><sup>[[H3196]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.4|<< Jeremiah 35:4]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.6|Jeremiah 35:6 >>]]</td></tr></table>
+
+

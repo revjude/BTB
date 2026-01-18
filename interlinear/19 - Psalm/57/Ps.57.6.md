@@ -1,0 +1,24 @@
+**Psalms 57:6** (57:7)
+<small><sub>**KJV:**</sub></small>
+They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen [themselves]. Selah.
+<small><sub>**BSB:**</sub></small>
+They spread a net for my feet; my soul was despondent. They dug a pit before me, but they themselves have fallen into it! Selah
+<small><sub>**Literal:**</sub></small>
+a net they prepared for  feet  my it bent down self  my they dug \<to>  before  me a pit they have fallen in  [the] midst of  it Selah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.5|<< Psalms 57:5]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.7|Psalms 57:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| a net  | <span class="ashebrew"><big>רֶ֤שֶׁת</big></span><small><sup>[[H7568]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Re.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they prepared  | <span class="ashebrew"><big>הֵכִ֣ינוּ</big></span><small><sup>[[H3559H]]</sup></small> &#8207;| he.Khi.nu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for feet my  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְעָמַ</big></span><small><sup>[[H6471]]</sup></small> <span class="ashebrew"><big>י֮</big></span><small><sup>[[H9020]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.'a.Ma<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it bent down  | <span class="ashebrew"><big>כָּפַ֪ף</big></span><small><sup>[[H3721]]</sup></small> &#8207;| ka.Faf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self my  | <span class="ashebrew"><big>נַ֫פְשִׁ֥</big></span><small><sup>[[H5315G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they dug  | <span class="ashebrew"><big>כָּר֣וּ</big></span><small><sup>[[H3738B]]</sup></small> &#8207;| ka.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before me  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנַ֣</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a pit  | <span class="ashebrew"><big>שִׁיחָ֑ה</big></span><small><sup>[[H7882]]</sup></small> &#8207;| shi.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have fallen  | <span class="ashebrew"><big>נָפְל֖וּ</big></span><small><sup>[[H5307G]]</sup></small> &#8207;| na.fe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] midst of it  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹכָ֣</big></span><small><sup>[[H8432]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  | <span class="ashebrew"><big>סֶֽלָה</big></span><small><sup>[[H5542]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.5|<< Psalms 57:5]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.7|Psalms 57:7 >>]]</td></tr></table>
+
+

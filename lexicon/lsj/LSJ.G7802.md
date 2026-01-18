@@ -1,0 +1,10 @@
+<span class="asgreek">κάρπιμος</span> <small>***(karpimos)***</small> ==**fruitful**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==κάρπιμος==</span>-<span class='asgreek'>ιμος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>fruit-bearing, fruitful</b>, <span class='asgreek'>θέρος</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 455 ">Refs 4th c.BC+</a>]; <span class='asgreek'>στάχυς</span>, <span class='asgreek'>πέδον</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Supplices” 31, “Or.” 1086; καρπίμους ἐτῶν κύκλους [prev. author] “Hel.” 112; μυρρίναι 5th-6th c.BC: Aristophanes Comicus “Pax” 1154; κισσοῦ κλάδοι 2nd c.AD: Alexander Rhetor 119.5; ξύλον LXX.Gen.1.11 ">LXX+5th c.BC+</a>]; <span class='asgreek'>==κάρπιμος==ιμα</span> <span class='asgreek'>πρῷα</span> early <b>crops</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 264 ">Refs 5th c.BC+</a>]; <span class='asgreek'>θερίσαι</span> <span class='asgreek'>==κάρπιμος==ιμα</span> to reap <b>the fruits</b>, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 4310.15 (from Limyra), compare “PSI” 4.292.13 (3rd c.AD)">Refs 3rd c.AD+</a>]; <span class='asgreek'>κ</span>. [<span class='asgreek'>ἀγαθά</span>] property <b>that yields a produce</b>, opposed to <span class='asgreek'>ἀπολαυστικά</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1361a17 ">Refs 4th c.BC+</a>]; opposed to <span class='asgreek'>ἄκαρπα</span>, [<a href="javascript:void(0)" title=" [prev. author] “EN” 1125a12: \_metaphorically\_, ἀμέλγεις τῶν ξένων τοὺς κ">Refs</a>]. <b>from whom money can be wrung</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 326. ">Refs 5th c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Gen.1.11]]
+</sub></small>

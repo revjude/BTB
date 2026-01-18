@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἐπισυνάγω==</span>-<span class='asgreek'>άγω</span></b> [<span class='asgreek'>ᾰ</span>], 
+
+
+ <b>collect and bring to</b> a place, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.75.2 (\_passive\_), 5.97.3, Wilcken “Chr.” 11 A 5 (2nd c.BC) ">Refs 2nd c.BC+</a>]; <b>gather together,</b> [<a href="javascript:void(0)" title=" LXX.Gen.6.16, +others, NT.Matt.23.37, etc.">LXX+NT</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" “OGI” 90.23 (Rosetta, 2nd c.BC), “Placita Philosophorum” 3.4.1, 1st c.AD: Philo Judaeus 1.338; οἱ -συνηγμένοι ἐν Ξόει Βοιωτοί “Supp.epigram” 2.871 (Egypt, 2nd c.BC) ">Refs 2nd c.BC+</a>]; <b>to be combined,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>πληθυντικῶν</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἑνικὰ</span> -<span class='asgreek'>όμενα</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 24.1 ">Refs 3rd c.AD+</a>]; <span class='asgreek'>==ἐπισυνάγω==αχθέντες</span> <span class='asgreek'>τόκοι</span> <b>accumulated</b> interest, [<a href="javascript:void(0)" title=" “PGrenf.” 2.72.8 (3rd-4th c.AD),compare “PFlor.” 1.46.14 (2nd c.AD) ">Refs 2nd c.AD+</a>]; <span class='asgreek'>==ἐπισυνάγω==αγόμενος</span> <span class='asgreek'>ἀριθμός</span> <b>counted up,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 43. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>bring in,</b> in a discussion, <span class='asgreek'>περιττὸν</span>-<span class='asgreek'>ειν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ταύτας</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “Academicorum Index” 28. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> Astrology texts, ={<span class='asgreek'>ἐπισυμφέρω</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 288.29. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>conclude, infer,</b> <span class='asgreek'>συλλογιζόμενοι</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>μεταξὺ</span> <span class='asgreek'>χρόνον</span> <span class='asgreek'>==ἐπισυνάγω==άγουσιν</span> <span class='asgreek'>ὅτι</span>.. [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “Hypotyposis astronomicarum positionum” 5.54. ">Refs 5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Gen.6.16]] ☩ [[Matt.23.37]]
+</sub></small>

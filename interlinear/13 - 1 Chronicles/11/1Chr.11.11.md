@@ -1,0 +1,36 @@
+**1 Chronicles 11:11** 
+<small><sub>**KJV:**</sub></small>
+And this [is] the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain [by him] at one time.
+<small><sub>**BSB:**</sub></small>
+This is the list of David’s mighty men: Jashobeam son of Hachmoni was chief of the officers; he wielded his spear against three hundred men, whom he killed at one time.
+<small><sub>**Literal:**</sub></small>
+and  these [are] [the] number of the  mighty [men] who [belonged] to  David Jashobeam a son of a Hacmonite [was] [the] chief of the  officers he he wielded \<obj.> spear  his on three hundred\<s> [one] slain at  a time one<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.10|<< 1 Chronicles 11:10]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.12|1 Chronicles 11:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and these  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֛לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] number of  | <span class="ashebrew"><big>מִסְפַּ֥ר</big></span><small><sup>[[H4557]]</sup></small> &#8207;| mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the mighty [men]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּבֹּרִ֖ים</big></span><small><sup>[[H1368]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> gi.bo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to David  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָוִ֑יד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jashobeam  | <span class="ashebrew"><big>יָשָׁבְעָ֣ם</big></span><small><sup>[[H3434G]]</sup></small> &#8207;| ya.sha.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a Hacmonite  | <span class="ashebrew"><big>חַכְמוֹנִ֗י</big></span><small><sup>[[H2453G]]</sup></small> &#8207;| chakh.mo.Ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] [the] chief of  | <span class="ashebrew"><big>רֹ֚אשׁ</big></span><small><sup>[[H7218H]]</sup></small> &#8207;| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the officers  [^2] | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁ֣לִישִׁ֔ים</big></span><small><sup>[[H7991C]]</sup></small> &#8207;[^3] | ha.<small><sup>[[HTd]]</sup></small> she.lo.shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| he  | <span class="ashebrew"><big>הֽוּא</big></span><small><sup>[[H1931]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he wielded  | <span class="ashebrew"><big>עוֹרֵ֧ר</big></span><small><sup>[[H5782]]</sup></small> &#8207;| o.Rer<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spear his  | <span class="ashebrew"><big>חֲנִית֛</big></span><small><sup>[[H2595]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| cha.ni.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שְׁלֹשׁ</big></span><small><sup>[[H7969]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| she.losh-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵא֥וֹת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one] slain  | <span class="ashebrew"><big>חָלָ֖ל</big></span><small><sup>[[H2491A]]</sup></small> &#8207;| cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at a time  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>פַ֥עַם</big></span><small><sup>[[H6471]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Fa.'am<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָֽת</big></span><small><sup>[[H0259]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.Chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.10|<< 1 Chronicles 11:10]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.12|1 Chronicles 11:12 >>]]</td></tr></table>
+
+[^1]: ==K==: **the thirty ** | <small><sup>[[H7970]]</sup></small><span class="ashebrew"><big>שְּׁלוֹשִׁים</big></span> <small><sup>[[H9009]]</sup></small><span class="ashebrew"><big>הַ</big></span>  | ha.<small><sup>[[HTd]]</sup></small> she.lo.shim<small><sup>[[HNcmpa]]</sup></small> 
+[^2]: ==K==: **the thirty ** | <small><sup>[[H7970]]</sup></small><span class="ashebrew"><big>שְּׁלוֹשִׁים</big></span> <small><sup>[[H9009]]</sup></small><span class="ashebrew"><big>הַ</big></span>  | ha.<small><sup>[[HTd]]</sup></small> she.lo.shim<small><sup>[[HNcmpa]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>הַשָּׁ֣לִושִׁ֔ים</big></span>**
+

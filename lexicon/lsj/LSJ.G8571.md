@@ -1,0 +1,10 @@
+<span class="asgreek">ὀφθαλμοφανῶς</span> <small>***(ophthalmophanōs)***</small> ==**clear to the eyes**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+Included with: <b> <span class='asgreek'>==ὀφθαλμοφανῶς==</span>-<span class='asgreek'>φᾰνής</span></b>, <span class='asgreek'>ές</span>, 
+
+
+ <b>apparent to the eye, visible</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 208; ἀργύριον ὀ. ἐναντίον.. μαρτύρων “PHib.” 1.89.8 (3rd c.BC)">Refs 4th c.BC+</a>]; <b>obvious</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 2.1.18; ἔργον 4th c.BC: Aristoxenus Musicus “Harmonica” p.41 ">Refs 4th c.BC+</a>] M. <i>adverb</i> <b>-<span class='asgreek'>νῶς</span></b>[<a href="javascript:void(0)" title=" LXX.Esth.8.13, 1st c.AD: Philo Judaeus 1.614, 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 9.39, 2nd c.AD: Cleomedes Astronomus 2.6. ">LXX+1st c.AD+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Esth.8.13]]
+</sub></small>

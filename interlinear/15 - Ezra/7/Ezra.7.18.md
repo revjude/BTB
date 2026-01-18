@@ -1,0 +1,31 @@
+**Ezra 7:18** 
+<small><sub>**KJV:**</sub></small>
+And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God.
+<small><sub>**BSB:**</sub></small>
+You and your brothers may do whatever seems best with the rest of the silver and gold, according to the will of your God.
+<small><sub>**Literal:**</sub></small>
+and  whatever that to  you and  to brothers  your it is good with  [the] rest of silver  the and  gold  the to  do according to  [the] will of God  your you will do<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.17|<< Ezra 7:17]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.19|Ezra 7:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and whatever  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>מָ֣ה</big></span><small><sup>[[H4101]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> Mah<small><sup>[[APi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="asaramaic"><big>דִי֩</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="asaramaic"><big>עֲלָ֨</big></span><small><sup>[[H5922]]</sup></small> <span class="asaramaic"><big>ךְ</big></span><small><sup>[[H9031]]</sup></small> &#8207;[^1] [^2] | a.la.yi<small><sup>[[AR]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| and to  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>עַל</big></span><small><sup>[[H5922]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> 'al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brothers your  | <span class="asaramaic"><big>אֶחָ֜</big></span><small><sup>[[H0252]]</sup></small> <span class="asaramaic"><big>ךְ</big></span><small><sup>[[H9021]]</sup></small> &#8207;[^3] [^4] | 'e.cha.yi<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| it is good  | <span class="asaramaic"><big>יִיטַ֗ב</big></span><small><sup>[[H3191]]</sup></small> &#8207;[^5] | yi.Tav<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad BenChayim (allepo biblia)">LH(ab)</abbr> |
+| with [the] rest of  | <span class="asaramaic"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="asaramaic"><big>שְׁאָ֛ר</big></span><small><sup>[[H7606]]</sup></small> &#8207;| bi<small><sup>[[AR]]</sup></small> sh.'Ar<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver the  | <span class="asaramaic"><big>כַּסְפָּ֥</big></span><small><sup>[[H3702]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| kas.Pa<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gold the  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>דַהֲבָ֖</big></span><small><sup>[[H1722]]</sup></small> <span class="asaramaic"><big>ה</big></span><small><sup>[[H9010]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> da.ha.Vah<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to do  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>מֶעְבַּ֑ד</big></span><small><sup>[[H5648]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> me'.Bad<small><sup>[[AVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to [the] will of  | <span class="asaramaic"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="asaramaic"><big>רְע֥וּת</big></span><small><sup>[[H7470]]</sup></small> &#8207;| ki<small><sup>[[AR]]</sup></small> r.'Ut<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלָהֲ</big></span><small><sup>[[H0426]]</sup></small> <span class="ashebrew"><big>כֹ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'e.la.ha.<small><sup>[[ANcbsc]]</sup></small> Khom<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will do  | <span class="asaramaic"><big>תַּעַבְדֽוּן</big></span><small><sup>[[H5648]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ta.'av.Dun<small><sup>[[AVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.17|<< Ezra 7:17]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.19|Ezra 7:19 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="asaramaic"><big>עֲלָ֨יךְ</big></span>**
+[^2]: ==K== spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
+[^3]: ==L== spelled: **<span class="asaramaic"><big>אֶחָ֜יךְ</big></span>**
+[^4]: ==K== spelled: **<span class="asaramaic"><big>אֶחַיִךְ</big></span>**
+[^5]: ==AB== spelled: **<span class="asaramaic"><big>יֵיטַ֗ב</big></span>**
+

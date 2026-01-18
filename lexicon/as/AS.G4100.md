@@ -1,0 +1,26 @@
+<span class="asform"><span class="asgreek"><span class="asbold">πιστεύω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">אמן</span> <small><sup>[[H0539]]</sup></small> hi.;\]</span> </span>
+<span class="asbullet"><span class="asbold">1.</span> intrans., <span class="asitalic">to have faith</span> (in), <span class="asitalic">to believe</span>; in cl., c. acc., dat., in NT also c. prep. (on the significance of the various constructions, v. M, <span class="asitalic">Pr.</span>, 67 f.; Vau. on [[Rom.4.5|Ro 4:5]]; Ellic. on [[1Tim.1.16|I Ti 1:16]]; Abbott, <span class="asitalic">JV</span>, 19-80): absol., [[Matt.24.23|Mt 24:23]], [[Matt.24.26|26]], [[Mark.13.21|Mk 13:21]], [[1Cor.11.18|I Co 11:18]]; c. acc. rei, [[Acts.13.41|Ac 13:41]], [[1Cor.13.7|I Co 13:7]]; c. dat. pers. (to believe what one says), [[Mark.16.13|Mk 16:[13]], [[Mark.16.14|14]]], [[1John.4.1|I Jo 4:1]]; <span class="asgreek">τ. ψεύδει</span>, [[2Thess.2.11|II Th 2:11]]; <span class="asgreek">περί . . . ὅτι</span>, [[John.9.18|Jo 9:18]]; esp. and most freq. with reference to religious belief: absol., [[Matt.8.13|Mt 8:13]], [[Mark.5.36|Mk 5:36]], [[Luke.8.50|Lk 8:50]], [[John.11.40|Jo 11:40]], al.; seq. <span class="asgreek">ὅτι</span>, [[Matt.9.28|Mt 9:28]], al.; c. dat. (v. supr., and cf. <span class="asitalic">DB</span>, i, 829a), [[John.3.12|Jo 3:12]] [[John.5.24|5:24]] [[John.6.30|6:30]] [[John.8:31|8:31]], [[Acts.16.34|Ac 16:34]], [[Gal.3.6|Ga 3:6]]<span class="assuperscript">(LXX)</span>, [[2Tim.1.12|II Ti 1:12]], [[1John.5.10|I Jo 5:10]], al.; c. prep., (expressing personal trust and reliance   as distinct from mere credence or belief; v. M, <span class="asitalic">Pr.</span>, 67 f.; <span class="asitalic">DB</span>, i, 829b), <span class="asitalic">to believe in</span> or <span class="asitalic">on</span>: <span class="asgreek">ἐν</span> ([[Ps.77.22|Ps 77 (78):22]], al.), [[Mark.1.15|Mk 1:15]] (v. Swete, in l.); <span class="asgreek">εἰς</span>, [[Matt.18.6|Mt 18:6]], [[John.2.11|Jo 2:11]] (v. Westc., in l.), and freq., [[Acts.10.43|Ac 10:43]] [[Acts.19.4|19:4]], [[Rom.10.14|Ro 10:14]], [[Gal.2.16|Ga 2:16]], [[Phil.1.29|Phl 1:29]], [[1John.5.10|I Jo 5:10]], [[1Pet.1.8|I Pe 1:8]]; <span class="asgreek">εἰς τ. ὄνομα</span> (v.s. <span class="asgreek">ὄνομα</span>, [[John.1.12|Jo 1:12]] [[John.2.23|2:23]] [[John.2.23|3:18]], [[1John.5.13|I Jo 5:13]]; <span class="asgreek">ἐπί</span>, c. acc., [[Matt.27.42|Mt 27:42]], [[Acts.9.42|Ac 9:42]] [[Acts.11.17|11:17]] [[Acts.16.31|16:31]] [[Acts.22.19|22:19]], [[Rom.4.5|Ro 4:5]]; <span class="asgreek">ἐπί</span>, c. dat., [[Rom.9.33|Ro 9:33]]<span class="assuperscript">(LXX)</span> [[Rom.10.11|10:11]]<span class="assuperscript">(LXX)</span>, [[1Tim.1.16|I Ti 1:16]], [[1Pet.2.6|I Pe 2:6]]<span class="assuperscript">(LXX)</span>; ptcp. pres., <span class="asgreek">οἱ π.</span>, as subst., [[Acts.2.44|Ac 2:44]], [[Rom.3.22|Ro 3:22]], [[1Cor.1.21|I Co 1:21]], al.; aor., [[Mark.16.16|Mk 16:\[16\]]], [[Acts.4.32|Ac 4:32]]; pf., [[Acts.19.18|Ac 19:18]] [[Acts.21.20|21:20]] (on Johannine use of the tenses of <span class="asgreek">π.</span>, v. Westc, <span class="asitalic">Epp. Jo.</span>, 120).</span>
+<span class="asbullet"><span class="asbold">2.</span> Trans., <span class="asitalic">to entrust</span>: c. acc. et dat., [[Luke.16.11|Lk 16:11]], [[John.2.24|Jo 2:24]]; pass., <span class="asitalic">to be entrusted with</span>: c. acc., [[Rom.3.2|Ro 3:2]], [[1Cor.9.17|I Co 9:17]], [[Gal.2.7|Ga 2:7]], [[1Thess.2.4|I Th 2:4]] (v. Lft., <span class="asitalic">Notes</span>, 21 f.), [[1Tim.1.11|I Ti 1:11]], [[Titus.1.3|Tit 1:3]].</span>
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Psalms | [[Ps.77.22\|77:22]] |
+| Matthew | [[Matt.8.13\|8:13]] · [[Matt.9.28\|9:28]] · [[Matt.18.6\|18:6]] · [[Matt.24.23\|24:23]] · [[Matt.24.26\|24:26]] · [[Matt.27.42\|27:42]] |
+| Mark | [[Mark.1.15\|1:15]] · [[Mark.5.36\|5:36]] · [[Mark.13.21\|13:21]] · [[Mark.16.13\|16:13]] · [[Mark.16.14\|16:14]] · [[Mark.16.16\|16:16]] |
+| Luke | [[Luke.8.50\|8:50]] · [[Luke.16.11\|16:11]] |
+| John | [[John.8:31\|Chapter 8:31]] · [[John.1.12\|1:12]] · [[John.2.11\|2:11]] · [[John.2.23\|2:23]] · [[John.2.24\|2:24]] · [[John.3.12\|3:12]] · [[John.5.24\|5:24]] · [[John.6.30\|6:30]] · [[John.9.18\|9:18]] · [[John.11.40\|11:40]] |
+| Acts | [[Acts.2.44\|2:44]] · [[Acts.4.32\|4:32]] · [[Acts.9.42\|9:42]] · [[Acts.10.43\|10:43]] · [[Acts.11.17\|11:17]] · [[Acts.13.41\|13:41]] · [[Acts.16.31\|16:31]] · [[Acts.16.34\|16:34]] · [[Acts.19.4\|19:4]] · [[Acts.19.18\|19:18]] · [[Acts.21.20\|21:20]] · [[Acts.22.19\|22:19]] |
+| Romans | [[Rom.3.2\|3:2]] · [[Rom.3.22\|3:22]] · [[Rom.4.5\|4:5]] · [[Rom.9.33\|9:33]] · [[Rom.10.11\|10:11]] · [[Rom.10.14\|10:14]] |
+| 1 Corinthians | [[1Cor.1.21\|1:21]] · [[1Cor.9.17\|9:17]] · [[1Cor.11.18\|11:18]] · [[1Cor.13.7\|13:7]] |
+| Galatians | [[Gal.2.7\|2:7]] · [[Gal.2.16\|2:16]] · [[Gal.3.6\|3:6]] |
+| Philippians | [[Phil.1.29\|1:29]] |
+| 1 Thessalonians | [[1Thess.2.4\|2:4]] |
+| 2 Thessalonians | [[2Thess.2.11\|2:11]] |
+| 1 Timothy | [[1Tim.1.11\|1:11]] · [[1Tim.1.16\|1:16]] |
+| 2 Timothy | [[2Tim.1.12\|1:12]] |
+| Titus | [[Titus.1.3\|1:3]] |
+| 1 Peter | [[1Pet.1.8\|1:8]] · [[1Pet.2.6\|2:6]] |
+| 1 John | [[1John.4.1\|4:1]] · [[1John.5.10\|5:10]] · [[1John.5.13\|5:13]] |
+

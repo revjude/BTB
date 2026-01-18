@@ -1,0 +1,31 @@
+**Isaiah 16:4** 
+<small><sub>**KJV:**</sub></small>
+Let mine outcasts dwell with thee, Moab; be thou a covert to them from the face of the spoiler: for the extortioner is at an end, the spoiler ceaseth, the oppressors are consumed out of the land.
+<small><sub>**BSB:**</sub></small>
+Let my fugitives stay with you; be a refuge for Moab from the destroyer.” When the oppressor has gone, destruction has ceased, and the oppressors have vanished from the land,
+<small><sub>**Literal:**</sub></small>
+let them sojourn among  you outcasts  my Moab be a shelter of  them from  before [the] destroyer if he will come to an end the  oppressor it will cease devastation they will be finished [the] trampler from the  land<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.3|<< Isaiah 16:3]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.5|Isaiah 16:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| let them sojourn  | <span class="ashebrew"><big>יָג֤וּרוּ</big></span><small><sup>[[H1481A]]</sup></small> &#8207;| ya.Gu.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among you  | <span class="ashebrew"><big>בָ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9032]]</sup></small> &#8207;| vo<small><sup>[[HR]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| outcasts my  | <span class="ashebrew"><big>נִדָּחַ֔</big></span><small><sup>[[H5080]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| ni.da.Cha<small><sup>[[HVNrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  | <span class="ashebrew"><big>מוֹאָ֛ב</big></span><small><sup>[[H4124G]]</sup></small> &#8207;| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| be  | <span class="ashebrew"><big>הֱוִי</big></span><small><sup>[[H1933B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| he.vi-<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a shelter  | <span class="ashebrew"><big>סֵ֥תֶר</big></span><small><sup>[[H5643A]]</sup></small> &#8207;| Se.ter<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of them  | <span class="ashebrew"><big>לָ֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מוֹ</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֣י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] destroyer  | <span class="ashebrew"><big>שׁוֹדֵ֑ד</big></span><small><sup>[[H7703]]</sup></small> &#8207;| sho.Ded<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will come to an end  | <span class="ashebrew"><big>אָפֵ֤ס</big></span><small><sup>[[H0656]]</sup></small> &#8207;| 'a.Fes<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the oppressor  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֵּץ֙</big></span><small><sup>[[H4160]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Metz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will cease  | <span class="ashebrew"><big>כָּ֣לָה</big></span><small><sup>[[H3615G]]</sup></small> &#8207;| Ka.lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| devastation  | <span class="ashebrew"><big>שֹׁ֔ד</big></span><small><sup>[[H7701]]</sup></small> &#8207;| Shod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be finished  | <span class="ashebrew"><big>תַּ֥מּוּ</big></span><small><sup>[[H8552]]</sup></small> &#8207;| Ta.mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] trampler  | <span class="ashebrew"><big>רֹמֵ֖ס</big></span><small><sup>[[H7429]]</sup></small> &#8207;| ro.Mes<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָֽרֶץ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.3|<< Isaiah 16:3]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.5|Isaiah 16:5 >>]]</td></tr></table>
+
+

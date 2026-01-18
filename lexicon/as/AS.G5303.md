@@ -1,0 +1,19 @@
+<span class="asform">† <span class="asgreek"><span class="asbold">ὑστέρημα</span></span>, <span class="asgreek">-τος, τό</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ὑστερέω</span>), </span>  <span class="asseptuagint">\[in LXX: [[Judg.18.10|Jg 18:10]] [[Judg.19.19|19:19]], [[Judg.19.20|20]],  [[Ps.34.9|Ps 33 (34):9]] (<span class="ashebrew">מַחְסוֹר</span> <small><sup>[[H4270]]</sup></small>), [[Eccl.1.15|Ec 1:15]] (<span class="ashebrew">חֶסְרוֹן</span> <small><sup>[[H2642]]</sup></small>), [[Ezra.6.9|II Es 6:9]] (<span class="asgreek">ὑ. εἶναι</span>, <span class="ashebrew">חֲשַׁח</span> <small><sup>[[H2818]]</sup></small>) \* ;\]</span> </span>
+<span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">that which is lacking, deficiency, shortcoming</span>: c. gen. poss. (pron. poss.), [[1Cor.16.17|I Co 16:17]], [[Phil.2.30|Phl 2:30]]; c. gen. rei, [[Col.1.24|Col 1:24]], [[1Thess.3.10|I Th 3:10]];</span>
+<span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">need, want, poverty</span> ([[Ps.34.10|Ps 33 (34):10]], [[Judg.18.10|Jg 18:10]], al.): [[Luke.21.4|Lk 21:4]], [[2Cor.9.12|II Co 9:12]] [[2Cor.11.9|11:9]]; opp. to <span class="asgreek">περίσσευμα</span>, [[2Cor.8.13|II Co 8:13]], [[2Cor.8.14|14]] (eccl.).†</span>
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Judges | [[Judg.18.10\|18:10]] · [[Judg.19.19\|19:19]] · [[Judg.19.20\|19:20]] |
+| Ezra | [[Ezra.6.9\|6:9]] |
+| Psalms | [[Ps.34.9\|34:9]] · [[Ps.34.10\|34:10]] |
+| Ecclesiastes | [[Eccl.1.15\|1:15]] |
+| Luke | [[Luke.21.4\|21:4]] |
+| 1 Corinthians | [[1Cor.16.17\|16:17]] |
+| 2 Corinthians | [[2Cor.8.13\|8:13]] · [[2Cor.8.14\|8:14]] · [[2Cor.9.12\|9:12]] · [[2Cor.11.9\|11:9]] |
+| Philippians | [[Phil.2.30\|2:30]] |
+| Colossians | [[Col.1.24\|1:24]] |
+| 1 Thessalonians | [[1Thess.3.10\|3:10]] |
+

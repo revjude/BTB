@@ -1,0 +1,29 @@
+**Daniel 2:26** 
+<small><sub>**KJV:**</sub></small>
+The king answered and said to Daniel, whose name [was] Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof?
+<small><sub>**BSB:**</sub></small>
+The king responded to Daniel, whose name was Belteshazzar, “Are you able to tell me what I saw in the dream, as well as its interpretation?”
+<small><sub>**Literal:**</sub></small>
+[was] replying king  the and  [was] saying to  Daniel who name  his [was] Belteshazzar ¿  [are]  you able to  make known to  me dream  the which I saw and  interpretation  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.25|<< Daniel 2:25]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.27|Daniel 2:27 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [was] replying  | <span class="asaramaic"><big>עָנֵ֤ה</big></span><small><sup>[[H6032]]</sup></small> &#8207;| 'a.Neh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  | <span class="asaramaic"><big>מַלְכָּ</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א֙</big></span><small><sup>[[H9010]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] saying  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>אָמַ֣ר</big></span><small><sup>[[H0560]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> 'a.Mar<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Daniel  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָנִיֵּ֔אל</big></span><small><sup>[[H1841H]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> da.ni.Yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="asaramaic"><big>דִּ֥י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  | <span class="asaramaic"><big>שְׁמֵ֖</big></span><small><sup>[[H8036]]</sup></small> <span class="asaramaic"><big>הּ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| she.Me<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Belteshazzar  | <span class="asaramaic"><big>בֵּלְטְשַׁאצַּ֑ר</big></span><small><sup>[[H1096]]</sup></small> &#8207;| be.le.te.sha.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ [are] you  | <span class="asaramaic"><big>הַֽ</big></span><small><sup>[[H9008]]</sup></small> <span class="asaramaic"><big>אִיתָ֣</big></span><small><sup>[[H0383]]</sup></small> <span class="asaramaic"><big>ךְ</big></span><small><sup>[[H9041]]</sup></small> &#8207;[^1] [^2] | ha.<small><sup>[[ATi]]</sup></small> 'i.ta.yi<small><sup>[[AAcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| able  | <span class="asaramaic"><big>כָּהֵ֗ל</big></span><small><sup>[[H3546]]</sup></small> &#8207;| ka.Hel<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to make known to me  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>הוֹדָעֻתַ֛</big></span><small><sup>[[H3046]]</sup></small> <span class="asaramaic"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> ho.da.'u.Ta.<small><sup>[[AVhcc]]</sup></small> ni<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dream the  | <span class="asaramaic"><big>חֶלְמָ֥</big></span><small><sup>[[H2493]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| chel.Ma<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="asaramaic"><big>דִֽי</big></span><small><sup>[[H1768]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I saw  | <span class="asaramaic"><big>חֲזֵ֖ית</big></span><small><sup>[[H2370]]</sup></small> &#8207;| cha.Zeit<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and interpretation its  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>פִשְׁרֵֽ</big></span><small><sup>[[H6591]]</sup></small> <span class="asaramaic"><big>הּ</big></span><small><sup>[[H9023]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> fish.Re<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.25|<< Daniel 2:25]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.27|Daniel 2:27 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="asaramaic"><big>הַֽאִיתָ֣י/ךְ</big></span>**
+[^2]: ==K== spelled: **<span class="asaramaic"><big>הַאִיתַיִ/ךְ</big></span>**
+

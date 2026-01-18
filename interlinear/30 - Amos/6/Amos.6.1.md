@@ -1,0 +1,26 @@
+**Amos 6:1** 
+<small><sub>**KJV:**</sub></small>
+Woe to them [that are] at ease in Zion, and trust in the mountain of Samaria, [which are] named chief of the nations, to whom the house of Israel came!
+<small><sub>**BSB:**</sub></small>
+Woe to those at ease in Zion and those secure on Mount Samaria, the distinguished ones of the foremost nation, to whom the house of Israel comes.
+<small><sub>**Literal:**</sub></small>
+woe to! the  [people] at ease in  Zion and  those  [who] trust in  [the] mountain of Samaria [the] distinguished [people] of [the] first of the  nations and  they will come to  them [the] house of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.27|<< Amos 5:27]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.2|Amos 6:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| woe to!  | <span class="ashebrew"><big>ה֚וֹי</big></span><small><sup>[[H1945]]</sup></small> &#8207;| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [people] at ease  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שַּׁאֲנַנִּ֣ים</big></span><small><sup>[[H7600]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sha.'a.na.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Zion  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צִיּ֔וֹן</big></span><small><sup>[[H6726]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and those [who] trust  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בֹּטְחִ֖ים</big></span><small><sup>[[H0982]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> bo.te.Chim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] mountain of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הַ֣ר</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samaria  | <span class="ashebrew"><big>שֹׁמְר֑וֹן</big></span><small><sup>[[H8111]]</sup></small> &#8207;| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] distinguished [people] of  | <span class="ashebrew"><big>נְקֻבֵי֙</big></span><small><sup>[[H5344A]]</sup></small> &#8207;| ne.ku.Vei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] first of  | <span class="ashebrew"><big>רֵאשִׁ֣ית</big></span><small><sup>[[H7225G]]</sup></small> &#8207;| re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the nations  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גּוֹיִ֔ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will come  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>בָ֥אוּ</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> Va.'u<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֥ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.27|<< Amos 5:27]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.2|Amos 6:2 >>]]</td></tr></table>
+
+

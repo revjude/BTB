@@ -1,0 +1,8 @@
+ [<span class="bdbLangHebrew">‎מִמְשָׁק‎</span>] **noun [masculine]** ==possession== (? so [[BDB#RV|RV]]), perhaps better ***place of possession, place possessed by***; only construct <span class="bdbLangHebrew">‎מִמְשַׁק חָרוּל‎</span> [[Zeph.2.9|Zeph 2:9]] ***a place possessed by*** chickpeas (&gt; [[BDB#AV|AV]] ***breeding*** of nettles), [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Δαηασκος</span>. Word very dubious ([[BDB#We|We]] [[BDB#GASm|GASm]]); text probably corrupt; [[BDB#Schw|Schw]]<sup>ZAW x. 1890, 188</sup> conjecture meaning ***place of growth***; [[BDB#Gr|Gr]] (so [[BDB#Now|Now]]) proposes <span class="bdbLangHebrew">‎קִמּוֺשׂ‎</span>, or <span class="bdbLangHebrew">‎קִמְּשׂנִים‎</span>. <span class="bdbLangHebrew">‎מַשָּׁק‎</span> see  <span class="bdbLangHebrew">‎שׁקק‎</span>. <span class="bdbLangHebrew">‎מַשְׁקֶה‎</span> see  <span class="bdbLangHebrew">‎שׁקה‎</span>. <span class="bdbLangHebrew">‎מִשְׁקוֺל‎</span>, <span class="bdbLangHebrew">‎מִשְׁקָל‎</span>, <span class="bdbLangHebrew">‎מִשְׁקֶ֫לֶת‎</span>, <span class="bdbLangHebrew">‎מִשְׁקֹ֫לֶת‎</span> see  <span class="bdbLangHebrew">‎שׁקל‎</span>. <span class="bdbLangHebrew">‎מַשְׁקוֺף‎</span> see  <span class="bdbLangHebrew">‎שׁקף‎</span>. [<span class="bdbLangHebrew">‎מִשְׁקָע‎</span>] see  <span class="bdbLangHebrew">‎שׁקע‎</span>. <span class="bdbLangHebrew">‎מִשְׁרָה‎</span> see  <span class="bdbLangHebrew">‎שׁרה‎</span>. <span class="bdbLangHebrew">‎מֵשָׁרִים‎</span> see <span class="bdbLangHebrew">‎מֵישָׁרִים‎</span> below <span class="bdbLangHebrew">‎ישׁר‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Zephaniah | [[Zeph.2.9\|2:9]] |
+

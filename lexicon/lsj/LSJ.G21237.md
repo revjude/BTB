@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==τολυπεύω==</span>-<span class='asgreek'>εύω</span></b>, 
+
+
+ <b>wind off</b> carded wool <b>into a clew</b> for spinning, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 587 (\_anapaest meter\_). ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>wind off, achieve, accomplish,</b> <span class='asgreek'>ἐγὼ</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>δόλους</span> <span class='asgreek'>==τολυπεύω==εύω</span>, of Penelope's web (with a play on the literal sense), [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 19.137; ἐπεὶ πόλεμον τολύπευσε 1.238, 4.490, +others">Refs 8th c.BC+</a>]; <span class='asgreek'>Φρῃξὶν</span> <span class='asgreek'>πένθος</span> <span class='asgreek'>τ</span>. <b>work</b> them grief, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Rhesus” 744 (\_anapaest meter\_)">Refs 5th c.BC+</a>]; <span class='asgreek'>δόμον</span> <span class='asgreek'>τ</span>. <b>finish building</b> it, [<a href="javascript:void(0)" title="“Anthologia Graeca” 9.655; λίθον.. ἐκ θεμέθλων “Arch.Anz.” 31.149 (from Nicopolis). ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>endure,</b> <span class='asgreek'>ἐς</span> <span class='asgreek'>γῆρας</span> <span class='asgreek'>τ</span>. <span class='asgreek'>ἀργαλέους</span> <span class='asgreek'>πολέμους</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 14.86; ὁπόσα τολύπευσε σὺν αὐτῷ καὶ πάθεν ἄλγεα 24.7. (poetical word, see reading in 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 17.1.2 for πολιτεύω.) ">Refs 8th c.BC+</a>]

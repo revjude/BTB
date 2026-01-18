@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==γενεσιουργός==</span>-<span class='asgreek'>ουργός</span></b>, <span class='asgreek'>όν</span>, 
+
+
+ <b>concerned with</b> or <b>incident to generation</b>, <span class='asgreek'>φύσις</span> [prev. passage]; <span class='asgreek'>δαίμονες</span>[<a href="javascript:void(0)" title=" [prev. work] 2.7; παθήματα [prev. author] “VP” 32.228; ἀστήρ 3rd c.AD: Porphyrius Tyrius Philosophus cited in 4th c.AD: Eusebius Caesariensis Scriptor Ecclesiasticus “Praeparatio Evangelica” 3.11; ὁρμαί 5th c.AD: Proclus Philosophus “in Platonis Cratylum commentaria” p.105 P.; δυνάμεις [prev. author] “Inst.” 209; θεοί 5th-6th c.AD: Damascius Philosophus “de Principiis” 381, +others; τὸ γ. [prev. work] 349:">Refs 3rd c.AD+</a>] — <i>substantive</i> <span class='asgreek'>γ</span>., <span class='asgreek'>ὁ</span>, <b>author of existence</b>, with <i>genitive</i>, [<a href="javascript:void(0)" title=" LXX.Wis.13.5; τῆς παλιγγενεσίας “Corpus Hermeticum” 13.4 ">LXX</a>]; <b>fashioner, creator</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Hermes Trismegistus cited in 5th c.AD: Stobaeus, Joannes 1.49.44; παντὸς κόσμου 4th c.AD: Julianus Imperator “contra Galilaeos” 100c. ">Refs 2nd c.AD+</a>]
+

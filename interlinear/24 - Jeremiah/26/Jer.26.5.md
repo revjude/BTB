@@ -1,0 +1,26 @@
+**Jeremiah 26:5** 
+<small><sub>**KJV:**</sub></small>
+To hearken to the words of my servants the prophets, whom I sent unto you, both rising up early, and sending [them], but ye have not hearkened;
+<small><sub>**BSB:**</sub></small>
+and if you do not listen to the words of My servants the prophets, whom I have sent you again and again even though you did not listen,
+<small><sub>**Literal:**</sub></small>
+to  listen to [the] words of servants  my the  prophets whom I [have been] sending to  you and  rising early and  sending and  not you have listened<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.4|<< Jeremiah 26:4]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.6|Jeremiah 26:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to listen  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שְׁמֹ֗עַ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  | <span class="ashebrew"><big>דִּבְרֵ֨י</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servants my  | <span class="ashebrew"><big>עֲבָדַ֣</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the prophets  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נְּבִאִ֔ים</big></span><small><sup>[[H5030]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ne.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אָנֹכִ֖י</big></span><small><sup>[[H0595]]</sup></small> &#8207;| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [have been] sending  | <span class="ashebrew"><big>שֹׁלֵ֣חַ</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| sho.Le.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>אֲלֵי</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and rising early  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַשְׁכֵּ֥ם</big></span><small><sup>[[H7925]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hash.Kem<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sending  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שָׁלֹ֖חַ</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sha.Lo.ach<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have listened  | <span class="ashebrew"><big>שְׁמַעְתֶּֽם</big></span><small><sup>[[H8085G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| she.ma'.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.4|<< Jeremiah 26:4]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.6|Jeremiah 26:6 >>]]</td></tr></table>
+
+

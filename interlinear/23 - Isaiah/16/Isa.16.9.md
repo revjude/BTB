@@ -1,0 +1,31 @@
+**Isaiah 16:9** 
+<small><sub>**KJV:**</sub></small>
+Therefore I will bewail with the weeping of Jazer the vine of Sibmah: I will water thee with my tears, O Heshbon, and Elealeh: for the shouting for thy summer fruits and for thy harvest is fallen.
+<small><sub>**BSB:**</sub></small>
+So I weep with Jazer for the vines of Sibmah; I drench Heshbon and Elealeh with my tears. Triumphant shouts have fallen silent over your summer fruit and your harvest.
+<small><sub>**Literal:**</sub></small>
+there- -fore I weep with  [the] weeping of Jazer [the] vine[s] of Sibmah I water abundantly  you tear[s]  my O Heshbon and  Elealeh for on summer fruit  your and  on harvest  your shouting it has fallen<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.8|<< Isaiah 16:8]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.10|Isaiah 16:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| there-  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  | <span class="ashebrew"><big>כֵּ֡ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I weep  | <span class="ashebrew"><big>אֶבְכֶּ֞ה</big></span><small><sup>[[H1058]]</sup></small> &#8207;| 'ev.Keh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with [the] weeping of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בְכִ֤י</big></span><small><sup>[[H1065]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> v.Khi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jazer  | <span class="ashebrew"><big>יַעְזֵר֙</big></span><small><sup>[[H3270G]]</sup></small> &#8207;| ya'.Zer<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vine[s] of  | <span class="ashebrew"><big>גֶּ֣פֶן</big></span><small><sup>[[H1612]]</sup></small> &#8207;| Ge.fen<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sibmah  | <span class="ashebrew"><big>שִׂבְמָ֔ה</big></span><small><sup>[[H7643H]]</sup></small> &#8207;| siv.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I water abundantly you  | <span class="ashebrew"><big>אֲרַיָּ֙וֶ</big></span><small><sup>[[H7301]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'a.rai.Ya.ve<small><sup>[[HVpi1cs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tear[s] my  | <span class="ashebrew"><big>דִּמְעָתִ֔</big></span><small><sup>[[H1832]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| dim.'a.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Heshbon  | <span class="ashebrew"><big>חֶשְׁבּ֖וֹן</big></span><small><sup>[[H2809]]</sup></small> &#8207;| chesh.Bon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Elealeh  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶלְעָלֵ֑ה</big></span><small><sup>[[H0500]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'el.'a.Leh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֧י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| summer fruit your  | <span class="ashebrew"><big>קֵיצֵ֛</big></span><small><sup>[[H7019]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| kei.Tze<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| harvest your  | <span class="ashebrew"><big>קְצִירֵ֖</big></span><small><sup>[[H7105A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ke.tzi.Re<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shouting  | <span class="ashebrew"><big>הֵידָ֥ד</big></span><small><sup>[[H1959]]</sup></small> &#8207;| hei.Dad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has fallen  | <span class="ashebrew"><big>נָפָֽל</big></span><small><sup>[[H5307G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| na.Fal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.8|<< Isaiah 16:8]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.10|Isaiah 16:10 >>]]</td></tr></table>
+
+

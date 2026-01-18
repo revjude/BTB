@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==σκέπασμα==</span>-<span class='asgreek'>ασμα</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ <b>a covering</b>, <span class='asgreek'>τῶν</span> <span class='asgreek'>σ</span>. <span class='asgreek'>ὑποπετάσματα</span> <span class='asgreek'>μὲν</span> <span class='asgreek'>ἄλλα</span>, <span class='asgreek'>περικαλύμματα</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>ἕτερα</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Politicus” 279d ">Refs 5th c.BC+</a>]; of a cap or shoe, [<a href="javascript:void(0)" title=" [prev. author] “Lg.” 942d ">Refs</a>]; of clothing generally, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1336a17; also ὄνυχες σ. τῶν ἀκρωτηρίων εἰσίν [prev. author] “PA” 687b24 ">Refs 4th c.BC+</a>]; <b>covering membrane</b>, [<a href="javascript:void(0)" title=" [prev. author] “GA” 780b28 ">Refs</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>φύλλον</span> <span class='asgreek'>περικαρπίου</span> <span class='asgreek'>σ</span>., in plants, [<a href="javascript:void(0)" title=" [prev. author] “de An.” 412b2; οἰκία σ. ἐκ πλίνθων καὶ λίθων [prev. author] “Metaphorical” 1043a32. ">Refs</a>]
+

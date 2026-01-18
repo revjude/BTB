@@ -1,0 +1,7 @@
+<span class="asgreek">καταπραΰνω</span> <small>***(katapraunō)***</small> ==**to soothe**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==καταπραΰνω==</span>-<span class='asgreek'>ω</span></b>, 
+
+
+ <i>future</i> <b>-<span class='asgreek'>πραῠνῶ</span></b> [<a href="javascript:void(0)" title="5th c.AD: Hesychius Legal icographus ">Refs 5th c.AD+</a>]: <i>Epic dialect</i> and <i>Ionic dialect</i> <b><span class='asgreek'>κατα</span>-<span class='asgreek'>πρηΰνω</span></b>:—<b>soften</b>, opposed to <span class='asgreek'>τραχύνω</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Ti.” 67a: usually \_metaphorically\_ ">Refs 5th c.BC+</a>], <b>soften down, appease</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Euthd.” 288b, 3rd c.BC: Apollonius Rhodius Epicus 1.265, 4th c.AD(?): Quintus Smyrnaeus Epicus 14.328; κ. τοὺς ἀκροατάς, of an orator, 5th-6th c.BC: Isocrates Orator 4.13, compare 4th c.BC: Aristoteles Philosophus “Rh.” 1380b30; κ. τὴν ταραχήν 2nd c.BC: Polybius Historicus 5.52.14; κ. τινὰ τῆς ὀργῆς Plutarchus Biographus et Philosophus [{1-2nd c.AD}] “Themistocles” 31 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be pacified</b>, of animals, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Mus.” p">Refs 1st c.BC+</a>].20 K.; <b>to be allayed</b>, of emotions, [<a href="javascript:void(0)" title=" [prev\. author] “Rh.” 1.370S. ">Refs</a>]
+

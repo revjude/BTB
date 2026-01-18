@@ -1,0 +1,28 @@
+**Leviticus 6:11** (6:4)
+<small><sub>**KJV:**</sub></small>
+And he shall put off his garments, and put on other garments, and carry forth the ashes without the camp unto a clean place.
+<small><sub>**BSB:**</sub></small>
+Then he must take off his garments, put on other clothes, and carry the ashes outside the camp to a ceremonially clean place.
+<small><sub>**Literal:**</sub></small>
+and  he will strip off \<obj.> garments  his and  he will put on garments other and  he will take out \<obj.> the  fatty ash to from  [the] outside of the  camp to a place pure<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.10|<< Leviticus 6:10]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.12|Leviticus 6:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will strip off  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>פָשַׁט֙</big></span><small><sup>[[H6584]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> fa.Shat<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| garments his  | <span class="ashebrew"><big>בְּגָדָ֔י</big></span><small><sup>[[H0899B]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.ga.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will put on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>לָבַ֖שׁ</big></span><small><sup>[[H3847]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> la.Vash<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| garments  | <span class="ashebrew"><big>בְּגָדִ֣ים</big></span><small><sup>[[H0899B]]</sup></small> &#8207;| be.ga.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| other  | <span class="ashebrew"><big>אֲחֵרִ֑ים</big></span><small><sup>[[H0312]]</sup></small> &#8207;| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will take out  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הוֹצִ֤יא</big></span><small><sup>[[H3318H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ho.Tzi'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the fatty ash  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דֶּ֙שֶׁן֙</big></span><small><sup>[[H1880]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> De.shen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] outside  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>ח֣וּץ</big></span><small><sup>[[H2351]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Chutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the camp  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַּחֲנֶ֔ה</big></span><small><sup>[[H4264]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> ma.cha.Neh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a place  | <span class="ashebrew"><big>מָק֖וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pure  | <span class="ashebrew"><big>טָהֽוֹר</big></span><small><sup>[[H2889]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ta.Hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.10|<< Leviticus 6:10]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.12|Leviticus 6:12 >>]]</td></tr></table>
+
+

@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎שֹׁהַם‎</span></big> **Shôham** <small>*(sho'-ham)*</small> ==**Shoham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>the same as <span class="ashebrew">‎שֹׁהַם‎</span><sup><small>[[H7718]]</small></sup></small>
+
+$\quad$ Shoham.
+- § Shoham = *"onyx"*
+- ***Shoham***, an Israelite
+
+**1)** a Merarite Levite, son of Jaaziah

@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἀντιπίπτω==</span></b>, 
+
+
+ <b>collide,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 915b18">Refs 4th c.BC+</a>]; <b>fall upon,</b> <span class='asgreek'>ταῖς</span> <span class='asgreek'>σπείραις</span>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.19.5. ">Refs 2nd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>resist,</b> <span class='asgreek'>ἀντιπῖπτον</span> <b>resisting body,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 961b3; ἀ. τινί NT.Acts.7.51">NT+4th c.BC+</a>]; <span class='asgreek'>μηδὲν</span> <span class='asgreek'>ἀντιπεσόντα</span> without <b>demur</b>, [<a href="javascript:void(0)" title=" “UPZ” 36.21 (2nd c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>τῆς</span> <span class='asgreek'>φράσεως</span> <span class='asgreek'>οὐκ</span> -<span class='asgreek'>ούσης</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Adverbiis;” 123.5; εἰ μηδὲν -πίπτει “POxy.” 1473.20 (3rd c.AD),compare 6th c.AD: Aëtius Medicus 16.73">Refs 2nd c.AD+</a>]; <span class='asgreek'>ἀντιπῖπτον</span> an <b>objection,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Philoponus, Joannes Philosophus “in Aristotelis Meteorologicorum librum primum commentarium - Comm. in Arist. Graeca” 58.3; ἡ τοῦ ἀντιπίπτοντος λύσις Aps. p.238H. ">Refs 6th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> of circumstances, <b>to be adverse,</b> <span class='asgreek'>τινί</span>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 16.2.1, etc.: \_absolutely\_, τῆς τύχης -ούσης [prev. work] 28.2">Refs 2nd c.BC+</a>]; of contrary winds, [<a href="javascript:void(0)" title=" 4.44.9">Refs</a>]; <b>tell against, conflict with</b> (fact or theory), [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ σημείων καὶ σημειώσεων” 8, +others ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>to fall in a contrary direction,</b> <span class='asgreek'>αἱ</span> <span class='asgreek'>σκιαί</span>[<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 2.1.19.">Refs 1st c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.7.51]]
+</sub></small>

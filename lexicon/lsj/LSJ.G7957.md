@@ -1,0 +1,10 @@
+<span class="asgreek">καταχρύσεος</span> <small>***(katachruseos)***</small> ==**abounding in gold**==  <sup><small>[[TEGMC#N:N|N:N]]</small></sup> 
+
+<b> <span class='asgreek'>==καταχρύσεος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>overlaid with gold-leaf, gilded,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 12.280.78, 22.1388.75, “SIG” 1106.125 (Cos, 4th-3rd c.BC), 1st c.AD: Onosander (Onasander) Tacticus 1.20, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.753 f, 2nd c.AD: Lucianus Sophista “Alex.” 13; κόμη κ. τῇ χρόᾳ 3rd c.AD(?): Achilles Tatius Astronomus 5.13. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, of persons, <b>gilded</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Diphilus Comicus 60.1. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>rich in gold</b>, <span class='asgreek'>ψάμμος</span> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 7.97. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>metaphorically</i>, <b>spurious</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ ποιημάτων” 5.15 ">Refs 1st c.BC+</a>]. <i>adverb</i> -<span class='asgreek'>σως</span> <b>speciously</b>, [<a href="javascript:void(0)" title=" [prev. author] “Piet.” 17. ">Refs</a>]

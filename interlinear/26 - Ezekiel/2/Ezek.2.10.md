@@ -1,0 +1,25 @@
+**Ezekiel 2:10** 
+<small><sub>**KJV:**</sub></small>
+And he spread it before me; and it [was] written within and without: and [there was] written therein lamentations, and mourning, and woe.
+<small><sub>**BSB:**</sub></small>
+which He unrolled before me. And written on the front and back of it were words of lamentation, mourning, and woe.
+<small><sub>**Literal:**</sub></small>
+and  he spread out \<obj.>  it \<to>  before  me and  it [was] written face and  back and  [was] written to  it lamentations and  moaning and  wailing<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.2.9|<< Ezekiel 2:9]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.1|Ezekiel 3:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he spread out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּפְרֹ֤שׂ</big></span><small><sup>[[H6566]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yif.Ros<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אוֹתָ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ֙</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before me  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנַ֔</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִ֥יא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] written  | <span class="ashebrew"><big>כְתוּבָ֖ה</big></span><small><sup>[[H3789]]</sup></small> &#8207;| khe.tu.Vah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face  | <span class="ashebrew"><big>פָּנִ֣ים</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| pa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and back  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אָח֑וֹר</big></span><small><sup>[[H0268]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Chor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] written  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָת֣וּב</big></span><small><sup>[[H3789]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> kha.Tuv<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to it  | <span class="ashebrew"><big>אֵלֶ֔י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'e.Lei.<small><sup>[[HR]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lamentations  | <span class="ashebrew"><big>קִנִ֥ים</big></span><small><sup>[[H7015]]</sup></small> &#8207;| ki.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and moaning  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הֶ֖גֶה</big></span><small><sup>[[H1899]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> He.geh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wailing  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִֽי</big></span><small><sup>[[H1958]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Hi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.2.9|<< Ezekiel 2:9]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.1|Ezekiel 3:1 >>]]</td></tr></table>
+
+

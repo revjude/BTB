@@ -1,0 +1,28 @@
+ I. [<span class="bdbLangHebrew">‎חָרַף‎</span>] **verb** ==reproach== (Late Hebrew Pi\`el ***id.***; Aramaic <span class="bdbLangAramaic">‎חֲרַף‎</span> ***id.***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJAAVAIAAAAAAAP///yH5BAAAAAAALAAAAAAkABUAAAJLjI+py+3gogSUyptsZRA3aAXV5i0aMpacGapY605dTH9pbY/zAZcwydupfkJaR3ezoXYtJLEZSqZIQKf1aV1ekZlsVwNOunq4sqEAADs="> ***sharpen***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLgAUAIAAAAAAAP///yH5BAAAAAAALAAAAAAuABQAAAJTjI+py+0Po5wLAGPpvBzZr0kf6GVhNJqHerYB657XRsZaOttiPtJujoExaiEc0QZ88YyKZENFrJmOvZXUyMJqq8otLuHVlsJCTOXVdR51G7YbUgAAOw=="> ***sharp, keen, acute***); — 
+
+**Qal** ***Imperfect*** <span class="bdbLangHebrew">‎לֹאיֶֿחֱרַף לְבָבִי מִיָּמָ֑י‎</span> [[Job.27.6|Job 27:6]] ***Participle suffix*** <span class="bdbLangHebrew">‎חֹרְפִי‎</span> [[Ps.119.42|Ps 119:42]]; [[Prov.27.11|Prov 27:11]] <span class="bdbLangHebrew">‎חוֺרְפֶיךָ‎</span> [[Ps.69.10|Ps 69:10]]. **Piel.** ***Perfect*** <span class="bdbLangHebrew">‎חֵרֵף‎</span> [[Judg.5.18|Judg 5:18]] + 6 t.; <span class="bdbLangHebrew">‎חֵרַפְתָּ‎</span> [[Isa.37.23|Isa 37:23]] + 4 t. etc. + 10 t. perfect; ***Imperfect*** <span class="bdbLangHebrew">‎יְחָרֵף‎</span> [[2Sam.21.21|2Sam 21:21]]; [[1Chr.20.7|1Chr 20:7]] <span class="bdbLangHebrew">‎יְחָ֫רֶף‎</span> [[Ps.74.10|Ps 74:10]] + 2 t. suffix; ***Infinitive*** <span class="bdbLangHebrew">‎לְחָרֵף‎</span> [[Isa.37.4|Isa 37:4]] + 5 t.; <span class="bdbLangHebrew">‎בְּחָֽרְפָם‎</span> [[2Sam.23.9|2Sam 23:9]] (but see below); ***Participle*** <span class="bdbLangHebrew">‎מְחָרֵף‎</span> [[Ps.44.17|Ps 44:17]] — ***reproach***, — properly ***say sharp things against***, — ***taunt***, with accusative [[Judg.8.15|Judg 8:15]]; [[1Sam.17.10|1Sam 17:10]]; [[1Sam.17.25|1Sam 17:25]]; [[1Sam.17.26|1Sam 17:26]]; [[1Sam.17.36|1Sam 17:36]]; [[1Sam.17.45|1Sam 17:45]]; [[2Sam.21.21|2Sam 21:21]] +[[1Chr.20.7|1Chr 20:7]] God, by injustice to the poor [[Prov.14.31|Prov 14:31]]; [[Prov.17.5|Prov 17:5]] Yahweh, by idolatry [[Isa.65.7|Isa 65:7]] Yahweh as the God of Israel [[2Kgs.19.4|2Kgs 19:4]]; [[2Kgs.19.16|2Kgs 19:16]]; [[2Kgs.19.22|2Kgs 19:22]]; [[2Kgs.19.23|2Kgs 19:23]] = [[Isa.37.4|Isa 37:4]]; [[Isa.37.17|Isa 37:17]]; [[Isa.37.23|Isa 37:23]]; [[Isa.37.24|Isa 37:24]] = [[2Chr.32.17|2Chr 32:17]] (with <span class="bdbLangHebrew">‎לְ‎</span>); with <span class="bdbLangHebrew">‎בְּ‎</span>, Philistines [[2Sam.23.9|2Sam 23:9]] [[BDB#MT|ᵑ0]] (but read <span class="bdbLangHebrew">‎בְּפַס דַּמִּים‎</span> ***at Pas-dammîm***, proper name, of a location, as [[1Chr.11.12|1Chr 11:12]] [[BDB#We|We]] [[BDB#Dr|Dr]]); ***reproach***, [[Neh.6.13|Neh 6:13]] + [[Neh.42.11|Neh 42:11]]; [[Neh.44.17|Neh 44:17]]; [[Neh.55.13|Neh 55:13]]; [[Neh.57.4|Neh 57:4]]; [[Neh.74.10|Neh 74:10]]; [[Neh.74.18|Neh 74:18]]; [[Neh.79.12|Neh 79:12]]; [[Neh.89.52|Neh 89:52]] (twice in verse); [[Neh.102.9|Neh 102:9]]; [[Zeph.2.8|Zeph 2:8]]; [[Zeph.2.10|Zeph 2:10]] in poetry and figurative, ***despise, scorn***, <span class="bdbLangHebrew">‎נפשׁ למוּת‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> [[Judg.5.18|Judg 5:18]]. 
+
+
+
+ III. [<span class="bdbLangHebrew">‎חָרַף‎</span>] **verb denominative** ==remain in harvest-time== (so Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLQAbAIAAAAAAAP///yH5BAAAAAAALAAAAAAtABsAAAJYjI+py+0Po0SgzsuqBstiqGUh5X3PlqDmOq7u25Uwxp31TONK68q2bwI2VCLhwTi8xYg7npKkNG5806r1WYXyjldrszvVcbXiTHmCPEPVP3Yyzd665/RFAQA7">; English ***to winter***) — only **Qal** ***Imperfect*** 3 feminine singular <span class="bdbLangHebrew">‎כָּלבֶּֿהֱמַת הָאָרֶץ עָלָיו תֶּחֱרָ֑ף‎</span> [[Isa.18.6|Isa 18:6]] ***all the beasts of the earth shall spend the harvest-time upon it***. 
+
+ IV. [<span class="bdbLangHebrew">‎חָרַף‎</span>] **verb** ==acquire== (compare Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLQAbAIAAAAAAAP///yH5BAAAAAAALAAAAAAtABsAAAJbjI+py+0Po1wAzNuqxhxpS3Xi8VHVyHwgWaJpurqnS9c2NkcbHUO7fPmZcrBgb6UiJpJMpidncSqa1F5AeU3Cqo5oFSvzSm8sK7l49pnTTzA7K3zD43LDun4uAAA7"> ***turn a thing from its proper way or manner***, but also ***gain, acquire*** [subsistence] for one's family) — only **Niph\`al** ***Participle f.*** <span class="bdbLangHebrew">‎שִׁפְחָה נֶחֱרֶפֶת לְאִישׁ‎</span> ***a maidservant acquired for a man*** (namely as his concubine) [[Lev.19.26|Lev 19:26]] ([[BDB#H|H]]; compare Late Hebrew <span class="bdbLangHebrew">‎חֲרוּפָה‎</span> of woman ***designated*** for a man). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Leviticus | [[Lev.19.26\|19:26]] |
+| Judges | [[Judg.5.18\|5:18]] · [[Judg.8.15\|8:15]] |
+| 1 Samuel | [[1Sam.17.10\|17:10]] · [[1Sam.17.25\|17:25]] · [[1Sam.17.26\|17:26]] · [[1Sam.17.36\|17:36]] · [[1Sam.17.45\|17:45]] |
+| 2 Samuel | [[2Sam.21.21\|21:21]] · [[2Sam.23.9\|23:9]] |
+| 2 Kings | [[2Kgs.19.4\|19:4]] · [[2Kgs.19.16\|19:16]] · [[2Kgs.19.22\|19:22]] · [[2Kgs.19.23\|19:23]] |
+| 1 Chronicles | [[1Chr.11.12\|11:12]] · [[1Chr.20.7\|20:7]] |
+| 2 Chronicles | [[2Chr.32.17\|32:17]] |
+| Nehemiah | [[Neh.6.13\|6:13]] · [[Neh.42.11\|42:11]] · [[Neh.44.17\|44:17]] · [[Neh.55.13\|55:13]] · [[Neh.57.4\|57:4]] · [[Neh.74.10\|74:10]] · [[Neh.74.18\|74:18]] · [[Neh.79.12\|79:12]] · [[Neh.89.52\|89:52]] · [[Neh.102.9\|102:9]] |
+| Job | [[Job.27.6\|27:6]] |
+| Psalms | [[Ps.44.17\|44:17]] · [[Ps.69.10\|69:10]] · [[Ps.74.10\|74:10]] · [[Ps.119.42\|119:42]] |
+| Proverbs | [[Prov.14.31\|14:31]] · [[Prov.17.5\|17:5]] · [[Prov.27.11\|27:11]] |
+| Isaiah | [[Isa.18.6\|18:6]] · [[Isa.37.4\|37:4]] · [[Isa.37.17\|37:17]] · [[Isa.37.23\|37:23]] · [[Isa.37.24\|37:24]] · [[Isa.65.7\|65:7]] |
+| Zephaniah | [[Zeph.2.8\|2:8]] · [[Zeph.2.10\|2:10]] |
+

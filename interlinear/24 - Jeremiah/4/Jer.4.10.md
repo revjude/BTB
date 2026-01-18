@@ -1,0 +1,31 @@
+**Jeremiah 4:10** 
+<small><sub>**KJV:**</sub></small>
+Then said I, Ah, Lord GOD! surely thou hast greatly deceived this people and Jerusalem, saying, Ye shall have peace; whereas the sword reacheth unto the soul.
+<small><sub>**BSB:**</sub></small>
+Then I said, “Ah, Lord GOD, how completely You have deceived this people and Jerusalem by saying, ‘You will have peace,’ while a sword is at our throats.”
+<small><sub>**Literal:**</sub></small>
+and  I said alas! O Lord Yahweh truly certainly \<to deceive> you have deceived \<to> the  people \<the>  this and  \<to>  Jerusalem \<to>  saying peace it will belong to \<the>  you and  it will reach a sword to the  throat<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.9|<< Jeremiah 4:9]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.11|Jeremiah 4:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I said  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֹמַ֞ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| alas!  | <span class="ashebrew"><big>אֲהָ֣הּ</big></span><small><sup>[[H0162]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'a.Hah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוִ֗ה</big></span><small><sup>[[H3069]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| truly  | <span class="ashebrew"><big>אָכֵן֩</big></span><small><sup>[[H0403]]</sup></small> &#8207;| 'a.Khen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to deceive>  | <span class="ashebrew"><big>הַשֵּׁ֨א</big></span><small><sup>[[H5377]]</sup></small> &#8207;| ha.She'<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have deceived  | <span class="ashebrew"><big>הִשֵּׁ֜אתָ</big></span><small><sup>[[H5377]]</sup></small> &#8207;| hi.She.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> the people  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עָ֤ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זֶּה֙</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<to> Jerusalem  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ירוּשָׁלִַ֣ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> li.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹ֔ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace  | <span class="ashebrew"><big>שָׁל֖וֹם</big></span><small><sup>[[H7965I]]</sup></small> &#8207;| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will belong  | <span class="ashebrew"><big>יִהְיֶ֣ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will reach  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָגְעָ֥ה</big></span><small><sup>[[H5060]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.ge.'Ah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  | <span class="ashebrew"><big>חֶ֖רֶב</big></span><small><sup>[[H2719]]</sup></small> &#8207;| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the throat  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נָּֽפֶשׁ</big></span><small><sup>[[H5315H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Na.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.9|<< Jeremiah 4:9]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.11|Jeremiah 4:11 >>]]</td></tr></table>
+
+

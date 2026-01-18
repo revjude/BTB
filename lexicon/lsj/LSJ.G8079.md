@@ -1,0 +1,9 @@
+<span class="asgreek">κουρεύς</span> <small>***(koureus)***</small> ==**a barber**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==κουρεύς==</span>-<span class='asgreek'>εύς</span></b>, <span class='asgreek'>έως</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ (<span class='asgreek'>κείρω</span>) <b>barber, hair-cutter</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 373c, 5th c.BC: Philyllius Comicus 14, “PMagd.” 15.1 (3rd c.BC), 2nd c.AD: Lucianus Sophista “Ind.” 29 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ὁ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τὰς</span> <span class='asgreek'>μαχαιρίδας</span> <span class='asgreek'>λαβὼν</span> <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ὑπήνης</span> <span class='asgreek'>κατακερεῖ</span>—<span class='asgreek'>τὴν</span> <span class='asgreek'>εἰσφοράν</span> (<span class='asgreek'>παρὰ</span> <span class='asgreek'>προσδοκίαν</span> for <span class='asgreek'>τὸ</span> <span class='asgreek'>γένειον</span>) [<a href="javascript:void(0)" title=" 5th c.BC: Eupolis Comicus 278 ">Refs 5th c.BC+</a>]; as a purveyor of gossip, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.177a, 509a. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>shearer</b>, <span class='asgreek'>==κουρεύς==εῖ</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>κείραντι</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>αἶγας</span> [<a href="javascript:void(0)" title=" “PCair.Zen.” 176.54 (3rd c.BC). ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> a bird, said to chirp with a sound <b>as of clipping</b>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]

@@ -1,0 +1,24 @@
+**Joel 3:7** (4:7)
+<small><sub>**KJV:**</sub></small>
+Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:
+<small><sub>**BSB:**</sub></small>
+Behold, I will rouse them from the places to which you sold them; I will return your recompense upon your heads.
+<small><sub>**Literal:**</sub></small>
+here  I [am] about to rouse  them from the  place where you sold \<obj.>  them there  \<towards> and  I will return recompense  your on  head  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.6|<< Joel 3:6]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.8|Joel 3:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| here I  | <span class="ashebrew"><big>הִנְ</big></span><small><sup>[[H2005]]</sup></small> <span class="ashebrew"><big>נִ֣י</big></span><small><sup>[[H9040]]</sup></small> &#8207;| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to rouse them  | <span class="ashebrew"><big>מְעִירָ֔</big></span><small><sup>[[H5782]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| me.'i.Ra<small><sup>[[HVhrmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the place  | <span class="ashebrew"><big>הַ֨</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מָּק֔וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you sold  | <span class="ashebrew"><big>מְכַרְתֶּ֥ם</big></span><small><sup>[[H4376]]</sup></small> &#8207;| me.khar.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אֹתָ֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there \<towards>  | <span class="ashebrew"><big>שָׁ֑מָּ</big></span><small><sup>[[H8033G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will return  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֲשִׁבֹתִ֥י</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ha.shi.vo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| recompense your  | <span class="ashebrew"><big>גְמֻלְ</big></span><small><sup>[[H1576]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| ge.mul.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on head your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רֹאשְׁ</big></span><small><sup>[[H7218A]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ro.she.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.6|<< Joel 3:6]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.8|Joel 3:8 >>]]</td></tr></table>
+
+

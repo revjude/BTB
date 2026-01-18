@@ -1,0 +1,10 @@
+<span class="asgreek">περιρραίνω</span> <small>***(perirrainō)***</small> ==**to sprinkle about**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==περιρραίνω==</span></b>, 
+
+
+ <b>besprinkle</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Lapidibus” 13 ">Refs 4th c.BC+</a>]; especially in sacred rites, <span class='asgreek'>μιᾶς</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>χέρνιβος</span> <span class='asgreek'>βωμοὺς</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 1130 ">Refs 5th c.BC+</a>]:—<i>middle</i>, <b>purify oneself</b>, <span class='asgreek'>ὕδατι</span> <span class='asgreek'>περίρραν᾽</span> (i.e. <span class='asgreek'>περίρραναι</span>) [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 530.23, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Lycurgus” 2; ἀπὸ συνουσίας περιραναμένους “IG” 12(1).789.15 (Rhodes, 2nd c.AD),compare “SIG” 982.8 (Pergam., 2nd c.BC in form -ρασάμενοι) π. ἀπὸ ἱεροῦ 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 16.2 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>θαλάττης</span>[<a href="javascript:void(0)" title=" [prev. work] 13; ἀπὸ [κρήνης] 4th c.BC: Aristobulus Historicus 6 1st c.AD: Josephus Historicus; οὐλοχύταις 4th-5th c.AD(?): Nonnus Epicus “Dionysiaca” 5.7 (\_passive\_), etc. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> generally, <b>moisten</b>, <span class='asgreek'>ὕδασι</span>.. <span class='asgreek'>ἀρούρας</span> [<a href="javascript:void(0)" title="[prev. work] 14.48. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>pour</b>, <span class='asgreek'>οἶνον</span>.. <span class='asgreek'>Ὑμεναίῳ</span> [<a href="javascript:void(0)" title="[prev. work] 29.156. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i>, -<span class='asgreek'>έρρανται</span> <span class='asgreek'>στιγμαῖς</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Philumenus Medicus “de Venenatis Animalibus” 20.1. ">Refs 3rd c.AD+</a>]

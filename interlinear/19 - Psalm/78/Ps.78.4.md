@@ -1,0 +1,25 @@
+**Psalms 78:4** 
+<small><sub>**KJV:**</sub></small>
+We will not hide [them] from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done.
+<small><sub>**BSB:**</sub></small>
+We will not hide them from their children but will declare to the next generation the praises of the LORD and His might and the wonders He has performed.
+<small><sub>**Literal:**</sub></small>
+not we will hide from  descendants  their to  a generation later recounting [the] praises of Yahweh and  might  his and  wonders  his which he has done<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.3|<< Psalms 78:3]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.5|Psalms 78:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| not  | <span class="ashebrew"><big>לֹ֤א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will hide  | <span class="ashebrew"><big>נְכַחֵ֨ד</big></span><small><sup>[[H3582]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ne.kha.Ched<small><sup>[[HVpi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from descendants their  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בְּנֵי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>הֶ֗ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> be.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a generation  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ד֥וֹר</big></span><small><sup>[[H1755]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| later  | <span class="ashebrew"><big>אַחֲר֗וֹן</big></span><small><sup>[[H0314]]</sup></small> &#8207;| 'a.cha.Ron<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| recounting  | <span class="ashebrew"><big>מְֽ֭סַפְּרִים</big></span><small><sup>[[H5608A]]</sup></small> &#8207;| Me.sa.pe.rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] praises of  | <span class="ashebrew"><big>תְּהִלּ֣וֹת</big></span><small><sup>[[H8416]]</sup></small> &#8207;| te.hi.Lot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and might his  | <span class="ashebrew"><big>וֶ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֱזוּז֥</big></span><small><sup>[[H5807]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'e.zu.Z<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wonders his  | <span class="ashebrew"><big>וְ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נִפְלְאוֹתָ֗י</big></span><small><sup>[[H6381]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> nif.le.'o.Ta<small><sup>[[HVNrfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has done  | <span class="ashebrew"><big>עָשָֽׂה</big></span><small><sup>[[H6213A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.3|<< Psalms 78:3]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.5|Psalms 78:5 >>]]</td></tr></table>
+
+

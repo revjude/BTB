@@ -1,0 +1,15 @@
+<small>*Ramah\_1 • A town in Benjamin, near Gibeah and Jerusalem*</small>
+
+<span class='tipnrhighlight'>Ramah</span> was a town in the territory of Benjamin, often associated with significant events in Israel's history, such as the mourning of Rachel and the imprisonment of Jeremiah.
+- A location first mentioned at [[Josh.18.25|Jos.18.25]]; 
+- referred to as Ramah<[[H7414G]]> \(<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>\), or Ramah<[[G4471]]> \(<span class='tipnrLangGreek'>Ῥαμᾶ</span>\).
+<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=AIzaSyBASs20ZQcXjMg5_FzpRVEYq2GaemoSAVw&center=31.89637863532434,35.20173068977705&zoom=10&maptype=satellite"></iframe>
+
+
+Ramah was a town located in the tribal territory of Benjamin, near Gibeah and Jerusalem. It is mentioned several times in the Bible in connection with various events and prophecies. During the period of the judges, Deborah, a prophetess and judge, held court between Ramah and Bethel \(Judg. 4:5\). In the story of the Levite and his concubine, the Levite planned to spend the night in Ramah before the tragic events in Gibeah \(Judg. 19:13\). Later, during the reign of King Baasha of Israel, he fortified Ramah to prevent people from going to or coming from Judah \(1 Kgs. 15:17, 21-22; 2 Chr. 16:1, 5-6\). The town was also mentioned in the context of the return of the exiles from Babylon \([[Ezra.2.26|Ezra 2:26]]; Neh. 7:30\) and as one of the settlements where the Benjamites lived after the exile \(Neh. 11:33\). The prophets Isaiah, Jeremiah, and Hosea mentioned Ramah in their prophecies, often in connection with judgment or mourning \(Isa. 10:29; Jer. 31:15; 40:1; Hos. 5:8\). In the New Testament, Matthew's Gospel quotes Jeremiah's prophecy about Rachel weeping for her children in Ramah, applying it to Herod's massacre of the infants in Bethlehem \(Matt. 2:18\). The frequent mention of Ramah in various contexts highlights its importance as a town in the territory of Benjamin and its association with significant events in Israel's history.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Ramah | [<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7414G) <small>*Hebrew*</small> | 17x | [[Jos.18.25] ... [Hos.5.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ramah\*\|reference=Jos.18.25;Jos.19.8;Jdg.4.5;Jdg.19.13;1Ki.15.17;1Ki.15.21;1Ki.15.22;2Ch.16.1;2Ch.16.5;2Ch.16.6;Ezr.2.26;Neh.7.30;Neh.11.33;Isa.10.29;Jer.31.15;Jer.40.1;Hos.5.8) |
+| Ramah | [<span class='tipnrLangGreek'>Ῥαμᾶ</span>](G4471) <small>*Greek*</small> | 1x | [Mat.2.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ramah\*\|reference=Mat.2.18) |
+All Strong's for **Ramah**: \[[[H7414G]]\] \[[[G4471]]\]

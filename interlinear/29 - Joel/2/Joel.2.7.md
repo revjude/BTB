@@ -1,0 +1,25 @@
+**Joel 2:7** 
+<small><sub>**KJV:**</sub></small>
+They shall run like mighty men; they shall climb the wall like men of war; and they shall march every one on his ways, and they shall not break their ranks:
+<small><sub>**BSB:**</sub></small>
+They charge like mighty men; they scale the walls like men of war. Each one marches in formation, not swerving from the course.
+<small><sub>**Literal:**</sub></small>
+like  warriors they run  ! like  men of war they go up a wall and  each on  ways  its they go  ! and  not they exchange  ! paths  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.6|<< Joel 2:6]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.8|Joel 2:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| like warriors  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>גִבּוֹרִ֣ים</big></span><small><sup>[[H1368]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> gi.bo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they run !  | <span class="ashebrew"><big>יְרֻצ֔וּ</big></span><small><sup>[[H7323G]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;| ye.ru.Tzu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like men of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אַנְשֵׁ֥י</big></span><small><sup>[[H0582]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| war  | <span class="ashebrew"><big>מִלְחָמָ֖ה</big></span><small><sup>[[H4421]]</sup></small> &#8207;| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they go up  | <span class="ashebrew"><big>יַעֲל֣וּ</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| ya.'a.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a wall  | <span class="ashebrew"><big>חוֹמָ֑ה</big></span><small><sup>[[H2346G]]</sup></small> &#8207;| cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and each  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִ֤ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on ways its  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דְרָכָי</big></span><small><sup>[[H1870L]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> d.ra.Kha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they go !  | <span class="ashebrew"><big>יֵֽלֵכ֔וּ</big></span><small><sup>[[H1980I]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;| ye.le.Khu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they exchange !  | <span class="ashebrew"><big>יְעַבְּט֖וּ</big></span><small><sup>[[H5670]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;| ye.'a.be.Tu<small><sup>[[HVpi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| paths their  | <span class="ashebrew"><big>אֹרְחוֹתָֽ</big></span><small><sup>[[H0734]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'o.re.cho.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.6|<< Joel 2:6]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.8|Joel 2:8 >>]]</td></tr></table>
+
+

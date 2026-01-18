@@ -1,0 +1,26 @@
+**Jeremiah 4:18** 
+<small><sub>**KJV:**</sub></small>
+Thy way and thy doings have procured these [things] unto thee; this [is] thy wickedness, because it is bitter, because it reacheth unto thine heart.
+<small><sub>**BSB:**</sub></small>
+“Your ways and deeds have brought this upon you. This is your punishment; how bitter it is, because it pierces to the heart!”
+<small><sub>**Literal:**</sub></small>
+conduct  your and  deeds  your they have brought about these [things] to \<the>  you this [is] wickedness  your for it is bitter for it has reached to heart  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.17|<< Jeremiah 4:17]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.19|Jeremiah 4:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| conduct your  | <span class="ashebrew"><big>דַּרְכֵּ</big></span><small><sup>[[H1870G]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9022]]</sup></small> &#8207;| dar.ke<small><sup>[[HNcbsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and deeds your  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַ֣עֲלָלַ֔יִ</big></span><small><sup>[[H4611]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Ma.'a.la.La.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have brought about  | <span class="ashebrew"><big>עָשׂ֥וֹ</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| a.So<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these [things]  | <span class="ashebrew"><big>אֵ֖לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לָ֑</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֹ֤את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] wickedness your  | <span class="ashebrew"><big>רָעָתֵ</big></span><small><sup>[[H7451C]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ra.'a.te<small><sup>[[HNcfsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is bitter  | <span class="ashebrew"><big>מָ֔ר</big></span><small><sup>[[H4843]]</sup></small> &#8207;| Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has reached  | <span class="ashebrew"><big>נָגַ֖ע</big></span><small><sup>[[H5060]]</sup></small> &#8207;| na.Ga'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart your  | <span class="ashebrew"><big>לִבֵּֽ</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| li.Be<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.17|<< Jeremiah 4:17]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.19|Jeremiah 4:19 >>]]</td></tr></table>
+
+

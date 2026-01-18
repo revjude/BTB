@@ -1,0 +1,30 @@
+**Jeremiah 5:7** 
+<small><sub>**KJV:**</sub></small>
+How shall I pardon thee for this? thy children have forsaken me, and sworn by [them that are] no gods: when I had fed them to the full, they then committed adultery, and assembled themselves by troops in the harlots’ houses.
+<small><sub>**BSB:**</sub></small>
+“Why should I forgive you? Your children have forsaken Me and sworn by gods that are not gods. I satisfied their needs, yet they committed adultery and assembled at the houses of prostitutes.
+<small><sub>**Literal:**</sub></small>
+where? for  this will I forgive \<to> \<the>  you children  your they have forsaken  me and  they have sworn by  not gods and  I satisfied \<obj.>  them and  they committed adultery and  [the] house of a prostitute they cut themselves<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.6|<< Jeremiah 5:6]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.8|Jeremiah 5:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| where?  | <span class="ashebrew"><big>אֵ֤י</big></span><small><sup>[[H0335]]</sup></small> &#8207;| 'ei<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for this  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>זֹאת֙</big></span><small><sup>[[H2063]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I forgive  | <span class="ashebrew"><big>אֶֽסְלַֽח</big></span><small><sup>[[H5545]]</sup></small> &#8207;[^1] [^2] | 'es.lo.ach-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| \<to> \<the> you  | <span class="ashebrew"><big>לָ֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children your  | <span class="ashebrew"><big>בָּנַ֣יִ</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ba.Na.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have forsaken me  | <span class="ashebrew"><big>עֲזָב֔וּ</big></span><small><sup>[[H5800A]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'a.za.Vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they have sworn  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשָּׁבְע֖וּ</big></span><small><sup>[[H7650]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.sha.ve.'U<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by not  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  | <span class="ashebrew"><big>אֱלֹהִ֑ים</big></span><small><sup>[[H0430J]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I satisfied  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אַשְׂבִּ֤עַ</big></span><small><sup>[[H7646]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'as.Bi.a'<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אוֹתָ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they committed adultery  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּנְאָ֔פוּ</big></span><small><sup>[[H5003]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yin.'A.fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] house of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵ֥ית</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a prostitute  | <span class="ashebrew"><big>זוֹנָ֖ה</big></span><small><sup>[[H2181]]</sup></small> &#8207;| zo.Nah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they cut themselves  | <span class="ashebrew"><big>יִתְגֹּדָֽדוּ</big></span><small><sup>[[H1413]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yit.go.Da.du<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.6|<< Jeremiah 5:6]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.8|Jeremiah 5:8 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="ashebrew"><big>אֶֽסְלַֽוח\־</big></span>**
+[^2]: ==K== spelled: **<span class="ashebrew"><big>אֶסְלוֹחַ</big></span>**
+

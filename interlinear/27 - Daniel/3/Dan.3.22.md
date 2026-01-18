@@ -1,0 +1,37 @@
+**Daniel 3:22** 
+<small><sub>**KJV:**</sub></small>
+Therefore because the king’s commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abednego.
+<small><sub>**BSB:**</sub></small>
+The king’s command was so urgent and the furnace so hot that the fiery flames killed the men who carried up Shadrach, Meshach, and Abednego.
+<small><sub>**Literal:**</sub></small>
+as  to because this from that [the] word of king  the being harsh and  furnace  the [was] heated exceedingly men  the these who they took up \<obj.>  Shadrach Meshach and  Abed- -nego it killed them flame  the of fire  the<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.21|<< Daniel 3:21]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.23|Daniel 3:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| as to  | <span class="ashebrew"><big>כָּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>ל</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ko<small><sup>[[AR]]</sup></small> l-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  | <span class="asaramaic"><big>קֳבֵ֣ל</big></span><small><sup>[[H6903H]]</sup></small> &#8207;| ko.Vel<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="asaramaic"><big>דְּנָ֗ה</big></span><small><sup>[[H1836]]</sup></small> &#8207;| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="asaramaic"><big>מִן</big></span><small><sup>[[H4481]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="asaramaic"><big>דִּ֞י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  | <span class="asaramaic"><big>מִלַּ֤ת</big></span><small><sup>[[H4406]]</sup></small> &#8207;| mi.Lat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  | <span class="asaramaic"><big>מַלְכָּ</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א֙</big></span><small><sup>[[H9010]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| being harsh  | <span class="asaramaic"><big>מַחְצְפָ֔ה</big></span><small><sup>[[H2685]]</sup></small> &#8207;| mach.tze.Fah<small><sup>[[AVhrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and furnace the  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>אַתּוּנָ֖</big></span><small><sup>[[H0861]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> 'a.tu.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] heated  | <span class="asaramaic"><big>אֵזֵ֣ה</big></span><small><sup>[[H0228]]</sup></small> &#8207;| 'e.Zeh<small><sup>[[AVQrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  | <span class="asaramaic"><big>יַתִּ֑ירָא</big></span><small><sup>[[H3493]]</sup></small> &#8207;| ya.Ti.ra'<small><sup>[[AAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men the  | <span class="asaramaic"><big>גֻּבְרַיָּ֣</big></span><small><sup>[[H1400]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| guv.rai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  | <span class="asaramaic"><big>אִלֵּ֗ךְ</big></span><small><sup>[[H0479]]</sup></small> &#8207;| 'i.Lekh<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="asaramaic"><big>דִּ֤י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they took up  | <span class="asaramaic"><big>הַסִּ֙קוּ֙</big></span><small><sup>[[H5267]]</sup></small> &#8207;| ha.Si.ku<small><sup>[[AVhp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> Shadrach  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>שַׁדְרַ֤ךְ</big></span><small><sup>[[H7715]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> shad.Rakh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Meshach  | <span class="ashebrew"><big>מֵישַׁךְ֙</big></span><small><sup>[[H4336]]</sup></small> &#8207;| mei.shaKh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abed-  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲבֵ֣ד</big></span><small><sup>[[H5665]]</sup></small> &#8207;| va.<small><sup>[[AC]]</sup></small> 'a.Ved<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -nego  | <span class="ashebrew"><big>נְג֔וֹ</big></span><small><sup>[[H5665]]</sup></small> &#8207;| ne.Go<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it killed  | <span class="asaramaic"><big>קַטִּ֣ל</big></span><small><sup>[[H6992]]</sup></small> &#8207;| ka.Til<small><sup>[[AVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| them  | <span class="asaramaic"><big>הִמּ֔וֹן</big></span><small><sup>[[H1994]]</sup></small> &#8207;| hi.Mon<small><sup>[[APp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flame the  | <span class="asaramaic"><big>שְׁבִיבָ֖</big></span><small><sup>[[H7631]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| she.vi.Va<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of  | <span class="asaramaic"><big>דִּ֥י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire the  | <span class="asaramaic"><big>נוּרָֽ</big></span><small><sup>[[H5135]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| nu.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.21|<< Daniel 3:21]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.23|Daniel 3:23 >>]]</td></tr></table>
+
+

@@ -1,0 +1,36 @@
+**Jeremiah 51:12** 
+<small><sub>**KJV:**</sub></small>
+Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the LORD hath both devised and done that which he spake against the inhabitants of Babylon.
+<small><sub>**BSB:**</sub></small>
+Raise a banner against the walls of Babylon; post the guard; station the watchmen; prepare the ambush. For the LORD has both devised and accomplished what He spoke against the people of Babylon.
+<small><sub>**Literal:**</sub></small>
+against [the] walls of Babylon lift up a standard strengthen the  watch station watchmen prepare the  ambushers for both he has purposed Yahweh as well as he will do \<obj.> [that] which he spoke concerning [the] inhabitants of Babylon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.11|<< Jeremiah 51:11]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.13|Jeremiah 51:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| against  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] walls of  | <span class="ashebrew"><big>חוֹמֹ֨ת</big></span><small><sup>[[H2346G]]</sup></small> &#8207;| cho.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="ashebrew"><big>בָּבֶ֜ל</big></span><small><sup>[[H0894]]</sup></small> &#8207;| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lift up  | <span class="ashebrew"><big>שְׂאוּ</big></span><small><sup>[[H5375G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| se.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a standard  | <span class="ashebrew"><big>נֵ֗ס</big></span><small><sup>[[H5251H]]</sup></small> &#8207;| Nes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strengthen  | <span class="ashebrew"><big>הַחֲזִ֙יקוּ֙</big></span><small><sup>[[H2388G]]</sup></small> &#8207;| ha.cha.Zi.ku<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the watch  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּשְׁמָ֔ר</big></span><small><sup>[[H4929]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mish.Mar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| station  | <span class="ashebrew"><big>הָקִ֙ימוּ֙</big></span><small><sup>[[H6965I]]</sup></small> &#8207;| ha.Ki.mu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| watchmen  | <span class="ashebrew"><big>שֹֽׁמְרִ֔ים</big></span><small><sup>[[H8104H]]</sup></small> &#8207;| sho.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prepare  | <span class="ashebrew"><big>הָכִ֖ינוּ</big></span><small><sup>[[H3559A]]</sup></small> &#8207;| ha.Khi.nu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ambushers  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֹֽרְבִ֑ים</big></span><small><sup>[[H0693]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.re.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֚י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| both  | <span class="ashebrew"><big>גַּם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has purposed  | <span class="ashebrew"><big>זָמַ֣ם</big></span><small><sup>[[H2161]]</sup></small> &#8207;| za.Mam<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as well as  | <span class="ashebrew"><big>גַּם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will do  | <span class="ashebrew"><big>עָשָׂ֕ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֥ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he spoke  | <span class="ashebrew"><big>דִּבֶּ֖ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| concerning  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] inhabitants of  | <span class="ashebrew"><big>יֹשְׁבֵ֥י</big></span><small><sup>[[H3427]]</sup></small> &#8207;| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="ashebrew"><big>בָבֶֽל</big></span><small><sup>[[H0894]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.11|<< Jeremiah 51:11]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.13|Jeremiah 51:13 >>]]</td></tr></table>
+
+

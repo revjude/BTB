@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎בַּעֲלָת‎</span></big> **Baʻălâth** <small>*(bah-al-awth')*</small> ==**Baalath**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>a modification of <span class="ashebrew">‎בַּעֲלָה‎</span><sup><small>[[H1172]]</small></sup>; mistressship</small>
+
+$\quad$ Baalath.
+- § Baalath = *"mistress"*
+- ***Baalath***, a place in Palestine
+
+**1)** a town in Dan

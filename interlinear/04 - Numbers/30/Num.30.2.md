@@ -1,0 +1,32 @@
+**Numbers 30:2** (30:3)
+<small><sub>**KJV:**</sub></small>
+If a man vow a vow unto the LORD, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth.
+<small><sub>**BSB:**</sub></small>
+If a man makes a vow to the LORD or swears an oath to obligate himself by a pledge, he must not break his word; he must do everything he has promised.
+<small><sub>**Literal:**</sub></small>
+a man if he will vow a vow to  Yahweh or he will swear an oath to  bind an obligation on self  his not he will violate word  his according to  every \<the>  [thing which] has gone out from  mouth  his he will do<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.1|<< Numbers 30:1]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.3|Numbers 30:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| a man  | <span class="ashebrew"><big>אִישׁ֩</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will vow  | <span class="ashebrew"><big>יִדֹּ֨ר</big></span><small><sup>[[H5087]]</sup></small> &#8207;| yi.Dor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a vow  | <span class="ashebrew"><big>נֶ֜דֶר</big></span><small><sup>[[H5088]]</sup></small> &#8207;| Ne.der<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  | <span class="ashebrew"><big>אֽוֹ</big></span><small><sup>[[H0176A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will swear  | <span class="ashebrew"><big>הִשָּׁ֤בַע</big></span><small><sup>[[H7650]]</sup></small> &#8207;| hi.Sha.va'<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an oath  | <span class="ashebrew"><big>שְׁבֻעָה֙</big></span><small><sup>[[H7621]]</sup></small> &#8207;| she.vu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to bind  | <span class="ashebrew"><big>לֶ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אְסֹ֤ר</big></span><small><sup>[[H0631]]</sup></small> &#8207;| le<small><sup>[[HR]]</sup></small> '.Sor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an obligation  | <span class="ashebrew"><big>אִסָּר֙</big></span><small><sup>[[H0632]]</sup></small> &#8207;| 'i.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self his  | <span class="ashebrew"><big>נַפְשׁ֔</big></span><small><sup>[[H5315I]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will violate  | <span class="ashebrew"><big>יַחֵ֖ל</big></span><small><sup>[[H2490H]]</sup></small> &#8207;| ya.Chel<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| word his  | <span class="ashebrew"><big>דְּבָר֑</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| de.va.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to every  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> [thing which] has gone out  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יֹּצֵ֥א</big></span><small><sup>[[H3318O]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yo.Tze'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from mouth his  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פִּ֖י</big></span><small><sup>[[H6310G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Pi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will do  | <span class="ashebrew"><big>יַעֲשֶֽׂה</big></span><small><sup>[[H6213A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.1|<< Numbers 30:1]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.3|Numbers 30:3 >>]]</td></tr></table>
+
+

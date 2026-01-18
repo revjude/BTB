@@ -1,0 +1,21 @@
+**Numbers 25:2** 
+<small><sub>**KJV:**</sub></small>
+And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods.
+<small><sub>**BSB:**</sub></small>
+who also invited them to the sacrifices for their gods. And the people ate and bowed down to these gods.
+<small><sub>**Literal:**</sub></small>
+and  they invited \<to> the  people to  [the] sacrifices of gods  their and  it ate the  people and  they bowed down to  gods  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25.1|<< Numbers 25:1]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.3|Numbers 25:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they invited  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּקְרֶ֣אןָ</big></span><small><sup>[[H7121G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tik.Re.na<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> the people  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עָ֔ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] sacrifices of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>זִבְחֵ֖י</big></span><small><sup>[[H2077]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ziv.Chei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods their  | <span class="ashebrew"><big>אֱלֹהֵי</big></span><small><sup>[[H0430J]]</sup></small> <span class="ashebrew"><big>הֶ֑ן</big></span><small><sup>[[H9029]]</sup></small> &#8207;| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it ate  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אכַל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.khal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֔ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they bowed down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּֽשְׁתַּחֲוּ֖וּ</big></span><small><sup>[[H7812]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.ta.cha.Vu<small><sup>[[HVvw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods their  | <span class="ashebrew"><big>לֵֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אלֹהֵי</big></span><small><sup>[[H0430J]]</sup></small> <span class="ashebrew"><big>הֶֽן</big></span><small><sup>[[H9029]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Le.<small><sup>[[HR]]</sup></small> lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25.1|<< Numbers 25:1]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.3|Numbers 25:3 >>]]</td></tr></table>
+
+

@@ -1,0 +1,7 @@
+<span class="asgreek">αὐλαία</span> <small>***(aulaia)***</small> ==**a curtain**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==αὐλαία==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>αὐλή</span>) <b>curtain,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Hyperides Orator “Fragmenta” 139, 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 5.9, 4th-3rd c.BC: Menander Comicus 834, “Michel” 832.26 (Samos, 4th c.BC), 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Alexander” 49">Refs 4th c.BC+</a>]; especially in the theatre, Men.[same place]; <b>hunting-net,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Alexander” 40">Refs 1st c.AD+</a>]: in <i>plural</i>, <b>screens</b> to protect a wall against missiles, [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 95.34.">Refs 3rd c.BC+</a>]
+

@@ -1,0 +1,33 @@
+**1 Kings 10:21** 
+<small><sub>**KJV:**</sub></small>
+And all king Solomon’s drinking vessels [were of] gold, and all the vessels of the house of the forest of Lebanon [were of] pure gold; none [were of] silver: it was nothing accounted of in the days of Solomon.
+<small><sub>**BSB:**</sub></small>
+All King Solomon’s drinking cups were gold, and all the utensils of the House of the Forest of Lebanon were pure gold. There was no silver, because it was accounted as nothing in the days of Solomon.
+<small><sub>**Literal:**</sub></small>
+and  all [the] vessels of [the] drink of the  king Solomon [were] gold and  all [the] utensils of [the] House of [the] Forest of \<the>  Lebanon [were] gold pure gold there not [was] silver not [it was] reckoned in  [the] days of Solomon to  anything<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.20|<< 1 Kings 10:20]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.22|1 Kings 10:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and all  | <span class="ashebrew"><big>וְ֠</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| Ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vessels of  | <span class="ashebrew"><big>כְּלֵ֞י</big></span><small><sup>[[H3627]]</sup></small> &#8207;| ke.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] drink of  | <span class="ashebrew"><big>מַשְׁקֵ֨ה</big></span><small><sup>[[H4945B]]</sup></small> &#8207;| mash.Keh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֤לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  | <span class="ashebrew"><big>שְׁלֹמֹה֙</big></span><small><sup>[[H8010]]</sup></small> &#8207;| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] gold  | <span class="ashebrew"><big>זָהָ֔ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹ֗ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utensils of  | <span class="ashebrew"><big>כְּלֵ֛י</big></span><small><sup>[[H3627]]</sup></small> &#8207;| ke.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] House of  | <span class="ashebrew"><big>בֵּֽית</big></span><small><sup>[[H1004K]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Forest of  | <span class="ashebrew"><big>יַ֥עַר</big></span><small><sup>[[H3293I]]</sup></small> &#8207;| Ya.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Lebanon  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לְּבָנ֖וֹן</big></span><small><sup>[[H3844J]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] gold  | <span class="ashebrew"><big>זָהָ֣ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pure gold  | <span class="ashebrew"><big>סָג֑וּר</big></span><small><sup>[[H5462]]</sup></small> &#8207;| sa.Gur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  | <span class="ashebrew"><big>אֵ֣ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] silver  | <span class="ashebrew"><big>כֶּ֗סֶף</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [it was] reckoned  | <span class="ashebrew"><big>נֶחְשָׁ֛ב</big></span><small><sup>[[H2803H]]</sup></small> &#8207;| nech.Shav<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] days of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ימֵ֥י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  | <span class="ashebrew"><big>שְׁלֹמֹ֖ה</big></span><small><sup>[[H8010]]</sup></small> &#8207;| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to anything  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מְאֽוּמָה</big></span><small><sup>[[H3972]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> m.'U.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.20|<< 1 Kings 10:20]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.22|1 Kings 10:22 >>]]</td></tr></table>
+
+

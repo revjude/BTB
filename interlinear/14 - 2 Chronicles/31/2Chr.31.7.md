@@ -1,0 +1,21 @@
+**2 Chronicles 31:7** 
+<small><sub>**KJV:**</sub></small>
+In the third month they began to lay the foundation of the heaps, and finished [them] in the seventh month.
+<small><sub>**BSB:**</sub></small>
+In the third month they began building up the heaps, and they finished in the seventh month.
+<small><sub>**Literal:**</sub></small>
+in the  month \<the>  third they began the  heaps to  found and  in the  month \<the>  seventh they finished<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.6|<< 2 Chronicles 31:6]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.8|2 Chronicles 31:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| in the month  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֹ֙דֶשׁ֙</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> third  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁלִשִׁ֔י</big></span><small><sup>[[H7992]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.li.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they began  | <span class="ashebrew"><big>הֵחֵ֥לּוּ</big></span><small><sup>[[H2490C]]</sup></small> &#8207;| he.Che.lu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the heaps  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֲרֵמ֖וֹת</big></span><small><sup>[[H6194]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.re.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to found  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יִסּ֑וֹד</big></span><small><sup>[[H3245]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> yi.Sod<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in the month  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֹ֥דֶשׁ</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> seventh  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁבִיעִ֖י</big></span><small><sup>[[H7637]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they finished  | <span class="ashebrew"><big>כִּלּֽוּ</big></span><small><sup>[[H3615G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ki.Lu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.6|<< 2 Chronicles 31:6]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.8|2 Chronicles 31:8 >>]]</td></tr></table>
+
+

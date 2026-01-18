@@ -1,0 +1,8 @@
+<span class="asgreek">ἀποσοβέω</span> <small>***(aposobeō)***</small> ==**to frighten away**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀποσοβέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>scare away,</b> as one does birds, <span class='asgreek'>τοὺς</span> <span class='asgreek'>ῥήτορας</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 60, cf “V.” 460: \_metaphorically\_, ==ἀποσοβέω==ῆσαι τὸν γέλων [prev. author] “Ra.” 45; ἀ. ἁπὸ τῶν ὀφθαλμῶν τὰ λυποῦντα ">Refs 5th c.BC+</a>]<b>to keep off,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 5.6; ἀ. τινὰ ὁμιλίας 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.11d">Refs 5th c.BC+</a>]:—<i>middle</i>, <b>keep off from oneself,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 5.7">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be scared,</b> <span class='asgreek'>==ἀποσοβέω==ηθῆναι</span> <span class='asgreek'>ταῖς</span> <span class='asgreek'>διανοίαις</span>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 30.5.16. ">Refs 2nd c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>to be off in a hurry,</b> <span class='asgreek'>οὐκ</span> <span class='asgreek'>==ἀποσοβέω==ήσει</span>; i.e. <b>be off!</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 1032, 1258, compare 2nd c.AD: Lucianus Sophista “Nav.” 4; ==ἀποσοβέω==ῶμεν ">Refs 5th c.BC+</a>]<b>let's be off,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 997.">Refs 4th c.BC+</a>]

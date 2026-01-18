@@ -1,0 +1,33 @@
+**Genesis 23:16** 
+<small><sub>**KJV:**</sub></small>
+And Abraham hearkened unto Ephron; and Abraham weighed to Ephron the silver, which he had named in the audience of the sons of Heth, four hundred shekels of silver, current [money] with the merchant.
+<small><sub>**BSB:**</sub></small>
+Abraham agreed to Ephron’s terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the standard of the merchants.
+<small><sub>**Literal:**</sub></small>
+and  he listened Abraham to Ephron and  he weighed out Abraham for  Ephron \<obj.> the  money which he had spoken in  [the] ears of [the] people of Heth four hundred\<s> shekel[s] of silver passing along to the  trader<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.15|<< Genesis 23:15]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.17|Genesis 23:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he listened  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁמַ֣ע</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  | <span class="ashebrew"><big>אַבְרָהָם֮</big></span><small><sup>[[H0085]]</sup></small> &#8207;| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephron  | <span class="ashebrew"><big>עֶפְרוֹן֒</big></span><small><sup>[[H6085G]]</sup></small> &#8207;| 'ef.rOn<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he weighed out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁקֹ֤ל</big></span><small><sup>[[H8254]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Kol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abraham  | <span class="ashebrew"><big>אַבְרָהָם֙</big></span><small><sup>[[H0085]]</sup></small> &#8207;| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Ephron  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֶפְרֹ֔ן</big></span><small><sup>[[H6085G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ef.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the money  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֶּ֕סֶף</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had spoken  | <span class="ashebrew"><big>דִּבֶּ֖ר</big></span><small><sup>[[H1696I]]</sup></small> &#8207;| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] ears of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָזְנֵ֣י</big></span><small><sup>[[H0241H]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'a.ze.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Heth  | <span class="ashebrew"><big>חֵ֑ת</big></span><small><sup>[[H2845]]</sup></small> &#8207;| Chet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  | <span class="ashebrew"><big>אַרְבַּ֤ע</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.Ba'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵאוֹת֙</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shekel[s] of  | <span class="ashebrew"><big>שֶׁ֣קֶל</big></span><small><sup>[[H8255]]</sup></small> &#8207;| She.kel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  | <span class="ashebrew"><big>כֶּ֔סֶף</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| passing along  | <span class="ashebrew"><big>עֹבֵ֖ר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| 'o.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the trader  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>סֹּחֵֽר</big></span><small><sup>[[H5503]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> so.Cher<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.15|<< Genesis 23:15]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.17|Genesis 23:17 >>]]</td></tr></table>
+
+

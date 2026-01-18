@@ -1,0 +1,28 @@
+**Psalms 23:4** 
+<small><sub>**KJV:**</sub></small>
+Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou [art] with me; thy rod and thy staff they comfort me.
+<small><sub>**BSB:**</sub></small>
+Even though I walk through the valley of the shadow of death, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me.
+<small><sub>**Literal:**</sub></small>
+also for I will go in  a valley of deep darkness not I will fear harm for you [are] with  me rod  your and  staff  your they they comfort  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.23.3|<< Psalms 23:3]]</td><td align="center" style="border:none;">[[Ps.23|Psalms 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.23.5|Psalms 23:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| also  | <span class="ashebrew"><big>גַּ֤ם</big></span><small><sup>[[H1571]]</sup></small> &#8207;| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will go  | <span class="ashebrew"><big>אֵלֵ֨ךְ</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| 'e.Lekh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a valley of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גֵ֪יא</big></span><small><sup>[[H1516R]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Gei'<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deep darkness  | <span class="ashebrew"><big>צַלְמָ֡וֶת</big></span><small><sup>[[H6757]]</sup></small> &#8207;| tzal.Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will fear  | <span class="ashebrew"><big>אִ֘ירָ֤א</big></span><small><sup>[[H3372G]]</sup></small> &#8207;| 'i.Ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| harm  | <span class="ashebrew"><big>רָ֗ע</big></span><small><sup>[[H7451B]]</sup></small> &#8207;| Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתָּ֥ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] with me  | <span class="ashebrew"><big>עִמָּדִ֑</big></span><small><sup>[[H5978]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'i.ma.D<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rod your  | <span class="ashebrew"><big>שִׁבְטְ</big></span><small><sup>[[H7626G]]</sup></small> <span class="ashebrew"><big>ךָ֥</big></span><small><sup>[[H9021]]</sup></small> &#8207;| shiv.te.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and staff your  | <span class="ashebrew"><big>וּ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִשְׁעַנְתֶּ֗</big></span><small><sup>[[H4938B]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mish.'an.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֣מָּה</big></span><small><sup>[[H1992]]</sup></small> &#8207;| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they comfort me  | <span class="ashebrew"><big>יְנַֽחֲמֻֽ</big></span><small><sup>[[H5162G]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.Na.cha.Mu.<small><sup>[[HVpi3mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.23.3|<< Psalms 23:3]]</td><td align="center" style="border:none;">[[Ps.23|Psalms 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.23.5|Psalms 23:5 >>]]</td></tr></table>
+
+

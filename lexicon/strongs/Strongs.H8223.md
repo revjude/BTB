@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎שָׁפָם‎</span></big> **Shâphâm** <small>*(shaw-fawm')*</small> ==**Shapham**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>formed like <span class="ashebrew">‎שְׁפָם‎</span><sup><small>[[H8221]]</small></sup>; baldly</small>
+
+$\quad$ Shapham.
+- § Shapham = *"bold"*
+- ***Shapham***, an Israelite
+
+**1)** a subchief of the tribe of Gad in the land of Bashan

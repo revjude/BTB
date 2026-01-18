@@ -1,0 +1,9 @@
+<span class="asgreek">ποίκιλμα</span> <small>***(poikilma)***</small> ==**color**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==ποίκιλμα==</span>-<span class='asgreek'>ιλμα</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ <b>broidered stuff, brocade,</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Choephori” 1013; ὑφάσμασι καὶ π. 4th c.BC: Aristoteles Philosophus “Meteorologica” 375a23. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>embroidery,</b> <span class='asgreek'>ὃς</span> [<span class='asgreek'>πέπλος</span>] <span class='asgreek'>κάλλιστος</span> <span class='asgreek'>ἔην</span> <span class='asgreek'>ποικίλμασιν</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 6.294 ">Refs 8th c.BC+</a>]; <span class='asgreek'>ποικίλμασι</span> <span class='asgreek'>κεκόσμηται</span> [<span class='asgreek'>ἡ</span> <span class='asgreek'>οἰκία</span>] <b>with various ornaments,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Oec.” 9.2; ὁ πέπλος μεστὸς τῶν.. π. 5th-6th c.BC: Plato Philosophus “Euthyphro” 6c; τὰ π. καὶ τὰ ζωγραφήματα καὶ τὰ πλάσματα [prev. author] “Hp.Ma.” 298a ">Refs 5th c.BC+</a>]; of the stars in heaven, [<a href="javascript:void(0)" title=" [prev. author] “R.” 529c; οὐρανοῦ δέμας Χρόνου καλὸν π. 5th c.BC: Critias Philosophus, Tragicus, Elegiacus “fragment” 25.34D. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> generally, <b>variety, diversity,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 747a, “Ti.” 67a; τῶν ῥυθμῶν.. παντοδαπὰ π. προσαρμόττοντας τοῖσι φθόγγοις τῆς λύρας [prev. author] “Lg.” 812e; τὰ ἐν διαίτῃ π. 4th-3rd c.BC: Epicurus Philosophus “Gnomologium Vaticanum - Kleine Schriften” 69; τὸ παντοδαπὸν π. τῶν φαινομένων 1st c.BC: Philodemus Philosophus “περὶ σημείων καὶ σημειώσεων” 33. ">Refs 5th c.BC+</a>]

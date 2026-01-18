@@ -1,0 +1,27 @@
+**Ezekiel 42:7** 
+<small><sub>**KJV:**</sub></small>
+And the wall that [was] without over against the chambers, toward the utter court on the forepart of the chambers, the length thereof [was] fifty cubits.
+<small><sub>**BSB:**</sub></small>
+An outer wall in front of the chambers was fifty cubits long and ran parallel to the chambers and the outer court.
+<small><sub>**Literal:**</sub></small>
+and  [the] wall which [was] to the  outside \<to>  close to the  rooms [the] direction of the  courtyard \<the>  outer to [the] face of the  rooms length  its [was] fifty cubit[s]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.6|<< Ezekiel 42:6]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.8|Ezekiel 42:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] wall  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גָדֵ֤ר</big></span><small><sup>[[H1447]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ga.Der<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] to the outside  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חוּץ֙</big></span><small><sup>[[H2351]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Chutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> close to  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֻמַּ֣ת</big></span><small><sup>[[H5980]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'u.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the rooms  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לְּשָׁכ֔וֹת</big></span><small><sup>[[H3957]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> le.sha.Khot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] direction of  | <span class="ashebrew"><big>דֶּ֛רֶךְ</big></span><small><sup>[[H1870J]]</sup></small> &#8207;| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the courtyard  | <span class="ashebrew"><big>הֶ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חָצֵ֥ר</big></span><small><sup>[[H2691A]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> outer  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חִֽצוֹנָ֖ה</big></span><small><sup>[[H2435]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chi.tzo.Nah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  | <span class="ashebrew"><big>פְּנֵ֣י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the rooms  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לְּשָׁכ֑וֹת</big></span><small><sup>[[H3957]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> le.sha.Khot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| length its  | <span class="ashebrew"><big>אָרְכּ֖</big></span><small><sup>[[H0753]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.re.K<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] fifty  | <span class="ashebrew"><big>חֲמִשִּׁ֥ים</big></span><small><sup>[[H2572]]</sup></small> &#8207;| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubit[s]  | <span class="ashebrew"><big>אַמָּֽה</big></span><small><sup>[[H0520A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.6|<< Ezekiel 42:6]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.8|Ezekiel 42:8 >>]]</td></tr></table>
+
+

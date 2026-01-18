@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==τριπλάσιος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, 
+
+
+ <b>thrice as many, thrice as much, thrice as great as,</b> with <i>genitive</i>, <span class='asgreek'>ὄρνις</span> <span class='asgreek'>τ</span>. <span class='asgreek'>Κλεωνύμου</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 88, etc.; τριπλασίᾳ τῆς πρώτης ζημίας 5th-6th c.BC: Plato Philosophus “Leges” 756d; τριπλασίοις αὑτῶν [prev. author] “R.” 422c; τριπλασίας τιμῆς ἢ πρότερον 4th c.BC: Demosthenes Orator 42.31: \_absolutely\_, τ. δύναμιν εἶχε (i.e. τῆς προτέρας) 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.4.21; τ. διαστήματα 5th-6th c.BC: Plato Philosophus “Timaeus” 36a ">Refs 5th c.BC+</a>]; <span class='asgreek'>τριπλάσιον</span>, opposed to <span class='asgreek'>τριτημόριον</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Metaphysica” 1020b27. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>neuter</i> as <i>adverb</i>, <span class='asgreek'>τριπλάσιον</span> <span class='asgreek'>κεκράξομαί</span> <span class='asgreek'>σου</span> <b>thrice as much as</b> you, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 285 (Lyric poetry), compare 718:">Refs 5th c.BC+</a>] — regular  <i>adverb</i> -<span class='asgreek'>ίως</span>[<a href="javascript:void(0)" title=" Scholia B 8th c.BC: Ilias Homerus Epicus “Illiad” 21.80, see reading in LXX.Sir.43.4. ">LXX+8th c.BC+</a>]

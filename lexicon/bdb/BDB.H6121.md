@@ -1,0 +1,19 @@
+ I. <span class="bdbLangHebrew">‎עָקֹב‎</span> **adjective** 
+
+**1.** ==insidious, deceitful==, [[Jer.17.9|Jer 17:9]] <span class="bdbLangHebrew">‎עָקֹב הַלֵּב מִכֹּל‎</span>. 
+
+**2.** ==foot-tracked== (denominative from I. <span class="bdbLangHebrew">‎עָקֵב‎</span>) [[Hos.6.8|Hos 6:8]] <span class="bdbLangHebrew">‎גִּלְעָד קִרְיַת פֹּעֲלֵי אָוֶן עֲֹקֻבָּה מִדָּם‎</span>. 
+
+
+
+ II. <span class="bdbLangHebrew">‎עָקֹב‎</span> **adjective** ==steep, hilly== (see √; compare <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIAATAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAgABMABwjSAP8JHEiwoMGDCBMqXMiw4cJ1xRa2UlewncJiAADMEAgOkrSBfTLuEGhqBgAbCStNmSZPYEYAOASKyjgQWEY5Avnp5FfQZoN/2AA4HLiT58Byjv7pQrjnJcKiBOWhgJJlKFCiUIdmbCZwX4CM9XJm/acMgCmEk/DAEypOKEY1BXUOPAcATcIgOPr8KxYg4c5/XpwKdESznaeMQFy+FErwb4wSIAAgWLwY1T8AgC5nHFErrtx7ADqPkUURIYh1Cv8ipGn1n+rWqYsahW1Q9mzaBAMCADs="> ***difficult mountain path***, Qor 90:11 <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIwAWAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAjABYABwj/AP8JHEiwoMGDCBMqXMiwocOHECP+o3ftm8SD367JIwgHAABfB/fta6hOkEcb7QZ2i0AhJUF6pp4IMbUw2QYAXywA0PQPnC8xAD5cshVP4LkQALhEAKBKISKc/x4BoDTsAIcnAsiEAVBJoNRT/+gAYPXvG7iDkACI+VeJwydJMLR9EvBqVwZK7eTtAZDqn5cLw3gBcHFwEYA4/zpxCYboh7E1OLbZsbCGAQ6lfc3wLVfEz0FFADwDAvBIFAoyMQCkmFEJGgePKWj9SwOAlMKOgP5pASAbWqUeLs7+S3eWEwAq8tYAuPVPkiSD/rIAaLILRpGB5zaY8FfQkMdPXwCYNdIGAMdBcTM8KiJoCsAFaQUrAWCi7gwAOLxc9OB30J4hZwhxd9GABBZo4IEIXiRgggbdI1FAADs="> ***hill***); — [[Isa.40.4|Isa 40:4]] <span class="bdbLangHebrew">‎והיה הֶעָקֹב לְמִישׁוֺר‎</span> let the ***steep ground*** (Chronicles) become a plain (\|\| <span class="bdbLangHebrew">‎הָֽרְכָסִים‎</span>). compare [[Eccl.6.20|Eccl 6:20]]. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ecclesiastes | [[Eccl.6.20\|6:20]] |
+| Isaiah | [[Isa.40.4\|40:4]] |
+| Jeremiah | [[Jer.17.9\|17:9]] |
+| Hosea | [[Hos.6.8\|6:8]] |
+

@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎שַׂלְמַי‎</span></big> **Salmay** <small>*(sal-mah'-ee)*</small> ==**Shalmai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from <span class="ashebrew">‎שַׂלְמָה‎</span><sup><small>[[H8008]]</small></sup>; clothed</small>
+
+$\quad$ Shalmai.
+- § Shalmai or Salmai or Shamlai = *"my thanks"*
+- ***Salmai***, an Israelite
+
+**1)** ancestor of a family of temple slaves who returned from exile with Zerubbabel

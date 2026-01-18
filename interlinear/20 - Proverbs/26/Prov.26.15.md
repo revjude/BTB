@@ -1,0 +1,21 @@
+**Proverbs 26:15** 
+<small><sub>**KJV:**</sub></small>
+The slothful hideth his hand in [his] bosom; it grieveth him to bring it again to his mouth.
+<small><sub>**BSB:**</sub></small>
+The slacker buries his hand in the dish; it wearies him to bring it back to his mouth.
+<small><sub>**Literal:**</sub></small>
+he hides a sluggard hand  his in the  dish he is weary to  bring back  it to mouth  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.14|<< Proverbs 26:14]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.16|Proverbs 26:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| he hides  | <span class="ashebrew"><big>טָ֘מַ֤ן</big></span><small><sup>[[H2934]]</sup></small> &#8207;| ta.Man<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sluggard  | <span class="ashebrew"><big>עָצֵ֣ל</big></span><small><sup>[[H6102]]</sup></small> &#8207;| 'a.Tzel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  | <span class="ashebrew"><big>יָ֭ד</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ya.d<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the dish  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צַּלָּ֑חַת</big></span><small><sup>[[H6747]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> tza.La.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he is weary  | <span class="ashebrew"><big>נִ֝לְאָ֗ה</big></span><small><sup>[[H3811]]</sup></small> &#8207;| nil.'Ah<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to bring back it  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֲשִׁיבָ֥</big></span><small><sup>[[H7725G]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> ha.shi.Va<small><sup>[[HVhcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth his  | <span class="ashebrew"><big>פִּֽי</big></span><small><sup>[[H6310G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Pi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.14|<< Proverbs 26:14]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.16|Proverbs 26:16 >>]]</td></tr></table>
+
+

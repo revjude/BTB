@@ -1,0 +1,26 @@
+**Isaiah 2:6** 
+<small><sub>**KJV:**</sub></small>
+Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and [are] soothsayers like the Philistines, and they please themselves in the children of strangers.
+<small><sub>**BSB:**</sub></small>
+For You have abandoned Your people, the house of Jacob, because they are filled with influences from the east; they are soothsayers like the Philistines; they strike hands with the children of foreigners.
+<small><sub>**Literal:**</sub></small>
+for you have abandoned people  your [the] house of Jacob for they are full from  [the] east and  soothsayers like the  Philistines and  with  [the] children of foreigners they clap hands<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.5|<< Isaiah 2:5]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.7|Isaiah 2:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have abandoned  | <span class="ashebrew"><big>נָטַ֗שְׁתָּה</big></span><small><sup>[[H5203]]</sup></small> &#8207;| na.Tash.tah<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people your  | <span class="ashebrew"><big>עַמְּ</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֔ב</big></span><small><sup>[[H3290]]</sup></small> &#8207;| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are full  | <span class="ashebrew"><big>מָלְאוּ֙</big></span><small><sup>[[H4390]]</sup></small> &#8207;| mal.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] east  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>קֶּ֔דֶם</big></span><small><sup>[[H6924G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and soothsayers  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֹֽנְנִ֖ים</big></span><small><sup>[[H6049B]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'o.ne.Nim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like the Philistines  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>פְּלִשְׁתִּ֑ים</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and with [the] children of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יַלְדֵ֥י</big></span><small><sup>[[H3206]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> yal.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foreigners  | <span class="ashebrew"><big>נָכְרִ֖ים</big></span><small><sup>[[H5237]]</sup></small> &#8207;| na.khe.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they clap hands  | <span class="ashebrew"><big>יַשְׂפִּֽיקוּ</big></span><small><sup>[[H5606A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yas.Pi.ku<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.5|<< Isaiah 2:5]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.7|Isaiah 2:7 >>]]</td></tr></table>
+
+

@@ -1,0 +1,9 @@
+<span class="asgreek">ἀκόλαστος</span> <small>***(akolastos)***</small> ==**unrestrained**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀκόλαστος==</span>-<span class='asgreek'>τος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>undisciplined, unbridled</b>, <span class='asgreek'>δῆμος</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.81; ὄχλος 5th c.BC: Euripides Tragicus “Hecuba” 607; στράτευμα 5th-6th c.BC: Xenophon Historicus “Anabasis” 2.6.10, compare 5th-6th c.BC: Aristophanes Comicus “Nubes” 1348, 5th-6th c.BC: Plato Philosophus “Protagoras” 341e, etc. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> especially <b>incontinent, licentious</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 744">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>σώφρων</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Gorgias” 507c, 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1117b32, +others; περί τι [prev. author] “HA” 572a12; πρός τι 582a26">Refs 5th c.BC+</a>]. <i>adverb</i> <span class='asgreek'>ἀκολάστως</span>, <span class='asgreek'>ἔχειν</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Gorgias” 493c">Refs 5th c.BC+</a>]: <i>comparative</i> -<span class='asgreek'>οτέρως</span>, <span class='asgreek'>ἔχεινπρός</span> <span class='asgreek'>τι</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.1.1, compare 4th c.BC: Aeneas Tacticus 26.2, uncertain in 2nd c.AD: Vettius Valens Astrologus 153.32, 271.12 (to be read ἀκοπιάστως). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>unpunished</b>, with <i>genitive</i>, [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Ἰλλυρική” 17.">Refs 2nd c.AD+</a>]

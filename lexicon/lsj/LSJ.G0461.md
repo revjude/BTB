@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==ἀνορθόω==</span></b>, 
+
+
+ <i>aorist</i> <span class='asgreek'>ἀνώρθωσα</span> E [<a href="javascript:void(0)" title="Alcaeus1138, 5th-6th c.BC: Isocrates Orator 5.64, etc.: ">Refs 5th c.BC+</a>]<i>pluperfect</i> with double augment <span class='asgreek'>ἠνωρθώκει</span> variant in [<a href="javascript:void(0)" title=" 4th c.AD: Libanius Sophista “Epistulae” 1039: the double augment is common in the \_compound\_ ἐπανορθόω">Refs 4th c.AD+</a>]:— <b>set up again, restore, rebuild,</b> <span class='asgreek'>τὸν</span> <span class='asgreek'>νηόν</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.19; τὸ τεῖχος 7.208; τὸ στρατόπεδον 5th c.BC: Thucydides Historicus 6.88, etc.; τὸ σῶμά τινος 5th c.BC: Euripides Tragicus “Bacchae” 364:">Refs 5th c.BC+</a>] —<i>middle</i>, <span class='asgreek'>ἀνορθοῦσθαι</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>πίπτοντα</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>οἰκοδομημάτων</span> <b>have</b> them <b>rebuilt,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1322b20. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>restore to health</b> or <b>well being.</b> <span class='asgreek'>πόλιν</span>[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 46: τινά 5th-6th c.BC: Plato Philosophus “Leges” 919d. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>set straight again, set right, correct,</b> <span class='asgreek'>τινά</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Supplices” 1228; τὰ ἀλλότρια κακά 5th-6th c.BC: Plato Philosophus “Respublica” 346e.">Refs 5th c.BC+</a>]

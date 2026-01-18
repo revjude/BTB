@@ -1,0 +1,26 @@
+**Esther 1:1** 
+<small><sub>**KJV:**</sub></small>
+Now it came to pass in the days of Ahasuerus, (this [is] Ahasuerus which reigned, from India even unto Ethiopia, [over] an hundred and seven and twenty provinces:)
+<small><sub>**BSB:**</sub></small>
+This is what happened in the days of Xerxes, who reigned over 127 provinces from India to Cush.
+<small><sub>**Literal:**</sub></small>
+and  it was in  [the] days of Ahasuerus that Ahasuerus who  reigned from  India and  to Cush seven and  twenty and  one hundred province[s]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.31|<< Nehemiah 13:31]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.2|Esther 1:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִ֖י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] days of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ימֵ֣י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahasuerus  | <span class="ashebrew"><big>אֲחַשְׁוֵר֑וֹשׁ</big></span><small><sup>[[H0325]]</sup></small> &#8207;| 'a.chash.ve.Ro.osh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>ה֣וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahasuerus  | <span class="ashebrew"><big>אֲחַשְׁוֵר֗וֹשׁ</big></span><small><sup>[[H0325]]</sup></small> &#8207;| 'a.chash.ve.Ro.osh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who reigned  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֹּלֵךְ֙</big></span><small><sup>[[H4427A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mo.leKh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from India  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>הֹ֣דּוּ</big></span><small><sup>[[H1912]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> Ho.du<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Cush  | <span class="ashebrew"><big>כּ֔וּשׁ</big></span><small><sup>[[H3568A]]</sup></small> &#8207;| Kush<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שֶׁ֛בַע</big></span><small><sup>[[H7651]]</sup></small> &#8207;| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and twenty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֶשְׂרִ֥ים</big></span><small><sup>[[H6242]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and one hundred  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֵאָ֖ה</big></span><small><sup>[[H3967]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.'Ah<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| province[s]  | <span class="ashebrew"><big>מְדִינָֽה</big></span><small><sup>[[H4082]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.di.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.31|<< Nehemiah 13:31]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.2|Esther 1:2 >>]]</td></tr></table>
+
+

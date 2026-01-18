@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==ἐπικαθίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <b>set upon</b>, <span class='asgreek'>τινὰ</span> <span class='asgreek'>ἐπί</span> <span class='asgreek'>τι</span> 5th c.BC: Hippocrates Medicus “Art.” 78: <i>absolutely</i>, (i.e. <span class='asgreek'>κλίμακι</span>)[<a href="javascript:void(0)" title=" [prev. passage]">Refs</a>]; <span class='asgreek'>τινὰ</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>ἅρματι</span> Vetus Testamentum Graece redditum <b>4 Ki..</b>10.16; <span class='asgreek'>ἐν</span> <span class='asgreek'>ὅπλοις</span> <span class='asgreek'>ἀφανῶς</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τὸ</span> <span class='asgreek'>στρατιωτικόν</span> 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 18.3.1:—<i>middle</i>, <span class='asgreek'>φυλακὴν</span> <span class='asgreek'>ἐπεκαθίσαντο</span> <b>had</b> a guard <b>set</b>, [<a href="javascript:void(0)" title=" Th. 4.130 (==ἐπικαθίζω==ίσταντο Poppo). ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b>. Intr., <b>sit upon</b>, <span class='asgreek'>πειθώ</span> <span class='asgreek'>τις</span> <span class='asgreek'>ἐπεκάθιζεν</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>χείλεσι</span> 5th c.BC: Eupolis Comicus 94.5; <span class='asgreek'>τοῖς</span> <span class='asgreek'>καρχησίοις</span> <span class='asgreek'>ἐ</span>. <b>light upon</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Them.” 12, cf. Thphr. “CP” 6.10.5. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b>. <b>sit</b> <b>down against, besiege</b>, <span class='asgreek'>πόλει</span> 2nd c.BC: Polybius Historicus 4.61.6.

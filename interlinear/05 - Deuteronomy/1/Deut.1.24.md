@@ -1,0 +1,22 @@
+**Deuteronomy 1:24** 
+<small><sub>**KJV:**</sub></small>
+And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out.
+<small><sub>**BSB:**</sub></small>
+They left and went up into the hill country, and came to the Valley of Eshcol and spied out the land.
+<small><sub>**Literal:**</sub></small>
+and  they turned and  they went up the  hill country  towards and  they came to [the] wadi of Eshcol and  they spied out \<obj.>  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.23|<< Deuteronomy 1:23]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.25|Deuteronomy 1:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they turned  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּפְנוּ֙</big></span><small><sup>[[H6437G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yif.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they went up  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעֲל֣וּ</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the hill country towards  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הָ֔רָ</big></span><small><sup>[[H2022H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ha.ra<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they came  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבֹ֖אוּ</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wadi of  | <span class="ashebrew"><big>נַ֣חַל</big></span><small><sup>[[H5158H]]</sup></small> &#8207;| Na.chal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eshcol  | <span class="ashebrew"><big>אֶשְׁכֹּ֑ל</big></span><small><sup>[[H0812H]]</sup></small> &#8207;| 'esh.Kol<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they spied out  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְרַגְּל֖וּ</big></span><small><sup>[[H7270]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.ra.ge.Lu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹתָֽ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.23|<< Deuteronomy 1:23]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.25|Deuteronomy 1:25 >>]]</td></tr></table>
+
+

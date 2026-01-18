@@ -1,0 +1,12 @@
+<span class="asgreek">ἁπλόω</span> <small>***(haploō)***</small> ==**to simplify**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἁπλόω==</span></b>, 
+
+
+ (<span class='asgreek'>ἁπλοῦς</span>) <b>make single, unfold, spread out,</b> <span class='asgreek'>οὐρήν</span>[<a href="javascript:void(0)" title=" Batrachomyomachia 74 (variant), compare 80; σῶμα “Anthologia Graeca” 11.107 (1st c.AD: Lucillius Epigrammaticus); ἱστία 5th-6th c.AD: Orphica “Argonautica” 360, etc.; σαγήνην 4th c.AD: Alciphro Epistolographus 3.3; φάλαγγα 2nd c.AD: Pausanias Periegeta 4.11.2; δακτύλους 2nd c.AD: Soranus Medicus 1.73">Refs 1st c.AD+</a>]; <span class='asgreek'>ἁ</span>. <span class='asgreek'>τὸν</span> <span class='asgreek'>ἄργυρον</span> <b>beat</b> it <b>thin,</b> [<a href="javascript:void(0)" title=" Anacreont. 4.5">Refs</a>]; <b>expose</b> a wound, [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 111 “Pr.”:">Refs 6th c.AD+</a>] —<i>passive</i>, <span class='asgreek'>ἀγρευθεὶς</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>πλοῖον</span> <span class='asgreek'>ἡπλώθη</span> [the fish] <b>lay stretched out..,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Babrius Fabularum Scriptor 4.5">Refs 2nd c.AD+</a>]; <span class='asgreek'>ἀσπάραγος</span> <span class='asgreek'>χαίρει</span> <span class='asgreek'>γῇ</span> <span class='asgreek'>ἡπλωμένῃ</span> <b>open</b> ground, [<a href="javascript:void(0)" title=" “Geoponica” 12.18.1; ἁπλωθέντων ἱστίων 4th c.AD: Libanius Sophista “Orationes” 11.264">Refs 4th c.AD+</a>]:—<i>middle</i>, [<a href="javascript:void(0)" title="“Anthologia Graeca” 10.9, 5th-6th c.AD: Orphica “Argonautica” 278, 2nd c.AD: Dionysius Periegeta 235. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'>ἅπλωσον</span> <span class='asgreek'>σεαυτόν</span> <b>be simple,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Marcus Antoninus Imperator 4.26">Refs 2nd c.AD+</a>]:—<i>passive</i>, <b>to be simplified,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 6.7.35">Refs 3rd c.AD+</a>]; but, <b>to be expanded,</b> [<a href="javascript:void(0)" title=" [prev. author] 3.5.9 (perhaps ἐξαπλ-). ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>make plain,</b> <span class='asgreek'>ὁδόν</span>[<a href="javascript:void(0)" title=" LXX.Job.22.3.">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[Job.22.3]]
+</sub></small>

@@ -1,0 +1,9 @@
+<span class="asgreek">διαβοάω</span> <small>***(diaboaō)***</small> ==**to proclaim forth**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==διαβοάω==</span>-<span class='asgreek'>άω</span></b>, 
+
+
+ late <i>future</i> <b>-<span class='asgreek'>βοήσω</span></b>[<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 2.2.2 ">Refs 2nd c.AD+</a>]:—<b>proclaim, publish,</b> <i>aorist</i> <i>subjunctive</i> <b>-<span class='asgreek'>βοάσω</span></b>[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 638 (Lyric poetry)">Refs 4th c.BC+</a>]: with <i>accusative</i> et <i>infinitive</i>, <span class='asgreek'>ἐκεῖσε</span> <span class='asgreek'>χωρεῖν</span> <span class='asgreek'>τινὰς</span> <span class='asgreek'>διεβοήσαν</span> [<a href="javascript:void(0)" title=" 1st c.AD: Cornutus Philosophus “de Natura Deorum” 35 ">Refs 1st c.AD+</a>]:—<i>passive</i>, <b>to be the common talk,</b> <span class='asgreek'>ταῦτα</span> <span class='asgreek'>δὴ</span> <span class='asgreek'>διαβεβόηται</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Epistulae” 312b ">Refs 5th c.BC+</a>]; <b>to be celebrated,</b> of persons or things, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Solon” 11, “Them.” 3; πρός τινα [prev. author] “Per.” 9; ἐπί τινι 2nd c.AD: Lucianus Sophista “Nec.” 6, 2nd c.AD(?): Antoninus Liberalis Mythographus 12.4. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>cry aloud,</b> <span class='asgreek'>δ</span>. <span class='asgreek'>ὡς</span>.. [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.53, 78: \_absolutely\_, 2nd c.AD: Lucianus Sophista “Am.” 17. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, <b>contend in shouting,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 26.19. ">Refs 4th c.BC+</a>]

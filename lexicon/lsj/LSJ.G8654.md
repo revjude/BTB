@@ -1,0 +1,9 @@
+<span class="asgreek">παροδεύω</span> <small>***(parodeuō)***</small> ==**to travel by**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==παροδεύω==</span>-<span class='asgreek'>εύω</span></b>, 
+
+
+ <b>pass by</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 23.47, “Anthologia Graeca” 9.341 (Glaucus Atheniensis Epigrammaticus)">Refs 3rd c.BC+</a>], etc.; of flowing water, [<a href="javascript:void(0)" title=" 2nd c.AD: Polyaenus Historicus 3.9.61 ">Refs 2nd c.AD+</a>]; of the ureter, [<a href="javascript:void(0)" title=" 2nd c.AD: Archigenes Medicus and 3rd-4th c.AD: Philagrius Medicus cited in 6th c.AD: Aëtius Medicus 11.4; διὰ τῶν καιρῶν ὁ χρόνος ==παροδεύω==εύει 3rd c.AD: Porphyrius Tyrius Philosophus cited in 4th c.AD: Eusebius Caesariensis Scriptor Ecclesiasticus “Praeparatio Evangelica” 3.11. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i>, <b>pass by</b> or <b>through</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 32.27, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.973d, 2nd-3rd c.AD: Hermes Trismegistus cited in 5th c.AD: Stobaeus, Joannes 1.49.44, 2nd c.AD: Lucianus Sophista “Nigr.” 36, “IG” 14.881 (from Sinuessa)">Refs 1st c.BC+</a>]: Astron., <b>pass through</b> or <b>across</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.67oc, 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 109; τὰ αὐτοῦ ὅρια Vett. Val. 145.9 ">Refs 1st c.AD+</a>]:—<i>passive</i>, <b>to be passed by</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 5.10.2, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.759f. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>pass, spend</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>βίον</span> [<a href="javascript:void(0)" title=" “BCH” 27.261 (from Argos). ">Refs</a>]

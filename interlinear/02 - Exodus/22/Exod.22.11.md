@@ -1,0 +1,28 @@
+**Exodus 22:11** (22:10)
+<small><sub>**KJV:**</sub></small>
+[Then] shall an oath of the LORD be between them both, that he hath not put his hand unto his neighbour’s goods; and the owner of it shall accept [thereof], and he shall not make [it] good.
+<small><sub>**BSB:**</sub></small>
+an oath before the LORD shall be made between the parties to determine whether or not the man has taken his neighbor’s property. The owner must accept the oath and require no restitution.
+<small><sub>**Literal:**</sub></small>
+[the] oath of Yahweh it will be between [the] two of  them if not he had stretched out hand  his on  [the] property of neighbor  his and  he will accept [it] owner\<s>  its and  not he will make compensation<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.10|<< Exodus 22:10]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.12|Exodus 22:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] oath of  | <span class="ashebrew"><big>שְׁבֻעַ֣ת</big></span><small><sup>[[H7621]]</sup></small> &#8207;| she.vu.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  | <span class="ashebrew"><big>תִּהְיֶה֙</big></span><small><sup>[[H1961]]</sup></small> &#8207;| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  | <span class="ashebrew"><big>בֵּ֣ין</big></span><small><sup>[[H0996G]]</sup></small> &#8207;| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two of them  | <span class="ashebrew"><big>שְׁנֵי</big></span><small><sup>[[H8147]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| she.nei.<small><sup>[[HAcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had stretched out  | <span class="ashebrew"><big>שָׁלַ֛ח</big></span><small><sup>[[H7971K]]</sup></small> &#8207;| sha.Lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  | <span class="ashebrew"><big>יָד֖</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] property of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְלֶ֣אכֶת</big></span><small><sup>[[H4399]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> m.Le.khet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neighbor his  | <span class="ashebrew"><big>רֵעֵ֑</big></span><small><sup>[[H7453]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will accept [it]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>לָקַ֥ח</big></span><small><sup>[[H3947H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> la.Kach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| owner\<s> its  | <span class="ashebrew"><big>בְּעָלָ֖י</big></span><small><sup>[[H1167G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.'a.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will make compensation  | <span class="ashebrew"><big>יְשַׁלֵּֽם</big></span><small><sup>[[H7999A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.sha.Lem<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.10|<< Exodus 22:10]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.12|Exodus 22:12 >>]]</td></tr></table>
+
+

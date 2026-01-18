@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==λύπη==</span>-<span class='asgreek'>η</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>pain of body</b>, opposed to <span class='asgreek'>ἡδονή</span>, [<a href="javascript:void(0)" title=" [prev. author] “Phlb.” 31c, etc.">Refs</a>]; also, <b>sad plight</b> or <b>condition</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.152. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>pain of mind, grief</b>,[<a href="javascript:void(0)" title=" [prev. work] 16. ; δῆγμα δὲ λύπης οὐδὲν ἐφ᾽ ἧπαρ προσικνεῖται 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 791 (\_anapaest meter\_)">Refs 4th c.BC+</a>]; <span class='asgreek'>τί</span> <span class='asgreek'>γὰρ</span> <span class='asgreek'>καλὸν</span> <span class='asgreek'>ζῆν</span> <span class='asgreek'>βίοτον</span>, <span class='asgreek'>ὃς</span> <span class='asgreek'>λύπας</span> <span class='asgreek'>φέρε</span>; [<a href="javascript:void(0)" title=" [prev. author] “fragment” 177, compare 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1217 (Lyric poetry), etc.; ἐρωτικὴ λ. 5th c.BC: Thucydides Historicus 6.59; λύπας προσβάλλειν 5th c.BC: Antipho Orator 2. 2.2; λ. φέρειν τινί 5th-6th c.BC: Andocides Orator 2.8 ">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>χαρά</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 7.1.32. ">Refs 5th c.BC+</a>]

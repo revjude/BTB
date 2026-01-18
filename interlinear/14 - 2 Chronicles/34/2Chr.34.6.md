@@ -1,0 +1,28 @@
+**2 Chronicles 34:6** 
+<small><sub>**KJV:**</sub></small>
+And [so did he] in the cities of Manasseh, and Ephraim, and Simeon, even unto Naphtali, with their mattocks round about.
+<small><sub>**BSB:**</sub></small>
+Josiah did the same in the cities of Manasseh, Ephraim, and Simeon, as far as Naphtali, and in the ruins around them.
+<small><sub>**Literal:**</sub></small>
+and  in  [the] cities of Manasseh and  Ephraim and  Simeon and  to Naphtali [ ] with  swords  their all around<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.5|<< 2 Chronicles 34:5]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.7|2 Chronicles 34:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and in [the] cities of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עָרֵ֨י</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Manasseh  | <span class="ashebrew"><big>מְנַשֶּׁ֧ה</big></span><small><sup>[[H4519G]]</sup></small> &#8207;| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ephraim  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶפְרַ֛יִם</big></span><small><sup>[[H0669G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Simeon  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שִׁמְע֖וֹן</big></span><small><sup>[[H8095G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> shim.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Naphtali  | <span class="ashebrew"><big>נַפְתָּלִ֑י</big></span><small><sup>[[H5321G]]</sup></small> &#8207;| naf.ta.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [ ]  [^1] | <span class="ashebrew"><big></big></span><small><sup>[[]]</sup></small> &#8207;[^2] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| with swords their  [^5] | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חַרְבֹתֵי</big></span><small><sup>[[H2719]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;[^6] | be.<small><sup>[[HR]]</sup></small> char.bo.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| all around  | <span class="ashebrew"><big>סָבִֽיב</big></span><small><sup>[[H5439G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.5|<< 2 Chronicles 34:5]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.7|2 Chronicles 34:7 >>]]</td></tr></table>
+
+[^1]: ==K==: **in [the] hill country of ** | <small><sup>[[H2022G]]</sup></small><span class="ashebrew"><big>הַר</big></span> <small><sup>[[H9003]]</sup></small><span class="ashebrew"><big>בְּ</big></span>  | be.<small><sup>[[HR]]</sup></small> har<small><sup>[[HNcbsc]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>בְּהַרְ</big></span>**
+[^3]: ==K==: **houses their ** | <small><sup>[[H9028]]</sup></small><span class="ashebrew"><big>הֶם</big></span> <small><sup>[[H1004B]]</sup></small><span class="ashebrew"><big>בָּתֵּי</big></span>  | ba.tei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
+[^4]: ==K==: **houses their ** | <small><sup>[[H9028]]</sup></small><span class="ashebrew"><big>הֶם</big></span> <small><sup>[[H1004B]]</sup></small><span class="ashebrew"><big>בָּתֵּי</big></span>  | ba.tei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
+[^5]: ==K==: **houses their ** | <small><sup>[[H9028]]</sup></small><span class="ashebrew"><big>הֶם</big></span> <small><sup>[[H1004B]]</sup></small><span class="ashebrew"><big>בָּתֵּי</big></span>  | ba.tei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
+[^6]: ==L== spelled: **<span class="ashebrew"><big>בֹתֵיהֶ֖ם</big></span>**
+

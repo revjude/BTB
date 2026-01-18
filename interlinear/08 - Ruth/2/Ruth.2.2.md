@@ -1,0 +1,34 @@
+**Ruth 2:2** 
+<small><sub>**KJV:**</sub></small>
+And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after [him] in whose sight I shall find grace. And she said unto her, Go, my daughter.
+<small><sub>**BSB:**</sub></small>
+And Ruth the Moabitess said to Naomi, “Please let me go into the fields and glean heads of grain after someone in whose sight I may find favor.” “Go ahead, my daughter,” Naomi replied.
+<small><sub>**Literal:**</sub></small>
+and  she said Ruth the  Moabite [woman] to Naomi let me go please the  field so  I may glean among the  ears of grain behind [the one] whom I will find favor in  view  his and  she said to \<the>  her go O daughter  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.1|<< Ruth 2:1]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.3|Ruth 2:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּאמֶר֩</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> to.Mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ruth  | <span class="ashebrew"><big>ר֨וּת</big></span><small><sup>[[H7327]]</sup></small> &#8207;| rut<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Moabite [woman]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מּוֹאֲבִיָּ֜ה</big></span><small><sup>[[H4125]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mo.'a.vi.Yah<small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶֽל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Naomi  | <span class="ashebrew"><big>נָעֳמִ֗י</big></span><small><sup>[[H5281]]</sup></small> &#8207;| no.'o.Mi<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let me go  | <span class="ashebrew"><big>אֵֽלְכָה</big></span><small><sup>[[H1980G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'e.le.khah-<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָּ֤א</big></span><small><sup>[[H4994]]</sup></small> &#8207;| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׂדֶה֙</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so I may glean  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲלַקֳטָּ֣ה</big></span><small><sup>[[H3950]]</sup></small> &#8207;[^1] | va.<small><sup>[[HC]]</sup></small> 'a.la.ko.Tah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad (Allepo BenChayim + Biblia)">L(ah+b)</abbr> |
+| among the ears of grain  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שִׁבֳּלִ֔ים</big></span><small><sup>[[H7641B]]</sup></small> &#8207;[^2] | va.<small><sup>[[HRd]]</sup></small> shi.bo.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
+| behind  | <span class="ashebrew"><big>אַחַ֕ר</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the one] whom  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will find  | <span class="ashebrew"><big>אֶמְצָא</big></span><small><sup>[[H4672]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'em.tza'-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| favor  | <span class="ashebrew"><big>חֵ֖ן</big></span><small><sup>[[H2580]]</sup></small> &#8207;| chen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in view his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵינָ֑י</big></span><small><sup>[[H5869H]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּ֥אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> her  | <span class="ashebrew"><big>לָ֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  | <span class="ashebrew"><big>לְכִ֥י</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| le.Khi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughter my  | <span class="ashebrew"><big>בִתִּֽ</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| vi.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.1|<< Ruth 2:1]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.3|Ruth 2:3 >>]]</td></tr></table>
+
+[^1]: ==AH== spelled: **<span class="ashebrew"><big>וַאֲלַקֳטָ֣ה</big></span>**
+[^2]: ==ABH== spelled: **<span class="ashebrew"><big>בַשִּׁבֳּלִ֔ים</big></span>**
+

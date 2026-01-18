@@ -1,0 +1,10 @@
+<span class="asgreek">νεῦμα</span> <small>***(neuma)***</small> ==**a beckon**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==νεῦμα==</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>νεύω</span>) <b>nod, sign,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.134 ">Refs 5th c.BC+</a>]; <span class='asgreek'>νεύματος</span> <span class='asgreek'>ἕνεκα</span> <span class='asgreek'>χαλεπαίνειν</span> for <b>a mere nod,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 5.8.20; ν. χειρός 1st c.AD: Onosander (Onasander) Tacticus 26.1. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>expression of will, command,</b> <span class='asgreek'>μονοψήφοισι</span> <span class='asgreek'>νεύμασι</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 373 (Lyric poetry); ἀπὸ νεύματος προστάττειν τινί 2nd c.BC: Polybius Historicus 21.38.4 ">Refs 4th c.BC+</a>]; <b>approval, sanction,</b> <span class='asgreek'>ἀετὸς</span> <span class='asgreek'>φέρων</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>Διὸς</span> <span class='asgreek'>ταῖς</span> <span class='asgreek'>εὐχαῖς</span> <span class='asgreek'>ν</span>. [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Heroicus” 12a. 1, compare “IG” 3.636">Refs 2nd c.AD+</a>]; <b>control,</b> <span class='asgreek'>ὑποτάττειν</span> <span class='asgreek'>Παλαιστίνην</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>ν</span>. <span class='asgreek'>τινός</span> Chor.p.28B. 
+$\quad$ $\quad$<b>\_\_II</b> <b>quarter of the heavens,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Dionysius Periegeta 517. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> generally, <b>direction,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD: Oribasius Medicus 49.4.39, “PMag.Par.” 1.178. ">Refs 1st c.AD+</a>]

@@ -1,0 +1,23 @@
+**Deuteronomy 19:13** 
+<small><sub>**KJV:**</sub></small>
+Thine eye shall not pity him, but thou shalt put away [the guilt of] innocent blood from Israel, that it may go well with thee.
+<small><sub>**BSB:**</sub></small>
+You must show him no pity. You are to purge from Israel the guilt of shedding innocent blood, that it may go well with you.
+<small><sub>**Literal:**</sub></small>
+not it will look with pity eye  your on  him and  you will remove [the] blood of the  innocent [person] from  Israel and  it will be good to \<the>  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.12|<< Deuteronomy 19:12]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.14|Deuteronomy 19:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will look with pity  | <span class="ashebrew"><big>תָח֥וֹס</big></span><small><sup>[[H2347]]</sup></small> &#8207;| ta.Chos<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye your  | <span class="ashebrew"><big>עֵֽינְ</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'ei.ne.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on him  | <span class="ashebrew"><big>עָלָ֑י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will remove  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>בִֽעַרְתָּ֧</big></span><small><sup>[[H1197I]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> vi.'ar.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] blood of  | <span class="ashebrew"><big>דַֽם</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| dam-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the innocent [person]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נָּקִ֛י</big></span><small><sup>[[H5355A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> na.Ki<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Israel  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יִּשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be good  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>ט֥וֹב</big></span><small><sup>[[H2895]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> Tov<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לָֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.12|<< Deuteronomy 19:12]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.14|Deuteronomy 19:14 >>]]</td></tr></table>
+
+

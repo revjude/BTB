@@ -1,0 +1,13 @@
+ <span class="bdbLangHebrew">‎מָשׂוֺשׂ‎</span> **noun masculine**: [[Isa.24.8|Isa 24:8]] id.; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Isa.32.13|Isa 32:13]] +, construct <span class="bdbLangHebrew">‎מְשׂוֺשׂ‎</span> [[Job.8.19|Job 8:19]] +; suffix <span class="bdbLangHebrew">‎מְשׂוֺשִׂי‎</span> [[Jer.49.25|Jer 49:25]], <span class="bdbLangHebrew">‎מְשׂוֺשָׂהּ‎</span> [[Hos.2.13|Hos 2:13]] — ***exultation***, in general, [[Lam.5.15|Lam 5:15]] (opposed to <span class="bdbLangHebrew">‎אֵבֶל‎</span>), [[Isa.24.11|Isa 24:11]]; [[Isa.66.10|Isa 66:10]] (accusative of congnate meaning with verb); of bridegroom [[Isa.62.5|Isa 62:5]] <span class="bdbLangHebrew">‎תֻּפִּיס‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span>, [[Isa.24.8|Isa 24:8]], <span class="bdbLangHebrew">‎בִנּוֺר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> v[[Isa.24.8|Isa 24:8]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בָּתֵּי מ‎</span> [[Isa.33.13|Isa 33:13]] of Jerusalem (as causing joy) [[Isa.60.15|Isa 60:15]]; [[Ps.48.3|Ps 48:3]]; [[Lam.2.15|Lam 2:15]], compare [[Jer.49.25|Jer 49:25]] (<span class="bdbLangHebrew">‎קִרְיַת מְשׂוֺשִׂי‎</span>; \|\| <span class="bdbLangHebrew">‎תְּהִלָּה‎</span>), [[Isa.65.18|Isa 65:18]] (\|\| <span class="bdbLangHebrew">‎גִּילָה‎</span>); <span class="bdbLangHebrew">‎דַּרְבּוֺ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> (of godless man) [[Job.8.19|Job 8:19]] <span class="bdbLangHebrew">‎פְּרָאִים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Isa.32.14|Isa 32:14]], i.e. desert. — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Isa.8.6|Isa 8:6]], si vera lectio, is construct before preposition, but (<span class="bdbLangHebrew">‎מִפְּנֵי‎</span>) <span class="bdbLangHebrew">‎מָסוֺס‎</span>, [[BDB#Hi|Hi]] [[BDB#Gie|Gie]] [[BDB#Che|Che]] [[BDB#Du|Du]] [[BDB#Kit|Kit]] [[BDB#Marti|Marti]] and others <span class="bdbLangHebrew">‎שֵׂחַ‎</span> see <span class="bdbLangHebrew">‎שִׂיח‎</span> 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Job | [[Job.8.19\|8:19]] |
+| Psalms | [[Ps.48.3\|48:3]] |
+| Isaiah | [[Isa.8.6\|8:6]] · [[Isa.24.8\|24:8]] · [[Isa.24.11\|24:11]] · [[Isa.32.13\|32:13]] · [[Isa.32.14\|32:14]] · [[Isa.33.13\|33:13]] · [[Isa.60.15\|60:15]] · [[Isa.62.5\|62:5]] · [[Isa.65.18\|65:18]] · [[Isa.66.10\|66:10]] |
+| Jeremiah | [[Jer.49.25\|49:25]] |
+| Lamentations | [[Lam.2.15\|2:15]] · [[Lam.5.15\|5:15]] |
+| Hosea | [[Hos.2.13\|2:13]] |
+

@@ -1,0 +1,29 @@
+**Leviticus 6:27** (6:20)
+<small><sub>**KJV:**</sub></small>
+Whatsoever shall touch the flesh thereof shall be holy: and when there is sprinkled of the blood thereof upon any garment, thou shalt wash that whereon it was sprinkled in the holy place.
+<small><sub>**BSB:**</sub></small>
+Anything that touches its flesh will become holy, and if any of the blood is spattered on a garment, you must wash it in a holy place.
+<small><sub>**Literal:**</sub></small>
+all that it will touch \<in>  meat  its it will be holy and  [one] who he will spatter any of  blood  its on the  garment [that] which he will spatter on  it you will wash in  a place holy<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.26|<< Leviticus 6:26]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.28|Leviticus 6:28 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| all  | <span class="ashebrew"><big>כֹּ֛ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will touch  | <span class="ashebrew"><big>יִגַּ֥ע</big></span><small><sup>[[H5060]]</sup></small> &#8207;| yi.Ga'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> meat its  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בְשָׂרָ֖</big></span><small><sup>[[H1320]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> v.sa.Ra<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be holy  | <span class="ashebrew"><big>יִקְדָּ֑שׁ</big></span><small><sup>[[H6942G]]</sup></small> &#8207;| yik.Dash<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one] who  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֨ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will spatter  | <span class="ashebrew"><big>יִזֶּ֤ה</big></span><small><sup>[[H5137A]]</sup></small> &#8207;| yi.Zeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any of blood its  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>דָּמָ</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>הּ֙</big></span><small><sup>[[H9024]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> da.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the garment  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בֶּ֔גֶד</big></span><small><sup>[[H0899B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Be.ged<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [that] which  | <span class="ashebrew"><big>אֲשֶׁר֙</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will spatter  | <span class="ashebrew"><big>יִזֶּ֣ה</big></span><small><sup>[[H5137A]]</sup></small> &#8207;| yi.Zeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלֶ֔י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will wash  | <span class="ashebrew"><big>תְּכַבֵּ֖ס</big></span><small><sup>[[H3526H]]</sup></small> &#8207;| te.kha.Bes<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a place  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מָק֥וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holy  | <span class="ashebrew"><big>קָדֹֽשׁ</big></span><small><sup>[[H6918G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ka.Dosh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.26|<< Leviticus 6:26]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.28|Leviticus 6:28 >>]]</td></tr></table>
+
+

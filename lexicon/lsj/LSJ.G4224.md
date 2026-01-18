@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==πότος==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ (<span class='asgreek'>πίνω</span>) <b>drinking-bout, carousal,</b> <span class='asgreek'>πῶς</span> <span class='asgreek'>τις</span> <span class='asgreek'>αὐτὸν</span>.. <span class='asgreek'>ἂν</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>πότου</span> <span class='asgreek'>παύσειεν</span>..; [<a href="javascript:void(0)" title=" 5th c.BC: Cratinus Comicus 187; προὐχώρει ὁ π. 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.3.26; ἦς π. ἁδύς 3rd c.BC: Theocritus Poeta Bucolicus 14.17 ">Refs 5th c.BC+</a>]; <span class='asgreek'>παρὰ</span> <span class='asgreek'>πότον</span> over the <b>wine,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 2.3.15, “Smp.” 8.41; ἀλλήλοις.. συνεῖναι ἐν τῷ πότῳ 5th-6th c.BC: Plato Philosophus “Protagoras” 347c; τρέπεσθαι πρὸς τὸν π. [prev. author] “Smp.” 176a: \_plural\_, 5th-6th c.BC: Aristophanes Comicus “Nubes” 1073; αἱ ἐν τοῖς πότοις συνουσίαι 5th-6th c.BC: Isocrates Orator 1.32, compare 4th c.BC: Aeschines Orator 2.47; περὶ πότους τὰς διατριβὰς ποιεῖσθαι 5th c.BC: Lysias Orator 16.11, compare 5th-6th c.BC: Plato Philosophus “Respublica” 329a, 5th-6th c.BC: Isocrates Orator 15.286. ">Refs 5th c.BC+</a>]
+

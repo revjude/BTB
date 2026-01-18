@@ -1,0 +1,27 @@
+**Genesis 40:15** 
+<small><sub>**KJV:**</sub></small>
+For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon.
+<small><sub>**BSB:**</sub></small>
+For I was kidnapped from the land of the Hebrews, and even here I have done nothing for which they should have put me in this dungeon.”
+<small><sub>**Literal:**</sub></small>
+for certainly \<to be stolen> I was stolen from  [the] land of the  Hebrews and  also here not I have done anything that they have put \<obj.>  me in the  pit<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.14|<< Genesis 40:14]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.16|Genesis 40:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to be stolen>  | <span class="ashebrew"><big>גֻנֹּ֣ב</big></span><small><sup>[[H1589]]</sup></small> &#8207;| gu.No<small><sup>[[HVPaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I was stolen  | <span class="ashebrew"><big>גֻּנַּ֔בְתִּי</big></span><small><sup>[[H1589]]</sup></small> &#8207;| gu.Nav.ti<small><sup>[[HVPp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] land of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֶ֖רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Hebrews  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִבְרִ֑ים</big></span><small><sup>[[H5680]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'iv.Rim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גַם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here  | <span class="ashebrew"><big>פֹּה֙</big></span><small><sup>[[H6311]]</sup></small> &#8207;| poh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have done  | <span class="ashebrew"><big>עָשִׂ֣יתִֽי</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anything  | <span class="ashebrew"><big>מְא֔וּמָה</big></span><small><sup>[[H3972]]</sup></small> &#8207;| me.'U.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have put  | <span class="ashebrew"><big>שָׂמ֥וּ</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| sa.Mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> me  | <span class="ashebrew"><big>אֹתִ֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the pit  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בּֽוֹר</big></span><small><sup>[[H0953A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.14|<< Genesis 40:14]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.16|Genesis 40:16 >>]]</td></tr></table>
+
+

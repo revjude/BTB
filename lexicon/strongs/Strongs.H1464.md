@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎גּוּד‎</span></big> **gûwd** <small>*(goode)*</small> ==**to raid**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root (akin to <span class="ashebrew">‎גָּדַד‎</span><sup><small>[[H1413]]</small></sup>)</small>
+
+$\quad$ invade, overcome.
+- ***to crowd upon***, i.e. ***attack***
+
+**1)** to invade, attack
+$\quad$ **1a)** (Qal) to attack

@@ -1,0 +1,30 @@
+**Genesis 26:28** 
+<small><sub>**KJV:**</sub></small>
+And they said, We saw certainly that the LORD was with thee: and we said, Let there be now an oath betwixt us, [even] betwixt us and thee, and let us make a covenant with thee;
+<small><sub>**BSB:**</sub></small>
+“We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you
+<small><sub>**Literal:**</sub></small>
+and  they said certainly \<to see> we have seen that he has been Yahweh with  you and  we said let it be please an oath between  us between  us and  between  you and  let us make a covenant with  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.27|<< Genesis 26:27]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.29|Genesis 26:29 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּאמְר֗וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to see>  | <span class="ashebrew"><big>רָא֣וֹ</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ra.'O<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we have seen  | <span class="ashebrew"><big>רָאִינוּ֮</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ra.'i.Nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has been  | <span class="ashebrew"><big>הָיָ֣ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֣ה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  | <span class="ashebrew"><big>עִמָּ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>ךְ֒</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'i.mo<small><sup>[[HRd]]</sup></small> Kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and we said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נֹּ֗אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> No.mer<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it be  | <span class="ashebrew"><big>תְּהִ֨י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| te.Hi<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָ֥א</big></span><small><sup>[[H4994]]</sup></small> &#8207;| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an oath  | <span class="ashebrew"><big>אָלָ֛ה</big></span><small><sup>[[H0423]]</sup></small> &#8207;| 'a.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between us  | <span class="ashebrew"><big>בֵּינוֹתֵ֖י</big></span><small><sup>[[H0996G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| bei.no.Tei.<small><sup>[[HAcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between us  | <span class="ashebrew"><big>בֵּינֵ֣י</big></span><small><sup>[[H0996G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| bei.Nei.<small><sup>[[HAcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between you  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵינֶ֑</big></span><small><sup>[[H0996G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vei.Ne.<small><sup>[[HAcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and let us make  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נִכְרְתָ֥ה</big></span><small><sup>[[H3772H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> nikh.re.Tah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a covenant  | <span class="ashebrew"><big>בְרִ֖ית</big></span><small><sup>[[H1285]]</sup></small> &#8207;| ve.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with you  | <span class="ashebrew"><big>עִמָּֽ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'i.Ma<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.27|<< Genesis 26:27]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.29|Genesis 26:29 >>]]</td></tr></table>
+
+

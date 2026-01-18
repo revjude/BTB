@@ -1,0 +1,22 @@
+**Psalms 106:5** 
+<small><sub>**KJV:**</sub></small>
+That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance.
+<small><sub>**BSB:**</sub></small>
+that I may see the prosperity of Your chosen ones, and rejoice in the gladness of Your nation, and give glory with Your inheritance.
+<small><sub>**Literal:**</sub></small>
+to  look on  [the] good thing[s] of chosen ones  your to  rejoice in  [the] joy of nation  your to  boast with inheritance  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.4|<< Psalms 106:4]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.6|Psalms 106:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to look  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רְא֤וֹת</big></span><small><sup>[[H7200K]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] good thing[s] of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ט֘וֹבַ֤ת</big></span><small><sup>[[H2896C]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> To.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chosen ones your  | <span class="ashebrew"><big>בְּחִירֶ֗י</big></span><small><sup>[[H0972]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| be.chi.Rei.<small><sup>[[HAampc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to rejoice  | <span class="ashebrew"><big>לִ֭</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שְׂמֹחַ</big></span><small><sup>[[H8055]]</sup></small> &#8207;| Li<small><sup>[[HR]]</sup></small> s.mo.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] joy of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שִׂמְחַ֣ת</big></span><small><sup>[[H8057]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> sim.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nation your  | <span class="ashebrew"><big>גּוֹיֶ֑</big></span><small><sup>[[H1471A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| go.Ye.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to boast  | <span class="ashebrew"><big>לְ֝</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הִתְהַלֵּ֗ל</big></span><small><sup>[[H1984H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hit.ha.Lel<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inheritance your  | <span class="ashebrew"><big>נַחֲלָתֶֽ</big></span><small><sup>[[H5159]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| na.cha.la.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.4|<< Psalms 106:4]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.6|Psalms 106:6 >>]]</td></tr></table>
+
+

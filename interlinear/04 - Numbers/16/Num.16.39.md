@@ -1,0 +1,25 @@
+**Numbers 16:39** (17:4)
+<small><sub>**KJV:**</sub></small>
+And Eleazar the priest took the brasen censers, wherewith they that were burnt had offered; and they were made broad [plates for] a covering of the altar:
+<small><sub>**BSB:**</sub></small>
+So Eleazar the priest took the bronze censers brought by those who had been burned up, and he had them hammered out to overlay the altar,
+<small><sub>**Literal:**</sub></small>
+and  he took Eleazar the  priest \<obj.> [the] censers of \<the>  bronze which they had brought near the  [ones who] were burned and  people beat out  them overlay for the  altar<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.38|<< Numbers 16:38]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.40|Numbers 16:40 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he took  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקַּ֞ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eleazar  | <span class="ashebrew"><big>אֶלְעָזָ֣ר</big></span><small><sup>[[H0499G]]</sup></small> &#8207;| 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priest  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּהֵ֗ן</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֚ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] censers of  | <span class="ashebrew"><big>מַחְתּ֣וֹת</big></span><small><sup>[[H4289]]</sup></small> &#8207;| mach.Tot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> bronze  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נְּחֹ֔שֶׁת</big></span><small><sup>[[H5178A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had brought near  | <span class="ashebrew"><big>הִקְרִ֖יבוּ</big></span><small><sup>[[H7126H]]</sup></small> &#8207;| hik.Ri.vu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [ones who] were burned  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׂרֻפִ֑ים</big></span><small><sup>[[H8313]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> se.ru.Fim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and people beat out them  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְרַקְּע֖וּ</big></span><small><sup>[[H7554]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.ra.ke.'U<small><sup>[[HVpw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| overlay  | <span class="ashebrew"><big>צִפּ֥וּי</big></span><small><sup>[[H6826]]</sup></small> &#8207;| tzi.Pui<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the altar  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִּזְבֵּֽחַ</big></span><small><sup>[[H4196]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.38|<< Numbers 16:38]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.40|Numbers 16:40 >>]]</td></tr></table>
+
+

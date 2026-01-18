@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==ἀνανεόομαι==</span>-<span class='asgreek'>όομαι</span></b>, 
+
+
+ <i>future</i> <b>-<span class='asgreek'>ώσομαι</span></b>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 22.7.1, +others">Refs 2nd c.BC+</a>]: <i>aorist</i> <span class='asgreek'>ἀνενεωσάμην</span>[<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.43, 46, poetry ">Refs 5th c.BC+</a>]<i>infinitive</i> <span class='asgreek'>ἀννεώσασθαι</span>, see below:—<b>renew,</b> <span class='asgreek'>τὸν</span> <span class='asgreek'>ὅρκον</span>[<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.18; τὴν προξενίαν [prev. work] 43">Refs 5th c.BC+</a>]; <span class='asgreek'>τὰς</span> <span class='asgreek'>σπονδάς</span>[<a href="javascript:void(0)" title=" [prev. work] 80; φιλίαν [prev. author] 7.33, 4th c.BC: Demosthenes Orator 23.121">Refs 4th c.BC+</a>]; <span class='asgreek'>ὁμόνοιάν</span> <span class='asgreek'>τινι</span> Philipp. cited in [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 18.167; συμμαχίαν 2nd c.BC: Polybius Historicus [same place], +others ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>κἀννεώσασθαι</span> <span class='asgreek'>λόγους</span> <b>revive</b> them, probably to be read instead of <span class='asgreek'>καὶ</span> <span class='asgreek'>νεώσασθαι</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 396, compare 5th c.BC: Euripides Tragicus “Helena” 722, 2nd c.BC: Polybius Historicus 5.36.7.">Refs 5th c.BC+</a>]—<i>active</i> frequently in [<a href="javascript:void(0)" title=" LXX, LXX.Job.33.24, +others, “IG” 14.1078a, “Delph.” 3(1) No.60, compare “SIG” 478.503 (3rd c.BC), 5th-6th c.AD: Damascius Philosophus “de Principiis” 391">LXX+3rd c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" NT.Eph.4.23.">NT</a>]
+
+<small><sub>LSJ Scripture Refs: [[Job.33.24]] ☩ [[Eph.4.23]]
+</sub></small>

@@ -1,0 +1,31 @@
+**Jeremiah 30:6** 
+<small><sub>**KJV:**</sub></small>
+Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?
+<small><sub>**BSB:**</sub></small>
+Ask now, and see: Can a male give birth? Why then do I see every man with his hands on his stomach like a woman in labor and every face turned pale?
+<small><sub>**Literal:**</sub></small>
+ask please and  see if [is] giving birth a male why? have I seen every man hands  his on loins  his like \<the>  [woman] giving birth and  have they been changed? all faces into  paleness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.5|<< Jeremiah 30:5]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.7|Jeremiah 30:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| ask  | <span class="ashebrew"><big>שַׁאֲלוּ</big></span><small><sup>[[H7592]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| sha.'a.lu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָ֣א</big></span><small><sup>[[H4994]]</sup></small> &#8207;| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and see  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רְא֔וּ</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> re.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518I]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] giving birth  | <span class="ashebrew"><big>יֹלֵ֖ד</big></span><small><sup>[[H3205]]</sup></small> &#8207;| yo.Led<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a male  | <span class="ashebrew"><big>זָכָ֑ר</big></span><small><sup>[[H2145]]</sup></small> &#8207;| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| why?  | <span class="ashebrew"><big>מַדּוּעַ֩</big></span><small><sup>[[H4069]]</sup></small> &#8207;| ma.du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have I seen  | <span class="ashebrew"><big>רָאִ֨יתִי</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| man  | <span class="ashebrew"><big>גֶּ֜בֶר</big></span><small><sup>[[H1397]]</sup></small> &#8207;| Ge.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands his  | <span class="ashebrew"><big>יָדָ֤י</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ya.Da<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| loins his  | <span class="ashebrew"><big>חֲלָצָי</big></span><small><sup>[[H2504]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| cha.la.Tza<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> [woman] giving birth  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>יּ֣וֹלֵדָ֔ה</big></span><small><sup>[[H3205]]</sup></small> &#8207;| ka<small><sup>[[HRd]]</sup></small> i.Yo.le.Dah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and have they been changed?  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נֶהֶפְכ֥וּ</big></span><small><sup>[[H2015]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ne.hef.Khu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faces  | <span class="ashebrew"><big>פָּנִ֖ים</big></span><small><sup>[[H6440H]]</sup></small> &#8207;| pa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into paleness  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יֵרָקֽוֹן</big></span><small><sup>[[H3420]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ye.ra.Kon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.5|<< Jeremiah 30:5]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.7|Jeremiah 30:7 >>]]</td></tr></table>
+
+

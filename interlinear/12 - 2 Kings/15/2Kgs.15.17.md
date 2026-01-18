@@ -1,0 +1,29 @@
+**2 Kings 15:17** 
+<small><sub>**KJV:**</sub></small>
+In the nine and thirtieth year of Azariah king of Judah began Menahem the son of Gadi to reign over Israel, [and reigned] ten years in Samaria.
+<small><sub>**BSB:**</sub></small>
+In the thirty-ninth year of Azariah’s reign over Judah, Menahem son of Gadi became king of Israel, and he reigned in Samaria ten years.
+<small><sub>**Literal:**</sub></small>
+in  year thirty and  nine year of  Azariah [the] king of Judah he became king Menahem [the] son of Gadi over Israel ten years in  Samaria<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.16|<< 2 Kings 15:16]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.18|2 Kings 15:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| in year  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁנַ֨ת</big></span><small><sup>[[H8141]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֤ים</big></span><small><sup>[[H7970]]</sup></small> &#8207;| she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and nine  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תֵ֙שַׁע֙</big></span><small><sup>[[H8672]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Te.sha'<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year  | <span class="ashebrew"><big>שָׁנָ֔ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Azariah  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֲזַרְיָ֖ה</big></span><small><sup>[[H5838x]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.zar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶ֣לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֑ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he became king  | <span class="ashebrew"><big>מָ֠לַךְ</big></span><small><sup>[[H4427A]]</sup></small> &#8207;| Ma.lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Menahem  | <span class="ashebrew"><big>מְנַחֵ֨ם</big></span><small><sup>[[H4505]]</sup></small> &#8207;| me.na.Chem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gadi  | <span class="ashebrew"><big>גָּדִ֧י</big></span><small><sup>[[H1424]]</sup></small> &#8207;| ga.Di<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֛ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עֶ֥שֶׂר</big></span><small><sup>[[H6235]]</sup></small> &#8207;| 'E.ser<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  | <span class="ashebrew"><big>שָׁנִ֖ים</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Samaria  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שֹׁמְרֽוֹן</big></span><small><sup>[[H8111]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.16|<< 2 Kings 15:16]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.18|2 Kings 15:18 >>]]</td></tr></table>
+
+

@@ -1,0 +1,27 @@
+**Zephaniah 3:6** 
+<small><sub>**KJV:**</sub></small>
+I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant.
+<small><sub>**BSB:**</sub></small>
+“I have cut off the nations; their corner towers are destroyed. I have made their streets deserted with no one to pass through. Their cities are laid waste, with no man, no inhabitant.
+<small><sub>**Literal:**</sub></small>
+I have cut off nations they are desolate corners  their I have made desolate streets  their because  not [one who] passes by they have been laid waste cities  their because  not anyone from  not inhabitant<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.5|<< Zephaniah 3:5]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.7|Zephaniah 3:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| I have cut off  | <span class="ashebrew"><big>הִכְרַ֣תִּי</big></span><small><sup>[[H3772I]]</sup></small> &#8207;| hikh.Ra.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  | <span class="ashebrew"><big>גוֹיִ֗ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are desolate  | <span class="ashebrew"><big>נָשַׁ֙מּוּ֙</big></span><small><sup>[[H8074G]]</sup></small> &#8207;| na.Sha.mu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| corners their  | <span class="ashebrew"><big>פִּנּוֹתָ֔</big></span><small><sup>[[H6438H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| pi.no.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have made desolate  | <span class="ashebrew"><big>הֶחֱרַ֥בְתִּי</big></span><small><sup>[[H2717B]]</sup></small> &#8207;| he.che.Rav.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| streets their  | <span class="ashebrew"><big>חֽוּצוֹתָ֖</big></span><small><sup>[[H2351]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| chu.tzo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because not  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בְּלִ֣י</big></span><small><sup>[[H1097]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> be.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] passes by  | <span class="ashebrew"><big>עוֹבֵ֑ר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| o.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have been laid waste  | <span class="ashebrew"><big>נִצְדּ֧וּ</big></span><small><sup>[[H6658B]]</sup></small> &#8207;| nitz.Du<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities their  | <span class="ashebrew"><big>עָרֵי</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>הֶ֛ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because not  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בְּלִי</big></span><small><sup>[[H1097]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> be.li-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  | <span class="ashebrew"><big>אִ֖ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from not  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֵ֥ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inhabitant  | <span class="ashebrew"><big>יוֹשֵֽׁב</big></span><small><sup>[[H3427]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.5|<< Zephaniah 3:5]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.7|Zephaniah 3:7 >>]]</td></tr></table>
+
+

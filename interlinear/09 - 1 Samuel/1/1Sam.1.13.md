@@ -1,0 +1,27 @@
+**1 Samuel 1:13** 
+<small><sub>**KJV:**</sub></small>
+Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.
+<small><sub>**BSB:**</sub></small>
+Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk
+<small><sub>**Literal:**</sub></small>
+and  Hannah she [was] speaking to heart  her only lips  her [were] quivering and  voice  her not it was heard and  he considered  her Eli to  a drunken [woman]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.12|<< 1 Samuel 1:12]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.14|1 Samuel 1:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Hannah  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חַנָּ֗ה</big></span><small><sup>[[H2584]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> cha.Nah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she  | <span class="ashebrew"><big>הִ֚יא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] speaking  | <span class="ashebrew"><big>מְדַבֶּ֣רֶת</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| me.da.Be.ret<small><sup>[[HVprfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart her  | <span class="ashebrew"><big>לִבָּ֔</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| li.Ba<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| only  | <span class="ashebrew"><big>רַ֚ק</big></span><small><sup>[[H7535]]</sup></small> &#8207;| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips her  | <span class="ashebrew"><big>שְׂפָתֶ֣י</big></span><small><sup>[[H8193G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| se.fa.Tei.<small><sup>[[HNcfdc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] quivering  | <span class="ashebrew"><big>נָּע֔וֹת</big></span><small><sup>[[H5128]]</sup></small> &#8207;| na.'ot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and voice her  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קוֹלָ֖</big></span><small><sup>[[H6963A]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ko.La<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was heard  | <span class="ashebrew"><big>יִשָּׁמֵ֑עַ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| yi.sha.Me.a'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he considered her  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּחְשְׁבֶ֥</big></span><small><sup>[[H2803J]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yach.she.Ve.<small><sup>[[HVqw3ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eli  | <span class="ashebrew"><big>עֵלִ֖י</big></span><small><sup>[[H5941]]</sup></small> &#8207;| 'e.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a drunken [woman]  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שִׁכֹּרָֽה</big></span><small><sup>[[H7910]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> shi.ko.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.12|<< 1 Samuel 1:12]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.14|1 Samuel 1:14 >>]]</td></tr></table>
+
+

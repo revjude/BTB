@@ -1,0 +1,31 @@
+**2 Kings 7:1** 
+<small><sub>**KJV:**</sub></small>
+Then Elisha said, Hear ye the word of the LORD; Thus saith the LORD, To morrow about this time [shall] a measure of fine flour [be sold] for a shekel, and two measures of barley for a shekel, in the gate of Samaria.
+<small><sub>**BSB:**</sub></small>
+Then Elisha said, “Hear the word of the LORD! This is what the LORD says: ‘About this time tomorrow at the gate of Samaria, a seah of fine flour will sell for a shekel, and two seahs of barley will sell for a shekel.’”
+<small><sub>**Literal:**</sub></small>
+and  he said Elisha hear [the] word of Yahweh thus he says Yahweh about \<the>  this time tomorrow a seah of fine flour for  a shekel and  two seahs barley\<s> for  a shekel at  [the] gate of Samaria<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.33|<< 2 Kings 6:33]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.2|2 Kings 7:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elisha  | <span class="ashebrew"><big>אֱלִישָׁ֔ע</big></span><small><sup>[[H0477]]</sup></small> &#8207;| 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hear  | <span class="ashebrew"><big>שִׁמְע֖וּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  | <span class="ashebrew"><big>דְּבַר</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  | <span class="ashebrew"><big>כֹּ֣ה</big></span><small><sup>[[H3541]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he says  | <span class="ashebrew"><big>אָמַ֣ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| about \<the> this time  | <span class="ashebrew"><big>כָּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֵ֤ת</big></span><small><sup>[[H6256]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tomorrow  | <span class="ashebrew"><big>מָחָר֙</big></span><small><sup>[[H4279]]</sup></small> &#8207;| ma.Char<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a seah of  | <span class="ashebrew"><big>סְאָֽה</big></span><small><sup>[[H5429]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| se.'ah-<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fine flour  | <span class="ashebrew"><big>סֹ֣לֶת</big></span><small><sup>[[H5560]]</sup></small> &#8207;| So.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for a shekel  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שֶׁ֗קֶל</big></span><small><sup>[[H8255]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> She.kel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and two seahs  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>סָאתַ֧יִם</big></span><small><sup>[[H5429]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sa.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| barley\<s>  | <span class="ashebrew"><big>שְׂעֹרִ֛ים</big></span><small><sup>[[H8184]]</sup></small> &#8207;| se.'o.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for a shekel  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שֶׁ֖קֶל</big></span><small><sup>[[H8255]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> She.kel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at [the] gate of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שַׁ֥עַר</big></span><small><sup>[[H8179G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Sha.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samaria  | <span class="ashebrew"><big>שֹׁמְרֽוֹן</big></span><small><sup>[[H8111]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.33|<< 2 Kings 6:33]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.2|2 Kings 7:2 >>]]</td></tr></table>
+
+

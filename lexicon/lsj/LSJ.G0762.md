@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==ἄσβεστος==</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ also <span class='asgreek'>η</span>, <span class='asgreek'>ον</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 16.123">Refs 8th c.BC+</a>]:— <b>unquenchable, inextinguishable,</b> <span class='asgreek'>φλόξ</span>[<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad”">Refs 8th c.BC+</a>] [same place]; <b>not quenched,</b> <span class='asgreek'>πῦρ</span> <span class='asgreek'>ἄ</span>.[<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 3.67, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Numa” 9; κλέος 8th c.BC: Odyssea Homerus Epicus “Odyssey” 4.584; γέλως 8th c.BC: Ilias Homerus Epicus “Illiad” 1.599; βοή 11.50; ἐργμάτων ἀκτὶς καλῶν ἄ. αἰεί 5th c.BC: Pindarus Lyricus “I.” 4(3).42">Refs 8th c.BC+</a>]; <span class='asgreek'>ἄ</span>. <span class='asgreek'>πόρος</span> <span class='asgreek'>ὠκεανοῦ</span> ocean's <b>ceaseless</b> flow, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 532 (Lyric poetry)">Refs 4th c.BC+</a>]; <span class='asgreek'>πῦρ</span>, of hell, [<a href="javascript:void(0)" title=" NT.Mark.9.43. ">NT</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> as <i>substantive</i>, <span class='asgreek'>==ἄσβεστος==</span> (i.e. <span class='asgreek'>τίτανος</span>), <span class='asgreek'>ἡ</span>, <b>unslaked lime,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.115, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sertorius” 17, “Eum.” 16; ἄ. κονία 3rd c.BC: Lycophron Tragicus cited in 4th c.AD: Oribasius Medicus 8.25.16. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> a mineral or gem, [<a href="javascript:void(0)" title=" 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 37.146">Refs 1st c.AD+</a>]. <span class='asgreek'>ἀσβεστώδης</span>· <b>tofus,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Mark.9.43]]
+</sub></small>

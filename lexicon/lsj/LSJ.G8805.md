@@ -1,0 +1,8 @@
+<span class="asgreek">πλεονάκις</span> <small>***(pleonakis)***</small> ==**many times**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==πλεονάκις==</span>-<span class='asgreek'>άκις</span></b> [<span class='asgreek'>ᾰ</span>], 
+
+
+ <i>adverb</i>, (<span class='asgreek'>πλέων</span>) <b>more frequently, oftener,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ διαίτης ὀξέων” 29, 5th c.BC: Lysias Orator 14.30, 5th-6th c.BC: Plato Philosophus “Phaedo” 112d, etc.">Refs 5th c.BC+</a>]; <b>several times, frequently,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1299a9, “IG” 22.682.25, 1304.5, “PCair.Zen.” 31.11 (3rd c.BC)">Refs 4th c.BC+</a>]; <b>too often,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἀφορισμοί” 5.16. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>taken more times together, multiplied by a larger number,</b> opposed to <span class='asgreek'>ἐλαττονάκις</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 148a ">Refs 5th c.BC+</a>]:—also <b><span class='asgreek'>==πλεονάκις==άκι</span></b>, [<a href="javascript:void(0)" title=" “PMagd.” 25.4 (3rd c.BC)">Refs 3rd c.BC+</a>]; <b><span class='asgreek'>πλειονάκις</span></b>, [<a href="javascript:void(0)" title=" “PCair.Zen.” 29.2 (3rd c.BC), “IG” 12(5).533 (Ceos, 3rd c.BC), 9(1).694.45 (Corc., 2nd c.BC)">Refs 3rd c.BC+</a>]; <b><span class='asgreek'>πλειονάκι</span></b>, [<a href="javascript:void(0)" title=" “Sammelb.” 4638.18 (2nd c.BC). ">Refs 2nd c.BC+</a>]

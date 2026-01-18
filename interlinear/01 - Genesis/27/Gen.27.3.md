@@ -1,0 +1,26 @@
+**Genesis 27:3** 
+<small><sub>**KJV:**</sub></small>
+Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me [some] venison;
+<small><sub>**BSB:**</sub></small>
+Take your weapons—your quiver and bow—and go out into the field to hunt some game for me.
+<small><sub>**Literal:**</sub></small>
+and  therefore take up please weapons  your quiver  your and  bow  your and  go out the  field and  hunt  ! for \<the>  me wild game<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.2|<< Genesis 27:2]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.4|Genesis 27:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and therefore  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַתָּה֙</big></span><small><sup>[[H6258]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| take up  | <span class="ashebrew"><big>שָׂא</big></span><small><sup>[[H5375G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| sa'-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָ֣א</big></span><small><sup>[[H4994]]</sup></small> &#8207;| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| weapons your  | <span class="ashebrew"><big>כֵלֶ֔י</big></span><small><sup>[[H3627]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| khe.Lei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| quiver your  | <span class="ashebrew"><big>תֶּלְיְ</big></span><small><sup>[[H8522]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| tel.ye.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and bow your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קַשְׁתֶּ֑</big></span><small><sup>[[H7198]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> kash.Te.<small><sup>[[HNcfsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and go out  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צֵא֙</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Tze'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׂדֶ֔ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and hunt !  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צ֥וּדָ</big></span><small><sup>[[H6679A]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Tzu.da<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> me  | <span class="ashebrew"><big>לִּ֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wild game  [^1] | <span class="ashebrew"><big>צָֽיִד</big></span><small><sup>[[H6718A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;[^2] | tzeid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.2|<< Genesis 27:2]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.4|Genesis 27:4 >>]]</td></tr></table>
+
+[^1]: ==K==: **food ** | <small><sup>[[H9016]]</sup></small><span class="ashebrew"><big>׃</big></span> <small><sup>[[H6720]]</sup></small><span class="ashebrew"><big>צֵידָה</big></span>  | tzei.dah<small><sup>[[HNcbsa]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>צָֽיִדה\׃</big></span>**
+

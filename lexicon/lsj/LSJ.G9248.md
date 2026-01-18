@@ -1,0 +1,12 @@
+<span class="asgreek">συκοφαντία</span> <small>***(sukophantia)***</small> ==**extortion**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==συκοφαντία==</span>-<span class='asgreek'>ία</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>vexatious</b> or <b>dishonest prosecution, chicane, barratry, blackmail</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 4.14, 28.6 (\_plural\_), 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.3.12, 4th c.BC: Demosthenes Orator 18.249, Charondas cited in 1st c.BC: Diodorus Siculus Historicus 12.12 ">Refs 5th c.BC+</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>τοῖς</span> <span class='asgreek'>πράγμασι</span> <span class='asgreek'>προσάγειν</span> employ <b>chicane</b> in the case, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.98 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τοῖς</span> <span class='asgreek'>οἰκείοις</span> <span class='asgreek'>σ</span>. <span class='asgreek'>δέδωκεν</span> has given them an <b>opportunity for chicane</b>, [<a href="javascript:void(0)" title=" [prev. author] 23.67, compare “POxy.” 472.33 (2nd c.AD)">Refs 2nd c.AD+</a>]; contrasted with <span class='asgreek'>φήμη</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 2.145; [γραφὴ] συκοφαντίας 4th c.BC: Aristoteles Philosophus “Ἀθηναίων Πολιτεία” 59.3; συκοφαντίας αὐτοῦ κατέγνωτε 5th c.BC: Lysias Orator 13.65. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>oppression</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>πένητος</span> [<a href="javascript:void(0)" title=" LXX.Eccl.5.7, cf. LXX.Ps.118.134 ">LXX</a>]; <b>extortion,</b> [<a href="javascript:void(0)" title=" PTeb. 43.36 (2nd c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>τακτὸν</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>πρόστιμον</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" “PFlor.” 6.6 (3rd c.AD). ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>quibble, sophism</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1402a15, compare “EE” 1221b7. ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Eccl.5.7]] ☩ [[Ps.118.134]]
+</sub></small>

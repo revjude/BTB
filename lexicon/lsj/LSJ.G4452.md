@@ -1,0 +1,9 @@
+form of: <small>[[G4458]]</small> 
+
+
+<b> <span class='asgreek'>==πω==</span></b>, 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>κω</span></b>, <i>enclitic</i> Particle, <b>up to this time, yet</b>, in early <i>Epic dialect</i> always with a <i>negative</i>, with which it sometimes forms one word, compare <span class='asgreek'>οὔ==πω==</span>, <span class='asgreek'>μή==πω==</span>, etc.; sometimes a word is interposed, <span class='asgreek'>οὐδ᾽</span> <span class='asgreek'>ἄρα</span> <span class='asgreek'>πώ</span> <span class='asgreek'>τι</span> <span class='asgreek'>ᾔδεε</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 17.401; μὴ δή ==πω==.. λυώμεθα.. ἵππους 23.7, compare 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 27, 511, 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 105, “Tr.” 591, 1061, etc.; μὴ συναλλάξαντά ==πω== [prev. author] “OT” 1110. ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>at all</b>, with <i>negative</i> in <i>Epic dialect</i>, <span class='asgreek'>οὐδέ</span> <span class='asgreek'>τί</span> <span class='asgreek'>==πω==</span> <span class='asgreek'>ἴδμεν</span> (<span class='asgreek'>που</span> [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Aristophanes Byzantinus Philosophus) 8th c.BC: Ilias Homerus Epicus “Illiad” 1.124; οὔ ==πω== τλήσομ᾽ 3.306; μὴ δή ==πω== χάζεσθε 15.426: after 8th c.BC: Homerus Epicus sometimes with questions which imply a negative, ἢ ξυναλλάξας τί π; 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 1130 ">Refs 8th c.BC+</a>] (variant <span class='asgreek'>που</span>); <span class='asgreek'>πόλις</span> <span class='asgreek'>ἀφισταμένη</span> <span class='asgreek'>τίς</span> <span class='asgreek'>==πω==</span> <span class='asgreek'>τούτῳ</span> <span class='asgreek'>ἐπεχείρησ</span>; has <b>ever</b> a city meditating revolt..? [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.45. ">Refs 5th c.BC+</a>]

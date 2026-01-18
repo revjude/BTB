@@ -1,0 +1,17 @@
+
+<b> <span class='asgreek'>==ἐκλογή==</span>-<span class='asgreek'>ή</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>choice, selection,</b> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀρχόντων</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 414a, 536c; ἐ. ποιεῖσθαι [prev. author] “Lg.” 802b ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐ</span>. [<span class='asgreek'>τῶν</span> <span class='asgreek'>ἀρίστων</span> <span class='asgreek'>νόμων</span>] [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1181a18; τῶν ἐναντίων [prev. author] “Metaphorical” 1004a2; ὀνομάτων 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.162 5th c.BC: Sophocles Tragicus, 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 1, etc.; ὀνόματος 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 71.10; κατ᾽ ==ἐκλογή==ὴν ἀριστίνδην κεκριμένοι 2nd c.BC: Polybius Historicus 6.10.9; ἐπὶ ἐγλογῇ γεωργεῖν “PTeb.” 5.166 (2nd c.BC). ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>levying of troops,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 5.63.11. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>collection of tribute,</b> etc., <span class='asgreek'>κριθῶν</span> Legal Attica cited in [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 6.235c; χρημάτων 2nd-3rd c.AD: Dio Cassius Historicus 42.6 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>σίτου</span> Cratesap.[<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 6.235b. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> Theol., <b>election</b>[<a href="javascript:void(0)" title=" NT.Rom.9.11 ">NT</a>], etc.; <span class='asgreek'>σκεῦος</span> <span class='asgreek'>==ἐκλογή==ῆς</span> [<a href="javascript:void(0)" title=" NT.Acts.9.15. ">NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>balancing</b> of accounts, [<a href="javascript:void(0)" title=" “PRyl.” 157.6 (2nd c.AD). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>extract, quotation from a book,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Biographus Cit. 3, 2nd c.AD: Athenaeus Epigrammaticus 14.663c, 3rd c.BC: Antigonus Carystius Paradoxographus “Mirabilia” 15. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>choice collection</b> of passages, such as <b>the Eclogae</b> or <b>'Elegant Extracts'</b> of Stobaeus: <span class='asgreek'>==ἐκλογή==αὶ</span> <span class='asgreek'>Ἀρχιγένους</span> <b>select prescriptions</b> of [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus, 2nd c.AD: Galenus Medicus 14.343. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>διὰ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀνθρώπων</span> because they were <b>picked</b> men, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.47.9,compare 1st c.AD: Philo Judaeus 2.362. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>==ἐκλογή==ήν</span>· <span class='asgreek'>κάλαθον</span> (<i>Laconian dialect</i>), [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Rom.9.11]] ☩ [[Acts.9.15]]
+</sub></small>

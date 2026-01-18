@@ -1,0 +1,24 @@
+**Psalms 101:2** 
+<small><sub>**KJV:**</sub></small>
+I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.
+<small><sub>**BSB:**</sub></small>
+I will ponder the way that is blameless—when will You come to me? I will walk in my house with integrity of heart.
+<small><sub>**Literal:**</sub></small>
+I will give attention to  a way blameless when? will you come to  me I will walk about in  [the] integrity of heart  my in  [the] midst of house  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.1|<< Psalms 101:1]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.3|Psalms 101:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| I will give attention  | <span class="ashebrew"><big>אַשְׂכִּ֤ילָה</big></span><small><sup>[[H7919A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'as.Ki.lah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a way  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דֶ֬רֶךְ</big></span><small><sup>[[H1870G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blameless  | <span class="ashebrew"><big>תָּמִ֗ים</big></span><small><sup>[[H8549H]]</sup></small> &#8207;| ta.Mim<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when?  | <span class="ashebrew"><big>מָ֭תַי</big></span><small><sup>[[H4970]]</sup></small> &#8207;| Ma.tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you come  | <span class="ashebrew"><big>תָּב֣וֹא</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ta.Vo'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלָ֑</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will walk about  | <span class="ashebrew"><big>אֶתְהַלֵּ֥ךְ</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| 'et.ha.Lekh<small><sup>[[HVti1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] integrity of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תָם</big></span><small><sup>[[H8537]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> tom-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  | <span class="ashebrew"><big>לְ֝בָבִ֗</big></span><small><sup>[[H3824]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| le.va.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] midst of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קֶ֣רֶב</big></span><small><sup>[[H7130G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ke.rev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| house my  | <span class="ashebrew"><big>בֵּיתִֽ</big></span><small><sup>[[H1004B]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| bei.T<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.1|<< Psalms 101:1]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.3|Psalms 101:3 >>]]</td></tr></table>
+
+

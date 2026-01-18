@@ -1,0 +1,30 @@
+**Numbers 18:21** 
+<small><sub>**KJV:**</sub></small>
+And, behold, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, [even] the service of the tabernacle of the congregation.
+<small><sub>**BSB:**</sub></small>
+Behold, I have given to the Levites all the tithes in Israel as an inheritance in return for the work they do, the service of the Tent of Meeting.
+<small><sub>**Literal:**</sub></small>
+and  to  [the] descendants of Levi here! I give every tithe in  Israel for  an inheritance in return for service  their which they [are] serving \<obj.> [the] service of [the] tent of meeting<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.20|<< Numbers 18:20]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.22|Numbers 18:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and to [the] descendants of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Levi  | <span class="ashebrew"><big>לֵוִ֔י</big></span><small><sup>[[H3878]]</sup></small> &#8207;| le.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| here!  | <span class="ashebrew"><big>הִנֵּ֥ה</big></span><small><sup>[[H2009]]</sup></small> &#8207;| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I give  | <span class="ashebrew"><big>נָתַ֛תִּי</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tithe  | <span class="ashebrew"><big>מַֽעֲשֵׂ֥ר</big></span><small><sup>[[H4643]]</sup></small> &#8207;| ma.'a.Ser<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Israel  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יִשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for an inheritance  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נַחֲלָ֑ה</big></span><small><sup>[[H5159]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> na.cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in return for  | <span class="ashebrew"><big>חֵ֤לֶף</big></span><small><sup>[[H2500]]</sup></small> &#8207;| Che.lef<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| service their  | <span class="ashebrew"><big>עֲבֹֽדָתָ</big></span><small><sup>[[H5656H]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.da.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֣ם</big></span><small><sup>[[H1992]]</sup></small> &#8207;| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] serving  | <span class="ashebrew"><big>עֹֽבְדִ֔ים</big></span><small><sup>[[H5647H]]</sup></small> &#8207;| 'oe.Dim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] service of  | <span class="ashebrew"><big>עֲבֹדַ֖ת</big></span><small><sup>[[H5656H]]</sup></small> &#8207;| 'a.vo.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tent of  | <span class="ashebrew"><big>אֹ֥הֶל</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  | <span class="ashebrew"><big>מוֹעֵֽד</big></span><small><sup>[[H4150I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.20|<< Numbers 18:20]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.22|Numbers 18:22 >>]]</td></tr></table>
+
+

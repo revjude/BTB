@@ -1,0 +1,22 @@
+**Jeremiah 33:3** 
+<small><sub>**KJV:**</sub></small>
+Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.
+<small><sub>**BSB:**</sub></small>
+Call to Me, and I will answer and show you great and unsearchable things you do not know.
+<small><sub>**Literal:**</sub></small>
+call to  me and  I will answer  you and  I will tell to \<the>  you great [things] and  incomprehensible [things] [which] not you know  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.2|<< Jeremiah 33:2]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.4|Jeremiah 33:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| call  | <span class="ashebrew"><big>קְרָ֥א</big></span><small><sup>[[H7121G]]</sup></small> &#8207;| ke.Ra'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלַ֖</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will answer you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶעֱנֶ֑</big></span><small><sup>[[H6030B]]</sup></small> <span class="ashebrew"><big>ךָּ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'e.'e.Ne.<small><sup>[[HVqu1cs]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will tell  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַגִּ֧ידָה</big></span><small><sup>[[H5046]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Gi.dah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  | <span class="ashebrew"><big>לְּ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֛</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great [things]  | <span class="ashebrew"><big>גְּדֹל֥וֹת</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ge.do.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and incomprehensible [things]  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְצֻר֖וֹת</big></span><small><sup>[[H1219]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.tzu.Rot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you know them  | <span class="ashebrew"><big>יְדַעְתָּֽ</big></span><small><sup>[[H3045]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ye.da'.Ta<small><sup>[[HVqp2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.2|<< Jeremiah 33:2]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.4|Jeremiah 33:4 >>]]</td></tr></table>
+
+

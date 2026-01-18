@@ -1,0 +1,26 @@
+**Isaiah 19:14** 
+<small><sub>**KJV:**</sub></small>
+The LORD hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken [man] staggereth in his vomit.
+<small><sub>**BSB:**</sub></small>
+The LORD has poured into her a spirit of confusion. Egypt has been led astray in all she does, as a drunkard staggers through his own vomit.
+<small><sub>**Literal:**</sub></small>
+Yahweh he has mixed in  midst  its a spirit of confusion\<s> and  they have misled \<obj.> Egypt in  every deed  its as  is made to stagger a drunkard in  vomit  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.13|<< Isaiah 19:13]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.15|Isaiah 19:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֛ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has mixed  | <span class="ashebrew"><big>מָסַ֥ךְ</big></span><small><sup>[[H4537]]</sup></small> &#8207;| ma.Sakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in midst its  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קִרְבָּ֖</big></span><small><sup>[[H7130G]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> kir.Ba<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spirit of  | <span class="ashebrew"><big>ר֣וּחַ</big></span><small><sup>[[H7307G]]</sup></small> &#8207;| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| confusion\<s>  | <span class="ashebrew"><big>עִוְעִ֑ים</big></span><small><sup>[[H5773]]</sup></small> &#8207;| 'iv.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they have misled  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִתְע֤וּ</big></span><small><sup>[[H8582]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hit.'U<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרַ֙יִם֙</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in every  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָֽל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deed its  | <span class="ashebrew"><big>מַעֲשֵׂ֔</big></span><small><sup>[[H4639K]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ma.'a.Se.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as is made to stagger  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>הִתָּע֥וֹת</big></span><small><sup>[[H8582]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> hi.ta.'ot<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a drunkard  | <span class="ashebrew"><big>שִׁכּ֖וֹר</big></span><small><sup>[[H7910]]</sup></small> &#8207;| shi.Kor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in vomit his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קִיאֽ</big></span><small><sup>[[H6892B]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ki.'<small><sup>[[HNcmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.13|<< Isaiah 19:13]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.15|Isaiah 19:15 >>]]</td></tr></table>
+
+

@@ -1,0 +1,20 @@
+<big><span class="ashebrew">‎עָנָה‎</span></big> **ʻânâh** <small>*(aw-naw')*</small> ==**to dwell**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root</small>
+
+$\quad$ give account, afflict (by mistake for <span class="ashebrew">‎עָנָה‎</span><sup><small>[[H6031]]</small></sup>), (cause to, give) answer, bring low (by mistake for <span class="ashebrew">‎עָנָה‎</span><sup><small>[[H6031]]</small></sup>), cry, hear, Leannoth, lift up, say, [idiom] scholar, (give a) shout, sing (together by course), speak, testify, utter, (bear) witness. See also <span class="ashebrew">‎בֵּית עֲנוֹת‎</span><sup><small>[[H1042]]</small></sup>, <span class="ashebrew">‎בֵּית עֲנָת‎</span><sup><small>[[H1043]]</small></sup>.
+- properly, ***to eye*** or (generally) ***to heed***, i.e. ***pay attention***
+-  by implication, ***to respond***
+-  by extension ***to begin to speak***
+-  specifically ***to sing***, ***shout***, ***testify***, ***announce***
+
+**1)** to answer, respond, testify, speak, shout
+$\quad$ **1a)** (Qal)
+$\quad$ $\quad$ **1a1)** to answer, respond to
+$\quad$ $\quad$ **1a2)** to testify, respond as a witness
+$\quad$ **1b)** (Niphal)
+$\quad$ $\quad$ **1b1)** to make answer
+$\quad$ $\quad$ **1b2)** to be answered, receive answer
+**2)** (Qal) to sing, utter tunefully
+**3)** (Qal) to dwell
+
+<sub><small>See Greek: </small></sub><span class="asgreek">ἀκούω</span><sup><small>[[G0191]]</small></sup> · <span class="asgreek">ἀνθίστημι</span><sup><small>[[G0436]]</small></sup> · <span class="asgreek">ἀνταποκρίνομαι</span><sup><small>[[G0470]]</small></sup> · <span class="asgreek">ἀντέπω</span><sup><small>[[G0471]]</small></sup> · <span class="asgreek">ἀντικαθίστημι</span><sup><small>[[G0478]]</small></sup> · <span class="asgreek">ἀποκρίνομαι</span><sup><small>[[G0611]]</small></sup> · <span class="asgreek">ἀπόκρισις</span><sup><small>[[G0612]]</small></sup> · <span class="asgreek">ἀρέσκω</span><sup><small>[[G0700]]</small></sup> · <span class="asgreek">ἄρχω</span><sup><small>[[G0757]]</small></sup> · <span class="asgreek">εἴκοσι</span><sup><small>[[G1501]]</small></sup> · <span class="asgreek">εἰσακούω</span><sup><small>[[G1522]]</small></sup> · <span class="asgreek">ἐντρέπω</span><sup><small>[[G1788]]</small></sup> · <span class="asgreek">ἐπάγω</span><sup><small>[[G1863]]</small></sup> · <span class="asgreek">ἐπακούω</span><sup><small>[[G1873]]</small></sup> · <span class="asgreek">ἐπερωτάω</span><sup><small>[[G1905]]</small></sup> · <span class="asgreek">κακόω</span><sup><small>[[G2559]]</small></sup> · <span class="asgreek">κακόω</span><sup><small>[[G2559]]</small></sup> · <span class="asgreek">κάκωσις</span><sup><small>[[G2561]]</small></sup> · <span class="asgreek">καταλέγω</span><sup><small>[[G2639]]</small></sup> · <span class="asgreek">καταμαρτυρέω</span><sup><small>[[G2649]]</small></sup> · <span class="asgreek">μαρτυρέω</span><sup><small>[[G3140]]</small></sup> · <span class="asgreek">μηδαμῶς</span><sup><small>[[G3365]]</small></sup> · <span class="asgreek">παραδίδωμι</span><sup><small>[[G3860]]</small></sup> · <span class="asgreek">παροξύνω</span><sup><small>[[G3947]]</small></sup> · <span class="asgreek">περισπάω</span><sup><small>[[G4049]]</small></sup> · <span class="asgreek">ποῦ</span><sup><small>[[G4226]]</small></sup> · <span class="asgreek">προσέρχομαι</span><sup><small>[[G4334]]</small></sup> · <span class="asgreek">σαλεύω</span><sup><small>[[G4531]]</small></sup> · <span class="asgreek">στενάζω</span><sup><small>[[G4727]]</small></sup> · <span class="asgreek">ταπεινόω</span><sup><small>[[G5013]]</small></sup> · <span class="asgreek">ταπεινόω</span><sup><small>[[G5013]]</small></sup> · <span class="asgreek">τίς</span><sup><small>[[G5101]]</small></sup> · <span class="asgreek">ὑπακούω</span><sup><small>[[G5219]]</small></sup> · <span class="asgreek">ὑποκρίνομαι</span><sup><small>[[G5271]]</small></sup> · <span class="asgreek">ὑπολαμβάνω</span><sup><small>[[G5274]]</small></sup> · <span class="asgreek">φθέγγομαι</span><sup><small>[[G5350]]</small></sup> · <span class="asgreek">ψευδομαρτυρέω</span><sup><small>[[G5576]]</small></sup>

@@ -1,0 +1,31 @@
+**Deuteronomy 28:30** 
+<small><sub>**KJV:**</sub></small>
+Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.
+<small><sub>**BSB:**</sub></small>
+You will be pledged in marriage to a woman, but another man will violate her. You will build a house but will not live in it. You will plant a vineyard but will not enjoy its fruit.
+<small><sub>**Literal:**</sub></small>
+a woman you will betroth and  a man another he will lie with  her a house you will build and  not you will dwell in \<the>  it a vineyard you will plant and  not you will put to use  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.29|<< Deuteronomy 28:29]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.31|Deuteronomy 28:31 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| a woman  | <span class="ashebrew"><big>אִשָּׁ֣ה</big></span><small><sup>[[H0802H]]</sup></small> &#8207;| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will betroth  | <span class="ashebrew"><big>תְאָרֵ֗שׂ</big></span><small><sup>[[H0781]]</sup></small> &#8207;| te.'a.Res<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a man  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִ֤ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| another  | <span class="ashebrew"><big>אַחֵר֙</big></span><small><sup>[[H0312]]</sup></small> &#8207;| 'a.Cher<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will lie with her  [^2] | <span class="ashebrew"><big>יִשְׁכָּבֶ֔</big></span><small><sup>[[H7901I]]</sup></small> <span class="ashebrew"><big>נָּה</big></span><small><sup>[[H9034]]</sup></small> &#8207;[^3] | yish.ka.be.<small><sup>[[HVqi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| a house  | <span class="ashebrew"><big>בַּ֥יִת</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will build  | <span class="ashebrew"><big>תִּבְנֶ֖ה</big></span><small><sup>[[H1129]]</sup></small> &#8207;| tiv.Neh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will dwell  | <span class="ashebrew"><big>תֵשֵׁ֣ב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| te.Shev<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> it  | <span class="ashebrew"><big>בּ֑</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| b<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a vineyard  | <span class="ashebrew"><big>כֶּ֥רֶם</big></span><small><sup>[[H3754]]</sup></small> &#8207;| Ke.rem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will plant  | <span class="ashebrew"><big>תִּטַּ֖ע</big></span><small><sup>[[H5193]]</sup></small> &#8207;| ti.Ta'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will put to use it  | <span class="ashebrew"><big>תְחַלְּלֶּֽ</big></span><small><sup>[[H2490I]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;[^4] | te.chal.le.Le.<small><sup>[[HVpi2ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.29|<< Deuteronomy 28:29]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.31|Deuteronomy 28:31 >>]]</td></tr></table>
+
+[^1]: ==K==: **he will rape her ** | <small><sup>[[H9034]]</sup></small><span class="ashebrew"><big>נָּה</big></span> <small><sup>[[H7693]]</sup></small><span class="ashebrew"><big>יִשְׁגָּלֶ</big></span>  | yish.ga.le.<small><sup>[[HVqi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> 
+[^2]: ==K==: **he will rape her ** | <small><sup>[[H9034]]</sup></small><span class="ashebrew"><big>נָּה</big></span> <small><sup>[[H7693]]</sup></small><span class="ashebrew"><big>יִשְׁגָּלֶ</big></span>  | yish.ga.le.<small><sup>[[HVqi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>יִשְׁגָּלֶ֔נָּה</big></span>**
+[^4]: ==ABH== spelled: **<span class="ashebrew"><big>תְחַלְּלֶֽנּוּ\׃</big></span>**
+

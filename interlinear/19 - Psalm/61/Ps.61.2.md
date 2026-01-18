@@ -1,0 +1,23 @@
+**Psalms 61:2** (61:3)
+<small><sub>**KJV:**</sub></small>
+From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock [that] is higher than I.
+<small><sub>**BSB:**</sub></small>
+From the ends of the earth I call out to You whenever my heart is faint. Lead me to the rock that is higher than I.
+<small><sub>**Literal:**</sub></small>
+from  [the] end of the  earth to  you I call when  grows faint heart  my on  a rock [which] it is high more than  me you will lead  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.61.1|<< Psalms 61:1]]</td><td align="center" style="border:none;">[[Ps.61|Psalms 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61.3|Psalms 61:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| from [the] end of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>קְצֵ֤ה</big></span><small><sup>[[H7097A]]</sup></small> &#8207;| mi<small><sup>[[HR]]</sup></small> k.Tzeh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֨רֶץ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>אֵלֶ֣י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'e.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I call  | <span class="ashebrew"><big>אֶ֭קְרָא</big></span><small><sup>[[H7121G]]</sup></small> &#8207;| 'Ek.ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when grows faint  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲטֹ֣ף</big></span><small><sup>[[H5848C]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> 'a.Tof<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  | <span class="ashebrew"><big>לִבִּ֑</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on a rock  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צוּר</big></span><small><sup>[[H6697H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> tzur-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] it is high  | <span class="ashebrew"><big>יָר֖וּם</big></span><small><sup>[[H7311A]]</sup></small> &#8207;| ya.Rum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than me  | <span class="ashebrew"><big>מִמֶּ֣</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נִּי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| mi.Me.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will lead me  | <span class="ashebrew"><big>תַנְחֵֽ</big></span><small><sup>[[H5148]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tan.Che.<small><sup>[[HVhi2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.61.1|<< Psalms 61:1]]</td><td align="center" style="border:none;">[[Ps.61|Psalms 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61.3|Psalms 61:3 >>]]</td></tr></table>
+
+

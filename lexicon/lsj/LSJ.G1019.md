@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==βραδύνω==</span></b>, 
+
+
+ <i>future</i> <b>-<span class='asgreek'>ῠνῶ</span></b>[<a href="javascript:void(0)" title=" LXX.Deut.7.10 ">LXX</a>]: <i>aorist</i> <span class='asgreek'>ἐβράδῡνα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Cont.” 1, 2nd c.AD: Appianus Historicus “Bella Civilia” 1.69 ">Refs 2nd c.AD+</a>]: <i>pluperfect</i> <span class='asgreek'>ἐβεβραδύκειν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Symp.” 20 ">Refs 2nd c.AD+</a>]: (<span class='asgreek'>βραδύς</span>): 
+
+$\quad$ $\quad$<b>\_\_I</b> <i>transitive</i>, <b>make slow, delay</b>, [<a href="javascript:void(0)" title=" LXX.Isa.46.13 ">LXX</a>]:—<i>passive</i>, <b>to be delayed</b>, <span class='asgreek'>τἀπὸ</span> <span class='asgreek'>σοῦ</span> <span class='asgreek'>βραδύνεται</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1628; ἡ δ᾽ ὁδὸς βραδύνεται [prev. author] “El.” 1501. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>loiter, delay</b>, <span class='asgreek'>εἰ</span> <span class='asgreek'>βραδύνοιμεν</span> <span class='asgreek'>βοῇ</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 730 ">Refs 4th c.BC+</a>] (so in <i>middle</i>, <span class='asgreek'>χεῖρα</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>οὐ</span> <span class='asgreek'>βραδύνεται</span>.. <span class='asgreek'>ἁρπάσαι</span> <span class='asgreek'>δόρυ</span> [<a href="javascript:void(0)" title=" [prev. author] “Th.” 623); μὴ βράδυνε 5th c.BC: Sophocles Tragicus “Philoctetes” 1400; σπεύδων.. βραδύνω 5th-6th c.BC: Plato Philosophus “Respublica” 528d ">Refs 5th c.BC+</a>]: with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 2nd c.AD: Polyaenus Historicus 1.48.4 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>βραδύνει</span> <span class='asgreek'>σοι</span> <span class='asgreek'>τοῦτ</span>; <b>are</b> you <b>slow, slack</b> in this ? [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.6. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Deut.7.10]] ☩ [[Isa.46.13]]
+</sub></small>

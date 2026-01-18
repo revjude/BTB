@@ -1,0 +1,8 @@
+<span class="asgreek">ταλαιπώρως</span> <small>***(talaipōrōs)***</small> ==**miserably**==  <sup><small>[[TEGMC#|]]</small></sup> 
+
+Included with: <b> <span class='asgreek'>==ταλαιπώρως==</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>suffering, distressed, miserable</b>, <span class='asgreek'>Θῆβαι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “Fragmenta.” 197; βροτοί 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 233; ὦ ταλαίπωρ᾽ [prev. work] 317, compare 595 (Lyric poetry), 623, 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 14, etc.; ἀνδρῶν γένος [prev. author] “fragment” 945; τ. ἄρα τις σύ γε 5th-6th c.BC: Plato Philosophus “Euthydemus” 302b ">Refs 5th c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>τ</span>. <b>hardihood</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 414 ">Refs 5th c.BC+</a>]; <b>a hard life</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus ">Refs 5th c.BC+</a>]“Aër.” 19. <i>adverb</i> <b>-<span class='asgreek'>ρως</span></b>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 54, 5th c.BC: Thucydides Historicus 3.4. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> of things, <span class='asgreek'>τ</span>. <span class='asgreek'>βίος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 91; πράγματα 5th-6th c.BC: Aristophanes Comicus “Aves” 135; πάθος 2nd c.AD: Alexander Rhetor 144; ταλαιπωρότερον οὐδέν ἐστι.. τῆς γαστρός 4th-3rd c.BC: Diphilus Comicus 60.3. ">Refs 5th c.BC+</a>]

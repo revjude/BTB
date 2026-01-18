@@ -1,0 +1,26 @@
+**Exodus 21:32** 
+<small><sub>**KJV:**</sub></small>
+If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.
+<small><sub>**BSB:**</sub></small>
+If the ox gores a manservant or maidservant, the owner must pay thirty shekels of silver to the master of that servant, and the ox must be stoned.
+<small><sub>**Literal:**</sub></small>
+if a [male] slave it will gore the  ox or a female slave silver thirty shekels he will give to  master\<s>  his and  the  ox it will be stoned to death<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.31|<< Exodus 21:31]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.33|Exodus 21:33 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a [male] slave  | <span class="ashebrew"><big>עֶ֛בֶד</big></span><small><sup>[[H5650]]</sup></small> &#8207;| 'E.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will gore  | <span class="ashebrew"><big>יִגַּ֥ח</big></span><small><sup>[[H5055]]</sup></small> &#8207;| yi.Gach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ox  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שּׁ֖וֹר</big></span><small><sup>[[H7794]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  | <span class="ashebrew"><big>א֣וֹ</big></span><small><sup>[[H0176A]]</sup></small> &#8207;| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a female slave  | <span class="ashebrew"><big>אָמָ֑ה</big></span><small><sup>[[H0519]]</sup></small> &#8207;| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  | <span class="ashebrew"><big>כֶּ֣סֶף</big></span><small><sup>[[H3701G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֣ים</big></span><small><sup>[[H7970]]</sup></small> &#8207;| she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shekels  | <span class="ashebrew"><big>שְׁקָלִ֗ים</big></span><small><sup>[[H8255]]</sup></small> &#8207;| she.ka.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will give  | <span class="ashebrew"><big>יִתֵּן֙</big></span><small><sup>[[H5414N]]</sup></small> &#8207;| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to master\<s> his  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אדֹנָ֔י</big></span><small><sup>[[H0113]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> do.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the ox  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שּׁ֖וֹר</big></span><small><sup>[[H7794]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be stoned to death  | <span class="ashebrew"><big>יִסָּקֵֽל</big></span><small><sup>[[H5619]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| yi.sa.Kel<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.31|<< Exodus 21:31]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.33|Exodus 21:33 >>]]</td></tr></table>
+
+

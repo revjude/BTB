@@ -1,0 +1,10 @@
+<span class="asform">† <span class="asgreek"><span class="asbold">μογι-λάλος</span></span>, <span class="asgreek">-ον</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">μόγις</span>, <span class="asgreek">λάλος</span>),</span>  <span class="asseptuagint">\[in LXX: [[Isa.35.6|Is 35:6]] (<span class="ashebrew">אִלֵּם</span> <small><sup>[[H0483]]</sup></small>)\*;\]</span> </span>
+<span class="asitalic">speaking with difficulty</span>: [[Mark.7.32|Mk 7:32]] (Tr., txt., <span class="asgreek">μογγιλάλος</span>, <span class="asitalic">thick-voiced</span>, v. Swete, in l.).†
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Isaiah | [[Isa.35.6\|35:6]] |
+| Mark | [[Mark.7.32\|7:32]] |
+

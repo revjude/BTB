@@ -1,0 +1,29 @@
+**Isaiah 5:20** 
+<small><sub>**KJV:**</sub></small>
+Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!
+<small><sub>**BSB:**</sub></small>
+Woe to those who call evil good and good evil, who turn darkness to light and light to darkness, who replace bitter with sweet and sweet with bitter.
+<small><sub>**Literal:**</sub></small>
+woe to! those  [who] say of \<the>  evil good and  of \<the>  good evil [those who] make darkness into  light and  light into  darkness [those who] make bitter into  sweet and  sweet into  bitter<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.19|<< Isaiah 5:19]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.21|Isaiah 5:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| woe to!  | <span class="ashebrew"><big>ה֣וֹי</big></span><small><sup>[[H1945]]</sup></small> &#8207;| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| those [who] say  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֹמְרִ֥ים</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> evil  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רַ֛ע</big></span><small><sup>[[H7451B]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  | <span class="ashebrew"><big>ט֖וֹב</big></span><small><sup>[[H2896B]]</sup></small> &#8207;| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and of \<the> good  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>טּ֣וֹב</big></span><small><sup>[[H2896B]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  | <span class="ashebrew"><big>רָ֑ע</big></span><small><sup>[[H7451B]]</sup></small> &#8207;| Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] make  | <span class="ashebrew"><big>שָׂמִ֨ים</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| sa.Mim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| darkness  | <span class="ashebrew"><big>חֹ֤שֶׁךְ</big></span><small><sup>[[H2822]]</sup></small> &#8207;| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into light  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אוֹר֙</big></span><small><sup>[[H0216]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'Or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and light  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>א֣וֹר</big></span><small><sup>[[H0216]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into darkness  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֹ֔שֶׁךְ</big></span><small><sup>[[H2822]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] make  | <span class="ashebrew"><big>שָׂמִ֥ים</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| sa.Mim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bitter  | <span class="ashebrew"><big>מַ֛ר</big></span><small><sup>[[H4751]]</sup></small> &#8207;| mar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into sweet  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מָת֖וֹק</big></span><small><sup>[[H4966]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ma.Tok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sweet  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מָת֥וֹק</big></span><small><sup>[[H4966]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.Tok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| into bitter  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מָֽר</big></span><small><sup>[[H4751]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.19|<< Isaiah 5:19]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.21|Isaiah 5:21 >>]]</td></tr></table>
+
+

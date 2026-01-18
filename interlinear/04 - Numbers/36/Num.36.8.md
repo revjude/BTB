@@ -1,0 +1,33 @@
+**Numbers 36:8** 
+<small><sub>**KJV:**</sub></small>
+And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.
+<small><sub>**BSB:**</sub></small>
+Every daughter who possesses an inheritance from any Israelite tribe must marry within a clan of the tribe of her father, so that every Israelite will possess the inheritance of his fathers.
+<small><sub>**Literal:**</sub></small>
+and  every daughter [who] possesses an inheritance from  [the] tribes of [the] people of Israel to  one of  [the] clan of [the] tribe of father  her she will belong to  a wife so that they may possess [the] people of Israel everyone [the] inheritance of ancestors  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.7|<< Numbers 36:7]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.9|Numbers 36:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and every  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| daughter  | <span class="ashebrew"><big>בַּ֞ת</big></span><small><sup>[[H1323G]]</sup></small> &#8207;| bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] possesses  | <span class="ashebrew"><big>יֹרֶ֣שֶׁת</big></span><small><sup>[[H3423G]]</sup></small> &#8207;| yo.Re.shet<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an inheritance  | <span class="ashebrew"><big>נַחֲלָ֗ה</big></span><small><sup>[[H5159]]</sup></small> &#8207;| na.cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] tribes of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מַּטּוֹת֮</big></span><small><sup>[[H4294H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ma.tOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵל֒</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to one  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֶחָ֗ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] clan of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּשְׁפַּ֛חַת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tribe of  | <span class="ashebrew"><big>מַטֵּ֥ה</big></span><small><sup>[[H4294H]]</sup></small> &#8207;| ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father her  | <span class="ashebrew"><big>אָבִ֖י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she will belong  | <span class="ashebrew"><big>תִּהְיֶ֣ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a wife  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אִשָּׁ֑ה</big></span><small><sup>[[H0802H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so that  | <span class="ashebrew"><big>לְמַ֗עַן</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they may possess  | <span class="ashebrew"><big>יִֽירְשׁוּ֙</big></span><small><sup>[[H3423G]]</sup></small> &#8207;| yi.re.Shu<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| everyone  | <span class="ashebrew"><big>אִ֖ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] inheritance of  | <span class="ashebrew"><big>נַחֲלַ֥ת</big></span><small><sup>[[H5159]]</sup></small> &#8207;| na.cha.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors his  | <span class="ashebrew"><big>אֲבֹתָֽי</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.7|<< Numbers 36:7]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.9|Numbers 36:9 >>]]</td></tr></table>
+
+

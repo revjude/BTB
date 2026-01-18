@@ -1,0 +1,30 @@
+**Numbers 26:58** 
+<small><sub>**KJV:**</sub></small>
+These [are] the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath begat Amram.
+<small><sub>**BSB:**</sub></small>
+These were the families of the Levites: The Libnite clan, the Hebronite clan, the Mahlite clan, the Mushite clan, and the Korahite clan. Now Kohath was the father of Amram,
+<small><sub>**Literal:**</sub></small>
+these [were] [the] clans of Levi [the] clan of the  Libnite[s] [the] clan of the  Hebronite[s] [the] clan of the  Mahlite[s] [the] clan of the  Mushite[s] [the] clan of the  Korahite[s] and  Kohath he fathered \<obj.> Amram<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.57|<< Numbers 26:57]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.59|Numbers 26:59 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| these  | <span class="ashebrew"><big>אֵ֣לֶּה</big></span><small><sup>[[H0428]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] clans of  | <span class="ashebrew"><big>מִשְׁפְּחֹ֣ת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Levi  | <span class="ashebrew"><big>לֵוִ֗י</big></span><small><sup>[[H3878]]</sup></small> &#8207;| le.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clan of  | <span class="ashebrew"><big>מִשְׁפַּ֨חַת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Libnite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לִּבְנִ֜י</big></span><small><sup>[[H3846]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> liv.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clan of  | <span class="ashebrew"><big>מִשְׁפַּ֤חַת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Hebronite[s]  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֶבְרֹנִי֙</big></span><small><sup>[[H2276]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chev.ro.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clan of  | <span class="ashebrew"><big>מִשְׁפַּ֤חַת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Mahlite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּחְלִי֙</big></span><small><sup>[[H4250]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mach.Li<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clan of  | <span class="ashebrew"><big>מִשְׁפַּ֣חַת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Mushite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מּוּשִׁ֔י</big></span><small><sup>[[H4188]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mu.Shi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clan of  | <span class="ashebrew"><big>מִשְׁפַּ֖חַת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Korahite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קָּרְחִ֑י</big></span><small><sup>[[H7145]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ka.re.Chi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Kohath  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קְהָ֖ת</big></span><small><sup>[[H6955]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ke.Hat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fathered  | <span class="ashebrew"><big>הוֹלִ֥ד</big></span><small><sup>[[H3205]]</sup></small> &#8207;| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Amram  | <span class="ashebrew"><big>עַמְרָֽם</big></span><small><sup>[[H6019G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'am.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.57|<< Numbers 26:57]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.59|Numbers 26:59 >>]]</td></tr></table>
+
+

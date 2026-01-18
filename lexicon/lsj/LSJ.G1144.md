@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==δάκρυ, δάκρυον==</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ used by Poets for the sake of meter for <span class='asgreek'>==δάκρυ, δάκρυον==ον</span> in <i>singular</i> <span class='asgreek'>==δάκρυ, δάκρυον==</span> and <i>dative</i> <i>plural</i> <span class='asgreek'>==δάκρυ, δάκρυον==σι</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 9.570, etc.: \_dative\_ \_plural\_ sometimes in Prose, 5th c.BC: Thucydides Historicus 7.75, 4th c.BC: Demosthenes Orator 30.32, “Eu/.Luc.” 7.38: \_plural\_, δάκρη “Anecdota Graeca - MSS. Bibl. Oxon.” 1.121 (conjecture Bgk. in 5th c.BC: Pindarus Lyricus “Fragmenta.” 122.3, compare ==δάκρυ, δάκρυον==ον 2)">Refs 8th c.BC+</a>]:—<b>tear,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 2.266, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 4.114, 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 638, etc.; τοῦ ὅ γε δ. χέων 8th c.BC: Odyssea Homerus Epicus “Odyssey” 2.24. ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> generally, <b>drop,</b> <span class='asgreek'>λιβάνου</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus [same place]; δ. πεύκινον 5th c.BC: Euripides Tragicus “Medea” 1200 ">Refs 5th c.BC+</a>]. (Cf.Latin <i>lacruma,</i> Gothic <i>tagr,</i> O[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus ">Refs 5th c.BC+</a>] <b>tear.</b>)

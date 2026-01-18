@@ -1,0 +1,9 @@
+<span class="asgreek">ἄπληστος</span> <small>***(aplēstos)***</small> ==**insatiable**==  <sup><small>[[TEGMC#G:A--C|G:A--C]]</small></sup> 
+
+<b> <span class='asgreek'>==ἄπληστος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>insatiate, greedy,</b> [<a href="javascript:void(0)" title=" 6th c.BC: Theognis Elegiacus 109, 5th c.BC: Sophocles Tragicus “Electra” 1336, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 591b2, etc.">Refs 6th c.BC+</a>]; sometimes confounded with <span class='asgreek'>ἄπλαστος</span> (i.e. <span class='asgreek'>ἄπλατος</span>), which see 
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>genitive</i>, <span class='asgreek'>ἄ</span>. <span class='asgreek'>χρημάτων</span>, <span class='asgreek'>αἵματος</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.187, 212, 5th-6th c.BC: Plato Philosophus “Leges” 773e, etc.; κακῶν 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 976 (Lyric poetry). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> -<span class='asgreek'>τως</span>, <span class='asgreek'>ἔχειν</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Gorgias” 493c, +others">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>διακεῖσθαι</span> or <span class='asgreek'>ἔχειν</span> <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 4.1.14, 5th-6th c.BC: Isocrates Orator 5.135, 8.7">Refs 5th c.BC+</a>]: also <i>neuter</i> <i>plural</i> as <i>adverb</i>, <span class='asgreek'>αἰάξας</span> <span class='asgreek'>==ἄπληστος==α</span>[<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2240 (from Chios).">Refs</a>]

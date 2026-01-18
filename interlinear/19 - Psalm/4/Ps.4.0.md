@@ -1,0 +1,17 @@
+**Psalms 4:0** (4:1)
+<small><sub>**KJV:**</sub></small>
+To the chief Musician on Neginoth, A Psalm of David. Hear me when I call, O God of my righteousness: thou hast enlarged me [when I was] in distress; have mercy upon me, and hear my prayer.
+<small><sub>**BSB:**</sub></small>
+For the choirmaster. With stringed instruments. A Psalm of David. Answer me when I call, O God of my righteousness! You have relieved my distress; show me grace and hear my prayer.
+<small><sub>**Literal:**</sub></small>
+to the  choirmaster with  stringed instruments a psalm of  David<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.8|<< Psalms 3:8]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4.1|Psalms 4:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to the choirmaster  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מְנַצֵּ֥חַ</big></span><small><sup>[[H5329]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with stringed instruments  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נְגִינ֗וֹת</big></span><small><sup>[[H5058]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> n.gi.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a psalm  | <span class="ashebrew"><big>מִזְמ֥וֹר</big></span><small><sup>[[H4210]]</sup></small> &#8207;| miz.Mor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of David  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָוִֽד</big></span><small><sup>[[H1732]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.8|<< Psalms 3:8]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4.1|Psalms 4:1 >>]]</td></tr></table>
+
+

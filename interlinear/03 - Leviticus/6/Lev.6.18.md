@@ -1,0 +1,28 @@
+**Leviticus 6:18** (6:11)
+<small><sub>**KJV:**</sub></small>
+All the males among the children of Aaron shall eat of it. [It shall be] a statute for ever in your generations concerning the offerings of the LORD made by fire: every one that toucheth them shall be holy.
+<small><sub>**BSB:**</sub></small>
+Any male among the sons of Aaron may eat it. This is a permanent portion from the food offerings to the LORD for the generations to come. Anything that touches them will become holy.”
+<small><sub>**Literal:**</sub></small>
+every male among  [the] sons of Aaron he will eat  it a prescribed portion of perpetuity to  generations  your from  [the] fire offerings of Yahweh every [one] who he will touch \<in>  them he will be holy<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.17|<< Leviticus 6:17]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.19|Leviticus 6:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| male  | <span class="ashebrew"><big>זָכָ֞ר</big></span><small><sup>[[H2145]]</sup></small> &#8207;| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among [the] sons of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בְנֵ֤י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aaron  | <span class="ashebrew"><big>אַהֲרֹן֙</big></span><small><sup>[[H0175]]</sup></small> &#8207;| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will eat it  | <span class="ashebrew"><big>יֹֽאכֲלֶ֔</big></span><small><sup>[[H0398]]</sup></small> <span class="ashebrew"><big>נָּה</big></span><small><sup>[[H9034]]</sup></small> &#8207;| yo.kha.Le.<small><sup>[[HVqi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a prescribed portion of  | <span class="ashebrew"><big>חָק</big></span><small><sup>[[H2706G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| chok-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  | <span class="ashebrew"><big>עוֹלָם֙</big></span><small><sup>[[H5769G]]</sup></small> &#8207;| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to generations your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דֹרֹ֣תֵי</big></span><small><sup>[[H1755]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> do.Ro.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] fire offerings of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אִשֵּׁ֖י</big></span><small><sup>[[H0801]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'i.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כֹּ֛ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one] who  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will touch  | <span class="ashebrew"><big>יִגַּ֥ע</big></span><small><sup>[[H5060]]</sup></small> &#8207;| yi.Ga'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> them  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be holy  | <span class="ashebrew"><big>יִקְדָּֽשׁ</big></span><small><sup>[[H6942G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| yik.Dash<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.17|<< Leviticus 6:17]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.19|Leviticus 6:19 >>]]</td></tr></table>
+
+

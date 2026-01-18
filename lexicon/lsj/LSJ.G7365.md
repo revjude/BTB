@@ -1,0 +1,14 @@
+<span class="asgreek">ἐπανθέω</span> <small>***(epantheō)***</small> ==**to bloom again**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐπανθέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>bloom, be in flower,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 5.131, LXX.Job.14.7. ">LXX+3rd c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, of any thing that <b>forms on the surface,</b> <span class='asgreek'>ἅλμην</span> <span class='asgreek'>==ἐπανθέω==έουσαν</span> [<span class='asgreek'>τοῖι</span> <span class='asgreek'>ὄρεσι</span>] [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.12, compare 1st c.BC-1st c.AD: Strabo Geographus 11.13.2; χνοῦς ὥσπερ μήλοισιν ἐπήνθει 5th-6th c.BC: Aristophanes Comicus “Nubes” 978; τὸ τρυφερὸν.. ἐπὶ τοῖς μήλοις ==ἐπανθέω==εῖ [prev. author] “Ec.” 903; τὴν ==ἐπανθέω==οῦσαν τρίχα [prev. work] 13 ">Refs 5th c.BC+</a>]; also of hair turning grey, <span class='asgreek'>κύκνου</span>.. <span class='asgreek'>πολιώτεραι</span> <span class='asgreek'>δὴ</span> <span class='asgreek'>αἵδ᾽</span> <span class='asgreek'>==ἐπανθέω==οῦσιν</span> <span class='asgreek'>τρίχες</span> [<a href="javascript:void(0)" title=" [prev. author] “V.” 1065, compare 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 4.8. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> generally, <b>to be upon the surface,</b> <span class='asgreek'>τρηχύτης</span> <span class='asgreek'>ἐπήνθει</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 7.43; ἐμοὶ.. ἐπάνθεεν ἁδύ τι κάλλος 3rd c.BC: Theocritus Poeta Bucolicus 20.21; ἐπὶ σμικρῷ ἰκτέρῳ ἡ χροιὴ μέζων ==ἐπανθέω==έει 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 1.15. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <i>absolutely</i>, <b>show itself, appear plainly,</b> <span class='asgreek'>τοὐπιχώριον</span> <span class='asgreek'>==ἐπανθέω==εῖ</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 1174; ὅπερ.. παισὶ καὶ θηρίοις.. σύμφυτον ==ἐπανθέω==εῖ 5th-6th c.BC: Plato Philosophus “Leges” 710a; τῷΙσοκράτει πολλαὶ χάριτες ἐπήνθουν 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 19; πᾶσιν ==ἐπανθέω==εῖ.. ἡ χάρις 2nd c.AD: Lucianus Sophista “Im.” 9, compare “Hist.Conscr.” 55; τῷ προσώπῳ τὸ θηριῶδες ἐ. 4th c.AD: Callistratus Sophista “Statuarum descriptiones” 12; τὰ -οῦντα τῇ αἰσθήσει τῶν ζῴων θελκτήρια [prev. work] 7. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>to be bright,</b> <span class='asgreek'>πτερίσκοις</span> <span class='asgreek'>πορφυροῖς</span> <span class='asgreek'>==ἐπανθέω==ούντων</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Babrius Fabularum Scriptor 118.5. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Job.14.7]]
+</sub></small>

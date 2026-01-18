@@ -1,0 +1,31 @@
+**Isaiah 30:1** 
+<small><sub>**KJV:**</sub></small>
+Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:
+<small><sub>**BSB:**</sub></small>
+“Woe to the rebellious children,” declares the LORD, “to those who carry out a plan that is not Mine, who form an alliance, but against My will, heaping up sin upon sin.
+<small><sub>**Literal:**</sub></small>
+woe to! children [who are] rebellious [the] utterance of Yahweh by  making a plan and  not from  me and  by  pouring out a libation and  not spirit  my so as to add sin to sin<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.24|<< Isaiah 29:24]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.2|Isaiah 30:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| woe to!  | <span class="ashebrew"><big>ה֣וֹי</big></span><small><sup>[[H1945]]</sup></small> &#8207;| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children  | <span class="ashebrew"><big>בָּנִ֤ים</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who are] rebellious  | <span class="ashebrew"><big>סֽוֹרְרִים֙</big></span><small><sup>[[H5637]]</sup></small> &#8207;| so.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  | <span class="ashebrew"><big>נְאֻם</big></span><small><sup>[[H5002]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by making  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֲשׂ֤וֹת</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a plan  | <span class="ashebrew"><big>עֵצָה֙</big></span><small><sup>[[H6098]]</sup></small> &#8207;| 'e.Tzah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from me  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נִּ֔י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| mi.<small><sup>[[HRd]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and by pouring out  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נְסֹ֥ךְ</big></span><small><sup>[[H5258A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> n.Sokh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a libation  | <span class="ashebrew"><big>מַסֵּכָ֖ה</big></span><small><sup>[[H4541A]]</sup></small> &#8207;| ma.se.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spirit my  | <span class="ashebrew"><big>רוּחִ֑</big></span><small><sup>[[H7307G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ru.Ch<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so as  | <span class="ashebrew"><big>לְמַ֛עַן</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to add  | <span class="ashebrew"><big>סְפ֥וֹת</big></span><small><sup>[[H5595]]</sup></small> &#8207;| se.Fot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sin  | <span class="ashebrew"><big>חַטָּ֖את</big></span><small><sup>[[H2403B]]</sup></small> &#8207;| cha.Tat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sin  | <span class="ashebrew"><big>חַטָּֽאת</big></span><small><sup>[[H2403B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| cha.Tat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.24|<< Isaiah 29:24]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.2|Isaiah 30:2 >>]]</td></tr></table>
+
+

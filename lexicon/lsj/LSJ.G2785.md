@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==κῆτος==</span></b>, <span class='asgreek'>εος</span>, <span class='asgreek'>τό</span>, 
+
+
+ <b>any sea-monster</b> or <b>huge fish</b>, <span class='asgreek'>δελφῖνάς</span> <span class='asgreek'>τε</span> <span class='asgreek'>κύνας</span> <span class='asgreek'>τε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>εἴ</span> <span class='asgreek'>ποθι</span> <span class='asgreek'>μεῖζον</span> <span class='asgreek'>ἑλῃσι</span> <span class='asgreek'>==κῆτος==</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 12.97, compare 5.421, 8th c.BC: Ilias Homerus Epicus “Illiad” 20.147, 2nd c.BC: Moschus Bucolicus 2.116 ">Refs 8th c.BC+</a>]; of seals, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 4.446, 452 ">Refs 8th c.BC+</a>]; of the monster to which Andromeda was exposed, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Fragmenta” 121, compare 5th-6th c.BC: Aristophanes Comicus “Nubes” 556, “Th.” 1033 ">Refs 5th c.BC+</a>]; of the tunny, [<a href="javascript:void(0)" title=" 4th c.BC: Archestratus Epicus “fragment” 34.3. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in Natural History, of the spouting <b>cetacea</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 566b2, “PA” 669a8, 697a16. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> name of a constellation, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus 354, 4th c.BC: Eudoxus Astronomus cited in 2nd c.BC: Hipparchus Astronomicus 1.2.20. ">Refs 4th c.BC+</a>]

@@ -1,0 +1,25 @@
+**Numbers 26:12** 
+<small><sub>**KJV:**</sub></small>
+The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:
+<small><sub>**BSB:**</sub></small>
+These were the descendants of Simeon by their clans: The Nemuelite clan from Nemuel, the Jaminite clan from Jamin, the Jachinite clan from Jachin,
+<small><sub>**Literal:**</sub></small>
+[the] descendants of Simeon to  clans  their of  Nemuel [the] clan of the  Nemuelite[s] of  Jamin [the] clan of the  Jaminite[s] of  Jakin [the] clan of the  Jakinite[s]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.11|<< Numbers 26:11]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.13|Numbers 26:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Simeon  | <span class="ashebrew"><big>שִׁמְעוֹן֮</big></span><small><sup>[[H8095G]]</sup></small> &#8207;| shim.'On<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to clans their  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִשְׁפְּחֹתָ</big></span><small><sup>[[H4940]]</sup></small> <span class="ashebrew"><big>ם֒</big></span><small><sup>[[H9028]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mish.pe.cho.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Nemuel  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נְמוּאֵ֗ל</big></span><small><sup>[[H5241H]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> n.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clan of  | <span class="ashebrew"><big>מִשְׁפַּ֙חַת֙</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Nemuelite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נְּמ֣וּאֵלִ֔י</big></span><small><sup>[[H5242]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ne.Mu.'e.Li<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Jamin  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יָמִ֕ין</big></span><small><sup>[[H3226G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clan of  | <span class="ashebrew"><big>מִשְׁפַּ֖חַת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Jaminite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּמִינִ֑י</big></span><small><sup>[[H3228H]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> ya.mi.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Jakin  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יָכִ֕ין</big></span><small><sup>[[H3199G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ya.Khin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] clan of  | <span class="ashebrew"><big>מִשְׁפַּ֖חַת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Jakinite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּכִינִֽי</big></span><small><sup>[[H3200]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> ya.khi.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.11|<< Numbers 26:11]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.13|Numbers 26:13 >>]]</td></tr></table>
+
+

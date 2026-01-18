@@ -1,0 +1,1 @@
+<span class="ashebrew">‎חֹ֫מֶשׁ‎</span> <small>***(cho.mesh)***</small> ==**fifth**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 

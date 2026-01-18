@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==μετανοέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>perceive afterwards</b> or <b>too late</b>, opposed to <span class='asgreek'>προνοέω</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Epicharmus Comicus [280] ">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>προβουλεύομαι</span>, [<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus 66 ">Refs 3rd c.AD+</a>]; <b>concur subsequently</b>, <span class='asgreek'>τισι</span> [<a href="javascript:void(0)" title=" “BGU” 747 i 11 (2nd c.AD). ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>change one's mind</b> or <b>purpose</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Euthydemus” 279c, 4th-3rd c.BC: Menander Comicus “Ἐπιτρέποντες” 72 ">Refs 5th c.BC+</a>]; <span class='asgreek'>μ</span>. <span class='asgreek'>μὴ</span> <span class='asgreek'>οὔτε</span>.. <span class='asgreek'>τῶν</span> <span class='asgreek'>χαλεπῶν</span> <span class='asgreek'>ἔργων</span> <span class='asgreek'>ᾖ</span> <span class='asgreek'>τὸ</span>.. <span class='asgreek'>ἄρχειν</span> <b>change one's opinion and think</b> that it is not.., [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.1.3. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>repent</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 2.4.12; ἐν τοῖς ἀνηκέστοις [prev. author] 5.91: frequently in LXX and “NT, Si.” 48.15, +others; ἀπὸ τῆς κακίας NT.Acts.8.22; ἐκ τῶν ἔργων NT.Rev.9.20; ἐπὶ τῇ ἀκαθαρσίᾳ NT.2Cor.12.21, compare “OGI” 751.9 (Amblada, 2nd c.BC)">NT+5th c.BC+</a>]; <span class='asgreek'>ἐπί</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Salt.” 84, etc.; περί τινων 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Galba” 6; τοῖς πεπραγμένοις [prev. author] “Agis” 19 ">Refs 1st c.AD+</a>]: with <i>participle</i>, <span class='asgreek'>μ</span>. <span class='asgreek'>γενόμενος</span> <span class='asgreek'>Ἕλλην</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Am.” 36. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> with <i>accusative</i>, <b>repent of</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>ἄφιξιν</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 4.4.5. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.8.22]] ☩ [[Rev.9.20]] ☩ [[2Cor.12.21]]
+</sub></small>

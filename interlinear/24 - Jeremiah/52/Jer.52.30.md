@@ -1,0 +1,33 @@
+**Jeremiah 52:30** 
+<small><sub>**KJV:**</sub></small>
+In the three and twentieth year of Nebuchadrezzar Nebuzaradan the captain of the guard carried away captive of the Jews seven hundred forty and five persons: all the persons [were] four thousand and six hundred.
+<small><sub>**BSB:**</sub></small>
+in Nebuchadnezzar’s twenty-third year, Nebuzaradan captain of the guard carried away 745 Jews. So in all, 4,600 people were taken away.
+<small><sub>**Literal:**</sub></small>
+in  year three and  twenty of  Nebuchadnezzar he took into exile Nebuzaradan [the] chief of [the] bodyguards Jews person[s] seven hundred\<s> forty and  five every person [was] four thousand\<s> and  six hundred\<s><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.29|<< Jeremiah 52:29]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.31|Jeremiah 52:31 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| in year  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁנַ֨ת</big></span><small><sup>[[H8141]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שָׁלֹ֣שׁ</big></span><small><sup>[[H7969]]</sup></small> &#8207;| sha.Losh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and twenty  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֶשְׂרִים֮</big></span><small><sup>[[H6242]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Nebuchadnezzar  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נְבֽוּכַדְרֶאצַּר֒</big></span><small><sup>[[H5019]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> n.vu.khad.re.Tzar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he took into exile  | <span class="ashebrew"><big>הֶגְלָ֗ה</big></span><small><sup>[[H1540K]]</sup></small> &#8207;| heg.Lah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebuzaradan  | <span class="ashebrew"><big>נְבֽוּזַרְאֲדָן֙</big></span><small><sup>[[H5018]]</sup></small> &#8207;| ne.vu.zar.'a.Dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chief of  | <span class="ashebrew"><big>רַב</big></span><small><sup>[[H7227B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| rav-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] bodyguards  | <span class="ashebrew"><big>טַבָּחִ֔ים</big></span><small><sup>[[H2876]]</sup></small> &#8207;| ta.ba.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jews  | <span class="ashebrew"><big>יְהוּדִ֕ים</big></span><small><sup>[[H3064]]</sup></small> &#8207;| ye.hu.Dim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| person[s]  | <span class="ashebrew"><big>נֶ֕פֶשׁ</big></span><small><sup>[[H5315J]]</sup></small> &#8207;| Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שְׁבַ֥ע</big></span><small><sup>[[H7651]]</sup></small> &#8207;| she.Va'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵא֖וֹת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| forty  | <span class="ashebrew"><big>אַרְבָּעִ֣ים</big></span><small><sup>[[H0705]]</sup></small> &#8207;| 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֲמִשָּׁ֑ה</big></span><small><sup>[[H2568]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| person  | <span class="ashebrew"><big>נֶ֕פֶשׁ</big></span><small><sup>[[H5315J]]</sup></small> &#8207;| Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] four  | <span class="ashebrew"><big>אַרְבַּ֥עַת</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.Ba.'at<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִ֖ים</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and six  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֵׁ֥שׁ</big></span><small><sup>[[H8337]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Shesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵאֽוֹת</big></span><small><sup>[[H3967]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.29|<< Jeremiah 52:29]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.31|Jeremiah 52:31 >>]]</td></tr></table>
+
+

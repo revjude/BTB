@@ -1,0 +1,14 @@
+<span class="asgreek">ἀργία</span> <small>***(argia)***</small> ==**idleness**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀργία==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ ={<span class='asgreek'>ἀεργία</span>}, <b>want of employment,</b> <span class='asgreek'>πεσσοὺς</span> <span class='asgreek'>κύβους</span> <span class='asgreek'>τε</span>, <span class='asgreek'>τερπνὸν</span> <span class='asgreek'>==ἀργία==ς</span> <span class='asgreek'>ἄκος</span>[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 479.4; νεύρων καὶ ἄρθρων 5th c.BC: Hippocrates Medicus “Mochl.” 23; τοῦ καλοῦ 5th c.AD: Hierocles Platonicus Philosophus “in Carmen Aureum - FPG” 19p.461M.; ψυχῆς ἀργίη 3rd c.AD: Democritus Epigrammaticus 212">Refs 5th c.BC+</a>]; <b>idleness, laziness,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hercules Furens” 592">Refs 5th c.BC+</a>]; <span class='asgreek'>νόμος</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>==ἀργία==ς</span> against those who <b>would not work,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 57.32; γραφὴ ==ἀργία==ς “Anecdota Graeca - Bekker” 310, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Solon” 17, 31: in \_plural\_, 5th-6th c.BC: Isocrates Orator 7.44. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>quietism,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Medea” 296. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in good sense, <b>rest, leisure,</b> <span class='asgreek'>τῶν</span> <span class='asgreek'>οἰκείων</span> <span class='asgreek'>ἔργων</span> <b>from</b>.., [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 761a (\_plural\_), LXX.Wis.13.13, etc. ">LXX+5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> in <i>plural</i>, <b>holidays,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 4.8.33">Refs 2nd c.AD+</a>], = <b>feriae</b> or <b>justitium,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Bella Civilia” 1.56, “PPetr.” 3">Refs 2nd c.AD+</a>]: <i>singular</i>, of the Sabbath, [<a href="javascript:void(0)" title=" LXX.Isa.1.14. ">LXX</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>lapse of cultivation,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 4.5.6.">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Isa.1.14]]
+</sub></small>

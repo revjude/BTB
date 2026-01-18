@@ -1,0 +1,8 @@
+<span class="asgreek">συνίστωρ</span> <small>***(sunistōr)***</small> ==**a joint witness**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==συνίστωρ==</span></b>, <span class='asgreek'>ορος</span>, <span class='asgreek'>ὁ</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>knowing along with</b> another, <span class='asgreek'>ὡς</span> <span class='asgreek'>θεοὶ</span> <span class='asgreek'>ξυνίστορες</span> as the gods are <b>witnesses</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Philoctetes” 1293, compare “Ant.” 542, 5th c.BC: Euripides Tragicus “Supplices” 1174, 5th c.BC: Thucydides Historicus 2.74, “PCair.Zen.” 625.2 (3rd c.BC). ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>privy to</b> a crime or other secret, with <i>genitive</i>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 30.8.1, “Anthologia Graeca” 5.3.1 (1st c.BC: Philodemus Gadarensis Epigrammaticus), 5.4.1 (1st c.BC-1st c.AD: Statyllius Flaccus Epigrammaticus), Vett. Val. 11.1, “Catalogus Codicum Astrologorum” 2.175">Refs 2nd c.BC+</a>]; <span class='asgreek'>σώματα</span> <span class='asgreek'>συνίστορα</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>πράξεως</span> Aen. Tact.23.10: with <i>accusative</i> (with the verbal <i>construction</i>), <span class='asgreek'>πολλὰ</span> <span class='asgreek'>συνίστορα</span>.. <span class='asgreek'>κακά</span> (i.e. <span class='asgreek'>τὴν</span> <span class='asgreek'>στέγην</span>) [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1090 (Lyric poetry). ">Refs 4th c.BC+</a>]

@@ -1,0 +1,29 @@
+**Joshua 2:5** 
+<small><sub>**KJV:**</sub></small>
+And it came to pass [about the time] of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.
+<small><sub>**BSB:**</sub></small>
+At dusk, when the gate was about to close, the men went out, and I do not know which way they went. Pursue them quickly, and you may catch them!”
+<small><sub>**Literal:**</sub></small>
+and  it was the  gate [about] to  shut at \<the>  darkness and  the  men they went out not I know where? did they go the  men pursue quickly after  them for you will overtake  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.4|<< Joshua 2:4]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.6|Joshua 2:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִ֨י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the gate  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שַּׁ֜עַר</big></span><small><sup>[[H8179G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [about] to shut  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>סְגּ֗וֹר</big></span><small><sup>[[H5462]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> s.Gor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at \<the> darkness  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֹ֙שֶׁךְ֙</big></span><small><sup>[[H2822]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the men  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲנָשִׁ֣ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they went out  | <span class="ashebrew"><big>יָצָ֔אוּ</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| ya.Tza.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I know  | <span class="ashebrew"><big>יָדַ֔עְתִּי</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ya.Da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where?  | <span class="ashebrew"><big>אָ֥נָה</big></span><small><sup>[[H0575]]</sup></small> &#8207;| 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| did they go  | <span class="ashebrew"><big>הָלְכ֖וּ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ha.le.Khu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the men  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲנָשִׁ֑ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pursue  | <span class="ashebrew"><big>רִדְפ֥וּ</big></span><small><sup>[[H7291]]</sup></small> &#8207;| rid.Fu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| quickly  | <span class="ashebrew"><big>מַהֵ֛ר</big></span><small><sup>[[H4118B]]</sup></small> &#8207;| ma.Her<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| after them  | <span class="ashebrew"><big>אַחֲרֵי</big></span><small><sup>[[H0310A]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.cha.rei.<small><sup>[[HAcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will overtake them  | <span class="ashebrew"><big>תַשִּׂיגֽוּ</big></span><small><sup>[[H5381]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ta.si.Gu<small><sup>[[HVhi2mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.4|<< Joshua 2:4]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.6|Joshua 2:6 >>]]</td></tr></table>
+
+

@@ -1,0 +1,33 @@
+**Joshua 14:7** 
+<small><sub>**KJV:**</sub></small>
+Forty years old [was] I when Moses the servant of the LORD sent me from Kadeshbarnea to espy out the land; and I brought him word again as [it was] in mine heart.
+<small><sub>**BSB:**</sub></small>
+I was forty years old when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land, and I brought back to him an honest report.
+<small><sub>**Literal:**</sub></small>
+[was] a son of forty year[s] I when  sent Moses [the] servant of Yahweh \<obj.>  me from  Kadesh Barnea to  spy out \<obj.> the  land and  I brought back \<obj.>  him a word just  as with heart  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.6|<< Joshua 14:6]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.8|Joshua 14:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [was] a son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121L]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| forty  | <span class="ashebrew"><big>אַרְבָּעִ֨ים</big></span><small><sup>[[H0705]]</sup></small> &#8207;| 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  | <span class="ashebrew"><big>שָׁנָ֜ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אָנֹכִ֗י</big></span><small><sup>[[H0595]]</sup></small> &#8207;| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when sent  | <span class="ashebrew"><big>בִּ֠</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁלֹחַ</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| Bi<small><sup>[[HR]]</sup></small> sh.lo.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  | <span class="ashebrew"><big>מֹשֶׁ֨ה</big></span><small><sup>[[H4872]]</sup></small> &#8207;| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] servant of  | <span class="ashebrew"><big>עֶֽבֶד</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'e.ved-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֥ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> me  | <span class="ashebrew"><big>אֹתִ֛</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Kadesh  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>קָּדֵ֥שׁ</big></span><small><sup>[[H6947]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ka.Desh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Barnea  | <span class="ashebrew"><big>בַּרְנֵ֖עַ</big></span><small><sup>[[H6947]]</sup></small> &#8207;| bar.Ne.a'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to spy out  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רַגֵּ֣ל</big></span><small><sup>[[H7270]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ra.Gel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֑רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I brought back  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָשֵׁ֤ב</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.Shev<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  | <span class="ashebrew"><big>אֹת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a word  | <span class="ashebrew"><big>דָּבָ֔ר</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֖ר</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  | <span class="ashebrew"><big>לְבָבִֽ</big></span><small><sup>[[H3824]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.va.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.6|<< Joshua 14:6]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.8|Joshua 14:8 >>]]</td></tr></table>
+
+

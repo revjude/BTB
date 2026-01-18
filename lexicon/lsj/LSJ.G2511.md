@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==καθαρίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <i>future</i> <b>-<span class='asgreek'>ιῶ</span></b>[<a href="javascript:void(0)" title=" NT.Heb.9.14 ">NT</a>]:—<b>cleanse</b>, <span class='asgreek'>θυσιαστήριον</span> [<a href="javascript:void(0)" title=" LXX.Exod.29.36, cf. NT.Matt.23.25, NT.Acts.10.15 ">LXX+NT</a>]; <b>sift</b> grain, [<a href="javascript:void(0)" title=" “PStrassb.” 2.11 (3rd c.AD)">Refs 3rd c.AD+</a>]; <b>prune away</b>, <span class='asgreek'>περισσὰ</span> <span class='asgreek'>βλαστήματα</span> [<a href="javascript:void(0)" title=" “PLond.” 1.131r192 (1st c.AD)">Refs 1st c.AD+</a>]; <b>clear</b> ground of weeds, etc., [<a href="javascript:void(0)" title=" “PLips.” 111.12 (4th c.AD)">Refs 4th c.AD+</a>]; <b>keep</b> a precinct <b>clear</b>, <span class='asgreek'>ἀπό</span> <span class='asgreek'>τινων</span> [<a href="javascript:void(0)" title=" “IG” 5(1).1390.37 (Andania, 1st c.BC):">Refs 1st c.BC+</a>] —in <i>middle</i>, <i>future</i> -<span class='asgreek'>ιοῦμαι</span>, of the menses, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἐπικυήσιος” 43. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> of persons, <b>purify</b>, <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>ἁμαρτίας</span> [<a href="javascript:void(0)" title=" LXX.Sir.38.10; ἀπὸ παντὸς μολυσμοῦ NT.2Cor.7.1; τὴν συνείδησιν ἀπὸ νεκρῶν ἔργων NT.Heb.9.14 ">LXX+NT</a>]; <b>cleanse</b> from leprosy, [<a href="javascript:void(0)" title=" NT.Matt.8.2 (and in \_passive\_, of the disease, [prev. work] 3):—">NT</a>]<i>passive</i>, -<span class='asgreek'>ιζέστω</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>γυναικός</span> <span class='asgreek'>κτλ</span>. [<a href="javascript:void(0)" title=" “IG” 22.1366.4, compare 1365. ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Heb.9.14]] ☩ [[Exod.29.36]] ☩ [[Matt.23.25]] ☩ [[Acts.10.15]] ☩ [[2Cor.7.1]] ☩ [[Heb.9.14]] ☩ [[Matt.8.2]]
+</sub></small>

@@ -1,0 +1,24 @@
+**Leviticus 26:31** 
+<small><sub>**KJV:**</sub></small>
+And I will make your cities waste, and bring your sanctuaries unto desolation, and I will not smell the savour of your sweet odours.
+<small><sub>**BSB:**</sub></small>
+I will reduce your cities to rubble and lay waste your sanctuaries, and I will refuse to smell the pleasing aroma of your sacrifices.
+<small><sub>**Literal:**</sub></small>
+and  I will make \<obj.> cities  your a waste place and  I will devastate \<obj.> sanctuaries  your and  not I will smell \<in>  [the] odor of soothing  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.30|<< Leviticus 26:30]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.32|Leviticus 26:32 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will make  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָתַתִּ֤י</big></span><small><sup>[[H5414I]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cities your  | <span class="ashebrew"><big>עָֽרֵי</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'a.rei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a waste place  | <span class="ashebrew"><big>חָרְבָּ֔ה</big></span><small><sup>[[H2723]]</sup></small> &#8207;| char.Bah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will devastate  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֲשִׁמּוֹתִ֖י</big></span><small><sup>[[H8074G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ha.shi.mo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sanctuaries your  | <span class="ashebrew"><big>מִקְדְּשֵׁי</big></span><small><sup>[[H4720]]</sup></small> <span class="ashebrew"><big>כֶ֑ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| mik.de.shei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will smell  | <span class="ashebrew"><big>אָרִ֔יחַ</big></span><small><sup>[[H7306]]</sup></small> &#8207;| 'a.Ri.ach<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> [the] odor of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רֵ֖יחַ</big></span><small><sup>[[H7381]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Rei.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| soothing your  | <span class="ashebrew"><big>נִיחֹֽחֲ</big></span><small><sup>[[H5207]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ni.Cho.cha.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.30|<< Leviticus 26:30]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.32|Leviticus 26:32 >>]]</td></tr></table>
+
+

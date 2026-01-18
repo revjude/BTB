@@ -1,0 +1,13 @@
+<span class="asgreek">πάχος</span> <small>***(pachos)***</small> ==**thickness**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==πάχος==</span></b> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>εος</span>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>παχύς</span>) <b>thickness</b>, <span class='asgreek'>τόσσον</span> <span class='asgreek'>ἔην</span> <span class='asgreek'>μῆκος</span> <span class='asgreek'>τόσσον</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 9.324; εἰ ἔχοι π. ἔχοι ἂν μόρια 5th c.BC: Melissus Philosophus 9; τὸ π. τοῦ τείχους 5th c.BC: Thucydides Historicus 1.93; τῆς πλίνθου [prev. author] 3.20: \_plural\_, τὰ π. τῶν τριχῶν 4th c.BC: Aristoteles Philosophus “Historia Animalium” 517b8 ">Refs 8th c.BC+</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>π</span>. <span class='asgreek'>αὐτῶν</span> <span class='asgreek'>ἐκμυελιεῖ</span> [<a href="javascript:void(0)" title=" LXX.Num.24.8; σκήνεια ὀρθὰ καὶ πάχη ἔχοντα “PCair.Zen.” 353.11 (3rd c.BC): \_absolutely\_, ==πάχος==">LXX+3rd c.BC+</a>] <b>in thickness</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.81, “IG” 12.372.11; also πάχει μάκει τε 5th c.BC: Pindarus Lyricus “P.” 4.245. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>σαρκὸς</span> <span class='asgreek'>π</span>. <b>stoutness</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Cyclops” 380; διὰ ==πάχος== τοῦ σώματος 4th c.BC: Antiphanes Comicus 19 ">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>λεπτότης</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 523e, etc. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>consistency, thickness</b>, of liquids or fluids, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Sensu” 441a29, “GA” 739a12 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>θαλάσσης</span>, attributed to its saltness, [<a href="javascript:void(0)" title=" [prev. author] “Mete.” 359a7; ὥστε γίνεσθαι τὸ π. ὡς κυκεῶνα 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 89.21. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> in concrete sense, <b>thick mass</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.18. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Num.24.8]]
+</sub></small>

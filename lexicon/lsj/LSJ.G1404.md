@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==δράκων==</span></b> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>οντος</span>, 
+
+
+ o(: (probably from <span class='asgreek'>δέρκομαι</span>, <span class='asgreek'>δρᾰκεῖν</span>,[<a href="javascript:void(0)" title="compare 3rd c.AD: Porphyrius Tyrius Philosophus “de Abstinentia - Porphyrii Opuscula” 3.8)">Refs 3rd c.AD+</a>]:— <b>dragon, serpent,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 11.39, +others; interchangeable with ὄφις, 12.202, 208, compare 8th-7th c.BC: Hesiodus Epicus “Theogonia” 322, 825, 5th c.BC: Pindarus Lyricus “N.” 1.40, 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 292 (Lyric poetry); ἀετὸς καὶ δ. πολέμια 4th c.BC: Aristoteles Philosophus “Historia Animalium” 609a4 ">Refs 8th c.BC+</a>]; perhaps a <b>water-snake,</b> [<a href="javascript:void(0)" title="[prev. work] 602b25. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> the constellation <b>Draco,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus 46, +others, 4th c.AD(?): Manetho Astrologus 2.69. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> a sea-fish, <b>the great weever,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Epicharmus Comicus 60, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 598a11, 5th c.BC: Hippocrates Medicus “περὶ διαίτης” 2.48. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>κηρύκειον</span>}, probably <b>a wand with a serpent coiled round</b> it, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 700 (compare 701). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>serpent-shaped bracelet</b> or <b>necklace,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Am.” 41. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> a <b>noose</b> or <b>crossed bandage</b> for the ankle, Heraclas cited in [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus 48.5.1. ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_IV.4</b> <b>dragon-standard,</b> [<a href="javascript:void(0)" title=" 4th c.AD: Libanius Sophista “Orationes” 1.144, 4th c.AD: Themistius Sophista “Orationes” 18.219a, compare “Or.” 1.2a">Refs 4th c.AD+</a>]: hence, <b>corps of</b> 1,000 <b>men</b> in the Parthian army, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Hist. Conscr.” 29. ">Refs 2nd c.AD+</a>]

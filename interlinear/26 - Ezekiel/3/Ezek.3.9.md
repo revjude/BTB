@@ -1,0 +1,28 @@
+**Ezekiel 3:9** 
+<small><sub>**KJV:**</sub></small>
+As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they [be] a rebellious house.
+<small><sub>**BSB:**</sub></small>
+I will make your forehead like a diamond, harder than flint. Do not be afraid of them or dismayed at their presence, even though they are a rebellious house.”
+<small><sub>**Literal:**</sub></small>
+like  diamond hard more than  flint I make forehead  your not you must fear \<obj.>  them and  not you must be dismayed from  faces  their for [are] a house of rebellion they<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.8|<< Ezekiel 3:8]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.10|Ezekiel 3:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| like diamond  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>שָׁמִ֛יר</big></span><small><sup>[[H8068]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> sha.Mir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hard  | <span class="ashebrew"><big>חָזָ֥ק</big></span><small><sup>[[H2389]]</sup></small> &#8207;| cha.Zak<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than flint  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>צֹּ֖ר</big></span><small><sup>[[H6864]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Tzor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I make  | <span class="ashebrew"><big>נָתַ֣תִּי</big></span><small><sup>[[H5414I]]</sup></small> &#8207;| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| forehead your  | <span class="ashebrew"><big>מִצְחֶ֑</big></span><small><sup>[[H4696]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mitz.Che.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must fear  | <span class="ashebrew"><big>תִירָ֤א</big></span><small><sup>[[H3372G]]</sup></small> &#8207;| ti.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אוֹתָ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must be dismayed  | <span class="ashebrew"><big>תֵחַ֣ת</big></span><small><sup>[[H2865]]</sup></small> &#8207;| te.Chat<small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from faces their  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵי</big></span><small><sup>[[H6440H]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֛י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] a house of  | <span class="ashebrew"><big>בֵּֽית</big></span><small><sup>[[H1004M]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rebellion  | <span class="ashebrew"><big>מְרִ֖י</big></span><small><sup>[[H4805H]]</sup></small> &#8207;| me.Ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵֽמָּה</big></span><small><sup>[[H1992]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.8|<< Ezekiel 3:8]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.10|Ezekiel 3:10 >>]]</td></tr></table>
+
+

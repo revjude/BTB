@@ -1,0 +1,23 @@
+**Daniel 11:33** 
+<small><sub>**KJV:**</sub></small>
+And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, [many] days.
+<small><sub>**BSB:**</sub></small>
+Those with insight will instruct many, though for a time they will fall by sword or flame, or be captured or plundered.
+<small><sub>**Literal:**</sub></small>
+and  [those who] have insight of [the] people they will give understanding to the  many [people] and  they will stumble by  sword and  by  flame by  captivity and  by  plunder days<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.32|<< Daniel 11:32]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.34|Daniel 11:34 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [those who] have insight of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַשְׂכִּ֣ילֵי</big></span><small><sup>[[H7919A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mas.Ki.lei<small><sup>[[HVhrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people  | <span class="ashebrew"><big>עָ֔ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will give understanding  | <span class="ashebrew"><big>יָבִ֖ינוּ</big></span><small><sup>[[H0995]]</sup></small> &#8207;| ya.Vi.nu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the many [people]  | <span class="ashebrew"><big>לָֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רַבִּ֑ים</big></span><small><sup>[[H7227A]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will stumble  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נִכְשְׁל֞וּ</big></span><small><sup>[[H3782]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> nikh.she.Lu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by sword  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֶ֧רֶב</big></span><small><sup>[[H2719]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and by flame  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לֶהָבָ֛ה</big></span><small><sup>[[H3852]]</sup></small> &#8207;| u<small><sup>[[HC]]</sup></small> v.<small><sup>[[HR]]</sup></small> le.ha.Va<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by captivity  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁבִ֥י</big></span><small><sup>[[H7628A]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> sh.Vi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and by plunder  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בִזָּ֖ה</big></span><small><sup>[[H0961]]</sup></small> &#8207;| u<small><sup>[[HC]]</sup></small> v.<small><sup>[[HR]]</sup></small> vi.Zah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִֽים</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.32|<< Daniel 11:32]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.34|Daniel 11:34 >>]]</td></tr></table>
+
+

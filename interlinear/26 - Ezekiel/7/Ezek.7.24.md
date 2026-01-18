@@ -1,0 +1,24 @@
+**Ezekiel 7:24** 
+<small><sub>**KJV:**</sub></small>
+Wherefore I will bring the worst of the heathen, and they shall possess their houses: I will also make the pomp of the strong to cease; and their holy places shall be defiled.
+<small><sub>**BSB:**</sub></small>
+So I will bring the most wicked of nations to take possession of their houses. I will end the pride of the mighty, and their holy places will be profaned.
+<small><sub>**Literal:**</sub></small>
+and  I will bring [the] evil of nations and  they will take possession of \<obj.> houses  their and  I will put an end to [the] pride of mighty [ones] and  they will be profaned sanctuaries  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.23|<< Ezekiel 7:23]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.25|Ezekiel 7:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will bring  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֵֽבֵאתִי֙</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> he.ve.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] evil of  | <span class="ashebrew"><big>רָעֵ֣י</big></span><small><sup>[[H7451A]]</sup></small> &#8207;| ra.'Ei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  | <span class="ashebrew"><big>גוֹיִ֔ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will take possession of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָרְשׁ֖וּ</big></span><small><sup>[[H3423H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ya.re.Shu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| houses their  | <span class="ashebrew"><big>בָּֽתֵּי</big></span><small><sup>[[H1004B]]</sup></small> <span class="ashebrew"><big>הֶ֑ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ba.tei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will put an end to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִשְׁבַּתִּי֙</big></span><small><sup>[[H7673A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hish.ba.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pride of  | <span class="ashebrew"><big>גְּא֣וֹן</big></span><small><sup>[[H1347]]</sup></small> &#8207;| ge.'on<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mighty [ones]  | <span class="ashebrew"><big>עַזִּ֔ים</big></span><small><sup>[[H5794]]</sup></small> &#8207;| 'a.Zim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will be profaned  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נִחֲל֖וּ</big></span><small><sup>[[H2490H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ni.cha.Lu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sanctuaries their  | <span class="ashebrew"><big>מְקַֽדְשֵׁי</big></span><small><sup>[[H4720]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.Kad.shei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.23|<< Ezekiel 7:23]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.25|Ezekiel 7:25 >>]]</td></tr></table>
+
+

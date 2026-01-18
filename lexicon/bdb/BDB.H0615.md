@@ -1,0 +1,14 @@
+ <span class="bdbLangHebrew">‎אָסִיר‎</span> **noun masculine**<sup>[[Gen.39.20|Gen 39:20]]</sup> ==bondman, prisoner== (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMQAoAIAAAAAAAP///yH5BAAAAAAALAAAAAAxACgAAAJ4jI+py+0Po5y02nsA3jkAzXEgGG7fV5pkep1sdaLvTNf2jRtuuU5xb5EFhSqg42cMmljEXKPpXECjiSk1k7zqXlkFyToEjr6ILmPnQX5/6XJLDY+7h57nvM3T2qtbJ1qnAcZldiQIYfj0B6PogxHIGMWmN0lZuVEAADs=">, Aramaic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhNgAXAIAAAAAAAP///yH5BAAAAAAALAAAAAA2ABcAAAJ9jI+py+0Po5w0glszvWB1hIGhxozcaKBB963cSrqiorLHqVZtLs83HoOlSq1esHRr8I5IyJKZePqgjmLVar3uctJpKuvBAX+TLlF88j7ML/J3mywX2z9TiH4HK+doYH9sZMGH5vInVicn8oI1ZGMTZfZFo0cSSUflgakJUQAAOw==">, [[BDB#MI|MI]] <span class="bdbLangHebrew">‎אסר‎</span>) — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> absolute [[Ps.79.11|Ps 79:11]]; [[Ps.102.21|Ps 102:21]] plural <span class="bdbLangHebrew">‎אֲסִירִם‎</span> [[Gen.39.22|Gen 39:22]] +, compare [[Judg.16.21|Judg 16:21]]; [[Judg.16.25|Judg 16:25]] [[BDB#Kt|Kt]]; construct <span class="bdbLangHebrew">‎אֲסִירֵי‎</span> [[Ps.107.10|Ps 107:10]] +, [[Gen.39.20|Gen 39:20]] [[BDB#Qr|Qr]]; <span class="bdbLangHebrew">‎אֲסִירָיו‎</span> [[Ps.69.34|Ps 69:34]] +, etc.; — ***Prisoner*** [[Gen.39.20|Gen 39:20]]; [[Gen.39.22|Gen 39:22]] ([[BDB#J|J]]), elsewhere only poetic; [[Isa.14.17|Isa 14:17]] as having rest in grave from task-master [[Job.3.18|Job 3:18]] especially as object of divine compassion [[Ps.68.7|Ps 68:7]] (\|\| <span class="bdbLangHebrew">‎יָתִיר‎</span>), [[Ps.69.34|Ps 69:34]] (\|\| <span class="bdbLangHebrew">‎אֶבְיוֺן‎</span>); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֶנְקַת א‎</span> [[Ps.79.11|Ps 79:11]]; [[Ps.102.21|Ps 102:21]] (both \|\| <span class="bdbLangHebrew">‎בְּנֵי תְמוּתָה‎</span>), [[Ps.107.10|Ps 107:10]] <span class="bdbLangHebrew">‎עֳנִי וּבַרְזֶל‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> (\|\| <span class="bdbLangHebrew">‎ישְׁבֵי חשֶׁח וְצַלְמָ֑וֶת‎</span>); compare <span class="bdbLangHebrew">‎אָ֑רֶץ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Lam.3.34|Lam 3:34]] specifically of liberated exiles of Israel [[Zech.9.11|Zech 9:11]], called ***captives of hope*** <span class="bdbLangHebrew">‎הַתִּקְוָה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> v[[Zech.9.12|Zech 9:12]]. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.39.20\|39:20]] · [[Gen.39.22\|39:22]] |
+| Judges | [[Judg.16.21\|16:21]] · [[Judg.16.25\|16:25]] |
+| Job | [[Job.3.18\|3:18]] |
+| Psalms | [[Ps.68.7\|68:7]] · [[Ps.69.34\|69:34]] · [[Ps.79.11\|79:11]] · [[Ps.102.21\|102:21]] · [[Ps.107.10\|107:10]] |
+| Isaiah | [[Isa.14.17\|14:17]] |
+| Lamentations | [[Lam.3.34\|3:34]] |
+| Zechariah | [[Zech.9.11\|9:11]] · [[Zech.9.12\|9:12]] |
+

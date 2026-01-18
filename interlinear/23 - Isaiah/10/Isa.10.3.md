@@ -1,0 +1,27 @@
+**Isaiah 10:3** 
+<small><sub>**KJV:**</sub></small>
+And what will ye do in the day of visitation, and in the desolation [which] shall come from far? to whom will ye flee for help? and where will ye leave your glory?
+<small><sub>**BSB:**</sub></small>
+What will you do on the day of reckoning when devastation comes from afar? To whom will you flee for help? Where will you leave your wealth?
+<small><sub>**Literal:**</sub></small>
+and  what? will you do to  [the] day of punishment and  to  [the] devastation [which] from  a distance it will come to whom? will you flee for  help and  where? will you leave abundance  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.2|<< Isaiah 10:2]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.4|Isaiah 10:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and what?  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַֽה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you do  | <span class="ashebrew"><big>תַּעֲשׂוּ֙</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] day of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י֣וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| punishment  | <span class="ashebrew"><big>פְּקֻדָּ֔ה</big></span><small><sup>[[H6486]]</sup></small> &#8207;| pe.ku.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to [the] devastation  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שׁוֹאָ֖ה</big></span><small><sup>[[H7722B]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> sho.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] from a distance  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מֶּרְחָ֣ק</big></span><small><sup>[[H4801]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mer.Chak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will come  | <span class="ashebrew"><big>תָּב֑וֹא</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ta.Vo'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom?  | <span class="ashebrew"><big>מִי֙</big></span><small><sup>[[H4310]]</sup></small> &#8207;| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you flee  | <span class="ashebrew"><big>תָּנ֣וּסוּ</big></span><small><sup>[[H5127]]</sup></small> &#8207;| ta.Nu.su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for help  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֶזְרָ֔ה</big></span><small><sup>[[H5833]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ez.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and where?  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אָ֥נָה</big></span><small><sup>[[H0575]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you leave  | <span class="ashebrew"><big>תַעַזְב֖וּ</big></span><small><sup>[[H5800A]]</sup></small> &#8207;| ta.'az.Vu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| abundance your  | <span class="ashebrew"><big>כְּבוֹדְ</big></span><small><sup>[[H3519]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ke.Vod.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.2|<< Isaiah 10:2]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.4|Isaiah 10:4 >>]]</td></tr></table>
+
+

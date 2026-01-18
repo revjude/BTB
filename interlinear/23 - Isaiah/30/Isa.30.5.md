@@ -1,0 +1,30 @@
+**Isaiah 30:5** 
+<small><sub>**KJV:**</sub></small>
+They were all ashamed of a people [that] could not profit them, nor be an help nor profit, but a shame, and also a reproach.
+<small><sub>**BSB:**</sub></small>
+everyone will be put to shame because of a people useless to them. They bring neither help nor benefit, but only shame and disgrace.”
+<small><sub>**Literal:**</sub></small>
+everyone he will be ashamed on a people [which] not they will confer profit to  them not for  help and  not to  confer profit for for  shame and  also for  reproach<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.4|<< Isaiah 30:4]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.6|Isaiah 30:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| everyone  | <span class="ashebrew"><big>כֹּ֣ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be ashamed  [^1] | <span class="ashebrew"><big>הֹבִ֔ישׁ</big></span><small><sup>[[H0954]]</sup></small> &#8207;[^2] | hiv.'ish<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a people  | <span class="ashebrew"><big>עַ֖ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will confer profit  | <span class="ashebrew"><big>יוֹעִ֣ילוּ</big></span><small><sup>[[H3276]]</sup></small> &#8207;| yo.'I.lu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>לָ֑</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מוֹ</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֤א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for help  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֵ֙זֶר֙</big></span><small><sup>[[H5828]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'E.zer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to confer profit  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הוֹעִ֔יל</big></span><small><sup>[[H3276]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ho.'Il<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for shame  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בֹ֖שֶׁת</big></span><small><sup>[[H1322]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Vo.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גַם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for reproach  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֶרְפָּֽה</big></span><small><sup>[[H2781]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> cher.Pah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.4|<< Isaiah 30:4]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.6|Isaiah 30:6 >>]]</td></tr></table>
+
+[^1]: ==K==: **he will be odious ** | <small><sup>[[H0887]]</sup></small><span class="ashebrew"><big>הִבְאִישׁ</big></span>  | hiv.'ish<small><sup>[[HVhp3ms]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>הֹבִ֔אִישׁ</big></span>**
+

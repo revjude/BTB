@@ -1,0 +1,26 @@
+**Isaiah 65:4** 
+<small><sub>**KJV:**</sub></small>
+Which remain among the graves, and lodge in the monuments, which eat swine’s flesh, and broth of abominable [things is in] their vessels;
+<small><sub>**BSB:**</sub></small>
+sitting among the graves, spending nights in secret places, eating the meat of pigs and polluted broth from their bowls.
+<small><sub>**Literal:**</sub></small>
+who  sit among the  graves and  in \<the>  secret places they spend [the] night who  eat [the] flesh of the  pig and  broth of unclean meat\<s> [is] vessels  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.3|<< Isaiah 65:3]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.5|Isaiah 65:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| who sit  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יֹּֽשְׁבִים֙</big></span><small><sup>[[H3427]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yo.she.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the graves  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קְּבָרִ֔ים</big></span><small><sup>[[H6913]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> ke.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in \<the> secret places  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נְּצוּרִ֖ים</big></span><small><sup>[[H5341]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> ne.tzu.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they spend [the] night  | <span class="ashebrew"><big>יָלִ֑ינוּ</big></span><small><sup>[[H3885A]]</sup></small> &#8207;| ya.Li.nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who eat  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֹֽכְלִים֙</big></span><small><sup>[[H0398]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.khe.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] flesh of  | <span class="ashebrew"><big>בְּשַׂ֣ר</big></span><small><sup>[[H1320]]</sup></small> &#8207;| be.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the pig  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֲזִ֔יר</big></span><small><sup>[[H2386]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> cha.Zir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and broth of  [^2] | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְרַ֥ק</big></span><small><sup>[[H4839]]</sup></small> &#8207;[^3] | u.<small><sup>[[HC]]</sup></small> fe.rak<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| unclean meat\<s>  | <span class="ashebrew"><big>פִּגֻּלִ֖ים</big></span><small><sup>[[H6292]]</sup></small> &#8207;| pi.gu.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] vessels their  | <span class="ashebrew"><big>כְּלֵי</big></span><small><sup>[[H3627]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ke.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.3|<< Isaiah 65:3]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.5|Isaiah 65:5 >>]]</td></tr></table>
+
+[^1]: ==K==: **and a fragment of ** | <small><sup>[[H6564]]</sup></small><span class="ashebrew"><big>פְרַק</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וּ</big></span>  | u.<small><sup>[[HC]]</sup></small> fe.rak<small><sup>[[HNcbsc]]</sup></small> 
+[^2]: ==K==: **and a fragment of ** | <small><sup>[[H6564]]</sup></small><span class="ashebrew"><big>פְרַק</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וּ</big></span>  | u.<small><sup>[[HC]]</sup></small> fe.rak<small><sup>[[HNcbsc]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>וּפְרַ֥ק</big></span>**
+

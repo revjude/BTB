@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==φρυάσσομαι==</span>-<span class='asgreek'>άσσομαι</span></b>, 
+
+
+ <i>Attic dialect</i> <b><span class='asgreek'>==φρυάσσομαι==άττομαι</span></b>, properly of spirited, high-fed horses, <b>neigh, whinny and prance,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Lavacrum Palladis” 2, “Anthologia Graeca” 5.201 (3rd c.BC: Asclepiades Epigrammaticus or 3rd c.BC: Posidippus Comicus), compare 6th c.AD: Thomas Epigrammaticus Mag. p.381R. ">Refs 3rd c.BC+</a>]; <span class='asgreek'>φ</span>. <span class='asgreek'>πρὸς</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἀγῶνας</span> <b>neigh eagerly</b> for the race, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Lycurgus” 22 ">Refs 1st c.AD+</a>]; also of a cock, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 7.7, compare below 11. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i> of men, <b>to be wanton, haughty, insolent,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.151, 297, +others, 4th c.AD: Alciphro Epistolographus 3.27; μὴ γαῦρα ==φρυάσσομαι==άσσου “Anthologia Graeca” 12.33 (1st c.BC: Meleager Epigrammaticus), compare 2nd c.AD: Galenus Medicus 10.180: also with \_accusative\_, Ἔρωτες σκῦλα ==φρυάσσομαι==ασσόμενοι “APl.” 4.215 (1st c.AD: Philippus Epigrammaticus)">Refs 1st c.BC+</a>]; <span class='asgreek'>φ</span>. <span class='asgreek'>ἐπί</span> <span class='asgreek'>τινι</span> <b>to be proud</b> of a thing, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 4.74; ἔν τισι “Anthologia Graeca” 4.3.27 (6th c.AD: Agathias Historicus et Epigrammaticus). ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>transitive</i>, ={<span class='asgreek'>καταπλήττω</span>}, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 1081. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>active</i> <span class='asgreek'>==φρυάσσομαι==άσσω</span> [<a href="javascript:void(0)" title=" LXX.Ps.2.1 (quoted in NT.Acts.4.25)">LXX+NT</a>]; of birds, [<a href="javascript:void(0)" title=" 1st c.AD: Cyranus 81, compare “Corpus Glossariorum Latinorum” ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Ps.2.1]] ☩ [[Acts.4.25]]
+</sub></small>

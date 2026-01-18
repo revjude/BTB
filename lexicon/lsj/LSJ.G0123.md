@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==αἰγιαλός==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>sea-shore, beach</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 4.422, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 22.385, 5th c.BC: Herodotus Historicus 7.50, +others, 5th c.BC: Thucydides Historicus 1.7 (\_plural\_), 5th-6th c.BC: Xenophon Historicus “Anabasis” 6.4.4, 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 7.13.8 (\_plural\_), etc.">Refs 8th c.BC+</a>]; distinguished from <span class='asgreek'>ἀκτή</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 547a10; also in 5th c.BC: Euripides Tragicus (Lyric poetry), “IT” 425, “IA” 210">Refs 5th c.BC+</a>]; <span class='asgreek'>αἰγιαλὸν</span> <span class='asgreek'>ἔνδον</span> <span class='asgreek'>τρέφει</span> <b>a whole beach of voting-pelbles</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 110: proverbial, αἰγιαλῷ λαλεῖς">Refs 5th c.BC+</a>], of deaf persons, [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus, 2nd c.AD: Zenobius Paroemiographus 1.38. (Prob. connected with αἰγίς II, αἴξ IV.)">Refs 2nd c.AD+</a>]
+

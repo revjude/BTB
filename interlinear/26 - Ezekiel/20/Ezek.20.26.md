@@ -1,0 +1,28 @@
+**Ezekiel 20:26** 
+<small><sub>**KJV:**</sub></small>
+And I polluted them in their own gifts, in that they caused to pass through [the fire] all that openeth the womb, that I might make them desolate, to the end that they might know that I [am] the LORD.
+<small><sub>**BSB:**</sub></small>
+And I pronounced them unclean through their gifts—the sacrifice of every firstborn in the fire—so that I might devastate them, in order that they would know that I am the LORD.
+<small><sub>**Literal:**</sub></small>
+and  I made unclean \<obj.>  them by  gifts  their when  made pass through every firstborn of a womb so that I may make appalled  them so that this they may know that I [am] Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.25|<< Ezekiel 20:25]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.27|Ezekiel 20:27 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I made unclean  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֲטַמֵּ֤א</big></span><small><sup>[[H2930A]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.ta.Me'<small><sup>[[HVpw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אוֹתָ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by gifts their  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מַתְּנוֹתָ֔</big></span><small><sup>[[H4979]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ma.te.no.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when made pass through  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הַעֲבִ֖יר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ha.'a.Vir<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| firstborn of  | <span class="ashebrew"><big>פֶּ֣טֶר</big></span><small><sup>[[H6363A]]</sup></small> &#8207;| Pe.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a womb  | <span class="ashebrew"><big>רָ֑חַם</big></span><small><sup>[[H7356A]]</sup></small> &#8207;| Ra.cham<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so that  | <span class="ashebrew"><big>לְמַ֣עַן</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I may make appalled them  | <span class="ashebrew"><big>אֲשִׁמֵּ֔</big></span><small><sup>[[H8074G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.shi.Me<small><sup>[[HVhj1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so that  | <span class="ashebrew"><big>לְמַ֙עַן֙</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they may know  | <span class="ashebrew"><big>יֵֽדְע֔וּ</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ye.de.'U<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁ֖ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנִ֥י</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.25|<< Ezekiel 20:25]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.27|Ezekiel 20:27 >>]]</td></tr></table>
+
+

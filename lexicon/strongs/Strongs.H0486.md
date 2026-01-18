@@ -1,0 +1,10 @@
+<big><span class="ashebrew">‎אַלְמוֹדָד‎</span></big> **ʼAlmôwdâd** <small>*(al-mo-dawd')*</small> ==**Almodad**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>probably of foreign derivation</small>
+
+$\quad$ Almodad.
+- § Almodad = *"not measured"*
+- ***Almodad***, a son of Joktan
+
+**1)** a descendant of Shem
+
+<sub><small>See Greek: </small></sub><span class="asgreek">Ἐλμωδάμ</span><sup><small>[[G1678]]</small></sup>

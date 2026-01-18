@@ -1,0 +1,7 @@
+<big><span class="ashebrew">‎הַשְׁמָעוּת‎</span></big> **hashmâʻûwth** <small>*(hashmaw-ooth')*</small> ==**report**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from <span class="ashebrew">‎שָׁמַע‎</span><sup><small>[[H8085]]</small></sup></small>
+
+$\quad$ to cause to hear.
+- ***announcement***
+
+**1)** a causing to hear, a report, a communication

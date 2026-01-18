@@ -1,0 +1,25 @@
+**1 Chronicles 27:16** 
+<small><sub>**KJV:**</sub></small>
+Furthermore over the tribes of Israel: the ruler of the Reubenites [was] Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah:
+<small><sub>**BSB:**</sub></small>
+These officers were in charge of the tribes of Israel: Over the Reubenites was Eliezer son of Zichri; over the Simeonites was Shephatiah son of Maacah;
+<small><sub>**Literal:**</sub></small>
+and  over [the] tribes of Israel for the  Reubenite[s] [was] chief Eliezer [the] son of Zikri for the  Simeonite[s] Shephatiah [the] son of Maacah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.15|<< 1 Chronicles 27:15]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.17|1 Chronicles 27:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and over  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל֙</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tribes of  | <span class="ashebrew"><big>שִׁבְטֵ֣י</big></span><small><sup>[[H7626H]]</sup></small> &#8207;| shiv.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the Reubenite[s]  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רֽאוּבֵנִ֣י</big></span><small><sup>[[H7206]]</sup></small> &#8207;| lo.<small><sup>[[HRd]]</sup></small> r.'u.ve.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] chief  | <span class="ashebrew"><big>נָגִ֔יד</big></span><small><sup>[[H5057]]</sup></small> &#8207;| na.Gid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliezer  | <span class="ashebrew"><big>אֱלִיעֶ֖זֶר</big></span><small><sup>[[H0461K]]</sup></small> &#8207;| 'e.li.'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zikri  | <span class="ashebrew"><big>זִכְרִ֑י</big></span><small><sup>[[H2147M]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| zikh.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the Simeonite[s]  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שִּׁ֨מְעוֹנִ֔י</big></span><small><sup>[[H8099]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Shim.'o.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shephatiah  | <span class="ashebrew"><big>שְׁפַטְיָ֖הוּ</big></span><small><sup>[[H8203J]]</sup></small> &#8207;| she.fat.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּֽן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Maacah  | <span class="ashebrew"><big>מַעֲכָֽה</big></span><small><sup>[[H4601P]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ma.'a.Khah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.15|<< 1 Chronicles 27:15]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.17|1 Chronicles 27:17 >>]]</td></tr></table>
+
+

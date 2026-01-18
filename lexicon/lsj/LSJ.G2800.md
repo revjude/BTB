@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==κλάσις==</span>-<span class='asgreek'>ις</span></b> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>κλάω</span> A) <b>breaking, fracture</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 43e ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀμπέλων</span> <b>breaking off the shoots and tendrils</b> of vines, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 2.14.4 (\_plural\_), compare 3.7.5, +others; ἡ κ. τοῦ ἄρτου NT.Luke.24.35. ">NT+4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>bending</b> of the knee joint, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 882b33 ">Refs 4th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>ὄψεων</span> <b>refraction</b>, [<a href="javascript:void(0)" title=" 3rd c.AD: Alexander Aphrodisiensis Philosophus “in Aristotelis Meteorologicorum libros commentaria - pars” 143.9; τὸ σαμεῖον περὶ ὃ ἁ κ. 4th c.BC: Archytas Tarentinus Philosophus cited in 6th c.AD: Simplicius Philosophus “in Aristotelis Physica commentaria - Comm. in Arist. Graeca” 785.25. ">Refs 4th c.BC+</a>] 
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <span class='asgreek'>==κλάσις==ιν</span> <span class='asgreek'>λαβεῖν</span> <b>to be deflected</b>, [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 6.9.8 ">Refs 3rd c.AD+</a>]; <span class='asgreek'>ὅταν</span> <span class='asgreek'>==κλάσις==ιν</span> <span class='asgreek'>ποιῇ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>γωνίαν</span>, of a bandage. Erot. see at {<span class='asgreek'>σκέπαρνος</span>}; of the labyrinth of the ear, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus “de Usu Partium” 8.6. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>modulation</b> of the voice, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.276, 2.266. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.24.35]]
+</sub></small>

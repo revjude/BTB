@@ -1,0 +1,14 @@
+
+<b> <span class='asgreek'>==ἀναβλέπω==</span></b>, 
+
+
+ <i>future</i> <b>-<span class='asgreek'>βλέψω</span></b>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.111,">Refs 5th c.BC+</a>] <b>-<span class='asgreek'>βλέψομαι</span></b> [<a href="javascript:void(0)" title="5th c.BC: Euripides Tragicus “Hercules Furens” 563">Refs 5th c.BC+</a>]: <i>aorist</i> <b>-<span class='asgreek'>έβλεψα</span></b>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus ">Refs 5th c.BC+</a>] [same place], etc.:—<b>look up,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 346; πρὸς τὸ φῶς 5th-6th c.BC: Plato Philosophus “Respublica” 515c; εἰς τὸν οὐρανόν “Ax.” 370b">Refs 5th c.BC+</a>]: especially as a mark of confidence, <span class='asgreek'>ἀ</span>. <span class='asgreek'>ὀρθοῖς</span> <span class='asgreek'>ὄμμασιν</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 7.1.30">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>πρός</span> <span class='asgreek'>τινα</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἴσου</span> <b>look</b> him <b>in the face, Cyr.</b>[<a href="javascript:void(0)" title=" 1.4.12. ">Refs</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i>, <b>look up at,</b> <span class='asgreek'>φῶς</span> <span class='asgreek'>ἀναβλέψεσθε</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus [same place]: with \_dative\_, ἀελίου ἀ. λαμπάσι “Ion” 1467; τοῖς κερτομοῦσι γοργὸν ὣς ἀναβλέπει “Supp.” 322 codices ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>accusative</i> <i>cognate</i>, <span class='asgreek'>ἀ</span>. <span class='asgreek'>φλόγα</span> <b>cast up</b> a glance of fire, [<a href="javascript:void(0)" title="Id  “Ion” 1263. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>recover one's sight,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.111, 5th-6th c.BC: Plato Philosophus “Phaedrus” 243b, NT.John.9.11; πάλιν ἀ. 5th-6th c.BC: Aristophanes Comicus “Plutus” 95, 117. ">NT+5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>open one's eyes,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 621b, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.3.29. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>revive,</b> <span class='asgreek'>ᾧ</span> <span class='asgreek'>δῶμ᾽</span> <span class='asgreek'>ἀνέβλεφ᾽</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 1308.">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[John.9.11]]
+</sub></small>

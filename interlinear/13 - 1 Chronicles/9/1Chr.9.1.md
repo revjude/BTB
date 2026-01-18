@@ -1,0 +1,26 @@
+**1 Chronicles 9:1** 
+<small><sub>**KJV:**</sub></small>
+So all Israel were reckoned by genealogies; and, behold, they [were] written in the book of the kings of Israel and Judah, [who] were carried away to Babylon for their transgression.
+<small><sub>**BSB:**</sub></small>
+So all Israel was recorded in the genealogies written in the Book of the Kings of Israel. But Judah was exiled to Babylon because of their unfaithfulness.
+<small><sub>**Literal:**</sub></small>
+and  all Israel they had themselves enrolled and  there  they [are] written on [the] scroll of [the] kings of Israel and  Judah they were taken into exile to  Babylon in  unfaithfulness  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.40|<< 1 Chronicles 8:40]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.2|1 Chronicles 9:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵל֙</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had themselves enrolled  | <span class="ashebrew"><big>הִתְיַחְשׂ֔וּ</big></span><small><sup>[[H3187]]</sup></small> &#8207;| hit.yach.Su<small><sup>[[HVtp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there they  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנָּ֣</big></span><small><sup>[[H2009]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9048]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.Na<small><sup>[[HTj]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] written  | <span class="ashebrew"><big>כְּתוּבִ֔ים</big></span><small><sup>[[H3789]]</sup></small> &#8207;| ke.tu.Vim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] scroll of  | <span class="ashebrew"><big>סֵ֖פֶר</big></span><small><sup>[[H5612H]]</sup></small> &#8207;| Se.fer<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kings of  | <span class="ashebrew"><big>מַלְכֵ֣י</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Judah  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יהוּדָ֛ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were taken into exile  | <span class="ashebrew"><big>הָגְל֥וּ</big></span><small><sup>[[H1540K]]</sup></small> &#8207;| ha.ge.Lu<small><sup>[[HVHp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Babylon  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בָבֶ֖ל</big></span><small><sup>[[H0894]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in unfaithfulness their  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מַעֲלָֽ</big></span><small><sup>[[H4604]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ma.'a.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.40|<< 1 Chronicles 8:40]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.2|1 Chronicles 9:2 >>]]</td></tr></table>
+
+

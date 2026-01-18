@@ -1,0 +1,23 @@
+**Isaiah 1:31** 
+<small><sub>**KJV:**</sub></small>
+And the strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench [them].
+<small><sub>**BSB:**</sub></small>
+The strong man will become tinder and his work will be a spark; both will burn together, with no one to quench the flames.
+<small><sub>**Literal:**</sub></small>
+and  he will become the  strong [person] \<into>  tow and  work  his \<into>  a spark and  they will burn both of  them together and  there not [will be one who] extinguishes<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.30|<< Isaiah 1:30]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.1|Isaiah 2:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will become  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֤ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the strong [person]  | <span class="ashebrew"><big>הֶ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חָסֹן֙</big></span><small><sup>[[H2634]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> cha.Son<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> tow  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נְעֹ֔רֶת</big></span><small><sup>[[H5296]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> n.'O.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and work his  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פֹעֲל֖</big></span><small><sup>[[H6467]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fo.'a.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a spark  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נִיצ֑וֹץ</big></span><small><sup>[[H5213]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ni.Tzotz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will burn  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>בָעֲר֧וּ</big></span><small><sup>[[H1197A]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> va.'a.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| both of them  | <span class="ashebrew"><big>שְׁנֵי</big></span><small><sup>[[H8147]]</sup></small> <span class="ashebrew"><big>הֶ֛ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| she.nei.<small><sup>[[HAcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  | <span class="ashebrew"><big>יַחְדָּ֖ו</big></span><small><sup>[[H3162B]]</sup></small> &#8207;| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֥ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be one who] extinguishes  | <span class="ashebrew"><big>מְכַבֶּֽה</big></span><small><sup>[[H3518]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| me.kha.Beh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.30|<< Isaiah 1:30]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.1|Isaiah 2:1 >>]]</td></tr></table>
+
+

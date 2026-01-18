@@ -1,0 +1,30 @@
+**Exodus 31:15** 
+<small><sub>**KJV:**</sub></small>
+Six days may work be done; but in the seventh [is] the sabbath of rest, holy to the LORD: whosoever doeth [any] work in the sabbath day, he shall surely be put to death.
+<small><sub>**BSB:**</sub></small>
+For six days work may be done, but the seventh day is a Sabbath of complete rest, holy to the LORD. Whoever does any work on the Sabbath day must surely be put to death.
+<small><sub>**Literal:**</sub></small>
+six days it will be done work and  [will be] on the  day \<the>  seventh a sabbath of sabbath observance a holy thing to  Yahweh every \<the>  [one who] does work on  [the] day of the  sabbath certainly \<to die> he will be put to death<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.14|<< Exodus 31:14]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.16|Exodus 31:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| six  | <span class="ashebrew"><big>שֵׁ֣שֶׁת</big></span><small><sup>[[H8337]]</sup></small> &#8207;| She.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִים֮</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be done  | <span class="ashebrew"><big>יֵעָשֶׂ֣ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ye.'a.Seh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| work  | <span class="ashebrew"><big>מְלָאכָה֒</big></span><small><sup>[[H4399]]</sup></small> &#8207;| me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [will be] on the day  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּ֣וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> vai.<small><sup>[[HRd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> seventh  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁבִיעִ֗י</big></span><small><sup>[[H7637]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sabbath of  | <span class="ashebrew"><big>שַׁבַּ֧ת</big></span><small><sup>[[H7676]]</sup></small> &#8207;| sha.Bat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sabbath observance  | <span class="ashebrew"><big>שַׁבָּת֛וֹן</big></span><small><sup>[[H7677]]</sup></small> &#8207;| sha.ba.Ton<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a holy thing  | <span class="ashebrew"><big>קֹ֖דֶשׁ</big></span><small><sup>[[H6944G]]</sup></small> &#8207;| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> [one who] does  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֹשֶׂ֧ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| work  | <span class="ashebrew"><big>מְלָאכָ֛ה</big></span><small><sup>[[H4399]]</sup></small> &#8207;| me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י֥וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sabbath  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שַּׁבָּ֖ת</big></span><small><sup>[[H7676]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sha.Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to die>  | <span class="ashebrew"><big>מ֥וֹת</big></span><small><sup>[[H4191]]</sup></small> &#8207;| Mot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be put to death  | <span class="ashebrew"><big>יוּמָֽת</big></span><small><sup>[[H4191]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yu.Mat<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.14|<< Exodus 31:14]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.16|Exodus 31:16 >>]]</td></tr></table>
+
+

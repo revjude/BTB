@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==παραβιάζομαι==</span>-<span class='asgreek'>βῐάζομαι</span></b>, 
+
+
+ <b>do</b> a thing <b>by force against nature</b> or <b>law</b>, [<a href="javascript:void(0)" title=" LXX.Deut.1.43 ">LXX</a>]; <b>use violence</b>, <span class='asgreek'>περὶ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>τοιούτων</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 24.8.3. ">Refs 2nd c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> with <i>accusative</i>, <span class='asgreek'>π</span>. <span class='asgreek'>τὸν</span> <span class='asgreek'>χάρακα</span> <b>force</b> the palisade, [<a href="javascript:void(0)" title=" [prev. author] 21.27.7 ">Refs</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>τινά</span> <b>constrain, compel</b> him, [<a href="javascript:void(0)" title=" LXX.4Ki.2.17, +others, NT.Luke.24.29, NT.Acts.16.15 ">LXX+NT</a>]; of arguments or explanations, <span class='asgreek'>τὸ</span> <span class='asgreek'>ἀδύνατον</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 2p.36U., “Nat.” 107 G.">Refs 4th c.BC+</a>]; <span class='asgreek'>μύθους</span> <span class='asgreek'>π</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>διαστρέφειν</span> <b>to do</b> them <b>violence</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.19f, compare “Lyc.” 6 ">Refs 1st c.AD+</a>]; <b>constrain</b>, with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 1st c.AD: Onosander (Onasander) Tacticus 19.2 (\_passive\_)">Refs 1st c.AD+</a>]:—<i>active</i> in [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 5.287. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Deut.1.43]] ☩ [[Luke.24.29]] ☩ [[Acts.16.15]]
+</sub></small>

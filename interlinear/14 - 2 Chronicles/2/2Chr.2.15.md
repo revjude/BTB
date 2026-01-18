@@ -1,0 +1,23 @@
+**2 Chronicles 2:15** (2:14)
+<small><sub>**KJV:**</sub></small>
+Now therefore the wheat, and the barley, the oil, and the wine, which my lord hath spoken of, let him send unto his servants:
+<small><sub>**BSB:**</sub></small>
+Now let my lord send to his servants the wheat, barley, olive oil, and wine he promised.
+<small><sub>**Literal:**</sub></small>
+and  therefore the  wheat\<s> and  the  barley\<s> the  oil and  the  wine which he has said lord  my let him send to  servants  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.14|<< 2 Chronicles 2:14]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.16|2 Chronicles 2:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and therefore  | <span class="ashebrew"><big>וְ֠</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַתָּה</big></span><small><sup>[[H6258]]</sup></small> &#8207;| Ve.<small><sup>[[HC]]</sup></small> 'a.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the wheat\<s>  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חִטִּ֨ים</big></span><small><sup>[[H2406]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chi.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the barley\<s>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׂעֹרִ֜ים</big></span><small><sup>[[H8184]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> se.'o.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the oil  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֶּׁ֤מֶן</big></span><small><sup>[[H8081]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> She.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the wine  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יַּ֙יִן֙</big></span><small><sup>[[H3196]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hai.<small><sup>[[HTd]]</sup></small> Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has said  | <span class="ashebrew"><big>אָמַ֣ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lord my  | <span class="ashebrew"><big>אֲדֹנִ֔</big></span><small><sup>[[H0113]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let him send  | <span class="ashebrew"><big>יִשְׁלַ֖ח</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| yish.Lach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to servants his  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֲבָדָֽי</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.14|<< 2 Chronicles 2:14]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.16|2 Chronicles 2:16 >>]]</td></tr></table>
+
+

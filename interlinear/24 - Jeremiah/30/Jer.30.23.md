@@ -1,0 +1,24 @@
+**Jeremiah 30:23** 
+<small><sub>**KJV:**</sub></small>
+Behold, the whirlwind of the LORD goeth forth with fury, a continuing whirlwind: it shall fall with pain upon the head of the wicked.
+<small><sub>**BSB:**</sub></small>
+Behold, the storm of the LORD has gone out with fury, a whirlwind swirling down upon the heads of the wicked.
+<small><sub>**Literal:**</sub></small>
+there! [the] storm of Yahweh rage it has gone out a storm staying as a sojourner on [the] head of wicked [people] it will whirl about<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.22|<< Jeremiah 30:22]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.24|Jeremiah 30:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| there!  | <span class="ashebrew"><big>הִנֵּ֣ה</big></span><small><sup>[[H2009]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] storm of  | <span class="ashebrew"><big>סַעֲרַ֣ת</big></span><small><sup>[[H5591B]]</sup></small> &#8207;| sa.'a.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rage  | <span class="ashebrew"><big>חֵמָה֙</big></span><small><sup>[[H2534]]</sup></small> &#8207;| che.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has gone out  | <span class="ashebrew"><big>יָֽצְאָ֔ה</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| ya.tze.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a storm  | <span class="ashebrew"><big>סַ֖עַר</big></span><small><sup>[[H5591A]]</sup></small> &#8207;| Sa.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| staying as a sojourner  | <span class="ashebrew"><big>מִתְגּוֹרֵ֑ר</big></span><small><sup>[[H1641]]</sup></small> &#8207;| mit.go.Rer<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַ֛ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] head of  | <span class="ashebrew"><big>רֹ֥אשׁ</big></span><small><sup>[[H7218A]]</sup></small> &#8207;| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  | <span class="ashebrew"><big>רְשָׁעִ֖ים</big></span><small><sup>[[H7563]]</sup></small> &#8207;| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will whirl about  | <span class="ashebrew"><big>יָחֽוּל</big></span><small><sup>[[H2342J]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ya.Chul<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.22|<< Jeremiah 30:22]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.24|Jeremiah 30:24 >>]]</td></tr></table>
+
+

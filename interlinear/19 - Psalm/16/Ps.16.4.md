@@ -1,0 +1,27 @@
+**Psalms 16:4** 
+<small><sub>**KJV:**</sub></small>
+Their sorrows shall be multiplied [that] hasten [after] another [god]: their drink offerings of blood will I not offer, nor take up their names into my lips.
+<small><sub>**BSB:**</sub></small>
+Sorrows will multiply to those who chase other gods. I will not pour out their libations of blood, or speak their names with my lips.
+<small><sub>**Literal:**</sub></small>
+they will increase sorrows  their [those who] another [god] they hurried after not I will pour out drink offerings  their from  blood and  not I will take \<obj.> names  their on lips  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.16.3|<< Psalms 16:3]]</td><td align="center" style="border:none;">[[Ps.16|Psalms 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16.5|Psalms 16:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| they will increase  | <span class="ashebrew"><big>יִרְבּ֥וּ</big></span><small><sup>[[H7235A]]</sup></small> &#8207;| yir.Bu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sorrows their  | <span class="ashebrew"><big>עַצְּבוֹתָ</big></span><small><sup>[[H6094]]</sup></small> <span class="ashebrew"><big>ם֮</big></span><small><sup>[[H9028]]</sup></small> &#8207;| a.tze.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] another [god]  | <span class="ashebrew"><big>אַחֵ֪ר</big></span><small><sup>[[H0312]]</sup></small> &#8207;| 'a.Cher<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they hurried after  | <span class="ashebrew"><big>מָ֫הָ֥רוּ</big></span><small><sup>[[H4116A]]</sup></small> &#8207;| ma.Ha.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>בַּל</big></span><small><sup>[[H1077]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bal-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will pour out  | <span class="ashebrew"><big>אַסִּ֣יךְ</big></span><small><sup>[[H5258A]]</sup></small> &#8207;| 'a.Sikh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| drink offerings their  | <span class="ashebrew"><big>נִסְכֵּי</big></span><small><sup>[[H5262]]</sup></small> <span class="ashebrew"><big>הֶ֣ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| nis.kei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from blood  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>דָּ֑ם</big></span><small><sup>[[H1818]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַל</big></span><small><sup>[[H1077]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> val-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will take  | <span class="ashebrew"><big>אֶשָּׂ֥א</big></span><small><sup>[[H5375G]]</sup></small> &#8207;| 'e.Sa'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'e.toSh-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| names their  | <span class="ashebrew"><big>שְׁ֝מוֹתָ֗</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| She.mo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips my  | <span class="ashebrew"><big>שְׂפָתָֽ</big></span><small><sup>[[H8193G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| se.fa.Ta<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.16.3|<< Psalms 16:3]]</td><td align="center" style="border:none;">[[Ps.16|Psalms 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16.5|Psalms 16:5 >>]]</td></tr></table>
+
+

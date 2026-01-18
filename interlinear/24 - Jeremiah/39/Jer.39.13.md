@@ -1,0 +1,29 @@
+**Jeremiah 39:13** 
+<small><sub>**KJV:**</sub></small>
+So Nebuzaradan the captain of the guard sent, and Nebushasban, Rabsaris, and Nergalsharezer, Rabmag, and all the king of Babylon’s princes;
+<small><sub>**BSB:**</sub></small>
+So Nebuzaradan captain of the guard, Nebushazban the Rabsaris, Nergal-sharezer the Rabmag, and all the captains of the king of Babylon
+<small><sub>**Literal:**</sub></small>
+and  he sent Nebuzaradan [the] chief of [the] bodyguards and  Nebushazban [the] Rab- saris and  Nergal- Shar- ezer [the] Rab- mag and  all [the] chiefs of [the] king of Babylon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.12|<< Jeremiah 39:12]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.14|Jeremiah 39:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he sent  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁלַ֞ח</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebuzaradan  | <span class="ashebrew"><big>נְבֽוּזַרְאֲדָ֣ן</big></span><small><sup>[[H5018]]</sup></small> &#8207;| ne.vu.zar.'a.Dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chief of  | <span class="ashebrew"><big>רַב</big></span><small><sup>[[H7227B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| rav-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] bodyguards  | <span class="ashebrew"><big>טַבָּחִ֗ים</big></span><small><sup>[[H2876]]</sup></small> &#8207;| ta.ba.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Nebushazban  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נְבֽוּשַׁזְבָּן֙</big></span><small><sup>[[H5021]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ne.vu.shaz.Ban<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Rab-  | <span class="ashebrew"><big>רַב</big></span><small><sup>[[H7249H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| rav-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| saris  | <span class="ashebrew"><big>סָרִ֔יס</big></span><small><sup>[[H7249H]]</sup></small> &#8207;| sa.Ris<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Nergal-  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נֵרְגַ֥ל</big></span><small><sup>[[H5371H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ne.re.Gal<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shar-  | <span class="ashebrew"><big>שַׂר</big></span><small><sup>[[H5371H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| sar-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ezer  | <span class="ashebrew"><big>אֶ֖צֶר</big></span><small><sup>[[H5371H]]</sup></small> &#8207;| 'E.tzer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Rab-  | <span class="ashebrew"><big>רַב</big></span><small><sup>[[H7248]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| rav-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mag  | <span class="ashebrew"><big>מָ֑ג</big></span><small><sup>[[H7248]]</sup></small> &#8207;| Mag<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹ֖ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chiefs of  | <span class="ashebrew"><big>רַבֵּ֥י</big></span><small><sup>[[H7227B]]</sup></small> &#8207;| ra.Bei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="ashebrew"><big>בָּבֶֽל</big></span><small><sup>[[H0894]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.12|<< Jeremiah 39:12]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.14|Jeremiah 39:14 >>]]</td></tr></table>
+
+

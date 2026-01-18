@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==αὐγάζω==</span></b>, 
+
+
+ <i>future</i> -<span class='asgreek'>άσω</span>: <i>aorist</i> <span class='asgreek'>ηὔγᾰσα</span>[<a href="javascript:void(0)" title=" “Anthologia Graeca” 7.726 (1st c.AD: Leonidas Alexandrinus Epigrammaticus)">Refs 1st c.AD+</a>]:—<i>passive</i>, see below: (<span class='asgreek'>αὐγή</span>):—<b>view in the clearest light, see distinctly, discern,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Philoctetes” 217 (Lyric poetry), “Anthologia Graeca” 9.221 (Marc. argument); τὸν ἴδιον νοῦν οἷα πρὸς κάτοπτρον 1st c.AD: Philo Judaeus 2.156">Refs 5th c.BC+</a>]:—also in <i>middle</i>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 23.458, 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 478, 3rd c.BC: Apollonius Rhodius Epicus 1.155, 3rd c.BC: Callimachus Epicus “Hymnus in Dianam” 129, “Anthologia Graeca” 9.349 (1st c.AD: Leonidas Alexandrinus Epigrammaticus); αἰ δὲ λῇς αὐγάσδεο “Carmina Popularia” 18:">Refs 8th c.BC+</a>] — <i>passive</i>, <span class='asgreek'>αὐγασθεῖσα</span> <b>being mirrored</b> in the smooth water, uncertain in [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 598.6">Refs 5th c.BC+</a>]; simply, <b>appear,</b> [<a href="javascript:void(0)" title=" 1st c.BC(?): Maximus Astrologus 11, +others, uncertain in 5th-6th c.AD: Orphica “Fragmenta” 284. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> of the sun, <b>illumine,</b> <span class='asgreek'>τινά</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hecuba” 637 (Lyric poetry)">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" [prev. author] “Ba.” 596 (Lyric poetry). ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <b>enlighten,</b> [<a href="javascript:void(0)" title=" NT.2Cor.4.4">NT</a>]; <b>set in a clear light,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.659, +others ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>appear bright</b> or <b>white,</b> [<a href="javascript:void(0)" title=" LXX.Lev.13.25, +others">LXX</a>]; <b>shine,</b> [<a href="javascript:void(0)" title=" PMag.Par. 1.2558, 2.143.">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Cor.4.4]] ☩ [[Lev.13.25]]
+</sub></small>

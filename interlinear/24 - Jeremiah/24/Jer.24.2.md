@@ -1,0 +1,29 @@
+**Jeremiah 24:2** 
+<small><sub>**KJV:**</sub></small>
+One basket [had] very good figs, [even] like the figs [that are] first ripe: and the other basket [had] very naughty figs, which could not be eaten, they were so bad.
+<small><sub>**BSB:**</sub></small>
+One basket had very good figs, like those that ripen early, but the other basket contained very poor figs, so bad they could not be eaten.
+<small><sub>**Literal:**</sub></small>
+the  basket one [was] figs good very like  [the] figs of the  early figs and  the  basket one [was] figs bad very which not they will be eaten from  badness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.24.1|<< Jeremiah 24:1]]</td><td align="center" style="border:none;">[[Jer.24|Jeremiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.24.3|Jeremiah 24:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| the basket  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דּ֣וּד</big></span><small><sup>[[H1731]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Dud<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָ֗ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] figs  | <span class="ashebrew"><big>תְּאֵנִים֙</big></span><small><sup>[[H8384]]</sup></small> &#8207;| te.'e.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  | <span class="ashebrew"><big>טֹב֣וֹת</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| to.Vot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| very  | <span class="ashebrew"><big>מְאֹ֔ד</big></span><small><sup>[[H3966]]</sup></small> &#8207;| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] figs of  | <span class="ashebrew"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>תְאֵנֵ֖י</big></span><small><sup>[[H8384]]</sup></small> &#8207;| ki<small><sup>[[HR]]</sup></small> t.'e.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the early figs  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בַּכֻּר֑וֹת</big></span><small><sup>[[H1063]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ba.ku.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the basket  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דּ֣וּד</big></span><small><sup>[[H1731]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Dud<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָ֗ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] figs  | <span class="ashebrew"><big>תְּאֵנִים֙</big></span><small><sup>[[H8384]]</sup></small> &#8207;| te.'e.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bad  | <span class="ashebrew"><big>רָע֣וֹת</big></span><small><sup>[[H7451A]]</sup></small> &#8207;| ra.'ot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| very  | <span class="ashebrew"><big>מְאֹ֔ד</big></span><small><sup>[[H3966]]</sup></small> &#8207;| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be eaten  | <span class="ashebrew"><big>תֵֽאָכַ֖לְנָה</big></span><small><sup>[[H0398]]</sup></small> &#8207;| te.'a.Khal.nah<small><sup>[[HVNi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from badness  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>רֹֽעַ</big></span><small><sup>[[H7455]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> Ro.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.24.1|<< Jeremiah 24:1]]</td><td align="center" style="border:none;">[[Jer.24|Jeremiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.24.3|Jeremiah 24:3 >>]]</td></tr></table>
+
+

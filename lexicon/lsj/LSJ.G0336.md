@@ -1,0 +1,16 @@
+
+<b> <span class='asgreek'>==ἀναίρεσις==</span>-<span class='asgreek'>εσις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>taking up</b> or <b>away,</b> especially of dead bodies for burial, <span class='asgreek'>ὀστέων</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Orestes” 404; νεκρῶν 5th c.BC: Thucydides Historicus 3.109, 113; οἳ ἂν μὴ εὑρεθῶσιν ἐς ==ἀναίρεσις==εσιν 2.34, compare 5th c.BC: Antipho Orator 5.68, 5th c.BC: Lysias Orator 2.7; ==ἀναίρεσις==εσιν δοῦναι 5th c.BC: Euripides Tragicus “Supplices” 18">Refs 5th c.BC+</a>]; in a sea-fight, <span class='asgreek'>νεκρῶν</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>ναυαγίων</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 7.72; τῶν ναυαγῶν 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 1.7.5. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>taking up,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>θέσις</span> <span class='asgreek'>ὅπλων</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 814a, compare 5th c.BC: Antipho Orator 3.3.6. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>undertaking,</b> <span class='asgreek'>ἔργων</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 847b. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>destruction,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 6.3.5; τειχῶν καὶ πόλεων 4th c.BC: Demosthenes Orator 19.141; φθορὰ ἡ κατ᾽ ==ἀναίρεσις==εσιν “Stoicorum Veterum Fragmenta” 3.266. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>slaying, putting to death,</b> [<a href="javascript:void(0)" title=" LXX.Num.11.15, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 5.2.11, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1051d">LXX+1st c.AD+</a>]; <b>banishment,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ εὐσχημοσύνης” 2. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>repeal,</b> <span class='asgreek'>δογμάτων</span>[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cicero” 34">Refs 1st c.AD+</a>]; <b>quashing</b> of indictment, [<a href="javascript:void(0)" title=" 2nd c.AD: Hermogenes Rhetor “περὶ τῶν στάσεων” 3. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>direct confutation</b> of arguments, opposed to <span class='asgreek'>διαίρεσις</span> (confutation by drawing a distinction), [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Sophistici Elenchi” 183a10">Refs 4th c.BC+</a>]; <b>destruction</b> (by argument), <span class='asgreek'>τινός</span>[<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ σημείων καὶ σημειώσεων” 12. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.5</b> Astrology texts, ={<span class='asgreek'>ἀκτινοβολία</span>}, Thrasyll. cited in [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus “in Ptolemaei Tetrabiblon” 189.">Refs 3rd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Num.11.15]]
+</sub></small>

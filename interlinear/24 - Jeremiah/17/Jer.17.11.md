@@ -1,0 +1,30 @@
+**Jeremiah 17:11** 
+<small><sub>**KJV:**</sub></small>
+[As] the partridge sitteth [on eggs], and hatcheth [them] not; [so] he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool.
+<small><sub>**BSB:**</sub></small>
+Like a partridge hatching eggs it did not lay is the man who makes a fortune unjustly. In the middle of his days his riches will desert him, and in the end he will be the fool.”
+<small><sub>**Literal:**</sub></small>
+a partridge [which] it gathers a brood and  not it has laid [one who] makes wealth and  not with  justice in  [the] middle of days  his it will leave  him and  at  end  his he will be a fool<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.10|<< Jeremiah 17:10]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.12|Jeremiah 17:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| a partridge  | <span class="ashebrew"><big>קֹרֵ֤א</big></span><small><sup>[[H7124]]</sup></small> &#8207;| ko.Re'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] it gathers a brood  | <span class="ashebrew"><big>דָגַר֙</big></span><small><sup>[[H1716]]</sup></small> &#8207;| da.Gar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has laid  | <span class="ashebrew"><big>יָלָ֔ד</big></span><small><sup>[[H3205]]</sup></small> &#8207;| ya.Lad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] makes  | <span class="ashebrew"><big>עֹ֥שֶׂה</big></span><small><sup>[[H6213I]]</sup></small> &#8207;| 'O.seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wealth  | <span class="ashebrew"><big>עֹ֖שֶׁר</big></span><small><sup>[[H6239]]</sup></small> &#8207;| 'O.sher<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with justice  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִשְׁפָּ֑ט</big></span><small><sup>[[H4941H]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] middle of  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֲצִ֤י</big></span><small><sup>[[H2677]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days his  [^2] | <span class="ashebrew"><big>יָמָי</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;[^3] | yo.mo<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| it will leave him  | <span class="ashebrew"><big>יַעַזְבֶ֔</big></span><small><sup>[[H5800A]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ya.'az.Ve.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and at end his  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַחֲרִית֖</big></span><small><sup>[[H0319]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'a.cha.ri.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be  | <span class="ashebrew"><big>יִהְיֶ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fool  | <span class="ashebrew"><big>נָבָֽל</big></span><small><sup>[[H5036]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| na.Val<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.10|<< Jeremiah 17:10]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.12|Jeremiah 17:12 >>]]</td></tr></table>
+
+[^1]: ==K==: **day his ** | <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H3117G]]</sup></small><span class="ashebrew"><big>יֹמ</big></span>  | yo.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^2]: ==K==: **day his ** | <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H3117G]]</sup></small><span class="ashebrew"><big>יֹמ</big></span>  | yo.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>יָמָו֙</big></span>**
+

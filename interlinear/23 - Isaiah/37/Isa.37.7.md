@@ -1,0 +1,25 @@
+**Isaiah 37:7** 
+<small><sub>**KJV:**</sub></small>
+Behold, I will send a blast upon him, and he shall hear a rumour, and return to his own land; and I will cause him to fall by the sword in his own land.
+<small><sub>**BSB:**</sub></small>
+Behold, I will put a spirit in him so that he will hear a rumor and return to his own land, where I will cause him to fall by the sword.’”
+<small><sub>**Literal:**</sub></small>
+here  I [am] about to put in  him a spirit and  he will hear a report and  he will return to own land  his and  I will make fall  him by the  sword in  own land  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.6|<< Isaiah 37:6]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.8|Isaiah 37:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| here I  | <span class="ashebrew"><big>הִנְ</big></span><small><sup>[[H2005]]</sup></small> <span class="ashebrew"><big>נִ֨י</big></span><small><sup>[[H9040]]</sup></small> &#8207;| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to put  | <span class="ashebrew"><big>נוֹתֵ֥ן</big></span><small><sup>[[H5414H]]</sup></small> &#8207;| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in him  | <span class="ashebrew"><big>בּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spirit  | <span class="ashebrew"><big>ר֔וּחַ</big></span><small><sup>[[H7307G]]</sup></small> &#8207;| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will hear  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׁמַ֥ע</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sha.Ma'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a report  | <span class="ashebrew"><big>שְׁמוּעָ֖ה</big></span><small><sup>[[H8052]]</sup></small> &#8207;| she.mu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will return  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׁ֣ב</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> Shav<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own land his  | <span class="ashebrew"><big>אַרְצ֑</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'ar.Tz<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will make fall him  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִפַּלְתִּ֥י</big></span><small><sup>[[H5307J]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hi.pal.Ti<small><sup>[[HVhq1cs]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by the sword  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֶ֖רֶב</big></span><small><sup>[[H2719]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in own land his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַרְצֽ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ar.Tz<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.6|<< Isaiah 37:6]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.8|Isaiah 37:8 >>]]</td></tr></table>
+
+

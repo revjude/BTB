@@ -1,0 +1,15 @@
+<span class="asgreek">ἐφοδιάζω</span> <small>***(ephodiazō)***</small> ==**to provide**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐφοδιάζω==</span>-<span class='asgreek'>ιάζω</span></b>, 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>ἐποδ</span>-</b>, <b>furnish with supplies for a journey</b>, <span class='asgreek'>ἀποπέμπουσι</span> <span class='asgreek'>ἐποδιάσαντες</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>Ἀθήνας</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 9.99 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cat.Mi.” 65: with double \_accusative\_, ἐφόδιον -ιάσεις αὐτόν LXX.Deut.15.14: \_metaphorically\_, of Philosophy, ἐ. τινὰ πρὸς τὴν στρατείαν 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.327e ">LXX+1st c.AD+</a>]:—<i>middle</i>, <b>supply oneself</b>, <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>πόλεως</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 18.20.2 ">Refs 2nd c.BC+</a>]:—<i>passive</i>, <b>to be supplied with</b>, <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" LXX.Josh.9.12; λαμπρῶς -ασθείς 1st c.AD: Josephus Historicus “Bellum Judaicum” 2.7.1: \_metaphorically\_, 1st c.AD: Philo Judaeus 1.535; διὰ τὸ μὴ ἐφωδιάσθαι ἀπὸ φυσιολογίας 2nd c.AD: Theon Smyrnaeus Philosophus p.188 H. ">LXX+1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>supply</b> or <b>furnish with</b> a thing, <span class='asgreek'>αὑτοὺς</span> <span class='asgreek'>ἀλκῇ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὅπλοις</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 5.34; also ταῦτά σοι ἐφωδίασα 2nd c.AD: Apollodorus Damascenus Mechanicus “Abhandlungen der Göttinger Gesellschaft der Wissenschaften (Phil.-hist. Klasse)” 138.1. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>reduce to system</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 9. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> = <b>impetum facio, irruo,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>] 
+$\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, with <i>accusative</i> <i>of things</i>, <span class='asgreek'>πενταδραχμίαν</span> <span class='asgreek'>ἑκάστῳ</span> <span class='asgreek'>==ἐφοδιάζω==ιασάμενος</span> <b>having seen</b> that five drachmae <b>were paid</b> to each, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 1.6.12. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <b>maintain, promote</b>, <span class='asgreek'>ἀργίαν</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Solon” 23; τὴν ἀπείθειαν [prev. author] “Cor.” 16. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Deut.15.14]] ☩ [[Josh.9.12]]
+</sub></small>

@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==φιλόξενος==</span>-<span class='asgreek'>ος</span></b>, 
+
+
+ <i>poetry</i> <b><span class='asgreek'>φῐλοξέν</span>-<span class='asgreek'>ξεινος</span></b>, <span class='asgreek'>ον</span>:— <b>loving strangers, hospitable,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 6.121, 8.576, +others, 5th c.BC: Pindarus Lyricus “O.” 3.1, “N.” 1.20, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 6.1.3, NT.1Tim.3.2, etc.">NT+8th c.BC+</a>]; <span class='asgreek'>παθεῖν</span> <span class='asgreek'>φιλόξενον</span> <span class='asgreek'>ἔργον</span> to meet with an act <b>of hospitality,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “I.” 2.24; τὸ εἶναι φ. 4th c.BC: Aristoteles Philosophus “de Virtutibus et Vitiis” 1250b34, compare 1251b35 ">Refs 5th c.BC+</a>]; <span class='asgreek'>φιλόξεν᾽</span> <span class='asgreek'>ἐστὶν</span> (i.e. <span class='asgreek'>τὰ</span> <span class='asgreek'>δώματα</span>) <span class='asgreek'>Αἰγίσθου</span> <span class='asgreek'>διαί</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Choephori” 656 ">Refs 4th c.BC+</a>]: <i>superlative</i> <b>-<span class='asgreek'>ώτατος</span></b>[<a href="javascript:void(0)" title=" [prev. author] “fragment” 196, 5th c.BC: Cratinus Comicus 1.2">Refs 5th c.BC+</a>]; <b>-<span class='asgreek'>έστατος</span></b> [<a href="javascript:void(0)" title="5th c.BC: Euripides Tragicus “Fragmenta” 879 ">Refs 5th c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>νως</span></b>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 4.41. ">Refs 5th c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[1Tim.3.2]]
+</sub></small>

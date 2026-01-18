@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==προσανατίθημι==</span>-<span class='asgreek'>τίθημι</span></b>, 
+
+
+ <b>offer</b> or <b>dedicate besides</b>, <span class='asgreek'>δηνάρια</span> <span class='asgreek'>πεντακισχίλια</span> [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2782.44 (from Aphrodisias)">Refs</a>]; <span class='asgreek'>τῷ</span> <span class='asgreek'>θεῷ</span> -<span class='asgreek'>τεθεικὼς</span> <span class='asgreek'>ἅπαντα</span> [<a href="javascript:void(0)" title=" 4th c.AD: Julianus Imperator ">Refs 4th c.AD+</a>]<b>ad Them.</b>267b; <span class='asgreek'>τὴν</span> <span class='asgreek'>παρθενίαν</span> <span class='asgreek'>θεῷ</span> [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>] see at {<span class='asgreek'>Πουλχερία</span>}:—<i>middle</i>, <b>take an additional burden on oneself</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.1.8 ">Refs 5th c.BC+</a>]; but <span class='asgreek'>π</span>. <span class='asgreek'>τινί</span> <span class='asgreek'>τι</span> <b>contribute of oneself</b> to another, [<a href="javascript:void(0)" title=" NT.Gal.2.6. ">NT</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>ascribe</b>, <span class='asgreek'>τινί</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus cited in 4th c.AD: Eusebius Caesariensis Scriptor Ecclesiasticus “Praeparatio Evangelica” 3.11. ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==προσανατίθημι==τίθεσθαί</span> <span class='asgreek'>τινι</span> <b>take counsel with</b> one, [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 2.344, 1st c.BC: Philodemus Philosophus “περὶ κακιῶν ί” p.31 1st c.AD: Josephus Historicus, NT.Gal.1.16, 2nd c.AD: Lucianus Sophista “JTr.” 1; τοῖς μάντεσι περί τινος 1st c.BC: Diodorus Siculus Historicus 17.116 ">NT+3rd c.BC+</a>]; <b>refer</b> a matter <b>for consideration,</b> [<a href="javascript:void(0)" title=" PTeb. 99.5 (2nd c.BC). ">Refs 2nd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Gal.2.6]] ☩ [[Gal.1.16]]
+</sub></small>

@@ -1,0 +1,23 @@
+**Psalms 78:55** 
+<small><sub>**KJV:**</sub></small>
+He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.
+<small><sub>**BSB:**</sub></small>
+He drove out nations before them and apportioned their inheritance; He settled the tribes of Israel in their tents.
+<small><sub>**Literal:**</sub></small>
+and  he drove out from  before  them nations and  he made fall  them by  a measuring-line of inheritance and  he caused to dwell in  tents  their [the] tribes of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.54|<< Psalms 78:54]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.56|Psalms 78:56 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he drove out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְגָ֤רֶשׁ</big></span><small><sup>[[H1644G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Ga.resh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before them  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵי</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>הֶ֨ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  | <span class="ashebrew"><big>גּוֹיִ֗ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he made fall them  | <span class="ashebrew"><big>וַֽ֭</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּפִּילֵ</big></span><small><sup>[[H5307I]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| Va<small><sup>[[Hc]]</sup></small> i.ya.pi.le<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by a measuring-line of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֶ֣בֶל</big></span><small><sup>[[H2256M]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Che.vel<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inheritance  | <span class="ashebrew"><big>נַחֲלָ֑ה</big></span><small><sup>[[H5159]]</sup></small> &#8207;| na.cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he caused to dwell  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּשְׁכֵּ֥ן</big></span><small><sup>[[H7931]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yash.Ken<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in tents their  | <span class="ashebrew"><big>בְּ֝</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָהֳלֵי</big></span><small><sup>[[H0168G]]</sup></small> <span class="ashebrew"><big>הֶ֗ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'o.ho.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tribes of  | <span class="ashebrew"><big>שִׁבְטֵ֥י</big></span><small><sup>[[H7626H]]</sup></small> &#8207;| shiv.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.54|<< Psalms 78:54]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.56|Psalms 78:56 >>]]</td></tr></table>
+
+

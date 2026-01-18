@@ -1,0 +1,27 @@
+**Deuteronomy 12:23** 
+<small><sub>**KJV:**</sub></small>
+Only be sure that thou eat not the blood: for the blood [is] the life; and thou mayest not eat the life with the flesh.
+<small><sub>**BSB:**</sub></small>
+Only be sure not to eat the blood, because the blood is the life, and you must not eat the life with the meat.
+<small><sub>**Literal:**</sub></small>
+only be strong to  not to eat the  blood for the  blood it [is] the  life and  not you must eat the  life with the  meat<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.22|<< Deuteronomy 12:22]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.24|Deuteronomy 12:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| only  | <span class="ashebrew"><big>רַ֣ק</big></span><small><sup>[[H7535]]</sup></small> &#8207;| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| be strong  | <span class="ashebrew"><big>חֲזַ֗ק</big></span><small><sup>[[H2388I]]</sup></small> &#8207;| cha.Zak<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to not  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בִלְתִּי֙</big></span><small><sup>[[H1115]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> vil.Ti<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to eat  | <span class="ashebrew"><big>אֲכֹ֣ל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| 'a.Khol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the blood  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דָּ֔ם</big></span><small><sup>[[H1818]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the blood  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דָּ֖ם</big></span><small><sup>[[H1818]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>ה֣וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] the life  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נָּ֑פֶשׁ</big></span><small><sup>[[H5315H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Na.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must eat  | <span class="ashebrew"><big>תֹאכַ֥ל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| to.Khal<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the life  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נֶּ֖פֶשׁ</big></span><small><sup>[[H5315H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the meat  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בָּשָֽׂר</big></span><small><sup>[[H1320]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.22|<< Deuteronomy 12:22]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.24|Deuteronomy 12:24 >>]]</td></tr></table>
+
+

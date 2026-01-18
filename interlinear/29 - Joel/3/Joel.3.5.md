@@ -1,0 +1,21 @@
+**Joel 3:5** (4:5)
+<small><sub>**KJV:**</sub></small>
+Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
+<small><sub>**BSB:**</sub></small>
+For you took My silver and gold and carried off My finest treasures to your temples.
+<small><sub>**Literal:**</sub></small>
+that silver  my and  gold  my you took and  desirable things  my \<the>  good you took to  own temples  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.4|<< Joel 3:4]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.6|Joel 3:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver my  | <span class="ashebrew"><big>כַּסְפִּ֥</big></span><small><sup>[[H3701G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| kas.P<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gold my  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זְהָבִ֖</big></span><small><sup>[[H2091]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ze.ha.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you took  | <span class="ashebrew"><big>לְקַחְתֶּ֑ם</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| le.kach.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and desirable things my  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַֽחֲמַדַּ</big></span><small><sup>[[H4261]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.cha.ma.Da<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> good  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>טֹּבִ֔ים</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> to.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you took  | <span class="ashebrew"><big>הֲבֵאתֶ֖ם</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| ha.ve.Tem<small><sup>[[HVhp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to own temples your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֵיכְלֵי</big></span><small><sup>[[H1964G]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hei.khe.lei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.4|<< Joel 3:4]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.6|Joel 3:6 >>]]</td></tr></table>
+
+

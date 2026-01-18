@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἐξορύσσω==</span></b>, 
+
+
+ <i>Attic dialect</i> <b><span class='asgreek'>ἐξορύττω</span></b>, <b>dig out</b> the earth from a trench, <span class='asgreek'>τὸν</span> <span class='asgreek'>ἀεὶ</span> <span class='asgreek'>ἐξορυσσόμενον</span> <span class='asgreek'>χοῦν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.23; τόποι ἐξορυσσόμενοι 4th c.BC: Aristoteles Philosophus “Mirabilia” 833b4:">Refs 5th c.BC+</a>] — <i>middle</i>, <span class='asgreek'>ἐξορύξασθαι</span> <span class='asgreek'>χάρακας</span> <b>make oneself</b> a vallum, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 9.55. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>dig out</b> of the ground, <b>dig up,</b> <span class='asgreek'>τοὺς</span> <span class='asgreek'>νεκρούς</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.64, compare “BGU” 1024iv4 (4th-5th c.AD)">Refs 5th c.BC+</a>]; <span class='asgreek'>ἄγλιθας</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 763 ">Refs 5th c.BC+</a>]; [<span class='asgreek'>μορίαν</span>] [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 7.26 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>χοὸς</span> <span class='asgreek'>τοῦ</span> -<span class='asgreek'>ομένου</span> [<a href="javascript:void(0)" title=" “PHal.” 1.109 (3rd c.BC)">Refs 3rd c.BC+</a>]; <span class='asgreek'>φυτά</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 19.4. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>gouge out,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>αὐτῶν</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>ὀφθαλμούς</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.116, cf. LXX.Judg.16.21, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Artoxerxes” 14. ">LXX+5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i>, <span class='asgreek'>τὸν</span> <span class='asgreek'>ἐξορύσσοντα</span> <span class='asgreek'>λόγον</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>κεκρυμμένα</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>πραγμάτων</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.72. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Judg.16.21]]
+</sub></small>

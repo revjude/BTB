@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἐγγίζω==</span></b>, 
+
+
+ <i>aorist</i> <span class='asgreek'>ἤγγισα</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus (see. below)">Refs 4th c.BC+</a>]: <i>perfect</i> <span class='asgreek'>ἤγγικα</span> [<a href="javascript:void(0)" title=" LXX.Ezek.7.4(7), NT.Matt.3.2 ">LXX+NT</a>]: (<span class='asgreek'>ἐγγύς</span>):—<b>bring near, bring up to</b>, <span class='asgreek'>τῇ</span> <span class='asgreek'>γῇ</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>ναῦς</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 8.4.7; τὰ φιλήματα τοῖς χείλεσι 3rd c.AD(?): Achilles Tatius Astronomus 2.37; τινὰ πρός τινα LXX.Gen.48.10. ">LXX+2nd c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> mostly <i>intransitive</i>, <b>approach</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Mirabilia” 845a20; τινί 2nd c.BC: Polybius Historicus 18.4.1: with \_genitive\_, τῆς Αἰτωλίας [prev. author] 4.62.5, etc.; πρὸς τὸν θεόν LXX.Exod.19.21 ">LXX+4th c.BC+</a>]; <span class='asgreek'>εἰς</span> <span class='asgreek'>θάνατον</span>[<a href="javascript:void(0)" title="LXX.Job.33.22 ">LXX</a>]; <span class='asgreek'>ἕως</span>[<a href="javascript:void(0)" title="LXX.Sir.37.30(33); μέχρι θανάτου NT.Phil.2.30 ">LXX+NT</a>]; <b>to be imminent</b>, <span class='asgreek'>ἤγγικεν</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>παρουσία</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Κυρίου</span> [<a href="javascript:void(0)" title=" NT.Jas.5.8 ">NT</a>]: also, with <i>genitive</i>, <b>approximate to</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Herc.” 1457.4. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be next of kin</b>, [<a href="javascript:void(0)" title=" LXX.Lev.21.3. ">LXX</a>]
+$\quad$ $\quad$<b>\_\_III</b> with <i>infinitive</i>, <b>to be on the point of</b> doing, <span class='asgreek'>ναοῦ</span> -<span class='asgreek'>οντος</span> <span class='asgreek'>συμπεσεῖν</span> [<a href="javascript:void(0)" title=" “IG” 12(1).1270.8 (from Syme). ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Matt.3.2]] ☩ [[Gen.48.10]] ☩ [[Exod.19.21]] ☩ [[Job.33.22]] ☩ [[Phil.2.30]] ☩ [[Jas.5.8]] ☩ [[Lev.21.3]]
+</sub></small>

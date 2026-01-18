@@ -1,0 +1,33 @@
+**Daniel 2:47** 
+<small><sub>**KJV:**</sub></small>
+The king answered unto Daniel, and said, Of a truth [it is], that your God [is] a God of gods, and a Lord of kings, and a revealer of secrets, seeing thou couldest reveal this secret.
+<small><sub>**BSB:**</sub></small>
+The king said to Daniel, “Your God is truly the God of gods and Lord of kings, the Revealer of Mysteries, since you were able to reveal this mystery.”
+<small><sub>**Literal:**</sub></small>
+[was] replying king  the to  Daniel and  [was] saying from truth that God  your he [is the] God of gods and  [the] lord of kings and  [one who] reveals secrets that you have been able to  reveal secret  the this<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.46|<< Daniel 2:46]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.48|Daniel 2:48 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [was] replying  | <span class="asaramaic"><big>עָנֵה֩</big></span><small><sup>[[H6032]]</sup></small> &#8207;| 'a.Neh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  | <span class="asaramaic"><big>מַלְכָּ֨</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Daniel  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָנִיֵּ֜אל</big></span><small><sup>[[H1841H]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> da.ni.Yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] saying  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>אָמַ֗ר</big></span><small><sup>[[H0560]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> 'a.Mar<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="asaramaic"><big>מִן</big></span><small><sup>[[H4481]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| truth  | <span class="asaramaic"><big>קְשֹׁט֙</big></span><small><sup>[[H7187]]</sup></small> &#8207;| ke.Shot<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="asaramaic"><big>דִּ֣י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  | <span class="ashebrew"><big>אֱלָהֲ</big></span><small><sup>[[H0426]]</sup></small> <span class="ashebrew"><big>כ֗וֹן</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'e.la.ha.<small><sup>[[ANcbsc]]</sup></small> Khon<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  | <span class="asaramaic"><big>ה֣וּא</big></span><small><sup>[[H1932]]</sup></small> &#8207;| hu'<small><sup>[[APp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is the] God of  | <span class="ashebrew"><big>אֱלָ֧הּ</big></span><small><sup>[[H0426]]</sup></small> &#8207;| 'e.Lah<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  | <span class="ashebrew"><big>אֱלָהִ֛ין</big></span><small><sup>[[H0426]]</sup></small> &#8207;| 'e.la.Hin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] lord of  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>מָרֵ֥א</big></span><small><sup>[[H4756]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> ma.Re'<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kings  | <span class="asaramaic"><big>מַלְכִ֖ין</big></span><small><sup>[[H4430]]</sup></small> &#8207;| mal.Khin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one who] reveals  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>גָלֵ֣ה</big></span><small><sup>[[H1541]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> ga.Leh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| secrets  | <span class="asaramaic"><big>רָזִ֑ין</big></span><small><sup>[[H7328]]</sup></small> &#8207;| ra.Zin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="asaramaic"><big>דִּ֣י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have been able  | <span class="asaramaic"><big>יְכֵ֔לְתָּ</big></span><small><sup>[[H3202]]</sup></small> &#8207;| ye.Khe.le.ta<small><sup>[[AVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to reveal  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>מִגְלֵ֖א</big></span><small><sup>[[H1541]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> mig.Le'<small><sup>[[AVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| secret the  | <span class="asaramaic"><big>רָזָ֥</big></span><small><sup>[[H7328]]</sup></small> <span class="asaramaic"><big>ה</big></span><small><sup>[[H9010]]</sup></small> &#8207;| ra.Zah<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="asaramaic"><big>דְנָֽה</big></span><small><sup>[[H1836]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.46|<< Daniel 2:46]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.48|Daniel 2:48 >>]]</td></tr></table>
+
+

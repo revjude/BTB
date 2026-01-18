@@ -1,0 +1,25 @@
+**Psalms 59:13** (59:14)
+<small><sub>**KJV:**</sub></small>
+Consume [them] in wrath, consume [them], that they [may] not [be]: and let them know that God ruleth in Jacob unto the ends of the earth. Selah.
+<small><sub>**BSB:**</sub></small>
+Consume them in wrath; consume them till they are no more, so it may be known to the ends of the earth that God rules over Jacob. Selah
+<small><sub>**Literal:**</sub></small>
+make an end in  anger make an end and  there not [will be]  them so  they may know that God [is] ruling over  Jacob to  [the] ends of the  earth Selah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.12|<< Psalms 59:12]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.14|Psalms 59:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| make an end  | <span class="ashebrew"><big>כַּלֵּ֥ה</big></span><small><sup>[[H3615H]]</sup></small> &#8207;| ka.Leh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in anger  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֵמָה֮</big></span><small><sup>[[H2534]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> che.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| make an end  | <span class="ashebrew"><big>כַּלֵּ֪ה</big></span><small><sup>[[H3615H]]</sup></small> &#8207;| ka.Leh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not [will be] them  | <span class="ashebrew"><big>וְֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֫ינֵ֥</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>מוֹ</big></span><small><sup>[[H9048]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ei.Ne.<small><sup>[[HNcmsc]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so they may know  | <span class="ashebrew"><big>וְֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יֵדְע֗וּ</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ye.de.'U<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱ֭לֹהִים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] ruling  | <span class="ashebrew"><big>מֹשֵׁ֣ל</big></span><small><sup>[[H4910]]</sup></small> &#8207;| mo.Shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over Jacob  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יַעֲקֹ֑ב</big></span><small><sup>[[H3290]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] ends of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַפְסֵ֖י</big></span><small><sup>[[H0657A]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'af.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  | <span class="ashebrew"><big>סֶֽלָה</big></span><small><sup>[[H5542]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.12|<< Psalms 59:12]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.14|Psalms 59:14 >>]]</td></tr></table>
+
+

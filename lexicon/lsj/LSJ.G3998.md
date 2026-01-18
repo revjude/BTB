@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==πενιχρός==</span>-<span class='asgreek'>ός</span></b>, <span class='asgreek'>ά</span>, <span class='asgreek'>όν</span>, 
+
+
+ <b>poor, needy</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 3.348, 7th-6th c.BC: Alcaeus Lyricus 49, 6th c.BC: Theognis Elegiacus 165, 181, 6th c.BC: Solon Lyricus 4.23, 5th c.BC: Pindarus Lyricus “N.” 7.19.">Refs 8th c.BC+</a>]—poetical word, found in Comedy texts, as [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Plutus” 976, {5-6th c.BC}: Philetaerus Comicus 4, 1st c.BC-1st c.AD: Diodorus Epigrammaticus Comedy texts 2.8, in 5th-6th c.BC: Plato Philosophus “Respublica” 578a ">Refs 6th c.BC+</a>], and in later Prose, as [<a href="javascript:void(0)" title=" “PPetr.” 3p.73 (3rd c.BC), 5th-4th c.BC: Socratis et Socraticorum Epistulae cited in 5th c.AD: Stobaeus, Joannes 3.13.64, LXX.Exod.22.25, etc.; π. δίαιτα 1st c.BC: Philodemus Philosophus “περὶ οἰκονομίας” p.48 “J.” ">LXX+5th c.BC+</a>]: <i>comparative</i> <span class='asgreek'>==πενιχρός==ότερος</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.284 ">Refs 1st c.AD+</a>], <i>superlative</i> <b>-<span class='asgreek'>ότατος</span></b>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.21.7 ">Refs 2nd c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>χρῶς</span></b>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1252b3 [ῐ ">Refs 4th c.BC+</a>].by nature, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus and 5th-6th c.BC: Aristophanes Comicus 8th c.BC: Ilias Homerus Epicus “Illiad” cc., also 4th c.AD(?): Manetho Astrologus 2.416, elsewhere ῑ by position.] ">Refs 8th c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Exod.22.25]]
+</sub></small>

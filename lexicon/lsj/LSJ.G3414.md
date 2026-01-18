@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==μνᾶ==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <i>genitive</i> <span class='asgreek'>==μνᾶ==ς</span>, <i>nominative</i> <i>plural</i> <span class='asgreek'>μναῖ</span>, etc., always contracted in <i>Attic dialect</i>, as [<a href="javascript:void(0)" title=" “IG” 12.10.3, 22.1627.299, etc.">Refs</a>]; <i>Ionic dialect</i> <i>nominative</i> <i>plural</i> <span class='asgreek'>μνέαι</span> [<a href="javascript:void(0)" title=" “Schwyzer” 707 (Ephesus, 6th c.BC), 5th c.BC: Herodotus Historicus 2.168, 6.79 ">Refs 6th c.BC+</a>]; <i>accusative</i> <i>plural</i> <span class='asgreek'>μνέας</span> [<a href="javascript:void(0)" title=" “Schwyzer” [same place], 5th c.BC: Herodotus Historicus 2.149, 180, +others, μνέ[ας] “IG” 12(5).123b (from Paros)">Refs 5th c.BC+</a>]; but <i>accusative</i> <i>singular</i> <span class='asgreek'>μνῆν</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 2.51; \_genitive\_ μνῆς [prev. author] 7.91; \_genitive\_ \_plural\_ μνέων [prev. author] 2.22 ">Refs 3rd c.BC+</a>]; <i>nominative</i> <i>plural</i> <span class='asgreek'>μνέες</span> <i>falsa lectio</i> for{<span class='asgreek'>μνέαι</span>} in [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Syr.D.” 48 ">Refs 2nd c.AD+</a>]:—<b>mina</b>, 
+
+$\quad$ $\quad$<b>\_\_I</b> as <b>a weight</b>, = [<a href="javascript:void(0)" title=" 100 drachmae, 4th c.BC: Demosthenes Orator 22.76, etc., compare 2nd c.AD(?): Pollianus Epigrammaticus 9.59, 86. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> as <b>a sum of money</b>, also = [<a href="javascript:void(0)" title=" 100 drachmae, 5th c.BC: Antipho Orator 5.63, etc.">Refs 5th c.BC+</a>] (Semitic word, cf. Hebrew <b>māneh.</b>)

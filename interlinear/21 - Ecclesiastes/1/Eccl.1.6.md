@@ -1,0 +1,27 @@
+**Ecclesiastes 1:6** 
+<small><sub>**KJV:**</sub></small>
+The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.
+<small><sub>**BSB:**</sub></small>
+The wind blows southward, then turns northward; round and round it swirls, ever returning on its course.
+<small><sub>**Literal:**</sub></small>
+[it is] going to [the] south and  [it is] circling to [the] north circling around circling around [is] going the  wind and  on circuits  its [is] returning the  wind<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.5|<< Ecclesiastes 1:5]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.7|Ecclesiastes 1:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [it is] going  | <span class="ashebrew"><big>הוֹלֵךְ֙</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| ho.leKh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] south  | <span class="ashebrew"><big>דָּר֔וֹם</big></span><small><sup>[[H1864]]</sup></small> &#8207;| da.Rom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [it is] circling  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>סוֹבֵ֖ב</big></span><small><sup>[[H5437G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> so.Vev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] north  | <span class="ashebrew"><big>צָפ֑וֹן</big></span><small><sup>[[H6828G]]</sup></small> &#8207;| tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| circling around  | <span class="ashebrew"><big>סוֹבֵ֤ב</big></span><small><sup>[[H5437H]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| so.Vev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| circling around  | <span class="ashebrew"><big>סֹבֵב֙</big></span><small><sup>[[H5437H]]</sup></small> &#8207;| so.Vev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] going  | <span class="ashebrew"><big>הוֹלֵ֣ךְ</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the wind  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ר֔וּחַ</big></span><small><sup>[[H7307H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| circuits its  | <span class="ashebrew"><big>סְבִיבֹתָ֖י</big></span><small><sup>[[H5439G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| se.vi.vo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] returning  | <span class="ashebrew"><big>שָׁ֥ב</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| shav<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the wind  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רֽוּחַ</big></span><small><sup>[[H7307H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.5|<< Ecclesiastes 1:5]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.7|Ecclesiastes 1:7 >>]]</td></tr></table>
+
+

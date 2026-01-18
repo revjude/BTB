@@ -1,0 +1,11 @@
+<span class="asform">† <span class="asgreek"><span class="asbold">ὕπανδρος</span></span>, <span class="asgreek">-ον </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Num.5.20|Nu 5:20]], [[Num.5.29|29]] (<span class="ashebrew">אִישׁ</span> <small><sup>[[H0376]]</sup></small> <span class="ashebrew">תַּחַת</span> <small><sup>[[H8478]]</sup></small>), [[Prov.6.24|Pr 6:24]], [[Prov.6.29|29]], [[Sir.9.9|Si 9:9]] [[Sir.41.21|41:21]] \* ;\]</span> </span>
+<span class="asitalic">under</span> or <span class="asitalic">subject to a man, married</span>: <span class="asgreek">γυνή</span>, [[Rom.7.2|Ro 7:2]] (Polyb., Diod., al.).†
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Numbers | [[Num.5.20\|5:20]] · [[Num.5.29\|5:29]] |
+| Proverbs | [[Prov.6.24\|6:24]] · [[Prov.6.29\|6:29]] |
+| Romans | [[Rom.7.2\|7:2]] |
+

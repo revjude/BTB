@@ -1,0 +1,26 @@
+**Judges 8:32** 
+<small><sub>**KJV:**</sub></small>
+And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abiezrites.
+<small><sub>**BSB:**</sub></small>
+Later, Gideon son of Joash died at a ripe old age and was buried in the tomb of his father Joash in Ophrah of the Abiezrites.
+<small><sub>**Literal:**</sub></small>
+and  he died Gideon [the] son of Joash in  old age good and  he was buried in  [the] tomb of Joash father  his in  Ophrah of [the] Abi- \<the>  -ezrite[s]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.31|<< Judges 8:31]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.33|Judges 8:33 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he died  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֛מָת</big></span><small><sup>[[H4191]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gideon  | <span class="ashebrew"><big>גִּדְע֥וֹן</big></span><small><sup>[[H1439]]</sup></small> &#8207;| gid.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joash  | <span class="ashebrew"><big>יוֹאָ֖שׁ</big></span><small><sup>[[H3101G]]</sup></small> &#8207;| yo.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in old age  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שֵׂיבָ֣ה</big></span><small><sup>[[H7872]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> sei.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  | <span class="ashebrew"><big>טוֹבָ֑ה</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| to.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was buried  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקָּבֵ֗ר</big></span><small><sup>[[H6912]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Ver<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] tomb of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קֶ֙בֶר֙</big></span><small><sup>[[H6913]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ke.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joash  | <span class="ashebrew"><big>יוֹאָ֣שׁ</big></span><small><sup>[[H3101G]]</sup></small> &#8207;| yo.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  | <span class="ashebrew"><big>אָבִ֔י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Ophrah  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עָפְרָ֖ה</big></span><small><sup>[[H6084H]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'a.fe.Rah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] Abi-  | <span class="ashebrew"><big>אֲבִ֥י</big></span><small><sup>[[H0033]]</sup></small> &#8207;| 'a.Vi<small><sup>[[HNgmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> -ezrite[s]  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֶזְרִֽי</big></span><small><sup>[[H0033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| Ha.<small><sup>[[HTd]]</sup></small> 'ez.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.31|<< Judges 8:31]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.33|Judges 8:33 >>]]</td></tr></table>
+
+

@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==κακοπραγία==</span>-<span class='asgreek'>ία</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>misadventure, failure</b>, <span class='asgreek'>αἱ</span> <span class='asgreek'>κατ᾽</span> <span class='asgreek'>οἶκον</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 2.60 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>Σικελίας</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" [prev. author] 8.2; κ. γίγνεται 4th c.BC: Aristoteles Philosophus “Politica” 1296a17 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>πέλας</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 1st c.AD: Cornutus Philosophus “Rh.” p.393 H.: \_plural\_, κ. ἀνάξιαι 4th c.BC: Aristoteles Philosophus “Rhetorica” 1386b10, compare 2nd c.BC: Polybius Historicus 8.12.8, 1st c.BC: Philodemus Gadarensis Epigrammaticus “Herc.” 1251.11, 2nd c.AD: Artemidorus Daldianus Onirocriticus 4.56, etc. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>bad physical condition</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 10.255. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>ill-doing</b>, [<a href="javascript:void(0)" title=" LXX.Wis.5.24, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 2.4.4 ">LXX+1st c.AD+</a>]: <i>plural</i>, <b>misdeeds</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 15.300. ">Refs 5th c.BC+</a>]

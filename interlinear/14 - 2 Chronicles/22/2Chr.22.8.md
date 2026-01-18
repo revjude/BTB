@@ -1,0 +1,29 @@
+**2 Chronicles 22:8** 
+<small><sub>**KJV:**</sub></small>
+And it came to pass, that, when Jehu was executing judgment upon the house of Ahab, and found the princes of Judah, and the sons of the brethren of Ahaziah, that ministered to Ahaziah, he slew them.
+<small><sub>**BSB:**</sub></small>
+So while Jehu was executing judgment on the house of Ahab, he found the rulers of Judah and the sons of Ahaziah’s brothers who were serving Ahaziah, and he killed them.
+<small><sub>**Literal:**</sub></small>
+and  it was when  entered into judgment Jehu with [the] house of Ahab and  he found \<obj.> [the] officials of Judah and  [the] sons of [the] brothers of Ahaziah serving \<to>  Ahaziah and  he killed  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.7|<< 2 Chronicles 22:7]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.9|2 Chronicles 22:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִ֕י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when entered into judgment  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>הִשָּׁפֵ֥ט</big></span><small><sup>[[H8199]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> hi.sha.Fet<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehu  | <span class="ashebrew"><big>יֵה֖וּא</big></span><small><sup>[[H3058H]]</sup></small> &#8207;| ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahab  | <span class="ashebrew"><big>אַחְאָ֑ב</big></span><small><sup>[[H0256G]]</sup></small> &#8207;| 'ach.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he found  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּמְצָא֩</big></span><small><sup>[[H4672]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yim.Tza'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] officials of  | <span class="ashebrew"><big>שָׂרֵ֨י</big></span><small><sup>[[H8269]]</sup></small> &#8207;| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֜ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sons of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵ֨י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] brothers of  | <span class="ashebrew"><big>אֲחֵ֧י</big></span><small><sup>[[H0251G]]</sup></small> &#8207;| 'a.Chei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahaziah  | <span class="ashebrew"><big>אֲחַזְיָ֛הוּ</big></span><small><sup>[[H0274H]]</sup></small> &#8207;| 'a.chaz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| serving  | <span class="ashebrew"><big>מְשָׁרְתִ֥ים</big></span><small><sup>[[H8334]]</sup></small> &#8207;| me.sha.re.Tim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> Ahaziah  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲחַזְיָ֖הוּ</big></span><small><sup>[[H0274H]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.chaz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he killed them  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּהַרְגֵֽ</big></span><small><sup>[[H2026]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.har.Ge<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.7|<< 2 Chronicles 22:7]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.9|2 Chronicles 22:9 >>]]</td></tr></table>
+
+

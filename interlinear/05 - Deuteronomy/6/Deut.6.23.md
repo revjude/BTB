@@ -1,0 +1,26 @@
+**Deuteronomy 6:23** 
+<small><sub>**KJV:**</sub></small>
+And he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers.
+<small><sub>**BSB:**</sub></small>
+But He brought us out from there to lead us in and give us the land that He had sworn to our fathers.
+<small><sub>**Literal:**</sub></small>
+and  \<obj.>  us he brought out from  there so as to bring \<obj.>  us to  give to  us \<obj.> the  land which he swore to  ancestors  our<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.22|<< Deuteronomy 6:22]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.24|Deuteronomy 6:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.> us  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אוֹתָ֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'o.Ta.<small><sup>[[HTo]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he brought out  | <span class="ashebrew"><big>הוֹצִ֣יא</big></span><small><sup>[[H3318H]]</sup></small> &#8207;| ho.Tzi'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from there  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שָּׁ֑ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so as  | <span class="ashebrew"><big>לְמַ֙עַן֙</big></span><small><sup>[[H4616]]</sup></small> &#8207;| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to bring  | <span class="ashebrew"><big>הָבִ֣יא</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| ha.Vi'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> us  | <span class="ashebrew"><big>אֹתָ֔</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| 'o.Ta.<small><sup>[[HTo]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give  | <span class="ashebrew"><big>לָ֤</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תֶת</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| La.<small><sup>[[HR]]</sup></small> tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to us  | <span class="ashebrew"><big>לָ֙</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נוּ֙</big></span><small><sup>[[H9035]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he swore  | <span class="ashebrew"><big>נִשְׁבַּ֖ע</big></span><small><sup>[[H7650]]</sup></small> &#8207;| nish.Ba'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to ancestors our  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲבֹתֵֽי</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.22|<< Deuteronomy 6:22]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.24|Deuteronomy 6:24 >>]]</td></tr></table>
+
+

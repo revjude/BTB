@@ -1,0 +1,9 @@
+ <span class="bdbLangHebrew">‎זְבוּב‎</span> **noun masculine**<sup>[[Eccl.10.1|Eccl 10:1]]</sup> ==fly== (as ***moving to and fro*** in the air? compare [[BDB#Fl|Fl]] [[BDB#Levy|NHWB]]<sup>i. 438 b</sup>; Late Hebrew ***id.***, Assyrian <abbr title="transliteration"><u>***zumbu***</u></abbr>, [[BDB#Dl|Dl]]<sup>S 63 f.</sup>; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKQAYAIAAAP///wAAACH5BAAAAAAALAAAAAApABgAAAJmhI+pyxEMo3RPAmdTNXg3ikWgd4XfqGzUN4GLKZKnXGb2QdcWfKfZ2nv9ckFi0Caj8S7FVJJn1HGcTtOSOsUigFIR7vlSXbceEpf8Hamh67TLvb6qNe/qKjoZHsetPV54xBQ4aFEAADs=">, Aramaic <span class="bdbLangAramaic">‎דִּיבָבָא‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHwAYAIAAAP///wAAACH5BAAAAAAALAAAAAAfABgAAAJXhI+pyx3R4ltvUpswglDVmmkH6AGf15UOh7aSkY5xlK307eLyLKMifPJtPiLiJUYkAZVD3hJj9DmXTaeRwzLNmLukt8mYeKO9oyNs04Fzau20XYPL57cCADs=">, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKwAXAIAAAP///wAAACH5BAAAAAAALAAAAAArABcAAAJwhI+py+0XXnwqWGbnyu0mvgFaJW7ZKHokioBtdL6s4VbzdI01pNqOp+tBKJSbkIjEHJO/4y6mXKacvdOOZv1kZTJr0KvxaqVbk6qMlaYlX1QWLE5N5S8b/I7/2vP82hXKVGQ0Exg1Voh0hchEuIhYAAA7">); — literal only <span class="bdbLangHebrew">‎זְבוּבֵי מָוֶת‎</span> [[Eccl.10.1|Eccl 10:1]] i.e. ***dead flies***; so [[BDB#AV|AV]] [[BDB#RV|RV]] [[BDB#Hi|Hi]] [[BDB#Now|Now]] and others; &gt; [[BDB#Sept|ᵐ5]] [[BDB#De|De]] and others ***death-bringing, deadly flies***; <span class="bdbLangHebrew">‎זְבוּב‎</span> metaphor of Egyptian army [[Isa.7.18|Isa 7:18]] (\|\| <span class="bdbLangHebrew">‎דְּבוֺרָה‎</span>, ***bee***, of Assyrian); on <span class="bdbLangHebrew">‎בַּעַל‎</span> <span class="bdbLangHebrew">‎זְבוּב‎</span> see  <span class="bdbLangHebrew">‎בַּעַל‎</span> II. **4**, p. 127 above 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ecclesiastes | [[Eccl.10.1\|10:1]] |
+| Isaiah | [[Isa.7.18\|7:18]] |
+

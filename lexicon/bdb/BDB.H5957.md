@@ -1,0 +1,10 @@
+<small>Hebrew form: [[H5769]]</small>
+ <span class="bdbLangAramaic">‎עָלַם‎</span> **noun [masculine]** ==perpetuity, antiquity== (see Biblical Hebrew III&gt; <span class="bdbLangAramaic">‎עלם‎</span>, <span class="bdbLangAramaic">‎עוֺלָם‎</span>); — <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎ע‎</span> absolute [[Dan.3.33|Dan 3:33]] +, construct [[Dan.7.18|Dan 7:18]] emphatic <span class="bdbLangAramaic">‎עָֽלְמָא‎</span> [[Dan.2.20|Dan 2:20]] +; plural <span class="bdbLangAramaic">‎עָֽלְמִין‎</span> [[Dan.2.4|Dan 2:4]] +, emphatic <span class="bdbLangAramaic">‎עָֽלְמַיָּא‎</span> [[Dan.2.44|Dan 2:44]]; [[Dan.7.18|Dan 7:18]] — ***perpetuity*** in the future: <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎מַלְכוּת ע‎</span> [[Dan.3.33|Dan 3:33]]; [[Dan.7.27|Dan 7:27]], compare [[Dan.4.31|Dan 4:31]]; [[Dan.7.14|Dan 7:14]] <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎ע‎</span> as adverb ***for ever*** [[Dan.4.31|Dan 4:31]] <span class="bdbLangAramaic">‎עַדעָֽֿלְמָא‎</span> <span class="bdbLangAramaic">‎וְעַדעָֿלַם עָֽלְמַיָּא‎</span> [[Dan.7.18|Dan 7:18]] plural <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎לְע‎</span> ***for ever*** [[Dan.2.4|Dan 2:4]]; [[Dan.2.44|Dan 2:44]]; [[Dan.2.44|Dan 2:44]]; [[Dan.3.9|Dan 3:9]]; [[Dan.5.10|Dan 5:10]]; [[Dan.6.7|Dan 6:7]]; [[Dan.6.22|Dan 6:22]]; [[Dan.6.27|Dan 6:27]] ***antiquity***, <span class="bdbLangAramaic">‎מִןיֿוֺמָת עָֽלְמָא‎</span> [[Ezra.4.15|Ezra 4:15]]; [[Ezra.4.19|Ezra 4:19]] of limitless time both past and future: <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎וְעַדעֿ‎</span> <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎מִןעֿ‎</span> [[Dan.2.20|Dan 2:20]]. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ezra | [[Ezra.4.15\|4:15]] · [[Ezra.4.19\|4:19]] |
+| Daniel | [[Dan.2.4\|2:4]] · [[Dan.2.20\|2:20]] · [[Dan.2.44\|2:44]] · [[Dan.3.9\|3:9]] · [[Dan.3.33\|3:33]] · [[Dan.4.31\|4:31]] · [[Dan.5.10\|5:10]] · [[Dan.6.7\|6:7]] · [[Dan.6.22\|6:22]] · [[Dan.6.27\|6:27]] · [[Dan.7.14\|7:14]] · [[Dan.7.18\|7:18]] · [[Dan.7.27\|7:27]] |
+

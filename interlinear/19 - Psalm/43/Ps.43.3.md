@@ -1,0 +1,24 @@
+**Psalms 43:3** 
+<small><sub>**KJV:**</sub></small>
+O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.
+<small><sub>**BSB:**</sub></small>
+Send out Your light and Your truth; let them lead me. Let them bring me to Your holy mountain and to the place where You dwell.
+<small><sub>**Literal:**</sub></small>
+send light  your and  truth  your they may they lead  me may they bring  me to [the] mountain of holiness  your and  to dwelling place\<s>  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.43.2|<< Psalms 43:2]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.4|Psalms 43:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| send  | <span class="ashebrew"><big>שְׁלַח</big></span><small><sup>[[H7971G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| she.lach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| light your  | <span class="ashebrew"><big>אוֹרְ</big></span><small><sup>[[H0216]]</sup></small> <span class="ashebrew"><big>ךָ֣</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'or.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and truth your  | <span class="ashebrew"><big>וַ֭</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲמִתְּ</big></span><small><sup>[[H0571H]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| Va.<small><sup>[[HC]]</sup></small> 'a.mi.te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֣מָּה</big></span><small><sup>[[H1992]]</sup></small> &#8207;| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may they lead me  | <span class="ashebrew"><big>יַנְח֑וּ</big></span><small><sup>[[H5148]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| yan.Chu.<small><sup>[[HVhi3mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may they bring me  | <span class="ashebrew"><big>יְבִיא֥וּ</big></span><small><sup>[[H0935P]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| ye.vi.'U.<small><sup>[[HVhi3mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  | <span class="ashebrew"><big>הַֽר</big></span><small><sup>[[H2022G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holiness your  | <span class="ashebrew"><big>קָ֝דְשְׁ</big></span><small><sup>[[H6944G]]</sup></small> <span class="ashebrew"><big>ךָ֗</big></span><small><sup>[[H9021]]</sup></small> &#8207;| kod.she.<small><sup>[[HNcmsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dwelling place\<s> your  | <span class="ashebrew"><big>מִשְׁכְּנוֹתֶֽי</big></span><small><sup>[[H4908]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mish.ke.no.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.43.2|<< Psalms 43:2]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.4|Psalms 43:4 >>]]</td></tr></table>
+
+

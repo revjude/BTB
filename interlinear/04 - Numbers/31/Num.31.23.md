@@ -1,0 +1,32 @@
+**Numbers 31:23** 
+<small><sub>**KJV:**</sub></small>
+Every thing that may abide the fire, ye shall make [it] go through the fire, and it shall be clean: nevertheless it shall be purified with the water of separation: and all that abideth not the fire ye shall make go through the water.
+<small><sub>**BSB:**</sub></small>
+everything that can withstand the fire—must be put through the fire, and it will be clean. But it must still be purified with the water of purification. And everything that cannot withstand the fire must pass through the water.
+<small><sub>**Literal:**</sub></small>
+every thing which it will go in the  fire you will make pass in the  fire and  it will be pure nevertheless by  [the] water of impurity it will purify itself and  all that not it will go in the  fire you will make pass in the  water<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.22|<< Numbers 31:22]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.24|Numbers 31:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| every  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thing  | <span class="ashebrew"><big>דָּבָ֞ר</big></span><small><sup>[[H1697I]]</sup></small> &#8207;| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go  | <span class="ashebrew"><big>יָבֹ֣א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the fire  | <span class="ashebrew"><big>בָ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֵ֗שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make pass  | <span class="ashebrew"><big>תַּעֲבִ֤ירוּ</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| ta.'a.Vi.ru<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the fire  | <span class="ashebrew"><big>בָ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֵשׁ֙</big></span><small><sup>[[H0784]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be pure  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>טָהֵ֔ר</big></span><small><sup>[[H2891]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ta.Her<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nevertheless  | <span class="ashebrew"><big>אַ֕ךְ</big></span><small><sup>[[H0389]]</sup></small> &#8207;| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by [the] water of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מֵ֥י</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| impurity  | <span class="ashebrew"><big>נִדָּ֖ה</big></span><small><sup>[[H5079]]</sup></small> &#8207;| ni.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will purify itself  | <span class="ashebrew"><big>יִתְחַטָּ֑א</big></span><small><sup>[[H2398]]</sup></small> &#8207;| yit.cha.Ta'<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹ֨ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁ֧ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go  | <span class="ashebrew"><big>יָבֹ֛א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the fire  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֵ֖שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make pass  | <span class="ashebrew"><big>תַּעֲבִ֥ירוּ</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| ta.'a.Vi.ru<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the water  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מָּֽיִם</big></span><small><sup>[[H4325G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.22|<< Numbers 31:22]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.24|Numbers 31:24 >>]]</td></tr></table>
+
+

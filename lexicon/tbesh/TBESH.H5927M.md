@@ -1,0 +1,4 @@
+<span class="ashebrew">‎עָלָה‎</span> <small>***(a.lah)***</small> ==**to ascend: regurgitate**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+meaning of: <small>[[H5927G]]</small> 
+
+- : regurgitate/chew(cud)

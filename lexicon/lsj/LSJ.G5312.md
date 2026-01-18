@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==ὑψόω==</span></b>, 
+
+
+ <b>lift high, raise up,</b> [<a href="javascript:void(0)" title=" Batrachomyomachia 81, “APl.” 4.41 (6th c.AD: Agathias Historicus et Epigrammaticus)">Refs 6th c.AD+</a>]:—<i>middle</i>, <span class='asgreek'>τάφον</span> <span class='asgreek'>ὑψώσαντο</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 7.55 (7th-6th c.BC: Alcaeus Lyricus)">Refs 7th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>μάκελλος</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>θεμελίων</span> <span class='asgreek'>ὑψοῦτο</span> [<a href="javascript:void(0)" title=" “IG” 5(2).268.45 (Mantinea, 1st c.BC). ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>elevate, exalt,</b> opposed to <span class='asgreek'>ταπεινόω</span>, [<a href="javascript:void(0)" title=" LXX.Exod.15.2, +others, 2nd c.BC: Polybius Historicus 5.26.12, NT.Matt.23.12, +others">LXX+2nd c.BC+</a>]; <span class='asgreek'>πονοῦντα</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ἴδιον</span> <span class='asgreek'>ὑψῶσαι</span> <span class='asgreek'>βίον</span> [[<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus] cited in 2nd-3rd c.AD: Clemens Alexandrinus Theologus “Stromateis” 5.14.120 ">Refs 4th c.BC+</a>]:—<i>passive</i>, <b>to be exalted,</b> <span class='asgreek'>μὴ</span> <span class='asgreek'>ὑψωθῇς</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>καρδίᾳ</span> [<a href="javascript:void(0)" title=" LXX.Deut.8.14; τὰ χθαμαλὰ ὑψοῦται 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.103e; ὑ. κάλλεϊ “Anthologia Graeca” 5.91 (2nd-3rd c.AD: Rufinus Epigrammaticus)">LXX+1st c.AD+</a>]; <span class='asgreek'>ἐκ</span> <span class='asgreek'>ποδὸς</span> <span class='asgreek'>ὑψεύμενοι</span>, of suddenly <b>exalted</b> persons, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “παραγγελίαι” 7. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>represent in the 'grand manner',</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 14.1. ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>passive</i>, Astron., of planets, <b>mount</b> to the north of the ecliptic, Theo Sm.p.135 H. 
+$\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <i>passive</i>, Astrology texts, of planets, <b>attain exaltation,</b> i.e. maximum appotelesmatic efficacy, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 140.7. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.15.2]] ☩ [[Matt.23.12]] ☩ [[Deut.8.14]]
+</sub></small>

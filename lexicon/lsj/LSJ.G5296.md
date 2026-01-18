@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==ὑποτύπωσις==</span>-<span class='asgreek'>ωσις</span></b> [<span class='asgreek'>ῠ</span>], <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>sketch, outline,</b> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 2.5.18, 1st c.AD: Philo Judaeus 2.12, Anonymus Lond.7.17, 2nd c.AD: Hermogenes Rhetor “προγυμνάσματα” 6, 2nd c.AD(?): Pollianus Epigrammaticus 7.128 ">Refs 1st c.BC+</a>]; <span class='asgreek'>ὑ</span>. <span class='asgreek'>ἕνεκα</span> <span class='asgreek'>συγγράμματος</span> <b>draft</b> for a book, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 15.760; as Empiric term, [prev. author] 8.709, +others">Refs 2nd c.AD+</a>]; opposed to <span class='asgreek'>ἐξεργασία</span>, [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 6.3.7 ">Refs 3rd c.AD+</a>]; <span class='asgreek'>ὑπογραφάς</span> <span class='asgreek'>τε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὑποτυπώσεις</span>, opposed to <span class='asgreek'>ὅρους</span>, [<a href="javascript:void(0)" title=" “Stoicorum Veterum Fragmenta” 2.76: αἱ Ὑποτυπώσεις">Refs</a>] was the name given by Sextus Empiricus to his “Outlines” of the Pyrrhonic Philosophy,[<a href="javascript:void(0)" title="compare 3rd c.AD(?): Diogenes Laertius 9.78, 2nd c.AD: Galenus Medicus “Libr. Propr.Praef.”: Proclus calls one of his works ἡ ὑ. τῶν ἀστρονομικῶν ὑποθέσεων, “Hyp.” 7.50. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>model, pattern,</b> [<a href="javascript:void(0)" title=" NT.1Tim.1.16, NT.2Tim.1.13; εἰς ==ὑποτύπωσις==ωσιν ἀρετῶν 1st c.BC: Philodemus Gadarensis Epigrammaticus “Mus.” p.77 K. ">NT+1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> a Rhet. figure, <b>by which a matter was vividly sketched in words,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Quintilianus Rhetor Latinus “Inst.” 9.2.40. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Tim.1.16]] ☩ [[2Tim.1.13]]
+</sub></small>

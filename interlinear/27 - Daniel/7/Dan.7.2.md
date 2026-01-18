@@ -1,0 +1,28 @@
+**Daniel 7:2** 
+<small><sub>**KJV:**</sub></small>
+Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea.
+<small><sub>**BSB:**</sub></small>
+Daniel declared: “In my vision in the night I looked, and suddenly the four winds of heaven were churning up the great sea.
+<small><sub>**Literal:**</sub></small>
+[was] replying Daniel and  [was] saying seeing I was in  vision  my with night  the and  lo! [the] four [the] winds of heavens  the [were] stirring up \<obj.>  sea  the \<the>  great<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.1|<< Daniel 7:1]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.3|Daniel 7:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [was] replying  | <span class="asaramaic"><big>עָנֵ֤ה</big></span><small><sup>[[H6032]]</sup></small> &#8207;| 'a.Neh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Daniel  | <span class="ashebrew"><big>דָנִיֵּאל֙</big></span><small><sup>[[H1841H]]</sup></small> &#8207;| da.ni.yeL<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] saying  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>אָמַ֔ר</big></span><small><sup>[[H0560]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> 'a.Mar<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seeing  | <span class="asaramaic"><big>חָזֵ֥ה</big></span><small><sup>[[H2370]]</sup></small> &#8207;| cha.Zeh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I was  | <span class="asaramaic"><big>הֲוֵ֛ית</big></span><small><sup>[[H1934]]</sup></small> &#8207;| ha.Veit<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in vision my  | <span class="asaramaic"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="asaramaic"><big>חֶזְוִ֖</big></span><small><sup>[[H2376]]</sup></small> <span class="asaramaic"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| be.<small><sup>[[AR]]</sup></small> chez.V<small><sup>[[ANcbsc]]</sup></small> i<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="asaramaic"><big>עִם</big></span><small><sup>[[H5974]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| night the  | <span class="asaramaic"><big>לֵֽילְיָ֑</big></span><small><sup>[[H3916]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| leil.Ya<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and lo!  | <span class="asaramaic"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>אֲר֗וּ</big></span><small><sup>[[H0718]]</sup></small> &#8207;| va.<small><sup>[[AC]]</sup></small> 'a.Ru<small><sup>[[ATj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] four  | <span class="asaramaic"><big>אַרְבַּע֙</big></span><small><sup>[[H0703]]</sup></small> &#8207;| 'ar.Ba'<small><sup>[[AAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] winds of  | <span class="asaramaic"><big>רוּחֵ֣י</big></span><small><sup>[[H7308]]</sup></small> &#8207;| ru.Chei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heavens the  | <span class="asaramaic"><big>שְׁמַיָּ֔</big></span><small><sup>[[H8065]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| she.mai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] stirring up  | <span class="asaramaic"><big>מְגִיחָ֖ן</big></span><small><sup>[[H1519]]</sup></small> &#8207;| me.gi.Chan<small><sup>[[AVhrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> sea the  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>יַמָּ֥</big></span><small><sup>[[H3221]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> ya.Ma<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> great  | <span class="asaramaic"><big>רַבָּֽ</big></span><small><sup>[[H7229]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ra.Ba<small><sup>[[AAabsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.1|<< Daniel 7:1]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.3|Daniel 7:3 >>]]</td></tr></table>
+
+

@@ -1,0 +1,27 @@
+**Deuteronomy 22:1** 
+<small><sub>**KJV:**</sub></small>
+Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.
+<small><sub>**BSB:**</sub></small>
+If you see your brother’s ox or sheep straying, you must not ignore it; be sure to return it to your brother.
+<small><sub>**Literal:**</sub></small>
+not you will see \<obj.> [the] ox of countryman  your or \<obj.> sheep  his going astray and  you will hide yourself from \<the>  them certainly \<to return> you will return  them to  countryman  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.23|<< Deuteronomy 21:23]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.2|Deuteronomy 22:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will see  | <span class="ashebrew"><big>תִרְאֶה֩</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| tir.'Eh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ox of  | <span class="ashebrew"><big>שׁ֨וֹר</big></span><small><sup>[[H7794]]</sup></small> &#8207;| Shor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| countryman your  | <span class="ashebrew"><big>אָחִ֜י</big></span><small><sup>[[H0251I]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'a.Chi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or  | <span class="ashebrew"><big>א֤וֹ</big></span><small><sup>[[H0176A]]</sup></small> &#8207;| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sheep his  | <span class="ashebrew"><big>שֵׂי</big></span><small><sup>[[H7716]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| se.Y<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| going astray  | <span class="ashebrew"><big>נִדָּחִ֔ים</big></span><small><sup>[[H5080]]</sup></small> &#8207;| ni.da.Chim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will hide yourself  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִתְעַלַּמְתָּ֖</big></span><small><sup>[[H5956]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hit.'a.lam.Ta<small><sup>[[HVtq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from \<the> them  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>הֶ֑ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| me.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<to return>  | <span class="ashebrew"><big>הָשֵׁ֥ב</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| ha.Shev<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will return them  | <span class="ashebrew"><big>תְּשִׁיבֵ֖</big></span><small><sup>[[H7725G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| te.shi.Ve<small><sup>[[HVhi2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to countryman your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אָחִֽי</big></span><small><sup>[[H0251I]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'a.Chi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.23|<< Deuteronomy 21:23]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.2|Deuteronomy 22:2 >>]]</td></tr></table>
+
+

@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==ἀθῷος==</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ (<span class='asgreek'>θωά</span>, <i>Ionic dialect</i> <span class='asgreek'>θωιή</span>):— <b>scot-free</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 672, etc.; ἐγὼ μὲν ἀ. ἅπασι 4th c.BC: Demosthenes Orator 18.125">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀθῴους</span> <span class='asgreek'>καθιστάναι</span> <span class='asgreek'>τινάς</span> to secure their <b>immunity</b>, [<a href="javascript:void(0)" title=" [prev. author] 3.11; ἀθῷον ἀφιέναι Test. cited in [same work] 21.107">Refs</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἀπαλλάττειν</span> or -<span class='asgreek'>εσθαι</span> to get off <b>scot-free</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Sophista” 254d, 5th c.BC: Lysias Orator 6.4; ἀπέρχεσθαι 5th-6th c.BC: Archippus Comicus 40; διαφυγεῖν 4th-3rd c.BC: Menander Comicus 130. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>genitive</i>, <b>free from</b> a thing, <span class='asgreek'>πληγῶν</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 1413">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἀδικημάτων</span> <b>unpunished for</b> offences, [<a href="javascript:void(0)" title=" 4th c.BC: Lycurgus Orator 79, compare 1st c.BC: Diodorus Siculus Historicus 14.76. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>unharmed by</b>, <span class='asgreek'>==ἀθῷος==</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>Φιλίππου</span>.. <span class='asgreek'>δυναστείας</span>[<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 18.270. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>not deserving punishment, guiltless</b>, <span class='asgreek'>ἀ</span>. <span class='asgreek'>ὁ</span> <span class='asgreek'>κτείνων</span>[<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus 257; ἀ. χερσί LXX.Ps.23.4; ἀ. ἀπὸ τοῦ αἵματος NT.Matt.27.24. ">NT+3rd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>active</i>, <b>causing no harm, harmless</b>, <span class='asgreek'>κίνδυνος</span>[<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator “Prooemia” 26. (==ἀθῷος== distinguished by Grammars  from Ἄθωος">Refs 4th c.BC+</a>], <b>of Mt. Athos</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 285, cf. Hdn.Gr. 1.128.)">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Ps.23.4]] ☩ [[Matt.27.24]]
+</sub></small>

@@ -1,0 +1,14 @@
+
+<b> <span class='asgreek'>==τελείωσις==</span>-<span class='asgreek'>ωσις</span></b> 
+
+
+ or <b><span class='asgreek'>τελέωσις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, <b>development, completion</b>, of physical growth, <span class='asgreek'>λαμβάνει</span> <span class='asgreek'>τελέωσιν</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ᾠά</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 543a19, compare 561a5, 5th c.BC: Hippocrates Medicus “περὶ ἑπταμήνου” 1, 2nd c.AD: Soranus Medicus 1.18, +others, 2nd c.AD: Galenus Medicus 15.26; τὴν τ. τῶν μορίων ἀπολαμβάνειν 4th c.BC: Aristoteles Philosophus “Historia Animalium” 583b24, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>καρπῶν</span> <span class='asgreek'>τ</span>. [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 3.4.3 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἕως</span> <span class='asgreek'>τελειώσεως</span> to <b>saturation</b>-point, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 2p.38U. ">Refs 4th c.BC+</a>]; of a building, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physica” 246a26 ">Refs 4th c.BC+</a>]; of a statue, [<a href="javascript:void(0)" title=" “Stoicorum Veterum Fragmenta” 3.48; in moral sense, αἱ ἀρεταὶ τελειώσεις 4th c.BC: Aristoteles Philosophus “Physica” 247a2, compare 246a13, “Metaphorical” 1021b20; εἰς τὴν τ. ἄγεσθαι τῆς φύσεως [prev. author] “EN” 1153a12. ">Refs 4th c.BC+</a>] 
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>execution</b> of a legal instrument <b>by completing</b> it, [<a href="javascript:void(0)" title=" “BGU” 1168.3 (1st c.BC), “PFlor.” 56.7, +others (3rd c.AD). ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in Logic, <span class='asgreek'>ἡ</span> <span class='asgreek'>τ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>συλλογισμῶν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Priora” 42a35; compare τελειόω 1.2. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>attainment of manhood</b>, [<a href="javascript:void(0)" title=" “AJA” 18.324 (Sardis, Epist. Augusti). ">Refs</a>] 
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <b>marriage</b>, [<a href="javascript:void(0)" title=" LXX.Jer.2.2; compare τέλειος 1.2b, 11. ">LXX</a>]
+$\quad$ $\quad$<b>\_\_II</b> of events, <b>accomplishment, fulfilment,</b> [<a href="javascript:void(0)" title="NT.Luke.1.45; λόγων LXX.Jdt.10.9. ">LXX+NT</a>]
+
+<small><sub>LSJ Scripture Refs: [[Jer.2.2]] ☩ [[Luke.1.45]]
+</sub></small>

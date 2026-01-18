@@ -1,0 +1,8 @@
+Greek of: <small>[[H6721H]]</small> 
+
+
+<b> <span class='asgreek'>==Σιδών==</span></b>, <span class='asgreek'>ῶνος</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ [<a href="javascript:void(0)" title=" “Sidon”, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 15.425, 5th c.BC: Herodotus Historicus 2.116, etc.">Refs 8th c.BC+</a>]: hence <i>adjective</i> <b><span class='asgreek'>Σῑδόνιος</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 6.290, 4th-5th c.BC: Aeschylus Tragicus “Supplices” 122 ">Refs 8th c.BC+</a>]; later <b><span class='asgreek'>Σιδώνιος</span></b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Phrynichus Tragicus 9 (Lyric poetry), 5th c.BC: Herodotus Historicus 7.44, 5th c.BC: Sophocles Tragicus “Fragmenta” 909, 4th c.BC: Sopater Comicus 16, etc.">Refs 5th c.BC+</a>]; <i>feminine</i> <b><span class='asgreek'>Σιδωνιάς</span></b>, <span class='asgreek'>άδος</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hel.” 1451 (Lyric poetry)">Refs 5th c.BC+</a>]:—<b><span class='asgreek'>Σῐδόνες</span></b>, <span class='asgreek'>οἱ</span>, <b>men of Sidon</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 23.743 ">Refs 8th c.BC+</a>]; also <b><span class='asgreek'>Σιδόνιοι</span></b>, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 4.84, 618; Σιδονίη (i.e. γῆ) 13.285. [ῐ in 8th c.BC: Ilias Homerus Epicus “Illiad” 23.743, probably in 4th c.BC: Sopater Comicus 16, elsewhere ῑ.] ">Refs 8th c.BC+</a>]
+

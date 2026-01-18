@@ -1,0 +1,22 @@
+**Leviticus 10:10** 
+<small><sub>**KJV:**</sub></small>
+And that ye may put difference between holy and unholy, and between unclean and clean;
+<small><sub>**BSB:**</sub></small>
+You must distinguish between the holy and the common, between the clean and the unclean,
+<small><sub>**Literal:**</sub></small>
+and  to  separate between the  holy thing and  between the  profane thing and  between the  unclean [thing] and  between the  clean [thing]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.9|<< Leviticus 10:9]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.11|Leviticus 10:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and to separate  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֲ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַבְדִּ֔יל</big></span><small><sup>[[H0914]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> hav.Dil<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between  | <span class="ashebrew"><big>בֵּ֥ין</big></span><small><sup>[[H0996G]]</sup></small> &#8207;| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the holy thing  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קֹּ֖דֶשׁ</big></span><small><sup>[[H6944G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵ֣ין</big></span><small><sup>[[H0996G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the profane thing  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֹ֑ל</big></span><small><sup>[[H2455]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Chol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵ֥ין</big></span><small><sup>[[H0996G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the unclean [thing]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>טָּמֵ֖א</big></span><small><sup>[[H2931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and between  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בֵ֥ין</big></span><small><sup>[[H0996G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the clean [thing]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>טָּהֽוֹר</big></span><small><sup>[[H2889]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ta.Hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.9|<< Leviticus 10:9]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.11|Leviticus 10:11 >>]]</td></tr></table>
+
+

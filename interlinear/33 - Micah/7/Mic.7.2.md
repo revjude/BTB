@@ -1,0 +1,28 @@
+**Micah 7:2** 
+<small><sub>**KJV:**</sub></small>
+The good [man] is perished out of the earth: and [there is] none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.
+<small><sub>**BSB:**</sub></small>
+The godly man has perished from the earth; there is no one upright among men. They all lie in wait for blood; they hunt one another with a net.
+<small><sub>**Literal:**</sub></small>
+he has perished [the] faithful from the  land and  [is] an upright [person] among \<the>  humankind there not all of  them for  blood\<s> they lie in wait each \<obj.> brother  his they hunt a net<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.1|<< Micah 7:1]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.3|Micah 7:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| he has perished  | <span class="ashebrew"><big>אָבַ֤ד</big></span><small><sup>[[H0006]]</sup></small> &#8207;| 'a.Vad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] faithful  | <span class="ashebrew"><big>חָסִיד֙</big></span><small><sup>[[H2623]]</sup></small> &#8207;| cha.Sid<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] an upright [person]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יָשָׁ֥ר</big></span><small><sup>[[H3477G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ya.Shar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among \<the> humankind  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָדָ֖ם</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  | <span class="ashebrew"><big>אָ֑יִן</big></span><small><sup>[[H0369]]</sup></small> &#8207;| 'A.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  | <span class="ashebrew"><big>כֻּלָּ</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for blood\<s>  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָמִ֣ים</big></span><small><sup>[[H1818]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they lie in wait  | <span class="ashebrew"><big>יֶאֱרֹ֔בוּ</big></span><small><sup>[[H0693]]</sup></small> &#8207;| ye.'e.Rou<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| each  | <span class="ashebrew"><big>אִ֥ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brother his  | <span class="ashebrew"><big>אָחִ֖י</big></span><small><sup>[[H0251I]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.Chi.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they hunt  | <span class="ashebrew"><big>יָצ֥וּדוּ</big></span><small><sup>[[H6679A]]</sup></small> &#8207;| ya.Tzu.du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a net  | <span class="ashebrew"><big>חֵֽרֶם</big></span><small><sup>[[H2764B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Che.rem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.1|<< Micah 7:1]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.3|Micah 7:3 >>]]</td></tr></table>
+
+

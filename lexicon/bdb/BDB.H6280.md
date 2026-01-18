@@ -1,0 +1,13 @@
+ II. [<span class="bdbLangHebrew">‎עָתַר‎</span>] **verb** ==be abundant==, si vera lectio (as Aramaic loan-word; <span class="bdbLangHebrew">‎עֲתַר‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLAAbAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAsABsABwj/APkJHEiwoMGDCA/+S8iwoUN+Cx9KnPivokWLBC9qnKhQI8aBHkOKvGhQZMGRKEOW9HgypcuKKzdmfOkyJsmZHq+1w+eNps2PID1KAkC0jM+WMgVWY1MRn51FFQnx2+HsKM6bAolCvAbgQcVUAMpVzFcTqUhzEP+9I+rqX7VMFePRiHAM5U+PsrgQqgiGqMcqRIWNZOixHNEB2v7RIqpHY7/FAAapJKyxHQJ+AHy5FfiADTqN73IA4MKyocd9AAZ8FgURM4Mxu06BasXsEVEAV9gAi2j6Ir5UBeb840a0g69bK24rB9CDqANYFC1WC9Gnoq/bEf7RS0WlEylZq1JBPtv37RY33iARaixmMZ+zb7KEv+zY2izNyTHrZ7Tv22RHmDA5ZNV/AgUooF2UBWhgb1hxFBR6DkZYIFASRhgQADs=">, ***be rich*** = Hebrew <span class="bdbLangHebrew">‎עָשַׁר‎</span>); — 
+
+**Niph\`al** ***Participle*** feminine plural <span class="bdbLangHebrew">‎נַעְתָּרוֺת‎</span> [[Prov.27.6|Prov 27:6]] (of enemy's kisses; [[BDB#De|De]] ***excessive***; opposed to <span class="bdbLangHebrew">‎נֶאֱמָנִים‎</span>); Toy proposes <span class="bdbLangHebrew">‎נֶעֱקָשׁוֺת‎</span>, or <span class="bdbLangHebrew">‎נַעֲוֺת‎</span>, ***crooked, hypocritical***. **Hiph\`il** ***Perfect*** 2 masculine plural <span class="bdbLangHebrew">‎הַעְתַּרְתֶּם עָלַי דִּבְרֵיכֶם‎</span> [[Ezek.35.13|Ezek 35:13]] ***ye have multiplied against me your words*** (\|\| <span class="bdbLangHebrew">‎וַתַּגְדִּילוּ‎</span> <span class="bdbLangHebrew">‎עָלַי בְּפִיכֶם‎</span>), strike out as gloss [[BDB#Co|Co]] after [[BDB#Sept|ᵐ5]], Toy reads singular, and thinks verb due to Aramaizing scribe. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Proverbs | [[Prov.27.6\|27:6]] |
+| Ezekiel | [[Ezek.35.13\|35:13]] |
+

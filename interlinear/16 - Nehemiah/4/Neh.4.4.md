@@ -1,0 +1,26 @@
+**Nehemiah 4:4** (3:36)
+<small><sub>**KJV:**</sub></small>
+Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:
+<small><sub>**BSB:**</sub></small>
+Hear us, O God, for we are despised. Turn their scorn back upon their own heads, and let them be taken as plunder to a land of captivity.
+<small><sub>**Literal:**</sub></small>
+hear O God  our for we are contempt and  return reproach  their to own head  their and  give  them to  plunder in  a land of captivity<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.3|<< Nehemiah 4:3]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.5|Nehemiah 4:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| hear  | <span class="ashebrew"><big>שְׁמַ֤ע</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| she.Ma'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God our  | <span class="ashebrew"><big>אֱלֹהֵ֙י</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>נוּ֙</big></span><small><sup>[[H9025]]</sup></small> &#8207;| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we are  | <span class="ashebrew"><big>הָיִ֣ינוּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yi.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| contempt  | <span class="ashebrew"><big>בוּזָ֔ה</big></span><small><sup>[[H0939]]</sup></small> &#8207;| vu.Zah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and return  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָשֵׁ֥ב</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.Shev<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| reproach their  | <span class="ashebrew"><big>חֶרְפָּתָ֖</big></span><small><sup>[[H2781]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| cher.pa.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own head their  | <span class="ashebrew"><big>רֹאשָׁ֑</big></span><small><sup>[[H7218A]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ro.Sha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and give them  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְנֵ֥</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.Ne<small><sup>[[HVqv2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to plunder  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בִזָּ֖ה</big></span><small><sup>[[H0961]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> vi.Zah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֥רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| captivity  | <span class="ashebrew"><big>שִׁבְיָֽה</big></span><small><sup>[[H7633]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| shiv.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.3|<< Nehemiah 4:3]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.5|Nehemiah 4:5 >>]]</td></tr></table>
+
+

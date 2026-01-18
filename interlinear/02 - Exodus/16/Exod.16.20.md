@@ -1,0 +1,28 @@
+**Exodus 16:20** 
+<small><sub>**KJV:**</sub></small>
+Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them.
+<small><sub>**BSB:**</sub></small>
+But they did not listen to Moses; some people left part of it until morning, and it became infested with maggots and began to smell. So Moses was angry with them.
+<small><sub>**Literal:**</sub></small>
+and  not they listened to Moses and  they left over people some of  it until morning and  it became rotten worms and  it stank and  he was angry towards  them Moses<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.19|<< Exodus 16:19]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.21|Exodus 16:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they listened  | <span class="ashebrew"><big>שָׁמְע֣וּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  | <span class="ashebrew"><big>מֹשֶׁ֗ה</big></span><small><sup>[[H4872]]</sup></small> &#8207;| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they left over  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יּוֹתִ֨רוּ</big></span><small><sup>[[H3498]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.Ti.ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people  | <span class="ashebrew"><big>אֲנָשִׁ֤ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| some of it  | <span class="ashebrew"><big>מִמֶּ֙</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נּוּ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| morning  | <span class="ashebrew"><big>בֹּ֔קֶר</big></span><small><sup>[[H1242]]</sup></small> &#8207;| Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it became rotten  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֥רֻם</big></span><small><sup>[[H7311B]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.rum<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| worms  | <span class="ashebrew"><big>תּוֹלָעִ֖ים</big></span><small><sup>[[H8438A]]</sup></small> &#8207;| to.la.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it stank  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּבְאַ֑שׁ</big></span><small><sup>[[H0887]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yiv.'Ash<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was angry  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְצֹ֥ף</big></span><small><sup>[[H7107]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.Tzof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| towards them  | <span class="ashebrew"><big>עֲלֵ</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.le.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  | <span class="ashebrew"><big>מֹשֶֽׁה</big></span><small><sup>[[H4872]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.19|<< Exodus 16:19]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.21|Exodus 16:21 >>]]</td></tr></table>
+
+

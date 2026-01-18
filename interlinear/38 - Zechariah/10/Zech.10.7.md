@@ -1,0 +1,26 @@
+**Zechariah 10:7** 
+<small><sub>**KJV:**</sub></small>
+And [they of] Ephraim shall be like a mighty [man], and their heart shall rejoice as through wine: yea, their children shall see [it], and be glad; their heart shall rejoice in the LORD.
+<small><sub>**BSB:**</sub></small>
+Ephraim will be like a mighty man, and their hearts will be glad as with wine. Their children will see it and be joyful; their hearts will rejoice in the LORD.
+<small><sub>**Literal:**</sub></small>
+and  they will be like  a warrior Ephraim and  it will be glad heart  their like wine and  children  their they will see and  they will be glad it may rejoice heart  their in  Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.6|<< Zechariah 10:6]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.8|Zechariah 10:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָי֤וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a warrior  | <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>גִבּוֹר֙</big></span><small><sup>[[H1368]]</sup></small> &#8207;| khe.<small><sup>[[HR]]</sup></small> gi.bOr<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֔יִם</big></span><small><sup>[[H0669G]]</sup></small> &#8207;| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will be glad  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׂמַ֥ח</big></span><small><sup>[[H8055]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sa.Mach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart their  | <span class="ashebrew"><big>לִבָּ֖</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| li.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like  | <span class="ashebrew"><big>כְּמוֹ</big></span><small><sup>[[H3644G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ke.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wine  | <span class="ashebrew"><big>יָ֑יִן</big></span><small><sup>[[H3196]]</sup></small> &#8207;| Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and children their  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will see  | <span class="ashebrew"><big>יִרְא֣וּ</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| yir.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will be glad  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׂמֵ֔חוּ</big></span><small><sup>[[H8055]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sa.Me.chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it may rejoice  | <span class="ashebrew"><big>יָגֵ֥ל</big></span><small><sup>[[H1523]]</sup></small> &#8207;| ya.Gel<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart their  | <span class="ashebrew"><big>לִבָּ֖</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| li.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Yahweh  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.6|<< Zechariah 10:6]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.8|Zechariah 10:8 >>]]</td></tr></table>
+
+

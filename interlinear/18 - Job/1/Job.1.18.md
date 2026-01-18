@@ -1,0 +1,27 @@
+**Job 1:18** 
+<small><sub>**KJV:**</sub></small>
+While he [was] yet speaking, there came also another, and said, Thy sons and thy daughters [were] eating and drinking wine in their eldest brother’s house:
+<small><sub>**BSB:**</sub></small>
+While he was still speaking, another messenger came and reported: “Your sons and daughters were eating and drinking wine in their oldest brother’s house,
+<small><sub>**Literal:**</sub></small>
+until this [one] [was] speaking and  this [one] he came and  he said sons  your and  daughters  your [were] eating and  drinking wine in  [the] house of brother  their the  firstborn<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.17|<< Job 1:17]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.19|Job 1:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| until  | <span class="ashebrew"><big>עַ֚ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this [one]  | <span class="ashebrew"><big>זֶ֣ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] speaking  | <span class="ashebrew"><big>מְדַבֵּ֔ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| me.da.Ber<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and this [one]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זֶ֖ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he came  | <span class="ashebrew"><big>בָּ֣א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ba'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּאמַ֑ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons your  | <span class="ashebrew"><big>בָּנֶ֨י</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ba.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and daughters your  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנוֹתֶ֤י</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.no.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] eating  | <span class="ashebrew"><big>אֹֽכְלִים֙</big></span><small><sup>[[H0398]]</sup></small> &#8207;| 'o.khe.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and drinking  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֹׁתִ֣ים</big></span><small><sup>[[H8354]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sho.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wine  | <span class="ashebrew"><big>יַ֔יִן</big></span><small><sup>[[H3196]]</sup></small> &#8207;| Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] house of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בֵ֖ית</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brother their  | <span class="ashebrew"><big>אֲחִי</big></span><small><sup>[[H0251G]]</sup></small> <span class="ashebrew"><big>הֶ֥ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.chi.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the firstborn  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בְּכֽוֹר</big></span><small><sup>[[H1060]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> be.Khor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.17|<< Job 1:17]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.19|Job 1:19 >>]]</td></tr></table>
+
+

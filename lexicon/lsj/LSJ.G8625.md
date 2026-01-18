@@ -1,0 +1,10 @@
+<span class="asgreek">παράλυσις</span> <small>***(paralusis)***</small> ==**paralysis**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==παράλυσις==</span>-<span class='asgreek'>λῠσις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>secret</b> or <b>illicit undoing</b> or <b>breaking open</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>πολυπραγμοσύνη</span> <span class='asgreek'>π</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀπορρήτων</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.519c (variant{-δυσις}). ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>disabling of the nerves, paralysis</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Fragmenta” 11, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.6, 2nd c.AD: Rufus Medicus cited in 4th c.AD: Oribasius Medicus 8.39.2, 2nd c.AD: Galenus Medicus 8.208 ">Refs 4th c.BC+</a>]; also of the eyes, i.e. <b>nystagmus</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Celsus Medicus 6.6.36: generally, π. τῶν σωμάτων">Refs 1st c.AD+</a>], of the effect of strong wine, [<a href="javascript:void(0)" title=" “Comica Adespota” 106.13 ">Refs</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>λύπη</span> <span class='asgreek'>ψυχῆς</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Cleanthes Stoicus 1.130, compare 2nd c.BC: Polybius Historicus 30.32.10. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> ={<span class='asgreek'>δελφίνιον</span>}[<a href="javascript:void(0)" title=" 11, Pseudo-Dioscorides (Dioscurides) Medicus 3.73 ">Refs 1st c.AD+</a>]; ={<span class='asgreek'>κώνειον</span>} 1.1, [<a href="javascript:void(0)" title=" [prev. author] 4.78. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>diaeresis</b> (in Grammars ), <span class='asgreek'>κατὰ</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 12th c.AD: Eustathius Episcopus Thessalonicensis ad 2nd c.AD: Dionysius Periegeta 384. ">Refs 2nd c.AD+</a>]

@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==φρενόω==</span>-<span class='asgreek'>όω</span></b>, 
+
+
+ (<span class='asgreek'>φρήν</span>) <b>make wise, instruct, inform,</b> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 337, 5th c.BC: Sophocles Tragicus “Antigone” 754, “Tr.” 52, 5th c.BC: Euripides Tragicus “Ion” 526 (troch.)">Refs 5th c.BC+</a>]; <span class='asgreek'>==φρενόω==ώσω</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>οὐκέτ᾽</span> <span class='asgreek'>ἐξ</span> <span class='asgreek'>αἰνιγμάτων</span>, i.e. <b>will teach</b> plainly, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1183; poet. Verb, used by 5th-6th c.BC: Xenophon Historicus “Memorabilia” 4.1.5; φ. τινὰ εἴς τι [prev. work] 2.6.1 ">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ παρρησίας” p.52 O.; πε==φρενόω==ωμένος 2nd c.AD: Lucianus Sophista “Lex.” 19; ==φρενόω==ωθῆναι οὐδὲ πρὸς αὐτῆς τῆς Ἀθηνᾶς 4th c.AD: Julianus Imperator “Orationes” 7.225b. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be high-minded, elated,</b> [<a href="javascript:void(0)" title=" LXX.2Mac.11.4, 2nd c.AD: Babrius Fabularum Scriptor 101.5. ">LXX+2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>φ</span>. is probably a late spelling of <span class='asgreek'>φρονῶν</span> (see. <span class='asgreek'>φρονέω</span> IV near the end) in the phrase <span class='asgreek'>ζῶν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>==φρενόω==ῶν</span>.

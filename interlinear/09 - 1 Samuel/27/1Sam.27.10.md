@@ -1,0 +1,29 @@
+**1 Samuel 27:10** 
+<small><sub>**KJV:**</sub></small>
+And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.
+<small><sub>**BSB:**</sub></small>
+who would ask him, “What have you raided today?” And David would reply, “The Negev of Judah,” or “The Negev of Jerahmeel,” or “The Negev of the Kenites.”
+<small><sub>**Literal:**</sub></small>
+and  he said Achish against [where] did you make a raid this  day and  he said David on [the] Negev of Judah and  on [the] Negev of the  Jerahmeelite[s] and  against [the] Negev of the  Kenite[s]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.9|<< 1 Samuel 27:9]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.11|1 Samuel 27:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Achish  | <span class="ashebrew"><big>אָכִ֔ישׁ</big></span><small><sup>[[H0397]]</sup></small> &#8207;| 'a.Khish<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against [where]  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| did you make a raid  | <span class="ashebrew"><big>פְּשַׁטְתֶּ֖ם</big></span><small><sup>[[H6584]]</sup></small> &#8207;| pe.sha.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this day  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יּ֑וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֗ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Negev of  | <span class="ashebrew"><big>נֶ֤גֶב</big></span><small><sup>[[H5045G]]</sup></small> &#8207;| Ne.gev<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָה֙</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Negev of  | <span class="ashebrew"><big>נֶ֣גֶב</big></span><small><sup>[[H5045G]]</sup></small> &#8207;| Ne.gev<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Jerahmeelite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יַּרְחְמְאֵלִ֔י</big></span><small><sup>[[H3397]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yar.che.me.'e.Li<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and against  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Negev of  | <span class="ashebrew"><big>נֶ֖גֶב</big></span><small><sup>[[H5045G]]</sup></small> &#8207;| Ne.gev<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Kenite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קֵּינִֽי</big></span><small><sup>[[H7017]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> kei.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.9|<< 1 Samuel 27:9]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.11|1 Samuel 27:11 >>]]</td></tr></table>
+
+

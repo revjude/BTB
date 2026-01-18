@@ -1,0 +1,26 @@
+**Psalms 106:38** 
+<small><sub>**KJV:**</sub></small>
+And shed innocent blood, [even] the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.
+<small><sub>**BSB:**</sub></small>
+They shed innocent blood—the blood of their sons and daughters, whom they sacrificed to the idols of Canaan, and the land was polluted with blood.
+<small><sub>**Literal:**</sub></small>
+and  they shed blood innocent [the] blood of sons  their and  daughters  their whom they sacrificed to  [the] idols of Canaan and  it was polluted the  land by the  blood\<s><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.37|<< Psalms 106:37]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.39|Psalms 106:39 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they shed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּֽשְׁפְּכ֨וּ</big></span><small><sup>[[H8210G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.pe.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood  | <span class="ashebrew"><big>דָ֪ם</big></span><small><sup>[[H1818]]</sup></small> &#8207;| dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| innocent  | <span class="ashebrew"><big>נָקִ֡י</big></span><small><sup>[[H5355A]]</sup></small> &#8207;| na.Ki<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] blood of  | <span class="ashebrew"><big>דַּם</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| dam-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons their  | <span class="ashebrew"><big>בְּנֵ֘י</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>הֶ֤ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| be.Nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and daughters their  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנוֹתֵי</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>הֶ֗ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.no.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they sacrificed  | <span class="ashebrew"><big>זִ֭בְּחוּ</big></span><small><sup>[[H2076]]</sup></small> &#8207;| Zi.be.chu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] idols of  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֲצַבֵּ֣י</big></span><small><sup>[[H6091]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'a.tza.Bei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  | <span class="ashebrew"><big>כְנָ֑עַן</big></span><small><sup>[[H3667A]]</sup></small> &#8207;| khe.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was polluted  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֶּחֱנַ֥ף</big></span><small><sup>[[H2610]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.che.Naf<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ֝</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֗רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by the blood\<s>  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דָּמִֽים</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> da.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.37|<< Psalms 106:37]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.39|Psalms 106:39 >>]]</td></tr></table>
+
+

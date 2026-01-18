@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==ἐπίορκος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>sworn falsely</b>, of oaths, <span class='asgreek'>εἰ</span> <span class='asgreek'>δέ</span> <span class='asgreek'>τι</span> <span class='asgreek'>τῶνδ᾽</span> <span class='asgreek'>==ἐπίορκος==ον</span> 8th c.BC: Ilias Homerus Epicus “Illiad” 19.264: frequently in the phrase <span class='asgreek'>==ἐπίορκος==ον</span> <span class='asgreek'>ὀμόσσαι</span> take <b>a false oath</b>, swear <b>falsely</b>, [<a href="javascript:void(0)" title=" 3.279, 19.260, Hes. “Op.” 282, “Th.” 232 ">Refs</a>]; in full, <span class='asgreek'>==ἐπίορκος==ον</span> <span class='asgreek'>ὅρκον</span> <span class='asgreek'>ὤμοσε</span> [<a href="javascript:void(0)" title="5th-6th c.BC: Aristophanes Comicus “Ranae” 150; and so ἐ. ἐπομνύναι (see. ἐπόμνυμι); but in Il. 10.332 ἐ. ἐπώμοσε">Refs</a>] he swore <b>a bootless oath</b>, i.e. one which he meant to fulfil, but the gods willed otherwise. 
+
+$\quad$ $\quad$<b>\_\_II</b>. of persons, <b>forsworn, perjured</b>, [<a href="javascript:void(0)" title=" Hes. “Op.” 804, “Schwyzer” 179a (from Crete), E. “El.” 1355 (\_anapaest meter\_), Ar. “Nu.” 399, +others">Refs</a>]: <i>superlative</i> <b>-<span class='asgreek'>ότατος</span></b> 5th c.BC: Antipho Orator 6.48. <i>adverb</i> <b>-<span class='asgreek'>κως</span></b> 2nd c.AD: Herodianus Grammaticus 6.9.2.

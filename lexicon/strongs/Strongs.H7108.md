@@ -1,0 +1,7 @@
+<big><span class="asaramaic">‎קְצַף‎</span></big> **qᵉtsaph** <small>*(kets-af')*</small> ==**be angry**==  <sup><small>[[TEHMC#A:V|A:V]]</small></sup> 
+<small>(Aramaic) corresponding to <span class="ashebrew">‎קָצַף‎</span><sup><small>[[H7107]]</small></sup></small>
+
+$\quad$ be furious.
+- ***to become enraged***
+
+**1)** (P'al) to be or become angry, be wroth

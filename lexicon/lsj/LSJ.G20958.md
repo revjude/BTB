@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==περιστροφή==</span>-<span class='asgreek'>ή</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>turning</b> or <b>spinning round</b>, <span class='asgreek'>ὀστράκου</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 521c ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἄστρων</span> <span class='asgreek'>==περιστροφή==αί</span> <b>courses</b> of the stars, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 432.8; κόσμου 3rd c.BC: Euclides Geometra “Phaenomena” p.8 M.; τοῦ ἡλίου 3rd c.AD: Heliodorus Scriptor Eroticus 1.18, etc. ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐν</span> <span class='asgreek'>==περιστροφή==ῇ</span> <span class='asgreek'>λαοῦ</span> <b>amidst</b> them, [<a href="javascript:void(0)" title=" LXX.Sir.50.5 ">LXX</a>]: <i>plural</i>, <b>contortions</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 15.126 ">Refs 2nd c.AD+</a>]; <b>whorls</b> in hairgrowth, <span class='asgreek'>δύο</span> <span class='asgreek'>π</span>. <span class='asgreek'>ἕξει</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>κεφαλῇ</span> [<a href="javascript:void(0)" title=" 4th c.AD: Hephaestio Astrologus 1.1. ">Refs 4th c.AD+</a>]
+

@@ -1,0 +1,27 @@
+**1 Kings 6:29** 
+<small><sub>**KJV:**</sub></small>
+And he carved all the walls of the house round about with carved figures of cherubims and palm trees and open flowers, within and without.
+<small><sub>**BSB:**</sub></small>
+Then he carved the walls all around the temple, in both the inner and outer sanctuaries, with carved engravings of cherubim, palm trees, and open flowers.
+<small><sub>**Literal:**</sub></small>
+and  \<obj.> all [the] walls of the  house round about he carved engravings of carvings of cherubim and  palm trees and  spread out [things] of flowers from  to  faces and  to the  outer<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.28|<< 1 Kings 6:28]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.30|1 Kings 6:30 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵת֩</big></span><small><sup>[[H0853]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] walls of  | <span class="ashebrew"><big>קִיר֨וֹת</big></span><small><sup>[[H7023]]</sup></small> &#8207;| ki.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the house  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בַּ֜יִת</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| round about  | <span class="ashebrew"><big>מֵסַ֣ב</big></span><small><sup>[[H4524]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| me.Sav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he carved  | <span class="ashebrew"><big>קָלַ֗ע</big></span><small><sup>[[H7049B]]</sup></small> &#8207;| ka.La'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| engravings of  | <span class="ashebrew"><big>פִּתּוּחֵי֙</big></span><small><sup>[[H6603]]</sup></small> &#8207;| pi.tu.Chei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| carvings of  | <span class="ashebrew"><big>מִקְלְעוֹת֙</big></span><small><sup>[[H4734]]</sup></small> &#8207;| mik.le.'Ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cherubim  | <span class="ashebrew"><big>כְּרוּבִ֣ים</big></span><small><sup>[[H3742]]</sup></small> &#8207;| ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and palm trees  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תִֽמֹרֹ֔ת</big></span><small><sup>[[H8561]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ti.mo.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and spread out [things] of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פְטוּרֵ֖י</big></span><small><sup>[[H6362]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fe.tu.Rei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flowers  | <span class="ashebrew"><big>צִצִּ֑ים</big></span><small><sup>[[H6731A]]</sup></small> &#8207;| tzi.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from to faces  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>לִּ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנִ֖ים</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> li<small><sup>[[HR]]</sup></small> f.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to the outer  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חִיצֽוֹן</big></span><small><sup>[[H2435]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> chi.Tzon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.28|<< 1 Kings 6:28]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.30|1 Kings 6:30 >>]]</td></tr></table>
+
+

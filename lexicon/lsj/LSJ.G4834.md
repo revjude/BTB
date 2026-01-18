@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==συμπαθέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>to be sympathetically affected</b>, <span class='asgreek'>δοκεῖ</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>ψυχὴ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>σῶμα</span> <span class='asgreek'>==συμπαθέω==εῖν</span> <span class='asgreek'>ἀλλήλοις</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physiognomonica” 808b11; ξ. κεφαλῇ τὰ μέσα 2nd c.AD: Aretaeus Medicus “χρονίων νούσων θεραπευτικόν” 1.4, compare 2nd c.AD: Galenus Medicus 8.33">Refs 4th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 16.11.8. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>dative</i> <i>person</i>, <b>sympathize with</b>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>φίλοις</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Gnomologium Vaticanum - Kleine Schriften” 66. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>dative</i> <i>of things</i>, <b>sympathize in, feel for</b>, <span class='asgreek'>ἀτυχίαις</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 4.112 (uncertain), cf. NT.Heb.4.15, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cleomenes” 1, etc. ">NT+5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>absolutely</i>, <b>feel sympathy</b>, [<a href="javascript:void(0)" title=" [prev. author] “Tim.” 14, “IG” 14.760 (Naples, 1st c.AD)">Refs 1st c.AD+</a>]; <span class='asgreek'>ἐκ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>παθεῖν</span> <span class='asgreek'>γίγνωσκε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>==συμπαθέω==εῖν</span>· <span class='asgreek'>καὶ</span> <span class='asgreek'>σοὶ</span> <span class='asgreek'>γὰρ</span> <span class='asgreek'>ἄλλος</span> <span class='asgreek'>==συμπαθέω==ήσεται</span> <span class='asgreek'>παθών</span> (<i>future</i> <i>middle</i> in <i>active</i> sense) [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Philemo Comicus 230, compare 1st c.BC: Philodemus Philosophus “περὶ ποιημάτων” 5.33. ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Heb.4.15]]
+</sub></small>

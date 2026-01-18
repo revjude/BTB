@@ -1,0 +1,26 @@
+**Jeremiah 46:6** 
+<small><sub>**KJV:**</sub></small>
+Let not the swift flee away, nor the mighty man escape; they shall stumble, and fall toward the north by the river Euphrates.
+<small><sub>**BSB:**</sub></small>
+“The swift cannot flee, and the warrior cannot escape! In the north by the River Euphrates they stumble and fall.
+<small><sub>**Literal:**</sub></small>
+may not he flee the  swift [one] and  may not he escape the  warrior north  -ward on [the] side of [the] river of Euphrates they will stumble and  they will fall<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.5|<< Jeremiah 46:5]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.7|Jeremiah 46:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he flee  | <span class="ashebrew"><big>יָנ֣וּס</big></span><small><sup>[[H5127]]</sup></small> &#8207;| ya.Nus<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the swift [one]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קַּ֔ל</big></span><small><sup>[[H7031]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Kal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he escape  | <span class="ashebrew"><big>יִמָּלֵ֖ט</big></span><small><sup>[[H4422]]</sup></small> &#8207;| yi.ma.Let<small><sup>[[HVNj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the warrior  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּבּ֑וֹר</big></span><small><sup>[[H1368]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> gi.Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| north -ward  | <span class="ashebrew"><big>צָפ֙וֹנָ</big></span><small><sup>[[H6828G]]</sup></small> <span class="ashebrew"><big>ה֙</big></span><small><sup>[[H9011]]</sup></small> &#8207;| tza.Fo.na<small><sup>[[HNcfsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] side of  | <span class="ashebrew"><big>יַ֣ד</big></span><small><sup>[[H3027J]]</sup></small> &#8207;| yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] river of  | <span class="ashebrew"><big>נְהַר</big></span><small><sup>[[H5104H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ne.har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Euphrates  | <span class="ashebrew"><big>פְּרָ֔ת</big></span><small><sup>[[H6578]]</sup></small> &#8207;| pe.Rat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will stumble  | <span class="ashebrew"><big>כָּשְׁל֖וּ</big></span><small><sup>[[H3782]]</sup></small> &#8207;| ka.she.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will fall  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָפָֽלוּ</big></span><small><sup>[[H5307G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.Fa.lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.5|<< Jeremiah 46:5]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.7|Jeremiah 46:7 >>]]</td></tr></table>
+
+

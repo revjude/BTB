@@ -1,0 +1,28 @@
+**2 Samuel 20:23** 
+<small><sub>**KJV:**</sub></small>
+Now Joab [was] over all the host of Israel: and Benaiah the son of Jehoiada [was] over the Cherethites and over the Pelethites:
+<small><sub>**BSB:**</sub></small>
+Now Joab was over the whole army of Israel; Benaiah son of Jehoiada was over the Cherethites and Pelethites;
+<small><sub>**Literal:**</sub></small>
+and  Joab [was] to all the  army of Israel and  Benaiah [the] son of Jehoiada [was] over the  Kerethite[s] and  over the  Pelethite[s]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.22|<< 2 Samuel 20:22]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.24|2 Samuel 20:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Joab  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יוֹאָ֕ב</big></span><small><sup>[[H3097G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] to  | <span class="ashebrew"><big>אֶ֥ל</big></span><small><sup>[[H0413]]</sup></small> &#8207;| 'el<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the army of  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צָּבָ֖א</big></span><small><sup>[[H6635A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> tza.Va'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Benaiah  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנָיָה֙</big></span><small><sup>[[H1141G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.na.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehoiada  | <span class="ashebrew"><big>יְה֣וֹיָדָ֔ע</big></span><small><sup>[[H3077G]]</sup></small> &#8207;| ye.Ho.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Kerethite[s]  [^2] | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כְּרֵתִ֖י</big></span><small><sup>[[H3774H]]</sup></small> &#8207;[^3] | ha.<small><sup>[[HTd]]</sup></small> ke.ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| and over  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Pelethite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פְּלֵתִֽי</big></span><small><sup>[[H6432]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> pe.le.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.22|<< 2 Samuel 20:22]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.24|2 Samuel 20:24 >>]]</td></tr></table>
+
+[^1]: ==K==: **the Carian[s] ** | <small><sup>[[H3746]]</sup></small><span class="ashebrew"><big>כְּרִי</big></span> <small><sup>[[H9009]]</sup></small><span class="ashebrew"><big>הַ</big></span>  | ha.<small><sup>[[HTd]]</sup></small> ke.ri<small><sup>[[HNgbsa]]</sup></small> 
+[^2]: ==K==: **the Carian[s] ** | <small><sup>[[H3746]]</sup></small><span class="ashebrew"><big>כְּרִי</big></span> <small><sup>[[H9009]]</sup></small><span class="ashebrew"><big>הַ</big></span>  | ha.<small><sup>[[HTd]]</sup></small> ke.ri<small><sup>[[HNgbsa]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>הַכְּרִֵי֖</big></span>**
+

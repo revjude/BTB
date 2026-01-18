@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==ἄγνωστος==</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>unknown</b>, <span class='asgreek'>τινί</span>[<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 2.175">Refs 8th c.BC+</a>]; <b>unheard of, forgotten</b>,[<a href="javascript:void(0)" title=" Mimn 5.7; ἄ. ἐς γῆν 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 94">Refs 5th c.BC+</a>]; <b>unfamiliar</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Topica” 149a5 (\_comparative\_). ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>not to be known</b>, <span class='asgreek'>ἄγνωστόν</span> <span class='asgreek'>τινα</span> <span class='asgreek'>τεύχειν</span>[<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 13.191; πάντεσσι [prev. work] 397">Refs 8th c.BC+</a>]; <span class='asgreek'>ἀγνωστστατοι</span> <span class='asgreek'>γλῶσσαν</span> <b>most unintelligible</b> in tongue, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.94. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>not an object of knowledge, unknowable</b>, <span class='asgreek'>ἄλογα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἄ</span>.[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 202b; ἡ ὕλη ἄ. καθ᾽ αὑτήν 4th c.BC: Aristoteles Philosophus “Metaphysica” 1036a9">Refs 5th c.BC+</a>]; in <i>comparative</i>, <b>harder to know</b>, [<a href="javascript:void(0)" title="[prev. work] 995a2. ">Refs</a>]<i>adverb</i> <b>-<span class='asgreek'>τως</span></b>[<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “in Platonis Alcibiadem” p.52C. ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> as the name of a divinity at Athens, <span class='asgreek'>νὴ</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>Ἄγνωστον</span> Ps.-[<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Philopatr.” 9, cf. NT.Acts.17.23; in \_plural\_, θεῶν.. ὀνομαζομένων ἀ. 2nd c.AD: Pausanias Periegeta 1.1.4. ">NT+2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>notknowing, ignorant of</b>, <span class='asgreek'>ψευδέων</span>[<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “O.” 6.67 (variant{ἄγνωτον}),compare 2nd c.AD: Lucianus Sophista “Halc.” 3. ">Refs 5th c.BC+</a>]<i>adverb</i> -<span class='asgreek'>τως</span> <b>inconsiderately</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ παρρησίας” p.29 O.">Refs 1st c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.17.23]]
+</sub></small>

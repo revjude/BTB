@@ -1,0 +1,25 @@
+**1 Chronicles 26:17** 
+<small><sub>**KJV:**</sub></small>
+Eastward [were] six Levites, northward four a day, southward four a day, and toward Asuppim two [and] two.
+<small><sub>**BSB:**</sub></small>
+Each day there were six Levites on the east, four on the north, four on the south, and two pairs at the storehouse.
+<small><sub>**Literal:**</sub></small>
+to the  east the  Levites six to the  north  \<towards> to the  day four to the  south  \<towards> to the  day four and  for the  storehouses two two<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.16|<< 1 Chronicles 26:16]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.18|1 Chronicles 26:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to the east  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִּזְרָח֮</big></span><small><sup>[[H4217H]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> miz.Rach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Levites  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לְוִיִּ֣ם</big></span><small><sup>[[H3881]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  | <span class="ashebrew"><big>שִׁשָּׁה֒</big></span><small><sup>[[H8337]]</sup></small> &#8207;| shi.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the north \<towards>  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>צָּפ֤וֹנָ</big></span><small><sup>[[H6828G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> tza.Fo.na<small><sup>[[HNcfsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the day  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יּוֹם֙</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> i.yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  | <span class="ashebrew"><big>אַרְבָּעָ֔ה</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the south \<towards>  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נֶּ֥גְבָּ</big></span><small><sup>[[H5045H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Neg.ba<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the day  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יּ֖וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  | <span class="ashebrew"><big>אַרְבָּעָ֑ה</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for the storehouses  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲסֻפִּ֖ים</big></span><small><sup>[[H0624]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> 'a.su.Pim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  | <span class="ashebrew"><big>שְׁנַ֥יִם</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Na.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  | <span class="ashebrew"><big>שְׁנָֽיִם</big></span><small><sup>[[H8147]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| she.Na.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.16|<< 1 Chronicles 26:16]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.18|1 Chronicles 26:18 >>]]</td></tr></table>
+
+

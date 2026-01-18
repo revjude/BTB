@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎בַּעֲלֵי יְהוּדָה‎</span></big> **Baʻălêy Yᵉhûwdâh** <small>*(bah-al-ay' yeh-hoo-daw')*</small> ==**Baale-judah**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from the plural of <span class="ashebrew">‎בַּעַל‎</span><sup><small>[[H1167]]</small></sup> and <span class="ashebrew">‎יְהוּדָה‎</span><sup><small>[[H3063]]</small></sup>; masters of Judah</small>
+
+$\quad$ Baale of Judah.
+- § Baale-Judah = *"the lords of Judah"*
+- ***Baale-Jehudah***, a place in Palestine
+
+**1)** a place in Judah named for the Baalim, also known as Kirjath-jearim, Kirjath-baal; modern Kuriet el Enab

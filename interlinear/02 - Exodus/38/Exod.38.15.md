@@ -1,0 +1,27 @@
+**Exodus 38:15** 
+<small><sub>**KJV:**</sub></small>
+And for the other side of the court gate, on this hand and that hand, [were] hangings of fifteen cubits; their pillars three, and their sockets three.
+<small><sub>**BSB:**</sub></small>
+And the curtains on the other side were also fifteen cubits long, with three posts and three bases as well.
+<small><sub>**Literal:**</sub></small>
+and  for the  side \<the>  second from  this and  from  this to  [the] gate of the  courtyard curtains [were] fif- teen cubit[s] pillars  their three and  bases  their three<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.14|<< Exodus 38:14]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.16|Exodus 38:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and for the side  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כָּתֵ֣ף</big></span><small><sup>[[H3802]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> ka.Tef<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> second  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֵּׁנִ֗ית</big></span><small><sup>[[H8145]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from this  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>זֶּ֤ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from this  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>זֶּה֙</big></span><small><sup>[[H2088]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] gate of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שַׁ֣עַר</big></span><small><sup>[[H8179G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Sha.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the courtyard  | <span class="ashebrew"><big>הֶֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חָצֵ֔ר</big></span><small><sup>[[H2691A]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| curtains  | <span class="ashebrew"><big>קְלָעִ֕ים</big></span><small><sup>[[H7050B]]</sup></small> &#8207;| ke.la.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] fif-  | <span class="ashebrew"><big>חֲמֵ֥שׁ</big></span><small><sup>[[H2568]]</sup></small> &#8207;| cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  | <span class="ashebrew"><big>עֶשְׂרֵ֖ה</big></span><small><sup>[[H6240]]</sup></small> &#8207;| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubit[s]  | <span class="ashebrew"><big>אַמָּ֑ה</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pillars their  | <span class="ashebrew"><big>עַמֻּדֵי</big></span><small><sup>[[H5982G]]</sup></small> <span class="ashebrew"><big>הֶ֣ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.mu.dei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שְׁלֹשָׁ֔ה</big></span><small><sup>[[H7969]]</sup></small> &#8207;| she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and bases their  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַדְנֵי</big></span><small><sup>[[H0134]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ad.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שְׁלֹשָֽׁה</big></span><small><sup>[[H7969]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.14|<< Exodus 38:14]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.16|Exodus 38:16 >>]]</td></tr></table>
+
+

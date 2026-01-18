@@ -1,0 +1,11 @@
+<span class="asgreek">μνησικακέω</span> <small>***(mnēsikakeō)***</small> ==**to resent**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==μνησικακέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>remember past injuries, bear malice</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.29, 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 590, “Pl.” 1146, etc.; πόλλ᾽ ἂν ἐχόντων - κακῆσαί τισι τῶν πραχθέντων 4th c.BC: Demosthenes Orator 18.96 ">Refs 5th c.BC+</a>]; especially in party politics, [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 18.19, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>μηδὲν</span> or <span class='asgreek'>μὴ</span> <span class='asgreek'>μ</span>. <b>pass an act of amnesty</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 4.74, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.4.43, Decrees cited in 5th-6th c.BC: Andocides Orator 1.79, 4th c.BC: Demosthenes Orator 23.193, etc.:—Constr.: with \_genitive\_ \_of things\_, 5th c.BC: Antipho Orator 2.1.6: with \_dative\_ \_person\_, 5th c.BC: Thucydides Historicus 8.73, 5th c.BC: Lysias Orator 30.9; ὁ - κακῶν αὐτὸς αὑτῷ 5th-6th c.BC: Andocides Orator 1.95:">Refs 5th c.BC+</a>] with <i>dative</i> <i>person</i> et <i>genitive</i> \_of things\_, <span class='asgreek'>μ</span>. <span class='asgreek'>τινί</span> <span class='asgreek'>τινος</span> <b>bear</b> one <b>a grudge for</b> a thing, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 2.4.1; ἔδοξε μὴ -κακεῖν ἀλλήλοις τῶν γεγενημένων 5th-6th c.BC: Andocides Orator 1.81; also οὐ -ήσω τῶν παροιχομένων ἕνεκα “IG” 12.90.15; μ. περί τινος 5th-6th c.BC: Isocrates Orator 14.14: later with \_accusative\_ \_of things\_, κακίαν ἕκαστος τοῦ ἀδελφοῦ μὴ -κακείτω LXX.Zech.7.10: with \_accusative\_ \_person\_, uncertain reading in 2nd c.AD(?): Xenophon Ephesius Scriptor Eroticus 2.9. ">LXX+5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>μ</span>. <span class='asgreek'>τὴν</span> <span class='asgreek'>ἡλικίαν</span> <b>cast</b> his age <b>in his teeth</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 999. ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Zech.7.10]]
+</sub></small>

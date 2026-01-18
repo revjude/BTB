@@ -1,0 +1,29 @@
+**Ecclesiastes 1:7** 
+<small><sub>**KJV:**</sub></small>
+All the rivers run into the sea; yet the sea [is] not full; unto the place from whence the rivers come, thither they return again.
+<small><sub>**BSB:**</sub></small>
+All the rivers flow into the sea, yet the sea is never full; to the place from which the streams come, there again they flow.
+<small><sub>**Literal:**</sub></small>
+all the  rivers [are] going to the  sea and  the  sea not  it [is] full to [the] place \<of> where  the  rivers [are] going there they [are] returning to  go<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.6|<< Ecclesiastes 1:6]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.8|Ecclesiastes 1:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the rivers  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נְּחָלִים֙</big></span><small><sup>[[H5158A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ne.cha.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] going  | <span class="ashebrew"><big>הֹלְכִ֣ים</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| ho.le.Khim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sea  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּ֔ם</big></span><small><sup>[[H3220G]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the sea  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּ֖ם</big></span><small><sup>[[H3220G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hai.<small><sup>[[HTd]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not it  | <span class="ashebrew"><big>אֵינֶ֣</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] full  | <span class="ashebrew"><big>מָלֵ֑א</big></span><small><sup>[[H4392]]</sup></small> &#8207;| ma.Le'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] place  | <span class="ashebrew"><big>מְק֗וֹם</big></span><small><sup>[[H4725]]</sup></small> &#8207;| me.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> where the rivers  | <span class="ashebrew"><big>שֶׁ֤</big></span><small><sup>[[H9007]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נְּחָלִים֙</big></span><small><sup>[[H5158A]]</sup></small> &#8207;| she.<small><sup>[[HTr]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ne.cha.lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] going  | <span class="ashebrew"><big>הֹֽלְכִ֔ים</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| ho.le.Khim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֛ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֥ם</big></span><small><sup>[[H1992]]</sup></small> &#8207;| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] returning  | <span class="ashebrew"><big>שָׁבִ֖ים</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| sha.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to go  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לָֽכֶת</big></span><small><sup>[[H1980I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> La.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.6|<< Ecclesiastes 1:6]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.8|Ecclesiastes 1:8 >>]]</td></tr></table>
+
+

@@ -1,0 +1,27 @@
+**Ezekiel 20:24** 
+<small><sub>**KJV:**</sub></small>
+Because they had not executed my judgments, but had despised my statutes, and had polluted my sabbaths, and their eyes were after their fathers’ idols.
+<small><sub>**BSB:**</sub></small>
+For they did not practice My ordinances, but they rejected My statutes and profaned My Sabbaths, fixing their eyes on the idols of their fathers.
+<small><sub>**Literal:**</sub></small>
+because judgments  my not they had done and  statutes  my they had rejected and  \<obj.> sabbaths  my they had profaned and  after [the] idols of parents  their they had been eyes  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.23|<< Ezekiel 20:23]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.25|Ezekiel 20:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| because  | <span class="ashebrew"><big>יַ֜עַן</big></span><small><sup>[[H3282]]</sup></small> &#8207;| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judgments my  | <span class="ashebrew"><big>מִשְׁפָּטַ֤</big></span><small><sup>[[H4941G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| mish.pa.Ta<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had done  | <span class="ashebrew"><big>עָשׂוּ֙</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and statutes my  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֻקּוֹתַ֣</big></span><small><sup>[[H2708]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> chu.ko.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had rejected  | <span class="ashebrew"><big>מָאָ֔סוּ</big></span><small><sup>[[H3988A]]</sup></small> &#8207;| ma.'A.su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sabbaths my  | <span class="ashebrew"><big>שַׁבְּתוֹתַ֖</big></span><small><sup>[[H7676]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| sha.be.to.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had profaned  | <span class="ashebrew"><big>חִלֵּ֑לוּ</big></span><small><sup>[[H2490H]]</sup></small> &#8207;| chi.Le.lu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and after  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַחֲרֵי֙</big></span><small><sup>[[H0310A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] idols of  | <span class="ashebrew"><big>גִּלּוּלֵ֣י</big></span><small><sup>[[H1544]]</sup></small> &#8207;| gi.lu.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| parents their  | <span class="ashebrew"><big>אֲבוֹתָ֔</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had been  | <span class="ashebrew"><big>הָי֖וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes their  | <span class="ashebrew"><big>עֵינֵי</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.23|<< Ezekiel 20:23]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.25|Ezekiel 20:25 >>]]</td></tr></table>
+
+

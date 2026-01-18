@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==γέμω==</span></b>, 
+
+
+ used only in <i>present</i> and <i>imperfect</i>, <b>to be full</b>, properly of a ship, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.118, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 5.1.21: generally, πάντα γ. 4th c.AD: Julianus Imperator “Misopogon” 368c. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> ={<span class='asgreek'>κύειν</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>genitive</i> <i>of things</i>, <b>to be full of</b>, <span class='asgreek'>πλοῖα</span> <span class='asgreek'>γέμοντα</span> <span class='asgreek'>χρημάτων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 7.25; λιμὴν ἔγεμεν πλοίων 5th-6th c.BC: Plato Philosophus “Critias” 117e; κώμας πολλῶν καὶ ἀγαθῶν γεμούσας 5th-6th c.BC: Xenophon Historicus “Anabasis” 4.6.27 ">Refs 5th c.BC+</a>]; of animals, <b>to be laden.</b> <span class='asgreek'>ὄνοι</span> <span class='asgreek'>γέμοντες</span> <span class='asgreek'>οἴνου</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>βρωμάτων</span> [<a href="javascript:void(0)" title=" 2nd-1st c.BC: Posidonius Historicus 5: \_metaphorically\_, κόμπος τῆς ἀληθείας γ. 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 613, compare 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 4; ==γέμω== κακῶν δή 5th c.BC: Euripides Tragicus “Hercules Furens” 1245; γ. θρασύτητος 5th-6th c.BC: Plato Philosophus “Leges” 649d; ἀσυμμετρίας καὶ αἰσχρότητος γέμουσα ψυχή [prev. author] “Grg.” 525a; πικρίας 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.56 ">Refs 5th c.BC+</a>] W.: with <i>dative</i>, <b>to be filled with</b>, <span class='asgreek'>ἰτρίοισι</span>, <span class='asgreek'>πέμμασι</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Archippus Comicus 9, 4th c.BC: Antiphanes Comicus 174.2; γῆν πυρὸς γέμουσαν ῥεύμασιν 5th c.BC: Carcinus Tragicus 5; γ. ἐξ ἁρπαγῆς NT.Matt.23.25. ">NT+5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Matt.23.25]]
+</sub></small>

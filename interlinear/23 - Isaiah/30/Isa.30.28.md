@@ -1,0 +1,28 @@
+**Isaiah 30:28** 
+<small><sub>**KJV:**</sub></small>
+And his breath, as an overflowing stream, shall reach to the midst of the neck, to sift the nations with the sieve of vanity: and [there shall be] a bridle in the jaws of the people, causing [them] to err.
+<small><sub>**BSB:**</sub></small>
+His breath is like a rushing torrent that rises to the neck. He comes to sift the nations in a sieve of destruction; He bridles the jaws of the peoples to lead them astray.
+<small><sub>**Literal:**</sub></small>
+and  breath  his [is] like  a torrent overflowing to [the] neck it reaches for  shaking nations in  a sieve of worthlessness and  a halter [which] leads astray [is] on [the] jaws of peoples<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.27|<< Isaiah 30:27]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.29|Isaiah 30:29 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and breath his  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רוּח֞</big></span><small><sup>[[H7307H]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ru.Ch<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] like a torrent  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>נַ֤חַל</big></span><small><sup>[[H5158A]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> Na.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| overflowing  | <span class="ashebrew"><big>שׁוֹטֵף֙</big></span><small><sup>[[H7857]]</sup></small> &#8207;| sho.Tef<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] neck  | <span class="ashebrew"><big>צַוָּ֣אר</big></span><small><sup>[[H6677A]]</sup></small> &#8207;| tza.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it reaches  | <span class="ashebrew"><big>יֶֽחֱצֶ֔ה</big></span><small><sup>[[H2673]]</sup></small> &#8207;| ye.che.Tzeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for shaking  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֲנָפָ֥ה</big></span><small><sup>[[H5130B]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> ha.na.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  | <span class="ashebrew"><big>גוֹיִ֖ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a sieve of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נָ֣פַת</big></span><small><sup>[[H5299A]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Na.fat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| worthlessness  | <span class="ashebrew"><big>שָׁ֑וְא</big></span><small><sup>[[H7723H]]</sup></small> &#8207;| Shav'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a halter  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רֶ֣סֶן</big></span><small><sup>[[H7448]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Re.sen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] leads astray  | <span class="ashebrew"><big>מַתְעֶ֔ה</big></span><small><sup>[[H8582]]</sup></small> &#8207;| mat.'Eh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on  | <span class="ashebrew"><big>עַ֖ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] jaws of  | <span class="ashebrew"><big>לְחָיֵ֥י</big></span><small><sup>[[H3895H]]</sup></small> &#8207;| le.cha.Yei<small><sup>[[HNcmdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peoples  | <span class="ashebrew"><big>עַמִּֽים</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.27|<< Isaiah 30:27]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.29|Isaiah 30:29 >>]]</td></tr></table>
+
+

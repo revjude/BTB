@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==ἀνατρέφω==</span></b>, 
+
+
+ <b>bring up, cherish, educate,</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 523, NT.Luke.4.16, +others">NT+4th c.BC+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>τὸ</span> <span class='asgreek'>φρόνημα</span> <b>raise</b> the spirit, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 5.2.34:">Refs 5th c.BC+</a>] —<i>middle</i>, <span class='asgreek'>ἀναθρέψασθαι</span> <span class='asgreek'>υἱόν</span> <b>have</b> him <b>educated,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 1.2.1; ἀ. λειμὼν κάλλεα 2nd c.BC: Nicander Epicus “fragment” 74.58">Refs 2nd c.BC+</a>]:— <i>passive</i>, <b>grow up,</b> <span class='asgreek'>ἀνατραφῆναι</span> <span class='asgreek'>ἐν</span>..[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Camillus” 34, etc.; τῇ Ἑλλάδι φωνῇ 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 11.25">Refs 1st c.AD+</a>]; <span class='asgreek'>ἀνέτραφες</span> in [<a href="javascript:void(0)" title="“Anthologia Graeca” 5.156 (1st c.BC: Meleager Epigrammaticus) ={ἀνετράφης}. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>feed up,</b> opposed to <span class='asgreek'>ἰσχναίνω</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 33, 50: \_metaphorically\_, ἀ. μονῳδίαις 5th-6th c.BC: Aristophanes Comicus “Ranae” 944">Refs 5th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>ἀνατρέφεσθαι</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>νόσου</span> <b>convalesce,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 14 ">Refs 5th c.BC+</a>]; of fish after milting, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 608a2.">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.4.16]]
+</sub></small>

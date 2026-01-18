@@ -1,0 +1,24 @@
+**Exodus 26:12** 
+<small><sub>**KJV:**</sub></small>
+And the remnant that remaineth of the curtains of the tent, the half curtain that remaineth, shall hang over the backside of the tabernacle.
+<small><sub>**BSB:**</sub></small>
+As for the overlap that remains of the tent curtains, the half curtain that is left over shall hang down over the back of the tabernacle.
+<small><sub>**Literal:**</sub></small>
+and  [the] overhanging of the  surplus in  [the] curtains of the  tent [the] half of the  curtain which  is surplus it will overhang over [the] rear of the  tabernacle<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.11|<< Exodus 26:11]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.13|Exodus 26:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] overhanging of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>סֶ֙רַח֙</big></span><small><sup>[[H5629]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Se.rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the surplus  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֹדֵ֔ף</big></span><small><sup>[[H5736]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.Def<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] curtains of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ירִיעֹ֖ת</big></span><small><sup>[[H3407]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> ri.'Ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tent  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֹ֑הֶל</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'O.hel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] half of  | <span class="ashebrew"><big>חֲצִ֤י</big></span><small><sup>[[H2677]]</sup></small> &#8207;| cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the curtain  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יְרִיעָה֙</big></span><small><sup>[[H3407]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> y.ri.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which is surplus  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֹדֶ֔פֶת</big></span><small><sup>[[H5736]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'o.De.fet<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will overhang  | <span class="ashebrew"><big>תִּסְרַ֕ח</big></span><small><sup>[[H5628]]</sup></small> &#8207;| tis.Rach<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַ֖ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] rear of  | <span class="ashebrew"><big>אֲחֹרֵ֥י</big></span><small><sup>[[H0268]]</sup></small> &#8207;| 'a.cho.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tabernacle  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּשְׁכָּֽן</big></span><small><sup>[[H4908]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mish.Kan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.11|<< Exodus 26:11]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.13|Exodus 26:13 >>]]</td></tr></table>
+
+

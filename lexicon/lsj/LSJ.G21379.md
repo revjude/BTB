@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==ἄοκνος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+&nbsp;&nbsp;<b>without hesitation, resolute,</b> <span class='asgreek'>ἀνήρ</span>[<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 495; φύλακα τροφῆς ==ἄοκνος==ον 5th c.BC: Sophocles Tragicus “Ajax” 563; ἄ. πρὸς μελλητάς 5th c.BC: Thucydides Historicus 1.70; ἕψομαί γ᾽ ἀ. 4th-3rd c.BC: Cleanthes Stoicus 1.118; πρὸς τὰς ἀναγκαίας χρήσεις 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 3p.64U.; πρὸς τοὺς πόνους 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pelopidas” 3">Refs 8th c.BC+</a>]; <span class='asgreek'>ἄ</span>. <span class='asgreek'>βλάβη</span> <b>pressing, present</b> mischief, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 841">Refs 5th c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>νως</span></b> <b>without hesitation,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 38, 5th-6th c.BC: Plato Philosophus “Leges” 649b, 4th c.AD: Oribasius Medicus “Syn.Praef.” ">Refs 5th c.BC+</a>]: <i>superlative</i> <b>-<span class='asgreek'>ότατα</span></b>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.4.2.">Refs 5th c.BC+</a>]
+

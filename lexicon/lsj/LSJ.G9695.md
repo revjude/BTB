@@ -1,0 +1,9 @@
+<span class="asgreek">χάλκειος</span> <small>***(chalkeios)***</small> ==**of brass**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==χάλκειος==</span>-<span class='asgreek'>ειος</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 
+
+
+ <i>Epic dialect</i> for <span class='asgreek'>==χάλκειος==εος</span>, <b>of copper</b> or <b>bronze, brazen,</b> <span class='asgreek'>ἔγχε</span>ϊ <span class='asgreek'>χαλκείῳ</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 3.380; αἰχμὴ χ. 4.461; κληΐς 8th c.BC: Odyssea Homerus Epicus “Odyssey” 21.7 ">Refs 8th c.BC+</a>]; <span class='asgreek'>αὐγὴ</span> <span class='asgreek'>χ</span>. gleam <b>of brass,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 13.341 ">Refs 8th c.BC+</a>]; <span class='asgreek'>==χάλκειος==ειον</span> <span class='asgreek'>γένος</span>, of the Age <b>of brass,</b> [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 144; εἰκὼ χαλκείην 3rd c.BC: Maiistas Epicus 15: once in Trag., ==χάλκειος==ειον κάρα, 5th c.BC: Sophocles Tragicus “Fragmenta” 537 (nisi to be read ==χάλκειος==εον)">Refs 8th c.BC+</a>]; in late Prose, <span class='asgreek'>==χάλκειος==ειος</span> <span class='asgreek'>σφαῖρα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 7.376. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>substantive</i>, <span class='asgreek'>==χάλκειος==ειος</span>, <span class='asgreek'>ἡ</span>, <b>yellow fish thistle, Carlina corymbosa,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 6.4.3, 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 21.94. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> see at {<span class='asgreek'>χαλκή</span>ϊ<span class='asgreek'>ος</span>}.

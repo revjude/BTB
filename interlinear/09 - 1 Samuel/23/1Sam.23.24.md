@@ -1,0 +1,26 @@
+**1 Samuel 23:24** 
+<small><sub>**KJV:**</sub></small>
+And they arose, and went to Ziph before Saul: but David and his men [were] in the wilderness of Maon, in the plain on the south of Jeshimon.
+<small><sub>**BSB:**</sub></small>
+So they set out and went to Ziph ahead of Saul. Now David and his men were in the Wilderness of Maon in the Arabah south of Jeshimon,
+<small><sub>**Literal:**</sub></small>
+and  they arose and  they went Ziph  towards \<to>  before Saul and  David and  men  his [were] in  [the] wilderness of Maon in the  Arabah to [the] south of \<the>  Jeshimon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.23|<< 1 Samuel 23:23]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.25|1 Samuel 23:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they arose  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּק֛וּמוּ</big></span><small><sup>[[H6965B]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Ku.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּלְכ֥וּ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ziph towards  | <span class="ashebrew"><big>זִ֖יפָ</big></span><small><sup>[[H2128H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| Zi.fa<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֣י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  | <span class="ashebrew"><big>שָׁא֑וּל</big></span><small><sup>[[H7586G]]</sup></small> &#8207;| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and David  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דָוִ֨ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and men his  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲנָשָׁ֜י</big></span><small><sup>[[H0582]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.na.Sha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] in [the] wilderness of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִדְבַּ֤ר</big></span><small><sup>[[H4057B]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mid.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Maon  | <span class="ashebrew"><big>מָעוֹן֙</big></span><small><sup>[[H4584G]]</sup></small> &#8207;| ma.'On<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the Arabah  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲרָבָ֔ה</big></span><small><sup>[[H6160G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.ra.Vah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶ֖ל</big></span><small><sup>[[H0413]]</sup></small> &#8207;| 'el<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] south of  | <span class="ashebrew"><big>יְמִ֥ין</big></span><small><sup>[[H3225H]]</sup></small> &#8207;| ye.Min<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Jeshimon  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יְשִׁימֽוֹן</big></span><small><sup>[[H3452G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> y.shi.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.23|<< 1 Samuel 23:23]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.25|1 Samuel 23:25 >>]]</td></tr></table>
+
+

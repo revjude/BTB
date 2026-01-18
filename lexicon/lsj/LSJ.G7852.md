@@ -1,0 +1,9 @@
+<span class="asgreek">κατακεντέω</span> <small>***(katakenteō)***</small> ==**to pierce through**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==κατακεντέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>pierce through</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 76b ">Refs 5th c.BC+</a>]; <b>prick</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 12.323 (\_active\_ and \_passive\_)">Refs 2nd c.AD+</a>]; <b>stab severely</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 3.37 ">Refs 1st c.BC+</a>]; <b>cut down, stab</b>, <span class='asgreek'>δόρασι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ξίφεσι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Zosimus Epigrammaticus 4.49, compare 5.23 ">Refs 1st c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Ctesias Historicus “fragment” 29.54. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>shoot down</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Zosimus Epigrammaticus 5.21. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <span class='asgreek'>πάθη</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τινάς</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.299:">Refs 1st c.AD+</a>] —<i>passive</i>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>ἀπιστίας</span> <span class='asgreek'>==κατακεντέω==ούμενοι</span>[<a href="javascript:void(0)" title=" [prev. work] 287 ">Refs</a>]:—later form <b><span class='asgreek'>==κατακεντέω==άννυμι</span></b> [<a href="javascript:void(0)" title=" 4th c.AD: Palaephatus Paradoxographus 1, Ps.- 2nd c.AD: Lucianus Sophista “Philopatr.” 4 (\_passive\_). ">Refs 2nd c.AD+</a>]

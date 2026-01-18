@@ -1,0 +1,6 @@
+<big><span class="asgreek">‎εὐχή‎</span></big> **euchḗ** <small>*(yoo-khay')*</small> ==**a vow/prayer**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+<small>from <span class="asgreek">εὔχομαι</span><sup><small>[[G2172]]</small></sup></small>
+
+$\quad$ prayer, vow.
+- properly, a wish, expressed as a petition to God, or in votive obligation
+

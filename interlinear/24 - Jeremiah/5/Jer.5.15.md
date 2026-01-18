@@ -1,0 +1,36 @@
+**Jeremiah 5:15** 
+<small><sub>**KJV:**</sub></small>
+Lo, I will bring a nation upon you from far, O house of Israel, saith the LORD: it [is] a mighty nation, it [is] an ancient nation, a nation whose language thou knowest not, neither understandest what they say.
+<small><sub>**BSB:**</sub></small>
+Behold, I am bringing a distant nation against you, O house of Israel,” declares the LORD. “It is an established nation, an ancient nation, a nation whose language you do not know and whose speech you do not understand.
+<small><sub>**Literal:**</sub></small>
+here  I [am] about to bring on  you a nation from  a distance O house of Israel [the] utterance of Yahweh [is] a nation enduring it [is] a nation from  long ago it a nation [which] not you know language  its and  not you hear what? does it say<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.14|<< Jeremiah 5:14]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.16|Jeremiah 5:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| here I  | <span class="ashebrew"><big>הִנְ</big></span><small><sup>[[H2005]]</sup></small> <span class="ashebrew"><big>נִ֣י</big></span><small><sup>[[H9040]]</sup></small> &#8207;| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] about to bring  | <span class="ashebrew"><big>מֵבִיא֩</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| me.Vi'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>כֶ֨ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a nation  | <span class="ashebrew"><big>גּ֧וֹי</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a distance  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מֶּרְחָ֛ק</big></span><small><sup>[[H4801]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mer.Chak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O house of  | <span class="ashebrew"><big>בֵּ֥ית</big></span><small><sup>[[H1004M]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  | <span class="ashebrew"><big>נְאֻם</big></span><small><sup>[[H5002]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהֹוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a nation  | <span class="ashebrew"><big>גּ֣וֹי</big></span><small><sup>[[H1471A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enduring  | <span class="ashebrew"><big>אֵיתָ֣ן</big></span><small><sup>[[H0386]]</sup></small> &#8207;| 'ei.Tan<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>ה֗וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a nation  | <span class="ashebrew"><big>גּ֤וֹי</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from long ago  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עוֹלָם֙</big></span><small><sup>[[H5769J]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>ה֔וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a nation  | <span class="ashebrew"><big>גּ֚וֹי</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you know  | <span class="ashebrew"><big>תֵדַ֣ע</big></span><small><sup>[[H3045]]</sup></small> &#8207;| te.Da'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| language its  | <span class="ashebrew"><big>לְשֹׁנ֔</big></span><small><sup>[[H3956H]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.sho.N<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you hear  | <span class="ashebrew"><big>תִשְׁמַ֖ע</big></span><small><sup>[[H8085J]]</sup></small> &#8207;| tish.Ma'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  | <span class="ashebrew"><big>מַה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| does it say  | <span class="ashebrew"><big>יְדַבֵּֽר</big></span><small><sup>[[H1696G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.da.Ber<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.14|<< Jeremiah 5:14]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.16|Jeremiah 5:16 >>]]</td></tr></table>
+
+

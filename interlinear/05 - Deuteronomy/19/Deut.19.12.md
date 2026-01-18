@@ -1,0 +1,25 @@
+**Deuteronomy 19:12** 
+<small><sub>**KJV:**</sub></small>
+Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.
+<small><sub>**BSB:**</sub></small>
+the elders of his city must send for him, bring him back, and hand him over to the avenger of blood to die.
+<small><sub>**Literal:**</sub></small>
+and  they will send [the] elders of city  his and  they will take \<obj.>  him from  there and  they will give \<obj.>  him in  [the] hand of [the] avenger of \<the>  blood and  he will die<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.11|<< Deuteronomy 19:11]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.13|Deuteronomy 19:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will send  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָֽׁלְחוּ֙</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sha.le.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] elders of  | <span class="ashebrew"><big>זִקְנֵ֣י</big></span><small><sup>[[H2205G]]</sup></small> &#8207;| zik.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| city his  | <span class="ashebrew"><big>עִיר֔</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| i.R<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will take  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>לָקְח֥וּ</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> la.ke.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  | <span class="ashebrew"><big>אֹת֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from there  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שָּׁ֑ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will give  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָתְנ֣וּ</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.te.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> him  | <span class="ashebrew"><big>אֹת֗</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] hand of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יַ֛ד</big></span><small><sup>[[H3027K]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] avenger of  | <span class="ashebrew"><big>גֹּאֵ֥ל</big></span><small><sup>[[H1350H]]</sup></small> &#8207;| go.'El<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> blood  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דָּ֖ם</big></span><small><sup>[[H1818]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will die  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>מֵֽת</big></span><small><sup>[[H4191]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Met<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.11|<< Deuteronomy 19:11]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.13|Deuteronomy 19:13 >>]]</td></tr></table>
+
+

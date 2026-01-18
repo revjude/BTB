@@ -1,0 +1,14 @@
+<span class="asgreek">εκρέω</span> <small>***(ekreō)***</small> ==**to flow away**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==εκρέω==</span></b>, 
+
+
+ <i>perfect</i> -<span class='asgreek'>ερρύηκα</span> (see. below): <i>aorist</i> <i>passive</i> <span class='asgreek'>ἐξερρύην</span> in <i>active</i> sense, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἀφορισμοί” 6.27, 5th-6th c.BC: Plato Philosophus “Respublica” 452d ">Refs 5th c.BC+</a>], <i>Doric dialect</i> <i>3rd.pers.</i> <i>singular</i> -<span class='asgreek'>ερρύα</span> [<a href="javascript:void(0)" title=" “IG” 4.952.3 (Epid.)">Refs</a>]:— <b>flow out</b> or <b>forth,</b> <span class='asgreek'>ἐκ</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>αἷμα</span> <span class='asgreek'>μέλαν</span> <span class='asgreek'>ῥέε</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 21.119; ἔκ τινος 5th-6th c.BC: Plato Philosophus “Phaedo” 112a ">Refs 8th c.BC+</a>]; of streams, <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἐς</span> <span class='asgreek'>θάλασσαν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.20; ἐ. ἔξω [prev. work] 149. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> of feathers, <b>fall off,</b> <span class='asgreek'>ἐξερρύηκε</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>πτερά</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 104 ">Refs 5th c.BC+</a>]; of hair,[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 518a32. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>shed fruit,</b> <span class='asgreek'>ἐκρυήσεται</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἐλαία</span> [<a href="javascript:void(0)" title=" LXX.Deut.28.40. ">LXX</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>melt</b> or <b>fall away, disappear,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 452d, “Thg.” 130e ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐξερρύησαν</span> <span class='asgreek'>οἱ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Θεμιστοκλέους</span> <span class='asgreek'>λόγοι</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>Ἑλλήνων</span> they <b>faded from</b> their <b>memory,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Themistocles” 12. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> with <i>accusative</i> <i>cognate</i>, <b>shed, let fall,</b> <span class='asgreek'>χάριν</span> <span class='asgreek'>ἐξέρρευσας</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 11.374 (1st c.AD(?): Macedonius Epigrammaticus). ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Deut.28.40]]
+</sub></small>

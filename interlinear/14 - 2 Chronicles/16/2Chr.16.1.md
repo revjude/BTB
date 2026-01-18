@@ -1,0 +1,34 @@
+**2 Chronicles 16:1** 
+<small><sub>**KJV:**</sub></small>
+In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.
+<small><sub>**BSB:**</sub></small>
+In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.
+<small><sub>**Literal:**</sub></small>
+in  year thirty and  six of  [the] reign of Asa he came up Baasha [the] king of Israel on Judah and  he built \<obj.> \<the>  Ramah to  not [surely] permitting one going out or  one coming in to  Asa [the] king of Judah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.19|<< 2 Chronicles 15:19]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.2|2 Chronicles 16:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| in year  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁנַ֨ת</big></span><small><sup>[[H8141]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thirty  | <span class="ashebrew"><big>שְׁלֹשִׁ֤ים</big></span><small><sup>[[H7970]]</sup></small> &#8207;| she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and six  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֵׁשׁ֙</big></span><small><sup>[[H8337]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Shesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [the] reign of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַלְכ֣וּת</big></span><small><sup>[[H4438]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mal.Khut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Asa  | <span class="ashebrew"><big>אָסָ֔א</big></span><small><sup>[[H0609G]]</sup></small> &#8207;| 'a.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he came up  | <span class="ashebrew"><big>עָלָ֞ה</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Baasha  | <span class="ashebrew"><big>בַּעְשָׁ֤א</big></span><small><sup>[[H1201]]</sup></small> &#8207;| ba'.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵל֙</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֔ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he built  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּ֖בֶן</big></span><small><sup>[[H1129]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yi.ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Ramah  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רָמָ֑ה</big></span><small><sup>[[H7414G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ra.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to not  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בִלְתִּ֗י</big></span><small><sup>[[H1115]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> vil.Ti<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [surely] permitting  | <span class="ashebrew"><big>תֵּ֚ת</big></span><small><sup>[[H5414K]]</sup></small> &#8207;| tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one going out  | <span class="ashebrew"><big>יוֹצֵ֣א</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| yo.Tze'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| or one coming in  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בָ֔א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Va'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Asa  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אָסָ֖א</big></span><small><sup>[[H0609G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'a.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] king of  | <span class="ashebrew"><big>מֶ֥לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָֽה</big></span><small><sup>[[H3063G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.19|<< 2 Chronicles 15:19]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.2|2 Chronicles 16:2 >>]]</td></tr></table>
+
+

@@ -1,0 +1,10 @@
+<big><span class="ashebrew">‎קַשְׂקֶשֶׂת‎</span></big> **qasqeseth** <small>*(kas-keh'-seth)*</small> ==**scale**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>by reduplication from an unused root meaning to shale off as bark</small>
+
+$\quad$ mail, scale.
+- ***a scale*** (of a fish)
+-  hence ***a coat of mail*** (as composed of or covered with jointed plates of metal)
+
+**1)** scale (of fish, water animals)
+
+<sub><small>See Greek: </small></sub><span class="asgreek">λεπίς</span><sup><small>[[G3013]]</small></sup>

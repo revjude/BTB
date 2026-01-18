@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==θριαμβεύω==</span>-<span class='asgreek'>εύω</span></b>, 
+
+
+ <i>perfect</i> <span class='asgreek'>τεθριάμβευκα</span> [<a href="javascript:void(0)" title=" [prev. author = 1st-2nd c.AD: Plutarchus Biographus et Philosophus] “Ant.” 34 ">Refs 1st c.AD+</a>]: (<span class='asgreek'>θρίαμβος</span>):—<b>triumph</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.53.7, 2nd-1st c.BC: Posidonius Historicus 1 1st c.AD: Josephus Historicus, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pompeius” 45, etc.">Refs 2nd c.BC+</a>]; <span class='asgreek'>ἀπό</span> <span class='asgreek'>τινος</span> <b>triumph over</b>, [<a href="javascript:void(0)" title=" [prev. author] “Rom.” 25, 2nd c.AD: Appianus Historicus “Κελτική” 1; κατὰ τῆς πατρίδος 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Coriolanus” 35, compare 2nd c.AD: Appianus Historicus “Bella Civilia” 1.80; ἐπί τινι [prev. work] 4.31 ">Refs 1st c.AD+</a>]; also <span class='asgreek'>θ</span>. <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>νίκῃ</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 3.9.1; ἀπὸ μάχης 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Publicola” 9: with \_accusative\_ \_cognate\_, θ. νίκην ἄδακρυν [prev. author] 2.318b; δεύτερον θρίαμβον [prev. author] “Fab.” 23. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>lead in triumph</b>, of conquered enemies, <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" [prev. author] “Comp. Thes.Rom.” 4, NT.Col.2.15 ">NT</a>]:—<i>passive</i>, -<span class='asgreek'>εύεσθαι</span> <span class='asgreek'>ὑπό</span> <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Coriolanus” 35; μηδ᾽ ἐν ἐμοὶ περιίδῃς -εύομενον σεαυτόν [prev. author] “Ant.” 84. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>lead in triumph</b>, as a general does his army, <i>metaphorically</i>, <span class='asgreek'>ἡμᾶς</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>Χριστῷ</span> [<a href="javascript:void(0)" title=" NT.2Cor.2.14. ">NT</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>divulge, noise abroad</b>, [<a href="javascript:void(0)" title=" 9th c.AD: Photius Legal icographus, etc., compare 10th c.AD: Suidas Legal icographus see at {ἐξεφοίτα}. ">Refs 9th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Col.2.15]] ☩ [[2Cor.2.14]]
+</sub></small>

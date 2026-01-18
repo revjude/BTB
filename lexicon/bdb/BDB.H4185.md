@@ -1,0 +1,23 @@
+ I. [<span class="bdbLangHebrew">‎מוּשׁ‎</span>, <span class="bdbLangHebrew">‎מִישׁ‎</span> [[BDB#Bö|Bö]]<sup>ii. 512 f.</sup>; but [[BDB#Thes|Thes]] [[BDB#Kö|Kö]]<sup>i. 511</sup> think purely <span class="bdbLangHebrew">‎ו‎</span><span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span>] **verb** ==depart, remove== (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJgAZAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAmABkABwjJAP8JHEiwoMGDCBMqXMiwocOHECNKnEixIkN9sK5IGsiPH0FaXy6coQjsxQdG8gYagjSQU4MPerxV9FgQkSCC9iwm9MRIZ0NWmnwyVKZK6EJwuvwR9BUGFURswghqM/dP3BtO7FzJFAiuS4QfxBz6c+VroLsxIZo8eYLHXJsdYa4cCQAAQApYDq35QTZQ3pi6ABqQ+kcqRYwuUQxxyoKI5tAhfgbiEsTtH72UQv2lAXDhx4oHhIwWNNelbgpRolOrXs26tevXBgMCADs="> (<span class="bdbLangHebrew">‎י‎</span>) ***is walk with elegant, proud, self-conceited gait***); — 
+
+**Qal** ***Perfect*** <span class="bdbLangHebrew">‎וּמָשׁ‎</span> consecutive [[Zech.14.4|Zech 14:4]] <span class="bdbLangHebrew">‎וּמַשְׁתִּ֫י‎</span> [[Zech.3.9|Zech 3:9]] <span class="bdbLangHebrew">‎מָ֫שׁוּ‎</span> [[Num.14.44|Num 14:44]] ***Imperfect*** <span class="bdbLangHebrew">‎יָמוּשׁ‎</span> [[Josh.1.8|Josh 1:8]]; [[Isa.54.10|Isa 54:10]], etc.; — ***depart***, mostly of inanimate things ( = ***be removed***) followed by <span class="bdbLangHebrew">‎מִן‎</span> [[Josh.1.8|Josh 1:8]]; [[Isa.59.21|Isa 59:21]]; [[Jer.31.36|Jer 31:36]] without preposition [[Prov.17.13|Prov 17:13]] [[BDB#Qr|Qr]], [[Isa.22.25|Isa 22:25]]; [[Isa.54.10|Isa 54:10]] (twice in verse) (\|\| <span class="bdbLangHebrew">‎מוֺט‎</span>); followed by <span class="bdbLangHebrew">‎ה‎</span> locative [[Zech.14.4|Zech 14:4]] followed by <span class="bdbLangHebrew">‎מִן‎</span> person [[Judg.6.18|Judg 6:18]] of both [[Num.14.44|Num 14:44]] transitive ***remove***, followed by accusative [[Zech.3.9|Zech 3:9]]. **Hiph\`il** ***Imperfect*** <span class="bdbLangHebrew">‎יָמִישׁ‎</span> [[Exod.13.22|Exod 13:22]] + 6 t., etc.; ***remove, take away***, followed by <span class="bdbLangHebrew">‎מִן‎</span> [[Mic.2.3|Mic 2:3]] followed by <span class="bdbLangHebrew">‎לְ‎</span> v[[Mic.2.4|Mic 2:4]] (but [[BDB#Sept|ᵐ5]] [[BDB#Sta|Sta]]<sup>ZAW vi. 1886, 122f.</sup> <span class="bdbLangHebrew">‎אֵין מֵשִׁיב‎</span> for <span class="bdbLangHebrew">‎אֵיךְ יָמִישׁ‎</span>); ***depart***, followed by <span class="bdbLangHebrew">‎מִן‎</span> person [[Exod.33.11|Exod 33:11]] figurative ***recede*** [[Job.23.12|Job 23:12]] of idol, ***leave its place***, [[Isa.46.7|Isa 46:7]] of other inanimate things, followed by <span class="bdbLangHebrew">‎מִן‎</span> [[Exod.13.22|Exod 13:22]] figurative [[Ps.55.12|Ps 55:12]]; [[Prov.17.13|Prov 17:13]] [[BDB#Kt|Kt]] ([[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎יָמוּשׁ‎</span>); without preposition, absolute, [[Nah.3.1|Nah 3:1]], subject <span class="bdbLangHebrew">‎טֶרֶף‎</span>; of righteous under figure of tree, <span class="bdbLangHebrew">‎לֹא יָמִישׁ מֵעֲשׂוֺת פֶּ֑רִי‎</span> [[Jer.17.8|Jer 17:8]], i.e. shall not cease. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.13.22\|13:22]] · [[Exod.33.11\|33:11]] |
+| Numbers | [[Num.14.44\|14:44]] |
+| Joshua | [[Josh.1.8\|1:8]] |
+| Judges | [[Judg.6.18\|6:18]] |
+| Job | [[Job.23.12\|23:12]] |
+| Psalms | [[Ps.55.12\|55:12]] |
+| Proverbs | [[Prov.17.13\|17:13]] |
+| Isaiah | [[Isa.22.25\|22:25]] · [[Isa.46.7\|46:7]] · [[Isa.54.10\|54:10]] · [[Isa.59.21\|59:21]] |
+| Jeremiah | [[Jer.17.8\|17:8]] · [[Jer.31.36\|31:36]] |
+| Micah | [[Mic.2.3\|2:3]] · [[Mic.2.4\|2:4]] |
+| Nahum | [[Nah.3.1\|3:1]] |
+| Zechariah | [[Zech.3.9\|3:9]] · [[Zech.14.4\|14:4]] |
+

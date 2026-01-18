@@ -1,0 +1,7 @@
+<span class="asgreek">ἐγκολάπτω</span> <small>***(egkolaptō)***</small> ==**to sculpt**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐγκολάπτω==</span>-<span class='asgreek'>άπτω</span></b>, 
+
+
+ <b>cut</b> or <b>carve upon</b> stone, <span class='asgreek'>ἐ</span>. <span class='asgreek'>γράμματα</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>τάφον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.187, compare “IG” 12.313.166; ἐν τᾷ στάλᾳ [prev. work] 12(1).694.9 (from Camirus)">Refs 5th c.BC+</a>]; <span class='asgreek'>τύποι</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>πέτρῃσι</span> <span class='asgreek'>ἐγκεκολαμμένοι</span>, <span class='asgreek'>γράμματα</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>λίθῳ</span> <span class='asgreek'>ἐγκ</span>., [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.106, 136, +others, cf. LXX.3Ki.6.33(35); ἐπὶ τρίποσι 5th c.BC: Herodotus Historicus 5.59; ἐπὶ πίνακος 10th c.AD: Suidas Legal icographus ">LXX+5th c.BC+</a>] see at {<span class='asgreek'>βοῦς</span> <span class='asgreek'>ἕβδομο</span>; <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>μέτωπον</span>} [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pericles” 21: \_metaphorically\_, [νόμους] ἡ φύσις κατὰ μέσης ἐνεκόλαψε τῆς ψυχῆς 4th c.AD: Libanius Sophista “Declamationes” 43.49. ">Refs 1st c.AD+</a>]
+

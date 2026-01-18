@@ -1,0 +1,11 @@
+<span class="asgreek">ἅλμη</span> <small>***(halmē)***</small> ==**brine**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ἅλμη==</span>-<span class='asgreek'>η</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>ἅλς</span>) <b>sea-water, brine,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 5.53, 5th c.BC: Pindarus Lyricus “P.” 2.80, etc.">Refs 8th c.BC+</a>]; <b>spray that has dried on the skin,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 6.219">Refs 8th c.BC+</a>]; <b>salt incrustation</b> on soil, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.12, 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 6.10.4. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> after [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus ">Refs 8th c.BC+</a>], <b>brine,</b> i.e. <b>the sea,</b> [<a href="javascript:void(0)" title=" 6th c.BC: Arion Lyricus l. 3, 5th c.BC: Pindarus Lyricus “P.” 4.39, 4th-5th c.BC: Aeschylus Tragicus “Persae” 397, 5th-6th c.BC: Timotheus Lyricus “Persae” 96, etc. ">Refs 6th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>salt-water, brine</b> used for pickling, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.77, 5th-6th c.BC: Aristophanes Comicus “Vespae” 1515, “fragment” 416; ἡ Θασία ἅ. 5th c.BC: Cratinus Comicus 6; ἐν ==ἅλμη==ῃ ἕψειν [τὸν ἰχθύν] 4th c.BC: Antiphanes Comicus 222, compare 4th c.BC: Eubulus Comicus 44; καταπνίγειν 4th c.BC: Sotades Comicus 1.21, etc.: proverbial, πρὶν τοὺς ἰχθῦς ἑλεῖν σὺ τὴν ==ἅλμη==ην κυκᾷς">Refs 5th c.BC+</a>] 'first catch your hare, then cook it', [<a href="javascript:void(0)" title=" 9th c.AD: Photius Legal icographus, etc. see at {πρίν}. ">Refs 9th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>saltness,</b> especially as a bad quality in soil, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 20.12, compare 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 6.10.4. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>salt soil,</b> [<a href="javascript:void(0)" title=" PLond. 2.267.95, +others (1st-2nd c.AD).">Refs 1st c.AD+</a>]

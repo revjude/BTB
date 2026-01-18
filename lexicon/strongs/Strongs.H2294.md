@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎חַגִּית‎</span></big> **Chaggîyth** <small>*(khag-gheeth')*</small> ==**Haggith**==  <sup><small>[[TEHMC#N:N-F-P|N:N-F-P]]</small></sup> 
+<small>feminine of <span class="ashebrew">‎חַגִּי‎</span><sup><small>[[H2291]]</small></sup>; festive</small>
+
+$\quad$ Haggith.
+- § Haggith = *"festive"*
+- ***Chaggith***, a wife of David
+
+**1)** a wife of David and mother of Adonijah

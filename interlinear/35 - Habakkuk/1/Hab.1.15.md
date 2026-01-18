@@ -1,0 +1,24 @@
+**Habakkuk 1:15** 
+<small><sub>**KJV:**</sub></small>
+They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.
+<small><sub>**BSB:**</sub></small>
+The foe pulls all of them up with a hook; he catches them in his dragnet, and gathers them in his fishing net; so he rejoices gladly.
+<small><sub>**Literal:**</sub></small>
+all of  it with  a fish hook he brings up he drags away  it in  net  his and  he gathers  it in  fishing net  his there- -fore he rejoices and  he may be glad<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.14|<< Habakkuk 1:14]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.16|Habakkuk 1:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| all of it  | <span class="ashebrew"><big>כֻּלֹּ</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>ה֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ku.Lo<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with a fish hook  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חַכָּ֣ה</big></span><small><sup>[[H2443]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> cha.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he brings up  | <span class="ashebrew"><big>הֵֽעֲלָ֔ה</big></span><small><sup>[[H5927H]]</sup></small> &#8207;| he.'a.Lah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he drags away it  | <span class="ashebrew"><big>יְגֹרֵ֣</big></span><small><sup>[[H1641]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ye.go.Re.<small><sup>[[HVqi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in net his  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֶרְמ֔</big></span><small><sup>[[H2764B]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> cher.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he gathers it  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יַאַסְפֵ֖</big></span><small><sup>[[H0622]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ya.'as.Fe.<small><sup>[[HVqu3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in fishing net his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִכְמַרְתּ֑</big></span><small><sup>[[H4365A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mikh.mar.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  | <span class="ashebrew"><big>כֵּ֖ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he rejoices  | <span class="ashebrew"><big>יִשְׂמַ֥ח</big></span><small><sup>[[H8055]]</sup></small> &#8207;| yis.Mach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he may be glad  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יָגִֽיל</big></span><small><sup>[[H1523]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ya.Gil<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.14|<< Habakkuk 1:14]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.16|Habakkuk 1:16 >>]]</td></tr></table>
+
+

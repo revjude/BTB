@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==καθημερινός==</span>-<span class='asgreek'>ιος</span></b>, 
+
+
+ <i>Doric dialect</i> <b><span class='asgreek'>καθᾱμ</span>-</b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, <b>day by day, daily</b> (<span class='asgreek'>καθ᾽</span> <span class='asgreek'>ἡμέραν</span>), <i>neuter</i> as <i>adverb</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 229 (Lyric poetry)">Refs 5th c.BC+</a>]; <span class='asgreek'>μοῖρα</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 1414 (uncertain, Lyric poetry)">Refs 5th c.BC+</a>]:—later also <b><span class='asgreek'>καθημερινός</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, <span class='asgreek'>δίαιτα</span> [<a href="javascript:void(0)" title=" LXX.Jdt.12.15, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.141b, +others; διακονία NT.Acts.6.1; γυμνασία 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 3.1, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Lycurgus” 10, 2nd c.AD: Athenaeus Epigrammaticus 1.10c ">LXX+1st c.AD+</a>]; of fevers, <b>quotidian</b>, later word for <span class='asgreek'>ἀμφημερινός</span> (which see), especially of <b>non-remittent quotidians</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 7.354, 17(1).221; ῥῖγος “PTeb.” 275.21 (3rd c.AD)">Refs 2nd c.AD+</a>]; <span class='asgreek'>φρίξ</span> [<a href="javascript:void(0)" title=" “POxy.” 924.3 (4th c.AD). ">Refs 4th c.AD+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Acts.6.1]]
+</sub></small>

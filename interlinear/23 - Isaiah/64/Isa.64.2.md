@@ -1,0 +1,25 @@
+**Isaiah 64:2** (64:1)
+<small><sub>**KJV:**</sub></small>
+As [when] the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, [that] the nations may tremble at thy presence!
+<small><sub>**BSB:**</sub></small>
+as fire kindles the brushwood and causes the water to boil, to make Your name known to Your enemies, so that the nations will tremble at Your presence!
+<small><sub>**Literal:**</sub></small>
+as  kindles fire brushwood\<s> water it boils fire to  make known name  your to  opponents  your from  before  you nations they will quake<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.1|<< Isaiah 64:1]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.3|Isaiah 64:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| as kindles  | <span class="ashebrew"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>קְדֹ֧חַ</big></span><small><sup>[[H6919]]</sup></small> &#8207;| ki<small><sup>[[HR]]</sup></small> k.Do.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  | <span class="ashebrew"><big>אֵ֣שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brushwood\<s>  | <span class="ashebrew"><big>הֲמָסִ֗ים</big></span><small><sup>[[H2003]]</sup></small> &#8207;| ha.ma.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  | <span class="ashebrew"><big>מַ֚יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it boils  | <span class="ashebrew"><big>תִּבְעֶה</big></span><small><sup>[[H1158]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| tiv.'eh-<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  | <span class="ashebrew"><big>אֵ֔שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to make known  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הוֹדִ֥יעַ</big></span><small><sup>[[H3045]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ho.Di.a'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name your  | <span class="ashebrew"><big>שִׁמְ</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| shim.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to opponents your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>צָרֶ֑י</big></span><small><sup>[[H6862C]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> tza.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before you  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פָּנֶ֖י</big></span><small><sup>[[H6440H]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  | <span class="ashebrew"><big>גּוֹיִ֥ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will quake  | <span class="ashebrew"><big>יִרְגָּֽזוּ</big></span><small><sup>[[H7264]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yir.Ga.zu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.1|<< Isaiah 64:1]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.3|Isaiah 64:3 >>]]</td></tr></table>
+
+

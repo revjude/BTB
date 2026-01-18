@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==τρυγών==</span></b>, <span class='asgreek'>όνος</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>τρύζω</span>) <b>turtle-dove, Columba turtur,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 302 (troch.), 979 (hexameters), NT.Luke.2.24, 2nd c.AD: Galenus Medicus 6.700, etc.">NT+5th c.BC+</a>]; <span class='asgreek'>περιστεραὶ</span> <span class='asgreek'>τρυγόνες</span> Aristeas 145: proverbial of a great talker, <span class='asgreek'>τρυγόνος</span> <span class='asgreek'>λαλίστερος</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 416, compare 2nd c.AD: Alexander Rhetor 92.3, 3rd c.BC: Theocritus Poeta Bucolicus 15.88, 4th c.AD: Alciphro Epistolographus 3.29 ">Refs 4th c.BC+</a>]; <span class='asgreek'>πονηρὰ</span> <span class='asgreek'>κατὰ</span> <span class='asgreek'>τρυγόνα</span> <span class='asgreek'>ψάλλεις</span>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἐπιπόνως</span> <span class='asgreek'>ζώντων</span>, [<a href="javascript:void(0)" title=" 4th-5th c.AD: Diogenianus Paroemiographus 7.71, compare 5th c.AD(?): Hesychius Legal icographus see at {τρυγονοψάλλειν}. ">Refs 4th c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> a kind of fish, the <b>sting-ray,</b> <span class='asgreek'>τρυγόνες</span> <span class='asgreek'>ὀπισθόκεντροι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Epicharmus Comicus 66, compare 4th c.BC: Aristoteles Philosophus “Historia Animalium” 489b31, 4th c.BC: Antiphanes Comicus 26.23, 1st c.AD: Celsus Medicus 6.9.6, 2nd c.AD: Galenus Medicus  Vict. \_Attic dialect\_ 8">Refs 5th c.BC+</a>]; compare <span class='asgreek'>τρυγόνιος</span>. 
+$\quad$ $\quad$<b>\_\_III</b> an oviparous quadruped of uncertain kind, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 540a31. ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.2.24]]
+</sub></small>

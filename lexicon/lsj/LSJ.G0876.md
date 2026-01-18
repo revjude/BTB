@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==ἀφρός==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>foam,</b> of the sea, <span class='asgreek'>ῥόος</span> <span class='asgreek'>Ὠκεανοῖο</span> <span class='asgreek'>ἀφρῷ</span> <span class='asgreek'>μορύρων</span>[<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 18.403">Refs 8th c.BC+</a>], etc.; of a river, [<a href="javascript:void(0)" title=" 5.599. ">Refs</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> of persons and animals, <b>foam, slaver, froth,</b> <span class='asgreek'>περί</span> <span class='asgreek'>τ᾽</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ὀδόντας</span> <span class='asgreek'>γίγνεται</span>[<a href="javascript:void(0)" title=" 20.168; ἀ. περὶ στόμα 5th c.BC: Hippocrates Medicus “ἀφορισμοί” 2.43, cf. NT.Luke.9.39; μέλαν᾽ ἀπ᾽ ἀνθρώπων ἀφρόν ">NT+5th c.BC+</a>]<b>frothy blood,</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 183, compare “fragment” 372; θρομβώδεις ἀφροί 5th c.BC: Sophocles Tragicus “Trachiniae” 702">Refs 5th c.BC+</a>]; <span class='asgreek'>βακχίου</span> <span class='asgreek'>παλαιγενοῦς</span> <span class='asgreek'>ἀφρῷ</span>, of wine, [<a href="javascript:void(0)" title=" 4th c.BC: Antiphanes Comicus 237; κύλικα.. ἀφρῷ ζέουσαν Theophilus Comicus 2. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἀφρὸς</span> <span class='asgreek'>νίτρου</span>, ={<span class='asgreek'>ἀφρόνιτρον</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 1.75">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀ</span>. alone, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Coloribus” 794a20. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>αἵματος</span>, ={<span class='asgreek'>σπέρμα</span>},[<a href="javascript:void(0)" title=" Diog.Apoll.A 24 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> a kind of <span class='asgreek'>ἀφύη</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 569a29, b28, 2nd c.AD: Athenaeus Epigrammaticus 7.325b; Ionic, \_accusative\_ to 4th c.BC: Archestratus Epicus “fragment” 9.2, but compare 5th c.AD(?): Hesychius Legal icographus see {ἀφύων τιμή}">Refs 4th c.BC+</a>]. (<b>ṃbhrós,</b> cf. Sanskrit <i>abhrám</i> 'cloud', Latin <i>imber.</i>)
+
+<small><sub>LSJ Scripture Refs: [[Luke.9.39]]
+</sub></small>

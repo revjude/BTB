@@ -1,0 +1,16 @@
+
+<b> <span class='asgreek'>==ἀποσκευάζω==</span></b>, 
+
+
+ <b>pull off,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>ὀροφήν</span>[<a href="javascript:void(0)" title=" 4th c.BC: Lycurgus Orator 128">Refs 4th c.BC+</a>]; <b>clear away</b> tables, [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>]; <b>strip of furniture,</b> <span class='asgreek'>οἰκίαν</span>[<a href="javascript:void(0)" title=" LXX.Lev.14.36. ">LXX</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>ξημιόω</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> mostly in <i>middle</i>, <b>pack up and carry off,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τι</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἰδίων</span>[<a href="javascript:void(0)" title=" “SIG” 633.68 (Milet., 2nd c.BC), compare588.50 ([prev. work], 2nd c.BC, \_passive\_), 2nd c.BC: Polybius Historicus 2.26.6, 1st c.BC: Dionysius Halicarnassensis 9.23">Refs 2nd c.BC+</a>]: <i>absolutely</i>, <b>pack up and depart,</b> [<a href="javascript:void(0)" title=" NT.Acts.21.15. ">NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>get rid of,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐνοχλοῦντα</span> (={<span class='asgreek'>ἀποπατέω</span>},[<a href="javascript:void(0)" title="compare 2nd c.AD(?): Pollianus Epigrammaticus 5.91), 2nd c.AD: Herodianus Grammaticus 4.13.4">Refs 2nd c.AD+</a>]; <b>remove,</b> <span class='asgreek'>τῆς</span> <span class='asgreek'>φιλίας</span> <span class='asgreek'>τινά</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Cal.” 12">Refs 2nd c.AD+</a>]; <b>make away with, kill,</b> [<a href="javascript:void(0)" title=" [prev. author] “Tyr.” 1, 2nd c.AD: Herodianus Grammaticus 2.5.1">Refs 2nd c.AD+</a>]; <b>get rid of, confute,</b> <span class='asgreek'>τοὺς</span> <span class='asgreek'>σοφιστάς</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 8.19">Refs 2nd c.AD+</a>]:—<i>passive</i>, <b>to be expelled,</b> <span class='asgreek'>τῶν</span> <span class='asgreek'>σωμάτων</span>[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus “Ther.Praef.” ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>repel,</b> <span class='asgreek'>αἰτίαν</span>, <span class='asgreek'>διαβολάς</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 2.16.5, 1.24.4. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>reject,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Simplicius Philosophus “in Aristotelis Physica commentaria - Comm. in Arist. Graeca” 888.15. ">Refs 6th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>defer,</b> <span class='asgreek'>διήγησιν</span>[<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 5.1. ">Refs 3rd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>transfer,</b> <span class='asgreek'>ἔς</span> <span class='asgreek'>τινας</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>αἰτίας</span>[<a href="javascript:void(0)" title=" 4th c.AD: Julianus Imperator “Orationes” 2.66d.">Refs 4th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Lev.14.36]] ☩ [[Acts.21.15]]
+</sub></small>

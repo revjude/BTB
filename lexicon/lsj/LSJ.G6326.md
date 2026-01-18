@@ -1,0 +1,14 @@
+<span class="asgreek">ἀνδρεία</span> <small>***(andreia)***</small> ==**courage**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀνδρεία==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>ἀνδρηίη</span></b> [<a href="javascript:void(0)" title="(5th c.BC: Herodotus Historicus 7.99)">Refs 5th c.BC+</a>], generally written <span class='asgreek'>ἀνδρία</span> in the Mss., in agreement with the opinion of [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Adverbiis;” 136.8, refuted by Orusap. “Etymologicum Magnum” 461.53:">Refs 2nd c.AD+</a>] —<span class='asgreek'>==ἀνδρεία==</span> is required by the metre in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 510">Refs 5th c.BC+</a>], and <b>may</b> always stand in the few <i>poetry</i> passages where it occurs [<a href="javascript:void(0)" title="(4th-5th c.BC: Simonides Lyricus 58, 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 52, 5th c.BC: Sophocles Tragicus “Electra” 983, 5th c.BC: Euripides Tragicus “Troades” 674): ἀνδρία is required in 5th c.BC: Euripides Tragicus “Hercules Furens” 475 μέγα φρονῶν ἐπ᾽ ἀνδρίᾳ (assuming variant, εὐανδρίᾳ Elmsley): ==ἀνδρεία== is also confirmed by the \_Ionic dialect\_ form ἀνδρηίη">Refs 5th c.BC+</a>]:—<b>manliness, manly spirit,</b> opposed to <span class='asgreek'>δειλία</span>, [prev. cited],[<a href="javascript:void(0)" title="compare 4th c.BC: Aristoteles Philosophus “Rhetorica” 1366b11, “EN” 1115a6">Refs 4th c.BC+</a>]; also of women, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 983, 4th c.BC: Aristoteles Philosophus “Politica” 1260a22; ==ἀνδρεία== ἡ περὶ τὰς ναυτιλίας 1st c.BC-1st c.AD: Strabo Geographus 3.1.8">Refs 5th c.BC+</a>]:—in <i>plural</i>, <b>brave deeds,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 922a; ironically, αἱ διὰ τῶν λόγων ἀνδρεῖαι 4th c.BC: Demosthenes Orator “Prooemia” 45. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> in bad sense, <b>hardihood, insolence,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator Chr. 12.13. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ἡ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀνδρῶν</span> <span class='asgreek'>ἡλικία</span>}, Antipho.Soph.67a. 
+$\quad$ $\quad$<b>\_\_IV</b> <b>membrum virile,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Artemidorus Daldianus Onirocriticus 1.45. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_V</b> <b>skill,</b> [<a href="javascript:void(0)" title=" LXX.Eccl.4.4.">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[Eccl.4.4]]
+</sub></small>

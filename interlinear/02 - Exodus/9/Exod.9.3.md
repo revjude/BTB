@@ -1,0 +1,28 @@
+**Exodus 9:3** 
+<small><sub>**KJV:**</sub></small>
+Behold, the hand of the LORD is upon thy cattle which [is] in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: [there shall be] a very grievous murrain.
+<small><sub>**BSB:**</sub></small>
+then the hand of the LORD will bring a severe plague on your livestock in the field—on your horses, donkeys, camels, herds, and flocks.
+<small><sub>**Literal:**</sub></small>
+there! [the] hand of Yahweh [is] about to be on  livestock  your which [is] in the  field on the  horses on the  donkeys on the  camels on the  cattle and  on the  sheep a pestilence heavy very<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.2|<< Exodus 9:2]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.4|Exodus 9:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| there!  | <span class="ashebrew"><big>הִנֵּ֨ה</big></span><small><sup>[[H2009]]</sup></small> &#8207;| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hand of  | <span class="ashebrew"><big>יַד</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֜ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] about to be  | <span class="ashebrew"><big>הוֹיָ֗ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ho.Yah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on livestock your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִקְנְ</big></span><small><sup>[[H4735]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mik.ne.<small><sup>[[HNcmsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in the field  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׂדֶ֔ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the horses  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>סּוּסִ֤ים</big></span><small><sup>[[H5483M]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> su.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the donkeys  | <span class="ashebrew"><big>בַּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֲמֹרִים֙</big></span><small><sup>[[H2543]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> cha.mo.Rim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the camels  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גְּמַלִּ֔ים</big></span><small><sup>[[H1581]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> ge.ma.Lim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the cattle  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בָּקָ֖ר</big></span><small><sup>[[H1241]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on the sheep  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צֹּ֑אן</big></span><small><sup>[[H6629G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a pestilence  | <span class="ashebrew"><big>דֶּ֖בֶר</big></span><small><sup>[[H1698]]</sup></small> &#8207;| De.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heavy  | <span class="ashebrew"><big>כָּבֵ֥ד</big></span><small><sup>[[H3515]]</sup></small> &#8207;| ka.Ved<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| very  | <span class="ashebrew"><big>מְאֹֽד</big></span><small><sup>[[H3966]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.2|<< Exodus 9:2]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.4|Exodus 9:4 >>]]</td></tr></table>
+
+

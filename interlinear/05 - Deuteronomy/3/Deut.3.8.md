@@ -1,0 +1,30 @@
+**Deuteronomy 3:8** 
+<small><sub>**KJV:**</sub></small>
+And we took at that time out of the hand of the two kings of the Amorites the land that [was] on this side Jordan, from the river of Arnon unto mount Hermon;
+<small><sub>**BSB:**</sub></small>
+At that time we took from the two kings of the Amorites the land across the Jordan, from the Arnon Valley as far as Mount Hermon—
+<small><sub>**Literal:**</sub></small>
+and  we took at the  time \<the>  that \<obj.> the  land from  [the] hand of [the] two [the] kings of the  Amorite[s] who [were] on  [the] other side of the  Jordan from  [the] wadi of Arnon to [the] mountain of Hermon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.7|<< Deuteronomy 3:7]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.9|Deuteronomy 3:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and we took  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נִּקַּ֞ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ni.Kach<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at the time  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵ֤ת</big></span><small><sup>[[H6256]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הִוא֙</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> hi.V'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֔רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] hand of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יַּ֗ד</big></span><small><sup>[[H3027H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] two  | <span class="ashebrew"><big>שְׁנֵי֙</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Nei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] kings of  | <span class="ashebrew"><big>מַלְכֵ֣י</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Amorite[s]  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱמֹרִ֔י</big></span><small><sup>[[H0567]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'e.mo.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֖ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] on [the] other side of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֵ֣בֶר</big></span><small><sup>[[H5676H]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Jordan  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יַּרְדֵּ֑ן</big></span><small><sup>[[H3383]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] wadi of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>נַּ֥חַל</big></span><small><sup>[[H5158N]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Na.chal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Arnon  | <span class="ashebrew"><big>אַרְנֹ֖ן</big></span><small><sup>[[H0769]]</sup></small> &#8207;| 'ar.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  | <span class="ashebrew"><big>הַ֥ר</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hermon  | <span class="ashebrew"><big>חֶרְמֽוֹן</big></span><small><sup>[[H2768]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| cher.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.7|<< Deuteronomy 3:7]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.9|Deuteronomy 3:9 >>]]</td></tr></table>
+
+

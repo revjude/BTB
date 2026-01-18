@@ -1,0 +1,15 @@
+<small>*Male • Gentile convert and companion of Paul*</small>
+
+Man living at the time of the New Testament
+
+<span class='tipnrhighlight'>Titus</span> was a Gentile convert and a trusted companion of Paul, who accompanied him on missionary journeys and served as his delegate to the church in Corinth.
+- A man living at the time of the New Testament, first mentioned at [[2Cor.2.13|2Co.2.13]]; 
+- referred to as Titus or \[ \] \(KJV= Titus\) <[[G5103]]> \(<span class='tipnrLangGreek'>Τίτος</span>\).
+
+Titus was a Gentile convert and a close companion of the Apostle Paul. He is mentioned several times in Paul's epistles, particularly in 2 Corinthians and the letter addressed to him, the Epistle to Titus. Titus was one of Paul's trusted delegates and was involved in his ministry to the churches. Paul refers to Titus as his "true son in the faith" \([[Titus.1.4|Titus 1:4]]\), indicating a close spiritual relationship. Titus accompanied Paul to Jerusalem for the council that discussed the inclusion of Gentiles in the church \([[Gal.2.1|Galatians 2:1]]-3\). He was not compelled to be circumcised, which supported Paul's stance that Gentile converts did not need to adhere to Jewish law. Titus played a significant role in Paul's relationship with the church in Corinth. He was sent by Paul to Corinth to address issues within the church and to encourage the believers \([[2Cor.7.6|2 Corinthians 7:6]]-7, 13-14; 8:6, 16, 23\). Titus' visit brought comfort and reassurance to Paul regarding the Corinthians' response to his earlier letter. Paul also entrusted Titus with the task of collecting an offering for the believers in Jerusalem \([[2Cor.8.6|2 Corinthians 8:6]], 16-24\). The Epistle to Titus, written by Paul, provides insight into Titus' role as a church leader. Paul had left Titus in Crete to oversee the churches there, appointing elders and dealing with false teachers \(Titus 1:5\). The letter offers guidance on sound doctrine, qualifications for church leaders, and the importance of good works. According to [[2Tim.4.10|2 Timothy 4:10]], Titus later traveled to Dalmatia \(modern-day Croatia\). Church tradition holds that Titus served as the first bishop of Crete. Titus' life exemplifies the important role that Gentile converts played in the early church and the trust Paul placed in them as fellow ministers of the gospel.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Titus | [<span class='tipnrLangGreek'>Τίτος</span>](G5103) <small>*Greek*</small> | 13x | [[2Co.2.13] ... [Tit.1.4] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Titus\*\|reference=2Co.2.13;2Co.7.6;2Co.7.13;2Co.7.14;2Co.8.6;2Co.8.16;2Co.8.23;2Co.12.18;2Co.12.18;Gal.2.1;Gal.2.3;2Ti.4.10;Tit.1.4) |
+| [ ] (KJV= Titus) | [<span class='tipnrLangGreek'>Τίτος</span>](G5103) <small>*Greek*</small> | 3x | [[2Co.13.13] ... [Tit.3.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=2Co.13.14;Tit.3.15) |
+All Strong's for **Titus**: \[[[G5103]]\]

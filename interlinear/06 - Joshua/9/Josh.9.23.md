@@ -1,0 +1,26 @@
+**Joshua 9:23** 
+<small><sub>**KJV:**</sub></small>
+Now therefore ye [are] cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God.
+<small><sub>**BSB:**</sub></small>
+Now therefore you are under a curse and will perpetually serve as woodcutters and water carriers for the house of my God.”
+<small><sub>**Literal:**</sub></small>
+and  therefore [are] cursed you and  not he will be cut off from \<the>  you a slave and  cutters of wood\<s> and  drawers of water for  [the] house of God  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.22|<< Joshua 9:22]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.24|Joshua 9:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and therefore  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַתָּ֖ה</big></span><small><sup>[[H6258]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] cursed  | <span class="ashebrew"><big>אֲרוּרִ֣ים</big></span><small><sup>[[H0779]]</sup></small> &#8207;| 'a.ru.Rim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתֶּ֑ם</big></span><small><sup>[[H0859D]]</sup></small> &#8207;| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be cut off  | <span class="ashebrew"><big>יִכָּרֵ֨ת</big></span><small><sup>[[H3772G]]</sup></small> &#8207;| yi.ka.Ret<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from \<the> you  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>כֶּ֜ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| mi.<small><sup>[[HRd]]</sup></small> Kem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a slave  | <span class="ashebrew"><big>עֶ֗בֶד</big></span><small><sup>[[H5650]]</sup></small> &#8207;| 'E.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cutters of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֹטְבֵ֥י</big></span><small><sup>[[H2404]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> cho.te.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wood\<s>  | <span class="ashebrew"><big>עֵצִ֛ים</big></span><small><sup>[[H6086G]]</sup></small> &#8207;| 'e.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and drawers of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֹֽׁאֲבֵי</big></span><small><sup>[[H7579]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sho.'a.vei-<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  | <span class="ashebrew"><big>מַ֖יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] house of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בֵ֥ית</big></span><small><sup>[[H1004Q]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God my  | <span class="ashebrew"><big>אֱלֹהָֽ</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.22|<< Joshua 9:22]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.24|Joshua 9:24 >>]]</td></tr></table>
+
+

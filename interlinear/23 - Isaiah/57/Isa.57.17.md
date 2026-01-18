@@ -1,0 +1,23 @@
+**Isaiah 57:17** 
+<small><sub>**KJV:**</sub></small>
+For the iniquity of his covetousness was I wroth, and smote him: I hid me, and was wroth, and he went on frowardly in the way of his heart.
+<small><sub>**BSB:**</sub></small>
+I was enraged by his sinful greed, so I struck him and hid My face in anger; yet he kept turning back to the desires of his heart.
+<small><sub>**Literal:**</sub></small>
+in  [the] iniquity of unjust gain  his I was angry and  I struck  him I hid and  I may be angry and  he walked apostate in  [the] way of own heart  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.16|<< Isaiah 57:16]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.18|Isaiah 57:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| in [the] iniquity of  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲוֹ֥ן</big></span><small><sup>[[H5771G]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> 'a.Von<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unjust gain his  | <span class="ashebrew"><big>בִּצְע֛</big></span><small><sup>[[H1215]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| bitz.'<small><sup>[[HNcmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I was angry  | <span class="ashebrew"><big>קָצַ֥פְתִּי</big></span><small><sup>[[H7107]]</sup></small> &#8207;| ka.Tzaf.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I struck him  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַכֵּ֖</big></span><small><sup>[[H5221]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Ke.<small><sup>[[HVhu1cs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I hid  | <span class="ashebrew"><big>הַסְתֵּ֣ר</big></span><small><sup>[[H5641]]</sup></small> &#8207;| has.Ter<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I may be angry  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶקְצֹ֑ף</big></span><small><sup>[[H7107]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ek.Tzof<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he walked  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֥לֶךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| apostate  | <span class="ashebrew"><big>שׁוֹבָ֖ב</big></span><small><sup>[[H7726]]</sup></small> &#8207;| sho.Vav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] way of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דֶ֥רֶךְ</big></span><small><sup>[[H1870G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own heart his  | <span class="ashebrew"><big>לִבּֽ</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| li.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.16|<< Isaiah 57:16]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.18|Isaiah 57:18 >>]]</td></tr></table>
+
+

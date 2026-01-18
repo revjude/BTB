@@ -1,0 +1,26 @@
+**Ezekiel 37:7** 
+<small><sub>**KJV:**</sub></small>
+So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.
+<small><sub>**BSB:**</sub></small>
+So I prophesied as I had been commanded. And as I prophesied, there was suddenly a noise, a rattling, and the bones came together, bone to bone.
+<small><sub>**Literal:**</sub></small>
+and  I prophesied just  as I was commanded and  it came a sound when  prophesied  I and  there! a rattling and  they drew near [the] bones bone to bone  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.6|<< Ezekiel 37:6]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.8|Ezekiel 37:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I prophesied  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נִבֵּ֖אתִי</big></span><small><sup>[[H5012]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ni.Be.ti<small><sup>[[HVNq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I was commanded  | <span class="ashebrew"><big>צֻוֵּ֑יתִי</big></span><small><sup>[[H6680]]</sup></small> &#8207;| tzu.Vei.ti<small><sup>[[HVPp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it came  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִי</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.hi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sound  | <span class="ashebrew"><big>ק֤וֹל</big></span><small><sup>[[H6963H]]</sup></small> &#8207;| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when prophesied I  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>הִנָּֽבְאִ</big></span><small><sup>[[H5012]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9040]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> hi.na.ve.'<small><sup>[[HVNcc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there!  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הִנֵּה</big></span><small><sup>[[H2009]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a rattling  | <span class="ashebrew"><big>רַ֔עַשׁ</big></span><small><sup>[[H7494]]</sup></small> &#8207;| Ra.'ash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they drew near  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּקְרְב֣וּ</big></span><small><sup>[[H7126G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tik.re.Vu<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] bones  | <span class="ashebrew"><big>עֲצָמ֔וֹת</big></span><small><sup>[[H6106G]]</sup></small> &#8207;| a.tza.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bone  | <span class="ashebrew"><big>עֶ֖צֶם</big></span><small><sup>[[H6106G]]</sup></small> &#8207;| 'E.tzem<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bone its  | <span class="ashebrew"><big>עַצְמֽ</big></span><small><sup>[[H6106G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| atz.M<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.6|<< Ezekiel 37:6]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.8|Ezekiel 37:8 >>]]</td></tr></table>
+
+

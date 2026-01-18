@@ -1,0 +1,26 @@
+**Daniel 2:46** 
+<small><sub>**KJV:**</sub></small>
+Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.
+<small><sub>**BSB:**</sub></small>
+At this, King Nebuchadnezzar fell on his face, paid homage to Daniel, and ordered that an offering and incense be presented to him.
+<small><sub>**Literal:**</sub></small>
+\<in>  then king  the Nebuchadnezzar he fell on face  his and  to  Daniel he paid homage and  offering and  soothing offerings he said to  offer in sacrifice to  him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.45|<< Daniel 2:45]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.47|Daniel 2:47 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| \<in> then  | <span class="asaramaic"><big>בֵּ֠</big></span><small><sup>[[H9003]]</sup></small> <span class="asaramaic"><big>אדַיִן</big></span><small><sup>[[H0116]]</sup></small> &#8207;| Be.<small><sup>[[AR]]</sup></small> da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  | <span class="asaramaic"><big>מַלְכָּ֤</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebuchadnezzar  | <span class="asaramaic"><big>נְבֽוּכַדְנֶצַּר֙</big></span><small><sup>[[H5020]]</sup></small> &#8207;| ne.vu.khad.ne.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he fell  | <span class="asaramaic"><big>נְפַ֣ל</big></span><small><sup>[[H5308]]</sup></small> &#8207;| ne.Fal<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="asaramaic"><big>עַל</big></span><small><sup>[[H5922]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face his  | <span class="asaramaic"><big>אַנְפּ֔וֹ</big></span><small><sup>[[H0600]]</sup></small> <span class="asaramaic"><big>הִי</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'an.Po.<small><sup>[[ANcbdc]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to Daniel  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָנִיֵּ֖אל</big></span><small><sup>[[H1841H]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> le.<small><sup>[[HR]]</sup></small> da.ni.Yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he paid homage  | <span class="asaramaic"><big>סְגִ֑ד</big></span><small><sup>[[H5457]]</sup></small> &#8207;| se.Gid<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and offering  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>מִנְחָה֙</big></span><small><sup>[[H4504]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> min.Chah<small><sup>[[ANcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and soothing offerings  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>נִ֣יחֹחִ֔ין</big></span><small><sup>[[H5208]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> Ni.cho.Chin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he said  | <span class="asaramaic"><big>אֲמַ֖ר</big></span><small><sup>[[H0560]]</sup></small> &#8207;| 'a.Mar<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to offer in sacrifice  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>נַסָּ֥כָה</big></span><small><sup>[[H5260]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> na.Sa.khah<small><sup>[[AVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>לֵֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9033]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Le<small><sup>[[AR]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.45|<< Daniel 2:45]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.47|Daniel 2:47 >>]]</td></tr></table>
+
+

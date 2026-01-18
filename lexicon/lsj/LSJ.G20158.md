@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==ἀτίμητος==</span>-<span class='asgreek'>ητος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>unhonoured, despised,</b> <span class='asgreek'>ὡς</span> <span class='asgreek'>εἴ</span> <span class='asgreek'>τιν᾽</span> <span class='asgreek'>ἀτίμητον</span> <span class='asgreek'>μετανάστην</span>[<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 9.648">Refs 8th c.BC+</a>]; <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἀ</span>. not <b>unrewarded,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Hiero” 9.10. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>τῑμή</span>[<a href="javascript:void(0)" title=" 11)">Refs</a>] <b>not valued</b> or <b>estimated,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Isaeus Orator 3.35: especially δίκη ἀ.">Refs 4th c.BC+</a>] a cause <b>in which the penalty is not assessed in court,</b> but fixed by law beforehand, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 21.90, 4th c.BC: Aeschines Orator 3.210">Refs 4th c.BC+</a>]; opposed to <span class='asgreek'>τιμητός</span> (where the penalty is settled in court), [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 27.67, compare 2nd c.AD(?): Pollianus Epigrammaticus 8.54, 63, 1st-2nd c.AD: Harpocratio Grammaticus see entry ; 10th c.AD: Suidas Legal icographus erroneously reverses this explanation. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>invaluable, priceless,</b> [<a href="javascript:void(0)" title=" LXX.Wis.7.9, 12th c.AD: Eustathius Episcopus Thessalonicensis 781.19. ">LXX</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>not assessed,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 5(1).1433.45 (from Messene)">Refs</a>]; <b>notcapable of being valued,</b> <span class='asgreek'>ἄγαλμα</span>[<a href="javascript:void(0)" title=" “epigram Gr.” 805.">Refs</a>]

@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==ἁγιστεία==</span>-<span class='asgreek'>ιστεία</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>ritual, service,</b> <span class='asgreek'>τῶν</span> <span class='asgreek'>θεῶν</span>, in <i>plural</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 11.28, compare 5th-6th c.BC: Plato Philosophus “Axiochus” 371d, 4th c.BC: Aristoteles Philosophus “de Caelo” 268a14">Refs 5th c.BC+</a>]; later in <i>singular</i>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 9.3.7, 1st c.AD: Josephus Historicus “contra Apionem” 1.7, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Romulus” 22, 4th c.AD: Julianus Imperator “Orationes” 5.178d.">Refs 1st c.BC+</a>]
+

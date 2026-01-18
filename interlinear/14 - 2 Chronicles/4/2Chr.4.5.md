@@ -1,0 +1,26 @@
+**2 Chronicles 4:5** 
+<small><sub>**KJV:**</sub></small>
+And the thickness of it [was] an handbreadth, and the brim of it like the work of the brim of a cup, with flowers of lilies; [and] it received and held three thousand baths.
+<small><sub>**BSB:**</sub></small>
+It was a handbreadth thick, and its rim was fashioned like the brim of a cup, like a lily blossom. It could hold three thousand baths.
+<small><sub>**Literal:**</sub></small>
+and  thickness  its [was] a hand breadth and  lip  its [was] like  [the] work of [the] lip of a cup [the] blossom of a lily holding baths three thousand\<s> it contained<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.4|<< 2 Chronicles 4:4]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.6|2 Chronicles 4:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and thickness its  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עָבְי֣</big></span><small><sup>[[H5672]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.ve.Y<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] a hand breadth  | <span class="ashebrew"><big>טֶ֔פַח</big></span><small><sup>[[H2947]]</sup></small> &#8207;| Te.fach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and lip its  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׂפָת</big></span><small><sup>[[H8193I]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> se.fa.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] like [the] work of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מַעֲשֵׂ֣ה</big></span><small><sup>[[H4639G]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] lip of  | <span class="ashebrew"><big>שְׂפַת</big></span><small><sup>[[H8193I]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| se.fat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cup  | <span class="ashebrew"><big>כּ֔וֹס</big></span><small><sup>[[H3563A]]</sup></small> &#8207;| Kos<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] blossom of  | <span class="ashebrew"><big>פֶּ֖רַח</big></span><small><sup>[[H6525]]</sup></small> &#8207;| Pe.rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a lily  | <span class="ashebrew"><big>שֽׁוֹשַׁנָּ֑ה</big></span><small><sup>[[H7799]]</sup></small> &#8207;| sho.sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| holding  | <span class="ashebrew"><big>מַחֲזִ֣יק</big></span><small><sup>[[H2388H]]</sup></small> &#8207;| ma.cha.Zik<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| baths  | <span class="ashebrew"><big>בַּתִּ֔ים</big></span><small><sup>[[H1324]]</sup></small> &#8207;| ba.Tim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שְׁלֹ֥שֶׁת</big></span><small><sup>[[H7969]]</sup></small> &#8207;| she.Lo.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand\<s>  | <span class="ashebrew"><big>אֲלָפִ֖ים</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it contained  | <span class="ashebrew"><big>יָכִֽיל</big></span><small><sup>[[H3557]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ya.Khil<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.4|<< 2 Chronicles 4:4]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.6|2 Chronicles 4:6 >>]]</td></tr></table>
+
+

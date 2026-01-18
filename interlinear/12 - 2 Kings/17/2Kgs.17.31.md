@@ -1,0 +1,31 @@
+**2 Kings 17:31** 
+<small><sub>**KJV:**</sub></small>
+And the Avites made Nibhaz and Tartak, and the Sepharvites burnt their children in fire to Adrammelech and Anammelech, the gods of Sepharvaim.
+<small><sub>**BSB:**</sub></small>
+the Avvites made Nibhaz and Tartak, and the Sepharvites burned their children in the fire to Adrammelech and Anammelech the gods of Sepharvaim.
+<small><sub>**Literal:**</sub></small>
+and  the  Avvites they made Nibhaz and  \<obj.> Tartak and  the  Sepharvites [were] burning \<obj.> children  their in the  fire to  Adrammelech and  Anammelech [the] gods of Sepharvaim<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.30|<< 2 Kings 17:30]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.32|2 Kings 17:32 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the Avvites  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עַוִּ֛ים</big></span><small><sup>[[H5761I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.Vim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they made  | <span class="ashebrew"><big>עָשׂ֥וּ</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| 'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nibhaz  | <span class="ashebrew"><big>נִבְחַ֖ז</big></span><small><sup>[[H5026]]</sup></small> &#8207;| niv.Chaz<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tartak  | <span class="ashebrew"><big>תַּרְתָּ֑ק</big></span><small><sup>[[H8662]]</sup></small> &#8207;| tar.Tak<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the Sepharvites  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>סְפַרְוִ֗ים</big></span><small><sup>[[H5616]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> s.far.Vim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] burning  | <span class="ashebrew"><big>שֹׂרְפִ֤ים</big></span><small><sup>[[H8313]]</sup></small> &#8207;| so.re.Fim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children their  | <span class="ashebrew"><big>בְּנֵי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| be.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the fire  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֵ֔שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Adrammelech  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַדְרַמֶּ֥לֶךְ</big></span><small><sup>[[H0152G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'ad.ra.Me.lekh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Anammelech  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲנַמֶּ֖לֶךְ</big></span><small><sup>[[H6048]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.na.Me.lekh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  [^1] | <span class="ashebrew"><big>אֱלֹהֵ֥י</big></span><small><sup>[[H0430J]]</sup></small> &#8207;[^2] | 'e.lo.ah<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| Sepharvaim  [^3] | <span class="ashebrew"><big>סְפַרְוָֽיִם</big></span><small><sup>[[H5617]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;[^4] | se.fa.rim<small><sup>[[HNpl]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.30|<< 2 Kings 17:30]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.32|2 Kings 17:32 >>]]</td></tr></table>
+
+[^1]: ==K==: **[the] god of ** | <small><sup>[[H0433]]</sup></small><span class="ashebrew"><big>אֱלֹהַּ</big></span>  | 'e.lo.ah<small><sup>[[HNcmsc]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>אֱלֹהֵ֥</big></span>**
+[^3]: ==K==: **Sepharim ** | <small><sup>[[H9016]]</sup></small><span class="ashebrew"><big>׃</big></span> <small><sup>[[H5617]]</sup></small><span class="ashebrew"><big>סְפָרִים</big></span>  | se.fa.rim<small><sup>[[HNpl]]</sup></small> 
+[^4]: ==L== spelled: **<span class="ashebrew"><big>סְפַרְיִָֽם\׃</big></span>**
+

@@ -1,0 +1,25 @@
+**Psalms 70:5** (70:6)
+<small><sub>**KJV:**</sub></small>
+But I [am] poor and needy: make haste unto me, O God: thou [art] my help and my deliverer; O LORD, make no tarrying.
+<small><sub>**BSB:**</sub></small>
+But I am poor and needy; hurry to me, O God. You are my help and my deliverer; O LORD, do not delay.
+<small><sub>**Literal:**</sub></small>
+and  I [am] poor and  needy O God make haste  ! to  me [are] help  my and  deliverer  my you O Yahweh may not you delay<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.70.4|<< Psalms 70:4]]</td><td align="center" style="border:none;">[[Ps.70|Psalms 70]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.1|Psalms 71:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲנִ֤י</big></span><small><sup>[[H0589]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] poor  | <span class="ashebrew"><big>עָנִ֣י</big></span><small><sup>[[H6041]]</sup></small> &#8207;| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and needy  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶבְיוֹן֮</big></span><small><sup>[[H0034]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ev.yOn<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God  | <span class="ashebrew"><big>אֱלֹהִ֪ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| make haste !  | <span class="ashebrew"><big>חֽוּשָׁ֫</big></span><small><sup>[[H2363A]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| chu.Sha<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>לִּ֥</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] help my  | <span class="ashebrew"><big>עֶזְרִ֣</big></span><small><sup>[[H5828]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'ez.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and deliverer my  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְפַלְטִ֣</big></span><small><sup>[[H6403]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.fal.T<small><sup>[[HVprmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַ֑תָּה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  | <span class="ashebrew"><big>יְ֝הוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you delay  | <span class="ashebrew"><big>תְּאַחַֽר</big></span><small><sup>[[H0309]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| te.'a.Char<small><sup>[[HVpj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.70.4|<< Psalms 70:4]]</td><td align="center" style="border:none;">[[Ps.70|Psalms 70]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.1|Psalms 71:1 >>]]</td></tr></table>
+
+

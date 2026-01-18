@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==ἐπαιτέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>ask besides,</b> <span class='asgreek'>εἰ</span> <span class='asgreek'>καί</span> <span class='asgreek'>νύ</span> <span class='asgreek'>κεν</span>.. <span class='asgreek'>ἄλλο</span> <span class='asgreek'>μεῖζον</span> <span class='asgreek'>==ἐπαιτέω==ήσειας</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 23.593; ὧν ==ἐπαιτέω==εῖς 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 1416 ">Refs 8th c.BC+</a>]: <i>absolutely</i>, <b>ask for more,</b> <span class='asgreek'>φαγὼν</span> <span class='asgreek'>ἔτ᾽</span> <span class='asgreek'>ἐπῄτεον</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Posidippus Comicus cited in 2nd c.AD: Athenaeus Epigrammaticus 10.412e ">Refs 3rd c.BC+</a>]:—so in <i>middle</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 1124. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>beg as a mendicant,</b> <span class='asgreek'>ἄλλους</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τὸν</span> <span class='asgreek'>καθ᾽</span> <span class='asgreek'>ἡμέραν</span> <span class='asgreek'>βίον</span> [<a href="javascript:void(0)" title=" [prev. author] “OC” 1364, compare 5th c.BC: Euripides Tragicus “Rhesus” 715: \_absolutely\_, 2nd c.AD: Vettius Valens Astrologus 68.30, 2nd c.AD: Lucianus Sophista “Asin.” 35. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> simply, <b>demand,</b> [<a href="javascript:void(0)" title=" PTeb. 26.13 (2nd c.BC, \_passive\_), etc. ">Refs 2nd c.BC+</a>]

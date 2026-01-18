@@ -1,0 +1,14 @@
+<span class="asform"><span class="asgreek"><span class="asbold">ἶρις</span></span>, <span class="asgreek">-ιδος, ἡ</span>,</span> <span class="asetym">    <span class="asseptuagint">\[in LXX: [[Exod.30.24|Ex 30:24]] (<span class="ashebrew">קִדָּה</span> <small><sup>[[H6916]]</sup></small>)\*, (<span class="ashebrew">קֶשֶׁת</span> <small><sup>[[H7198]]</sup></small>, [[Gen.9.13|Ge 9:13]], [[Ezek.1.28|Ez 1:28]], is rendered by <span class="asgreek">τόξον</span>);\]</span> </span>
+<span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">Iris</span>, the messenger of the gods.</span>
+<span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">a rainbow</span> or <span class="asitalic">halo</span>: [[Rev.4.3|Re 4:3]] [[Rev.10.1|10:1]].</span>
+<span class="asbullet"><span class="asbold">3.</span> The plant <span class="asitalic">Iris</span> (cf. [[Exod.30.24|Ex 30:24]]).†</span>
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.9.13\|9:13]] |
+| Exodus | [[Exod.30.24\|30:24]] |
+| Ezekiel | [[Ezek.1.28\|1:28]] |
+| Revelation | [[Rev.4.3\|4:3]] · [[Rev.10.1\|10:1]] |
+

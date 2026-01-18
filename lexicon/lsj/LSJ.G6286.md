@@ -1,0 +1,9 @@
+<span class="asgreek">ἀνάκλισις</span> <small>***(anaklisis)***</small> ==**laying down**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀνάκλισις==</span>-<span class='asgreek'>κλῐσις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>lying</b> or <b>leaning back, position in bed,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Κωακαὶ προγνώσιες” 487, 4th c.BC: Aristoteles Philosophus “Categoriae” 6b11. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>bending back,</b> in tetanus, [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων ὀξέων παθῶν” 1.6. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>back to lean against,</b> <span class='asgreek'>θρόνοι</span>.. <span class='asgreek'>ἀνακλίσεις</span> <span class='asgreek'>ἔχοντες</span>.. [<a href="javascript:void(0)" title=" “IG” 2.676, compare 2.701 ii (iii) 45, compare 2nd c.AD: Athenaeus Epigrammaticus 5.192f; βάθρον ==ἀνάκλισις==κλισιν ἔχον “IG” 4.39 (from Aegina)">Refs 2nd c.AD+</a>]; <b>bench, seat</b>, [<a href="javascript:void(0)" title=" “JHS” 12.232, compare “IG” 1.277 d.">Refs</a>]

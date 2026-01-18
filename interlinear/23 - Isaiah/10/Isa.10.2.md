@@ -1,0 +1,26 @@
+**Isaiah 10:2** 
+<small><sub>**KJV:**</sub></small>
+To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and [that] they may rob the fatherless!
+<small><sub>**BSB:**</sub></small>
+to deprive the poor of fair treatment and withhold justice from the oppressed of My people, to make widows their prey and orphans their plunder.
+<small><sub>**Literal:**</sub></small>
+to  turn aside from  judgment poor [people] and  to  take away [the] justice of [the] poor [people] of people  my to  be widows prey  their and  \<obj.> fatherless ones they will plunder<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.1|<< Isaiah 10:1]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.3|Isaiah 10:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to turn aside  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַטּ֤וֹת</big></span><small><sup>[[H5186]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Tot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from judgment  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>דִּין֙</big></span><small><sup>[[H1779]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Din<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poor [people]  | <span class="ashebrew"><big>דַּלִּ֔ים</big></span><small><sup>[[H1800]]</sup></small> &#8207;| da.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to take away  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>גְזֹ֕ל</big></span><small><sup>[[H1497]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> g.Zol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] justice of  | <span class="ashebrew"><big>מִשְׁפַּ֖ט</big></span><small><sup>[[H4941H]]</sup></small> &#8207;| mish.Pat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] poor [people] of  | <span class="ashebrew"><big>עֲנִיֵּ֣י</big></span><small><sup>[[H6041]]</sup></small> &#8207;| 'a.ni.Yei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  | <span class="ashebrew"><big>עַמִּ֑</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to be  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הְי֤וֹת</big></span><small><sup>[[H1961]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| widows  | <span class="ashebrew"><big>אַלְמָנוֹת֙</big></span><small><sup>[[H0490]]</sup></small> &#8207;| 'al.ma.nOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prey their  | <span class="ashebrew"><big>שְׁלָלָ֔</big></span><small><sup>[[H7998]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| she.la.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fatherless ones  | <span class="ashebrew"><big>יְתוֹמִ֖ים</big></span><small><sup>[[H3490]]</sup></small> &#8207;| ye.to.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will plunder  | <span class="ashebrew"><big>יָבֹֽזּוּ</big></span><small><sup>[[H0962]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ya.Vo.zu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.1|<< Isaiah 10:1]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.3|Isaiah 10:3 >>]]</td></tr></table>
+
+

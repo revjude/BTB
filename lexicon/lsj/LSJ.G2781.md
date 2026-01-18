@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==κηρίον==</span></b>, <span class='asgreek'>τό</span>, <span class='asgreek'>κηρός</span>
+
+
+ ) <b>honeycomb</b>, mostly in <i>plural</i>, [<a href="javascript:void(0)" title=" “hymnus ad Mercurium” 559, 8th-7th c.BC: Hesiodus Epicus “Theogonia” 597, 5th c.BC: Herodotus Historicus 5.114, etc.">Refs 8th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>λίβανον</span>, as offerings, [<a href="javascript:void(0)" title=" “Supp.epigram” 3.774 (Crete, 1st c.BC): \_sing.\_, 5th-6th c.BC: Plato Philosophus “Respublica” 552c, 3rd c.BC: Theocritus Poeta Bucolicus 19.2, “IG” 5(2).514.14 (Lycosura, 2nd c.BC)">Refs 5th c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>μέλιτος</span> [<a href="javascript:void(0)" title=" LXX.1Kgs.14.27 ">LXX</a>]; used in Medicine, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ νούσων” 2.45, 3.17 ">Refs 5th c.BC+</a>]; <span class='asgreek'>παιδίον</span> <span class='asgreek'>κηρίῳ</span> <span class='asgreek'>βεβυσμένον</span> having its mouth stopped with <b>a piece of honeycomb</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 506, cf. Scholia (at [prev. work]), 2nd c.AD: Soranus Medicus 1.86; κ. σφηκῶν 5th c.BC: Herodotus Historicus 2.92: κηρία, τά ">Refs 5th c.BC+</a>], <b>honey</b>, [<a href="javascript:void(0)" title=" 6th c.BC: Hipponax Iambographus 36, 1st c.BC(?): Aristo Epigrammaticus cited in 2nd c.AD: Athenaeus Epigrammaticus 2.38f. ">Refs 6th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, of a book of poems, [<a href="javascript:void(0)" title="“Anthologia Graeca” 9.190: \_plural\_, title of Anthologies, 2nd c.AD: Gellius, Aulus Grammaticus Latinus “Praef.” 6. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, of anything pleasant, <span class='asgreek'>τῆς</span> <span class='asgreek'>ἐπιθυμίας</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 4th c.AD: Libanius Sophista “Epistulae” 112.1. ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>a cutaneous disease</b>, ={<span class='asgreek'>μελικηρίς</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 2.135 (\_plural\_), 2nd c.AD: Galenus Medicus 7.728, +others ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Kgs.14.27]]
+</sub></small>

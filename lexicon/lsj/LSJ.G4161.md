@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ποίημα==</span>-<span class='asgreek'>ημα</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>ποιέω</span>) <b>anything made</b> or <b>done</b>: hence, 
+
+$\quad$ $\quad$<b>\_\_I</b> <b>work,</b> <span class='asgreek'>π</span>. <span class='asgreek'>χρύσεα</span>, <span class='asgreek'>χάλκεα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>σιδήρεα</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.5, 7.84, compare 2.135; Γλαύκου τοῦ Χίου π. [prev. author] 1.25 ">Refs 5th c.BC+</a>]; of the works of Daedalus, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Meno” 97e ">Refs 5th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ἐραστοῦ</span> a lover's <b>invention,</b> [<a href="javascript:void(0)" title=" [prev. author] “R.” 474e ">Refs</a>]; <b>product,</b> of land formed by silting-up of rivers, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Anabasis” 5.6.4 (\_plural\_). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_I.2</b> <b>poem,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Cratinus Comicus 186, 5th-6th c.BC: Plato Philosophus “Phaedo” 60d, “Ly.” 221d; τὰ μετὰ μέτρου π. 5th-6th c.BC: Isocrates Orator 2.7, 15.45; π. εἰς τὰς Μούσας “IG” 7.1773.17 (Thespiae, 2nd c.AD)">Refs 5th c.BC+</a>]: <i>plural</i>, of single <b>verses,</b> ={<span class='asgreek'>ἔπη</span>}, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 1.41, “Comp.” 3. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_I.2.b</b> <b>poetical,</b> especially <b>metrical, form,</b> <span class='asgreek'>περὶ</span> <span class='asgreek'>ποιήματος</span>, title of work by Hephaestio. 
+$\quad$ $\quad$ $\quad$<b>\_\_I.3</b> <b>fiction,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Anabasis” 5.6.5 (\_plural\_). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_I.4</b> <b>onomatopoeic word,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus see at {μάματα}. ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>deed, act,</b> opposed to <span class='asgreek'>πάθημα</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 437b (\_plural\_), “Sph.” 248b; π. πονηρά LXX.2Esd.9.13. (Written ποιϝήματα (in signification 1.1) in “Mnemos.” 57.208 (Argos, 6th c.BC).) ">LXX+6th c.BC+</a>]

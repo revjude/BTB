@@ -1,0 +1,2 @@
+<span class="ashebrew">‎אֲחַשְׁדַּרְפַּן‎</span> <small>***(a.chash.dar.pan)***</small> ==**satrap**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+- Aramaic equivalent: <i>a.chash.dar.pan</i> (<span class='asaramaic'>‎א‎</span>ֲ<span class='asaramaic'>‎ח‎</span>ַ<span class='asaramaic'>‎ש‎</span>ְׁ<span class='asaramaic'>‎ד‎</span>ַּ<span class='asaramaic'>‎ר‎</span>ְ<span class='asaramaic'>‎פ‎</span>ְּ<span class='asaramaic'>‎נ‎</span>ִ<span class='asaramaic'>‎ין‎</span> "satrap" [[H0324]])

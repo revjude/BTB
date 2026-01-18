@@ -1,0 +1,26 @@
+**Ezekiel 27:17** 
+<small><sub>**KJV:**</sub></small>
+Judah, and the land of Israel, they [were] thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm.
+<small><sub>**BSB:**</sub></small>
+Judah and the land of Israel traded with you; they exchanged wheat from Minnith, cakes and honey, oil and balm for your merchandise.
+<small><sub>**Literal:**</sub></small>
+Judah and  [the] land of Israel they [were] traders  your for  [the] wheat\<s> of Minnith and  cake and  honey and  oil and  balm they exchanged merchandise  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.16|<< Ezekiel 27:16]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.18|Ezekiel 27:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| Judah  | <span class="ashebrew"><big>יְהוּדָה֙</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] land of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֖מָּה</big></span><small><sup>[[H1992]]</sup></small> &#8207;| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] traders your  | <span class="ashebrew"><big>רֹכְלָ֑יִ</big></span><small><sup>[[H7402]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ro.khe.La.yi<small><sup>[[HVqrmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] wheat\<s> of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חִטֵּ֣י</big></span><small><sup>[[H2406]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> chi.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Minnith  | <span class="ashebrew"><big>מִ֠נִּית</big></span><small><sup>[[H4511]]</sup></small> &#8207;| Mi.nit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cake  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פַנַּ֨ג</big></span><small><sup>[[H6436]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fa.Nag<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and honey  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דְבַ֤שׁ</big></span><small><sup>[[H1706]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> de.Vash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and oil  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֶׁ֙מֶן֙</big></span><small><sup>[[H8081]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> She.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and balm  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צֹ֔רִי</big></span><small><sup>[[H6875]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Tzo.ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they exchanged  | <span class="ashebrew"><big>נָתְנ֖וּ</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| merchandise your  | <span class="ashebrew"><big>מַעֲרָבֵֽ</big></span><small><sup>[[H4627]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ma.'a.ra.Ve<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.16|<< Ezekiel 27:16]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.18|Ezekiel 27:18 >>]]</td></tr></table>
+
+

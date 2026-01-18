@@ -1,0 +1,27 @@
+**Joshua 13:5** 
+<small><sub>**KJV:**</sub></small>
+And the land of the Giblites, and all Lebanon, toward the sunrising, from Baalgad under mount Hermon unto the entering into Hamath.
+<small><sub>**BSB:**</sub></small>
+the land of the Gebalites; and all Lebanon to the east, from Baal-gad below Mount Hermon to Lebo-hamath.
+<small><sub>**Literal:**</sub></small>
+and  the  land of the  Gebalite[s] and  all \<the>  Lebanon [the] rising of the  sun from  Baal Gad under [the] mountain of Hermon to Lebo Hamath<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.4|<< Joshua 13:4]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.6|Joshua 13:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the land of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Gebalite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּבְלִ֗י</big></span><small><sup>[[H1382]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> giv.Li<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Lebanon  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לְּבָנוֹן֙</big></span><small><sup>[[H3844G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> le.va.nOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] rising of  | <span class="ashebrew"><big>מִזְרַ֣ח</big></span><small><sup>[[H4217H]]</sup></small> &#8207;| miz.Rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sun  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֶּׁ֔מֶשׁ</big></span><small><sup>[[H8121]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Baal  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בַּ֣עַל</big></span><small><sup>[[H1171]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ba.'al<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gad  | <span class="ashebrew"><big>גָּ֔ד</big></span><small><sup>[[H1171]]</sup></small> &#8207;| Gad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| under  | <span class="ashebrew"><big>תַּ֖חַת</big></span><small><sup>[[H8478G]]</sup></small> &#8207;| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mountain of  | <span class="ashebrew"><big>הַר</big></span><small><sup>[[H2022G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hermon  | <span class="ashebrew"><big>חֶרְמ֑וֹן</big></span><small><sup>[[H2768]]</sup></small> &#8207;| cher.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַ֖ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lebo  | <span class="ashebrew"><big>לְב֥וֹא</big></span><small><sup>[[H0935H]]</sup></small> &#8207;| le.Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hamath  | <span class="ashebrew"><big>חֲמָֽת</big></span><small><sup>[[H2574G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| cha.Mat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.4|<< Joshua 13:4]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.6|Joshua 13:6 >>]]</td></tr></table>
+
+

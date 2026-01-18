@@ -1,0 +1,36 @@
+**Daniel 7:9** 
+<small><sub>**KJV:**</sub></small>
+I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment [was] white as snow, and the hair of his head like the pure wool: his throne [was like] the fiery flame, [and] his wheels [as] burning fire.
+<small><sub>**BSB:**</sub></small>
+As I continued to watch, thrones were set in place, and the Ancient of Days took His seat. His clothing was white as snow, and the hair of His head was like pure wool. His throne was flaming with fire, and its wheels were all ablaze.
+<small><sub>**Literal:**</sub></small>
+seeing I was until that thrones they were placed and  [one] ancient of days he sat clothing  his like  snow [was] white and  [the] hair of head  his like  wool [was] pure throne  his [was] flames of fire wheels  its [were] fire burning<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.8|<< Daniel 7:8]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.10|Daniel 7:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| seeing  | <span class="asaramaic"><big>חָזֵ֣ה</big></span><small><sup>[[H2370]]</sup></small> &#8207;| cha.Zeh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I was  | <span class="asaramaic"><big>הֲוֵ֗ית</big></span><small><sup>[[H1934]]</sup></small> &#8207;| ha.Veit<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="asaramaic"><big>עַ֣ד</big></span><small><sup>[[H5705]]</sup></small> &#8207;| 'ad<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="asaramaic"><big>דִּ֤י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thrones  | <span class="asaramaic"><big>כָרְסָוָן֙</big></span><small><sup>[[H3764]]</sup></small> &#8207;| kha.re.sa.Van<small><sup>[[ANcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were placed  | <span class="asaramaic"><big>רְמִ֔יו</big></span><small><sup>[[H7412]]</sup></small> &#8207;| re.Miv<small><sup>[[AVQp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [one] ancient of  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>עַתִּ֥יק</big></span><small><sup>[[H6268]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> 'a.Tik<small><sup>[[AAabsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="asaramaic"><big>יוֹמִ֖ין</big></span><small><sup>[[H3118]]</sup></small> &#8207;| yo.Min<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he sat  | <span class="asaramaic"><big>יְתִ֑ב</big></span><small><sup>[[H3488]]</sup></small> &#8207;| ye.Tiv<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| clothing his  | <span class="asaramaic"><big>לְבוּשֵׁ֣</big></span><small><sup>[[H3831]]</sup></small> <span class="asaramaic"><big>הּ</big></span><small><sup>[[H9023]]</sup></small> <span class="asaramaic"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| le.vu.She<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like snow  | <span class="asaramaic"><big>כִּ</big></span><small><sup>[[H9004]]</sup></small> <span class="asaramaic"><big>תְלַ֣ג</big></span><small><sup>[[H8517]]</sup></small> &#8207;| ki<small><sup>[[AR]]</sup></small> t.Lag<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] white  | <span class="asaramaic"><big>חִוָּ֗ר</big></span><small><sup>[[H2358]]</sup></small> &#8207;| chi.Var<small><sup>[[AAabsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] hair of  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>שְׂעַ֤ר</big></span><small><sup>[[H8177]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> se.'Ar<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head his  | <span class="asaramaic"><big>רֵאשֵׁ</big></span><small><sup>[[H7217]]</sup></small> <span class="asaramaic"><big>הּ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| re.She<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like wool  | <span class="asaramaic"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="asaramaic"><big>עֲמַ֣ר</big></span><small><sup>[[H6015]]</sup></small> &#8207;| ka.<small><sup>[[AR]]</sup></small> 'a.Mar<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] pure  | <span class="asaramaic"><big>נְקֵ֔א</big></span><small><sup>[[H5343]]</sup></small> &#8207;| ne.Ke'<small><sup>[[AAabsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| throne his  | <span class="asaramaic"><big>כָּרְסְיֵ</big></span><small><sup>[[H3764]]</sup></small> <span class="asaramaic"><big>הּ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ka.re.se.Ye<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] flames  | <span class="asaramaic"><big>שְׁבִיבִ֣ין</big></span><small><sup>[[H7631]]</sup></small> &#8207;| she.vi.Vin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of  | <span class="asaramaic"><big>דִּי</big></span><small><sup>[[H1768]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  | <span class="asaramaic"><big>נ֔וּר</big></span><small><sup>[[H5135]]</sup></small> &#8207;| Nur<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wheels its  | <span class="asaramaic"><big>גַּלְגִּלּ֖וֹ</big></span><small><sup>[[H1535]]</sup></small> <span class="asaramaic"><big>הִי</big></span><small><sup>[[H9023]]</sup></small> &#8207;| gal.gi.Lo.<small><sup>[[ANcmpc]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] fire  | <span class="asaramaic"><big>נ֥וּר</big></span><small><sup>[[H5135]]</sup></small> &#8207;| nur<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| burning  | <span class="asaramaic"><big>דָּלִֽק</big></span><small><sup>[[H1815]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| da.Lik<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.8|<< Daniel 7:8]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.10|Daniel 7:10 >>]]</td></tr></table>
+
+

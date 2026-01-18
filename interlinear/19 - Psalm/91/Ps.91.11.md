@@ -1,0 +1,20 @@
+**Psalms 91:11** 
+<small><sub>**KJV:**</sub></small>
+For he shall give his angels charge over thee, to keep thee in all thy ways.
+<small><sub>**BSB:**</sub></small>
+For He will command His angels concerning you to guard you in all your ways.
+<small><sub>**Literal:**</sub></small>
+for angels  his he will command to  you to  guard  you in  all ways  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.10|<< Psalms 91:10]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91.12|Psalms 91:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| angels his  | <span class="ashebrew"><big>מַ֭לְאָכָי</big></span><small><sup>[[H4397H]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| Mal.'a.kha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will command  | <span class="ashebrew"><big>יְצַוֶּה</big></span><small><sup>[[H6680]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ye.tza.veh-<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>לָּ֑</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to guard you  | <span class="ashebrew"><big>לִ֝</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שְׁמָרְ</big></span><small><sup>[[H8104H]]</sup></small> <span class="ashebrew"><big>ךָ֗</big></span><small><sup>[[H9031]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> sh.ma.re.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ways your  | <span class="ashebrew"><big>דְּרָכֶֽי</big></span><small><sup>[[H1870G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| de.ra.Khei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.10|<< Psalms 91:10]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91.12|Psalms 91:12 >>]]</td></tr></table>
+
+

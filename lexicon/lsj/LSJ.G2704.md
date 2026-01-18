@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==καταφθείρω==</span></b>, 
+
+
+ <i>future</i> - <span class='asgreek'>φθερῶ</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.24o d">Refs 1st c.AD+</a>]:—<b>destroy, bring to naught</b>, <span class='asgreek'>στρατόν</span>, <span class='asgreek'>πόλιν</span>, <span class='asgreek'>ἔθνη</span>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 345, 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 331, 5th-6th c.BC: Plato Philosophus “Leges” 697d, compare 3rd c.AD: Democritus Epigrammaticus 159; ἔργα νομήων 3rd c.BC: Theocritus Poeta Bucolicus 25.122; κατέφθαρται ὄλβος 4th-5th c.BC: Aeschylus Tragicus “Persae” 251 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐπεὶ</span> <span class='asgreek'>δέ</span> <span class='asgreek'>χ᾽</span> <span class='asgreek'>εἵκω</span> <span class='asgreek'>οἴκαδις</span> <span class='asgreek'>καταφθερείς</span> <b>in sorry plight</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Epicharmus Comicus 35.13; - φθαρεὶς τὸν βίον 4th-3rd c.BC: Menander Comicus “Ἐπιτρέποντες” 429, compare “Raccolta Lumbroso” 17 (3rd c.BC)">Refs 5th c.BC+</a>]; <span class='asgreek'>δένδρα</span> -<span class='asgreek'>εφθαρμένα</span> [<a href="javascript:void(0)" title=" “IG” 9(2).1109.74 (Coropa, 2nd c.BC),compare “PMagd.” 11.9 (3rd c.BC), etc. ">Refs 3rd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>corrupt</b>, <span class='asgreek'>τινα</span> Plu.[same place]

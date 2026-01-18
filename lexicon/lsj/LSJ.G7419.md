@@ -1,0 +1,7 @@
+<span class="asgreek">ἐπικοσμέω</span> <small>***(epikosmeō)***</small> ==**to embellish**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐπικοσμέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>add ornaments to, decorate after</b> or <b>besides</b>, <span class='asgreek'>τὰ</span> <span class='asgreek'>ἱρά</span> 5th c.BC: Herodotus Historicus 1.184; <b>adorn</b>, <span class='asgreek'>ἄγαλμα</span>, <span class='asgreek'>ἕδος</span>, [<a href="javascript:void(0)" title=" Hyp. “Eux.” 24, 25; τὴν θεόν “IG” 22.1277; [κέρκους] ἐπικεκόσμηκεν ἡ φύσις θριξί 4th c.BC: Aristoteles Philosophus “de Partibus Animalium” 658a32 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>τινὰς</span> <span class='asgreek'>ἐπιγράμμασι</span> <b>honour</b> them with.., [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.228 ">Refs 5th c.BC+</a>]; <span class='asgreek'>θεὰν</span> <span class='asgreek'>ἐ</span>. <b>honour, celebrate</b>, [<a href="javascript:void(0)" title=" Ar. “Ra.” 385 ">Refs</a>]; of funeral honours, [<a href="javascript:void(0)" title=" X. “Cyr.” 7.3.11: \_absolutely\_, λέξις -οῦσα 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 106 ">Refs 4th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" Arist. “Pol.” 1263a23; ἱερὸν ἐ. ὅπλοις “SIG” 398.9 (Cos, 3rd c.BC),compare “Sammelb.” 996.4 (1st c.AD). ">Refs 3rd c.BC+</a>]
+

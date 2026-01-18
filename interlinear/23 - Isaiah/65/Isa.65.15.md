@@ -1,0 +1,24 @@
+**Isaiah 65:15** 
+<small><sub>**KJV:**</sub></small>
+And ye shall leave your name for a curse unto my chosen: for the Lord GOD shall slay thee, and call his servants by another name:
+<small><sub>**BSB:**</sub></small>
+You will leave behind your name as a curse for My chosen ones, and the Lord GOD will slay you; but to His servants He will give another name.
+<small><sub>**Literal:**</sub></small>
+and  you will leave name  your to  a curse to  chosen ones  my and  he will put to death  you [the] Lord Yahweh and  \<to>  servants  his he will call a name another<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.14|<< Isaiah 65:14]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.16|Isaiah 65:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will leave  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הִנַּחְתֶּ֨ם</big></span><small><sup>[[H5117]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hi.nach.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name your  | <span class="ashebrew"><big>שִׁמְ</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>כֶ֤ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| shim.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a curse  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שְׁבוּעָה֙</big></span><small><sup>[[H7621]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> sh.vu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to chosen ones my  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְחִירַ֔</big></span><small><sup>[[H0972]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> v.chi.Ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will put to death you  | <span class="ashebrew"><big>וֶ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֱמִיתְ</big></span><small><sup>[[H4191]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> he.mi.te.<small><sup>[[HVhq3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוִ֑ה</big></span><small><sup>[[H3069]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<to> servants his  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֲבָדָ֥י</big></span><small><sup>[[H5650]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will call  | <span class="ashebrew"><big>יִקְרָ֖א</big></span><small><sup>[[H7121H]]</sup></small> &#8207;| yik.Ra'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a name  | <span class="ashebrew"><big>שֵׁ֥ם</big></span><small><sup>[[H8034]]</sup></small> &#8207;| shem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| another  | <span class="ashebrew"><big>אַחֵֽר</big></span><small><sup>[[H0312]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Cher<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.14|<< Isaiah 65:14]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.16|Isaiah 65:16 >>]]</td></tr></table>
+
+

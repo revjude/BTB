@@ -1,0 +1,25 @@
+**Isaiah 59:3** 
+<small><sub>**KJV:**</sub></small>
+For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness.
+<small><sub>**BSB:**</sub></small>
+For your hands are stained with blood, and your fingers with iniquity; your lips have spoken lies, and your tongue mutters injustice.
+<small><sub>**Literal:**</sub></small>
+for hands  your they are defiled with \<the>  blood and  fingers  your with \<the>  iniquity lips  your they have spoken falsehood tongue  your injustice it mutters<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.2|<< Isaiah 59:2]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.4|Isaiah 59:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands your  | <span class="ashebrew"><big>כַפֵּי</big></span><small><sup>[[H3709G]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| kha.pei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are defiled  | <span class="ashebrew"><big>נְגֹאֲל֣וּ</big></span><small><sup>[[H1351]]</sup></small> &#8207;| ne.go.'a.Lu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> blood  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דָּ֔ם</big></span><small><sup>[[H1818]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and fingers your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶצְבְּעוֹתֵי</big></span><small><sup>[[H0676]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'etz.be.'o.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> iniquity  | <span class="ashebrew"><big>בֶּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עָוֹ֑ן</big></span><small><sup>[[H5771G]]</sup></small> &#8207;| be.<small><sup>[[HRd]]</sup></small> 'a.Von<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lips your  | <span class="ashebrew"><big>שִׂפְתֽוֹתֵי</big></span><small><sup>[[H8193G]]</sup></small> <span class="ashebrew"><big>כֶם֙</big></span><small><sup>[[H9026]]</sup></small> &#8207;| sif.to.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have spoken  | <span class="ashebrew"><big>דִּבְּרוּ</big></span><small><sup>[[H1696G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| di.be.ru-<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  | <span class="ashebrew"><big>שֶׁ֔קֶר</big></span><small><sup>[[H8267]]</sup></small> &#8207;| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tongue your  | <span class="ashebrew"><big>לְשׁוֹנְ</big></span><small><sup>[[H3956G]]</sup></small> <span class="ashebrew"><big>כֶ֖ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| le.shon.<small><sup>[[HNcbsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| injustice  | <span class="ashebrew"><big>עַוְלָ֥ה</big></span><small><sup>[[H5766B]]</sup></small> &#8207;| 'av.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it mutters  | <span class="ashebrew"><big>תֶהְגֶּֽה</big></span><small><sup>[[H1897]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| teh.Geh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.2|<< Isaiah 59:2]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.4|Isaiah 59:4 >>]]</td></tr></table>
+
+

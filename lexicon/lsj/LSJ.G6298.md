@@ -1,0 +1,9 @@
+<span class="asgreek">ἀναξηραίνω</span> <small>***(anaxērainō)***</small> ==**to dry up**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀναξηραίνω==</span>-<span class='asgreek'>αίνω</span></b>, 
+
+
+ <i>future</i> -<span class='asgreek'>ᾰνῶ</span>: <i>aorist</i> <span class='asgreek'>ἀνέξηρᾱνα</span>, <i>Ionic dialect</i> -<span class='asgreek'>ηνα</span>, <i>Epic dialect</i> <i>subjunctive</i> <span class='asgreek'>ἀγξηράνῃ</span>:— <b>dry up,</b> <span class='asgreek'>ὡς</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ὅτ᾽</span> <span class='asgreek'>ὀπωρινὸς</span> <span class='asgreek'>Βορέης</span>.. <span class='asgreek'>ἀλωὴν</span> <span class='asgreek'>αἶψ᾽</span> <span class='asgreek'>ἀγξηράνῃ</span>[<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 21.347">Refs 8th c.BC+</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>ὑποζύγια</span> <span class='asgreek'>ἀρδόμενα</span> <span class='asgreek'>ἀνεξήρηνε</span> [<span class='asgreek'>τὴν</span> <span class='asgreek'>λίμνην</span>] [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.109">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Aër.” 8, 3rd c.BC: Phylarchus Historicus 50, 1st c.AD: Philo Judaeus 2.511, etc. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>consume, exhaust,</b> <span class='asgreek'>οἶκον</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ὀδόντες</span>[<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Hymnus in Cererem” 114. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>dry again,</b> after bathing, in <i>passive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ διαίτης ὀξέων” 65.">Refs 5th c.BC+</a>]

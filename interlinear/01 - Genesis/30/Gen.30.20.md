@@ -1,0 +1,32 @@
+**Genesis 30:20** 
+<small><sub>**KJV:**</sub></small>
+And Leah said, God hath endued me [with] a good dowry; now will my husband dwell with me, because I have born him six sons: and she called his name Zebulun.
+<small><sub>**BSB:**</sub></small>
+“God has given me a good gift,” she said. “This time my husband will honor me, because I have borne him six sons.” And she named him Zebulun.
+<small><sub>**Literal:**</sub></small>
+and  she said Leah he has endowed  me God \<obj.>  me an endowment good this  time he will honor  me husband  my for I have borne to \<the>  him six sons and  she called \<obj.> name  his Zebulun<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.19|<< Genesis 30:19]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.21|Genesis 30:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּ֣אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Leah  | <span class="ashebrew"><big>לֵאָ֗ה</big></span><small><sup>[[H3812]]</sup></small> &#8207;| le.'Ah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has endowed me  | <span class="ashebrew"><big>זְבָדַ֨</big></span><small><sup>[[H2064]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| ze.va.Da.<small><sup>[[HVqp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱלֹהִ֥ים</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> me  | <span class="ashebrew"><big>אֹתִ</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>י֮</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an endowment  | <span class="ashebrew"><big>זֵ֣בֶד</big></span><small><sup>[[H2065]]</sup></small> &#8207;| Ze.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  | <span class="ashebrew"><big>טוֹב֒</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| tOv<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this time  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פַּ֙עַם֙</big></span><small><sup>[[H6471]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Pa.'am<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will honor me  | <span class="ashebrew"><big>יִזְבְּלֵ֣</big></span><small><sup>[[H2082]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| yiz.be.Le.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| husband my  | <span class="ashebrew"><big>אִישִׁ֔</big></span><small><sup>[[H0376H]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'i.Sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have borne  | <span class="ashebrew"><big>יָלַ֥דְתִּי</big></span><small><sup>[[H3205]]</sup></small> &#8207;| ya.Lad.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  | <span class="ashebrew"><big>ל֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  | <span class="ashebrew"><big>שִׁשָּׁ֣ה</big></span><small><sup>[[H8337]]</sup></small> &#8207;| shi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons  | <span class="ashebrew"><big>בָנִ֑ים</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she called  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּקְרָ֥א</big></span><small><sup>[[H7121H]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tik.Ra'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  | <span class="ashebrew"><big>שְׁמ֖</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zebulun  | <span class="ashebrew"><big>זְבֻלֽוּן</big></span><small><sup>[[H2074]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ze.vu.Lun<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.19|<< Genesis 30:19]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.21|Genesis 30:21 >>]]</td></tr></table>
+
+

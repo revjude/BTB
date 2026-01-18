@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==πλινθεῖον==</span>-<span class='asgreek'>εῖον</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ <b>brickworks,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 283, 5th c.BC: Lysias Orator “Fragmenta” 161 5th c.BC: Sophocles Tragicus, LXX.2Kgs.12.31. ">LXX+5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>oblong case,</b> <span class='asgreek'>φιάλαι</span>.. <span class='asgreek'>ἐμ</span> <span class='asgreek'>==πλινθεῖον==είοις</span>, <span class='asgreek'>φιάλη</span>.. <span class='asgreek'>ἐμ</span> <span class='asgreek'>==πλινθεῖον==είῳ</span>, [<a href="javascript:void(0)" title=" “IG” 11(2).161 B 12,63,66(Delos, 3rd c.BC), “Inscription Délos” 396 B 55,461 “Bb” 14 (2nd c.BC)">Refs 3rd c.BC+</a>]; <span class='asgreek'>φιάλαι</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>==πλινθεῖον==είων</span> <span class='asgreek'>ἐξῃρημέναι</span> [<a href="javascript:void(0)" title="[prev. work]399 B 15, 442 B 15 (2nd c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>φιάλας</span> <span class='asgreek'>ἐμ</span> <span class='asgreek'>==πλινθεῖον==είῳ</span> <span class='asgreek'>τρεῖς</span> [<a href="javascript:void(0)" title=" “IG” 11(2).199 B 71 (Delos, 3rd c.BC)">Refs 3rd c.BC+</a>]; <span class='asgreek'>στέφανος</span> <span class='asgreek'>χρυσοῦς</span> <span class='asgreek'>ἐπιγραφὴν</span> <span class='asgreek'>ἔχων</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title="[prev. work]208.13, 287 B 9 (3rd c.BC). ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>block</b> of houses, [<a href="javascript:void(0)" title=" “PRein.” 49.11 (3rd c.AD), etc.">Refs 3rd c.AD+</a>]; <b>rectangular plan</b> of land, [<a href="javascript:void(0)" title=" “PLille” 1.8 (3rd c.BC). ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>frame</b> of a panel, [<a href="javascript:void(0)" title=" “IG” 11(2).165.22,32 (Delos, 3rd c.BC, \_plural\_)">Refs 3rd c.BC+</a>]; window-<b>frame</b> or <b>-casing,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Zenon Papyri du Caire 663.10 (3rd c.BC, \_plural\_)">Refs 3rd c.BC+</a>]; <span class='asgreek'>==πλινθεῖον==εῖα</span>.. <span class='asgreek'>τοῖς</span> <span class='asgreek'>πύργοις</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>Ἐλευσῖνι</span> [<a href="javascript:void(0)" title=" “IG” 22.1672.203. ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Kgs.12.31]]
+</sub></small>

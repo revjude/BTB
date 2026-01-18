@@ -1,0 +1,24 @@
+**Proverbs 24:14** 
+<small><sub>**KJV:**</sub></small>
+So [shall] the knowledge of wisdom [be] unto thy soul: when thou hast found [it], then there shall be a reward, and thy expectation shall not be cut off.
+<small><sub>**BSB:**</sub></small>
+Know therefore that wisdom is sweet to your soul. If you find it, there is a future for you, and your hope will never be cut off.
+<small><sub>**Literal:**</sub></small>
+thus know  ! wisdom for  self  your if you find [it] and  there [is] a future and  hope  your not it will be cut off<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.13|<< Proverbs 24:13]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.15|Proverbs 24:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| thus  | <span class="ashebrew"><big>כֵּ֤ן</big></span><small><sup>[[H3651C]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| know !  | <span class="ashebrew"><big>דְּעֶ֥</big></span><small><sup>[[H3045]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| de.'E<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  | <span class="ashebrew"><big>חָכְמָ֗ה</big></span><small><sup>[[H2451]]</sup></small> &#8207;| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for self your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נַ֫פְשֶׁ֥</big></span><small><sup>[[H5315G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Naf.She.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you find [it]  | <span class="ashebrew"><big>מָ֭צָאתָ</big></span><small><sup>[[H4672]]</sup></small> &#8207;| Ma.tza.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יֵ֣שׁ</big></span><small><sup>[[H3426]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Yesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a future  | <span class="ashebrew"><big>אַחֲרִ֑ית</big></span><small><sup>[[H0319]]</sup></small> &#8207;| 'a.cha.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and hope your  | <span class="ashebrew"><big>וְ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תִקְוָתְ</big></span><small><sup>[[H8615B]]</sup></small> <span class="ashebrew"><big>ךָ֗</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tik.va.te.<small><sup>[[HNcfsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be cut off  | <span class="ashebrew"><big>תִכָּרֵֽת</big></span><small><sup>[[H3772I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| ti.ka.Ret<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.13|<< Proverbs 24:13]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.15|Proverbs 24:15 >>]]</td></tr></table>
+
+

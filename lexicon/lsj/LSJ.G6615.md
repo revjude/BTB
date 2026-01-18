@@ -1,0 +1,11 @@
+<span class="asgreek">ἀφαγνίζω</span> <small>***(aphagnizō)***</small> ==**to purify**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀφαγνίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <i>future</i> <b>-<span class='asgreek'>ιῶ</span></b>[<a href="javascript:void(0)" title=" LXX.Lev.14.52">LXX</a>]: <i>aorist</i> <b>-<span class='asgreek'>ήγνισα</span></b>[<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 2.31.8, LXX.Lev.14.49">LXX+2nd c.AD+</a>]:—<i>middle</i>, <i>future</i> <b>-<span class='asgreek'>ιοῦμαι</span></b>[<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Morb.Sacr.” I">Refs 5th c.BC+</a>]: <i>aorist</i> <b>-<span class='asgreek'>ηγνισάμην</span></b>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Alcestis” 1146">Refs 5th c.BC+</a>]:—<i>passive</i>, <i>future</i> <b>-<span class='asgreek'>αγνισθήσομαι</span></b>[<a href="javascript:void(0)" title=" LXX.Num.19.19: ">LXX</a>]<i>aorist</i> -<span class='asgreek'>ηγνίσθην</span>[<a href="javascript:void(0)" title=" [prev. work] 19.12">Refs</a>]:—<b>purify, consecrate,</b> <span class='asgreek'>χθόνα</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus in “Gött.Nachr.” 1922.9, 2nd c.AD: Pausanias Periegeta 2.31.8; πυρκαϊὴν χρὴ ==ἀφαγνίζω==ίσαι.. οἴνῳ “epigram Gr.” 1034.28 (from Thrace)">Refs 5th c.BC+</a>]:—<i>middle</i>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>νερτέροις</span> <span class='asgreek'>θεοῖς</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Alcestis” 1146, compare 5th c.AD(?): Hesychius Legal icographus, 10th c.AD: Suidas Legal icographus ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==ἀφαγνίζω==ίσας</span>· <span class='asgreek'>ἀποδύσας</span>, <span class='asgreek'>συλήσας</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Lev.14.52]] ☩ [[Lev.14.49]] ☩ [[Num.19.19]]
+</sub></small>

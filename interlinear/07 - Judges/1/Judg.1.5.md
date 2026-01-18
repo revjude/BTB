@@ -1,0 +1,25 @@
+**Judges 1:5** 
+<small><sub>**KJV:**</sub></small>
+And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites.
+<small><sub>**BSB:**</sub></small>
+And there they found Adoni-bezek and fought against him, striking down the Canaanites and Perizzites.
+<small><sub>**Literal:**</sub></small>
+and  they found \<obj.> Adoni- Bezek at  Bezek and  they fought against \<the>  him and  they defeated \<obj.> the  Canaanite[s] and  \<obj.> the  Perizzite[s]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.4|<< Judges 1:4]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.6|Judges 1:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they found  | <span class="ashebrew"><big>וַֽ֠</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּמְצְאוּ</big></span><small><sup>[[H4672]]</sup></small> &#8207;| Va<small><sup>[[Hc]]</sup></small> i.yim.tze.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Adoni-  | <span class="ashebrew"><big>אֲדֹנִ֥י</big></span><small><sup>[[H0137]]</sup></small> &#8207;| 'a.do.Ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bezek  | <span class="ashebrew"><big>בֶ֙זֶק֙</big></span><small><sup>[[H0137]]</sup></small> &#8207;| ve.zek<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at Bezek  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>בֶ֔זֶק</big></span><small><sup>[[H0966G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ve.zek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they fought  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּֽלָּחֲמ֖וּ</big></span><small><sup>[[H3898A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.la.cha.Mu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against \<the> him  | <span class="ashebrew"><big>בּ֑</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| b<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they defeated  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּכּ֕וּ</big></span><small><sup>[[H5221]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Ku<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Canaanite[s]  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כְּנַעֲנִ֖י</big></span><small><sup>[[H3669A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ke.na.'a.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Perizzite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פְּרִזִּֽי</big></span><small><sup>[[H6522]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> pe.ri.Zi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.4|<< Judges 1:4]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.6|Judges 1:6 >>]]</td></tr></table>
+
+

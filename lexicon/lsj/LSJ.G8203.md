@@ -1,0 +1,13 @@
+<span class="asgreek">λίπασμα</span> <small>***(lipasma)***</small> ==**fatness**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==λίπασμα==</span>-<span class='asgreek'>ασμα</span></b> [<span class='asgreek'>ῐ</span>], <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ <b>a greasy form of ulceration</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ τροφῆς” 16, 1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD: Oribasius Medicus 46.22.14, 2nd c.AD: Galenus Medicus 15.316. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>a fattening substance</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.771b, LXX.Neh.8.10 (\_plural\_). ">LXX+1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>salve</b>, [<a href="javascript:void(0)" title=" 4th c.AD(?): Manetho Astrologus 4.345. ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>==λίπασμα==ασμα</span> <span class='asgreek'>ὀφθαλμῶν</span> <b>a glistening</b>, i.e. a tear, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus cited in 2nd c.AD: Cleomedes Astronomus 2.1 (p.89 U.). ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Neh.8.10]]
+</sub></small>

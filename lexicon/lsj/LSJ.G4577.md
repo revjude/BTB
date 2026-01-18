@@ -1,0 +1,19 @@
+
+<b> <span class='asgreek'>==σειρά==</span></b>, 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>σειρή</span></b>, <i>Doric dialect</i> <b><span class='asgreek'>σηρά</span></b> [<a href="javascript:void(0)" title=" 4th-5th c.AD: Choeroboscus Grammaticus in “Anecdota Graeca - MSS. Bibl. Oxon.” 2.260, “Etymologicum Gudianum” 497.47 ">Refs 4th c.AD+</a>]: <span class='asgreek'>ἡ</span>:— <b>cord, rope</b>, <span class='asgreek'>==σειρά==ς</span> <span class='asgreek'>τ᾽</span> <span class='asgreek'>εὐπλέκτους</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 23.115; σειρὴν δὲ πλεκτήν 8th c.BC: Odyssea Homerus Epicus “Odyssey” 22.175 ">Refs 8th c.BC+</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>χρυσείη</span> <b>cord</b> of gold, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 8.19, compare 5th-6th c.BC: Plato Philosophus “Theaetetus” 153c: \_metaphorically\_, σειραῖς.. ἁμαρτιῶν σφίγγεται LXX.Prov.5.22 ">LXX+8th c.BC+</a>]; <span class='asgreek'>σειραὶ</span> <span class='asgreek'>ζόφου</span> variant in [<a href="javascript:void(0)" title=" NT.2Pet.2.4: see also σαύρα IV. ">NT</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>trace</b> (compare <span class='asgreek'>σειραφόρος</span>), [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 1.141. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>cord</b> or <b>line with a noose, lasso</b>, used by the Sagartians and Sarmatians, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.85, 2nd c.AD: Pausanias Periegeta 1.21.5: hence the Parthians are called σειραφόροι, 10th c.AD: Suidas Legal icographus ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> a bandage, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(1).777">Refs 2nd c.AD+</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>μονομερής</span>, <span class='asgreek'>διμερής</span>, <span class='asgreek'>κτλ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus “de fasciis - Opera Hippocratis et Galeni” 23, 24, +others ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>βίρρου</span>,= <b>cimussatio</b> (probably <b>edge, border</b>), [<a href="javascript:void(0)" title="Dosith. p.435K. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i> of an animal's <b>tail</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Theriaca” 119, 385. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>σειραὶ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>κεφαλῆς</span> <b>locks</b> of hair, [<a href="javascript:void(0)" title=" LXX.Judg.16.13; σ. τριχῶν 2nd c.AD(?): Pollianus Epigrammaticus 2.30. ">LXX+2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> <i>metaphorically</i>, <b>line, lineage</b>, Tz.ad [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 481, Scholia 8th c.BC: Ilias Homerus Epicus “Illiad” 1.176. ">Refs 8th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_V</b> <b>series</b>, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 45, 95. ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_VI</b> <i>plural</i>, <b>a disease of horses,</b> [<a href="javascript:void(0)" title=" Hippiatr. 52. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_VII</b> <b>the front part of the perineum</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 6.34. ">Refs 6th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Prov.5.22]] ☩ [[2Pet.2.4]] ☩ [[Judg.16.13]]
+</sub></small>

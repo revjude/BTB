@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==σπίλος==</span></b> [<span class='asgreek'>ῐ</span>], <span class='asgreek'>ὁ</span>, 
+
+ 
+$\quad$ ****<b>\_\_B</b> <b>spot, fleck, blemish</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 16, 1st c.BC: Dorio Rerum Naturalium Scriptor cited in 2nd c.AD: Athenaeus Epigrammaticus 7.297c; σ. αἵματος 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 13.11.3 (\_plural\_)">Refs 5th c.BC+</a>]; on the moon, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.921f; on the face or body, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.33, 2nd c.AD: Lucianus Sophista “Am.” 15, 2nd c.AD: Artemidorus Daldianus Onirocriticus 5.67, 4th c.AD: Libanius Sophista “Declamationes” 26.19, “Geoponica” 12.26.2">Refs 1st c.AD+</a>]: <i>metaphorically</i>, <b>stain</b> of impurity or vice, [<a href="javascript:void(0)" title=" Lysis Philosophus cited in 4th c.AD: Iamblichus Philosophus “de vita Pythagorica” 17.76, NT.Eph.5.27 ">NT+4th c.AD+</a>]; of persons, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 4.24 (conjecture), NT.2Pet.2.13. (\_Attic dialect\_ use κηλίς \_accusative\_ to 2nd c.AD: Phrynichus Atticista 21.) [σπῖλος">NT+1st c.BC+</a>] Hdn.Gr.2.920; but <span class='asgreek'>ῐ</span> in the equivalent <span class='asgreek'>σπιλάς</span> (B) and in the <i>compound</i> <span class='asgreek'>ἄσπιλος</span>.]
+
+<small><sub>LSJ Scripture Refs: [[Eph.5.27]] ☩ [[2Pet.2.13]]
+</sub></small>

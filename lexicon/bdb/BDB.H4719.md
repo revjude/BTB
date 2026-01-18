@@ -1,0 +1,8 @@
+ <span class="bdbLangHebrew">‎מַקֵּדָה‎</span> **proper name, of a location** ==in Judah== [[Josh.15.41|Josh 15:41]], near Beth Horon [[Josh.10.10|Josh 10:10]], and Libnah v[[Josh.10.29|Josh 10:29]], where was a cave v[[Josh.10.16|Josh 10:16]] v[[Josh.10.17|Josh 10:17]], compare v[[Josh.10.21|Josh 10:21]], captured by Joshua v[[Josh.10.28|Josh 10:28]], with a king v[[Josh.10.28|Josh 10:28]]; [[Josh.12.16|Josh 12:16]]. [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Μακηδα</span>. Site dubious, Warren;Survey Mem.ii. 411 ff., 427 compare ***El-mughâr***, approximately 2 3/4 miles southwest from Ekron. <span class="bdbLangHebrew">‎מִקְדָּשׁ‎</span> see  <span class="bdbLangHebrew">‎קדשׁ‎</span>. <span class="bdbLangHebrew">‎מַקְהֵלִים‎</span>, I, II. <span class="bdbLangHebrew">‎מַקְהֵלֹת‎</span> vide <span class="bdbLangHebrew">‎קהל‎</span>. <span class="bdbLangHebrew">‎מִקְוֶא‎</span>, I, II. <span class="bdbLangHebrew">‎מִקְוֶה‎</span>, <span class="bdbLangHebrew">‎מִקְרָה‎</span> see  <span class="bdbLangHebrew">‎קוה‎</span>. <span class="bdbLangHebrew">‎מָקוֺם‎</span> see  <span class="bdbLangHebrew">‎קוּם‎</span>. <span class="bdbLangHebrew">‎מָקוֺר‎</span> see  <span class="bdbLangHebrew">‎קור‎</span>. [<span class="bdbLangHebrew">‎מִקָּח‎</span>, <span class="bdbLangHebrew">‎מִקָּחָה‎</span>] see  <span class="bdbLangHebrew">‎לקח‎</span> [<span class="bdbLangHebrew">‎מִקְטָר‎</span>], <span class="bdbLangHebrew">‎מִקְטֶ֫רֶת‎</span> see  <span class="bdbLangHebrew">‎קטר‎</span> 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Joshua | [[Josh.10.10\|10:10]] · [[Josh.10.16\|10:16]] · [[Josh.10.17\|10:17]] · [[Josh.10.21\|10:21]] · [[Josh.10.28\|10:28]] · [[Josh.10.29\|10:29]] · [[Josh.12.16\|12:16]] · [[Josh.15.41\|15:41]] |
+

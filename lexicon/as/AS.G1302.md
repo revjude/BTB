@@ -1,0 +1,1 @@
+<span class="asform"><span class="asgreek"><span class="asbold">δια-τί </span></span>, T, Rec. for <span class="asgreek">διὰ τί</span>, v.s. <span class="asref"><span class="asgreek">διά</span> <small><sup>[[G1223]]</sup></small></span>. </span>

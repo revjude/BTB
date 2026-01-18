@@ -1,0 +1,13 @@
+<big><span class="ashebrew">‎חָדַל‎</span></big> **châdal** <small>*(khaw-dal')*</small> ==**to cease**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root</small>
+
+$\quad$ cease, end, fall, forbear, forsake, leave (off), let alone, rest, be unoccupied, want.
+- properly, ***to be flabby***, i.e. (by implication) ***desist***
+-  (figuratively) ***be lacking*** or ***idle***
+
+**1)** to stop, cease, desist, forego, cease to be, leave undone, forbear
+$\quad$ **1a)** (Qal)
+$\quad$ $\quad$ **1a1)** to cease, come to an end
+$\quad$ $\quad$ **1a2)** to cease, leave off
+
+<sub><small>See Greek: </small></sub><span class="asgreek">ἀνίημι</span><sup><small>[[G0447]]</small></sup> · <span class="asgreek">ἀπειθέω</span><sup><small>[[G0544]]</small></sup> · <span class="asgreek">ἀπειπόμην</span><sup><small>[[G0550]]</small></sup> · <span class="asgreek">ἀπέχει</span><sup><small>[[G0566]]</small></sup> · <span class="asgreek">ἀπέχομαι</span><sup><small>[[G0567]]</small></sup> · <span class="asgreek">ἀπέχω</span><sup><small>[[G0568]]</small></sup> · <span class="asgreek">ἀπολείπω</span><sup><small>[[G0620]]</small></sup> · <span class="asgreek">ἀφίημι</span><sup><small>[[G0863]]</small></sup> · <span class="asgreek">ἀφίστημι</span><sup><small>[[G0868]]</small></sup> · <span class="asgreek">βούλημα</span><sup><small>[[G1013]]</small></sup> · <span class="asgreek">διαλείπω</span><sup><small>[[G1257]]</small></sup> · <span class="asgreek">δύναμαι</span><sup><small>[[G1410]]</small></sup> · <span class="asgreek">ἐάω</span><sup><small>[[G1439]]</small></sup> · <span class="asgreek">ἐκκαίω</span><sup><small>[[G1572]]</small></sup> · <span class="asgreek">ἐκλείπω</span><sup><small>[[G1587]]</small></sup> · <span class="asgreek">ἐκφεύγω</span><sup><small>[[G1628]]</small></sup> · <span class="asgreek">ἐπέχω</span><sup><small>[[G1907]]</small></sup> · <span class="asgreek">ἡσυχάζω</span><sup><small>[[G2270]]</small></sup> · <span class="asgreek">θέλω</span><sup><small>[[G2309]]</small></sup> · <span class="asgreek">κοπάζω</span><sup><small>[[G2869]]</small></sup> · <span class="asgreek">κοπιάω</span><sup><small>[[G2872]]</small></sup> · <span class="asgreek">παρέρχομαι</span><sup><small>[[G3928]]</small></sup> · <span class="asgreek">παρίημι</span><sup><small>[[G3935]]</small></sup> · <span class="asgreek">παύω</span><sup><small>[[G3973]]</small></sup> · <span class="asgreek">προσέχω</span><sup><small>[[G4337]]</small></sup> · <span class="asgreek">σιωπάω</span><sup><small>[[G4623]]</small></sup> · <span class="asgreek">ὑστερέω</span><sup><small>[[G5302]]</small></sup>

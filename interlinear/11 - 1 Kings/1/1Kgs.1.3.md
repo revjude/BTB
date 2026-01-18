@@ -1,0 +1,26 @@
+**1 Kings 1:3** 
+<small><sub>**KJV:**</sub></small>
+So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the king.
+<small><sub>**BSB:**</sub></small>
+Then they searched throughout Israel for a beautiful girl, and they found Abishag the Shunammite and brought her to the king.
+<small><sub>**Literal:**</sub></small>
+and  they sought a young woman beautiful in  all [the] territory of Israel and  they found \<obj.> Abishag the  Shunammite and  they brought \<obj.>  her to the  king<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.2|<< 1 Kings 1:2]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.4|1 Kings 1:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they sought  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְבַקְשׁוּ֙</big></span><small><sup>[[H1245]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.vak.Shu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a young woman  | <span class="ashebrew"><big>נַעֲרָ֣ה</big></span><small><sup>[[H5291]]</sup></small> &#8207;| na.'a.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beautiful  | <span class="ashebrew"><big>יָפָ֔ה</big></span><small><sup>[[H3303]]</sup></small> &#8207;| ya.Fah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כֹ֖ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] territory of  | <span class="ashebrew"><big>גְּב֣וּל</big></span><small><sup>[[H1366H]]</sup></small> &#8207;| ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֑ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they found  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּמְצְא֗וּ</big></span><small><sup>[[H4672]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yim.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abishag  | <span class="ashebrew"><big>אֲבִישַׁג֙</big></span><small><sup>[[H0049]]</sup></small> &#8207;| 'a.vi.Shag<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Shunammite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שּׁ֣וּנַמִּ֔ית</big></span><small><sup>[[H7767]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Shu.na.Mit<small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they brought  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּבִ֥אוּ</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Vi.'u<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> her  | <span class="ashebrew"><big>אֹתָ֖</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the king  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֶּֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.2|<< 1 Kings 1:2]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.4|1 Kings 1:4 >>]]</td></tr></table>
+
+

@@ -1,0 +1,27 @@
+**1 Chronicles 7:10** 
+<small><sub>**KJV:**</sub></small>
+The sons also of Jediael; Bilhan: and the sons of Bilhan; Jeush, and Benjamin, and Ehud, and Chenaanah, and Zethan, and Tharshish, and Ahishahar.
+<small><sub>**BSB:**</sub></small>
+The son of Jediael: Bilhan. The sons of Bilhan: Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar.
+<small><sub>**Literal:**</sub></small>
+and  [the] sons of Jediael Bilhan and  [the] sons of Bilhan Jeush and  Benjamin and  Ehud and  Kenaanah and  Zethan and  Tarshish and  Ahishahar<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.9|<< 1 Chronicles 7:9]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.11|1 Chronicles 7:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] sons of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵ֥י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jediael  | <span class="ashebrew"><big>יְדִיעֲאֵ֖ל</big></span><small><sup>[[H3043G]]</sup></small> &#8207;| ye.di.'a.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bilhan  | <span class="ashebrew"><big>בִּלְהָ֑ן</big></span><small><sup>[[H1092H]]</sup></small> &#8207;| bil.Han<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sons of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵ֣י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bilhan  | <span class="ashebrew"><big>בִלְהָ֗ן</big></span><small><sup>[[H1092H]]</sup></small> &#8207;| vil.Han<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeush  [^1] | <span class="ashebrew"><big>יְע֡וּשׁ</big></span><small><sup>[[H3266H]]</sup></small> &#8207;[^2] | ye.'ush<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| and Benjamin  | <span class="ashebrew"><big>וּ֠</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בִנְיָמִן</big></span><small><sup>[[H1144H]]</sup></small> &#8207;| U.<small><sup>[[HC]]</sup></small> vin.ya.min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ehud  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵה֤וּד</big></span><small><sup>[[H0164H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'e.Hud<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Kenaanah  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְנַעֲנָה֙</big></span><small><sup>[[H3668H]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.na.'a.Nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Zethan  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זֵיתָ֔ן</big></span><small><sup>[[H2133]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> zei.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Tarshish  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תַרְשִׁ֖ישׁ</big></span><small><sup>[[H8659I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tar.Shish<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ahishahar  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲחִישָֽׁחַר</big></span><small><sup>[[H0300]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.chi.Sha.char<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.9|<< 1 Chronicles 7:9]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.11|1 Chronicles 7:11 >>]]</td></tr></table>
+
+[^1]: ==K==: **Jeish ** | <small><sup>[[H3274]]</sup></small><span class="ashebrew"><big>יְעִישׁ</big></span>  | ye.'ish<small><sup>[[HNpm]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>יְע֡יּשׁ</big></span>**
+

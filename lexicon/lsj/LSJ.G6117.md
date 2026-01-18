@@ -1,0 +1,18 @@
+<span class="asgreek">ἀγκύλη</span> <small>***(agkulē)***</small> ==**a loop**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀγκύλη==</span>-<span class='asgreek'>η</span></b> [<span class='asgreek'>ῠ</span>], <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>ᾰγκος</span>) properly, like{<span class='asgreek'>ἀγκάλη</span>}, <b>bend of the arm</b> or <b>wrist,</b> <span class='asgreek'>ἀπ</span> <span class='asgreek'>==ἀγκύλη==ης</span> <span class='asgreek'>ἱέναι</span>, a phrase descriptive of the way in which the cottabus was thrown, [<a href="javascript:void(0)" title=" 5th c.BC: Bacchylides Lyricus “fragment” 13.2, compare 5th c.AD(?): Hesychius Legal icographus; ἀπ ==ἀγκύλη==ης ζησι λάταγας 5th c.BC: Cratinus Comicus 273">Refs 5th c.BC+</a>]; wrongly explanation as <b>cup,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 11.782d. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>bend of the knee, ham,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 2.6, Scholia 8th c.BC: Ilias Homerus Epicus “Illiad” 23.726. ">Refs 8th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>joint bent and stiffened by disease,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ὑγρῶν χρήσιος” 6, compare 2nd c.AD(?): Pollianus Epigrammaticus 4.196. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>loop, noose,</b> <span class='asgreek'>πλεκτὰς</span> <span class='asgreek'>==ἀγκύλη==ας</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 1408">Refs 5th c.BC+</a>]; in the leash of a hound, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 6.1; in bandages, 2nd c.AD: Galenus Medicus 18(1).790; in torsion-engines, 2nd-1st c.BC(?): Hero Mechanicus “Belopoeica” 83.1. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>thong of a javelin,</b> by which it was hurled, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 4.4.3">Refs 1st c.BC+</a>]; hence, <b>the javelin</b> itself, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Orestes” 1476, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Philopoemen” 6; δι᾽ ἀγκυλῶν ἱππόται 4th c.AD: Themistius Sophista “Orationes” 21.256d. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>bow-string,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>χρυσόστροΦοι</span>[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 203. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>==ἀγκύλη==η</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἐμβάδος</span> sandal-<b>thong,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Alexander Rhetor 31. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>curtain-ring, hook,</b> [<a href="javascript:void(0)" title=" LXX.Exod.38.18 (36.34), +others">LXX</a>]; <b>hook</b> for a door, [<a href="javascript:void(0)" title=" “IG” 11(2).165.11, +others (Delos, 3rd c.BC). ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>sides of the</b> <span class='asgreek'>κεραία</span>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 1.91.">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.38.18]]
+</sub></small>

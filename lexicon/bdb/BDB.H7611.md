@@ -1,0 +1,28 @@
+ <span class="bdbLangHebrew">‎שְׁאֵרִית‎</span> **noun feminine** ==rest, residue, remnant, remainder== ( = <span class="bdbLangHebrew">‎שָׁאָר‎</span>); — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> absolute [[2Sam.14.7|2Sam 14:7]] +, construct [[Ezek.36.3|Ezek 36:3]] +, <span class="bdbLangHebrew">‎שֵׁרִית‎</span> ([[BDB#Ges|Ges]]<sup>«GKC:23f»§ 23f</sup>) [[1Chr.12.39|1Chr 12:39]] ([[BDB#van d.H.|van d. H.]] v.[[1Chr.12.38|1Chr 12:38]]); suffix <span class="bdbLangHebrew">‎שְׁאֵרִיתֵךְ‎</span> [[Isa.14.30|Isa 14:30]]; [[Ezek.5.10|Ezek 5:10]], <span class="bdbLangHebrew">‎תוֺ‎</span>- [[Isa.44.17|Isa 44:17]], <span class="bdbLangHebrew">‎תָם‎</span>- [[Jer.15.9|Jer 15:9]] — 
+
+**1.** ***rest, what is left***, of wood [[Isa.44.17|Isa 44:17]], land [[Isa.15.9|Isa 15:9]] (\|\| <span class="bdbLangHebrew">‎פְּלֵיטָה‎</span>), [[Jer.47.4|Jer 47:4]]; [[Jer.47.5|Jer 47:5]]; [[Ezek.25.16|Ezek 25:16]] <span class="bdbLangHebrew">‎חֵמֹת‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> [[Ps.76.11|Ps 76:11]]is difficult ([[BDB#Gr|Gr]] [compare [[BDB#Che|Che]]] proposes <span class="bdbLangHebrew">‎חֲמָת‎</span> ***Hamath***, [[BDB#Du|Du]] <span class="bdbLangHebrew">‎אֻמֹּת‎</span> ***tribes***); ***rest*** of princes [[Jer.39.3|Jer 39:3]], of nations ( = the other nations, Toy) [[Ezek.36.3|Ezek 36:3]]; [[Ezek.36.4|Ezek 36:4]]; [[Ezek.36.5|Ezek 36:5]] of Israel [[1Chr.12.39|1Chr 12:39]] ([[BDB#van d.H.|van d. H.]] v.[[1Chr.12.38|1Chr 12:38]]), [[2Chr.34.9|2Chr 34:9]]; [[Neh.7.71|Neh 7:71]] ([[BDB#van d.H.|van d. H.]] v[[Neh.7.72|Neh 7:72]]); = last ***remnant*** of people, Philistines [[Amos.1.8|Amos 1:8]] (compare [[BDB#We|We]]), [[Isa.14.30|Isa 14:30]], Edom [[Amos.9.12|Amos 9:12]], Anathoth [[Jer.11.23|Jer 11:23]], Ashdod [[Jer.25.20|Jer 25:20]], Babylon [[Jer.50.26|Jer 50:26]], Amalek [[1Chr.4.43|1Chr 4:43]](+ <span class="bdbLangHebrew">‎הַפְּלֵיטָה‎</span>), Israel [[2Kgs.21.14|2Kgs 21:14]]; [[Jer.6.9|Jer 6:9]]; [[Jer.15.9|Jer 15:9]] ***remnant*** left after catastrophe [[Amos.5.15|Amos 5:15]]; [[Jer.8.3|Jer 8:3]]; [[Jer.24.8|Jer 24:8]]; [[Jer.40.11|Jer 40:11]]; [[Jer.40.15|Jer 40:15]]; [[Jer.41.10|Jer 41:10]]; [[Jer.41.16|Jer 41:16]]; [[Jer.42.2|Jer 42:2]]; [[Jer.42.15|Jer 42:15]]; [[Jer.42.19|Jer 42:19]]; [[Jer.43.5|Jer 43:5]]; [[Jer.44.12|Jer 44:12]]; [[Jer.44.14|Jer 44:14]]; [[Jer.44.28|Jer 44:28]]; [[Ezek.5.10|Ezek 5:10]]; [[Ezek.9.8|Ezek 9:8]]; [[Ezek.11.13|Ezek 11:13]]; [[Hag.1.12|Hag 1:12]]; [[Hag.1.14|Hag 1:14]]; [[Hag.2.2|Hag 2:2]], even <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְשַׂמְתִּי אֶתהַֿצֹּלֵעָה לִשׁ‎</span> [[Mic.4.7|Mic 4:7]] (as promise, \|\| <span class="bdbLangHebrew">‎עָצוּם‎</span> compare [[BDB#Gie|Gie]]<sup>Beiträge, 42f.</sup>); = survivors [[Jer.44.7|Jer 44:7]], <span class="bdbLangHebrew">‎מִןהַֿחֶרֶב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַשּׁ‎</span> [[2Chr.36.20|2Chr 36:20]] = faithful ***remnant*** of Israel or Judah (technical term of prophets, compare <span class="bdbLangHebrew">‎שְׁאָר‎</span> near the end), [[2Kgs.19.4|2Kgs 19:4]]=[[Isa.37.4|Isa 37:4]]; [[2Kgs.19.31|2Kgs 19:31]] (\|\| <span class="bdbLangHebrew">‎פְּלֵיטָה‎</span>) = [[Isa.37.32|Isa 37:32]] (\|\| ***id.***), [[Mic.2.12|Mic 2:12]]; [[Mic.5.6|Mic 5:6]]; [[Mic.5.7|Mic 5:7]]; [[Mic.7.18|Mic 7:18]];  (\|\| ***id.***), [[Isa.46.3|Isa 46:3]]; [[Jer.23.3|Jer 23:3]]; [[Jer.31.7|Jer 31:7]]; [[Zeph.2.7|Zeph 2:7]]; [[Zeph.2.9|Zeph 2:9]] (\|\| <span class="bdbLangHebrew">‎יֶתֶר‎</span>), [[Zeph.3.13|Zeph 3:13]]; [[Zech.8.6|Zech 8:6]]; [[Zech.8.11|Zech 8:11]]; [[Zech.8.12|Zech 8:12]]. 
+
+**2.** ***remainder*** = descendants ( = <span class="bdbLangHebrew">‎שְׁאָר‎</span> [[Isa.14.22|Isa 14:22]]): [[Gen.45.7|Gen 45:7]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שֵׁם וּשׁ‎</span> [[2Sam.14.7|2Sam 14:7]]. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.45.7\|45:7]] |
+| 2 Samuel | [[2Sam.14.7\|14:7]] |
+| 2 Kings | [[2Kgs.19.4\|19:4]] · [[2Kgs.19.31\|19:31]] · [[2Kgs.21.14\|21:14]] |
+| 1 Chronicles | [[1Chr.4.43\|4:43]] · [[1Chr.12.38\|12:38]] · [[1Chr.12.39\|12:39]] |
+| 2 Chronicles | [[2Chr.34.9\|34:9]] · [[2Chr.36.20\|36:20]] |
+| Nehemiah | [[Neh.7.71\|7:71]] · [[Neh.7.72\|7:72]] |
+| Psalms | [[Ps.76.11\|76:11]] |
+| Isaiah | [[Isa.14.22\|14:22]] · [[Isa.14.30\|14:30]] · [[Isa.15.9\|15:9]] · [[Isa.37.4\|37:4]] · [[Isa.37.32\|37:32]] · [[Isa.44.17\|44:17]] · [[Isa.46.3\|46:3]] |
+| Jeremiah | [[Jer.6.9\|6:9]] · [[Jer.8.3\|8:3]] · [[Jer.11.23\|11:23]] · [[Jer.15.9\|15:9]] · [[Jer.23.3\|23:3]] · [[Jer.24.8\|24:8]] · [[Jer.25.20\|25:20]] · [[Jer.31.7\|31:7]] · [[Jer.39.3\|39:3]] · [[Jer.40.11\|40:11]] · [[Jer.40.15\|40:15]] · [[Jer.41.10\|41:10]] · [[Jer.41.16\|41:16]] · [[Jer.42.2\|42:2]] · [[Jer.42.15\|42:15]] · [[Jer.42.19\|42:19]] · [[Jer.43.5\|43:5]] · [[Jer.44.7\|44:7]] · [[Jer.44.12\|44:12]] · [[Jer.44.14\|44:14]] · [[Jer.44.28\|44:28]] · [[Jer.47.4\|47:4]] · [[Jer.47.5\|47:5]] · [[Jer.50.26\|50:26]] |
+| Ezekiel | [[Ezek.5.10\|5:10]] · [[Ezek.9.8\|9:8]] · [[Ezek.11.13\|11:13]] · [[Ezek.25.16\|25:16]] · [[Ezek.36.3\|36:3]] · [[Ezek.36.4\|36:4]] · [[Ezek.36.5\|36:5]] |
+| Amos | [[Amos.1.8\|1:8]] · [[Amos.5.15\|5:15]] · [[Amos.9.12\|9:12]] |
+| Micah | [[Mic.2.12\|2:12]] · [[Mic.4.7\|4:7]] · [[Mic.5.6\|5:6]] · [[Mic.5.7\|5:7]] · [[Mic.7.18\|7:18]] |
+| Zephaniah | [[Zeph.2.7\|2:7]] · [[Zeph.2.9\|2:9]] · [[Zeph.3.13\|3:13]] |
+| Haggai | [[Hag.1.12\|1:12]] · [[Hag.1.14\|1:14]] · [[Hag.2.2\|2:2]] |
+| Zechariah | [[Zech.8.6\|8:6]] · [[Zech.8.11\|8:11]] · [[Zech.8.12\|8:12]] |
+

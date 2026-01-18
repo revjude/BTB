@@ -1,0 +1,13 @@
+<span class="asform"><span class="asgreek"><span class="asbold">σεμνός</span></span>, <span class="asgreek">-ή, -όν </span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">σέβομαι</span>), </span>  <span class="asseptuagint">\[in LXX: [[Prov.6.8|Pr 6:8]] [[Prov.8.6|8:6]] [[Prov.15.26|15:26]](<span class="ashebrew">נָגִיד</span> <small><sup>[[H5057]]</sup></small>,<span class="ashebrew">נֹעַם</span> <small><sup>[[H5278]]</sup></small>), [[2Macc.6.11|II Mac 6:11]], [[2Macc.6.28|6:28]] [[2Macc.8.15|8:15]], [[4Macc.5.36|IV Mac 5:36]] [[4Macc.7.15|7:15]] [[4Macc.17.5|17:5]] \* ;\] </span> </span>
+<span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">reverend, august, venerable</span>, in cl. of the gods and also of human beings.</span>
+<span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">grave, serious</span>; of persons: [[1Tim.3.8|I Ti 3:8]], [[1Tim.3.11|11]], [[Titus.2.2|Tit 2:2]]; of things: [[Phil.4.8|Phl 4:8]] (v. Tr., <span class="asitalic">Syn.</span>, § xcii; Cremer, 37; MM, xxii).†</span>
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Proverbs | [[Prov.6.8\|6:8]] · [[Prov.8.6\|8:6]] · [[Prov.15.26\|15:26]] |
+| Philippians | [[Phil.4.8\|4:8]] |
+| 1 Timothy | [[1Tim.3.8\|3:8]] · [[1Tim.3.11\|3:11]] |
+| Titus | [[Titus.2.2\|2:2]] |
+

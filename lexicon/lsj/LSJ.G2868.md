@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==κονιορτός==</span>-<span class='asgreek'>ός</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ (<span class='asgreek'>κόνις</span>, <span class='asgreek'>ὄρνυμι</span>) <b>dust raised</b> or <b>stirred up, cloud of dust</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.65; ὁ κ. δῆλος αὐτῶν ὡς ὁμοῦ προσκειμένων 5th-6th c.BC: Aristophanes Comicus “Equites” 245, compare 5th c.BC: Thucydides Historicus 4.44 ">Refs 5th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>ὕλης</span> <span class='asgreek'>νεωστὶ</span> <span class='asgreek'>κεκαυμένης</span>, i.e. <b>a cloud</b> of woodashes,[<a href="javascript:void(0)" title=" [prev. work] 34; κ. καὶ ζάλη 5th-6th c.BC: Plato Philosophus “Respublica” 496d: in \_plural\_, Diocl.fragment 147. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>dirt, sweepings</b>, <span class='asgreek'>σαρώματα</span>.. <span class='asgreek'>σὺν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>κ</span>. Wilcken [<a href="javascript:void(0)" title=" “Chr.” 198.16 (3rd c.BC). ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>dirty fellow</b>, <span class='asgreek'>χαίρει</span> <span class='asgreek'>τις</span> <span class='asgreek'>αὐχμῶν</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>ῥυπῶν</span>, <span class='asgreek'>κ</span>. <span class='asgreek'>ἀναπέφηνεν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Anaxandrides Comicus 34.6, compare 4th c.BC: Aristopho Comicus 10.8; Εὐκτήμων ὁ κ. 4th c.BC: Demosthenes Orator 21.103. ">Refs 4th c.BC+</a>]

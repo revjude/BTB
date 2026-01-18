@@ -1,0 +1,12 @@
+<span class="asform"><span class="asgreek"><span class="asbold">ἀνα-θάλλω</span></span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">θάλλω</span></span>, <span class="asitalic">to flourish</span>),</span>  <span class="asseptuagint">\[in LXX: [[Ps.28.7|Ps 28:7]] (<span class="ashebrew">עלז</span> <small><sup>[[H5937]]</sup></small>), [[Ezek.17.24|Ez 17:24]] (<span class="ashebrew">פּרח</span> <small><sup>[[H6524]]</sup></small> hi.), [[Hos.8.9|Ho 8:9]], [[Wis.4.4|Wi 4:4]], [[Sir.5.1|Si 5:1-15]]\*;\]</span> </span>
+<span class="asitalic">to revive</span>: [[Phil.4.10|Phl 4:10]] (of MM, <span class="asitalic">VGT</span>, s.v.).†
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Psalms | [[Ps.28.7\|28:7]] |
+| Ezekiel | [[Ezek.17.24\|17:24]] |
+| Hosea | [[Hos.8.9\|8:9]] |
+| Philippians | [[Phil.4.10\|4:10]] |
+

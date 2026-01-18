@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==ἀσάλευτος==</span></b> [<span class='asgreek'>σᾰ</span>], <span class='asgreek'>ον</span>, 
+
+
+ <b>unmoved, unshaken,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἡ</span> <span class='asgreek'>γῆ</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Mundo” 392b34 ">Refs 4th c.BC+</a>]; of Delos, [<a href="javascript:void(0)" title="“Anthologia Graeca” 9.100 (1st c.AD: Alpheus Epigrammaticus); ἔσται ἀσάλευτον πρὸ ὀφθαλμῶν LXX.Exod.13.16, +others; πρῷρα NT.Acts.27.41 ">NT+1st c.AD+</a>]; of the sea, probably in [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.982f: \_metaphorically\_ of the mind, 5th c.BC: Euripides Tragicus “Bacchae” 391 (Lyric poetry); ἀ. ἡσυχία 5th-6th c.BC: Plato Philosophus “Axiochus” 370d">Refs 5th c.BC+</a>]; <span class='asgreek'>πίστις</span>[<a href="javascript:void(0)" title=" Polystr. p.10 W.; βασιλεία NT.Heb.12.28; στάλα ἀ. “Hymnus ad Isim” 4; νίκη “IG” 9(1).270 (from Atalante)">NT</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>μένειν</span>, of ordinances, [<a href="javascript:void(0)" title=" “PLips.” 34.35 (4th c.AD),compare “Sammelb.” 4324.12">Refs 4th c.AD+</a>]. <i>adverb</i> <b>-<span class='asgreek'>τως</span></b>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 9.9.8">Refs 2nd c.BC+</a>]: <i>neuter</i> <i>plural</i> as <i>adverb</i>, <span class='asgreek'>χείλεσι</span> <span class='asgreek'>ἀσάλευτα</span> <span class='asgreek'>μεμυκόσι</span>[<a href="javascript:void(0)" title=" “Anthologia Graeca” 12.183 (2nd c.AD: Strato Epigrammaticus).">Refs 2nd c.AD+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Exod.13.16]] ☩ [[Acts.27.41]] ☩ [[Heb.12.28]]
+</sub></small>

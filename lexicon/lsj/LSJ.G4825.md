@@ -1,0 +1,14 @@
+
+<b> <span class='asgreek'>==σύμβουλος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>adviser, counsellor</b>, in public or private affairs, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.24, 7.50, 5th c.BC: Sophocles Tragicus “Philoctetes” 1321, 5th c.BC: Thucydides Historicus 3.42, “IG” 22.832.16 (3rd c.BC), “PMich.Zen.” 57.6 (3rd c.BC), NT.Rom.11.34, etc.; σ. πονηρός 5th c.BC: Antipho Orator 5.71: as \_feminine\_, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 3.1.13 ">NT+5th c.BC+</a>]: with <i>genitive</i> <i>person</i>, one's <b>adviser</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 175 (troch.), 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 921, etc.: with \_dative\_, καί μοι γενοῦ ξ. [prev. author] “Nu.” 1481, compare 5th-6th c.BC: Xenophon Historicus “Symposium” 8.39; μωρίᾳ ξ. τοῦ κασιγνήτου 5th c.BC: Euripides Tragicus “Helena” 1019, compare 5th-6th c.BC: Isocrates Orator 2.43: also with \_genitive\_ \_of things\_, σ. λόγου τοῦδέ μοι γένεσθε 4th-5th c.BC: Aeschylus Tragicus “Persae” 170 (troch.); τῆς ἀρχῆς.. ξυμβούλοισιν.. ὑμῖν χρήσωμαι 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 518 (\_anapaest meter\_); τῶνδε ==σύμβουλος==οι πέρι 4th-5th c.BC: Aeschylus Tragicus “Choephori” 86, compare 5th-6th c.BC: Plato Philosophus “Protagoras” 319b; ὑπέρ τινος 5th-6th c.BC: Isocrates Orator 1.35: ξύμβουλός εἰμι,= συμβουλεύω">Refs 5th c.BC+</a>], <b>advise</b>, with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 712, compare 5th-6th c.BC: Plato Philosophus “Leges” 930e: opposed to συκοφάντης, 4th c.BC: Demosthenes Orator 18.189. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> as a title, 
+$\quad$ $\quad$ $\quad$<b>\_\_II.1</b> at Athens, the <span class='asgreek'>θεσμοθέται</span> were empowered to appoint <span class='asgreek'>==σύμβουλος==οι</span> (perhaps in a private capacity), [<a href="javascript:void(0)" title=" [prev. author] 58.27. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> at Sparta, <b>a board of advisers</b> sent with the general, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.63. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>officers</b> at Thurii, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1307b14. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.4</b> = Latin <i>legatus</i>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.35.4 ">Refs 2nd c.BC+</a>]; also used to explanation Latin <i>con-sul</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 4.76. ">Refs 1st c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Rom.11.34]]
+</sub></small>

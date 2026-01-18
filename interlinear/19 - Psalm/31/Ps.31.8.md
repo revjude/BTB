@@ -1,0 +1,20 @@
+**Psalms 31:8** (31:9)
+<small><sub>**KJV:**</sub></small>
+And hast not shut me up into the hand of the enemy: thou hast set my feet in a large room.
+<small><sub>**BSB:**</sub></small>
+You have not delivered me to the enemy; You have set my feet in the open.
+<small><sub>**Literal:**</sub></small>
+and  not you delivered up  me in  [the] hand of an enemy you made stand in \<the>  roomy place feet  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.7|<< Psalms 31:7]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.9|Psalms 31:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you delivered up me  | <span class="ashebrew"><big>הִ֭סְגַּרְתַּ</big></span><small><sup>[[H5462]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| His.gar.ta.<small><sup>[[HVhp2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] hand of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יַד</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an enemy  | <span class="ashebrew"><big>אוֹיֵ֑ב</big></span><small><sup>[[H0341]]</sup></small> &#8207;| 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you made stand  | <span class="ashebrew"><big>הֶֽעֱמַ֖דְתָּ</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| he.'e.Mad.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> roomy place  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מֶּרְחָ֣ב</big></span><small><sup>[[H4800]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> mer.Chav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet my  | <span class="ashebrew"><big>רַגְלָֽ</big></span><small><sup>[[H7272]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| rag.La<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.7|<< Psalms 31:7]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.9|Psalms 31:9 >>]]</td></tr></table>
+
+

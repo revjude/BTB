@@ -1,0 +1,13 @@
+<span class="asform"><span class="asgreek"><span class="asbold">βάλλω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">נפל</span> <small><sup>[[H5307]]</sup></small>, <span class="ashebrew">שׂום</span> <small><sup>[[H7760]]</sup></small>, <span class="ashebrew">ידד</span> <small><sup>[[H3032]]</sup></small>, etc.;\]</span> </span>
+prop., of a weapon or missile; then generally, of things and persons, lit. and metaph., <span class="asitalic">to throw, cast, put, place</span>: c. acc., seq. <span class="asgreek">εἰς</span>, [[Matt.4.18|Mt 4:18]], and freq. <span class="asgreek">ἐπί</span>, [[Matt.10.34|Mt 10:34]]; <span class="asgreek">κάτω</span>, [[Matt.4.6|Mt 4:6]]; <span class="asgreek">ἔξω</span>, [[Matt.5.13|Mt 5:13]]; <span class="asgreek">ἀπό</span>, [[Matt.5.29|Mt 5:29]]; <span class="asgreek">ἐκ</span>, [[Mark.12.44|Mk 12:44]]; <span class="asgreek">δρέπανον</span>, [[Rev.14.19|Re 14:19]]; <span class="asgreek">μάχαιραν</span>, [[Matt.10.34|Mt 10:34]]; <span class="asgreek">κλῆρον</span>, [[Matt.27.35|Mt 27:35]]; of fluids, <span class="asitalic">to pour</span>: [[Matt.9.17|Mt 9:17]], [[John.13.5|Jo 13:5]]; pass.,    <span class="asitalic">to be laid, to lie ill</span>: [[Matt.9.2|Mt 9:2]]; <span class="asgreek">ἐβλήθη</span> (timeless aor., M, <span class="asitalic">Pr.</span>, 134), [[John.15.6|Jo 15:6]]; intrans., <span class="asitalic">to rush</span> (Bl., §53, 1): [[Acts.27.14|Ac 27:14]]. Metaph., <span class="asgreek">β. εἰς τ. καρδίαν</span>, [[John.13.2|Jo 13:2]] (cf. usage in <span class="asgreek">π.</span>, without idea of violence; also of liquids; MM, <span class="asitalic">Exp.</span>, x; v. also Cremer, 120, 657; cf.    <span class="asgreek">ἀμφι-</span>, <span class="asgreek">ἀνα-</span>, <span class="asgreek">ἀντι-</span>, <span class="asgreek">ἀπο-</span>, <span class="asgreek">δια-</span>, <span class="asgreek">ἐκ-</span>, <span class="asgreek">ἐμ-</span>, <span class="asgreek">παρ-εμ-</span>, <span class="asgreek">ἐπι-</span>, <span class="asgreek">κατα-</span>, <span class="asgreek">μετα-</span>, <span class="asgreek">παρα-</span>, <span class="asgreek">περι-</span>, <span class="asgreek">προ-</span>, <span class="asgreek">συμ-</span>, <span class="asgreek">ὑπερ-</span>, <span class="asgreek">ὑπο-βάλλω</span>).
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Matthew | [[Matt.4.6\|4:6]] · [[Matt.4.18\|4:18]] · [[Matt.5.13\|5:13]] · [[Matt.5.29\|5:29]] · [[Matt.9.2\|9:2]] · [[Matt.9.17\|9:17]] · [[Matt.10.34\|10:34]] · [[Matt.27.35\|27:35]] |
+| Mark | [[Mark.12.44\|12:44]] |
+| John | [[John.13.2\|13:2]] · [[John.13.5\|13:5]] · [[John.15.6\|15:6]] |
+| Acts | [[Acts.27.14\|27:14]] |
+| Revelation | [[Rev.14.19\|14:19]] |
+

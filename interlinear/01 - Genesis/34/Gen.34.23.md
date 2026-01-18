@@ -1,0 +1,25 @@
+**Genesis 34:23** 
+<small><sub>**KJV:**</sub></small>
+[Shall] not their cattle and their substance and every beast of theirs [be] ours? only let us consent unto them, and they will dwell with us.
+<small><sub>**BSB:**</sub></small>
+Will not their livestock, their possessions, and all their animals become ours? Only let us consent to them, and they will dwell among us.”
+<small><sub>**Literal:**</sub></small>
+livestock  their and  possession[s]  their and  all animal[s]  their ¿  not [belong] to \<the>  us [will] they only let us agree with \<the>  them and  let them dwell with  us<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.22|<< Genesis 34:22]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.24|Genesis 34:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| livestock their  | <span class="ashebrew"><big>מִקְנֵ</big></span><small><sup>[[H4735]]</sup></small> <span class="ashebrew"><big>הֶ֤ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| mik.ne.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and possession[s] their  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קִנְיָנָ</big></span><small><sup>[[H7075]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> kin.ya.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| animal[s] their  | <span class="ashebrew"><big>בְּהֶמְתָּ֔</big></span><small><sup>[[H0929]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| be.hem.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>ל֥וֹא</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belong] to \<the> us  | <span class="ashebrew"><big>לָ֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| La.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will] they  | <span class="ashebrew"><big>הֵ֑ם</big></span><small><sup>[[H1992]]</sup></small> &#8207;| Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| only  | <span class="ashebrew"><big>אַ֚ךְ</big></span><small><sup>[[H0389]]</sup></small> &#8207;| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let us agree  | <span class="ashebrew"><big>נֵא֣וֹתָה</big></span><small><sup>[[H0225]]</sup></small> &#8207;| ne.'o.tah<small><sup>[[HVNc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and let them dwell  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יֵשְׁב֖וּ</big></span><small><sup>[[H3427]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ye.she.Vu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with us  | <span class="ashebrew"><big>אִתָּֽ</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'i.Ta.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.22|<< Genesis 34:22]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.24|Genesis 34:24 >>]]</td></tr></table>
+
+

@@ -1,0 +1,19 @@
+**Psalms 35:23** 
+<small><sub>**KJV:**</sub></small>
+Stir up thyself, and awake to my judgment, [even] unto my cause, my God and my Lord.
+<small><sub>**BSB:**</sub></small>
+Awake and rise to my defense, to my cause, my God and my Lord!
+<small><sub>**Literal:**</sub></small>
+wake up  ! and  awake  ! for  judgment  my O God  my and  O Lord for  cause  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.22|<< Psalms 35:22]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.24|Psalms 35:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| wake up !  | <span class="ashebrew"><big>הָעִ֣ירָ</big></span><small><sup>[[H5782]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| ha.'I.ra<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and awake !  | <span class="ashebrew"><big>וְ֭</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָקִיצָ</big></span><small><sup>[[H6974]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| Ve.<small><sup>[[HC]]</sup></small> ha.ki.tza<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for judgment my  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִשְׁפָּטִ֑</big></span><small><sup>[[H4941G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mish.pa.T<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God my  | <span class="ashebrew"><big>אֱלֹהַ֖</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and O Lord  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אדֹנָ֣י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for cause my  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רִיבִֽ</big></span><small><sup>[[H7379]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ri.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.22|<< Psalms 35:22]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.24|Psalms 35:24 >>]]</td></tr></table>
+
+

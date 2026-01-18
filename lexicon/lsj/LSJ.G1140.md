@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==δαιμόνιον==</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ <b>divine Power, Divinity,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.87, 5th c.BC: Euripides Tragicus “Bacchae” 894 (Lyric poetry), 5th-6th c.BC: Isocrates Orator 1.13, 5th-6th c.BC: Plato Philosophus “Respublica” 382e, etc.; τὸ ==δαιμόνιον== ἄρ᾽ ἢ θεὸς ἢ θεοῦ ἔργον 4th c.BC: Aristoteles Philosophus “Rhetorica” 1398a15, compare 1419a9; οἱ θεοὶ εἴσονται καὶ τὸ δ. 4th c.BC: Demosthenes Orator 19.239 ">Refs 5th c.BC+</a>]; <span class='asgreek'>φοβεῖσθαι</span> <span class='asgreek'>μή</span> <span class='asgreek'>τι</span> <span class='asgreek'>δ</span>. <span class='asgreek'>πράγματ᾽</span> <span class='asgreek'>ἐλαύνῃ</span> some <b>fatality,</b> [<a href="javascript:void(0)" title=" [prev. author] 9.54 ">Refs</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>δ</span>. the favours of <b>forlune,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Epinomis” 992d. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>inferior divine being,</b> <span class='asgreek'>μεταξὺ</span> <span class='asgreek'>θεοῦ</span> <span class='asgreek'>τε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>θνητοῦ</span> [<a href="javascript:void(0)" title=" [prev. author] “Smp.” 202e; καινὰ δ. εἰσφέρειν 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.1.2, 5th-6th c.BC: Plato Philosophus “Apologia” 24c, cf. Vett. Val. 67.5, etc.">Refs 5th c.BC+</a>]; applied to the <b>'genius'</b> of Socrates, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.1.2, 5th-6th c.BC: Plato Philosophus “Apologia” 40a, “Tht.” 151a, “Euthphr.” 3b. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>evil spirit,</b> <span class='asgreek'>δ</span>. <span class='asgreek'>φαῦλα</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 2.338, cf. LXX.Deut.32.17, LXX.Tob.3.8, NT.Matt.7.22, +others, “PMag.Lond.” 1.46.120 (4th c.AD). ">NT+3rd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Deut.32.17]] ☩ [[Matt.7.22]]
+</sub></small>

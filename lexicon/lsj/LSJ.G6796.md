@@ -1,0 +1,7 @@
+<span class="asgreek">δεκαπλασίων</span> <small>***(dekaplasiōn)***</small> ==**ten-times**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==δεκαπλασίων==</span>-<span class='asgreek'>πλάσιος</span></b> [<span class='asgreek'>πλᾰ</span>], <span class='asgreek'>ον</span>, 
+
+
+ <b>tenfold,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 16; δ. τὸ ἔκτεισμα τοῦ ἀδικήματος ἐκτίνειν 5th-6th c.BC: Plato Philosophus “Respublica” 615b ">Refs 5th c.BC+</a>]: with <i>genitive</i>, <b>ten times greater than,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 21.22.15 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>τὴν</span> <span class='asgreek'>δεκαπλασίαν</span> (i.e. <span class='asgreek'>τιμήν</span>) <span class='asgreek'>καταδικάζειν</span> mulct in <b>ten times the amount,</b> Legal cited in [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 24.105 (uncertain)">Refs 4th c.BC+</a>]; <span class='asgreek'>δ</span>. <span class='asgreek'>ὑφῃρῆσθαι</span> rob the state of <b>a tenfold penalty,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 24.82 ">Refs 4th c.BC+</a>]. <i>adverb</i> <b><span class='asgreek'>==δεκαπλασίων==</span>-<span class='asgreek'>ως</span></b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 6. ">Refs 5th c.BC+</a>]
+

@@ -1,0 +1,14 @@
+<span class="asgreek">μετατρέπω</span> <small>***(metatrepō)***</small> ==**to turn around**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==μετατρέπω==</span></b>, 
+
+
+ <i>Aeolic dialect</i> <b><span class='asgreek'>πεδατρέπω</span></b> [<a href="javascript:void(0)" title=" 7th-6th c.BC: Alcaeus Lyricus “Supp.” 28.10">Refs 7th c.BC+</a>]:— <b>overthrow</b>, [prev. cited] 
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>turn back</b> or <b>away</b>, <span class='asgreek'>μοῖραν</span> -<span class='asgreek'>τρᾰπεῖν</span> (<i>aorist 2</i> <i>infinitive</i>) [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “Fragmenta.” 177; μετὰ δ᾽ ὑμέας ἔτραπεν αἶσα 3rd c.BC: Apollonius Rhodius Epicus 3.261; οὐ μετέτρεψέ σε πρωτότοκος ἀποπνέων LXX.4Mac.15.18. ">LXX+5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>change</b>, <span class='asgreek'>νόημα</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 9.114 (Parmenio Epigrammaticus):">Refs</a>] —<i>passive</i>, <span class='asgreek'>ὁ</span> <span class='asgreek'>γέλως</span> <span class='asgreek'>ὑμῶν</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>πένθος</span> -<span class='asgreek'>τραπήτω</span> variant in [<a href="javascript:void(0)" title=" NT.Jas.4.9; μετατραπεὶς τῇ διανοίᾳ Aristeas 99 (μετατραπείς">NT</a>] seems to be corrupt in [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.154e). ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, <b>turn oneself round, turn round</b>, <span class='asgreek'>θάμβησεν</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>Ἀχιλεύς</span>, <span class='asgreek'>μετὰ</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἐτράπετ᾽</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 1.199, etc. ">Refs 8th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>middle</i> with <i>aorist 2</i> <i>passive</i> <span class='asgreek'>μετετράπην</span>, <b>look back to, care for, show regard for</b>, with <i>genitive</i>, <span class='asgreek'>Τρώων</span>, <span class='asgreek'>τῶν</span> <span class='asgreek'>οὔ</span> <span class='asgreek'>τι</span> <span class='asgreek'>μετατρέπῃ</span> <span class='asgreek'>οὐδ᾽</span> <span class='asgreek'>ἀλεγίζεις</span> [<a href="javascript:void(0)" title=" 1.160, compare 12.238; σχέτλιος, οὐδὲ μετατρέπεται φιλότητος 9.630: with \_accusative\_, οὐ μετετράπη τὸν λογισμόν LXX.4Mac.7.12.—Not in Prose before Aristeas. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[Jas.4.9]]
+</sub></small>

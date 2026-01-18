@@ -1,0 +1,6 @@
+<big><span class="asgreek">‎Μανασσῆς‎</span></big> **Manassēs** <small>*(man-as-sace')*</small> ==**Manasseh**==  <sup><small>[[TEGMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>of Hebrew origin (<span class="ashebrew">‎מְנַשֶּׁה‎</span><sup><small>[[H4519]]</small></sup>)</small>
+
+$\quad$ Manasses.
+- Mannasses (i.e. Menashsheh), an Israelite
+

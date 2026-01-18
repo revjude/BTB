@@ -1,0 +1,24 @@
+**Joshua 10:34** 
+<small><sub>**KJV:**</sub></small>
+And from Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it:
+<small><sub>**BSB:**</sub></small>
+So Joshua moved on from Lachish to Eglon, and all Israel with him. They laid siege to it and fought against it.
+<small><sub>**Literal:**</sub></small>
+and  he passed on Joshua and  all Israel with  him from  Lachish Eglon  towards and  they encamped on  it and  they engaged in battle on  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.33|<< Joshua 10:33]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.35|Joshua 10:35 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he passed on  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעֲבֹ֣ר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joshua  | <span class="ashebrew"><big>יְ֠הוֹשֻׁעַ</big></span><small><sup>[[H3091G]]</sup></small> &#8207;| Ye.ho.shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֥ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  | <span class="ashebrew"><big>עִמּ֛</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Lachish  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>לָּכִ֖ישׁ</big></span><small><sup>[[H3923]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> la.Khish<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eglon towards  | <span class="ashebrew"><big>עֶגְלֹ֑נָ</big></span><small><sup>[[H5700G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| 'eg.Lo.na<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they encamped  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּחֲנ֣וּ</big></span><small><sup>[[H2583]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלֶ֔י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they engaged in battle  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּֽלָּחֲמ֖וּ</big></span><small><sup>[[H3898A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.la.cha.Mu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="ashebrew"><big>עָלֶֽי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.33|<< Joshua 10:33]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.35|Joshua 10:35 >>]]</td></tr></table>
+
+

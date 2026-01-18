@@ -1,0 +1,24 @@
+**Ezekiel 27:32** 
+<small><sub>**KJV:**</sub></small>
+And in their wailing they shall take up a lamentation for thee, and lament over thee, [saying], What [city is] like Tyrus, like the destroyed in the midst of the sea?
+<small><sub>**BSB:**</sub></small>
+As they wail and mourn over you, they will take up a lament for you: ‘Who was ever like Tyre, silenced in the middle of the sea?
+<small><sub>**Literal:**</sub></small>
+and  they will take up concerning  you in  wailing  their a lamentation and  they will lament on  you who? [is] like  Tyre like  one silenced in  [the] middle of the  sea<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.31|<< Ezekiel 27:31]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.33|Ezekiel 27:33 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will take up  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָשְׂא֨וּ</big></span><small><sup>[[H5375G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.se.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| concerning you  | <span class="ashebrew"><big>אֵלַ֤יִ</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'e.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in wailing their  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H5204]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ni.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a lamentation  | <span class="ashebrew"><big>קִינָ֔ה</big></span><small><sup>[[H7015]]</sup></small> &#8207;| ki.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will lament  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>קוֹנְנ֖וּ</big></span><small><sup>[[H6969]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ko.Nu<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עָלָ֑יִ</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who?  | <span class="ashebrew"><big>מִ֣י</big></span><small><sup>[[H4310]]</sup></small> &#8207;| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] like Tyre  | <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>צ֔וֹר</big></span><small><sup>[[H6865]]</sup></small> &#8207;| khe.<small><sup>[[HR]]</sup></small> Tzor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like one silenced  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>דֻמָ֖ה</big></span><small><sup>[[H1822]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> du.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] middle of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ת֥וֹךְ</big></span><small><sup>[[H8432]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sea  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּֽם</big></span><small><sup>[[H3220G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.31|<< Ezekiel 27:31]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.33|Ezekiel 27:33 >>]]</td></tr></table>
+
+

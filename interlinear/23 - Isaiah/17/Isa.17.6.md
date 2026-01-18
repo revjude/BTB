@@ -1,0 +1,31 @@
+**Isaiah 17:6** 
+<small><sub>**KJV:**</sub></small>
+Yet gleaning grapes shall be left in it, as the shaking of an olive tree, two [or] three berries in the top of the uppermost bough, four [or] five in the outmost fruitful branches thereof, saith the LORD God of Israel.
+<small><sub>**BSB:**</sub></small>
+Yet gleanings will remain, like an olive tree that has been beaten—two or three berries atop the tree, four or five on its fruitful branches,” declares the LORD, the God of Israel.
+<small><sub>**Literal:**</sub></small>
+and  it will be left in  it gleanings like  [the] beating of an olive tree two three olives at  [the] top of [the] tree-top four five on  branches  its fruit-bearing [the] utterance of Yahweh [the] God of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.5|<< Isaiah 17:5]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.7|Isaiah 17:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it will be left  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נִשְׁאַר</big></span><small><sup>[[H7604]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> nish.'ar-<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in it  | <span class="ashebrew"><big>בּ֤</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gleanings  | <span class="ashebrew"><big>עֽוֹלֵלֹת֙</big></span><small><sup>[[H5955]]</sup></small> &#8207;| o.le.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] beating of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>נֹ֣קֶף</big></span><small><sup>[[H5363]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> No.kef<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an olive tree  | <span class="ashebrew"><big>זַ֔יִת</big></span><small><sup>[[H2132H]]</sup></small> &#8207;| Za.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  | <span class="ashebrew"><big>שְׁנַ֧יִם</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שְׁלֹשָׁ֛ה</big></span><small><sup>[[H7969]]</sup></small> &#8207;| she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| olives  | <span class="ashebrew"><big>גַּרְגְּרִ֖ים</big></span><small><sup>[[H1620]]</sup></small> &#8207;| gar.ge.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at [the] top of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רֹ֣אשׁ</big></span><small><sup>[[H7218I]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tree-top  | <span class="ashebrew"><big>אָמִ֑יר</big></span><small><sup>[[H0534]]</sup></small> &#8207;| 'a.Mir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  | <span class="ashebrew"><big>אַרְבָּעָ֣ה</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  | <span class="ashebrew"><big>חֲמִשָּׁ֗ה</big></span><small><sup>[[H2568]]</sup></small> &#8207;| cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on branches its  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>סְעִפֶ֙י</big></span><small><sup>[[H5585]]</sup></small> <span class="ashebrew"><big>הָ֙</big></span><small><sup>[[H9024]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> s.'i.Fei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruit-bearing  | <span class="ashebrew"><big>פֹּֽרִיָּ֔ה</big></span><small><sup>[[H6509]]</sup></small> &#8207;| po.ri.Yah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] utterance of  | <span class="ashebrew"><big>נְאֻם</big></span><small><sup>[[H5002]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] God of  | <span class="ashebrew"><big>אֱלֹהֵ֥י</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.5|<< Isaiah 17:5]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.7|Isaiah 17:7 >>]]</td></tr></table>
+
+

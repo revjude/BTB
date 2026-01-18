@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==πατρίς==</span></b>, <span class='asgreek'>ίδος</span>, 
+
+
+ <i>poetry</i> <i>feminine</i> of <span class='asgreek'>πάτριος</span>, <b>of one's fathers</b>, <span class='asgreek'>πατρὶς</span> <span class='asgreek'>αἶα</span>, <span class='asgreek'>ἄρουρα</span>, <b>one's fatherland, country</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 10.236, 20.193; π. γαῖα 24.322, 8th-7th c.BC: Hesiodus Epicus “Scutum Herculis” 1, 12, 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 585 ">Refs 8th c.BC+</a>]; <span class='asgreek'>γῆ</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 641, 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 859 (\_paratragoedia\_) ">Refs 5th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>πόλις</span> the city <b>of one's sires</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “O.” 10(11).36. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>substantive</i>, ={<span class='asgreek'>πάτρα</span>}[<a href="javascript:void(0)" title=" 1, 8th c.BC: Ilias Homerus Epicus “Illiad” 5.213, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 4.586, 9.34, 5th c.BC: Herodotus Historicus 3.140, 5th c.BC: Thucydides Historicus 6.69, etc.">Refs 8th c.BC+</a>]; <span class='asgreek'>κοινὴ</span> <span class='asgreek'>π</span>., i. e. <b>the nether world</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.113c: proverbial, π. γάρ ἐστι πᾶσ᾽ ἵν᾽ ἂν πράττῃ τις εὖ">Refs 1st c.AD+</a>], <b>ubi bene, ibi patria</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Plutus” 1151 ">Refs 5th c.BC+</a>]; simply, <b>native town</b> or <b>village</b>, [<a href="javascript:void(0)" title=" “UPZ” 9.5 (2nd c.BC), NT.Mark.6.1, etc.: \_plural\_, ἐν ταῖς αὑτῶν π. 4th c.BC: Demosthenes Orator 18.296, compare 305, 5th-6th c.BC: Plato Philosophus “Politicus” 308a, 4th c.BC: Hyperides Orator “Epitaphius” 10. ">NT+5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Mark.6.1]]
+</sub></small>

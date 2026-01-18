@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==ὑπερῷος==</span></b>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, 
+
+
+ <i>Ionic dialect</i> and <i>Epic dialect</i> <b><span class='asgreek'>ὑπερώ</span>ϊ<span class='asgreek'>ος</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>: also <span class='asgreek'>ος</span>, <span class='asgreek'>ον</span> (see. below):— <b>upper,</b> <span class='asgreek'>στοαὶ</span> <span class='asgreek'>ὑπερῷοι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 3.68, 2nd c.AD: Pausanias Periegeta 5.10.10; περίπατοι LXX.Ezek.42.5, compare “IG” 42(1).126.11 (Epid., 2nd c.AD)">LXX+1st c.BC+</a>]; [<span class='asgreek'>τόποι</span> (rooms)] [<a href="javascript:void(0)" title=" “POxy.” 76.19 (2nd c.AD)">Refs 2nd c.AD+</a>]; <span class='asgreek'>ὑ</span>. <span class='asgreek'>θάλαμος</span>, ={<span class='asgreek'>ὑπερῷον</span>}, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pelopidas” 35; so ὑ. οἶκος 2nd c.AD: Galenus Medicus 14.47; οἴκημα “OGI” 483.110 (Pergam., 2nd c.BC), 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aratus” 26. ">Refs 2nd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> Thess. <b><span class='asgreek'>Ὑπεροῖος</span></b>, <span class='asgreek'>ὁ</span>, name of a month in Perrhaebia, [<a href="javascript:void(0)" title=" “IG” 9(2).1231.8 (Phalanna, 2nd c.BC). ">Refs 2nd c.BC+</a>]

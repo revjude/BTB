@@ -1,0 +1,15 @@
+
+<b> <span class='asgreek'>==Λακωνικός==</span>-<span class='asgreek'>ικός</span></b>, <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, 
+
+
+ [<a href="javascript:void(0)" title=" “Laconian” ">Refs</a>], <span class='asgreek'>ἄνδρες</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 628, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>κλειδίον</span>, a kind of key, [<a href="javascript:void(0)" title=" [prev. author] “Th.” 423, compare 4th c.BC: Aristopho Comicus 7.4, 4th-3rd c.BC: Menander Comicus 343; Λακωνικὸν πνέων 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 276; βραχυλογία τις Λ. 5th-6th c.BC: Plato Philosophus “Protagoras” 343b ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐλάττω</span> <span class='asgreek'>ἔχειν</span> <span class='asgreek'>γῆν</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ἀγρὸν</span> <span class='asgreek'>ἐπιστολῆς</span> <span class='asgreek'>Λακωνικῆς</span> Prov.in [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 1.2.30, compare 3rd c.AD: Longinus Rhetor 38.5">Refs 1st c.BC+</a>]. <i>adverb</i> - <span class='asgreek'>κῶς</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Diphilus Comicus 96; συντόμως καὶ Λ. 1st c.BC: Diodorus Siculus Historicus 13.52. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> as <i>substantive</i>, 
+$\quad$ $\quad$ $\quad$<b>\_\_II.1</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>Λακωνική</span> (i.e. <span class='asgreek'>γῆ</span>) [<a href="javascript:void(0)" title=" “Laconia”, 5th-6th c.BC: Aristophanes Comicus “Pax” 245, etc. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.1.b</b> <span class='asgreek'>Λακωνικαί</span> (i.e. <span class='asgreek'>ἐμβάδες</span>), <span class='asgreek'>αἱ</span>, <b>Laconian shoes</b>, used by men, [<a href="javascript:void(0)" title=" [prev. author] “V.” 1158, “Th.” 142, “Ec.” 74, 269, +others ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>τὸ</span> -<span class='asgreek'>κόν</span> <b>the state of Lacedaemon</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.235 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τῆς</span> <span class='asgreek'>ὁμιλίας</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>Λ</span>. [<a href="javascript:void(0)" title=" “Laconian” fashion, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cleomenes” 32. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>Λ</span>. <b>Laconian steel</b>, St.Byzantine see at {<span class='asgreek'>Λακεδαίμων</span>}. 
+$\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>Λακωνικόν</span>, <span class='asgreek'>τό</span>, <b>female garment</b>, <span class='asgreek'>διαφανῆ</span> <span class='asgreek'>Λ</span>. [<a href="javascript:void(0)" title=" LXX.Isa.3.23. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[Isa.3.23]]
+</sub></small>

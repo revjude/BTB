@@ -1,0 +1,22 @@
+**Mark 11:19
+**<small><sub>**KJV:**</sub></small>
+And when even was come, he went out of the city.
+<small><sub>**BSB:**</sub></small>
+And when evening came, Jesus and His disciples went out of the city.
+<small><sub>**Literal:**</sub></small>
+And when evening came, they were going out of the city.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.18|<< Mark 11:18]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.20|Mark 11:20 >>]]</td></tr></table>
+
+| Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| And |<span class="asgreek">Καὶ</span> <small><sup>[[G2532]]</sup></small> |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| when [^1] |<span class="asgreek">ὅταν</span> <small><sup>[[G3752]]</sup></small> |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| evening |<span class="asgreek">ὀψὲ</span> <small><sup>[[G3796]]</sup></small> |opse <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| came, |<span class="asgreek">ἐγένετο,</span> <small><sup>[[G1096]]</sup></small> |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they were going [^2] |<span class="asgreek">ἐξεπορεύοντο</span> <small><sup>[[G1607]]</sup></small> |exeporeuonto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+SBL+WH+Treg">N(k)O</abbr> | |
+| out of |<span class="asgreek">ἔξω</span> <small><sup>[[G1854]]</sup></small> |exō <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| city. |<span class="asgreek">πόλεως.</span> <small><sup>[[G4172]]</sup></small> |poleōs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+[[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.18|<< Mark 11:18]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.20|Mark 11:20 >>]]</td></tr></table>
+
+[^1]: ==TR+Byz==: when | <span class="asgreek">ὅτε</span><small><sup>[[G3753]]</sup></small> | hote<small><sup>[[CONJ]]</sup></small>
+[^2]: ==Tyn+TR+Byz==: he was going | <span class="asgreek">ἐξεπορεύετο</span><small><sup>[[G1607]]</sup></small> | exeporeueto<small><sup>[[V-INI-3S]]</sup></small>

@@ -1,0 +1,28 @@
+**Isaiah 26:19** 
+<small><sub>**KJV:**</sub></small>
+Thy dead [men] shall live, [together with] my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew [is as] the dew of herbs, and the earth shall cast out the dead.
+<small><sub>**BSB:**</sub></small>
+Your dead will live; their bodies will rise. Awake and sing, you who dwell in the dust! For your dew is like the dew of the morning, and the earth will bring forth her dead.
+<small><sub>**Literal:**</sub></small>
+they will live dead [ones]  your corpse  my they will rise  ! awake and  shout for joy O [those who] dwell of dust for [will be the] dew of lights dew  your and  [the] earth [the] shades it will make fall<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.18|<< Isaiah 26:18]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.20|Isaiah 26:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| they will live  | <span class="ashebrew"><big>יִֽחְי֣וּ</big></span><small><sup>[[H2421]]</sup></small> &#8207;| yich.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dead [ones] your  | <span class="ashebrew"><big>מֵתֶ֔י</big></span><small><sup>[[H4191]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| me.Tei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| corpse my  | <span class="ashebrew"><big>נְבֵלָתִ֖</big></span><small><sup>[[H5038]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ne.ve.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will rise !  | <span class="ashebrew"><big>יְקוּמ֑וּ</big></span><small><sup>[[H6965B]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;| ye.ku.Mu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| awake  | <span class="ashebrew"><big>הָקִ֨יצוּ</big></span><small><sup>[[H6974]]</sup></small> &#8207;| ha.Ki.tzu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and shout for joy  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רַנְּנ֜וּ</big></span><small><sup>[[H7442B]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ra.ne.Nu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O [those who] dwell of  | <span class="ashebrew"><big>שֹׁכְנֵ֣י</big></span><small><sup>[[H7931]]</sup></small> &#8207;| sho.khe.Nei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dust  | <span class="ashebrew"><big>עָפָ֗ר</big></span><small><sup>[[H6083]]</sup></small> &#8207;| 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be the] dew of  | <span class="ashebrew"><big>טַ֤ל</big></span><small><sup>[[H2919]]</sup></small> &#8207;| tal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lights  | <span class="ashebrew"><big>אוֹרֹת֙</big></span><small><sup>[[H0219A]]</sup></small> &#8207;| 'o.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dew your  | <span class="ashebrew"><big>טַלֶּ֔</big></span><small><sup>[[H2919]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ta.Le.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] earth  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אָ֖רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] shades  | <span class="ashebrew"><big>רְפָאִ֥ים</big></span><small><sup>[[H7496]]</sup></small> &#8207;| re.fa.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will make fall  | <span class="ashebrew"><big>תַּפִּֽיל</big></span><small><sup>[[H5307H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ta.Pil<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.18|<< Isaiah 26:18]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.20|Isaiah 26:20 >>]]</td></tr></table>
+
+

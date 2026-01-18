@@ -1,0 +1,15 @@
+
+<b> <span class='asgreek'>==ἔντευξις==</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>ἐντυγχάνω</span>) <b>lighting upon, meeting with,</b> with <i>dative</i>, <span class='asgreek'>αἱ</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>λῃσταῖς</span> <span class='asgreek'>ἐντεύξεις</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Politicus” 298d. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>converse, intercourse,</b> <span class='asgreek'>πρὸς</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>πολλούς</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1355a29: with \_genitive\_, “Vita Philonidis Epicurei” p.7 C">Refs 4th c.BC+</a>].; <span class='asgreek'>ἐντεύξεις</span> <span class='asgreek'>ποιεῖσθαί</span> <span class='asgreek'>τισι</span> hold <b>converse with</b>.., [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 1.20; [ἡ πραγματεία] χρήσιμος πρὸς τὰς ἐ. 4th c.BC: Aristoteles Philosophus “Topica” 101a27, compare “Metaphorical” 1009a17, etc.; τὴν ἡλικίαν τῇ ἐντεύξει γνωρίζομεν 2nd c.AD: Soranus Medicus 2.8. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>manners, behaviour,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 2.47, 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 5.1, 20.1. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.c</b> especially <b>sexual intercourse,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Gnomologium Vaticanum - Kleine Schriften” 51, “fragment” 61. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>ἐντεύξεις</span> <span class='asgreek'>ὀχλικαί</span> <b>speeches</b> to the mob, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Thucydide” 50. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>petition</b>, [<a href="javascript:void(0)" title=" “PSI” 4.383.6 (3rd c.BC), “PFlor.” 55.18 (1st c.AD), 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Tiberius Gracchus” 11, etc.">Refs 3rd c.BC+</a>]; <b>intercession</b> for a person, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 16.55, 2nd c.BC: Nicander Epicus 5th-6th c.AD: Damascius Philosophus “fragment” 130.7 1st c.AD: Josephus Historicus, NT.1Tim.2.1(\_plural\_). ">NT+2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>reading, study,</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἔ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>πραγματείας</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.1.4, etc. ">Refs 2nd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Tim.2.1]]
+</sub></small>

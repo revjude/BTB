@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==θρησκεία==</span>-<span class='asgreek'>εία</span></b>, 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>==θρησκεία==</span>-<span class='asgreek'>είη</span></b>, <span class='asgreek'>ἡ</span>, (<span class='asgreek'>==θρησκεία==εύω</span>) <b>religious worship, cult, ritual</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἱρὰ</span> <span class='asgreek'>θ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.18, “IG” 12(5).141.5 (Paros, 3rd c.BC), 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 17.9.3, etc.; τοῦ Ἀπόλλωνος “SIG” 801 D (Delph., 1st c.AD); ἡ περί τινος θ. [prev. work] 867.48 (Ephesus, 2nd c.AD)">Refs 5th c.BC+</a>]: <i>plural</i>, <b>rites</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.37, 1st c.BC: Dionysius Halicarnassensis 2.63, “PGnom.” 185 (2nd c.AD), Wilcken “Chr.” 72 (3rd c.AD). ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>religion, service of God</b>, [<a href="javascript:void(0)" title=" LXX.Wis.14.18, NT.Acts.26.5, NT.Jas.1.26; θ. τοῦ θεοῦ μία ἐστί, μὴ εἶναι κακόν “Corpus Hermeticum” 12 near the end ">LXX+NT</a>]; <span class='asgreek'>ἑκατέρα</span> <span class='asgreek'>θ</span>., i.e. Christianity and Paganism, [<a href="javascript:void(0)" title=" 4th c.AD: Themistius Sophista “Orationes” 5.69c ">Refs 4th c.AD+</a>]; <span class='asgreek'>θ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀγγέλων</span> <b>worshipping</b> of angels, [<a href="javascript:void(0)" title=" NT.Col.2.18. ">NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> in bad sense, <b>religious formalism</b>, <span class='asgreek'>ἀντὶ</span> <span class='asgreek'>ὁσιότητος</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.195 ">Refs 1st c.AD+</a>]; <span class='asgreek'>θ</span>. <span class='asgreek'>βιωτική</span> vulgar <b>superstition</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.4. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.26.5]] ☩ [[Jas.1.26]] ☩ [[Col.2.18]]
+</sub></small>

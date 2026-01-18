@@ -1,0 +1,21 @@
+**Psalms 31:3** (31:4)
+<small><sub>**KJV:**</sub></small>
+For thou [art] my rock and my fortress; therefore for thy name’s sake lead me, and guide me.
+<small><sub>**BSB:**</sub></small>
+For You are my rock and my fortress; lead me and guide me for the sake of Your name.
+<small><sub>**Literal:**</sub></small>
+for [are] rock  my and  stronghold  my you and  for [the] sake of name  your you guide  me and  you lead  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.2|<< Psalms 31:2]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.4|Psalms 31:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] rock my  | <span class="ashebrew"><big>סַלְעִ֣</big></span><small><sup>[[H5553H]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| sal.'<small><sup>[[HNcmsc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and stronghold my  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְצוּדָתִ֣</big></span><small><sup>[[H4686B]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.tzu.da.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אָ֑תָּה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for [the] sake of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְמַ֥עַן</big></span><small><sup>[[H4616]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name your  | <span class="ashebrew"><big>שִׁ֝מְ</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>ךָ֗</big></span><small><sup>[[H9021]]</sup></small> &#8207;| Shim.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you guide me  | <span class="ashebrew"><big>תַּֽנְחֵ֥</big></span><small><sup>[[H5148]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| tan.Che.<small><sup>[[HVhi2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you lead me  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְנַהֲלֵֽ</big></span><small><sup>[[H5095]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| U.<small><sup>[[HC]]</sup></small> te.na.ha.Le.<small><sup>[[HVpu2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.2|<< Psalms 31:2]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.4|Psalms 31:4 >>]]</td></tr></table>
+
+

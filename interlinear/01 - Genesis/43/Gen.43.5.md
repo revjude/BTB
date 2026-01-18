@@ -1,0 +1,28 @@
+**Genesis 43:5** 
+<small><sub>**KJV:**</sub></small>
+But if thou wilt not send [him], we will not go down: for the man said unto us, Ye shall not see my face, except your brother [be] with you.
+<small><sub>**BSB:**</sub></small>
+But if you will not send him, we will not go; for the man told us, ‘You will not see my face again unless your brother is with you.’”
+<small><sub>**Literal:**</sub></small>
+and  if not  you [are] sending [him] not we will go down for the  man he said to  us not you will see face  my except brother  your [is] with  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.4|<< Genesis 43:4]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.6|Genesis 43:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and if  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not you  | <span class="ashebrew"><big>אֵינְ</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>ךָ֥</big></span><small><sup>[[H9041]]</sup></small> &#8207;| 'ei.ne.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] sending [him]  | <span class="ashebrew"><big>מְשַׁלֵּ֖חַ</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| me.sha.Le.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we will go down  | <span class="ashebrew"><big>נֵרֵ֑ד</big></span><small><sup>[[H3381]]</sup></small> &#8207;| ne.Red<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the man  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אִ֞ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he said  | <span class="ashebrew"><big>אָמַ֤ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to us  | <span class="ashebrew"><big>אֵלֵ֙י</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>נוּ֙</big></span><small><sup>[[H9035]]</sup></small> &#8207;| 'e.Lei.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will see  | <span class="ashebrew"><big>תִרְא֣וּ</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| tir.'U<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face my  | <span class="ashebrew"><big>פָנַ֔</big></span><small><sup>[[H6440H]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| except  | <span class="ashebrew"><big>בִּלְתִּ֖י</big></span><small><sup>[[H1115]]</sup></small> &#8207;| bil.Ti<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brother your  | <span class="ashebrew"><big>אֲחִי</big></span><small><sup>[[H0251G]]</sup></small> <span class="ashebrew"><big>כֶ֥ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| 'a.chi.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with you  | <span class="ashebrew"><big>אִתְּ</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9036]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'i.te.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.4|<< Genesis 43:4]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.6|Genesis 43:6 >>]]</td></tr></table>
+
+

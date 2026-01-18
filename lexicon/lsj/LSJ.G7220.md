@@ -1,0 +1,10 @@
+<span class="asgreek">ἐνδελεχῶς</span> <small>***(endelechōs)***</small> ==**continually**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+Included with: <b> <span class='asgreek'>==ἐνδελεχῶς==</span>-<span class='asgreek'>ής</span></b>, <span class='asgreek'>ές</span>, 
+
+
+ (see. <span class='asgreek'>δολιχός</span>) <b>continuous, perpetual</b>, <span class='asgreek'>μνήμη</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 718a; λειτουργία 5th-6th c.BC: Isocrates Orator 15.156 (\_superlative\_)">Refs 5th c.BC+</a>]; <span class='asgreek'>πῦρ</span> [<a href="javascript:void(0)" title=" LXX.1Esd.6.24; θυσίαι 1st c.AD: Philo Judaeus 2.569, 587; πόλεμος 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pericles” 19 ">LXX+1st c.AD+</a>]; of persons, <b>plodding, persevering</b>, <span class='asgreek'>φροντισταὶ</span> <span class='asgreek'>σύντονοι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ οἰκονομίας” p.52 1st c.AD: Josephus Historicus, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Marius” 13 ">Refs 1st c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>πόνους</span> <span class='asgreek'>ἐ</span>. <b>perseverance</b>, [<a href="javascript:void(0)" title="[prev. work] 6. ">Refs</a>] <i>adverb</i> <b>-<span class='asgreek'>Χῶς</span></b>[<a href="javascript:void(0)" title=" 5th c.BC: Critias Philosophus, Tragicus, Elegiacus 19.5, 5th-6th c.BC: Plato Philosophus “Respublica” 539d, +others, 4th c.BC: Diodorus Comicus 1, 4th-3rd c.BC: Menander Comicus 521, “IG” 22.1028.33, LXX.Exod.29.38, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fabius Maximus” 19, etc.--Freq. confused with ἐντελεχής in codices, as 1st c.AD: Philo Judaeus [same place] ">LXX+5th c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Exod.29.38]]
+</sub></small>

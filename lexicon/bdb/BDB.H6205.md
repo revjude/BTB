@@ -1,0 +1,19 @@
+ <span class="bdbLangHebrew">‎עֲרָפֶל‎</span> **noun masculine** ==cloud, heavy cloud== (perhaps from above √ + <span class="bdbLangHebrew">‎ל‎</span> afformative; Late Hebrew = Biblical Hebrew; Syriac <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMQAZAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAxABkABwj/APkJHEiwoMGDCBMqXMiwoUOH/yJKnEgx4kOFFTNq3Fhwo8ePIEOKHElyYrGI3SYCABCSRsmMbgAsWykRwAeaH1fifPkvEsud/wA8Y5kTQBGeKrONIBqRgEgAqSp2lMpPJSYhTH1wCOYxXsQ1GQ1StTo0ok6gFNFOFEtxYM0wrIgSjbcTgJyaai2ylejWrI+gZj/9M1F3lsq8B9sKxIuM6coDQb3+G5Fx5Q3Fe//1DXr2zI0pZyMu1TmiG4BBZzkQRbh28b8WOm+erTsbxmydmlnzXXwOQAqJ6jwCQJJ7c8PWVf+lNJv848Wpwpk6f755Y96w1F17bKRLZHbtL7/rCuYpvjlS5Nk9BgQAOw==">; [[BDB#Tg|ᵑ7]] <span class="bdbLangHebrew">‎עֲרָפֵילָא‎</span>; Mandean <span class="bdbLangHebrew">‎ארפילא‎</span> [[BDB#Nö|Nö]]<sup>M 126, 128</sup>; on vocaliz. see [[BDB#Ba|Ba]]<sup>NB 160 and against him</sup> [[BDB#Schw|Schw]]<sup>ZAW x (1890), 178</sup> who proposes <span class="bdbLangHebrew">‎עַרְפֶּל‎</span>); — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> in which God dwells [[Exod.20.18|Exod 20:18]] ([[BDB#Gi|Gi]]; [[BDB#van d.H.|van d. H.]] v[[Exod.20.21|Exod 20:21]]), [[1Kgs.8.12|1Kgs 8:12]] = [[2Chr.6.1|2Chr 6:1]] + <span class="bdbLangHebrew">‎עָנָן‎</span> [[Deut.4.11|Deut 4:11]] (also <span class="bdbLangHebrew">‎חשֶׁח‎</span>), [[Deut.5.19|Deut 5:19]]; [[Ps.97.2|Ps 97:2]]; [[Job.22.13|Job 22:13]] see  <span class="bdbLangHebrew">‎בַּעַד‎</span>; <span class="bdbLangHebrew">‎תַּחַת רַגְלָיו‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> [[2Sam.22.10|2Sam 22:10]] = [[Ps.18.10|Ps 18:10]] as swaddling-bands of sea [[Job.38.9|Job 38:9]] figurative of misery [[Isa.60.2|Isa 60:2]] (\|\| <span class="bdbLangHebrew">‎חשֶׁח‎</span>); of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s judgment [[Jer.13.16|Jer 13:16]] (\|\| <span class="bdbLangHebrew">‎צַלְמָוֶת‎</span>), as a past day <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יוֺם עָנָן וַע‎</span> [[Ezek.34.12|Ezek 34:12]] = (of future day of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>) [[Zeph.1.15|Zeph 1:15]] (\|\| <span class="bdbLangHebrew">‎יוֺם חשֶׁח וַאֲפֵלָה‎</span>) = [[Joel.2.2|Joel 2:2]] (\|\| ***id.***). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.20.18\|20:18]] · [[Exod.20.21\|20:21]] |
+| Deuteronomy | [[Deut.4.11\|4:11]] · [[Deut.5.19\|5:19]] |
+| 2 Samuel | [[2Sam.22.10\|22:10]] |
+| 1 Kings | [[1Kgs.8.12\|8:12]] |
+| 2 Chronicles | [[2Chr.6.1\|6:1]] |
+| Job | [[Job.22.13\|22:13]] · [[Job.38.9\|38:9]] |
+| Psalms | [[Ps.18.10\|18:10]] · [[Ps.97.2\|97:2]] |
+| Isaiah | [[Isa.60.2\|60:2]] |
+| Jeremiah | [[Jer.13.16\|13:16]] |
+| Ezekiel | [[Ezek.34.12\|34:12]] |
+| Joel | [[Joel.2.2\|2:2]] |
+| Zephaniah | [[Zeph.1.15\|1:15]] |
+

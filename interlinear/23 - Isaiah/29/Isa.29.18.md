@@ -1,0 +1,24 @@
+**Isaiah 29:18** 
+<small><sub>**KJV:**</sub></small>
+And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.
+<small><sub>**BSB:**</sub></small>
+On that day the deaf will hear the words of the scroll, and out of the deep darkness the eyes of the blind will see.
+<small><sub>**Literal:**</sub></small>
+and  they will hear in the  day \<the>  that the  deaf [people] [the] words of a scroll and  from  gloom and  from  darkness [the] eyes of blind [people] they will see<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.17|<< Isaiah 29:17]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.19|Isaiah 29:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will hear  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׁמְע֧וּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sha.me.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the day  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יּוֹם</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[HRd]]</sup></small> i.yom-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>ה֛וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the deaf [people]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חֵרְשִׁ֖ים</big></span><small><sup>[[H2795]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> che.re.Shim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] words of  | <span class="ashebrew"><big>דִּבְרֵי</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| div.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a scroll  | <span class="ashebrew"><big>סֵ֑פֶר</big></span><small><sup>[[H5612H]]</sup></small> &#8207;| Se.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from gloom  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֹ֣פֶל</big></span><small><sup>[[H0652]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'O.fel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from darkness  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>חֹ֔שֶׁךְ</big></span><small><sup>[[H2822]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] eyes of  | <span class="ashebrew"><big>עֵינֵ֥י</big></span><small><sup>[[H5869A]]</sup></small> &#8207;| 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blind [people]  | <span class="ashebrew"><big>עִוְרִ֖ים</big></span><small><sup>[[H5787]]</sup></small> &#8207;| 'iv.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will see  | <span class="ashebrew"><big>תִּרְאֶֽינָה</big></span><small><sup>[[H7200G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tir.'Ei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.17|<< Isaiah 29:17]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.19|Isaiah 29:19 >>]]</td></tr></table>
+
+

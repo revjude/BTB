@@ -1,0 +1,9 @@
+<big><span class="ashebrew">‎קָנַן‎</span></big> **qânan** <small>*(kaw-nan')*</small> ==**to make a nest**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+<small>a primitive root; to erect; but used only as denominative from <span class="ashebrew">‎קֵן‎</span><sup><small>[[H7064]]</small></sup></small>
+
+$\quad$ make...nest.
+- ***to nestle***, i.e. ***build*** or ***occupy as a******nest***
+
+**1)** to make a nest
+$\quad$ **1a)** (Piel) to make a nest
+$\quad$ **1b)** (Pual) to be nested

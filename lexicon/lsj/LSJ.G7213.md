@@ -1,0 +1,13 @@
+<span class="asgreek">ἐμφράσσω</span> <small>***(emphrassō)***</small> ==**to obstruct**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐμφράσσω==</span>-<span class='asgreek'>φράσσω</span></b>, 
+
+
+ <i>Attic dialect</i> <b><span class='asgreek'>==ἐμφράσσω==φράττω</span></b>, <i>perfect</i> <span class='asgreek'>==ἐμφράσσω==πέφρᾰκα</span> [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Nubes” 1240 ">Refs 5th c.BC+</a>]: <i>future</i> <i>passive</i> <b>-<span class='asgreek'>φραχθήσομαι</span></b>[<a href="javascript:void(0)" title=" LXX.Mic.5.1 (4.14)">LXX</a>]: <i>aorist 2</i> <i>participle</i> <i>passive</i> <span class='asgreek'>==ἐμφράσσω==φρᾰγείς</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus “Fragmenta” 41 ">Refs 1st c.AD+</a>] H.:— <b>bar a passage, stop up, block up</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>μεταξύ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 7.34; τοὺς ἔσπλους [prev. author] 4.8; ἐ. συγκλείουσά τε 5th-6th c.BC: Plato Philosophus “Timaeus” 71c; ἐ. τὸ στόμα 4th c.BC: Demosthenes Orator 19.208; ἐ. τὰς ὁδοὺς τῶν ἀδικημάτων 4th c.BC: Lycurgus Orator 124. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>bar the passage of, stop</b>, <span class='asgreek'>τὰς</span> <span class='asgreek'>κατὰ</span> <span class='asgreek'>σοῦ</span> <span class='asgreek'>τιμωρίας</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 3.223; πᾶσαν παρείσδυσιν 4th-3rd c.BC: Epicurus Philosophus “Sent. Vat.” 47 (= Mctrod.49)">Refs 4th c.BC+</a>]; <span class='asgreek'>τὰς</span> <span class='asgreek'>βοηθείας</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 14.56; τὴν περὶ τὰ αὶσθητήρια ἀκρίβειαν 1st c.AD: Philo Judaeus 1.246; τὴν φωνήν 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.606d. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>middle</i> in <i>active</i> sense, [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Alexipharmaca” 191. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>stuff in</b>, <span class='asgreek'>φύλλα</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>ὀπάς</span> (variant{<span class='asgreek'>φύλλοις</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>ὀ</span>}.) [<a href="javascript:void(0)" title=" “Geoponica” 13.5.3">Refs</a>]; <span class='asgreek'>τινί</span> <span class='asgreek'>τι</span> variant in [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Theriaca” 79 (\_middle\_). ">Refs 2nd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Mic.5.1]]
+</sub></small>

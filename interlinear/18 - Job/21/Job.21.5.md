@@ -1,0 +1,20 @@
+**Job 21:5** 
+<small><sub>**KJV:**</sub></small>
+Mark me, and be astonished, and lay [your] hand upon [your] mouth.
+<small><sub>**BSB:**</sub></small>
+Look at me and be appalled; put your hand over your mouth.
+<small><sub>**Literal:**</sub></small>
+turn to  me and  be appalled and  put a hand over a mouth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.4|<< Job 21:4]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.6|Job 21:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| turn  | <span class="ashebrew"><big>פְּנוּ</big></span><small><sup>[[H6437G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| pe.nu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלַ֥</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and be appalled  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָשַׁ֑מּוּ</big></span><small><sup>[[H8074H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.Sha.mu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and put  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שִׂ֖ימוּ</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Si.mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a hand  | <span class="ashebrew"><big>יָ֣ד</big></span><small><sup>[[H3027G]]</sup></small> &#8207;| yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mouth  | <span class="ashebrew"><big>פֶּֽה</big></span><small><sup>[[H6310G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Peh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.4|<< Job 21:4]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.6|Job 21:6 >>]]</td></tr></table>
+
+

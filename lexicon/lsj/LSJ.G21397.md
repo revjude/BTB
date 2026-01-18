@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==ἐναφανίζω==</span></b>, 
+
+
+&nbsp;&nbsp;<b>cause to disappear, hide</b>, <span class='asgreek'>τῶν</span> <span class='asgreek'>ἡδονῶν</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>σωματικὰς</span> <span class='asgreek'>αἱ</span> <span class='asgreek'>πρακτικαὶ</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>Χαίροντι</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ψυχῆς</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1099d">Refs 1st c.AD+</a>]:—more frequently in <i>passive</i>, <b>to be lost in</b>, <span class='asgreek'>ἔν</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 1.3.3; τινί 1st c.AD: Philo Judaeus 2.118, 3rd c.AD: Longinus Rhetor 17.2, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.489a, 2nd c.AD: Marcus Antoninus Imperator 7.10, +others">Refs 1st c.BC+</a>]: <i>absolutely</i>, of the pulse, <b>die away, disappear in</b>, <span class='asgreek'>ταῖς</span> <span class='asgreek'>ἀντιβάσεσιν</span> [<a href="javascript:void(0)" title=" 1st c.AD: Agathinus Medicus cited in 2nd c.AD: Galenus Medicus 8.936. ">Refs 1st c.AD+</a>]
+

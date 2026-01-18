@@ -1,0 +1,24 @@
+**Jonah 2:3** (2:4)
+<small><sub>**KJV:**</sub></small>
+For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.
+<small><sub>**BSB:**</sub></small>
+For You cast me into the deep, into the heart of the seas, and the current swirled about me; all Your breakers and waves swept over me.
+<small><sub>**Literal:**</sub></small>
+and  you have thrown  me [the] deep in  [the] heart of [the] seas and  a river it surrounds  me all breakers  your and  waves  your over  me they have passed<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.2|<< Jonah 2:2]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.4|Jonah 2:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you have thrown me  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תַּשְׁלִיכֵ֤</big></span><small><sup>[[H7993]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tash.li.Khe.<small><sup>[[HVhw2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] deep  | <span class="ashebrew"><big>מְצוּלָה֙</big></span><small><sup>[[H4688]]</sup></small> &#8207;| me.tzu.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] heart of  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>לְבַ֣ב</big></span><small><sup>[[H3824]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> l.Vav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] seas  | <span class="ashebrew"><big>יַמִּ֔ים</big></span><small><sup>[[H3220G]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a river  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נָהָ֖ר</big></span><small><sup>[[H5104H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> na.Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it surrounds me  | <span class="ashebrew"><big>יְסֹבְבֵ֑</big></span><small><sup>[[H5437H]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| ye.soe.Ve.<small><sup>[[HVpi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| breakers your  | <span class="ashebrew"><big>מִשְׁבָּרֶ֥י</big></span><small><sup>[[H4867]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mish.ba.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and waves your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גַלֶּ֖י</big></span><small><sup>[[H1530H]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ga.Lei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over me  | <span class="ashebrew"><big>עָלַ֥</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'a.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have passed  | <span class="ashebrew"><big>עָבָֽרוּ</big></span><small><sup>[[H5674A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Va.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.2|<< Jonah 2:2]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.4|Jonah 2:4 >>]]</td></tr></table>
+
+

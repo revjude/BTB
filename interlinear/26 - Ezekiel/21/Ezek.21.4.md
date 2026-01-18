@@ -1,0 +1,28 @@
+**Ezekiel 21:4** (21:9)
+<small><sub>**KJV:**</sub></small>
+Seeing then that I will cut off from thee the righteous and the wicked, therefore shall my sword go forth out of his sheath against all flesh from the south to the north:
+<small><sub>**BSB:**</sub></small>
+Because I will cut off both the righteous and the wicked, My sword will be unsheathed against everyone from south to north.
+<small><sub>**Literal:**</sub></small>
+because that I have cut off from  you [the] righteous and  [the] wicked \<to>  therefore it will go forth sword  my from  sheath  its against all flesh from  [the] south [the] north<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.3|<< Ezekiel 21:3]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.5|Ezekiel 21:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| because  | <span class="ashebrew"><big>יַ֛עַן</big></span><small><sup>[[H3282]]</sup></small> &#8207;| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have cut off  | <span class="ashebrew"><big>הִכְרַ֥תִּי</big></span><small><sup>[[H3772I]]</sup></small> &#8207;| hikh.Ra.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from you  | <span class="ashebrew"><big>מִמֵּ֖</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9032]]</sup></small> &#8207;| mi.Me<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] righteous  | <span class="ashebrew"><big>צַדִּ֣יק</big></span><small><sup>[[H6662]]</sup></small> &#8207;| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] wicked  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רָשָׁ֑ע</big></span><small><sup>[[H7563]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> therefore  | <span class="ashebrew"><big>לָ֠</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֵן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| La.<small><sup>[[HR]]</sup></small> khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go forth  | <span class="ashebrew"><big>תֵּצֵ֨א</big></span><small><sup>[[H3318H]]</sup></small> &#8207;| te.Tze'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sword my  | <span class="ashebrew"><big>חַרְבִּ֧</big></span><small><sup>[[H2719]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| char.B<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from sheath its  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>תַּעְרָ֛</big></span><small><sup>[[H8593]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ta'.Ra<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| against  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flesh  | <span class="ashebrew"><big>בָּשָׂ֖ר</big></span><small><sup>[[H1320]]</sup></small> &#8207;| ba.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] south  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>נֶּ֥גֶב</big></span><small><sup>[[H5045H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ne.gev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] north  | <span class="ashebrew"><big>צָפֽוֹן</big></span><small><sup>[[H6828G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.3|<< Ezekiel 21:3]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.5|Ezekiel 21:5 >>]]</td></tr></table>
+
+

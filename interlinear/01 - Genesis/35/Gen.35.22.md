@@ -1,0 +1,36 @@
+**Genesis 35:22** 
+<small><sub>**KJV:**</sub></small>
+And it came to pass, when Israel dwelt in that land, that Reuben went and lay with Bilhah his father’s concubine: and Israel heard [it]. Now the sons of Jacob were twelve:
+<small><sub>**BSB:**</sub></small>
+While Israel was living in that region, Reuben went in and slept with his father’s concubine Bilhah, and Israel heard about it. Jacob had twelve sons:
+<small><sub>**Literal:**</sub></small>
+and  it was when  dwelt Israel in the  land \<the>  that and  he went Reuben and  he lay with \<obj.> Bilhah [the] concubine of father of  his and  he heard Israel and  they were [the] sons of Jacob two [plus] ten<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.21|<< Genesis 35:21]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.23|Genesis 35:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְהִ֗י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when dwelt  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְׁכֹּ֤ן</big></span><small><sup>[[H7931]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> sh.Kon<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵל֙</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the land  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הִ֔וא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Hiv'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֣לֶךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Reuben  | <span class="ashebrew"><big>רְאוּבֵ֔ן</big></span><small><sup>[[H7205]]</sup></small> &#8207;| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he lay with  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁכַּ֕ב֙</big></span><small><sup>[[H7901I]]</sup></small> &#8207;[^1] | va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bilhah  | <span class="ashebrew"><big>בִּלְהָ֖ה֙</big></span><small><sup>[[H1090A]]</sup></small> &#8207;[^2] | bil.Hah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
+| [the] concubine of  | <span class="ashebrew"><big>פִּילֶ֣גֶשׁ</big></span><small><sup>[[H6370]]</sup></small> &#8207;| pi.Le.gesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father of his  | <span class="ashebrew"><big>אָבִ֑֔י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;[^3] | 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
+| and he heard  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁמַ֖ע</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵֽ֑ל</big></span><small><sup>[[H3478]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;[^4] | Yis.ra.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
+| and they were  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּֽהְי֥וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  | <span class="ashebrew"><big>בְנֵֽי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  | <span class="ashebrew"><big>יַעֲקֹ֖ב</big></span><small><sup>[[H3290]]</sup></small> &#8207;| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two [plus]  | <span class="ashebrew"><big>שְׁנֵ֥ים</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Neim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עָשָֽׂר</big></span><small><sup>[[H6240]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.21|<< Genesis 35:21]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.23|Genesis 35:23 >>]]</td></tr></table>
+
+[^1]: ==P== spelled: **<span class="ashebrew"><big>וַיִּשְׁכַּ֕ב</big></span>**
+[^2]: ==P== spelled: **<span class="ashebrew"><big>בִּלְהָ֖ה</big></span>**
+[^3]: ==P== spelled: **<span class="ashebrew"><big>אָבִ֑יו</big></span>**
+[^4]: ==P== spelled: **<span class="ashebrew"><big>יִשְׂרָאֵֽל\ \פ</big></span>**
+

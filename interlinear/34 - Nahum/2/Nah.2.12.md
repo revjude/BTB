@@ -1,0 +1,24 @@
+**Nahum 2:12** (2:13)
+<small><sub>**KJV:**</sub></small>
+The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin.
+<small><sub>**BSB:**</sub></small>
+The lion mauled enough for its cubs and strangled prey for the lioness. It filled its dens with the kill, and its lairs with mauled prey.
+<small><sub>**Literal:**</sub></small>
+[the] lion [was] tearing for  [the] sufficiency of cubs  its and  [was] strangling for  lionesses  its and  it filled prey hole  its and  dens  its torn flesh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.11|<< Nahum 2:11]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.13|Nahum 2:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] lion  | <span class="ashebrew"><big>אַרְיֵ֤ה</big></span><small><sup>[[H0738B]]</sup></small> &#8207;| 'ar.Yeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] tearing  | <span class="ashebrew"><big>טֹרֵף֙</big></span><small><sup>[[H2963]]</sup></small> &#8207;| to.Ref<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] sufficiency of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דֵ֣י</big></span><small><sup>[[H1767]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Dei<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubs its  | <span class="ashebrew"><big>גֹֽרוֹתָ֔י</big></span><small><sup>[[H1484]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| go.ro.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [was] strangling  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְחַנֵּ֖ק</big></span><small><sup>[[H2614]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.cha.Nek<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for lionesses its  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>לִבְאֹתָ֑י</big></span><small><sup>[[H3833A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> liv.'o.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it filled  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְמַלֵּא</big></span><small><sup>[[H4390]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.ma.le'-<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prey  | <span class="ashebrew"><big>טֶ֣רֶף</big></span><small><sup>[[H2964]]</sup></small> &#8207;| Te.ref<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hole its  | <span class="ashebrew"><big>חֹרָ֔י</big></span><small><sup>[[H2356]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| cho.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and dens its  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְעֹֽנֹתָ֖י</big></span><small><sup>[[H4585]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.'o.no.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| torn flesh  | <span class="ashebrew"><big>טְרֵפָֽה</big></span><small><sup>[[H2966]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| te.re.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.11|<< Nahum 2:11]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.13|Nahum 2:13 >>]]</td></tr></table>
+
+

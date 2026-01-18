@@ -1,0 +1,12 @@
+<big><span class="ashebrew">‎מוֹרָד‎</span></big> **môwrâd** <small>*(mo-rawd')*</small> ==**descent**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from <span class="ashebrew">‎יָרַד‎</span><sup><small>[[H3381]]</small></sup></small>
+
+$\quad$ going down, steep place, thin work.
+- ***a descent***
+-  as architecture, ***an ornamental appendage***, perhaps ***a festoon***
+
+**1)** descent, slope, steep place, hanging work, bevelled work
+$\quad$ **1a)** descent
+$\quad$ **1b)** hanging work
+
+<sub><small>See Greek: </small></sub><span class="asgreek">ὁδός</span><sup><small>[[G3598]]</small></sup>

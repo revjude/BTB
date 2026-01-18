@@ -1,0 +1,8 @@
+ <span class="bdbLangHebrew">‎גִּזְבָּר‎</span> **noun masculine** ==treasurer== (loan-word; Late Hebrew ***id.***; compare Biblical Aramaic [<span class="bdbLangHebrew">‎גִּזְבָּר‎</span>], plural <span class="bdbLangHebrew">‎גִּזְבָּרַיָּא‎</span>; Syriac <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhNAAdAIAAAP///wAAACH5BAAAAAAALAAAAAA0AB0AAAJ3hI+py+0Po5y02oBBtpzh/3xi54ChuJFLWqKBur6NrCE0bLf4bu4G+wPahKrRwXU7JmG9oEtBZM6MyiFzCWWZUJ1nItMcISvIMlXz9ErM5eErzV2L21blVj0lL71jH2SM5+fB1iQ4CBdl6Ean+NfXCBkpOUm5UAAAOw==">, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhQAAfAIAAAP///wAAACH5BAAAAAAALAAAAABAAB8AAAKihI+py+0PowkUVIkzpDzofCGc1HkfGU4jupUm+h5e7KSN+9kWffOM66vxdKfEJfiwIXvLorEZWTlbUxW0qlSUFtJqT5QC0rpe7jh27ICvU6IwRM46w26wTL1b4XMvYN5vJZZGFtUnCBh4OLOFAYeDaPVnqIbTglanhZm4uPczpMFWWclVxqfHWOol2pnahkrYOrelGQs6Woubq7vL2+v7G1EAADs="> also <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhOQAfAIAAAP///wAAACH5BAAAAAAALAAAAAA5AB8AAAKQhI+py+0PYwqHyotn2Dx7THXfCIUWqYifimpnxrZIOG7o68qrvfAzrkv5fkJgcAIaGowt5bI3jDU5L2r0yqxZl1Yfi3rsPrnXX/S2BVSxxIr0klZhLWDyOyKXm7v5Onz+ZcJXJ4YXU8hlN2jDV5IF9ago6Kfj1CDWeJQUl6YpkUnp+bkoqtVZuoOqusraqlAAADs=">, Persian <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhTAAjAIAAAP///wAAACH5BAAAAAAALAAAAABMACMAAAKohI+py+0Po5y02otlyLyrsHkiBoLjSZVhsqKu+qmte86ATOdxKZo6g6vZfkGU73fg6ZTI25HGbEZfQ8/wSYVinVVrNzM1bEdjhCz8AX45xymsmFqnzKtwEP0oW5g+eFKJt4V30RZydsi18YaoOEhYB3ko2Tgp+WJGp5jIA9hSl6jloNdU4ThKGgHTEChHqqrW5Uh0tmramuO3KYtKQsv7CxwsPExcPFIAADs=">, compare [[BDB#Lag|Lag]]<sup>Ges. Abh. 27 f., Arm. Stud.§ 454</sup>), [[Ezra.1.8|Ezra 1:8]]. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ezra | [[Ezra.1.8\|1:8]] |
+

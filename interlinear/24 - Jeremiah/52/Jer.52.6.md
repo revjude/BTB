@@ -1,0 +1,25 @@
+**Jeremiah 52:6** 
+<small><sub>**KJV:**</sub></small>
+And in the fourth month, in the ninth [day] of the month, the famine was sore in the city, so that there was no bread for the people of the land.
+<small><sub>**BSB:**</sub></small>
+By the ninth day of the fourth month, the famine in the city was so severe that the people of the land had no food.
+<small><sub>**Literal:**</sub></small>
+in the  month \<the>  fourth on  [day] nine of the  month and  it was severe the  famine in the  city and  not it belonged food to  [the] people of the  land<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.5|<< Jeremiah 52:5]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.7|Jeremiah 52:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| in the month  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֹ֤דֶשׁ</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> fourth  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רְבִיעִי֙</big></span><small><sup>[[H7243]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> re.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [day] nine  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תִשְׁעָ֣ה</big></span><small><sup>[[H8672]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> tish.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the month  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֹ֔דֶשׁ</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was severe  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֶּחֱזַ֥ק</big></span><small><sup>[[H2388G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.che.Zak<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the famine  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רָעָ֖ב</big></span><small><sup>[[H7458]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the city  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עִ֑יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it belonged  | <span class="ashebrew"><big>הָיָ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food  | <span class="ashebrew"><big>לֶ֖חֶם</big></span><small><sup>[[H3899G]]</sup></small> &#8207;| Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] people of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עַ֥ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'Am<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָֽרֶץ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.5|<< Jeremiah 52:5]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.7|Jeremiah 52:7 >>]]</td></tr></table>
+
+

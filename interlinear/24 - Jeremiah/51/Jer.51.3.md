@@ -1,0 +1,30 @@
+**Jeremiah 51:3** 
+<small><sub>**KJV:**</sub></small>
+Against [him that] bendeth let the archer bend his bow, and against [him that] lifteth himself up in his brigandine: and spare ye not her young men; destroy ye utterly all her host.
+<small><sub>**BSB:**</sub></small>
+Do not let the archer bend his bow or put on his armor. Do not spare her young men; devote all her army to destruction!
+<small><sub>**Literal:**</sub></small>
+may not he bend [ ] the  [one] bending bow  his and  may not he lift in  armor  his and  may not you spare \<to> young men  its totally destroy all army  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.2|<< Jeremiah 51:2]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.4|Jeremiah 51:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| may not  | <span class="ashebrew"><big>אֶֽל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he bend  | <span class="ashebrew"><big>יִדְרֹ֤ךְ</big></span><small><sup>[[H1869]]</sup></small> &#8207;| yid.Rokh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [ ]  [^1] | <span class="ashebrew"><big></big></span><small><sup>[[]]</sup></small> &#8207;[^2] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| the [one] bending  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דֹּרֵךְ֙</big></span><small><sup>[[H1869]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> do.reKh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bow his  | <span class="ashebrew"><big>קַשְׁתּ֔</big></span><small><sup>[[H7198]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| kash.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he lift  | <span class="ashebrew"><big>יִתְעַ֖ל</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| yit.'Al<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in armor his  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>סִרְיֹנ֑</big></span><small><sup>[[H5630]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> sir.yo.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַֽל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you spare  | <span class="ashebrew"><big>תַּחְמְלוּ֙</big></span><small><sup>[[H2550]]</sup></small> &#8207;| tach.me.Lu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to>  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| young men its  | <span class="ashebrew"><big>בַּ֣חֻרֶ֔י</big></span><small><sup>[[H0970]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ba.chu.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| totally destroy  | <span class="ashebrew"><big>הַחֲרִ֖ימוּ</big></span><small><sup>[[H2763A]]</sup></small> &#8207;| ha.cha.Ri.mu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| army its  | <span class="ashebrew"><big>צְבָאָֽ</big></span><small><sup>[[H6635A]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tze.va.'A<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.2|<< Jeremiah 51:2]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.4|Jeremiah 51:4 >>]]</td></tr></table>
+
+[^1]: ==K==: **he bend ** | <small><sup>[[H1869]]</sup></small><span class="ashebrew"><big>יִדְרֹךְ</big></span>  | yid.rokh<small><sup>[[HVqi3ms]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>ידרך</big></span>**
+

@@ -1,0 +1,22 @@
+**Ezekiel 19:7** 
+<small><sub>**KJV:**</sub></small>
+And he knew their desolate palaces, and he laid waste their cities; and the land was desolate, and the fulness thereof, by the noise of his roaring.
+<small><sub>**BSB:**</sub></small>
+He broke down their strongholds and devastated their cities. The land and everything in it shuddered at the sound of his roaring.
+<small><sub>**Literal:**</sub></small>
+and  it knew widows  its and  cities  their it laid waste and  it was desolate [the] land and  what fills  it from  [the] sound of roaring  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.6|<< Ezekiel 19:6]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.8|Ezekiel 19:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it knew  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֙דַע֙</big></span><small><sup>[[H3045]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.da'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| widows its  | <span class="ashebrew"><big>אַלְמְנוֹתָ֔י</big></span><small><sup>[[H0490]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'al.me.no.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cities their  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עָרֵי</big></span><small><sup>[[H5892B]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it laid waste  | <span class="ashebrew"><big>הֶחֱרִ֑יב</big></span><small><sup>[[H2717B]]</sup></small> &#8207;| he.che.Riv<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was desolate  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֵּ֤שַׁם</big></span><small><sup>[[H3456]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Te.sham<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land  | <span class="ashebrew"><big>אֶ֙רֶץ֙</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| 'e.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and what fills it  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְלֹאָ֔</big></span><small><sup>[[H4393]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.lo.'A<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] sound of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>קּ֖וֹל</big></span><small><sup>[[H6963H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| roaring its  | <span class="ashebrew"><big>שַׁאֲגָתֽ</big></span><small><sup>[[H7581]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| sha.'a.ga.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.6|<< Ezekiel 19:6]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.8|Ezekiel 19:8 >>]]</td></tr></table>
+
+

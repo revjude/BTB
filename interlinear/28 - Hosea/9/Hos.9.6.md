@@ -1,0 +1,27 @@
+**Hosea 9:6** 
+<small><sub>**KJV:**</sub></small>
+For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant [places] for their silver, nettles shall possess them: thorns [shall be] in their tabernacles.
+<small><sub>**BSB:**</sub></small>
+For even if they flee destruction, Egypt will gather them and Memphis will bury them. Their precious silver will be taken over by thistles, and thorns will overrun their tents.
+<small><sub>**Literal:**</sub></small>
+for there! they have gone from  [the] devastation Egypt it will gather  them Memphis it will bury  them treasure of  silver  their nettle[s] it will take possession of  them thorn[s] [will be] in  tents  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.5|<< Hosea 9:5]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.7|Hosea 9:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  | <span class="ashebrew"><big>הִנֵּ֤ה</big></span><small><sup>[[H2009]]</sup></small> &#8207;| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have gone  | <span class="ashebrew"><big>הָֽלְכוּ֙</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ha.le.Khu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] devastation  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שֹּׁ֔ד</big></span><small><sup>[[H7701]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Shod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרַ֥יִם</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will gather them  | <span class="ashebrew"><big>תְּקַבְּצֵ֖</big></span><small><sup>[[H6908]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| te.ka.be.Tze<small><sup>[[HVpi3fs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Memphis  | <span class="ashebrew"><big>מֹ֣ף</big></span><small><sup>[[H4644]]</sup></small> &#8207;| mof<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will bury them  | <span class="ashebrew"><big>תְּקַבְּרֵ֑</big></span><small><sup>[[H6912]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| te.ka.be.Re<small><sup>[[HVpi3fs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| treasure  | <span class="ashebrew"><big>מַחְמַ֣ד</big></span><small><sup>[[H4261]]</sup></small> &#8207;| mach.Mad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of silver their  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כַסְפָּ֗</big></span><small><sup>[[H3701G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> khas.Pa<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nettle[s]  | <span class="ashebrew"><big>קִמּוֹשׂ֙</big></span><small><sup>[[H7057]]</sup></small> &#8207;| ki.mOs<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will take possession of them  | <span class="ashebrew"><big>יִֽירָשֵׁ֔</big></span><small><sup>[[H3423G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| yi.ra.She<small><sup>[[HVqi3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thorn[s]  | <span class="ashebrew"><big>ח֖וֹחַ</big></span><small><sup>[[H2336]]</sup></small> &#8207;| Cho.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] in tents their  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָהֳלֵי</big></span><small><sup>[[H0168G]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'o.ho.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.5|<< Hosea 9:5]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.7|Hosea 9:7 >>]]</td></tr></table>
+
+

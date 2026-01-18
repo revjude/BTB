@@ -1,0 +1,14 @@
+<span class="asgreek">διάκενος</span> <small>***(diakenos)***</small> ==**empty**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==διάκενος==</span>-<span class='asgreek'>κενος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>empty, hollow,</b> <span class='asgreek'>σφαῖρα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.93; τὸ δ. ">Refs 2nd c.AD+</a>]<b>gap, breach,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 4.135, 5.71; τὸ δ. τοῦ ὀδόντος 2nd c.AD: Antyllus Medicus cited in 4th c.AD: Oribasius Medicus 10.36.3 ">Refs 5th c.BC+</a>]; <b>interval,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoxenus Musicus “Harmonica” p.26 M.; τὰ δ. ">Refs 4th c.BC+</a>]<b>hollows,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 58b, 60e ">Refs 5th c.BC+</a>]; <span class='asgreek'>==διάκενος==κενον</span> <span class='asgreek'>δεδορκότα</span> with <b>a vacant</b> stare, of skeletons, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Nec.” 15. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>empty</b> or <b>vain,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 820e ">Refs 5th c.BC+</a>]; <span class='asgreek'>δ</span>. <span class='asgreek'>ἑλκυσμός</span>, of <b>idle</b> fancies, [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 2.22 ">Refs 3rd c.BC+</a>]. <i>adverb</i> -<span class='asgreek'>νως</span>, <span class='asgreek'>ἕλκειν</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>==διάκενος==νοιαν</span> [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de Mysteriis” 2.10; κοπιᾶν 15th c.AD: Macarius Paroemiographus 1.99. ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>thin, lank,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Lycurgus” 17; δ. καὶ λαγαροί [prev. author] “Publ.” 15; δ. τοὺς βουβῶνας 2nd-3rd c.AD: Philostratus Sophista “de gymnastica” 37. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> <b>porous,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 8.672">Refs 2nd c.AD+</a>]; <span class='asgreek'>δ</span>. <span class='asgreek'>ἄρτοι</span> <b>light</b> bread, [<a href="javascript:void(0)" title=" LXX.Num.21.5. ">LXX</a>]
+$\quad$ $\quad$<b>\_\_V</b> <i>adverb</i> <span class='asgreek'>διακένως</span>, <span class='asgreek'>ζώνη</span> <span class='asgreek'>δ</span>. <span class='asgreek'>ὑφασμένη</span> of a <b>gauzy</b> texture, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 3.7.2. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Num.21.5]]
+</sub></small>

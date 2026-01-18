@@ -1,0 +1,11 @@
+<span class="asgreek">καθηλόω</span> <small>***(kathēloō)***</small> ==**to nail up**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==καθηλόω==</span>-<span class='asgreek'>όω</span></b> 
+
+
+ or <b><span class='asgreek'>κατηλόω</span></b> (compare <span class='asgreek'>ἧλος</span>), <b>nail on</b>, <span class='asgreek'>παραβλήματα</span> <span class='asgreek'>κατηλῶσαι</span> [<a href="javascript:void(0)" title=" “IG” 22.1604.31 (4th c.BC)">Refs 4th c.BC+</a>]; <span class='asgreek'>τι</span> <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Alexander” 24; περί τι 2nd c.AD: Apollodorus Damascenus Mechanicus 1.9.1, compare “IG” 22.463.79, 1668.57; οἷον κ. τὴν ψυχὴν πρὸς τὴν ἀπόλαυσιν 3rd c.AD: Porphyrius Tyrius Philosophus “de Abstinentia - Porphyrii Opuscula” 1.38:">Refs 1st c.AD+</a>] —<i>passive</i>, <span class='asgreek'>κλῖμαξ</span> <span class='asgreek'>σανίσι</span> <span class='asgreek'>==καθηλόω==ωμένη</span> with boards <b>nailed thereto</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.22.5, compare 2nd c.AD: Apollodorus Damascenus Mechanicus “Abhandlungen der Göttinger Gesellschaft der Wissenschaften (Phil.-hist. Klasse)” 189.5; ==καθηλόω==ωθήσεται σύριγξι καμαρικαῖς 2nd c.BC: Athenaeus Mechanicus 36.5 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>λεπίδες</span> <span class='asgreek'>==καθηλόω==ωμέναι</span> <b>nailed on</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 20.91, compare 4th c.AD: Oribasius Medicus 49.4.51; Χάλκωμα συμμαχίας.. ἐν Καπετωλίῳ κατηλωθῆναι “IG” 12(3).173.7 (Astypalaea, 2nd c.BC). ">Refs 2nd c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> by confusion of Hebrew <b>sāmar</b> 'bristled' with <b>sāmar</b>, <i>imperative</i> <b>sèmōr</b> 'nail thou', <span class='asgreek'>καθήλωσον</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>φόβου</span> <span class='asgreek'>σου</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>σάρκας</span> <span class='asgreek'>μου</span> [<a href="javascript:void(0)" title=" LXX.Ps.118.120. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[Ps.118.120]]
+</sub></small>

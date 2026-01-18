@@ -1,0 +1,31 @@
+**Judges 8:18** 
+<small><sub>**KJV:**</sub></small>
+Then said he unto Zebah and Zalmunna, What manner of men [were they] whom ye slew at Tabor? And they answered, As thou [art], so [were] they; each one resembled the children of a king.
+<small><sub>**BSB:**</sub></small>
+Next, Gideon asked Zebah and Zalmunna, “What kind of men did you kill at Tabor?” “Men like you,” they answered, “each one resembling the son of a king.”
+<small><sub>**Literal:**</sub></small>
+and  he said to Zebah and  to Zalmunna where? [are] the  men whom you killed at  Tabor and  they said like  you like  them one [was] like  [the] appearance of [the] sons of the  king<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.17|<< Judges 8:17]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.19|Judges 8:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֗אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zebah  | <span class="ashebrew"><big>זֶ֙בַח֙</big></span><small><sup>[[H2078]]</sup></small> &#8207;| ze.vach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zalmunna  | <span class="ashebrew"><big>צַלְמֻנָּ֔ע</big></span><small><sup>[[H6759]]</sup></small> &#8207;| tzal.mu.Na'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| where?  | <span class="ashebrew"><big>אֵיפֹה֙</big></span><small><sup>[[H0375]]</sup></small> &#8207;| 'ei.Foh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] the men  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֲנָשִׁ֔ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you killed  | <span class="ashebrew"><big>הֲרַגְתֶּ֖ם</big></span><small><sup>[[H2026]]</sup></small> &#8207;| ha.rag.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at Tabor  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תָב֑וֹר</big></span><small><sup>[[H8396G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ta.Vor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they said  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּאמרוּ֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;[^1] | va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
+| like you  | <span class="ashebrew"><big>כָּמ֣וֹ</big></span><small><sup>[[H3644G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ka.Mo.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like them  | <span class="ashebrew"><big>כְמוֹ</big></span><small><sup>[[H3644G]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| khe.mo.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  | <span class="ashebrew"><big>אֶחָ֕ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] like [the] appearance of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>תֹ֖אַר</big></span><small><sup>[[H8389]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> To.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.17|<< Judges 8:17]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.19|Judges 8:19 >>]]</td></tr></table>
+
+[^1]: ==ABH== spelled: **<span class="ashebrew"><big>וַֽיֹּאמְרוּ֙</big></span>**
+

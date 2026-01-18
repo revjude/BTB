@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==συναναστροφή==</span>-<span class='asgreek'>στροφή</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>living with, intercourse</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Gnomologium Vaticanum - Kleine Schriften” 18, LXX.Wis.8.16, 1st c.BC: Philodemus Gadarensis Epigrammaticus “D.” 3 “fragment” 87, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 18.6.9; πρός τινας “Supp.epigram” 7.825.7 (Jerash, 2nd c.AD): \_plural\_, 1st c.BC: Diodorus Siculus Historicus 4.4, 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 1.9.5, Hierocl. p.58 4th-5th c.BC: Aeschylus Tragicus ">LXX+4th c.BC+</a>]
+

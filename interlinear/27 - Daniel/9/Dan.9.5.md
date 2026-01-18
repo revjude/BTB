@@ -1,0 +1,22 @@
+**Daniel 9:5** 
+<small><sub>**KJV:**</sub></small>
+We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments:
+<small><sub>**BSB:**</sub></small>
+we have sinned and done wrong. We have acted wickedly and rebelled. We have turned away from Your commandments and ordinances.
+<small><sub>**Literal:**</sub></small>
+we have sinned and  we have committed iniquity we have acted wickedly and  we have rebelled and  we have turned aside from  commandments  your and  from  judgments  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.4|<< Daniel 9:4]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.6|Daniel 9:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| we have sinned  | <span class="ashebrew"><big>חָטָ֥אנוּ</big></span><small><sup>[[H2398]]</sup></small> &#8207;| cha.Ta.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and we have committed iniquity  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עָוִ֖ינוּ</big></span><small><sup>[[H5753B]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Vi.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we have acted wickedly  [^1] | <span class="ashebrew"><big>הִרְשַׁ֣עְנוּ</big></span><small><sup>[[H7561]]</sup></small> &#8207;[^2] | ve.hir.sha'.nu<small><sup>[[HVhp1cp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| and we have rebelled  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מָרָ֑דְנוּ</big></span><small><sup>[[H4775]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.Ra.de.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and we have turned aside  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ס֥וֹר</big></span><small><sup>[[H5493I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Sor<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from commandments your  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּצְוֹתֶ֖</big></span><small><sup>[[H4687]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mitz.vo.Te.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from judgments your  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּשְׁפָּטֶֽי</big></span><small><sup>[[H4941G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> mish.pa.Tei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.4|<< Daniel 9:4]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.6|Daniel 9:6 >>]]</td></tr></table>
+
+[^1]: ==K==: **and we have acted wickedly ** | <small><sup>[[H7561]]</sup></small><span class="ashebrew"><big>הִרְשַׁעְנוּ</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> hir.sha'.nu<small><sup>[[HVhp1cp]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>והִרְשַׁ֣עְנוּ</big></span>**
+

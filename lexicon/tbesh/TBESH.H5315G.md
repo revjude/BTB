@@ -1,0 +1,1 @@
+<span class="ashebrew">‎נֶ֫פֶשׁ‎</span> <small>***(ne.phesh)***</small> ==**soul**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 

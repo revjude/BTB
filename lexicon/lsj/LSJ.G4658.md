@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==Σκύθης==</span>-<span class='asgreek'>ης</span></b>, <span class='asgreek'>ου</span>, <span class='asgreek'>ὁ</span>: 
+
+
+ <i>vocative</i> <span class='asgreek'>==Σκύθης==ᾰ</span> [<a href="javascript:void(0)" title=" 6th c.BC: Theognis Elegiacus 829, 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 1112, etc.:— “Scythian”, first in 8th-7th c.BC: Hesiodus Epicus “Fragmenta” 55: proverbial, Σκυθῶν ἐρημία">Refs 8th c.BC+</a>], of a desert, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 704 ">Refs 5th c.BC+</a>]: <i>metaphorically</i>, <b>rude, rough person</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>λόγοις</span> <span class='asgreek'>Σ</span>. [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.847f, compare 4th-3rd c.BC: Menander Comicus 533.13. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>adjective</i> [<a href="javascript:void(0)" title=" “Scythian”, Σ. ἐς οἷμον 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 2; Σ. ὅμιλος [prev. work] 417 (Lyric poetry)">Refs 4th c.BC+</a>]; <span class='asgreek'>σίδηρος</span> [<a href="javascript:void(0)" title=" [prev. author] “Th.” 818 (compare Χάλυψ); κύανος 4th-3rd c.BC: Theophrastus Philosophus “de Lapidibus” 55. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> at Athens, <b>one of the city police</b>, which was mainly composed of Scythian slaves, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 1018, 1026, “Lys.” 451; compare τοξότης 111. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> ={<span class='asgreek'>ἱπποτοξότης</span>}, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 2.13. ">Refs 2nd c.AD+</a>]

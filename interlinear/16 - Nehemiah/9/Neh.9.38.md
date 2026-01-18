@@ -1,0 +1,24 @@
+**Nehemiah 9:38** (10:1)
+<small><sub>**KJV:**</sub></small>
+And because of all this we make a sure [covenant], and write [it]; and our princes, Levites, [and] priests, seal [unto it].
+<small><sub>**BSB:**</sub></small>
+In view of all this, we make a binding agreement, putting it in writing and sealing it with the names of our leaders, Levites, and priests.”
+<small><sub>**Literal:**</sub></small>
+and  in  all this we [are] making a trustworthy arrangement and  writing and  [are] on the  sealed [document] leaders  our Levites  our priests  our<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.37|<< Nehemiah 9:37]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.1|Nehemiah 10:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and in all  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Khol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֹ֕את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we  | <span class="ashebrew"><big>אֲנַ֛חְנוּ</big></span><small><sup>[[H0587]]</sup></small> &#8207;| 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] making  | <span class="ashebrew"><big>כֹּרְתִ֥ים</big></span><small><sup>[[H3772H]]</sup></small> &#8207;| ko.re.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a trustworthy arrangement  | <span class="ashebrew"><big>אֲמָנָ֖ה</big></span><small><sup>[[H0548]]</sup></small> &#8207;| 'a.ma.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and writing  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹתְבִ֑ים</big></span><small><sup>[[H3789]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> kho.te.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [are] on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל֙</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sealed [document]  | <span class="ashebrew"><big>הֶֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חָת֔וּם</big></span><small><sup>[[H2856]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> cha.Tum<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| leaders our  | <span class="ashebrew"><big>שָׂרֵ֥י</big></span><small><sup>[[H8269]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| sa.Rei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Levites our  | <span class="ashebrew"><big>לְוִיֵּ֖</big></span><small><sup>[[H3881]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| le.vi.Ye.<small><sup>[[HNgmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| priests our  | <span class="ashebrew"><big>כֹּהֲנֵֽי</big></span><small><sup>[[H3548]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ko.ha.Nei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.37|<< Nehemiah 9:37]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.1|Nehemiah 10:1 >>]]</td></tr></table>
+
+

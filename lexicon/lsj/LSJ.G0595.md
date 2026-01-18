@@ -1,0 +1,16 @@
+
+<b> <span class='asgreek'>==ἀπόθεσις==</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>ἀποτίθημι</span>) <b>laying up in store,</b> <span class='asgreek'>σκευῶν</span>[<a href="javascript:void(0)" title=" “SIG” 1106.107 (from Cos)">Refs</a>]; <span class='asgreek'>εἰς</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>γενέσθαι</span> to be <b>stored up,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 844d; γάλα χρήσιμον εἰς ἀ. 4th c.BC: Aristoteles Philosophus “Historia Animalium” 522a26">Refs 5th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>τροφῆς</span>, of bees,[<a href="javascript:void(0)" title=" 622b26; τὴν ἀ. τῆς θήρας ποιεῖσθαι 623a12">Refs</a>]; <b>preserving,</b> of fish, [<a href="javascript:void(0)" title=" 3rd c.AD: Philumenus Medicus cited in 6th c.AD: Aëtius Medicus 9.23. ">Refs 3rd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>the final movement in setting</b> a dislocated or fractured limb, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(2).332, +others, 6th c.AD: Palladas Epigrammaticus ">Refs 2nd c.AD+</a>]<b>in Hp.Fract.</b>[<a href="javascript:void(0)" title=" 12.273">Refs</a>] C.; <i>falsa lectio</i> in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “κατ᾽ ἰητρεῖον” 19. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>κατ᾽</span> <span class='asgreek'>ἀπόθεσιν</span>, of <b>internal</b> abscesses, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 17(1).103. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>putting aside, making away with, getting rid of,</b> <span class='asgreek'>ῥύπου</span>[<a href="javascript:void(0)" title=" NT.1Pet.3.21, compare 2.1.14. ">NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>exposure</b> of children, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1335b19; compare ἀποτίθημι 11.7. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>resignation</b> of an office, [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Bella Civilia” 1.3, compare “SIG” 900.16(4th c.AD). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>κώλου</span>, <span class='asgreek'>περιόδου</span>, <b>close</b> or <b>cadence</b> of a phrase, [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 19, cf. Scholia 5th-6th c.BC: Aristophanes Comicus “Nubes” 176">Refs 5th c.BC+</a>]; so in metres, ={<span class='asgreek'>κατάληξις</span>}, [<a href="javascript:void(0)" title=" 7th c.AD: Hephaestio Grammaticus 4 at Title Page ">Refs 7th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ἀποδυτήριον</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Hipp.” 5.">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Pet.3.21]]
+</sub></small>

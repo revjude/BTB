@@ -1,0 +1,26 @@
+**Jeremiah 6:13** 
+<small><sub>**KJV:**</sub></small>
+For from the least of them even unto the greatest of them every one [is] given to covetousness; and from the prophet even unto the priest every one dealeth falsely.
+<small><sub>**BSB:**</sub></small>
+“For from the least of them to the greatest, all are greedy for gain; from prophet to priest, all practice deceit.
+<small><sub>**Literal:**</sub></small>
+that from  little  their and  unto great  their all of  it [is] gaining unjust gain and  from  prophet and  unto priest all of  him [is] doing falsehood<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.12|<< Jeremiah 6:12]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.14|Jeremiah 6:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| that  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from little their  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>קְּטַנָּ</big></span><small><sup>[[H6996A]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ke.ta.Na<small><sup>[[HAamsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and unto  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great their  | <span class="ashebrew"><big>גְּדוֹלָ֔</big></span><small><sup>[[H1419A]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ge.do.La<small><sup>[[HAamsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of it  | <span class="ashebrew"><big>כֻּלּ֖</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ku.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] gaining  | <span class="ashebrew"><big>בּוֹצֵ֣עַ</big></span><small><sup>[[H1214I]]</sup></small> &#8207;| bo.Tze.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unjust gain  | <span class="ashebrew"><big>בָּ֑צַע</big></span><small><sup>[[H1215]]</sup></small> &#8207;| Ba.tza'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from prophet  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>נָּבִיא֙</big></span><small><sup>[[H5030]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and unto  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| priest  | <span class="ashebrew"><big>כֹּהֵ֔ן</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of him  | <span class="ashebrew"><big>כֻּלּ֖</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ku.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] doing  | <span class="ashebrew"><big>עֹ֥שֶׂה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'O.seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| falsehood  | <span class="ashebrew"><big>שָּֽׁקֶר</big></span><small><sup>[[H8267]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Sha.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.12|<< Jeremiah 6:12]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.14|Jeremiah 6:14 >>]]</td></tr></table>
+
+

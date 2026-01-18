@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==ἄτερ==</span></b> [<span class='asgreek'>ᾰ</span>], 
+
+
+ <i>Epic dialect</i>, <i>Ionic dialect</i>, Trag. <i>preposition</i> with <i>genitive</i>, <b>without, apart from,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus; κράτιστον Ἀχιλέος ἄ. 5th c.BC: Pindarus Lyricus “N.” 7.27">Refs 8th c.BC+</a>]; <span class='asgreek'>ἄ</span>. <span class='asgreek'>Ζηνός</span> <b>without</b> his will, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 15.292, compare “POxy.” 936.18 (3rd c.AD)">Refs 8th c.BC+</a>]; <span class='asgreek'>οὐ</span> <span class='asgreek'>θεῶν</span> <span class='asgreek'>ἄ</span>. 'non <b>sine</b> dis', [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 5.76; ἄ. μόχθου 3rd c.AD: Democritus Epigrammaticus 223; ἄ. πυρετοῦ καὶ ὀδύνης 5th c.BC: Hippocrates Medicus “προρρητικόν” 2.4. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>aloof, apart from,</b> <span class='asgreek'>ἄ</span>. <span class='asgreek'>ἥμενον</span> <span class='asgreek'>ἄλλων</span>[<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 1.498; νόσφιν ἄ. τε κακῶν 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 91">Refs 8th c.BC+</a>]:—frequently in Trag., mostly after its case, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 377, etc.">Refs 4th c.BC+</a>]; but before it in [<a href="javascript:void(0)" title=" [prev. author] “Pr.” 456, “Supp.” 703 (Lyric poetry), “Ch.” 338 (Lyric poetry), 5th c.BC: Sophocles Tragicus “Philoctetes” 703 (Lyric poetry), “El.” 866">Refs 5th c.BC+</a>]:—also in late Prose, as [<a href="javascript:void(0)" title=" LXX.2Mac.12.15, 1st c.BC: Dionysius Halicarnassensis 3.10, NT.Luke.22.6, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cat.Mi.” 5, 2nd c.AD: Vettius Valens Astrologus 136.9, +others ">LXX+1st c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> with <i>dative</i>, <span class='asgreek'>==ἄτερ==</span> <span class='asgreek'>ἄστρασιν</span>[<a href="javascript:void(0)" title=" 1st c.AD: Anubion Poeta Astrologus 87.">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.22.6]]
+</sub></small>

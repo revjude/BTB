@@ -1,0 +1,9 @@
+ <span class="bdbLangHebrew">‎יָָֽשְׁפֶה‎</span> **noun [masculine]** ==jasper== (loan-word from Persian <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIwAhAIAAAAAAAP///yH5BAAAAAAALAAAAAAjACEAAAJXjI+py70AnXSwzptifBYf8ClV5wUjiIyluK3uC8fy284cysYnpxu4aKP8gqlG7YPaaHa3k/PJZEGnJKOT6EMOMdvsLOrFZsRActGMRPu6xKPYjWWr5+QCADs="> so Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLQAZAIAAAAAAAP///yH5BAAAAAAALAAAAAAtABkAAAJgjI+py+2/AJxyGoCxZblC721HJoJKFybo1p2t87JuKtb2jef6DtM85fs1Vi6hSqKZGUuh5MN5g0I5JNWoh6hSUdwuMhC7tJBcsPdMzKKnV/Co+eku50xL0BYe3mt7+qMAADs="> [[BDB#Lane|Lane]]<sup>2978</sup>, also (and on forms <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLwAZAIAAAAAAAP///yH5BAAAAAAALAAAAAAvABkAAAJpjI+py+0OnpwN2AgvpddWjG1flxneEnJatiKkaKpJd8K2m95Brfdx6fPxHjlW0fSapYZGhoe5Wx6dyFsLSo3qai1iV/vbKXg0kqaMLKMPX7X7DVd/ouvqj5v+Bvf8vr8C9idBI1hoqFAAADs=">, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIgAgAIAAAAAAAP///yH5BAAAAAAALAAAAAAiACAAAAJfjI+py+0PFwCxooltnYHr411UN35YaJxlkkmn0oovPG8oHX86u0d3j1sBZbmUcMj6IUFHI7KpkpEov6rqis0KsVMq52o8eorDVRN4NnV4Typ76YLH5Ul63c7Eg/R8RAEAOw==">) [[BDB#Frey|Frey]]; perhaps Assyrian <abbr title="transliteration"><u>***ašpû***</u></abbr> [[BDB#Dl|Dl]]<sup>HA 36</sup>, HWB<sup>147</sup>) — <span class="bdbLangHebrew">‎תַּרְשִׁישׁ וְשֹׁהַם וְיָָֽשְׁפֵ֑ה‎</span> [[Exod.28.20|Exod 28:20]]; [[Exod.39.13|Exod 39:13]] (both [[BDB#P|P]]) ***beryl and onyx and jasper*** (see [[BDB#Di|Di]]); <span class="bdbLangHebrew">‎וְיָָֽשְׁפֶ֔ה‎</span> (+***id.***) [[Ezek.28.13|Ezek 28:13]] (see [[BDB#Sm|Sm]]). <span class="bdbLangHebrew">‎יִשְׁפָּה‎</span> see below <span class="bdbLangHebrew">‎שׁפה‎</span>; <span class="bdbLangHebrew">‎יִשְׁפָּן‎</span> see below <span class="bdbLangHebrew">‎שׁפן‎</span> 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.28.20\|28:20]] · [[Exod.39.13\|39:13]] |
+| Ezekiel | [[Ezek.28.13\|28:13]] |
+

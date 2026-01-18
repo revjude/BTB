@@ -1,0 +1,10 @@
+<span class="asgreek">συμψάω</span> <small>***(sumpsaō)***</small> ==**to scrape away**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==συμψάω==</span></b>, 
+
+
+ <b>rake together</b>, <span class='asgreek'>συμψήσασα</span> <span class='asgreek'>τἀργυρίδιον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Eupolis Comicus 113 ">Refs 5th c.BC+</a>]; <span class='asgreek'>εὗρεν</span>.. <span class='asgreek'>συμψῶντας</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ψυγμόν</span> (the corn in the drying place) [<a href="javascript:void(0)" title=" “PPetr.” 2p.110 (3rd c.BC)">Refs 3rd c.BC+</a>]; <span class='asgreek'>συμψῆσαι</span> <b>obliterate</b> the traces left by anything in sand, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 975 (\_anapaest meter\_) ">Refs 5th c.BC+</a>]; of a rapid river, <b>sweep away</b>, <span class='asgreek'>ὁ</span> <span class='asgreek'>ποταμὸς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ἵππον</span> <span class='asgreek'>συμψήσας</span> <span class='asgreek'>ὑποβρύχιον</span> <span class='asgreek'>οἰχώκεε</span> <span class='asgreek'>φέρων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.189, compare 4th c.AD: Iamblichus Philosophus cited in 10th c.AD: Suidas Legal icographus see entry , 4th c.AD: Eusebius Myndius Philosophus 63 ">Refs 5th c.BC+</a>]; <b>carry off, arrest</b> a man, [<a href="javascript:void(0)" title=" “PTeb.” 13.15, 48.31 (both 2nd c.BC)">Refs 2nd c.BC+</a>]:—<i>passive</i>, <b>to be swept up</b> or <b>away</b>, <span class='asgreek'>εὗρον</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ψυγμὸν</span> <span class='asgreek'>συνεψημένον</span> [<a href="javascript:void(0)" title=" “PRyl.” 139.11 (1st c.AD): ">Refs 1st c.AD+</a>]<i>aorist</i> -<span class='asgreek'>εψήσθην</span>[<a href="javascript:void(0)" title=", LXX.Jer.22.19, 31(48).33. ">LXX</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Jer.22.19]]
+</sub></small>

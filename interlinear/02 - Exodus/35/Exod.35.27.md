@@ -1,0 +1,23 @@
+**Exodus 35:27** 
+<small><sub>**KJV:**</sub></small>
+And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;
+<small><sub>**BSB:**</sub></small>
+The leaders brought onyx stones and gemstones to mount on the ephod and breastpiece,
+<small><sub>**Literal:**</sub></small>
+and  the  leaders they brought \<obj.> [the] stones of the  onyx and  \<obj.> [the] stones of the  setting\<s> for the  ephod and  for the  breastpiece<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.26|<< Exodus 35:26]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.28|Exodus 35:28 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the leaders  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נְּשִׂאִ֣ם</big></span><small><sup>[[H5387A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ne.si.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they brought  | <span class="ashebrew"><big>הֵבִ֔יאוּ</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| he.Vi.'u<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֚ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] stones of  | <span class="ashebrew"><big>אַבְנֵ֣י</big></span><small><sup>[[H0068G]]</sup></small> &#8207;| 'av.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the onyx  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֹּׁ֔הַם</big></span><small><sup>[[H7718]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Sho.ham<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֖ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] stones of  | <span class="ashebrew"><big>אַבְנֵ֣י</big></span><small><sup>[[H0068G]]</sup></small> &#8207;| 'av.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the setting\<s>  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּלֻּאִ֑ים</big></span><small><sup>[[H4394]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mi.lu.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the ephod  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֵפ֖וֹד</big></span><small><sup>[[H0646]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'e.Fod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for the breastpiece  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֹֽשֶׁן</big></span><small><sup>[[H2833]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> Cho.shen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.26|<< Exodus 35:26]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.28|Exodus 35:28 >>]]</td></tr></table>
+
+

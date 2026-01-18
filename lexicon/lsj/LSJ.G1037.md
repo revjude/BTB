@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==βυθός==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>the depth</b>, especially of the sea, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 432 (Lyric poetry), NT.2Cor.11.25. ">NT+4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> generally, <span class='asgreek'>συνιζάνειν</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>β</span>. sink to the <b>bottom</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Odoribus” 29: \_metaphorically\_, ἐξ οὐρίων δραμοῦσαν ἐς βυθὸν πεσεῖν 5th c.BC: Sophocles Tragicus “Ajax” 1083; ἀνακουφίσαι κάρα βυθῶν [prev. author] “OT” 24 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐκ</span> <span class='asgreek'>βυθοῦ</span> <span class='asgreek'>κηκῖον</span> <span class='asgreek'>αἷμα</span> from the <b>deep wound</b>, [<a href="javascript:void(0)" title=" [prev. author] “Ph.” 783; καταφέρεσθαι εἰς β. 4th c.BC: Aristoteles Philosophus “Historia Animalium” 619a7, etc.; τὴν ἀναφορὰν ποιησάμενος ἐκ τοῦ β. [prev. work] 622b7; ἐν τῷ β. τῆς θαλάττης [prev. work] 537a8: \_metaphorically\_, ἐν βυθῷ ἀτεχνίης">Refs 4th c.BC+</a>] in <b>the depth</b> of.., [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “παραγγελίαι” 7; ἐν β. ἡ ἀλήθεια 3rd c.AD: Democritus Epigrammaticus 117; εἴς τινα β. φλυαρίας ἐμπεσών 5th-6th c.BC: Plato Philosophus “Parmenides” 130d; ἀθεότητος 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.757c ">Refs 5th c.BC+</a>]; <span class='asgreek'>ὑπέρκοσμος</span> <span class='asgreek'>β</span>. <b>abyss</b>, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 106, 205. ">Refs 5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Cor.11.25]]
+</sub></small>

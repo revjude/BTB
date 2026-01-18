@@ -1,0 +1,10 @@
+<span class="asgreek">ἐπιγαμία</span> <small>***(epigamia)***</small> ==**related by marriage**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐπιγαμία==</span>-<span class='asgreek'>ία</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>additional marriage</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 13.560c. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>connexion</b> <b>by marriage</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “AJ” 17.1.1, +others; πρός τινα 1st c.AD: Josephus Historicus “Bellum Judaicum” 1.12.13 ">Refs 1st c.AD+</a>]. 
+$\quad$ $\quad$<b>\_\_II</b>. <b>right</b> <b>of intermarriage</b> between states, [<a href="javascript:void(0)" title=" ἐπιγαμίας.. καὶ ἐπεργασίας καὶ ἐπινομίας Xenophon Historicus [{5-6th c.BC}] “Institutio Cyri (Cyropaedia)” 3.2.23 ">Refs 6th c.BC+</a>]; <span class='asgreek'>Ἀθαναίοις</span> <span class='asgreek'>δόμεν</span> <span class='asgreek'>ἐπιγαμίαν</span> Decrees Byzantine cited in [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 18.91, compare “GDI” 5040 (from Hierapytna), Wilcken “Chr.” 27 (2nd c.AD). ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b>. = Latin <i>conubium</i>, [<a href="javascript:void(0)" title=" “BGU” 265.7 (2nd c.AD)">Refs 2nd c.AD+</a>], etc.: generally, <b>intermarriage</b>, mostly <i>plural</i>, [<a href="javascript:void(0)" title=" ἐπιγαμίας ποιεῖσθαι 5th c.BC: Herodotus Historicus 2.147; ἀλλήλοις Xenophon Historicus [{5-6th c.BC}] “Institutio Cyri (Cyropaedia)” 1.5.3 ">Refs 6th c.BC+</a>], cf. Decrees cited in [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 18.187 (\_sing.\_); Εὐβοεῦσιν 5th c.BC: Lysias Orator 34.3; παρ᾽ ἀλλήλοις Xenophon Historicus [{5-6th c.BC}] “Historia Graeca (Hellenica)” 5.2.19; πρὸς ἀλλήλους 4th c.BC: Aristoteles Philosophus “Politica” 1280b16, 1st c.BC-1st c.AD: Strabo Geographus 5.3.4; ἐπιγαμίαις χρῆσθαι 4th c.BC: Aristoteles Philosophus “Politica” 1280b36 ">Refs 6th c.BC+</a>].

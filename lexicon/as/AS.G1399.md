@@ -1,0 +1,1 @@
+<span class="asform"><span class="asgreek"><span class="asbold">δούλη</span></span>, <span class="asgreek">ἡ</span>, v.s. <span class="asref"><span class="asgreek">δοῦλος</span> <small><sup>[[G1401]]</sup></small></span>.</span>

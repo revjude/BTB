@@ -1,0 +1,12 @@
+<span class="asgreek">καταγίνομαι</span> <small>***(kataginomai)***</small> ==**to occupy**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==καταγίνομαι==</span></b>, 
+
+
+ <i>Ionic dialect</i> and later <b><span class='asgreek'>καταγηρ</span>-<span class='asgreek'>γίνομαι</span></b> [<span class='asgreek'>ῑ</span>], <b>abide, dwell</b>, <span class='asgreek'>ἐν</span> [<span class='asgreek'>Χρυσοχοείῳ</span>] Test. cited in [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 21.22, compare 3rd c.BC: Teles Philosophus p.27 H., “PMagd.” 9.3 (3rd c.BC), LXX.Exod.10.23, “OGI” 666.14 (Egypt, 1st c.AD), etc. ">LXX+4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>busy oneself</b> about, <b>be concerned</b> with a thing, <span class='asgreek'>ἔν</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 31.29.6; ἐν ἀριθμοῖς καὶ προσώποις 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 226.28 (but κ. ἐν δοτικῇ">Refs 2nd c.BC+</a>] <b>to be constructed</b> with the dative case,[<a href="javascript:void(0)" title=" 298.10); ὑφ᾽ ὧν καὶ δι᾽ ὧν καὶ περὶ ὧν τὸ Χειρουργικὸν μέρος τῆς τέχνης καταγίνεται 2nd c.AD: Galenus Medicus 18(2).667; περί τι 1st c.BC: Philodemus Gadarensis Epigrammaticus “Mus.” p.40K., 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 3.2.6; περὶ τὸ ποιὸν μᾶλλον ἢ τὸ ποσόν 2nd c.AD: Ptolemaeus Mathematicus “Geographia” 1.1.4, compare 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 4.1 ">Refs 1st c.BC+</a>]; <span class='asgreek'>τὴν</span> <span class='asgreek'>γεωμετρίαν</span> <span class='asgreek'>οὐ</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>μεγέθη</span> <span class='asgreek'>ἀλλὰ</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>ποιότητα</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 6.3.14; εἴς τι 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 298.21 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span>[<a href="javascript:void(0)" title=" [prev. work] 280.15; πρὸς τὸ οἴκοι ἐνδιατρίβειν 2nd c.BC: Agatharchides Geographus 101. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> ={<span class='asgreek'>διάγω</span>} [<a href="javascript:void(0)" title=" II.2, οὕτω, ἐν τρυφῇ, [prev. author] 40, 101. ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.10.23]]
+</sub></small>

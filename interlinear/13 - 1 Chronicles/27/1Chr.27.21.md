@@ -1,0 +1,23 @@
+**1 Chronicles 27:21** 
+<small><sub>**KJV:**</sub></small>
+Of the half [tribe] of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:
+<small><sub>**BSB:**</sub></small>
+over the half-tribe of Manasseh in Gilead was Iddo son of Zechariah; over Benjamin was Jaasiel son of Abner;
+<small><sub>**Literal:**</sub></small>
+for  [the] half of \<the>  Manasseh Gilead  towards Iddo [the] son of Zechariah for  Benjamin Jaasiel [the] son of Abner<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.20|<< 1 Chronicles 27:20]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.22|1 Chronicles 27:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for [the] half of  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֲצִ֤י</big></span><small><sup>[[H2677]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Manasseh  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְנַשֶּׁה֙</big></span><small><sup>[[H4519G]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> m.na.Sheh<small><sup>[[HNgbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead towards  | <span class="ashebrew"><big>גִּלְעָ֔דָ</big></span><small><sup>[[H1568G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| gil.'A.da<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Iddo  | <span class="ashebrew"><big>יִדּ֖וֹ</big></span><small><sup>[[H3035G]]</sup></small> &#8207;| yi.Do<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zechariah  | <span class="ashebrew"><big>זְכַרְיָ֑הוּ</big></span><small><sup>[[H2148G]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ze.khar.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Benjamin  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בִנְיָמִ֔ן</big></span><small><sup>[[H1144G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> vin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jaasiel  | <span class="ashebrew"><big>יַעֲשִׂיאֵ֖ל</big></span><small><sup>[[H3300H]]</sup></small> &#8207;| ya.'a.si.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Abner  | <span class="ashebrew"><big>אַבְנֵֽר</big></span><small><sup>[[H0074]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.20|<< 1 Chronicles 27:20]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.22|1 Chronicles 27:22 >>]]</td></tr></table>
+
+

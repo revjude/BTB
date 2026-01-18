@@ -1,0 +1,29 @@
+**1 Samuel 2:1** 
+<small><sub>**KJV:**</sub></small>
+And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.
+<small><sub>**BSB:**</sub></small>
+At that time Hannah prayed: “My heart rejoices in the LORD; my horn is exalted in the LORD. My mouth speaks boldly against my enemies, for I rejoice in Your salvation.
+<small><sub>**Literal:**</sub></small>
+and  she prayed Hannah and  she said it rejoices heart  my in  Yahweh it is exalted horn  my in  Yahweh it has opened wide mouth  my on enemies  my for I rejoiced in  deliverance  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.28|<< 1 Samuel 1:28]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.2|1 Samuel 2:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she prayed  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּתְפַּלֵּ֤ל</big></span><small><sup>[[H6419]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tit.pa.Lel<small><sup>[[HVtw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hannah  | <span class="ashebrew"><big>חַנָּה֙</big></span><small><sup>[[H2584]]</sup></small> &#8207;| cha.Nah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּאמַ֔ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> to.Mar<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it rejoices  | <span class="ashebrew"><big>עָלַ֤ץ</big></span><small><sup>[[H5970]]</sup></small> &#8207;| 'a.Latz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  | <span class="ashebrew"><big>לִבִּ</big></span><small><sup>[[H3820A]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Yahweh  | <span class="ashebrew"><big>בַּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is exalted  | <span class="ashebrew"><big>רָ֥מָה</big></span><small><sup>[[H7311A]]</sup></small> &#8207;| Ra.mah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horn my  | <span class="ashebrew"><big>קַרְנִ֖</big></span><small><sup>[[H7161A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| kar.N<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Yahweh  | <span class="ashebrew"><big>בַּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יהוָ֑ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has opened wide  | <span class="ashebrew"><big>רָ֤חַב</big></span><small><sup>[[H7337]]</sup></small> &#8207;| Ra.chav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth my  | <span class="ashebrew"><big>פִּ</big></span><small><sup>[[H6310G]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| p<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies my  | <span class="ashebrew"><big>א֣וֹיְבַ֔</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'oy.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I rejoiced  | <span class="ashebrew"><big>שָׂמַ֖חְתִּי</big></span><small><sup>[[H8055]]</sup></small> &#8207;| sa.Mach.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in deliverance your  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ישׁוּעָתֶֽ</big></span><small><sup>[[H3444]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> shu.'a.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.28|<< 1 Samuel 1:28]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.2|1 Samuel 2:2 >>]]</td></tr></table>
+
+

@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==μετακαλέω==</span></b>, 
+
+
+ <b>recall</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.11: especially \_metaphorically\_, τὴν ψυχὴν ἀπὸ τῆς ὀργῆς ἐπὶ.. 4th c.BC: Aeschines Orator 2.159, compare 2nd c.BC: Polybius Historicus 30.2.4, 7th c.AD: Paulus Aegineta Medicus 3.71 ">Refs 5th c.BC+</a>]:—<i>middle</i>, <span class='asgreek'>τινὰς</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἀποστάσεως</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 16.10. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> simply, <b>summon</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 1.15; ἐς κοινωνίαν μετακληθῆναι [prev. author] “Her.” 2.14; ψυχαῖς ταῖς εἰς χωρία θεῶν καὶ τοὺς ἐγγὺς ἄστρων τόπους καὶ ἱεροὺς δαίμονας μετακεκλημέναις 2nd-3rd c.AD: Hermes Trismegistus cited in 5th c.AD: Stobaeus, Joannes 1.49.44">Refs 2nd c.AD+</a>]; <b>call in</b> a midwife, doctor, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.4, 2nd c.AD: Galenus Medicus 10.4">Refs 2nd c.AD+</a>]; <span class='asgreek'>ὁ</span> <span class='asgreek'>ἰατρὸς</span> <span class='asgreek'>μετακληθείς</span> <b>being called in</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Peregr.” 44 ">Refs 2nd c.AD+</a>]:—<i>middle</i>, <b>summon</b>, <span class='asgreek'>πανταχόθεν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Epistulae - Epistolographi” 4.4, cf. NT.Acts.7.14, “POxy.” 33vii 2 (2nd c.AD)">NT+5th c.BC+</a>]; <b>invoke</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>σελήνην</span> variant in [<a href="javascript:void(0)" title="Scholia 3rd c.BC: Theocritus Poeta Bucolicus 2.10. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>call</b> or <b>name differently,</b> [<a href="javascript:void(0)" title=" Arch.Papyrus 3.419 (\_passive\_). ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.7.14]]
+</sub></small>

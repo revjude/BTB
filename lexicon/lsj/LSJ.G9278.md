@@ -1,0 +1,7 @@
+<span class="asgreek">συμπολεμέω</span> <small>***(sumpolemeō)***</small> ==**to join in war with**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==συμπολεμέω==</span></b>, 
+
+
+ <b>join in war</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.18, 8.46, 5th-6th c.BC: Andocides Orator 3.24, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 6.5.28, etc.; Κύρῳ πρὸς αὐτόν [prev. author] “An.” 1.4.2; μεθ᾽ ἡμῶν 5th-6th c.BC: Plato Philosophus “Respublica” 422d; σ. τὸν πόλεμον 4th c.BC: Demosthenes Orator 18.87, “SIG” 529.7 (Dyme, 3rd c.BC). ">Refs 5th c.BC+</a>]
+

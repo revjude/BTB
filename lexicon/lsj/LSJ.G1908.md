@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==ἐπηρεάζω==</span>-<span class='asgreek'>άζω</span></b>, 
+
+
+ <b>threaten abusively,</b> [<a href="javascript:void(0)" title=" λέγειν ==ἐπηρεάζω==άζοντες 5th c.BC: Herodotus Historicus 6.9 ">Refs 5th c.BC+</a>]: with <i>accusative</i>, <b>speak disparagingly of,</b> [<a href="javascript:void(0)" title=" τὴν ἀγαθὴν ἀναστροφήν “1st Epistle of Peter” 3.16 ">Refs</a>]. 
+
+$\quad$ $\quad$<b>\_\_II</b> <b>deal despitefully with, act despitefully towards,</b> with <i>dative</i> <i>person</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Mem.” 1.2.31; ἐ. μοι συνεχῶς καὶ μικρὰ καὶ μείζω 4th c.BC: Demosthenes Orator 21.14 ">Refs 5th c.BC+</a>], etc.; <span class='asgreek'>ἐ</span>. <span class='asgreek'>ψηφίσμασι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>νόμοις</span> <b>oppose</b> them <b>insolently,</b> [<a href="javascript:void(0)" title=" [prev\. author] 18.320; τινός 2nd c.AD: Lucianus Sophista “Nav.” 27; τινά 4th c.BC: Aristoteles Philosophus “Politica” 1311a37, NT.Luke.6.28, etc.; εἰ δ᾽ ἄν τις.. ==ἐπηρεάζω==ιάζεν δέατοι ἰν τὰ ἔργα “IG” 5(2).6.46 ">NT+4th c.BC+</a>] (Tegea, 4th c.BC): <i>absolutely</i>, <b>to be insolent,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 6.8; ὑψηλὴ ῥὶς ὥσπερ -άζουσα διατετείχικε τὰ ὄμματα Xenophon Historicus [{5-6th c.BC}] “Symposium” 5.6 ">Refs 6th c.BC+</a>]:— <i>passive</i>, <b>to be insulted,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 29.7, 4th c.BC: Demosthenes Orator 21.15, 1st c.BC: Diodorus Siculus Historicus 36.11, 1st c.AD: Philo Judaeus 2.52, “PGen.” 31.18 (2nd c.AD):">Refs 5th c.BC+</a>] —later <i>middle</i> in <i>active</i> sense, [<a href="javascript:void(0)" title=" τινί “PLond.” 3.846.6 (2nd c.AD). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> of the action of disease, [<a href="javascript:void(0)" title=" διάφορα ἐ. μόρια 7th c.AD: Stephanus Medicus “in Hp.” 1.204 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.6.28]]
+</sub></small>

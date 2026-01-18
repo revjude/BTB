@@ -1,0 +1,14 @@
+<span class="asgreek">ὀβελίσκος</span> <small>***(obeliskos)***</small> ==**a point**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==ὀβελίσκος==</span>-<span class='asgreek'>ίσκος</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <i>diminutive</i> of <span class='asgreek'>==ὀβελίσκος==ός</span> I, <b>small spit, skewer,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 1007, “Nu.” 178, “V.” 354, “Av.” 388, 672, 3rd c.BC: Sotades Lyricus Comedy texts 1.10, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 3.3.7, 4th c.BC: Aristoteles Philosophus “Politica” 1324b19, “PEleph.” 5.2 (3rd c.BC), etc. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>plural</i>, <b>spits</b> used as money, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Lysander” 17, “Fab.” 27 ">Refs 1st c.AD+</a>]; compare <span class='asgreek'>ὀβολός</span> near the end 
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>nail,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 12.313.141 (probably), 11(2).148.70 (Delos, 3rd c.BC, \_plural\_). ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> = <b>subula,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>] 
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> window <b>bar,</b> [<a href="javascript:void(0)" title="[prev. work] (\_plural\_). ">Refs</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>anything shaped like a spit:</b> the <b>blade</b> of a two-edged sword, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.23.7 ">Refs 2nd c.BC+</a>]; <b>the iron head</b> of the Roman pilum, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 5.46. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>obelisk,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 1.46, 1st c.BC-1st c.AD: Strabo Geographus 17.1.27, 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 36.64. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> <b>drainage-conduit,</b> <span class='asgreek'>οἱ</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>τείχεσιν</span> <span class='asgreek'>ὀ</span>. [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 19.45, compare “IG” 9(1).692.14 (Corc., 2nd c.BC) ">Refs 2nd c.BC+</a>]; so perhaps <span class='asgreek'>περὶ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>πιλῶνος</span> (= <span class='asgreek'>πυλῶνος</span>) <span class='asgreek'>καὶ</span> <span class='asgreek'>τοὐβιλίσκου</span> (= <span class='asgreek'>τοῦ</span> <span class='asgreek'>==ὀβελίσκος==ίσκου</span>) [<a href="javascript:void(0)" title=" “PLond.” 2.391.2 (6th c.AD);compare ὀβολίσκος 1. ">Refs 6th c.AD+</a>]

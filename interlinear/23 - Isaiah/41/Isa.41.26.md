@@ -1,0 +1,30 @@
+**Isaiah 41:26** 
+<small><sub>**KJV:**</sub></small>
+Who hath declared from the beginning, that we may know? and beforetime, that we may say, [He is] righteous? yea, [there is] none that sheweth, yea, [there is] none that declareth, yea, [there is] none that heareth your words.
+<small><sub>**BSB:**</sub></small>
+Who has declared this from the beginning, so that we may know, and from times past, so that we may say: ‘He was right’? No one announced it, no one foretold it, no one heard your words.
+<small><sub>**Literal:**</sub></small>
+who? did he tell [it] from  [the] beginning so  we may know and  from  \<to>  before so  we may say correct also there not [was one who] told also there not [was one who] proclaimed also there not [was one who] heard words  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.25|<< Isaiah 41:25]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.27|Isaiah 41:27 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| who?  | <span class="ashebrew"><big>מִֽי</big></span><small><sup>[[H4310]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| did he tell [it]  | <span class="ashebrew"><big>הִגִּ֤יד</big></span><small><sup>[[H5046]]</sup></small> &#8207;| hi.Gid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] beginning  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>רֹאשׁ֙</big></span><small><sup>[[H7218J]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> roSh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so we may know  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נֵדָ֔עָה</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ne.Da.'ah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from \<to> before  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>לְּ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנִ֖ים</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so we may say  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נֹאמַ֣ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> no.Mar<small><sup>[[HVqu1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| correct  | <span class="ashebrew"><big>צַדִּ֑יק</big></span><small><sup>[[H6662]]</sup></small> &#8207;| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>אַ֣ף</big></span><small><sup>[[H0637]]</sup></small> &#8207;| 'af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  | <span class="ashebrew"><big>אֵין</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was one who] told  | <span class="ashebrew"><big>מַגִּ֗יד</big></span><small><sup>[[H5046]]</sup></small> &#8207;| ma.Gid<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>אַ֚ף</big></span><small><sup>[[H0637]]</sup></small> &#8207;| 'af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  | <span class="ashebrew"><big>אֵ֣ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was one who] proclaimed  | <span class="ashebrew"><big>מַשְׁמִ֔יעַ</big></span><small><sup>[[H8085I]]</sup></small> &#8207;| mash.Mi.a'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>אַ֥ף</big></span><small><sup>[[H0637]]</sup></small> &#8207;| 'af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not  | <span class="ashebrew"><big>אֵין</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was one who] heard  | <span class="ashebrew"><big>שֹׁמֵ֖עַ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| sho.Me.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| words your  | <span class="ashebrew"><big>אִמְרֵי</big></span><small><sup>[[H0561]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'im.rei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.25|<< Isaiah 41:25]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.27|Isaiah 41:27 >>]]</td></tr></table>
+
+

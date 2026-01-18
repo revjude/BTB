@@ -1,0 +1,23 @@
+**Ecclesiastes 2:9** 
+<small><sub>**KJV:**</sub></small>
+So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.
+<small><sub>**BSB:**</sub></small>
+So I became great and surpassed all in Jerusalem who had preceded me; and my wisdom remained with me.
+<small><sub>**Literal:**</sub></small>
+and  I became great and  I increased more than  any who  \<he> was \<to>  before  me in  Jerusalem also wisdom  my it remained to \<the>  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.8|<< Ecclesiastes 2:8]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.10|Ecclesiastes 2:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I became great  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>גָדַ֣לְתִּי</big></span><small><sup>[[H1431]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ga.Dal.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I increased  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הוֹסַ֔פְתִּי</big></span><small><sup>[[H3254H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ho.Saf.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than any  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>כֹּ֛ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who \<he> was  | <span class="ashebrew"><big>שֶׁ</big></span><small><sup>[[H9007]]</sup></small> <span class="ashebrew"><big>הָיָ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| she.<small><sup>[[HTr]]</sup></small> ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before me  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנַ֖</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Jerusalem  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ירוּשָׁלִָ֑ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>אַ֥ף</big></span><small><sup>[[H0637]]</sup></small> &#8207;| 'af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom my  | <span class="ashebrew"><big>חָכְמָתִ֖</big></span><small><sup>[[H2451]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| cha.khe.ma.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it remained  | <span class="ashebrew"><big>עָ֥מְדָה</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| 'A.me.dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> me  | <span class="ashebrew"><big>לִּֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.8|<< Ecclesiastes 2:8]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.10|Ecclesiastes 2:10 >>]]</td></tr></table>
+
+

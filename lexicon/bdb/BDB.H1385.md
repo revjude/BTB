@@ -1,0 +1,8 @@
+ <span class="bdbLangHebrew">‎גְּבִינָה‎</span> **noun feminine** ==curd==, or ==cheese== (Late Hebrew ***id.***, Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKgAeAIAAAP///wAAACH5BAAAAAAALAAAAAAqAB4AAAJuhI+py+0bgpOvohgZtgbn9H3XxpFQR4HiQ62je5iV18Aoh7P5zvf+DwwKhzEbUUXzpUBIzxIHkwFazicrUw1lk6pbcUrbVqcQ6mhys54065+6U67N5AqjtG69X9/FjZNn9PJ3VMZFeIiYqLhYUQAAOw=="> Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhOQAWAIAAAP///wAAACH5BAAAAAAALAAAAAA5ABYAAAKIhI+py+0Po5yUhhuq1jjv3nEYMgKeBIJLeqoG+54rG5L0USZhPWcjH7uYSjXirecT5oIeVfH21LmWQ2G1ab1We4qs9me0OsXU7SM8zQGZXS+SyVOX1yh5io23uSMuKTlbpuXH0OenhPY2iCSjdwi2V5iHEzn56Oh217jYwMi48QkaKjpKWkpRAAA7"> Aramaic <span class="bdbLangAramaic">‎גּוּבְנָא‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhQgAcAIAAAP///wAAACH5BAAAAAAALAAAAABCABwAAAKbhI+py+0PTZgxhopvmhoz7j3UNoZkZyrgmSIc2h6rC5tvHc9S2d54+oo5bkIar0hCspLKpuyoAwQXU+fyifLBtFbjVcrdXYgSZzSKHfFWZGEV/BOP1xpfkWynifc745tJpSUomEYYpnK0N7i4xTiXhxVYJwNXKUIBYkf4JNn1QbT5k+hZiAlJCpTXhtqzyIo0+GqGJltre4sLUQAAOw==">, compare<img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhPQAgAIAAAP///wAAACH5BAAAAAAALAAAAAA9ACAAAAKahI+py+0Po5y02hrC3TdnDngayIicOJKKiaTPx6qJ17rOqH3yrIe0pLPtfr7eDkQsCo8YY6yUZB6SqAYqeqTmjLXrUqVVQqoGrCUsHgfJG7SyBwuVad628+fN1+vNFF8PSHc1ocVW9AaTaML3cjf3FbHHuMLFQyJpKEUx+NaoSQl4A/mpZ1X5CXo6J4cKZtZ6Ngo7S1tre8tQAAA7">) — <span class="bdbLangHebrew">‎וְכַגְּבִינָה תַּקְפִּיאֵנִי‎</span> [[Job.10.10|Job 10:10]] (\|\| <span class="bdbLangHebrew">‎חָלָב‎</span>). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Job | [[Job.10.10\|10:10]] |
+

@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==ἐξευμενίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <b>propitiate,</b> <span class='asgreek'>θεόν</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 8.13.8 ">Refs 1st c.AD+</a>]:—<i>middle</i>,[<a href="javascript:void(0)" title=" [prev. work] 12.2.14, LXX.4Mac.4.11, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fabius Maximus” 4, 1st c.AD: Philo Judaeus 2.2, +others, 5th c.AD: Hermias Alexandrinus Philosophus “in Platonis Phaedrum scholia” p.89A.:—">LXX+1st c.AD+</a>]<i>passive</i>, <span class='asgreek'>ὑπό</span> <span class='asgreek'>τινος</span>, <span class='asgreek'>περί</span> <span class='asgreek'>τινος</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.520, 533, compare 3rd c.AD: Porphyrius Tyrius Philosophus “de Abstinentia - Porphyrii Opuscula” 2.37. ">Refs 1st c.AD+</a>]
+

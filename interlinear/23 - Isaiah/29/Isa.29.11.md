@@ -1,0 +1,38 @@
+**Isaiah 29:11** 
+<small><sub>**KJV:**</sub></small>
+And the vision of all is become unto you as the words of a book that is sealed, which [men] deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it [is] sealed:
+<small><sub>**BSB:**</sub></small>
+And the entire vision will be to you like the words sealed in a scroll. If it is handed to someone to read, he will say, “I cannot, because it is sealed.”
+<small><sub>**Literal:**</sub></small>
+and  it has become for  you [the] vision of the  whole like  [the] words of the  scroll \<the>  sealed which people give \<obj.>  it to [one who] knows writing \<to>  saying read aloud please this and  he says not I am able for [is] sealed it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.10|<< Isaiah 29:10]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.12|Isaiah 29:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it has become  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּהִ֨י</big></span><small><sup>[[H1961]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶ֜ם</big></span><small><sup>[[H9036]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] vision of  | <span class="ashebrew"><big>חָז֣וּת</big></span><small><sup>[[H2380]]</sup></small> &#8207;| cha.Zut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the whole  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּ֗ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] words of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>דִבְרֵי֮</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the scroll  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>סֵּ֣פֶר</big></span><small><sup>[[H5612H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Se.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> sealed  | <span class="ashebrew"><big>הֶֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חָתוּם֒</big></span><small><sup>[[H2856]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> cha.Tum<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶֽׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people give  | <span class="ashebrew"><big>יִתְּנ֣וּ</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| yi.te.Nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  | <span class="ashebrew"><big>אֹת֗</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one who] knows  | <span class="ashebrew"><big>יוֹדֵ֥עַ</big></span><small><sup>[[H3045]]</sup></small> &#8207;| yo.De.a'<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| writing  [^1] | <span class="ashebrew"><big>סֵ֛פֶר</big></span><small><sup>[[H5612H]]</sup></small> &#8207;[^2] | se.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| \<to> saying  | <span class="ashebrew"><big>לֵ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אמֹ֖ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| read aloud  | <span class="ashebrew"><big>קְרָ֣א</big></span><small><sup>[[H7121J]]</sup></small> &#8207;| ke.Ra'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  | <span class="ashebrew"><big>נָא</big></span><small><sup>[[H4994]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| na'-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֶ֑ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he says  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָמַר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Mar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I am able  | <span class="ashebrew"><big>אוּכַ֔ל</big></span><small><sup>[[H3201]]</sup></small> &#8207;| 'u.Khal<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] sealed  | <span class="ashebrew"><big>חָת֖וּם</big></span><small><sup>[[H2856]]</sup></small> &#8207;| cha.Tum<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>הֽוּא</big></span><small><sup>[[H1931]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.10|<< Isaiah 29:10]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.12|Isaiah 29:12 >>]]</td></tr></table>
+
+[^1]: ==K==: **the scroll ** | <small><sup>[[H5612H]]</sup></small><span class="ashebrew"><big>סֵּפֶר</big></span> <small><sup>[[H9009]]</sup></small><span class="ashebrew"><big>הַ</big></span>  | ha.<small><sup>[[HTd]]</sup></small> se.fer<small><sup>[[HNcbsa]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>הסֵ֛פֶר</big></span>**
+

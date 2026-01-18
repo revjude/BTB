@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==αἶνος==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ (<span class='asgreek'>αἰνέω</span>) <i>poetry</i> and <i>Ionic dialect</i> word, <b>tale, story</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 23.652, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 14.508, 4th-5th c.BC: Aeschylus Tragicus “Supplices” 534 (Lyric poetry)">Refs 8th c.BC+</a>]; <span class='asgreek'>αἰνεῖν</span> <span class='asgreek'>αἶνον</span> to tell <b>a tale</b>, [<a href="javascript:void(0)" title=" [prev. author] “Ag.” 1483 (Lyric poetry), 5th c.BC: Sophocles Tragicus “Philoctetes” 1380">Refs 5th c.BC+</a>]: especially <b>story with moral, fable</b>, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 202, 7th c.BC: Archilochus Lyricus 86, 89; ἄκουε δὴ τὸν αἶνον 3rd c.BC: Callimachus Epicus “Iambi” 1.211">Refs 8th c.BC+</a>]: generally, <b>saying, proverb</b>, <span class='asgreek'>παλαιὸς</span> <span class='asgreek'>αἶ</span>.[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Fragmenta” 508, compare 3rd c.BC: Theocritus Poeta Bucolicus 14.43">Refs 5th c.BC+</a>]; <b>riddle,</b> [<a href="javascript:void(0)" title=" Carm.Pop. 34. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> = <i>Attic dialect</i> <span class='asgreek'>ἔπαινος</span>, <b>praise</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 23.795, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 21.110, 5th c.BC: Pindarus Lyricus “N.” 1.6; ἐπιτύμβιος αἶ. 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1547, compare 780, 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 707 (all Lyric poetry); ἄξιος αἴνου μεγάλου 5th c.BC: Herodotus Historicus 7.107 (variant{ἐπαίνου}),cf. LXX.Ps.8.2, +others, NT.Luke.18.43. ">NT+8th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>decree, resolution</b>, <span class='asgreek'>τῶν</span> <span class='asgreek'>Ἀχαιῶν</span>[<a href="javascript:void(0)" title=" “IG” 4.926 (Epid.)">Refs</a>]; <span class='asgreek'>κατ᾽</span> <span class='asgreek'>αἶνον</span>, opposed to <span class='asgreek'>κατὰ</span> <span class='asgreek'>ψήφισμα</span>, [<a href="javascript:void(0)" title=" “SIG” 672.15 (Delph.), compare “Etymologicum Magnum” 36.16.">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Ps.8.2]] ☩ [[Luke.18.43]]
+</sub></small>

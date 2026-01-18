@@ -1,0 +1,27 @@
+**Nehemiah 3:19** 
+<small><sub>**KJV:**</sub></small>
+And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning [of the wall].
+<small><sub>**BSB:**</sub></small>
+And next to him, Ezer son of Jeshua, ruler of Mizpah, repaired another section opposite the ascent to the armory, near the angle in the wall.
+<small><sub>**Literal:**</sub></small>
+and  he repaired on hand  his Ezer [the] son of Jeshua [the] official of \<the>  Mizpah a measured portion second from  before [the] going up of the  armory the  buttress<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.18|<< Nehemiah 3:18]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.20|Nehemiah 3:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he repaired  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְחַזֵּ֨ק</big></span><small><sup>[[H2388G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.cha.Zek<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hand his  | <span class="ashebrew"><big>יָד֜</big></span><small><sup>[[H3027I]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ezer  | <span class="ashebrew"><big>עֵ֧זֶר</big></span><small><sup>[[H5829I]]</sup></small> &#8207;| 'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeshua  | <span class="ashebrew"><big>יֵשׁ֛וּעַ</big></span><small><sup>[[H3442L]]</sup></small> &#8207;| ye.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] official of  | <span class="ashebrew"><big>שַׂ֥ר</big></span><small><sup>[[H8269]]</sup></small> &#8207;| sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Mizpah  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּצְפָּ֖ה</big></span><small><sup>[[H4709G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mitz.Pah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a measured portion  | <span class="ashebrew"><big>מִדָּ֣ה</big></span><small><sup>[[H4060A]]</sup></small> &#8207;| mi.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| second  | <span class="ashebrew"><big>שֵׁנִ֑ית</big></span><small><sup>[[H8145]]</sup></small> &#8207;| she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>נֶּ֕גֶד</big></span><small><sup>[[H5048]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] going up of  | <span class="ashebrew"><big>עֲלֹ֥ת</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| 'a.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the armory  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נֶּ֖שֶׁק</big></span><small><sup>[[H5402]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ne.shek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the buttress  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּקְצֹֽעַ</big></span><small><sup>[[H4740H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mik.Tzo.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.18|<< Nehemiah 3:18]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.20|Nehemiah 3:20 >>]]</td></tr></table>
+
+

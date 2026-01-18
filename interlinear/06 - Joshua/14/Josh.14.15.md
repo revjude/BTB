@@ -1,0 +1,25 @@
+**Joshua 14:15** 
+<small><sub>**KJV:**</sub></small>
+And the name of Hebron before [was] Kirjatharba; [which Arba was] a great man among the Anakims. And the land had rest from war.
+<small><sub>**BSB:**</sub></small>
+(Hebron used to be called Kiriath-arba, after Arba, the greatest man among the Anakim.) Then the land had rest from war.
+<small><sub>**Literal:**</sub></small>
+and  [the] name of Hebron \<to>  before [was] Kiriath Arba [who was] the  man \<the>  great among the  Anakites he and  the  land it was at peace from  war<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.14|<< Joshua 14:14]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.1|Joshua 15:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] name of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֵׁ֨ם</big></span><small><sup>[[H8034]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hebron  | <span class="ashebrew"><big>חֶבְר֤וֹן</big></span><small><sup>[[H2275A]]</sup></small> &#8207;| chev.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנִים֙</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Kiriath  | <span class="ashebrew"><big>קִרְיַ֣ת</big></span><small><sup>[[H7153]]</sup></small> &#8207;| kir.Yat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Arba  | <span class="ashebrew"><big>אַרְבַּ֔ע</big></span><small><sup>[[H7153]]</sup></small> &#8207;| 'ar.Ba'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who was] the man  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָדָ֧ם</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> great  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גָּד֛וֹל</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the Anakites  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲנָקִ֖ים</big></span><small><sup>[[H6062]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.na.Kim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  | <span class="ashebrew"><big>ה֑וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the land  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֥רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was at peace  | <span class="ashebrew"><big>שָׁקְטָ֖ה</big></span><small><sup>[[H8252]]</sup></small> &#8207;| sha.ke.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from war  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּלְחָמָֽה</big></span><small><sup>[[H4421]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.14|<< Joshua 14:14]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.1|Joshua 15:1 >>]]</td></tr></table>
+
+

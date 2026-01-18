@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==διαλογίζομαι==</span>-<span class='asgreek'>ίζομαι</span></b>, 
+
+
+ <i>perfect</i> <b>-<span class='asgreek'>λελόγισμαι</span></b>[<a href="javascript:void(0)" title=" 4th c.BC: Amphis Comicus 33.9 ">Refs 4th c.BC+</a>]:—<b>balance accounts,</b> <span class='asgreek'>πρός</span> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 52.3; τινί “PSI” 5.510.10 (3rd c.BC)">Refs 4th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" “SIG” 241 C 127 (Delph., 4th c.BC). ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>calculate exactly,</b> <span class='asgreek'>ὁπόσον</span>.. [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Diphilus Comicus 43.15, compare 4th c.BC: Amphis Comicus [same place] ">Refs 4th c.BC+</a>]; <b>consider,</b> <span class='asgreek'>ἀεί</span> <span class='asgreek'>τι</span> <span class='asgreek'>δ</span>. <span class='asgreek'>καλόν</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus 112, compare 5th-6th c.BC: Isocrates Orator 6.90, 4th-3rd c.BC: Menander Comicus “Ἐπιτρέποντες” 36 ">Refs 5th c.BC+</a>]; <span class='asgreek'>κενὰ</span> <span class='asgreek'>δ</span>.[<a href="javascript:void(0)" title=" [prev. work] 347; πρὸς ὑμᾶς αὐτούς 4th c.BC: Isaeus Orator 7.45 ">Refs 4th c.BC+</a>]; <b>stop to consider,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 18.98 ">Refs 4th c.BC+</a>]; <b>distinguish between,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>καλὰ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>μή</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 1.18. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>debate, argue,</b> <span class='asgreek'>περί</span> <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 3.5.1. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>impute,</b> <span class='asgreek'>τί</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" LXX.2Kgs.19.19(20). ">LXX</a>]
+$\quad$ $\quad$<b>\_\_IV</b> with <i>accusative</i> loci. <b>hold a circuit court</b> (Latin <i>conventus</i>) <b>for</b> a district, [<a href="javascript:void(0)" title=" “PRyl.” 74.8 (2nd c.AD), “POxy.” 484.24 (2nd c.AD)">Refs 2nd c.AD+</a>]; <span class='asgreek'>ἐν</span> <span class='asgreek'>Ἰονλιοπόλει</span> [<a href="javascript:void(0)" title=" “BGU” 903.18 (2nd c.AD). ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Kgs.19.19]]
+</sub></small>

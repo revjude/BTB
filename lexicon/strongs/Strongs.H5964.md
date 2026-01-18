@@ -1,0 +1,10 @@
+<big><span class="ashebrew">‎עָלֶמֶת‎</span></big> **ʻÂlemeth** <small>*(aw-leh'-meth)*</small> ==**Alemeth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from <span class="ashebrew">‎עָלַם‎</span><sup><small>[[H5956]]</small></sup>; a covering</small>
+
+$\quad$ Alameth, Alemeth.
+- § Alameth or Alemeth = *"covering"*
+- ***Alemeth***, the name of a place in Palestine and of two Israelites
+
+n pr m
+**1)** a Benjamite, son of Jehoadah or Jerah and descended from Saul through Jonathan
+**2)** a town in Benjamin

@@ -1,0 +1,26 @@
+**2 Samuel 18:23** 
+<small><sub>**KJV:**</sub></small>
+But howsoever, [said he], let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushi.
+<small><sub>**BSB:**</sub></small>
+“No matter what, I want to run!” he replied. “Then run!” Joab told him. So Ahimaaz ran by way of the plain and outran the Cushite.
+<small><sub>**Literal:**</sub></small>
+and  may it be whatever I will run and  he said to \<the>  him run and  he ran Ahimaaz [the] way of the  plain and  he passed by \<obj.> the  Cushite<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.22|<< 2 Samuel 18:22]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.24|2 Samuel 18:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and may it be  | <span class="ashebrew"><big>וִ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יהִי</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> hi-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whatever  | <span class="ashebrew"><big>מָ֣ה</big></span><small><sup>[[H4100]]</sup></small> &#8207;| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will run  | <span class="ashebrew"><big>אָר֔וּץ</big></span><small><sup>[[H7323G]]</sup></small> &#8207;| 'a.Rutz<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֥אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  | <span class="ashebrew"><big>ל֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| run  | <span class="ashebrew"><big>ר֑וּץ</big></span><small><sup>[[H7323G]]</sup></small> &#8207;| Rutz<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he ran  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּ֤רָץ</big></span><small><sup>[[H7323G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.rotz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahimaaz  | <span class="ashebrew"><big>אֲחִימַ֙עַץ֙</big></span><small><sup>[[H0290H]]</sup></small> &#8207;| 'a.chi.Ma.'atz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] way of  | <span class="ashebrew"><big>דֶּ֣רֶךְ</big></span><small><sup>[[H1870K]]</sup></small> &#8207;| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the plain  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כִּכָּ֔ר</big></span><small><sup>[[H3603H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ki.Kar<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he passed by  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעֲבֹ֖ר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Cushite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כּוּשִֽׁי</big></span><small><sup>[[H3569G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ku.Shi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.22|<< 2 Samuel 18:22]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.24|2 Samuel 18:24 >>]]</td></tr></table>
+
+

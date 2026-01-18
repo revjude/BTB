@@ -1,0 +1,21 @@
+**Zechariah 10:9** 
+<small><sub>**KJV:**</sub></small>
+And I will sow them among the people: and they shall remember me in far countries; and they shall live with their children, and turn again.
+<small><sub>**BSB:**</sub></small>
+Though I sow them among the nations, they will remember Me in distant lands; they and their children will live and return.
+<small><sub>**Literal:**</sub></small>
+and  I will sow  them among the  peoples and  in the  distant places they will remember  me and  they will live with children  their and  they will return<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.8|<< Zechariah 10:8]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.10|Zechariah 10:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will sow them  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶזְרָעֵ</big></span><small><sup>[[H2232]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ez.ra.'E<small><sup>[[HVqu1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the peoples  | <span class="ashebrew"><big>בָּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עַמִּ֔ים</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in the distant places  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מֶּרְחַקִּ֖ים</big></span><small><sup>[[H4801]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va<small><sup>[[HRd]]</sup></small> m.mer.cha.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will remember me  | <span class="ashebrew"><big>יִזְכְּר֑וּ</big></span><small><sup>[[H2142]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| yiz.ke.Ru.<small><sup>[[HVqi3mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will live  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>חָי֥וּ</big></span><small><sup>[[H2421]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> cha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children their  | <span class="ashebrew"><big>בְּנֵי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| be.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will return  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָֽׁבוּ</big></span><small><sup>[[H7725G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Sha.vu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.8|<< Zechariah 10:8]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.10|Zechariah 10:10 >>]]</td></tr></table>
+
+

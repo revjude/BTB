@@ -1,0 +1,25 @@
+**Numbers 21:11** 
+<small><sub>**KJV:**</sub></small>
+And they journeyed from Oboth, and pitched at Ijeabarim, in the wilderness which [is] before Moab, toward the sunrising.
+<small><sub>**BSB:**</sub></small>
+They journeyed from Oboth and camped at Iye-abarim in the wilderness opposite Moab to the east.
+<small><sub>**Literal:**</sub></small>
+and  they set out from  Oboth and  they encamped at  Iye \<the>  Abarim in the  wilderness which [is] on [the] face of Moab from  [the] rising of the  sun<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.10|<< Numbers 21:10]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.12|Numbers 21:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they set out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּסְע֖וּ</big></span><small><sup>[[H5265]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Oboth  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֹבֹ֑ת</big></span><small><sup>[[H0088]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'o.Vot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they encamped  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּחֲנ֞וּ</big></span><small><sup>[[H2583]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at Iye  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עִיֵּ֣י</big></span><small><sup>[[H5863]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'i.Yei<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Abarim  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֲבָרִ֗ים</big></span><small><sup>[[H5863]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.va.Rim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the wilderness  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִּדְבָּר֙</big></span><small><sup>[[H4057B]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר֙</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] face of  | <span class="ashebrew"><big>פְּנֵ֣י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  | <span class="ashebrew"><big>מוֹאָ֔ב</big></span><small><sup>[[H4124G]]</sup></small> &#8207;| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] rising of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּזְרַ֖ח</big></span><small><sup>[[H4217H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> miz.Rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sun  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּֽׁמֶשׁ</big></span><small><sup>[[H8121]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Sha.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.10|<< Numbers 21:10]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.12|Numbers 21:12 >>]]</td></tr></table>
+
+

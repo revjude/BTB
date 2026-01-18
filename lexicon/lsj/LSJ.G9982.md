@@ -1,0 +1,9 @@
+<span class="asgreek">προσανέχω</span> <small>***(prosanechō)***</small> ==**to rise up**==  <sup><small>[[TEGMC#|]]</small></sup> 
+
+<b> <span class='asgreek'>==προσανέχω==</span>-<span class='asgreek'>έχω</span></b>, 
+
+
+ <b>wait</b>, <span class='asgreek'>ἕως</span>.. [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.19.12, compare 3.94.3 ">Refs 2nd c.BC+</a>]: with <i>accusative</i>, <b>await</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>καιρὸν</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἐντεύξεως</span> [<a href="javascript:void(0)" title=" [prev. author] 5.103.5. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>rely on, place one's dependence on</b>, <span class='asgreek'>ἐλπίσι</span> [<a href="javascript:void(0)" title=" [prev. author] 5.72.2, compare 4.60.8, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 10.6.2, “BJ” 4.2.1, 1st-2nd c.AD: Heliodorus Medicus (?) in “PMed.Lond.” 155.4.5; ταῖς βοηθείαις 2nd c.BC: Polybius Historicus 1.84.12. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>devote oneself to</b>, <span class='asgreek'>θεῷ</span>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἡγεμόσι</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 10.4.5, 10.7.2 ">Refs 1st c.AD+</a>]; <span class='asgreek'>ἔργοις</span>, <span class='asgreek'>τέχναις</span>,[<a href="javascript:void(0)" title=" [prev. work] 12.5.5, [prev. author] “Ap.” 2.41; Σικελικαῖς τραπέζαις 5th-4th c.BC: Socratis et Socraticorum Epistulae “Ep.” 8 ">Refs 5th c.BC+</a>]; <b>attend to</b>, <span class='asgreek'>τῇ</span> <span class='asgreek'>σκαπάνῃ</span> [<a href="javascript:void(0)" title=" 4th c.AD: Alciphro Epistolographus 3.24; τῷ λόγῳ 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 49.4: in full, π. τὴν γνώμην θεῷ 1st c.AD: Josephus Historicus “AJ Prooem.” 3. ">Refs 1st c.AD+</a>]

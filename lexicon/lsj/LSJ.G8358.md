@@ -1,0 +1,15 @@
+<span class="asgreek">μύλη</span> <small>***(mulē)***</small> ==**a molar tooth**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==μύλη==</span>-<span class='asgreek'>η</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>mill</b>: in [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus ">Refs 8th c.BC+</a>], <b>hand-mill</b> turned by women, <span class='asgreek'>αἱ</span> <span class='asgreek'>μὲν</span> <span class='asgreek'>ἀλετρεύουσι</span> <span class='asgreek'>μύλης</span> <span class='asgreek'>ἔπι</span> <span class='asgreek'>μήλοπα</span> <span class='asgreek'>καρπόν</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 7.104; γυνὴ.. ἀλετρὶς πλησίον, ἔνθ᾽ ἄρα οἱ μύλαι ἥατο 20.106 ">Refs 8th c.BC+</a>]; <span class='asgreek'>μύλην</span> <span class='asgreek'>στρέφειν</span>, <span class='asgreek'>περιάγειν</span>, <span class='asgreek'>περιφέρειν</span>, <span class='asgreek'>περιελαύνειν</span>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 7.180 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>μηδὲ</span> <span class='asgreek'>μύλαν</span> (<i>Doric dialect</i>) <span class='asgreek'>ἐνεῖμεν</span> <span class='asgreek'>μηδὲ</span> <span class='asgreek'>ὅλμον</span> [<a href="javascript:void(0)" title=" “IG” 22.1126.24 (Amphict. Delph., 4th c.BC)">Refs 4th c.BC+</a>]: Cretan dialect <i>accusative</i> <i>plural</i> <span class='asgreek'>μύλανς</span> [<a href="javascript:void(0)" title=" “Schwyzer” 180.6. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>nether millstone</b> (the upper being <span class='asgreek'>ὄνος</span>), [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 648: \_plural\_, αἱ μύλαι 4th c.BC: Aristoteles Philosophus “Meteorologica” 383b7, compare 5th c.BC: Pherecrates Comicus 10. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>knee-pan</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “κατ᾽ ἰητρεῖον” 9, “Comica Adespota” 450, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 494a5, 2nd c.AD: Pausanias Periegeta 1.35.5. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> <b>hard formation</b> in a woman's womb, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 1.71, 2.178, 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 775b25. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_V</b> <i>plural</i>, <b>molars</b>, [<a href="javascript:void(0)" title=" LXX.Job.29.17, 1st c.AD: Anonymus Londinensis 24.24, 2nd c.AD: Galenus Medicus “de Usu Partium” 9.15 ">LXX+1st c.AD+</a>]: <i>singular</i>, of an ass's <b>tooth, PMag. Lond.</b>[<a href="javascript:void(0)" title=" 125.22, +others ">Refs</a>]
+$\quad$ $\quad$<b>\_\_VI</b> ={<span class='asgreek'>μῶλυ</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 12.80: root of λάπαθον, 6th c.AD: Aëtius Medicus 1.251 ">Refs 2nd c.AD+</a>]. (Cf. Latin <i>molo</i>, Gothic <i>malan</i> 'grind', etc.)
+
+<small><sub>LSJ Scripture Refs: [[Job.29.17]]
+</sub></small>

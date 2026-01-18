@@ -1,0 +1,26 @@
+**Nehemiah 7:71** (7:70)
+<small><sub>**KJV:**</sub></small>
+And [some] of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver.
+<small><sub>**BSB:**</sub></small>
+And some of the heads of the families gave to the treasury for the project 20,000 darics of gold and 2,200 minas of silver.
+<small><sub>**Literal:**</sub></small>
+and  some of  [the] leaders of the  fathers they gave to  [the] treasury of the  work gold drachmas two ten thousands and  silver minas two thousand and  two hundred<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.70|<< Nehemiah 7:70]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.72|Nehemiah 7:72 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and some of [the] leaders of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מֵֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>רָאשֵׁ֣י</big></span><small><sup>[[H7218H]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the fathers  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָב֗וֹת</big></span><small><sup>[[H0001G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they gave  | <span class="ashebrew"><big>נָֽתְנוּ֙</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] treasury of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אוֹצַ֣ר</big></span><small><sup>[[H0214]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'o.Tzar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the work  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְּלָאכָ֔ה</big></span><small><sup>[[H4399]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  | <span class="ashebrew"><big>זָהָ֕ב</big></span><small><sup>[[H2091]]</sup></small> &#8207;| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| drachmas  | <span class="ashebrew"><big>דַּרְכְּמוֹנִ֖ים</big></span><small><sup>[[H1871]]</sup></small> &#8207;| dar.ke.mo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  | <span class="ashebrew"><big>שְׁתֵּ֣י</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten thousands  | <span class="ashebrew"><big>רִבּ֑וֹת</big></span><small><sup>[[H7239]]</sup></small> &#8207;| ri.Bot<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and silver  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֶ֕סֶף</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| minas  | <span class="ashebrew"><big>מָנִ֖ים</big></span><small><sup>[[H4488]]</sup></small> &#8207;| ma.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two thousand  | <span class="ashebrew"><big>אַלְפַּ֥יִם</big></span><small><sup>[[H0505G]]</sup></small> &#8207;| 'al.Pa.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and two hundred  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מָאתָֽיִם</big></span><small><sup>[[H3967]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.70|<< Nehemiah 7:70]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.72|Nehemiah 7:72 >>]]</td></tr></table>
+
+

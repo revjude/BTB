@@ -1,0 +1,24 @@
+ I. <span class="bdbLangHebrew">‎עִבְרִי‎</span> **adjective and name of a people** ==Hebrew==, either 
+$\quad$ $\quad$ **a.** put into the mouth of foreigners (Egyptian and Philistine), or 
+$\quad$ $\quad$ **b.** used to distinguish Israel from foreigners (= ***one from beyond, from the other side***, i.e. probably (in Hebrew tradition) ***from beyond the Euphrates*** (compare [[Josh.24.2|Josh 24:2]]; [[Josh.24.3|Josh 24:3]] [[BDB#E|E]]), but possibly in fact (if name given in Cannan) ***from beyond the Jordan***; compare [[BDB#Ges|Ges]]<sup>«GKC:2b»§ 2b</sup> [[BDB#Sta|Sta]]<sup>§ 1 b</sup> [[BDB#Kö|Kö]]<sup>i. 18 ff.</sup> [[BDB#We|We]]<sup>Israel u. Jüd. Geschichte. 7</sup> [[BDB#Kau|Kau]]<sup>'Eber' and 'Hebräer'</sup> in [[BDB#Ri|Ri]]<sup>HWB 332; 600</sup>. — On connection of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> (in wide sense) with <abbr title="transliteration"><u>–abiri</u></abbr> (Tel Amarna) see [[BDB#Wkl|Wkl]]<sup>Geschichte. Israel 17 ff.; Semitic Studies in Mem. of Kohut, 605 ff.</sup> [[BDB#Mey|EMey]]<sup>Aegyptica [Ebers], 75</sup> compare [[BDB#Gl|Glaser]]<sup>MVG 1897, 255 ff.</sup> [[BDB#Kö|Kö]]<sup>Exp. Times xi. 238</sup>; opposed to [[BDB#Jastr|Jastr]]<sup>JBL xi (1892), 118 ff.</sup> [[BDB#Say|Say]]<sup>Monuments 188; 333</sup> [[BDB#WMM|WMM]]<sup>As.u.Eur.396</sup>): — masculine singular <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> [[Gen.39.14|Gen 39:14]] +; feminine singular <span class="bdbLangHebrew">‎עִבְרִיָּה‎</span> [[Deut.15.12|Deut 15:12]]; [[Jer.34.9|Jer 34:9]] masculine plural <span class="bdbLangHebrew">‎עִבְרִים‎</span> [[Gen.43.32|Gen 43:32]] +, <span class="bdbLangHebrew">‎עִבְרִיִּים‎</span> [[Exod.3.18|Exod 3:18]] feminine plural <span class="bdbLangHebrew">‎עִבְרִיֹּת‎</span> [[Exod.1.15|Exod 1:15]] + 2 t., <span class="bdbLangHebrew">‎וֺת‎</span>- [[Exod.1.16|Exod 1:16]] word not in [[BDB#P|P]]; — 
+
+**1. adjective a.** <span class="bdbLangHebrew">‎אִישׁ עִבְרִי‎</span> [[Gen.39.14|Gen 39:14]] compare v[[Gen.39.17|Gen 39:17]] (both [[BDB#J|J]]), [[Gen.41.12|Gen 41:12]] ([[BDB#E|E]]). 
+$\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎אִישׁ בְִרִי‎</span> [[Exod.2.11|Exod 2:11]] compare v[[Exod.2.13|Exod 2:13]]; [[Exod.21.2|Exod 21:2]] (all [[BDB#E|E]]), [[Deut.15.12|Deut 15:12]]; [[Jer.34.9|Jer 34:9]]; [[Jer.34.14|Jer 34:14]] feminine [[Deut.15.12|Deut 15:12]]; [[Jer.34.9|Jer 34:9]]. 
+
+**2. noun a. b.** [[Exod.1.16|Exod 1:16]]; [[Exod.1.19|Exod 1:19]]; [[Exod.2.17|Exod 2:17]] (all feminine) [[Exod.2.6|Exod 2:6]] (all [[BDB#E|E]]), [[1Sam.4.6|1Sam 4:6]]; [[1Sam.4.9|1Sam 4:9]]; [[1Sam.13.19|1Sam 13:19]]; [[1Sam.14.11|1Sam 14:11]]; [[1Sam.29.3|1Sam 29:3]]. 
+$\quad$ $\quad$ **b.** [[Gen.40.15|Gen 40:15]]; [[Exod.1.15|Exod 1:15]] (feminine; both [[BDB#E|E]]), [[1Sam.13.3|1Sam 13:3]]; [[1Sam.14.21|1Sam 14:21]]; [[Gen.43.32|Gen 43:32]] ([[BDB#J|J]]); especially in <span class="bdbLangHebrew">‎אֱלֹהֵי הָעִבְרִים‎</span> [[Exod.3.18|Exod 3:18]]; [[Exod.5.3|Exod 5:3]]; [[Exod.7.16|Exod 7:16]]; [[Exod.9.1|Exod 9:1]]; [[Exod.9.13|Exod 9:13]]; [[Exod.10.3|Exod 10:3]] (all [[BDB#J|J]]); singular only <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אַבְרָם הָע‎</span> [[Gen.14.13|Gen 14:13]] <span class="bdbLangHebrew">‎אָנֹ֑כִי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> [[Jonah.1.9|Jonah 1:9]]. — [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ἐβραῖος</span>, <span class="bdbLangGreek">Ἐβραία</span>, [[Gen.14.13|Gen 14:13]] <span class="bdbLangGreek">τῷ περάτῃ</span>. — [[1Sam.13.7|1Sam 13:7]] read probably for <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְעִבְרִים וגו‎</span>, <span class="bdbLangHebrew">‎וְעָֽבְרוּ‎</span> <span class="bdbLangHebrew">‎מַעְבְּרוֺת הַיַּרְדֵּן‎</span> ([[BDB#We|We]]), or, better, <span class="bdbLangHebrew">‎וַיַּעַבְרוּ‎</span> [[BDB#Dr|Dr]] [[BDB#Kit|Kit]] Löhr; &gt; <span class="bdbLangHebrew">‎וְעַם רַב‎</span> [[BDB#Klo|Klo]] [[BDB#Bu|Bu]] [[BDB#HPS|HPS]]. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.14.13\|14:13]] · [[Gen.39.14\|39:14]] · [[Gen.39.17\|39:17]] · [[Gen.40.15\|40:15]] · [[Gen.41.12\|41:12]] · [[Gen.43.32\|43:32]] |
+| Exodus | [[Exod.1.15\|1:15]] · [[Exod.1.16\|1:16]] · [[Exod.1.19\|1:19]] · [[Exod.2.6\|2:6]] · [[Exod.2.11\|2:11]] · [[Exod.2.13\|2:13]] · [[Exod.2.17\|2:17]] · [[Exod.3.18\|3:18]] · [[Exod.5.3\|5:3]] · [[Exod.7.16\|7:16]] · [[Exod.9.1\|9:1]] · [[Exod.9.13\|9:13]] · [[Exod.10.3\|10:3]] · [[Exod.21.2\|21:2]] |
+| Deuteronomy | [[Deut.15.12\|15:12]] |
+| Joshua | [[Josh.24.2\|24:2]] · [[Josh.24.3\|24:3]] |
+| 1 Samuel | [[1Sam.4.6\|4:6]] · [[1Sam.4.9\|4:9]] · [[1Sam.13.3\|13:3]] · [[1Sam.13.7\|13:7]] · [[1Sam.13.19\|13:19]] · [[1Sam.14.11\|14:11]] · [[1Sam.14.21\|14:21]] · [[1Sam.29.3\|29:3]] |
+| Jeremiah | [[Jer.34.9\|34:9]] · [[Jer.34.14\|34:14]] |
+| Jonah | [[Jonah.1.9\|1:9]] |
+

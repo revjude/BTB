@@ -1,0 +1,7 @@
+<big><span class="ashebrew">‎קְוֻצָּה‎</span></big> **qᵉvutstsâh** <small>*(kev-oots-tsaw')*</small> ==**lock**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>feminine passive participle of <span class="ashebrew">‎קוּץ‎</span><sup><small>[[H6972]]</small></sup> in its original sense</small>
+
+$\quad$ lock.
+- ***a forelock*** (as shorn)
+
+**1)** lock, locks of hair

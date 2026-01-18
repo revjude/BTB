@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==θήκη==</span>-<span class='asgreek'>η</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>τίθημι</span>) <b>case, chest</b>, <span class='asgreek'>χρυσοῦ</span> <span class='asgreek'>θ</span>. a money-<b>chest</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.130, 9.83, 5th c.BC: Euripides Tragicus “Hecuba” 1147, compare 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 8.17, etc. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>grave, tomb</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 405, 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1763 (\_anapaest meter\_); νεκρῶν ==θήκη==ας ἀνοίγειν 5th c.BC: Herodotus Historicus 1.187, compare 67, +others; αἱ θ. τῶν τεθνεώτων 5th c.BC: Thucydides Historicus 1.8, 3.104 ">Refs 5th c.BC+</a>]; <span class='asgreek'>εἰς</span> <span class='asgreek'>ἀναισχύντους</span> <span class='asgreek'>θ</span>. <span class='asgreek'>ἐτράποντο</span> <b>modes of burial</b>, [<a href="javascript:void(0)" title=" [prev. author] 2.52, compare 5th-6th c.BC: Plato Philosophus “Respublica” 427b; ==θήκη==ην ὀρύττειν 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 7.3.5. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>ξίφους</span> <span class='asgreek'>θ</span>. sword-<b>sheath</b>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 10.144 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>τόξου</span> bow-<b>case,</b> [<a href="javascript:void(0)" title=" EM 333.41. ">Refs</a>]

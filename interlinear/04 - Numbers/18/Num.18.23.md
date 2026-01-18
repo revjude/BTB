@@ -1,0 +1,32 @@
+**Numbers 18:23** 
+<small><sub>**KJV:**</sub></small>
+But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: [it shall be] a statute for ever throughout your generations, that among the children of Israel they have no inheritance.
+<small><sub>**BSB:**</sub></small>
+The Levites are to perform the work of the Tent of Meeting, and they must bear their iniquity. This is a permanent statute for the generations to come. The Levites will not receive an inheritance among the Israelites.
+<small><sub>**Literal:**</sub></small>
+and  he will serve the  Levite[s] he \<obj.> [the] service of [the] tent of meeting and  they they will bear iniquity  their a statute of perpetuity to  generations  your and  in  among [the] people of Israel not they will inherit an inheritance<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.22|<< Numbers 18:22]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.24|Numbers 18:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will serve  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָבַ֨ד</big></span><small><sup>[[H5647H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Vad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Levite[s]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לֵּוִ֜י</big></span><small><sup>[[H3881]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> le.Vi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  | <span class="ashebrew"><big>ה֗וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] service of  | <span class="ashebrew"><big>עֲבֹדַת֙</big></span><small><sup>[[H5656H]]</sup></small> &#8207;| 'a.vo.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tent of  | <span class="ashebrew"><big>אֹ֣הֶל</big></span><small><sup>[[H0168G]]</sup></small> &#8207;| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| meeting  | <span class="ashebrew"><big>מוֹעֵ֔ד</big></span><small><sup>[[H4150I]]</sup></small> &#8207;| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הֵ֖ם</big></span><small><sup>[[H1992]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will bear  | <span class="ashebrew"><big>יִשְׂא֣וּ</big></span><small><sup>[[H5375J]]</sup></small> &#8207;| yis.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| iniquity their  | <span class="ashebrew"><big>עֲוֹנָ֑</big></span><small><sup>[[H5771G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a statute of  | <span class="ashebrew"><big>חֻקַּ֤ת</big></span><small><sup>[[H2708]]</sup></small> &#8207;| chu.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  | <span class="ashebrew"><big>עוֹלָם֙</big></span><small><sup>[[H5769G]]</sup></small> &#8207;| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to generations your  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דֹרֹ֣תֵי</big></span><small><sup>[[H1755]]</sup></small> <span class="ashebrew"><big>כֶ֔ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> do.Ro.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in among  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹךְ֙</big></span><small><sup>[[H8432]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> toKh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will inherit  | <span class="ashebrew"><big>יִנְחֲל֖וּ</big></span><small><sup>[[H5157]]</sup></small> &#8207;| yin.cha.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an inheritance  | <span class="ashebrew"><big>נַחֲלָֽה</big></span><small><sup>[[H5159]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| na.cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.22|<< Numbers 18:22]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.24|Numbers 18:24 >>]]</td></tr></table>
+
+

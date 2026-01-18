@@ -1,0 +1,25 @@
+**Psalms 142:7** (142:8)
+<small><sub>**KJV:**</sub></small>
+Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.
+<small><sub>**BSB:**</sub></small>
+Free my soul from prison, that I may praise Your name. The righteous will gather around me because of Your goodness to me.
+<small><sub>**Literal:**</sub></small>
+bring out  ! from  prison self  my to  give thanks to \<obj.> name  your \<in>  me they will surround righteous [people] for you deal bountifully towards  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.6|<< Psalms 142:6]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.0|Psalms 143:0 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| bring out !  | <span class="ashebrew"><big>ה֘וֹצִ֤יאָ</big></span><small><sup>[[H3318H]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9012]]</sup></small> &#8207;| ho.Tzi.'a<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from prison  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מַּסְגֵּ֨ר</big></span><small><sup>[[H4525]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mas.Ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self my  | <span class="ashebrew"><big>נַפְשִׁ</big></span><small><sup>[[H5315I]]</sup></small> <span class="ashebrew"><big>י֮</big></span><small><sup>[[H9020]]</sup></small> &#8207;| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give thanks to  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הוֹד֪וֹת</big></span><small><sup>[[H3034]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ho.Dot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name your  | <span class="ashebrew"><big>שְׁ֫מֶ֥</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| she.Me.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> me  | <span class="ashebrew"><big>בִּ֭</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| b<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will surround  | <span class="ashebrew"><big>יַכְתִּ֣רוּ</big></span><small><sup>[[H3803]]</sup></small> &#8207;| yakh.Ti.ru<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteous [people]  | <span class="ashebrew"><big>צַדִּיקִ֑ים</big></span><small><sup>[[H6662]]</sup></small> &#8207;| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֖י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you deal bountifully  | <span class="ashebrew"><big>תִגְמֹ֣ל</big></span><small><sup>[[H1580]]</sup></small> &#8207;| tig.Mol<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| towards me  | <span class="ashebrew"><big>עָלָֽ</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.6|<< Psalms 142:6]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.0|Psalms 143:0 >>]]</td></tr></table>
+
+

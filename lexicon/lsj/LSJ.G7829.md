@@ -1,0 +1,8 @@
+<span class="asgreek">κατάγελως</span> <small>***(katagelōs)***</small> ==**laughter**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==κατάγελως==</span></b>, <span class='asgreek'>ωτος</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>derision</b>, <span class='asgreek'>τί</span> <span class='asgreek'>δῆτ᾽</span> <span class='asgreek'>ἐμαυτῆς</span> <span class='asgreek'>καταγέλωτ᾽</span> <span class='asgreek'>ἔχω</span> <span class='asgreek'>τάδε</span>; these ornaments <b>which bring ridicule</b> upon me? [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1264, compare 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 76; -γέλωτος ἄξιος 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 13.5 ">Refs 5th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>πλατύς</span> sheer <b>mockery</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 1126; κατάγελων.. φίλοις παρασχεθεῖν [prev. author] “Eq.” 319; διπλοῦν προσλήψῃ -γέλωτα 1st-2nd c.AD: Epictetus Philosophus “Enchiridion” 22 ">Refs 5th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>πράξεως</span> <b>the crowning absurdity</b> of the matter, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Crito” 45e; κατάγελων ἡγούμην πάντα 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 7.23. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> of persons, <b>laughing-stock</b>, <span class='asgreek'>οὗτος</span> <span class='asgreek'>κ</span>. <span class='asgreek'>νομίζεται</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 160.4. ">Refs 4th c.BC+</a>]

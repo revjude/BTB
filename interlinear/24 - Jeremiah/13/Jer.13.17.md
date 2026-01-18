@@ -1,0 +1,30 @@
+**Jeremiah 13:17** 
+<small><sub>**KJV:**</sub></small>
+But if ye will not hear it, my soul shall weep in secret places for [your] pride; and mine eye shall weep sore, and run down with tears, because the LORD’S flock is carried away captive.
+<small><sub>**BSB:**</sub></small>
+But if you do not listen, I will weep in secret because of your pride. My eyes will overflow with tears, because the LORD’s flock has been taken captive.
+<small><sub>**Literal:**</sub></small>
+and  if not you will listen to  it in  secret places it will weep self  my \<from>  because of pride and  utterly \<to weep> it will weep and  it may run down eye  my tear[s] for it has been taken captive [the] flock of Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.16|<< Jeremiah 13:16]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.18|Jeremiah 13:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and if  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִם֙</big></span><small><sup>[[H0518A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will listen to it  | <span class="ashebrew"><big>תִשְׁמָע֔וּ</big></span><small><sup>[[H8085G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| tish.ma.'U.<small><sup>[[HVqi2mp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in secret places  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִסְתָּרִ֥ים</big></span><small><sup>[[H4565]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mis.ta.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will weep  | <span class="ashebrew"><big>תִּבְכֶּֽה</big></span><small><sup>[[H1058]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| tiv.keh-<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self my  | <span class="ashebrew"><big>נַפְשִׁ֖</big></span><small><sup>[[H5315G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> because of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֣י</big></span><small><sup>[[H6440I]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pride  | <span class="ashebrew"><big>גֵוָ֑ה</big></span><small><sup>[[H1466]]</sup></small> &#8207;| ge.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and utterly \<to weep>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דָמֹ֨עַ</big></span><small><sup>[[H1830]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> da.Mo.a'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will weep  | <span class="ashebrew"><big>תִּדְמַ֜ע</big></span><small><sup>[[H1830]]</sup></small> &#8207;| tid.Ma'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it may run down  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תֵרַ֤ד</big></span><small><sup>[[H3381]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> te.Rad<small><sup>[[HVqu3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye my  | <span class="ashebrew"><big>עֵינִ</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'ei.N<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tear[s]  | <span class="ashebrew"><big>דִּמְעָ֔ה</big></span><small><sup>[[H1832]]</sup></small> &#8207;| dim.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been taken captive  | <span class="ashebrew"><big>נִשְׁבָּ֖ה</big></span><small><sup>[[H7617]]</sup></small> &#8207;| nish.Bah<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] flock of  | <span class="ashebrew"><big>עֵ֥דֶר</big></span><small><sup>[[H5739]]</sup></small> &#8207;| 'E.der<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.16|<< Jeremiah 13:16]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.18|Jeremiah 13:18 >>]]</td></tr></table>
+
+

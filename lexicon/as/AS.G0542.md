@@ -1,0 +1,1 @@
+<span class="asform"><span class="asgreek"><span class="asbold">ἀπ-εῖδον</span></span> (WH, ἀφ-, ν. Bl., § 4, 3),</span>  <span class="asetym">    <span class="asderivation">2 aor. without present in use (cf. <span class="asref"><span class="asgreek">εἶδον</span></span>), serving as aor. to ἀφοράω, q.v.</span>  </span>

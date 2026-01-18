@@ -1,0 +1,28 @@
+**Joshua 16:8** 
+<small><sub>**KJV:**</sub></small>
+The border went out from Tappuah westward unto the river Kanah; and the goings out thereof were at the sea. This [is] the inheritance of the tribe of the children of Ephraim by their families.
+<small><sub>**BSB:**</sub></small>
+From Tappuah the border went westward to the Brook of Kanah and ended at the Sea. This was the inheritance of the clans of the tribe of Ephraim,
+<small><sub>**Literal:**</sub></small>
+from  Tappuah it goes the  border west  -ward [the] wadi of Kanah and  they are extremities  its the  sea  towards this [was] [the] inheritance of [the] tribe of [the] descendants of Ephraim to  clans  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.7|<< Joshua 16:7]]</td><td align="center" style="border:none;">[[Josh.16|Joshua 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.9|Joshua 16:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| from Tappuah  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>תַּפּ֜וּחַ</big></span><small><sup>[[H8599B]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ta.Pu.ach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it goes  | <span class="ashebrew"><big>יֵלֵ֨ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ye.Lekh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the border  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גְּב֥וּל</big></span><small><sup>[[H1366G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| west -ward  | <span class="ashebrew"><big>יָ֙מָּ</big></span><small><sup>[[H3220H]]</sup></small> <span class="ashebrew"><big>ה֙</big></span><small><sup>[[H9011]]</sup></small> &#8207;| ya.ma<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wadi of  | <span class="ashebrew"><big>נַ֣חַל</big></span><small><sup>[[H5158A]]</sup></small> &#8207;| Na.chal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kanah  | <span class="ashebrew"><big>קָנָ֔ה</big></span><small><sup>[[H7071G]]</sup></small> &#8207;| ka.Nah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they are  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָי֥וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| extremities its  | <span class="ashebrew"><big>תֹצְאֹתָ֖י</big></span><small><sup>[[H8444]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| to.tze.'o.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sea towards  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּ֑מָּ</big></span><small><sup>[[H3220G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> Ya.ma<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֹ֗את</big></span><small><sup>[[H2063]]</sup></small> &#8207;| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] [the] inheritance of  | <span class="ashebrew"><big>נַחֲלַ֛ת</big></span><small><sup>[[H5159]]</sup></small> &#8207;| na.cha.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tribe of  | <span class="ashebrew"><big>מַטֵּ֥ה</big></span><small><sup>[[H4294H]]</sup></small> &#8207;| ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ephraim  | <span class="ashebrew"><big>אֶפְרַ֖יִם</big></span><small><sup>[[H0669G]]</sup></small> &#8207;| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to clans their  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִשְׁפְּחֹתָֽ</big></span><small><sup>[[H4940]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mish.pe.cho.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.7|<< Joshua 16:7]]</td><td align="center" style="border:none;">[[Josh.16|Joshua 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.9|Joshua 16:9 >>]]</td></tr></table>
+
+

@@ -1,0 +1,4 @@
+<span class="ashebrew">‎קוּם‎</span> <small>***(qum)***</small> ==**to arise: establish**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 
+meaning of: <small>[[H6965B]]</small> 
+
+- : establish/stand\_firm/confirm/fulfill/fix

@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎אֲרוֹד‎</span></big> **ʼĂrôwd** <small>*(ar-ode')*</small> ==**Arod**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>an orthographical variation of <span class="ashebrew">‎אַרְוַד‎</span><sup><small>[[H0719]]</small></sup>; fugitive</small>
+
+$\quad$ Arod.
+- § Arod = *"I shall subdue: I shall roam"*
+- ***Arod***, an Israelite
+
+**1)** a son of Gad

@@ -1,0 +1,25 @@
+**Genesis 24:11** 
+<small><sub>**KJV:**</sub></small>
+And he made his camels to kneel down without the city by a well of water at the time of the evening, [even] the time that women go out to draw [water].
+<small><sub>**BSB:**</sub></small>
+As evening approached, he made the camels kneel down near the well outside the town at the time when the women went out to draw water.
+<small><sub>**Literal:**</sub></small>
+and  he made kneel the  camels from  [the] outside of the  city to [the] well of the  water to  [the] time of evening to  [the] time of [the] going out of the  [women who] draw water<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.10|<< Genesis 24:10]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.12|Genesis 24:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he made kneel  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּבְרֵ֧ךְ</big></span><small><sup>[[H1288]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yav.Rekh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the camels  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גְּמַלִּ֛ים</big></span><small><sup>[[H1581]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ge.ma.Lim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] outside  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>ח֥וּץ</big></span><small><sup>[[H2351]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Chutz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the city  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עִ֖יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] well of  | <span class="ashebrew"><big>בְּאֵ֣ר</big></span><small><sup>[[H0875]]</sup></small> &#8207;| be.'Er<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the water  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מָּ֑יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] time of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֵ֣ת</big></span><small><sup>[[H6256]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evening  | <span class="ashebrew"><big>עֶ֔רֶב</big></span><small><sup>[[H6153]]</sup></small> &#8207;| 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] time of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֵ֖ת</big></span><small><sup>[[H6256]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] going out of  | <span class="ashebrew"><big>צֵ֥את</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| tzet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [women who] draw water  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שֹּׁאֲבֹֽת</big></span><small><sup>[[H7579]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sho.'a.Vot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.10|<< Genesis 24:10]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.12|Genesis 24:12 >>]]</td></tr></table>
+
+

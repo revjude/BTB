@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==παιδίον==</span>-<span class='asgreek'>ον</span></b> 
+
+
+ (<i>paroxytone</i>), <span class='asgreek'>τό</span>, <i>diminutive</i> of <span class='asgreek'>παῖς</span> (never in Trag.), <b>little</b> or <b>young child</b> (up to 7 years, <i>accusative</i> to [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus cited in 1st c.AD: Philo Judaeus 1.26), 5th c.BC: Herodotus Historicus 1.110, 2.119, 5th-6th c.BC: Aristophanes Comicus “Pax” 50; τὰ νεωστὶ γεγονότα π. 5th-6th c.BC: Plato Philosophus “Lysis” 212e ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐκ</span> <span class='asgreek'>==παιδίον==ου</span> from <b>a child</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 412, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.6.20: proverbial, τοῦ πατρὸς τὸ π.">Refs 5th c.BC+</a>] 'chip of the old block', [<a href="javascript:void(0)" title=" “Comica Adespota” 672, title of satire by Varro; so τῆς μητρὸς τὸ π. 1st c.BC-1st c.AD: Strabo Geographus 10.3.15 (with play on Μήτηρ). ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>young slave</b>, male or female, [<a href="javascript:void(0)" title=" “IG” 12.329.27, 22.1554.67, 1556.22, 5th-6th c.BC: Aristophanes Comicus “Ranae” 37, “Nu.” 132, “Av.” 1150 (assuming variant). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>==παιδίον==ον</span>, a disease of children, probably <b>convulsions</b>, uncertain reading in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Aër.” ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b><span class='asgreek'>παίδι</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ὁ</span>, barbarism for {<span class='asgreek'>παιδιόθεν</span>}, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Alexander” 27. ">Refs 1st c.AD+</a>]

@@ -1,0 +1,24 @@
+**Micah 1:4** 
+<small><sub>**KJV:**</sub></small>
+And the mountains shall be molten under him, and the valleys shall be cleft, as wax before the fire, [and] as the waters [that are] poured down a steep place.
+<small><sub>**BSB:**</sub></small>
+The mountains will melt beneath Him, and the valleys will split apart, like wax before the fire, like water rushing down a slope.
+<small><sub>**Literal:**</sub></small>
+and  they will melt the  mountains under  him and  the  valleys they will be cleft like \<the>  wax from  before the  fire like  water poured out on  a slope<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.3|<< Micah 1:3]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.5|Micah 1:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they will melt  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָמַ֤סּוּ</big></span><small><sup>[[H4549]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> na.Ma.su<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the mountains  | <span class="ashebrew"><big>הֶֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הָרִים֙</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| he.<small><sup>[[HTd]]</sup></small> ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| under him  | <span class="ashebrew"><big>תַּחְתָּ֔י</big></span><small><sup>[[H8478G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9033]]</sup></small> &#8207;| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the valleys  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עֲמָקִ֖ים</big></span><small><sup>[[H6010R]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ma.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be cleft  | <span class="ashebrew"><big>יִתְבַּקָּ֑עוּ</big></span><small><sup>[[H1234]]</sup></small> &#8207;| yit.ba.Ka.'u<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> wax  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>דּוֹנַג֙</big></span><small><sup>[[H1749]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> do.Nag<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from before  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>פְּנֵ֣י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the fire  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֵ֔שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like water  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מַ֖יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poured out  | <span class="ashebrew"><big>מֻגָּרִ֥ים</big></span><small><sup>[[H5064]]</sup></small> &#8207;| mu.ga.Rim<small><sup>[[HVHsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on a slope  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מוֹרָֽד</big></span><small><sup>[[H4174]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> mo.Rad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.3|<< Micah 1:3]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.5|Micah 1:5 >>]]</td></tr></table>
+
+

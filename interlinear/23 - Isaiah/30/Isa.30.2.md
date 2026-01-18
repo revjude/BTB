@@ -1,0 +1,25 @@
+**Isaiah 30:2** 
+<small><sub>**KJV:**</sub></small>
+That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!
+<small><sub>**BSB:**</sub></small>
+They set out to go down to Egypt without asking My advice, to seek shelter under Pharaoh’s protection and take refuge in Egypt’s shade.
+<small><sub>**Literal:**</sub></small>
+who  go to  go down Egypt and  mouth  my not they have consulted to  take refuge in  [the] refuge of Pharaoh and  to  seek refuge in  [the] shadow of Egypt<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.1|<< Isaiah 30:1]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.3|Isaiah 30:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| who go  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הֹלְכִים֙</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ho.le.Khim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to go down  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רֶ֣דֶת</big></span><small><sup>[[H3381]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Re.det<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרַ֔יִם</big></span><small><sup>[[H4714G]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and mouth my  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פִ֖</big></span><small><sup>[[H6310I]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> F<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have consulted  | <span class="ashebrew"><big>שָׁאָ֑לוּ</big></span><small><sup>[[H7592]]</sup></small> &#8207;| sha.'A.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to take refuge  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עוֹז֙</big></span><small><sup>[[H5756]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> 'Oz<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] refuge of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מָע֣וֹז</big></span><small><sup>[[H4581]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ma.'oz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  | <span class="ashebrew"><big>פַּרְעֹ֔ה</big></span><small><sup>[[H6547L]]</sup></small> &#8207;| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to seek refuge  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חְס֖וֹת</big></span><small><sup>[[H2620]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la<small><sup>[[HR]]</sup></small> ch.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] shadow of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>צֵ֥ל</big></span><small><sup>[[H6738]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Tzel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  | <span class="ashebrew"><big>מִצְרָֽיִם</big></span><small><sup>[[H4714G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.1|<< Isaiah 30:1]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.3|Isaiah 30:3 >>]]</td></tr></table>
+
+

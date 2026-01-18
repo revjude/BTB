@@ -1,0 +1,8 @@
+<span class="asgreek">ὁμορέω</span> <small>***(homoreō)***</small> ==**to adjoin**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ὁμορέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <i>Ionic dialect</i> <b><span class='asgreek'>ὁμουρέω</span></b> (also <b>PLond unpublished</b> 2850.26 (2nd c.BC)), <b>to be</b> <span class='asgreek'>ὅμορος</span>, <b>border upon, march with,</b> [<span class='asgreek'>οἱ</span> <span class='asgreek'>Κελτοὶ</span>] <span class='asgreek'>ὁμουρέουσι</span> <span class='asgreek'>Κυνησίοισι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.33, compare 7.123, 4th-5th c.BC: Hecataeus Milesius Historicus 163, 204, 207 1st c.AD: Josephus Historicus, etc.; χωρίοις ==ὁμορέω==εῖν 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.292d, etc.: \_absolutely\_, τὰ ==ὁμορέω==οῦντα τοῦ ἀέρος">Refs 5th c.BC+</a>] <b>adjacent</b> portions.., [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 2p.51U. (but οἱ -οῦντες ">Refs 4th c.BC+</a>]<b>neighbours, Sent.</b> [<a href="javascript:void(0)" title=" 40); -οῦσα γῆ “PAmh.” 2.68.56 (1st c.AD),compare “PLond.” [prev. cited] ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>cohabit, have intercourse with,</b> <span class='asgreek'>ὅπως</span> <span class='asgreek'>ἄλλοισιν</span> <span class='asgreek'>ὁμουρέῃ</span>, of a woman, [<a href="javascript:void(0)" title=" Perictione Philosophus cited in 5th c.AD: Stobaeus, Joannes 4.28.19">Refs 5th c.AD+</a>]. (Written with <span class='asgreek'>ρρ</span>, <span class='asgreek'>==ὁμορέω==ροῦντα</span> [<a href="javascript:void(0)" title=" “SIG” 1044.16 (Halic., 4th-3rd c.BC).) ">Refs 4th c.BC+</a>]

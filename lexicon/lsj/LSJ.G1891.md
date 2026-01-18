@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==Ἐπαφρόδιτος==</span>-<span class='asgreek'>ῑτος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ (<span class='asgreek'>Ἀφροδίτη</span>) <b>lovely, fascinating, charming,</b> of persons, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.135, 4th c.BC: Aeschines Orator 2.42 ">Refs 5th c.BC+</a>]; of things, <span class='asgreek'>ἔπη</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἔργα</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Symposium” 8.15 (\_comparative\_, codices)">Refs 5th c.BC+</a>]; <span class='asgreek'>ποίησις</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 10.65 ">Refs 5th c.BC+</a>]: <i>superlative</i> <b>-<span class='asgreek'>ότατος</span></b>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Hiero” 1.35 ">Refs 5th c.BC+</a>]. <i>adverb</i> -<span class='asgreek'>τως</span>, <span class='asgreek'>γράφειν</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Lysia” 11, compare 4th c.AD: Alciphro Epistolographus 2.1, 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 6.3. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> used to translate Sulla's epithet <b>Felix, favoured by Venus,</b> i.e. <b>fortune's favourite</b> (<i>metaphorically</i> from the dice), [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sulla” 34, 2nd c.AD: Appianus Historicus “Bella Civilia” 1.97. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>gracious,</b> <span class='asgreek'>ἡγεμονία</span> [<a href="javascript:void(0)" title=" “PRyl.” 77.36 (2nd c.AD). ">Refs 2nd c.AD+</a>]

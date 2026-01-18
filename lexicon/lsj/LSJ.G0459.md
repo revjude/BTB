@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἄνομος==</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>lawless, impious,</b> <span class='asgreek'>τράπεζα</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.162 ">Refs 5th c.BC+</a>]; of persons, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 142, +others; στρατός “Tr.” 1096; Ἐχίονος γόνος 5th c.BC: Euripides Tragicus “Bacchae” 995 ">Refs 5th c.BC+</a>]; of things, <span class='asgreek'>θυσία</span>[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 151">Refs 4th c.BC+</a>]; <span class='asgreek'>πάθη</span> E [<a href="javascript:void(0)" title=" “Or.” 1455; μοναρχία 5th-6th c.BC: Plato Philosophus “Politicus” 302e: τὰ ἄνομα ">Refs 5th c.BC+</a>]<b>lawless acts,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.8">Refs 5th c.BC+</a>]: <i>comparative</i> <b>-<span class='asgreek'>ώτερος</span></b>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Hp.Ma.” 285a">Refs 5th c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>μως</span></b>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Medea” 1000, 5th c.BC: Antipho Orator 4.1.2, 5th c.BC: Thucydides Historicus 4.92. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>genitive</i>, <span class='asgreek'>ἀ</span>. <span class='asgreek'>θεοῦ</span>, i.e. <b>without (the Mosaic) Law</b> and therefore without God, [<a href="javascript:void(0)" title=" NT.1Cor.9.21. ">NT</a>]<i>adverb</i> <span class='asgreek'>ἀνόμως</span>, ={<span class='asgreek'>χωρὶς</span> <span class='asgreek'>νόμου</span>}, [<a href="javascript:void(0)" title=" NT.Rom.2.12. ">NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>illegal,</b> <span class='asgreek'>κατοχή</span>[<a href="javascript:void(0)" title=" “POxy.” 237 vii 11 (2nd c.AD). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>νόμος</span>[<a href="javascript:void(0)" title=" 11)">Refs</a>] <b>unmusical,</b> <span class='asgreek'>νόμος</span> <span class='asgreek'>ἄ</span>.[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1142 (Lyric poetry).">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Cor.9.21]] ☩ [[Rom.2.12]]
+</sub></small>

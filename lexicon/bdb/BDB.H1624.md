@@ -1,0 +1,21 @@
+ [<span class="bdbLangHebrew">‎גָּרָה‎</span>] **verb** only **Pi\`el** ==stir up strife==, **Hithpa\`el** ==engage in strife== (compare Late Hebrew Pi\`el ***stir up, excite***, against (<span class="bdbLangHebrew">‎בְּ‎</span>) Hithpa\`el; Aramaic Pa\`el <span class="bdbLangHebrew">‎גָּרֵא‎</span> <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKQAbAIAAAP///wAAACH5BAAAAAAALAAAAAApABsAAAJehI+py+0fToivwomtZjFvjnmS+CkhCUylc6rjyqYGBdf2jVt0XqE8uLO5ZsHF8HMkHVM+VogpahGbxlbUSjnpsCPulNpdTsM0qXBntv6+Q/PPrV1Dn085uW6/5/e4AgA7">; especially Assyrian <abbr title="transliteration"><u>***garû***</u></abbr>, Qal ***attack, be at war with***, <abbr title="transliteration"><u>***garû, girû***</u></abbr>, ***enemy***, etc. [[BDB#Asrb.|Asrb]]<sup>Annals iv. 49, 50</sup> ([[BDB#Schr|KB]]<sup>ii. 190</sup>) also [[BDB#SASm|SASmith]]<sup>Assurbanipal i. ii. Glossary</sup>; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJAAbAIAAAP///wAAACH5BAAAAAAALAAAAAAkABsAAAJchI+py+0QnmyhRlansnZznXQLd4FaZqbqykJoS4nte3TleONhjn2YN8n4EDTX0NUjGYpGmpAERTFruahSNkUSeQ+rrKby6kZd5djDBWWNszWEdYRtv/J5/Y5XFQAAOw=="> is ***run***, especially of water, ***flow***, etc.) — 
+
+**Pi\`el** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יְגָרֶה‎</span> [[Prov.15.18|Prov 15:18]]; [[Prov.28.25|Prov 28:25]]; [[Prov.29.22|Prov 29:22]], all with object <span class="bdbLangHebrew">‎מָדוֺן‎</span> ***excite, stir up, strife***. — On <span class="bdbLangHebrew">‎גֵּרָה‎</span> [[Deut.14.8|Deut 14:8]] see I.  <span class="bdbLangHebrew">‎גֵּרָה‎</span> below <span class="bdbLangHebrew">‎גרר‎</span>. **Hithpa\`el** ***Perfect*** 2 feminine singular <span class="bdbLangHebrew">‎הִתְגָּרִיתְ‎</span> [[Jer.50.24|Jer 50:24]] ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יִתְגָּרֶה‎</span> [[Dan.11.25|Dan 11:25]], <span class="bdbLangHebrew">‎וְיִתְגָּרֶ֯ו‎</span> v[[Dan.11.10|Dan 11:10]] 2 masculine singular <span class="bdbLangHebrew">‎תִּתְגָּרֶה‎</span> [[2Kgs.14.19|2Kgs 14:19]]; [[2Chr.25.19|2Chr 25:19]] jussive with apocope <span class="bdbLangHebrew">‎תִּתְגָּר‎</span> [[Deut.2.9|Deut 2:9]]; [[Deut.2.19|Deut 2:19]] 3 masculine plural <span class="bdbLangHebrew">‎יִתְגָּרוּ‎</span> [[Prov.28.4|Prov 28:4]]; [[Dan.11.10|Dan 11:10]], compare [[Dan.11.10|Dan 11:10]] [[BDB#Kt|Kt]]., see above; 2 masculine plural <span class="bdbLangHebrew">‎תִּתְגָּרוּ‎</span> [[Deut.2.5|Deut 2:5]] (jussive); ***Imperative*** masculine singular <span class="bdbLangHebrew">‎הִתְגָּר‎</span> [[Deut.2.24|Deut 2:24]] — 
+
+**1.** ***excite oneself*** against (<span class="bdbLangHebrew">‎בְּ‎</span> person), ***engage in strife*** with, literally [[Deut.2.5|Deut 2:5]]; [[Deut.2.19|Deut 2:19]]; [[2Kgs.14.19|2Kgs 14:19]] = [[2Chr.25.19|2Chr 25:19]] (followed by <span class="bdbLangHebrew">‎בְּרָעָה‎</span>; — <span class="bdbLangHebrew">‎רעה‎</span> personified as challenged opponent); also + accusative of manner, <span class="bdbLangHebrew">‎מִלְחָמָה‎</span> [[Deut.2.9|Deut 2:9]]; [[Deut.2.24|Deut 2:24]] figurative <span class="bdbLangHebrew">‎וְשֹׁמְרֵי תוֺרָה יִתְגָּרוּ‎</span> <span class="bdbLangHebrew">‎בָם‎</span> [[Prov.28.4|Prov 28:4]] ***while they that keep the law are at strife with them***, i.e. with those that forsake it. 
+
+**2.** absolute, ***excite oneself*** (against foe), ***wage war***, only [[Dan.11|Dan 11]]: <span class="bdbLangHebrew">‎יִתְגָּרוּ וְאָֽסְפוּ הֲמוֺן חֲיָלִים רַבִּים‎</span> v[[Prov.28.10|Prov 28:10]] ***they shall wage war***, etc.; <span class="bdbLangHebrew">‎וְיָשֹׁב וְיִתְגָּרֶ֯ו עַדמָֿעֻזֹּה‎</span> v[[Prov.28.10|Prov 28:10]] ***and he shall return and war, even to his stronghold***; v[[Prov.28.25|Prov 28:25]] followed by <span class="bdbLangHebrew">‎לַמִּלְחָמָה‎</span> + <span class="bdbLangHebrew">‎בְּחַיִל גָּדוֺל‎</span> (instrumental) 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Deuteronomy | [[Deut.2.5\|2:5]] · [[Deut.2.9\|2:9]] · [[Deut.2.19\|2:19]] · [[Deut.2.24\|2:24]] · [[Deut.14.8\|14:8]] |
+| 2 Kings | [[2Kgs.14.19\|14:19]] |
+| 2 Chronicles | [[2Chr.25.19\|25:19]] |
+| Proverbs | [[Prov.15.18\|15:18]] · [[Prov.28.4\|28:4]] · [[Prov.28.10\|28:10]] · [[Prov.28.25\|28:25]] · [[Prov.29.22\|29:22]] |
+| Jeremiah | [[Jer.50.24\|50:24]] |
+| Daniel | [[Dan.11\|Chapter 11]] · [[Dan.11.10\|11:10]] · [[Dan.11.25\|11:25]] |
+

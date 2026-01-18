@@ -1,0 +1,9 @@
+<span class="asgreek">ἰτέα</span> <small>***(itea)***</small> ==**willow**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ἰτέα==</span></b> [<span class='asgreek'>ῑ</span>], 
+
+
+ <i>Epic dialect</i> and <i>Ionic dialect</i> <b><span class='asgreek'>ἰτέη</span></b>, also <b><span class='asgreek'>ἰτείη</span></b> [<a href="javascript:void(0)" title="(3rd c.BC: Apollonius Rhodius Epicus 4.1428)">Refs 3rd c.BC+</a>]: <span class='asgreek'>ἡ</span>:— <b>willow,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 21.350, 4th-5th c.BC: Hecataeus Milesius Historicus 292 (a) 1st c.AD: Josephus Historicus, 5th c.BC: Herodotus Historicus 1.194, “PTeb.unpublished” 703.195, etc.; ἰ. λευκή, =">Refs 8th c.BC+</a>] <b>Salix alba,</b> <span class='asgreek'>ἰ</span>. <span class='asgreek'>μέλαινα</span>, = <b>Salix amplexicaulis,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 3.13.7. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>wicker shield, target,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Heraclidae” 376 (Lyric poetry), “Supp.” 695, “Tr.” 1193, “Cyc.” 7, 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 65. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ἰ</span>. <span class='asgreek'>δένδρος</span>, ={<span class='asgreek'>ἵππουρις</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.46. (Ε==ἰτέα==,">Refs 1st c.AD+</a>] the Attic deme-name, is a different word; cf <span class='asgreek'>ἰτέ</span>ϊ<span class='asgreek'>νος</span>, <span class='asgreek'>ἰτεόφυλλο</span>; probably <i>cognate</i> with Latin <i>viēre, vīmen,</i> Lithuanian <i>výti</i> 'twist', 'wind', <b>vytìs</b> 'willow-twig', O[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus ">Refs 5th c.BC+</a>] <b>wipig</b> 'willow'.)

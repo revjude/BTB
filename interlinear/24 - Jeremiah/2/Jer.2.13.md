@@ -1,0 +1,32 @@
+**Jeremiah 2:13** 
+<small><sub>**KJV:**</sub></small>
+For my people have committed two evils; they have forsaken me the fountain of living waters, [and] hewed them out cisterns, broken cisterns, that can hold no water.
+<small><sub>**BSB:**</sub></small>
+“For My people have committed two evils: They have forsaken Me, the fountain of living water, and they have dug their own cisterns—broken cisterns that cannot hold water.
+<small><sub>**Literal:**</sub></small>
+that two evil things it has done people  my \<obj.>  me they have forsaken a spring of water living to  dig for \<the>  themselves cisterns cisterns broken which not they contain \<the>  water<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.12|<< Jeremiah 2:12]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.14|Jeremiah 2:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| that  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  | <span class="ashebrew"><big>שְׁתַּ֥יִם</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil things  | <span class="ashebrew"><big>רָע֖וֹת</big></span><small><sup>[[H7451I]]</sup></small> &#8207;| ra.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has done  | <span class="ashebrew"><big>עָשָׂ֣ה</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  | <span class="ashebrew"><big>עַמִּ֑</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> me  | <span class="ashebrew"><big>אֹתִ֨</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have forsaken  | <span class="ashebrew"><big>עָזְב֜וּ</big></span><small><sup>[[H5800A]]</sup></small> &#8207;| 'a.ze.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spring of  | <span class="ashebrew"><big>מְק֣וֹר</big></span><small><sup>[[H4726]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| me.Kor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| water  | <span class="ashebrew"><big>מַ֣יִם</big></span><small><sup>[[H4325G]]</sup></small> &#8207;| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| living  | <span class="ashebrew"><big>חַיִּ֗ים</big></span><small><sup>[[H2416A]]</sup></small> &#8207;| chai.Yim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to dig  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חְצֹ֤ב</big></span><small><sup>[[H2672]]</sup></small> &#8207;| la<small><sup>[[HR]]</sup></small> ch.Tzo<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> themselves  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cisterns  | <span class="ashebrew"><big>בֹּאר֔וֹת</big></span><small><sup>[[H0877]]</sup></small> &#8207;| bo.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cisterns  | <span class="ashebrew"><big>בֹּארֹת֙</big></span><small><sup>[[H0877]]</sup></small> &#8207;| bo.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| broken  | <span class="ashebrew"><big>נִשְׁבָּרִ֔ים</big></span><small><sup>[[H7665]]</sup></small> &#8207;| nish.ba.Rim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they contain  | <span class="ashebrew"><big>יָכִ֖לוּ</big></span><small><sup>[[H3557]]</sup></small> &#8207;| ya.Khi.lu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> water  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מָּֽיִם</big></span><small><sup>[[H4325G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.12|<< Jeremiah 2:12]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.14|Jeremiah 2:14 >>]]</td></tr></table>
+
+

@@ -1,0 +1,29 @@
+**Deuteronomy 2:1** 
+<small><sub>**KJV:**</sub></small>
+Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days.
+<small><sub>**BSB:**</sub></small>
+Then we turned back and headed for the wilderness by way of the Red Sea, as the LORD had instructed me, and for many days we wandered around Mount Seir.
+<small><sub>**Literal:**</sub></small>
+and  we turned and  we set out the  wilderness  towards [the] way of [the] sea of reed[s] just  as he had spoken Yahweh to  me and  we went around \<obj.> [the] hill country of Seir days many<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.46|<< Deuteronomy 1:46]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.2|Deuteronomy 2:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and we turned  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נֵּ֜פֶן</big></span><small><sup>[[H6437G]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Ne.fen<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and we set out  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נִּסַּ֤ע</big></span><small><sup>[[H5265]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ni.Sa'<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the wilderness towards  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּדְבָּ֙רָ</big></span><small><sup>[[H4057B]]</sup></small> <span class="ashebrew"><big>ה֙</big></span><small><sup>[[H9011]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mid.Ba.ra<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] way of  | <span class="ashebrew"><big>דֶּ֣רֶךְ</big></span><small><sup>[[H1870J]]</sup></small> &#8207;| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sea of  | <span class="ashebrew"><big>יַם</big></span><small><sup>[[H3220G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| yam-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| reed[s]  | <span class="ashebrew"><big>ס֔וּף</big></span><small><sup>[[H5488G]]</sup></small> &#8207;| Suf<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֛ר</big></span><small><sup>[[H0834D]]</sup></small> &#8207;| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had spoken  | <span class="ashebrew"><big>דִּבֶּ֥ר</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלָ֑</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and we went around  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>נָּ֥סָב</big></span><small><sup>[[H5437H]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> Na.sov<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hill country of  | <span class="ashebrew"><big>הַר</big></span><small><sup>[[H2022G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Seir  | <span class="ashebrew"><big>שֵׂעִ֖יר</big></span><small><sup>[[H8165G]]</sup></small> &#8207;| se.'Ir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִ֥ים</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  | <span class="ashebrew"><big>רַבִּֽים</big></span><small><sup>[[H7227A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.46|<< Deuteronomy 1:46]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.2|Deuteronomy 2:2 >>]]</td></tr></table>
+
+

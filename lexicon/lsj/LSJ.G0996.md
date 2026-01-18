@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==βοήθεια==</span>-<span class='asgreek'>εια</span></b>, <span class='asgreek'>ἡ</span> 
+
+
+ (<i>Doric dialect</i> <b><span class='asgreek'>βοάθοια</span></b> [<a href="javascript:void(0)" title=" “SIG” 421.36 (from Thermon))">Refs</a>], <b>help, aid</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 2.22, etc.; β. τῷ λόγῳ πρός τινα 5th-6th c.BC: Plato Philosophus “Parmenides” 128c; ἡ ὑπὲρ τῶν δικαίων β. 4th c.BC: Demosthenes Orator 56.15 ">Refs 5th c.BC+</a>]; <span class='asgreek'>==βοήθεια==ειαν</span> <span class='asgreek'>ἔχειν</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>ὑγίειαν</span>, <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἑκάστου</span> <span class='asgreek'>ὑπερβολὴν</span> <span class='asgreek'>μηχανᾶσθαι</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Partibus Animalium” 651b1, 652a32 ">Refs 4th c.BC+</a>]: <i>nominative</i> <i>singular</i>, as exclamation '<b>help!</b>', [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 13.8.5: \_plural\_, 5th c.BC: Gorgias Rhetor et Sophista “Pal.” 33, 4th c.BC: Demosthenes Orator 18.302, 4th c.BC: Aristoteles Philosophus “Rhetorica” 1383a29; αἱ πρὸς εὔπλοιαν β. 1st c.AD: Philo Judaeus 2.46, cf. NT.Acts.27.17. ">NT+5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>medical aid, cure</b>, <span class='asgreek'>κίνδυνος</span> <span class='asgreek'>ἰσχυρότερος</span> <span class='asgreek'>πάσης</span> <span class='asgreek'>β</span>. [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Alexander” 19. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>force of auxiliaries</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>παρὰ</span> <span class='asgreek'>Διονυσίου</span> <span class='asgreek'>β</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 7.1.20; νεῶν β. 5th c.BC: Thucydides Historicus 4.8: opposed to regular forces, 4th c.BC: Demosthenes Orator 4.32. ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.27.17]]
+</sub></small>

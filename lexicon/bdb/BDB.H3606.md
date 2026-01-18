@@ -1,0 +1,20 @@
+<small>Also see: [[H6903]]</small>
+
+ <span class="bdbLangAramaic">‎כֹּל‎</span>, <span class="bdbLangAramaic">‎כָּלֿ‎</span>: **noun masculine** ==the whole, all== (Biblical Hebrew  <span class="bdbLangHebrew">‎כֹּל‎</span>); — emphatic <span class="bdbLangAramaic">‎כֹּלָּא‎</span> [[Dan.2.40|Dan 2:40]] +, construct <span class="bdbLangAramaic">‎כֹּל‎</span> [[Dan.2.12|Dan 2:12]]; [[Dan.3.2|Dan 3:2]] +, <span class="bdbLangAramaic">‎כָּלֿ‎</span> [[Dan.2.8|Dan 2:8]] +, suffix 3 masculine plural <span class="bdbLangAramaic">‎כָּלְּהוֺן‎</span> (so Palmyrene [[BDB#Ldzb|Lzb]]<sup>296</sup> [[BDB#Cooke|Cooke]]<sup>No. 117</sup>, [[BDB#Tariff|Tariff]] ii.c.19 ii b. 18) [[Dan.2.38|Dan 2:38]]; [[Dan.7.19|Dan 7:19]] ([[BDB#Qr|Qr]] feminine <span class="bdbLangHebrew">‎כָּכְּהֵּן‎</span>); — 
+
+**1.** <span class="bdbLangAramaic">‎כֹּל חַכִּימֵי בָבֶכ‎</span> ***the whole of ( = all)*** the wise men of B. [[Dan.3.2|Dan 3:2]]; [[Dan.3.3|Dan 3:3]]; [[Dan.3.5|Dan 3:5]], etc.; [[Dan.6.2|Dan 6:2]] <span class="bdbLangAramaic">‎כלמֿלכותא‎</span> ***the whole of***the kingdom, v.[[Dan.6.4|Dan 6:4]] with suffix ***the whole of*** them, [[Dan.2.38|Dan 2:38]]; [[Dan.7.19|Dan 7:19]]. 
+
+**2.** with a singular noun, understood collectively, ***every, any***, or with a negative ***none*** (Biblical Hebrew **1 b**):[[Dan.3.29|Dan 3:29]] <span class="bdbLangAramaic">‎דִּי כָלעַֿם‎</span> <span class="bdbLangAramaic">‎אֻמָּה וְלִשָּׁן‎</span> that ***every*** people, nation, and language, etc., [[Dan.6.8|Dan 6:8]] <span class="bdbLangAramaic">‎מִןכָּֿלאֱֿלָה‎</span> of ***any*** god, [[Ezra.6.12|Ezra 6:12]] <span class="bdbLangAramaic">‎כָּלמֶֿלֶח וְעַם‎</span>; <span class="bdbLangAramaic">‎כל אנשׁ די‎</span> ***every man who = whoever***, [[Dan.3.10|Dan 3:10]]; [[Dan.5.7|Dan 5:7]]; [[Dan.6.13|Dan 6:13]]; [[Ezra.6.11|Ezra 6:11]]; [[Dan.2.10|Dan 2:10]] <span class="bdbLangHebrew">‎שׁאל כל מלך ֗֗֗ לא‎</span> ***no*** king hath asked . . ., v[[Dan.2.35|Dan 2:35]]; [[Dan.4.6|Dan 4:6]]; [[Dan.6.5|Dan 6:5]]; [[Dan.6.24|Dan 6:24]] so <span class="bdbLangAramaic">‎כָּלדִּֿי‎</span> (= Hebrew <span class="bdbLangHebrew">‎כָּלאְִֿשֶׁר‎</span>) ***whoever*** [[Dan.6.8|Dan 6:8]]; [[Ezra.7.26|Ezra 7:26]], ***whatever*** v[[Ezra.7.23|Ezra 7:23]], <span class="bdbLangAramaic">‎בְּכָלדִּֿי‎</span> ***wherever*** [[Dan.2.38|Dan 2:38]](compare <span class="bdbLangAramaic">‎אְִשֶׁר‎</span> **4 b** <span class="bdbLangGreek">γ</span>). 
+
+**3.** emphatic <span class="bdbLangAramaic">‎כֹּלָּא‎</span>, used absolutely, as Hebrew <span class="bdbLangHebrew">‎הַכֹּל‎</span> (Biblical Hebrew **2 b**): [[Dan.2.40|Dan 2:40]] <span class="bdbLangAramaic">‎חָשֵׁל כֹּלָּא‎</span> crushing ***all things***, [[Dan.4.9|Dan 4:9]]; [[Dan.4.18|Dan 4:18]] <span class="bdbLangAramaic">‎וּמָזוֺן לְכֹלָּאבֵֿהּ‎</span> and food ***for all*** was in it, v.[[Dan.4.25|Dan 4:25]] <span class="bdbLangAramaic">‎כֹּלָּא מְטָא‎</span> ***all*** came upon N. (compare <span class="bdbLangAramaic">‎חַכֹּל בָּא‎</span> [[Josh.21.43|Josh 21:43]]), [[Ezra.5.7|Ezra 5:7]] <span class="bdbLangAramaic">‎שְׁלָמָא כֹלָּא‎</span> ***all*** peace ([[BDB#Kau|K]]<sup>§ 83 d</sup>;) compare in Hebrew <span class="bdbLangHebrew">‎כֻּלּוּ‎</span> etc., ***after*** their noun : Biblical Hebrew **1 d** a). — For <span class="bdbLangAramaic">‎כָּלקְָֿבֵל‎</span> see <span class="bdbLangAramaic">‎קְָבֵל‎</span>. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Joshua | [[Josh.21.43\|21:43]] |
+| Ezra | [[Ezra.5.7\|5:7]] · [[Ezra.6.11\|6:11]] · [[Ezra.6.12\|6:12]] · [[Ezra.7.23\|7:23]] · [[Ezra.7.26\|7:26]] |
+| Daniel | [[Dan.2.8\|2:8]] · [[Dan.2.10\|2:10]] · [[Dan.2.12\|2:12]] · [[Dan.2.35\|2:35]] · [[Dan.2.38\|2:38]] · [[Dan.2.40\|2:40]] · [[Dan.3.2\|3:2]] · [[Dan.3.3\|3:3]] · [[Dan.3.5\|3:5]] · [[Dan.3.10\|3:10]] · [[Dan.3.29\|3:29]] · [[Dan.4.6\|4:6]] · [[Dan.4.9\|4:9]] · [[Dan.4.18\|4:18]] · [[Dan.4.25\|4:25]] · [[Dan.5.7\|5:7]] · [[Dan.6.2\|6:2]] · [[Dan.6.4\|6:4]] · [[Dan.6.5\|6:5]] · [[Dan.6.8\|6:8]] · [[Dan.6.13\|6:13]] · [[Dan.6.24\|6:24]] · [[Dan.7.19\|7:19]] |
+

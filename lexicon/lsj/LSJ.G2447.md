@@ -1,0 +1,5 @@
+
+<b> <span class='asgreek'>==ἰός==</span></b> [<span class='asgreek'>ῑ</span>], <span class='asgreek'>ὁ</span>, 
+
+ 
+$\quad$ ****<b>\_\_C</b> <b>rust</b> on iron, or <b>verdigris</b> on copper and bronze, [<a href="javascript:void(0)" title=" 7th-6th c.BC: Sappho Lyrica 141 (uncertain), 6th c.BC: Theognis Elegiacus 451, 5th-6th c.BC: Plato Philosophus “Respublica” 609a, “Ti.” 59c, 3rd c.BC: Theocritus Poeta Bucolicus 16.17; ἰ. σιδήρου 1st c.AD: Dioscorides (Dioscurides) Medicus 5.80; ἰ. χαλκοῦ 5th c.BC: Hippocrates Medicus “γυναικεῖα” 1.75, 1st c.AD: Dioscorides (Dioscurides) Medicus 5.79, 2nd c.AD: Galenus Medicus 12.218">Refs 7th c.BC+</a>]; <b>patina</b> on bronze statues, <span class='asgreek'>ὅπως</span> <span class='asgreek'>καθαρὸς</span> <span class='asgreek'>ἰοῦ</span> <span class='asgreek'>ἔσται</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>ἀνδριάς</span> [<a href="javascript:void(0)" title=" “SIG” 284.15 (Chios, 4th c.BC),compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.395b. (Perh. identical with ==ἰός== 5th c.BC: Bacchylides Lyricus) ">Refs 5th c.BC+</a>]

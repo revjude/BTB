@@ -1,0 +1,24 @@
+**Deuteronomy 32:10** 
+<small><sub>**KJV:**</sub></small>
+He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye.
+<small><sub>**BSB:**</sub></small>
+He found him in a desert land, in a barren, howling wilderness; He surrounded him, He instructed him, He guarded him as the apple of His eye.
+<small><sub>**Literal:**</sub></small>
+he found  it in  a land of wilderness and  in  a wasteland of howling of a desolate place he surrounded  it he took care of  it he guarded  it like  [the] pupil of eye  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.9|<< Deuteronomy 32:9]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.11|Deuteronomy 32:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| he found it  | <span class="ashebrew"><big>יִמְצָאֵ֙</big></span><small><sup>[[H4672]]</sup></small> <span class="ashebrew"><big>הוּ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| yim.tza.'E.<small><sup>[[HVqi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wilderness  | <span class="ashebrew"><big>מִדְבָּ֔ר</big></span><small><sup>[[H4057B]]</sup></small> &#8207;| mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in a wasteland of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תֹ֖הוּ</big></span><small><sup>[[H8414]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> To.hu<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| howling of  | <span class="ashebrew"><big>יְלֵ֣ל</big></span><small><sup>[[H3214]]</sup></small> &#8207;| ye.Lel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a desolate place  | <span class="ashebrew"><big>יְשִׁמֹ֑ן</big></span><small><sup>[[H3452H]]</sup></small> &#8207;| ye.shi.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he surrounded it  | <span class="ashebrew"><big>יְסֹֽבְבֶ֙</big></span><small><sup>[[H5437H]]</sup></small> <span class="ashebrew"><big>נְהוּ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ye.soe.Ven.<small><sup>[[HVpi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he took care of it  | <span class="ashebrew"><big>יְב֣וֹנְנֵ֔</big></span><small><sup>[[H0995]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ye.Vo.Ne.<small><sup>[[HVpi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he guarded it  | <span class="ashebrew"><big>יִצְּרֶ֖</big></span><small><sup>[[H5341]]</sup></small> <span class="ashebrew"><big>נְהוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| yi.tze.Ren.<small><sup>[[HVqi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] pupil of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אִישׁ֥וֹן</big></span><small><sup>[[H0380]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> 'i.Shon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye his  | <span class="ashebrew"><big>עֵינֽ</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ei.N<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.9|<< Deuteronomy 32:9]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.11|Deuteronomy 32:11 >>]]</td></tr></table>
+
+

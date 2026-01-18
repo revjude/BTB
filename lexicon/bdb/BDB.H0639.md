@@ -1,0 +1,36 @@
+ I. <span class="bdbLangHebrew">‎אַף‎</span><sub>277</sub> **noun masculine**<sup>[[Gen.30.2|Gen 30:2]]</sup> ==nostril, nose, face, anger== (Assyrian <abbr title="transliteration"><u>***appu***</u></abbr>, ***face*** Flood<sup>iii. 27, 29</sup> compare [[BDB#Hpt|Hpt]] [[BDB#KAT|KAT]]<sup>2 Gloss</sup>, Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKAAaAIAAAAAAAP///yH5BAAAAAAALAAAAAAoABoAAAJhjI+py+0Po2Sg2omPBbmb62HVF05bqZzfxT1gMwatt83pbJux2+ZSDXmtfrtOMXRcJI254xLl8EGjUBWiedM5sQkpbHi1+Z5KUuqaJS7Ft5F3xXIXk7W6XSZ3fu3Wqf9RAAA7">, Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLgATAIAAAAAAAP///yH5BAAAAAAALAAAAAAuABMAAAJujI+py+0IngzRRVAPxjSrDW4WmIRiSRpps6pc97qx7C1mLUPnh6Ot7vlNUKwZbNg7MnYw09LYZNIyN6hSc3tSYzsRMyWlYTkk4fjMC1ZDxW0vXFmdZl1oGPjm1o1mcRqIZXPn5zNkOGaXdLjIUAAAOw=="> ***nose***; Aramaic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJAAXAIAAAAAAAP///yH5BAAAAAAALAAAAAAkABcAAAJgjI+py+0JngSU0TgxunVdw2nBt0Wkh4WQuI1NN8KHPJuORoOsVOvW7noAFTTVjycL5UC8WKu2W6JwK5EUVdJxes1T7AO7Tlm4clOrVHK7prRXTKSmpuyztm6H2/f8PqIAADs=">, <span class="bdbLangHebrew">‎אֲנְפִּין‎</span> ***face***) — absolute [[Ps.78.21|Ps 78:21]] +; construct [[Gen.27.45|Gen 27:45]] +; suffix <span class="bdbLangHebrew">‎אַפּי‎</span> [[Exod.22.23|Exod 22:23]] +, etc.; du <span class="bdbLangHebrew">‎אַפַּיִם‎</span> [[Prov.14.17|Prov 14:17]] +; <span class="bdbLangHebrew">‎אַפָּיו‎</span> [[Gen.2.7|Gen 2:7]] + etc.; — In Hexateuch [[BDB#J|J]] [[BDB#E|E]] ([[Josh.7.1|Josh 7:1]] P? [[Josh.23.16|Josh 23:16]] D?). 
+
+**1.** ***nostril***, as organ of breathing [[Gen.2.7|Gen 2:7]]; [[Gen.7.22|Gen 7:22]]; [[Job.27.3|Job 27:3]] compare [[Num.11.20|Num 11:20]]; [[2Sam.22.9|2Sam 22:9]] = [[Ps.18.9|Ps 18:9]] compare [[Isa.65.5|Isa 65:5]]; [[Isa.2.22|Isa 2:22]]; [[Lam.4.20|Lam 4:20]]; [[Ezek.38.18|Ezek 38:18]] (strike out [[BDB#Co|Co]]) [[Amos.4.10|Amos 4:10]] <span class="bdbLangHebrew">‎רוּחַ אַפֶּיךָ‎</span> (of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>) i.e. wind [[Exod.15.8|Exod 15:8]] compare <span class="bdbLangHebrew">‎נִשְׁמַת רוּחַ אַפּוֺ‎</span> [[2Sam.22.16|2Sam 22:16]] = [[Ps.18.16|Ps 18:16]] (see also below **3**); ***nose*** singular [[Song.7.5|Song 7:5]]; [[Song.7.9|Song 7:9]]; [[Ezek.8.17|Ezek 8:17]]; [[Ezek.23.25|Ezek 23:25]]; [[Prov.30.33|Prov 30:33]] (where play upon different meaning of <span class="bdbLangHebrew">‎אַף‎</span> &amp; <span class="bdbLangHebrew">‎אַפַּיִם‎</span>): 
+$\quad$ $\quad$ $\quad$ (***a***) as organ of smelling [[Deut.33.10|Deut 33:10]]; [[Ps.115.6|Ps 115:6]] (**b**) ==as place of ring for ornament== [[Gen.24.47|Gen 24:47]]; [[Isa.3.21|Isa 3:21]]; [[Ezek.16.12|Ezek 16:12]] 
+$\quad$ $\quad$ $\quad$ (***c***) as place of ring or hook for captive [[2Kgs.19.28|2Kgs 19:28]] = [[Isa.37.29|Isa 37:29]] for beasts, e.g. swine [[Prov.11.22|Prov 11:22]] hippopotamus [[Job.40.24|Job 40:24]] crocodile v.[[Job.40.26|Job 40:26]]. 
+
+**2.** [[BDB#Du|Du]] ***face*** (especially in phrase <span class="bdbLangHebrew">‎אַפַּיִם אַרְצָה‎</span>) [[Gen.19.1|Gen 19:1]]; [[Gen.42.6|Gen 42:6]]; [[Gen.48.12|Gen 48:12]]; [[Num.22.31|Num 22:31]]; [[1Sam.20.41|1Sam 20:41]]; [[1Sam.24.9|1Sam 24:9]]; [[1Sam.25.41|1Sam 25:41]]; [[1Sam.28.14|1Sam 28:14]]; [[1Sam.2.4|1Sam 2:4]]; [[1Sam.2.33|1Sam 2:33]]; [[1Sam.18.28|1Sam 18:28]]; [[1Sam.24.20|1Sam 24:20]]; [[1Sam.1.23|1Sam 1:23]]; [[1Sam.1.31|1Sam 1:31]];  [[1Sam.1.21|1Sam 1:21]]; [[1Sam.2.3|1Sam 2:3]]; [[1Sam.20.18|1Sam 20:18]];  also [[Gen.3.19|Gen 3:19]] <span class="bdbLangHebrew">‎גֹּבַהּ אַפּוֺ‎</span> ***pride of his countenance*** [[Ps.10.4|Ps 10:4]] <span class="bdbLangHebrew">‎לְאַפֵּי‎</span> ***before***, local sense (compare <span class="bdbLangHebrew">‎לִפְנֵי‎</span>) [[1Sam.25.23|1Sam 25:23]] <span class="bdbLangHebrew">‎אַפָּ֑יִם‎</span> [[1Sam.1.5|1Sam 1:5]] read <span class="bdbLangHebrew">‎אֶפֶס‎</span> [[BDB#Sept|ᵐ5]] [[BDB#We|We]] [[BDB#Dr|Dr]] (q. v.) 
+
+**3.** mostly ***anger***, human [[Gen.27.45|Gen 27:45]]; [[Gen.49.6|Gen 49:6]]; [[Gen.49.7|Gen 49:7]] + (45 t.); oftener divine [[Exod.32.12|Exod 32:12]]; [[Deut.9.19|Deut 9:19]]; [[2Kgs.24.20|2Kgs 24:20]] + (177 t.); often subject <span class="bdbLangHebrew">‎חָרָה‎</span> (<span class="bdbLangHebrew">‎וַיִּ֫חַר‎</span> etc.) ***his anger was kindled*** [[Gen.30.2|Gen 30:2]]; [[Gen.39.19|Gen 39:19]]; [[Exod.4.14|Exod 4:14]]; [[Exod.22.23|Exod 22:23]]; [[Exod.32.10|Exod 32:10]]; [[Exod.32.11|Exod 32:11]] +; in various combinations, especially <span class="bdbLangHebrew">‎חֲרוֺן אַף‎</span> ***fierceness of anger*** [[Exod.32.12|Exod 32:12]]; [[Num.25.4|Num 25:4]]; [[Num.32.14|Num 32:14]] +; compare <span class="bdbLangHebrew">‎חֳרִיאָֿף‎</span> [[1Sam.20.34|1Sam 20:34]] <span class="bdbLangHebrew">‎בַּעַלאַֿף‎</span> [[Prov.22.24|Prov 22:24]] ***one given to anger***, etc.; <span class="bdbLangHebrew">‎אֶרֶךְ אַפַּיִם‎</span> ***slow to anger*** [[Exod.34.6|Exod 34:6]]; [[Num.14.18|Num 14:18]]; [[Neh.9.17|Neh 9:17]] + 7 t. of God; [[Prov.14.29|Prov 14:29]]; [[Prov.15.18|Prov 15:18]]; [[Prov.16.32|Prov 16:32]]; [[Prov.25.15|Prov 25:15]] of man. 
+
+
+
+ I. <span class="bdbLangHebrew">‎אַף‎</span> see below <span class="bdbLangHebrew">‎אנף‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.2.7\|2:7]] · [[Gen.3.19\|3:19]] · [[Gen.7.22\|7:22]] · [[Gen.19.1\|19:1]] · [[Gen.24.47\|24:47]] · [[Gen.27.45\|27:45]] · [[Gen.30.2\|30:2]] · [[Gen.39.19\|39:19]] · [[Gen.42.6\|42:6]] · [[Gen.48.12\|48:12]] · [[Gen.49.6\|49:6]] · [[Gen.49.7\|49:7]] |
+| Exodus | [[Exod.4.14\|4:14]] · [[Exod.15.8\|15:8]] · [[Exod.22.23\|22:23]] · [[Exod.32.10\|32:10]] · [[Exod.32.11\|32:11]] · [[Exod.32.12\|32:12]] · [[Exod.34.6\|34:6]] |
+| Numbers | [[Num.11.20\|11:20]] · [[Num.14.18\|14:18]] · [[Num.22.31\|22:31]] · [[Num.25.4\|25:4]] · [[Num.32.14\|32:14]] |
+| Deuteronomy | [[Deut.9.19\|9:19]] · [[Deut.33.10\|33:10]] |
+| Joshua | [[Josh.7.1\|7:1]] · [[Josh.23.16\|23:16]] |
+| 1 Samuel | [[1Sam.1.5\|1:5]] · [[1Sam.1.21\|1:21]] · [[1Sam.1.23\|1:23]] · [[1Sam.1.31\|1:31]] · [[1Sam.2.3\|2:3]] · [[1Sam.2.4\|2:4]] · [[1Sam.2.33\|2:33]] · [[1Sam.18.28\|18:28]] · [[1Sam.20.18\|20:18]] · [[1Sam.20.34\|20:34]] · [[1Sam.20.41\|20:41]] · [[1Sam.24.9\|24:9]] · [[1Sam.24.20\|24:20]] · [[1Sam.25.23\|25:23]] · [[1Sam.25.41\|25:41]] · [[1Sam.28.14\|28:14]] |
+| 2 Samuel | [[2Sam.22.9\|22:9]] · [[2Sam.22.16\|22:16]] |
+| 2 Kings | [[2Kgs.19.28\|19:28]] · [[2Kgs.24.20\|24:20]] |
+| Nehemiah | [[Neh.9.17\|9:17]] |
+| Job | [[Job.27.3\|27:3]] · [[Job.40.24\|40:24]] · [[Job.40.26\|40:26]] |
+| Psalms | [[Ps.10.4\|10:4]] · [[Ps.18.9\|18:9]] · [[Ps.18.16\|18:16]] · [[Ps.78.21\|78:21]] · [[Ps.115.6\|115:6]] |
+| Proverbs | [[Prov.11.22\|11:22]] · [[Prov.14.17\|14:17]] · [[Prov.14.29\|14:29]] · [[Prov.15.18\|15:18]] · [[Prov.16.32\|16:32]] · [[Prov.22.24\|22:24]] · [[Prov.25.15\|25:15]] · [[Prov.30.33\|30:33]] |
+| Song of Solomon | [[Song.7.5\|7:5]] · [[Song.7.9\|7:9]] |
+| Isaiah | [[Isa.2.22\|2:22]] · [[Isa.3.21\|3:21]] · [[Isa.37.29\|37:29]] · [[Isa.65.5\|65:5]] |
+| Lamentations | [[Lam.4.20\|4:20]] |
+| Ezekiel | [[Ezek.8.17\|8:17]] · [[Ezek.16.12\|16:12]] · [[Ezek.23.25\|23:25]] · [[Ezek.38.18\|38:18]] |
+| Amos | [[Amos.4.10\|4:10]] |
+

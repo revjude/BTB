@@ -1,0 +1,27 @@
+**Judges 20:47** 
+<small><sub>**KJV:**</sub></small>
+But six hundred men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon four months.
+<small><sub>**BSB:**</sub></small>
+But 600 men turned and fled into the wilderness to the rock of Rimmon, where they stayed four months.
+<small><sub>**Literal:**</sub></small>
+and  they turned and  they fled the  wilderness  towards to [the] rock of \<the>  Rimmon six hundred\<s> man and  they dwelt at  [the] rock of Rimmon four months<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.46|<< Judges 20:46]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.48|Judges 20:48 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they turned  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּפְנ֞וּ</big></span><small><sup>[[H6437G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yif.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they fled  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יָּנֻ֤סוּ</big></span><small><sup>[[H5127]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Nu.su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the wilderness towards  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּדְבָּ֙רָ</big></span><small><sup>[[H4057B]]</sup></small> <span class="ashebrew"><big>ה֙</big></span><small><sup>[[H9011]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mid.Ba.ra<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] rock of  | <span class="ashebrew"><big>סֶ֣לַע</big></span><small><sup>[[H5553H]]</sup></small> &#8207;| Se.la'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Rimmon  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רִמּ֔וֹן</big></span><small><sup>[[H7417C]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ri.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| six  | <span class="ashebrew"><big>שֵׁ֥שׁ</big></span><small><sup>[[H8337]]</sup></small> &#8207;| shesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵא֖וֹת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| man  | <span class="ashebrew"><big>אִ֑ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they dwelt  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּֽשְׁבוּ֙</big></span><small><sup>[[H3427]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.she.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at [the] rock of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>סֶ֣לַע</big></span><small><sup>[[H5553H]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Se.la'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rimmon  | <span class="ashebrew"><big>רִמּ֔וֹן</big></span><small><sup>[[H7417C]]</sup></small> &#8207;| ri.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  | <span class="ashebrew"><big>אַרְבָּעָ֖ה</big></span><small><sup>[[H0702]]</sup></small> &#8207;| 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| months  | <span class="ashebrew"><big>חֳדָשִֽׁים</big></span><small><sup>[[H2320G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| cho.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.46|<< Judges 20:46]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.48|Judges 20:48 >>]]</td></tr></table>
+
+

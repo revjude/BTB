@@ -1,0 +1,14 @@
+<span class="asgreek">ὀξύτης</span> <small>***(oxutēs)***</small> ==**swift**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ὀξύτης==</span></b>, <span class='asgreek'>ητος</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>sharpness, pointedness,</b> of acute angles, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 61e, compare 56d. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> of the senses, 
+$\quad$ $\quad$ $\quad$<b>\_\_II.1</b> of sound, <b>sharpness,</b> opposed to <span class='asgreek'>βαρύτης</span>, [<a href="javascript:void(0)" title=" [prev. author] “Phlb.” 17c, “Tht.” 163c. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of taste, <b>pungency, acidity,</b> in <i>plural</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 19, “Acut.” 61, compare 2nd c.AD: Galenus Medicus 11.656. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> of sight, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 492a4. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>sharpness, cleverness,</b> <span class='asgreek'>τῆς</span> <span class='asgreek'>ψυχῆς</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2.31 5th c.BC: Sophocles Tragicus; σκέψεως [prev. passage]; διαφέροντα τῇ τέχνῃ τῇ τ᾽ ὀξύτητι">Refs 5th c.BC+</a>] Philosteph. Comedy texts I; <span class='asgreek'>ὀ</span>. <span class='asgreek'>ἐς</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>πολιτικά</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Im.” 17. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> <b>quickness,</b> of motion, action, or occurrence, [<a href="javascript:void(0)" title=" 5th c.BC: Critias Philosophus, Tragicus, Elegiacus 37 4th c.BC: Demosthenes Orator, 5th-6th c.BC: Plato Philosophus “Charmides” 160b, “Plt.” 306c, +others; ταῖς ὀξύτησι.. ἀκολουθεῖν 4th c.BC: Demosthenes Orator 24.95 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>ὀ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>καιροῦ</span> the <b>pressing</b> occasion, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pyrrhus” 2, 1st c.BC: Diodorus Siculus Historicus 15.43. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$<b>\_\_V</b> = <span class='asgreek'>ὀξεῖα</span>, <span class='asgreek'>ἡ</span>, see at {<span class='asgreek'>ὀξύς</span>} [<a href="javascript:void(0)" title=" 11.3d, 2nd c.AD: Apollonius Dyscolus Grammaticus “de Adverbiis;” 138.16, compare 4th c.BC: Aristoteles Philosophus “Poetica” 1456b33: \_plural\_, 5th-6th c.BC: Plato Philosophus “Cratylus” 399a. ">Refs 5th c.BC+</a>]

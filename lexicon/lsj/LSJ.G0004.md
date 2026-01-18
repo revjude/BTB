@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==ἀβαρής==</span></b>, <span class='asgreek'>ές</span>, 
+
+
+ (<span class='asgreek'>βάρος</span>) <b>without weight,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Caelo” 277b19; ἀβαρῆ εἶναι ἀέρα καὶ πῦρ 4th-3rd c.BC: Zeno Citieus Stoicus 1.27, compare 3rd c.BC: Chrysippus Stoicus 2.143, 3rd c.AD: Plotinus Philosophus 6.9.9, etc.">Refs 4th c.BC+</a>]; <b>light,</b> <span class='asgreek'>γῆ</span>[<a href="javascript:void(0)" title=" “Anthologia Graeca” 7.461 (1st c.BC: Meleager Epigrammaticus): \_metaphorically\_, ἀ. χρῆμα">Refs 1st c.BC+</a>] a <b>light</b> matter, [<a href="javascript:void(0)" title=" “Comica Adespota” 158; παρρησία.. μαλακὴ καὶ ἀ. 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.59c ">Refs 1st c.AD+</a>]; of the pulse, [<a href="javascript:void(0)" title=" 2nd c.AD: Archigenes Medicus cited in 2nd c.AD: Galenus Medicus 8.651. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>not offensive,</b> <span class='asgreek'>ὀσμαί</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “ὀξέων νούσων θεραπευτικόν” 2.3 ">Refs 2nd c.AD+</a>]; of persons, <b>not burdensome,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἑαυτὸν</span> <span class='asgreek'>τηρεῖν</span>, <span class='asgreek'>παρέχειν</span>, [<a href="javascript:void(0)" title=" NT.2Cor.11.9, “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 5361.15 (from Berenice)">NT</a>]. <i>adverb</i> <b>-<span class='asgreek'>ρῶς</span></b> <b>without giving offence,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Simplicius Philosophus “in Epictetum commentaria” p.85D.">Refs 6th c.AD+</a>]; <b>without taking offence,</b> [<a href="javascript:void(0)" title="[prev. work] p.88D.">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[2Cor.11.9]]
+</sub></small>

@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἐπόπτης==</span>-<span class='asgreek'>ης</span></b>, <span class='asgreek'>ου</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ (<span class='asgreek'>ἐπόψομαι</span>) <b>overseer, watcher,</b> especially of a god, <span class='asgreek'>Πυθῶνος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “N.” 9.5, compare 5th c.BC: Epicharmus Comicus 266; ὁ πάντων ἐ. θεός LXX.Esth.5.1 ">LXX+5th c.BC+</a>]; title of Poseidon, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 8.30.1 ">Refs 2nd c.AD+</a>]; of the Sun, [<a href="javascript:void(0)" title=" “OGI” 666.25 (Egypt, 1st c.AD)">Refs 1st c.AD+</a>]; <span class='asgreek'>δαίμονες</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀνθρωπίνων</span> [<a href="javascript:void(0)" title=" 5th-4th c.BC: Timaeus Locrus Philosophus 105a; ὥσπερ ==ἐπόπτης==ας τῶν στρατηγουμένων 4th c.BC: Demosthenes Orator 4.25 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>γῆς</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>θαλάσσης</span>, of Pompey, [<a href="javascript:void(0)" title=" “JHS” 27.64 (from Cyzicus) ">Refs</a>]; of Augustus, [<a href="javascript:void(0)" title=" “IGRom.” 4.309 (Pergam.)">Refs</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>εἰρήνης</span>, of a police <b>magistrate,</b> [<a href="javascript:void(0)" title=" POxy. 991 (4th c.AD). ">Refs 4th c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> simply, <b>spectator,</b> <span class='asgreek'>πόνων</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 301. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>inspector,</b> [<a href="javascript:void(0)" title=" 4th-6th c.AD: Codex Justinianus 10.16.13 “Intr.” ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>one admitted to the highest grade of the mysteries,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 12.6.51, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Alcibiades” 22, etc., compare ἐφόπται “IG” 12(8).205.3 (from Samothrace): with \_genitive\_, μυστηρίων ἐ. “Michel” 1141 ([prev. passage]) ">Refs 1st c.AD+</a>]; <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" “PMag.Lond.” 121.572: \_metaphorically\_, ἐ. τῆς ἐκείνου μεγαλειότητος NT.2Pet.1.16. ">NT</a>]
+
+<small><sub>LSJ Scripture Refs: [[Esth.5.1]] ☩ [[2Pet.1.16]]
+</sub></small>

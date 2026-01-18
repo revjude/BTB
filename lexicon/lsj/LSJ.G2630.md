@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==κατακρημνίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <i>future</i> <b>-<span class='asgreek'>ιῶ</span></b>[<a href="javascript:void(0)" title=" “Carmina Popularia” 46.33 ">Refs</a>]: (<span class='asgreek'>κρημνός</span>):—<b>throw down a precipice</b>, <span class='asgreek'>ἑαυτούς</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.56 W., compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Marius” 45, 2.825b, NT.Luke.4.29 ">NT+1st c.BC+</a>]: with a word added, <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἄκρου</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>κρημνοῦ</span> [<a href="javascript:void(0)" title=" LXX.2Chr.25.12 ">LXX</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.327, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sulla” 1, etc.">Refs 4th c.BC+</a>]: <i>perfect</i> <i>participle</i>, <b>having fallen over a precipice</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.3.41. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>throw headlong down</b>, <span class='asgreek'>ἐκ</span> <span class='asgreek'>τριηρέων</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.1.31; ἀπὸ τῶν ἵππων 2nd c.BC: Polybius Historicus 3.116.12; ἀπὸ τοῦ πύργου 1st c.BC: Diodorus Siculus Historicus 4.31 ">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.4.7. ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.4.29]] ☩ [[2Chr.25.12]]
+</sub></small>

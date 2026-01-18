@@ -1,0 +1,26 @@
+**Isaiah 58:8** 
+<small><sub>**KJV:**</sub></small>
+Then shall thy light break forth as the morning, and thine health shall spring forth speedily: and thy righteousness shall go before thee; the glory of the LORD shall be thy rereward.
+<small><sub>**BSB:**</sub></small>
+Then your light will break forth like the dawn, and your healing will come quickly. Your righteousness will go before you, and the glory of the LORD will be your rear guard.
+<small><sub>**Literal:**</sub></small>
+then it will break forth like the  dawn light  your and  healing  your quickly it will spring up and  it will go \<to>  before  you righteousness  your [the] glory of Yahweh it will be rearguard  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.7|<< Isaiah 58:7]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.9|Isaiah 58:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| then  | <span class="ashebrew"><big>אָ֣ז</big></span><small><sup>[[H0227A]]</sup></small> &#8207;| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will break forth  | <span class="ashebrew"><big>יִבָּקַ֤ע</big></span><small><sup>[[H1234]]</sup></small> &#8207;| yi.ba.Ka'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like the dawn  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>שַּׁ֙חַר֙</big></span><small><sup>[[H7837]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> Sha.char<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| light your  | <span class="ashebrew"><big>אוֹרֶ֔</big></span><small><sup>[[H0216]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'o.Re.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and healing your  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲרֻכָתְ</big></span><small><sup>[[H0724]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.ru.kha.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| quickly  | <span class="ashebrew"><big>מְהֵרָ֣ה</big></span><small><sup>[[H4120]]</sup></small> &#8207;| me.he.Rah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will spring up  | <span class="ashebrew"><big>תִצְמָ֑ח</big></span><small><sup>[[H6779]]</sup></small> &#8207;| titz.Mach<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will go  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָלַ֤ךְ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Lakh<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before you  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנֶ֙י</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness your  | <span class="ashebrew"><big>צִדְקֶ֔</big></span><small><sup>[[H6664G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| tzid.Ke.<small><sup>[[HNcmsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] glory of  | <span class="ashebrew"><big>כְּב֥וֹד</big></span><small><sup>[[H3519]]</sup></small> &#8207;| ke.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be rearguard your  | <span class="ashebrew"><big>יַאַסְפֶֽ</big></span><small><sup>[[H0622]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ya.'as.Fe.<small><sup>[[HVqi3ms]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.7|<< Isaiah 58:7]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.9|Isaiah 58:9 >>]]</td></tr></table>
+
+

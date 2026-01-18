@@ -1,0 +1,29 @@
+**Judges 3:3** 
+<small><sub>**KJV:**</sub></small>
+[Namely], five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baalhermon unto the entering in of Hamath.
+<small><sub>**BSB:**</sub></small>
+the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived in the mountains of Lebanon from Mount Baal-hermon to Lebo-hamath.
+<small><sub>**Literal:**</sub></small>
+[the] five [the] rulers of [the] Philistines and  all the  Canaanite[s] and  the  Sidonian[s] and  the  Hivite[s] [who] dwelt of [the] mount of \<the>  Lebanon from  [the] mountain of Baal Hermon to Lebo Hamath<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.2|<< Judges 3:2]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.4|Judges 3:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] five  | <span class="ashebrew"><big>חֲמֵ֣שֶׁת</big></span><small><sup>[[H2568]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| cha.Me.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] rulers of  | <span class="ashebrew"><big>סַרְנֵ֣י</big></span><small><sup>[[H5633A]]</sup></small> &#8207;| sar.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  | <span class="ashebrew"><big>פְלִשְׁתִּ֗ים</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Canaanite[s]  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כְּנַעֲנִי֙</big></span><small><sup>[[H3669A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ke.na.'a.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the Sidonian[s]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צִּ֣ידֹנִ֔י</big></span><small><sup>[[H6722]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Tzi.do.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the Hivite[s]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ֣</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חִוִּ֔י</big></span><small><sup>[[H2340]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> chi.Vi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] dwelt of  | <span class="ashebrew"><big>יֹשֵׁ֖ב</big></span><small><sup>[[H3427]]</sup></small> &#8207;| yo.Shev<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mount of  | <span class="ashebrew"><big>הַ֣ר</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Lebanon  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>לְּבָנ֑וֹן</big></span><small><sup>[[H3844H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] mountain of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>הַר֙</big></span><small><sup>[[H2022G]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Baal  | <span class="ashebrew"><big>בַּ֣עַל</big></span><small><sup>[[H1179]]</sup></small> &#8207;| Ba.'al<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hermon  | <span class="ashebrew"><big>חֶרְמ֔וֹן</big></span><small><sup>[[H1179]]</sup></small> &#8207;| cher.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַ֖ד</big></span><small><sup>[[H5704]]</sup></small> &#8207;| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lebo  | <span class="ashebrew"><big>לְב֥וֹא</big></span><small><sup>[[H0935H]]</sup></small> &#8207;| le.Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hamath  | <span class="ashebrew"><big>חֲמָֽת</big></span><small><sup>[[H2574G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| cha.Mat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.2|<< Judges 3:2]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.4|Judges 3:4 >>]]</td></tr></table>
+
+

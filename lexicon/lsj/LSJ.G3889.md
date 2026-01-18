@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==παραμυθία==</span>-<span class='asgreek'>ία</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>encouragement, exhortation</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 450d, 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.65 W.(\_plural\_) ">Refs 5th c.BC+</a>]; <b>reassurance, gentle persuasion</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 70b, “Lg.” 720a. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>consolation</b>, [<a href="javascript:void(0)" title=" [prev. author] “Ax.” 365a, 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 1.1.18 ">Refs 2nd c.AD+</a>]; <b>diversion, distraction</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Sophista” 224a. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>relief from, abatement of</b>, <span class='asgreek'>φθόνου</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Themistocles” 22; τῶν πόνων καὶ τῶν κινδύνων [prev. author] “Dio” 52, etc.">Refs 1st c.AD+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ταλαιπωρούντων</span>, of sleep, [<a href="javascript:void(0)" title=" 2nd c.AD: Secundus Gnomologus “Sententiae - FPG” 13. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>explanation, solution</b> of a difficulty, <span class='asgreek'>π</span>. <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀπορίαν</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.395f, compare 929f, 6th c.AD: Simplicius Philosophus “in Aristotelis Physica commentaria - Comm. in Arist. Graeca” 361.19. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>excuse</b>, <span class='asgreek'>ἔχειν</span> <span class='asgreek'>τινὰ</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 4.7, compare 2nd c.AD: Hermogenes Rhetor “περὶ ἰδεῶν” 1.11, +others ">Refs 2nd c.AD+</a>]

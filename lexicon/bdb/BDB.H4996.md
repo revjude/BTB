@@ -1,0 +1,10 @@
+ <span class="bdbLangHebrew">‎נֹא‎</span> **proper name, of a location** ==No = Thebes== (Egyptian <abbr title="transliteration"><u>***nt***</u></abbr>, ***city***, i.e. probably <abbr title="transliteration"><u>***n¢(t)***</u></abbr>, see [[BDB#Steind|Steind]]<sup>BAS i. 596 f.</sup>; Assyrian <abbr title="transliteration"><u>***Ni-°u, Ni-i°***</u></abbr> [[BDB#Dl|Dl]]<sup>Par 318</sup> [[BDB#Steind|Steind]]<sup>l.c.</sup> [[BDB#Schr|Schr]]<sup>COT gloss</sup>.; Tel Amarna <abbr title="transliteration"><u>***Nî*** (Ni-i)</u></abbr> [[BDB#Wkl|Wkl]]<sup>Tel Am. 39 \*</sup> [[BDB#Bez|Bez]]<sup>Tel Am. in BM 153</sup>); — <span class="bdbLangHebrew">‎הִנְנִי‎</span> <span class="bdbLangHebrew">‎פוֺקֵד אֶלאָֿמוֺן מִנּאֹ‎</span> [[Jer.46.25|Jer 46:25]] ***Amon from*** (***of***, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">ἐν</span> = <span class="bdbLangHebrew">‎בְּ‎</span>) ***No***; <span class="bdbLangHebrew">‎נאֹ אָמוֺן‎</span> [[Nah.3.8|Nah 3:8]] ***No of Amon*** (= ***city of*** god ***Ammon***, = [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Διόσπολις</span> [[Ezek.30.14|Ezek 30:14]]; [[Ezek.30.16|Ezek 30:16]] [[BDB#Steind|Steind]]<sup>l.c</sup>.; see also [[BDB#Jerem|Jerem]]. and Billerbeck<sup>BAS iii.104 f.</sup>); [[Ezek.30.14|Ezek 30:14]] (\|\| <span class="bdbLangHebrew">‎פַּתְרוֺס‎</span>, <span class="bdbLangHebrew">‎צֹ֫עַן‎</span>), <span class="bdbLangHebrew">‎וְהִכְרַתִּי אֶתהֲֿמוֺן נאֹ‎</span> v[[Ezek.30.15|Ezek 30:15]] (\|\| <span class="bdbLangHebrew">‎סִין‎</span>; but [[BDB#Sept|ᵐ5]] [[BDB#Co|Co]] [[BDB#Berthol|Berthol]] <span class="bdbLangHebrew">‎נֹף‎</span> q. v. for <span class="bdbLangHebrew">‎נֹא‎</span>) v[[Ezek.30.16|Ezek 30:16]] (\|\| <span class="bdbLangHebrew">‎סִין‎</span>, [[BDB#Co|Co]] <span class="bdbLangHebrew">‎סון‎</span>). It lay on the right bank of the Nile, approximately 400 miles (by the river) south of Memphis. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Jeremiah | [[Jer.46.25\|46:25]] |
+| Ezekiel | [[Ezek.30.14\|30:14]] · [[Ezek.30.15\|30:15]] · [[Ezek.30.16\|30:16]] |
+| Nahum | [[Nah.3.8\|3:8]] |
+

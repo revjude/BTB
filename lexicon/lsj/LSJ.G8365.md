@@ -1,0 +1,11 @@
+<span class="asgreek">μύρμηξ</span> <small>***(murmēx)***</small> ==**an ant**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==μύρμηξ==</span></b>, <span class='asgreek'>ηκος</span>, 
+
+
+ <i>Doric dialect</i> <b><span class='asgreek'>μύρμαξ</span></b>, <span class='asgreek'>ᾱκος</span>, <span class='asgreek'>ὁ</span>, <b>ant</b>, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Frr.” 14.5,76.4, 3rd c.BC: Theocritus Poeta Bucolicus 9.31, 15.45, 17.107, etc.: \_metaphorically\_, ναῦται θαλάσσης μύρμηκες 4th c.BC: Aeschrio Lyricus 2. ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>μύρμηκος</span> <span class='asgreek'>ἀτραποί</span>, ={<span class='asgreek'>μυρμηκιά</span>}[<a href="javascript:void(0)" title=" 11.2, 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 100. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> fabulous animal in India, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.102; οἱ χρυσωρύχοι μ. 1st c.BC-1st c.AD: Strabo Geographus 2.1.9; λέουσι τοῖς καλουμένοις ==μύρμηξ==ιν [prev. author] 16.4.15, compare 2nd c.BC: Agatharchides Geographus 69, 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 3.4. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>hidden rock</b> in the sea, [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 878; especially on the Thessalian coast between Sciathus and Magnesia, 5th c.BC: Herodotus Historicus 7.183; off Smyrna, 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 5.119 (\_plural\_). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> a sort of <b>gauntlet</b> or <b>cestus</b> with metal studs or nails <b>like warts</b> (<span class='asgreek'>μυρμηκίαι</span>) on it, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 3.150. (Cf. βόρμαξ, ὅρμικας">Refs 2nd c.AD+</a>], Sanskrit<i>vamrás</i>, Avest.<b>maoiriš</b>, OIr.<b>moirb</b>, OSlavonic <i>mrav[icaron]ji</i>, ONorse <b>maurr</b>, Engl. (<b>pis-)mire</b>, Latin <i>formica</i>: I.-[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus ">Refs 5th c.BC+</a>] forms perhaps <b>momro-, momrīˇ-, memro</b>- 'ant'.)

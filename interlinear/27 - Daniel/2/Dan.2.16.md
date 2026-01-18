@@ -1,0 +1,25 @@
+**Daniel 2:16** 
+<small><sub>**KJV:**</sub></small>
+Then Daniel went in, and desired of the king that he would give him time, and that he would shew the king the interpretation.
+<small><sub>**BSB:**</sub></small>
+So Daniel went in and asked the king to give him some time, so that he could give him the interpretation.
+<small><sub>**Literal:**</sub></small>
+and  Daniel he went in and  he asked from king  the that time he will give to  him and  interpretation  the to  declare to  king  the<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.15|<< Daniel 2:15]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.17|Daniel 2:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Daniel  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דָ֣נִיֵּ֔אל</big></span><small><sup>[[H1841H]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> Da.ni.Yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he went in  | <span class="asaramaic"><big>עַ֖ל</big></span><small><sup>[[H5954]]</sup></small> &#8207;| 'al<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he asked  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>בְעָ֣ה</big></span><small><sup>[[H1156]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> ve.'Ah<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="asaramaic"><big>מִן</big></span><small><sup>[[H4481]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  | <span class="asaramaic"><big>מַלְכָּ֑</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="asaramaic"><big>דִּ֚י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| time  | <span class="asaramaic"><big>זְמָ֣ן</big></span><small><sup>[[H2166]]</sup></small> &#8207;| ze.Man<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will give  | <span class="asaramaic"><big>יִנְתֵּן</big></span><small><sup>[[H5415H]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| yin.ten-<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>לֵ֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| Le<small><sup>[[AR]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and interpretation the  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>פִשְׁרָ֖</big></span><small><sup>[[H6591]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> fish.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to declare  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>הַֽחֲוָיָ֥ה</big></span><small><sup>[[H2324]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> ha.cha.va.Yah<small><sup>[[AVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to king the  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>מַלְכָּֽ</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="asaramaic"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="asaramaic"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.15|<< Daniel 2:15]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.17|Daniel 2:17 >>]]</td></tr></table>
+
+

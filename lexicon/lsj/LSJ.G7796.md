@@ -1,0 +1,12 @@
+<span class="asgreek">καπνίζω</span> <small>***(kapnizō)***</small> ==**to smoke**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==καπνίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <b>make smoke</b>, i.e. <b>make a fire</b>, <i>Epic dialect</i> <i>aorist 1</i> <span class='asgreek'>κάπνισσαν</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 2.399 ">Refs 8th c.BC+</a>]; <b>use as a fumigation</b>, <span class='asgreek'>τροχίσκον</span> [<a href="javascript:void(0)" title=" 7th c.AD: Paulus Aegineta Medicus 3.28. ">Refs 7th c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>smoke, blacken with smoke</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 54.4, 4th c.BC: Sopater Comicus 6.9, “PMasp.” 141 ii a 25 (6th c.AD)">Refs 4th c.BC+</a>]:—<i>passive</i>, <b>to be smoked</b>, <span class='asgreek'>ὁ</span> <span class='asgreek'>ἠπίολος</span> <span class='asgreek'>φεύγει</span> -<span class='asgreek'>όμενος</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 605b16 ">Refs 4th c.BC+</a>]; of the eyes, <b>suffer from smoke</b>, [<a href="javascript:void(0)" title=" [prev. author] “Pr.” 957b33, compare 896b8 ">Refs</a>]; of cookery, <span class='asgreek'>==καπνίζω==ιζομένη</span> <span class='asgreek'>τυραννίς</span> empire <b>of the smoke</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Demetrius Comicus Novae Comoediae 1.4">Refs 4th c.BC+</a>]; <span class='asgreek'>κλίβανος</span> -<span class='asgreek'>όμενος</span> <b>smoking</b> furnace, [<a href="javascript:void(0)" title=" LXX.Gen.15.17. ">LXX</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>intransitive</i> in <i>active</i>, <b>to be black with smoke</b>, <i>perfect</i> <span class='asgreek'>κεκάπνικα</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Pax” 892; τὸ ὄρος τὸ ==καπνίζω==ίζον LXX.Exod.20.18 ">LXX+5th c.BC+</a>]; <span class='asgreek'>κρύσταλλος</span> <span class='asgreek'>ἡ</span> -<span class='asgreek'>ίζουσα</span><b>smoky</b> quartz, [<a href="javascript:void(0)" title=" “PHolm.” 6.38: \_metaphorically\_, [θυμὸν] ==καπνίζω==ίζοντα (variant{-ιῶντα}) καὶ διακαιόμενον 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.454e. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Gen.15.17]] ☩ [[Exod.20.18]]
+</sub></small>

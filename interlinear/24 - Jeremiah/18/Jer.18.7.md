@@ -1,0 +1,22 @@
+**Jeremiah 18:7** 
+<small><sub>**KJV:**</sub></small>
+[At what] instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy [it];
+<small><sub>**BSB:**</sub></small>
+At any time I might announce that a nation or kingdom will be uprooted, torn down, and destroyed.
+<small><sub>**Literal:**</sub></small>
+a moment I will speak on a nation and  on a kingdom to  pluck up and  to  pull down and  to  destroy<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.6|<< Jeremiah 18:6]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.8|Jeremiah 18:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| a moment  | <span class="ashebrew"><big>רֶ֣גַע</big></span><small><sup>[[H7281]]</sup></small> &#8207;| Re.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will speak  | <span class="ashebrew"><big>אֲדַבֵּ֔ר</big></span><small><sup>[[H1696I]]</sup></small> &#8207;| 'a.da.Ber<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a nation  | <span class="ashebrew"><big>גּ֖וֹי</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a kingdom  | <span class="ashebrew"><big>מַמְלָכָ֑ה</big></span><small><sup>[[H4467]]</sup></small> &#8207;| mam.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to pluck up  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נְת֥וֹשׁ</big></span><small><sup>[[H5428]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> n.To.osh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to pull down  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נְת֖וֹץ</big></span><small><sup>[[H5422]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> n.Totz<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to destroy  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַאֲבִֽיד</big></span><small><sup>[[H0006]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| U.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ha.'a.Vid<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.6|<< Jeremiah 18:6]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.8|Jeremiah 18:8 >>]]</td></tr></table>
+
+

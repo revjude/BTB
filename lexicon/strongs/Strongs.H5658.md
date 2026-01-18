@@ -1,0 +1,14 @@
+<big><span class="ashebrew">‎עַבְדוֹן‎</span></big> **ʻAbdôwn** <small>*(ab-dohn')*</small> ==**Abdon**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>from <span class="ashebrew">‎עָבַד‎</span><sup><small>[[H5647]]</small></sup>; servitude</small>
+
+$\quad$ Abdon. Compare <span class="ashebrew">‎עֶבְרֹן‎</span><sup><small>[[H5683]]</small></sup>.
+- § Abdon = *"servile"*
+- ***Abdon***, the name of a place in Palestine and of four Israelites
+
+n pr m
+**1)** a judge of Israel in the time of the judges; perhaps the same as 'Bedan'
+**2)** a Benjamite, son of Shashak
+**3)** a Gibeonite, son of Jehiel and a grandson of Gideon
+**4)** son of Micah in the time of king Josiah of Judah; also 'Achbor'
+n pr loc
+**5)** a city in Asher allotted to the Gershonite Levites; located 10 miles (16 km) north of Accho; modern 'Abdeh'

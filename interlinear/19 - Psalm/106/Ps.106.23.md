@@ -1,0 +1,24 @@
+**Psalms 106:23** 
+<small><sub>**KJV:**</sub></small>
+Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy [them].
+<small><sub>**BSB:**</sub></small>
+So He said He would destroy them—had not Moses His chosen one stood before Him in the breach to divert His wrath from destroying them.
+<small><sub>**Literal:**</sub></small>
+and  he said to  destroy  them if not Moses chosen one  his he had stood in the  breach \<to>  before  him to  turn back anger  his from  destroying<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.22|<< Psalms 106:22]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.24|Psalms 106:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֗אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to destroy them  | <span class="ashebrew"><big>לְֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַשְׁמִ֫ידָ֥</big></span><small><sup>[[H8045]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> hash.Mi.Da<small><sup>[[HVhcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if not  | <span class="ashebrew"><big>לוּלֵ֡י</big></span><small><sup>[[H3884]]</sup></small> &#8207;| lu.Lei<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  | <span class="ashebrew"><big>מֹ֘שֶׁ֤ה</big></span><small><sup>[[H4872]]</sup></small> &#8207;| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| chosen one his  | <span class="ashebrew"><big>בְחִיר֗</big></span><small><sup>[[H0972]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.chi.R<small><sup>[[HAamsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had stood  | <span class="ashebrew"><big>עָמַ֣ד</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| 'a.Mad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the breach  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>פֶּ֣רֶץ</big></span><small><sup>[[H6556]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Pe.retz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before him  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָנָ֑י</big></span><small><sup>[[H6440G]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to turn back  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הָשִׁ֥יב</big></span><small><sup>[[H7725I]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Shiv<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anger his  | <span class="ashebrew"><big>חֲ֝מָת֗</big></span><small><sup>[[H2534]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| cha.ma.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from destroying  | <span class="ashebrew"><big>מֵֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>הַשְׁחִֽית</big></span><small><sup>[[H7843]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Me.<small><sup>[[HR]]</sup></small> hash.Chit<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.22|<< Psalms 106:22]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.24|Psalms 106:24 >>]]</td></tr></table>
+
+

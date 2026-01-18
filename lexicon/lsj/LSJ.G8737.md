@@ -1,0 +1,13 @@
+<span class="asgreek">περίληψις</span> <small>***(perilēpsis)***</small> ==**an embrace**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==περίληψις==</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>grasping with the hand</b>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 9.98 ">Refs 2nd c.AD+</a>]; <b>embracing</b>, [<a href="javascript:void(0)" title=" LXX.Eccl.3.5. ">LXX</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>comprehension</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>π</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>ἀρχῆς</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ψυχικῆς</span> in <b>the fact of their comprehending</b> the vital principle, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 762a25, compare 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 1p.16U. (\_plural\_)">Refs 4th c.BC+</a>]; <span class='asgreek'>ἐπιστημονικὴ</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “in Platonis Alcibiadem” p.276 C.">Refs 5th c.AD+</a>]; <span class='asgreek'>εἰς</span> <span class='asgreek'>καθολικὴν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἔντεχνον</span> <span class='asgreek'>π</span>. <span class='asgreek'>πεσεῖν</span> admit of general and technical <b>comprehension</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 12. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>inclusion</b>, <span class='asgreek'>κατὰ</span> <span class='asgreek'>περίληψιν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 10.99, 286, compare 5th c.AD: Proclus Philosophus “in primum Euclidis librum commentarius” p.395 F. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.2</b> concrete, <b>that which includes</b> or <b>comprehends</b>, [<span class='asgreek'>θεὸς</span>] <span class='asgreek'>πάντων</span> <span class='asgreek'>π</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>μέτρον</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 6.8.18 ">Refs 3rd c.AD+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>ἡνωμένη</span> <span class='asgreek'>π</span>. <span class='asgreek'>ἣν</span> <span class='asgreek'>σπέρμα</span> <span class='asgreek'>πάντων</span> <span class='asgreek'>ἐκάλεσε</span> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 98. ">Refs 5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Eccl.3.5]]
+</sub></small>

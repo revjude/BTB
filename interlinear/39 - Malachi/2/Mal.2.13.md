@@ -1,0 +1,31 @@
+**Malachi 2:13** 
+<small><sub>**KJV:**</sub></small>
+And this have ye done again, covering the altar of the LORD with tears, with weeping, and with crying out, insomuch that he regardeth not the offering any more, or receiveth [it] with good will at your hand.
+<small><sub>**BSB:**</sub></small>
+And this is another thing you do: You cover the altar of the LORD with tears, with weeping and groaning, because He no longer regards your offerings or receives them gladly from your hands.
+<small><sub>**Literal:**</sub></small>
+and  this second [thing] you do to cover tear[s] \<obj.> [the] altar of Yahweh weeping and  groaning from  not still turning to the  offering and  to  take pleasure from  hand  your<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.12|<< Malachi 2:12]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.14|Malachi 2:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and this  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זֹאת֙</big></span><small><sup>[[H2063]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| second [thing]  | <span class="ashebrew"><big>שֵׁנִ֣ית</big></span><small><sup>[[H8145]]</sup></small> &#8207;| she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you do  | <span class="ashebrew"><big>תַּֽעֲשׂ֔וּ</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to cover  | <span class="ashebrew"><big>כַּסּ֤וֹת</big></span><small><sup>[[H3680]]</sup></small> &#8207;| ka.Sot<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tear[s]  | <span class="ashebrew"><big>דִּמְעָה֙</big></span><small><sup>[[H1832]]</sup></small> &#8207;| dim.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] altar of  | <span class="ashebrew"><big>מִזְבַּ֣ח</big></span><small><sup>[[H4196]]</sup></small> &#8207;| miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| weeping  | <span class="ashebrew"><big>בְּכִ֖י</big></span><small><sup>[[H1065]]</sup></small> &#8207;| be.Khi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and groaning  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲנָקָ֑ה</big></span><small><sup>[[H0603]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.na.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from not  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>אֵ֣ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still  | <span class="ashebrew"><big>ע֗וֹד</big></span><small><sup>[[H5750]]</sup></small> &#8207;| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| turning  | <span class="ashebrew"><big>פְּנוֹת֙</big></span><small><sup>[[H6437G]]</sup></small> &#8207;| pe.nOt<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the offering  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מִּנְחָ֔ה</big></span><small><sup>[[H4503G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to take  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>קַ֥חַת</big></span><small><sup>[[H3947H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> Ka.chat<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pleasure  | <span class="ashebrew"><big>רָצ֖וֹן</big></span><small><sup>[[H7522]]</sup></small> &#8207;| ra.Tzon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from hand your  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>יֶּדְ</big></span><small><sup>[[H3027H]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9026]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> yed.<small><sup>[[HNcbsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.12|<< Malachi 2:12]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.14|Malachi 2:14 >>]]</td></tr></table>
+
+

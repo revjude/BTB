@@ -1,0 +1,7 @@
+<span class="asgreek">νάπη</span> <small>***(napē)***</small> ==**a grove**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==νάπη==</span></b> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>ἡ</span>, 
+
+
+ <b>woodland vale, dell, glen</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 8.558 ">Refs 8th c.BC+</a>]; <span class='asgreek'>Ἀπολλωνία</span> <span class='asgreek'>ν</span>., of Delphi, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 6.9, compare “SIG” 546 A 11 (Delph., 3rd c.BC), “GDI” 5016.9 (from Gortyn)">Refs 5th c.BC+</a>]; <span class='asgreek'>νάπαι</span> <span class='asgreek'>κάλλισται</span> pleasant <b>valleys</b> about a town, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.157 ">Refs 5th c.BC+</a>]; <span class='asgreek'>χείμαρρος</span> <span class='asgreek'>==νάπη==</span> a torrent <b>glen</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 1093; ἢν ἀπόροις νάπαις ἐντυγχάνωσι 5th-6th c.BC: Xenophon Historicus “de Equitum magistro” 4.4, compare “Cyn.” 9.11; ὄρη δάσκια καὶ νάπαι πετρώδεις βρέμονται 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 998 (Lyric poetry), compare “Av.” 740 (Lyric poetry), 5th-6th c.BC: Plato Philosophus “Leges” 761b ">Refs 5th c.BC+</a>]; compare <span class='asgreek'>νάπος</span>.
+

@@ -1,0 +1,12 @@
+form of: <small>[[G2068]]</small> 
+
+
+<b> <span class='asgreek'>==φαγεῖν==</span></b>, 
+
+
+ <i>infinitive</i> of <span class='asgreek'>ἔφαγον</span>, with no <i>present</i> in use (except in late Gr., <span class='asgreek'>φαγεῖ</span> [<a href="javascript:void(0)" title=" Anonymus “in EN” 448.16 ">Refs</a>]; <span class='asgreek'>φαγέοις</span> in <i>editions</i> of [<a href="javascript:void(0)" title=" 1st c.AD(?): Pseudo-Phocylidea 157 is see uncertain)">Refs 1st c.AD+</a>], used as <i>aorist 2</i> of <span class='asgreek'>ἐσθί</span>; later <i>1st pers.</i> <i>plural</i> <span class='asgreek'>ἐφάγαμεν</span> [<a href="javascript:void(0)" title=" LXX.2Kgs.19.42 codex B, \_3rd.pers.\_ \_plural\_ ἐφάγοσανLXX.Gen.18.8: later ">LXX</a>]<i>future</i> is <span class='asgreek'>φάγομαι</span>,[<a href="javascript:void(0)" title="LXX.Sir.36.23, NT.Luke.14.15 ">LXX+NT</a>]; <i>2nd pers.</i> <i>singular</i> <span class='asgreek'>φάγεσαι</span> [<a href="javascript:void(0)" title=" LXX.Ruth.2.14, NT.Luke.17.8; φάγῃ LXX.Gen.3.14; also φαγοῦμαι [prev. work] 2 (variant)">LXX+NT</a>]; <i>future</i> <span class='asgreek'>φαγήσω</span> is see uncertain in [<a href="javascript:void(0)" title=" 4th c.AD: Libanius Sophista “Orationes” 53.29 ">Refs 4th c.AD+</a>]:—<b>eat, devour,</b> both of men and beasts, frequently in [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus; ἀζηχὲς φαγέμεν καὶ πιέμεν 8th c.BC: Odyssea Homerus Epicus “Odyssey” 18.3, compare 15.378, 5th-6th c.BC: Plato Philosophus “Leges” 831e; reversely, πιόντα ἢ φαγόντα [prev. author] “Prt.” 314a, compare “Phd.” 81b, 5th c.BC: Euripides Tragicus “Cyclops” 336 (uncertain reading): mostly with \_accusative\_, 8th c.BC: Ilias Homerus Epicus “Illiad” 21.127, 24.411, etc.">Refs 8th c.BC+</a>]: with <i>genitive</i>, <b>eat of</b> a thing, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 9.102, 15.373; ὄρνιθος ὄρνις πῶς ἂν ἁγνεύοι φαγώ; 4th-5th c.BC: Aeschylus Tragicus “Supplices” 226; ἀπό τινος LXX.Gen.2.16. ">LXX+8th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>eat up, devour, squander,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 2.76, 4.33. (Cf. παματοφαγέω">Refs 8th c.BC+</a>] and Sanskrit <i>bhájati</i> 'apportion, (<i>middle</i>) enjoy'.)
+
+<small><sub>LSJ Scripture Refs: [[2Kgs.19.42]] ☩ [[Gen.18.8]] ☩ [[Luke.14.15]] ☩ [[Ruth.2.14]] ☩ [[Luke.17.8]] ☩ [[Gen.3.14]] ☩ [[Gen.2.16]]
+</sub></small>

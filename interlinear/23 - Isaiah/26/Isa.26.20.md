@@ -1,0 +1,31 @@
+**Isaiah 26:20** 
+<small><sub>**KJV:**</sub></small>
+Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself as it were for a little moment, until the indignation be overpast.
+<small><sub>**BSB:**</sub></small>
+Go, my people, enter your rooms and shut your doors behind you. Hide yourselves a little while until the wrath has passed.
+<small><sub>**Literal:**</sub></small>
+come O people  my go in  rooms  your and  shut door  your behind  you hide like  a little of a moment until it has passed by indignation<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.19|<< Isaiah 26:19]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.21|Isaiah 26:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| come  | <span class="ashebrew"><big>לֵ֤ךְ</big></span><small><sup>[[H1980K]]</sup></small> &#8207;| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O people my  | <span class="ashebrew"><big>עַמִּ</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  | <span class="ashebrew"><big>בֹּ֣א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| bo'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in rooms your  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֲדָרֶ֔י</big></span><small><sup>[[H2315]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| va.<small><sup>[[HR]]</sup></small> cha.da.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and shut  | <span class="ashebrew"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>סְגֹ֥ר</big></span><small><sup>[[H5462]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> se.Gor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| door your  [^2] | <span class="ashebrew"><big>דְּלָתְ</big></span><small><sup>[[H1817B]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;[^3] | de.la.tei.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| behind you  | <span class="ashebrew"><big>בַּעֲדֶ֑</big></span><small><sup>[[H1157]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| ba.'a.De.<small><sup>[[HAcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hide  | <span class="ashebrew"><big>חֲבִ֥י</big></span><small><sup>[[H2247]]</sup></small> &#8207;| cha.Vi<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a little of  | <span class="ashebrew"><big>כִ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>מְעַט</big></span><small><sup>[[H4592]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| khi<small><sup>[[HR]]</sup></small> m.'at-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a moment  | <span class="ashebrew"><big>רֶ֖גַע</big></span><small><sup>[[H7281]]</sup></small> &#8207;| Re.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has passed by  | <span class="ashebrew"><big>יַעֲבָר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;[^4] [^5] | ya.'a.Vor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| indignation  | <span class="ashebrew"><big>זָֽעַם</big></span><small><sup>[[H2195]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Za.'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.19|<< Isaiah 26:19]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.21|Isaiah 26:21 >>]]</td></tr></table>
+
+[^1]: ==K==: **doors your ** | <small><sup>[[H9021]]</sup></small><span class="ashebrew"><big>ךָ</big></span> <small><sup>[[H1817B]]</sup></small><span class="ashebrew"><big>דְּלָתֶי</big></span>  | de.la.tei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
+[^2]: ==K==: **doors your ** | <small><sup>[[H9021]]</sup></small><span class="ashebrew"><big>ךָ</big></span> <small><sup>[[H1817B]]</sup></small><span class="ashebrew"><big>דְּלָתֶי</big></span>  | de.la.tei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>דְּלָתְיךָ֖</big></span>**
+[^4]: ==L== spelled: **<span class="ashebrew"><big>יַעֲבָור\־</big></span>**
+[^5]: ==K== spelled: **<span class="ashebrew"><big>יַעֲבוֹר</big></span>**
+

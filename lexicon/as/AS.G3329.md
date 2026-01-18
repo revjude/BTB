@@ -1,0 +1,13 @@
+<span class="asform"><span class="asgreek"><span class="asbold">μετ-άγω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[1Kgs.8.47|III Ki 8:47]], [[1Kgs.8.48|48]], [[2Chr.6.37|II Ch 6:37]] (<span class="ashebrew">שׁבה</span> <small><sup>[[H7617]]</sup></small>) [[2Chr.36.3|36:3]] (<span class="ashebrew">סוּר</span> <small><sup>[[H5493]]</sup></small> hi.), [[1Esd.1.45|I Es 1:45]] [[1Esd.2.10|2:10]] [[1Esd.5.69|5:69]], [[Ezra.8.17|Es 8:17]], [[SirP.1.16|Si prol. 16]] [[Sir.10.8|10:8]], [[2Macc.1.33|II Mac 1:33]]\*;\]</span> </span>
+<span class="asbullet"><span class="asbold">1.</span> in Xen., Plut., and later writers, <span class="asitalic">to transfer</span>, <span class="asitalic">transport</span> (so LXX).</span>
+<span class="asbullet"><span class="asbold">2.</span> In sense otherwise unknown (v. Hort, in l.), <span class="asitalic">to turn about</span>, <span class="asitalic">direct</span>: [[Jas.3.3|Ja 3:3]], [[Jas.3.4|4]].†</span>
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| 1 Kings | [[1Kgs.8.47\|8:47]] · [[1Kgs.8.48\|8:48]] |
+| 2 Chronicles | [[2Chr.6.37\|6:37]] · [[2Chr.36.3\|36:3]] |
+| Ezra | [[Ezra.8.17\|8:17]] |
+| James | [[Jas.3.3\|3:3]] · [[Jas.3.4\|3:4]] |
+

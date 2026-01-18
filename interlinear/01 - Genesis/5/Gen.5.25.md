@@ -1,0 +1,23 @@
+**Genesis 5:25** 
+<small><sub>**KJV:**</sub></small>
+And Methuselah lived an hundred eighty and seven years, and begat Lamech:
+<small><sub>**BSB:**</sub></small>
+When Methuselah was 187 years old, he became the father of Lamech.
+<small><sub>**Literal:**</sub></small>
+and  he lived Methuselah seven and  eighty year[s] and  one hundred year[s] and  he fathered \<obj.> Lamech<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.24|<< Genesis 5:24]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.26|Genesis 5:26 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he lived  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְחִ֣י</big></span><small><sup>[[H2421]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Methuselah  | <span class="ashebrew"><big>מְתוּשֶׁ֔לַח</big></span><small><sup>[[H4968]]</sup></small> &#8207;| me.tu.She.lach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שֶׁ֧בַע</big></span><small><sup>[[H7651]]</sup></small> &#8207;| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and eighty  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁמֹנִ֛ים</big></span><small><sup>[[H8084]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.mo.Nim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  | <span class="ashebrew"><big>שָׁנָ֖ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and one hundred  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְאַ֣ת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.'At<small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  | <span class="ashebrew"><big>שָׁנָ֑ה</big></span><small><sup>[[H8141]]</sup></small> &#8207;| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he fathered  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יּ֖וֹלֶד</big></span><small><sup>[[H3205]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.led<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lamech  | <span class="ashebrew"><big>לָֽמֶךְ</big></span><small><sup>[[H3929H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| La.mekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.24|<< Genesis 5:24]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.26|Genesis 5:26 >>]]</td></tr></table>
+
+

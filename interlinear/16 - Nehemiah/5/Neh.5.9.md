@@ -1,0 +1,30 @@
+**Nehemiah 5:9** 
+<small><sub>**KJV:**</sub></small>
+Also I said, It [is] not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?
+<small><sub>**BSB:**</sub></small>
+So I continued, “What you are doing is not right. Shouldn’t you walk in the fear of our God to avoid the reproach of our foreign enemies?
+<small><sub>**Literal:**</sub></small>
+and  I said not [is] good the  thing which you [are] doing ¿  not in  [the] fear of God  our are you walking from  [the] reproach of the  nations enemies  our<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.8|<< Nehemiah 5:8]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.10|Nehemiah 5:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I said  [^2] | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אוֹמַ֕ר</big></span><small><sup>[[H0559]]</sup></small> &#8207;[^3] | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  | <span class="ashebrew"><big>ט֥וֹב</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the thing  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דָּבָ֖ר</big></span><small><sup>[[H1697I]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתֶּ֣ם</big></span><small><sup>[[H0859D]]</sup></small> &#8207;| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] doing  | <span class="ashebrew"><big>עֹשִׂ֑ים</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'o.Sim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>ל֞וֹא</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] fear of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יִרְאַ֤ת</big></span><small><sup>[[H3374]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> yir.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God our  | <span class="ashebrew"><big>אֱלֹהֵ֙י</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>נוּ֙</big></span><small><sup>[[H9025]]</sup></small> &#8207;| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| are you walking  | <span class="ashebrew"><big>תֵּלֵ֔כוּ</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| te.Le.khu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] reproach of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>חֶרְפַּ֖ת</big></span><small><sup>[[H2781]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> cher.Pat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the nations  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גּוֹיִ֥ם</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies our  | <span class="ashebrew"><big>אוֹיְבֵֽי</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'oy.Vei.<small><sup>[[HVqrmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.8|<< Nehemiah 5:8]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.10|Nehemiah 5:10 >>]]</td></tr></table>
+
+[^1]: ==K==: **and he said ** | <small><sup>[[H0559]]</sup></small><span class="ashebrew"><big>יֹּאמֶר</big></span> <small><sup>[[H9001]]</sup></small><span class="ashebrew"><big>וַ</big></span>  | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> 
+[^2]: ==K==: **and he said ** | <small><sup>[[H0559]]</sup></small><span class="ashebrew"><big>יֹּאמֶר</big></span> <small><sup>[[H9001]]</sup></small><span class="ashebrew"><big>וַ</big></span>  | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>וָיֹאמַ֕ר</big></span>**
+

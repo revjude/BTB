@@ -1,0 +1,35 @@
+**1 Chronicles 11:20** 
+<small><sub>**KJV:**</sub></small>
+And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew [them], and had a name among the three.
+<small><sub>**BSB:**</sub></small>
+Now Abishai, the brother of Joab, was chief of the Three, and he wielded his spear against three hundred men, killed them, and won a name along with the Three.
+<small><sub>**Literal:**</sub></small>
+and  Abishai [the] brother of Joab he he was [the] chief of the  three and  he he wielded \<obj.> spear  his on three hundred\<s> [one] slain and  [belonged] to  him a name with the  three<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.19|<< 1 Chronicles 11:19]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.21|1 Chronicles 11:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Abishai  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַבְשַׁ֣י</big></span><small><sup>[[H0052]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'av.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] brother of  | <span class="ashebrew"><big>אֲחִֽי</big></span><small><sup>[[H0251G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.chi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joab  | <span class="ashebrew"><big>יוֹאָ֗ב</big></span><small><sup>[[H3097G]]</sup></small> &#8207;| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  | <span class="ashebrew"><big>ה֤וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he was  | <span class="ashebrew"><big>הָיָה֙</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] chief of  | <span class="ashebrew"><big>רֹ֣אשׁ</big></span><small><sup>[[H7218H]]</sup></small> &#8207;| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the three  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁלוֹשָׁ֔ה</big></span><small><sup>[[H7969]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.lo.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הוּא֙</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he wielded  | <span class="ashebrew"><big>עוֹרֵ֣ר</big></span><small><sup>[[H5782]]</sup></small> &#8207;| o.Rer<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spear his  | <span class="ashebrew"><big>חֲנִית֔</big></span><small><sup>[[H2595]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| cha.ni.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שְׁלֹ֥שׁ</big></span><small><sup>[[H7969]]</sup></small> &#8207;| she.Losh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  | <span class="ashebrew"><big>מֵא֖וֹת</big></span><small><sup>[[H3967]]</sup></small> &#8207;| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [one] slain  | <span class="ashebrew"><big>חָלָ֑ל</big></span><small><sup>[[H2491A]]</sup></small> &#8207;| cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [belonged] to him  [^3] | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ל</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;[^4] | ve.<small><sup>[[HC]]</sup></small> l<small><sup>[[HR]]</sup></small> o-<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| a name  | <span class="ashebrew"><big>שֵׁ֖ם</big></span><small><sup>[[H8034]]</sup></small> &#8207;| shem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with the three  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שְּׁלוֹשָֽׁה</big></span><small><sup>[[H7969]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> she.lo.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.19|<< 1 Chronicles 11:19]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.21|1 Chronicles 11:21 >>]]</td></tr></table>
+
+[^1]: ==K==: **and not ** | <small><sup>[[H3808]]</sup></small><span class="ashebrew"><big>לֹא</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> 
+[^2]: ==K==: **and not ** | <small><sup>[[H3808]]</sup></small><span class="ashebrew"><big>לֹא</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> 
+[^3]: ==K==: **and not ** | <small><sup>[[H3808]]</sup></small><span class="ashebrew"><big>לֹא</big></span> <small><sup>[[H9002]]</sup></small><span class="ashebrew"><big>וְ</big></span>  | ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> 
+[^4]: ==L== spelled: **<span class="ashebrew"><big>וְלֹא\־</big></span>**
+

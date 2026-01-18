@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==καταγγέλλω==</span>-<span class='asgreek'>αγγέλλω</span></b>, 
+
+
+ <b>announce, proclaim, declare</b>, <span class='asgreek'>πόλεμον</span> <span class='asgreek'>==καταγγέλλω==ηγγέλκασι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 25.30, compare 1st c.BC: Diodorus Siculus Historicus 14.68, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pyrrhus” 26; κ. ῥύσιά τινι 2nd c.BC: Polybius Historicus 4.53.2; δεῖπνον 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.727b: frequently in “NT”, κ. τὸ εὐαγγέλιον, Χριστόν, NT.1Cor.9.14, NT.Phil.1.17: with ">NT+5th c.BC+</a>]<i>infinitive</i>, <span class='asgreek'>κ</span>. <span class='asgreek'>ἱκέσθαι</span> <b>report</b> one's arrival, [<a href="javascript:void(0)" title=" “Berl.Sitzb.” 1927.170 (from Cyrene). ">Refs</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>recite, recount</b>, <span class='asgreek'>ἀγῶνα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Par.” 39. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>denounce</b>, <span class='asgreek'>τινὸς</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἐπιβουλήν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 2.5.38 ">Refs 5th c.BC+</a>]; <span class='asgreek'>δοῦλοι</span> <span class='asgreek'>ὅσοι</span> <span class='asgreek'>δεσπότας</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 5.2.2 ">Refs 2nd c.AD+</a>]; <b>lay an information</b>, <span class='asgreek'>πρός</span> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 3641 b. 32 (from Lampsacus): \_metaphorically\_, κ. ἀπειρίαν τοῦ ποιητοῦ 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 78.20. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> of symptoms, <b>threaten</b>, <span class='asgreek'>σπασμόν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Antyllus Medicus cited in 4th c.AD: Oribasius Medicus 10.2.6. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Cor.9.14]] ☩ [[Phil.1.17]]
+</sub></small>

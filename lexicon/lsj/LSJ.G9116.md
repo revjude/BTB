@@ -1,0 +1,11 @@
+<span class="asgreek">σκόρδον</span> <small>***(skordon)***</small> ==**garlic**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==σκόρδον==</span>-<span class='asgreek'>ον</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ ={<span class='asgreek'>σκόροδον</span>}, [<a href="javascript:void(0)" title=" 4th c.BC: Crates Thebanus Poeta Philosophus 4.5 4th c.BC: Demosthenes Orator, “IG” 22.1184.15 (4th c.BC), “PSI” 4.332.6 (3rd c.BC), “PTeb.” 717.5 (2nd c.BC), LXX.Num.11.5, 1st c.BC: Philodemus Philosophus “περὶ ποιημάτων” 2.52, 1st c.AD: Dioscorides (Dioscurides) Medicus 2.152, “IG” 3.73.10, “Edict.Diocl.” 6.23, “Geoponica” 12.8.8, etc.: proverbial, μὴ ==σκόρδον==ου (i.e. φάγω)">LXX+4th c.BC+</a>] 'anything for a quiet life', probably in [<a href="javascript:void(0)" title=" 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Epistulae ad Atticum” 13.42.3 ">Refs 1st c.BC+</a>]; compare <span class='asgreek'>σκόροδον</span>: codices of [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus have both ==σκόρδον==ον (“HP” 1.10.7, +others) and σκόροδον (1.6.9, +others, “Od.” 63)">Refs 4th c.BC+</a>]:—<i>diminutive</i> <b><span class='asgreek'>σκορδόνιον</span></b>, <span class='asgreek'>τό</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus “Eup.” 2.119">Refs 1st c.AD+</a>]; <b><span class='asgreek'>σκορδ</span>-<span class='asgreek'>σνίαν</span></b> <span class='asgreek'>καλοῦσιν</span> <span class='asgreek'>οἱ</span> <span class='asgreek'>Ῥωμαῖοι</span> [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus cited in 6th c.AD: Aëtius Medicus 11.10 (assuming variant). ">Refs 4th c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἀνθρωπίνη</span> <span class='asgreek'>κόπρος</span> <span class='asgreek'>ἐστὶν</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>λεγόμενον</span> <span class='asgreek'>==σκόρδον==ον</span> [<a href="javascript:void(0)" title=" “PHolm.” 9.26. ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Num.11.5]]
+</sub></small>

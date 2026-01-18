@@ -1,0 +1,24 @@
+**Joshua 2:21** 
+<small><sub>**KJV:**</sub></small>
+And she said, According unto your words, so [be] it. And she sent them away, and they departed: and she bound the scarlet line in the window.
+<small><sub>**BSB:**</sub></small>
+“Let it be as you say,” she replied, and she sent them away. And when they had gone, she tied the scarlet cord in the window.
+<small><sub>**Literal:**</sub></small>
+and  she said according to  words  your [be] so it and  she sent off  them and  they went and  she bound \<obj.> [the] cord of the  scarlet in the  window<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.20|<< Joshua 2:20]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.22|Joshua 2:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּ֙אמֶר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to words your  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>דִבְרֵי</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>כֶ֣ם</big></span><small><sup>[[H9026]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [be] so  | <span class="ashebrew"><big>כֶּן</big></span><small><sup>[[H3651C]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ken-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  | <span class="ashebrew"><big>ה֔וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she sent off them  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תְּשַׁלְּחֵ֖</big></span><small><sup>[[H7971G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> te.sha.le.Che<small><sup>[[HVpw3fs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּלֵ֑כוּ</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.Le.khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she bound  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּקְשֹׁ֛ר</big></span><small><sup>[[H7194]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tik.Shor<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] cord of  | <span class="ashebrew"><big>תִּקְוַ֥ת</big></span><small><sup>[[H8615A]]</sup></small> &#8207;| tik.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the scarlet  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁנִ֖י</big></span><small><sup>[[H8144]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sha.Ni<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the window  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חַלּֽוֹן</big></span><small><sup>[[H2474]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> cha.Lon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.20|<< Joshua 2:20]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.22|Joshua 2:22 >>]]</td></tr></table>
+
+

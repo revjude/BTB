@@ -1,0 +1,27 @@
+<small>*Male • Son of Mered • Son of Mered, founder of Gedor.*</small>
+
+Man living at the time of Divided Monarchy
+
+<span class='tipnrhighlight'>Jered</span> was the son of Mered and the  father \(ie founder\) of Gedor, as recorded in the genealogy of Judah in 1 Chronicles.
+- A man from the tribe of Judah\(?\) living at the time of Divided Monarchy, only mentioned at [[1Chr.4.18|1Ch.4.18]]; 
+- only referred to as Jered<[[H3382H]]> \(<span class='tipnrLangHebrew'>י</span>ֶ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ד</span>\); 
+-  son of Mered<[[H4778]]> and Jehudijah<[[H3057]]>; 
+- a brother of Heber<[[H2268I]]> and Jekuthiel<[[H3354]]>; 
+-  half-brother of: Miriam<[[H4813H]]>\(?\), Shammai<[[H8060I]]>\(?\) and Ishbah<[[H3431]]>\(?\); 
+- founder of Gedor<[[H1446G]]>.
+
+Jered is mentioned in the genealogy of Judah in 1 Chronicles. He was the son of Mered and his wife Jehudijah \(or the Judahite woman\). Jered is described as the  father \(ie founder\) of Gedor, which may refer to a person or a town associated with his descendants.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Jered | [<span class='tipnrLangHebrew'>י</span>ֶ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H3382H) <small>*Hebrew*</small> | 1x | [1Ch.4.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jered\*\|reference=1Ch.4.18) |
+All Strong's for **Jered**: \[[[H3382H]]\]
+#### Related Profiles:
+- **[Mered](H4778)** (father)
+- **[Jehudijah](H3057)** (mother)
+- **[Heber](H2268I)** (sibling)
+- **[Jekuthiel](H3354)** (sibling)
+- **[Miriam](H4813H)** (sibling)
+- **[Shammai](H8060I)** (sibling)
+- **[Ishbah](H3431)** (sibling)
+- **[town|Gedor](town|Gedor@Jos.12.13)** (child)

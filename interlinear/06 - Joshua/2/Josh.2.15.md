@@ -1,0 +1,24 @@
+**Joshua 2:15** 
+<small><sub>**KJV:**</sub></small>
+Then she let them down by a cord through the window: for her house [was] upon the town wall, and she dwelt upon the wall.
+<small><sub>**BSB:**</sub></small>
+Then Rahab let them down by a rope through the window, since the house where she lived was built into the wall of the city.
+<small><sub>**Literal:**</sub></small>
+and  she let down  them with \<the>  rope through the  window for house  her [was] in  [the] wall of the  city wall and  in the  city wall she [was] dwelling<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.14|<< Joshua 2:14]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.16|Joshua 2:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she let down them  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תּוֹרִדֵ֥</big></span><small><sup>[[H3381]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> to.ri.De<small><sup>[[HVhw3fs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> rope  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֶ֖בֶל</big></span><small><sup>[[H2256M]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Che.vel<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| through  | <span class="ashebrew"><big>בְּעַ֣ד</big></span><small><sup>[[H1157]]</sup></small> &#8207;| be.'Ad<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the window  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חַלּ֑וֹן</big></span><small><sup>[[H2474]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> cha.Lon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| house her  | <span class="ashebrew"><big>בֵיתָ</big></span><small><sup>[[H1004B]]</sup></small> <span class="ashebrew"><big>הּ֙</big></span><small><sup>[[H9024]]</sup></small> &#8207;| vei.Ta<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] in [the] wall of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קִ֣יר</big></span><small><sup>[[H7023]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Kir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city wall  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חוֹמָ֔ה</big></span><small><sup>[[H2346G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in the city wall  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חוֹמָ֖ה</big></span><small><sup>[[H2346G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she  | <span class="ashebrew"><big>הִ֥יא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] dwelling  | <span class="ashebrew"><big>יוֹשָֽׁבֶת</big></span><small><sup>[[H3427]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yo.Sha.vet<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.14|<< Joshua 2:14]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.16|Joshua 2:16 >>]]</td></tr></table>
+
+

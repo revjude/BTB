@@ -1,0 +1,20 @@
+**1 Chronicles 5:7** 
+<small><sub>**KJV:**</sub></small>
+And his brethren by their families, when the genealogy of their generations was reckoned, [were] the chief, Jeiel, and Zechariah,
+<small><sub>**BSB:**</sub></small>
+His relatives by their clans are recorded in their genealogy: Jeiel the chief, Zechariah,
+<small><sub>**Literal:**</sub></small>
+and  relatives  his to  clans  his by  genealogical enrolment to  generations  their [were] the  chief Jeiel and  Zechariah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.6|<< 1 Chronicles 5:6]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.8|1 Chronicles 5:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and relatives his  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶחָי</big></span><small><sup>[[H0251H]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to clans his  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִשְׁפְּחֹתָ֔י</big></span><small><sup>[[H4940]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mish.pe.cho.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by genealogical enrolment  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הִתְיַחֵ֖שׂ</big></span><small><sup>[[H3187]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> hit.ya.Ches<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to generations their  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>תֹלְדוֹתָ֑</big></span><small><sup>[[H8435]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> to.le.do.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] the chief  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רֹ֥אשׁ</big></span><small><sup>[[H7218H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeiel  | <span class="ashebrew"><big>יְעִיאֵ֖ל</big></span><small><sup>[[H3273G]]</sup></small> &#8207;| ye.'i.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Zechariah  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>זְכַרְיָֽהוּ</big></span><small><sup>[[H2148D]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ze.khar.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.6|<< 1 Chronicles 5:6]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.8|1 Chronicles 5:8 >>]]</td></tr></table>
+
+

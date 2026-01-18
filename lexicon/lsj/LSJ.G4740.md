@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==στηριγμός==</span>-<span class='asgreek'>μός</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>being fixed, standing still</b>, <span class='asgreek'>τῶν</span> <span class='asgreek'>πλανήτων</span> <span class='asgreek'>ἀστέρων</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 1.81, compare 1st c.BC: Geminus Astronomicus 1.20, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.76d, Theo Sm.p.148 H., 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 22, 2nd c.AD: Vettius Valens Astrologus 34.28, +others, “PPar.” 19 ">Refs 1st c.BC+</a>] <b>bis</b>[<a href="javascript:void(0)" title=" 11, 13 (3rd c.AD), 4th c.AD: Paulus Alexandrinus Astrologus “G.” 1, “Theologumena Arithmeticae” 15, “Catalogus Codicum Astrologorum” 8(4).241. ">Refs 3rd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>fixedness</b>, of steady light, opposed to flashing, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Mundo” 395b7. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <span class='asgreek'>ἐκπεσεῖν</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἰδίου</span> <span class='asgreek'>σ</span>. from your proper <b>firmness</b>, [<a href="javascript:void(0)" title=" NT.2Pet.3.17. ">NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> Rhet., <b>sustaining</b> of the voice on certain words or syllables, so as to give them force, <span class='asgreek'>αἱ</span> <span class='asgreek'>μακραὶ</span> <span class='asgreek'>συλλαβαί</span>, <span class='asgreek'>==στηριγμός==μούς</span> <span class='asgreek'>τινας</span> <span class='asgreek'>ἔχουσαι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐγκαθίσματα</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 20 ">Refs 1st c.BC+</a>]; <span class='asgreek'>==στηριγμός==μοὺς</span> <span class='asgreek'>ἔχειν</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἄλληλα</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ὀνόματα</span> mutual <b>support, buttressing</b>, [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 40.4">Refs 3rd c.AD+</a>]; compare <span class='asgreek'>ἀντι==στηριγμός==μός</span>.
+
+<small><sub>LSJ Scripture Refs: [[2Pet.3.17]]
+</sub></small>

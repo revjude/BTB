@@ -1,0 +1,12 @@
+<span class="asgreek">σκέπαρνον</span> <small>***(skeparnon)***</small> ==**a hammer**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==σκέπαρνον==</span>-<span class='asgreek'>ον</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ or <b><span class='asgreek'>==σκέπαρνον==ος</span></b>, <span class='asgreek'>ὁ</span> (the Homeric passages and [<a href="javascript:void(0)" title=" LXX.1Chr.20.3, LXX.Isa.44.12 ">LXX</a>], leave the gender uncertain, <i>masculine</i> in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 35, 5th c.BC: Sophocles Tragicus “Fragmenta” 797, “PCair.Zen.” 753.33 (3rd c.BC)">Refs 5th c.BC+</a>]; later mostly <i>neuter</i>, [<a href="javascript:void(0)" title=" “Periplus Maris Rubri [1st c.AD]” 6, “Anthologia Graeca” 6.205 (1st c.AD: Leonidas Alexandrinus Epigrammaticus), 2nd c.AD: Lucianus Sophista “JConf.” 11, 2nd c.AD(?): Pollianus Epigrammaticus 10.146, compare 9th c.AD: Photius Legal icographus, etc.)">Refs 1st c.AD+</a>]:— <b>carpenter's axe, adze</b>, for hewing and smoothing the trunks of trees, different from the <span class='asgreek'>πέλεκυς</span> (felling-axe or hatchet), [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 5.237, 9.391 ">Refs 8th c.BC+</a>]; <span class='asgreek'>ἀμφίξουν</span> [<a href="javascript:void(0)" title="“Anthologia Graeca” [prev. cited] ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> from a like ness in the shape, <b>a slightly oblique surgical bandage</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “κατ᾽ ἰητρεῖον” 7 (\_neuter\_): but \_masculine\_ in \_plural\_, [ἐπίδεσις] πλείστους σκεπάρνους ἔχουσα">Refs 5th c.BC+</a>] with many <b>oblique turns</b>, [<a href="javascript:void(0)" title=" [prev. author] “Art.” 35. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_III</b> used, as a sort of pun, of a <b>sheepskin</b>, as if <span class='asgreek'>σκέπ</span>-<span class='asgreek'>αρνον</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Dionysius Tragicus 12, cf. Scholia 2nd c.BC: Dionysius Thrax Grammaticus p.11 H., interpolated in 2nd c.AD: Artemidorus Daldianus Onirocriticus 4.22. [8th c.BC: Homerus Epicus does not lengthen a short vowel before σκ-, compare Σκάμανδρος.] ">Refs 8th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Chr.20.3]] ☩ [[Isa.44.12]]
+</sub></small>

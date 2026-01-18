@@ -1,0 +1,31 @@
+**Ezekiel 3:21** 
+<small><sub>**KJV:**</sub></small>
+Nevertheless if thou warn the righteous [man], that the righteous sin not, and he doth not sin, he shall surely live, because he is warned; also thou hast delivered thy soul.
+<small><sub>**BSB:**</sub></small>
+But if you warn the righteous man not to sin, and he does not sin, he will indeed live because he heeded your warning, and you will have saved yourself.”
+<small><sub>**Literal:**</sub></small>
+and  you if you have warned  him a righteous [person] to  not to sin a righteous [person] and  he not he has sinned certainly \<live> he will live for he has been warned and  you \<obj.> life  your you have delivered<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.20|<< Ezekiel 3:20]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.22|Ezekiel 3:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַתָּ֞ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>כִּ֧י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have warned him  | <span class="ashebrew"><big>הִזְהַרְתּ֣</big></span><small><sup>[[H2094B]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| hiz.har.T<small><sup>[[HVhp2ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a righteous [person]  | <span class="ashebrew"><big>צַדִּ֗יק</big></span><small><sup>[[H6662]]</sup></small> &#8207;| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to not  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בִלְתִּ֥י</big></span><small><sup>[[H1115]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> vil.Ti<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to sin  | <span class="ashebrew"><big>חֲטֹ֛א</big></span><small><sup>[[H2398]]</sup></small> &#8207;| cha.To'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a righteous [person]  | <span class="ashebrew"><big>צַדִּ֖יק</big></span><small><sup>[[H6662]]</sup></small> &#8207;| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ה֣וּא</big></span><small><sup>[[H1931]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has sinned  | <span class="ashebrew"><big>חָטָ֑א</big></span><small><sup>[[H2398]]</sup></small> &#8207;| cha.Ta'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| certainly \<live>  | <span class="ashebrew"><big>חָי֤וֹ</big></span><small><sup>[[H2421]]</sup></small> &#8207;| cha.Yo<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will live  | <span class="ashebrew"><big>יִֽחְיֶה֙</big></span><small><sup>[[H2421]]</sup></small> &#8207;| yich.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has been warned  | <span class="ashebrew"><big>נִזְהָ֔ר</big></span><small><sup>[[H2094B]]</sup></small> &#8207;| niz.Har<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַתָּ֖ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶֽת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life your  | <span class="ashebrew"><big>נַפְשְׁ</big></span><small><sup>[[H5315G]]</sup></small> <span class="ashebrew"><big>ךָ֥</big></span><small><sup>[[H9021]]</sup></small> &#8207;| naf.she.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have delivered  | <span class="ashebrew"><big>הִצַּֽלְתָּ</big></span><small><sup>[[H5337]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| hi.Tzal.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.20|<< Ezekiel 3:20]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.22|Ezekiel 3:22 >>]]</td></tr></table>
+
+

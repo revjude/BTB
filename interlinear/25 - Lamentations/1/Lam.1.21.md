@@ -1,0 +1,33 @@
+**Lamentations 1:21** 
+<small><sub>**KJV:**</sub></small>
+They have heard that I sigh: [there is] none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done [it]: thou wilt bring the day [that] thou hast called, and they shall be like unto me.
+<small><sub>**BSB:**</sub></small>
+People have heard my groaning, but there is no one to comfort me. All my enemies have heard of my trouble; they are glad that You have caused it. May You bring the day You have announced, so that they may become like me.
+<small><sub>**Literal:**</sub></small>
+they heard that [was] groaning I not a comforter [belonged] to  me all enemies  my they heard distress  my they rejoiced for you you have acted you have brought [the] day [which] you proclaimed and  they may be like  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.20|<< Lamentations 1:20]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.22|Lamentations 1:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| they heard  | <span class="ashebrew"><big>שָׁמְע֞וּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֧י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] groaning  | <span class="ashebrew"><big>נֶאֱנָחָ֣ה</big></span><small><sup>[[H0584]]</sup></small> &#8207;| ne.'e.na.Chah<small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אָ֗נִי</big></span><small><sup>[[H0589]]</sup></small> &#8207;| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>אֵ֤ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a comforter  | <span class="ashebrew"><big>מְנַחֵם֙</big></span><small><sup>[[H5162G]]</sup></small> &#8207;| me.na.Chem<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to me  | <span class="ashebrew"><big>לִ֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies my  | <span class="ashebrew"><big>אֹ֨יְבַ֜</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they heard  | <span class="ashebrew"><big>שָׁמְע֤וּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| distress my  | <span class="ashebrew"><big>רָֽעָתִ</big></span><small><sup>[[H7451C]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9020]]</sup></small> &#8207;| ra.'a.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they rejoiced  | <span class="ashebrew"><big>שָׂ֔שׂוּ</big></span><small><sup>[[H7797]]</sup></small> &#8207;| Sa.su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתָּ֖ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have acted  | <span class="ashebrew"><big>עָשִׂ֑יתָ</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Si.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have brought  | <span class="ashebrew"><big>הֵבֵ֥אתָ</big></span><small><sup>[[H0935P]]</sup></small> &#8207;| he.Ve.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] day  | <span class="ashebrew"><big>יוֹם</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| yom-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] you proclaimed  | <span class="ashebrew"><big>קָרָ֖אתָ</big></span><small><sup>[[H7121I]]</sup></small> &#8207;| ka.Ra.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they may be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יִֽהְי֥וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yih.Yu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like me  | <span class="ashebrew"><big>כָמֽוֹ</big></span><small><sup>[[H3644G]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| kha.Mo.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.20|<< Lamentations 1:20]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.22|Lamentations 1:22 >>]]</td></tr></table>
+
+

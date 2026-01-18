@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==εὐπρέπεια==</span>-<span class='asgreek'>εια</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>goodly appearance, comeliness</b>, <span class='asgreek'>εὐπρεπείᾳ</span> <span class='asgreek'>προέχειν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.31 ">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>ἀπρέπεια</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 274b, +others">Refs 5th c.BC+</a>]; <b>majesty</b>, <span class='asgreek'>εὐ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>δόξης</span> [<a href="javascript:void(0)" title=" LXX.Jer.23.9, cf. NT.Jas.1.11 ">LXX+NT</a>]; <b>dignity</b>, [<a href="javascript:void(0)" title=" “SIG” 880.19 (Pizus, 3rd c.AD)">Refs 3rd c.AD+</a>]; <span class='asgreek'>ἐστεφάνωσε</span> <span class='asgreek'>ἁ</span> <span class='asgreek'>πόλις</span>.. -<span class='asgreek'>είας</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>εὐνοίας</span> <span class='asgreek'>ἕνεκα</span> <span class='asgreek'>τᾶς</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>τὰν</span> <span class='asgreek'>πόλιν</span> [<a href="javascript:void(0)" title=" “IG” 4.1418 (Epid., 4th c.BC). ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>speciousness, plausibility</b>, <span class='asgreek'>εὐπρεπείᾳ</span> <span class='asgreek'>λόγου</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.11, 82; ἔχει.. ==εὐπρέπεια==ειαν μᾶλλον ἢ ἀλήθειαν 5th-6th c.BC: Plato Philosophus “Euthydemus” 305e ">Refs 5th c.BC+</a>]; <b>pretext</b>, with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pyrrhus” 23. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Jer.23.9]] ☩ [[Jas.1.11]]
+</sub></small>

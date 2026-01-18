@@ -1,0 +1,31 @@
+**2 Kings 23:10** 
+<small><sub>**KJV:**</sub></small>
+And he defiled Topheth, which [is] in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech.
+<small><sub>**BSB:**</sub></small>
+He also desecrated Topheth in the Valley of Ben-hinnom so that no one could sacrifice his son or daughter in the fire to Molech.
+<small><sub>**Literal:**</sub></small>
+and  he made unclean \<obj.> \<the>  Topheth which [was] in  [the] valley of Ben Hinnom to  not to  make pass anyone \<obj.> son  his and  \<obj.> daughter  his in the  fire to \<the>  Molech<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.9|<< 2 Kings 23:9]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.11|2 Kings 23:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he made unclean  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>טִמֵּ֣א</big></span><small><sup>[[H2930A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ti.Me'<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Topheth  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>תֹּ֔פֶת</big></span><small><sup>[[H8612]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> To.fet<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֖ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] in [the] valley of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גֵ֣י</big></span><small><sup>[[H1516Q]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Gei<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ben  [^1] | <span class="ashebrew"><big>בֶן</big></span><small><sup>[[H1121A]]</sup></small> &#8207;[^2] | ve.nei-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| Hinnom  | <span class="ashebrew"><big>הִנֹּ֑ם</big></span><small><sup>[[H2011H]]</sup></small> &#8207;| hi.Nom<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to not  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בִלְתִּ֗י</big></span><small><sup>[[H1115]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> vil.Ti<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to make pass  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הַעֲבִ֨יר</big></span><small><sup>[[H5674A]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.'a.Vir<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  | <span class="ashebrew"><big>אִ֜ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  | <span class="ashebrew"><big>בְּנ֧</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| daughter his  | <span class="ashebrew"><big>בִּתּ֛</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| bi.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the fire  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֵ֖שׁ</big></span><small><sup>[[H0784]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> Molech  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֹּֽלֶךְ</big></span><small><sup>[[H4432]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Mo.lekh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.9|<< 2 Kings 23:9]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.11|2 Kings 23:11 >>]]</td></tr></table>
+
+[^1]: ==K==: **[the] sons of ** | <small><sup>[[H1121A]]</sup></small><span class="ashebrew"><big>בְנֵי</big></span>  | ve.nei-<small><sup>[[HNcmpc]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>בֶני\־</big></span>**
+

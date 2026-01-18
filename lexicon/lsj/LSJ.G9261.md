@@ -1,0 +1,9 @@
+<span class="asgreek">συμβουλία</span> <small>***(sumboulia)***</small> ==**advice**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==συμβουλία==</span>-<span class='asgreek'>ία</span></b>, 
+
+
+ <i>Ionic dialect</i> -<span class='asgreek'>ιη</span>, <span class='asgreek'>ἡ</span>, <b>advice</b> or <b>counsel given</b>, especially in public affairs, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.125, 4.97, +others, 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.3.4, “Cyr.” 1.6.2 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>Περιάνδρου</span> <span class='asgreek'>Θρασυβούλῳ</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1284a27 ">Refs 4th c.BC+</a>]; <b>advice</b> of an oracle, <span class='asgreek'>ἡ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Ἀπόλλωνος</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" “SIG” 633.19 (Milet., 2nd c.BC), compare 590.14 ([prev. passage], 2nd c.BC)">Refs 2nd c.BC+</a>]: <i>plural</i>, <b>counsels</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.6.2, 4th c.BC: Demosthenes Orator 19.5, etc. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>counsel, consultation</b>, <span class='asgreek'>λαβεῖν</span> <span class='asgreek'>τινα</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus “Μονόστιχοι - Fragmenta Comicorum Graecorum” 355. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>prescription, recipe</b> for a charm, [<a href="javascript:void(0)" title=" 1st c.AD: Cyranus 16. ">Refs 1st c.AD+</a>]

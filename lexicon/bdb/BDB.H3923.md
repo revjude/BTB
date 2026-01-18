@@ -1,0 +1,14 @@
+ <span class="bdbLangHebrew">‎לָכִישׁ‎</span> **proper name, of a location** — so [[Josh.10.3|Josh 10:3]] +; with <span class="bdbLangHebrew">‎ה‎</span> locative <span class="bdbLangHebrew">‎לֶכִ֫ישָׁה‎</span> [[Josh.10.31|Josh 10:31]] + 5 t.; — ==Canaanitish (Amorite) city==, with king, [[Josh.10.3|Josh 10:3]]; [[Josh.10.5|Josh 10:5]]; [[Josh.10.23|Josh 10:23]] (all [[BDB#J|J]] [[BDB#E|E]]), v[[Josh.10.31|Josh 10:31]]; [[Josh.12.11|Josh 12:11]] (both [[BDB#D|D]]); (= Tel el-Amarna <abbr title="transliteration"><u>***Lakiša, Lakisi***</u></abbr> [[BDB#Wkl|Wkl]]<sup>TA Tablets, Nos. 217, 218, 180, 181</sup>); captured by [[Josh.10.32|Josh 10:32]]; [[Josh.10.33|Josh 10:33]]; [[Josh.10.34|Josh 10:34]]; [[Josh.10.35|Josh 10:35]] (all [[BDB#D|D]]); reckoned to Judah [[Mic.1.13|Mic 1:13]]; [[Jer.34.7|Jer 34:7]]; [[Josh.15.39|Josh 15:39]] ([[BDB#P|P]]), compare [[2Kgs.14.19|2Kgs 14:19]] (twice in verse) = [[2Chr.25.27|2Chr 25:27]] (twice in verse), [[2Chr.11.9|2Chr 11:9]]; [[Neh.11.30|Neh 11:30]] base of Assyrian operations [[2Kgs.18.14|2Kgs 18:14]], compare [[2Chr.32.9|2Chr 32:9]], also [[2Kgs.18.17|2Kgs 18:17]]; [[2Kgs.19.8|2Kgs 19:8]] = [[Isa.36.2|Isa 36:2]]; [[Isa.37.8|Isa 37:8]] ( = Assyrian <abbr title="transliteration"><u>***Lakisi***</u></abbr> [[BDB#Schr|Schr]]<sup>COT</sup> [[2Kgs.18.13|2Kgs 18:13]]); probably = modern ***Tell el-Hesy***, approximately 33 miles southwest from Jerusalem [[BDB#FJB|FJB]]<sup>Mound of Many Cities, 1893</sup> [[BDB#Buhl|Buhl]]<sup>Geogr. § 103</sup> [[BDB#GASm|GASm]]<sup>Geogr. 234</sup>; &gt; <abbr title="transliteration"><u>***Umm el-Lâkis***</u></abbr> [[BDB#vdVelde|vd Velde]]<sup>Mem. 320</sup> [[BDB#Guérin|Guérin]]<sup>Judeé; ii. 299 ff.</sup>; <abbr title="transliteration"><u>***Um Lâkis***</u></abbr> opposed to by [[BDB#Rob|Rob]]<sup>BR ii. 47.</sup> — [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Λαχεις</span>. <span class="bdbLangHebrew">‎לָכֵן‎</span> **see** <span class="bdbLangHebrew">‎כֵּן‎</span>. <span class="bdbLangHebrew">‎לֻלָאוֺת‎</span> see [ <span class="bdbLangHebrew">‎לוּלַי‎</span>] below <span class="bdbLangHebrew">‎לולו‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Joshua | [[Josh.10.3\|10:3]] · [[Josh.10.5\|10:5]] · [[Josh.10.23\|10:23]] · [[Josh.10.31\|10:31]] · [[Josh.10.32\|10:32]] · [[Josh.10.33\|10:33]] · [[Josh.10.34\|10:34]] · [[Josh.10.35\|10:35]] · [[Josh.12.11\|12:11]] · [[Josh.15.39\|15:39]] |
+| 2 Kings | [[2Kgs.14.19\|14:19]] · [[2Kgs.18.13\|18:13]] · [[2Kgs.18.14\|18:14]] · [[2Kgs.18.17\|18:17]] · [[2Kgs.19.8\|19:8]] |
+| 2 Chronicles | [[2Chr.11.9\|11:9]] · [[2Chr.25.27\|25:27]] · [[2Chr.32.9\|32:9]] |
+| Nehemiah | [[Neh.11.30\|11:30]] |
+| Isaiah | [[Isa.36.2\|36:2]] · [[Isa.37.8\|37:8]] |
+| Jeremiah | [[Jer.34.7\|34:7]] |
+| Micah | [[Mic.1.13\|1:13]] |
+

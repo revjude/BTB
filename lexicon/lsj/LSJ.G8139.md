@@ -1,0 +1,10 @@
+<span class="asgreek">κώθων</span> <small>***(kōthōn)***</small> ==**toasting**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==κώθων==</span></b>, <span class='asgreek'>ωνος</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>Laconian drinking-vessel</b>, used by soldiers, [<a href="javascript:void(0)" title=" 7th c.BC: Archilochus Lyricus 4, 5th-6th c.BC: Aristophanes Comicus “Equites” 600, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.2.8, 5th c.BC: Critias Philosophus, Tragicus, Elegiacus 34 4th c.BC: Demosthenes Orator, “IG” 22.47.6, etc.; κ. στρεψαύχην 5th c.BC: Theopompus Comicus 54; πυριγενής 4th c.AD: Heniochus Comicus 1; φαεινός 5th-6th c.BC: Aristophanes Comicus “Pax” 1094 (parody)">Refs 7th c.BC+</a>]; of earthenware or metal, [<a href="javascript:void(0)" title=" “IG” 42(1).121.79, +others (Epid.), 2nd c.AD: Athenaeus Epigrammaticus 11.483b, c: κ. χαλκοῖ “IG” 12.313.55, +others, compare 22.1425.393. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>drinking bout, carousal</b>, <span class='asgreek'>εἰσῆλθεν</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>==κώθων==α</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>βασιλέα</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Macho Comicus cited in 2nd c.AD: Athenaeus Epigrammaticus 13.583b, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Antonius” 4, etc.">Refs 3rd c.BC+</a>]; <b>religious banquet</b>, [<a href="javascript:void(0)" title=" “BCH” 51.220 (from Thasos). ">Refs</a>]
+$\quad$ $\quad$<b>\_\_III</b> Sicel, ={<span class='asgreek'>κῶθος</span>}, [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “fragment” 141, 2nd c.AD: Apollodorus Damascenus Mechanicus cited in 2nd c.AD: Athenaeus Epigrammaticus 7.309c. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_IV</b> the inner harbour at Carthage, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 17.3.15, 2nd c.AD: Appianus Historicus “Αιβυκή” 127. ">Refs 1st c.BC+</a>]

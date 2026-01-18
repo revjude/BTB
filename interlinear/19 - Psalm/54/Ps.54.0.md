@@ -1,0 +1,25 @@
+**Psalms 54:0** (54:1)
+<small><sub>**KJV:**</sub></small>
+To the chief Musician on Neginoth, Maschil, [A Psalm] of David, when the Ziphims came and said to Saul, Doth not David hide himself with us? Save me, O God, by thy name, and judge me by thy strength.
+<small><sub>**BSB:**</sub></small>
+For the choirmaster. With stringed instruments. A Maskil of David. When the Ziphites went to Saul and said, “Is David not hiding among us?” Save me, O God, by Your name, and vindicate me by Your might!
+<small><sub>**Literal:**</sub></small>
+to the  choirmaster with  stringed instruments a poem of  David when  came the  Ziphites and  they said to  Saul ¿  not [is] David hiding himself with  us<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.53.6|<< Psalms 53:6]]</td><td align="center" style="border:none;">[[Ps.54|Psalms 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.54.1|Psalms 54:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to the choirmaster  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מְנַצֵּ֥חַ</big></span><small><sup>[[H5329]]</sup></small> &#8207;| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with stringed instruments  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נְגִינֹ֗ת</big></span><small><sup>[[H5058]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> n.gi.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a poem  | <span class="ashebrew"><big>מַשְׂכִּ֥יל</big></span><small><sup>[[H4905]]</sup></small> &#8207;| mas.Kil<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of David  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָוִֽד</big></span><small><sup>[[H1732]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when came  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ב֣וֹא</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Ziphites  | <span class="ashebrew"><big>הַ֭</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>זִּיפִים</big></span><small><sup>[[H2130]]</sup></small> &#8207;| Ha.<small><sup>[[HTd]]</sup></small> zi.fim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּאמְר֣וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Saul  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שָׁא֑וּל</big></span><small><sup>[[H7586G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] David  | <span class="ashebrew"><big>דָ֝וִ֗ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hiding himself  | <span class="ashebrew"><big>מִסְתַּתֵּ֥ר</big></span><small><sup>[[H5641]]</sup></small> &#8207;| mis.ta.Ter<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with us  | <span class="ashebrew"><big>עִמָּֽ</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'i.Ma.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.53.6|<< Psalms 53:6]]</td><td align="center" style="border:none;">[[Ps.54|Psalms 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.54.1|Psalms 54:1 >>]]</td></tr></table>
+
+

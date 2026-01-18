@@ -1,0 +1,28 @@
+**Isaiah 39:8** 
+<small><sub>**KJV:**</sub></small>
+Then said Hezekiah to Isaiah, Good [is] the word of the LORD which thou hast spoken. He said moreover, For there shall be peace and truth in my days.
+<small><sub>**BSB:**</sub></small>
+But Hezekiah said to Isaiah, “The word of the LORD that you have spoken is good.” For he thought, “At least there will be peace and security in my lifetime.”
+<small><sub>**Literal:**</sub></small>
+and  he said Hezekiah to Isaiah [is] good [the] word of Yahweh which you have spoken and  he said that it will be peace and  stability in  days  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.39.7|<< Isaiah 39:7]]</td><td align="center" style="border:none;">[[Isa.39|Isaiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.1|Isaiah 40:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֤אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hezekiah  | <span class="ashebrew"><big>חִזְקִיָּ֙הוּ֙</big></span><small><sup>[[H2396G]]</sup></small> &#8207;| chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶֽל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Isaiah  | <span class="ashebrew"><big>יְשַׁעְיָ֔הוּ</big></span><small><sup>[[H3470A]]</sup></small> &#8207;| ye.sha'.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] good  | <span class="ashebrew"><big>ט֥וֹב</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  | <span class="ashebrew"><big>דְּבַר</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֖ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have spoken  | <span class="ashebrew"><big>דִּבַּ֑רְתָּ</big></span><small><sup>[[H1696G]]</sup></small> &#8207;| di.Bar.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֕אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>כִּ֥י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  | <span class="ashebrew"><big>יִהְיֶ֛ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace  | <span class="ashebrew"><big>שָׁל֥וֹם</big></span><small><sup>[[H7965G]]</sup></small> &#8207;| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and stability  | <span class="ashebrew"><big>וֶ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֱמֶ֖ת</big></span><small><sup>[[H0571I]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in days my  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יָמָֽ</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> ya.Ma<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.39.7|<< Isaiah 39:7]]</td><td align="center" style="border:none;">[[Isa.39|Isaiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.1|Isaiah 40:1 >>]]</td></tr></table>
+
+

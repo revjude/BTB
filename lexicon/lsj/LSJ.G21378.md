@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==ἀνθαιρέομαι==</span>-<span class='asgreek'>έομαι</span></b>, 
+
+
+&nbsp;&nbsp;<b>choose</b> one person or thing <b>instead of</b> another, <span class='asgreek'>τὸ</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>εὐσεβὲς</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>δυσσεβείας</span> <span class='asgreek'>ἀνθελοῦ</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Cyclops” 311; ἄλλους ἀ. ἀντὶ τούτων “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2715.11 (from Stratonicea)">Refs 5th c.BC+</a>]; <span class='asgreek'>στρατηγοὺς</span> <span class='asgreek'>ἔπαυσαν</span>.. <span class='asgreek'>καὶ</span> <span class='asgreek'>ἄλλους</span> <span class='asgreek'>ἀνθείλοντο</span>[<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.103, compare 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 6.2.13, 5th-6th c.BC: Plato Philosophus “Leges” 765d; τὰν εὔδοξον ἀ. φήμαν ">Refs 5th c.BC+</a>]<b>prefer, choose rather,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hippolytus” 773 (Lyric poetry). ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>dispute, lay claim to,</b> <span class='asgreek'>οὐδεὶς</span> <span class='asgreek'>στέφανον</span> <span class='asgreek'>==ἀνθαιρέομαι==ήσεται</span>[<a href="javascript:void(0)" title=" [prev. author] “Hec.” 660.">Refs</a>]

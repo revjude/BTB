@@ -1,0 +1,28 @@
+**Zechariah 4:7** 
+<small><sub>**KJV:**</sub></small>
+Who [art] thou, O great mountain? before Zerubbabel [thou shalt become] a plain: and he shall bring forth the headstone [thereof with] shoutings, [crying], Grace, grace unto it.
+<small><sub>**BSB:**</sub></small>
+What are you, O great mountain? Before Zerubbabel you will become a plain. Then he will bring forth the capstone accompanied by shouts of ‘Grace, grace to it!’”
+<small><sub>**Literal:**</sub></small>
+who? [are] you O mountain \<the>  great \<to>  before Zerubbabel \<into>  level ground and  he will bring forth \<obj.> the  stone \<the>  top shouting\<s> grace grace to  it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.6|<< Zechariah 4:6]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.8|Zechariah 4:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| who?  | <span class="ashebrew"><big>מִֽי</big></span><small><sup>[[H4310]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] you  | <span class="ashebrew"><big>אַתָּ֧ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O mountain  | <span class="ashebrew"><big>הַֽר</big></span><small><sup>[[H2022G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| har-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> great  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גָּד֛וֹל</big></span><small><sup>[[H1419A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֥י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zerubbabel  | <span class="ashebrew"><big>זְרֻבָּבֶ֖ל</big></span><small><sup>[[H2216]]</sup></small> &#8207;| ze.ru.ba.Vel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> level ground  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מִישֹׁ֑ר</big></span><small><sup>[[H4334]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mi.Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will bring forth  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הוֹצִיא֙</big></span><small><sup>[[H3318H]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ho.Tzi'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the stone  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֶ֣בֶן</big></span><small><sup>[[H0068G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> top  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רֹאשָׁ֔ה</big></span><small><sup>[[H7222]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ro.Shah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shouting\<s>  | <span class="ashebrew"><big>תְּשֻׁא֕וֹת</big></span><small><sup>[[H8663]]</sup></small> &#8207;| te.shu.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grace  | <span class="ashebrew"><big>חֵ֥ן</big></span><small><sup>[[H2580]]</sup></small> &#8207;| chen<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grace  | <span class="ashebrew"><big>חֵ֖ן</big></span><small><sup>[[H2580]]</sup></small> &#8207;| chen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to it  | <span class="ashebrew"><big>לָֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| La<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.6|<< Zechariah 4:6]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.8|Zechariah 4:8 >>]]</td></tr></table>
+
+

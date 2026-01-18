@@ -1,0 +1,36 @@
+**Daniel 6:22** (6:23)
+<small><sub>**KJV:**</sub></small>
+My God hath sent his angel, and hath shut the lions’ mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.
+<small><sub>**BSB:**</sub></small>
+My God sent His angel and shut the mouths of the lions. They have not hurt me, for I was found innocent in His sight, and I have done no wrong against you, O king.”
+<small><sub>**Literal:**</sub></small>
+God  my he sent angel  his and  he closed [the] mouth of lions  the and  not they harmed  me as  to because that before  him innocence it was found to  me and  also before  you king  O a hurtful act not I have done<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.21|<< Daniel 6:21]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.23|Daniel 6:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| God my  | <span class="ashebrew"><big>אֱלָהִ֞</big></span><small><sup>[[H0426]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'e.la.H<small><sup>[[ANcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he sent  | <span class="asaramaic"><big>שְׁלַ֣ח</big></span><small><sup>[[H7972]]</sup></small> &#8207;| she.Lach<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| angel his  | <span class="asaramaic"><big>מַלְאֲכֵ֗</big></span><small><sup>[[H4398]]</sup></small> <span class="asaramaic"><big>הּ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| mal.'a.Khe<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he closed  | <span class="asaramaic"><big>וּֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>סֲגַ֛ר</big></span><small><sup>[[H5463]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> sa.Gar<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mouth of  | <span class="asaramaic"><big>פֻּ֥ם</big></span><small><sup>[[H6433]]</sup></small> &#8207;| pum<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lions the  | <span class="asaramaic"><big>אַרְיָוָתָ֖</big></span><small><sup>[[H0744]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| 'ar.ya.va.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>לָ֣א</big></span><small><sup>[[H3809]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> La'<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they harmed me  | <span class="asaramaic"><big>חַבְּל֑וּ</big></span><small><sup>[[H2255]]</sup></small> <span class="asaramaic"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| cha.be.Lu.<small><sup>[[AVpp3mp]]</sup></small> ni<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as to  | <span class="ashebrew"><big>כָּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>ל</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ko<small><sup>[[AR]]</sup></small> l-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  | <span class="asaramaic"><big>קֳבֵ֗ל</big></span><small><sup>[[H6903H]]</sup></small> &#8207;| ko.Vel<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="asaramaic"><big>דִּ֤י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before him  | <span class="asaramaic"><big>קָֽדָמ֙וֹ</big></span><small><sup>[[H6925]]</sup></small> <span class="asaramaic"><big>הִי֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ka.da.Mo.<small><sup>[[ANcmpc]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| innocence  | <span class="asaramaic"><big>זָכוּ֙</big></span><small><sup>[[H2136]]</sup></small> &#8207;| za.Khu<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was found  | <span class="asaramaic"><big>הִשְׁתְּכַ֣חַת</big></span><small><sup>[[H7912]]</sup></small> &#8207;| hish.te.Kha.chat<small><sup>[[AVup3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>לִ֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| L<small><sup>[[AR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and also  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>אַ֤ף</big></span><small><sup>[[H0638]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> 'Af<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before you  | <span class="asaramaic"><big>קָֽדָמָ</big></span><small><sup>[[H6925]]</sup></small> <span class="asaramaic"><big>ךְ֙</big></span><small><sup>[[H9031]]</sup></small> &#8207;[^1] [^2] | ka.da.ma.yi<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| king O  | <span class="asaramaic"><big>מַלְכָּ֔</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a hurtful act  | <span class="asaramaic"><big>חֲבוּלָ֖ה</big></span><small><sup>[[H2248]]</sup></small> &#8207;| cha.vu.Lah<small><sup>[[ANcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="asaramaic"><big>לָ֥א</big></span><small><sup>[[H3809]]</sup></small> &#8207;| la'<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have done  | <span class="asaramaic"><big>עַבְדֵֽת</big></span><small><sup>[[H5648]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'av.Det<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.21|<< Daniel 6:21]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.23|Daniel 6:23 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="asaramaic"><big>קָֽדָמָיךְ֙</big></span>**
+[^2]: ==K== spelled: **<span class="asaramaic"><big>קָדָמַיִךְ</big></span>**
+

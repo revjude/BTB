@@ -1,0 +1,24 @@
+**Psalms 44:1** (44:2)
+<small><sub>**KJV:**</sub></small>
+To the chief Musician for the sons of Korah, Maschil. We have heard with our ears, O God, our fathers have told us, [what] work thou didst in their days, in the times of old.
+<small><sub>**BSB:**</sub></small>
+For the choirmaster. A Maskil of the sons of Korah. We have heard with our ears, O God; our fathers have told us the work You did in their days, in the days of old.
+<small><sub>**Literal:**</sub></small>
+O God with  ears  our we have heard ancestors  our they have recounted to  us [the] deed[s] [which] you did in  days  their in  days of antiquity<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.0|<< Psalms 44:0]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.2|Psalms 44:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| O God  | <span class="ashebrew"><big>אֱלֹהִ֤ים</big></span><small><sup>[[H0430G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with ears our  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָזְנֵ֬י</big></span><small><sup>[[H0241G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'a.ze.Nei.<small><sup>[[HNcfdc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we have heard  | <span class="ashebrew"><big>שָׁמַ֗עְנוּ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| sha.Ma'.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors our  | <span class="ashebrew"><big>אֲבוֹתֵ֥י</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| 'a.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have recounted  | <span class="ashebrew"><big>סִפְּרוּ</big></span><small><sup>[[H5608A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| si.pe.ru-<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to us  | <span class="ashebrew"><big>לָ֑</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9035]]</sup></small> &#8207;| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] deed[s]  | <span class="ashebrew"><big>פֹּ֥עַל</big></span><small><sup>[[H6467]]</sup></small> &#8207;| Po.'al<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] you did  | <span class="ashebrew"><big>פָּעַ֥לְתָּ</big></span><small><sup>[[H6466]]</sup></small> &#8207;| pa.'Al.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in days their  | <span class="ashebrew"><big>בִֽ֝</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ימֵי</big></span><small><sup>[[H3117G]]</sup></small> <span class="ashebrew"><big>הֶ֗ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| vi.<small><sup>[[HR]]</sup></small> mei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in days of  | <span class="ashebrew"><big>בִּ֣</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ימֵי</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| Bi.<small><sup>[[HR]]</sup></small> mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| antiquity  | <span class="ashebrew"><big>קֶֽדֶם</big></span><small><sup>[[H6924H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.0|<< Psalms 44:0]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.2|Psalms 44:2 >>]]</td></tr></table>
+
+

@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==στρέβλη==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>στρεβλός</span>) <b>winch</b> used in ship-building, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 441 (\_plural\_ = τὰ ξύλα τῶν νεῶν ἐν οἷς διασφηνοῦνται γομφούμενα (sic, perhaps -μεναι), 5th c.AD(?): Hesychius Legal icographus). ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in <i>plural</i>, the <b>twisted cords</b> in a mechanical toy, the untwisting of which releases the motive power, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Motu Animalium” 701b3, 9. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>clothes-press</b>, probably worked by a screw, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.950a. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> part of a filter, <span class='asgreek'>τὸν</span> <span class='asgreek'>τρυγώδη</span> <span class='asgreek'>διὰ</span> <span class='asgreek'>σάκκου</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>==στρέβλη==ς</span> <span class='asgreek'>ἠθεῖν</span> <span class='asgreek'>οἶνον</span> [<a href="javascript:void(0)" title=" 9th c.AD: Photius Legal icographus, etc. see at {σακίζειν}. ">Refs 9th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>an instrument of torture</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 18.54.7, LXX.4Mac.7.4, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 19.1.6, 2nd c.AD: Lucianus Sophista “Nec.” 14, etc. ">LXX+2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>torture</b>, <span class='asgreek'>λύπας</span>, <span class='asgreek'>μερίμνας</span>, <span class='asgreek'>ἁρπαγάς</span>, <span class='asgreek'>στρέβλας</span>, <span class='asgreek'>νόσους</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Diphilus Comicus 88, compare “PTeb.” 789.15 (2nd c.BC), 1st c.BC: Diodorus Siculus Historicus 13.86 (\_plural\_), 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.234 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]; <span class='asgreek'>ζημίαι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title="[prev. work]2.152 5th c.BC: Sophocles Tragicus (\_plural\_). ">Refs 5th c.BC+</a>]

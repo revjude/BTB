@@ -1,0 +1,28 @@
+**Isaiah 21:2** 
+<small><sub>**KJV:**</sub></small>
+A grievous vision is declared unto me; the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease.
+<small><sub>**BSB:**</sub></small>
+A dire vision is declared to me: “The traitor still betrays, and the destroyer still destroys. Go up, O Elam! Lay siege, O Media! I will put an end to all her groaning.”
+<small><sub>**Literal:**</sub></small>
+a vision severe it has been told to  me the  traitor [is] acting treacherously and  the  destroyer [is] destroying go up O Elam lay siege O Media all groaning  its I will cause to cease<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.1|<< Isaiah 21:1]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.3|Isaiah 21:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| a vision  | <span class="ashebrew"><big>חָז֥וּת</big></span><small><sup>[[H2380]]</sup></small> &#8207;| cha.Zut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| severe  | <span class="ashebrew"><big>קָשָׁ֖ה</big></span><small><sup>[[H7186]]</sup></small> &#8207;| ka.Shah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been told  | <span class="ashebrew"><big>הֻגַּד</big></span><small><sup>[[H5046]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| hu.gad-<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>לִ֑</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the traitor  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בּוֹגֵ֤ד</big></span><small><sup>[[H0898]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> bo.Ged<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] acting treacherously  | <span class="ashebrew"><big>בּוֹגֵד֙</big></span><small><sup>[[H0898]]</sup></small> &#8207;| bo.Ged<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the destroyer  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שּׁוֹדֵ֣ד</big></span><small><sup>[[H7703]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sho.Ded<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] destroying  | <span class="ashebrew"><big>שׁוֹדֵ֔ד</big></span><small><sup>[[H7703]]</sup></small> &#8207;| sho.Ded<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go up  | <span class="ashebrew"><big>עֲלִ֤י</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| 'a.Li<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Elam  | <span class="ashebrew"><big>עֵילָם֙</big></span><small><sup>[[H5867A]]</sup></small> &#8207;| 'ei.Lam<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lay siege  | <span class="ashebrew"><big>צוּרִ֣י</big></span><small><sup>[[H6696A]]</sup></small> &#8207;| tzu.Ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Media  | <span class="ashebrew"><big>מָדַ֔י</big></span><small><sup>[[H4074H]]</sup></small> &#8207;| ma.Dai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| groaning its  | <span class="ashebrew"><big>אַנְחָתָ֖</big></span><small><sup>[[H0585]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9024]]</sup></small> &#8207;| 'an.cha.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will cause to cease  | <span class="ashebrew"><big>הִשְׁבַּֽתִּי</big></span><small><sup>[[H7673A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hish.Ba.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.1|<< Isaiah 21:1]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.3|Isaiah 21:3 >>]]</td></tr></table>
+
+

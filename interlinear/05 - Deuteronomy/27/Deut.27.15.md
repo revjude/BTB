@@ -1,0 +1,31 @@
+**Deuteronomy 27:15** 
+<small><sub>**KJV:**</sub></small>
+Cursed [be] the man that maketh [any] graven or molten image, an abomination unto the LORD, the work of the hands of the craftsman, and putteth [it] in [a] secret [place]. And all the people shall answer and say, Amen.
+<small><sub>**BSB:**</sub></small>
+‘Cursed is the man who makes a carved idol or molten image—an abomination to the LORD, the work of the hands of a craftsman—and sets it up in secret.’ And let all the people say, ‘Amen!’
+<small><sub>**Literal:**</sub></small>
+[is] cursed the  person who he will make an image and  a molten image \<the> abomination of Yahweh [the] work of [the] hands of a craftsman and  he will set [it] up in \<the>  secrecy and  they will answer all the  people and  they will say amen<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.14|<< Deuteronomy 27:14]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.16|Deuteronomy 27:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [is] cursed  | <span class="ashebrew"><big>אָר֣וּר</big></span><small><sup>[[H0779]]</sup></small> &#8207;| 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the person  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אִ֡ישׁ</big></span><small><sup>[[H0376G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will make  | <span class="ashebrew"><big>יַעֲשֶׂה֩</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an image  | <span class="ashebrew"><big>פֶ֨סֶל</big></span><small><sup>[[H6459]]</sup></small> &#8207;| Fe.sel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a molten image  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מַסֵּכָ֜ה</big></span><small><sup>[[H4541A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ma.se.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> abomination of  | <span class="ashebrew"><big>תּוֹעֲבַ֣ת</big></span><small><sup>[[H8441]]</sup></small> &#8207;| to.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] work of  | <span class="ashebrew"><big>מַעֲשֵׂ֛ה</big></span><small><sup>[[H4639G]]</sup></small> &#8207;| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hands of  | <span class="ashebrew"><big>יְדֵ֥י</big></span><small><sup>[[H3027G]]</sup></small> &#8207;| ye.Dei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a craftsman  | <span class="ashebrew"><big>חָרָ֖שׁ</big></span><small><sup>[[H2796]]</sup></small> &#8207;| cha.Rash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will set [it] up  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׂ֣ם</big></span><small><sup>[[H7760A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> Sam<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> secrecy  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>סָּ֑תֶר</big></span><small><sup>[[H5643A]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Sa.ter<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will answer  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>עָנ֧וּ</big></span><small><sup>[[H6030B]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָ֛ם</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will say  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אָמְר֖וּ</big></span><small><sup>[[H0559]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| amen  | <span class="ashebrew"><big>אָמֵֽן</big></span><small><sup>[[H0543]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'a.Men<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.14|<< Deuteronomy 27:14]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.16|Deuteronomy 27:16 >>]]</td></tr></table>
+
+

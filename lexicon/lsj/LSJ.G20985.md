@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==πολυπειρία==</span>-<span class='asgreek'>πειρία</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>great experience,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.71, 5th-6th c.BC: Plato Philosophus “Leges” 811a, LXX.Wis.8.8, 1st c.BC: Diodorus Siculus Historicus 5.1, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Solon” 2. ">LXX+5th c.BC+</a>]
+

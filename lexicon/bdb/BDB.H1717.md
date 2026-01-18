@@ -1,0 +1,9 @@
+ [<span class="bdbLangHebrew">‎דַּד‎</span>] **noun masculine**<sup>[[Prov.5.19|Prov 5:19]]</sup> ==breast==, better ==teat, nipple== (<span class="bdbLangGreek">τιτθοί</span> [[BDB#Aq|Aq]] [[Prov.5.19|Prov 5:19]] [[BDB#Symm|Symm]] [[Ezek.23.3|Ezek 23:3]]; [[Ezek.23.21|Ezek 23:21]] Late Hebrew &amp; Aramaic <span class="bdbLangAramaic">‎דַּד‎</span>; primitive caressing word; according to [[BDB#Fl|Fl]] in [[BDB#Levy|NHWB]]<sup>i. 489</sup>) — [[BDB#Du|Du]]. construct <span class="bdbLangHebrew">‎דַּדֵּי‎</span> [[Ezek.23.3|Ezek 23:3]]; [[Ezek.23.8|Ezek 23:8]]) both strike out [[BDB#Sept|ᵐ5]] [[BDB#Syr|ᵑ6]] [[BDB#Co|Co]]); suffix <span class="bdbLangHebrew">‎דַּדַּיִךְ‎</span> [[Ezek.23.21|Ezek 23:21]] (read <span class="bdbLangHebrew">‎בתוליך‎</span> [[BDB#Syr|ᵑ6]] [[BDB#Co|Co]]); <span class="bdbLangHebrew">‎דַּדֶּיהָ‎</span> [[Prov.5.19|Prov 5:19]] — of breasts of woman [[Prov.5.19|Prov 5:19]] ([[BDB#Hi|Hi]] [[BDB#Bi|Bi]] read <span class="bdbLangHebrew">‎דֹּדֶיהָ‎</span> ***her love*** compare [[Prov.7.18|Prov 7:18]]); of Samaria &amp; Jerusalem under figure of young women [[Ezek.23.3|Ezek 23:3]] (<span class="bdbLangHebrew">‎דַּדֵּי בְּתוּלֵיהֶן‎</span>) compare v[[Ezek.23.8|Ezek 23:8]] <span class="bdbLangHebrew">‎דַּדַּיִךְ‎</span> v[[Ezek.23.21|Ezek 23:21]] but probably strike out <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ד‎</span> in Ezekiel compare above &amp; [[BDB#Gei|Gei]]<sup>Urachrift 397</sup>. — See also <span class="bdbLangHebrew">‎שַׁד‎</span> below <span class="bdbLangHebrew">‎שׁדה‎</span>. <span class="bdbLangHebrew">‎דֹּד‎</span>, <span class="bdbLangHebrew">‎דֹּדָה‎</span> see below <span class="bdbLangHebrew">‎דוד‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Proverbs | [[Prov.5.19\|5:19]] · [[Prov.7.18\|7:18]] |
+| Ezekiel | [[Ezek.23.3\|23:3]] · [[Ezek.23.8\|23:8]] · [[Ezek.23.21\|23:21]] |
+

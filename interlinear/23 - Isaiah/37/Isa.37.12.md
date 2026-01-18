@@ -1,0 +1,29 @@
+**Isaiah 37:12** 
+<small><sub>**KJV:**</sub></small>
+Have the gods of the nations delivered them which my fathers have destroyed, [as] Gozan, and Haran, and Rezeph, and the children of Eden which [were] in Telassar?
+<small><sub>**BSB:**</sub></small>
+Did the gods of the nations destroyed by my fathers rescue those nations—the gods of Gozan, Haran, and Rezeph, and of the people of Eden in Telassar?
+<small><sub>**Literal:**</sub></small>
+¿  did they deliver \<obj.>  them [the] gods of the  nations which they destroyed ancestors  my \<obj.> Gozan and  \<obj.> Haran and  Rezeph and  [the] people of Eden who [were] in  Telassar<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.11|<< Isaiah 37:11]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.13|Isaiah 37:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| ¿ did they deliver  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>הִצִּ֨ילוּ</big></span><small><sup>[[H5337]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> hi.Tzi.lu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  | <span class="ashebrew"><big>אוֹתָ֜</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  | <span class="ashebrew"><big>אֱלֹהֵ֤י</big></span><small><sup>[[H0430J]]</sup></small> &#8207;| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the nations  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גּוֹיִם֙</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they destroyed  | <span class="ashebrew"><big>הִשְׁחִ֣יתוּ</big></span><small><sup>[[H7843]]</sup></small> &#8207;| hish.Chi.tu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors my  | <span class="ashebrew"><big>אֲבוֹתַ֔</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gozan  | <span class="ashebrew"><big>גּוֹזָ֖ן</big></span><small><sup>[[H1470]]</sup></small> &#8207;| go.Zan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Haran  | <span class="ashebrew"><big>חָרָ֑ן</big></span><small><sup>[[H2771A]]</sup></small> &#8207;| cha.Ran<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Rezeph  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רֶ֥צֶף</big></span><small><sup>[[H7530]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Re.tzef<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] people of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵי</big></span><small><sup>[[H1121G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eden  | <span class="ashebrew"><big>עֶ֖דֶן</big></span><small><sup>[[H5729]]</sup></small> &#8207;| 'E.den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] in Telassar  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תְלַשָּֽׂר</big></span><small><sup>[[H8515]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> t.la.Sar<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.11|<< Isaiah 37:11]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.13|Isaiah 37:13 >>]]</td></tr></table>
+
+

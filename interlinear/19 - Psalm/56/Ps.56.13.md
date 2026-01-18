@@ -1,0 +1,25 @@
+**Psalms 56:13** (56:14)
+<small><sub>**KJV:**</sub></small>
+For thou hast delivered my soul from death: [wilt] not [thou deliver] my feet from falling, that I may walk before God in the light of the living?
+<small><sub>**BSB:**</sub></small>
+For You have delivered my soul from death, and my feet from stumbling, that I may walk before God in the light of life.
+<small><sub>**Literal:**</sub></small>
+for you have delivered life  my from  death ¿  not feet  my from  stumbling to  go about \<to>  before God in  [the] light of \<the>  life<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.12|<< Psalms 56:12]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.0|Psalms 57:0 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have delivered  | <span class="ashebrew"><big>הִצַּ֪לְתָּ</big></span><small><sup>[[H5337]]</sup></small> &#8207;| hi.Tzal.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life my  | <span class="ashebrew"><big>נַפְשִׁ֡</big></span><small><sup>[[H5315G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from death  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מָּוֶת֮</big></span><small><sup>[[H4194]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ma.Vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet my  | <span class="ashebrew"><big>רַגְלַ֗</big></span><small><sup>[[H7272]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| rag.La<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from stumbling  | <span class="ashebrew"><big>מִ֫</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>דֶּ֥חִי</big></span><small><sup>[[H1762]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> De.chi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to go about  | <span class="ashebrew"><big>לְ֭</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הִֽתְהַלֵּךְ</big></span><small><sup>[[H1980I]]</sup></small> &#8207;| Le.<small><sup>[[HR]]</sup></small> hit.ha.lekh<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פְנֵ֣י</big></span><small><sup>[[H6440G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱלֹהִ֑ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] light of  | <span class="ashebrew"><big>בְּ֝</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>א֗וֹר</big></span><small><sup>[[H0216]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'or<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> life  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חַיִּֽים</big></span><small><sup>[[H2416A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Ha.<small><sup>[[HTd]]</sup></small> chai.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.12|<< Psalms 56:12]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.0|Psalms 57:0 >>]]</td></tr></table>
+
+

@@ -1,0 +1,31 @@
+**Isaiah 23:13** 
+<small><sub>**KJV:**</sub></small>
+Behold the land of the Chaldeans; this people was not, [till] the Assyrian founded it for them that dwell in the wilderness: they set up the towers thereof, they raised up the palaces thereof; [and] he brought it to ruin.
+<small><sub>**BSB:**</sub></small>
+Look at the land of the Chaldeans—a people now of no account. The Assyrians destined it for the desert creatures; they set up their siege towers and stripped its palaces. They brought it to ruin.
+<small><sub>**Literal:**</sub></small>
+there! [the] land of [the] Chaldeans this [is] the  people [which] not it was Assyria it allocated  it to  desert-dwellers they raised up siege-towers  its they stripped bare palaces  its it made  it \<into>  a ruin<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.12|<< Isaiah 23:12]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.14|Isaiah 23:14 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| there!  | <span class="ashebrew"><big>הֵ֣ן</big></span><small><sup>[[H2005]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] land of  | <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Chaldeans  | <span class="ashebrew"><big>כַּשְׂדִּ֗ים</big></span><small><sup>[[H3778]]</sup></small> &#8207;| kas.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="ashebrew"><big>זֶ֤ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] the people  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עָם֙</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it was  | <span class="ashebrew"><big>הָיָ֔ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Assyria  | <span class="ashebrew"><big>אַשּׁ֖וּר</big></span><small><sup>[[H0804G]]</sup></small> &#8207;| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it allocated it  | <span class="ashebrew"><big>יְסָדָ֣</big></span><small><sup>[[H3245]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| ye.sa.Da<small><sup>[[HVqp3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to desert-dwellers  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>צִיִּ֑ים</big></span><small><sup>[[H6728]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> tzi.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they raised up  | <span class="ashebrew"><big>הֵקִ֣ימוּ</big></span><small><sup>[[H6965H]]</sup></small> &#8207;| he.Ki.mu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| siege-towers its  | <span class="ashebrew"><big>בַחוּנָ֗י</big></span><small><sup>[[H0971]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;[^1] [^2] | ve.chi.na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| they stripped bare  | <span class="ashebrew"><big>עֹרְרוּ֙</big></span><small><sup>[[H6209]]</sup></small> &#8207;| 'o.re.Ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| palaces its  | <span class="ashebrew"><big>אַרְמְנוֹתֶ֔י</big></span><small><sup>[[H0759G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| 'ar.me.no.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it made it  | <span class="ashebrew"><big>שָׂמָ֖</big></span><small><sup>[[H7760A]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| sa.Ma<small><sup>[[HVqp3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a ruin  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַפֵּלָֽה</big></span><small><sup>[[H4654B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ma.pe.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.12|<< Isaiah 23:12]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.14|Isaiah 23:14 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="ashebrew"><big>בַחיּנָ֗יו</big></span>**
+[^2]: ==K== spelled: **<span class="ashebrew"><big>בְחִינָיו</big></span>**
+

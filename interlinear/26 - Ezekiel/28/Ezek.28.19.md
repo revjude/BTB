@@ -1,0 +1,23 @@
+**Ezekiel 28:19** 
+<small><sub>**KJV:**</sub></small>
+All they that know thee among the people shall be astonished at thee: thou shalt be a terror, and never [shalt] thou [be] any more.
+<small><sub>**BSB:**</sub></small>
+All the nations who know you are appalled over you. You have come to a horrible end and will be no more.’”
+<small><sub>**Literal:**</sub></small>
+all [those who] knew  you among the  peoples they were appalled on  you terrors you became and  there not [will be]  you until perpetuity<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.18|<< Ezekiel 28:18]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.20|Ezekiel 28:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [those who] knew you  | <span class="ashebrew"><big>יוֹדְעֶ֙י</big></span><small><sup>[[H3045]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9031]]</sup></small> &#8207;| yod.'Ei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the peoples  | <span class="ashebrew"><big>בָּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עַמִּ֔ים</big></span><small><sup>[[H5971A]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they were appalled  | <span class="ashebrew"><big>שָׁמְמ֖וּ</big></span><small><sup>[[H8074H]]</sup></small> &#8207;| sha.me.Mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עָלֶ֑י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| terrors  | <span class="ashebrew"><big>בַּלָּה֣וֹת</big></span><small><sup>[[H1091]]</sup></small> &#8207;| ba.la.Hot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you became  | <span class="ashebrew"><big>הָיִ֔יתָ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yi.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not [will be] you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵינְ</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9041]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ei.ne.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  | <span class="ashebrew"><big>עוֹלָֽם</big></span><small><sup>[[H5769G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.18|<< Ezekiel 28:18]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.20|Ezekiel 28:20 >>]]</td></tr></table>
+
+

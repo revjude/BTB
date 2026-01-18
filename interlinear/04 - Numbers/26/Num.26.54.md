@@ -1,0 +1,24 @@
+**Numbers 26:54** 
+<small><sub>**KJV:**</sub></small>
+To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him.
+<small><sub>**BSB:**</sub></small>
+Increase the inheritance for a large tribe and decrease it for a small one; each tribe is to receive its inheritance according to the number of those registered.
+<small><sub>**Literal:**</sub></small>
+for the  many you will make great inheritance  its and  for the  few you will make small inheritance  its each to  [the] mouth of enrolled [men]  his it will be given inheritance  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.53|<< Numbers 26:53]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.55|Numbers 26:55 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for the many  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רַ֗ב</big></span><small><sup>[[H7227A]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make great  | <span class="ashebrew"><big>תַּרְבֶּה֙</big></span><small><sup>[[H7235A]]</sup></small> &#8207;| tar.Beh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inheritance its  | <span class="ashebrew"><big>נַחֲלָת֔</big></span><small><sup>[[H5159]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| na.cha.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for the few  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מְעַ֕ט</big></span><small><sup>[[H4592]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la<small><sup>[[HRd]]</sup></small> m.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will make small  | <span class="ashebrew"><big>תַּמְעִ֖יט</big></span><small><sup>[[H4591]]</sup></small> &#8207;| tam.'It<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inheritance its  | <span class="ashebrew"><big>נַחֲלָת֑</big></span><small><sup>[[H5159]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| na.cha.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| each  | <span class="ashebrew"><big>אִ֚ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] mouth of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פִ֣י</big></span><small><sup>[[H6310K]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Fi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enrolled [men] his  | <span class="ashebrew"><big>פְקֻדָ֔י</big></span><small><sup>[[H6485A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| fe.ku.Da<small><sup>[[HVqsmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be given  | <span class="ashebrew"><big>יֻתַּ֖ן</big></span><small><sup>[[H5414G]]</sup></small> &#8207;| yu.Tan<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inheritance its  | <span class="ashebrew"><big>נַחֲלָתֽ</big></span><small><sup>[[H5159]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| na.cha.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.53|<< Numbers 26:53]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.55|Numbers 26:55 >>]]</td></tr></table>
+
+

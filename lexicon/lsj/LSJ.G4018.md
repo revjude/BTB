@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==περιβόλαιον==</span>-<span class='asgreek'>αιον</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>περιβάλλω</span>) <b>that which is thrown round, covering</b>, <span class='asgreek'>θανάτου</span> <span class='asgreek'>==περιβόλαιον==αια</span> corpse-<b>clothes</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hercules Furens” 549 ">Refs 5th c.BC+</a>]; <span class='asgreek'>σαρκὸς</span> <span class='asgreek'>π</span>. <span class='asgreek'>ἡβῶντα</span> youthful <b>incasements</b> of flesh, i.e. youth, manhood,[<a href="javascript:void(0)" title=" [prev. work] 1269, compare “PStrassb.” 91.9 (1st c.BC) ">Refs 1st c.BC+</a>]; frequently in [<a href="javascript:void(0)" title=" LXX, LXX.Deut.22.12, +others (\_metaphorically\_, π. χαλκοῦν ἡ ἰσχύς σου LXX.Jer.15.12)">LXX</a>]; woman's <b>headgear</b>, [<a href="javascript:void(0)" title=" NT.1Cor.11.15 ">NT</a>]; <b>covering</b> for the feet, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aratus” 43 ">Refs 1st c.AD+</a>]; <b>chariot-cover</b>, [<a href="javascript:void(0)" title=" [prev. author] “Alex.” 67 ">Refs</a>]; <b>bedcover</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(1).103">Refs 2nd c.AD+</a>]; <b>padding</b>, <span class='asgreek'>==περιβόλαιον==αια</span> <span class='asgreek'>σπληνῶν</span> [<a href="javascript:void(0)" title="[prev. work](2)">Refs</a>].381; <b>dressing-gown, warm wrap</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Herodotus Medicus cited in 4th c.AD: Oribasius Medicus 10.18.13, 2nd c.AD: Archigenes Medicus cited in 2nd c.AD: Galenus Medicus 13.264. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>περίβολος</span>} 11.2, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 4590 (from Palestine). ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[Deut.22.12]] ☩ [[Jer.15.12]] ☩ [[1Cor.11.15]]
+</sub></small>

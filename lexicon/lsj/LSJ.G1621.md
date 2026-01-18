@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἐκτινάσσω==</span>-<span class='asgreek'>άσσω</span></b>, 
+
+
+ <b>shake out</b>, in cleaning, <span class='asgreek'>ἔρια</span>, <span class='asgreek'>ἱμάτια</span>, [<a href="javascript:void(0)" title=" “BGU” 827.22 ">Refs</a>]; <b>expel</b>, <span class='asgreek'>ἕλμινθας</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Diphilus Siphnius Rerum Naturalium Scriptor cited in 2nd c.AD: Athenaeus Epigrammaticus 2.51f, compare 1st c.AD: Dioscorides (Dioscurides) Medicus 1.126; ἔμβρυα [prev. work]76:">Refs 3rd c.BC+</a>] —<i>passive</i>, <span class='asgreek'>ἐκ</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἐτίναχθεν</span> <span class='asgreek'>ὀδόντες</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 16.348, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cat.Ma.” 14 ">Refs 8th c.BC+</a>]; [<span class='asgreek'>ὁ</span> <span class='asgreek'>Φαέθων</span>] <span class='asgreek'>ἐκτινάσσεται</span> <b>is thrown out</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Palaephatus Paradoxographus 52, compare 6th c.AD: Agathias Historicus et Epigrammaticus 4.20. ">Refs 4th c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>shake off</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>κονιορτὸν</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ποδῶν</span> [<a href="javascript:void(0)" title=" NT.Matt.10.14, etc.">NT</a>]:—<i>middle</i>, [<a href="javascript:void(0)" title=" NT.Acts.13.51. ">NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>search thoroughly</b>, <span class='asgreek'>τοὺς</span> <span class='asgreek'>βαδίζοντας</span> [<a href="javascript:void(0)" title=" 4th c.BC: Diogenes Cynicus Philosophus “Epistulae - Epistolographi” 37.5. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>make a disturbance</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 6.2.19 ">Refs 5th c.BC+</a>]; <b>make a thorough search</b>, [<a href="javascript:void(0)" title=" “UPZ” 5.12 (2nd c.BC)">Refs 2nd c.BC+</a>]; <b>kick out</b>, of animals, <span class='asgreek'>εἰς</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>πλησίον</span> <span class='asgreek'>ἵππους</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 19.2. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Matt.10.14]] ☩ [[Acts.13.51]]
+</sub></small>

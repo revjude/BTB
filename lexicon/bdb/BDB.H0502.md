@@ -1,0 +1,9 @@
+ I. [<span class="bdbLangHebrew">‎אָלַף‎</span>] **verb** ==learn== (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJQAjAIAAAAAAAP///yH5BAAAAAAALAAAAAAlACMAAAJrjI+py+0PowygzkurxVIDPnlgp42R95kMqj5pC8dtubwjq9BbuNdbL8sYgBzizwZCDg/E2DHHA+6QzRWN+aIqrUPbNFHNfa7LMnbrk2a9qNK47c5kxfC6fU2/T8e1oP8PGCgoEojzRyYIUQAAOw=="> ***keep, cleave to, become familiar with***; Aramaic <span class="bdbLangAramaic">‎אֲלַף‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJwAZAIAAAAAAAP///yH5BAAAAAAALAAAAAAnABkAAAJbjI+py+0NInj0SVnpVPNmhy3eB4VHZGzamLDkeaGc+Qayi9CknPKt//HgcjoILKYSFW2/DWZIBNKQVODxGYtWt9ystgtG1lpMXnKMTqvXpSW75303ofJy/V4vAAA7">, ***learn***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMQAXAIAAAAAAAP///yH5BAAAAAAALAAAAAAxABcAAAJwjI+py+0Po5wSWIqjBWff7HDMZngiqJij6KFrm7JfRiLybMsunLDLeQoFe7hSoyjk5ZDHYVK51DhD0V/tiMFdiczS9Oc1dcOjykc8JhMntXY6sIV/rei6/frm3vcq+XwFF8gxyOf258KWh6ix2DhRAAA7">, Pa ***teach***). **Qal** ***Imperfect*** 2 masculine singular <span class="bdbLangHebrew">‎תֶּאֱלַף אֹרְחֹתָו֯‎</span> [[Prov.22.25|Prov 22:25]] **Pi\`el** ==teach, followed by accusative== <span class="bdbLangHebrew">‎יְאַלֵּף פִּיךָ‎</span> [[Job.15.5|Job 15:5]] (subject <span class="bdbLangHebrew">‎עֲוֺנְךָ‎</span>); so ***Participle*** <span class="bdbLangHebrew">‎מַלְּפֵנוּ‎</span> (for <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מְאַלְּ‎</span> [[BDB#Sta|Sta]]<sup>§ lll, 3</sup> [[BDB#Kö|Kö]]<sup>1, 388 Ge:§ 68</sup> ***fin.***, compare [[BDB#Ew|Ew]]<sup>§ 73 b</sup>) [[Job.35.11|Job 35:11]] followed by 2 accusative <span class="bdbLangHebrew">‎אֲאַלֶּפְךָ חָכְמָה‎</span> [[Job.33.33|Job 33:33]]. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Job | [[Job.15.5\|15:5]] · [[Job.33.33\|33:33]] · [[Job.35.11\|35:11]] |
+| Proverbs | [[Prov.22.25\|22:25]] |
+

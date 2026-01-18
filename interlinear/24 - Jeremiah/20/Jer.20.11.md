@@ -1,0 +1,32 @@
+**Jeremiah 20:11** 
+<small><sub>**KJV:**</sub></small>
+But the LORD [is] with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: [their] everlasting confusion shall never be forgotten.
+<small><sub>**BSB:**</sub></small>
+But the LORD is with me like a fearsome warrior. Therefore, my persecutors will stumble and will not prevail. Since they have not succeeded, they will be utterly put to shame, with an everlasting disgrace that will never be forgotten.
+<small><sub>**Literal:**</sub></small>
+and  Yahweh [is] with  me like  a warrior ruthless there- -fore persecutors  my they will stumble and  not they will prevail they will be ashamed exceedingly for not they will succeed ignominy of perpetuity not it will be forgotten<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.10|<< Jeremiah 20:10]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.12|Jeremiah 20:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and Yahweh  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יהוָ֤ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with me  | <span class="ashebrew"><big>אוֹתִ</big></span><small><sup>[[H0854]]</sup></small> <span class="ashebrew"><big>י֙</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'o.T<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a warrior  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>גִבּ֣וֹר</big></span><small><sup>[[H1368]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> gi.Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ruthless  | <span class="ashebrew"><big>עָרִ֔יץ</big></span><small><sup>[[H6184]]</sup></small> &#8207;| 'a.Ritz<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there-  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -fore  | <span class="ashebrew"><big>כֵּ֛ן</big></span><small><sup>[[H3651C]]</sup></small> &#8207;| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| persecutors my  | <span class="ashebrew"><big>רֹדְפַ֥</big></span><small><sup>[[H7291]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| ro.de.Fa<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will stumble  | <span class="ashebrew"><big>יִכָּשְׁל֖וּ</big></span><small><sup>[[H3782]]</sup></small> &#8207;| yi.ka.she.Lu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will prevail  | <span class="ashebrew"><big>יֻכָ֑לוּ</big></span><small><sup>[[H3201]]</sup></small> &#8207;| yu.Kha.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be ashamed  | <span class="ashebrew"><big>בֹּ֤שׁוּ</big></span><small><sup>[[H0954]]</sup></small> &#8207;| Bo.shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  | <span class="ashebrew"><big>מְאֹד֙</big></span><small><sup>[[H3966]]</sup></small> &#8207;| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will succeed  | <span class="ashebrew"><big>הִשְׂכִּ֔ילוּ</big></span><small><sup>[[H7919A]]</sup></small> &#8207;| his.Ki.lu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ignominy of  | <span class="ashebrew"><big>כְּלִמַּ֥ת</big></span><small><sup>[[H3639]]</sup></small> &#8207;| ke.li.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  | <span class="ashebrew"><big>עוֹלָ֖ם</big></span><small><sup>[[H5769G]]</sup></small> &#8207;| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be forgotten  | <span class="ashebrew"><big>תִשָּׁכֵֽחַ</big></span><small><sup>[[H7911]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ti.sha.Khe.ach<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.10|<< Jeremiah 20:10]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.12|Jeremiah 20:12 >>]]</td></tr></table>
+
+

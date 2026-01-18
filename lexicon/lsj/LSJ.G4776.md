@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==συγκαθίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <b>make to sit together</b> or <b>in a body</b>, <span class='asgreek'>τὰ</span> <span class='asgreek'>συνέδρια</span> [<a href="javascript:void(0)" title=" “Hellenica Oxyrhynchia” 11.4; τὸν λαόν LXX.Exod.18.13 ">LXX</a>]:—<i>middle</i> or <i>passive</i>, <b>sit in conclave, meet for deliberation</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>τὸ</span> <span class='asgreek'>δικαστήριον</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 5.2.35, compare 4th c.BC: Demosthenes Orator “Prooemia” 23 (variant{-καθεζ-}). ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> in <i>active</i>, <b>sit together</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Libanius Sophista “Orationes” 11.216. ">Refs 4th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>settle down</b> in a boiling pot, [<a href="javascript:void(0)" title=" “PHolm.” 19.8. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>sit</b> or <b>settle down</b>, of quadrupeds that lie down by doubling their legs under them, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 498a9 ">Refs 4th c.BC+</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ὄπισθεν</span>[<a href="javascript:void(0)" title=" [prev. work] 578a21, cf. LXX.Num.22.27 ">LXX</a>]; <span class='asgreek'>σῶμα</span> <span class='asgreek'>συγκεκαθικός</span> a <b>bent, stooping</b> figure, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physiognomonica” 807b5 ">Refs 4th c.BC+</a>]; of men, <b>crouch down</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aratus” 21 ">Refs 1st c.AD+</a>]; of women, Thessalus in [<a href="javascript:void(0)" title=" “Catalogus Codicum Astrologorum” 8(3).147">Refs</a>]; also <span class='asgreek'>τὰ</span> <span class='asgreek'>νέφη</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>κοῖλα</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Signis Tempestatum” 3. ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.18.13]] ☩ [[Num.22.27]]
+</sub></small>

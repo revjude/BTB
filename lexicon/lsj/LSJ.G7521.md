@@ -1,0 +1,11 @@
+<span class="asgreek">ἐτάζω</span> <small>***(etazō)***</small> ==**to chastise**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐτάζω==</span></b>, 
+
+
+ <i>aorist 1</i> <span class='asgreek'>ἤτασα</span> (see. below), <b>examine, test,</b> mostly in <i>compound</i> <span class='asgreek'>ἐξετάζω</span> (for which it is variant in [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.62, cited in “Anecdota Graeca - Bekker” 96)">Refs 5th c.BC+</a>], compare <b><span class='asgreek'>παρετάζω</span></b>; <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἀδικέοντας</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus 266 ">Refs 3rd c.AD+</a>]; <span class='asgreek'>ἐτάζει</span> (<i>etymology</i> of <span class='asgreek'>ἔτος</span>) [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Cratylus” 410d; frequently in LXX, ὁ ==ἐτάζω==ν καρδίας LXX.1Chr.29.17 ">LXX+5th c.BC+</a>]; <span class='asgreek'>ἐτάζουσι</span> Polusap.[<a href="javascript:void(0)" title=" 5th c.AD: Stobaeus, Joannes 3.9.51">Refs 5th c.AD+</a>]: <i>aorist 1</i> <i>infinitive</i> <span class='asgreek'>ἐτάσαι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Aristides Rhetor 1.460J. (probable reading): with double \_accusative\_, ἤν με Μουσάων ἐτάσῃς χάριν “Anthologia Graeca” 7.17 (Tull. Laur.)">Refs 2nd c.AD+</a>]; <b>reveal, unmask,</b> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title="[prev. work]12.135 (3rd c.BC: Asclepiades Epigrammaticus)">Refs 3rd c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" LXX.Wis.6.7, +others ">LXX</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>visit, try, afflict,</b> <span class='asgreek'>τινα</span> <span class='asgreek'>μεγάλοις</span> <span class='asgreek'>ἐτασμοῖς</span>[<a href="javascript:void(0)" title="LXX.Gen.12.17. (fragment ἐτός (B) as δοκιμάζω from δόκιμος.) ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Chr.29.17]] ☩ [[Gen.12.17]]
+</sub></small>

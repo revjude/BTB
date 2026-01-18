@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==φανός==</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>torch,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 308; ὑπὸ φανοῦ πορεύεσθαι 5th-6th c.BC: Xenophon Historicus “Respublica Lacedaemoniorum” 5.7 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ποῖος</span> <span class='asgreek'>φ</span>. <span class='asgreek'>τοιοῦτος</span> <span class='asgreek'>οἷος</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>ἥλιο</span>; [<a href="javascript:void(0)" title=" 2nd c.AD: Alexander Rhetor 87 ">Refs 2nd c.AD+</a>]; distinguished from <span class='asgreek'>λύχνος</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Anaxandrides Comicus 48, compare 2nd c.AD: Phrynichus Atticista 40">Refs 4th c.BC+</a>]; but probably ={<span class='asgreek'>λύχνος</span>} in [<a href="javascript:void(0)" title=" “UPZ” 5.18, 6.15 (2nd c.BC), “Stud.Pal.” 10.251.2 (6th c.AD)">Refs 2nd c.BC+</a>]; <span class='asgreek'>μετὰ</span> <span class='asgreek'>φανῶν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>λαμπάδων</span> [<a href="javascript:void(0)" title=" NT.John.18.3, compare “PLond.” 3.1159.59 (2nd c.AD)">NT+2nd c.AD+</a>]: the form <b><span class='asgreek'>πᾱνός</span></b> (probably a different word) is found in [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 284, 5th c.BC: Sophocles Tragicus “Fragmenta” 184, 5th c.BC: Euripides Tragicus “Ion” 195 (Lyric poetry), “fragment” 90, 4th-3rd c.BC: Diphilus Comicus 6, 4th-3rd c.BC: Menander Comicus 62. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>φ</span>. <span class='asgreek'>ὑελοῦς</span> glass <b>cover,</b>[<a href="javascript:void(0)" title=" Olymp.Alch. p.75 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> a form of <b>still,</b> Zos.Alch.p.224 [<a href="javascript:void(0)" title=" 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[John.18.3]]
+</sub></small>

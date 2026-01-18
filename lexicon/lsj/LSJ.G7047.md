@@ -1,0 +1,10 @@
+<span class="asgreek">ἐθισμός</span> <small>***(ethismos)***</small> ==**a custom**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐθισμός==</span>-<span class='asgreek'>ισμός</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>accustoming, habituation</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1098b4, +others; τὰ κατ᾽ ==ἐθισμός==ισμόν τινος LXX.Gen.31.35; πρός τι 5th c.AD: Hierocles Platonicus Philosophus “in Carmen Aureum - FPG” 26p.479M. ">LXX+4th c.BC+</a>]: <i>plural</i>, <b>habits</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1331b6 ">Refs 4th c.BC+</a>]; <b>usages</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Posidippus Comicus 25, 2nd c.BC: Polybius Historicus 1.17.11 ">Refs 3rd c.BC+</a>]; <span class='asgreek'>οἱ</span> <span class='asgreek'>ἐξ</span> <span class='asgreek'>ἀρχῆς</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" “PTeb.” 40.20 (2nd c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>οἱ</span> <span class='asgreek'>νόμοι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>οἱ</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “de Pietate - Herkulanische Studien” 102, compare “IG” 22.1043.30 (1st c.BC)">Refs 1st c.BC+</a>]; <span class='asgreek'>οἱ</span> <span class='asgreek'>πολύτροποι</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>λέξεων</span> <b>customary modes</b> of speech, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “De rerum natura - Wien. Stud.” 28.1, +others ">Refs 4th c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Gen.31.35]]
+</sub></small>

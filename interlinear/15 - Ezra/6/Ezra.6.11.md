@@ -1,0 +1,35 @@
+**Ezra 6:11** 
+<small><sub>**KJV:**</sub></small>
+Also I have made a decree, that whosoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this.
+<small><sub>**BSB:**</sub></small>
+I also decree that if any man interferes with this directive, a beam is to be torn from his house and raised up, and he is to be impaled on it. And his own house shall be made a pile of rubble for this offense.
+<small><sub>**Literal:**</sub></small>
+and  from  me it is made a decree that every person who he will violate command  the this let it be pulled away a beam from house  his and  [he will] be lifted up let him be impaled on  it and  house  his a refuse-heap let it be made on this<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.10|<< Ezra 6:10]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.12|Ezra 6:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and from me  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>מִנִּ</big></span><small><sup>[[H4481]]</sup></small> <span class="asaramaic"><big>י֮</big></span><small><sup>[[H9030]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> mi.N<small><sup>[[AR]]</sup></small> i<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is made  | <span class="asaramaic"><big>שִׂ֣ים</big></span><small><sup>[[H7761G]]</sup></small> &#8207;| sim<small><sup>[[AVQp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a decree  | <span class="asaramaic"><big>טְעֵם֒</big></span><small><sup>[[H2942]]</sup></small> &#8207;| te.'Em<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="asaramaic"><big>דִּ֣י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  | <span class="asaramaic"><big>כָל</big></span><small><sup>[[H3606]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| khol-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| person  | <span class="asaramaic"><big>אֱנָ֗שׁ</big></span><small><sup>[[H0606]]</sup></small> &#8207;| 'e.Nash<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="asaramaic"><big>דִּ֤י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will violate  | <span class="asaramaic"><big>יְהַשְׁנֵא֙</big></span><small><sup>[[H8133]]</sup></small> &#8207;| ye.hash.Ne'<small><sup>[[AVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| command the  | <span class="asaramaic"><big>פִּתְגָמָ֣</big></span><small><sup>[[H6600]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| pit.ga.Ma<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="asaramaic"><big>דְנָ֔ה</big></span><small><sup>[[H1836]]</sup></small> &#8207;| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it be pulled away  | <span class="asaramaic"><big>יִתְנְסַ֥ח</big></span><small><sup>[[H5256]]</sup></small> &#8207;| yit.ne.Sach<small><sup>[[AVui3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a beam  | <span class="asaramaic"><big>אָע֙</big></span><small><sup>[[H0636]]</sup></small> &#8207;| 'a'<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  | <span class="asaramaic"><big>מִן</big></span><small><sup>[[H4481]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| house his  | <span class="asaramaic"><big>בַּיְתֵ֔</big></span><small><sup>[[H1005]]</sup></small> <span class="asaramaic"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| bay.Te<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [he will] be lifted up  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>זְקִ֖יף</big></span><small><sup>[[H2211]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> ze.Kif<small><sup>[[AVQrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let him be impaled  | <span class="asaramaic"><big>יִתְמְחֵ֣א</big></span><small><sup>[[H4223]]</sup></small> &#8207;| yit.me.Che'<small><sup>[[AVui3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on it  | <span class="asaramaic"><big>עֲלֹ֑</big></span><small><sup>[[H5922]]</sup></small> <span class="asaramaic"><big>הִי</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.Lo.<small><sup>[[AR]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and house his  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>בַיְתֵ֛</big></span><small><sup>[[H1005]]</sup></small> <span class="asaramaic"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> vay.Te<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a refuse-heap  | <span class="asaramaic"><big>נְוָל֥וּ</big></span><small><sup>[[H5122]]</sup></small> &#8207;| ne.va.Lu<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it be made  | <span class="asaramaic"><big>יִתְעֲבֵ֖ד</big></span><small><sup>[[H5648]]</sup></small> &#8207;| yit.'a.Ved<small><sup>[[AVui3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="asaramaic"><big>עַל</big></span><small><sup>[[H5922]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="asaramaic"><big>דְּנָֽה</big></span><small><sup>[[H1836]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.10|<< Ezra 6:10]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.12|Ezra 6:12 >>]]</td></tr></table>
+
+

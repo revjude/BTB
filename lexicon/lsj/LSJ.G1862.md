@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==ἐπάγγελμα==</span>-<span class='asgreek'>ελμα</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ <b>promise, profession,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.178 (\_plural\_); τὸ Πρωταγόρου ἐ. 4th c.BC: Aristoteles Philosophus “Rhetorica” 1402a25, compare 5th-6th c.BC: Plato Philosophus “Protagoras” 319a; ὑπὸ τοῦ μεγέθους τοῦ ἐ. οὐδὲν θαυμαστὸν ἀπιστεῖν [prev. author] “Euthd.” 274a: \_plural\_, 4th c.AD: Metrodorus Epigrammaticus cited in 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.88 S">Refs 5th c.BC+</a>].; <span class='asgreek'>ἐπαγγέλματι</span>, opposed to <span class='asgreek'>κατ᾽</span> <span class='asgreek'>ἀλήθειαν</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 1.182. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>subject</b> of a treatise, that which it <b>purports</b> to contain, <span class='asgreek'>τὸ</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>λόγου</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Demosthene” 33; τὸ ἐ. τοῦ συγγράμματος 2nd-3rd c.AD: Aelianus “Tact.Praef.” 7. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> ={<span class='asgreek'>ἐπαγγελία</span>} 7, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Crito Medicus cited in 2nd c.AD: Galenus Medicus 13.878, [prev. author] cited in 6th c.AD: Aëtius Medicus 15.16. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>art, profession,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>ἀοτοποιΐας</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Marcus Antoninus Imperator 3.2. ">Refs 2nd c.AD+</a>]

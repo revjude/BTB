@@ -1,0 +1,33 @@
+**Jeremiah 46:21** 
+<small><sub>**KJV:**</sub></small>
+Also her hired men [are] in the midst of her like fatted bullocks; for they also are turned back, [and] are fled away together: they did not stand, because the day of their calamity was come upon them, [and] the time of their visitation.
+<small><sub>**BSB:**</sub></small>
+Even the mercenaries among her are like fattened calves. They too will turn back; together they will flee, they will not stand their ground, for the day of calamity is coming upon them—the time of their punishment.
+<small><sub>**Literal:**</sub></small>
+also hired soldiers  its in  midst  its [are] like  calves of [the] stall for also they they will turn they will flee together not they will stand their ground for [the] day of disaster  their it will come on  them [the] time of punishment  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.20|<< Jeremiah 46:20]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.22|Jeremiah 46:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| also  | <span class="ashebrew"><big>גַּם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hired soldiers its  | <span class="ashebrew"><big>שְׂכִרֶ֤י</big></span><small><sup>[[H7916]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| se.khi.Rei.<small><sup>[[HAampc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in midst its  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קִרְבָּ</big></span><small><sup>[[H7130G]]</sup></small> <span class="ashebrew"><big>הּ֙</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> kir.Ba<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] like calves of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֶגְלֵ֣י</big></span><small><sup>[[H5695]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> 'eg.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] stall  | <span class="ashebrew"><big>מַרְבֵּ֔ק</big></span><small><sup>[[H4770]]</sup></small> &#8207;| mar.Bek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>גַם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  | <span class="ashebrew"><big>הֵ֧מָּה</big></span><small><sup>[[H1992]]</sup></small> &#8207;| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will turn  | <span class="ashebrew"><big>הִפְנ֛וּ</big></span><small><sup>[[H6437G]]</sup></small> &#8207;| hif.Nu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will flee  | <span class="ashebrew"><big>נָ֥סוּ</big></span><small><sup>[[H5127]]</sup></small> &#8207;| Na.su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  | <span class="ashebrew"><big>יַחְדָּ֖יו</big></span><small><sup>[[H3162B]]</sup></small> &#8207;| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will stand their ground  | <span class="ashebrew"><big>עָמָ֑דוּ</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| 'a.Ma.du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֣י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] day of  | <span class="ashebrew"><big>י֥וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| disaster their  | <span class="ashebrew"><big>אֵידָ֛</big></span><small><sup>[[H0343]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'ei.Da<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will come  | <span class="ashebrew"><big>בָּ֥א</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  | <span class="ashebrew"><big>עֲלֵי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] time of  | <span class="ashebrew"><big>עֵ֥ת</big></span><small><sup>[[H6256]]</sup></small> &#8207;| 'et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| punishment their  | <span class="ashebrew"><big>פְּקֻדָּתָֽ</big></span><small><sup>[[H6486]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| pe.ku.da.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.20|<< Jeremiah 46:20]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.22|Jeremiah 46:22 >>]]</td></tr></table>
+
+

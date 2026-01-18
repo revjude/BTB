@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==παροικέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <b>dwell beside</b>, with <i>accusative</i>, <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>Κνίδου</span> <span class='asgreek'>μέχρι</span> <span class='asgreek'>Σινώπης</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>Ἀσίαν</span> <span class='asgreek'>π</span>. <b>dwell along the coasts of</b> Asia, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 4.162 ">Refs 5th c.BC+</a>]: with <i>dative</i>, <b>live near</b>, <span class='asgreek'>πόλει</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.71; ταῖς πυραμίσι “OGI” 666.13 (1st c.AD)">Refs 5th c.BC+</a>]; <b>dwell among</b>, <span class='asgreek'>τισι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.93: \_absolutely\_, [prev. author] 6.82 ">Refs 5th c.BC+</a>]; of places, <b>lie near</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Vectigalibus” 1.5. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>live in</b> a place <b>as</b> <span class='asgreek'>πάροικος</span>, <span class='asgreek'>οἱ</span> <span class='asgreek'>==παροικέω==οῦντες</span> <span class='asgreek'>ξένοι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 13.47, compare “SIG” 709.9 (Chersonesus, 2nd c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>ὡς</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>ξένης</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.416 ">Refs 1st c.AD+</a>]; <b>sojourn in</b>, <span class='asgreek'>Ἱερουσαλήμ</span> [<a href="javascript:void(0)" title=" NT.Luke.24.18. ">NT</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <span class='asgreek'>τὸν</span> <span class='asgreek'>ἀνθ</span> <span class='asgreek'>ρώπινον</span> <span class='asgreek'>βίον</span> <span class='asgreek'>παρῳκηκότες</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “de Morte - Papiri Ercolanesi” 38. ">Refs 1st c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.24.18]]
+</sub></small>

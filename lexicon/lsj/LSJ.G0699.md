@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==ἀρεσκεία==</span>-<span class='asgreek'>εια</span></b> [<span class='asgreek'>ᾰρ</span>], <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>ἀρεσκεύομαι</span>) <b>obsequiousness,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Eudemia” 1221a8, “MM” 1192b30, 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 5, 2nd c.BC: Polybius Historicus 31.26.5, 1st c.BC: Philodemus Gadarensis Epigrammaticus “Herc.” 1457.5, 3rd c.BC: Polystratus Epicureus p.16W.; ἀ. βασιλέως 2nd c.BC: Polybius Historicus 6.11a. 7, compare 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 18.8.7. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in <i>plural</i>, ={<span class='asgreek'>δόξαι</span>}, <span class='asgreek'>==ἀρεσκεία==οντα</span>, <span class='asgreek'>αἱ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>πολλῶν</span>, of false <b>superstitions,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.191">Refs 1st c.AD+</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>ταῖς</span> <span class='asgreek'>κεναῖς</span> <span class='asgreek'>σοφιστῶν</span> <span class='asgreek'>ἀρεσκήαις</span> (sic) <span class='asgreek'>ὑπεναντία</span>[<a href="javascript:void(0)" title=" 2nd c.BC: Demetrius Lacon Philosophus “Herc.” 1012.73. ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> in good sense, <span class='asgreek'>πρὸς</span> <span class='asgreek'>θεὸν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἀρετήν</span>[<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.168; ἡ εἰς τὸ πλῆθος ἀ. “Inscription Prien.” 113.73 (1st c.BC),compare “IPE” 2.5, NT.Col.1.10">NT+1st c.BC+</a>]; <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἑτέρων</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>βιοῦν</span>[<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 10.14.">Refs 3rd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Col.1.10]]
+</sub></small>

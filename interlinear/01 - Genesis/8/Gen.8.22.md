@@ -1,0 +1,27 @@
+**Genesis 8:22** 
+<small><sub>**KJV:**</sub></small>
+While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.
+<small><sub>**BSB:**</sub></small>
+As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night shall never cease.”
+<small><sub>**Literal:**</sub></small>
+again all [the] days of the  earth seed and  harvest and  cold and  heat and  summer and  winter and  day and  night not they will cease<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.21|<< Genesis 8:21]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.1|Genesis 9:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| again  | <span class="ashebrew"><big>עֹ֖ד</big></span><small><sup>[[H5750]]</sup></small> &#8207;| 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  | <span class="ashebrew"><big>יְמֵ֣י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֑רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seed  | <span class="ashebrew"><big>זֶ֡רַע</big></span><small><sup>[[H2233G]]</sup></small> &#8207;| Ze.ra'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and harvest  | <span class="ashebrew"><big>וְ֠</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קָצִיר</big></span><small><sup>[[H7105A]]</sup></small> &#8207;| Ve.<small><sup>[[HC]]</sup></small> ka.tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and cold  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קֹ֨ר</big></span><small><sup>[[H7120]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Kor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and heat  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֹ֜ם</big></span><small><sup>[[H2527]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Chom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and summer  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קַ֧יִץ</big></span><small><sup>[[H7019]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ka.yitz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and winter  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֹ֛רֶף</big></span><small><sup>[[H2779]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Cho.ref<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and day  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>י֥וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and night  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ֖יְלָה</big></span><small><sup>[[H3915]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will cease  | <span class="ashebrew"><big>יִשְׁבֹּֽתוּ</big></span><small><sup>[[H7673A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yish.Bo.tu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.21|<< Genesis 8:21]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.1|Genesis 9:1 >>]]</td></tr></table>
+
+

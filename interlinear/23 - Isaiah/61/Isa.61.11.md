@@ -1,0 +1,29 @@
+**Isaiah 61:11** 
+<small><sub>**KJV:**</sub></small>
+For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord GOD will cause righteousness and praise to spring forth before all the nations.
+<small><sub>**BSB:**</sub></small>
+For as the earth brings forth its growth, and as a garden enables seed to spring up, so the Lord GOD will cause righteousness and praise to spring up before all the nations.
+<small><sub>**Literal:**</sub></small>
+for like the  ground [which] it brings forth growth  its and  like  a garden [which] things sown in  it it makes grow so [the] Lord Yahweh he will make grow righteousness and  praise before all the  nations<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.10|<< Isaiah 61:10]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.1|Isaiah 62:1 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like the ground  | <span class="ashebrew"><big>כָ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>אָ֙רֶץ֙</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| kha.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] it brings forth  | <span class="ashebrew"><big>תּוֹצִ֣יא</big></span><small><sup>[[H3318M]]</sup></small> &#8207;| to.Tzi'<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| growth its  | <span class="ashebrew"><big>צִמְחָ֔</big></span><small><sup>[[H6780]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| tzim.Cha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like a garden  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>גַנָּ֖ה</big></span><small><sup>[[H1593]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> ga.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [which] things sown in it  | <span class="ashebrew"><big>זֵרוּעֶ֣י</big></span><small><sup>[[H2221]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ze.ru.'Ei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it makes grow  | <span class="ashebrew"><big>תַצְמִ֑יחַ</big></span><small><sup>[[H6779]]</sup></small> &#8207;| tatz.Mi.ach<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so  | <span class="ashebrew"><big>כֵּ֣ן</big></span><small><sup>[[H3651C]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֣י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוִ֗ה</big></span><small><sup>[[H3069]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will make grow  | <span class="ashebrew"><big>יַצְמִ֤יחַ</big></span><small><sup>[[H6779]]</sup></small> &#8207;| yatz.Mi.ach<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| righteousness  | <span class="ashebrew"><big>צְדָקָה֙</big></span><small><sup>[[H6666]]</sup></small> &#8207;| tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and praise  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְהִלָּ֔ה</big></span><small><sup>[[H8416]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.hi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before  | <span class="ashebrew"><big>נֶ֖גֶד</big></span><small><sup>[[H5048]]</sup></small> &#8207;| Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the nations  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גּוֹיִֽם</big></span><small><sup>[[H1471A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.10|<< Isaiah 61:10]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.1|Isaiah 62:1 >>]]</td></tr></table>
+
+

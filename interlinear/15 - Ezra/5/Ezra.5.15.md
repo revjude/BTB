@@ -1,0 +1,31 @@
+**Ezra 5:15** 
+<small><sub>**KJV:**</sub></small>
+And said unto him, Take these vessels, go, carry them into the temple that [is] in Jerusalem, and let the house of God be builded in his place.
+<small><sub>**BSB:**</sub></small>
+and instructed, ‘Take these articles, put them in the temple in Jerusalem, and let the house of God be rebuilt on its original site.’
+<small><sub>**Literal:**</sub></small>
+and  he said to  him these vessels  the take! go! deposit! them in  temple  the which [is] in  Jerusalem and  [the] house of \<the>  God let it be built on place  its<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.14|<< Ezra 5:14]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.16|Ezra 5:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="asaramaic"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>אֲמַר</big></span><small><sup>[[H0560]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va.<small><sup>[[AC]]</sup></small> 'a.mar-<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  | <span class="ashebrew"><big>לֵ֓</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| le<small><sup>[[AR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  [^1] | <span class="asaramaic"><big>אֵ֚ל</big></span><small><sup>[[H0412]]</sup></small> &#8207;[^2] | 'e.leh<small><sup>[[ATm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| vessels the  | <span class="asaramaic"><big>מָֽאנַיָּ֔</big></span><small><sup>[[H3984]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| ma.nai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| take!  | <span class="asaramaic"><big>שֵׂ֚א</big></span><small><sup>[[H5376]]</sup></small> &#8207;| se'<small><sup>[[AVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go!  | <span class="asaramaic"><big>אֵֽזֶל</big></span><small><sup>[[H0236]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'e.zel-<small><sup>[[AVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deposit!  | <span class="asaramaic"><big>אֲחֵ֣ת</big></span><small><sup>[[H5182]]</sup></small> &#8207;| 'a.Chet<small><sup>[[AVav2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| them  | <span class="asaramaic"><big>הִמּ֔וֹ</big></span><small><sup>[[H1994]]</sup></small> &#8207;| hi.Mo<small><sup>[[APp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in temple the  | <span class="asaramaic"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="asaramaic"><big>הֵיכְלָ֖</big></span><small><sup>[[H1965G]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| be.<small><sup>[[AR]]</sup></small> hei.khe.La<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="asaramaic"><big>דִּ֣י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in Jerusalem  | <span class="asaramaic"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="asaramaic"><big>ירוּשְׁלֶ֑ם</big></span><small><sup>[[H3390]]</sup></small> &#8207;| vi.<small><sup>[[AR]]</sup></small> ru.she.Lem<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] house of  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>בֵ֥ית</big></span><small><sup>[[H1005]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> Veit<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>אֱלָהָ֖</big></span><small><sup>[[H0426]]</sup></small> <span class="ashebrew"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| 'e.la.Ha<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it be built  | <span class="asaramaic"><big>יִתְבְּנֵ֥א</big></span><small><sup>[[H1124]]</sup></small> &#8207;| yit.be.Ne'<small><sup>[[AVui3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="asaramaic"><big>עַל</big></span><small><sup>[[H5922]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| place its  | <span class="asaramaic"><big>אַתְרֵֽ</big></span><small><sup>[[H0870]]</sup></small> <span class="asaramaic"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="asaramaic"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="asaramaic"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'at.Re<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.14|<< Ezra 5:14]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.16|Ezra 5:16 >>]]</td></tr></table>
+
+[^1]: ==K==: **these ** | <small><sup>[[H0429]]</sup></small><span class="asaramaic"><big>אֵלֶּה</big></span>  | 'e.leh<small><sup>[[ATm]]</sup></small> 
+[^2]: ==L== spelled: **<span class="asaramaic"><big>אֵ֚לה</big></span>**
+

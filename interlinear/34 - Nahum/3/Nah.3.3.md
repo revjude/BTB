@@ -1,0 +1,31 @@
+**Nahum 3:3** 
+<small><sub>**KJV:**</sub></small>
+The horseman lifteth up both the bright sword and the glittering spear: and [there is] a multitude of slain, and a great number of carcases; and [there is] none end of [their] corpses; they stumble upon their corpses:
+<small><sub>**BSB:**</sub></small>
+Charging horseman, flashing sword, shining spear; heaps of slain, mounds of corpses, dead bodies without end—they stumble over their dead—
+<small><sub>**Literal:**</sub></small>
+a horseman bringing up and  [the] blade of a sword and  [the] flash of a spear and  [the] multitude of [the] slain and  [the] weight of corpse[s] and  there not [is] an end to the  bodi[es] and  people will stumble over  bodi[es]  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.2|<< Nahum 3:2]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.4|Nahum 3:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| a horseman  | <span class="ashebrew"><big>פָּרָ֣שׁ</big></span><small><sup>[[H6571B]]</sup></small> &#8207;| pa.Rash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bringing up  | <span class="ashebrew"><big>מַעֲלֶ֗ה</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| ma.'a.Leh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] blade of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ֤הַב</big></span><small><sup>[[H3851]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> La.hav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a sword  | <span class="ashebrew"><big>חֶ֙רֶב֙</big></span><small><sup>[[H2719]]</sup></small> &#8207;| che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] flash of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְרַ֣ק</big></span><small><sup>[[H1300B]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.Rak<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a spear  | <span class="ashebrew"><big>חֲנִ֔ית</big></span><small><sup>[[H2595]]</sup></small> &#8207;| cha.Nit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] multitude of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רֹ֥ב</big></span><small><sup>[[H7230]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] slain  | <span class="ashebrew"><big>חָלָ֖ל</big></span><small><sup>[[H2491A]]</sup></small> &#8207;| cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] weight of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כֹ֣בֶד</big></span><small><sup>[[H3514]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khoed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| corpse[s]  | <span class="ashebrew"><big>פָּ֑גֶר</big></span><small><sup>[[H6297]]</sup></small> &#8207;| Pa.ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֥ין</big></span><small><sup>[[H0369]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] an end  | <span class="ashebrew"><big>קֵ֙צֶה֙</big></span><small><sup>[[H7097B]]</sup></small> &#8207;| ke.tzeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the bodi[es]  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>גְּוִיָּ֔ה</big></span><small><sup>[[H1472]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> ge.vi.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and people will stumble  [^2] | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>כָשְׁל֖וּ</big></span><small><sup>[[H3782]]</sup></small> &#8207;[^3] | ve.<small><sup>[[Hc]]</sup></small> yikh.she.lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| over bodi[es] their  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>גְוִיָּתָֽ</big></span><small><sup>[[H1472]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> g.vi.ya.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.2|<< Nahum 3:2]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.4|Nahum 3:4 >>]]</td></tr></table>
+
+[^1]: ==K==: **people will stumble ** | <small><sup>[[H3782]]</sup></small><span class="ashebrew"><big>יִכְשְׁלוּ</big></span>  | yikh.she.lu<small><sup>[[HVqi3mp]]</sup></small> 
+[^2]: ==K==: **people will stumble ** | <small><sup>[[H3782]]</sup></small><span class="ashebrew"><big>יִכְשְׁלוּ</big></span>  | yikh.she.lu<small><sup>[[HVqi3mp]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>יְכָשְׁל֖וּ</big></span>**
+

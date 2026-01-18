@@ -1,0 +1,25 @@
+**Nahum 3:4** 
+<small><sub>**KJV:**</sub></small>
+Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts.
+<small><sub>**BSB:**</sub></small>
+because of the many harlotries of the harlot, the seductive mistress of sorcery, who betrays nations by her prostitution and clans by her witchcraft.
+<small><sub>**Literal:**</sub></small>
+from  [the] abundance of [the] prostitution\<s> of a prostitute good of grace a mistress of sorceries who  sells nations by  prostitution\<s>  her and  clans by  sorceries  her<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.3|<< Nahum 3:3]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.5|Nahum 3:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| from [the] abundance of  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>רֹב֙</big></span><small><sup>[[H7230]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] prostitution\<s> of  | <span class="ashebrew"><big>זְנוּנֵ֣י</big></span><small><sup>[[H2183]]</sup></small> &#8207;| ze.nu.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a prostitute  | <span class="ashebrew"><big>זוֹנָ֔ה</big></span><small><sup>[[H2181]]</sup></small> &#8207;| zo.Nah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good of  | <span class="ashebrew"><big>ט֥וֹבַת</big></span><small><sup>[[H2896A]]</sup></small> &#8207;| Toat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grace  | <span class="ashebrew"><big>חֵ֖ן</big></span><small><sup>[[H2580]]</sup></small> &#8207;| chen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a mistress of  | <span class="ashebrew"><big>בַּעֲלַ֣ת</big></span><small><sup>[[H1172]]</sup></small> &#8207;| ba.'a.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sorceries  | <span class="ashebrew"><big>כְּשָׁפִ֑ים</big></span><small><sup>[[H3785]]</sup></small> &#8207;| ke.sha.Fim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who sells  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֹּכֶ֤רֶת</big></span><small><sup>[[H4376]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> mo.Khe.ret<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nations  | <span class="ashebrew"><big>גּוֹיִם֙</big></span><small><sup>[[H1471A]]</sup></small> &#8207;| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by prostitution\<s> her  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>זְנוּנֶ֔י</big></span><small><sup>[[H2183]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> z.nu.Nei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and clans  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִשְׁפָּח֖וֹת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> mish.pa.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by sorceries her  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>כְשָׁפֶֽי</big></span><small><sup>[[H3785]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> kh.sha.Fei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.3|<< Nahum 3:3]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.5|Nahum 3:5 >>]]</td></tr></table>
+
+

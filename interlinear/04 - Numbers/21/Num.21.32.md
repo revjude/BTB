@@ -1,0 +1,28 @@
+**Numbers 21:32** 
+<small><sub>**KJV:**</sub></small>
+And Moses sent to spy out Jaazer, and they took the villages thereof, and drove out the Amorites that [were] there.
+<small><sub>**BSB:**</sub></small>
+After Moses had sent spies to Jazer, Israel captured its villages and drove out the Amorites who were there.
+<small><sub>**Literal:**</sub></small>
+and  he sent Moses to  spy out \<obj.> Jazer and  they captured daughters  its and  it dispossessed \<obj.> the  Amorite[s] who [was] there<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.31|<< Numbers 21:31]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.33|Numbers 21:33 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he sent  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁלַ֤ח</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  | <span class="ashebrew"><big>מֹשֶׁה֙</big></span><small><sup>[[H4872]]</sup></small> &#8207;| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to spy out  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רַגֵּ֣ל</big></span><small><sup>[[H7270]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ra.Gel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jazer  | <span class="ashebrew"><big>יַעְזֵ֔ר</big></span><small><sup>[[H3270G]]</sup></small> &#8207;| ya'.Zer<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they captured  | <span class="ashebrew"><big>וַֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּלְכְּד֖וּ</big></span><small><sup>[[H3920]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yil.ke.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| daughters its  | <span class="ashebrew"><big>בְּנֹתֶ֑י</big></span><small><sup>[[H1323H]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| be.no.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it dispossessed  [^2] | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יּ֖וֹרֶשׁ</big></span><small><sup>[[H3423H]]</sup></small> &#8207;[^3] | va<small><sup>[[Hc]]</sup></small> i.yi.resh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Amorite[s]  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱמֹרִ֥י</big></span><small><sup>[[H0567]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'e.mo.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] there  | <span class="ashebrew"><big>שָֽׁם</big></span><small><sup>[[H8033G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.31|<< Numbers 21:31]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.33|Numbers 21:33 >>]]</td></tr></table>
+
+[^1]: ==K==: **and it possessed ** | <small><sup>[[H3423H]]</sup></small><span class="ashebrew"><big>יִּירַשׁ</big></span> <small><sup>[[H9001]]</sup></small><span class="ashebrew"><big>וַ</big></span>  | va<small><sup>[[Hc]]</sup></small> i.yi.resh<small><sup>[[HVqw3ms]]</sup></small> 
+[^2]: ==K==: **and it possessed ** | <small><sup>[[H3423H]]</sup></small><span class="ashebrew"><big>יִּירַשׁ</big></span> <small><sup>[[H9001]]</sup></small><span class="ashebrew"><big>וַ</big></span>  | va<small><sup>[[Hc]]</sup></small> i.yi.resh<small><sup>[[HVqw3ms]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיֹּ֖ירֶשׁ</big></span>**
+

@@ -1,0 +1,26 @@
+**1 Kings 1:31** 
+<small><sub>**KJV:**</sub></small>
+Then Bathsheba bowed with [her] face to the earth, and did reverence to the king, and said, Let my lord king David live for ever.
+<small><sub>**BSB:**</sub></small>
+Bathsheba bowed facedown in homage to the king and said, “May my lord King David live forever!”
+<small><sub>**Literal:**</sub></small>
+and  she bowed low Bath- -sheba face ground and  she bowed down to the  king and  she said may he live lord  my the  king David for  ever<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.30|<< 1 Kings 1:30]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.32|1 Kings 1:32 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she bowed low  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּקֹּ֨ד</big></span><small><sup>[[H6915]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ti.Kod<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bath-  | <span class="ashebrew"><big>בַּת</big></span><small><sup>[[H1339]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bat-<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -sheba  | <span class="ashebrew"><big>שֶׁ֤בַע</big></span><small><sup>[[H1339]]</sup></small> &#8207;| She.va'<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face  | <span class="ashebrew"><big>אַפַּ֙יִם֙</big></span><small><sup>[[H0639I]]</sup></small> &#8207;| 'a.Pa.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ground  | <span class="ashebrew"><big>אֶ֔רֶץ</big></span><small><sup>[[H0776H]]</sup></small> &#8207;| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she bowed down  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תִּשְׁתַּ֖חוּ</big></span><small><sup>[[H7812]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> tish.Ta.chu<small><sup>[[HVvw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the king  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֶּ֑לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>תֹּ֕אמֶר</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may he live  | <span class="ashebrew"><big>יְחִ֗י</big></span><small><sup>[[H2421]]</sup></small> &#8207;| ye.Chi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| lord my  | <span class="ashebrew"><big>אֲדֹנִ֛</big></span><small><sup>[[H0113]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֥לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  | <span class="ashebrew"><big>דָּוִ֖ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עֹלָֽם</big></span><small><sup>[[H5769G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.30|<< 1 Kings 1:30]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.32|1 Kings 1:32 >>]]</td></tr></table>
+
+

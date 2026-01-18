@@ -1,0 +1,18 @@
+ <span class="bdbLangHebrew">‎יָתוֺם‎</span> **noun [masculine]** ==orphan== (Late Hebrew ***id.***; Aramaic <span class="bdbLangAramaic">‎יַתְמָא‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMQAfAIAAAAAAAP///yH5BAAAAAAALAAAAAAxAB8AAAKHjI+py+0Po5wL0OuA3rgz7YWKJZYGaIpoyrauRL7Vt8rHxt11lXt40qPFgMNG8LQbJQNHnvCxZDaBxugpM4VZI1nu7tj8+Ypiadm8rZJ/oHO7qIXjenRLl8mLumP8afisk0OHMEdSSFSYeIgkqAiI4qgYWCdJRHWDB7aIBJU24alkIzpKKlEAADs=">; Phoenician <span class="bdbLangHebrew">‎יתם‎</span>; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKAAfAIAAAAAAAP///yH5BAAAAAAALAAAAAAoAB8AAAJkjI+py+0Po5wIWEDdVXfn2jXed4ycSUpWymZYS60r/Mg0O99Q/r3cwjv5QEMDyqjpvJQz5jBYcioDUmoVyLTGQlgjVKdF/oqkbzQcNZ96XO9RLSLv5GBQPXmP5xnHPdUPGEhRAAA7"> ***pupil, orphan***) — <span class="bdbLangHebrew">‎יָתוֺם‎</span> [[Exod.22.21|Exod 22:21]] + 29 t.; plural <span class="bdbLangHebrew">‎יְתוֺמִים‎</span> v.[[Exod.22.23|Exod 22:23]] + 8 t.; suffix <span class="bdbLangHebrew">‎יְתֹמֶיךָ‎</span> [[Jer.49.11|Jer 49:11]] <span class="bdbLangHebrew">‎יְתֹמָיו‎</span> [[Isa.9.16|Isa 9:16]] <span class="bdbLangHebrew">‎לִיתוֺמָיו‎</span> [[Ps.109.12|Ps 109:12]] — ***orphan***, i.e. fatherless (\|\| <span class="bdbLangHebrew">‎אַלְמָנָה‎</span>) [[Exod.22.23|Exod 22:23]]; [[Ps.109.9|Ps 109:9]]; [[Lam.5.3|Lam 5:3]] (\|\| <span class="bdbLangHebrew">‎אַין אָב‎</span>); [[Job.24.9|Job 24:9]]; [[Ps.109.12|Ps 109:12]] probably also [[Exod.22.21|Exod 22:21]]; [[Deut.10.18|Deut 10:18]]; [[Deut.14.29|Deut 14:29]]; [[Deut.16.11|Deut 16:11]]; [[Deut.16.14|Deut 16:14]]; [[Deut.24.17|Deut 24:17]]; [[Deut.24.19|Deut 24:19]]; [[Deut.24.20|Deut 24:20]]; [[Deut.24.21|Deut 24:21]]; [[Deut.26.12|Deut 26:12]]; [[Deut.26.13|Deut 26:13]]; [[Deut.27.19|Deut 27:19]]; [[Ps.94.6|Ps 94:6]]; [[Ps.146.9|Ps 146:9]]; [[Jer.7.6|Jer 7:6]]; [[Jer.22.3|Jer 22:3]]; [[Zech.7.10|Zech 7:10]]; [[Mal.3.5|Mal 3:5]] (in all these, mentioned as helpless, exposed to injury, \|\| <span class="bdbLangHebrew">‎אַלְמָנָה‎</span> and <span class="bdbLangHebrew">‎גֵּר‎</span>); similarly, \|\| <span class="bdbLangHebrew">‎אַלְמָנָה‎</span> [[Job.22.9|Job 22:9]]; [[Job.24.3|Job 24:3]]; [[Job.29.12|Job 29:12]]; [[Job.31.17|Job 31:17]]; [[Ps.68.6|Ps 68:6]]; [[Isa.1.17|Isa 1:17]]; [[Isa.1.23|Isa 1:23]]; [[Isa.9.16|Isa 9:16]]; [[Isa.10.2|Isa 10:2]];   without <span class="bdbLangHebrew">‎אלמנה‎</span> [[Hos.14.4|Hos 14:4]]; [[Job.6.27|Job 6:27]]; [[Job.31.21|Job 31:21]]; [[Ps.10.14|Ps 10:14]]; [[Ps.10.18|Ps 10:18]]; [[Prov.23.10|Prov 23:10]]; [[Jer.5.28|Jer 5:28]] (in no case clear that both parents are dead). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.22.21\|22:21]] · [[Exod.22.23\|22:23]] |
+| Deuteronomy | [[Deut.10.18\|10:18]] · [[Deut.14.29\|14:29]] · [[Deut.16.11\|16:11]] · [[Deut.16.14\|16:14]] · [[Deut.24.17\|24:17]] · [[Deut.24.19\|24:19]] · [[Deut.24.20\|24:20]] · [[Deut.24.21\|24:21]] · [[Deut.26.12\|26:12]] · [[Deut.26.13\|26:13]] · [[Deut.27.19\|27:19]] |
+| Job | [[Job.6.27\|6:27]] · [[Job.22.9\|22:9]] · [[Job.24.3\|24:3]] · [[Job.24.9\|24:9]] · [[Job.29.12\|29:12]] · [[Job.31.17\|31:17]] · [[Job.31.21\|31:21]] |
+| Psalms | [[Ps.10.14\|10:14]] · [[Ps.10.18\|10:18]] · [[Ps.68.6\|68:6]] · [[Ps.94.6\|94:6]] · [[Ps.109.9\|109:9]] · [[Ps.109.12\|109:12]] · [[Ps.146.9\|146:9]] |
+| Proverbs | [[Prov.23.10\|23:10]] |
+| Isaiah | [[Isa.1.17\|1:17]] · [[Isa.1.23\|1:23]] · [[Isa.9.16\|9:16]] · [[Isa.10.2\|10:2]] |
+| Jeremiah | [[Jer.5.28\|5:28]] · [[Jer.7.6\|7:6]] · [[Jer.22.3\|22:3]] · [[Jer.49.11\|49:11]] |
+| Lamentations | [[Lam.5.3\|5:3]] |
+| Hosea | [[Hos.14.4\|14:4]] |
+| Zechariah | [[Zech.7.10\|7:10]] |
+| Malachi | [[Mal.3.5\|3:5]] |
+

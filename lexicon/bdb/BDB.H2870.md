@@ -1,0 +1,11 @@
+ <span class="bdbLangHebrew">‎טָֽבְאֵל‎</span> **proper name, masculine** (Aramaic; = ***God is good***, see  <span class="bdbLangHebrew">‎טוֺב‎</span>; according to [[BDB#Wkl|Wkl]] (see below) ***God is wise***, compare Aramaic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHQAcAIAAAAAAAP///yH5BAAAAAAALAAAAAAdABwAAAJOjI+py+0PDYgU2EvbxZnxvnxggk2jZ51hqpJse4jKZmrvTN9uHUu5HuP5hENiALhZ6YDHnzOHekqN0yrsdzUlVS9ZZuv9loxiGmx4fhQAADs=">, Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMwASAIAAAAAAAP///yH5BAAAAAAALAAAAAAzABIAAAJujI+py+0Po5wM0DuB1mtzLHlbIn5RKZKfh6zjg6Kta74sTFvBa/B+fuD1ajaibvc7JlVKo+6GfC6Hx+GsCaRSsUEFVFg0boOmTjkpFUe53aubnGZ/1eP6+o6f065xrCWVchcoBBIFF1dHWLi4UAAAOw=="> ***be wise***; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIwAbAIAAAAAAAP///yH5BAAAAAAALAAAAAAjABsAAAJQjI+py+0JwJsqWklzuLrHvnHgdH2jU2KoSpYt+8Cxec41Rd9NrjN8Dzn8eh8RQqZJ8ZCVpckCYQqNShl0Uc1is66QcsUFSrrA8uhqjqbXhgIAOw=="> ***act as physician***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIgAdAIAAAAAAAP///yH5BAAAAAAALAAAAAAiAB0AAAJTjI+py+0PowEUyFBdzXDTxkmedXVeaW4PKY7g16ovm8Iajd54/vKR7ethdsHhMIQJjmxAIYITajKQKqr0ucziXNljV6GVKZfFcpFoPqYX6LX7XQAAOw=="> ***expert***) — Persian officer in Samaria [[Ezra.4.7|Ezra 4:7]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ταβεηλ</span>. 
+
+ <span class="bdbLangHebrew">‎טָֽבְאַ֑ל‎</span> **proper name, masculine** (apparently pointed to mean ***good-for-nothing*** (<span class="bdbLangHebrew">‎אַל‎</span> as negative) see [[BDB#De|De]] [[BDB#Di|Di]] [[BDB#Du|Du]] [[BDB#Sta|Sta]]<sup>Gesch i. 590</sup>, originally <span class="bdbLangHebrew">‎טָֽבְאֵל‎</span>; [[BDB#Ol|Ol]]<sup>§ 91 d</sup> [[BDB#Kö|Kö]]<sup>ii, 537</sup> and others think <span class="bdbLangHebrew">‎אַ֑ל‎</span>- simply pausal form) — Aramean, whose son Pekah and Resin proposed to make king of Jerusalem in place of Ahaz; only <span class="bdbLangHebrew">‎בֶּןטָֽֿבְאַ֑ל‎</span> [[Isa.7.6|Isa 7:6]] ([[BDB#Wkl|Wkl]]<sup>Alttest. Untersuch. 1892. 74 identification</sup> with Resin, comparing <span class="bdbLangHebrew">‎טַבְרִמֹּן‎</span> father of Benhadad). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ezra | [[Ezra.4.7\|4:7]] |
+| Isaiah | [[Isa.7.6\|7:6]] |
+

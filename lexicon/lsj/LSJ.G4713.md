@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==στάμνος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ also <span class='asgreek'>ἡ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hermippus Comicus 82.7, 3rd c.BC: Eratosthenes Epicus cited in 2nd c.AD: Athenaeus Epigrammaticus 11.499e, NT.Heb.9.4 ">NT+5th c.BC+</a>]:— <b>earthen jar</b> or <b>bottle for racking off wine</b> (compare <span class='asgreek'>κατασταμνίζω</span>), [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Plutus” 545, “fragment” 531, 5th c.BC: Hermippus Comicus [same place], 4th c.BC: Demosthenes Orator 35.32 ">Refs 5th c.BC+</a>]: generally, <b>jar</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 7.89; σ. μέλιτος LXX.1Kgs.12.24h ">LXX+5th c.BC+</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>χρυσῆ</span> <span class='asgreek'>ἔχουσα</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>μάννα</span> [<a href="javascript:void(0)" title=" [same place=NT.Heb.9.4] ">NT</a>]; used to keep money in, [<a href="javascript:void(0)" title=" “IG” 11(2).287 A 76 (Delos, 3rd c.BC), “PTeb.” 46.35 (2nd c.BC)">Refs 3rd c.BC+</a>]; as a ballot-box, [<a href="javascript:void(0)" title=" “Jahresh.” 23 “Beibl.” 75 (Pygela, 4th-3rd c.BC)">Refs 4th c.BC+</a>]; as a measure, <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἐλαίου</span> [<a href="javascript:void(0)" title=" “SIG” 900.27 (Panamara, 4th c.AD): ἀμφορέα· τὸν δίωτον ==στάμνος==ον, Ἀττικῶς, ==στάμνος==ον, Ἑλληνικῶς, 2nd c.AD: Moeris Grammaticus p.44 P. ">Refs 2nd c.AD+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Heb.9.4]] ☩ [[1Kgs.12.24]] ☩ [[Heb.9.4]]
+</sub></small>

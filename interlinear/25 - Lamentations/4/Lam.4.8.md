@@ -1,0 +1,26 @@
+**Lamentations 4:8** 
+<small><sub>**KJV:**</sub></small>
+Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
+<small><sub>**BSB:**</sub></small>
+But now their appearance is blacker than soot; they are not recognized in the streets. Their skin has shriveled on their bones; it has become as dry as a stick.
+<small><sub>**Literal:**</sub></small>
+it is dark more than  soot appearance  their not they are recognized in the  streets it has shriveled skin  their on bone  their dry it has become like \<the>  wood<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.7|<< Lamentations 4:7]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.9|Lamentations 4:9 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| it is dark  | <span class="ashebrew"><big>חָשַׁ֤ךְ</big></span><small><sup>[[H2821]]</sup></small> &#8207;| cha.Shakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than soot  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שְּׁחוֹר֙</big></span><small><sup>[[H7815]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> she.chOr<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| appearance their  | <span class="ashebrew"><big>תָּֽאֳרָ֔</big></span><small><sup>[[H8389]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| to.'o.Ra<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are recognized  | <span class="ashebrew"><big>נִכְּר֖וּ</big></span><small><sup>[[H5234A]]</sup></small> &#8207;| ni.ke.Ru<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the streets  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חוּצ֑וֹת</big></span><small><sup>[[H2351]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> chu.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has shriveled  | <span class="ashebrew"><big>צָפַ֤ד</big></span><small><sup>[[H6821]]</sup></small> &#8207;| tza.Fad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| skin their  | <span class="ashebrew"><big>עוֹרָ</big></span><small><sup>[[H5785]]</sup></small> <span class="ashebrew"><big>ם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| o.Ra<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bone their  | <span class="ashebrew"><big>עַצְמָ֔</big></span><small><sup>[[H6106G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'atz.Ma<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dry  | <span class="ashebrew"><big>יָבֵ֖שׁ</big></span><small><sup>[[H3002]]</sup></small> &#8207;| ya.Vesh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has become  | <span class="ashebrew"><big>הָיָ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> wood  | <span class="ashebrew"><big>כָ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֵֽץ</big></span><small><sup>[[H6086G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| kha.<small><sup>[[HRd]]</sup></small> 'Etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.7|<< Lamentations 4:7]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.9|Lamentations 4:9 >>]]</td></tr></table>
+
+

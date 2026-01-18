@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==παιδαγωγός==</span>-<span class='asgreek'>ός</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ ={<span class='asgreek'>παιδὸς</span> <span class='asgreek'>ἀγωγός</span>}, <b>slave who went with a boy from home to school and back again</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.75, 5th c.BC: Euripides Tragicus “Ion” 725, “El.” 287, 5th c.BC: Antipho Orator 3.3.7, 5th c.BC: Lysias Orator 32.28, 5th-6th c.BC: Plato Philosophus “Lysis” 208c: coupled with τίτθη, τροφός, [prev. author] “R.” 373c; with ἡγεμών, [prev. work] 467d ">Refs 5th c.BC+</a>]; with <span class='asgreek'>διδάσκαλος</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Respublica Lacedaemoniorum” 3.1 ">Refs 5th c.BC+</a>]; of Phoenix, as the <span class='asgreek'>π</span>. of Achilles, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 390e, etc.">Refs 5th c.BC+</a>]; Fabius is called the <span class='asgreek'>π</span>. of Hannibal, <b>because he always followed him about</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fabius Maximus” 5: \_metaphorically\_, ὁ νόμος π. εἰς Χριστόν">Refs 1st c.AD+</a>] <b>has guided us</b> until attainment of faith in Christ, [<a href="javascript:void(0)" title=" NT.Gal.3.24 ">NT</a>]: generally, <b>leader</b>, <span class='asgreek'>δημοκρατίας</span>, <span class='asgreek'>τυραννίδος</span>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aratus” 48, “Galb.” 17. ">Refs 1st c.AD+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Gal.3.24]]
+</sub></small>

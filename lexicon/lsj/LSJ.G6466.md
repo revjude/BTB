@@ -1,0 +1,9 @@
+<span class="asgreek">ἀποπηδάω</span> <small>***(apopēdaō)***</small> ==**to leap back**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀποπηδάω==</span>-<span class='asgreek'>άω</span></b>, 
+
+
+ <b>leap off,</b> especially of riders, <b>dismount,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fabius Maximus” 16, 4th c.AD: Julianus Imperator “Orationes” 2.60a, etc. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>start off from, turn away from,</b> <span class='asgreek'>ἀπό</span> <span class='asgreek'>τινος</span>[<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 47">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>φύσιος</span> <b>from</b> its natural position, of a joint, [<a href="javascript:void(0)" title="[prev. work] 61">Refs</a>]; <i>metaphorically</i>, <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>λόγου</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 164c; Σωκράτους 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.2.16">Refs 5th c.BC+</a>]: <i>absolutely</i>, <b>leap off,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 613b">Refs 5th c.BC+</a>]; <b>stalk off,</b> <span class='asgreek'>οἴχεται</span> <span class='asgreek'>==ἀποπηδάω==ήσας</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἄλλον</span>[<a href="javascript:void(0)" title=" [prev. author] “Lg.” 720c; ἐς τὰ Περσῶν ἤθη 6th c.AD: Procopius Caesariensis Historicus “de Bello Gothico” 1.24. ">Refs 6th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>rebound,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Audibilibus” 803b1, 1st c.AD: Philo Judaeus 1.610.">Refs 4th c.BC+</a>]

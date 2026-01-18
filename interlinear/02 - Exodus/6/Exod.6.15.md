@@ -1,0 +1,26 @@
+**Exodus 6:15** 
+<small><sub>**KJV:**</sub></small>
+And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these [are] the families of Simeon.
+<small><sub>**BSB:**</sub></small>
+The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman. These were the clans of Simeon.
+<small><sub>**Literal:**</sub></small>
+and  [the] sons of Simeon [were] Jemuel and  Jamin and  Ohad and  Jakin and  Zohar and  Shaul [the] son of \<the>  Canaanite [woman] these [were] [the] clans of Simeon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.14|<< Exodus 6:14]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.16|Exodus 6:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] sons of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֵ֣י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Simeon  | <span class="ashebrew"><big>שִׁמְע֗וֹן</big></span><small><sup>[[H8095G]]</sup></small> &#8207;| shim.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] Jemuel  | <span class="ashebrew"><big>יְמוּאֵ֨ל</big></span><small><sup>[[H3223]]</sup></small> &#8207;| ye.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jamin  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יָמִ֤ין</big></span><small><sup>[[H3226G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Ohad  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֹ֙הַד֙</big></span><small><sup>[[H0161]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'O.had<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Jakin  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יָכִ֣ין</big></span><small><sup>[[H3199G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ya.Khin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Zohar  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>צֹ֔חַר</big></span><small><sup>[[H6714H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Tzo.char<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Shaul  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שָׁא֖וּל</big></span><small><sup>[[H7586H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Canaanite [woman]  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כְּנַעֲנִ֑ית</big></span><small><sup>[[H3669G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ke.na.'a.Nit<small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  | <span class="ashebrew"><big>אֵ֖לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] clans of  | <span class="ashebrew"><big>מִשְׁפְּחֹ֥ת</big></span><small><sup>[[H4940]]</sup></small> &#8207;| mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Simeon  | <span class="ashebrew"><big>שִׁמְעֽוֹן</big></span><small><sup>[[H8095G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| shim.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.14|<< Exodus 6:14]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.16|Exodus 6:16 >>]]</td></tr></table>
+
+

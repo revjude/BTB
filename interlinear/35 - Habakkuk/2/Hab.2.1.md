@@ -1,0 +1,28 @@
+**Habakkuk 2:1** 
+<small><sub>**KJV:**</sub></small>
+I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
+<small><sub>**BSB:**</sub></small>
+I will stand at my guard post and station myself on the ramparts. I will watch to see what He will say to me, and how I should answer when corrected.
+<small><sub>**Literal:**</sub></small>
+at post  my I will stand and  I will take my stand on [the] fortification so  I may watch to  see what? will he speak by  me and  what? will I bring back on complaint  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.17|<< Habakkuk 1:17]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.2|Habakkuk 2:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| at  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| post my  | <span class="ashebrew"><big>מִשְׁמַרְתִּ֣</big></span><small><sup>[[H4931]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| mish.mar.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will stand  | <span class="ashebrew"><big>אֶעֱמֹ֔דָה</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| 'e.'e.Mo.dah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will take my stand  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶֽתְיַצְּבָ֖ה</big></span><small><sup>[[H3320]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'et.ya.tze.Vah<small><sup>[[HVtc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] fortification  | <span class="ashebrew"><big>מָצ֑וֹר</big></span><small><sup>[[H4692]]</sup></small> &#8207;| ma.Tzor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so I may watch  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲצַפֶּ֗ה</big></span><small><sup>[[H6822]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.tza.Peh<small><sup>[[HVpu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to see  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רְאוֹת֙</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> r.'Ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  | <span class="ashebrew"><big>מַה</big></span><small><sup>[[H4100]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he speak  | <span class="ashebrew"><big>יְדַבֶּר</big></span><small><sup>[[H1696G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ye.da.ber-<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by me  | <span class="ashebrew"><big>בִּ֔</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| B<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and what?  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מָ֥ה</big></span><small><sup>[[H4100]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will I bring back  | <span class="ashebrew"><big>אָשִׁ֖יב</big></span><small><sup>[[H7725M]]</sup></small> &#8207;| 'a.Shiv<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| complaint my  | <span class="ashebrew"><big>תּוֹכַחְתִּֽ</big></span><small><sup>[[H8433B]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| to.khach.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.17|<< Habakkuk 1:17]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.2|Habakkuk 2:2 >>]]</td></tr></table>
+
+

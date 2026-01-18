@@ -1,0 +1,13 @@
+<span class="asgreek">πρεσβεῖον</span> <small>***(presbeion)***</small> ==**senior**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==πρεσβεῖον==</span>-<span class='asgreek'>εῖον</span></b>, 
+
+
+ <i>Ionic dialect</i> and <i>Epic dialect</i> <b><span class='asgreek'>==πρεσβεῖον==</span>-<span class='asgreek'>ή</span>ϊ<span class='asgreek'>ον</span></b>, <span class='asgreek'>τό</span>, <b>gift of honour,</b> <span class='asgreek'>πρώτῳ</span> <span class='asgreek'>τοι</span> <span class='asgreek'>μετ᾽</span> <span class='asgreek'>ἐμὲ</span> <span class='asgreek'>==πρεσβεῖον==ή</span>ϊ<span class='asgreek'>ον</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>χερὶ</span> <span class='asgreek'>θήσω</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 8.289; λαχὼν ==πρεσβεῖον==ήϊα τέχνης “Anthologia Graeca” 9.656.6. ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>privilege of age,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.787d, compare 4th c.BC: Demosthenes Orator 39.29 ">Refs 4th c.BC+</a>]: hence, generally, <b>privilege</b>: <i>plural</i>, <b>prerogatives,</b> <span class='asgreek'>==πρεσβεῖον==εῖα</span> <span class='asgreek'>διδόναι</span> <span class='asgreek'>τινί</span>, with <i>infinitive</i>, give him <b>as a privilege,</b> to.., [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Gorgias” 524a; ==πρεσβεῖον==είων ἐπιλαμβάνειν 4th c.BC: Aristoteles Philosophus “Ethica Eudemia” 1242a6: with \_genitive\_, γῆς ==πρεσβεῖον==εῖα">Refs 5th c.BC+</a>] <b>chief share</b> or <b>sovereignty</b> of the land, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 24.3. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>right of the eldest, his share of the inheritance,</b> <span class='asgreek'>==πρεσβεῖον==εῖα</span> <span class='asgreek'>λαβεῖν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 36.35, compare 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 2.1.1; ἀπολιπεῖν π. τὴν ἀρχήν 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Artoxerxes” 26 ">Refs 4th c.BC+</a>]; <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>π</span>., ={<span class='asgreek'>κατὰ</span> <span class='asgreek'>==πρεσβεῖον==είαν</span>}, [<a href="javascript:void(0)" title=" LXX.Gen.43.33, compare 1st c.BC: Nicolaus Damascenus Historicus 58J. ">LXX+1st c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>old age</b> itself, [<a href="javascript:void(0)" title=" LXX.Ps.70.18. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[Gen.43.33]] ☩ [[Ps.70.18]]
+</sub></small>

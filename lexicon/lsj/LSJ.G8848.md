@@ -1,0 +1,9 @@
+<span class="asgreek">πολυάνδριον</span> <small>***(poluandrion)***</small> ==**a cemetery**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==πολυάνδριον==</span>-<span class='asgreek'>ιος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>of</b> or <b>connected with many men,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>. <span class='asgreek'>κακὸν</span> <span class='asgreek'>μεταδιώκειν</span>, i. e. <b>prostitution,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.568 (sed to be read -ανδρον)">Refs 1st c.AD+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>τάφος</span>, ={<span class='asgreek'>πολυανδρεῖον</span>}, [<a href="javascript:void(0)" title=" 4th-5th c.AD: Eunapius Historicus “Fragmenta Historica - HGM” p.264 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>δαίμονες</span> spirits <b>which haunt a</b> <span class='asgreek'>πολυανδρεῖον</span>, [<a href="javascript:void(0)" title=" “Tab.Defix.Aud.” 22.30. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>substantive</i> <b><span class='asgreek'>==πολυάνδριον==</span>-<span class='asgreek'>ιον</span></b>, <span class='asgreek'>τό</span>, <b>place where many people assemble,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.823e (\_plural\_). ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> ={<span class='asgreek'>πολυανδρεῖον</span>}, [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 86.14, 1st c.BC: Dionysius Halicarnassensis 1.14, 1st c.BC-1st c.AD: Strabo Geographus 9.4.16, 1st c.AD: Josephus Historicus “Bellum Judaicum” 5.1.3, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Flamininus” 7, 2nd-3rd c.AD: Aelianus “Varia Historia” 12.21. ">Refs 3rd c.BC+</a>]

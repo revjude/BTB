@@ -1,0 +1,30 @@
+**1 Kings 6:10** 
+<small><sub>**KJV:**</sub></small>
+And [then] he built chambers against all the house, five cubits high: and they rested on the house with timber of cedar.
+<small><sub>**BSB:**</sub></small>
+He built chambers all along the temple, each five cubits high and attached to the temple with beams of cedar.
+<small><sub>**Literal:**</sub></small>
+and  he built \<obj.> the  extension on all the  house [was] five cubits height  its and  he covered \<obj.> the  house with  wood\<s> of cedar\<s><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.9|<< 1 Kings 6:9]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.11|1 Kings 6:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he built  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּ֤בֶן</big></span><small><sup>[[H1129]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yi.ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the extension  [^2] | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יָּצִ֙יעַ֙</big></span><small><sup>[[H3326B]]</sup></small> &#8207;[^3] | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the house  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בַּ֔יִת</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] five  | <span class="ashebrew"><big>חָמֵ֥שׁ</big></span><small><sup>[[H2568]]</sup></small> &#8207;| cha.Mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubits  | <span class="ashebrew"><big>אַמּ֖וֹת</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| 'a.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| height its  | <span class="ashebrew"><big>קֽוֹמָת֑</big></span><small><sup>[[H6967]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ko.ma.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he covered  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֶּאֱחֹ֥ז</big></span><small><sup>[[H0270]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.'e.Choz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the house  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>בַּ֖יִת</big></span><small><sup>[[H1004B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with wood\<s> of  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲצֵ֥י</big></span><small><sup>[[H6086G]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> 'a.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cedar\<s>  | <span class="ashebrew"><big>אֲרָזִֽים</big></span><small><sup>[[H0730]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| 'a.ra.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.9|<< 1 Kings 6:9]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.11|1 Kings 6:11 >>]]</td></tr></table>
+
+[^1]: ==K==: **the bed ** | <small><sup>[[H3326B]]</sup></small><span class="ashebrew"><big>יָּצוֹעַ</big></span> <small><sup>[[H9009]]</sup></small><span class="ashebrew"><big>הַ</big></span>  | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> 
+[^2]: ==K==: **the bed ** | <small><sup>[[H3326B]]</sup></small><span class="ashebrew"><big>יָּצוֹעַ</big></span> <small><sup>[[H9009]]</sup></small><span class="ashebrew"><big>הַ</big></span>  | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>הַיָּצִ֙ועַ֙</big></span>**
+

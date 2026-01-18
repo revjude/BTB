@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==κατόρθωμα==</span>-<span class='asgreek'>ωμα</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ <b>success</b>, opposed to <span class='asgreek'>εὐτύχημα</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Magna Moralia” 1199a13, compare 2nd c.BC: Polybius Historicus 1.19.12, 1st c.BC-1st c.AD: Strabo Geographus 15.1.54, 1st c.BC: Diodorus Siculus Historicus 13.22, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Marius” 10 ">Refs 4th c.BC+</a>]; of literary style, [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 33.1, 36.2: \_plural\_, opposed to ἀποτεύγματα, 1st c.BC: Philodemus Philosophus “περὶ κακιῶν ί” p.35 1st c.AD: Josephus Historicus ">Refs 1st c.BC+</a>]; variant for <span class='asgreek'>διορθ</span>-, [<a href="javascript:void(0)" title=" NT.Acts.24.2 (\_plural\_). ">NT</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>that which is done rightly, virtuous action</b>, in <i>plural</i>, opposed to <span class='asgreek'>ἁμαρτήματα</span>, [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 2.295, +others, compare “IG” 5(2).268.15 (Mantinea, 1st c.BC)">Refs 3rd c.BC+</a>], etc.; <span class='asgreek'>τῶν</span> <span class='asgreek'>καθηκόντων</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>τέλεια</span>, ={<span class='asgreek'>τὰ</span> <span class='asgreek'>κ</span>}., [<a href="javascript:void(0)" title=" “Stoicorum Veterum Fragmenta” 3.134. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>perfection</b>, <span class='asgreek'>τέλος</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>πέρας</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 5th c.AD: Hermias Alexandrinus Philosophus “in Platonis Phaedrum scholia” p.173 4th-5th c.BC: Aeschylus Tragicus, compare 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 9.16. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> Grammars, <b>correct use</b>, opposed to <span class='asgreek'>βαρβαρισμός</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.124. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.24.2]]
+</sub></small>

@@ -1,0 +1,8 @@
+ [<span class="bdbLangHebrew">‎כִּידוֺד‎</span>] **noun masculine** ==spark== (from above √, = ***strike out*** a spark, according to [[BDB#Thes|Thes]] [[BDB#Ges|Rob-Ges]], compare [[BDB#Sta|Sta]]<sup>§ 216</sup> (doubtfully), [[BDB#Lag|Lag]]<sup>BN 182</sup> [[BDB#Kö|Kö]]<sup>ii. 147, § 71. 1</sup>, Late Hebrew <span class="bdbLangHebrew">‎כִּדּוֺד‎</span> = ***rod*** (of iron, etc.); <span class="bdbLangHebrew">‎כִּדּוֺדִיּוֺתְ שֶׁל אֵשׁ‎</span> i.e. ***red-hot rods***; but [[BDB#Ba|Ba]]<sup>NB § 142, 139</sup> derives this and <span class="bdbLangHebrew">‎כַּדְכִּד‎</span> from √ <span class="bdbLangHebrew">‎כיד‎</span> = Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHwAZAIAAAAAAAP///yH5BAAAAAAALAAAAAAfABkAAAJGjI+py+0HwJshWkndzc/y6X1NKDJkuUSopoqY2XKxclIzfXcvvIN9UtMJZbFTDoi5SJRKHXPD9JF+lZVVVqGiVMer9xsoAAA7">, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIQAZAIAAAAAAAP///yH5BAAAAAAALAAAAAAhABkAAAJRjI+py+0PYwKyBoCtwVlxzX2ICHajqTXkgzKrGh7tRUXxOM3wYr7pVqP9eEHfD2UsnYKSF5P2ZCGjOseKWt3JiKneM5mD5kLZsZMchYGH7EYBADs="> ***emit fire*** (said of a fire-stick, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhGwAcAIAAAAAAAP///yH5BAAAAAAALAAAAAAbABwAAAJSjI+pywcPWoLRUWkheoZLWlmBN4WgcmVk920ahppwE86s/a207i7r66uJcMAeUdhBGk8lYxKkiRRHQiY1NUHhNttdl8H7hsXK7ZRcnlm/VPa3AAA7">, [[BDB#Lane|Lane]]<sup>2639 b</sup>, compare 1257 b), and so [[BDB#Buhl|Buhl]]) — only plural construct <span class="bdbLangHebrew">‎כִּידוֺדֵי אֵשׁ‎</span> [[Job.41.11|Job 41:11]] of breath of crocodile (\|\| <span class="bdbLangHebrew">‎לַפִּידִים‎</span>). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Job | [[Job.41.11\|41:11]] |
+

@@ -1,0 +1,24 @@
+**1 Kings 20:38** 
+<small><sub>**KJV:**</sub></small>
+So the prophet departed, and waited for the king by the way, and disguised himself with ashes upon his face.
+<small><sub>**BSB:**</sub></small>
+and the prophet went and waited on the road for the king, disguising himself with a bandage over his eyes.
+<small><sub>**Literal:**</sub></small>
+and  he went the  prophet and  he stood for the  king beside the  way and  he disguised himself with \<the>  ashes over eyes  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.37|<< 1 Kings 20:37]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.39|1 Kings 20:39 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he went  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּ֙לֶךְ֙</big></span><small><sup>[[H1980G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the prophet  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נָּבִ֔יא</big></span><small><sup>[[H5030]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he stood  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּעֲמֹ֥ד</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the king  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מֶּ֖לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beside  [^1] | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad Allepo Biblia (benchayim)">LAB(H)</abbr> |
+| the way  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>דָּ֑רֶךְ</big></span><small><sup>[[H1870K]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Da.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he disguised himself  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּתְחַפֵּ֥שׂ</big></span><small><sup>[[H2664]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yit.cha.Pes<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> ashes  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֲפֵ֖ר</big></span><small><sup>[[H0666]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'a.Fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eyes his  | <span class="ashebrew"><big>עֵינָֽי</big></span><small><sup>[[H5869A]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.37|<< 1 Kings 20:37]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.39|1 Kings 20:39 >>]]</td></tr></table>
+
+[^1]: ==H==: **on ** | <small><sup>[[H9014]]</sup></small><span class="ashebrew"><big>־</big></span> <small><sup>[[H0413]]</sup></small><span class="ashebrew"><big>אֶל</big></span>  | 'al-<small><sup>[[HR]]</sup></small> 
+

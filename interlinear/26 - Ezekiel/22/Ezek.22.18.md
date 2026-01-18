@@ -1,0 +1,33 @@
+**Ezekiel 22:18** 
+<small><sub>**KJV:**</sub></small>
+Son of man, the house of Israel is to me become dross: all they [are] brass, and tin, and iron, and lead, in the midst of the furnace; they are [even] the dross of silver.
+<small><sub>**BSB:**</sub></small>
+“Son of man, the house of Israel has become dross to Me. All of them are copper, tin, iron, and lead inside the furnace; they are but the dross of silver.
+<small><sub>**Literal:**</sub></small>
+O son of humankind they have become to  me [the] house of Israel \<into>  dross all of  them [are] copper and  tin and  iron and  lead in  [the] midst of a furnace dross\<es> silver they have become<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.17|<< Ezekiel 22:17]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.19|Ezekiel 22:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| O son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| humankind  | <span class="ashebrew"><big>אָדָ֕ם</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have become  | <span class="ashebrew"><big>הָיוּ</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ha.yu-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>לִ֥</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵֽית</big></span><small><sup>[[H1004M]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| veit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֖ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> dross  [^2] | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>סִ֑יג</big></span><small><sup>[[H5509]]</sup></small> &#8207;[^3] | le.<small><sup>[[HR]]</sup></small> sug<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| all of them  | <span class="ashebrew"><big>כֻּלָּ֡</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] copper  | <span class="ashebrew"><big>נְ֠חֹשֶׁת</big></span><small><sup>[[H5178A]]</sup></small> &#8207;| Ne.cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and tin  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְדִ֨יל</big></span><small><sup>[[H0913]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.Dil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and iron  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בַרְזֶ֤ל</big></span><small><sup>[[H1270]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> var.Zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and lead  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עוֹפֶ֙רֶת֙</big></span><small><sup>[[H5777]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'o.Fe.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] midst of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ת֣וֹךְ</big></span><small><sup>[[H8432]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a furnace  | <span class="ashebrew"><big>כּ֔וּר</big></span><small><sup>[[H3564]]</sup></small> &#8207;| Kur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dross\<es>  | <span class="ashebrew"><big>סִגִ֥ים</big></span><small><sup>[[H5509]]</sup></small> &#8207;| si.Gim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  | <span class="ashebrew"><big>כֶּ֖סֶף</big></span><small><sup>[[H3701G]]</sup></small> &#8207;| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have become  | <span class="ashebrew"><big>הָיֽוּ</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.17|<< Ezekiel 22:17]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.19|Ezekiel 22:19 >>]]</td></tr></table>
+
+[^1]: ==K==: **\<into> dross ** | <small><sup>[[H5509]]</sup></small><span class="ashebrew"><big>סוּג</big></span> <small><sup>[[H9005]]</sup></small><span class="ashebrew"><big>לְ</big></span>  | le.<small><sup>[[HR]]</sup></small> sug<small><sup>[[HNcbsa]]</sup></small> 
+[^2]: ==K==: **\<into> dross ** | <small><sup>[[H5509]]</sup></small><span class="ashebrew"><big>סוּג</big></span> <small><sup>[[H9005]]</sup></small><span class="ashebrew"><big>לְ</big></span>  | le.<small><sup>[[HR]]</sup></small> sug<small><sup>[[HNcbsa]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>לְסִ֑וג</big></span>**
+

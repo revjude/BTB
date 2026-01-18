@@ -1,0 +1,36 @@
+**Daniel 3:5** 
+<small><sub>**KJV:**</sub></small>
+[That] at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:
+<small><sub>**BSB:**</sub></small>
+As soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, you must fall down and worship the golden statue that King Nebuchadnezzar has set up.
+<small><sub>**Literal:**</sub></small>
+at  time  the which you will hear [the] sound of horn  the flute  the zither trigon harp pipe and  all \<the> kinds of \<the>  music you will fall down so  you may pay homage to  [the] image of \<the>  gold which he has set up Nebuchadnezzar king  the<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.4|<< Daniel 3:4]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.6|Daniel 3:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| at time the  | <span class="asaramaic"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="asaramaic"><big>עִדָּנָ֡</big></span><small><sup>[[H5732]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| be.<small><sup>[[AR]]</sup></small> 'i.da.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="asaramaic"><big>דִּֽי</big></span><small><sup>[[H1768]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will hear  | <span class="asaramaic"><big>תִשְׁמְע֡וּן</big></span><small><sup>[[H8086]]</sup></small> &#8207;| tish.me.'Un<small><sup>[[AVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sound of  | <span class="asaramaic"><big>קָ֣ל</big></span><small><sup>[[H7032G]]</sup></small> &#8207;| kal<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| horn the  | <span class="asaramaic"><big>קַרְנָ֣</big></span><small><sup>[[H7162]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| kar.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flute the  | <span class="asaramaic"><big>מַ֠שְׁרוֹקִיתָ</big></span><small><sup>[[H4953]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| Mash.ro.ki.ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| zither  | <span class="asaramaic"><big>קַתְר֨וֹס</big></span><small><sup>[[H7030]]</sup></small> &#8207;[^1] [^2] | ki.ta.ros<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| trigon  | <span class="asaramaic"><big>סַבְּכָ֤א</big></span><small><sup>[[H5443]]</sup></small> &#8207;| sa.be.Kha'<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| harp  | <span class="asaramaic"><big>פְּסַנְתֵּרִין֙</big></span><small><sup>[[H6460]]</sup></small> &#8207;| pe.san.te.Rin<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pipe  | <span class="asaramaic"><big>סוּמְפֹּ֣נְיָ֔ה</big></span><small><sup>[[H5481]]</sup></small> &#8207;| su.me.Po.ne.Yah<small><sup>[[ANcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>כֹ֖ל</big></span><small><sup>[[H3606]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> Khol<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> kinds of  | <span class="asaramaic"><big>זְנֵ֣י</big></span><small><sup>[[H2178]]</sup></small> &#8207;| ze.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> music  | <span class="asaramaic"><big>זְמָרָ֑</big></span><small><sup>[[H2170]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| ze.ma.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will fall down  | <span class="asaramaic"><big>תִּפְּל֤וּן</big></span><small><sup>[[H5308]]</sup></small> &#8207;| ti.pe.Lun<small><sup>[[AVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so you may pay homage  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>תִסְגְּדוּן֙</big></span><small><sup>[[H5457]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> tis.ge.Dun<small><sup>[[AVqu2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] image of  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>צֶ֣לֶם</big></span><small><sup>[[H6755]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> Tze.lem<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> gold  | <span class="asaramaic"><big>דַּהֲבָ֔</big></span><small><sup>[[H1722]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| da.ha.Va<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="asaramaic"><big>דִּ֥י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has set up  | <span class="asaramaic"><big>הֲקֵ֖ים</big></span><small><sup>[[H6966I]]</sup></small> &#8207;| ha.Keim<small><sup>[[AVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Nebuchadnezzar  | <span class="asaramaic"><big>נְבוּכַדְנֶצַּ֥ר</big></span><small><sup>[[H5020]]</sup></small> &#8207;| ne.vu.khad.ne.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  | <span class="asaramaic"><big>מַלְכָּֽ</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.4|<< Daniel 3:4]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.6|Daniel 3:6 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="asaramaic"><big>קַיתְר֨וֹס</big></span>**
+[^2]: ==K== spelled: **<span class="asaramaic"><big>קִיתָרוֹס</big></span>**
+

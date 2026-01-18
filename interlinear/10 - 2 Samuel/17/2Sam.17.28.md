@@ -1,0 +1,24 @@
+**2 Samuel 17:28** 
+<small><sub>**KJV:**</sub></small>
+Brought beds, and basons, and earthen vessels, and wheat, and barley, and flour, and parched [corn], and beans, and lentiles, and parched [pulse],
+<small><sub>**BSB:**</sub></small>
+They brought beds, basins, and earthen vessels, as well as wheat, barley, flour, roasted grain, beans, lentils,
+<small><sub>**Literal:**</sub></small>
+bed[s] and  basins and  a vessel of a potter and  wheat\<s> and  barley\<s> and  flour and  roasted grain and  bean[s] and  lentils and  roasted grain<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.27|<< 2 Samuel 17:27]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.29|2 Samuel 17:29 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| bed[s]  | <span class="ashebrew"><big>מִשְׁכָּ֤ב</big></span><small><sup>[[H4904]]</sup></small> &#8207;| mish.Kav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and basins  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>סַפּוֹת֙</big></span><small><sup>[[H5592A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sa.pOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a vessel of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְלִ֣י</big></span><small><sup>[[H3627]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.Li<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a potter  | <span class="ashebrew"><big>יוֹצֵ֔ר</big></span><small><sup>[[H3335H]]</sup></small> &#8207;| yo.Tzer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wheat\<s>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חִטִּ֥ים</big></span><small><sup>[[H2406]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> chi.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and barley\<s>  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׂעֹרִ֖ים</big></span><small><sup>[[H8184]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> se.'o.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and flour  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קֶ֣מַח</big></span><small><sup>[[H7058]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ke.mach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and roasted grain  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קָלִ֑י</big></span><small><sup>[[H7039]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ka.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and bean[s]  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פ֥וֹל</big></span><small><sup>[[H6321]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> Fol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and lentils  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲדָשִׁ֖ים</big></span><small><sup>[[H5742]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and roasted grain  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קָלִֽי</big></span><small><sup>[[H7039]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ka.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.27|<< 2 Samuel 17:27]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.29|2 Samuel 17:29 >>]]</td></tr></table>
+
+

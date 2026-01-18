@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==κακοπάθεια==</span>-<span class='asgreek'>εια</span></b> [<span class='asgreek'>πᾰ</span>], <span class='asgreek'>ἡ</span>, 
+
+
+ <b>distress, misery</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 10, 5th c.BC: Antipho Orator 3.2.11, Isocrates 6.55, 4th c.BC: Aristoteles Philosophus “Politica” 1278b28; σώματος 5th c.BC: Antipho Orator 5.18 ">Refs 5th c.BC+</a>]; of plants or trees, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 3.7.8 ">Refs 4th c.BC+</a>]; <b>strain, stress</b>, on the parts of a machine, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “Belopoeica” 93.1: \_plural\_, 5th c.BC: Hippocrates Medicus ">Refs 5th c.BC+</a>] [same place]; <span class='asgreek'>ταῖς</span> <span class='asgreek'>παρὰ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀξίαν</span> <span class='asgreek'>νῦν</span> <span class='asgreek'>κακοπαθείαις</span> your present unmerited <b>sufferings</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 7.77 ">Refs 5th c.BC+</a>]:—later, usually written <b><span class='asgreek'>κᾰκοπαθ</span>-<span class='asgreek'>παθία</span></b>, [<a href="javascript:void(0)" title=" “IG” 22.900.16 (2nd c.BC), “SIG” 685.30 (Magnesia, 2nd c.BC), “BGU” 1209.7 (1st c.BC), NT.Jas.5.10: \_plural\_, “IG” 12(7).386.24 (Amorgos, 3rd c.BC), 1st c.BC: Philodemus Philosophus “de Pietate - Herkulanische Studien” 86, etc.">NT+3rd c.BC+</a>]; <b>laborious toil, perseverance</b>, [<a href="javascript:void(0)" title=" “BGU” [prev. cited] (1st c.BC). ">Refs 1st c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Jas.5.10]]
+</sub></small>

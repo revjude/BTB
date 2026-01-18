@@ -1,0 +1,30 @@
+**Nehemiah 7:63** 
+<small><sub>**KJV:**</sub></small>
+And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took [one] of the daughters of Barzillai the Gileadite to wife, and was called after their name.
+<small><sub>**BSB:**</sub></small>
+And from among the priests: the descendants of Hobaiah, the descendants of Hakkoz, and the descendants of Barzillai (who had married a daughter of Barzillai the Gileadite and was called by their name).
+<small><sub>**Literal:**</sub></small>
+and  of the  priests [the] descendants of Hobaiah [the] descendants of Hakkoz [the] descendants of Barzillai who he had taken one of  [the] daughters of Barzillai the  Gileadite wife and  he was called on name  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.62|<< Nehemiah 7:62]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.64|Nehemiah 7:64 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִן</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the priests  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כֹּ֣הֲנִ֔ים</big></span><small><sup>[[H3548]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hobaiah  | <span class="ashebrew"><big>חֳבַיָּ֖ה</big></span><small><sup>[[H2252]]</sup></small> &#8207;| choai.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hakkoz  | <span class="ashebrew"><big>הַקּ֑וֹץ</big></span><small><sup>[[H6976I]]</sup></small> &#8207;| ha.Kotz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֣י</big></span><small><sup>[[H1121G]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Barzillai  | <span class="ashebrew"><big>בַרְזִלַּ֗י</big></span><small><sup>[[H1271I]]</sup></small> &#8207;| var.zi.Lai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had taken  | <span class="ashebrew"><big>לָ֠קַח</big></span><small><sup>[[H3947I]]</sup></small> &#8207;| La.kach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one of [the] daughters of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בְּנ֞וֹת</big></span><small><sup>[[H1323G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> be.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Barzillai  | <span class="ashebrew"><big>בַּרְזִלַּ֤י</big></span><small><sup>[[H1271I]]</sup></small> &#8207;| bar.zi.Lai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Gileadite  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּלְעָדִי֙</big></span><small><sup>[[H1569]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> gil.'a.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wife  | <span class="ashebrew"><big>אִשָּׁ֔ה</big></span><small><sup>[[H0802H]]</sup></small> &#8207;| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was called  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקָּרֵ֖א</big></span><small><sup>[[H7121H]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Re'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name their  | <span class="ashebrew"><big>שְׁמָֽ</big></span><small><sup>[[H8034]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| she.Ma<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.62|<< Nehemiah 7:62]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.64|Nehemiah 7:64 >>]]</td></tr></table>
+
+

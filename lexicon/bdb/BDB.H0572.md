@@ -1,0 +1,8 @@
+ <span class="bdbLangHebrew">‎אַמְתַּ֫חַת‎</span> **noun feminine** ==sack==, only Gen 42-44; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> construction [[Gen.44.2|Gen 44:2]]; [[Gen.44.12|Gen 44:12]] suffix <span class="bdbLangHebrew">‎אַמְתַּחְתִּי‎</span> [[Gen.42.28|Gen 42:28]], <span class="bdbLangHebrew">‎אַמְתַּחְתּוֺ‎</span> [[Gen.42.27|Gen 42:27]] + 2 t.; plural construct <span class="bdbLangHebrew">‎אַמְתְּחֹת‎</span> [[Gen.44.1|Gen 44:1]] suffix <span class="bdbLangHebrew">‎אַמְתְּחֹתֵינוּ‎</span> [[Gen.43.18|Gen 43:18]] + 3 t.; <span class="bdbLangHebrew">‎אַמְתְּחֹתֵיכֶם‎</span> [[Gen.43.12|Gen 43:12]]; [[Gen.43.23|Gen 43:23]] — ***sack*** (s) in which brethren of Joseph carried corn from Egypt; in phrase <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּטִי אַמ‎</span> [[Gen.42.27|Gen 42:27]] ***in the mouth of the sack***, so [[Gen.43.12|Gen 43:12]]; [[Gen.43.21|Gen 43:21]]; [[Gen.44.1|Gen 44:1]]; [[Gen.44.2|Gen 44:2]]; [[Gen.44.8|Gen 44:8]] elsewhere [[Gen.42.28|Gen 42:28]]; [[Gen.43.18|Gen 43:18]]; [[Gen.43.21|Gen 43:21]]; [[Gen.43.22|Gen 43:22]]; [[Gen.43.23|Gen 43:23]]; [[Gen.44.1|Gen 44:1]]; [[Gen.44.11|Gen 44:11]]; [[Gen.44.11|Gen 44:11]]; [[Gen.44.12|Gen 44:12]] (all [[BDB#J|J]]). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.42.27\|42:27]] · [[Gen.42.28\|42:28]] · [[Gen.43.12\|43:12]] · [[Gen.43.18\|43:18]] · [[Gen.43.21\|43:21]] · [[Gen.43.22\|43:22]] · [[Gen.43.23\|43:23]] · [[Gen.44.1\|44:1]] · [[Gen.44.2\|44:2]] · [[Gen.44.8\|44:8]] · [[Gen.44.11\|44:11]] · [[Gen.44.12\|44:12]] |
+

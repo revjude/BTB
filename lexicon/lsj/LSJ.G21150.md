@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==συγκαταγηράσκω==</span>-<span class='asgreek'>γηράσκω</span></b>, 
+
+
+ <i>perfect</i> <b>-<span class='asgreek'>γεγήρακα</span></b>[<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Fragmenta” 217 ">Refs 4th c.BC+</a>]:—<b>grow old with</b> or <b>together</b>, <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 4th c.BC: Isaeus Orator 2.7, 4th-3rd c.BC: Epicurus Philosophus [same place], LXX.Tob.8.7 ">LXX+4th c.BC+</a>]; <span class='asgreek'>λύπη</span> <span class='asgreek'>ἀπόρῳ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>βίῳ</span> <b>lasts to the end of</b> it, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus “Kith.fragment” 1 ">Refs 4th c.BC+</a>]; of fast colours, <span class='asgreek'>σ</span>. <span class='asgreek'>τῷ</span> <span class='asgreek'>εἰρίῳ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.203 ">Refs 5th c.BC+</a>]; of a morbid growth, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 776a5: \_absolutely\_, σ. οἱ ὀδόντες 5th c.BC: Hippocrates Medicus “περὶ σαρκῶν” 12, compare “Mul.” 2.116. ">Refs 5th c.BC+</a>]
+

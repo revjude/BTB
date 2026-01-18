@@ -1,0 +1,26 @@
+**Daniel 4:3** (3:33)
+<small><sub>**KJV:**</sub></small>
+How great [are] his signs! and how mighty [are] his wonders! his kingdom [is] an everlasting kingdom, and his dominion [is] from generation to generation.
+<small><sub>**BSB:**</sub></small>
+How great are His signs, how mighty His wonders! His kingdom is an eternal kingdom; His dominion endures from generation to generation.
+<small><sub>**Literal:**</sub></small>
+[are] signs  his how  much! great and  [are] wonders  his how  much! strong kingdom  his [is] a kingdom of perpetuity and  dominion  his [is] with generation and  generation<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.2|<< Daniel 4:2]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.4|Daniel 4:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [are] signs his  | <span class="asaramaic"><big>אָת֙וֹ</big></span><small><sup>[[H0852]]</sup></small> <span class="asaramaic"><big>הִי֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.To.<small><sup>[[ANcmpc]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how much!  | <span class="asaramaic"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="asaramaic"><big>מָ֣ה</big></span><small><sup>[[H4101]]</sup></small> &#8207;| ke.<small><sup>[[AR]]</sup></small> Mah<small><sup>[[APi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  | <span class="asaramaic"><big>רַבְרְבִ֔ין</big></span><small><sup>[[H7260]]</sup></small> &#8207;| rav.re.Vin<small><sup>[[AAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [are] wonders his  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>תִמְה֖וֹ</big></span><small><sup>[[H8540]]</sup></small> <span class="asaramaic"><big>הִי</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> tim.Ho.<small><sup>[[ANcmpc]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| how much!  | <span class="asaramaic"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="asaramaic"><big>מָ֣ה</big></span><small><sup>[[H4101]]</sup></small> &#8207;| ke.<small><sup>[[AR]]</sup></small> Mah<small><sup>[[APi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strong  | <span class="asaramaic"><big>תַקִּיפִ֑ין</big></span><small><sup>[[H8624]]</sup></small> &#8207;| ta.ki.Fin<small><sup>[[AAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kingdom his  | <span class="asaramaic"><big>מַלְכוּתֵ</big></span><small><sup>[[H4437]]</sup></small> <span class="asaramaic"><big>הּ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| mal.khu.Te<small><sup>[[ANcfsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a kingdom of  | <span class="asaramaic"><big>מַלְכ֣וּת</big></span><small><sup>[[H4437]]</sup></small> &#8207;| mal.Khut<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  | <span class="asaramaic"><big>עָלַ֔ם</big></span><small><sup>[[H5957]]</sup></small> &#8207;| 'a.Lam<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and dominion his  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>שָׁלְטָנֵ֖</big></span><small><sup>[[H7985]]</sup></small> <span class="asaramaic"><big>הּ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> shal.ta.Ne<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with  | <span class="asaramaic"><big>עִם</big></span><small><sup>[[H5974]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| generation  | <span class="asaramaic"><big>דָּ֥ר</big></span><small><sup>[[H1859]]</sup></small> &#8207;| dar<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and generation  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>דָֽר</big></span><small><sup>[[H1859]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> Dar<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.2|<< Daniel 4:2]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.4|Daniel 4:4 >>]]</td></tr></table>
+
+

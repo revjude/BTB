@@ -1,0 +1,23 @@
+**Ezekiel 43:9** 
+<small><sub>**KJV:**</sub></small>
+Now let them put away their whoredom, and the carcases of their kings, far from me, and I will dwell in the midst of them for ever.
+<small><sub>**BSB:**</sub></small>
+Now let them remove far from Me their prostitution and the funeral offerings for their kings, and I will dwell among them forever.
+<small><sub>**Literal:**</sub></small>
+now let them put far away \<obj.> prostitution  their and  [the] corpses of kings  their from  me and  I will dwell in  midst of  them for  ever<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.8|<< Ezekiel 43:8]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.10|Ezekiel 43:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| now  | <span class="ashebrew"><big>עַתָּ֞ה</big></span><small><sup>[[H6258]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let them put far away  | <span class="ashebrew"><big>יְרַחֲק֧וּ</big></span><small><sup>[[H7368]]</sup></small> &#8207;| ye.ra.cha.Ku<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prostitution their  | <span class="ashebrew"><big>זְנוּתָ֛</big></span><small><sup>[[H2184]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ze.nu.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] corpses of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פִגְרֵ֥י</big></span><small><sup>[[H6297]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> fig.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kings their  | <span class="ashebrew"><big>מַלְכֵי</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| mal.khei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from me  | <span class="ashebrew"><big>מִמֶּ֑</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נִּי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| mi.Me.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will dwell  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שָׁכַנְתִּ֥י</big></span><small><sup>[[H7931]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> sha.khan.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in midst of them  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תוֹכָ֖</big></span><small><sup>[[H8432]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>עוֹלָֽם</big></span><small><sup>[[H5769G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.8|<< Ezekiel 43:8]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.10|Ezekiel 43:10 >>]]</td></tr></table>
+
+

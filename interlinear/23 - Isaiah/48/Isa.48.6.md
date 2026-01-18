@@ -1,0 +1,25 @@
+**Isaiah 48:6** 
+<small><sub>**KJV:**</sub></small>
+Thou hast heard, see all this; and will not ye declare [it]? I have shewed thee new things from this time, even hidden things, and thou didst not know them.
+<small><sub>**BSB:**</sub></small>
+You have heard these things; look at them all. Will you not acknowledge them? From now on I will tell you of new things, hidden things unknown to you.
+<small><sub>**Literal:**</sub></small>
+you have heard look at all of  it and  you ¿  not will you tell I will proclaim to  you new [things] from  now and  secret [things] and  not you have known  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.5|<< Isaiah 48:5]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.7|Isaiah 48:7 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| you have heard  | <span class="ashebrew"><big>שָׁמַ֤עְתָּֽ</big></span><small><sup>[[H8085G]]</sup></small> &#8207;| sha.Ma'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| look at  | <span class="ashebrew"><big>חֲזֵה֙</big></span><small><sup>[[H2372]]</sup></small> &#8207;| cha.Zeh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of it  | <span class="ashebrew"><big>כֻּלָּ֔</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| ku.La<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַתֶּ֖ם</big></span><small><sup>[[H0859D]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ not  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>ל֣וֹא</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you tell  | <span class="ashebrew"><big>תַגִּ֑ידוּ</big></span><small><sup>[[H5046]]</sup></small> &#8207;| ta.Gi.du<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will proclaim to you  | <span class="ashebrew"><big>הִשְׁמַעְתִּ֤י</big></span><small><sup>[[H8085I]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| hish.ma'.Ti.<small><sup>[[HVhp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| new [things]  | <span class="ashebrew"><big>חֲדָשׁוֹת֙</big></span><small><sup>[[H2319H]]</sup></small> &#8207;| cha.da.shOt<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from now  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עַ֔תָּה</big></span><small><sup>[[H6258]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'A.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and secret [things]  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נְצֻר֖וֹת</big></span><small><sup>[[H5341]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ne.tzu.Rot<small><sup>[[HVqsfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have known them  | <span class="ashebrew"><big>יְדַעְתָּֽ</big></span><small><sup>[[H3045]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.da'.Ta<small><sup>[[HVqp2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.5|<< Isaiah 48:5]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.7|Isaiah 48:7 >>]]</td></tr></table>
+
+

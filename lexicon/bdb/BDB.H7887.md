@@ -1,0 +1,14 @@
+ <span class="bdbLangHebrew">‎שִׁלוֺ‎</span>, <span class="bdbLangHebrew">‎שִׁולוֺ‎</span>, <span class="bdbLangHebrew">‎שִׁלֹה‎</span> **proper name, of a location** (originally <span class="bdbLangHebrew">‎שִׁלוֺן‎</span>, see adjective, of a people (otherwise [[BDB#Ba|Ba]]<sup>NB § 224 b</sup>), which also shews that √ <span class="bdbLangHebrew">‎שׁול‎</span>, <span class="bdbLangHebrew">‎שׁיל‎</span>, was posited when text of Kings was fixed, compare [[BDB#Dr|Dr]]<sup>[[2Sam.15.12|2Sam 15:12]]</sup>); — <span class="bdbLangHebrew">‎שִׁלוֺ‎</span> [[Judg.21.19|Judg 21:19]]; [[1Sam.1.24|1Sam 1:24]]; [[1Sam.3.21|1Sam 3:21]]; [[1Sam.14.3|1Sam 14:3]]; [[Jer.7.14|Jer 7:14]] (on destruction of Shiloh see [[BDB#We|We]]<sup>[[2Sam.8.17|2Sam 8:17]]</sup>), [[Jer.26.9|Jer 26:9]]; [[Jer.41.5|Jer 41:5]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מִשְׁכַּן שׁ‎</span> [[Ps.78.60|Ps 78:60]] <span class="bdbLangHebrew">‎שִׁילוֺ‎</span> [[Judg.21.21|Judg 21:21]] (twice in verse); [[Jer.7.12|Jer 7:12]] <span class="bdbLangHebrew">‎שִׁלֹה‎</span> [[Josh.18.1|Josh 18:1]]; [[Josh.18.8|Josh 18:8]]; [[Josh.18.9|Josh 18:9]]; [[Josh.18.10|Josh 18:10]]; [[Josh.19.51|Josh 19:51]]; [[Josh.21.2|Josh 21:2]]; [[Josh.22.9|Josh 22:9]]; [[Josh.22.12|Josh 22:12]] (all [[BDB#P|P]] or [[BDB#R|R]]), [[Judg.18.31|Judg 18:31]]; [[Judg.21.12|Judg 21:12]]; [[1Sam.1.3|1Sam 1:3]]; [[1Sam.1.9|1Sam 1:9]]; [[1Sam.2.14|1Sam 2:14]]; [[1Sam.3.21|1Sam 3:21]]; [[1Sam.4.3|1Sam 4:3]]; [[1Sam.4.4|1Sam 4:4]]; [[1Sam.4.12|1Sam 4:12]]; [[1Kgs.2.27|1Kgs 2:27]]; [[1Kgs.14.2|1Kgs 14:2]]; [[1Kgs.14.4|1Kgs 14:4]]; [[Jer.26.6|Jer 26:6]] (variant reading <span class="bdbLangHebrew">‎שִׁלוֺ‎</span> in all these [21 t.] given by [[BDB#Gi|Gi]] as [[BDB#Qr|Qr]]). — <span class="bdbLangGreek">Σηλωμ</span>, <span class="bdbLangGreek">Σηλω</span>(<span class="bdbLangGreek">ν</span>). — Modern Seilûn, approximately 91/2 miles north-northeast of Bethel: (Beitîn), [[BDB#Buhl|Buhl]]<sup>G 178</sup> [[BDB#Dr|Dr]]<sup>Hast. DB SHlLOH</sup>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Joshua | [[Josh.18.1\|18:1]] · [[Josh.18.8\|18:8]] · [[Josh.18.9\|18:9]] · [[Josh.18.10\|18:10]] · [[Josh.19.51\|19:51]] · [[Josh.21.2\|21:2]] · [[Josh.22.9\|22:9]] · [[Josh.22.12\|22:12]] |
+| Judges | [[Judg.18.31\|18:31]] · [[Judg.21.12\|21:12]] · [[Judg.21.19\|21:19]] · [[Judg.21.21\|21:21]] |
+| 1 Samuel | [[1Sam.1.3\|1:3]] · [[1Sam.1.9\|1:9]] · [[1Sam.1.24\|1:24]] · [[1Sam.2.14\|2:14]] · [[1Sam.3.21\|3:21]] · [[1Sam.4.3\|4:3]] · [[1Sam.4.4\|4:4]] · [[1Sam.4.12\|4:12]] · [[1Sam.14.3\|14:3]] |
+| 2 Samuel | [[2Sam.8.17\|8:17]] · [[2Sam.15.12\|15:12]] |
+| 1 Kings | [[1Kgs.2.27\|2:27]] · [[1Kgs.14.2\|14:2]] · [[1Kgs.14.4\|14:4]] |
+| Psalms | [[Ps.78.60\|78:60]] |
+| Jeremiah | [[Jer.7.12\|7:12]] · [[Jer.7.14\|7:14]] · [[Jer.26.6\|26:6]] · [[Jer.26.9\|26:9]] · [[Jer.41.5\|41:5]] |
+

@@ -1,0 +1,36 @@
+**Daniel 3:25** 
+<small><sub>**KJV:**</sub></small>
+He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.
+<small><sub>**BSB:**</sub></small>
+“Look!” he exclaimed. “I see four men, unbound and unharmed, walking around in the fire—and the fourth looks like a son of the gods!”
+<small><sub>**Literal:**</sub></small>
+[he was] replying and  [he was] saying look! I [am] seeing men four loosed [they are] walking in  [the] midst of fire  the and  hurt not there [is] on  them and  appearance  his of fourth  the [is] like \<obj.>  a son of [the] gods<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.24|<< Daniel 3:24]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.26|Daniel 3:26 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [he was] replying  | <span class="asaramaic"><big>עָנֵ֣ה</big></span><small><sup>[[H6032]]</sup></small> &#8207;| 'a.Neh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [he was] saying  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>אָמַ֗ר</big></span><small><sup>[[H0560]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> 'a.Mar<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| look!  | <span class="asaramaic"><big>הָֽא</big></span><small><sup>[[H1888A]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ha'-<small><sup>[[ATj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  | <span class="ashebrew"><big>אֲנָ֨ה</big></span><small><sup>[[H0576B]]</sup></small> &#8207;| 'a.Nah<small><sup>[[APp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] seeing  | <span class="asaramaic"><big>חָזֵ֜ה</big></span><small><sup>[[H2370]]</sup></small> &#8207;| cha.Zeh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| men  | <span class="asaramaic"><big>גֻּבְרִ֣ין</big></span><small><sup>[[H1400]]</sup></small> &#8207;| guv.Rin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| four  | <span class="asaramaic"><big>אַרְבְּעָ֗ה</big></span><small><sup>[[H0703]]</sup></small> &#8207;| 'ar.be.'Ah<small><sup>[[AAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| loosed  | <span class="asaramaic"><big>שְׁרַ֙יִן֙</big></span><small><sup>[[H8271]]</sup></small> &#8207;| she.Ra.yin<small><sup>[[AVQrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [they are] walking  | <span class="asaramaic"><big>מַהְלְכִ֣ין</big></span><small><sup>[[H1981]]</sup></small> &#8207;| mah.le.Khin<small><sup>[[AVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] midst of  | <span class="asaramaic"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="asaramaic"><big>גֽוֹא</big></span><small><sup>[[H1459]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.<small><sup>[[AR]]</sup></small> goy'-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire the  | <span class="asaramaic"><big>נוּרָ֔</big></span><small><sup>[[H5135]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| nu.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and hurt  | <span class="asaramaic"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>חֲבָ֖ל</big></span><small><sup>[[H2257]]</sup></small> &#8207;| va.<small><sup>[[AC]]</sup></small> cha.Val<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="asaramaic"><big>לָא</big></span><small><sup>[[H3809]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| la'-<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="asaramaic"><big>אִיתַ֣י</big></span><small><sup>[[H0383]]</sup></small> &#8207;| 'i.Tai<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on them  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ה֑וֹן</big></span><small><sup>[[H9038]]</sup></small> &#8207;| be.<small><sup>[[AR]]</sup></small> Hon<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and appearance his  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>רֵוֵ</big></span><small><sup>[[H7299]]</sup></small> <span class="asaramaic"><big>הּ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> re.Ve<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of  | <span class="asaramaic"><big>דִּ֣י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fourth the  | <span class="asaramaic"><big>רְֽבִיעָ</big></span><small><sup>[[H7244]]</sup></small> <span class="asaramaic"><big>אָ֔ה</big></span><small><sup>[[H9010]]</sup></small> &#8207;[^1] [^2] | re.vi.'a.ya<small><sup>[[AAobsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| [is] like  | <span class="asaramaic"><big>דָּמֵ֖ה</big></span><small><sup>[[H1821]]</sup></small> &#8207;| da.Meh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> a son of  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>בַר</big></span><small><sup>[[H1247I]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> var-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods  | <span class="ashebrew"><big>אֱלָהִֽין</big></span><small><sup>[[H0426]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'e.la.Hin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.24|<< Daniel 3:24]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.26|Daniel 3:26 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="asaramaic"><big>רְֽבִיעָיאָ֔</big></span>**
+[^2]: ==K== spelled: **<span class="asaramaic"><big>רְבִיעָיָא</big></span>**
+

@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==φιλάδελφος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>loving one's brother</b> or <b>sister, brotherly, sisterly,</b> <span class='asgreek'>φ</span>. <span class='asgreek'>δάκρυα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 527 (\_anapaest meter\_)">Refs 5th c.BC+</a>]; of persons, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.3.17, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Solon” 27 ">Refs 5th c.BC+</a>]: <i>superlative</i>, [<a href="javascript:void(0)" title=" [prev. author] “Luc.” 43 ">Refs</a>]; frequently as a title of kings, as of Ptolemy Il and Arsinoe, [<a href="javascript:void(0)" title="Wilcken  “Chr.” 106, etc.">Refs</a>]; of Ptolemy XIII, [<a href="javascript:void(0)" title=" “OGI” 185, etc., and of Attalus Il; [prev. work]329.38 (Aegina, 2nd c.BC)">Refs 2nd c.BC+</a>], etc.; <span class='asgreek'>τῆς</span> <span class='asgreek'>Φ</span>. <span class='asgreek'>Κύπριδος</span>, of Arsinoe, [<a href="javascript:void(0)" title=" 3rd c.BC: Posidippus Comicus cited in 2nd c.AD: Athenaeus Epigrammaticus 7.318d ">Refs 3rd c.BC+</a>]; of Antoninus and Verus, [<a href="javascript:void(0)" title=" “IG” 22.3405, +others; τὸ φ. τῆς ψυχῆς 1st c.BC: Diodorus Siculus Historicus 17.34. ">Refs 1st c.BC+</a>] <i>adverb</i> -<span class='asgreek'>φως</span> Scholia S. [prev. cited] 
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in <b>NT, loving the brethren,</b> [<a href="javascript:void(0)" title=" NT.1Pet.3.8. ">NT</a>]
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>φιλάδελφον</span>, <span class='asgreek'>τό</span>, <b>mock orange, Philadelphus coronarius,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus cited in 2nd c.AD: Athenaeus Epigrammaticus 15.682c. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>φιλάδελφοι</span>, <span class='asgreek'>οἱ</span>, name of fabulous <b>stones,</b> Ps.-[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fluv.” 11.4. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Pet.3.8]]
+</sub></small>

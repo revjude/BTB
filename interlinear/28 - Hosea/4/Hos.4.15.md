@@ -1,0 +1,31 @@
+**Hosea 4:15** 
+<small><sub>**KJV:**</sub></small>
+Though thou, Israel, play the harlot, [yet] let not Judah offend; and come not ye unto Gilgal, neither go ye up to Bethaven, nor swear, The LORD liveth.
+<small><sub>**BSB:**</sub></small>
+Though you prostitute yourself, O Israel, may Judah avoid such guilt! Do not journey to Gilgal, do not go up to Beth-aven, and do not swear on oath, ‘As surely as the LORD lives!’
+<small><sub>**Literal:**</sub></small>
+though [are] prostituting yourself you O Israel may not it become guilty Judah and  may not you go \<the>  Gilgal and  may not you go up Beth Aven and  may not you swear [by] [the] life of Yahweh<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.14|<< Hosea 4:14]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.16|Hosea 4:16 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| though  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] prostituting yourself  | <span class="ashebrew"><big>זֹנֶ֤ה</big></span><small><sup>[[H2181]]</sup></small> &#8207;| zo.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you  | <span class="ashebrew"><big>אַתָּה֙</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Israel  | <span class="ashebrew"><big>יִשְׂרָאֵ֔ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it become guilty  | <span class="ashebrew"><big>יֶאְשַׁ֖ם</big></span><small><sup>[[H0816]]</sup></small> &#8207;| ye'.Sham<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  | <span class="ashebrew"><big>יְהוּדָ֑ה</big></span><small><sup>[[H3063G]]</sup></small> &#8207;| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you go  | <span class="ashebrew"><big>תָּבֹ֣אוּ</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ta.Vo.'u<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Gilgal  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>גִּלְגָּ֗ל</big></span><small><sup>[[H1537G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> gil.Gal<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַֽל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you go up  | <span class="ashebrew"><big>תַּעֲלוּ֙</big></span><small><sup>[[H5927G]]</sup></small> &#8207;| ta.'a.Lu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1007]]</sup></small> &#8207;| beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aven  | <span class="ashebrew"><big>אָ֔וֶן</big></span><small><sup>[[H1007]]</sup></small> &#8207;| 'A.ven<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you swear  | <span class="ashebrew"><big>תִּשָּׁבְע֖וּ</big></span><small><sup>[[H7650]]</sup></small> &#8207;| ti.sha.ve.'U<small><sup>[[HVNj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [by] [the] life  | <span class="ashebrew"><big>חַי</big></span><small><sup>[[H2416A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| chai-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Yahweh  | <span class="ashebrew"><big>יְהוָֽה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.14|<< Hosea 4:14]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.16|Hosea 4:16 >>]]</td></tr></table>
+
+

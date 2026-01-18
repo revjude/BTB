@@ -1,0 +1,7 @@
+<big><span class="ashebrew">‎מִפְשָׂעָה‎</span></big> **miphsâʻâh** <small>*(mif-saw-aw')*</small> ==**hip**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from <span class="ashebrew">‎פָּשַׂע‎</span><sup><small>[[H6585]]</small></sup></small>
+
+$\quad$ buttocks.
+- ***a stride***, i.e. (by euphemism) ***the crotch***
+
+**1)** hip, buttock, stepping region of body

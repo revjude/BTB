@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==σκῦλον==</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ mostly in <i>plural</i> <span class='asgreek'>σκῦλα</span>, <b>arms stripped off a slain enemy, spoils</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Philoctetes” 1428, 1431, 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 74, “El.” 7, 1000, 5th c.BC: Thucydides Historicus 4.134, “SIG” 61 (Olympia, 5th c.BC)">Refs 5th c.BC+</a>]; <span class='asgreek'>σκῦλα</span> <span class='asgreek'>γράφειν</span> to write one's name on <b>arms gained as spoils</b>, which were then dedicated to a deity, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 574; σκῦλ᾽ ἔδειξα Βακχίῳ [prev. author] “Cyc.” 9, compare 5th c.BC: Thucydides Historicus 2.13, 3.57 ">Refs 5th c.BC+</a>]: less frequently in <i>singular</i>, <b>booty, spoil, prey</b>, <span class='asgreek'>==σκῦλον==</span> <span class='asgreek'>οἰωνοῖσιν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Electra” 897, compare “Rh.” 620, 1st-2nd c.AD: Dio Chrysostomus Sophista 64.24; τὰς πτέρυγας.. τῇ Νίκῃ φορεῖν ἔδοσαν,.. ==σκῦλον== ἀπὸ τῶν πολεμίων 4th c.BC: Aristopho Comicus 11.9; ==σκῦλον== τὴν ὑπατείαν φέρεσθαι 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Marius” 9. ">Refs 5th c.BC+</a>]
+

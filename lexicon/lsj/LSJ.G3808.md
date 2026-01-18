@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==παιδάριον==</span>-<span class='asgreek'>ιον</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ <i>diminutive</i> of <span class='asgreek'>παῖς</span>, <b>little boy</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 494, “Pl.” 536, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐκ</span> <span class='asgreek'>παιδαρίου</span> from <b>a child</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Symposium” 207d; ἐκ μικροῦ π. 4th c.BC: Demosthenes Orator 53.19 ">Refs 5th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>εἶ</span> you're <b>a mere boy</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 821 ">Refs 5th c.BC+</a>]; also, <b>little girl</b>, [<a href="javascript:void(0)" title=" [prev. author] “Th.” 1203, 4th c.BC: Hyperides Orator “Fragmenta” 164, 4th-3rd c.BC: Menander Comicus 428 (in this sense only \_Attic dialect\_ \_accusative\_ to Moer. p.321 P.)">Refs 4th c.BC+</a>]: in <i>plural</i>, <b>young children</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 568; π. καὶ γύναια 5th-6th c.BC: Andocides Orator 1.130, compare 4th c.BC: Demosthenes Orator 19.305. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>young slave</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Plutus” 823, 843, 5th-6th c.BC: Xenophon Historicus “Agesilaus” 1.21, “PPetr.” 2p.128 (3rd c.BC), etc. ">Refs 5th c.BC+</a>]

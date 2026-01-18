@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==κτῆνος==</span></b>, <span class='asgreek'>εος</span>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>κτάομαι</span>) mostly in <i>plural</i> <span class='asgreek'>κτήνεα</span>, <i>contraction</i> <span class='asgreek'>κτήνη</span>, <b>flocks and herds,</b> [<a href="javascript:void(0)" title=" Hymni Homerici 30.10, 5th c.BC: Herodotus Historicus 1.50, 2.41, 5th-6th c.BC: Plato Philosophus “Critias” 109c, “PStrassb.” 98.9 (2nd c.BC), “SIG” 633.73 (Milet., 2nd c.BC)">Refs 5th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>τὰ</span> <span class='asgreek'>δημιοπληθῆ</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 129 (Lyric poetry)">Refs 4th c.BC+</a>]; of beasts in general, [<a href="javascript:void(0)" title=" 1st c.AD(?): Heraclitus 29 ">Refs 1st c.AD+</a>]; opposed to <span class='asgreek'>ἄνθρωποι</span>, [<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus 57 ">Refs 3rd c.AD+</a>]; of swine, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 12.4.14; ὑϊκὰ κ. “BGU” 757.20 (1st c.AD). ">Refs 2nd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> in <i>singular</i>, a single <b>beast</b>, as <b>an ox</b> or <b>sheep</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.132, 5th c.BC: Hippocrates Medicus “περὶ καρδίης” 2, 5th-6th c.BC: Xenophon Historicus “Anabasis” 5.2.3 ">Refs 5th c.BC+</a>]; <b>horse</b> or <b>mule for riding,</b> [<a href="javascript:void(0)" title="NT.Luke.10.34, NT.Acts.23.24 ">NT</a>]; of a domestic animal, opposed to <span class='asgreek'>θηρίον</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Marcus Antoninus Imperator 5.11. (Late \_dative\_ \_plural\_ κτῆσι “PFlor.” 258.6, etc.) ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.10.34]] ☩ [[Acts.23.24]]
+</sub></small>

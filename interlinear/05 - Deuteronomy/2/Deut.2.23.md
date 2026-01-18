@@ -1,0 +1,24 @@
+**Deuteronomy 2:23** 
+<small><sub>**KJV:**</sub></small>
+And the Avims which dwelt in Hazerim, [even] unto Azzah, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)
+<small><sub>**BSB:**</sub></small>
+And the Avvim, who lived in villages as far as Gaza, were destroyed by the Caphtorites, who came out of Caphtor and settled in their place.)
+<small><sub>**Literal:**</sub></small>
+and  the  Avvites who  were dwelling in  villages to Gaza [the] Caphtorites who  came forth from  Caphtor they destroyed  them and  they dwelt in place of  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.22|<< Deuteronomy 2:22]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.24|Deuteronomy 2:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and the Avvites  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עַוִּ֛ים</big></span><small><sup>[[H5761G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.Vim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who were dwelling  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יֹּשְׁבִ֥ים</big></span><small><sup>[[H3427]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yo.she.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in villages  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֲצֵרִ֖ים</big></span><small><sup>[[H2691B]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> cha.tze.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gaza  | <span class="ashebrew"><big>עַזָּ֑ה</big></span><small><sup>[[H5804]]</sup></small> &#8207;| 'a.Zah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Caphtorites  | <span class="ashebrew"><big>כַּפְתֹּרִים֙</big></span><small><sup>[[H3732]]</sup></small> &#8207;| kaf.to.Rim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who came forth  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>יֹּצְאִ֣ים</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| hai.<small><sup>[[HTd]]</sup></small> yo.tze.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Caphtor  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>כַּפְתּ֔וֹר</big></span><small><sup>[[H3731]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> kaf.Tor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they destroyed them  | <span class="ashebrew"><big>הִשְׁמִידֻ֖</big></span><small><sup>[[H8045]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| hish.mi.Du<small><sup>[[HVhp3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they dwelt  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֵּשְׁב֥וּ</big></span><small><sup>[[H3427]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ye.she.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of them  | <span class="ashebrew"><big>תַחְתָּֽ</big></span><small><sup>[[H8478H]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tach.Ta<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.22|<< Deuteronomy 2:22]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.24|Deuteronomy 2:24 >>]]</td></tr></table>
+
+

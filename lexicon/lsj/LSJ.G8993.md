@@ -1,0 +1,11 @@
+<span class="asgreek">πυρίκαυστος</span> <small>***(purikaustos)***</small> ==**scorched**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==πυρίκαυστος==</span>-<span class='asgreek'>καυστος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>burnt in fire</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 13.564, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.922a, 2nd c.AD: Vettius Valens Astrologus 127.32 ">Refs 8th c.BC+</a>]; in late <i>Epic dialect</i> <b><span class='asgreek'>==πυρίκαυστος==</span>-<span class='asgreek'>καυτος</span></b>, Epic. in [<a href="javascript:void(0)" title=" “Arch.Papyrus” 7.4, 4th-5th c.AD(?): Nonnus Epicus “Dionysiaca” 10.74, +others ">Refs 4th c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>caused by a burn</b> (or <b>scald</b>,[<a href="javascript:void(0)" title="compare 2nd c.AD: Galenus Medicus 13.384), φλυκταινίδες ὥσπερ π. 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 2.1.1 ">Refs 5th c.BC+</a>]; <span class='asgreek'>π</span>. [<span class='asgreek'>ἕλκη</span>] [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.68.2, compare 5th c.BC: Hippocrates Medicus “περὶ ἀγμῶν” 27, 4th c.BC: Aristoteles Philosophus “Problemata” 866a6; later πυρίκαυτα ἕλκεα 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων ὀξέων παθῶν” 1.9. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>πυρίκαυστον</span>, <span class='asgreek'>τό</span>, <b>plaster for a burn</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 9.19.3, “Ign.” 38; ἡ π. ἔμπλαστρος 3rd c.BC: Asclepiades Epigrammaticus cited in 2nd c.AD: Galenus Medicus 13.525. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>inflammatory</b>, in the form -<span class='asgreek'>καυτος</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 85c, 2nd c.AD: Lucianus Sophista “Asin.” 6, etc. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>inflamed</b>, <span class='asgreek'>ὑπερῴα</span> <span class='asgreek'>πυρίκαυτος</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Aristides Rhetor “Orationes” 49(25).30. ">Refs 2nd c.AD+</a>]

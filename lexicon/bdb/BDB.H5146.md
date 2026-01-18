@@ -1,0 +1,11 @@
+ <span class="bdbLangHebrew">‎נֹחַ‎</span><sub>46</sub> **proper name, masculine** ==Noah== (Nabataean proper name <span class="bdbLangHebrew">‎נוח‎</span> [[BDB#Ldzb|Lzb]]<sup>322</sup>, Syriac proper name <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIwATAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAjABMABwilAP8JHEiwoMGDCBMqXMiwocOHECNKnEhxIjx6FRVqy5IgBrGB8mhhZCgvIT0/gMoAeMFPIJ8GxhjyWuHqHyVA8hC5sfcPWRRf/3hlQSbQUgZZDGkBmOIqAoASAACM+YfvxANb/jgh0gZOTgqiC/X1iFrgRlQAYQTiGgAgRoeoAQDwcQiPkBty/7SJgtVSIDhMtlgpQgQHVsbDiBMrXsw4IaTGBQMCADs="> [[BDB#Meissn|Meissn]]<sup>VOJ viii, (1894), 303 near the end</sup> (No. 116)); — [[Gen.5.29|Gen 5:29]] (where traditional etymology), + 40 t. Gen 5-10 (not in [[BDB#E|E]] [[BDB#D|D]]); [[1Chr.1.4|1Chr 1:4]] <span class="bdbLangHebrew">‎נֹחַ דָּנִאֵל וְאִיּוֺב‎</span> [[Ezek.14.14|Ezek 14:14]]; [[Ezek.14.20|Ezek 14:20]] <span class="bdbLangHebrew">‎מֵי נֹחַ‎</span> = flood [[Isa.54.9|Isa 54:9]] (twice in verse); [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Νωε</span>. — On history of interpretion of name see Goldziher<sup>ZMG xxiv. (1870), 207 ff</sup>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.5.29\|5:29]] |
+| 1 Chronicles | [[1Chr.1.4\|1:4]] |
+| Isaiah | [[Isa.54.9\|54:9]] |
+| Ezekiel | [[Ezek.14.14\|14:14]] · [[Ezek.14.20\|14:20]] |
+

@@ -1,0 +1,14 @@
+ [<span class="bdbLangHebrew">‎אָפִיק‎</span>] **noun masculine**<sup>[[2Sam.22.16|2Sam 22:16]]</sup> ==channel== (as holding, confining waters; in poetry) — construct<span class="bdbLangHebrew">‎אֲפִיק‎</span> [[Job.6.15|Job 6:15]] plural<span class="bdbLangHebrew">‎אֲפִיקִים‎</span> [[Ezek.6.3|Ezek 6:3]] +; <span class="bdbLangHebrew">‎אֲפִקִים‎</span> [[Ezek.32.6|Ezek 32:6]] construct <span class="bdbLangHebrew">‎אֲפִיקֵי‎</span> [[Joel.1.20|Joel 1:20]] +; suffix <span class="bdbLangHebrew">‎אֲפִיקֶיךָ‎</span> [[Ezek.35.8|Ezek 35:8]] <span class="bdbLangHebrew">‎אֲפִיקָיו‎</span> [[Isa.8.7|Isa 8:7]] — ***channel*** = ***stream-bed, ravine, wady*** <span class="bdbLangHebrew">‎מַיִם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Ps.42.2|Ps 42:2]]; [[Joel.1.20|Joel 1:20]] compare [[Joel.4.18|Joel 4:18]]; [[Song.5.12|Song 5:12]] also [[Ps.18.16|Ps 18:16]], but better <span class="bdbLangHebrew">‎יָם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[2Sam.22.16|2Sam 22:16]] <span class="bdbLangHebrew">‎נְחָלִים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Job.6.15|Job 6:15]] of river-bed [[Isa.8.7|Isa 8:7]] so also (without defining word) [[Ezek.31.12|Ezek 31:12]]; [[Ezek.32.6|Ezek 32:6]]; [[Ezek.34.13|Ezek 34:13]]; [[Ps.126.4|Ps 126:4]] \|\| <span class="bdbLangHebrew">‎גַּיְא‎</span> [[Ezek.6.3|Ezek 6:3]]; [[Ezek.35.8|Ezek 35:8]]; [[Ezek.36.4|Ezek 36:4]]; [[Ezek.36.6|Ezek 36:6]] figurative of bones of hippopotamus (as hollow) <span class="bdbLangHebrew">‎נְחֻשָׁה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Job.40.18|Job 40:18]] of furrows between scales of crocodile <span class="bdbLangHebrew">‎מָגִּנִּים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Job.41.7|Job 41:7]] — <span class="bdbLangHebrew">‎מְזִיהַ אֲפִיקִים‎</span> [[Job.12.21|Job 12:21]] is dubious; read perhaps <span class="bdbLangHebrew">‎אַבִּירִים‎</span> Du (see also Bu). [[BDB#Thes|Thes]] [[BDB#MV|MV]] [[BDB#Di|Di]] and others say ***girdle of*** the ***strong*** (<span class="bdbLangHebrew">‎אָפִיק‎</span> = ***firm forceful***, or — [[BDB#Di|Di]] — ***capable, powerful***); \|\| <span class="bdbLangHebrew">‎נְדָבִים‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 2 Samuel | [[2Sam.22.16\|22:16]] |
+| Job | [[Job.6.15\|6:15]] · [[Job.12.21\|12:21]] · [[Job.40.18\|40:18]] · [[Job.41.7\|41:7]] |
+| Psalms | [[Ps.18.16\|18:16]] · [[Ps.42.2\|42:2]] · [[Ps.126.4\|126:4]] |
+| Song of Solomon | [[Song.5.12\|5:12]] |
+| Isaiah | [[Isa.8.7\|8:7]] |
+| Ezekiel | [[Ezek.6.3\|6:3]] · [[Ezek.31.12\|31:12]] · [[Ezek.32.6\|32:6]] · [[Ezek.34.13\|34:13]] · [[Ezek.35.8\|35:8]] · [[Ezek.36.4\|36:4]] · [[Ezek.36.6\|36:6]] |
+| Joel | [[Joel.1.20\|1:20]] · [[Joel.4.18\|4:18]] |
+

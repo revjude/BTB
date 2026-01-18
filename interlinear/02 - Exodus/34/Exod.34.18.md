@@ -1,0 +1,31 @@
+**Exodus 34:18** 
+<small><sub>**KJV:**</sub></small>
+The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt.
+<small><sub>**BSB:**</sub></small>
+You are to keep the Feast of Unleavened Bread. For seven days at the appointed time in the month of Abib, you are to eat unleavened bread as I commanded you. For in the month of Abib you came out of Egypt.
+<small><sub>**Literal:**</sub></small>
+\<obj.> [the] festival of the  unleavened bread\<s> you will keep seven days you will eat unleavened bread\<s> which I commanded  you to  [the] appointed time of [the] month of \<the>  Abib for in  [the] month of \<the>  Abib you came out from  Egypt<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.17|<< Exodus 34:17]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.19|Exodus 34:19 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] festival of  | <span class="ashebrew"><big>חַ֣ג</big></span><small><sup>[[H2282]]</sup></small> &#8207;| chag<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the unleavened bread\<s>  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּצּוֹת֮</big></span><small><sup>[[H4682]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ma.tzOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will keep  | <span class="ashebrew"><big>תִּשְׁמֹר֒</big></span><small><sup>[[H8104G]]</sup></small> &#8207;| tish.Mor<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שִׁבְעַ֨ת</big></span><small><sup>[[H7651]]</sup></small> &#8207;| shiv.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  | <span class="ashebrew"><big>יָמִ֜ים</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will eat  | <span class="ashebrew"><big>תֹּאכַ֤ל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| to.Khal<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unleavened bread\<s>  | <span class="ashebrew"><big>מַצּוֹת֙</big></span><small><sup>[[H4682]]</sup></small> &#8207;| ma.tzOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֣ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I commanded you  | <span class="ashebrew"><big>צִוִּיתִ֔</big></span><small><sup>[[H6680]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| tzi.vi.Ti.<small><sup>[[HVpp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] appointed time of  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מוֹעֵ֖ד</big></span><small><sup>[[H4150G]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> mo.'Ed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] month of  | <span class="ashebrew"><big>חֹ֣דֶשׁ</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| Cho.desh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Abib  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָבִ֑יב</big></span><small><sup>[[H0024]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Viv<small><sup>[[HNtbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֚י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] month of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֹ֣דֶשׁ</big></span><small><sup>[[H2320G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Cho.desh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Abib  | <span class="ashebrew"><big>הָֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָבִ֔יב</big></span><small><sup>[[H0024]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'a.Viv<small><sup>[[HNtbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you came out  | <span class="ashebrew"><big>יָצָ֖אתָ</big></span><small><sup>[[H3318G]]</sup></small> &#8207;| ya.Tza.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Egypt  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מִּצְרָֽיִם</big></span><small><sup>[[H4714G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.17|<< Exodus 34:17]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.19|Exodus 34:19 >>]]</td></tr></table>
+
+

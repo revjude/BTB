@@ -1,0 +1,24 @@
+**Lamentations 4:10** 
+<small><sub>**KJV:**</sub></small>
+The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.
+<small><sub>**BSB:**</sub></small>
+The hands of compassionate women have cooked their own children, who became their food in the destruction of the daughter of my people.
+<small><sub>**Literal:**</sub></small>
+[the] hands of women compassionate they have boiled own children  their they have been for  eating for  them in  [the] brokenness of [the] daughter of people  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.9|<< Lamentations 4:9]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.11|Lamentations 4:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [the] hands of  | <span class="ashebrew"><big>יְדֵ֗י</big></span><small><sup>[[H3027G]]</sup></small> &#8207;| ye.Dei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| women  | <span class="ashebrew"><big>נָשִׁים֙</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| compassionate  | <span class="ashebrew"><big>רַחֲמָ֣נִיּ֔וֹת</big></span><small><sup>[[H7362]]</sup></small> &#8207;| ra.cha.Ma.ni.Yot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have boiled  | <span class="ashebrew"><big>בִּשְּׁל֖וּ</big></span><small><sup>[[H1310]]</sup></small> &#8207;| bi.she.Lu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own children their  | <span class="ashebrew"><big>יַלְדֵי</big></span><small><sup>[[H3206]]</sup></small> <span class="ashebrew"><big>הֶ֑ן</big></span><small><sup>[[H9029]]</sup></small> &#8207;| yal.dei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have been  | <span class="ashebrew"><big>הָי֤וּ</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for eating  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בָרוֹת֙</big></span><small><sup>[[H1262]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> va.rOt<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for them  | <span class="ashebrew"><big>לָ֔</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מוֹ</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] brokenness of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שֶׁ֖בֶר</big></span><small><sup>[[H7667]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> She.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  | <span class="ashebrew"><big>בַּת</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  | <span class="ashebrew"><big>עַמִּֽ</big></span><small><sup>[[H5971A]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.9|<< Lamentations 4:9]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.11|Lamentations 4:11 >>]]</td></tr></table>
+
+

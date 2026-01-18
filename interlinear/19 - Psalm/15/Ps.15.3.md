@@ -1,0 +1,26 @@
+**Psalms 15:3** 
+<small><sub>**KJV:**</sub></small>
+[He that] backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.
+<small><sub>**BSB:**</sub></small>
+who has no slander on his tongue, who does no harm to his neighbor, who casts no scorn on his friend,
+<small><sub>**Literal:**</sub></small>
+not he takes slander on tongue  his not he does to  neighbor  his evil and  reproach not he lifts up on kinsman  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.15.2|<< Psalms 15:2]]</td><td align="center" style="border:none;">[[Ps.15|Psalms 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.15.4|Psalms 15:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he takes slander  | <span class="ashebrew"><big>רָגַ֨ל</big></span><small><sup>[[H7270]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ra.Gal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tongue his  | <span class="ashebrew"><big>לְשֹׁנ֗</big></span><small><sup>[[H3956G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.sho.N<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he does  | <span class="ashebrew"><big>עָשָׂ֣ה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to neighbor his  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רֵעֵ֣</big></span><small><sup>[[H7453]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil  | <span class="ashebrew"><big>רָעָ֑ה</big></span><small><sup>[[H7451I]]</sup></small> &#8207;| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and reproach  | <span class="ashebrew"><big>וְ֝</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֶרְפָּ֗ה</big></span><small><sup>[[H2781]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> cher.Pah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he lifts up  | <span class="ashebrew"><big>נָשָׂ֥א</big></span><small><sup>[[H5375N]]</sup></small> &#8207;| na.Sa'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kinsman his  | <span class="ashebrew"><big>קְרֹֽב</big></span><small><sup>[[H7138]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ke.Ro.o<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.15.2|<< Psalms 15:2]]</td><td align="center" style="border:none;">[[Ps.15|Psalms 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.15.4|Psalms 15:4 >>]]</td></tr></table>
+
+

@@ -1,0 +1,14 @@
+
+<b> <span class='asgreek'>==μονή==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>μένω</span>) <b>abiding, tarrying</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Troades” 1129, “HF” 957, 5th-6th c.BC: Aristophanes Comicus “Aves” 418 (Lyric poetry), 5th-6th c.BC: Xenophon Historicus “Anabasis” 5.1.5, etc.">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>ἔξοδος</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.94 ">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>φορά</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Cratylus” 437b ">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>κίνησις</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physica” 205a17 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τὴν</span> <span class='asgreek'>μονὴν</span> <span class='asgreek'>ποιεῖσθαι</span> make <b>delay, tarry</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.131; μὴ λαμβάνειν μονὴν μηδὲ στάσιν 2nd c.BC: Polybius Historicus 4.41.4; μ. τις καὶ στάσις τῆς φωνῆς 4th c.BC: Aristoxenus Musicus “Harmonica” p.12 M.: \_plural\_, 4th c.BC: Aristoteles Philosophus “Physica” 230a20; κινήσεις ἢ μοναί [prev. author] “de An.” 408b18; μονὰς ποιεῖσθαι 1st c.BC-1st c.AD: Strabo Geographus 1.3.12 ">Refs 5th c.BC+</a>]; <b>persistence, continuance</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>αἰσθήματος</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Posteriora” 99b36. ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>permanence</b>, <span class='asgreek'>τῆς</span> <span class='asgreek'>γῆς</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “De rerum natura - Wien. Stud.” 11.10, compare 5th-6th c.AD: Damascius Philosophus “de Principiis” 36. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> Grammars, <b>preservation</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>ν</span> ¯ [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 50.25. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>stopping-place, station</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 10.31.7 ">Refs 2nd c.AD+</a>]; <b>apartment,</b> [<a href="javascript:void(0)" title="NT.John.14.2,23">NT</a>]; <b>quarters, billets</b>, [<a href="javascript:void(0)" title=" “OGI” 527.5 (from Hierapolis). ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>monastery</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 133.1, etc. ">Refs 6th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>appearance</b> in a court of law, [<a href="javascript:void(0)" title=" “PHib.” 93.2, 111.31 (3rd c.BC). ">Refs 3rd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[John.14.2]]
+</sub></small>

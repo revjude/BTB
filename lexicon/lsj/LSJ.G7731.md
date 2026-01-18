@@ -1,0 +1,10 @@
+<span class="asgreek">ἱστάνω</span> <small>***(histanō)***</small> ==**to establish**==  <sup><small>[[TEGMC#|]]</small></sup> 
+
+<b> <span class='asgreek'>==ἱστάνω==</span></b>, 
+
+
+ later collateral form of <span class='asgreek'>ἵστημι</span>, first in <i>infinitive</i> <span class='asgreek'>ἱστάνειν</span>, (<span class='asgreek'>ἀνθ</span>-) [<a href="javascript:void(0)" title=" “PPetr.” 2p.120 (3rd c.BC), (καθ-) “Michel” 1006.22 (Teos, 2nd c.BC), (συν-) 2nd c.BC: Polybius Historicus 3.108.4, (ἀποκαθ-) 1st c.BC: Asclepiodotus Tacticus “Tact.” 10.9, compare 1st c.AD: Dioscorides (Dioscurides) Medicus 4.43, etc.">Refs 3rd c.BC+</a>]; compare <span class='asgreek'>ἱστάναι</span> <span class='asgreek'>Ἀττικοί</span>, <span class='asgreek'>ἱστάνειν</span> <span class='asgreek'>Ἕλληνες</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Moeris Grammaticus 200 ">Refs 2nd c.AD+</a>]; <i>participle</i> (<span class='asgreek'>ἐφ</span>) <span class='asgreek'>ιστάνοντες</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 11.2.5; τὸ ἱστάνον 6th c.AD: Simplicius Philosophus “in Aristotelis Physica commentaria - Comm. in Arist. Graeca” 1257.34: \_indicative\_ ἱστάνει Philistio cited in 2nd c.AD: Athenaeus Epigrammaticus 3.115e, ἱστάνομεν NT.Rom.3.31, (παρ) ιστάνουσι 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.266S., etc.">NT+2nd c.BC+</a>]: <i>imperfect</i> (<span class='asgreek'>συν</span>) <span class='asgreek'>ίστανον</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.5.6, (δι-) 2nd c.AD: Appianus Historicus “Ἰβηρική” 36, etc.">Refs 2nd c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>ἱστανόμενος</span> [<a href="javascript:void(0)" title=" “IG” 22.1343.26 (1st c.BC)">Refs 1st c.BC+</a>]:—introduced by the copyists into [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 25.3, 4th c.BC: Isaeus Orator 2.29, etc. ">Refs 5th c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Rom.3.31]]
+</sub></small>

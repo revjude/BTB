@@ -1,0 +1,16 @@
+<small>*Pirathon • A town in Ephraim, home of several notable Israelites*</small>
+
+<span class='tipnrhighlight'>Pirathon</span> was a town in the hill country of Ephraim, associated with the judge Abdon and two of David's mighty men, Benaiah and Hiddai.
+- A location first mentioned at [[Judg.12.15|Jdg.12.15]]; 
+- referred to as Pirathon<[[H6552]]> \(<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ן</span>\), or Pirathon or Pirathonite<[[H6553]]> \(<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>\).
+<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=AIzaSyBASs20ZQcXjMg5_FzpRVEYq2GaemoSAVw&center=32.286022,35.022944&zoom=10&maptype=satellite"></iframe>
+
+
+Pirathon was a town located in the hill country of Ephraim, in the territory allocated to the tribe of Ephraim. It is mentioned in the Bible as the hometown of several notable Israelites. Abdon, one of the judges of Israel, was from Pirathon \(Judg. 12:13, 15\). He judged Israel for eight years and was buried in Pirathon \(Judg. 12:14-15\). Two of David's mighty men, Benaiah the son of Jehoiada and Hiddai \(or Hurai\) of the brooks of Gaash, were also from Pirathon \(2 Sam. 23:30; 1 Chr. 11:31; 27:14\). Benaiah, in particular, was a highly esteemed warrior who commanded the Cherethites and Pelethites, and later supported Solomon's claim to the throne \(2 Sam. 8:18; 1 Kgs. 1:8, 38, 44\). The repeated mention of Pirathon as the hometown of these significant figures suggests that it was a place of some importance during the period of the judges and the early monarchy.
+#### References
+| English | Original | Count | STEP Bible Search |
+| - | - | - | - |
+| Pirathon | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H6552) <small>*Hebrew*</small> | 1x | [Jdg.12.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pirathon\*\|reference=Jdg.12.15) |
+| Pirathon | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H6553) <small>*Hebrew*</small> | 3x | [[2Sa.23.30] ... [1Ch.27.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pirathon\*\|reference=2Sa.23.30;1Ch.11.31;1Ch.27.14) |
+| Pirathonite | [<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>תו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H6553) <small>*Hebrew*</small> | 2x | [[Jdg.12.13] & [Jdg.12.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pirathonite\*\|reference=Jdg.12.13;Jdg.12.15) |
+All Strong's for **Pirathon**: \[[[H6552]]\] \[[[H6553]]\]

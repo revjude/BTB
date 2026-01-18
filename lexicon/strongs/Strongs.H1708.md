@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎דַּבֶּשֶׁת‎</span></big> **Dabbesheth** <small>*(dab-beh'-sheth)*</small> ==**Dabbesheth**==  <sup><small>[[TEHMC#N:N--L|N:N--L]]</small></sup> 
+<small>the same as <span class="ashebrew">‎דַּבֶּשֶׁת‎</span><sup><small>[[H1707]]</small></sup></small>
+
+$\quad$ Dabbesheth.
+- § Dabbasheth = *"a hill-place"*
+- ***Dabbesheth***, a place in Palestine
+
+**1)** a town on the border of Zebulun

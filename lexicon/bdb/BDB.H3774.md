@@ -1,0 +1,13 @@
+ <span class="bdbLangHebrew">‎כְרֵתִי‎</span> **adjective, of a people**, always with article, or plural, as substantive, ==Kerethites==, a name for Philistines or a part of them (perhaps = ***Cretans***, compare [[BDB#Sept|ᵐ5]] [[Zeph.2.5|Zeph 2:5]]; [[Ezek.25.15|Ezek 25:15]] on ***Crete*** as original home of Philistines, see <span class="bdbLangHebrew">‎כַּפְתֹּר‎</span>, <span class="bdbLangHebrew">‎פְּלִשְׁתִּי‎</span>); — <span class="bdbLangHebrew">‎הַכְּרֵתִי‎</span> = substantive collective; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נֶגֶב הַכּ‎</span> [[1Sam.30.14|1Sam 30:14]] (compare [[BDB#Dr|Dr]]; [[BDB#Sept|ᵐ5]] [[BDB#B|B]] <span class="bdbLangGreek">Ξολθει</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Ξορρι</span> [[BDB#A|A]] <span class="bdbLangGreek">Ξερηθει</span>); of soldiers of David's guard, <span class="bdbLangHebrew">‎וְהַפְּלֵתִי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַכּ‎</span> [[2Sam.8.18|2Sam 8:18]] (read <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עַלהַֿכּ‎</span> [[BDB#The|Th]] [[BDB#We|We]] [[BDB#Dr|Dr]] and others) = [[1Chr.18.17|1Chr 18:17]]; [[2Sam.15.18|2Sam 15:18]]; [[2Sam.20.7|2Sam 20:7]] + v[[2Sam.20.23|2Sam 20:23]] [[BDB#Qr|Qr]] ( &gt; [[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎הכרי‎</span>), [[1Kgs.1.38|1Kgs 1:38]]; [[1Kgs.1.44|1Kgs 1:44]] ([[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ξελεθθει</span>, <span class="bdbLangGreek">Ξερεθθει</span>, etc.); plural <span class="bdbLangHebrew">‎כְּרֵתִים‎</span> [[Ezek.25.16|Ezek 25:16]] (\|\| <span class="bdbLangHebrew">‎פְּלִשְׁתִּים‎</span>; [[BDB#Sept|ᵐ5]]. <span class="bdbLangGreek">Κρῆτας</span>); <span class="bdbLangHebrew">‎גּוֺי כְּרֵתִים‎</span> [[Zeph.2.5|Zeph 2:5]] ([[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Κρητῶν</span>; \|\| <span class="bdbLangHebrew">‎ארץ‎</span> <span class="bdbLangHebrew">‎פלשׁתים‎</span>): in v[[Zeph.2.6|Zeph 2:6]] [[BDB#We|We]] reads <span class="bdbLangHebrew">‎כֶּרֶת‎</span> = Philistia (see [<span class="bdbLangHebrew">‎כָרָה‎</span>], below I. <span class="bdbLangHebrew">‎כרה‎</span>).  <span class="bdbLangHebrew">‎כֶּשֶׂב‎</span>, <span class="bdbLangHebrew">‎כִּשְׂבָּה‎</span> see  <span class="bdbLangHebrew">‎כֶבֶשׂ‎</span> etc. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 1 Samuel | [[1Sam.30.14\|30:14]] |
+| 2 Samuel | [[2Sam.8.18\|8:18]] · [[2Sam.15.18\|15:18]] · [[2Sam.20.7\|20:7]] · [[2Sam.20.23\|20:23]] |
+| 1 Kings | [[1Kgs.1.38\|1:38]] · [[1Kgs.1.44\|1:44]] |
+| 1 Chronicles | [[1Chr.18.17\|18:17]] |
+| Ezekiel | [[Ezek.25.15\|25:15]] · [[Ezek.25.16\|25:16]] |
+| Zephaniah | [[Zeph.2.5\|2:5]] · [[Zeph.2.6\|2:6]] |
+

@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==ἀτενίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <b>look intently, gaze earnestly,</b> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ὄμμασιν</span> <b>stare,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 7.10; εἴς τι 4th c.BC: Aristoteles Philosophus “Meteorologica” 343b12; πρός τι [prev. author] “Pr.” 959a24 ">Refs 5th c.BC+</a>]; of the eyes, <span class='asgreek'>==ἀτενίζω==ίζοντες</span> <span class='asgreek'>αὐτῷ</span>[<a href="javascript:void(0)" title=" NT.Luke.4.20, cf. NT.Acts.23.1, “Placita Philosophorum” 1.7; εἴς τι 2nd c.BC: Polybius Historicus 6.11.12, 1st c.AD: Josephus Historicus “Bellum Judaicum” 5.12.3, 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 1.75, etc.; εἴς τινα NT.Acts.6.15; εἰς τὸν θεόν 4th c.AD: Themistius Sophista “Orationes” 4.51b; πρὸς τὸ ἐκείνου πρόσωπον 2nd c.AD: Lucianus Sophista “Merc.Cond.” 11">NT+2nd c.BC+</a>]: <i>absolutely</i>, also of the eyes, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 957b18">Refs 4th c.BC+</a>]:—<i>passive</i>, <b>to be gazed upon,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca Appx. 4.204 (Praxit.). ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i> of the mind, <span class='asgreek'>ἀ</span>. <span class='asgreek'>τὴν</span> <span class='asgreek'>διάνοιαν</span> <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physica” 192a15; εἰς τὴν προαίρεσιν ==ἀτενίζω==ίζοντα πράττειν 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.96 W.">Refs 4th c.BC+</a>]; <b>to be obstinate,</b> [<a href="javascript:void(0)" title=" Lynceus Comicus cited in 2nd c.AD: Athenaeus Epigrammaticus 7.313f.">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.4.20]] ☩ [[Acts.23.1]] ☩ [[Acts.6.15]]
+</sub></small>

@@ -1,0 +1,11 @@
+<span class="asgreek">λοβός</span> <small>***(lobos)***</small> ==**a lobe**==  <sup><small>[[TEGMC#N:N|N:N]]</small></sup> 
+
+<b> <span class='asgreek'>==λοβός==</span>-<span class='asgreek'>ός</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>lobe of the ear</b>, <span class='asgreek'>ἐΰτρητοι</span> (for wearing ear-rings) <span class='asgreek'>λ</span>. [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 14.182, compare “Hymni Homerici” 6.8, 5th c.BC: Hippocrates Medicus “προγνωστικόν” 2, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 492a16; ἄκροι λ. 3rd c.BC: Lycophron Tragicus 1401. ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>lobe of the liver</b>, to which special attention was paid in divination, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 495, 5th c.BC: Euripides Tragicus “Electra” 827, 5th-6th c.BC: Plato Philosophus “Timaeus” 71c, 3rd c.BC: Euphro Comicus 7 ">Refs 5th c.BC+</a>]: generally, <b>liver</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 159 (Lyric poetry). ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>lobe</b> of the lung, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus “de Usu Partium” 6.4, +others ">Refs 2nd c.AD+</a>]; of the whole <b>lung</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ τόπων τῶν κατὰ ἄνθρωπον” 14. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>capsule</b> or <b>pod</b> of leguminous plants (compare <span class='asgreek'>ἔλ==λοβός==ος</span>), [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 1.11.2, etc.">Refs 4th c.BC+</a>]; especially of <span class='asgreek'>φασίολοι</span> or <span class='asgreek'>δόλιχοι</span>, because they were eaten pod and all, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 6.557, 4th c.AD: Julianus Imperator “Orationes” 5.175c. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in rose leaves, <b>the white part</b>, elsewhere <span class='asgreek'>ὄνυξ</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 12.748. ">Refs 2nd c.AD+</a>]

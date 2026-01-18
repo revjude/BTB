@@ -1,0 +1,44 @@
+ I. <span class="bdbLangHebrew">‎נָשִׂיא‎</span><sub>128</sub> **noun masculine** ==one lifted up==, i.e. a chief prince; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> [[Exod.22.27|Exod 22:27]] +; construct <span class="bdbLangHebrew">‎נְשִׂיא‎</span> [[Gen.23.6|Gen 23:6]] +; plural <span class="bdbLangHebrew">‎נְשִׂיאִים‎</span> [[Josh.22.32|Josh 22:32]] +, <span class="bdbLangHebrew">‎נְשִׂיאִים‎</span> [[Josh.22.32|Josh 22:32]] +, <span class="bdbLangHebrew">‎נְשִׂאִים‎</span> [[Exod.34.31|Exod 34:31]] + 7 t., <span class="bdbLangHebrew">‎נְשִׂיאִם‎</span> [[Gen.17.20|Gen 17:20]] + 3 t., <span class="bdbLangHebrew">‎נְשִׂאִם‎</span> [[Exod.35.27|Exod 35:27]] construct <span class="bdbLangHebrew">‎נְשִׂיאֵי‎</span> [[Exod.16.22|Exod 16:22]] +; suffix <span class="bdbLangHebrew">‎נְשִׂיאַי‎</span> [[Ezek.45.8|Ezek 45:8]], <span class="bdbLangHebrew">‎נְשִׂיאֶיהָ‎</span> [[Ezek.32.29|Ezek 32:29]], <span class="bdbLangHebrew">‎נְשִׂיאֵיהֶם‎</span> [[Num.17.21|Num 17:21]], <span class="bdbLangHebrew">‎נְשִׂיאֵהֶם‎</span> v.[[Num.17.17|Num 17:17]], etc.; — mostly in Israel: 
+
+**1.** <span class="bdbLangHebrew">‎בְּעַמְּךָ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> of any chief man, [[Exod.22.27|Exod 22:27]] ([[BDB#E|E]]; human ruler, over against <span class="bdbLangHebrew">‎אֱלֹהִים‎</span>). 
+
+**2.** of Solomon [[1Kgs.11.34|1Kgs 11:34]]. Elsewhere only Ezekiel, [[BDB#P|P]], Chronicles: — 
+
+**3.** of Abraham [[Gen.23.6|Gen 23:6]], and heads of Ishmaelite tribes [[Gen.17.20|Gen 17:20]]; [[Gen.25.16|Gen 25:16]]. 
+
+**4.** rulers of the congregation, <span class="bdbLangHebrew">‎נְשִׂיאֵי הָעֵדָה‎</span> [[Exod.16.22|Exod 16:22]]; [[Josh.9.15|Josh 9:15]]; [[Josh.9.18|Josh 9:18]]; [[Josh.22.30|Josh 22:30]], <span class="bdbLangHebrew">‎בָּעֵדָה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַנּ‎</span> [[Exod.34.31|Exod 34:31]], compare [[Exod.35.27|Exod 35:27]]; [[Lev.4.22|Lev 4:22]]; [[Josh.9.18|Josh 9:18]]b; [[Josh.9.19|Josh 9:19]]; [[Josh.9.21|Josh 9:21]] (twice in verse); [[Josh.17.4|Josh 17:4]]; [[Josh.22.14|Josh 22:14]] (3 t. in verse); [[Josh.22.32|Josh 22:32]] (all [[BDB#P|P]]); especially 
+
+**5.** tribal chiefs and representatives, according to the religious organization of [[BDB#P|P]], [[Num.1.16|Num 1:16]]; [[Num.1.44|Num 1:44]]; [[Num.2.3|Num 2:3]] + 57 t. Numbers (especially chapters 2, 7, 34; note <span class="bdbLangHebrew">‎נְשִׂיא נְשִׂיאֵי הַלֵּוִי‎</span> [[Num.3.32|Num 3:32]]); compare [[1Chr.2.10|1Chr 2:10]]; [[1Chr.4.38|1Chr 4:38]]; [[1Chr.5.6|1Chr 5:6]]; [[1Chr.7.40|1Chr 7:40]]; [[2Chr.1.2|2Chr 1:2]], also [[1Kgs.8.1|1Kgs 8:1]] (probably gloss, omitted by [[BDB#Sept|ᵐ5]] [[BDB#Benz|Benz]]), [[2Chr.5.2|2Chr 5:2]]. 
+
+**6.** in Ezekiel: 
+$\quad$ $\quad$ **a.** of Zedekiah (for <span class="bdbLangHebrew">‎מֶלֶךְ‎</span> see Böhmer<sup>8K 1900, 112 ff.</sup>), [[Ezek.7.27|Ezek 7:27]]; [[Ezek.12.10|Ezek 12:10]]; [[Ezek.12.12|Ezek 12:12]]; [[Ezek.21.30|Ezek 21:30]], + [[Ezek.19.1|Ezek 19:1]] (read singular [[BDB#Sept|ᵐ5]] [[BDB#Ew|Ew]] [[BDB#Hi|Hi]] [[BDB#Co|Co]] [[BDB#Berthol|Berthol]] Toy). 
+$\quad$ $\quad$ **b.** chief men of Judah [[Ezek.21.17|Ezek 21:17]]; [[Ezek.22.6|Ezek 22:6]]; [[Ezek.45.8|Ezek 45:8]]; [[Ezek.45.9|Ezek 45:9]]. 
+$\quad$ $\quad$ **c.** future Davidic king [[Ezek.34.24|Ezek 34:24]]; [[Ezek.37.25|Ezek 37:25]], compare [[Ezek.44.3|Ezek 44:3]] (twice in verse) + 16 t. Ezek 45, 46, 48. 
+$\quad$ $\quad$ **d.** foreign princes [[Ezek.26.16|Ezek 26:16]]; [[Ezek.27.21|Ezek 27:21]]; [[Ezek.30.13|Ezek 30:13]]; [[Ezek.32.29|Ezek 32:29]]; [[Ezek.38.2|Ezek 38:2]]; [[Ezek.38.3|Ezek 38:3]]; [[Ezek.39.1|Ezek 39:1]]; [[Ezek.39.18|Ezek 39:18]]. 
+
+**7.** leader of exiles returning under Cyrus, according to [[Ezra.1.8|Ezra 1:8]]. 
+
+**8.** non-Israel chiefs in [[BDB#P|P]]: [[Gen.34.2|Gen 34:2]]; [[Num.25.18|Num 25:18]]; [[Josh.13.21|Josh 13:21]]. 
+
+
+
+ II. [<span class="bdbLangHebrew">‎נָשִׂיא‎</span>] **noun [masculine]** ==rising mist, vapour== (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJgAdAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAmAB0ABwj3AP8JHEiwoMGDCBMqXMiwocOHECNK/IdvIkF/pkCRS+jNEy2C6io6VAdpxhNkCWFZCuPrnzxQWUA9NDamRRp2KTW9MfaPFydP1iAqYxU0oTxu4gTKM2cxIjJ3EokJW+iL2MCNEW0tkYMuITBEeqAJdGcvYpoQWbglhOeOqUBdlug9ZCcJDyh9ECWhlIgP60B/mkgJ4kRIkjRz3AhZlSiMk0iB9p4cALAAwIEaQVac8QuRE6WC/Px0YURakiI+fphZJEVHHkFVgNQ1PYjuSxRGqEwJ6tBmNkJbJQAIB5Bjr2+DwvCcWWMo6fHn0KNLn069uvXr2AsGBAA7">, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLAAfAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAsAB8ABwj/AP8JHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNqbBhu48NJWnwVvMZQFJcr5iTOAQBAD0Fz2YYpBFbHEbKJWgQEoUYQmCpHKRHiq1exHzBaBdHlkrlQTzGK1E7Bayhq6kBgFNddeVGKoaAXV3gKfDZvYqkNIDoxZAUK1LqByA4FhbirVLOKp6R5FKiM0YsXIGisuZHDSKJhaZ5aNEdUILJwmFQoEBBBxo0HAgqUkGHmrcVi7gbmQNFp1ziB7oYpe9ZM2TCrFfGdHqgHBSuBwxLhuesR36SyA7lxE7hpDiZ8e/+5yZGoVCdCS0AJxNcvuUBvVxiwBPBil3WD/VQlDzoEquP38+jTq1/Pvv2/gAA7">); — only plural <span class="bdbLangHebrew">‎נְשִׂאִים‎</span> ***vapours***, forming clouds, and portending rain, [[Jer.10.13|Jer 10:13]] = [[Jer.51.16|Jer 51:16]], [[Ps.135.7|Ps 135:7]], <span class="bdbLangHebrew">‎נְשִׂיאִים‎</span> [[Prov.25.14|Prov 25:14]]. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.17.20\|17:20]] · [[Gen.23.6\|23:6]] · [[Gen.25.16\|25:16]] · [[Gen.34.2\|34:2]] |
+| Exodus | [[Exod.16.22\|16:22]] · [[Exod.22.27\|22:27]] · [[Exod.34.31\|34:31]] · [[Exod.35.27\|35:27]] |
+| Leviticus | [[Lev.4.22\|4:22]] |
+| Numbers | [[Num.1.16\|1:16]] · [[Num.1.44\|1:44]] · [[Num.2.3\|2:3]] · [[Num.3.32\|3:32]] · [[Num.17.17\|17:17]] · [[Num.17.21\|17:21]] · [[Num.25.18\|25:18]] |
+| Joshua | [[Josh.9.15\|9:15]] · [[Josh.9.18\|9:18]] · [[Josh.9.19\|9:19]] · [[Josh.9.21\|9:21]] · [[Josh.13.21\|13:21]] · [[Josh.17.4\|17:4]] · [[Josh.22.14\|22:14]] · [[Josh.22.30\|22:30]] · [[Josh.22.32\|22:32]] |
+| 1 Kings | [[1Kgs.8.1\|8:1]] · [[1Kgs.11.34\|11:34]] |
+| 1 Chronicles | [[1Chr.2.10\|2:10]] · [[1Chr.4.38\|4:38]] · [[1Chr.5.6\|5:6]] · [[1Chr.7.40\|7:40]] |
+| 2 Chronicles | [[2Chr.1.2\|1:2]] · [[2Chr.5.2\|5:2]] |
+| Ezra | [[Ezra.1.8\|1:8]] |
+| Psalms | [[Ps.135.7\|135:7]] |
+| Proverbs | [[Prov.25.14\|25:14]] |
+| Jeremiah | [[Jer.10.13\|10:13]] · [[Jer.51.16\|51:16]] |
+| Ezekiel | [[Ezek.7.27\|7:27]] · [[Ezek.12.10\|12:10]] · [[Ezek.12.12\|12:12]] · [[Ezek.19.1\|19:1]] · [[Ezek.21.17\|21:17]] · [[Ezek.21.30\|21:30]] · [[Ezek.22.6\|22:6]] · [[Ezek.26.16\|26:16]] · [[Ezek.27.21\|27:21]] · [[Ezek.30.13\|30:13]] · [[Ezek.32.29\|32:29]] · [[Ezek.34.24\|34:24]] · [[Ezek.37.25\|37:25]] · [[Ezek.38.2\|38:2]] · [[Ezek.38.3\|38:3]] · [[Ezek.39.1\|39:1]] · [[Ezek.39.18\|39:18]] · [[Ezek.44.3\|44:3]] · [[Ezek.45.8\|45:8]] · [[Ezek.45.9\|45:9]] |
+

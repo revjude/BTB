@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==πυγμή==</span>-<span class='asgreek'>ή</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>πύξ</span>) <b>fist</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 71, 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 1368; τῇ π. θενών 5th-6th c.BC: Aristophanes Comicus “Vespae” 1384; ==πυγμή==ῇ πατάξαι LXX.Exod.21.18, cf. LXX.Isa.58.4. ">LXX+5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>boxing</b>, as an athletic contest, <span class='asgreek'>==πυγμή==ῇ</span> <span class='asgreek'>νικήσαντα</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 23.669; ==πυγμή==ὴν νικᾶν 5th c.BC: Euripides Tragicus “Alcestis” 1031; ἄνδρας ==πυγμή==ὰν ἐνίκα Ὀλύμπια “Anthologia Graeca” 6.256 (Antip.); ==πυγμή==ᾶς ἄποινα 5th c.BC: Pindarus Lyricus “O.” 7.16, compare 10(11).67 ">Refs 8th c.BC+</a>]; <span class='asgreek'>==πυγμή==ὴν</span> or <span class='asgreek'>τὴν</span> <span class='asgreek'>π</span>. <span class='asgreek'>ἀσκεῖν</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 795b, 4th c.BC: Demosthenes Orator 61.24 ">Refs 5th c.BC+</a>]; frequently in Inscrr., e.g. <span class='asgreek'>==πυγμή==ὴν</span> <span class='asgreek'>Ζωΐλος</span> (i.e. <span class='asgreek'>ἐνίκησε</span>) [<a href="javascript:void(0)" title=" “IG” 7.1765 (from Thespiae), etc. ">Refs</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> generally, <b>fight</b>, <span class='asgreek'>π</span>. <span class='asgreek'>μονομάχων</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>θηρίων</span> Edict.Caes. cited in [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 14.10.6, compare 2nd c.AD: Artemidorus Daldianus Onirocriticus 5.58 ">Refs 1st c.AD+</a>]; <span class='asgreek'>εἰς</span> <span class='asgreek'>π</span>. <span class='asgreek'>καθίστασθαι</span>, <span class='asgreek'>τρέπεσθαι</span>, of partridges, [<a href="javascript:void(0)" title=" “Geoponica” 14.20.1,2. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> in [<a href="javascript:void(0)" title=" NT.Mark.7.3, ==πυγμή==ῇ νίψασθαι">NT</a>] is interpretation <b>diligently</b> (variant{<span class='asgreek'>πυκνά</span>}, <b>often</b>). 
+$\quad$ $\quad$<b>\_\_II</b> a measure of length, <b>the distance from the elbow to the knuckles</b>,= [<a href="javascript:void(0)" title=" 18 δάκτυλοι, 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 9.11.5, 2nd c.AD(?): Pollianus Epigrammaticus 2.147, 158. ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Exod.21.18]] ☩ [[Isa.58.4]] ☩ [[Mark.7.3]]
+</sub></small>

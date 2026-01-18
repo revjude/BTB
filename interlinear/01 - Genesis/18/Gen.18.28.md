@@ -1,0 +1,31 @@
+**Genesis 18:28** 
+<small><sub>**KJV:**</sub></small>
+Peradventure there shall lack five of the fifty righteous: wilt thou destroy all the city for [lack of] five? And he said, If I find there forty and five, I will not destroy [it].
+<small><sub>**BSB:**</sub></small>
+suppose the fifty righteous ones lack five. Will You destroy the whole city for the lack of five?” He replied, “If I find forty-five there, I will not destroy it.”
+<small><sub>**Literal:**</sub></small>
+perhaps they will lack  ! fifty the  righteous [people] five ¿  will you destroy for  five \<obj.> all the  city and  he said not I will destroy [it] if I will find there forty and  five<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.27|<< Genesis 18:27]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.29|Genesis 18:29 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| perhaps  | <span class="ashebrew"><big>א֠וּלַי</big></span><small><sup>[[H0194]]</sup></small> &#8207;| 'U.lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will lack !  | <span class="ashebrew"><big>יַחְסְר֞וּ</big></span><small><sup>[[H2637]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;| yach.se.Ru<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fifty  | <span class="ashebrew"><big>חֲמִשִּׁ֤ים</big></span><small><sup>[[H2572]]</sup></small> &#8207;| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the righteous [people]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>צַּדִּיקִם֙</big></span><small><sup>[[H6662]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  | <span class="ashebrew"><big>חֲמִשָּׁ֔ה</big></span><small><sup>[[H2568]]</sup></small> &#8207;| cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ will you destroy  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>תַשְׁחִ֥ית</big></span><small><sup>[[H7843]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> tash.Chit<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for five  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֲמִשָּׁ֖ה</big></span><small><sup>[[H2568]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>עִ֑יר</big></span><small><sup>[[H5892B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֙אמֶר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will destroy [it]  | <span class="ashebrew"><big>אַשְׁחִ֔ית</big></span><small><sup>[[H7843]]</sup></small> &#8207;| 'ash.Chit<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| if  | <span class="ashebrew"><big>אִם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will find  | <span class="ashebrew"><big>אֶמְצָ֣א</big></span><small><sup>[[H4672]]</sup></small> &#8207;| 'em.Tza'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  | <span class="ashebrew"><big>שָׁ֔ם</big></span><small><sup>[[H8033G]]</sup></small> &#8207;| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| forty  | <span class="ashebrew"><big>אַרְבָּעִ֖ים</big></span><small><sup>[[H0705]]</sup></small> &#8207;| 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חֲמִשָּֽׁה</big></span><small><sup>[[H2568]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.27|<< Genesis 18:27]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.29|Genesis 18:29 >>]]</td></tr></table>
+
+

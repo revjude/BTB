@@ -1,0 +1,27 @@
+ [<span class="bdbLangHebrew">‎כָּלָא‎</span>] **verb** ==shut up, restrain, withhold== (Late Hebrew ***id.***; Aramaic <span class="bdbLangAramaic">‎כְּלָא‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhGQAaAIAAAAAAAP///yH5BAAAAAAALAAAAAAZABoAAAJMjI+py+0ADHQMxjCpsvJqxGHed2QZWV4nKnZs6iZhpY6iZafRis9yDfKsgruhbsHx/ZC9SdPYeUqZuGiT+lrKslsuzHvLoapeJfhTAAA7">; Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLgAUAIAAAAAAAP///yH5BAAAAAAALAAAAAAuABQAAAJwjI+py+0NnpwM2Agvfjr3+jnatoxk0p1KCLKIqb5XMMp16eIwuXvoubMcZjTiT2jTGT5GV6+oaiKLNiBsGJ0STcspFGNsYcHckDSW7JLV7DYUu9IiZ9v6xn6802/fm98qJ8T31dcWRoGYqLjI2KhYAAA7"> ***restrain, hinder***; Assyrian <abbr title="transliteration"><u>***Kâlû, id.;***</u></abbr> Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHQAbAIAAAAAAAP///yH5BAAAAAAALAAAAAAdABsAAAJZjI+pq+AMm3uxGhCm3RNzz2BgqEEdcmYUuarlZo5RC5NmTSevjPL6mnvFKLRcSHWRGWfJny+G/NUuVMnU4xNWHs/lotN9SrQHrzRj25aIInI59Qabp/T6oQAAOw=="> ***protect*** Qor 21:43 compare [[BDB#Ba|Ba]]<sup>ZMG 1887, 605 Anm. 4</sup>) — 
+
+**Qal** ***Perfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎כְּלָאוֺ‎</span> [[Jer.32.3|Jer 32:3]] 3 feminine singular <span class="bdbLangHebrew">‎כָּֽלְאָה‎</span> [[Hag.1.10|Hag 1:10]] 2 feminine singular suffix <span class="bdbLangHebrew">‎כְּלִתִ֫נִי‎</span> [[1Sam.25.33|1Sam 25:33]] 1 singular <span class="bdbLangHebrew">‎כָּלִאתִי‎</span> [[Ps.119.101|Ps 119:101]] 3 plural <span class="bdbLangHebrew">‎כָּֽלְאוּ‎</span> [[Hag.1.10|Hag 1:10]], <span class="bdbLangHebrew">‎כָּלוּ‎</span> [[1Sam.6.10|1Sam 6:10]] ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יִכְלֶה‎</span> [[Gen.23.6|Gen 23:6]] 2 masculine singular <span class="bdbLangHebrew">‎תִּכְלָא‎</span> [[Ps.40.12|Ps 40:12]] 2 feminine singular <span class="bdbLangHebrew">‎תִּכְלָאִ֑י‎</span> [[Isa.43.6|Isa 43:6]] 1 singular <span class="bdbLangHebrew">‎אֶכְלָא‎</span> [[Ps.40.10|Ps 40:10]] ***Imperative*** suffix <span class="bdbLangHebrew">‎כְּלָאֵם‎</span> [[Num.11.28|Num 11:28]] ***Infinitive construct*** <span class="bdbLangHebrew">‎לִכְלוֺא‎</span> [[Eccl.8.8|Eccl 8:8]] ***Passive participle*** <span class="bdbLangHebrew">‎כָּלוּא‎</span> [[Jer.32.2|Jer 32:2]], <span class="bdbLangHebrew">‎כָּלֻא‎</span> [[Ps.88.9|Ps 88:9]] (on the metaplastic forms, as if from <span class="bdbLangHebrew">‎כלה‎</span>, see [[BDB#Ges|Ges]]<sup>«GKC:75»§ 75</sup>, 21 c [[BDB#Kö|Kö]]<sup>i. 611</sup>); — 
+
+**1.** ***shut up***, with accusative [[1Sam.6.10|1Sam 6:10]] (+ <span class="bdbLangHebrew">‎בְ‎</span> local), [[Jer.32.3|Jer 32:3]] passive participle [[Jer.32.2|Jer 32:2]] (<span class="bdbLangHebrew">‎בְ‎</span> local), figurative [[Ps.88.9|Ps 88:9]] (opposed to <span class="bdbLangHebrew">‎יצא‎</span>). 
+
+**2.** ***restrain***, with accusative [[1Sam.25.33|1Sam 25:33]] (+ <span class="bdbLangHebrew">‎מִבּוֺא‎</span> <span class="bdbLangHebrew">‎בְדָמִים‎</span>), [[Ps.119.101|Ps 119:101]] (+ <span class="bdbLangHebrew">‎מִכָּלֿ‎</span>); <span class="bdbLangHebrew">‎כְּלָאֵם‎</span> (sc. <span class="bdbLangHebrew">‎מֵהִתְנַבֵּא‎</span>) [[Num.11.28|Num 11:28]] <span class="bdbLangHebrew">‎שְׂפָתַי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כ‎</span> [[Ps.40.10|Ps 40:10]] <span class="bdbLangHebrew">‎אֶתהָֿרוּחַ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כ‎</span> [[Eccl.8.8|Eccl 8:8]]. On [[Ps.74.11|Ps 74:11]] see  <span class="bdbLangHebrew">‎כלה‎</span> 
+
+**Pi\`el 2. 3.** ***withhold***, <span class="bdbLangHebrew">‎אֶתקִֿבְרוֺ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כ‎</span> <span class="bdbLangHebrew">‎מִמְּךָ מִקְּבֹר מֵתֶ֑ךָ‎</span> [[Gen.23.6|Gen 23:6]] ([[BDB#P|P]]), <span class="bdbLangHebrew">‎רַחֲמֶיךָ מִמֶּ֑נּי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כ‎</span> [[Ps.40.12|Ps 40:12]]; [[Hag.1.10|Hag 1:10]] b, probably also v<sup>a</sup> (read <span class="bdbLangHebrew">‎טָ֑ל‎</span> for [[BDB#MT|ᵑ0]] [[BDB#Sept|ᵐ5]] <span class="bdbLangHebrew">‎מִטָּ֑ל‎</span>, [[BDB#We|We]]); absolute <span class="bdbLangHebrew">‎אַלתִּֿכְלָאִי‎</span> (that is, exiles) [[Isa.43.6|Isa 43:6]] (\|\| <span class="bdbLangHebrew">‎תְּנִי‎</span>). **Niph\`al** ***Imperfect*** <span class="bdbLangHebrew">‎וַיִּכָּלֵא הַגֶּשֶׁם מִןהַֿשָּׁמַיִם‎</span> [[Gen.8.2|Gen 8:2]] ([[BDB#J|J]]), ***and the rain from heaven was restrained***, compare <span class="bdbLangHebrew">‎וַיִּכָּֽלְאוּ מַיִם‎</span> <span class="bdbLangHebrew">‎רַבִּים‎</span> [[Ezek.31.15|Ezek 31:15]] (in figurative; \|\| <span class="bdbLangHebrew">‎מנע‎</span>); <span class="bdbLangHebrew">‎וַיִּכָּלֵא הָעָם מֵהָבִיא‎</span> [[Exod.36.6|Exod 36:6]] ([[BDB#P|P]]). **Pi\`el** [Perfect <span class="bdbLangHebrew">‎כִּלָּא‎</span> and] ***Infinitive construct*** <span class="bdbLangHebrew">‎לְכַלֵּא‎</span> see  <span class="bdbLangHebrew">‎כלה‎</span> **Pi\`el** 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Genesis | [[Gen.8.2\|8:2]] · [[Gen.23.6\|23:6]] |
+| Exodus | [[Exod.36.6\|36:6]] |
+| Numbers | [[Num.11.28\|11:28]] |
+| 1 Samuel | [[1Sam.6.10\|6:10]] · [[1Sam.25.33\|25:33]] |
+| Psalms | [[Ps.40.10\|40:10]] · [[Ps.40.12\|40:12]] · [[Ps.74.11\|74:11]] · [[Ps.88.9\|88:9]] · [[Ps.119.101\|119:101]] |
+| Ecclesiastes | [[Eccl.8.8\|8:8]] |
+| Isaiah | [[Isa.43.6\|43:6]] |
+| Jeremiah | [[Jer.32.2\|32:2]] · [[Jer.32.3\|32:3]] |
+| Ezekiel | [[Ezek.31.15\|31:15]] |
+| Haggai | [[Hag.1.10\|1:10]] |
+

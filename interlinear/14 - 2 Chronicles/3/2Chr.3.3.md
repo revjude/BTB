@@ -1,0 +1,29 @@
+**2 Chronicles 3:3** 
+<small><sub>**KJV:**</sub></small>
+Now these [are the things wherein] Solomon was instructed for the building of the house of God. The length by cubits after the first measure [was] threescore cubits, and the breadth twenty cubits.
+<small><sub>**BSB:**</sub></small>
+The foundation that Solomon laid for the house of God was sixty cubits long and twenty cubits wide, according to the old standard.
+<small><sub>**Literal:**</sub></small>
+and  these [are] [the] founding of Solomon to  build \<obj.> [the] house of \<the>  God the  length cubits by the  measurement \<the>  former [was] cubits sixty and  [the] breadth [was] cubits twenty<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.2|<< 2 Chronicles 3:2]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.4|2 Chronicles 3:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and these  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֙לֶּה֙</big></span><small><sup>[[H0428]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] founding of  | <span class="ashebrew"><big>הוּסַ֣ד</big></span><small><sup>[[H3245]]</sup></small> &#8207;| hu.Sad<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  | <span class="ashebrew"><big>שְׁלֹמֹ֔ה</big></span><small><sup>[[H8010]]</sup></small> &#8207;| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to build  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>בְנ֖וֹת</big></span><small><sup>[[H1129]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> v.Not<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  | <span class="ashebrew"><big>בֵּ֣ית</big></span><small><sup>[[H1004Q]]</sup></small> &#8207;| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֱלֹהִ֑ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the length  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֹ֡רֶךְ</big></span><small><sup>[[H0753]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'O.rekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cubits  | <span class="ashebrew"><big>אַמּ֞וֹת</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| 'a.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by the measurement  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מִּדָּ֤ה</big></span><small><sup>[[H4060A]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> mi.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> former  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>רִֽאשׁוֹנָה֙</big></span><small><sup>[[H7223H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ri.sho.Nah<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] cubits  | <span class="ashebrew"><big>אַמּ֣וֹת</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| 'a.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sixty  | <span class="ashebrew"><big>שִׁשִּׁ֔ים</big></span><small><sup>[[H8346]]</sup></small> &#8207;| shi.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] breadth  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>רֹ֖חַב</big></span><small><sup>[[H7341]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ro.chav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] cubits  | <span class="ashebrew"><big>אַמּ֥וֹת</big></span><small><sup>[[H0520A]]</sup></small> &#8207;| 'a.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twenty  | <span class="ashebrew"><big>עֶשְׂרִֽים</big></span><small><sup>[[H6242]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.2|<< 2 Chronicles 3:2]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.4|2 Chronicles 3:4 >>]]</td></tr></table>
+
+

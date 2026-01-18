@@ -1,0 +1,8 @@
+<big><span class="ashebrew">‎עָרֹב‎</span></big> **ʻârôb** <small>*(aw-robe')*</small> ==**swarm**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 
+<small>from <span class="ashebrew">‎עָרַב‎</span><sup><small>[[H6148]]</small></sup></small>
+
+$\quad$ divers sorts of flies, swarm.
+- ***a mosquito*** (from its swarming)
+
+**1)** swarm
+$\quad$ **1a)** probable meaning from 'mixture' and 'incessant or involved motion'

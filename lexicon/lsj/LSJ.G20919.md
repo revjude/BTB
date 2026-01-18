@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==παρπεπιθών==</span></b>, 
+
+
+ <i>Epic dialect</i> <i>reduplicate</i> <i>aorist 2</i> <i>participle</i> of <span class='asgreek'>παραπείθω</span>. <b><span class='asgreek'>παρπόδιος</span></b>, <span class='asgreek'>ον</span>, <i>poetry</i> for <span class='asgreek'>παραπόδιος</span>. <b><span class='asgreek'>παρπόρφυρος</span></b>, ={<span class='asgreek'>παραπόρφυρος</span>}, [<a href="javascript:void(0)" title=" “IG” 7.2421 (from Thebes)">Refs</a>]:—also <b><span class='asgreek'>παρπόρφουρος</span></b>, [<a href="javascript:void(0)" title=" “Schwyzer” 462 B 39 (Tanagra, 3rd c.BC)">Refs 3rd c.BC+</a>]. <b><span class='asgreek'>παρράλιος</span></b> [<span class='asgreek'>ᾰλ</span>], <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, <i>Epic dialect</i> for <span class='asgreek'>παράλιος</span>, [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 4.1560, see reading in 2nd c.AD: Dionysius Periegeta 253 ">Refs 3rd c.BC+</a>]. <b><span class='asgreek'>παρρέκτης</span></b>, <span class='asgreek'>ου</span>, <span class='asgreek'>ὁ</span>, ={<span class='asgreek'>πανοῦργος</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
+

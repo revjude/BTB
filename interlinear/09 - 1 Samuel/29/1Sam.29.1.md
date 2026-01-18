@@ -1,0 +1,24 @@
+**1 Samuel 29:1** 
+<small><sub>**KJV:**</sub></small>
+Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which [is] in Jezreel.
+<small><sub>**BSB:**</sub></small>
+Now the Philistines brought all their forces together at Aphek, while Israel camped by the spring in Jezreel.
+<small><sub>**Literal:**</sub></small>
+and  they gathered [the] Philistines \<obj.> all armies  their Aphek  towards and  Israel [were] encamped at the  spring which [is] in  Jezreel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.25|<< 1 Samuel 28:25]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.2|1 Samuel 29:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they gathered  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקְבְּצ֧וּ</big></span><small><sup>[[H6908]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yik.be.Tzu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  | <span class="ashebrew"><big>פְלִשְׁתִּ֛ים</big></span><small><sup>[[H6430G]]</sup></small> &#8207;| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| armies their  | <span class="ashebrew"><big>מַחֲנֵי</big></span><small><sup>[[H4264]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ma.cha.nei.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aphek towards  | <span class="ashebrew"><big>אֲפֵ֑קָ</big></span><small><sup>[[H0663G]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> &#8207;| 'a.Fe.ka<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Israel  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יִשְׂרָאֵ֣ל</big></span><small><sup>[[H3478]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] encamped  | <span class="ashebrew"><big>חֹנִ֔ים</big></span><small><sup>[[H2583]]</sup></small> &#8207;| cho.Nim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at the spring  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עַ֖יִן</big></span><small><sup>[[H5869M]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in Jezreel  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>יִזְרְעֶֽאל</big></span><small><sup>[[H3157G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> yiz.re.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.25|<< 1 Samuel 28:25]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.2|1 Samuel 29:2 >>]]</td></tr></table>
+
+

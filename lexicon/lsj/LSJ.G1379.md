@@ -1,0 +1,11 @@
+
+<b> <span class='asgreek'>==δογματίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <b>lay down as an opinion,</b> <span class='asgreek'>ἀ</span>ϊ<span class='asgreek'>δίους</span> <span class='asgreek'>εἶναι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “de Pietate - Herkulanische Studien” 19; τὰ αἰσχρά 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 3.7.18: \_absolutely\_, 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 1.13, +others">Refs 1st c.BC+</a>]; <span class='asgreek'>οἱ</span> -<span class='asgreek'>οντες</span>, ={<span class='asgreek'>οἱ</span> <span class='asgreek'>δογματικοί</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(1).270">Refs 2nd c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>τὰ</span> -<span class='asgreek'>όμενα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 1.18. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>decree by ordinance,</b> with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 4.83, LXX.1Esd.6.34 ">LXX+1st c.BC+</a>]; of the Roman Senate, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 14.10.22 ">Refs 1st c.AD+</a>]; <span class='asgreek'>δ</span>. <span class='asgreek'>τινὰ</span> <span class='asgreek'>καλήν</span> <b>declare</b> her beautiful, [<a href="javascript:void(0)" title="“Anthologia Graeca” 9.576 (1st c.AD: Nicarchus Epigrammaticus)">Refs 1st c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>τὰ</span> <span class='asgreek'>δογματισθέντα</span> [<a href="javascript:void(0)" title=" “IG” 12(3).173.53 (from Astypalaea), compare [prev. work] 14.759.13 (from Naples). ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> in <i>passive</i>, of persons, <b>submit to ordinances,</b> [<a href="javascript:void(0)" title="NT.Col.2.20. ">NT</a>]
+
+<small><sub>LSJ Scripture Refs: [[Col.2.20]]
+</sub></small>

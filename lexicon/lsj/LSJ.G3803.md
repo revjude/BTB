@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==παγίς==</span></b>, <span class='asgreek'>ίδος</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ (<span class='asgreek'>πήγνυμι</span>) ={<span class='asgreek'>πάγη</span>}, <b>trap</b>, [<a href="javascript:void(0)" title=" Batrachomyomachia 117, 3rd c.BC: Callimachus Epicus “Fragmenta” 458, “Anthologia Graeca” 6.109 (Antip.); παγίδας ἱστάναι 5th-6th c.BC: Aristophanes Comicus “Aves” 527 (\_anapaest meter\_), compare 194. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>trap, snare</b>, of women, [<a href="javascript:void(0)" title=" 4th c.BC: Amphis Comicus 23, 4th-3rd c.BC: Menander Comicus 689 ">Refs 4th c.BC+</a>]; <span class='asgreek'>δουρατέα</span> <span class='asgreek'>π</span>., of the Trojan horse, [<a href="javascript:void(0)" title="“Anthologia Graeca” 9.152 (6th c.AD: Agathias Historicus et Epigrammaticus)">Refs 6th c.AD+</a>]; <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἄρτοις</span>.. <span class='asgreek'>ἱστᾶσι</span> <span class='asgreek'>παγίδας</span> they try to 'raise the wind', [<a href="javascript:void(0)" title=" 2nd c.AD: Alexander Rhetor 66 ">Refs 2nd c.AD+</a>]; of women's ornaments, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 666. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἄγκυρα</span> <span class='asgreek'>νεῶν</span> <span class='asgreek'>π</span>. the anchor <b>which holds</b> ships <b>fast,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 6.5 (1st c.AD: Philippus Epigrammaticus). ">Refs 1st c.AD+</a>]

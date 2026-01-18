@@ -1,0 +1,11 @@
+ <span class="bdbLangHebrew">‎יְדוּתוּן‎</span>, <span class="bdbLangHebrew">‎יְדֻתוּן‎</span> **proper name, masculine** usually <span class="bdbLangHebrew">‎יְדוּתוּן‎</span>; <span class="bdbLangHebrew">‎יְדֻתוּן‎</span> [[2Chr.5.12|2Chr 5:12]]; [[2Chr.35.15|2Chr 35:15]] <span class="bdbLangHebrew">‎יְדיּ֯תוּן‎</span> [[Ps.39.1|Ps 39:1]]; [[Ps.77.1|Ps 77:1]]; [[Neh.11.37|Neh 11:37]]; [[1Chr.16.38|1Chr 16:38]] chief of one of the three choirs of the temple (only Chronicles &amp; Psalm-titles) [[1Chr.9.16|1Chr 9:16]]; [[1Chr.16.38|1Chr 16:38]]; [[1Chr.16.41|1Chr 16:41]]; [[1Chr.16.42|1Chr 16:42]]; [[1Chr.25.3|1Chr 25:3]] (twice in verse); [[1Chr.25.6|1Chr 25:6]]; [[2Chr.5.12|2Chr 5:12]] the king's seer [[2Chr.35.15|2Chr 35:15]] his descendants formed one of the perpetual temple choirs <span class="bdbLangHebrew">‎בְּנֵי יְדוּתוּן‎</span> [[1Chr.16.42|1Chr 16:42]]; [[1Chr.25.1|1Chr 25:1]]; [[1Chr.25.3|1Chr 25:3]]; [[2Chr.29.14|2Chr 29:14]] <span class="bdbLangHebrew">‎בֶּןיְֿדיּ֯תוּן‎</span> [[Neh.11.17|Neh 11:17]]. In Psalm-titles <span class="bdbLangHebrew">‎על ידותון‎</span> [[Ps.62.1|Ps 62:1]]; [[Ps.77.1|Ps 77:1]] ([[BDB#Qr|Qr]]); <span class="bdbLangHebrew">‎לִידיּתוּן‎</span> [[Ps.39.1|Ps 39:1]] (<span class="bdbLangHebrew">‎לְ‎</span> error for <span class="bdbLangHebrew">‎עלֿ‎</span>), all = ***after the manner of*** (the choir of) ***Yeduthun*** (musical term according to [[BDB#RS|RS]]<sup>OTJC 422, 2nd ed. 143</sup>). — see also [[BDB#Lag|Lag]]<sup>Or ii. 16 ff.</sup> and proper name <span class="bdbLangHebrew">‎אָסָף‎</span>, <span class="bdbLangHebrew">‎הֵימָן‎</span> (sub <span class="bdbLangHebrew">‎אמן‎</span>), <span class="bdbLangHebrew">‎אֵיתָן‎</span> (sub <span class="bdbLangHebrew">‎יתן‎</span>). 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 1 Chronicles | [[1Chr.9.16\|9:16]] · [[1Chr.16.38\|16:38]] · [[1Chr.16.41\|16:41]] · [[1Chr.16.42\|16:42]] · [[1Chr.25.1\|25:1]] · [[1Chr.25.3\|25:3]] · [[1Chr.25.6\|25:6]] |
+| 2 Chronicles | [[2Chr.5.12\|5:12]] · [[2Chr.29.14\|29:14]] · [[2Chr.35.15\|35:15]] |
+| Nehemiah | [[Neh.11.17\|11:17]] · [[Neh.11.37\|11:37]] |
+| Psalms | [[Ps.39.1\|39:1]] · [[Ps.62.1\|62:1]] · [[Ps.77.1\|77:1]] |
+

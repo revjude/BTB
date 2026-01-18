@@ -1,0 +1,28 @@
+**Lamentations 4:21** 
+<small><sub>**KJV:**</sub></small>
+Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.
+<small><sub>**BSB:**</sub></small>
+So rejoice and be glad, O Daughter of Edom, you who dwell in the land of Uz. Yet the cup will pass to you as well; you will get drunk and expose yourself.
+<small><sub>**Literal:**</sub></small>
+exult and  rejoice O daughter of Edom [who] dwells in  [the] land of Uz also to  you it will pass on a cup you will become drunk and  you may strip yourself naked<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.20|<< Lamentations 4:20]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.22|Lamentations 4:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| exult  | <span class="ashebrew"><big>שִׂ֤ישִׂי</big></span><small><sup>[[H7797]]</sup></small> &#8207;| Si.si<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and rejoice  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שִׂמְחִי֙</big></span><small><sup>[[H8055]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> sim.Chi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O daughter of  | <span class="ashebrew"><big>בַּת</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Edom  | <span class="ashebrew"><big>אֱד֔וֹם</big></span><small><sup>[[H0123G]]</sup></small> &#8207;| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] dwells  [^1] | <span class="ashebrew"><big>יוֹשֶׁ֖בֶת</big></span><small><sup>[[H3427]]</sup></small> &#8207;[^2] | yo.shav.ti<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| in [the] land of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אֶ֣רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Uz  | <span class="ashebrew"><big>ע֑וּץ</big></span><small><sup>[[H5780J]]</sup></small> &#8207;| 'Utz<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| also  | <span class="ashebrew"><big>גַּם</big></span><small><sup>[[H1571]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  | <span class="ashebrew"><big>עָלַ֙יִ</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9032]]</sup></small> &#8207;| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will pass on  | <span class="ashebrew"><big>תַּעֲבָר</big></span><small><sup>[[H5674A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ta.'a.vor-<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cup  | <span class="ashebrew"><big>כּ֔וֹס</big></span><small><sup>[[H3563A]]</sup></small> &#8207;| Kos<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will become drunk  | <span class="ashebrew"><big>תִּשְׁכְּרִ֖י</big></span><small><sup>[[H7937]]</sup></small> &#8207;| tish.ke.Ri<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you may strip yourself naked  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תִתְעָרִֽי</big></span><small><sup>[[H6168]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> tit.'a.Ri<small><sup>[[HVtu2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.20|<< Lamentations 4:20]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.22|Lamentations 4:22 >>]]</td></tr></table>
+
+[^1]: ==K==: **[who] dwells ** | <small><sup>[[H3427]]</sup></small><span class="ashebrew"><big>יוֹשַׁבְתִּי</big></span>  | yo.shav.ti<small><sup>[[HVqrfsc]]</sup></small> 
+[^2]: ==L== spelled: **<span class="ashebrew"><big>יוֹשֶׁ֖בֶתי</big></span>**
+

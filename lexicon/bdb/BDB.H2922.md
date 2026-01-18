@@ -1,0 +1,12 @@
+<small>Also see: [[H2923]]</small>
+
+ <span class="bdbLangHebrew">‎טָלֶה‎</span> **noun masculine**<sup>[[1Sam.7.9|1Sam 7:9]]</sup> ==lamb== (Late Hebrew ***id., lamb***; Aramaic <span class="bdbLangAramaic">‎טַלְיָא‎</span> ***lamb, youth***, <span class="bdbLangHebrew">‎טַלְיְתָא‎</span> ***girl***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLAAbAIAAAAAAAP///yH5BAAAAAAALAAAAAAsABsAAAJzjI+py+0PwZGLJmChwjwbXIHaxjHiFXhjepLh6jbtZ80PaNMb0sGsyoqUVsMLMHREvkbFW67pzBmB0GhSp/RVeUeolNtNdii9aMw0TqvXageux46v0R9Z/Dc3+oT4837586d18iWYFWRIlJYIU8b4CGlYAAA7"> ***boy, youth***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhNgAaAIAAAAAAAP///yH5BAAAAAAALAAAAAA2ABoAAAKMjI+py+2PgISUTidv3Sk/z4UHaGilqaDiCYwmyagQHGhwO9MYbeu5HEO9gB/fgodjJUPGjnCZIRaXwRT0tGIVrZFWtNr4HqlYl9IqFTvHrmTU8/bW0FRgTxzP6/fG++2txCfIVWKWtQNoeHSI0RbBGBYGRQbppOZYVhl0eVZDqYklRycFatFUipq6UgAAOw=="> ***girl*** (compare [[Mark.5.41|Mark 5:41]] [[BDB#Syr|ᵑ6]]); Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhGgAaAIAAAAAAAP///yH5BAAAAAAALAAAAAAaABoAAAJSjI+pm+AMj5sgVnbfopBq6WFhc0XmCaLmF5SIq3AG3NLvlN42OcesOKPtfLWY6vEroirJoa+ZccputSQIR2JacT+s8lryiFkj8FhlbKHX7Da7AAA7"> ***young*** of cloven-footed animals, especially ***young gazelle*** [[BDB#Hom|Hom]]<sup>NS 235, Nedj.</sup> ***tully, male lamb***, [[BDB#Doughty|Doughty]]<sup>Arab. Desert. i. 429, ii. 269</sup>; Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKAASAIAAAAAAAP///yH5BAAAAAAALAAAAAAoABIAAAJYjI+py+0N4ps0RFDzulLzjylgdllgd5zhUxqtucIuirw2eneciMd52osBQy/ZbJUTuoZDZGl3VCaKP5iTVjs2t1DrTOsNez9RaItKe5pVRs32y5O65/R6AQA7"> ***flock of goats, goat, kid***) — <span class="bdbLangHebrew">‎טְלֵה חָלָב‎</span> [[1Sam.7.9|1Sam 7:9]] ***sucking lamb*** (for burnt-offering); in prediction <span class="bdbLangHebrew">‎זְאֵב וְטָלֶה יִרְעוּ‎</span> [[Isa.65.25|Isa 65:25]] ***wolf &amp; lamb shall feed***; <span class="bdbLangHebrew">‎טְלָאִים‎</span> plural of foregoing, only [[Isa.40.11|Isa 40:11]] in metaphor of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> shepherding his people. <span class="bdbLangHebrew">‎טלטלה‎</span> see below <span class="bdbLangHebrew">‎טוּל‎</span>.
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 1 Samuel | [[1Sam.7.9\|7:9]] |
+| Isaiah | [[Isa.40.11\|40:11]] · [[Isa.65.25\|65:25]] |
+| Mark | [[Mark.5.41\|5:41]] |
+

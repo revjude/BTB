@@ -1,0 +1,22 @@
+<small>Aramaic form: [[H5182]]</small>
+ [<span class="bdbLangHebrew">‎נָחֵת‎</span>] **verb** (Aramaic and in poetry) ==go down, descend== (Aramaic <span class="bdbLangAramaic">‎נְחֵת‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhIAAWAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAgABYABwigAP8JHEiwoMGDCBMqXMiwocOHECNKPDivBABGExMCoAAAQER3eBDiexWmSoaIBQA8S+jmX7aIKAAoyJhwU0dgD+ExhNeRgkNfHhkC2AVAhUF8AtENBAbA3UJ8HkEBOKBqYAsAwDYAQCZwHYBrC/8AqELNVkcAJTKcPWvmrNCztv6VWiulIxwGZ3Mx5GKLFgBMBF/SHCzQG2GE+g4rXkwzIAA7">; Palmyrene <span class="bdbLangHebrew">‎נחת‎</span> [[BDB#Ldzb|Lzb]]<sup>323</sup>); — 
+
+**Qal** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יֵחַת‎</span> [[Jer.21.13|Jer 21:13]] 3 feminine singular <span class="bdbLangHebrew">‎תֵּ֫חַת‎</span> [[Prov.17.10|Prov 17:10]], <span class="bdbLangHebrew">‎וַתִּנְחַת‎</span> [[Ps.38.3|Ps 38:3]] 3 masculine plural <span class="bdbLangHebrew">‎יֵחַ֑תּוּ‎</span> [[Job.21.13|Job 21:13]] (forms <span class="bdbLangHebrew">‎יֵחַת‎</span>, <span class="bdbLangHebrew">‎יֵחַתּוּ‎</span> see also  <span class="bdbLangHebrew">‎חתת‎</span>); — 
+
+**1.** ***go down, descend***, to attack [[Jer.21.13|Jer 21:13]] into <abbr title="transliteration"><u>Sh®°ôl</u></abbr> [[Job.21.13|Job 21:13]]. 
+
+**2.** figurative ***descend*** in chastisement [[Ps.38.3|Ps 38:3]] (hand of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>; \|\| **Niph\`al** see below); followed by <span class="bdbLangHebrew">‎בְּ‎</span> ***descend into*** i.e. make impression on, [[Prov.17.10|Prov 17:10]] (of reproof). **Niph\`al** ***Perfect*** 3 masculine plural <span class="bdbLangHebrew">‎נִחֲתוּ‎</span> followed by <span class="bdbLangHebrew">‎בְּ‎</span> = ***penetrate*** [[Ps.38.3|Ps 38:3]], (of arrows of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>). **Pi\`el** ***Perfect*** 3 masculine singular consecutive <span class="bdbLangHebrew">‎וְנִחַת‎</span> [[2Sam.22.35|2Sam 22:35]] (see [[BDB#Ges|Ges]]<sup>«GKC:145»§ 145</sup>. 7); = 3 feminine singular <span class="bdbLangHebrew">‎וְנִחֲתָה‎</span> [[Ps.18.35|Ps 18:35]] ***Infinitive absolute*** <span class="bdbLangHebrew">‎נַחֵת‎</span> [[Ps.65.11|Ps 65:11]] — ***cause to descend*** = ***press down***, according to most, in <span class="bdbLangHebrew">‎קֶשֶׁת נְחוּשָׁה זְדֹעֹתָ֑י‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְנ‎</span> [[2Sam.22.35|2Sam 22:35]] = [[Ps.18.35|Ps 18:35]] ***so that my arms press down, stretch***, a bow of bronze, but dubious; [[BDB#Bu|Bu]] conjecture Hiph\`il <span class="bdbLangHebrew">‎יַנְחִת‎</span>; [[BDB#HPS|HPS]] <span class="bdbLangHebrew">‎וַיָּ֫שֶׁת‎</span> ***and makes my arms a bow of bronze***; of ***pressing down***, smoothing out, furrows of land [[Ps.65.11|Ps 65:11]]. **Hiph\`il** ***Imperative*** <span class="bdbLangHebrew">‎הַנְחַת‎</span> [[Joel.4.11|Joel 4:11]] thither ***bring down*** thy heroes, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>! (on form compare [[BDB#Ges|Ges]]<sup>«GKC:64»§ 64</sup> R. 3 [[BDB#Kö|Kö]]<sup>i. 314 f.</sup>). 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| 2 Samuel | [[2Sam.22.35\|22:35]] |
+| Job | [[Job.21.13\|21:13]] |
+| Psalms | [[Ps.18.35\|18:35]] · [[Ps.38.3\|38:3]] · [[Ps.65.11\|65:11]] |
+| Proverbs | [[Prov.17.10\|17:10]] |
+| Jeremiah | [[Jer.21.13\|21:13]] |
+| Joel | [[Joel.4.11\|4:11]] |
+

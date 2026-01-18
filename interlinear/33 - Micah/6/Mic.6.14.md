@@ -1,0 +1,26 @@
+**Micah 6:14** 
+<small><sub>**KJV:**</sub></small>
+Thou shalt eat, but not be satisfied; and thy casting down [shall be] in the midst of thee; and thou shalt take hold, but shalt not deliver; and [that] which thou deliverest will I give up to the sword.
+<small><sub>**BSB:**</sub></small>
+You will eat but not be satisfied, and your hunger will remain with you. What you acquire, you will not preserve; and what you save, I will give to the sword.
+<small><sub>**Literal:**</sub></small>
+you you will eat and  not you will be satisfied and  emptiness  your [will be] in  midst  your and  you will carry away and  not you will bring to safety and  [that] which you will bring to safety to the  sword I will give<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.13|<< Micah 6:13]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.15|Micah 6:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| you  | <span class="ashebrew"><big>אַתָּ֤ה</big></span><small><sup>[[H0859A]]</sup></small> &#8207;| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will eat  | <span class="ashebrew"><big>תֹאכַל֙</big></span><small><sup>[[H0398]]</sup></small> &#8207;| to.Khal<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be satisfied  | <span class="ashebrew"><big>תִשְׂבָּ֔ע</big></span><small><sup>[[H7646]]</sup></small> &#8207;| tis.Ba'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and emptiness your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יֶשְׁחֲ</big></span><small><sup>[[H3445]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> yesh.cha.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] in midst your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>קִרְבֶּ֑</big></span><small><sup>[[H7130G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> kir.Be.<small><sup>[[HNcmsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will carry away  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תַסֵּג֙</big></span><small><sup>[[H5253]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ta.Seg<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֣א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will bring to safety  | <span class="ashebrew"><big>תַפְלִ֔יט</big></span><small><sup>[[H6403]]</sup></small> &#8207;| taf.Lit<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [that] which  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will bring to safety  | <span class="ashebrew"><big>תְּפַלֵּ֖ט</big></span><small><sup>[[H6403]]</sup></small> &#8207;| te.fa.Let<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the sword  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>חֶ֥רֶב</big></span><small><sup>[[H2719]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will give  | <span class="ashebrew"><big>אֶתֵּֽן</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.Ten<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.13|<< Micah 6:13]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.15|Micah 6:15 >>]]</td></tr></table>
+
+

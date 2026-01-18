@@ -1,0 +1,25 @@
+**Ruth 4:3** 
+<small><sub>**KJV:**</sub></small>
+And he said unto the kinsman, Naomi, that is come again out of the country of Moab, selleth a parcel of land, which [was] our brother Elimelech’s:
+<small><sub>**BSB:**</sub></small>
+And he said to the kinsman-redeemer, “Naomi, who has returned from the land of Moab, is selling the piece of land that belonged to our brother Elimelech.
+<small><sub>**Literal:**</sub></small>
+and  he said to the  kinsman redeemer [the] portion of the  field which [belonged] to  brother  our to  Elimelech she has sold Naomi who  \<she> returned from  [the] region of Moab<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.2|<< Ruth 4:2]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.4|Ruth 4:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יֹּ֙אמֶר֙</big></span><small><sup>[[H0559]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the kinsman redeemer  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>גֹּאֵ֔ל</big></span><small><sup>[[H1350A]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> go.'El<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] portion of  | <span class="ashebrew"><big>חֶלְקַת֙</big></span><small><sup>[[H2513A]]</sup></small> &#8207;| chel.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׂדֶ֔ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁ֥ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to brother our  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אָחִ֖י</big></span><small><sup>[[H0251H]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'a.Chi.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Elimelech  | <span class="ashebrew"><big>לֶ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֱלִימֶ֑לֶךְ</big></span><small><sup>[[H0458]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'e.li.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she has sold  | <span class="ashebrew"><big>מָכְרָ֣ה</big></span><small><sup>[[H4376]]</sup></small> &#8207;| ma.khe.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Naomi  | <span class="ashebrew"><big>נָעֳמִ֔י</big></span><small><sup>[[H5281]]</sup></small> &#8207;| no.'o.Mi<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who \<she> returned  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שָּׁ֖בָה</big></span><small><sup>[[H7725G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Sha.vah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] region of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שְּׂדֵ֥ה</big></span><small><sup>[[H7704G]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> se.Deh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moab  | <span class="ashebrew"><big>מוֹאָֽב</big></span><small><sup>[[H4124G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.2|<< Ruth 4:2]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.4|Ruth 4:4 >>]]</td></tr></table>
+
+

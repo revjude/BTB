@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==ἐπιβουλή==</span>-<span class='asgreek'>ή</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>plan formed against</b> another, <b>plot, scheme</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.12, 5th c.BC: Thucydides Historicus 4.77, 86, 5th-6th c.BC: Isocrates Orator 4.148, etc.; ==ἐπιβουλή==ὴν ==ἐπιβουλή==εύειν 5th c.BC: Lysias Orator 13.18 ">Refs 5th c.BC+</a>]; <span class='asgreek'>πρός</span> <span class='asgreek'>τινα</span> against one, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “An.” 1.1.8; ἐξ ==ἐπιβουλή==ῆς">Refs 5th c.BC+</a>] by <b>treachery, treacherously</b>, <span class='asgreek'>ἐξ</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἀποθανεῖν</span>, <span class='asgreek'>ἐξ</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>φονεὺς</span> <span class='asgreek'>εἶναι</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 2.1.5, 1.3, compare 5th c.BC: Thucydides Historicus 8.92, 5th-6th c.BC: Xenophon Historicus “An.” 6.4.7, etc.; μετὰ ==ἐπιβουλή==ῆς">Refs 5th c.BC+</a>] <b>designedly</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Lg.” 867a, +others ">Refs 5th c.BC+</a>]
+

@@ -1,0 +1,32 @@
+**Esther 6:2** 
+<small><sub>**KJV:**</sub></small>
+And it was found written, that Mordecai had told of Bigthana and Teresh, two of the king’s chamberlains, the keepers of the door, who sought to lay hand on the king Ahasuerus.
+<small><sub>**BSB:**</sub></small>
+And there it was found recorded that Mordecai had exposed Bigthana and Teresh, two of the eunuchs who guarded the king’s entrance, when they had conspired to assassinate King Xerxes.
+<small><sub>**Literal:**</sub></small>
+and  it was found recorded that he had told Mordecai on Bigthana and  Teresh two of [the] eunuchs of the  king from  [the] guards of the  threshold who they had sought to  stretch out a hand on the  king Ahasuerus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.1|<< Esther 6:1]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.3|Esther 6:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was found  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּמָּצֵ֣א</big></span><small><sup>[[H4672]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.ma.Tze'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| recorded  | <span class="ashebrew"><big>כָת֗וּב</big></span><small><sup>[[H3789]]</sup></small> &#8207;| kha.Tuv<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="ashebrew"><big>אֲשֶׁר֩</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had told  | <span class="ashebrew"><big>הִגִּ֨יד</big></span><small><sup>[[H5046]]</sup></small> &#8207;| hi.Gid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mordecai  | <span class="ashebrew"><big>מָרְדֳּכַ֜י</big></span><small><sup>[[H4782H]]</sup></small> &#8207;| ma.re.do.Khai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bigthana  | <span class="ashebrew"><big>בִּגְתָ֣נָא</big></span><small><sup>[[H0904]]</sup></small> &#8207;| big.Ta.na'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Teresh  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תֶ֗רֶשׁ</big></span><small><sup>[[H8657]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> Te.resh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two of  | <span class="ashebrew"><big>שְׁנֵי֙</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] eunuchs of  | <span class="ashebrew"><big>סָרִיסֵ֣י</big></span><small><sup>[[H5631]]</sup></small> &#8207;| sa.ri.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מֶּ֔לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] guards of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>שֹּׁמְרֵ֖י</big></span><small><sup>[[H8104H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> sho.me.Rei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the threshold  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>סַּ֑ף</big></span><small><sup>[[H5592B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Saf<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="ashebrew"><big>אֲשֶׁ֤ר</big></span><small><sup>[[H0834A]]</sup></small> &#8207;| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they had sought  | <span class="ashebrew"><big>בִּקְשׁוּ֙</big></span><small><sup>[[H1245]]</sup></small> &#8207;| bik.Shu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to stretch out  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שְׁלֹ֣חַ</big></span><small><sup>[[H7971K]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> sh.Lo.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a hand  | <span class="ashebrew"><big>יָ֔ד</big></span><small><sup>[[H3027G]]</sup></small> &#8207;| Yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the king  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מֶּ֖לֶךְ</big></span><small><sup>[[H4428G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ahasuerus  | <span class="ashebrew"><big>אֲחַשְׁוֵרֽוֹשׁ</big></span><small><sup>[[H0325]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.chash.ve.Ro.osh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.1|<< Esther 6:1]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.3|Esther 6:3 >>]]</td></tr></table>
+
+

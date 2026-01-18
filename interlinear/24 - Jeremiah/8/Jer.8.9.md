@@ -1,0 +1,24 @@
+**Jeremiah 8:9** 
+<small><sub>**KJV:**</sub></small>
+The wise [men] are ashamed, they are dismayed and taken: lo, they have rejected the word of the LORD; and what wisdom [is] in them?
+<small><sub>**BSB:**</sub></small>
+The wise will be put to shame; they will be dismayed and trapped. Since they have rejected the word of the LORD, what wisdom do they really have?
+<small><sub>**Literal:**</sub></small>
+they will be put to shame wise [people] they will be dismayed and  they have been captured there! \<in>  [the] word of Yahweh they have rejected and  wisdom of what? [belongs] to \<the>  them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.8|<< Jeremiah 8:8]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.10|Jeremiah 8:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| they will be put to shame  | <span class="ashebrew"><big>הֹבִ֣ישׁוּ</big></span><small><sup>[[H0954]]</sup></small> &#8207;| ho.Vi.shu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wise [people]  | <span class="ashebrew"><big>חֲכָמִ֔ים</big></span><small><sup>[[H2450]]</sup></small> &#8207;| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be dismayed  | <span class="ashebrew"><big>חַ֖תּוּ</big></span><small><sup>[[H2865]]</sup></small> &#8207;| Cha.tu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they have been captured  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּלָּכֵ֑דוּ</big></span><small><sup>[[H3920]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.la.Khe.du<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there!  | <span class="ashebrew"><big>הִנֵּ֤ה</big></span><small><sup>[[H2009]]</sup></small> &#8207;| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> [the] word of  | <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דְבַר</big></span><small><sup>[[H1697G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| vi<small><sup>[[HR]]</sup></small> d.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָה֙</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have rejected  | <span class="ashebrew"><big>מָאָ֔סוּ</big></span><small><sup>[[H3988A]]</sup></small> &#8207;| ma.'A.su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and wisdom of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חָכְמַֽת</big></span><small><sup>[[H2451]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> cha.khe.mat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| what?  | <span class="ashebrew"><big>מֶ֖ה</big></span><small><sup>[[H4100]]</sup></small> &#8207;| meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to \<the> them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶֽם</big></span><small><sup>[[H9038]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.8|<< Jeremiah 8:8]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.10|Jeremiah 8:10 >>]]</td></tr></table>
+
+

@@ -1,0 +1,9 @@
+<big><span class="ashebrew">‎עוֹנָה‎</span></big> **ʻôwnâh** <small>*(o-naw')*</small> ==**cohabitation**==  <sup><small>[[TEHMC#H:N-F|H:N-F]]</small></sup> 
+<small>from an unused root apparently meaning to dwell together</small>
+
+$\quad$ duty of marriage.
+- ***sexual*** (cohabitation)
+
+**1)** cohabitation, conjugal rights
+
+<sub><small>See Greek: </small></sub><span class="asgreek">ὁμιλία</span><sup><small>[[G3657]]</small></sup>

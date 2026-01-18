@@ -1,0 +1,14 @@
+ [<span class="bdbLangHebrew">‎צַפַף‎</span>] **verb Pilpel** ==chirp, peep== (onomatopoetic; Late Hebrew Pilpal ***id.***; Jewish-Aramaic <span class="bdbLangAramaic">‎צַפְצֵף‎</span> ***chirp***; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMgAXAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAyABcABwj/AP8JHEiwoMGDCBMqXMiwocOB/R5KnEixosWLA1MZKIVRIDxFkugVpMeuYDNxBV0AQNPxnxUAMKMNJAeTo8A7LqIYI0gDwKaOpVB0eOKOIL42TWT+gwfs36dXAwkBsNTyn7A4zwq6wzGHYB0Ab6oiPHKk4ChaBkelEotRUaeL5ihdQ7gJpqyF9siKrEgIRcInWKI0Gekr28A7MAAkiTiQFhaoCzElSdgmg4w8BLfBBPBJoKNpmBgR1LH5z8JuDABUeQNp0yhKlIhFgXnn2z9ZOjac+gcG0r5/wGBC+qeOAAAW3xQBYMMQ0ubnm8EEgU4dZoclzz88z9qQHLlv38iZHyP3+6A9cvj+7XuFCBzb9xT3pYdPv779+/gV5suPMCAAOw=="> ***sparrow***, etc.); — ***Imperfect*** 3 feminine singular <span class="bdbLangHebrew">‎תְּצַפְצֵף‎</span> [[Isa.29.4|Isa 29:4]], 1 singular <span class="bdbLangHebrew">‎אֲצַפְצֵף‎</span> [[Isa.38.14|Isa 38:14]] ***Participle*** <span class="bdbLangHebrew">‎מְצַפְצֵף‎</span> [[Isa.10.14|Isa 10:14]], plural <span class="bdbLangHebrew">‎הַמְפְצְפִים‎</span> [[Isa.8.19|Isa 8:19]] — ***chirp, peep:*** 
+
+**1.** of birds [[Isa.10.14|Isa 10:14]] (figurative of conquered peoples); of mourning, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּסוּסאֲ֗֗֗צ‎</span> [[Isa.38.14|Isa 38:14]] (\|\| <span class="bdbLangHebrew">‎אֶהְנֶּה בַּיּוֺנָה‎</span>). 
+
+**2.** of spirits, ghosts [[Isa.8.19|Isa 8:19]] (+ <span class="bdbLangHebrew">‎הַמַּהְגִּים‎</span>), <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מֵעָפָר אִמְרָתֵךְ תְּצ‎</span> [[Isa.29.4|Isa 29:4]] (like a spirit's). 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Isaiah | [[Isa.8.19\|8:19]] · [[Isa.10.14\|10:14]] · [[Isa.29.4\|29:4]] · [[Isa.38.14\|38:14]] |
+

@@ -1,0 +1,13 @@
+ [<span class="bdbLangHebrew">‎לָקַק‎</span>] **verb** ==lap, lick== (Late Hebrew ***id.***, Pi\`el; Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhGgAeAPcAAAAAAAEBAQICAgMDAwQEBAUFBQYGBgcHBwgICAkJCQoKCgsLCwwMDA0NDQ4ODg8PDxAQEBERERISEhMTExQUFBUVFRYWFhcXFxgYGBkZGRoaGhsbGxwcHB0dHR4eHh8fHyAgICEhISIiIiMjIyQkJCUlJSYmJicnJygoKCkpKSoqKisrKywsLC0tLS4uLi8vLzAwMDExMTIyMjMzMzQ0NDU1NTY2Njc3Nzg4ODk5OTo6Ojs7Ozw8PD09PT4+Pj8/P0BAQEFBQUJCQkNDQ0REREVFRUZGRkdHR0hISElJSUpKSktLS0xMTE1NTU5OTk9PT1BQUFFRUVJSUlNTU1RUVFVVVVZWVldXV1hYWFlZWVpaWltbW1xcXF1dXV5eXl9fX2BgYGFhYWJiYmNjY2RkZGVlZWZmZmdnZ2hoaGlpaWpqamtra2xsbG1tbW5ubm9vb3BwcHFxcXJycnNzc3R0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi4yMjI2NjY6Ojo+Pj5CQkJGRkZKSkpOTk5SUlJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6uru7u7y8vL29vb6+vr+/v8DAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM3Nzc7Ozs/Pz9DQ0NHR0dLS0tPT09TU1NXV1dbW1tfX19jY2NnZ2dra2tvb29zc3N3d3d7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn5+jo6Onp6erq6uvr6+zs7O3t7e7u7u/v7/Dw8PHx8fLy8vPz8/T09PX19fb29vf39/j4+Pn5+fr6+vv7+/z8/P39/f7+/v///yH5BAAAAAAALAAAAAAaAB4ABwieAP8JHEiwoMGDCBMqXMiwocOHECNKnJgQAABsFP+JAcBBkcRkxgTS6zYRgIseyQaSkBTRIoAyAwEsiEgMFjSCSXRkHOhMjcQLRAC0GjjD3sR0BDkgZShroDgAqwiGILnwDIB9AgGEgEBPYK2LDAEUGrjA4i2XLhoCMEXw1pZ/zi59c2hx6T8AoyTGcWlxBsVCFjmw3Em4sOHDiBNTDAgAOw=="> ***lick, lap*** of dog (Wahrm)); — 
+
+**Qal** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎לָֽקְקוּ‎</span> [[1Kgs.21.19|1Kgs 21:19]] ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יָלֹק‎</span> [[Judg.7.5|Judg 7:5]] (twice in verse); 3 masculine plural <span class="bdbLangHebrew">‎יָלֹ֫קּוּ‎</span> [[1Kgs.21.19|1Kgs 21:19]], <span class="bdbLangHebrew">‎וַיָּלֹ֫קּוּ‎</span> [[1Kgs.22.38|1Kgs 22:38]] — ***lap***, <span class="bdbLangHebrew">‎יָלֹק בִּלְשׁוֺנוֺ מִןֿ‎</span> <span class="bdbLangHebrew">‎הַמַּיִם‎</span> [[Judg.7.5|Judg 7:5]], like of dog v[[Judg.7.5|Judg 7:5]] (absolute); of dogs ***lapping up*** blood (accusative), [[1Kgs.21.19|1Kgs 21:19]] (twice in verse); [[1Kgs.22.38|1Kgs 22:38]]. **Pi\`el** ***Participle*** plural with article <span class="bdbLangHebrew">‎הַמְֿלַקְקִים‎</span> [[Judg.7.6|Judg 7:6]] (<span class="bdbLangHebrew">‎בְּיָדָם אֶלפִּֿיהֶם‎</span> is erroneous gloss, see [[BDB#GFM|GFM]]), v[[Judg.7.7|Judg 7:7]] in both = ***lap, lap up*** (= **Oal** v[[Judg.7.5|Judg 7:5]]). 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Judges | [[Judg.7.5\|7:5]] · [[Judg.7.6\|7:6]] · [[Judg.7.7\|7:7]] |
+| 1 Kings | [[1Kgs.21.19\|21:19]] · [[1Kgs.22.38\|22:38]] |
+

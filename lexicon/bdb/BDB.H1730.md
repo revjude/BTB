@@ -1,0 +1,27 @@
+ <span class="bdbLangHebrew">‎דּוֺד‎</span> **noun masculine**<sup>[[Song.1.2|Song 1:2]]</sup> ==beloved, love== (plural), uncle (Late Hebrew ***id.***, Syriac <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMgAXAIAAAP///wAAACH5BAAAAAAALAAAAAAyABcAAAJ9hI+py+0b4ptByQnixdto9HEh1WnVUZ2kuoJd9jZj6yazHDvjnWP+7fPEWLQHEbYz/TZKFK+J7EFUJio0agXinMlZlSu1WGFg4vVqZJ2BzyDZpc69vMeanSvO47dOvc2/N9VnUydEGMc3eAd3uMj4GAgCKCUH6HaJmanpUAAAOw==">; Assyrian <abbr title="transliteration"><u>***dâdu***</u></abbr> [[BDB#Dl|Dl]]<sup>HA 19</sup>) — absolute <span class="bdbLangHebrew">‎דּוֺד‎</span> [[Song.5.9|Song 5:9]] (twice in verse); construct <span class="bdbLangHebrew">‎דּוֺד‎</span> [[1Sam.10.14|1Sam 10:14]] + 3 t.; <span class="bdbLangHebrew">‎דֹּד‎</span> [[Lev.10.4|Lev 10:4]]; [[Esth.2.15|Esth 2:15]] suffix <span class="bdbLangHebrew">‎דּוֺדִי‎</span> [[Isa.5.1|Isa 5:1]] (but compare below) + 26 t. all Canticles; <span class="bdbLangHebrew">‎דֹּדִי‎</span> [[Jer.32.8|Jer 32:8]] + 2 t.; <span class="bdbLangHebrew">‎דֹּדְךָ‎</span> [[Jer.32.7|Jer 32:7]] <span class="bdbLangHebrew">‎דּוֺדֵךְ‎</span> [[Song.5.9|Song 5:9]] (twice in verse) + 2 t.; <span class="bdbLangHebrew">‎דּוֺדוֺ‎</span> [[Amos.6.10|Amos 6:10]]; [[1Sam.10.16|1Sam 10:16]], <span class="bdbLangHebrew">‎דֹּדוֺ‎</span> [[Lev.20.20|Lev 20:20]] + 4 t.; <span class="bdbLangHebrew">‎דּוֺדָהּ‎</span> [[Song.8.5|Song 8:5]] plural <span class="bdbLangHebrew">‎דּוֺדִים‎</span> [[Song.5.1|Song 5:1]] <span class="bdbLangHebrew">‎דֹּדִים‎</span> [[Prov.7.18|Prov 7:18]]; [[Ezek.16.8|Ezek 16:8]]; [[Ezek.23.17|Ezek 23:17]] plural suffix <span class="bdbLangHebrew">‎דֹּדַי‎</span> [[Song.7.13|Song 7:13]] <span class="bdbLangHebrew">‎דֹּדֶיךָ‎</span> [[Song.1.2|Song 1:2]]; [[Song.1.4|Song 1:4]] <span class="bdbLangHebrew">‎דֹּדַיִךְ‎</span> [[Song.4.10|Song 4:10]] (twice in verse); <span class="bdbLangHebrew">‎דֹּדֵיהֶן‎</span> [[Num.36.11|Num 36:11]] — 
+
+**1.** most often ***loved one, beloved*** (lover, betrothed) [[Song.1.13|Song 1:13]]; [[Song.1.14|Song 1:14]]; [[Song.1.16|Song 1:16]]; [[Song.2.3|Song 2:3]]; [[Song.2.8|Song 2:8]]; [[Song.2.9|Song 2:9]]; [[Song.2.10|Song 2:10]]; [[Song.2.16|Song 2:16]]; [[Song.2.17|Song 2:17]]; [[Song.4.16|Song 4:16]]; [[Song.5.2|Song 5:2]]; [[Song.5.4|Song 5:4]]; [[Song.5.5|Song 5:5]]; [[Song.5.6|Song 5:6]] (twice in verse); [[Song.5.8|Song 5:8]]; [[Song.5.9|Song 5:9]] (twice in verse); [[Song.5.10|Song 5:10]]; [[Song.5.16|Song 5:16]]; [[Song.6.1|Song 6:1]] (twice in verse); [[Song.6.2|Song 6:2]]; [[Song.6.3|Song 6:3]] (twice in verse); [[Song.7.10|Song 7:10]]; [[Song.7.11|Song 7:11]]; [[Song.7.12|Song 7:12]]; [[Song.7.14|Song 7:14]]; [[Song.8.5|Song 8:5]]; [[Song.8.14|Song 8:14]] ***beloved one, friend***, <span class="bdbLangHebrew">‎שִׁירַת דּוֺדִי‎</span> [[Isa.5.1|Isa 5:1]] (where [[BDB#Lo|Lo]] [[BDB#Che|Che]] <span class="bdbLangHebrew">‎דודים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> ***love-song***, see **3** below) 
+
+**2.** specifically ***uncle***, [[Lev.10.4|Lev 10:4]] (father's brother, ***patruus***; Syriac = also ***avunculus***) [[Num.36.11|Num 36:11]]; [[1Sam.14.50|1Sam 14:50]]; [[2Kgs.24.17|2Kgs 24:17]]; [[Lev.20.20|Lev 20:20]]; [[Lev.25.49|Lev 25:49]] (twice in verse); [[1Sam.10.14|1Sam 10:14]]; [[1Sam.10.15|1Sam 10:15]]; [[1Sam.10.16|1Sam 10:16]]; [[Esth.2.7|Esth 2:7]]; [[Esth.2.15|Esth 2:15]]; [[Jer.32.7|Jer 32:7]]; [[Jer.32.8|Jer 32:8]]; [[Jer.32.9|Jer 32:9]]; [[Jer.32.12|Jer 32:12]] perhaps also [[1Chr.27.32|1Chr 27:32]] Jonathan, David's <span class="bdbLangHebrew">‎דּוֺד‎</span> so [[BDB#AV|AV]] [[BDB#RV|RV]]; = kinsman (?, so [[BDB#St|St]] [[BDB#RV|RVm]]) [[Amos.6.10|Amos 6:10]]. 
+
+**3.** plural abstract ***love*** [[Prov.7.18|Prov 7:18]]; [[Song.1.2|Song 1:2]]; [[Song.1.4|Song 1:4]]; [[Song.4.10|Song 4:10]] (twice in verse); [[Song.5.1|Song 5:1]] ([[Song.5.1|Song 5:1]] and elsewhere concrete ***beloved ones***, so [[BDB#AV|AV]] [[BDB#RV|RV]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">ἀδελφυἰ</span>; so <span class="bdbLangHebrew">‎עֵת דדים‎</span> [[Ezek.16.8|Ezek 16:8]] <span class="bdbLangHebrew">‎מִשְׁכַּב דדים‎</span> [[Ezek.23.17|Ezek 23:17]]. 
+
+
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Leviticus | [[Lev.10.4\|10:4]] · [[Lev.20.20\|20:20]] · [[Lev.25.49\|25:49]] |
+| Numbers | [[Num.36.11\|36:11]] |
+| 1 Samuel | [[1Sam.10.14\|10:14]] · [[1Sam.10.15\|10:15]] · [[1Sam.10.16\|10:16]] · [[1Sam.14.50\|14:50]] |
+| 2 Kings | [[2Kgs.24.17\|24:17]] |
+| 1 Chronicles | [[1Chr.27.32\|27:32]] |
+| Esther | [[Esth.2.7\|2:7]] · [[Esth.2.15\|2:15]] |
+| Proverbs | [[Prov.7.18\|7:18]] |
+| Song of Solomon | [[Song.1.2\|1:2]] · [[Song.1.4\|1:4]] · [[Song.1.13\|1:13]] · [[Song.1.14\|1:14]] · [[Song.1.16\|1:16]] · [[Song.2.3\|2:3]] · [[Song.2.8\|2:8]] · [[Song.2.9\|2:9]] · [[Song.2.10\|2:10]] · [[Song.2.16\|2:16]] · [[Song.2.17\|2:17]] · [[Song.4.10\|4:10]] · [[Song.4.16\|4:16]] · [[Song.5.1\|5:1]] · [[Song.5.2\|5:2]] · [[Song.5.4\|5:4]] · [[Song.5.5\|5:5]] · [[Song.5.6\|5:6]] · [[Song.5.8\|5:8]] · [[Song.5.9\|5:9]] · [[Song.5.10\|5:10]] · [[Song.5.16\|5:16]] · [[Song.6.1\|6:1]] · [[Song.6.2\|6:2]] · [[Song.6.3\|6:3]] · [[Song.7.10\|7:10]] · [[Song.7.11\|7:11]] · [[Song.7.12\|7:12]] · [[Song.7.13\|7:13]] · [[Song.7.14\|7:14]] · [[Song.8.5\|8:5]] · [[Song.8.14\|8:14]] |
+| Isaiah | [[Isa.5.1\|5:1]] |
+| Jeremiah | [[Jer.32.7\|32:7]] · [[Jer.32.8\|32:8]] · [[Jer.32.9\|32:9]] · [[Jer.32.12\|32:12]] |
+| Ezekiel | [[Ezek.16.8\|16:8]] · [[Ezek.23.17\|23:17]] |
+| Amos | [[Amos.6.10\|6:10]] |
+

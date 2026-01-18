@@ -1,0 +1,9 @@
+<big><span class="ashebrew">‎מְבֻנַּי‎</span></big> **Mᵉbunnay** <small>*(meb-oon-hah'-ee)*</small> ==**Mebunnai**==  <sup><small>[[TEHMC#N:N-M-P|N:N-M-P]]</small></sup> 
+<small>from <span class="ashebrew">‎בָּנָה‎</span><sup><small>[[H1129]]</small></sup>; built up</small>
+
+$\quad$ Mebunnai.
+- § Mebunnai = *"building of Jehovah"*
+- ***Mebunnai***, an Israelite
+
+**1)** one of David's mighty warriors
+$\quad$ **1a)** also 'Sibbechai' or 'Sibbecai'

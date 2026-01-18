@@ -1,0 +1,25 @@
+**Psalms 41:2** (41:3)
+<small><sub>**KJV:**</sub></small>
+The LORD will preserve him, and keep him alive; [and] he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.
+<small><sub>**BSB:**</sub></small>
+The LORD will protect and preserve him; He will bless him in the land and refuse to give him over to the will of his foes.
+<small><sub>**Literal:**</sub></small>
+Yahweh he will keep  him and  he will preserve alive  him and  he will be called blessed in the  land and  may not you give  him in  [the] desire of enemies  his<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.1|<< Psalms 41:1]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.3|Psalms 41:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֤ה</big></span><small><sup>[[H3068G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will keep him  | <span class="ashebrew"><big>יִשְׁמְרֵ֣</big></span><small><sup>[[H8104H]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| yish.me.Re.<small><sup>[[HVqi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will preserve alive him  | <span class="ashebrew"><big>וִֽ֭</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>יחַיֵּ</big></span><small><sup>[[H2421]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| Vi.<small><sup>[[HC]]</sup></small> chai.ye.<small><sup>[[HVpu3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will be called blessed  [^2] | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֻשַּׁ֣ר</big></span><small><sup>[[H0833]]</sup></small> &#8207;[^3] | ve.<small><sup>[[Hc]]</sup></small> 'u.Shar<small><sup>[[HVPq3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| in the land  | <span class="ashebrew"><big>בָּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אָ֑רֶץ</big></span><small><sup>[[H0776G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and may not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַֽל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you give him  | <span class="ashebrew"><big>תִּ֝תְּנֵ֗</big></span><small><sup>[[H5414G]]</sup></small> <span class="ashebrew"><big>הוּ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ti.te.Ne.<small><sup>[[HVqj2ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in [the] desire of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>נֶ֣פֶשׁ</big></span><small><sup>[[H5315L]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| enemies his  | <span class="ashebrew"><big>אֹיְבָֽי</big></span><small><sup>[[H0341]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.1|<< Psalms 41:1]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.3|Psalms 41:3 >>]]</td></tr></table>
+
+[^1]: ==K==: **he will be called blessed ** | <small><sup>[[H0833]]</sup></small><span class="ashebrew"><big>יֶאְשֹּׁר</big></span>  | ye.'u.Shar<small><sup>[[HVPi3ms]]</sup></small> 
+[^2]: ==K==: **he will be called blessed ** | <small><sup>[[H0833]]</sup></small><span class="ashebrew"><big>יֶאְשֹּׁר</big></span>  | ye.'u.Shar<small><sup>[[HVPi3ms]]</sup></small> 
+[^3]: ==L== spelled: **<span class="ashebrew"><big>יְאֻשַּׁ֣ר</big></span>**
+

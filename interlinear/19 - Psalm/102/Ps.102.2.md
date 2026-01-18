@@ -1,0 +1,27 @@
+**Psalms 102:2** (102:3)
+<small><sub>**KJV:**</sub></small>
+Hide not thy face from me in the day [when] I am in trouble; incline thine ear unto me: in the day [when] I call answer me speedily.
+<small><sub>**BSB:**</sub></small>
+Do not hide Your face from me in my day of distress. Incline Your ear to me; answer me quickly when I call.
+<small><sub>**Literal:**</sub></small>
+may not you hide face  your from  me on  [the] day [when] it is distress to  me incline to  me ear  your on  [the] day [when] I will call out hurry answer  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.1|<< Psalms 102:1]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.3|Psalms 102:3 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| may not  | <span class="ashebrew"><big>אַל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you hide  | <span class="ashebrew"><big>תַּסְתֵּ֬ר</big></span><small><sup>[[H5641]]</sup></small> &#8207;| tas.Ter<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face your  | <span class="ashebrew"><big>פָּנֶ֨י</big></span><small><sup>[[H6440H]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| pa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from me  | <span class="ashebrew"><big>מִמֶּ</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נִּי֮</big></span><small><sup>[[H9030]]</sup></small> &#8207;| mi.me.<small><sup>[[HR]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י֪וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [when] it is distress  | <span class="ashebrew"><big>צַ֫ר</big></span><small><sup>[[H6887C]]</sup></small> &#8207;| tzar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>לִ֥</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| incline  | <span class="ashebrew"><big>הַטֵּֽה</big></span><small><sup>[[H5186]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ha.teh-<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  | <span class="ashebrew"><big>אֵלַ֥</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ear your  | <span class="ashebrew"><big>אָזְנֶ֑</big></span><small><sup>[[H0241G]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| 'a.ze.Ne.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on [the] day  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י֥וֹם</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [when] I will call out  | <span class="ashebrew"><big>אֶ֝קְרָ֗א</big></span><small><sup>[[H7121G]]</sup></small> &#8207;| 'ek.Ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hurry  | <span class="ashebrew"><big>מַהֵ֥ר</big></span><small><sup>[[H4116A]]</sup></small> &#8207;| ma.Her<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| answer me  | <span class="ashebrew"><big>עֲנֵֽ</big></span><small><sup>[[H6030B]]</sup></small> <span class="ashebrew"><big>נִי</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Ne.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.1|<< Psalms 102:1]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.3|Psalms 102:3 >>]]</td></tr></table>
+
+

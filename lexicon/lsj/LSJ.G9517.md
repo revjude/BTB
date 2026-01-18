@@ -1,0 +1,15 @@
+<span class="asgreek">τυραννίς</span> <small>***(turannis)***</small> ==**a wife of a sovereign**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==τυραννίς==</span>-<span class='asgreek'>ίς</span></b>, <span class='asgreek'>ίδος</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <i>vocative</i> <span class='asgreek'>τυραννί</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 380 ">Refs 5th c.BC+</a>]:—<b>monarchy, sovereignty,</b> <span class='asgreek'>μεγάλης</span> <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἐρέω</span> <span class='asgreek'>τ</span>. [<a href="javascript:void(0)" title=" 7th c.BC: Archilochus Lyricus 25, compare 5th c.BC: Pindarus Lyricus “P.” 2.87, 11.53 (\_plural\_), 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 535, 5th c.BC: Euripides Tragicus “Bacchae” 43, etc.">Refs 7th c.BC+</a>]; of the <b>sovereignty</b> of Zeus, <span class='asgreek'>ἡ</span> <span class='asgreek'>Διὸς</span> <span class='asgreek'>τ</span>. [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 10, +others, compare below 11.2:">Refs 4th c.BC+</a>] —but more frequently 
+
+$\quad$ $\quad$<b>\_\_II</b> <b>despotic rule,</b> obtained by force or fraud, <b>tyranny,</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Simonides Lyricus 71, 5th c.BC: Herodotus Historicus 3.53, 81, 5th-6th c.BC: Aristophanes Comicus “Vespae” 417, 5th c.BC: Thucydides Historicus 1.13, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>τυραννίδα</span> <span class='asgreek'>ἔχετε</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀρχήν</span> (of the Athenians) [<a href="javascript:void(0)" title=" [prev. author] 3.37 ">Refs</a>]; <span class='asgreek'>τ</span>. <span class='asgreek'>ὑμῶν</span> <b>lordship</b> over you, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 2.30: \_metaphorically\_, ἡ ἐπιθυμιῶν ἐν ψυχῇ τ. 5th-6th c.BC: Plato Philosophus “Leges” 863e. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in concrete sense, <span class='asgreek'>ἡ</span> <span class='asgreek'>Διὸς</span> <span class='asgreek'>τ</span>. <b>royal</b> Zeus, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 345: \_plural\_, αἱ τυραννίδες,">Refs 5th c.BC+</a>] ={<span class='asgreek'>οἱ</span> <span class='asgreek'>τύραννοι</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.137; ἴδεσθε χώρας τὴν διπλῆν τ. 4th-5th c.BC: Aeschylus Tragicus “Choephori” 973. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>territory</b> or <b>resources of a princeling,</b> [<a href="javascript:void(0)" title="Liv. 38.14.12. ">Refs</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>feminine</i> of <span class='asgreek'>τύραννος</span>, <b>princess,</b> [<a href="javascript:void(0)" title=" LXX.Esth.1.18. ">LXX</a>]
+$\quad$ $\quad$<b>\_\_IV</b> name of a medicine, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 14.165. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Esth.1.18]]
+</sub></small>

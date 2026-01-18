@@ -1,0 +1,8 @@
+<span class="asgreek">ἄγρωστις</span> <small>***(agrōstis)***</small> ==**wild grass**==  <sup><small>[[TEGMC#G:N-F|G:N-F]]</small></sup> 
+
+<b> <span class='asgreek'>==ἄγρωστις==</span>-<span class='asgreek'>ωστις</span></b>, <span class='asgreek'>ιδος</span>, 
+
+
+ [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 1.6.10, and εως, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 552a15, “PTeb.” 104.26 (2nd c.BC)">Refs 4th c.BC+</a>], <span class='asgreek'>ἡ</span>, <i>accusative</i> <span class='asgreek'>==ἄγρωστις==ωστιν</span>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 34.10.3, 1st c.BC-1st c.AD: Strabo Geographus 4.1.7">Refs 2nd c.BC+</a>]:—<b>dog's-tooth grass, Cynodon Dactylon</b>, <span class='asgreek'>ἄ</span>. <span class='asgreek'>μελιηδής</span>[<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 6.90; εἱλιτενὴς ἄ. 3rd c.BC: Theocritus Poeta Bucolicus 13.42, compare 4th c.BC: Aeschrio Lyricus 6, 1st c.BC: Diodorus Siculus Historicus 1.43, 1st c.AD: Dioscorides (Dioscurides) Medicus 4.29. ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἄ</span>. <span class='asgreek'>ἐν</span> <span class='asgreek'>Κιλικίᾳ</span> <b>Hordeum marinum</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.32">Refs 1st c.AD+</a>]; <span class='asgreek'>ἄ</span>. <span class='asgreek'>ἐν</span> <span class='asgreek'>Παρνασσῷ</span> <b>grass of Parnassus, Parnassia palustris</b>, [<a href="javascript:void(0)" title="[prev. work]31.">Refs</a>]

@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==Διόσκουροι==</span>-<span class='asgreek'>κοροι</span></b> 
+
+
+ (the <i>Attic dialect</i> form, 2nd c.AD: Phrynichus Atticista 212), <i>Ionic dialect</i> and later <b><span class='asgreek'>Διόσκουροι</span></b>, <span class='asgreek'>οἱ</span>, <b>the sons of Zeus,</b> i. e. <b>the twins of Leda,</b> Castor and Polydeuces, [<a href="javascript:void(0)" title=" “Hymni Homerici” 33.1, etc.: dual Διοσκόρω, τώ, 5th-6th c.BC: Aristophanes Comicus “Pax” 285, “Ec.” 1069, 5th c.BC: Euripides Tragicus “Orestes” 465, 4th c.BC: Amphis Comicus 9, 4th-3rd c.BC: Menander Comicus 846, 4th c.AD: Themistius Sophista “Orationes” 21.253d: \_sing.\_ uncertain in 6th c.BC: Hipponax Iambographus 120, cf. Varro “LL” 5.66: Διόσκοροι is required by metre in 5th c.BC: Euripides Tragicus “Helena” 1643, “El.” 1239">Refs 6th c.BC+</a>]: <b>-<span class='asgreek'>κούρων</span></b> [<a href="javascript:void(0)" title="5th-6th c.BC: Plato Philosophus “Euthydemus” 293a ">Refs 5th c.BC+</a>]; <b>-<span class='asgreek'>κόρων</span></b> [<a href="javascript:void(0)" title="[prev. author] “Lg.” 796b, codex Laur. in 5th c.BC: Thucydides Historicus 3.75: both forms in codices of 5th c.BC: Herodotus Historicus 2.43, 6.127. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> constellation named from them <b>the Twins,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Eratosthenes Epicus “Καταστερισμοί” 10. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>παρωτίδες</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 19.440, 12th c.AD: Eustathius Episcopus Thessalonicensis 410.17. ">Refs 2nd c.AD+</a>]

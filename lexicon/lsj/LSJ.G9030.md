@@ -1,0 +1,10 @@
+<span class="asgreek">ῥοιζέω</span> <small>***(rhoizeō)***</small> ==**to gurgle**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ῥοιζέω==</span>-<span class='asgreek'>έω</span></b>, 
+
+
+ <i>Ionic dialect</i> and <i>Epic dialect</i> <i>imperfect</i> <span class='asgreek'>ῥοίζεσκε</span> [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 835 ">Refs 8th c.BC+</a>]: <i>aorist</i> <span class='asgreek'>ἐρροίζησα</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Oppianus Anazarbensis Epicus (see.below)">Refs 2nd c.AD+</a>], <i>Epic dialect</i> <span class='asgreek'>ῥοίζησα</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 10.502 ">Refs 8th c.BC+</a>]:—<i>passive</i>, see below: (<span class='asgreek'>ῥοῖζος</span>):—<b>whistle</b>, Il. [prev. cited]; of a snake, <b>hiss</b>, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus [same place], 3rd c.BC: Apollonius Rhodius Epicus 4.129, etc.; ἑὸν νόμον ἐρροίζησε 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 1.563 ">Refs 8th c.BC+</a>]; of birds, <b>rush</b> or <b>whirr through the air</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Am.” 22, compare 4th c.BC: Aristoteles Philosophus “Historia Animalium” 535b27 ">Refs 4th c.BC+</a>]: in late Prose, <b>shoot an arrow</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.13.17 (codex A) ">LXX</a>]; of a stream,[<a href="javascript:void(0)" title="LXX.Song.4.15 ">LXX</a>]:—so in <i>passive</i>, <span class='asgreek'>ἰῶν</span> <span class='asgreek'>τηλόθεν</span> <span class='asgreek'>==ῥοιζέω==ουμένων</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 1426, compare 1325, Oracle texts in “App.Anth.” 6.140.10; τάχ᾽ ἂν ἐρροίζητο δι᾽ αἰθέρος “Anthologia Graeca” 11.106 (1st c.AD: Lucillius Epigrammaticus) ">Refs 3rd c.BC+</a>]; of a stream, [<a href="javascript:void(0)" title=" “Oracula Chaldaica” 109. ">Refs</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[2Kgs.13.17]] ☩ [[Song.4.15]]
+</sub></small>

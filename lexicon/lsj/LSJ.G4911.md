@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==συνεφίστημι==</span>-<span class='asgreek'>ίστημι</span></b> 
+
+
+ and <b><span class='asgreek'>==συνεφίστημι==</span>-<span class='asgreek'>ιστάνω</span></b> [<a href="javascript:void(0)" title="(2nd c.BC: Polybius Historicus 7.13.2)">Refs 2nd c.BC+</a>]: <i>aorist 1</i> <b>-<span class='asgreek'>επέστησα</span></b>[<a href="javascript:void(0)" title=" 4th c.BC: Demades Orator 57 ">Refs 4th c.BC+</a>]:—<b>set as watchers</b> or <b>guards</b>, <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἱππεῖς</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 17.84 ">Refs 1st c.BC+</a>]: <i>metaphorically</i>, <b>set on the watch, make attentive</b>, <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἀναγινώσκοντας</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 10.41.6; τινὰ ἐπὶ τὰς μάχας [prev. author] 11.19.2; τοὺς φιλοπευστοῦντας περί τινων [prev. author] 3.59.6. ">Refs 2nd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> seemingly <i>intransitive</i> (i.e. <span class='asgreek'>τὸν</span> <span class='asgreek'>νοῦν</span>), <b>attend to, observe along with</b>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>λεγόμενα</span> [<a href="javascript:void(0)" title=" [prev. author] 3.9.4; τοῖς ὑπομνήμασι [prev. author] 9.2.7, compare 4.40.10, etc.">Refs</a>]; uncertain reading in [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 241.15. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>passive</i> <span class='asgreek'>==συνεφίστημι==ίστᾰμαι</span>, with <i>aorist 2</i> <i>active</i>, <b>stand over, superintend along with</b> or <b>together</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 2.75. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>rise together</b>, <span class='asgreek'>κατά</span> <span class='asgreek'>τινων</span> <b>against</b> them, [<a href="javascript:void(0)" title=" NT.Acts.16.22. ">NT</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>occur together</b>, <span class='asgreek'>τινι</span> <b>with.. </b>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus “Ther.Praef.” ">Refs 1st c.AD+</a>], variant for{<span class='asgreek'>συνυφ</span>-} in [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus “Sententiae ad intelligibilia ducentes” 27. ">Refs 3rd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Acts.16.22]]
+</sub></small>

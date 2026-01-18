@@ -1,0 +1,7 @@
+<span class="asgreek">ὀκτωκαιδέκατος</span> <small>***(oktōkaidekatos)***</small> ==**eighteenth**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==ὀκτωκαιδέκατος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, 
+
+
+ <b>eighteenth,</b> -<span class='asgreek'>δεκάτη</span> (i.e. <span class='asgreek'>ἡμέρᾳ</span>) <b>on the eighteenth day,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 5.279, 24.65; ἔτος 2nd c.BC: Polybius Historicus 1.56.2, etc. ">Refs 8th c.BC+</a>]; <i>Boeotian dialect</i> <b><span class='asgreek'>ὀκτοκηδέκατος</span></b> [<a href="javascript:void(0)" title=" “Schwyzer” 485.39 (Thespiae, 3rd c.BC). ">Refs 3rd c.BC+</a>]
+

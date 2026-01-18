@@ -1,0 +1,8 @@
+<span class="asgreek">ἀντιπρόσωπος</span> <small>***(antiprosōpos)***</small> ==**facing**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀντιπρόσωπος==</span>-<span class='asgreek'>ωπος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ <b>with the face towards, facing,</b> <span class='asgreek'>τοῖς</span> <span class='asgreek'>πολεμίοις</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 7.1.25, compare 4th c.BC: Aeneas Tacticus 22.11">Refs 5th c.BC+</a>]; <b>face to face,</b> <span class='asgreek'>==ἀντιπρόσωπος==ωποι</span> <span class='asgreek'>μαχόμενοι</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 6.5.26; φιλήματα “Anthologia Graeca” 12.251 (2nd c.AD: Strato Epigrammaticus) ">Refs 5th c.BC+</a>]; of images, <b>reflected,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Sensu” 52, 53 ">Refs 4th c.BC+</a>]; of winds, <b>blowing in a contrary direction,</b> [<a href="javascript:void(0)" title=" Placit. 4.1.1">Refs</a>]. <i>adverb</i> <b>-<span class='asgreek'>πως</span></b>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Mirabilia” 835b11, 7th c.AD: Stephanus Medicus ">Refs 4th c.BC+</a>] <b>inHp.</b>1.95 [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator, +others ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <i>substantive</i> <b><span class='asgreek'>==ἀντιπρόσωπος==ωπον</span></b>, <span class='asgreek'>τό</span>, <b>prow,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Artemidorus Daldianus Onirocriticus 2.23, 4.24.">Refs 2nd c.AD+</a>]

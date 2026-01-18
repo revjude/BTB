@@ -1,0 +1,29 @@
+**Isaiah 4:4** 
+<small><sub>**KJV:**</sub></small>
+When the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment, and by the spirit of burning.
+<small><sub>**BSB:**</sub></small>
+when the Lord has washed away the filth of the daughters of Zion and cleansed the bloodstains from the heart of Jerusalem by a spirit of judgment and a spirit of fire.
+<small><sub>**Literal:**</sub></small>
+if he has washed away [the] Lord \<obj.> [the] excrement of [the] daughters of Zion and  \<obj.> [the] blood\<s> of Jerusalem he will cleanse from  midst  its by  a spirit of judgment and  by  a spirit of burning<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.4.3|<< Isaiah 4:3]]</td><td align="center" style="border:none;">[[Isa.4|Isaiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4.5|Isaiah 4:5 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| if  | <span class="ashebrew"><big>אִ֣ם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has washed away  | <span class="ashebrew"><big>רָחַ֣ץ</big></span><small><sup>[[H7364]]</sup></small> &#8207;| ra.Chatz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Lord  | <span class="ashebrew"><big>אֲדֹנָ֗י</big></span><small><sup>[[H0136]]</sup></small> &#8207;| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֵ֚ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] excrement of  | <span class="ashebrew"><big>צֹאַ֣ת</big></span><small><sup>[[H6675]]</sup></small> &#8207;| tzo.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughters of  | <span class="ashebrew"><big>בְּנוֹת</big></span><small><sup>[[H1323G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.not-<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  | <span class="ashebrew"><big>צִיּ֔וֹן</big></span><small><sup>[[H6726]]</sup></small> &#8207;| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] blood\<s> of  | <span class="ashebrew"><big>דְּמֵ֥י</big></span><small><sup>[[H1818]]</sup></small> &#8207;| de.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  | <span class="ashebrew"><big>יְרוּשָׁלִַ֖ם</big></span><small><sup>[[H3389]]</sup></small> &#8207;| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will cleanse  | <span class="ashebrew"><big>יָדִ֣יחַ</big></span><small><sup>[[H1740]]</sup></small> &#8207;| ya.Di.ach<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from midst its  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>קִּרְבָּ֑</big></span><small><sup>[[H7130G]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> kir.Ba<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by a spirit of  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ר֥וּחַ</big></span><small><sup>[[H7307G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| judgment  | <span class="ashebrew"><big>מִשְׁפָּ֖ט</big></span><small><sup>[[H4941G]]</sup></small> &#8207;| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and by a spirit of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>ר֥וּחַ</big></span><small><sup>[[H7307G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| burning  | <span class="ashebrew"><big>בָּעֵֽר</big></span><small><sup>[[H1197A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ba.'Er<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.4.3|<< Isaiah 4:3]]</td><td align="center" style="border:none;">[[Isa.4|Isaiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4.5|Isaiah 4:5 >>]]</td></tr></table>
+
+

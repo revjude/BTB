@@ -1,0 +1,23 @@
+**Ezekiel 39:19** 
+<small><sub>**KJV:**</sub></small>
+And ye shall eat fat till ye be full, and drink blood till ye be drunken, of my sacrifice which I have sacrificed for you.
+<small><sub>**BSB:**</sub></small>
+At the sacrifice I am preparing, you will eat fat until you are gorged and drink blood until you are drunk.
+<small><sub>**Literal:**</sub></small>
+and  you will eat fat to  satiety and  you will drink blood to  drunkenness from  sacrifice  my which I have sacrificed for  you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.18|<< Ezekiel 39:18]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.20|Ezekiel 39:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will eat  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>אֲכַלְתֶּם</big></span><small><sup>[[H0398]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> 'a.khal.tem-<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fat  | <span class="ashebrew"><big>חֵ֣לֶב</big></span><small><sup>[[H2459]]</sup></small> &#8207;| Che.lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to satiety  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שָׂבְעָ֔ה</big></span><small><sup>[[H7654]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> sa.ve.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will drink  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>שְׁתִ֥יתֶם</big></span><small><sup>[[H8354]]</sup></small> &#8207;| u.<small><sup>[[Hc]]</sup></small> she.Ti.tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood  | <span class="ashebrew"><big>דָּ֖ם</big></span><small><sup>[[H1818]]</sup></small> &#8207;| dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to drunkenness  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שִׁכָּר֑וֹן</big></span><small><sup>[[H7943]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> shi.ka.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from sacrifice my  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>זִּבְחִ֖</big></span><small><sup>[[H2077]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> ziv.Ch<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have sacrificed  | <span class="ashebrew"><big>זָבַ֥חְתִּי</big></span><small><sup>[[H2076]]</sup></small> &#8207;| za.Vach.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for you  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כֶֽם</big></span><small><sup>[[H9036]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.18|<< Ezekiel 39:18]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.20|Ezekiel 39:20 >>]]</td></tr></table>
+
+

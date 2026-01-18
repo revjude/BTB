@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==πλουτίζω==</span>-<span class='asgreek'>ίζω</span></b>, 
+
+
+ <i>Attic dialect</i> <i>future</i> <b>-<span class='asgreek'>ιῶ</span></b>[<a href="javascript:void(0)" title=" 4th c.BC: Timocles Comicus 4.8 ">Refs 4th c.BC+</a>]:— <b>make wealthy, enrich,</b> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 586, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.2.22; ἀρετῇ τινας [prev. author] “Mem.” 4.2.9; τὴν πατρίδα “IGRom.” 3.199 (from Ancyra): iron., π. τινὰ ἄτης (ἄτην codices) 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1268 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>Ἅιδης</span> <span class='asgreek'>στεναγμοῖς</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>γόοις</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 30; τούτοις π. ὑπὸ σοῦ 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 5.5.27 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>βοσκημάτων</span>, <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>πόλεως</span>, <b>gain one's wealth</b> from.., [<a href="javascript:void(0)" title=" [prev. author] “Mem.” 2.1.28, “Vect.” 4.14. ">Refs</a>]
+

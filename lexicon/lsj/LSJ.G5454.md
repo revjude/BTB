@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==φωλεός==</span>-<span class='asgreek'>εός</span></b>, <span class='asgreek'>ὁ</span>, 
+
+
+ <i>Epic dialect</i> <i>genitive</i> <span class='asgreek'>==φωλεός==ειοῖο</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 2.249, irregular \_plural\_ ==φωλεός==εά 2nd c.BC: Nicander Epicus “fragment” 83 ">Refs 2nd c.BC+</a>], <i>Epic dialect</i> <i>dative</i> <span class='asgreek'>==φωλεός==ειοῖς</span> [<a href="javascript:void(0)" title=" [prev. author] “Th.” 79, 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 2.578, +others">Refs 3rd c.AD+</a>]:—<b>den, lair,</b> especially of <b>the caves of bears,</b> in which they hibernate, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.169e">Refs 1st c.AD+</a>]; of lions, [<a href="javascript:void(0)" title=" 2nd c.AD: Babrius Fabularum Scriptor 106.2 ">Refs 2nd c.AD+</a>]; of molluscs, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 622b4 ">Refs 4th c.BC+</a>]; of a serpent, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Philops.” 11 ">Refs 2nd c.AD+</a>]; of foxes, [<a href="javascript:void(0)" title=" NT.Matt.8.20, NT.Luke.9.58 ">NT</a>]; of animals in general, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 2.29 ">Refs 2nd c.AD+</a>]; of cave-dwellers, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 11.5.7, compare 2nd c.AD: Lucianus Sophista “VH” 1.37, etc. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>schoolhouse,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Matt.8.20]] ☩ [[Luke.9.58]]
+</sub></small>

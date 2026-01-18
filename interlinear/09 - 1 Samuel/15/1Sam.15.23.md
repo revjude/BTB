@@ -1,0 +1,27 @@
+**1 Samuel 15:23** 
+<small><sub>**KJV:**</sub></small>
+For rebellion [is as] the sin of witchcraft, and stubbornness [is as] iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from [being] king.
+<small><sub>**BSB:**</sub></small>
+For rebellion is like the sin of divination, and arrogance is like the wickedness of idolatry. Because you have rejected the word of the LORD, He has rejected you as king.”
+<small><sub>**Literal:**</sub></small>
+for [is the] sin of divination rebellion and  [is] wickedness and  teraphim presumption because you have rejected \<obj.> [the] word of Yahweh and  he has rejected  you from  king<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.22|<< 1 Samuel 15:22]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.24|1 Samuel 15:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| for  | <span class="ashebrew"><big>כִּ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is the] sin of  | <span class="ashebrew"><big>חַטַּאת</big></span><small><sup>[[H2403B]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| cha.tat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| divination  | <span class="ashebrew"><big>קֶ֙סֶם֙</big></span><small><sup>[[H7081]]</sup></small> &#8207;| ke.sem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rebellion  | <span class="ashebrew"><big>מֶ֔רִי</big></span><small><sup>[[H4805H]]</sup></small> &#8207;| Me.ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [is] wickedness  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אָ֥וֶן</big></span><small><sup>[[H0205G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and teraphim  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְרָפִ֖ים</big></span><small><sup>[[H8655]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.ra.Fim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| presumption  | <span class="ashebrew"><big>הַפְצַ֑ר</big></span><small><sup>[[H6484]]</sup></small> &#8207;| haf.Tzar<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  | <span class="ashebrew"><big>יַ֗עַן</big></span><small><sup>[[H3282]]</sup></small> &#8207;| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have rejected  | <span class="ashebrew"><big>מָאַ֙סְתָּ֙</big></span><small><sup>[[H3988A]]</sup></small> &#8207;| ma.'As.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] word of  | <span class="ashebrew"><big>דְּבַ֣ר</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| de.Var<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֔ה</big></span><small><sup>[[H3068G]]</sup></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has rejected you  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּמְאָסְ</big></span><small><sup>[[H3988A]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yim.'a.se.<small><sup>[[HVqw3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from king  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>מֶּֽלֶךְ</big></span><small><sup>[[H4428G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.22|<< 1 Samuel 15:22]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.24|1 Samuel 15:24 >>]]</td></tr></table>
+
+

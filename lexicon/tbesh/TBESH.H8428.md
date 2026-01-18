@@ -1,0 +1,1 @@
+<span class="ashebrew">‎תָּוָה‎</span> <small>***(ta.vah)***</small> ==**to wound**==  <sup><small>[[TEHMC#H:V|H:V]]</small></sup> 

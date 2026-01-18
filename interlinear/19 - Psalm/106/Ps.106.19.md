@@ -1,0 +1,18 @@
+**Psalms 106:19** 
+<small><sub>**KJV:**</sub></small>
+They made a calf in Horeb, and worshipped the molten image.
+<small><sub>**BSB:**</sub></small>
+At Horeb they made a calf and worshiped a molten image.
+<small><sub>**Literal:**</sub></small>
+they made a calf at  Horeb and  they bowed down to  a molten image<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.18|<< Psalms 106:18]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.20|Psalms 106:20 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| they made  | <span class="ashebrew"><big>יַעֲשׂוּ</big></span><small><sup>[[H6213H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ya.'a.su-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a calf  | <span class="ashebrew"><big>עֵ֥גֶל</big></span><small><sup>[[H5695]]</sup></small> &#8207;| 'E.gel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at Horeb  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>חֹרֵ֑ב</big></span><small><sup>[[H2722]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> cho.Rev<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they bowed down  | <span class="ashebrew"><big>וַ֝</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּשְׁתַּחֲו֗וּ</big></span><small><sup>[[H7812]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yish.ta.cha.Vu<small><sup>[[HVvw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a molten image  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַסֵּכָֽה</big></span><small><sup>[[H4541A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ma.se.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.18|<< Psalms 106:18]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.20|Psalms 106:20 >>]]</td></tr></table>
+
+

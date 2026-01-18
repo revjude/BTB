@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==ἀσεβής==</span>-<span class='asgreek'>ής</span></b>, <span class='asgreek'>ές</span>, 
+
+
+ (<span class='asgreek'>σέβω</span>) <b>ungodly, unholy, profane, sacrilegious,</b> opposed to <span class='asgreek'>εὐσεβής</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “Fragmenta.” 132.1, 4th-5th c.BC: Aeschylus Tragicus “Supplices” 9 (\_anapaest meter\_)">Refs 5th c.BC+</a>]; <span class='asgreek'>τὸν</span> <span class='asgreek'>==ἀσεβής==ῆ</span>, of Oedipus, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 1382, 1441; σκοπῶν τί ἀ. 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.1.16: with \_genitive\_, θεῶν ==ἀσεβής==ής">Refs 5th c.BC+</a>] <b>against</b> them, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 4.8.1; ==ἀσεβής==έστεροι περὶ θεούς 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.8.27; πρὸς ἀλλοτρίους 1st c.AD: Josephus Historicus “Bellum Judaicum” 5.10.5. ">Refs 5th c.BC+</a>]<i>adverb</i> -<span class='asgreek'>βῶς</span>, <i>superlative</i> <b>-<span class='asgreek'>έστατα</span></b>[<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 79.9.">Refs 2nd c.AD+</a>]
+

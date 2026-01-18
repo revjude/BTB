@@ -1,0 +1,30 @@
+**Ezekiel 16:22** 
+<small><sub>**KJV:**</sub></small>
+And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare, [and] wast polluted in thy blood.
+<small><sub>**BSB:**</sub></small>
+And in all your abominations and acts of prostitution, you did not remember the days of your youth when you were naked and bare, wallowing in your own blood.
+<small><sub>**Literal:**</sub></small>
+and  with all abominations  your and  prostitution\<s>  your not you remembered \<obj.> [the] days of youth\<s>  your when  were  you nakedness and  bareness kicking about in  blood  your you were<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.21|<< Ezekiel 16:21]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.23|Ezekiel 16:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and with  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵ֤ת</big></span><small><sup>[[H0853]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל</big></span><small><sup>[[H3605]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| abominations your  | <span class="ashebrew"><big>תּוֹעֲבֹתַ֙יִ</big></span><small><sup>[[H8441]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9022]]</sup></small> &#8207;| to.'a.vo.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and prostitution\<s> your  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תַזְנֻתַ֔יִ</big></span><small><sup>[[H8457]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> taz.nu.Ta.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you remembered  | <span class="ashebrew"><big>זָכַ֖רְתְּ</big></span><small><sup>[[H2142]]</sup></small> &#8207;[^1] [^2] | za.khar.ti<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] days of  | <span class="ashebrew"><big>יְמֵ֣י</big></span><small><sup>[[H3117G]]</sup></small> &#8207;| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| youth\<s> your  | <span class="ashebrew"><big>נְעוּרָ֑יִ</big></span><small><sup>[[H5271A]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| ne.'u.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when were you  | <span class="ashebrew"><big>בִּֽ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הְיוֹתֵ</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>ךְ֙</big></span><small><sup>[[H9042]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> h.yo.te<small><sup>[[HVqcc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| nakedness  | <span class="ashebrew"><big>עֵרֹ֣ם</big></span><small><sup>[[H5903]]</sup></small> &#8207;| 'e.Rom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and bareness  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֶרְיָ֔ה</big></span><small><sup>[[H6181]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'er.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kicking about  | <span class="ashebrew"><big>מִתְבּוֹסֶ֥סֶת</big></span><small><sup>[[H0947]]</sup></small> &#8207;| mit.bo.Se.set<small><sup>[[HVtrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in blood your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דָמֵ֖</big></span><small><sup>[[H1818]]</sup></small> <span class="ashebrew"><big>ךְ</big></span><small><sup>[[H9022]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> da.Me<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you were  | <span class="ashebrew"><big>הָיִֽית</big></span><small><sup>[[H1961]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.Yit<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.21|<< Ezekiel 16:21]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.23|Ezekiel 16:23 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="ashebrew"><big>זָכַ֖רְתְּי</big></span>**
+[^2]: ==K== spelled: **<span class="ashebrew"><big>זָכַרְתִּי</big></span>**
+

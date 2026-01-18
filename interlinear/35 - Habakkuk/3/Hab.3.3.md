@@ -1,0 +1,26 @@
+**Habakkuk 3:3** 
+<small><sub>**KJV:**</sub></small>
+God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.
+<small><sub>**BSB:**</sub></small>
+God came from Teman, and the Holy One from Mount Paran. Selah His glory covered the heavens, and His praise filled the earth.
+<small><sub>**Literal:**</sub></small>
+God from  Teman he comes and  [the] holy [one] from  [the] mountain of Paran Selah it has covered [the] heavens splendor  his and  praise  his it has filled the  earth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.2|<< Habakkuk 3:2]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.4|Habakkuk 3:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| God  | <span class="ashebrew"><big>אֱל֙וֹהַ֙</big></span><small><sup>[[H0433]]</sup></small> &#8207;| 'e.Lo.ha<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Teman  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>תֵּימָ֣ן</big></span><small><sup>[[H8487H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> tei.Man<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he comes  | <span class="ashebrew"><big>יָב֔וֹא</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] holy [one]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קָד֥וֹשׁ</big></span><small><sup>[[H6918G]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ka.Do.osh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] mountain of  | <span class="ashebrew"><big>מֵֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>הַר</big></span><small><sup>[[H2022G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Paran  | <span class="ashebrew"><big>פָּארָ֖ן</big></span><small><sup>[[H6290H]]</sup></small> &#8207;| pa.Ran<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  | <span class="ashebrew"><big>סֶ֑לָה</big></span><small><sup>[[H5542]]</sup></small> &#8207;| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has covered  | <span class="ashebrew"><big>כִּסָּ֤ה</big></span><small><sup>[[H3680]]</sup></small> &#8207;| ki.Sah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heavens  | <span class="ashebrew"><big>שָׁמַ֙יִם֙</big></span><small><sup>[[H8064]]</sup></small> &#8207;| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| splendor his  | <span class="ashebrew"><big>הוֹד֔</big></span><small><sup>[[H1935]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ho.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and praise his  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>תְהִלָּת֖</big></span><small><sup>[[H8416]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> te.hi.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has filled  | <span class="ashebrew"><big>מָלְאָ֥ה</big></span><small><sup>[[H4390]]</sup></small> &#8207;| mal.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָֽרֶץ</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.2|<< Habakkuk 3:2]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.4|Habakkuk 3:4 >>]]</td></tr></table>
+
+

@@ -1,0 +1,14 @@
+ <span class="bdbLangHebrew">‎אֵזוֺב‎</span> **noun masculine**<sup>[[1Kgs.5.13|1Kgs 5:13]]</sup> ==hyssop== (Mishna <span class="bdbLangHebrew">‎אזוב‎</span>, Aramaic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJwAaAIAAAAAAAP///yH5BAAAAAAALAAAAAAnABoAAAJmjI+py+0Po1xgWgUqvS1r/HGHlzGemJDhuKKk2bqxcaJTmeJ2Hqqzo2N9fEFErGbUKZG0V7KFDDKJT9CQuGz2ioEptlllWVe4mlc8xkadUqha9XSCQd0SnCKfhzlu/O72Fyg4aFEAADs=">, Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHgAiAIAAAAAAAP///yH5BAAAAAAALAAAAAAeACIAAAJgjI+py+0PGYg0gFvhnRq7jXjGBn7ccY6iqaxZimaRq8p1Qi+wtVMl2suFXDSSzdL6IWdJj7Gj4zw7pOf0hqv+rjxmFib0pcJe4BHL681WZNO43WTDv+859YzP5+1iva0AADs="> [[BDB#Frey|Frey]]., Ethiopic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhLwATAIAAAAAAAP///yH5BAAAAAAALAAAAAAvABMAAAJyjI+py70QoJu0gXsVlIdXinlRaJBPKDJoNrJt+mLViside3M2mO5mzfo5drmNsOSyEYu+lVLShOKQNGqOmQxOST+cyUmFXa3k1u01VmWlniX6XQKuy2bNvB4ed5ffZ7vPFtgjA5gg9mGYCITI2Oj4OFEAADs="> [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">ὕσσωπος</span>, herb of purging qualities, but perhaps not precise botanical term, see [[BDB#Di|Di]] [[Lev.14.6|Lev 14:6]] f; see also [[BDB#Löw|Löw]]<sup>93</sup>) **\*\***probably a kind of wild marjoram (***origanum Muru***) Post<sup>Hast. DB Hyssop</sup>. — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> absolute [[Exod.12.22|Exod 12:22]] + 4 t.; <span class="bdbLangHebrew">‎אֵזֹב‎</span> [[Lev.14.4|Lev 14:4]] + 4 t.; — ***hyssop***, little plant (contracted <span class="bdbLangHebrew">‎אֶרֶז‎</span> ***cedar***) [[1Kgs.5.13|1Kgs 5:13]], <span class="bdbLangHebrew">‎אֲשֶׁר יֹצֵא בַּקִּיר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הָא‎</span>; [[Exod.12.22|Exod 12:22]] ([[BDB#J|J]]) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֲגֻדַּת א‎</span> a bunch of h. for sprinkling blood on doorposts; without <span class="bdbLangHebrew">‎אגדת‎</span>, used in cleansing from leprosy [[Lev.14.4|Lev 14:4]]; [[Lev.14.6|Lev 14:6]]; [[Lev.14.49|Lev 14:49]]; [[Lev.14.51|Lev 14:51]]; [[Lev.14.52|Lev 14:52]] burnt with red heifer [[Num.19.6|Num 19:6]] used in cleansing with ashes of red heifer v[[Num.19.18|Num 19:18]] (all [[BDB#P|P]]); compare [[Ps.51.9|Ps 51:9]] <span class="bdbLangHebrew">‎וְאֶטְהָ֑ר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎תְּחַטְּאֵנִי בְּא‎</span>. 
+
+ <span class="bdbLangHebrew">‎אַזְכָּרָה‎</span> see  <span class="bdbLangHebrew">‎זכר‎</span>. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.12.22\|12:22]] |
+| Leviticus | [[Lev.14.4\|14:4]] · [[Lev.14.6\|14:6]] · [[Lev.14.49\|14:49]] · [[Lev.14.51\|14:51]] · [[Lev.14.52\|14:52]] |
+| Numbers | [[Num.19.6\|19:6]] · [[Num.19.18\|19:18]] |
+| 1 Kings | [[1Kgs.5.13\|5:13]] |
+| Psalms | [[Ps.51.9\|51:9]] |
+

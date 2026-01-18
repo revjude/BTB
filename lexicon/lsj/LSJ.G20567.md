@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==καταδρομή==</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>inroad, raid</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.142 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐνέδραι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" [prev. author] 5.56; καταδρομὰς ποιεῖσθαι [prev. author] 7.27, etc.; κ. γενομένης 5th c.BC: Lysias Orator 20.28; ὥσπερ κ. ἐποιήσω ἐπὶ τὸν λόγον μου 5th-6th c.BC: Plato Philosophus “Respublica” 472a ">Refs 5th c.BC+</a>]; <b>charge</b>, of troops in battle, [<a href="javascript:void(0)" title=" LXX.2Mac.5.3 ">LXX</a>]; <b>assault,</b> [<a href="javascript:void(0)" title=" PRein. 18.19(\_plural\_, 2nd c.BC). ">Refs 2nd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>attack, invective</b>, <span class='asgreek'>κ</span>. <span class='asgreek'>μέλλει</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>ἐμοῦ</span> <span class='asgreek'>ποιεῖσθαι</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 1.135, compare 1st c.BC: Dionysius Halicarnassensis “de Thucydide” 3; κατά τινος 2nd c.BC: Polybius Historicus 12.23.1; ἐν καταδρομῆς μέρει λέγεται περί τινος 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 2.43. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>recourse</b>, <span class='asgreek'>κ</span>. <span class='asgreek'>γίγνεται</span> <span class='asgreek'>ἐπί</span>.. [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 25.15. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>lurking-place, lair, den</b>, <span class='asgreek'>δακέτου</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 2.9, compare 5.49 (\_plural\_); ὕπαντροι ἢ λοχμώδεις κ. [prev. work] 9.1. ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_III.2</b> perhaps = <b>cryptoporticus,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae ad res Romanas pertinentes 4.159.23 (from Cyzicus). ">Refs</a>]

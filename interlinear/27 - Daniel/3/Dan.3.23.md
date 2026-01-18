@@ -1,0 +1,26 @@
+**Daniel 3:23** 
+<small><sub>**KJV:**</sub></small>
+And these three men, Shadrach, Meshach, and Abednego, fell down bound into the midst of the burning fiery furnace.
+<small><sub>**BSB:**</sub></small>
+And these three men, Shadrach, Meshach, and Abednego, firmly bound, fell into the blazing fiery furnace.
+<small><sub>**Literal:**</sub></small>
+and  men  the these three of  them Shadrach Meshach and  Abed- -nego they fell to  [the] midst of [the] furnace of fire  the \<the>  burning bound<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.22|<< Daniel 3:22]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.24|Daniel 3:24 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and men the  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>גֻבְרַיָּ֤</big></span><small><sup>[[H1400]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> guv.rai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  | <span class="asaramaic"><big>אִלֵּךְ֙</big></span><small><sup>[[H0479]]</sup></small> &#8207;| 'i.leKh<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three of them  | <span class="asaramaic"><big>תְּלָ֣תֵּ</big></span><small><sup>[[H8532]]</sup></small> <span class="asaramaic"><big>ה֔וֹן</big></span><small><sup>[[H9028]]</sup></small> &#8207;| te.La.te.<small><sup>[[AAcbsc]]</sup></small> Hon<small><sup>[[ASp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shadrach  | <span class="asaramaic"><big>שַׁדְרַ֥ךְ</big></span><small><sup>[[H7715]]</sup></small> &#8207;| shad.Rakh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Meshach  | <span class="ashebrew"><big>מֵישַׁ֖ךְ</big></span><small><sup>[[H4336]]</sup></small> &#8207;| mei.Shakh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Abed-  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֲבֵ֣ד</big></span><small><sup>[[H5665]]</sup></small> &#8207;| va.<small><sup>[[AC]]</sup></small> 'a.Ved<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -nego  | <span class="ashebrew"><big>נְג֑וֹ</big></span><small><sup>[[H5665]]</sup></small> &#8207;| ne.Go<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they fell  | <span class="asaramaic"><big>נְפַ֛לוּ</big></span><small><sup>[[H5308]]</sup></small> &#8207;| ne.Fa.lu<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] midst of  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>גֽוֹא</big></span><small><sup>[[H1459]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> goy'-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] furnace of  | <span class="asaramaic"><big>אַתּוּן</big></span><small><sup>[[H0861]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.tun-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire the  | <span class="asaramaic"><big>נוּרָ֥</big></span><small><sup>[[H5135]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| nu.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> burning  | <span class="asaramaic"><big>יָֽקִדְתָּ֖</big></span><small><sup>[[H3345]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| ya.kid.Ta<small><sup>[[AVqrfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bound  | <span class="asaramaic"><big>מְכַפְּתִֽין</big></span><small><sup>[[H3729]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="asaramaic"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="asaramaic"><big>פ</big></span><small><sup>[[H9017]]</sup></small> &#8207;| me.kha.pe.Tin<small><sup>[[AVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.22|<< Daniel 3:22]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.24|Daniel 3:24 >>]]</td></tr></table>
+
+

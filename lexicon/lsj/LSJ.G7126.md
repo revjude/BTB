@@ -1,0 +1,14 @@
+<span class="asgreek">ἐκπεράω</span> <small>***(ekperaō)***</small> ==**to carry over**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐκπεράω==</span></b> 
+
+
+ [<a href="javascript:void(0)" title="(4th c.AD(?): Arcadius Grammaticus ">Refs 4th c.AD+</a>] <b><span class='asgreek'>ἐσ</span>-</b>, see below[<a href="javascript:void(0)" title=" 1.4), \_Epic dialect\_ ">Refs</a>]<i>imperfect</i> <span class='asgreek'>ἐκπεράασκε</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 9.381 ">Refs</a>]:— <b>go out over, pass beyond,</b> <span class='asgreek'>λαῖτμα</span> <span class='asgreek'>μέγ᾽</span> <span class='asgreek'>ἐκπερόωσιν</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 7.35; ἥ τ᾽ ἐκπεράᾳ μέγα λαῖτμα 9.323; χθόνα 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 713 ">Refs 8th c.BC+</a>]; <span class='asgreek'>αὐλῶνα</span>[<a href="javascript:void(0)" title=" [prev. work] 731; χέρσον καὶ θάλασσαν [prev. author] “Eu.” 240 ">Refs</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>βίον</span> <b>go through</b> life, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Aulidensis” 18 (\_anapaest meter\_); ὀγδώκοντ᾽ ἔτεα “Anthologia Graeca” 6.226 (1st c.AD: Leonidas Alexandrinus Epigrammaticus); κῦμα συμφορᾶς 5th c.BC: Euripides Tragicus “Hippolytus” 824. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, of an arrow, <b>pass through, pierce,</b> <span class='asgreek'>ὀ</span>ϊ<span class='asgreek'>στὸς</span> <span class='asgreek'>ἀντικρὺ</span>..<span class='asgreek'>ὑπ᾽</span> <span class='asgreek'>ὀστέον</span> <span class='asgreek'>ἐξεπέρησεν</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 13.652, compare 16.346 ">Refs 8th c.BC+</a>], etc.; of persons, <b>go forth,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 6.18 ">Refs 5th c.BC+</a>]; <span class='asgreek'>Ἀθήνας</span> to Athens, [<a href="javascript:void(0)" title=" 4th c.BC: Eubulus Comicus 10.5. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>genitive</i>, <b>go</b> or <b>come out of,</b> <span class='asgreek'>μελάθρων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Cyclops” 512 (Lyric poetry). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>transgress,</b> <span class='asgreek'>ἐσπερᾶσαι</span> <span class='asgreek'>πὰρ</span> <span class='asgreek'>ἃν</span> <span class='asgreek'>λέγῃ</span> <span class='asgreek'>ἱεροθύτας</span> [<a href="javascript:void(0)" title=" “IG” 5(2).6 (Tegea, 4th c.BC). ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>carry out</b> or <b>away,</b> [<a href="javascript:void(0)" title=" LXX.Num.11.31. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[Num.11.31]]
+</sub></small>

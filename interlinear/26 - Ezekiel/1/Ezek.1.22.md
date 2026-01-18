@@ -1,0 +1,25 @@
+**Ezekiel 1:22** 
+<small><sub>**KJV:**</sub></small>
+And the likeness of the firmament upon the heads of the living creature [was] as the colour of the terrible crystal, stretched forth over their heads above.
+<small><sub>**BSB:**</sub></small>
+Spread out above the heads of the living creatures was the likeness of an awesome expanse, gleaming like crystal.
+<small><sub>**Literal:**</sub></small>
+and  a likeness [was] above [the] heads of the  living creature an expanse like  [the] appearance of \<the>  frost \<the>  awesome spread out above heads  their from  to  above  \<towards><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.21|<< Ezekiel 1:21]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.23|Ezekiel 1:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and a likeness  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>דְמ֞וּת</big></span><small><sup>[[H1823]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> de.Mut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] above  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] heads of  | <span class="ashebrew"><big>רָאשֵׁ֤י</big></span><small><sup>[[H7218A]]</sup></small> &#8207;| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the living creature  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חַיָּה֙</big></span><small><sup>[[H2416C]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> chai.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an expanse  | <span class="ashebrew"><big>רָקִ֔יעַ</big></span><small><sup>[[H7549]]</sup></small> &#8207;| ra.Ki.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] appearance of  | <span class="ashebrew"><big>כְּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>עֵ֖ין</big></span><small><sup>[[H5869I]]</sup></small> &#8207;| ke.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> frost  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>קֶּ֣רַח</big></span><small><sup>[[H7140]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Ke.rach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> awesome  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>נּוֹרָ֑א</big></span><small><sup>[[H3372H]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> no.Ra'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| spread out  | <span class="ashebrew"><big>נָט֥וּי</big></span><small><sup>[[H5186]]</sup></small> &#8207;| na.Tui<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| above  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heads their  | <span class="ashebrew"><big>רָאשֵׁי</big></span><small><sup>[[H7218A]]</sup></small> <span class="ashebrew"><big>הֶ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ra.shei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from to above \<towards>  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מָֽעְלָ</big></span><small><sup>[[H4605]]</sup></small> <span class="ashebrew"><big>ה</big></span><small><sup>[[H9011]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| mi<small><sup>[[HR]]</sup></small> l.<small><sup>[[HR]]</sup></small> Ma.'e.la<small><sup>[[HAcbsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.21|<< Ezekiel 1:21]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.23|Ezekiel 1:23 >>]]</td></tr></table>
+
+

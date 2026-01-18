@@ -1,0 +1,28 @@
+**Jeremiah 47:3** 
+<small><sub>**KJV:**</sub></small>
+At the noise of the stamping of the hoofs of his strong [horses], at the rushing of his chariots, [and at] the rumbling of his wheels, the fathers shall not look back to [their] children for feebleness of hands;
+<small><sub>**BSB:**</sub></small>
+at the sound of the galloping hooves of stallions, the rumbling of chariots, and the clatter of their wheels. The fathers will not turn back for their sons; their hands will hang limp.
+<small><sub>**Literal:**</sub></small>
+from  [the] sound of [the] stamping of [the] hooves of mighty [horses]  its from  [the] rattling of  chariotry  its [the] din of wheels  its not they have turned back fathers to children from  slackness of hands<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.2|<< Jeremiah 47:2]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.4|Jeremiah 47:4 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| from [the] sound of  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>קּ֗וֹל</big></span><small><sup>[[H6963H]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] stamping of  | <span class="ashebrew"><big>שַֽׁעֲטַת֙</big></span><small><sup>[[H8161]]</sup></small> &#8207;| sha.'a.Tat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] hooves of  | <span class="ashebrew"><big>פַּרְס֣וֹת</big></span><small><sup>[[H6541]]</sup></small> &#8207;| par.Sot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mighty [horses] its  | <span class="ashebrew"><big>אַבִּירָ֔י</big></span><small><sup>[[H0047H]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| 'a.bi.Ra<small><sup>[[HAampc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] rattling  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>רַ֣עַשׁ</big></span><small><sup>[[H7494]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> Ra.'ash<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of chariotry its  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רִכְבּ֔</big></span><small><sup>[[H7393G]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> rikh.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] din of  | <span class="ashebrew"><big>הֲמ֖וֹן</big></span><small><sup>[[H1995A]]</sup></small> &#8207;| ha.Mon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wheels its  | <span class="ashebrew"><big>גַּלְגִּלָּ֑י</big></span><small><sup>[[H1534]]</sup></small> <span class="ashebrew"><big>ו</big></span><small><sup>[[H9023]]</sup></small> &#8207;| gal.gi.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have turned back  | <span class="ashebrew"><big>הִפְנ֤וּ</big></span><small><sup>[[H6437G]]</sup></small> &#8207;| hif.Nu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fathers  | <span class="ashebrew"><big>אָבוֹת֙</big></span><small><sup>[[H0001G]]</sup></small> &#8207;| 'a.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>אֶל</big></span><small><sup>[[H0413]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children  | <span class="ashebrew"><big>בָּנִ֔ים</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from slackness of  | <span class="ashebrew"><big>מֵֽ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>רִפְי֖וֹן</big></span><small><sup>[[H7510]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> rif.Yon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands  | <span class="ashebrew"><big>יָדָֽיִם</big></span><small><sup>[[H3027G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ya.Da.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.2|<< Jeremiah 47:2]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.4|Jeremiah 47:4 >>]]</td></tr></table>
+
+

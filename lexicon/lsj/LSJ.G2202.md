@@ -1,0 +1,8 @@
+
+Related to: <b> <span class='asgreek'>==ζευκτηρία==</span>-<span class='asgreek'>η</span></b>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>loop attached to the yoke</b> (<span class='asgreek'>ζυγόν</span>), through which the beasts' heads were put, <span class='asgreek'>χαίτη</span> <span class='asgreek'>==ζευκτηρία==ης</span> <span class='asgreek'>ἐξεριποῦσα</span> <span class='asgreek'>παρὰ</span> <span class='asgreek'>ζυγόν</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 17.440; ἔζευξα.. ἐν ζυγοῖσι κνώδαλα ==ζευκτηρία==αισι δουλεύοντα 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 463 ">Refs 8th c.BC+</a>]; <span class='asgreek'>ὑποδύντες</span> <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ζ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.31; βόας ==ζευκτηρία==ᾳ πέλασσεν 5th c.BC: Pindarus Lyricus “P.” 4.227 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ὑπάγειν</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἵππους</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>ζ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “DMar.” 6.2. ">Refs 2nd c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>ζεῦγος</span>}[<a href="javascript:void(0)" title=" 1.1, “BGU” 1507 (3rd c.BC).">Refs 3rd c.BC+</a>] —Not found in good \_Attic dialect\_ Prose. 
+$\quad$ $\quad$<b>\_\_II</b> <b>cross-bar</b> of the double rudder, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Helena” 1536. ">Refs 5th c.BC+</a>]

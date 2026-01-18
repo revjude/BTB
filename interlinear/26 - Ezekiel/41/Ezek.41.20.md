@@ -1,0 +1,22 @@
+**Ezekiel 41:20** 
+<small><sub>**KJV:**</sub></small>
+From the ground unto above the door [were] cherubims and palm trees made, and [on] the wall of the temple.
+<small><sub>**BSB:**</sub></small>
+Cherubim and palm trees were carved on the wall of the outer sanctuary from the floor to the space above the entrance.
+<small><sub>**Literal:**</sub></small>
+from  the  ground to from  above the  entrance the  cherubim and  the  palm trees [were] made and  [the] wall of the  temple of<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.19|<< Ezekiel 41:19]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.21|Ezekiel 41:21 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| from the ground  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אָ֙רֶץ֙</big></span><small><sup>[[H0776H]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from above  | <span class="ashebrew"><big>מֵ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>עַ֣ל</big></span><small><sup>[[H5921A]]</sup></small> &#8207;| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the entrance  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>פֶּ֔תַח</big></span><small><sup>[[H6607]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> Pe.tach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cherubim  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>כְּרוּבִ֥ים</big></span><small><sup>[[H3742]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the palm trees  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>תִּֽמֹרִ֖ים</big></span><small><sup>[[H8561]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ti.mo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] made  | <span class="ashebrew"><big>עֲשׂוּיִ֑ם</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| 'a.su.Yim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] wall of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>קִ֖יר</big></span><small><sup>[[H7023]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Kir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the temple of  | <span class="ashebrew"><big>הַׄ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>הֵׄיׄכָֽׄלׄ</big></span><small><sup>[[H1964I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> hei.Khal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.19|<< Ezekiel 41:19]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.21|Ezekiel 41:21 >>]]</td></tr></table>
+
+

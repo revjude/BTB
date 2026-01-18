@@ -1,0 +1,10 @@
+<span class="asgreek">ἐπίχειρον</span> <small>***(epicheiron)***</small> ==**forearm**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐπίχειρον==</span></b>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>χείρ</span>) <b>arm,</b> [<a href="javascript:void(0)" title=" LXX “Je.” 31 (48). 25. ">Refs</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> in <i>plural</i>, <b><span class='asgreek'>ἐπίχειρα</span></b>, <span class='asgreek'>τά</span>, properly <b>wages of manual labour</b>: hence, <b>wages, pay,</b> 
+$\quad$ $\quad$ $\quad$<b>\_\_II.1</b> of <b>reward,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 581, “Tragica Adespota” 116, 3rd c.BC: Theocritus Poeta Bucolicus “Epigrammata” 18.8; ἀρετῆς ἐ. 5th-6th c.BC: Plato Philosophus “Respublica” 608c; ironically in 4th c.BC: Demosthenes Orator “Epistulae” 3.38, 2nd c.BC: Polybius Historicus 8.12.5, etc.">Refs 5th c.BC+</a>]: rarely in <i>singular</i>, [<a href="javascript:void(0)" title=" [prev. author] 38.3.2. ">Refs</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> more frequently of <b>punishment,</b> <span class='asgreek'>τοιαῦτα</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ὑψηγόρου</span> <span class='asgreek'>γλώσσης</span>.. <span class='asgreek'>τἀπίχειρα</span> <span class='asgreek'>γίγνεται</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 321, compare 5th c.BC: Antipho Orator 1.20, 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 3.24.24, 1st c.AD: Philo Judaeus 1.512, etc.; τῆς προπετείας πικρὰ κομίζονται τἀ. 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.32 W.">Refs 5th c.BC+</a>]; <span class='asgreek'>ξιφέων</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>λαχοῦσα</span> <b>the wages</b> of the sword, i.e. slaughter by it, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 820 (Lyric poetry). (Sts. written ἐπιχείρια">Refs 5th c.BC+</a>] in codices, <i>vulgar form</i> in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “παραγγελίαι” 1.) ">Refs 5th c.BC+</a>]

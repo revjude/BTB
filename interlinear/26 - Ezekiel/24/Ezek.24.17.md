@@ -1,0 +1,33 @@
+**Ezekiel 24:17** 
+<small><sub>**KJV:**</sub></small>
+Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not [thy] lips, and eat not the bread of men.
+<small><sub>**BSB:**</sub></small>
+Groan quietly; do not mourn for the dead. Put on your turban and strap your sandals on your feet; do not cover your lips or eat the bread of mourners.”
+<small><sub>**Literal:**</sub></small>
+groaning be silent dead [people] mourning not you must do turban  your bind on  you and  sandals  your you will put on  feet  your and  not you must cover over a moustache and  food of people not you must eat<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.16|<< Ezekiel 24:16]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.18|Ezekiel 24:18 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| groaning  | <span class="ashebrew"><big>הֵאָנֵ֣ק</big></span><small><sup>[[H0602]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| he.'a.Nek<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| be silent  | <span class="ashebrew"><big>דֹּ֗ם</big></span><small><sup>[[H1826H]]</sup></small> &#8207;| Dom<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dead [people]  | <span class="ashebrew"><big>מֵתִים֙</big></span><small><sup>[[H4191]]</sup></small> &#8207;| me.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mourning  | <span class="ashebrew"><big>אֵ֣בֶל</big></span><small><sup>[[H0060]]</sup></small> &#8207;| 'E.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must do  | <span class="ashebrew"><big>תַֽעֲשֶׂ֔ה</big></span><small><sup>[[H6213H]]</sup></small> &#8207;| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| turban your  | <span class="ashebrew"><big>פְאֵֽרְ</big></span><small><sup>[[H6287]]</sup></small> <span class="ashebrew"><big>ךָ֙</big></span><small><sup>[[H9021]]</sup></small> &#8207;| fe.'e.re.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bind  | <span class="ashebrew"><big>חֲב֣וֹשׁ</big></span><small><sup>[[H2280]]</sup></small> &#8207;| cha.Vo.osh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  | <span class="ashebrew"><big>עָלֶ֔י</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9031]]</sup></small> &#8207;| 'a.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sandals your  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>נְעָלֶ֖י</big></span><small><sup>[[H5275]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ne.'a.Lei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will put  | <span class="ashebrew"><big>תָּשִׂ֣ים</big></span><small><sup>[[H7760H]]</sup></small> &#8207;| ta.Sim<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on feet your  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>רַגְלֶ֑י</big></span><small><sup>[[H7272]]</sup></small> <span class="ashebrew"><big>ךָ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> rag.Lei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹ֤א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must cover  | <span class="ashebrew"><big>תַעְטֶה֙</big></span><small><sup>[[H5844A]]</sup></small> &#8207;| ta'.Teh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| over  | <span class="ashebrew"><big>עַל</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a moustache  | <span class="ashebrew"><big>שָׂפָ֔ם</big></span><small><sup>[[H8222]]</sup></small> &#8207;| sa.Fam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and food of  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֶ֥חֶם</big></span><small><sup>[[H3899H]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people  | <span class="ashebrew"><big>אֲנָשִׁ֖ים</big></span><small><sup>[[H0582]]</sup></small> &#8207;| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must eat  | <span class="ashebrew"><big>תֹאכֵֽל</big></span><small><sup>[[H0398]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| to.Khel<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.16|<< Ezekiel 24:16]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.18|Ezekiel 24:18 >>]]</td></tr></table>
+
+

@@ -1,0 +1,25 @@
+**Deuteronomy 5:10** 
+<small><sub>**KJV:**</sub></small>
+And shewing mercy unto thousands of them that love me and keep my commandments.
+<small><sub>**BSB:**</sub></small>
+but showing loving devotion to a thousand generations of those who love Me and keep My commandments.
+<small><sub>**Literal:**</sub></small>
+and  [who] does covenant loyalty to  thousands of  [those who] love  me and  of  [those who] keep commandments  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.9|<< Deuteronomy 5:9]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.11|Deuteronomy 5:11 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [who] does  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עֹ֤֥שֶׂה</big></span><small><sup>[[H6213A]]</sup></small> &#8207;[^1] | ve.<small><sup>[[HC]]</sup></small> 'O.seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
+| covenant loyalty  | <span class="ashebrew"><big>חֶ֖֙סֶד֙</big></span><small><sup>[[H2617A]]</sup></small> &#8207;[^2] | che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
+| to thousands  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֲלָפִ֑֔ים</big></span><small><sup>[[H0505G]]</sup></small> &#8207;[^3] | la.<small><sup>[[HR]]</sup></small> 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad (biblia + alt.puncuation)">L(b+p)</abbr> |
+| of [those who] love me  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אֹהֲבַ֖</big></span><small><sup>[[H0157G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'o.ha.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and of [those who] keep  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שֹׁמְרֵ֥י</big></span><small><sup>[[H8104G]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> sho.me.Rei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| commandments my  [^5] | <span class="ashebrew"><big>מִצְוֹתָֽ</big></span><small><sup>[[H4687]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;[^6] | mitz.vo.<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.9|<< Deuteronomy 5:9]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.11|Deuteronomy 5:11 >>]]</td></tr></table>
+
+[^1]: ==P== spelled: **<span class="ashebrew"><big>וְעֹ֤שֶׂה</big></span>**
+[^2]: ==P== spelled: **<span class="ashebrew"><big>חֶ֙סֶד֙</big></span>**
+[^3]: ==B== spelled: **<span class="ashebrew"><big>לַֽאֲלָפִ֔ים</big></span>**
+[^4]: ==K==: **commandment his ** | <small><sup>[[H9018]]</sup></small><span class="ashebrew"><big>ס</big></span> <small><sup>[[ ]]</sup></small><span class="ashebrew"><big> </big></span> <small><sup>[[H9016]]</sup></small><span class="ashebrew"><big>׃</big></span> <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H4687]]</sup></small><span class="ashebrew"><big>מִצְוֹת</big></span>  | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^5]: ==K==: **commandment his ** | <small><sup>[[H9018]]</sup></small><span class="ashebrew"><big>ס</big></span> <small><sup>[[ ]]</sup></small><span class="ashebrew"><big> </big></span> <small><sup>[[H9016]]</sup></small><span class="ashebrew"><big>׃</big></span> <small><sup>[[H9023]]</sup></small><span class="ashebrew"><big>וֹ</big></span> <small><sup>[[H4687]]</sup></small><span class="ashebrew"><big>מִצְוֹת</big></span>  | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
+[^6]: ==L== spelled: **<span class="ashebrew"><big>מִצְוֹתָֽו\׃\ \ס</big></span>**
+

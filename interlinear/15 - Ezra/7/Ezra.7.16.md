@@ -1,0 +1,30 @@
+**Ezra 7:16** 
+<small><sub>**KJV:**</sub></small>
+And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which [is] in Jerusalem:
+<small><sub>**BSB:**</sub></small>
+together with all the silver and gold you may find in all the province of Babylon, as well as the freewill offerings of the people and priests to the house of their God in Jerusalem.
+<small><sub>**Literal:**</sub></small>
+and  all [the] silver and  [the] gold which you will find in  all [the] province of Babylon with [the] freewill offering of people  the and  priests  the [who] have offered freely for  [the] house of God  their which [is] in  Jerusalem<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.15|<< Ezra 7:15]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.17|Ezra 7:17 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and all  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>כֹל֙</big></span><small><sup>[[H3606]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> Khol<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] silver  | <span class="asaramaic"><big>כְּסַ֣ף</big></span><small><sup>[[H3702]]</sup></small> &#8207;| ke.Saf<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] gold  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>דְהַ֔ב</big></span><small><sup>[[H1722]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> de.Hav<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="asaramaic"><big>דִּ֣י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will find  | <span class="asaramaic"><big>תְהַשְׁכַּ֔ח</big></span><small><sup>[[H7912]]</sup></small> &#8207;| te.hash.Kach<small><sup>[[AVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in all  | <span class="asaramaic"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="asaramaic"><big>כֹ֖ל</big></span><small><sup>[[H3606]]</sup></small> &#8207;| be.<small><sup>[[AR]]</sup></small> Khol<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] province of  | <span class="asaramaic"><big>מְדִינַ֣ת</big></span><small><sup>[[H4083]]</sup></small> &#8207;| me.di.Nat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon  | <span class="asaramaic"><big>בָּבֶ֑ל</big></span><small><sup>[[H0895]]</sup></small> &#8207;| ba.Vel<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="asaramaic"><big>עִם֩</big></span><small><sup>[[H5974]]</sup></small> &#8207;| 'im<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] freewill offering of  | <span class="asaramaic"><big>הִתְנַדָּב֨וּת</big></span><small><sup>[[H5069]]</sup></small> &#8207;| hit.na.da.Vut<small><sup>[[AVMcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people the  | <span class="asaramaic"><big>עַמָּ֤</big></span><small><sup>[[H5972]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| 'a.Ma<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and priests the  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>כָֽהֲנַיָּ</big></span><small><sup>[[H3549]]</sup></small> <span class="asaramaic"><big>א֙</big></span><small><sup>[[H9010]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> kha.ha.nai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] have offered freely  | <span class="asaramaic"><big>מִֽתְנַדְּבִ֔ין</big></span><small><sup>[[H5069]]</sup></small> &#8207;| mit.na.de.Vin<small><sup>[[AVMrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for [the] house of  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>בֵ֥ית</big></span><small><sup>[[H1005]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> Veit<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God their  | <span class="ashebrew"><big>אֱלָהֲ</big></span><small><sup>[[H0426]]</sup></small> <span class="ashebrew"><big>הֹ֖ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'e.la.ha.Ho<small><sup>[[ANcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  | <span class="asaramaic"><big>דִּ֥י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in Jerusalem  | <span class="asaramaic"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="asaramaic"><big>ירוּשְׁלֶֽם</big></span><small><sup>[[H3390]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| vi.<small><sup>[[AR]]</sup></small> ru.she.Lem<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.15|<< Ezra 7:15]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.17|Ezra 7:17 >>]]</td></tr></table>
+
+

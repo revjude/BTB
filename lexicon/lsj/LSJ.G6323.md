@@ -1,0 +1,15 @@
+<span class="asgreek">ἀναφύω</span> <small>***(anaphuō)***</small> ==**to grow up**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀναφύω==</span></b>, 
+
+
+ <i>aorist</i> <i>passive</i> <span class='asgreek'>ἀνεφύην</span>[<a href="javascript:void(0)" title=" LXX.1Kgs.5.6">LXX</a>], <i>participle</i> <b>-<span class='asgreek'>φυείς</span></b>[<a href="javascript:void(0)" title=" 6th c.AD: Choricius Rhetor in “Rev.Phil.” 1.75">Refs 6th c.AD+</a>]:—<b>produce again,</b> <span class='asgreek'>ὅμοια</span> <span class='asgreek'>κέρατα</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 611b1; πτιλὰ νεαρά 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 12.4">Refs 4th c.BC+</a>]; generally, <b>let grow,</b> <span class='asgreek'>πώγωνα</span>[<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 10.40">Refs 3rd c.BC+</a>]; <b>foster,</b> <span class='asgreek'>ὄφιν</span>[<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 2.1209">Refs 3rd c.BC+</a>]; <span class='asgreek'>πλῆθος</span> <span class='asgreek'>συκοφαντῶν</span>, <span class='asgreek'>ἐπιθυμίας</span>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aristides” 26, “Arat.” 49, etc. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <b>produce</b> vegetation, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 252. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, with <i>aorist 2</i> -<span class='asgreek'>έφυν</span> and <i>perfect</i> -<span class='asgreek'>πέφυκα</span>, <b>grow up,</b> [<a href="javascript:void(0)" title=" 6th c.BC: Pherecydes Lerius Historicus 22(a) 1st c.AD: Josephus Historicus, 5th c.BC: Herodotus Historicus 4.58, 5th-6th c.BC: Plato Philosophus “Politicus” 272a, etc.; ἢν γὰρ ἀποθάνῃ εἷς τις πονηρός, δύ᾽ ἀνέφυσαν ῥήτορες 5th-6th c.BC: Plato Comicus 186">Refs 6th c.BC+</a>]; <span class='asgreek'>ἀναφύονταί</span> <span class='asgreek'>τινι</span> <span class='asgreek'>διαβολαί</span>, <span class='asgreek'>δίκαι</span>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Theseus” 17, “Per.” 37. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>grow again,</b> of the hair, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.35. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i>, <b>recover, make a fresh start,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 2.177. ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i> in <i>present</i> -<span class='asgreek'>φύει</span>, [<a href="javascript:void(0)" title=" 6th c.AD: Philoponus, Joannes Philosophus ">Refs 6th c.AD+</a>]<b>inde An.</b>195.12.
+
+<small><sub>LSJ Scripture Refs: [[1Kgs.5.6]]
+</sub></small>

@@ -1,0 +1,9 @@
+<span class="asgreek">ἐπιχαίρω</span> <small>***(epichairō)***</small> ==**to rejoice at**==  <sup><small>[[TEGMC#G:V|G:V]]</small></sup> 
+
+<b> <span class='asgreek'>==ἐπιχαίρω==</span></b>, 
+
+
+ <b>rejoice over, exult over,</b> mostly of malignant joy, with <i>dative</i> <i>of things</i>, <span class='asgreek'>κακοῖς</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>τοῦδε</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 961; ἀτυχίαις τῶν πέλας 4th-3rd c.BC: Menander Comicus 673, compare 4th c.BC: Aristoteles Philosophus “Rhetorica” 1379b17: with \_dative\_ \_person\_, 4th c.BC: Demosthenes Orator 21.134; τινὶ τεθνηκότι 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Eumenes” 2; ἐπί τινι 1st c.BC: Philodemus Philosophus “de Morte - Papiri Ercolanesi” 20: \_absolutely\_, 5th-6th c.BC: Aristophanes Comicus “Pax” 1015 (\_anapaest meter\_), 4th c.BC: Demosthenes Orator 9.61 ">Refs 5th c.BC+</a>]: also in <i>aorist</i> I <i>middle</i>, <span class='asgreek'>ἐπεχήρατο</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 4.55 ">Refs 3rd c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “de Morte - Papiri Ercolanesi” 20. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> rarely in good sense, <span class='asgreek'>ἐπιχαρῆναι</span> (<i>aorist 2</i> <i>passive</i>) <b>rejoice in</b> another's <b>joy,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 314 (Lyric poetry): with \_accusative\_, σὲ μὲν εὖ πράσσοντ᾽ ==ἐπιχαίρω== 5th c.BC: Sophocles Tragicus “Ajax” 136 (\_anapaest meter\_). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>take pleasure in,</b> with <i>dative</i>, [<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 6.14. ">Refs 3rd c.AD+</a>]

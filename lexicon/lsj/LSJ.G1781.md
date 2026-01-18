@@ -1,0 +1,10 @@
+
+<b> <span class='asgreek'>==ἐντέλλω==</span></b>, 
+
+
+ <b>enjoin, command,</b> <i>active</i> only in [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “O.” 7.40, 5th c.BC: Sophocles Tragicus “Fragmenta” 269 ">Refs 5th c.BC+</a>]:— mostly in <i>middle</i>, <span class='asgreek'>τινί</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.47, etc.">Refs 5th c.BC+</a>]; in a will, <span class='asgreek'>φίλοις</span> <span class='asgreek'>ταῦτα</span> <span class='asgreek'>ἐντέλλομαι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Diogenes Oenoandensis Epicureus 66 ">Refs 2nd c.AD+</a>]: with <i>dative</i> <i>person</i> et <i>infinitive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.53, 5th-6th c.BC: Plato Philosophus “Respublica” 393e, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐντείλασθαι</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>γλώσσης</span> <b>command</b> by word of mouth, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.123 ">Refs 5th c.BC+</a>]: so in <i>perfect</i>, <span class='asgreek'>ἐντέταλται</span> [<a href="javascript:void(0)" title=" LXX.1Kgs.13.17; ἐντεταλμένοι εἴησαν 2nd c.BC: Polybius Historicus 18.2.1, compare 2nd c.AD: Herodianus Grammaticus 1.9.9 ">LXX+2nd c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐντεταλμένα</span> <b>commands,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.60, 5.73, 5th c.BC: Sophocles Tragicus “Fragmenta” 462, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 5.5.3. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>invest with legal powers, authorize to act,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>σοι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐπιτρέπω</span> [<a href="javascript:void(0)" title=" “PLips.” 38.5 (4th c.AD),compare “PMasp.” 124.6 (6th c.AD). ">Refs 4th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Kgs.13.17]]
+</sub></small>

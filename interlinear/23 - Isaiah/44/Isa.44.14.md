@@ -1,0 +1,27 @@
+**Isaiah 44:14** 
+<small><sub>**KJV:**</sub></small>
+He heweth him down cedars, and taketh the cypress and the oak, which he strengtheneth for himself among the trees of the forest: he planteth an ash, and the rain doth nourish [it].
+<small><sub>**BSB:**</sub></small>
+He cuts down cedars or retrieves a cypress or oak. He lets it grow strong among the trees of the forest. He plants a laurel, and the rain makes it grow.
+<small><sub>**Literal:**</sub></small>
+to  cut down for \<the>  himself cedars and  he took a cypress and  an oak and  he strengthened [it] for \<the>  himself among  [the] trees of [the] forest he plants laurel and  rain it makes [it] grow<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.13|<< Isaiah 44:13]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.15|Isaiah 44:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| to cut down  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>כְרָת</big></span><small><sup>[[H3772G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> kh.rot-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> himself  | <span class="ashebrew"><big>ל֣</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cedars  | <span class="ashebrew"><big>אֲרָזִ֔ים</big></span><small><sup>[[H0730]]</sup></small> &#8207;| 'a.ra.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he took  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יִּקַּ֤ח</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a cypress  | <span class="ashebrew"><big>תִּרְזָה֙</big></span><small><sup>[[H8645]]</sup></small> &#8207;| tir.Zah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and an oak  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אַלּ֔וֹן</big></span><small><sup>[[H0437]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Lon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he strengthened [it]  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יְאַמֶּץ</big></span><small><sup>[[H0553]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> y.'a.metz-<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> himself  | <span class="ashebrew"><big>ל֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among [the] trees of  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>עֲצֵי</big></span><small><sup>[[H6086H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ba.<small><sup>[[HR]]</sup></small> 'a.tzei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] forest  | <span class="ashebrew"><big>יָ֑עַר</big></span><small><sup>[[H3293A]]</sup></small> &#8207;| Ya.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he plants  | <span class="ashebrew"><big>נָטַ֥ע</big></span><small><sup>[[H5193]]</sup></small> &#8207;| na.Ta'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| laurel  | <span class="ashebrew"><big>אֹ֖רֶן</big></span><small><sup>[[H0766]]</sup></small> &#8207;| 'O.ren<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and rain  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>גֶ֥שֶׁם</big></span><small><sup>[[H1653]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Ge.shem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it makes [it] grow  | <span class="ashebrew"><big>יְגַדֵּֽל</big></span><small><sup>[[H1431]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ye.ga.Del<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.13|<< Isaiah 44:13]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.15|Isaiah 44:15 >>]]</td></tr></table>
+
+

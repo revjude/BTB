@@ -1,0 +1,10 @@
+
+Included with: <b> <span class='asgreek'>==σαλπιστής==</span>-<span class='asgreek'>ιγκτής</span></b>, <span class='asgreek'>οῦ</span>, <span class='asgreek'>ὁ</span>, 
+
+
+ <b>trumpeter</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.69, 5th-6th c.BC: Xenophon Historicus “Anabasis” 4.3.29, 1st c.BC: Asclepiodotus Tacticus “Tact.” 2.9, 6.3, etc.; this spelling has the best M 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>] authority and occurs in [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2.299 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>], but has not been found in <i>Attic dialect</i> Inscrr.; <b><span class='asgreek'>==σαλπιστής==ικτής</span></b>, [<a href="javascript:void(0)" title=" “SIG” 153.68 (Delos, 4th c.BC), “IG” 3.1288, “POxy.” 519.16 (2nd c.AD), etc.">Refs 4th c.BC+</a>]; <i>Boeotian dialect</i> <b><span class='asgreek'>==σαλπιστής==ικτάς</span></b> [<a href="javascript:void(0)" title=" “IG” 7.1773 (Thespiae, 2nd c.AD)">Refs 2nd c.AD+</a>], <b><span class='asgreek'>==σαλπιστής==ιγκτάς</span></b> [<a href="javascript:void(0)" title="[prev. work]3195 (Orchom., 1st c.BC)">Refs 1st c.BC+</a>]; later <u><b><span class='asgreek'>==σαλπιστής==ιστής</span></b></u>, [<a href="javascript:void(0)" title="[prev. work]9(2).525.4 (Thessaly, 2nd c.BC), 3.1285 (Attica, 1st c.AD), 7.3196 (Orchom. \_Boeotian dialect\_), “Sammelb.” 4591.3, etc.; also in 2nd c.BC: Polybius Historicus 1.45.13, 1st c.BC: Dionysius Halicarnassensis 4.17, NT.Rev.18.22, etc. ">NT+2nd c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>ὄρνις</span> <span class='asgreek'>ὁμοίως</span> <span class='asgreek'>σάλπιγγι</span> <span class='asgreek'>φθεγγόμενος</span>}, [<a href="javascript:void(0)" title=" 9th c.AD: Photius Legal icographus, etc. ">Refs 9th c.AD+</a>]; ={<span class='asgreek'>ὀρχίλος</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Rev.18.22]]
+</sub></small>

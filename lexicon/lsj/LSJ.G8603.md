@@ -1,0 +1,14 @@
+<span class="asgreek">παράγγελμα</span> <small>***(parangelma)***</small> ==**a mobilization order**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==παράγγελμα==</span>-<span class='asgreek'>ελμα</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ <b>message transmitted</b> by beacons, <span class='asgreek'>φλογὸς</span> <span class='asgreek'>παραγγέλμασιν</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 480 (Lyric poetry). ">Refs 4th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>order, word of command</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 12.17 ">Refs 5th c.BC+</a>]; <span class='asgreek'>==παράγγελμα==ελμα</span> <span class='asgreek'>ἐχόντων</span> <span class='asgreek'>μὴ</span> <span class='asgreek'>χωρίζεσθαι</span> Test. cited in [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 21.168 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>παραγγέλματος</span> by <b>word of command</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.99; ἐκ π. 2nd c.BC: Polybius Historicus 1.27.8, etc.; διδόναι τὰ παραγγέλματα [prev. author] 10.23.9; ἄρχων παντὸς π. LXX.1Kgs.22.14. ">LXX+5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <b>mobilization order,</b> [<a href="javascript:void(0)" title=" PHib. 1.78 (3rd c.BC)">Refs 3rd c.BC+</a>]; <b>mobilization</b>, <span class='asgreek'>μὴ</span> <span class='asgreek'>εἶναί</span> <span class='asgreek'>σε</span> <span class='asgreek'>ἐμ</span> <span class='asgreek'>βασιλικῷ</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" “PBaden” 48.10 (2nd c.BC),compare “Ostr.” 1535 (2nd c.BC), “PAmh.” 2.50.5 (2nd c.BC). ">Refs 2nd c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>edict</b> of a Roman governor, Wilcken [<a href="javascript:void(0)" title=" “Chr.” 202 (2nd c.AD). ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>instruction, precept</b>, [<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus 208, 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 13.9, 4th c.BC: Aristoteles Philosophus “de Insomniis” 458b21; τὰ δικανικὰ π. [prev. author] “Rh.Al.” 1421b4; τὰ π. ὡς δεῖ ζῆν 4th-3rd c.BC: Zeno Citieus Stoicus 1.57; π. σοφιστικά 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.89 5th c.BC: Sophocles Tragicus; τὸ π. τῶν τεχνῶν 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 25; τεχνικὰ π. 3rd c.AD: Longinus Rhetor 2.1; τούτῳ δέδωκεν ὁ Ζεὺς π. “SIG” 985.12 (Philadelphia, 1st c.AD)">Refs 5th c.BC+</a>]; distinguished from <span class='asgreek'>τόπος</span>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Fragmenta” 70. ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[1Kgs.22.14]]
+</sub></small>

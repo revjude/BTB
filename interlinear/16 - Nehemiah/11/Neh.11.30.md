@@ -1,0 +1,26 @@
+**Nehemiah 11:30** 
+<small><sub>**KJV:**</sub></small>
+Zanoah, Adullam, and [in] their villages, at Lachish, and the fields thereof, at Azekah, and [in] the villages thereof. And they dwelt from Beersheba unto the valley of Hinnom.
+<small><sub>**BSB:**</sub></small>
+Zanoah, Adullam, and their villages; in Lachish and its fields; and in Azekah and its villages. So they settled from Beersheba all the way to the Valley of Hinnom.
+<small><sub>**Literal:**</sub></small>
+Zanoah Adullam and  villages  their Lachish and  fields  its Azekah and  daughters  its and  they encamped from  Beer Sheba to [the] valley of [Ben] Hinnom<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.29|<< Nehemiah 11:29]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.31|Nehemiah 11:31 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| Zanoah  | <span class="ashebrew"><big>זָנֹ֤חַ</big></span><small><sup>[[H2182G]]</sup></small> &#8207;| za.No.ach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Adullam  | <span class="ashebrew"><big>עֲדֻלָּם֙</big></span><small><sup>[[H5725]]</sup></small> &#8207;| 'a.du.Lam<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and villages their  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>חַצְרֵי</big></span><small><sup>[[H2691B]]</sup></small> <span class="ashebrew"><big>הֶ֔ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> chatz.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lachish  | <span class="ashebrew"><big>לָכִישׁ֙</big></span><small><sup>[[H3923]]</sup></small> &#8207;| la.Khish<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and fields its  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׂדֹתֶ֔י</big></span><small><sup>[[H7704G]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> se.do.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Azekah  | <span class="ashebrew"><big>עֲזֵקָ֖ה</big></span><small><sup>[[H5825]]</sup></small> &#8207;| 'a.ze.Kah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and daughters its  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>בְנֹתֶ֑י</big></span><small><sup>[[H1323H]]</sup></small> <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9024]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ve.no.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they encamped  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּחֲנ֥וּ</big></span><small><sup>[[H2583]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Beer  | <span class="ashebrew"><big>מִ</big></span><small><sup>[[H9006]]</sup></small> <span class="ashebrew"><big>בְּאֵֽר</big></span><small><sup>[[H0884]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| mi.<small><sup>[[HR]]</sup></small> be.'er-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sheba  | <span class="ashebrew"><big>שֶׁ֖בַע</big></span><small><sup>[[H0884]]</sup></small> &#8207;| She.va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  | <span class="ashebrew"><big>עַד</big></span><small><sup>[[H5704]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] valley of [Ben]  | <span class="ashebrew"><big>גֵּֽיא</big></span><small><sup>[[H1516G]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| gei'-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hinnom  | <span class="ashebrew"><big>הִנֹּֽם</big></span><small><sup>[[H2011G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| hi.Nom<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.29|<< Nehemiah 11:29]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.31|Nehemiah 11:31 >>]]</td></tr></table>
+
+

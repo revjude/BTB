@@ -1,0 +1,23 @@
+**Daniel 4:11** (4:8)
+<small><sub>**KJV:**</sub></small>
+The tree grew, and was strong, and the height thereof reached unto heaven, and the sight thereof to the end of all the earth:
+<small><sub>**BSB:**</sub></small>
+The tree grew large and strong; its top reached the sky, and it was visible to the ends of the earth.
+<small><sub>**Literal:**</sub></small>
+it grew great tree  the and  it grew strong and  height  its it reached to  heavens  the and  [the] sight of  it [was] to  [the] end of all land  the<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.10|<< Daniel 4:10]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.12|Daniel 4:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| it grew great  | <span class="asaramaic"><big>רְבָ֥ה</big></span><small><sup>[[H7236]]</sup></small> &#8207;| re.Vah<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tree the  | <span class="asaramaic"><big>אִֽילָנָ֖</big></span><small><sup>[[H0363]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| 'i.la.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it grew strong  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>תְקִ֑ף</big></span><small><sup>[[H8631]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> te.Kif<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and height its  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>רוּמֵ</big></span><small><sup>[[H7314]]</sup></small> <span class="asaramaic"><big>הּ֙</big></span><small><sup>[[H9023]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> ru.Me<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it reached  | <span class="asaramaic"><big>יִמְטֵ֣א</big></span><small><sup>[[H4291]]</sup></small> &#8207;| yim.Te'<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to heavens the  | <span class="asaramaic"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>שְׁמַיָּ֔</big></span><small><sup>[[H8065]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| li<small><sup>[[AR]]</sup></small> sh.mai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sight of it  | <span class="asaramaic"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>חֲזוֹתֵ֖</big></span><small><sup>[[H2379]]</sup></small> <span class="asaramaic"><big>הּ</big></span><small><sup>[[H9023]]</sup></small> &#8207;| va.<small><sup>[[AC]]</sup></small> cha.zo.Te<small><sup>[[ANcfsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] to [the] end of  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>ס֥וֹף</big></span><small><sup>[[H5491]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> Sof<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="asaramaic"><big>כָּל</big></span><small><sup>[[H3606]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| kol-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| land the  | <span class="asaramaic"><big>אַרְעָֽ</big></span><small><sup>[[H0772I]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'ar.'A<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.10|<< Daniel 4:10]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.12|Daniel 4:12 >>]]</td></tr></table>
+
+

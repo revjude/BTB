@@ -1,0 +1,8 @@
+<span class="asgreek">ὀδυνηρός</span> <small>***(odunēros)***</small> ==**grievous**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==ὀδυνηρός==</span>-<span class='asgreek'>ηρός</span></b>, 
+
+
+ <i>Doric dialect</i> <b><span class='asgreek'>==ὀδυνηρός==</span>-<span class='asgreek'>ᾱρός</span></b>, <span class='asgreek'>ά</span>, <span class='asgreek'>όν</span>, <b>painful,</b> <span class='asgreek'>ἕλκος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 2.91, compare 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 231; -ότατα πάθη 5th-6th c.BC: Plato Philosophus “Gorgias” 525c; -ότατον τραῦμα 4th c.AD: Julianus Imperator “contra Galilaeos” 160d ">Refs 5th c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>ρῶς</span></b>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 609b25 ">Refs 4th c.BC+</a>]: <i>comparative</i> <b>-<span class='asgreek'>ότερον</span></b>[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.837a. ">Refs 1st c.AD+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>distressing,</b> <span class='asgreek'>γῆρας</span> [<a href="javascript:void(0)" title=" 6th c.BC: Mimnermus Lyricus 1.5; πᾶς.. ὀ. βίος ἀνθρώπων 5th c.BC: Euripides Tragicus “Hippolytus” 189 (\_anapaest meter\_); -ότερος βίοτος 5th-6th c.BC: Aristophanes Comicus “Plutus” 526; ὀ. πλοῦτος 5th c.BC: Euripides Tragicus “Phoenissae” 566, compare 1st c.BC: Philodemus Gadarensis Epigrammaticus “Lib” p.15">Refs 6th c.BC+</a>] O.; <span class='asgreek'>ὀδυνηρόν</span> <span class='asgreek'>ἐστιν</span> with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 655. ">Refs 4th c.BC+</a>]

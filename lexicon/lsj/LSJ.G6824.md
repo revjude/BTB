@@ -1,0 +1,7 @@
+<span class="asgreek">διάδηλος</span> <small>***(diadēlos)***</small> ==**apparent**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==διάδηλος==</span>-<span class='asgreek'>ος</span></b>, <span class='asgreek'>ον</span>, 
+
+
+ also <span class='asgreek'>η</span>, <span class='asgreek'>ον</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 613b1 ">Refs 4th c.BC+</a>]:— <b>distinguishable among others,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 4.68, 5th-6th c.BC: Plato Philosophus “Respublica” 474b, 2nd c.BC: Polybius Historicus 6.22.3; δ. παρὰ τοὺς ἄλλους 1st c.BC: Dionysius Halicarnassensis 1.72 ">Refs 5th c.BC+</a>]; of a person, <b>distinguished</b>, [<a href="javascript:void(0)" title=" “OGI” 504.9 (from Aezani)">Refs</a>]: with <i>participle</i>, <span class='asgreek'>δ</span>. <span class='asgreek'>εἶναι</span> <span class='asgreek'>εὐτακτῶν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 4.4.1: with \_dative\_, δ. τῇσι μελεδώνῃσι 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 2.4. ">Refs 5th c.BC+</a>]
+

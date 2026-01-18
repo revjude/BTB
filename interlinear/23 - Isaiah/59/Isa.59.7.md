@@ -1,0 +1,26 @@
+**Isaiah 59:7** 
+<small><sub>**KJV:**</sub></small>
+Their feet run to evil, and they make haste to shed innocent blood: their thoughts [are] thoughts of iniquity; wasting and destruction [are] in their paths.
+<small><sub>**BSB:**</sub></small>
+Their feet run to evil; they are swift to shed innocent blood. Their thoughts are sinful thoughts; ruin and destruction lie in their wake.
+<small><sub>**Literal:**</sub></small>
+feet  their to \<the>  evil they run and  they may hasten to  shed blood innocent thoughts  their [are] thoughts of wickedness devastation and  destruction [are] on  highways  their<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.6|<< Isaiah 59:6]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.8|Isaiah 59:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| feet their  | <span class="ashebrew"><big>רַגְלֵי</big></span><small><sup>[[H7272]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| rag.lei.<small><sup>[[HNcfdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> evil  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>רַ֣ע</big></span><small><sup>[[H7451B]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they run  | <span class="ashebrew"><big>יָרֻ֔צוּ</big></span><small><sup>[[H7323G]]</sup></small> &#8207;| ya.Ru.tzu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they may hasten  | <span class="ashebrew"><big>וִֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>ימַהֲר֔וּ</big></span><small><sup>[[H4116A]]</sup></small> &#8207;| vi.<small><sup>[[HC]]</sup></small> ma.ha.Ru<small><sup>[[HVpu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to shed  | <span class="ashebrew"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שְׁפֹּ֖ךְ</big></span><small><sup>[[H8210H]]</sup></small> &#8207;| li<small><sup>[[HR]]</sup></small> sh.Pokh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood  | <span class="ashebrew"><big>דָּ֣ם</big></span><small><sup>[[H1818]]</sup></small> &#8207;| dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| innocent  | <span class="ashebrew"><big>נָקִ֑י</big></span><small><sup>[[H5355A]]</sup></small> &#8207;| na.Ki<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thoughts their  | <span class="ashebrew"><big>מַחְשְׁבֽוֹתֵי</big></span><small><sup>[[H4284]]</sup></small> <span class="ashebrew"><big>הֶם֙</big></span><small><sup>[[H9028]]</sup></small> &#8207;| mach.she.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] thoughts of  | <span class="ashebrew"><big>מַחְשְׁב֣וֹת</big></span><small><sup>[[H4284]]</sup></small> &#8207;| mach.she.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wickedness  | <span class="ashebrew"><big>אָ֔וֶן</big></span><small><sup>[[H0205G]]</sup></small> &#8207;| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| devastation  | <span class="ashebrew"><big>שֹׁ֥ד</big></span><small><sup>[[H7701]]</sup></small> &#8207;| shod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and destruction  | <span class="ashebrew"><big>וָ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שֶׁ֖בֶר</big></span><small><sup>[[H7667]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> She.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] on highways their  | <span class="ashebrew"><big>בִּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְסִלּוֹתָֽ</big></span><small><sup>[[H4546]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| bi<small><sup>[[HR]]</sup></small> m.si.lo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.6|<< Isaiah 59:6]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.8|Isaiah 59:8 >>]]</td></tr></table>
+
+

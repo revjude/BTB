@@ -1,0 +1,9 @@
+
+<b> <span class='asgreek'>==διακούω==</span></b>, 
+
+
+ <i>future</i> <b>-<span class='asgreek'>ακούσομαι</span></b>[<a href="javascript:void(0)" title=" NT.Acts.23.35 ">NT</a>]:—<b>hear out</b> or <b>to the end,</b> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 11.1; πάντα 4th-3rd c.BC: Menander Comicus “Ἐπιτρέποντες” 471 ">Refs 5th c.BC+</a>]: <i>absolutely</i>, of a court, <b>try out</b> a case, [<a href="javascript:void(0)" title=" “OGI” 335.71 (Pergam.)">Refs</a>]; <b>hear</b> or <b>learn</b> from another, <span class='asgreek'>τινὸς</span> <span class='asgreek'>ἄττα</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Epistulae” 338d; παρά τινος 4th c.BC: Theopompus Historicus 244; δ. τά δόξαντα τοῖς ἄρχουσιν 4th c.BC: Aristoteles Philosophus “Politica” 1273a10: with \_genitive\_ \_of things\_, [λόγων] 5th-6th c.BC: Plato Philosophus “Parmenides” 126c; τῶν λεγομένων 2nd c.BC: Polybius Historicus 6.58.8; περί τινος [prev. author] 3.15.4 ">Refs 5th c.BC+</a>]: with <i>genitive</i> <i>person</i>, of parties to a dispute, [<a href="javascript:void(0)" title=" “SIG” 599.20 (from Priene), 685.29 (from Crete), “PGrenf.” 1.11i8 (2nd c.BC), etc.; δ. μου πρὸς αὐτούς “BGU” 168.28 (2nd c.AD),compare “PLond.” 3.924.16 (2nd c.AD)">NT+2nd c.BC+</a>]; also, <b>to be a hearer</b> or <b>disciple of,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.96S., 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cicero” 4; τὰ γεωμετρικά τινος 3rd c.AD(?): Diogenes Laertius 8.86: \_absolutely\_, 1st c.BC: Philodemus Gadarensis Epigrammaticus “Herc.” 862.3. ">Refs 1st c.BC+</a>]
+
+
+<small><sub>LSJ Scripture Refs: [[Acts.23.35]]
+</sub></small>

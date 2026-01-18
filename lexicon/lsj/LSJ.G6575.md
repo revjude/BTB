@@ -1,0 +1,19 @@
+<span class="asgreek">ἀστράγαλος</span> <small>***(astragalos)***</small> ==**a vertebrae**==  <sup><small>[[TEGMC#G:N-M|G:N-M]]</small></sup> 
+
+<b> <span class='asgreek'>==ἀστράγαλος==</span></b> [<span class='asgreek'>ρᾰ</span>], <span class='asgreek'>ὁ</span>, 
+
+
+ (see. <span class='asgreek'>ὀστέον</span>) <b>one of the vertebrae,</b> especially of the neck, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 14.466, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 11.65, “Anthologia Graeca” 7.632 (1st c.BC-1st c.AD: Diodorus Epigrammaticus); votive object, “IG” 5 (2).125 (Tegea, 2nd c.AD). ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>ball of the ankle joint</b> (not to be confused with <span class='asgreek'>σφυρόν</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Rufus Medicus “περὶ ὀνομασίας” 124), 5th c.BC: Herodotus Historicus 3.129; in horses, 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 1.15 ">Refs 5th c.BC+</a>]; of various animals, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ τῶν ἐντὸς παθῶν” 20, 30. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>οἱ</span> <span class='asgreek'>μὲν</span> <span class='asgreek'>πόδες</span> <span class='asgreek'>ἀστράγαλοί</span> <span class='asgreek'>τευ</span>, as a compliment, i.e. <b>well-turned,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 10.36. ">Refs 3rd c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <b>wrist,</b> [<a href="javascript:void(0)" title=" LXX.Dan.5.5, 24. ">LXX</a>]
+$\quad$ $\quad$<b>\_\_IV</b> <i>plural</i>, <span class='asgreek'>ἀστράγαλοι</span> <b>knucklebones</b> used as <b>dice</b> or <b>a game played with dice,</b> <span class='asgreek'>ἀμφ᾽</span> <span class='asgreek'>ἀστραγάλοισι</span> <span class='asgreek'>χολωθείς</span>[<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 23.88, compare 5th c.BC: Herodotus Historicus 1.94, Menecr.Comedy texts 1D.; ἀ. διάσειστοι 4th c.BC: Aeschines Orator 1.59, compare 4th-3rd c.BC: Menander Comicus 423">Refs 8th c.BC+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>μεμολιβδωμένοι</span> loaded <b>dice,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 913a36, compare 12th c.AD: Eustathius Episcopus Thessalonicensis 1397.34">Refs 4th c.BC+</a>]; later, <b>dice proper,</b> <span class='asgreek'>ἀντ᾽</span> <span class='asgreek'>ἀστραγάλων</span> <span class='asgreek'>κονδύλοισι</span> <span class='asgreek'>παίζετε</span>[<a href="javascript:void(0)" title=" 5th c.BC: Pherecrates Comicus 43. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀστραγάλων</span> <span class='asgreek'>μάστιξ</span> scourge of <b>strung bones,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Asin.” 38">Refs 2nd c.AD+</a>]; compare <span class='asgreek'>ἀστραγαλωτός</span>. 
+$\quad$ $\quad$<b>\_\_VI</b> <b>moulding</b> in the capital of the Ionic column, [<a href="javascript:void(0)" title=" “IG” 1.322, 1st c.BC: Vitruvius Scriptor de Architectura Latinus 3.5.7. ">Refs 1st c.BC+</a>]
+$\quad$ $\quad$<b>\_\_VII</b> <b>milk vetch, Orobus niger,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.61, 2nd c.AD: Galenus Medicus 11.841. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$<b>\_\_VIII</b> <b>prism of wood,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aeneas Tacticus 31.17, +others ">Refs 4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_IX</b> <b>ear-ring,</b> <span class='asgreek'>ξύλινοι</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" 6th c.BC: Anacreon Lyricus 21.4.">Refs 6th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Dan.5.5]]
+</sub></small>

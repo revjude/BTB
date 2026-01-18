@@ -1,0 +1,22 @@
+**Isaiah 29:21** 
+<small><sub>**KJV:**</sub></small>
+That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.
+<small><sub>**BSB:**</sub></small>
+those who indict a man with a word, who ensnare the mediator at the gate, and who with false charges deprive the innocent of justice.
+<small><sub>**Literal:**</sub></small>
+[those who] cause to sin \<of> a person with  a word and  for the  [one who] adjudicates in the  gate they lay a trap  ! and  they have turned aside with \<the>  emptiness [the] righteous [person]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.20|<< Isaiah 29:20]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.22|Isaiah 29:22 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [those who] cause to sin  | <span class="ashebrew"><big>מַחֲטִיאֵ֤י</big></span><small><sup>[[H2398]]</sup></small> &#8207;| ma.cha.ti.'Ei<small><sup>[[HVhrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> a person  | <span class="ashebrew"><big>אָדָם֙</big></span><small><sup>[[H0120G]]</sup></small> &#8207;| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with a word  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>דָבָ֔ר</big></span><small><sup>[[H1697G]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for the [one who] adjudicates  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מּוֹכִ֥יחַ</big></span><small><sup>[[H3198]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> mo.Khi.ach<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the gate  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שַּׁ֖עַר</big></span><small><sup>[[H8179G]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they lay a trap !  | <span class="ashebrew"><big>יְקֹשׁ֑וּ</big></span><small><sup>[[H6983]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;| ye.ko.Shu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they have turned aside  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>יַּטּ֥וּ</big></span><small><sup>[[H5186]]</sup></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.ya.Tu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> emptiness  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>תֹּ֖הוּ</big></span><small><sup>[[H8414]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> To.hu<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] righteous [person]  | <span class="ashebrew"><big>צַדִּֽיק</big></span><small><sup>[[H6662]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> <span class="ashebrew"><big> </big></span><small><sup>[[ ]]</sup></small> <span class="ashebrew"><big>ס</big></span><small><sup>[[H9018]]</sup></small> &#8207;| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.20|<< Isaiah 29:20]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.22|Isaiah 29:22 >>]]</td></tr></table>
+
+

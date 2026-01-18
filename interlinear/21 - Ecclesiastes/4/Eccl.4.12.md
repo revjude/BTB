@@ -1,0 +1,24 @@
+**Ecclesiastes 4:12** 
+<small><sub>**KJV:**</sub></small>
+And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.
+<small><sub>**BSB:**</sub></small>
+And though one may be overpowered, two can resist. Moreover, a cord of three strands is not quickly broken.
+<small><sub>**Literal:**</sub></small>
+and  though someone will overpower  him the  one [person] the  two [people] they will stand before  him and  the  thread \<the>  threefold not \<in>  quickly it will be torn apart<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.11|<< Ecclesiastes 4:11]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.13|Ecclesiastes 4:13 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and though  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אִֽם</big></span><small><sup>[[H0518A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| someone will overpower him  | <span class="ashebrew"><big>יִתְקְפ</big></span><small><sup>[[H8630]]</sup></small> <span class="ashebrew"><big>וֹ֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| yit.ke.F<small><sup>[[HVqi3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the one [person]  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֶחָ֔ד</big></span><small><sup>[[H0259]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the two [people]  | <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>שְּׁנַ֖יִם</big></span><small><sup>[[H8147]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will stand  | <span class="ashebrew"><big>יַעַמְד֣וּ</big></span><small><sup>[[H5975G]]</sup></small> &#8207;| ya.'am.Du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| before him  | <span class="ashebrew"><big>נֶגְדּ֑</big></span><small><sup>[[H5048]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| neg.D<small><sup>[[HAcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the thread  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>הַ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>חוּט֙</big></span><small><sup>[[H2339]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Chut<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> threefold  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מְשֻׁלָּ֔שׁ</big></span><small><sup>[[H8027]]</sup></small> &#8207;| ha<small><sup>[[HTd]]</sup></small> m.shu.Lash<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>לֹ֥א</big></span><small><sup>[[H3808]]</sup></small> &#8207;| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> quickly  | <span class="ashebrew"><big>בִ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>מְהֵרָ֖ה</big></span><small><sup>[[H4120]]</sup></small> &#8207;| vi<small><sup>[[HR]]</sup></small> m.he.Rah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be torn apart  | <span class="ashebrew"><big>יִנָּתֵֽק</big></span><small><sup>[[H5423]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yi.na.Tek<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.11|<< Ecclesiastes 4:11]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.13|Ecclesiastes 4:13 >>]]</td></tr></table>
+
+

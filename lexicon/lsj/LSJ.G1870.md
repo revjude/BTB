@@ -1,0 +1,7 @@
+
+<b> <span class='asgreek'>==ἐπαισχύνομαι==</span>-<span class='asgreek'>ύνομαι</span></b>, 
+
+
+ <i>future</i> -<span class='asgreek'>αισχυνθήσομαι</span>, <b>to be ashamed at</b> or <b>of,</b> <span class='asgreek'>τῷ</span> <span class='asgreek'>οὐνόματι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.143 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τινά</span> or <span class='asgreek'>τι</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 4.1.34, 5th-6th c.BC: Plato Philosophus “Sophista” 247c ">Refs 5th c.BC+</a>]: with <i>infinitive</i>, <b>to be ashamed</b> to do, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1373 ">Refs 4th c.BC+</a>]: with <i>participle</i>, <b>to be ashamed of</b> doing or having done a thing, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.90, 5th c.BC: Sophocles Tragicus “Ajax” 1307, “Ph.” 929, etc.">Refs 5th c.BC+</a>]: <i>absolutely</i>, <b>feel shame, show a sense of shame,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 573b, 4th-3rd c.BC: Menander Comicus 625. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> late in <i>active</i>, <b>make ugly, mar,</b> [<a href="javascript:void(0)" title=" 4th-5th c.AD(?): Nonnus Epicus “Dionysiaca” 20.61, 42.421. ">Refs 4th c.AD+</a>]

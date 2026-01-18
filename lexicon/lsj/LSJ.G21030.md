@@ -1,0 +1,8 @@
+
+<b> <span class='asgreek'>==προσγελάω==</span></b>, 
+
+
+ <i>future</i> -<span class='asgreek'>άσομαι</span> [<span class='asgreek'>ᾰ</span>] [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Pax” 600 ">Refs 5th c.BC+</a>]:— <b>smile at</b> one, <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.92.γ, 5th c.BC: Euripides Tragicus “Medea” 1162, 5th-6th c.BC: Plato Philosophus “Respublica” 566d, etc.; σὲ.. τὰ.. φυτὰ προσγελάσεται 5th-6th c.BC: Aristophanes Comicus [same place]: with \_accusative\_ \_cognate\_, προσγελᾶτε τὸν πανύστατον γέλων">Refs 5th c.BC+</a>] <b>smile</b> your last smile <b>upon</b> me, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Medea” 1041. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>greet.</b> the senses, <span class='asgreek'>ὀσμὴ</span> <span class='asgreek'>βροτείων</span> <span class='asgreek'>αἱμάτων</span> <span class='asgreek'>με</span> <span class='asgreek'>προσγελᾷ</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 253; πιστὰ γάρ σε προσγελᾷ θεᾶς ἔπη 5th c.BC: Sophocles Tragicus “Ichn.” 291; προσγελῶσά τε λοπὰς παφλάζει 4th c.BC: Eubulus Comicus 109, compare 4th-3rd c.BC: Diphilus Comicus 33.5. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> later with <i>dative</i>, <b>smile upon</b>, <span class='asgreek'>δούλοις</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 183, cf. LXX.Sir.13.6, 4th c.AD: Libanius Sophista “Orationes” 48.10. ">LXX+4th c.BC+</a>]

@@ -1,0 +1,1 @@
+<span class="ashebrew">‎אֹ֫רֶב‎</span> <small>***(o.rev)***</small> ==**ambush**==  <sup><small>[[TEHMC#H:N-M|H:N-M]]</small></sup> 

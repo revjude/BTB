@@ -1,0 +1,30 @@
+**Micah 5:5** (5:4)
+<small><sub>**KJV:**</sub></small>
+And this [man] shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men.
+<small><sub>**BSB:**</sub></small>
+And He will be our peace when Assyria invades our land and tramples our citadels. We will raise against it seven shepherds, even eight leaders of men.
+<small><sub>**Literal:**</sub></small>
+and  he will be this [one] peace Assyria for it will come in  land  our and  for it will tread on  fortresses  our and  we will raise up on  him seven shepherds and  eight princes of man<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.4|<< Micah 5:4]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.6|Micah 5:6 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will be  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הָיָ֥ה</big></span><small><sup>[[H1961]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this [one]  | <span class="ashebrew"><big>זֶ֖ה</big></span><small><sup>[[H2088]]</sup></small> &#8207;| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace  | <span class="ashebrew"><big>שָׁל֑וֹם</big></span><small><sup>[[H7965G]]</sup></small> &#8207;| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Assyria  | <span class="ashebrew"><big>אַשּׁ֣וּר</big></span><small><sup>[[H0804G]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּֽי</big></span><small><sup>[[H3588A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will come  | <span class="ashebrew"><big>יָב֣וֹא</big></span><small><sup>[[H0935G]]</sup></small> &#8207;| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in land our  | <span class="ashebrew"><big>בְ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַרְצֵ֗</big></span><small><sup>[[H0776G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| ve.<small><sup>[[HR]]</sup></small> 'ar.Tze.<small><sup>[[HNcbsc]]</sup></small> nu<small><sup>[[HSp1fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כִ֤י</big></span><small><sup>[[H3588A]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> Khi<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will tread  | <span class="ashebrew"><big>יִדְרֹךְ֙</big></span><small><sup>[[H1869]]</sup></small> &#8207;| yid.roKh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on fortresses our  | <span class="ashebrew"><big>בְּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>אַרְמְנֹתֵ֔י</big></span><small><sup>[[H0759G]]</sup></small> <span class="ashebrew"><big>נוּ</big></span><small><sup>[[H9025]]</sup></small> &#8207;| be.<small><sup>[[HR]]</sup></small> 'ar.me.no.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and we will raise up  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֲקֵמֹ֤נוּ</big></span><small><sup>[[H6965H]]</sup></small> &#8207;| va.<small><sup>[[Hc]]</sup></small> ha.ke.Mo.nu<small><sup>[[HVhq1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on him  | <span class="ashebrew"><big>עָלָי</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>ו֙</big></span><small><sup>[[H9033]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seven  | <span class="ashebrew"><big>שִׁבְעָ֣ה</big></span><small><sup>[[H7651]]</sup></small> &#8207;| shiv.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| shepherds  | <span class="ashebrew"><big>רֹעִ֔ים</big></span><small><sup>[[H7462B]]</sup></small> &#8207;| ro.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and eight  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>שְׁמֹנָ֖ה</big></span><small><sup>[[H8083]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> she.mo.Nah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| princes of  | <span class="ashebrew"><big>נְסִיכֵ֥י</big></span><small><sup>[[H5257B]]</sup></small> &#8207;| ne.si.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| man  | <span class="ashebrew"><big>אָדָֽם</big></span><small><sup>[[H0120G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.4|<< Micah 5:4]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.6|Micah 5:6 >>]]</td></tr></table>
+
+

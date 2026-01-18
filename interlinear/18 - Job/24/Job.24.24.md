@@ -1,0 +1,22 @@
+**Job 24:24** 
+<small><sub>**KJV:**</sub></small>
+They are exalted for a little while, but are gone and brought low; they are taken out of the way as all [other], and cut off as the tops of the ears of corn.
+<small><sub>**BSB:**</sub></small>
+They are exalted for a moment, then they are gone; they are brought low and gathered up like all others; they are cut off like heads of grain.
+<small><sub>**Literal:**</sub></small>
+they are exalted a little and  there not [is]  he and  they are brought low like \<the>  everyone they are contracted  ! and  like  a head of grain they wither<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.23|<< Job 24:23]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.25|Job 24:25 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| they are exalted  | <span class="ashebrew"><big>ר֤וֹמּוּ</big></span><small><sup>[[H7426]]</sup></small> &#8207;| Ro.mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a little  | <span class="ashebrew"><big>מְּעַ֨ט</big></span><small><sup>[[H4592]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| me.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not [is] he  | <span class="ashebrew"><big>וְֽ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֵינֶ֗</big></span><small><sup>[[H0369]]</sup></small> <span class="ashebrew"><big>נּוּ</big></span><small><sup>[[H9043]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they are brought low  | <span class="ashebrew"><big>וְֽ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֻמְּכ֗וּ</big></span><small><sup>[[H4355]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> hu.me.Khu<small><sup>[[HVHq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> everyone  | <span class="ashebrew"><big>כַּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>כֹּ֥ל</big></span><small><sup>[[H3605]]</sup></small> &#8207;| ka.<small><sup>[[HRd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are contracted !  | <span class="ashebrew"><big>יִקָּפְצ֑וּ</big></span><small><sup>[[H7092]]</sup></small> <span class="ashebrew"><big>ן</big></span><small><sup>[[H9013]]</sup></small> &#8207;| yi.ka.fe.Tzu<small><sup>[[HVNi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like a head of  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>כְ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>רֹ֖אשׁ</big></span><small><sup>[[H7218A]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> Rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| grain  | <span class="ashebrew"><big>שִׁבֹּ֣לֶת</big></span><small><sup>[[H7641B]]</sup></small> &#8207;| shi.Bo.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they wither  | <span class="ashebrew"><big>יִמָּֽלוּ</big></span><small><sup>[[H5243A]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| yi.Ma.lu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.23|<< Job 24:23]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.25|Job 24:25 >>]]</td></tr></table>
+
+

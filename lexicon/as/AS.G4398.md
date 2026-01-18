@@ -1,0 +1,15 @@
+<span class="asform"><span class="asgreek"><span class="asbold">προφῆτις</span></span>, <span class="asgreek">-ιδος, ἡ</span> fem, of <span class="asgreek">προφήτης</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Exod.15.20|Ex 15:20]], [[Judg.4.4|Jg 4:4]], [[2Kgs.22.14|IV Ki 22:14]], [[2Chr.34.22|II Ch 34:22]], [[Isa.8.3|Is 8:3]] (<span class="ashebrew">נְבִיאָה</span> <small><sup>[[H5031]]</sup></small>)\*;\]</span> </span>
+<span class="asitalic">a prophetess</span>: [[Luke.2.36|Lk 2:36]], [[Rev.2.20|Re 2:20]].†
+
+**Abbott-Smith References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.15.20\|15:20]] |
+| Judges | [[Judg.4.4\|4:4]] |
+| 2 Kings | [[2Kgs.22.14\|22:14]] |
+| 2 Chronicles | [[2Chr.34.22\|34:22]] |
+| Isaiah | [[Isa.8.3\|8:3]] |
+| Luke | [[Luke.2.36\|2:36]] |
+| Revelation | [[Rev.2.20\|2:20]] |
+

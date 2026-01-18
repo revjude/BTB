@@ -1,0 +1,6 @@
+
+<b> <span class='asgreek'>==εἴδησις==</span>-<span class='asgreek'>ησις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, 
+
+
+ <b>knowledge</b>, <span class='asgreek'>τῶν</span> <span class='asgreek'>πραγμάτων</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Nausiphanes Philosophus 2 ">Refs 4th c.BC+</a>]; ={<span class='asgreek'>γνῶσις</span>}, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Anima” 402a1; γραμμάτων 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 1.44, compare “SIG” 685.24 (5th c.BC: Magnes Comicus Mae., 2nd c.BC), LXX.Sir.42.18, 1st c.AD: Philo Judaeus 1.335, 3rd c.AD: Porphyrius Tyrius Philosophus “Sententiae ad intelligibilia ducentes” 32, 3rd c.AD: Plotinus Philosophus 4.4.12, +others, 4th c.AD: Iamblichus Philosophus “Protrepticus” 3, etc.">LXX+5th c.BC+</a>]: in <i>plural</i>, <b>forms of knowledge</b>, <span class='asgreek'>μαρτυροῦσι</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>αἱ</span> <span class='asgreek'>αἰσθήσεις</span>, <span class='asgreek'>εἰδήσεις</span> <span class='asgreek'>εἶναι</span> <span class='asgreek'>θέλουσαι</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 6.7.29. ">Refs 3rd c.AD+</a>]
+

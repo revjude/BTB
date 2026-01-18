@@ -1,0 +1,28 @@
+**Daniel 4:22** (4:19)
+<small><sub>**KJV:**</sub></small>
+It [is] thou, O king, that art grown and become strong: for thy greatness is grown, and reacheth unto heaven, and thy dominion to the end of the earth.
+<small><sub>**BSB:**</sub></small>
+you, O king, are that tree! For you have become great and strong; your greatness has grown to reach the sky, and your dominion extends to the ends of the earth.
+<small><sub>**Literal:**</sub></small>
+[is] you it king  O who you have grown great and  you have grown strong and  greatness  your it has grown great and  it has reached to  heavens  the and  dominion  your [is] to  [the] end earth  the<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.21|<< Daniel 4:21]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.23|Daniel 4:23 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| [is] you  | <span class="asaramaic"><big>אַנְתְּ</big></span><small><sup>[[H0607]]</sup></small> &#8207;[^1] [^2] | 'an.tah<small><sup>[[APp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
+| it  | <span class="asaramaic"><big>ה֣וּא</big></span><small><sup>[[H1932]]</sup></small> &#8207;| hu'<small><sup>[[APp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king O  | <span class="asaramaic"><big>מַלְכָּ֔</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  | <span class="asaramaic"><big>דִּ֥י</big></span><small><sup>[[H1768]]</sup></small> &#8207;| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have grown great  | <span class="asaramaic"><big>רְבַ֖ית</big></span><small><sup>[[H7236]]</sup></small> &#8207;| re.Vait<small><sup>[[AVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you have grown strong  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>תְקֵ֑פְתְּ</big></span><small><sup>[[H8631]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> te.Ke.fet<small><sup>[[AVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and greatness your  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>רְבוּתָ֤</big></span><small><sup>[[H7238]]</sup></small> <span class="asaramaic"><big>ךְ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> re.vu.Ta<small><sup>[[ANcfsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has grown great  | <span class="asaramaic"><big>רְבָת֙</big></span><small><sup>[[H7236]]</sup></small> &#8207;| re.Vat<small><sup>[[AVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it has reached  | <span class="asaramaic"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>מְטָ֣ת</big></span><small><sup>[[H4291]]</sup></small> &#8207;| u.<small><sup>[[AC]]</sup></small> me.Tat<small><sup>[[AVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to heavens the  | <span class="asaramaic"><big>לִ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>שְׁמַיָּ֔</big></span><small><sup>[[H8065]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| li<small><sup>[[AR]]</sup></small> sh.mai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and dominion your  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>שָׁלְטָנָ֖</big></span><small><sup>[[H7985]]</sup></small> <span class="asaramaic"><big>ךְ</big></span><small><sup>[[H9021]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> shal.ta.Na<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] to [the] end  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>ס֥וֹף</big></span><small><sup>[[H5491]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> Sof<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| earth the  | <span class="asaramaic"><big>אַרְעָֽ</big></span><small><sup>[[H0772I]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'ar.'A<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.21|<< Daniel 4:21]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.23|Daniel 4:23 >>]]</td></tr></table>
+
+[^1]: ==L== spelled: **<span class="asaramaic"><big>אַנְתְּה\־</big></span>**
+[^2]: ==K== spelled: **<span class="asaramaic"><big>אַנְתָּה</big></span>**
+

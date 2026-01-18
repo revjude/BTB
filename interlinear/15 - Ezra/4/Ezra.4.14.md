@@ -1,0 +1,32 @@
+**Ezra 4:14** 
+<small><sub>**KJV:**</sub></small>
+Now because we have maintenance from [the king’s] palace, and it was not meet for us to see the king’s dishonour, therefore have we sent and certified the king;
+<small><sub>**BSB:**</sub></small>
+Now because we are in the service of the palace and it is not fitting for us to allow the king to be dishonored, we have sent to inform the king
+<small><sub>**Literal:**</sub></small>
+now as  to because that [the] salt of palace  the we eat salt and  [the] dishonor of king  the not [is] proper for  us to  see concerning this we have sent and  we have made known to  king  the<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.13|<< Ezra 4:13]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.15|Ezra 4:15 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| now  | <span class="asaramaic"><big>כְּעַ֗ן</big></span><small><sup>[[H3705]]</sup></small> &#8207;| ke.'An<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| as to  | <span class="ashebrew"><big>כָּ</big></span><small><sup>[[H9004]]</sup></small> <span class="ashebrew"><big>ל</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ko<small><sup>[[AR]]</sup></small> l-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| because  | <span class="asaramaic"><big>קֳבֵל֙</big></span><small><sup>[[H6903H]]</sup></small> &#8207;| ko.Vel<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  | <span class="asaramaic"><big>דִּֽי</big></span><small><sup>[[H1768]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] salt of  | <span class="asaramaic"><big>מְלַ֤ח</big></span><small><sup>[[H4416]]</sup></small> &#8207;| me.Lach<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| palace the  | <span class="asaramaic"><big>הֵֽיכְלָ</big></span><small><sup>[[H1965H]]</sup></small> <span class="asaramaic"><big>א֙</big></span><small><sup>[[H9010]]</sup></small> &#8207;| hei.khe.La<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we eat salt  | <span class="asaramaic"><big>מְלַ֔חְנָא</big></span><small><sup>[[H4415]]</sup></small> &#8207;| me.Lach.na'<small><sup>[[AVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] dishonor of  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>עַרְוַ֣ת</big></span><small><sup>[[H6173]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> 'ar.Vat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  | <span class="asaramaic"><big>מַלְכָּ֔</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> &#8207;| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="asaramaic"><big>לָ֥א</big></span><small><sup>[[H3809]]</sup></small> &#8207;| la'<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] proper  | <span class="asaramaic"><big>אֲֽרִֽיךְ</big></span><small><sup>[[H0749]]</sup></small> &#8207;[^1] | 'arikh<small><sup>[[AAabsa]]</sup></small> | <abbr title="Leningrad Biblia (allepo benchayim)">LB(ah)</abbr> |
+| for us  | <span class="ashebrew"><big>לַ֖</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>נָא</big></span><small><sup>[[H9035]]</sup></small> &#8207;| La.<small><sup>[[AR]]</sup></small> na'<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to see  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>מֶֽחֱזֵ֑א</big></span><small><sup>[[H2370]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> me.che.Ze'<small><sup>[[AVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| concerning  | <span class="asaramaic"><big>עַ֨ל</big></span><small><sup>[[H5922]]</sup></small> <span class="asaramaic"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'Al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  | <span class="asaramaic"><big>דְּנָ֔ה</big></span><small><sup>[[H1836]]</sup></small> &#8207;| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we have sent  | <span class="asaramaic"><big>שְׁלַ֖חְנָא</big></span><small><sup>[[H7972]]</sup></small> &#8207;| she.Lach.na'<small><sup>[[AVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and we have made known  | <span class="asaramaic"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="asaramaic"><big>הוֹדַ֥עְנָא</big></span><small><sup>[[H3046]]</sup></small> &#8207;| ve.<small><sup>[[AC]]</sup></small> ho.Da'.na'<small><sup>[[AVhp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to king the  | <span class="asaramaic"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="asaramaic"><big>מַלְכָּֽ</big></span><small><sup>[[H4430]]</sup></small> <span class="asaramaic"><big>א</big></span><small><sup>[[H9010]]</sup></small> <span class="asaramaic"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[AR]]</sup></small> mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.13|<< Ezra 4:13]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.15|Ezra 4:15 >>]]</td></tr></table>
+
+[^1]: ==AH== spelled: **<span class="asaramaic"><big>אֲֽרִֽיךְ\־</big></span>**
+

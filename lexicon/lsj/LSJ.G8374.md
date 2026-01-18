@@ -1,0 +1,9 @@
+<span class="asgreek">νᾶμα</span> <small>***(nama)***</small> ==**juice**==  <sup><small>[[TEGMC#G:N-N|G:N-N]]</small></sup> 
+
+<b> <span class='asgreek'>==νᾶμα==</span></b>, <span class='asgreek'>ατος</span>, <span class='asgreek'>τό</span>, 
+
+
+ (<span class='asgreek'>νάω</span>) <b>anything flowing, running water, stream, spring</b>, <span class='asgreek'>ν</span>. <span class='asgreek'>Μναμοσύνας</span> conjecture in [<a href="javascript:void(0)" title=" 4th-5th c.BC: Simonides Lyricus 45, compare 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 806, 5th c.BC: Sophocles Tragicus “Antigone” 1130 (Lyric poetry); Κασταλίδος νάματα “Paean Delphicus [2nd c.BC]” 1.6; δακρύων θερμὰ ν. 5th c.BC: Sophocles Tragicus “Trachiniae” 919; νάματ᾽ ὄσσων 5th c.BC: Euripides Tragicus “Hercules Furens” 625; ν. πυρός [prev. author] “Med.” 1187; ν. Βάκχιον 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 14; μὰ νάματα 4th c.BC: Antiphanes Comicus 296 (= 4th c.BC: Timocles Comicus 38)">Refs 5th c.BC+</a>]; <span class='asgreek'>ν</span>. <span class='asgreek'>θυγατέρων</span> <span class='asgreek'>ταύρων</span>, i.e. honey, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus Tars. cited in 2nd c.AD: Galenus Medicus 13.269">Refs 1st c.AD+</a>]; <span class='asgreek'>φλέγματος</span>, <span class='asgreek'>χολῆς</span> <span class='asgreek'>ν</span>., [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “de gymnastica” 42: frequently in 5th-6th c.BC: Plato Philosophus, as κρηνῶν καὶ ποταμῶν νάματα “Criti.” 111d: \_metaphorically\_, λόγων ν. “Ti.” 75e. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>wooden conduit</b>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>νάματα</span>· <span class='asgreek'>προβολαί</span>, [<a href="javascript:void(0)" title="[prev. author] ">Refs</a>]

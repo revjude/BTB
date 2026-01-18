@@ -1,0 +1,23 @@
+**Deuteronomy 21:11** 
+<small><sub>**KJV:**</sub></small>
+And seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife;
+<small><sub>**BSB:**</sub></small>
+if you see a beautiful woman among them, and you desire her and want to take her as your wife,
+<small><sub>**Literal:**</sub></small>
+and  you will see among the  [female] captive[s] a woman beautiful of appearance and  you will love \<in> \<the>  her and  you will take [her] for \<the>  yourself to  a wife<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.10|<< Deuteronomy 21:10]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.12|Deuteronomy 21:12 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will see  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>רָאִיתָ֙</big></span><small><sup>[[H7200G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> ra.'i.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among the [female] captive[s]  | <span class="ashebrew"><big>בַּ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שִּׁבְיָ֔ה</big></span><small><sup>[[H7633]]</sup></small> &#8207;| ba.<small><sup>[[HRd]]</sup></small> shiv.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a woman  | <span class="ashebrew"><big>אֵ֖שֶׁת</big></span><small><sup>[[H0802G]]</sup></small> &#8207;| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beautiful of  | <span class="ashebrew"><big>יְפַת</big></span><small><sup>[[H3303]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ye.fat-<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| appearance  | <span class="ashebrew"><big>תֹּ֑אַר</big></span><small><sup>[[H8389]]</sup></small> &#8207;| To.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will love  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>חָשַׁקְתָּ֣</big></span><small><sup>[[H2836A]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> cha.shak.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> \<the> her  | <span class="ashebrew"><big>בָ֔</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>הּ</big></span><small><sup>[[H9034]]</sup></small> &#8207;| Va<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will take [her]  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>לָקַחְתָּ֥</big></span><small><sup>[[H3947G]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> yourself  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>ךָ֖</big></span><small><sup>[[H9031]]</sup></small> &#8207;| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a wife  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אִשָּֽׁה</big></span><small><sup>[[H0802H]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.10|<< Deuteronomy 21:10]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.12|Deuteronomy 21:12 >>]]</td></tr></table>
+
+

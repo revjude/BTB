@@ -1,0 +1,24 @@
+**Numbers 29:9** 
+<small><sub>**KJV:**</sub></small>
+And their meat offering [shall be of] flour mingled with oil, three tenth deals to a bullock, [and] two tenth deals to one ram,
+<small><sub>**BSB:**</sub></small>
+together with their grain offerings of fine flour mixed with oil—three-tenths of an ephah with the bull, two-tenths of an ephah with the ram,
+<small><sub>**Literal:**</sub></small>
+and  grain offering  their fine flour mixed with \<the>  oil three tenths [of an ephah] for the  young bull two tenths [of an ephah] for the  ram \<the>  one<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.8|<< Numbers 29:8]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.10|Numbers 29:10 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and grain offering their  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מִנְחָתָ֔</big></span><small><sup>[[H4503G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> min.cha.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fine flour  | <span class="ashebrew"><big>סֹ֖לֶת</big></span><small><sup>[[H5560]]</sup></small> &#8207;| So.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mixed  | <span class="ashebrew"><big>בְּלוּלָ֣ה</big></span><small><sup>[[H1101A]]</sup></small> &#8207;| be.lu.Lah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> oil  | <span class="ashebrew"><big>בַ</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>שָּׁ֑מֶן</big></span><small><sup>[[H8081]]</sup></small> &#8207;| va.<small><sup>[[HRd]]</sup></small> Sha.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| three  | <span class="ashebrew"><big>שְׁלֹשָׁ֤ה</big></span><small><sup>[[H7969]]</sup></small> &#8207;| she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tenths [of an ephah]  | <span class="ashebrew"><big>עֶשְׂרֹנִים֙</big></span><small><sup>[[H6241]]</sup></small> &#8207;| 'es.ro.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the young bull  | <span class="ashebrew"><big>לַ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>פָּ֔ר</big></span><small><sup>[[H6499]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  | <span class="ashebrew"><big>שְׁנֵי֙</big></span><small><sup>[[H8147]]</sup></small> &#8207;| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tenths [of an ephah]  | <span class="ashebrew"><big>עֶשְׂרֹנִ֔ים</big></span><small><sup>[[H6241]]</sup></small> &#8207;| 'es.ro.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the ram  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>אַ֖יִל</big></span><small><sup>[[H0352A]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> 'A.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> one  | <span class="ashebrew"><big>הָ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>אֶחָֽד</big></span><small><sup>[[H0259]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.8|<< Numbers 29:8]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.10|Numbers 29:10 >>]]</td></tr></table>
+
+

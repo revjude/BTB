@@ -1,0 +1,26 @@
+**Genesis 31:7** 
+<small><sub>**KJV:**</sub></small>
+And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me.
+<small><sub>**BSB:**</sub></small>
+And although he has cheated me and changed my wages ten times, God has not allowed him to harm me.
+<small><sub>**Literal:**</sub></small>
+and  father  your he has deceived \<in> \<the>  me and  he has changed \<obj.> wage[s]  my ten times and  not he has permitted  him God to  do harm with  me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.6|<< Genesis 31:6]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.8|Genesis 31:8 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and father your  | <span class="ashebrew"><big>וַ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>אֲבִי</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>כֶן֙</big></span><small><sup>[[H9027]]</sup></small> &#8207;| va.<small><sup>[[HC]]</sup></small> 'a.vi.<small><sup>[[HNcmsc]]</sup></small> Khen<small><sup>[[HSp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has deceived  | <span class="ashebrew"><big>הֵ֣תֶל</big></span><small><sup>[[H2048B]]</sup></small> &#8207;| He.tel<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> \<the> me  | <span class="ashebrew"><big>בִּ֔</big></span><small><sup>[[H9003]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> &#8207;| B<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he has changed  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9001]]</sup></small> <span class="ashebrew"><big>הֶחֱלִ֥ף</big></span><small><sup>[[H2498]]</sup></small> &#8207;| ve.<small><sup>[[Hc]]</sup></small> he.che.Lif<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><sup>[[H0853]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wage[s] my  | <span class="ashebrew"><big>מַשְׂכֻּרְתִּ֖</big></span><small><sup>[[H4909]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| mas.kur.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  | <span class="ashebrew"><big>עֲשֶׂ֣רֶת</big></span><small><sup>[[H6235]]</sup></small> &#8207;| 'a.Se.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| times  | <span class="ashebrew"><big>מֹנִ֑ים</big></span><small><sup>[[H4489]]</sup></small> &#8207;| mo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and not  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>לֹֽא</big></span><small><sup>[[H3808]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has permitted him  | <span class="ashebrew"><big>נְתָנ֣</big></span><small><sup>[[H5414K]]</sup></small> <span class="ashebrew"><big>וֹ</big></span><small><sup>[[H9033]]</sup></small> &#8207;| ne.ta.N<small><sup>[[HVqp3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God  | <span class="ashebrew"><big>אֱלֹהִ֔ים</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to do harm  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הָרַ֖ע</big></span><small><sup>[[H7489A]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> ha.Ra'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with me  | <span class="ashebrew"><big>עִמָּדִֽ</big></span><small><sup>[[H5978]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9030]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'i.ma.D<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.6|<< Genesis 31:6]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.8|Genesis 31:8 >>]]</td></tr></table>
+
+

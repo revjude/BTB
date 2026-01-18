@@ -1,0 +1,11 @@
+ <span class="bdbLangHebrew">‎כַּפֹּרֶת‎</span> **noun** ==propitiatory==, late technical word from <span class="bdbLangHebrew">‎כּפר‎</span> ***cover over sin***: the older explanation ***cover, lid*** has no justification in usage; [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">ιλαστήριον</span>; only [[BDB#P|P]]: [[Exod.25.17|Exod 25:17]]; [[Exod.25.18|Exod 25:18]]; [[Exod.25.19|Exod 25:19]]; [[Exod.25.20|Exod 25:20]] (twice in verse); [[Exod.25.21|Exod 25:21]]; [[Exod.25.22|Exod 25:22]]; [[Exod.26.34|Exod 26:34]]; [[Exod.30.6|Exod 30:6]]; [[Exod.31.7|Exod 31:7]]; [[Exod.35.12|Exod 35:12]]; [[Exod.37.6|Exod 37:6]]; [[Exod.37.7|Exod 37:7]]; [[Exod.37.8|Exod 37:8]]; [[Exod.37.9|Exod 37:9]] (twice in verse); [[Exod.39.35|Exod 39:35]]; [[Exod.40.20|Exod 40:20]]; [[Lev.16.2|Lev 16:2]] (twice in verse); [[Lev.16.13|Lev 16:13]]; [[Lev.16.14|Lev 16:14]] (twice in verse); [[Lev.16.15|Lev 16:15]] (twice in verse); [[Num.7.89|Num 7:89]], and [[1Chr.28.11|1Chr 28:11]] it was a slab of gold 2 1/2 cubits x 1 1/2 cubits placed on top of the ark of the testimony. On it, and a part of it, were two golden cherubim facing each other, whose outstretched wings came together above and constituted the throne of Yahweh. When the high priest entered the Holy of Holies on the day of atonement it was necessary that this highest place of atonement should be enveloped in a cloud of incense. The blood of the sin-offering of the atonement was then sprinkled on the face of and seven times before it. The temple proper, as distinguished from porch etc., was called <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בֵּית הַכּ‎</span> [[1Chr.28.11|1Chr 28:11]]. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Exodus | [[Exod.25.17\|25:17]] · [[Exod.25.18\|25:18]] · [[Exod.25.19\|25:19]] · [[Exod.25.20\|25:20]] · [[Exod.25.21\|25:21]] · [[Exod.25.22\|25:22]] · [[Exod.26.34\|26:34]] · [[Exod.30.6\|30:6]] · [[Exod.31.7\|31:7]] · [[Exod.35.12\|35:12]] · [[Exod.37.6\|37:6]] · [[Exod.37.7\|37:7]] · [[Exod.37.8\|37:8]] · [[Exod.37.9\|37:9]] · [[Exod.39.35\|39:35]] · [[Exod.40.20\|40:20]] |
+| Leviticus | [[Lev.16.2\|16:2]] · [[Lev.16.13\|16:13]] · [[Lev.16.14\|16:14]] · [[Lev.16.15\|16:15]] |
+| Numbers | [[Num.7.89\|7:89]] |
+| 1 Chronicles | [[1Chr.28.11\|28:11]] |
+

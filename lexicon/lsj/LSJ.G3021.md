@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==λευκαίνω==</span></b>, 
+
+
+ late <i>aorist 1</i> <i>infinitive</i> <span class='asgreek'>λευκᾶναι</span> (see. below): <i>perfect</i> <i>passive</i> <span class='asgreek'>λελεύκασμαι</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Diphilus Siphnius Rerum Naturalium Scriptor cited in 2nd c.AD: Athenaeus Epigrammaticus 2.54b, 4th c.AD: Oribasius Medicus “fragment” 102">Refs 3rd c.BC+</a>]:—<b>make white</b>, <span class='asgreek'>λεύκαινον</span> <span class='asgreek'>ὕδωρ</span> <span class='asgreek'>ξεστῇς</span> <span class='asgreek'>ἐλάτῃσιν</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 12.172; ἅλα ῥοθίοισι λ. 5th c.BC: Euripides Tragicus “Cyclops” 17; ἐς γένυν ἕρπει ==λευκαίνω==ν ὁ χρόνος 3rd c.BC: Theocritus Poeta Bucolicus 14.70 ">Refs 8th c.BC+</a>]; <b>plaster with whitening</b>, <span class='asgreek'>λευκᾶναι</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>λευκώματα</span> [<a href="javascript:void(0)" title=" “Ephes.” 3p.148 ">Refs</a>]:—<i>passive</i>, <b>to be</b> or <b>become white</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 730a6, 4th c.BC: Sopater Comicus 8, 3rd c.BC: Apollonius Rhodius Epicus 1.545 ">Refs 4th c.BC+</a>], Diph.Siph.[same place]; <b>to be clarified</b>, of oil, Orib. [prev. cited] 
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>cause to appear white</b>, of the effect of dawn on lamplight, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Aulidensis” 157 (\_anapaest meter\_). ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>have a sensation of whiteness</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 7.191, +others ">Refs 2nd c.AD+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>grow white</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hyps.fragment” 34(60) i13, 4th c.BC: Aristoteles Philosophus “Problemata” 890a9, LXX.Lev.13.19 ">LXX+5th c.BC+</a>]; <span class='asgreek'>ἀφροῖο</span> <b>with</b> foam, [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Alexipharmaca” 170. ">Refs 2nd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Lev.13.19]]
+</sub></small>

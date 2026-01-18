@@ -1,0 +1,12 @@
+
+<b> <span class='asgreek'>==ἄγρα==</span></b>, 
+
+
+ <i>Ionic dialect</i> <span class='asgreek'>ἄγρη</span>, <span class='asgreek'>ἡ</span>, <b>hunting, the chase</b>, (never in [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad”), ἄγρην ἐφέπειν 8th c.BC: Odyssea Homerus Epicus “Odyssey” 12.330; χαίρουσι δέ τ᾽ ἀνέρες ἄγρῃ 22.306; ἐς ==ἄγρα==ς ἰέναι 5th c.BC: Euripides Tragicus “Supplices” 885; ἄ. ἀνθρώπων 5th-6th c.BC: Plato Philosophus “Leges” 823e; ἁλιαδᾶν ἔχων ἀΰπνους ==ἄγρα==ς 5th c.BC: Sophocles Tragicus “Ajax” 880 (Lyric poetry). ">Refs 8th c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>way of catching</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “N.” 3.81, 5th c.BC: Herodotus Historicus 2.70. ">Refs 5th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_II</b> <b>quarry, prey</b>, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 442; ==ἄγρα==ν ὤλεσα 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 148 (Lyric poetry); εὔκερως ἄ. 5th c.BC: Sophocles Tragicus “Ajax” 64, compare 407 (\_plural\_); Μελέαγρε, μελέαν γάρ ποτ᾽ ἀγρεύεις ἄ. 5th c.BC: Euripides Tragicus “Fragmenta” 517">Refs 8th c.BC+</a>]; <b>game</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.73, etc. ">Refs 5th c.BC+</a>]; of fish, <b>draught, take,</b> [<a href="javascript:void(0)" title="NT.Luke.5.9: \_metaphorically\_, δορὸς ==ἄγρα== 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 322 (Lyric poetry). ">NT+4th c.BC+</a>]
+$\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>Ἄγρα</span>, <span class='asgreek'>ἡ</span>, title of Artemis at Athens, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 229c">Refs 5th c.BC+</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>Ἄγρας</span> (i.e. <span class='asgreek'>μυστήρια</span>) [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta Gr. “fragment” 13; τὰ πρὸς Ἄγραν “IG” 2.315; μήτηρ ἐν Ἄγρας [prev. work]273:">Refs 2nd c.AD+</a>] — also <span class='asgreek'>Ἄγραι</span>, <span class='asgreek'>αἱ</span>, the precinct of Artemis Agra, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 1.19.6, St. Byzantine, “Anecdota Graeca - Bekker” 334, etc. (With ==ἄγρα==: ἄγρια compare θήρα: θηρία.)">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.5.9]]
+</sub></small>

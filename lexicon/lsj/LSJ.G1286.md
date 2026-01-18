@@ -1,0 +1,13 @@
+
+<b> <span class='asgreek'>==διασείω==</span>-<span class='asgreek'>σείω</span></b>, 
+
+
+ <b>shake violently,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ νούσων” 1.6, uncertain in 4th c.BC: Aristoteles Philosophus “Ἀθηναίων Πολιτεία” 64.2; τι εἰς ἀταξίαν 5th-6th c.BC: Plato Philosophus “Timaeus” 85e, compare 88a; τὴν κεφαλήν 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.435c: with \_dative\_, δ. τοῖν χεροῖν 4th c.BC: Aeschines Orator 5th-4th c.BC: Socratis et Socraticorum Epistulae 50">Refs 5th c.BC+</a>]; <span class='asgreek'>δ</span>. <span class='asgreek'>τῇ</span> <span class='asgreek'>οὐρᾷ</span> <b>to keep wagging</b> the tail, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 6.15 ">Refs 5th c.BC+</a>]:—<i>middle</i>, <b>shake</b> people <b>off, shake oneself free,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 1.56. ">Refs 1st c.BC+</a>]
+
+$\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>confound, throw into confusion,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>Ἀθηναίων</span> <span class='asgreek'>φρονήματα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 6.109; τοὺς ἀκούοντας 2nd c.BC: Polybius Historicus 18.45.2 ">Refs 5th c.BC+</a>]; <b>intimidate, oppress,</b> [<a href="javascript:void(0)" title=" [prev. author] 10.26.4, compare “OGI” 519.14 (\_passive\_)">Refs</a>]; <b>browbeat,</b> [<a href="javascript:void(0)" title=" PTaur. 1viii13(2nd c.BC)">Refs 2nd c.BC+</a>]; <b>extort money by intimidation from</b> a person, [<a href="javascript:void(0)" title=" “PPar.” 15.37 (2nd c.BC), NT.Luke.3.14, etc.: with \_genitive\_, “PTeb.” 41.10 (2nd c.BC)">NT+2nd c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" “POxy.” 284.5 (1st c.AD). ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_3</b> of political affairs, <b>throw into confusion,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cicero” 10. ">Refs 1st c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>stir up,</b> in <i>passive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 29. ">Refs 5th c.AD+</a>]
+$\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>sound, take the measure of,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.580d,704d. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[Luke.3.14]]
+</sub></small>

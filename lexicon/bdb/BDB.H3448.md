@@ -1,0 +1,14 @@
+ <span class="bdbLangHebrew">‎יִשַׁי‎</span><sub>41</sub> **proper name, masculine** ==father of David== (etymology dubious; [[BDB#Ol|Ol]]<sup>§ 277 f.</sup> conjecture <span class="bdbLangHebrew">‎יֵשׁ יָהּ‎</span>; [[BDB#We|We]]<sup>[[1Sam.14.49|1Sam 14:49]]</sup> <span class="bdbLangHebrew">‎ישׁי‎</span> = <span class="bdbLangHebrew">‎אישׁי‎</span> = <span class="bdbLangHebrew">‎אבישׁי‎</span> (but see this)) — <span class="bdbLangHebrew">‎יִשַׁי‎</span> [[1Sam.16.3|1Sam 16:3]] + 29 t.; <span class="bdbLangHebrew">‎יִשָׁ֑י‎</span> v[[1Sam.16.19|1Sam 16:19]] + 10 t.; [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ιεσσαι</span>; <span class="bdbLangHebrew">‎(וְ)אִישַׁי‎</span> [[1Chr.2.13|1Chr 2:13]] — <span class="bdbLangHebrew">‎יִשַׁי בֵּיתֿ‎</span> <span class="bdbLangHebrew">‎הַלַּחְמִי‎</span> ***jesse the Bethlehemite*** [[1Sam.16.1|1Sam 16:1]]; [[1Sam.16.18|1Sam 16:18]] (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בֶּןיֿשׁי וגו‎</span>, of David), [[1Sam.17.58|1Sam 17:58]] ; <span class="bdbLangHebrew">‎ישׁי‎</span> also [[1Sam.16.3|1Sam 16:3]] + 14 t. [[1Sam.16.17|1Sam 16:17]] son of <span class="bdbLangHebrew">‎עוֺבֵד‎</span> according to [[Ruth.4.17|Ruth 4:17]]; [[Ruth.4.22|Ruth 4:22]] (twice in verse) = [[1Chr.2.12|1Chr 2:12]] <span class="bdbLangHebrew">‎דָּוִ(י)ד‎</span> <span class="bdbLangHebrew">‎בֶּןיֿשׁי‎</span> [[2Sam.23.1|2Sam 23:1]]; [[1Chr.10.14|1Chr 10:14]]; [[1Chr.29.26|1Chr 29:26]]; [[Ps.72.20|Ps 72:20]] <span class="bdbLangHebrew">‎אֱלִיאָב בֶּןיֿשׁי‎</span> [[2Chr.11.18|2Chr 11:18]] elsewhere <span class="bdbLangHebrew">‎בֶּןיֿשׁי‎</span> alone = David, [[1Sam.20.27|1Sam 20:27]]; [[1Sam.20.30|1Sam 20:30]]; [[1Sam.20.31|1Sam 20:31]]; [[1Sam.22.7|1Sam 22:7]]; [[1Sam.22.8|1Sam 22:8]]; [[1Sam.22.9|1Sam 22:9]]; [[1Sam.22.13|1Sam 22:13]]; [[1Sam.25.10|1Sam 25:10]]; [[2Sam.20.1|2Sam 20:1]] 1 Ki 12:16&gt; = [[2Chr.10.16|2Chr 10:16]]; [[1Chr.12.18|1Chr 12:18]] <span class="bdbLangHebrew">‎גֶּזַע יִשָׁ֑י‎</span> [[Isa.11.1|Isa 11:1]] <span class="bdbLangHebrew">‎שֹׁרֶשׁ יְשֵׁי‎</span> v[[Isa.11.10|Isa 11:10]] of Jesse as ancestor of future (Messianic) king. 
+
+**Brown-Driver-Briggs References**
+
+| Book | Refs |
+| - | - |
+| Ruth | [[Ruth.4.17\|4:17]] · [[Ruth.4.22\|4:22]] |
+| 1 Samuel | [[1Sam.14.49\|14:49]] · [[1Sam.16.1\|16:1]] · [[1Sam.16.3\|16:3]] · [[1Sam.16.17\|16:17]] · [[1Sam.16.18\|16:18]] · [[1Sam.16.19\|16:19]] · [[1Sam.17.58\|17:58]] · [[1Sam.20.27\|20:27]] · [[1Sam.20.30\|20:30]] · [[1Sam.20.31\|20:31]] · [[1Sam.22.7\|22:7]] · [[1Sam.22.8\|22:8]] · [[1Sam.22.9\|22:9]] · [[1Sam.22.13\|22:13]] · [[1Sam.25.10\|25:10]] |
+| 2 Samuel | [[2Sam.20.1\|20:1]] · [[2Sam.23.1\|23:1]] |
+| 1 Chronicles | [[1Chr.2.12\|2:12]] · [[1Chr.2.13\|2:13]] · [[1Chr.10.14\|10:14]] · [[1Chr.12.18\|12:18]] · [[1Chr.29.26\|29:26]] |
+| 2 Chronicles | [[2Chr.10.16\|10:16]] · [[2Chr.11.18\|11:18]] |
+| Psalms | [[Ps.72.20\|72:20]] |
+| Isaiah | [[Isa.11.1\|11:1]] · [[Isa.11.10\|11:10]] |
+

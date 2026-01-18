@@ -1,0 +1,26 @@
+**Job 30:1** 
+<small><sub>**KJV:**</sub></small>
+But now [they that are] younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
+<small><sub>**BSB:**</sub></small>
+“But now they mock me, men younger than I am, whose fathers I would have refused to put with my sheep dogs.
+<small><sub>**Literal:**</sub></small>
+and  now they have laughed on  me [people] young more than  me to  days whom I rejected fathers  their to  put with [the] dogs of flock  my<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.25|<< Job 29:25]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.2|Job 30:2 >>]]</td></tr></table>
+
+| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and now  | <span class="ashebrew"><big>וְ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>עַתָּ֤ה</big></span><small><sup>[[H6258]]</sup></small> <span class="ashebrew"><big>׀</big></span><small><sup>[[H9015]]</sup></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have laughed  | <span class="ashebrew"><big>שָֽׂחֲק֣וּ</big></span><small><sup>[[H7832]]</sup></small> &#8207;| sa.cha.Ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on me  | <span class="ashebrew"><big>עָלַ</big></span><small><sup>[[H5921A]]</sup></small> <span class="ashebrew"><big>י֮</big></span><small><sup>[[H9030]]</sup></small> &#8207;| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [people] young  | <span class="ashebrew"><big>צְעִירִ֥ים</big></span><small><sup>[[H6810]]</sup></small> &#8207;| tze.'i.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| more than me  | <span class="ashebrew"><big>מִמֶּ֗</big></span><small><sup>[[H4480A]]</sup></small> <span class="ashebrew"><big>נִּי</big></span><small><sup>[[H9030]]</sup></small> &#8207;| mi.Me.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to days  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>יָ֫מִ֥ים</big></span><small><sup>[[H3117H]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  | <span class="ashebrew"><big>אֲשֶׁר</big></span><small><sup>[[H0834A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I rejected  | <span class="ashebrew"><big>מָאַ֥סְתִּי</big></span><small><sup>[[H3988A]]</sup></small> &#8207;| ma.'As.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fathers their  | <span class="ashebrew"><big>אֲבוֹתָ֑</big></span><small><sup>[[H0001G]]</sup></small> <span class="ashebrew"><big>ם</big></span><small><sup>[[H9028]]</sup></small> &#8207;| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to put  | <span class="ashebrew"><big>לָ֝</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שִׁ֗ית</big></span><small><sup>[[H7896G]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Shit<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with  | <span class="ashebrew"><big>עִם</big></span><small><sup>[[H5973A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] dogs of  | <span class="ashebrew"><big>כַּלְבֵ֥י</big></span><small><sup>[[H3611]]</sup></small> &#8207;| kal.Vei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| flock my  | <span class="ashebrew"><big>צֹאנִֽ</big></span><small><sup>[[H6629G]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tzo.N<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.25|<< Job 29:25]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.2|Job 30:2 >>]]</td></tr></table>
+
+

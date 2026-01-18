@@ -1,0 +1,8 @@
+<span class="asgreek">ἄρδην</span> <small>***(ardēn)***</small> ==**entirely**==  <sup><small>[[TEGMC#G:A|G:A]]</small></sup> 
+
+<b> <span class='asgreek'>==ἄρδην==</span></b>, 
+
+
+ <i>adverb</i> <i>contraction</i> for <span class='asgreek'>ἀέρδην</span>, (<span class='asgreek'>ἀείρω</span>) <b>lifted up on high,</b> of a vase carried on the head, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 430; φέρειν ἄ. 5th c.BC: Euripides Tragicus “Alcestis” 608; πηδῶντος ἄ. Ἔκτορος τάφρων ὕπερ 5th c.BC: Sophocles Tragicus “Ajax” 1279. ">Refs 5th c.BC+</a>]
+
+$\quad$ $\quad$<b>\_\_II</b> <b>utterly, wholly,</b> <span class='asgreek'>εἰς</span> <span class='asgreek'>Τάρταρον</span> <span class='asgreek'>ἄ</span>. <span class='asgreek'>ῥίψειε</span> <span class='asgreek'>δέμας</span>[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 1051, compare 5th c.BC: Euripides Tragicus “Hecuba” 887; πᾶσαν ἄ. πόλιν ἀπολλύναι 5th-6th c.BC: Plato Philosophus “Respublica” 421a; ἄ. διαφθείρεσθαι [prev. author] “Lg.” 677c; Φωκέων ἄ. ὄλεθρος 4th c.BC: Demosthenes Orator 19.141; πεπτωκὸς ἄ. πολίτευμα 2nd c.BC: Polybius Historicus 1.35.5">Refs 5th c.BC+</a>]; <span class='asgreek'>ὄμνυμι</span> <span class='asgreek'>πάντας</span> <span class='asgreek'>ἄ</span>. <span class='asgreek'>τοὺς</span> <span class='asgreek'>θεούς</span> all <b>together,</b> all <b>at once,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 274, compare 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.1.12; later εἰς ἄ., πόλιν ἐξελεῖν 3rd c.AD: Heliodorus Scriptor Eroticus 9.2.">Refs 5th c.BC+</a>]
