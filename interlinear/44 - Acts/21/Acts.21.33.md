@@ -8,26 +8,26 @@ Then having drawn near the commander laid hold of him and he commanded [him] to 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Then [^1] |<span class="asgreek">τότε</span> <small><sup>[[G5119]]</sup></small> |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
-| having drawn near |<span class="asgreek">ἐγγίσας</span> <small><sup>[[G1448]]</sup></small> |engisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| commander |<span class="asgreek">χιλίαρχος</span> <small><sup>[[G5506]]</sup></small> |chiliarchos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| laid hold |<span class="asgreek">ἐπελάβετο</span> <small><sup>[[G1949]]</sup></small> |epelabeto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he commanded [him] |<span class="asgreek">ἐκέλευσεν</span> <small><sup>[[G2753]]</sup></small> |ekeleusen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to be bound |<span class="asgreek">δεθῆναι</span> <small><sup>[[G1210]]</sup></small> |dethēnai <small><sup>[[V-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with chains |<span class="asgreek">ἁλύσεσιν</span> <small><sup>[[G0254]]</sup></small> |halusesin <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| two |<span class="asgreek">δυσὶν</span> <small><sup>[[G1417]]</sup></small> [^2] |dusin <small><sup>[[A-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he was inquiring |<span class="asgreek">ἐπυνθάνετο</span> <small><sup>[[G4441]]</sup></small> |epunthaneto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who |<span class="asgreek">τίς</span> <small><sup>[[G5101]]</sup></small> |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| maybe |<span class="asgreek">ἂν</span> <small><sup>[[G0302]]</sup></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| he would be |<span class="asgreek">εἴη</span> <small><sup>[[G1510]]</sup></small> |eiē <small><sup>[[V-PAO-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| what |<span class="asgreek">τί</span> <small><sup>[[G5101]]</sup></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it is |<span class="asgreek">ἐστιν</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he having done. |<span class="asgreek">πεποιηκώς.</span> <small><sup>[[G4160G]]</sup></small> |pepoiēkōs <small><sup>[[V-RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Then [^1] |<big><span class="asgreek">τότε</span></big> <small><small><sup>[[G5119]]</sup></small></small> |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
+| having drawn near |<big><span class="asgreek">ἐγγίσας</span></big> <small><small><sup>[[G1448]]</sup></small></small> |engisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| commander |<big><span class="asgreek">χιλίαρχος</span></big> <small><small><sup>[[G5506]]</sup></small></small> |chiliarchos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| laid hold |<big><span class="asgreek">ἐπελάβετο</span></big> <small><small><sup>[[G1949]]</sup></small></small> |epelabeto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he commanded [him] |<big><span class="asgreek">ἐκέλευσεν</span></big> <small><small><sup>[[G2753]]</sup></small></small> |ekeleusen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to be bound |<big><span class="asgreek">δεθῆναι</span></big> <small><small><sup>[[G1210]]</sup></small></small> |dethēnai <small><sup>[[V-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with chains |<big><span class="asgreek">ἁλύσεσιν</span></big> <small><small><sup>[[G0254]]</sup></small></small> |halusesin <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| two |<big><span class="asgreek">δυσὶν</span></big> <small><small><sup>[[G1417]]</sup></small></small> [^2] |dusin <small><sup>[[A-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he was inquiring |<big><span class="asgreek">ἐπυνθάνετο</span></big> <small><small><sup>[[G4441]]</sup></small></small> |epunthaneto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who |<big><span class="asgreek">τίς</span></big> <small><small><sup>[[G5101]]</sup></small></small> |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| maybe |<big><span class="asgreek">ἂν</span></big> <small><small><sup>[[G0302]]</sup></small></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| he would be |<big><span class="asgreek">εἴη</span></big> <small><small><sup>[[G1510]]</sup></small></small> |eiē <small><sup>[[V-PAO-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| what |<big><span class="asgreek">τί</span></big> <small><small><sup>[[G5101]]</sup></small></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it is |<big><span class="asgreek">ἐστιν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he having done. |<big><span class="asgreek">πεποιηκώς.</span></big> <small><small><sup>[[G4160G]]</sup></small></small> |pepoiēkōs <small><sup>[[V-RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.32|<< Acts 21:32]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.34|Acts 21:34 >>]]</td></tr></table>
 
 [^1]: ==Byz»2==: now | <span class="asgreek">δὲ</span><small><sup>[[G1161]]</sup></small> | de<small><sup>[[CONJ]]</sup></small>

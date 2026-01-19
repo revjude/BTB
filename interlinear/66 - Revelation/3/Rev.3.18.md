@@ -8,39 +8,39 @@ I counsel you to buy from Me gold refined by fire so that you may be rich, and g
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I counsel |<span class="asgreek">συμβουλεύω</span> <small><sup>[[G4823]]</sup></small> |sumbouleuō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you |<span class="asgreek">σοι</span> <small><sup>[[G4771]]</sup></small> |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to buy |<span class="asgreek">ἀγοράσαι</span> <small><sup>[[G0059]]</sup></small> |agorasai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">παρ᾽</span> <small><sup>[[G3844]]</sup></small> |par᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Me |<span class="asgreek">ἐμοῦ</span> <small><sup>[[G1473]]</sup></small> |emou <small><sup>[[S-1SGSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| gold |<span class="asgreek">χρυσίον</span> <small><sup>[[G5553]]</sup></small> |chrusion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz«3">NKO</abbr> | |
-| refined |<span class="asgreek">πεπυρωμένον</span> <small><sup>[[G4448]]</sup></small> |pepurōmenon <small><sup>[[V-RPP-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| by |<span class="asgreek">ἐκ</span> <small><sup>[[G1537]]</sup></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| fire |<span class="asgreek">πυρὸς</span> <small><sup>[[G4442]]</sup></small> |puros <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you may be rich, |<span class="asgreek">πλουτήσῃς,</span> <small><sup>[[G4147]]</sup></small> |ploutēsēs <small><sup>[[V-AAS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| garments |<span class="asgreek">ἱμάτια</span> <small><sup>[[G2440]]</sup></small> |himatia <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| white |<span class="asgreek">λευκὰ</span> <small><sup>[[G3022]]</sup></small> |leuka <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you may be clothed |<span class="asgreek">περιβάλῃ,</span> <small><sup>[[G4016]]</sup></small> |peribalē <small><sup>[[V-2AMS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may be made manifest |<span class="asgreek">φανερωθῇ</span> <small><sup>[[G5319]]</sup></small> |phanerōthēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shame |<span class="asgreek">αἰσχύνη</span> <small><sup>[[G0152]]</sup></small> |aischunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| nakedness |<span class="asgreek">γυμνότητός</span> <small><sup>[[G1132]]</sup></small> |gumnotētos <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you, |<span class="asgreek">σου,</span> <small><sup>[[G4771]]</sup></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| eye-salve |<span class="asgreek">κολλούριον</span> <small><sup>[[G2854]]</sup></small> [^1] |kollourion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="Byz">o</abbr> | |
-| to anoint [^2] [^3] [^4] |<span class="asgreek">ἐγχρῖσαι</span> <small><sup>[[G1472]]</sup></small> |egchrisai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)(O)</abbr> | |
-| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| eyes |<span class="asgreek">ὀφθαλμούς</span> <small><sup>[[G3788]]</sup></small> |ophthalmous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you |<span class="asgreek">σου</span> <small><sup>[[G4771]]</sup></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you may see. |<span class="asgreek">βλέπῃς.</span> <small><sup>[[G0991]]</sup></small> |blepēs <small><sup>[[V-PAS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I counsel |<big><span class="asgreek">συμβουλεύω</span></big> <small><small><sup>[[G4823]]</sup></small></small> |sumbouleuō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you |<big><span class="asgreek">σοι</span></big> <small><small><sup>[[G4771]]</sup></small></small> |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to buy |<big><span class="asgreek">ἀγοράσαι</span></big> <small><small><sup>[[G0059]]</sup></small></small> |agorasai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">παρ᾽</span></big> <small><small><sup>[[G3844]]</sup></small></small> |par᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Me |<big><span class="asgreek">ἐμοῦ</span></big> <small><small><sup>[[G1473]]</sup></small></small> |emou <small><sup>[[S-1SGSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| gold |<big><span class="asgreek">χρυσίον</span></big> <small><small><sup>[[G5553]]</sup></small></small> |chrusion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz«3">NKO</abbr> | |
+| refined |<big><span class="asgreek">πεπυρωμένον</span></big> <small><small><sup>[[G4448]]</sup></small></small> |pepurōmenon <small><sup>[[V-RPP-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| by |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fire |<big><span class="asgreek">πυρὸς</span></big> <small><small><sup>[[G4442]]</sup></small></small> |puros <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you may be rich, |<big><span class="asgreek">πλουτήσῃς,</span></big> <small><small><sup>[[G4147]]</sup></small></small> |ploutēsēs <small><sup>[[V-AAS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| garments |<big><span class="asgreek">ἱμάτια</span></big> <small><small><sup>[[G2440]]</sup></small></small> |himatia <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| white |<big><span class="asgreek">λευκὰ</span></big> <small><small><sup>[[G3022]]</sup></small></small> |leuka <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you may be clothed |<big><span class="asgreek">περιβάλῃ,</span></big> <small><small><sup>[[G4016]]</sup></small></small> |peribalē <small><sup>[[V-2AMS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may be made manifest |<big><span class="asgreek">φανερωθῇ</span></big> <small><small><sup>[[G5319]]</sup></small></small> |phanerōthēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shame |<big><span class="asgreek">αἰσχύνη</span></big> <small><small><sup>[[G0152]]</sup></small></small> |aischunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| nakedness |<big><span class="asgreek">γυμνότητός</span></big> <small><small><sup>[[G1132]]</sup></small></small> |gumnotētos <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you, |<big><span class="asgreek">σου,</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| eye-salve |<big><span class="asgreek">κολλούριον</span></big> <small><small><sup>[[G2854]]</sup></small></small> [^1] |kollourion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="Byz">o</abbr> | |
+| to anoint [^2] [^3] [^4] |<big><span class="asgreek">ἐγχρῖσαι</span></big> <small><small><sup>[[G1472]]</sup></small></small> |egchrisai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)(O)</abbr> | |
+| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| eyes |<big><span class="asgreek">ὀφθαλμούς</span></big> <small><small><sup>[[G3788]]</sup></small></small> |ophthalmous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you |<big><span class="asgreek">σου</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you may see. |<big><span class="asgreek">βλέπῃς.</span></big> <small><small><sup>[[G0991]]</sup></small></small> |blepēs <small><sup>[[V-PAS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.17|<< Revelation 3:17]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.19|Revelation 3:19 >>]]</td></tr></table>
 
 [^1]: ==Tyn== spelled: <span class='asgreek'>**κολλύριον**</span>

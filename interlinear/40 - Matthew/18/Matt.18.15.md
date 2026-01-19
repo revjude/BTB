@@ -8,28 +8,28 @@ If now shall sin against you the brother of you, do go and do reprove him betwee
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| If |<span class="asgreek">Ἐὰν</span> <small><sup>[[G1437]]</sup></small> |Ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shall sin |<span class="asgreek">ἁμαρτήσῃ</span> <small><sup>[[G0264]]</sup></small> |hamartēsē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| against |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
-| you |<span class="asgreek">σὲ</span> <small><sup>[[G4771]]</sup></small> |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| brother |<span class="asgreek">ἀδελφός</span> <small><sup>[[G0080]]</sup></small> |adelphos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you, |<span class="asgreek">σου,</span> <small><sup>[[G4771]]</sup></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do go |<span class="asgreek">ὕπαγε</span> <small><sup>[[G5217]]</sup></small> |hupage <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| do reprove |<span class="asgreek">ἔλεγξον</span> <small><sup>[[G1651]]</sup></small> |elegxon <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| him |<span class="asgreek">αὐτὸν</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| between |<span class="asgreek">μεταξὺ</span> <small><sup>[[G3342]]</sup></small> |metaxu <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you |<span class="asgreek">σοῦ</span> <small><sup>[[G4771]]</sup></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| alone. |<span class="asgreek">μόνου.</span> <small><sup>[[G3441]]</sup></small> |monou <small><sup>[[A-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| If |<span class="asgreek">ἐάν</span> <small><sup>[[G1437]]</sup></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you |<span class="asgreek">σου</span> <small><sup>[[G4771]]</sup></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he shall hear, |<span class="asgreek">ἀκούσῃ,</span> <small><sup>[[G0191]]</sup></small> |akousē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you have gained |<span class="asgreek">ἐκέρδησας</span> <small><sup>[[G2770]]</sup></small> |ekerdēsas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| brother |<span class="asgreek">ἀδελφόν</span> <small><sup>[[G0080]]</sup></small> |adelphon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you. |<span class="asgreek">σου.</span> <small><sup>[[G4771]]</sup></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| If |<big><span class="asgreek">Ἐὰν</span></big> <small><small><sup>[[G1437]]</sup></small></small> |Ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shall sin |<big><span class="asgreek">ἁμαρτήσῃ</span></big> <small><small><sup>[[G0264]]</sup></small></small> |hamartēsē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| against |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
+| you |<big><span class="asgreek">σὲ</span></big> <small><small><sup>[[G4771]]</sup></small></small> |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| brother |<big><span class="asgreek">ἀδελφός</span></big> <small><small><sup>[[G0080]]</sup></small></small> |adelphos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you, |<big><span class="asgreek">σου,</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do go |<big><span class="asgreek">ὕπαγε</span></big> <small><small><sup>[[G5217]]</sup></small></small> |hupage <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| do reprove |<big><span class="asgreek">ἔλεγξον</span></big> <small><small><sup>[[G1651]]</sup></small></small> |elegxon <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| between |<big><span class="asgreek">μεταξὺ</span></big> <small><small><sup>[[G3342]]</sup></small></small> |metaxu <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you |<big><span class="asgreek">σοῦ</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| alone. |<big><span class="asgreek">μόνου.</span></big> <small><small><sup>[[G3441]]</sup></small></small> |monou <small><sup>[[A-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| If |<big><span class="asgreek">ἐάν</span></big> <small><small><sup>[[G1437]]</sup></small></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you |<big><span class="asgreek">σου</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he shall hear, |<big><span class="asgreek">ἀκούσῃ,</span></big> <small><small><sup>[[G0191]]</sup></small></small> |akousē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you have gained |<big><span class="asgreek">ἐκέρδησας</span></big> <small><small><sup>[[G2770]]</sup></small></small> |ekerdēsas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| brother |<big><span class="asgreek">ἀδελφόν</span></big> <small><small><sup>[[G0080]]</sup></small></small> |adelphon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you. |<big><span class="asgreek">σου.</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.14|<< Matthew 18:14]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.16|Matthew 18:16 >>]]</td></tr></table>

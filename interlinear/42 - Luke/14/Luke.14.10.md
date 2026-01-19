@@ -8,35 +8,35 @@ But when you may be invited, having gone do recline in the last place, so that w
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| But |<span class="asgreek">ἀλλ᾽</span> <small><sup>[[G0235]]</sup></small> |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| when |<span class="asgreek">ὅταν</span> <small><sup>[[G3752]]</sup></small> |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you may be invited, |<span class="asgreek">κληθῇς,</span> <small><sup>[[G2564G]]</sup></small> |klēthēas <small><sup>[[V-APS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having gone |<span class="asgreek">πορευθεὶς</span> <small><sup>[[G4198]]</sup></small> |poreutheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do recline [^1] |<span class="asgreek">ἀνάπεσε</span> <small><sup>[[G0377]]</sup></small> |anapese <small><sup>[[V-2AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| in |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| last |<span class="asgreek">ἔσχατον</span> <small><sup>[[G2078]]</sup></small> |eschaton <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| place, |<span class="asgreek">τόπον,</span> <small><sup>[[G5117]]</sup></small> |topon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| when |<span class="asgreek">ὅταν</span> <small><sup>[[G3752]]</sup></small> |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may come |<span class="asgreek">ἔλθῃ</span> <small><sup>[[G2064]]</sup></small> |elthē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the [one] |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having invited |<span class="asgreek">κεκληκώς</span> <small><sup>[[G2564G]]</sup></small> |keklēkōs <small><sup>[[V-RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you, |<span class="asgreek">σε,</span> <small><sup>[[G4771]]</sup></small> |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he will say [^2] |<span class="asgreek">ἐρεῖ</span> <small><sup>[[G4483]]</sup></small> |erei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| to you; |<span class="asgreek">σοι·</span> <small><sup>[[G4771]]</sup></small> |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Friend, |<span class="asgreek">φίλε,</span> <small><sup>[[G5384]]</sup></small> |phile <small><sup>[[A-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do come up |<span class="asgreek">προσανάβηθι</span> <small><sup>[[G4320]]</sup></small> |prosanabēthi <small><sup>[[V-2AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| higher. |<span class="asgreek">ἀνώτερον.</span> <small><sup>[[G0511]]</sup></small> |anōteron <small><sup>[[A-ASN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Then |<span class="asgreek">τότε</span> <small><sup>[[G5119]]</sup></small> |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will be |<span class="asgreek">ἔσται</span> <small><sup>[[G1510]]</sup></small> |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to you |<span class="asgreek">σοι</span> <small><sup>[[G4771]]</sup></small> |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| glory |<span class="asgreek">δόξα</span> <small><sup>[[G1391]]</sup></small> |doxa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| before |<span class="asgreek">ἐνώπιον</span> <small><sup>[[G1799]]</sup></small> |enōpion <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all [^3] |<span class="asgreek">πάντων</span> <small><sup>[[G3956]]</sup></small> |pantōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| those |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| reclining |<span class="asgreek">συνανακειμένων</span> <small><sup>[[G4873]]</sup></small> |sunanakeimenōn <small><sup>[[V-PNP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [with] you. |<span class="asgreek">σοι.</span> <small><sup>[[G4771]]</sup></small> |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| But |<big><span class="asgreek">ἀλλ᾽</span></big> <small><small><sup>[[G0235]]</sup></small></small> |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| when |<big><span class="asgreek">ὅταν</span></big> <small><small><sup>[[G3752]]</sup></small></small> |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you may be invited, |<big><span class="asgreek">κληθῇς,</span></big> <small><small><sup>[[G2564G]]</sup></small></small> |klēthēas <small><sup>[[V-APS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having gone |<big><span class="asgreek">πορευθεὶς</span></big> <small><small><sup>[[G4198]]</sup></small></small> |poreutheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do recline [^1] |<big><span class="asgreek">ἀνάπεσε</span></big> <small><small><sup>[[G0377]]</sup></small></small> |anapese <small><sup>[[V-2AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| in |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| last |<big><span class="asgreek">ἔσχατον</span></big> <small><small><sup>[[G2078]]</sup></small></small> |eschaton <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| place, |<big><span class="asgreek">τόπον,</span></big> <small><small><sup>[[G5117]]</sup></small></small> |topon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| when |<big><span class="asgreek">ὅταν</span></big> <small><small><sup>[[G3752]]</sup></small></small> |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may come |<big><span class="asgreek">ἔλθῃ</span></big> <small><small><sup>[[G2064]]</sup></small></small> |elthē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [one] |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having invited |<big><span class="asgreek">κεκληκώς</span></big> <small><small><sup>[[G2564G]]</sup></small></small> |keklēkōs <small><sup>[[V-RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you, |<big><span class="asgreek">σε,</span></big> <small><small><sup>[[G4771]]</sup></small></small> |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he will say [^2] |<big><span class="asgreek">ἐρεῖ</span></big> <small><small><sup>[[G4483]]</sup></small></small> |erei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| to you; |<big><span class="asgreek">σοι·</span></big> <small><small><sup>[[G4771]]</sup></small></small> |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Friend, |<big><span class="asgreek">φίλε,</span></big> <small><small><sup>[[G5384]]</sup></small></small> |phile <small><sup>[[A-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do come up |<big><span class="asgreek">προσανάβηθι</span></big> <small><small><sup>[[G4320]]</sup></small></small> |prosanabēthi <small><sup>[[V-2AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| higher. |<big><span class="asgreek">ἀνώτερον.</span></big> <small><small><sup>[[G0511]]</sup></small></small> |anōteron <small><sup>[[A-ASN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Then |<big><span class="asgreek">τότε</span></big> <small><small><sup>[[G5119]]</sup></small></small> |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will be |<big><span class="asgreek">ἔσται</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to you |<big><span class="asgreek">σοι</span></big> <small><small><sup>[[G4771]]</sup></small></small> |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| glory |<big><span class="asgreek">δόξα</span></big> <small><small><sup>[[G1391]]</sup></small></small> |doxa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| before |<big><span class="asgreek">ἐνώπιον</span></big> <small><small><sup>[[G1799]]</sup></small></small> |enōpion <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all [^3] |<big><span class="asgreek">πάντων</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pantōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| those |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| reclining |<big><span class="asgreek">συνανακειμένων</span></big> <small><small><sup>[[G4873]]</sup></small></small> |sunanakeimenōn <small><sup>[[V-PNP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [with] you. |<big><span class="asgreek">σοι.</span></big> <small><small><sup>[[G4771]]</sup></small></small> |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.9|<< Luke 14:9]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.11|Luke 14:11 >>]]</td></tr></table>
 
 [^1]: ==TR==: do recline | <span class="asgreek">ἀνάπεσον</span><small><sup>[[G0377]]</sup></small> | anapeson<small><sup>[[V-AAM-2S]]</sup></small>

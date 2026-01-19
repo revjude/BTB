@@ -8,38 +8,38 @@ And were given to them each a robe white and it was said to them that they will 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| were given [^1] |<span class="asgreek">ἐδόθη</span> <small><sup>[[G1325]]</sup></small> |edothē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| to them |<span class="asgreek">αὐτοῖς</span> <small><sup>[[G0846]]</sup></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
-| each [^2] |<span class="asgreek">ἑκάστῳ</span> <small><sup>[[G1538]]</sup></small> |hekastō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| a robe [^3] [^4] |<span class="asgreek">στολὴ</span> <small><sup>[[G4749]]</sup></small> |stolē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(K)O</abbr> | |
-| white [^5] |<span class="asgreek">λευκὴ</span> <small><sup>[[G3022]]</sup></small> |leukē <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it was said |<span class="asgreek">ἐρρέθη</span> <small><sup>[[G2046]]</sup></small> |errethē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to them |<span class="asgreek">αὐτοῖς</span> <small><sup>[[G0846]]</sup></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they will rest [^6] |<span class="asgreek">ἀναπαύσονται</span> <small><sup>[[G0373]]</sup></small> |anapausontai <small><sup>[[V-FMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| yet |<span class="asgreek">ἔτι</span> <small><sup>[[G2089]]</sup></small> |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a time |<span class="asgreek">χρόνον</span> <small><sup>[[G5550]]</sup></small> |chronon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| little |<span class="asgreek">μικρὸν</span> <small><sup>[[G3398]]</sup></small> |mikron <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
-| until |<span class="asgreek">ἕως</span> <small><sup>[[G2193]]</sup></small> |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| when |<span class="asgreek">οὗ</span> <small><sup>[[G3739]]</sup></small> |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="TR">k</abbr> | |
-| may be fulfilled [^7] [^8] |<span class="asgreek">πληρωθῶσιν</span> <small><sup>[[G4137]]</sup></small> |plērōthōsin <small><sup>[[V-APS-3P]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)(o)</abbr> | |
-| also |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| fellow servants |<span class="asgreek">σύνδουλοι</span> <small><sup>[[G4889]]</sup></small> |sundouloi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of them |<span class="asgreek">αὐτῶν</span> <small><sup>[[G0846]]</sup></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| brothers |<span class="asgreek">ἀδελφοὶ</span> <small><sup>[[G0080]]</sup></small> |adelphoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of them, |<span class="asgreek">αὐτῶν,</span> <small><sup>[[G0846]]</sup></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and [^9] |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Byz">O</abbr> | |
-| those |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| being about |<span class="asgreek">μέλλοντες</span> <small><sup>[[G3195]]</sup></small> |mellontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to be killed |<span class="asgreek">ἀποκτέννεσθαι</span> <small><sup>[[G0615]]</sup></small> [^10] [^11] |apoktennesthai <small><sup>[[V-PPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| as |<span class="asgreek">ὡς</span> <small><sup>[[G5613]]</sup></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| also [had been] |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they. |<span class="asgreek">αὐτοί.¶</span> <small><sup>[[G0846]]</sup></small> |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were given [^1] |<big><span class="asgreek">ἐδόθη</span></big> <small><small><sup>[[G1325]]</sup></small></small> |edothē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| to them |<big><span class="asgreek">αὐτοῖς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
+| each [^2] |<big><span class="asgreek">ἑκάστῳ</span></big> <small><small><sup>[[G1538]]</sup></small></small> |hekastō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| a robe [^3] [^4] |<big><span class="asgreek">στολὴ</span></big> <small><small><sup>[[G4749]]</sup></small></small> |stolē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(K)O</abbr> | |
+| white [^5] |<big><span class="asgreek">λευκὴ</span></big> <small><small><sup>[[G3022]]</sup></small></small> |leukē <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it was said |<big><span class="asgreek">ἐρρέθη</span></big> <small><small><sup>[[G2046]]</sup></small></small> |errethē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to them |<big><span class="asgreek">αὐτοῖς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they will rest [^6] |<big><span class="asgreek">ἀναπαύσονται</span></big> <small><small><sup>[[G0373]]</sup></small></small> |anapausontai <small><sup>[[V-FMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| yet |<big><span class="asgreek">ἔτι</span></big> <small><small><sup>[[G2089]]</sup></small></small> |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a time |<big><span class="asgreek">χρόνον</span></big> <small><small><sup>[[G5550]]</sup></small></small> |chronon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| little |<big><span class="asgreek">μικρὸν</span></big> <small><small><sup>[[G3398]]</sup></small></small> |mikron <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
+| until |<big><span class="asgreek">ἕως</span></big> <small><small><sup>[[G2193]]</sup></small></small> |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| when |<big><span class="asgreek">οὗ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="TR">k</abbr> | |
+| may be fulfilled [^7] [^8] |<big><span class="asgreek">πληρωθῶσιν</span></big> <small><small><sup>[[G4137]]</sup></small></small> |plērōthōsin <small><sup>[[V-APS-3P]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)(o)</abbr> | |
+| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fellow servants |<big><span class="asgreek">σύνδουλοι</span></big> <small><small><sup>[[G4889]]</sup></small></small> |sundouloi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of them |<big><span class="asgreek">αὐτῶν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| brothers |<big><span class="asgreek">ἀδελφοὶ</span></big> <small><small><sup>[[G0080]]</sup></small></small> |adelphoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of them, |<big><span class="asgreek">αὐτῶν,</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and [^9] |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Byz">O</abbr> | |
+| those |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| being about |<big><span class="asgreek">μέλλοντες</span></big> <small><small><sup>[[G3195]]</sup></small></small> |mellontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to be killed |<big><span class="asgreek">ἀποκτέννεσθαι</span></big> <small><small><sup>[[G0615]]</sup></small></small> [^10] [^11] |apoktennesthai <small><sup>[[V-PPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| as |<big><span class="asgreek">ὡς</span></big> <small><small><sup>[[G5613]]</sup></small></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| also [had been] |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they. |<big><span class="asgreek">αὐτοί.¶</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.10|<< Revelation 6:10]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.12|Revelation 6:12 >>]]</td></tr></table>
 
 [^1]: ==TR==: were given | <span class="asgreek">ἐδόθησαν</span><small><sup>[[G1325]]</sup></small> | edothēsan<small><sup>[[V-API-3P]]</sup></small>

@@ -8,37 +8,37 @@ Said therefore to Him the Jews; Now we have known that a demon You have. Abraham
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Said |<span class="asgreek">Εἶπον</span> <small><sup>[[G2036]]</sup></small> [^1] |Eipon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| therefore |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+TR+Byz">NKO</abbr> | |
-| to Him |<span class="asgreek">αὐτῷ</span> <small><sup>[[G0846]]</sup></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jews; |<span class="asgreek">Ἰουδαῖοι·</span> <small><sup>[[G2453]]</sup></small> |Ioudaioi <small><sup>[[N-NPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Now |<span class="asgreek">νῦν</span> <small><sup>[[G3568]]</sup></small> |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we have known |<span class="asgreek">ἐγνώκαμεν</span> <small><sup>[[G1097]]</sup></small> |egnōkamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a demon |<span class="asgreek">δαιμόνιον</span> <small><sup>[[G1140]]</sup></small> |daimonion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| You have. |<span class="asgreek">ἔχεις.</span> <small><sup>[[G2192]]</sup></small> |echeis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Abraham |<span class="asgreek">Ἀβραὰμ</span> <small><sup>[[G0011]]</sup></small> [^2] |Abraam <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| died |<span class="asgreek">ἀπέθανεν</span> <small><sup>[[G0599]]</sup></small> |apethanen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| prophets, |<span class="asgreek">προφῆται,</span> <small><sup>[[G4396]]</sup></small> |prophētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| You yourself |<span class="asgreek">σὺ</span> <small><sup>[[G4771]]</sup></small> |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| say; |<span class="asgreek">λέγεις·</span> <small><sup>[[G3004G]]</sup></small> |legeis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| If |<span class="asgreek">ἐάν</span> <small><sup>[[G1437]]</sup></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| anyone |<span class="asgreek">τις</span> <small><sup>[[G5100]]</sup></small> |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| word |<span class="asgreek">λόγον</span> <small><sup>[[G3056]]</sup></small> |logon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Mine |<span class="asgreek">μου</span> <small><sup>[[G3165]]</sup></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shall keep, |<span class="asgreek">τηρήσῃ,</span> <small><sup>[[G5083G]]</sup></small> |tērēsē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| certainly |<span class="asgreek">οὐ</span> <small><sup>[[G3756]]</sup></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shall he taste [^3] |<span class="asgreek">γεύσηται</span> <small><sup>[[G1089]]</sup></small> |geusētai <small><sup>[[V-ADS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| of death |<span class="asgreek">θανάτου</span> <small><sup>[[G2288]]</sup></small> |thanatou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| age. |<span class="asgreek">αἰῶνα.</span> <small><sup>[[G0165H]]</sup></small> |aiōna <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Said |<big><span class="asgreek">Εἶπον</span></big> <small><small><sup>[[G2036]]</sup></small></small> [^1] |Eipon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| therefore |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+TR+Byz">NKO</abbr> | |
+| to Him |<big><span class="asgreek">αὐτῷ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Jews; |<big><span class="asgreek">Ἰουδαῖοι·</span></big> <small><small><sup>[[G2453]]</sup></small></small> |Ioudaioi <small><sup>[[N-NPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Now |<big><span class="asgreek">νῦν</span></big> <small><small><sup>[[G3568]]</sup></small></small> |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we have known |<big><span class="asgreek">ἐγνώκαμεν</span></big> <small><small><sup>[[G1097]]</sup></small></small> |egnōkamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a demon |<big><span class="asgreek">δαιμόνιον</span></big> <small><small><sup>[[G1140]]</sup></small></small> |daimonion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You have. |<big><span class="asgreek">ἔχεις.</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echeis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Abraham |<big><span class="asgreek">Ἀβραὰμ</span></big> <small><small><sup>[[G0011]]</sup></small></small> [^2] |Abraam <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| died |<big><span class="asgreek">ἀπέθανεν</span></big> <small><small><sup>[[G0599]]</sup></small></small> |apethanen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| prophets, |<big><span class="asgreek">προφῆται,</span></big> <small><small><sup>[[G4396]]</sup></small></small> |prophētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You yourself |<big><span class="asgreek">σὺ</span></big> <small><small><sup>[[G4771]]</sup></small></small> |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| say; |<big><span class="asgreek">λέγεις·</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legeis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| If |<big><span class="asgreek">ἐάν</span></big> <small><small><sup>[[G1437]]</sup></small></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| anyone |<big><span class="asgreek">τις</span></big> <small><small><sup>[[G5100]]</sup></small></small> |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| word |<big><span class="asgreek">λόγον</span></big> <small><small><sup>[[G3056]]</sup></small></small> |logon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Mine |<big><span class="asgreek">μου</span></big> <small><small><sup>[[G3165]]</sup></small></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shall keep, |<big><span class="asgreek">τηρήσῃ,</span></big> <small><small><sup>[[G5083G]]</sup></small></small> |tērēsē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| certainly |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shall he taste [^3] |<big><span class="asgreek">γεύσηται</span></big> <small><small><sup>[[G1089]]</sup></small></small> |geusētai <small><sup>[[V-ADS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| of death |<big><span class="asgreek">θανάτου</span></big> <small><small><sup>[[G2288]]</sup></small></small> |thanatou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| age. |<big><span class="asgreek">αἰῶνα.</span></big> <small><small><sup>[[G0165H]]</sup></small></small> |aiōna <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.51|<< John 8:51]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.53|John 8:53 >>]]</td></tr></table>
 
 [^1]: ==WH== spelled: <span class='asgreek'>**εἶπαν**</span>

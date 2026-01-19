@@ -8,23 +8,23 @@ In many ways for we stumble all; If anyone in what he says not does stumble, thi
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| In many ways |<span class="asgreek">πολλὰ</span> <small><sup>[[G4183]]</sup></small> |polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we stumble |<span class="asgreek">πταίομεν</span> <small><sup>[[G4417]]</sup></small> |ptaiomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all; |<span class="asgreek">ἅπαντες·</span> <small><sup>[[G0537]]</sup></small> |hapantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| If |<span class="asgreek">εἴ</span> <small><sup>[[G1487G]]</sup></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| anyone |<span class="asgreek">τις</span> <small><sup>[[G5100]]</sup></small> |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| what he says |<span class="asgreek">λόγῳ</span> <small><sup>[[G3056]]</sup></small> |logō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">οὐ</span> <small><sup>[[G3756]]</sup></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| does stumble, |<span class="asgreek">πταίει,</span> <small><sup>[[G4417]]</sup></small> |ptaiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| this one [is] |<span class="asgreek">οὗτος</span> <small><sup>[[G3778]]</sup></small> |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a perfect |<span class="asgreek">τέλειος</span> <small><sup>[[G5046]]</sup></small> |teleios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| man, |<span class="asgreek">ἀνήρ,</span> <small><sup>[[G0435G]]</sup></small> |anēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| able |<span class="asgreek">δυνατὸς</span> <small><sup>[[G1415]]</sup></small> |dunatos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to bridle |<span class="asgreek">χαλιναγωγῆσαι</span> <small><sup>[[G5468]]</sup></small> |chalinagōgēsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| indeed |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<span class="asgreek">ὅλον</span> <small><sup>[[G3650]]</sup></small> |holon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| body. |<span class="asgreek">σῶμα.¶</span> <small><sup>[[G4983]]</sup></small> |sōma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| In many ways |<big><span class="asgreek">πολλὰ</span></big> <small><small><sup>[[G4183]]</sup></small></small> |polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we stumble |<big><span class="asgreek">πταίομεν</span></big> <small><small><sup>[[G4417]]</sup></small></small> |ptaiomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all; |<big><span class="asgreek">ἅπαντες·</span></big> <small><small><sup>[[G0537]]</sup></small></small> |hapantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| If |<big><span class="asgreek">εἴ</span></big> <small><small><sup>[[G1487G]]</sup></small></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| anyone |<big><span class="asgreek">τις</span></big> <small><small><sup>[[G5100]]</sup></small></small> |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| what he says |<big><span class="asgreek">λόγῳ</span></big> <small><small><sup>[[G3056]]</sup></small></small> |logō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| does stumble, |<big><span class="asgreek">πταίει,</span></big> <small><small><sup>[[G4417]]</sup></small></small> |ptaiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| this one [is] |<big><span class="asgreek">οὗτος</span></big> <small><small><sup>[[G3778]]</sup></small></small> |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a perfect |<big><span class="asgreek">τέλειος</span></big> <small><small><sup>[[G5046]]</sup></small></small> |teleios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| man, |<big><span class="asgreek">ἀνήρ,</span></big> <small><small><sup>[[G0435G]]</sup></small></small> |anēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| able |<big><span class="asgreek">δυνατὸς</span></big> <small><small><sup>[[G1415]]</sup></small></small> |dunatos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to bridle |<big><span class="asgreek">χαλιναγωγῆσαι</span></big> <small><small><sup>[[G5468]]</sup></small></small> |chalinagōgēsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| indeed |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |<big><span class="asgreek">ὅλον</span></big> <small><small><sup>[[G3650]]</sup></small></small> |holon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| body. |<big><span class="asgreek">σῶμα.¶</span></big> <small><small><sup>[[G4983]]</sup></small></small> |sōma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.1|<< James 3:1]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.3|James 3:3 >>]]</td></tr></table>

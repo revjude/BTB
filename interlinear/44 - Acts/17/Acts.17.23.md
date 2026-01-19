@@ -8,29 +8,29 @@ Passing through for and beholding the objects of worship of you I found even an 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Passing through |<span class="asgreek">διερχόμενος</span> <small><sup>[[G1330]]</sup></small> |dierchomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| beholding |<span class="asgreek">ἀναθεωρῶν</span> <small><sup>[[G0333]]</sup></small> |anatheōrōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὰ</span> <small><sup>[[G3588]]</sup></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| objects of worship |<span class="asgreek">σεβάσματα</span> <small><sup>[[G4574]]</sup></small> |sebasmata <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you |<span class="asgreek">ὑμῶν</span> <small><sup>[[G4771]]</sup></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I found |<span class="asgreek">εὗρον</span> <small><sup>[[G2147]]</sup></small> |heuron <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| even |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| an altar |<span class="asgreek">βωμὸν</span> <small><sup>[[G1041]]</sup></small> |bōmon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| on |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| which |<span class="asgreek">ᾧ</span> <small><sup>[[G3739]]</sup></small> |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| had been inscribed: |<span class="asgreek">ἐπεγέγραπτο·</span> <small><sup>[[G1924]]</sup></small> |epegegrapto <small><sup>[[V-LPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| To an unknown |<span class="asgreek">ἀγνώστῳ</span> <small><sup>[[G0057]]</sup></small> |agnōstō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| God. |<span class="asgreek">θεῷ.</span> <small><sup>[[G2316]]</sup></small> |theō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| whom [^1] |<span class="asgreek">ὃ</span> <small><sup>[[G3739]]</sup></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| therefore |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not knowing |<span class="asgreek">ἀγνοοῦντες</span> <small><sup>[[G0050]]</sup></small> |agnoountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you worship, |<span class="asgreek">εὐσεβεῖτε,</span> <small><sup>[[G2151]]</sup></small> |eusebeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him [^2] [^3] |<span class="asgreek">τοῦτο</span> <small><sup>[[G3778]]</sup></small> |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| I myself |<span class="asgreek">ἐγὼ</span> <small><sup>[[G1473]]</sup></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| proclaim |<span class="asgreek">καταγγέλλω</span> <small><sup>[[G2605]]</sup></small> |katangellō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to you. |<span class="asgreek">ὑμῖν.</span> <small><sup>[[G4771]]</sup></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Passing through |<big><span class="asgreek">διερχόμενος</span></big> <small><small><sup>[[G1330]]</sup></small></small> |dierchomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| beholding |<big><span class="asgreek">ἀναθεωρῶν</span></big> <small><small><sup>[[G0333]]</sup></small></small> |anatheōrōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὰ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| objects of worship |<big><span class="asgreek">σεβάσματα</span></big> <small><small><sup>[[G4574]]</sup></small></small> |sebasmata <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you |<big><span class="asgreek">ὑμῶν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I found |<big><span class="asgreek">εὗρον</span></big> <small><small><sup>[[G2147]]</sup></small></small> |heuron <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| even |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| an altar |<big><span class="asgreek">βωμὸν</span></big> <small><small><sup>[[G1041]]</sup></small></small> |bōmon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| on |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| which |<big><span class="asgreek">ᾧ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| had been inscribed: |<big><span class="asgreek">ἐπεγέγραπτο·</span></big> <small><small><sup>[[G1924]]</sup></small></small> |epegegrapto <small><sup>[[V-LPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| To an unknown |<big><span class="asgreek">ἀγνώστῳ</span></big> <small><small><sup>[[G0057]]</sup></small></small> |agnōstō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| God. |<big><span class="asgreek">θεῷ.</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| whom [^1] |<big><span class="asgreek">ὃ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| therefore |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not knowing |<big><span class="asgreek">ἀγνοοῦντες</span></big> <small><small><sup>[[G0050]]</sup></small></small> |agnoountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you worship, |<big><span class="asgreek">εὐσεβεῖτε,</span></big> <small><small><sup>[[G2151]]</sup></small></small> |eusebeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him [^2] [^3] |<big><span class="asgreek">τοῦτο</span></big> <small><small><sup>[[G3778]]</sup></small></small> |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| I myself |<big><span class="asgreek">ἐγὼ</span></big> <small><small><sup>[[G1473]]</sup></small></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| proclaim |<big><span class="asgreek">καταγγέλλω</span></big> <small><small><sup>[[G2605]]</sup></small></small> |katangellō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to you. |<big><span class="asgreek">ὑμῖν.</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.22|<< Acts 17:22]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.24|Acts 17:24 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: whom | <span class="asgreek">Ὃν</span><small><sup>[[G3739]]</sup></small> | Hon<small><sup>[[R-ASM]]</sup></small>

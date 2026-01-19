@@ -8,33 +8,33 @@ And came forth the seven angels those having the seven plagues out of the temple
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| came forth |<span class="asgreek">ἐξῆλθον</span> <small><sup>[[G1831]]</sup></small> [^1] |exēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| seven |<span class="asgreek">ἑπτὰ</span> <small><sup>[[G2033]]</sup></small> |hepta <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| angels |<span class="asgreek">ἄγγελοι</span> <small><sup>[[G0032G]]</sup></small> |angeloi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| those |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
-| having |<span class="asgreek">ἔχοντες</span> <small><sup>[[G2192]]</sup></small> |echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὰς</span> <small><sup>[[G3588]]</sup></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| seven |<span class="asgreek">ἑπτὰ</span> <small><sup>[[G2033]]</sup></small> |hepta <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| plagues |<span class="asgreek">πληγὰς</span> <small><sup>[[G4127]]</sup></small> |plēgas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| out |<span class="asgreek">ἐκ</span> <small><sup>[[G1537]]</sup></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| temple |<span class="asgreek">ναοῦ</span> <small><sup>[[G3485]]</sup></small> |naou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who |<span class="asgreek">οἳ</span> <small><sup>[[G3739]]</sup></small> |hoi <small><sup>[[R-NPM]]</sup></small> | <abbr title="Byz">o</abbr> | |
-| were |<span class="asgreek">ἦσαν</span> <small><sup>[[G1510]]</sup></small> |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="Byz">o</abbr> | |
-| having clothed themselves in |<span class="asgreek">ἐνδεδυμένοι</span> <small><sup>[[G1746]]</sup></small> |endedumenoi <small><sup>[[V-RMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| linen [^2] [^3] |<span class="asgreek">λίνον</span> <small><sup>[[G3043]]</sup></small> |linon <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NK(O)</abbr> | |
-| pure |<span class="asgreek">καθαρὸν</span> <small><sup>[[G2513]]</sup></small> |katharon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
-| bright |<span class="asgreek">λαμπρὸν</span> <small><sup>[[G2986]]</sup></small> |lampron <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having girded themselves with |<span class="asgreek">περιεζωσμένοι</span> <small><sup>[[G4024]]</sup></small> |periezōsmenoi <small><sup>[[V-RMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| around |<span class="asgreek">περὶ</span> <small><sup>[[G4012]]</sup></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὰ</span> <small><sup>[[G3588]]</sup></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| chests |<span class="asgreek">στήθη</span> <small><sup>[[G4738]]</sup></small> |stēthē <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| sashes |<span class="asgreek">ζώνας</span> <small><sup>[[G2223]]</sup></small> |zōnas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| golden. |<span class="asgreek">χρυσᾶς.</span> <small><sup>[[G5552]]</sup></small> |chrusas <small><sup>[[A-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| came forth |<big><span class="asgreek">ἐξῆλθον</span></big> <small><small><sup>[[G1831]]</sup></small></small> [^1] |exēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| seven |<big><span class="asgreek">ἑπτὰ</span></big> <small><small><sup>[[G2033]]</sup></small></small> |hepta <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| angels |<big><span class="asgreek">ἄγγελοι</span></big> <small><small><sup>[[G0032G]]</sup></small></small> |angeloi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| those |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
+| having |<big><span class="asgreek">ἔχοντες</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὰς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| seven |<big><span class="asgreek">ἑπτὰ</span></big> <small><small><sup>[[G2033]]</sup></small></small> |hepta <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| plagues |<big><span class="asgreek">πληγὰς</span></big> <small><small><sup>[[G4127]]</sup></small></small> |plēgas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| out |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| temple |<big><span class="asgreek">ναοῦ</span></big> <small><small><sup>[[G3485]]</sup></small></small> |naou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who |<big><span class="asgreek">οἳ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hoi <small><sup>[[R-NPM]]</sup></small> | <abbr title="Byz">o</abbr> | |
+| were |<big><span class="asgreek">ἦσαν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="Byz">o</abbr> | |
+| having clothed themselves in |<big><span class="asgreek">ἐνδεδυμένοι</span></big> <small><small><sup>[[G1746]]</sup></small></small> |endedumenoi <small><sup>[[V-RMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| linen [^2] [^3] |<big><span class="asgreek">λίνον</span></big> <small><small><sup>[[G3043]]</sup></small></small> |linon <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NK(O)</abbr> | |
+| pure |<big><span class="asgreek">καθαρὸν</span></big> <small><small><sup>[[G2513]]</sup></small></small> |katharon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
+| bright |<big><span class="asgreek">λαμπρὸν</span></big> <small><small><sup>[[G2986]]</sup></small></small> |lampron <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having girded themselves with |<big><span class="asgreek">περιεζωσμένοι</span></big> <small><small><sup>[[G4024]]</sup></small></small> |periezōsmenoi <small><sup>[[V-RMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| around |<big><span class="asgreek">περὶ</span></big> <small><small><sup>[[G4012]]</sup></small></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὰ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| chests |<big><span class="asgreek">στήθη</span></big> <small><small><sup>[[G4738]]</sup></small></small> |stēthē <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| sashes |<big><span class="asgreek">ζώνας</span></big> <small><small><sup>[[G2223]]</sup></small></small> |zōnas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| golden. |<big><span class="asgreek">χρυσᾶς.</span></big> <small><small><sup>[[G5552]]</sup></small></small> |chrusas <small><sup>[[A-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.5|<< Revelation 15:5]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.7|Revelation 15:7 >>]]</td></tr></table>
 
 [^1]: ==WH== spelled: <span class='asgreek'>**ἐξῆλθαν**</span>

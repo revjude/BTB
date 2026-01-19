@@ -8,24 +8,24 @@ Not did believe then the Jews concerning him that he was being blind and receive
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Not |<span class="asgreek">οὐκ</span> <small><sup>[[G3756]]</sup></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| did believe |<span class="asgreek">ἐπίστευσαν</span> <small><sup>[[G4100]]</sup></small> |episteusan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jews |<span class="asgreek">Ἰουδαῖοι</span> <small><sup>[[G2453]]</sup></small> |Ioudaioi <small><sup>[[N-NPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| concerning |<span class="asgreek">περὶ</span> <small><sup>[[G4012]]</sup></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he was being |<span class="asgreek">ἦν</span> <small><sup>[[G1510]]</sup></small> |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
-| blind |<span class="asgreek">τυφλὸς</span> <small><sup>[[G5185]]</sup></small> |tuphlos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| received sight |<span class="asgreek">ἀνέβλεψεν</span> <small><sup>[[G0308]]</sup></small> |aneblepsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| until |<span class="asgreek">ἕως</span> <small><sup>[[G2193]]</sup></small> |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| when |<span class="asgreek">ὅτου</span> <small><sup>[[G3748]]</sup></small> |hotou <small><sup>[[R-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they called |<span class="asgreek">ἐφώνησαν</span> <small><sup>[[G5455]]</sup></small> |ephōnēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| parents |<span class="asgreek">γονεῖς</span> <small><sup>[[G1118]]</sup></small> |goneis <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having received sight, |<span class="asgreek">ἀναβλέψαντος,</span> <small><sup>[[G0308]]</sup></small> |anablepsantos <small><sup>[[V-AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Not |<big><span class="asgreek">οὐκ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| did believe |<big><span class="asgreek">ἐπίστευσαν</span></big> <small><small><sup>[[G4100]]</sup></small></small> |episteusan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Jews |<big><span class="asgreek">Ἰουδαῖοι</span></big> <small><small><sup>[[G2453]]</sup></small></small> |Ioudaioi <small><sup>[[N-NPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| concerning |<big><span class="asgreek">περὶ</span></big> <small><small><sup>[[G4012]]</sup></small></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he was being |<big><span class="asgreek">ἦν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
+| blind |<big><span class="asgreek">τυφλὸς</span></big> <small><small><sup>[[G5185]]</sup></small></small> |tuphlos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| received sight |<big><span class="asgreek">ἀνέβλεψεν</span></big> <small><small><sup>[[G0308]]</sup></small></small> |aneblepsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| until |<big><span class="asgreek">ἕως</span></big> <small><small><sup>[[G2193]]</sup></small></small> |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| when |<big><span class="asgreek">ὅτου</span></big> <small><small><sup>[[G3748]]</sup></small></small> |hotou <small><sup>[[R-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they called |<big><span class="asgreek">ἐφώνησαν</span></big> <small><small><sup>[[G5455]]</sup></small></small> |ephōnēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| parents |<big><span class="asgreek">γονεῖς</span></big> <small><small><sup>[[G1118]]</sup></small></small> |goneis <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having received sight, |<big><span class="asgreek">ἀναβλέψαντος,</span></big> <small><small><sup>[[G0308]]</sup></small></small> |anablepsantos <small><sup>[[V-AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.17|<< John 9:17]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.19|John 9:19 >>]]</td></tr></table>

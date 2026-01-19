@@ -8,22 +8,22 @@ Thus will it be in the consummation of the age; will go out the angels and will 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Thus |<span class="asgreek">οὕτως</span> <small><sup>[[G3779]]</sup></small> |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will it be |<span class="asgreek">ἔσται</span> <small><sup>[[G1510]]</sup></small> |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῇ</span> <small><sup>[[G3588]]</sup></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| consummation |<span class="asgreek">συντελείᾳ</span> <small><sup>[[G4930]]</sup></small> |sunteleia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| age; |<span class="asgreek">αἰῶνος·</span> <small><sup>[[G0165G]]</sup></small> |aiōnos <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will go out |<span class="asgreek">ἐξελεύσονται</span> <small><sup>[[G1831]]</sup></small> |exeleusontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| angels |<span class="asgreek">ἄγγελοι</span> <small><sup>[[G0032G]]</sup></small> |angeloi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will separate |<span class="asgreek">ἀφοριοῦσιν</span> <small><sup>[[G0873]]</sup></small> |aphoriousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| evil |<span class="asgreek">πονηροὺς</span> <small><sup>[[G4190]]</sup></small> |ponērous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">ἐκ</span> <small><sup>[[G1537]]</sup></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] midst |<span class="asgreek">μέσου</span> <small><sup>[[G3319]]</sup></small> |mesou <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| righteous |<span class="asgreek">δικαίων</span> <small><sup>[[G1342]]</sup></small> |dikaiōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Thus |<big><span class="asgreek">οὕτως</span></big> <small><small><sup>[[G3779]]</sup></small></small> |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will it be |<big><span class="asgreek">ἔσται</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| consummation |<big><span class="asgreek">συντελείᾳ</span></big> <small><small><sup>[[G4930]]</sup></small></small> |sunteleia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| age; |<big><span class="asgreek">αἰῶνος·</span></big> <small><small><sup>[[G0165G]]</sup></small></small> |aiōnos <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will go out |<big><span class="asgreek">ἐξελεύσονται</span></big> <small><small><sup>[[G1831]]</sup></small></small> |exeleusontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| angels |<big><span class="asgreek">ἄγγελοι</span></big> <small><small><sup>[[G0032G]]</sup></small></small> |angeloi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will separate |<big><span class="asgreek">ἀφοριοῦσιν</span></big> <small><small><sup>[[G0873]]</sup></small></small> |aphoriousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| evil |<big><span class="asgreek">πονηροὺς</span></big> <small><small><sup>[[G4190]]</sup></small></small> |ponērous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] midst |<big><span class="asgreek">μέσου</span></big> <small><small><sup>[[G3319]]</sup></small></small> |mesou <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| righteous |<big><span class="asgreek">δικαίων</span></big> <small><small><sup>[[G1342]]</sup></small></small> |dikaiōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.48|<< Matthew 13:48]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.50|Matthew 13:50 >>]]</td></tr></table>

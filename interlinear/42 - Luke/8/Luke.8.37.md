@@ -8,30 +8,30 @@ And asked Him all the multitude of the surrounding region of the Gerasenes to de
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| asked [^1] |<span class="asgreek">ἠρώτησεν</span> <small><sup>[[G2065]]</sup></small> |ērōtēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| Him |<span class="asgreek">αὐτὸν</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<span class="asgreek">ἅπαν</span> <small><sup>[[G0537]]</sup></small> |hapan <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| multitude |<span class="asgreek">πλῆθος</span> <small><sup>[[G4128]]</sup></small> |plēthos <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| surrounding region |<span class="asgreek">περιχώρου</span> <small><sup>[[G4066]]</sup></small> |perichōrou <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Gerasenes [^2] [^3] |<span class="asgreek">Γερασηνῶν</span> <small><sup>[[G1086G]]</sup></small> |Gerasēnōn <small><sup>[[N-GPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| to depart |<span class="asgreek">ἀπελθεῖν</span> <small><sup>[[G0565]]</sup></small> |apelthein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">ἀπ᾽</span> <small><sup>[[G0575]]</sup></small> |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| them, |<span class="asgreek">αὐτῶν,</span> <small><sup>[[G0846]]</sup></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| because |<span class="asgreek">ὅτι</span> <small><sup>[[G3754H]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with fear |<span class="asgreek">φόβῳ</span> <small><sup>[[G5401]]</sup></small> |phobō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| great |<span class="asgreek">μεγάλῳ</span> <small><sup>[[G3173]]</sup></small> |megalō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they were seized. |<span class="asgreek">συνείχοντο.¶</span> <small><sup>[[G4912]]</sup></small> |suneichonto <small><sup>[[V-IPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He himself |<span class="asgreek">Αὐτὸς</span> <small><sup>[[G0846]]</sup></small> |Autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having climbed |<span class="asgreek">ἐμβὰς</span> <small><sup>[[G1684]]</sup></small> |embas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| into |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| boat |<span class="asgreek">πλοῖον</span> <small><sup>[[G4143]]</sup></small> |ploion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| turned back. |<span class="asgreek">ὑπέστρεψεν.</span> <small><sup>[[G5290]]</sup></small> |hupestrepsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| asked [^1] |<big><span class="asgreek">ἠρώτησεν</span></big> <small><small><sup>[[G2065]]</sup></small></small> |ērōtēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| Him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |<big><span class="asgreek">ἅπαν</span></big> <small><small><sup>[[G0537]]</sup></small></small> |hapan <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| multitude |<big><span class="asgreek">πλῆθος</span></big> <small><small><sup>[[G4128]]</sup></small></small> |plēthos <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| surrounding region |<big><span class="asgreek">περιχώρου</span></big> <small><small><sup>[[G4066]]</sup></small></small> |perichōrou <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Gerasenes [^2] [^3] |<big><span class="asgreek">Γερασηνῶν</span></big> <small><small><sup>[[G1086G]]</sup></small></small> |Gerasēnōn <small><sup>[[N-GPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| to depart |<big><span class="asgreek">ἀπελθεῖν</span></big> <small><small><sup>[[G0565]]</sup></small></small> |apelthein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">ἀπ᾽</span></big> <small><small><sup>[[G0575]]</sup></small></small> |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| them, |<big><span class="asgreek">αὐτῶν,</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| because |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754H]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with fear |<big><span class="asgreek">φόβῳ</span></big> <small><small><sup>[[G5401]]</sup></small></small> |phobō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| great |<big><span class="asgreek">μεγάλῳ</span></big> <small><small><sup>[[G3173]]</sup></small></small> |megalō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they were seized. |<big><span class="asgreek">συνείχοντο.¶</span></big> <small><small><sup>[[G4912]]</sup></small></small> |suneichonto <small><sup>[[V-IPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He himself |<big><span class="asgreek">Αὐτὸς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |Autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having climbed |<big><span class="asgreek">ἐμβὰς</span></big> <small><small><sup>[[G1684]]</sup></small></small> |embas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| boat |<big><span class="asgreek">πλοῖον</span></big> <small><small><sup>[[G4143]]</sup></small></small> |ploion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| turned back. |<big><span class="asgreek">ὑπέστρεψεν.</span></big> <small><small><sup>[[G5290]]</sup></small></small> |hupestrepsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.36|<< Luke 8:36]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.38|Luke 8:38 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: they asked | <span class="asgreek">ἠρώτησαν</span><small><sup>[[G2065]]</sup></small> | ērōtēsan<small><sup>[[V-AAI-3P]]</sup></small>

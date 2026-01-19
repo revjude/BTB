@@ -8,23 +8,23 @@ I say for to you that to everyone who is having will be given, from however the 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I say |<span class="asgreek">λέγω</span> <small><sup>[[G3004G]]</sup></small> |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
-| to you |<span class="asgreek">ὑμῖν</span> <small><sup>[[G4771]]</sup></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to everyone |<span class="asgreek">παντὶ</span> <small><sup>[[G3956]]</sup></small> |panti <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who |<span class="asgreek">τῷ</span> <small><sup>[[G3588]]</sup></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is having |<span class="asgreek">ἔχοντι</span> <small><sup>[[G2192]]</sup></small> |echonti <small><sup>[[V-PAP-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will be given, |<span class="asgreek">δοθήσεται,</span> <small><sup>[[G1325]]</sup></small> |dothēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">ἀπὸ</span> <small><sup>[[G0575]]</sup></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the [one] |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having |<span class="asgreek">ἔχοντος</span> <small><sup>[[G2192]]</sup></small> |echontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| even |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that which |<span class="asgreek">ὃ</span> <small><sup>[[G3739]]</sup></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he has |<span class="asgreek">ἔχει</span> <small><sup>[[G2192]]</sup></small> |echei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will be taken away |<span class="asgreek">ἀρθήσεται</span> <small><sup>[[G0142]]</sup></small> |arthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">ἀπ᾽</span> <small><sup>[[G0575]]</sup></small> |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
-| of him. |<span class="asgreek">αὐτοῦ.¶</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
+| I say |<big><span class="asgreek">λέγω</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
+| to you |<big><span class="asgreek">ὑμῖν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to everyone |<big><span class="asgreek">παντὶ</span></big> <small><small><sup>[[G3956]]</sup></small></small> |panti <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is having |<big><span class="asgreek">ἔχοντι</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echonti <small><sup>[[V-PAP-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will be given, |<big><span class="asgreek">δοθήσεται,</span></big> <small><small><sup>[[G1325]]</sup></small></small> |dothēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">ἀπὸ</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [one] |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having |<big><span class="asgreek">ἔχοντος</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| even |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that which |<big><span class="asgreek">ὃ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he has |<big><span class="asgreek">ἔχει</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will be taken away |<big><span class="asgreek">ἀρθήσεται</span></big> <small><small><sup>[[G0142]]</sup></small></small> |arthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">ἀπ᾽</span></big> <small><small><sup>[[G0575]]</sup></small></small> |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
+| of him. |<big><span class="asgreek">αὐτοῦ.¶</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.25|<< Luke 19:25]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.27|Luke 19:27 >>]]</td></tr></table>

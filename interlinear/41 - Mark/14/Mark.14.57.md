@@ -8,11 +8,11 @@ And some having risen up were bearing false testimony against Him saying<br><tab
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">Καί</span> <small><sup>[[G2532]]</sup></small> |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| some |<span class="asgreek">τινες</span> <small><sup>[[G5100]]</sup></small> |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having risen up |<span class="asgreek">ἀναστάντες</span> <small><sup>[[G0450]]</sup></small> |anastantes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| were bearing false testimony |<span class="asgreek">ἐψευδομαρτύρουν</span> <small><sup>[[G5576]]</sup></small> |epseudomarturoun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| against |<span class="asgreek">κατ᾽</span> <small><sup>[[G2596]]</sup></small> |kat᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying |<span class="asgreek">λέγοντες</span> <small><sup>[[G3004G]]</sup></small> |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">Καί</span></big> <small><small><sup>[[G2532]]</sup></small></small> |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| some |<big><span class="asgreek">τινες</span></big> <small><small><sup>[[G5100]]</sup></small></small> |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having risen up |<big><span class="asgreek">ἀναστάντες</span></big> <small><small><sup>[[G0450]]</sup></small></small> |anastantes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were bearing false testimony |<big><span class="asgreek">ἐψευδομαρτύρουν</span></big> <small><small><sup>[[G5576]]</sup></small></small> |epseudomarturoun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| against |<big><span class="asgreek">κατ᾽</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kat᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying |<big><span class="asgreek">λέγοντες</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.56|<< Mark 14:56]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.58|Mark 14:58 >>]]</td></tr></table>

@@ -8,28 +8,28 @@ so that may present He himself to Himself in glory the church not having spot or
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| so that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may present |<span class="asgreek">παραστήσῃ</span> <small><sup>[[G3936]]</sup></small> |parastēsē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He himself [^1] |<span class="asgreek">αὐτὸς</span> <small><sup>[[G0846]]</sup></small> |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| to Himself |<span class="asgreek">ἑαυτῷ</span> <small><sup>[[G1438]]</sup></small> |he'autō <small><sup>[[F-3DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in glory |<span class="asgreek">ἔνδοξον</span> <small><sup>[[G1741]]</sup></small> |endoxon <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| church |<span class="asgreek">ἐκκλησίαν</span> <small><sup>[[G1577]]</sup></small> |ekklēsian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having |<span class="asgreek">ἔχουσαν</span> <small><sup>[[G2192]]</sup></small> |echousan <small><sup>[[V-PAP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| spot |<span class="asgreek">σπίλον</span> <small><sup>[[G4696]]</sup></small> |spilon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| or |<span class="asgreek">ἢ</span> <small><sup>[[G2228]]</sup></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| wrinkle |<span class="asgreek">ῥυτίδα</span> <small><sup>[[G4512]]</sup></small> |rhutida <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| or |<span class="asgreek">ἤ</span> <small><sup>[[G2228]]</sup></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| any |<span class="asgreek">τι</span> <small><sup>[[G5100]]</sup></small> |ti <small><sup>[[X-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| such things, |<span class="asgreek">τοιούτων,</span> <small><sup>[[G5108]]</sup></small> |toioutōn <small><sup>[[D-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| but |<span class="asgreek">ἀλλ᾽</span> <small><sup>[[G0235]]</sup></small> |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it may be |<span class="asgreek">ᾖ</span> <small><sup>[[G1510]]</sup></small> |ē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| holy |<span class="asgreek">ἁγία</span> <small><sup>[[G0040G]]</sup></small> |hagia <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| blameless. |<span class="asgreek">ἄμωμος.</span> <small><sup>[[G0299]]</sup></small> |amōmos <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may present |<big><span class="asgreek">παραστήσῃ</span></big> <small><small><sup>[[G3936]]</sup></small></small> |parastēsē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He himself [^1] |<big><span class="asgreek">αὐτὸς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| to Himself |<big><span class="asgreek">ἑαυτῷ</span></big> <small><small><sup>[[G1438]]</sup></small></small> |he'autō <small><sup>[[F-3DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in glory |<big><span class="asgreek">ἔνδοξον</span></big> <small><small><sup>[[G1741]]</sup></small></small> |endoxon <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| church |<big><span class="asgreek">ἐκκλησίαν</span></big> <small><small><sup>[[G1577]]</sup></small></small> |ekklēsian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having |<big><span class="asgreek">ἔχουσαν</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echousan <small><sup>[[V-PAP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| spot |<big><span class="asgreek">σπίλον</span></big> <small><small><sup>[[G4696]]</sup></small></small> |spilon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| wrinkle |<big><span class="asgreek">ῥυτίδα</span></big> <small><small><sup>[[G4512]]</sup></small></small> |rhutida <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| or |<big><span class="asgreek">ἤ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| any |<big><span class="asgreek">τι</span></big> <small><small><sup>[[G5100]]</sup></small></small> |ti <small><sup>[[X-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| such things, |<big><span class="asgreek">τοιούτων,</span></big> <small><small><sup>[[G5108]]</sup></small></small> |toioutōn <small><sup>[[D-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| but |<big><span class="asgreek">ἀλλ᾽</span></big> <small><small><sup>[[G0235]]</sup></small></small> |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it may be |<big><span class="asgreek">ᾖ</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| holy |<big><span class="asgreek">ἁγία</span></big> <small><small><sup>[[G0040G]]</sup></small></small> |hagia <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| blameless. |<big><span class="asgreek">ἄμωμος.</span></big> <small><small><sup>[[G0299]]</sup></small></small> |amōmos <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.26|<< Ephesians 5:26]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.28|Ephesians 5:28 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: her | <span class="asgreek">αὐτὴν</span><small><sup>[[G0846]]</sup></small> | autēn<small><sup>[[P-ASF]]</sup></small>

@@ -8,29 +8,29 @@ I myself however say to you that everyone who is divorcing the wife of him excep
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I myself |<span class="asgreek">ἐγὼ</span> <small><sup>[[G1473]]</sup></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| say |<span class="asgreek">λέγω</span> <small><sup>[[G3004G]]</sup></small> |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to you |<span class="asgreek">ὑμῖν</span> <small><sup>[[G4771]]</sup></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| everyone [^1] |<span class="asgreek">πᾶς</span> <small><sup>[[G3956]]</sup></small> |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| who [^2] |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| is divorcing [^3] |<span class="asgreek">ἀπολύων</span> <small><sup>[[G0630H]]</sup></small> |apoluōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| wife |<span class="asgreek">γυναῖκα</span> <small><sup>[[G1135H]]</sup></small> |gunaika <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| except |<span class="asgreek">παρεκτὸς</span> <small><sup>[[G3924]]</sup></small> |parektos <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| on account |<span class="asgreek">λόγου</span> <small><sup>[[G3056]]</sup></small> |logou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of sexual immorality |<span class="asgreek">πορνείας</span> <small><sup>[[G4202]]</sup></small> |porneias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| causes |<span class="asgreek">ποιεῖ</span> <small><sup>[[G4160G]]</sup></small> |poiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| her |<span class="asgreek">αὐτὴν</span> <small><sup>[[G0846]]</sup></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to be adulterated; [^4] [^5] |<span class="asgreek">μοιχευθῆναι·</span> <small><sup>[[G3431]]</sup></small> |moicheuthēnai <small><sup>[[V-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who[ever] |<span class="asgreek">ὃς</span> <small><sup>[[G3739]]</sup></small> |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| if |<span class="asgreek">ἐὰν</span> <small><sup>[[G1437]]</sup></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| divorced |<span class="asgreek">ἀπολελυμένην</span> <small><sup>[[G0620]]</sup></small> |apolelumenēn <small><sup>[[V-RPP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shall marry, |<span class="asgreek">γαμήσῃ,</span> <small><sup>[[G1060]]</sup></small> |gamēsē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| commits adultery. |<span class="asgreek">μοιχᾶται.¶</span> <small><sup>[[G3429]]</sup></small> |moichatai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I myself |<big><span class="asgreek">ἐγὼ</span></big> <small><small><sup>[[G1473]]</sup></small></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| say |<big><span class="asgreek">λέγω</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to you |<big><span class="asgreek">ὑμῖν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| everyone [^1] |<big><span class="asgreek">πᾶς</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| who [^2] |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| is divorcing [^3] |<big><span class="asgreek">ἀπολύων</span></big> <small><small><sup>[[G0630H]]</sup></small></small> |apoluōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| wife |<big><span class="asgreek">γυναῖκα</span></big> <small><small><sup>[[G1135H]]</sup></small></small> |gunaika <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| except |<big><span class="asgreek">παρεκτὸς</span></big> <small><small><sup>[[G3924]]</sup></small></small> |parektos <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| on account |<big><span class="asgreek">λόγου</span></big> <small><small><sup>[[G3056]]</sup></small></small> |logou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of sexual immorality |<big><span class="asgreek">πορνείας</span></big> <small><small><sup>[[G4202]]</sup></small></small> |porneias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| causes |<big><span class="asgreek">ποιεῖ</span></big> <small><small><sup>[[G4160G]]</sup></small></small> |poiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| her |<big><span class="asgreek">αὐτὴν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to be adulterated; [^4] [^5] |<big><span class="asgreek">μοιχευθῆναι·</span></big> <small><small><sup>[[G3431]]</sup></small></small> |moicheuthēnai <small><sup>[[V-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who[ever] |<big><span class="asgreek">ὃς</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| if |<big><span class="asgreek">ἐὰν</span></big> <small><small><sup>[[G1437]]</sup></small></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| divorced |<big><span class="asgreek">ἀπολελυμένην</span></big> <small><small><sup>[[G0620]]</sup></small></small> |apolelumenēn <small><sup>[[V-RPP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shall marry, |<big><span class="asgreek">γαμήσῃ,</span></big> <small><small><sup>[[G1060]]</sup></small></small> |gamēsē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| commits adultery. |<big><span class="asgreek">μοιχᾶται.¶</span></big> <small><small><sup>[[G3429]]</sup></small></small> |moichatai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.31|<< Matthew 5:31]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.33|Matthew 5:33 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: who[ever] | <span class="asgreek">ὃς</span><small><sup>[[G3739]]</sup></small> | hos<small><sup>[[R-NSM]]</sup></small>

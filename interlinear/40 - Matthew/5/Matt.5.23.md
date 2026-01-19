@@ -8,23 +8,23 @@ If therefore you shall offer the gift of you at the altar and there shall rememb
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| If |<span class="asgreek">Ἐὰν</span> <small><sup>[[G1437]]</sup></small> |Ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| therefore |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you shall offer |<span class="asgreek">προσφέρῃς</span> <small><sup>[[G4374]]</sup></small> |prospherēs <small><sup>[[V-PAS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| gift |<span class="asgreek">δῶρόν</span> <small><sup>[[G1435]]</sup></small> |dōron <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you |<span class="asgreek">σου</span> <small><sup>[[G4771]]</sup></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| at |<span class="asgreek">ἐπὶ</span> <small><sup>[[G1909]]</sup></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| altar |<span class="asgreek">θυσιαστήριον</span> <small><sup>[[G2379]]</sup></small> |thusiastērion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and there |<span class="asgreek">κἀκεῖ</span> <small><sup>[[G2532]]</sup></small> |kakei <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shall remember |<span class="asgreek">μνησθῇς</span> <small><sup>[[G3403]]</sup></small> |mnēsthēas <small><sup>[[V-APS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| brother |<span class="asgreek">ἀδελφός</span> <small><sup>[[G0080]]</sup></small> |adelphos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you |<span class="asgreek">σου</span> <small><sup>[[G4771]]</sup></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| has |<span class="asgreek">ἔχει</span> <small><sup>[[G2192]]</sup></small> |echei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| something |<span class="asgreek">τι</span> <small><sup>[[G5100]]</sup></small> |ti <small><sup>[[X-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| against |<span class="asgreek">κατὰ</span> <small><sup>[[G2596]]</sup></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you, |<span class="asgreek">σοῦ,</span> <small><sup>[[G4771]]</sup></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| If |<big><span class="asgreek">Ἐὰν</span></big> <small><small><sup>[[G1437]]</sup></small></small> |Ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| therefore |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you shall offer |<big><span class="asgreek">προσφέρῃς</span></big> <small><small><sup>[[G4374]]</sup></small></small> |prospherēs <small><sup>[[V-PAS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| gift |<big><span class="asgreek">δῶρόν</span></big> <small><small><sup>[[G1435]]</sup></small></small> |dōron <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you |<big><span class="asgreek">σου</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| at |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| altar |<big><span class="asgreek">θυσιαστήριον</span></big> <small><small><sup>[[G2379]]</sup></small></small> |thusiastērion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and there |<big><span class="asgreek">κἀκεῖ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kakei <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shall remember |<big><span class="asgreek">μνησθῇς</span></big> <small><small><sup>[[G3403]]</sup></small></small> |mnēsthēas <small><sup>[[V-APS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| brother |<big><span class="asgreek">ἀδελφός</span></big> <small><small><sup>[[G0080]]</sup></small></small> |adelphos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you |<big><span class="asgreek">σου</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| has |<big><span class="asgreek">ἔχει</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| something |<big><span class="asgreek">τι</span></big> <small><small><sup>[[G5100]]</sup></small></small> |ti <small><sup>[[X-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| against |<big><span class="asgreek">κατὰ</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you, |<big><span class="asgreek">σοῦ,</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.22|<< Matthew 5:22]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.24|Matthew 5:24 >>]]</td></tr></table>

@@ -8,14 +8,14 @@ bread of mighty [ones] he ate everyone food he sent to  them to  satiety<br><tab
 
 | Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| bread of  | <span class="ashebrew"><big>לֶ֣חֶם</big></span><small><sup>[[H3899H]]</sup></small> &#8207;| Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mighty [ones]  | <span class="ashebrew"><big>אַ֭בִּירִים</big></span><small><sup>[[H0047J]]</sup></small> &#8207;| 'A.bi.rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he ate  | <span class="ashebrew"><big>אָ֣כַל</big></span><small><sup>[[H0398]]</sup></small> &#8207;| 'A.khal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| everyone  | <span class="ashebrew"><big>אִ֑ישׁ</big></span><small><sup>[[H0376I]]</sup></small> &#8207;| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| food  | <span class="ashebrew"><big>צֵידָ֬ה</big></span><small><sup>[[H6720]]</sup></small> &#8207;| tzei.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he sent  | <span class="ashebrew"><big>שָׁלַ֖ח</big></span><small><sup>[[H7971G]]</sup></small> &#8207;| sha.Lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to them  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>הֶ֣ם</big></span><small><sup>[[H9038]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to satiety  | <span class="ashebrew"><big>לָ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>שֹֽׂבַע</big></span><small><sup>[[H7648]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Soa'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bread of  | <span class="ashebrew"><big>לֶ֣חֶם</big></span><small><small><sup>[[H3899H]]</sup></small></small> &#8207;| Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mighty [ones]  | <span class="ashebrew"><big>אַ֭בִּירִים</big></span><small><small><sup>[[H0047J]]</sup></small></small> &#8207;| 'A.bi.rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he ate  | <span class="ashebrew"><big>אָ֣כַל</big></span><small><small><sup>[[H0398]]</sup></small></small> &#8207;| 'A.khal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| everyone  | <span class="ashebrew"><big>אִ֑ישׁ</big></span><small><small><sup>[[H0376I]]</sup></small></small> &#8207;| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food  | <span class="ashebrew"><big>צֵידָ֬ה</big></span><small><small><sup>[[H6720]]</sup></small></small> &#8207;| tzei.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he sent  | <span class="ashebrew"><big>שָׁלַ֖ח</big></span><small><small><sup>[[H7971G]]</sup></small></small> &#8207;| sha.Lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  | <span class="ashebrew"><big>לָ</big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>הֶ֣ם</big></span><small><small><sup>[[H9038]]</sup></small></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to satiety  | <span class="ashebrew"><big>לָ</big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>שֹֽׂבַע</big></span><small><small><sup>[[H7648]]</sup></small></small> <span class="ashebrew"><big>׃</big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| la.<small><sup>[[HR]]</sup></small> Soa'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.24|<< Psalms 78:24]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.26|Psalms 78:26 >>]]</td></tr></table>
 
 

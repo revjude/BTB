@@ -8,17 +8,17 @@ To whom then did He swear that not to enter into the rest of Him only except to 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| To whom |<span class="asgreek">τίσιν</span> <small><sup>[[G5101]]</sup></small> |tisin <small><sup>[[I-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| did He swear that |<span class="asgreek">ὤμοσεν</span> <small><sup>[[G3660]]</sup></small> |ōmosen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to enter |<span class="asgreek">εἰσελεύσεσθαι</span> <small><sup>[[G1525]]</sup></small> |eiseleusesthai <small><sup>[[V-FDN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| into |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| rest |<span class="asgreek">κατάπαυσιν</span> <small><sup>[[G2663]]</sup></small> |katapausin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| only |<span class="asgreek">εἰ</span> <small><sup>[[G1487H]]</sup></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| except |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to those |<span class="asgreek">τοῖς</span> <small><sup>[[G3588]]</sup></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having disobeyed? |<span class="asgreek">ἀπειθήσασιν;</span> <small><sup>[[G0544]]</sup></small> |apeithēsasin <small><sup>[[V-AAP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| To whom |<big><span class="asgreek">τίσιν</span></big> <small><small><sup>[[G5101]]</sup></small></small> |tisin <small><sup>[[I-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| did He swear that |<big><span class="asgreek">ὤμοσεν</span></big> <small><small><sup>[[G3660]]</sup></small></small> |ōmosen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to enter |<big><span class="asgreek">εἰσελεύσεσθαι</span></big> <small><small><sup>[[G1525]]</sup></small></small> |eiseleusesthai <small><sup>[[V-FDN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| rest |<big><span class="asgreek">κατάπαυσιν</span></big> <small><small><sup>[[G2663]]</sup></small></small> |katapausin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| only |<big><span class="asgreek">εἰ</span></big> <small><small><sup>[[G1487H]]</sup></small></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| except |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to those |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having disobeyed? |<big><span class="asgreek">ἀπειθήσασιν;</span></big> <small><small><sup>[[G0544]]</sup></small></small> |apeithēsasin <small><sup>[[V-AAP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.17|<< Hebrews 3:17]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.19|Hebrews 3:19 >>]]</td></tr></table>

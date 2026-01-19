@@ -8,17 +8,17 @@ Truly for not was created man on account of the woman but woman on account of th
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Truly |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">οὐκ</span> <small><sup>[[G3756]]</sup></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was created |<span class="asgreek">ἐκτίσθη</span> <small><sup>[[G2936]]</sup></small> |ektisthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| man |<span class="asgreek">ἀνὴρ</span> <small><sup>[[G0435G]]</sup></small> |anēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| on account of |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| woman |<span class="asgreek">γυναῖκα</span> <small><sup>[[G1135G]]</sup></small> |gunaika <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| but |<span class="asgreek">ἀλλὰ</span> <small><sup>[[G0235]]</sup></small> |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| woman |<span class="asgreek">γυνὴ</span> <small><sup>[[G1135G]]</sup></small> |gunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| on account of |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| man; |<span class="asgreek">ἄνδρα·</span> <small><sup>[[G0435G]]</sup></small> |andra <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Truly |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">οὐκ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was created |<big><span class="asgreek">ἐκτίσθη</span></big> <small><small><sup>[[G2936]]</sup></small></small> |ektisthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| man |<big><span class="asgreek">ἀνὴρ</span></big> <small><small><sup>[[G0435G]]</sup></small></small> |anēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| on account of |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| woman |<big><span class="asgreek">γυναῖκα</span></big> <small><small><sup>[[G1135G]]</sup></small></small> |gunaika <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| but |<big><span class="asgreek">ἀλλὰ</span></big> <small><small><sup>[[G0235]]</sup></small></small> |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| woman |<big><span class="asgreek">γυνὴ</span></big> <small><small><sup>[[G1135G]]</sup></small></small> |gunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| on account of |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| man; |<big><span class="asgreek">ἄνδρα·</span></big> <small><small><sup>[[G0435G]]</sup></small></small> |andra <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.8|<< 1 Corinthians 11:8]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.10|1 Corinthians 11:10 >>]]</td></tr></table>

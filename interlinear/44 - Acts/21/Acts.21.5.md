@@ -8,34 +8,34 @@ When then it happened that we [were] completing the days, having set out we were
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| When |<span class="asgreek">ὅτε</span> <small><sup>[[G3753]]</sup></small> |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it happened that |<span class="asgreek">ἐγένετο</span> <small><sup>[[G1096]]</sup></small> |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we |<span class="asgreek">ἡμᾶς</span> <small><sup>[[G3165]]</sup></small> |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn»1+SBL»1+WH»1+Treg»1+TR+Byz">NKO</abbr> | |
-| [were] completing |<span class="asgreek">ἐξαρτίσαι</span> <small><sup>[[G1822]]</sup></small> |exartisai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὰς</span> <small><sup>[[G3588]]</sup></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| days, |<span class="asgreek">ἡμέρας,</span> <small><sup>[[G2250]]</sup></small> |hēmeras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having set out |<span class="asgreek">ἐξελθόντες</span> <small><sup>[[G1831]]</sup></small> |exelthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we were journeying |<span class="asgreek">ἐπορευόμεθα</span> <small><sup>[[G4198]]</sup></small> |eporeuometha <small><sup>[[V-INI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| while are accompanying |<span class="asgreek">προπεμπόντων</span> <small><sup>[[G4311]]</sup></small> |propempontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| us |<span class="asgreek">ἡμᾶς</span> <small><sup>[[G3165]]</sup></small> |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| everyone |<span class="asgreek">πάντων</span> <small><sup>[[G3956]]</sup></small> |pantōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<span class="asgreek">σὺν</span> <small><sup>[[G4862]]</sup></small> |sun <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| wives |<span class="asgreek">γυναιξὶν</span> <small><sup>[[G1135H]]</sup></small> |gunaixin <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| children |<span class="asgreek">τέκνοις</span> <small><sup>[[G5043]]</sup></small> |teknois <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| as far as |<span class="asgreek">ἕως</span> <small><sup>[[G2193]]</sup></small> |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| outside |<span class="asgreek">ἔξω</span> <small><sup>[[G1854]]</sup></small> |exō <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| city, |<span class="asgreek">πόλεως,</span> <small><sup>[[G4172]]</sup></small> |poleōs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having bowed |<span class="asgreek">θέντες</span> <small><sup>[[G5087]]</sup></small> |thentes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὰ</span> <small><sup>[[G3588]]</sup></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| knees |<span class="asgreek">γόνατα</span> <small><sup>[[G1119]]</sup></small> |gonata <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| on |<span class="asgreek">ἐπὶ</span> <small><sup>[[G1909]]</sup></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shore |<span class="asgreek">αἰγιαλὸν</span> <small><sup>[[G0123]]</sup></small> |aigialon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having prayed [^1] |<span class="asgreek">προσευξάμενοι</span> <small><sup>[[G4336]]</sup></small> |proseuxamenoi <small><sup>[[V-ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| When |<big><span class="asgreek">ὅτε</span></big> <small><small><sup>[[G3753]]</sup></small></small> |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it happened that |<big><span class="asgreek">ἐγένετο</span></big> <small><small><sup>[[G1096]]</sup></small></small> |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we |<big><span class="asgreek">ἡμᾶς</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn»1+SBL»1+WH»1+Treg»1+TR+Byz">NKO</abbr> | |
+| [were] completing |<big><span class="asgreek">ἐξαρτίσαι</span></big> <small><small><sup>[[G1822]]</sup></small></small> |exartisai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὰς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| days, |<big><span class="asgreek">ἡμέρας,</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmeras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having set out |<big><span class="asgreek">ἐξελθόντες</span></big> <small><small><sup>[[G1831]]</sup></small></small> |exelthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we were journeying |<big><span class="asgreek">ἐπορευόμεθα</span></big> <small><small><sup>[[G4198]]</sup></small></small> |eporeuometha <small><sup>[[V-INI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| while are accompanying |<big><span class="asgreek">προπεμπόντων</span></big> <small><small><sup>[[G4311]]</sup></small></small> |propempontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| us |<big><span class="asgreek">ἡμᾶς</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| everyone |<big><span class="asgreek">πάντων</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pantōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |<big><span class="asgreek">σὺν</span></big> <small><small><sup>[[G4862]]</sup></small></small> |sun <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| wives |<big><span class="asgreek">γυναιξὶν</span></big> <small><small><sup>[[G1135H]]</sup></small></small> |gunaixin <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| children |<big><span class="asgreek">τέκνοις</span></big> <small><small><sup>[[G5043]]</sup></small></small> |teknois <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| as far as |<big><span class="asgreek">ἕως</span></big> <small><small><sup>[[G2193]]</sup></small></small> |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| outside |<big><span class="asgreek">ἔξω</span></big> <small><small><sup>[[G1854]]</sup></small></small> |exō <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| city, |<big><span class="asgreek">πόλεως,</span></big> <small><small><sup>[[G4172]]</sup></small></small> |poleōs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having bowed |<big><span class="asgreek">θέντες</span></big> <small><small><sup>[[G5087]]</sup></small></small> |thentes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὰ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| knees |<big><span class="asgreek">γόνατα</span></big> <small><small><sup>[[G1119]]</sup></small></small> |gonata <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| on |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shore |<big><span class="asgreek">αἰγιαλὸν</span></big> <small><small><sup>[[G0123]]</sup></small></small> |aigialon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having prayed [^1] |<big><span class="asgreek">προσευξάμενοι</span></big> <small><small><sup>[[G4336]]</sup></small></small> |proseuxamenoi <small><sup>[[V-ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.4|<< Acts 21:4]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.6|Acts 21:6 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: we prayed | <span class="asgreek">προσηυξάμεθα</span><small><sup>[[G4336]]</sup></small> | prosēuxametha<small><sup>[[V-ADI-1P]]</sup></small>

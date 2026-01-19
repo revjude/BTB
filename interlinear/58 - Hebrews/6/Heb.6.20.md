@@ -8,19 +8,19 @@ where [the] forerunner for us has entered Jesus according to the order of Melchi
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| where |<span class="asgreek">ὅπου</span> <small><sup>[[G3699]]</sup></small> |hopou <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] forerunner |<span class="asgreek">πρόδρομος</span> <small><sup>[[G4274]]</sup></small> |prodromos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">ὑπὲρ</span> <small><sup>[[G5228]]</sup></small> |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| us |<span class="asgreek">ἡμῶν</span> <small><sup>[[G3165]]</sup></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| has entered |<span class="asgreek">εἰσῆλθεν</span> <small><sup>[[G1525]]</sup></small> |eisēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jesus |<span class="asgreek">Ἰησοῦς</span> <small><sup>[[G2424G]]</sup></small> |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| according to |<span class="asgreek">κατὰ</span> <small><sup>[[G2596]]</sup></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| order |<span class="asgreek">τάξιν</span> <small><sup>[[G5010]]</sup></small> |taxin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Melchizedek |<span class="asgreek">Μελχισέδεκ</span> <small><sup>[[G3198]]</sup></small> |Melchisedek <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a high priest |<span class="asgreek">ἀρχιερεὺς</span> <small><sup>[[G0749]]</sup></small> |archiereus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having become |<span class="asgreek">γενόμενος</span> <small><sup>[[G1096]]</sup></small> |genomenos <small><sup>[[V-2ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| age. |<span class="asgreek">αἰῶνα.¶</span> <small><sup>[[G0165H]]</sup></small> |aiōna <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| where |<big><span class="asgreek">ὅπου</span></big> <small><small><sup>[[G3699]]</sup></small></small> |hopou <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] forerunner |<big><span class="asgreek">πρόδρομος</span></big> <small><small><sup>[[G4274]]</sup></small></small> |prodromos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">ὑπὲρ</span></big> <small><small><sup>[[G5228]]</sup></small></small> |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| us |<big><span class="asgreek">ἡμῶν</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| has entered |<big><span class="asgreek">εἰσῆλθεν</span></big> <small><small><sup>[[G1525]]</sup></small></small> |eisēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Jesus |<big><span class="asgreek">Ἰησοῦς</span></big> <small><small><sup>[[G2424G]]</sup></small></small> |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| according to |<big><span class="asgreek">κατὰ</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| order |<big><span class="asgreek">τάξιν</span></big> <small><small><sup>[[G5010]]</sup></small></small> |taxin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Melchizedek |<big><span class="asgreek">Μελχισέδεκ</span></big> <small><small><sup>[[G3198]]</sup></small></small> |Melchisedek <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a high priest |<big><span class="asgreek">ἀρχιερεὺς</span></big> <small><small><sup>[[G0749]]</sup></small></small> |archiereus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having become |<big><span class="asgreek">γενόμενος</span></big> <small><small><sup>[[G1096]]</sup></small></small> |genomenos <small><sup>[[V-2ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| age. |<big><span class="asgreek">αἰῶνα.¶</span></big> <small><small><sup>[[G0165H]]</sup></small></small> |aiōna <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.19|<< Hebrews 6:19]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.1|Hebrews 7:1 >>]]</td></tr></table>

@@ -8,17 +8,17 @@ or to governors as through him being sent for vengeance indeed to evildoers, pra
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| or |<span class="asgreek">εἴτε</span> <small><sup>[[G1535]]</sup></small> |eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to governors |<span class="asgreek">ἡγεμόσιν</span> <small><sup>[[G2232]]</sup></small> |hēgemosin <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| as |<span class="asgreek">ὡς</span> <small><sup>[[G5613]]</sup></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| through |<span class="asgreek">δι᾽</span> <small><sup>[[G1223]]</sup></small> |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| being sent |<span class="asgreek">πεμπομένοις</span> <small><sup>[[G3992]]</sup></small> |pempomenois <small><sup>[[V-PPP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| vengeance |<span class="asgreek">ἐκδίκησιν</span> <small><sup>[[G1557]]</sup></small> |ekdikēsin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| indeed |<span class="asgreek">μὲν</span> <small><sup>[[G3303]]</sup></small> |men <small><sup>[[PRT]]</sup></small> | <abbr title="TR">k</abbr> | |
-| to evildoers, |<span class="asgreek">κακοποιῶν,</span> <small><sup>[[G2555]]</sup></small> |kakopoiōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| praise |<span class="asgreek">ἔπαινον</span> <small><sup>[[G1868]]</sup></small> |epainon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to well-doers; |<span class="asgreek">ἀγαθοποιῶν·</span> <small><sup>[[G0017]]</sup></small> |agathopoiōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| or |<big><span class="asgreek">εἴτε</span></big> <small><small><sup>[[G1535]]</sup></small></small> |eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to governors |<big><span class="asgreek">ἡγεμόσιν</span></big> <small><small><sup>[[G2232]]</sup></small></small> |hēgemosin <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| as |<big><span class="asgreek">ὡς</span></big> <small><small><sup>[[G5613]]</sup></small></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| through |<big><span class="asgreek">δι᾽</span></big> <small><small><sup>[[G1223]]</sup></small></small> |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| being sent |<big><span class="asgreek">πεμπομένοις</span></big> <small><small><sup>[[G3992]]</sup></small></small> |pempomenois <small><sup>[[V-PPP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| vengeance |<big><span class="asgreek">ἐκδίκησιν</span></big> <small><small><sup>[[G1557]]</sup></small></small> |ekdikēsin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| indeed |<big><span class="asgreek">μὲν</span></big> <small><small><sup>[[G3303]]</sup></small></small> |men <small><sup>[[PRT]]</sup></small> | <abbr title="TR">k</abbr> | |
+| to evildoers, |<big><span class="asgreek">κακοποιῶν,</span></big> <small><small><sup>[[G2555]]</sup></small></small> |kakopoiōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| praise |<big><span class="asgreek">ἔπαινον</span></big> <small><small><sup>[[G1868]]</sup></small></small> |epainon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to well-doers; |<big><span class="asgreek">ἀγαθοποιῶν·</span></big> <small><small><sup>[[G0017]]</sup></small></small> |agathopoiōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.13|<< 1 Peter 2:13]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.15|1 Peter 2:15 >>]]</td></tr></table>

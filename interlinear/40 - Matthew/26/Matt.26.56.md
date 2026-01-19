@@ -8,21 +8,21 @@ This then all has come to pass that may be fulfilled the Scriptures of the proph
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| This |<span class="asgreek">τοῦτο</span> <small><sup>[[G3778]]</sup></small> |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<span class="asgreek">ὅλον</span> <small><sup>[[G3650]]</sup></small> |holon <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| has come to pass |<span class="asgreek">γέγονεν</span> <small><sup>[[G1096]]</sup></small> |gegonen <small><sup>[[V-2RAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may be fulfilled |<span class="asgreek">πληρωθῶσιν</span> <small><sup>[[G4137]]</sup></small> |plērōthōsin <small><sup>[[V-APS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">αἱ</span> <small><sup>[[G3588]]</sup></small> |hai <small><sup>[[T-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Scriptures |<span class="asgreek">γραφαὶ</span> <small><sup>[[G1124]]</sup></small> |graphai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| prophets. |<span class="asgreek">προφητῶν.¶</span> <small><sup>[[G4396]]</sup></small> |prophētōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Then |<span class="asgreek">Τότε</span> <small><sup>[[G5119]]</sup></small> |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| disciples |<span class="asgreek">μαθηταὶ</span> <small><sup>[[G3101]]</sup></small> |mathētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<span class="asgreek">πάντες</span> <small><sup>[[G3956]]</sup></small> |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having forsaken |<span class="asgreek">ἀφέντες</span> <small><sup>[[G0863G]]</sup></small> |aphentes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him |<span class="asgreek">αὐτὸν</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| fled. |<span class="asgreek">ἔφυγον.</span> <small><sup>[[G5343]]</sup></small> |ephugon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| This |<big><span class="asgreek">τοῦτο</span></big> <small><small><sup>[[G3778]]</sup></small></small> |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |<big><span class="asgreek">ὅλον</span></big> <small><small><sup>[[G3650]]</sup></small></small> |holon <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| has come to pass |<big><span class="asgreek">γέγονεν</span></big> <small><small><sup>[[G1096]]</sup></small></small> |gegonen <small><sup>[[V-2RAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may be fulfilled |<big><span class="asgreek">πληρωθῶσιν</span></big> <small><small><sup>[[G4137]]</sup></small></small> |plērōthōsin <small><sup>[[V-APS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">αἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hai <small><sup>[[T-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Scriptures |<big><span class="asgreek">γραφαὶ</span></big> <small><small><sup>[[G1124]]</sup></small></small> |graphai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| prophets. |<big><span class="asgreek">προφητῶν.¶</span></big> <small><small><sup>[[G4396]]</sup></small></small> |prophētōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Then |<big><span class="asgreek">Τότε</span></big> <small><small><sup>[[G5119]]</sup></small></small> |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| disciples |<big><span class="asgreek">μαθηταὶ</span></big> <small><small><sup>[[G3101]]</sup></small></small> |mathētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |<big><span class="asgreek">πάντες</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having forsaken |<big><span class="asgreek">ἀφέντες</span></big> <small><small><sup>[[G0863G]]</sup></small></small> |aphentes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fled. |<big><span class="asgreek">ἔφυγον.</span></big> <small><small><sup>[[G5343]]</sup></small></small> |ephugon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.55|<< Matthew 26:55]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.57|Matthew 26:57 >>]]</td></tr></table>

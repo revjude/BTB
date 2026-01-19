@@ -8,21 +8,21 @@ and because of this he is obligated, even as for the people so also for himself 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| because of |<span class="asgreek">δι᾽</span> <small><sup>[[G1223]]</sup></small> [^1] |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| this [^2] |<span class="asgreek">αὐτὴν</span> <small><sup>[[G0846]]</sup></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| he is obligated, |<span class="asgreek">ὀφείλει,</span> <small><sup>[[G3784]]</sup></small> |opheilei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| even as |<span class="asgreek">καθὼς</span> <small><sup>[[G2531]]</sup></small> |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">περὶ</span> <small><sup>[[G4012]]</sup></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| people |<span class="asgreek">λαοῦ</span> <small><sup>[[G2992]]</sup></small> |laou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so |<span class="asgreek">οὕτως</span> <small><sup>[[G3779]]</sup></small> |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| also |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">περὶ</span> <small><sup>[[G4012]]</sup></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| himself |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G1438]]</sup></small> [^3] |autou <small><sup>[[F-3GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to offer sacrifices |<span class="asgreek">προσφέρειν</span> <small><sup>[[G4374]]</sup></small> |prospherein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for [^4] |<span class="asgreek">περὶ</span> <small><sup>[[G4012]]</sup></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| sins. |<span class="asgreek">ἁμαρτιῶν.</span> <small><sup>[[G0266]]</sup></small> |hamartiōn <small><sup>[[N-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| because of |<big><span class="asgreek">δι᾽</span></big> <small><small><sup>[[G1223]]</sup></small></small> [^1] |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| this [^2] |<big><span class="asgreek">αὐτὴν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| he is obligated, |<big><span class="asgreek">ὀφείλει,</span></big> <small><small><sup>[[G3784]]</sup></small></small> |opheilei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| even as |<big><span class="asgreek">καθὼς</span></big> <small><small><sup>[[G2531]]</sup></small></small> |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">περὶ</span></big> <small><small><sup>[[G4012]]</sup></small></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| people |<big><span class="asgreek">λαοῦ</span></big> <small><small><sup>[[G2992]]</sup></small></small> |laou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so |<big><span class="asgreek">οὕτως</span></big> <small><small><sup>[[G3779]]</sup></small></small> |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">περὶ</span></big> <small><small><sup>[[G4012]]</sup></small></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| himself |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G1438]]</sup></small></small> [^3] |autou <small><sup>[[F-3GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to offer sacrifices |<big><span class="asgreek">προσφέρειν</span></big> <small><small><sup>[[G4374]]</sup></small></small> |prospherein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for [^4] |<big><span class="asgreek">περὶ</span></big> <small><small><sup>[[G4012]]</sup></small></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| sins. |<big><span class="asgreek">ἁμαρτιῶν.</span></big> <small><small><sup>[[G0266]]</sup></small></small> |hamartiōn <small><sup>[[N-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.2|<< Hebrews 5:2]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.4|Hebrews 5:4 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz== spelled: <span class='asgreek'>**διὰ**</span>

@@ -8,12 +8,12 @@ and  transgressors they will be destroyed altogether [the] future of wicked [peo
 
 | Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and transgressors  | <span class="ashebrew"><big>וּֽ֭</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>פֹשְׁעִים</big></span><small><sup>[[H6586]]</sup></small> &#8207;| U.<small><sup>[[HC]]</sup></small> fo.she.'im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be destroyed  | <span class="ashebrew"><big>נִשְׁמְד֣וּ</big></span><small><sup>[[H8045]]</sup></small> &#8207;| nish.me.Du<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| altogether  | <span class="ashebrew"><big>יַחְדָּ֑ו</big></span><small><sup>[[H3162B]]</sup></small> &#8207;| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] future of  | <span class="ashebrew"><big>אַחֲרִ֖ית</big></span><small><sup>[[H0319]]</sup></small> &#8207;| 'a.cha.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wicked [people]  | <span class="ashebrew"><big>רְשָׁעִ֣ים</big></span><small><sup>[[H7563]]</sup></small> &#8207;| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be cut off  | <span class="ashebrew"><big>נִכְרָֽתָה</big></span><small><sup>[[H3772I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| nikh.Ra.tah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and transgressors  | <span class="ashebrew"><big>וּֽ֭</big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>פֹשְׁעִים</big></span><small><small><sup>[[H6586]]</sup></small></small> &#8207;| U.<small><sup>[[HC]]</sup></small> fo.she.'im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be destroyed  | <span class="ashebrew"><big>נִשְׁמְד֣וּ</big></span><small><small><sup>[[H8045]]</sup></small></small> &#8207;| nish.me.Du<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| altogether  | <span class="ashebrew"><big>יַחְדָּ֑ו</big></span><small><small><sup>[[H3162B]]</sup></small></small> &#8207;| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] future of  | <span class="ashebrew"><big>אַחֲרִ֖ית</big></span><small><small><sup>[[H0319]]</sup></small></small> &#8207;| 'a.cha.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wicked [people]  | <span class="ashebrew"><big>רְשָׁעִ֣ים</big></span><small><small><sup>[[H7563]]</sup></small></small> &#8207;| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be cut off  | <span class="ashebrew"><big>נִכְרָֽתָה</big></span><small><small><sup>[[H3772I]]</sup></small></small> <span class="ashebrew"><big>׃</big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| nikh.Ra.tah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.37|<< Psalms 37:37]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.39|Psalms 37:39 >>]]</td></tr></table>
 
 

@@ -8,19 +8,19 @@ It came to pass however in the days those [that] having become sick she to die; 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| It came to pass |<span class="asgreek">ἐγένετο</span> <small><sup>[[G1096]]</sup></small> |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ταῖς</span> <small><sup>[[G3588]]</sup></small> |tais <small><sup>[[T-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| days |<span class="asgreek">ἡμέραις</span> <small><sup>[[G2250]]</sup></small> |hēmerais <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| those |<span class="asgreek">ἐκείναις</span> <small><sup>[[G1565]]</sup></small> |ekeinais <small><sup>[[D-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [that] having become sick |<span class="asgreek">ἀσθενήσασαν</span> <small><sup>[[G0770H]]</sup></small> |asthenēsasan <small><sup>[[V-AAP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| she |<span class="asgreek">αὐτὴν</span> <small><sup>[[G0846]]</sup></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to die; |<span class="asgreek">ἀποθανεῖν·</span> <small><sup>[[G0599]]</sup></small> |apothanein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Having washed [her] |<span class="asgreek">λούσαντες</span> <small><sup>[[G3068]]</sup></small> |lousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| put [her] |<span class="asgreek">ἔθηκαν</span> <small><sup>[[G5087]]</sup></small> |ethēkan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
-| they |<span class="asgreek">αὐτὴν</span> <small><sup>[[G0846]]</sup></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| an upper room. |<span class="asgreek">ὑπερῴῳ.</span> <small><sup>[[G5253]]</sup></small> |huperōō <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| It came to pass |<big><span class="asgreek">ἐγένετο</span></big> <small><small><sup>[[G1096]]</sup></small></small> |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ταῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tais <small><sup>[[T-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| days |<big><span class="asgreek">ἡμέραις</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmerais <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| those |<big><span class="asgreek">ἐκείναις</span></big> <small><small><sup>[[G1565]]</sup></small></small> |ekeinais <small><sup>[[D-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [that] having become sick |<big><span class="asgreek">ἀσθενήσασαν</span></big> <small><small><sup>[[G0770H]]</sup></small></small> |asthenēsasan <small><sup>[[V-AAP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| she |<big><span class="asgreek">αὐτὴν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to die; |<big><span class="asgreek">ἀποθανεῖν·</span></big> <small><small><sup>[[G0599]]</sup></small></small> |apothanein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Having washed [her] |<big><span class="asgreek">λούσαντες</span></big> <small><small><sup>[[G3068]]</sup></small></small> |lousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| put [her] |<big><span class="asgreek">ἔθηκαν</span></big> <small><small><sup>[[G5087]]</sup></small></small> |ethēkan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
+| they |<big><span class="asgreek">αὐτὴν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| an upper room. |<big><span class="asgreek">ὑπερῴῳ.</span></big> <small><small><sup>[[G5253]]</sup></small></small> |huperōō <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.36|<< Acts 9:36]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.38|Acts 9:38 >>]]</td></tr></table>

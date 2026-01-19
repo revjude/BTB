@@ -8,33 +8,33 @@ He said then to them; Where is the faith of you? Having been afraid then they ma
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| He said |<span class="asgreek">Εἶπεν</span> <small><sup>[[G2036]]</sup></small> |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to them; |<span class="asgreek">αὐτοῖς·</span> <small><sup>[[G0846]]</sup></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Where |<span class="asgreek">ποῦ</span> <small><sup>[[G4226]]</sup></small> |pou <small><sup>[[ADV-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is |<span class="asgreek">ἐστιν</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| the |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| faith |<span class="asgreek">πίστις</span> <small><sup>[[G4102G]]</sup></small> |pistis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you? |<span class="asgreek">ὑμῶν;</span> <small><sup>[[G4771]]</sup></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Having been afraid |<span class="asgreek">φοβηθέντες</span> <small><sup>[[G5399]]</sup></small> |phobēthentes <small><sup>[[V-AOP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they marveled |<span class="asgreek">ἐθαύμασαν</span> <small><sup>[[G2296]]</sup></small> |ethaumasan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying |<span class="asgreek">λέγοντες</span> <small><sup>[[G3004G]]</sup></small> |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">πρὸς</span> <small><sup>[[G4314]]</sup></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| one another; |<span class="asgreek">ἀλλήλους·</span> <small><sup>[[G0240]]</sup></small> |allēlous <small><sup>[[C-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Who |<span class="asgreek">τίς</span> <small><sup>[[G5101]]</sup></small> |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">ἄρα</span> <small><sup>[[G0686]]</sup></small> |ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| this |<span class="asgreek">οὗτός</span> <small><sup>[[G3778]]</sup></small> |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is |<span class="asgreek">ἐστιν</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">ὅτι</span> <small><sup>[[G3754H]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| even |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to the |<span class="asgreek">τοῖς</span> <small><sup>[[G3588]]</sup></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| winds |<span class="asgreek">ἀνέμοις</span> <small><sup>[[G0417]]</sup></small> |anemois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He commands |<span class="asgreek">ἐπιτάσσει</span> <small><sup>[[G2004]]</sup></small> |epitassei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to the |<span class="asgreek">τῷ</span> <small><sup>[[G3588]]</sup></small> |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| water, |<span class="asgreek">ὕδατι,</span> <small><sup>[[G5204]]</sup></small> |hudati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they obey |<span class="asgreek">ὑπακούουσιν</span> <small><sup>[[G5219]]</sup></small> |hupakouousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him? |<span class="asgreek">αὐτῷ;</span> <small><sup>[[G0846]]</sup></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He said |<big><span class="asgreek">Εἶπεν</span></big> <small><small><sup>[[G2036]]</sup></small></small> |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to them; |<big><span class="asgreek">αὐτοῖς·</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Where |<big><span class="asgreek">ποῦ</span></big> <small><small><sup>[[G4226]]</sup></small></small> |pou <small><sup>[[ADV-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is |<big><span class="asgreek">ἐστιν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| faith |<big><span class="asgreek">πίστις</span></big> <small><small><sup>[[G4102G]]</sup></small></small> |pistis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you? |<big><span class="asgreek">ὑμῶν;</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Having been afraid |<big><span class="asgreek">φοβηθέντες</span></big> <small><small><sup>[[G5399]]</sup></small></small> |phobēthentes <small><sup>[[V-AOP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they marveled |<big><span class="asgreek">ἐθαύμασαν</span></big> <small><small><sup>[[G2296]]</sup></small></small> |ethaumasan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying |<big><span class="asgreek">λέγοντες</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| one another; |<big><span class="asgreek">ἀλλήλους·</span></big> <small><small><sup>[[G0240]]</sup></small></small> |allēlous <small><sup>[[C-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Who |<big><span class="asgreek">τίς</span></big> <small><small><sup>[[G5101]]</sup></small></small> |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">ἄρα</span></big> <small><small><sup>[[G0686]]</sup></small></small> |ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| this |<big><span class="asgreek">οὗτός</span></big> <small><small><sup>[[G3778]]</sup></small></small> |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is |<big><span class="asgreek">ἐστιν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754H]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| even |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to the |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| winds |<big><span class="asgreek">ἀνέμοις</span></big> <small><small><sup>[[G0417]]</sup></small></small> |anemois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He commands |<big><span class="asgreek">ἐπιτάσσει</span></big> <small><small><sup>[[G2004]]</sup></small></small> |epitassei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to the |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| water, |<big><span class="asgreek">ὕδατι,</span></big> <small><small><sup>[[G5204]]</sup></small></small> |hudati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they obey |<big><span class="asgreek">ὑπακούουσιν</span></big> <small><small><sup>[[G5219]]</sup></small></small> |hupakouousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him? |<big><span class="asgreek">αὐτῷ;</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.24|<< Luke 8:24]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.26|Luke 8:26 >>]]</td></tr></table>

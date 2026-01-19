@@ -8,35 +8,35 @@ to [the] only wise God Savior of us, through Jesus Christ the Lord of us, [be] g
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| to [the] only |<span class="asgreek">μόνῳ</span> <small><sup>[[G3441]]</sup></small> |monō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| wise [^1] |<span class="asgreek">σοφῷ</span> <small><sup>[[G4680]]</sup></small> |sophō <small><sup>[[A-DSM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| God |<span class="asgreek">θεῷ</span> <small><sup>[[G2316]]</sup></small> |theō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Savior |<span class="asgreek">σωτῆρι</span> <small><sup>[[G4990]]</sup></small> |sōtēri <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of us, |<span class="asgreek">ἡμῶν,</span> <small><sup>[[G3165]]</sup></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| through |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| Jesus |<span class="asgreek">Ἰησοῦ</span> <small><sup>[[G2424G]]</sup></small> |Iēsou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| Christ |<span class="asgreek">Χριστοῦ</span> <small><sup>[[G5547]]</sup></small> |Christou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| Lord |<span class="asgreek">κυρίου</span> <small><sup>[[G2962G]]</sup></small> |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| of us, [^2] |<span class="asgreek">ἡμῶν,</span> <small><sup>[[G3165]]</sup></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| [be] glory |<span class="asgreek">δόξα</span> <small><sup>[[G1391]]</sup></small> |doxa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| majesty |<span class="asgreek">μεγαλωσύνη</span> <small><sup>[[G3172]]</sup></small> |megalōsunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| dominion |<span class="asgreek">κράτος</span> <small><sup>[[G2904]]</sup></small> |kratos <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| authority |<span class="asgreek">ἐξουσία</span> <small><sup>[[G1849]]</sup></small> |exousia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| before |<span class="asgreek">πρὸ</span> <small><sup>[[G4253]]</sup></small> |pro <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| all |<span class="asgreek">παντὸς</span> <small><sup>[[G3956]]</sup></small> |pantos <small><sup>[[A-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| age [^3] |<span class="asgreek">αἰῶνος</span> <small><sup>[[G0165H]]</sup></small> |aiōnos <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">νῦν</span> <small><sup>[[G3568]]</sup></small> |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<span class="asgreek">πάντας</span> <small><sup>[[G3956]]</sup></small> |pantas <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| ages, |<span class="asgreek">αἰῶνας,</span> <small><sup>[[G0165H]]</sup></small> |aiōnas <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Amen. |<span class="asgreek">ἀμήν.¶</span> <small><sup>[[G0281]]</sup></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to [the] only |<big><span class="asgreek">μόνῳ</span></big> <small><small><sup>[[G3441]]</sup></small></small> |monō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| wise [^1] |<big><span class="asgreek">σοφῷ</span></big> <small><small><sup>[[G4680]]</sup></small></small> |sophō <small><sup>[[A-DSM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| God |<big><span class="asgreek">θεῷ</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Savior |<big><span class="asgreek">σωτῆρι</span></big> <small><small><sup>[[G4990]]</sup></small></small> |sōtēri <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of us, |<big><span class="asgreek">ἡμῶν,</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| through |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| Jesus |<big><span class="asgreek">Ἰησοῦ</span></big> <small><small><sup>[[G2424G]]</sup></small></small> |Iēsou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| Christ |<big><span class="asgreek">Χριστοῦ</span></big> <small><small><sup>[[G5547]]</sup></small></small> |Christou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| Lord |<big><span class="asgreek">κυρίου</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| of us, [^2] |<big><span class="asgreek">ἡμῶν,</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| [be] glory |<big><span class="asgreek">δόξα</span></big> <small><small><sup>[[G1391]]</sup></small></small> |doxa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| majesty |<big><span class="asgreek">μεγαλωσύνη</span></big> <small><small><sup>[[G3172]]</sup></small></small> |megalōsunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| dominion |<big><span class="asgreek">κράτος</span></big> <small><small><sup>[[G2904]]</sup></small></small> |kratos <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| authority |<big><span class="asgreek">ἐξουσία</span></big> <small><small><sup>[[G1849]]</sup></small></small> |exousia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| before |<big><span class="asgreek">πρὸ</span></big> <small><small><sup>[[G4253]]</sup></small></small> |pro <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| all |<big><span class="asgreek">παντὸς</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pantos <small><sup>[[A-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| age [^3] |<big><span class="asgreek">αἰῶνος</span></big> <small><small><sup>[[G0165H]]</sup></small></small> |aiōnos <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">νῦν</span></big> <small><small><sup>[[G3568]]</sup></small></small> |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |<big><span class="asgreek">πάντας</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pantas <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| ages, |<big><span class="asgreek">αἰῶνας,</span></big> <small><small><sup>[[G0165H]]</sup></small></small> |aiōnas <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Amen. |<big><span class="asgreek">ἀμήν.¶</span></big> <small><small><sup>[[G0281]]</sup></small></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.24|<< Jude 1:24]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.1|Revelation 1:1 >>]]</td></tr></table>
 
 [^1]: Extra Text:  <span class='asgreek'>**σοφῷ**</span>  (<i>sophō</i>) 'wise' is only in traditional manuscripts (TR+Byz)

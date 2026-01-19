@@ -8,10 +8,10 @@ O God of praise  my may not you be silent<br><table width="100%" border="0"><tr>
 
 | Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| O God of  | <span class="ashebrew"><big>אֱלֹהֵ֥י</big></span><small><sup>[[H0430G]]</sup></small> &#8207;| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| praise my  | <span class="ashebrew"><big>תְ֝הִלָּתִ֗</big></span><small><sup>[[H8416]]</sup></small> <span class="ashebrew"><big>י</big></span><small><sup>[[H9020]]</sup></small> &#8207;| te.hi.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| may not  | <span class="ashebrew"><big>אַֽל</big></span><small><sup>[[H0408]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you be silent  | <span class="ashebrew"><big>תֶּחֱרַֽשׁ</big></span><small><sup>[[H2790B]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| te.che.Rash<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O God of  | <span class="ashebrew"><big>אֱלֹהֵ֥י</big></span><small><small><sup>[[H0430G]]</sup></small></small> &#8207;| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| praise my  | <span class="ashebrew"><big>תְ֝הִלָּתִ֗</big></span><small><small><sup>[[H8416]]</sup></small></small> <span class="ashebrew"><big>י</big></span><small><small><sup>[[H9020]]</sup></small></small> &#8207;| te.hi.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| may not  | <span class="ashebrew"><big>אַֽל</big></span><small><small><sup>[[H0408]]</sup></small></small> <span class="ashebrew"><big>־</big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you be silent  | <span class="ashebrew"><big>תֶּחֱרַֽשׁ</big></span><small><small><sup>[[H2790B]]</sup></small></small> <span class="ashebrew"><big>׃</big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| te.che.Rash<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.0|<< Psalms 109:0]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.2|Psalms 109:2 >>]]</td></tr></table>
 
 

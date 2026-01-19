@@ -8,41 +8,41 @@ And the first angel sounded [his] trumpet, and there was hail and fire mixed wit
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">Καὶ</span> <small><sup>[[G2532]]</sup></small> |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| first |<span class="asgreek">πρῶτος</span> <small><sup>[[G4413G]]</sup></small> |prōtos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| angel [^1] |<span class="asgreek">ἄγγελος</span> <small><sup>[[G0032G]]</sup></small> |angelos <small><sup>[[N-NSM]]</sup></small> | <abbr title="TR">K</abbr> | |
-| sounded [his] trumpet, |<span class="asgreek">ἐσάλπισεν,</span> <small><sup>[[G4537]]</sup></small> |esalpisen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| there was |<span class="asgreek">ἐγένετο</span> <small><sup>[[G1096]]</sup></small> |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| hail |<span class="asgreek">χάλαζα</span> <small><sup>[[G5464]]</sup></small> |chalaza <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| fire |<span class="asgreek">πῦρ</span> <small><sup>[[G4442]]</sup></small> |pur <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| mixed |<span class="asgreek">μεμιγμένα</span> <small><sup>[[G3396]]</sup></small> |memigmena <small><sup>[[V-RPP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
-| blood, |<span class="asgreek">αἵματι,</span> <small><sup>[[G0129G]]</sup></small> |aimati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it was cast |<span class="asgreek">ἐβλήθη</span> <small><sup>[[G0906G]]</sup></small> |eblēthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| upon |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| earth |<span class="asgreek">γῆν</span> <small><sup>[[G1093G]]</sup></small> |gēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
-| third |<span class="asgreek">τρίτον</span> <small><sup>[[G5154]]</sup></small> |triton <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
-| of the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
-| earth |<span class="asgreek">γῆς</span> <small><sup>[[G1093G]]</sup></small> |gēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
-| was burned up; [^2] |<span class="asgreek">κατεκάη·</span> <small><sup>[[G2618]]</sup></small> |katekaē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| third |<span class="asgreek">τρίτον</span> <small><sup>[[G5154]]</sup></small> |triton <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| trees |<span class="asgreek">δένδρων</span> <small><sup>[[G1186]]</sup></small> |dendrōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| were burned up, |<span class="asgreek">κατεκάη,</span> <small><sup>[[G2618]]</sup></small> |katekaē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<span class="asgreek">πᾶς</span> <small><sup>[[G3956]]</sup></small> |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] grass |<span class="asgreek">χόρτος</span> <small><sup>[[G5528]]</sup></small> |chortos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| green |<span class="asgreek">χλωρὸς</span> <small><sup>[[G5515]]</sup></small> |chlōros <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was burned up. |<span class="asgreek">κατεκάη.¶</span> <small><sup>[[G2618]]</sup></small> |katekaē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">Καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| first |<big><span class="asgreek">πρῶτος</span></big> <small><small><sup>[[G4413G]]</sup></small></small> |prōtos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| angel [^1] |<big><span class="asgreek">ἄγγελος</span></big> <small><small><sup>[[G0032G]]</sup></small></small> |angelos <small><sup>[[N-NSM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| sounded [his] trumpet, |<big><span class="asgreek">ἐσάλπισεν,</span></big> <small><small><sup>[[G4537]]</sup></small></small> |esalpisen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| there was |<big><span class="asgreek">ἐγένετο</span></big> <small><small><sup>[[G1096]]</sup></small></small> |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| hail |<big><span class="asgreek">χάλαζα</span></big> <small><small><sup>[[G5464]]</sup></small></small> |chalaza <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fire |<big><span class="asgreek">πῦρ</span></big> <small><small><sup>[[G4442]]</sup></small></small> |pur <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| mixed |<big><span class="asgreek">μεμιγμένα</span></big> <small><small><sup>[[G3396]]</sup></small></small> |memigmena <small><sup>[[V-RPP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
+| blood, |<big><span class="asgreek">αἵματι,</span></big> <small><small><sup>[[G0129G]]</sup></small></small> |aimati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it was cast |<big><span class="asgreek">ἐβλήθη</span></big> <small><small><sup>[[G0906G]]</sup></small></small> |eblēthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| upon |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| earth |<big><span class="asgreek">γῆν</span></big> <small><small><sup>[[G1093G]]</sup></small></small> |gēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
+| third |<big><span class="asgreek">τρίτον</span></big> <small><small><sup>[[G5154]]</sup></small></small> |triton <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
+| of the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
+| earth |<big><span class="asgreek">γῆς</span></big> <small><small><sup>[[G1093G]]</sup></small></small> |gēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
+| was burned up; [^2] |<big><span class="asgreek">κατεκάη·</span></big> <small><small><sup>[[G2618]]</sup></small></small> |katekaē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| third |<big><span class="asgreek">τρίτον</span></big> <small><small><sup>[[G5154]]</sup></small></small> |triton <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| trees |<big><span class="asgreek">δένδρων</span></big> <small><small><sup>[[G1186]]</sup></small></small> |dendrōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were burned up, |<big><span class="asgreek">κατεκάη,</span></big> <small><small><sup>[[G2618]]</sup></small></small> |katekaē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |<big><span class="asgreek">πᾶς</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] grass |<big><span class="asgreek">χόρτος</span></big> <small><small><sup>[[G5528]]</sup></small></small> |chortos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| green |<big><span class="asgreek">χλωρὸς</span></big> <small><small><sup>[[G5515]]</sup></small></small> |chlōros <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was burned up. |<big><span class="asgreek">κατεκάη.¶</span></big> <small><small><sup>[[G2618]]</sup></small></small> |katekaē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.6|<< Revelation 8:6]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.8|Revelation 8:8 >>]]</td></tr></table>
 
 [^1]: Extra Text:  <span class='asgreek'>**ἄγγελος**</span>  (<i>angelos</i>) 'angel' is only in traditional manuscripts (TR)

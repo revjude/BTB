@@ -8,10 +8,10 @@ And they were laughing at Him, knowing that she was dead.<br><table width="100%"
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they were laughing |<span class="asgreek">κατεγέλων</span> <small><sup>[[G2606]]</sup></small> |kategelōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| at Him, |<span class="asgreek">αὐτοῦ,</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| knowing |<span class="asgreek">εἰδότες</span> <small><sup>[[G6063]]</sup></small> |eidotes <small><sup>[[V-RAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| she was dead. |<span class="asgreek">ἀπέθανεν.</span> <small><sup>[[G0599]]</sup></small> |apethanen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they were laughing |<big><span class="asgreek">κατεγέλων</span></big> <small><small><sup>[[G2606]]</sup></small></small> |kategelōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| at Him, |<big><span class="asgreek">αὐτοῦ,</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| knowing |<big><span class="asgreek">εἰδότες</span></big> <small><small><sup>[[G6063]]</sup></small></small> |eidotes <small><sup>[[V-RAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| she was dead. |<big><span class="asgreek">ἀπέθανεν.</span></big> <small><small><sup>[[G0599]]</sup></small></small> |apethanen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.52|<< Luke 8:52]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.54|Luke 8:54 >>]]</td></tr></table>

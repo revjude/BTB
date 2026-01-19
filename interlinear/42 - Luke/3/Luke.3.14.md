@@ -8,29 +8,29 @@ Were asking then him also those being soldiers saying; What may do also we ourse
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Were asking |<span class="asgreek">ἐπηρώτων</span> <small><sup>[[G1905]]</sup></small> |epērōtōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| him |<span class="asgreek">αὐτὸν</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| also |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| those being soldiers |<span class="asgreek">στρατευόμενοι</span> <small><sup>[[G4754]]</sup></small> |strateuomenoi <small><sup>[[V-PMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying; |<span class="asgreek">λέγοντες·</span> <small><sup>[[G3004G]]</sup></small> |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| What |<span class="asgreek">τί</span> <small><sup>[[G5101]]</sup></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»3+Byz»3">NKO</abbr> | |
-| may do [^1] |<span class="asgreek">ποιήσωμεν</span> <small><sup>[[G4160G]]</sup></small> |poiēsōmen <small><sup>[[V-AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| also |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we ourselves |<span class="asgreek">ἡμεῖς;</span> <small><sup>[[G3165]]</sup></small> |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he said |<span class="asgreek">εἶπεν</span> <small><sup>[[G2036]]</sup></small> |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">πρὸς</span> <small><sup>[[G4314]]</sup></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| to them; [^2] |<span class="asgreek">αὐτοῖς·</span> <small><sup>[[G0846]]</sup></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| No one |<span class="asgreek">μηδένα</span> <small><sup>[[G3367]]</sup></small> |mēdena <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may extort |<span class="asgreek">διασείσητε</span> <small><sup>[[G1286]]</sup></small> |diaseisēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| nor |<span class="asgreek">μηδὲ</span> <small><sup>[[G3366]]</sup></small> |mēde <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may accuse falsely |<span class="asgreek">συκοφαντήσητε</span> <small><sup>[[G4811]]</sup></small> |sukophantēsēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do be content |<span class="asgreek">ἀρκεῖσθε</span> <small><sup>[[G0714]]</sup></small> |arkeisthe <small><sup>[[V-PPM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with the |<span class="asgreek">τοῖς</span> <small><sup>[[G3588]]</sup></small> |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| wages |<span class="asgreek">ὀψωνίοις</span> <small><sup>[[G3800]]</sup></small> |opsōniois <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you. |<span class="asgreek">ὑμῶν.¶</span> <small><sup>[[G4771]]</sup></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Were asking |<big><span class="asgreek">ἐπηρώτων</span></big> <small><small><sup>[[G1905]]</sup></small></small> |epērōtōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| those being soldiers |<big><span class="asgreek">στρατευόμενοι</span></big> <small><small><sup>[[G4754]]</sup></small></small> |strateuomenoi <small><sup>[[V-PMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying; |<big><span class="asgreek">λέγοντες·</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| What |<big><span class="asgreek">τί</span></big> <small><small><sup>[[G5101]]</sup></small></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»3+Byz»3">NKO</abbr> | |
+| may do [^1] |<big><span class="asgreek">ποιήσωμεν</span></big> <small><small><sup>[[G4160G]]</sup></small></small> |poiēsōmen <small><sup>[[V-AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we ourselves |<big><span class="asgreek">ἡμεῖς;</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he said |<big><span class="asgreek">εἶπεν</span></big> <small><small><sup>[[G2036]]</sup></small></small> |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| to them; [^2] |<big><span class="asgreek">αὐτοῖς·</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| No one |<big><span class="asgreek">μηδένα</span></big> <small><small><sup>[[G3367]]</sup></small></small> |mēdena <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may extort |<big><span class="asgreek">διασείσητε</span></big> <small><small><sup>[[G1286]]</sup></small></small> |diaseisēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| nor |<big><span class="asgreek">μηδὲ</span></big> <small><small><sup>[[G3366]]</sup></small></small> |mēde <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may accuse falsely |<big><span class="asgreek">συκοφαντήσητε</span></big> <small><small><sup>[[G4811]]</sup></small></small> |sukophantēsēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do be content |<big><span class="asgreek">ἀρκεῖσθε</span></big> <small><small><sup>[[G0714]]</sup></small></small> |arkeisthe <small><sup>[[V-PPM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with the |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| wages |<big><span class="asgreek">ὀψωνίοις</span></big> <small><small><sup>[[G3800]]</sup></small></small> |opsōniois <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you. |<big><span class="asgreek">ὑμῶν.¶</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.13|<< Luke 3:13]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.15|Luke 3:15 >>]]</td></tr></table>
 
 [^1]: ==TR»2+Byz»2==: we will do | <span class="asgreek">ποιήσομεν</span><small><sup>[[G4160]]</sup></small> | poiēsomen<small><sup>[[V-FAI-1P]]</sup></small>

@@ -8,30 +8,30 @@ On account of this we have been comforted. Besides also the comfort of us [the] 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| On account of |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| this |<span class="asgreek">τοῦτο</span> <small><sup>[[G3778]]</sup></small> |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we have been comforted. |<span class="asgreek">παρακεκλήμεθα.¶</span> <small><sup>[[G3870]]</sup></small> |parakeklēmetha <small><sup>[[V-RPI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Besides |<span class="asgreek">Ἐπὶ</span> <small><sup>[[G1909]]</sup></small> |Epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| also |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῇ</span> <small><sup>[[G3588]]</sup></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| comfort |<span class="asgreek">παρακλήσει</span> <small><sup>[[G3874]]</sup></small> |paraklēsei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of us [^1] [^2] |<span class="asgreek">ἡμῶν</span> <small><sup>[[G3165]]</sup></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| [the] more abundantly |<span class="asgreek">περισσοτέρως</span> <small><sup>[[G4056]]</sup></small> |perissoterōs <small><sup>[[ADV-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
-| rather |<span class="asgreek">μᾶλλον</span> <small><sup>[[G3123G]]</sup></small> |mallon <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we have rejoiced |<span class="asgreek">ἐχάρημεν</span> <small><sup>[[G5463]]</sup></small> |echarēmen <small><sup>[[V-2AOI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| at |<span class="asgreek">ἐπὶ</span> <small><sup>[[G1909]]</sup></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῇ</span> <small><sup>[[G3588]]</sup></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| joy |<span class="asgreek">χαρᾷ</span> <small><sup>[[G5479]]</sup></small> |chara <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Titus, |<span class="asgreek">Τίτου,</span> <small><sup>[[G5103]]</sup></small> |Titou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| because |<span class="asgreek">ὅτι</span> <small><sup>[[G3754H]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| has been refreshed |<span class="asgreek">ἀναπέπαυται</span> <small><sup>[[G0373]]</sup></small> |anapepautai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| spirit |<span class="asgreek">πνεῦμα</span> <small><sup>[[G4151G]]</sup></small> |pneuma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| by |<span class="asgreek">ἀπὸ</span> <small><sup>[[G0575]]</sup></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<span class="asgreek">πάντων</span> <small><sup>[[G3956]]</sup></small> |pantōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you, |<span class="asgreek">ὑμῶν,</span> <small><sup>[[G4771]]</sup></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| On account of |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| this |<big><span class="asgreek">τοῦτο</span></big> <small><small><sup>[[G3778]]</sup></small></small> |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we have been comforted. |<big><span class="asgreek">παρακεκλήμεθα.¶</span></big> <small><small><sup>[[G3870]]</sup></small></small> |parakeklēmetha <small><sup>[[V-RPI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Besides |<big><span class="asgreek">Ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |Epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| also |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| comfort |<big><span class="asgreek">παρακλήσει</span></big> <small><small><sup>[[G3874]]</sup></small></small> |paraklēsei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of us [^1] [^2] |<big><span class="asgreek">ἡμῶν</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| [the] more abundantly |<big><span class="asgreek">περισσοτέρως</span></big> <small><small><sup>[[G4056]]</sup></small></small> |perissoterōs <small><sup>[[ADV-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
+| rather |<big><span class="asgreek">μᾶλλον</span></big> <small><small><sup>[[G3123G]]</sup></small></small> |mallon <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we have rejoiced |<big><span class="asgreek">ἐχάρημεν</span></big> <small><small><sup>[[G5463]]</sup></small></small> |echarēmen <small><sup>[[V-2AOI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| at |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| joy |<big><span class="asgreek">χαρᾷ</span></big> <small><small><sup>[[G5479]]</sup></small></small> |chara <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Titus, |<big><span class="asgreek">Τίτου,</span></big> <small><small><sup>[[G5103]]</sup></small></small> |Titou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| because |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754H]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| has been refreshed |<big><span class="asgreek">ἀναπέπαυται</span></big> <small><small><sup>[[G0373]]</sup></small></small> |anapepautai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| spirit |<big><span class="asgreek">πνεῦμα</span></big> <small><small><sup>[[G4151G]]</sup></small></small> |pneuma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| by |<big><span class="asgreek">ἀπὸ</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |<big><span class="asgreek">πάντων</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pantōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you, |<big><span class="asgreek">ὑμῶν,</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.12|<< 2 Corinthians 7:12]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.14|2 Corinthians 7:14 >>]]</td></tr></table>
 
 [^1]: Variant:  <span class='asgreek'>**ὑμῶν**</span>  (<i>humōn</i>) 'of you' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**ἡμῶν**</span>  (<i>hēmōn</i>) 'of us' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)

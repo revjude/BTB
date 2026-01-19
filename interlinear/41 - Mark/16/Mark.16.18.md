@@ -8,27 +8,27 @@ and with their hands serpents they will take up, and if deadly anything they sha
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">O</abbr> | |
-| with |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">O</abbr> | |
-| their |<span class="asgreek">ταῖς</span> <small><sup>[[G3588]]</sup></small> |tais <small><sup>[[T-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">O</abbr> | |
-| hands |<span class="asgreek">χερσὶν</span> <small><sup>[[G5495]]</sup></small> |chersin <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">O</abbr> | |
-| serpents |<span class="asgreek">ὄφεις</span> <small><sup>[[G3789]]</sup></small> |opheis <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| they will take up, |<span class="asgreek">ἀροῦσιν,</span> <small><sup>[[G0142]]</sup></small> |arousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| and if |<span class="asgreek">κἂν</span> <small><sup>[[G2532]]</sup></small> |kan <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| deadly |<span class="asgreek">θανάσιμόν</span> <small><sup>[[G2286]]</sup></small> |thanasimon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| anything |<span class="asgreek">τι</span> <small><sup>[[G5100]]</sup></small> |ti <small><sup>[[X-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| they shall drink, |<span class="asgreek">πίωσιν,</span> <small><sup>[[G4095]]</sup></small> |piōsin <small><sup>[[V-2AAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| certainly |<span class="asgreek">οὐ</span> <small><sup>[[G3756]]</sup></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| them |<span class="asgreek">αὐτοὺς</span> <small><sup>[[G0846]]</sup></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| it will hurt, [^1] |<span class="asgreek">βλάψει,</span> <small><sup>[[G0984]]</sup></small> |blapsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="TR">K(o)</abbr> | |
-| upon |<span class="asgreek">ἐπὶ</span> <small><sup>[[G1909]]</sup></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| [the] sick |<span class="asgreek">ἀρρώστους</span> <small><sup>[[G0732]]</sup></small> |arrōstous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| hands |<span class="asgreek">χεῖρας</span> <small><sup>[[G5495]]</sup></small> |cheiras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| they will lay |<span class="asgreek">ἐπιθήσουσιν</span> <small><sup>[[G2007]]</sup></small> |epithēsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| well |<span class="asgreek">καλῶς</span> <small><sup>[[G2573]]</sup></small> |kalōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| they will be. [^2] |<span class="asgreek">ἕξουσιν.¶</span> <small><sup>[[G2192]]</sup></small> |hexousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">O</abbr> | |
+| with |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">O</abbr> | |
+| their |<big><span class="asgreek">ταῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tais <small><sup>[[T-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">O</abbr> | |
+| hands |<big><span class="asgreek">χερσὶν</span></big> <small><small><sup>[[G5495]]</sup></small></small> |chersin <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">O</abbr> | |
+| serpents |<big><span class="asgreek">ὄφεις</span></big> <small><small><sup>[[G3789]]</sup></small></small> |opheis <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| they will take up, |<big><span class="asgreek">ἀροῦσιν,</span></big> <small><small><sup>[[G0142]]</sup></small></small> |arousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| and if |<big><span class="asgreek">κἂν</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kan <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| deadly |<big><span class="asgreek">θανάσιμόν</span></big> <small><small><sup>[[G2286]]</sup></small></small> |thanasimon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| anything |<big><span class="asgreek">τι</span></big> <small><small><sup>[[G5100]]</sup></small></small> |ti <small><sup>[[X-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| they shall drink, |<big><span class="asgreek">πίωσιν,</span></big> <small><small><sup>[[G4095]]</sup></small></small> |piōsin <small><sup>[[V-2AAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| certainly |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| them |<big><span class="asgreek">αὐτοὺς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| it will hurt, [^1] |<big><span class="asgreek">βλάψει,</span></big> <small><small><sup>[[G0984]]</sup></small></small> |blapsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="TR">K(o)</abbr> | |
+| upon |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| [the] sick |<big><span class="asgreek">ἀρρώστους</span></big> <small><small><sup>[[G0732]]</sup></small></small> |arrōstous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| hands |<big><span class="asgreek">χεῖρας</span></big> <small><small><sup>[[G5495]]</sup></small></small> |cheiras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| they will lay |<big><span class="asgreek">ἐπιθήσουσιν</span></big> <small><small><sup>[[G2007]]</sup></small></small> |epithēsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| well |<big><span class="asgreek">καλῶς</span></big> <small><small><sup>[[G2573]]</sup></small></small> |kalōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| they will be. [^2] |<big><span class="asgreek">ἕξουσιν.¶</span></big> <small><small><sup>[[G2192]]</sup></small></small> |hexousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.17|<< Mark 16:17]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.19|Mark 16:19 >>]]</td></tr></table>
 
 [^1]: ==NA28+NA27+Tyn+WH+Treg+Byz==: it may hurt | <span class="asgreek">βλάψῃ</span><small><sup>[[G0984]]</sup></small> | blapsē<small><sup>[[V-AAS-3S]]</sup></small>

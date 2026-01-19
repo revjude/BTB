@@ -8,17 +8,17 @@ After years now many alms to then bring to the nation of mine I came and offerin
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| After |<span class="asgreek">δι᾽</span> <small><sup>[[G1223]]</sup></small> |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| years |<span class="asgreek">ἐτῶν</span> <small><sup>[[G2094]]</sup></small> |etōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| many |<span class="asgreek">πλειόνων</span> <small><sup>[[G4119]]</sup></small> |pleionōn <small><sup>[[A-GPN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| alms |<span class="asgreek">ἐλεημοσύνας</span> <small><sup>[[G1654]]</sup></small> |eleēmosunas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to then bring |<span class="asgreek">ποιήσων</span> <small><sup>[[G4160G]]</sup></small> |poiēsōn <small><sup>[[V-FAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| nation |<span class="asgreek">ἔθνος</span> <small><sup>[[G1484]]</sup></small> |ethnos <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of mine |<span class="asgreek">μου</span> <small><sup>[[G3165]]</sup></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I came |<span class="asgreek">παρεγενόμην</span> <small><sup>[[G3854]]</sup></small> |paregenomēn <small><sup>[[V-2ADI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«7+Byz«7">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| offerings, |<span class="asgreek">προσφοράς,</span> <small><sup>[[G4376]]</sup></small> |prosphoras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| After |<big><span class="asgreek">δι᾽</span></big> <small><small><sup>[[G1223]]</sup></small></small> |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| years |<big><span class="asgreek">ἐτῶν</span></big> <small><small><sup>[[G2094]]</sup></small></small> |etōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| many |<big><span class="asgreek">πλειόνων</span></big> <small><small><sup>[[G4119]]</sup></small></small> |pleionōn <small><sup>[[A-GPN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| alms |<big><span class="asgreek">ἐλεημοσύνας</span></big> <small><small><sup>[[G1654]]</sup></small></small> |eleēmosunas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to then bring |<big><span class="asgreek">ποιήσων</span></big> <small><small><sup>[[G4160G]]</sup></small></small> |poiēsōn <small><sup>[[V-FAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| nation |<big><span class="asgreek">ἔθνος</span></big> <small><small><sup>[[G1484]]</sup></small></small> |ethnos <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of mine |<big><span class="asgreek">μου</span></big> <small><small><sup>[[G3165]]</sup></small></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I came |<big><span class="asgreek">παρεγενόμην</span></big> <small><small><sup>[[G3854]]</sup></small></small> |paregenomēn <small><sup>[[V-2ADI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«7+Byz«7">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| offerings, |<big><span class="asgreek">προσφοράς,</span></big> <small><small><sup>[[G4376]]</sup></small></small> |prosphoras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.16|<< Acts 24:16]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.18|Acts 24:18 >>]]</td></tr></table>

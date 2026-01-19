@@ -8,26 +8,26 @@ Even if I shall give away all the possessions of mine, And if I shall deliver up
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Even if |<span class="asgreek">κἂν</span> <small><sup>[[G2532]]</sup></small> [^1] |kan <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I shall give away |<span class="asgreek">ψωμίσω</span> <small><sup>[[G5595]]</sup></small> |psōmisō <small><sup>[[V-AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<span class="asgreek">πάντα</span> <small><sup>[[G3956]]</sup></small> |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὰ</span> <small><sup>[[G3588]]</sup></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| possessions |<span class="asgreek">ὑπάρχοντά</span> <small><sup>[[G5225]]</sup></small> |huparchonta <small><sup>[[V-PAP-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of mine, |<span class="asgreek">μου,</span> <small><sup>[[G3165]]</sup></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH»1+Treg+TR+Byz">NKO</abbr> | |
-| if |<span class="asgreek">ἐὰν</span> <small><sup>[[G1437]]</sup></small> [^2] |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I shall deliver up |<span class="asgreek">παραδῶ</span> <small><sup>[[G3860]]</sup></small> |paradō <small><sup>[[V-2AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| body |<span class="asgreek">σῶμά</span> <small><sup>[[G4983]]</sup></small> |sōma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of mine |<span class="asgreek">μου</span> <small><sup>[[G3165]]</sup></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I may boast, [^3] [^4] [^5] |<span class="asgreek">καυχήσωμαι,</span> <small><sup>[[G2744]]</sup></small> |kauchēsōmai <small><sup>[[V-ADS-1S]]</sup></small> | <abbr title="NA28+NA27+WH">N(K)(o)</abbr> | |
-| love |<span class="asgreek">ἀγάπην</span> <small><sup>[[G0026]]</sup></small> |agapēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may have, |<span class="asgreek">ἔχω,</span> <small><sup>[[G2192]]</sup></small> |echō <small><sup>[[V-PAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| no [thing] |<span class="asgreek">οὐδὲν</span> <small><sup>[[G3762]]</sup></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I am profited. |<span class="asgreek">ὠφελοῦμαι.¶</span> <small><sup>[[G5623]]</sup></small> |ōpheloumai <small><sup>[[V-PPI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Even if |<big><span class="asgreek">κἂν</span></big> <small><small><sup>[[G2532]]</sup></small></small> [^1] |kan <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I shall give away |<big><span class="asgreek">ψωμίσω</span></big> <small><small><sup>[[G5595]]</sup></small></small> |psōmisō <small><sup>[[V-AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |<big><span class="asgreek">πάντα</span></big> <small><small><sup>[[G3956]]</sup></small></small> |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὰ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| possessions |<big><span class="asgreek">ὑπάρχοντά</span></big> <small><small><sup>[[G5225]]</sup></small></small> |huparchonta <small><sup>[[V-PAP-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of mine, |<big><span class="asgreek">μου,</span></big> <small><small><sup>[[G3165]]</sup></small></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH»1+Treg+TR+Byz">NKO</abbr> | |
+| if |<big><span class="asgreek">ἐὰν</span></big> <small><small><sup>[[G1437]]</sup></small></small> [^2] |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I shall deliver up |<big><span class="asgreek">παραδῶ</span></big> <small><small><sup>[[G3860]]</sup></small></small> |paradō <small><sup>[[V-2AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| body |<big><span class="asgreek">σῶμά</span></big> <small><small><sup>[[G4983]]</sup></small></small> |sōma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of mine |<big><span class="asgreek">μου</span></big> <small><small><sup>[[G3165]]</sup></small></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I may boast, [^3] [^4] [^5] |<big><span class="asgreek">καυχήσωμαι,</span></big> <small><small><sup>[[G2744]]</sup></small></small> |kauchēsōmai <small><sup>[[V-ADS-1S]]</sup></small> | <abbr title="NA28+NA27+WH">N(K)(o)</abbr> | |
+| love |<big><span class="asgreek">ἀγάπην</span></big> <small><small><sup>[[G0026]]</sup></small></small> |agapēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may have, |<big><span class="asgreek">ἔχω,</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echō <small><sup>[[V-PAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| no [thing] |<big><span class="asgreek">οὐδὲν</span></big> <small><small><sup>[[G3762]]</sup></small></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I am profited. |<big><span class="asgreek">ὠφελοῦμαι.¶</span></big> <small><small><sup>[[G5623]]</sup></small></small> |ōpheloumai <small><sup>[[V-PPI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.2|<< 1 Corinthians 13:2]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.4|1 Corinthians 13:4 >>]]</td></tr></table>
 
 [^1]: ==SBL+TR+Byz== spelled: <span class='asgreek'>**καὶ**</span> <span class='asgreek'>**ἐὰν**</span>

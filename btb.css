@@ -5,6 +5,9 @@ body {
 abbr{
     cursor:pointer;
 }
+table{
+    width:100%;
+}
 .theme-light, .theme-dark {
   --popover-width: 800px; /* Adjust the width as needed */
   --popover-height: 600px; /* Adjust the height as needed */
@@ -42,42 +45,50 @@ span.mod-empty-attachment{
 .markdown-rendered div:is(.el-p,.el-pre,.el-table,.el-ul,.el-ol) + div > :is(h1,h2,h3,h4,h5,h6) {
   margin-top: 1em;
 }
+.startversemarker {
+    font-weight:600;
+    font-size:1.2em;
+}
+.endversemarker {
+    font-weight:600;
+    font-size:1.2em;
+}
 .smallcaps{font-variant: small-caps;}
 .small{font-size: .5em;}
 .big{font-size: 2em;}
 /*Brown-Driver-Briggs*/
 :is(.markdown-source-view, .markdown-rendered) .bdbLangHebrew {
-    color: #AF3029;
+    color: var(--color-red);
     font-size: 1em;
     font-weight: 600;
 }
 :is(.markdown-source-view, .markdown-rendered) .bdbLangAramaic {
-    color: #66800B;
+    color: var(--color-green);
     font-size: 1em;
     font-weight: 600;
 }
 :is(.markdown-source-view, .markdown-rendered) .bdbLangGreek {
-    color: #5E409D;
+    color: var(--color-purple);
     font-size: 1em;
     font-weight: 600;
 }
 :is(.markdown-source-view, .markdown-rendered) .bdbHebrewEntryType {
-    color: #AF3029;
+    color: var(--color-red);
     font-size: 1.5em;
     font-weight: 700;
 }
 :is(.markdown-source-view, .markdown-rendered) .bdbHebrewEntryTypeLetter {
-    color: #AF3029;
+    color: var(--color-red);
     font-size: 3em;
     font-weight: 700;
 }
 :is(.markdown-source-view, .markdown-rendered) .bdbAramaicEntryType {
-    color: #66800B;
+    color: var(--color-green);
     font-size: 1.5em;
     font-weight: 700;
 }
 :is(.markdown-source-view, .markdown-rendered) .bdbAramaicEntryTypeLetter {
-    color: #66800B;
+    color: var(--color-green);
     font-size: 3em;
     font-weight: 700;
 }
@@ -114,24 +125,24 @@ span.mod-empty-attachment{
     display:inline-block;
 }
 :is(.markdown-source-view, .markdown-rendered) span.asgreek {
-    color: #5E409D;
+    color: var(--color-purple);
     font-size: 1em;
     font-weight: 600;
 }
 :is(.markdown-source-view, .markdown-rendered) span.ashebrew {
-    color: #AF3029;
+    color: var(--color-red);
     font-size: 1em;
     font-weight: 600;
 }
 :is(.markdown-source-view, .markdown-rendered) span.asaramaic {
-    color: #66800B;
+    color: var(--color-green);
     font-size: 1em;
     font-weight: 600;
 }
 :is(.markdown-source-view, .markdown-rendered) span.aslatin {
     font-size: 1em;
     font-weight: 600;
-    color: #BC5215;
+    color: var(--color-orange);
 }
 :is(.markdown-source-view, .markdown-rendered) span.asbold {
     font-weight: 700;
@@ -149,27 +160,27 @@ span.mod-empty-attachment{
     font-size: 0.75em;
 }
 :is(.markdown-source-view, .markdown-rendered) span.asgramGrp {
-    color: #6F6E69;
+    color: var(--background-modifier-active-hover);
     font-size: 0.95em;
 }
 :is(.markdown-source-view, .markdown-rendered) span.aspos {
     font-weight: 500;
-    color: #575653;
+    color: var(--text-accent);
 }
 :is(.markdown-source-view, .markdown-rendered) span.asetym {
-    color: #6F6E69;
+    color: var(--text-accent);
     font-size: 0.9em;
     display: block;
     margin: 0.5em 0;
 }
 :is(.markdown-source-view, .markdown-rendered) span.asseptuagint {
-    color: #575653;
+    color: var(--text-muted);
 }
 :is(.markdown-source-view, .markdown-rendered) span.asderivation {
-    color: #575653;
+    color: var(--text-muted);
 }
 :is(.markdown-source-view, .markdown-rendered) span.asusg {
-    color: #878580;
+    color: var(--text-muted);
     font-size: 0.9em;
     font-style: italic;
     display: inline;
@@ -178,8 +189,8 @@ span.mod-empty-attachment{
     display: block;
     margin-top: 1em;
     padding-top: 0.5em;
-    border-top: 1px solid #CECDC3;
-    color: #575653;
+    border-top: 1px solid var(--text-faint);
+    color: var(--text-accent);
 }
 :is(.markdown-source-view, .markdown-rendered) span.asref {
     font-weight: normal;
@@ -187,22 +198,22 @@ span.mod-empty-attachment{
 :is(.markdown-source-view, .markdown-rendered) span.ashighlight {
     font-style: italic;
     font-weight: 550;
-    background-color: rgba(208, 162, 21, 0.2);
+    background-color: var(--text-highlight-bg);
 }
 
 /*TIPNR*/
 :is(.markdown-source-view, .markdown-rendered) .tipnrLangHebrew {
-    color: #AF3029;
+    color: var(--color-red);
     font-size: 1em;
     font-weight: 600;
 }
 :is(.markdown-source-view, .markdown-rendered) .tipnrLangGreek {
-    color: #5E409D;
+    color: var(--color-purple);
     font-size: 1em;
     font-weight: 600;
 }
 :is(.markdown-source-view, .markdown-rendered) span.tipnrhighlight {
     font-style: italic;
     font-weight: 550;
-    background-color: rgba(208, 162, 21, 0.2);
+    background-color: var(--text-highlight-bg);
 }

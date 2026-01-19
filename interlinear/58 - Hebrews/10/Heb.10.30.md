@@ -8,23 +8,23 @@ We know for the [One] having said; Mine [is] vengeance , I myself will repay say
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| We know |<span class="asgreek">οἴδαμεν</span> <small><sup>[[G6063]]</sup></small> |oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the [One] |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having said; |<span class="asgreek">εἰπόντα·</span> <small><sup>[[G2036]]</sup></small> |eiponta <small><sup>[[V-2AAP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Mine |<span class="asgreek">ἐμοὶ</span> <small><sup>[[G1473]]</sup></small> |emoi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [is] vengeance , |<span class="asgreek">ἐκδίκησις,</span> <small><sup>[[G1557]]</sup></small> |ekdikēsis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I myself |<span class="asgreek">ἐγὼ</span> <small><sup>[[G1473]]</sup></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will repay |<span class="asgreek">ἀνταποδώσω</span> <small><sup>[[G0467]]</sup></small> |antapodōsō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| says |<span class="asgreek">λέγει</span> <small><sup>[[G3004G]]</sup></small> |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| Lord; [^1] |<span class="asgreek">κύριος·</span> <small><sup>[[G2962G]]</sup></small> |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| again: |<span class="asgreek">πάλιν·</span> <small><sup>[[G3825]]</sup></small> |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Will judge |<span class="asgreek">κρινεῖ</span> <small><sup>[[G2919]]</sup></small> |krinei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
-| [the] Lord |<span class="asgreek">κύριος</span> <small><sup>[[G2962G]]</sup></small> |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| people |<span class="asgreek">λαὸν</span> <small><sup>[[G2992]]</sup></small> |laon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Him. |<span class="asgreek">αὐτοῦ.</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| We know |<big><span class="asgreek">οἴδαμεν</span></big> <small><small><sup>[[G6063]]</sup></small></small> |oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [One] |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having said; |<big><span class="asgreek">εἰπόντα·</span></big> <small><small><sup>[[G2036]]</sup></small></small> |eiponta <small><sup>[[V-2AAP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Mine |<big><span class="asgreek">ἐμοὶ</span></big> <small><small><sup>[[G1473]]</sup></small></small> |emoi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [is] vengeance , |<big><span class="asgreek">ἐκδίκησις,</span></big> <small><small><sup>[[G1557]]</sup></small></small> |ekdikēsis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I myself |<big><span class="asgreek">ἐγὼ</span></big> <small><small><sup>[[G1473]]</sup></small></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will repay |<big><span class="asgreek">ἀνταποδώσω</span></big> <small><small><sup>[[G0467]]</sup></small></small> |antapodōsō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| says |<big><span class="asgreek">λέγει</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| Lord; [^1] |<big><span class="asgreek">κύριος·</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| again: |<big><span class="asgreek">πάλιν·</span></big> <small><small><sup>[[G3825]]</sup></small></small> |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Will judge |<big><span class="asgreek">κρινεῖ</span></big> <small><small><sup>[[G2919]]</sup></small></small> |krinei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
+| [the] Lord |<big><span class="asgreek">κύριος</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| people |<big><span class="asgreek">λαὸν</span></big> <small><small><sup>[[G2992]]</sup></small></small> |laon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Him. |<big><span class="asgreek">αὐτοῦ.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.29|<< Hebrews 10:29]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.31|Hebrews 10:31 >>]]</td></tr></table>
 
 [^1]: Extra Text:  <span class='asgreek'>**λέγει**</span>   <span class='asgreek'>**κύριος**</span>·   (<i>legei kurios</i>) 'says Lord;' is only in traditional manuscripts (TR+Byz)

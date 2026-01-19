@@ -8,15 +8,15 @@ or What for may give a man [as] an exchange for the soul of him?<br><table width
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| or |<span class="asgreek">ἢ</span> <small><sup>[[G2228]]</sup></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| What |<span class="asgreek">τί</span> <small><sup>[[G5101]]</sup></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
-| may give [^1] |<span class="asgreek">δοῖ</span> <small><sup>[[G1325]]</sup></small> |doi <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| a man |<span class="asgreek">ἄνθρωπος</span> <small><sup>[[G0444]]</sup></small> |anthrōpos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [as] an exchange |<span class="asgreek">ἀντάλλαγμα</span> <small><sup>[[G0465]]</sup></small> |antallagma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| soul |<span class="asgreek">ψυχῆς</span> <small><sup>[[G5590G]]</sup></small> |psuchēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him? |<span class="asgreek">αὐτοῦ;</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| What |<big><span class="asgreek">τί</span></big> <small><small><sup>[[G5101]]</sup></small></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
+| may give [^1] |<big><span class="asgreek">δοῖ</span></big> <small><small><sup>[[G1325]]</sup></small></small> |doi <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| a man |<big><span class="asgreek">ἄνθρωπος</span></big> <small><small><sup>[[G0444]]</sup></small></small> |anthrōpos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [as] an exchange |<big><span class="asgreek">ἀντάλλαγμα</span></big> <small><small><sup>[[G0465]]</sup></small></small> |antallagma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| soul |<big><span class="asgreek">ψυχῆς</span></big> <small><small><sup>[[G5590G]]</sup></small></small> |psuchēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him? |<big><span class="asgreek">αὐτοῦ;</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.36|<< Mark 8:36]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.38|Mark 8:38 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: will give | <span class="asgreek">δώσει</span><small><sup>[[G1325]]</sup></small> | dōsei<small><sup>[[V-FAI-3S]]</sup></small>

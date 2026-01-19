@@ -8,16 +8,16 @@ Not therefore shall you be anxious saying; What shall we eat Or what shall we dr
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| therefore |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shall you be anxious |<span class="asgreek">μεριμνήσητε</span> <small><sup>[[G3309]]</sup></small> |merimnēsēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying; |<span class="asgreek">λέγοντες·</span> <small><sup>[[G3004G]]</sup></small> |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| What |<span class="asgreek">τί</span> <small><sup>[[G5101]]</sup></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shall we eat |<span class="asgreek">φάγωμεν</span> <small><sup>[[G5315]]</sup></small> |phagōmen <small><sup>[[V-AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Or |<span class="asgreek">ἢ</span> <small><sup>[[G2228]]</sup></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| what |<span class="asgreek">τί</span> <small><sup>[[G5101]]</sup></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shall we drink |<span class="asgreek">πίωμεν</span> <small><sup>[[G4095]]</sup></small> |piōmen <small><sup>[[V-2AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Or |<span class="asgreek">ἢ</span> <small><sup>[[G2228]]</sup></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| what |<span class="asgreek">τί</span> <small><sup>[[G5101]]</sup></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shall we wear? |<span class="asgreek">περιβαλώμεθα;</span> <small><sup>[[G4016]]</sup></small> |peribalōmetha <small><sup>[[V-2AMS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| therefore |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shall you be anxious |<big><span class="asgreek">μεριμνήσητε</span></big> <small><small><sup>[[G3309]]</sup></small></small> |merimnēsēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying; |<big><span class="asgreek">λέγοντες·</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| What |<big><span class="asgreek">τί</span></big> <small><small><sup>[[G5101]]</sup></small></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shall we eat |<big><span class="asgreek">φάγωμεν</span></big> <small><small><sup>[[G5315]]</sup></small></small> |phagōmen <small><sup>[[V-AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| what |<big><span class="asgreek">τί</span></big> <small><small><sup>[[G5101]]</sup></small></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shall we drink |<big><span class="asgreek">πίωμεν</span></big> <small><small><sup>[[G4095]]</sup></small></small> |piōmen <small><sup>[[V-2AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| what |<big><span class="asgreek">τί</span></big> <small><small><sup>[[G5101]]</sup></small></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shall we wear? |<big><span class="asgreek">περιβαλώμεθα;</span></big> <small><small><sup>[[G4016]]</sup></small></small> |peribalōmetha <small><sup>[[V-2AMS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.30|<< Matthew 6:30]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.32|Matthew 6:32 >>]]</td></tr></table>

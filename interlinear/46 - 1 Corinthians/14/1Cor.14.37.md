@@ -8,22 +8,22 @@ If anyone considers a prophet himself to be or spiritual, he should recognize [t
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| If |<span class="asgreek">Εἴ</span> <small><sup>[[G1487G]]</sup></small> |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| anyone |<span class="asgreek">τις</span> <small><sup>[[G5100]]</sup></small> |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| considers |<span class="asgreek">δοκεῖ</span> <small><sup>[[G1380]]</sup></small> |dokei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a prophet |<span class="asgreek">προφήτης</span> <small><sup>[[G4396]]</sup></small> |prophētēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| himself to be |<span class="asgreek">εἶναι</span> <small><sup>[[G1511]]</sup></small> |einai <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| or |<span class="asgreek">ἢ</span> <small><sup>[[G2228]]</sup></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| spiritual, |<span class="asgreek">πνευματικός,</span> <small><sup>[[G4152]]</sup></small> |pneumatikos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he should recognize |<span class="asgreek">ἐπιγινωσκέτω</span> <small><sup>[[G1921]]</sup></small> [^1] |epiginōsketō <small><sup>[[V-PAM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] things |<span class="asgreek">ἃ</span> <small><sup>[[G3739]]</sup></small> |ha <small><sup>[[R-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I write |<span class="asgreek">γράφω</span> <small><sup>[[G1125]]</sup></small> |graphō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to you |<span class="asgreek">ὑμῖν</span> <small><sup>[[G4771]]</sup></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="TR">k</abbr> | |
-| Lord |<span class="asgreek">κυρίου</span> <small><sup>[[G2962G]]</sup></small> |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is [^2] [^3] |<span class="asgreek">ἐστὶν</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| [the] command; [^4] [^5] |<span class="asgreek">ἐντολή·</span> <small><sup>[[G1785]]</sup></small> |entolē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">N(K)O</abbr> | |
+| If |<big><span class="asgreek">Εἴ</span></big> <small><small><sup>[[G1487G]]</sup></small></small> |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| anyone |<big><span class="asgreek">τις</span></big> <small><small><sup>[[G5100]]</sup></small></small> |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| considers |<big><span class="asgreek">δοκεῖ</span></big> <small><small><sup>[[G1380]]</sup></small></small> |dokei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a prophet |<big><span class="asgreek">προφήτης</span></big> <small><small><sup>[[G4396]]</sup></small></small> |prophētēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| himself to be |<big><span class="asgreek">εἶναι</span></big> <small><small><sup>[[G1511]]</sup></small></small> |einai <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| spiritual, |<big><span class="asgreek">πνευματικός,</span></big> <small><small><sup>[[G4152]]</sup></small></small> |pneumatikos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he should recognize |<big><span class="asgreek">ἐπιγινωσκέτω</span></big> <small><small><sup>[[G1921]]</sup></small></small> [^1] |epiginōsketō <small><sup>[[V-PAM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] things |<big><span class="asgreek">ἃ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |ha <small><sup>[[R-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I write |<big><span class="asgreek">γράφω</span></big> <small><small><sup>[[G1125]]</sup></small></small> |graphō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to you |<big><span class="asgreek">ὑμῖν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="TR">k</abbr> | |
+| Lord |<big><span class="asgreek">κυρίου</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is [^2] [^3] |<big><span class="asgreek">ἐστὶν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| [the] command; [^4] [^5] |<big><span class="asgreek">ἐντολή·</span></big> <small><small><sup>[[G1785]]</sup></small></small> |entolē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">N(K)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.36|<< 1 Corinthians 14:36]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.38|1 Corinthians 14:38 >>]]</td></tr></table>
 
 [^1]: ==Tyn== spelled: <span class='asgreek'>**ἐπιγεινωσκέτω**</span>

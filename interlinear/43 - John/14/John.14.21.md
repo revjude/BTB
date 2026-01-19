@@ -8,35 +8,35 @@ The [one] having the commandments of Mine and keeping them, he is the [one] lovi
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| The [one] |<span class="asgreek">Ὁ</span> <small><sup>[[G3588]]</sup></small> |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having |<span class="asgreek">ἔχων</span> <small><sup>[[G2192]]</sup></small> |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὰς</span> <small><sup>[[G3588]]</sup></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| commandments |<span class="asgreek">ἐντολάς</span> <small><sup>[[G1785]]</sup></small> |entolas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Mine |<span class="asgreek">μου</span> <small><sup>[[G3165]]</sup></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| keeping |<span class="asgreek">τηρῶν</span> <small><sup>[[G5083G]]</sup></small> |tērōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| them, |<span class="asgreek">αὐτάς,</span> <small><sup>[[G0846]]</sup></small> |autas <small><sup>[[P-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he |<span class="asgreek">ἐκεῖνός</span> <small><sup>[[G1565]]</sup></small> |ekeinos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is |<span class="asgreek">ἐστιν</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the [one] |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| loving |<span class="asgreek">ἀγαπῶν</span> <small><sup>[[G0025]]</sup></small> |agapōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Me; |<span class="asgreek">με·</span> <small><sup>[[G3165]]</sup></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the [one] |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| loving |<span class="asgreek">ἀγαπῶν</span> <small><sup>[[G0025]]</sup></small> |agapōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Me |<span class="asgreek">με</span> <small><sup>[[G3165]]</sup></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he will be loved |<span class="asgreek">ἀγαπηθήσεται</span> <small><sup>[[G0025]]</sup></small> |agapēthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| by |<span class="asgreek">ὑπὸ</span> <small><sup>[[G5259G]]</sup></small> |hupo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Father |<span class="asgreek">πατρός</span> <small><sup>[[G3962]]</sup></small> |patros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Mine; |<span class="asgreek">μου·</span> <small><sup>[[G3165]]</sup></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and I myself |<span class="asgreek">κἀγὼ</span> <small><sup>[[G1473]]</sup></small> [^1] |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will love |<span class="asgreek">ἀγαπήσω</span> <small><sup>[[G0025]]</sup></small> |agapēsō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| him |<span class="asgreek">αὐτὸν</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I will show |<span class="asgreek">ἐμφανίσω</span> <small><sup>[[G1718]]</sup></small> |emphanisō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to him |<span class="asgreek">αὐτῷ</span> <small><sup>[[G0846]]</sup></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Myself. |<span class="asgreek">ἐμαυτόν.¶</span> <small><sup>[[G1473]]</sup></small> |emauton <small><sup>[[F-1ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| The [one] |<big><span class="asgreek">Ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having |<big><span class="asgreek">ἔχων</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὰς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| commandments |<big><span class="asgreek">ἐντολάς</span></big> <small><small><sup>[[G1785]]</sup></small></small> |entolas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Mine |<big><span class="asgreek">μου</span></big> <small><small><sup>[[G3165]]</sup></small></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| keeping |<big><span class="asgreek">τηρῶν</span></big> <small><small><sup>[[G5083G]]</sup></small></small> |tērōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| them, |<big><span class="asgreek">αὐτάς,</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autas <small><sup>[[P-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he |<big><span class="asgreek">ἐκεῖνός</span></big> <small><small><sup>[[G1565]]</sup></small></small> |ekeinos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is |<big><span class="asgreek">ἐστιν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [one] |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| loving |<big><span class="asgreek">ἀγαπῶν</span></big> <small><small><sup>[[G0025]]</sup></small></small> |agapōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Me; |<big><span class="asgreek">με·</span></big> <small><small><sup>[[G3165]]</sup></small></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [one] |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| loving |<big><span class="asgreek">ἀγαπῶν</span></big> <small><small><sup>[[G0025]]</sup></small></small> |agapōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Me |<big><span class="asgreek">με</span></big> <small><small><sup>[[G3165]]</sup></small></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he will be loved |<big><span class="asgreek">ἀγαπηθήσεται</span></big> <small><small><sup>[[G0025]]</sup></small></small> |agapēthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| by |<big><span class="asgreek">ὑπὸ</span></big> <small><small><sup>[[G5259G]]</sup></small></small> |hupo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Father |<big><span class="asgreek">πατρός</span></big> <small><small><sup>[[G3962]]</sup></small></small> |patros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Mine; |<big><span class="asgreek">μου·</span></big> <small><small><sup>[[G3165]]</sup></small></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and I myself |<big><span class="asgreek">κἀγὼ</span></big> <small><small><sup>[[G1473]]</sup></small></small> [^1] |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will love |<big><span class="asgreek">ἀγαπήσω</span></big> <small><small><sup>[[G0025]]</sup></small></small> |agapēsō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I will show |<big><span class="asgreek">ἐμφανίσω</span></big> <small><small><sup>[[G1718]]</sup></small></small> |emphanisō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to him |<big><span class="asgreek">αὐτῷ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Myself. |<big><span class="asgreek">ἐμαυτόν.¶</span></big> <small><small><sup>[[G1473]]</sup></small></small> |emauton <small><sup>[[F-1ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.20|<< John 14:20]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.22|John 14:22 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz== spelled: <span class='asgreek'>**καὶ**</span> <span class='asgreek'>**ἐγὼ**</span>

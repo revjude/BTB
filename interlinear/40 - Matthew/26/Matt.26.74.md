@@ -8,20 +8,20 @@ Then he began to curse and to swear that Not I know the man! And immediately a r
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Then |<span class="asgreek">τότε</span> <small><sup>[[G5119]]</sup></small> |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he began |<span class="asgreek">ἤρξατο</span> <small><sup>[[G0757]]</sup></small> |ērxato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to curse |<span class="asgreek">καταθεματίζειν</span> <small><sup>[[G2653]]</sup></small> [^1] |katathematizein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to swear |<span class="asgreek">ὀμνύειν</span> <small><sup>[[G3660]]</sup></small> |omnuein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Not |<span class="asgreek">οὐκ</span> <small><sup>[[G3756]]</sup></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I know |<span class="asgreek">οἶδα</span> <small><sup>[[G6063]]</sup></small> |oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| man! |<span class="asgreek">ἄνθρωπον.</span> <small><sup>[[G0444]]</sup></small> |anthrōpon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| immediately |<span class="asgreek">εὐθέως</span> <small><sup>[[G2112]]</sup></small> [^2] |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a rooster |<span class="asgreek">ἀλέκτωρ</span> <small><sup>[[G0220]]</sup></small> |alektōr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| crowed. |<span class="asgreek">ἐφώνησεν.</span> <small><sup>[[G5455]]</sup></small> |ephōnēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Then |<big><span class="asgreek">τότε</span></big> <small><small><sup>[[G5119]]</sup></small></small> |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he began |<big><span class="asgreek">ἤρξατο</span></big> <small><small><sup>[[G0757]]</sup></small></small> |ērxato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to curse |<big><span class="asgreek">καταθεματίζειν</span></big> <small><small><sup>[[G2653]]</sup></small></small> [^1] |katathematizein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to swear |<big><span class="asgreek">ὀμνύειν</span></big> <small><small><sup>[[G3660]]</sup></small></small> |omnuein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Not |<big><span class="asgreek">οὐκ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I know |<big><span class="asgreek">οἶδα</span></big> <small><small><sup>[[G6063]]</sup></small></small> |oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| man! |<big><span class="asgreek">ἄνθρωπον.</span></big> <small><small><sup>[[G0444]]</sup></small></small> |anthrōpon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| immediately |<big><span class="asgreek">εὐθέως</span></big> <small><small><sup>[[G2112]]</sup></small></small> [^2] |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a rooster |<big><span class="asgreek">ἀλέκτωρ</span></big> <small><small><sup>[[G0220]]</sup></small></small> |alektōr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| crowed. |<big><span class="asgreek">ἐφώνησεν.</span></big> <small><small><sup>[[G5455]]</sup></small></small> |ephōnēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.73|<< Matthew 26:73]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.75|Matthew 26:75 >>]]</td></tr></table>
 
 [^1]: ==TR== spelled: <span class='asgreek'>**καταναθεματίζειν**</span>

@@ -4,41 +4,41 @@ For they are the spirits of devils, working miracles, [which] go forth unto the 
 <small><sub>**BSB:**</sub></small>
 These are demonic spirits that perform signs and go out to all the kings of the earth, to assemble them for battle on the great day of God the Almighty.
 <small><sub>**Literal:**</sub></small>
-they are for spirits of demons performing signs which go forth to the kings of the earth and of the inhabited [world] whole to gather together them unto the battle of the day that [one] the great [day] \<the> of God the Almighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.13|<< Revelation 16:13]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.15|Revelation 16:15 >>]]</td></tr></table>
+they are for spirits of demons performing signs which go forth to the kings of the earth and of the inhabited [world] whole to gather together them unto the battle of the day that [one] the great [day] <the> of God the Almighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.13|<< Revelation 16:13]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.15|Revelation 16:15 >>]]</td></tr></table>
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| they are |<span class="asgreek">εἰσὶν</span> <small><sup>[[G1510]]</sup></small> |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| spirits |<span class="asgreek">πνεύματα</span> <small><sup>[[G4151G]]</sup></small> |pneumata <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of demons [^1] |<span class="asgreek">δαιμονίων</span> <small><sup>[[G1140]]</sup></small> |daimoniōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| performing |<span class="asgreek">ποιοῦντα</span> <small><sup>[[G4160G]]</sup></small> |poiounta <small><sup>[[V-PAP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| signs |<span class="asgreek">σημεῖα</span> <small><sup>[[G4592]]</sup></small> |sēmeia <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| which |<span class="asgreek">ἃ</span> <small><sup>[[G3739]]</sup></small> |ha <small><sup>[[R-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
-| go forth [^2] |<span class="asgreek">ἐκπορεύεται</span> <small><sup>[[G1607]]</sup></small> |ekporeuetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| to |<span class="asgreek">ἐπὶ</span> <small><sup>[[G1909]]</sup></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| kings |<span class="asgreek">βασιλεῖς</span> <small><sup>[[G0935]]</sup></small> |basileis <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="TR">K</abbr> | |
-| earth |<span class="asgreek">γῆς</span> <small><sup>[[G1093G]]</sup></small> |gēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="TR">K</abbr> | |
-| and [^3] |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |
-| of the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| inhabited [world] |<span class="asgreek">οἰκουμένης</span> <small><sup>[[G3625]]</sup></small> |oikoumenēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| whole |<span class="asgreek">ὅλης</span> <small><sup>[[G3650]]</sup></small> |holēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to gather together |<span class="asgreek">συναγαγεῖν</span> <small><sup>[[G4863]]</sup></small> |sunagagein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| them |<span class="asgreek">αὐτοὺς</span> <small><sup>[[G0846]]</sup></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| unto |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
-| battle |<span class="asgreek">πόλεμον</span> <small><sup>[[G4171]]</sup></small> |polemon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| day |<span class="asgreek">ἡμέρας</span> <small><sup>[[G2250]]</sup></small> |hēmeras <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that [one] |<span class="asgreek">ἐκείνης</span> <small><sup>[[G1565]]</sup></small> |ekeinēs <small><sup>[[D-GSF]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| great [day] |<span class="asgreek">μεγάλης</span> <small><sup>[[G3173]]</sup></small> |megalēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of God |<span class="asgreek">θεοῦ</span> <small><sup>[[G2316]]</sup></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Almighty. |<span class="asgreek">παντοκράτορος.</span> <small><sup>[[G3841]]</sup></small> |pantokratoros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they are |<big><span class="asgreek">εἰσὶν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| spirits |<big><span class="asgreek">πνεύματα</span></big> <small><small><sup>[[G4151G]]</sup></small></small> |pneumata <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of demons [^1] |<big><span class="asgreek">δαιμονίων</span></big> <small><small><sup>[[G1140]]</sup></small></small> |daimoniōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| performing |<big><span class="asgreek">ποιοῦντα</span></big> <small><small><sup>[[G4160G]]</sup></small></small> |poiounta <small><sup>[[V-PAP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| signs |<big><span class="asgreek">σημεῖα</span></big> <small><small><sup>[[G4592]]</sup></small></small> |sēmeia <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| which |<big><span class="asgreek">ἃ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |ha <small><sup>[[R-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
+| go forth [^2] |<big><span class="asgreek">ἐκπορεύεται</span></big> <small><small><sup>[[G1607]]</sup></small></small> |ekporeuetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| to |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| kings |<big><span class="asgreek">βασιλεῖς</span></big> <small><small><sup>[[G0935]]</sup></small></small> |basileis <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="TR">K</abbr> | |
+| earth |<big><span class="asgreek">γῆς</span></big> <small><small><sup>[[G1093G]]</sup></small></small> |gēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="TR">K</abbr> | |
+| and [^3] |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |
+| of the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| inhabited [world] |<big><span class="asgreek">οἰκουμένης</span></big> <small><small><sup>[[G3625]]</sup></small></small> |oikoumenēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| whole |<big><span class="asgreek">ὅλης</span></big> <small><small><sup>[[G3650]]</sup></small></small> |holēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to gather together |<big><span class="asgreek">συναγαγεῖν</span></big> <small><small><sup>[[G4863]]</sup></small></small> |sunagagein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| them |<big><span class="asgreek">αὐτοὺς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| unto |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
+| battle |<big><span class="asgreek">πόλεμον</span></big> <small><small><sup>[[G4171]]</sup></small></small> |polemon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| day |<big><span class="asgreek">ἡμέρας</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmeras <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that [one] |<big><span class="asgreek">ἐκείνης</span></big> <small><small><sup>[[G1565]]</sup></small></small> |ekeinēs <small><sup>[[D-GSF]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| great [day] |<big><span class="asgreek">μεγάλης</span></big> <small><small><sup>[[G3173]]</sup></small></small> |megalēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of God |<big><span class="asgreek">θεοῦ</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Almighty. |<big><span class="asgreek">παντοκράτορος.</span></big> <small><small><sup>[[G3841]]</sup></small></small> |pantokratoros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.13|<< Revelation 16:13]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.15|Revelation 16:15 >>]]</td></tr></table>
 
 [^1]: ==TR==: of demons | <span class="asgreek">δαιμόνων</span><small><sup>[[G1142]]</sup></small> | daimonōn<small><sup>[[N-GPM]]</sup></small>

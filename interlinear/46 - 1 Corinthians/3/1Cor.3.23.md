@@ -8,10 +8,10 @@ you now of Christ, Christ now of God.<br><table width="100%" border="0"><tr><td 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| you |<span class="asgreek">ὑμεῖς</span> <small><sup>[[G4771]]</sup></small> |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Christ, |<span class="asgreek">Χριστοῦ,</span> <small><sup>[[G5547]]</sup></small> |Christou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Christ |<span class="asgreek">Χριστὸς</span> <small><sup>[[G5547]]</sup></small> |Christos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of God. |<span class="asgreek">θεοῦ.¶</span> <small><sup>[[G2316]]</sup></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you |<big><span class="asgreek">ὑμεῖς</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Christ, |<big><span class="asgreek">Χριστοῦ,</span></big> <small><small><sup>[[G5547]]</sup></small></small> |Christou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Christ |<big><span class="asgreek">Χριστὸς</span></big> <small><small><sup>[[G5547]]</sup></small></small> |Christos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of God. |<big><span class="asgreek">θεοῦ.¶</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.22|<< 1 Corinthians 3:22]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.1|1 Corinthians 4:1 >>]]</td></tr></table>

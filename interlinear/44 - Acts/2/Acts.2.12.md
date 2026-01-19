@@ -8,20 +8,20 @@ Were amazed then all and they were perplexed other to other saying; What maybe i
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Were amazed |<span class="asgreek">ἐξίσταντο</span> <small><sup>[[G1839]]</sup></small> |existanto <small><sup>[[V-IMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<span class="asgreek">πάντες</span> <small><sup>[[G3956]]</sup></small> |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they were perplexed [^1] |<span class="asgreek">διηπόρουν</span> <small><sup>[[G1280]]</sup></small> |diēporoun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Byz">N(k)O</abbr> | |
-| other |<span class="asgreek">ἄλλος</span> <small><sup>[[G0243]]</sup></small> |allos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">πρὸς</span> <small><sup>[[G4314]]</sup></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| other |<span class="asgreek">ἄλλον</span> <small><sup>[[G0243]]</sup></small> |allon <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying; |<span class="asgreek">λέγοντες·</span> <small><sup>[[G3004G]]</sup></small> |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| What |<span class="asgreek">τί</span> <small><sup>[[G5101]]</sup></small> |ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| maybe |<span class="asgreek">ἄν</span> <small><sup>[[G0302]]</sup></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| intends [^2] |<span class="asgreek">θέλει</span> <small><sup>[[G2309]]</sup></small> |thelei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| this |<span class="asgreek">τοῦτο</span> <small><sup>[[G3778]]</sup></small> |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to be? |<span class="asgreek">εἶναι;</span> <small><sup>[[G1511]]</sup></small> |einai <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Were amazed |<big><span class="asgreek">ἐξίσταντο</span></big> <small><small><sup>[[G1839]]</sup></small></small> |existanto <small><sup>[[V-IMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |<big><span class="asgreek">πάντες</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they were perplexed [^1] |<big><span class="asgreek">διηπόρουν</span></big> <small><small><sup>[[G1280]]</sup></small></small> |diēporoun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Byz">N(k)O</abbr> | |
+| other |<big><span class="asgreek">ἄλλος</span></big> <small><small><sup>[[G0243]]</sup></small></small> |allos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| other |<big><span class="asgreek">ἄλλον</span></big> <small><small><sup>[[G0243]]</sup></small></small> |allon <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying; |<big><span class="asgreek">λέγοντες·</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| What |<big><span class="asgreek">τί</span></big> <small><small><sup>[[G5101]]</sup></small></small> |ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| maybe |<big><span class="asgreek">ἄν</span></big> <small><small><sup>[[G0302]]</sup></small></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| intends [^2] |<big><span class="asgreek">θέλει</span></big> <small><small><sup>[[G2309]]</sup></small></small> |thelei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| this |<big><span class="asgreek">τοῦτο</span></big> <small><small><sup>[[G3778]]</sup></small></small> |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to be? |<big><span class="asgreek">εἶναι;</span></big> <small><small><sup>[[G1511]]</sup></small></small> |einai <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.11|<< Acts 2:11]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.13|Acts 2:13 >>]]</td></tr></table>
 
 [^1]: ==WH+Treg+TR==: theythemselves were perplexed | <span class="asgreek">διηποροῦντο</span><small><sup>[[G1280]]</sup></small> | diēporounto<small><sup>[[V-IMI-3P]]</sup></small>

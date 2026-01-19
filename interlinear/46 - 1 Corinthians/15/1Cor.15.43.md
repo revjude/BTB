@@ -8,16 +8,16 @@ It is sown in dishonor, it is raised in glory; It is sown in weakness, it is rai
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| It is sown |<span class="asgreek">σπείρεται</span> <small><sup>[[G4687]]</sup></small> |speiretai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| dishonor, |<span class="asgreek">ἀτιμίᾳ,</span> <small><sup>[[G0819]]</sup></small> |atimia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it is raised |<span class="asgreek">ἐγείρεται</span> <small><sup>[[G1453]]</sup></small> |egeiretai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| glory; |<span class="asgreek">δόξῃ·</span> <small><sup>[[G1391]]</sup></small> |doxē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| It is sown |<span class="asgreek">σπείρεται</span> <small><sup>[[G4687]]</sup></small> |speiretai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| weakness, |<span class="asgreek">ἀσθενείᾳ,</span> <small><sup>[[G0769G]]</sup></small> |astheneia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it is raised |<span class="asgreek">ἐγείρεται</span> <small><sup>[[G1453]]</sup></small> |egeiretai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| power; |<span class="asgreek">δυνάμει·</span> <small><sup>[[G1411]]</sup></small> |dunamei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| It is sown |<big><span class="asgreek">σπείρεται</span></big> <small><small><sup>[[G4687]]</sup></small></small> |speiretai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| dishonor, |<big><span class="asgreek">ἀτιμίᾳ,</span></big> <small><small><sup>[[G0819]]</sup></small></small> |atimia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it is raised |<big><span class="asgreek">ἐγείρεται</span></big> <small><small><sup>[[G1453]]</sup></small></small> |egeiretai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| glory; |<big><span class="asgreek">δόξῃ·</span></big> <small><small><sup>[[G1391]]</sup></small></small> |doxē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| It is sown |<big><span class="asgreek">σπείρεται</span></big> <small><small><sup>[[G4687]]</sup></small></small> |speiretai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| weakness, |<big><span class="asgreek">ἀσθενείᾳ,</span></big> <small><small><sup>[[G0769G]]</sup></small></small> |astheneia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it is raised |<big><span class="asgreek">ἐγείρεται</span></big> <small><small><sup>[[G1453]]</sup></small></small> |egeiretai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| power; |<big><span class="asgreek">δυνάμει·</span></big> <small><small><sup>[[G1411]]</sup></small></small> |dunamei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.42|<< 1 Corinthians 15:42]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.44|1 Corinthians 15:44 >>]]</td></tr></table>

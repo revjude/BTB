@@ -8,19 +8,19 @@ Answering now He said to her the Lord; Martha Martha, you are anxious and troubl
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Answering |<span class="asgreek">Ἀποκριθεὶς</span> <small><sup>[[G0611]]</sup></small> |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He said |<span class="asgreek">εἶπεν</span> <small><sup>[[G2036]]</sup></small> |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to her |<span class="asgreek">αὐτῇ</span> <small><sup>[[G0846]]</sup></small> |autēa <small><sup>[[P-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Lord; [^1] [^2] |<span class="asgreek">κύριος·</span> <small><sup>[[G2962G]]</sup></small> |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(K)O</abbr> | |
-| Martha |<span class="asgreek">Μάρθα</span> <small><sup>[[G3136]]</sup></small> |Martha <small><sup>[[N-VSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Martha, |<span class="asgreek">Μάρθα,</span> <small><sup>[[G3136]]</sup></small> |Martha <small><sup>[[N-VSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you are anxious |<span class="asgreek">μεριμνᾷς</span> <small><sup>[[G3309]]</sup></small> |merimnas <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| troubled [^3] |<span class="asgreek">θορυβάζῃ</span> <small><sup>[[G2350]]</sup></small> |thorubazē <small><sup>[[V-PPI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| about |<span class="asgreek">περὶ</span> <small><sup>[[G4012]]</sup></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| many things, |<span class="asgreek">πολλά,</span> <small><sup>[[G4183]]</sup></small> |polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Answering |<big><span class="asgreek">Ἀποκριθεὶς</span></big> <small><small><sup>[[G0611]]</sup></small></small> |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He said |<big><span class="asgreek">εἶπεν</span></big> <small><small><sup>[[G2036]]</sup></small></small> |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to her |<big><span class="asgreek">αὐτῇ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autēa <small><sup>[[P-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Lord; [^1] [^2] |<big><span class="asgreek">κύριος·</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(K)O</abbr> | |
+| Martha |<big><span class="asgreek">Μάρθα</span></big> <small><small><sup>[[G3136]]</sup></small></small> |Martha <small><sup>[[N-VSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Martha, |<big><span class="asgreek">Μάρθα,</span></big> <small><small><sup>[[G3136]]</sup></small></small> |Martha <small><sup>[[N-VSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you are anxious |<big><span class="asgreek">μεριμνᾷς</span></big> <small><small><sup>[[G3309]]</sup></small></small> |merimnas <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| troubled [^3] |<big><span class="asgreek">θορυβάζῃ</span></big> <small><small><sup>[[G2350]]</sup></small></small> |thorubazē <small><sup>[[V-PPI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| about |<big><span class="asgreek">περὶ</span></big> <small><small><sup>[[G4012]]</sup></small></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| many things, |<big><span class="asgreek">πολλά,</span></big> <small><small><sup>[[G4183]]</sup></small></small> |polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.40|<< Luke 10:40]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.42|Luke 10:42 >>]]</td></tr></table>
 
 [^1]: Variant:  <span class='asgreek'>**Ἰησοῦς**</span>  (<i>Iēsous</i>) 'Jesus' occurs in traditional manuscripts (Treg+TR+Byz) instead of <span class='asgreek'>**κύριος**</span>·  (<i>kurios</i>) 'Lord;' in older manuscripts (NA28+NA27+Tyn+SBL+WH)

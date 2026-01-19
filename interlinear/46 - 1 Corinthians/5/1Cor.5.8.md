@@ -8,24 +8,24 @@ so that we may celebrate the feast not with leaven old not with leaven of malice
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| so that |<span class="asgreek">ὥστε</span> <small><sup>[[G5620]]</sup></small> |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we may celebrate the feast |<span class="asgreek">ἑορτάζωμεν</span> <small><sup>[[G1858]]</sup></small> |he'ortazōmen <small><sup>[[V-PAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| leaven |<span class="asgreek">ζύμῃ</span> <small><sup>[[G2219]]</sup></small> |zumē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| old |<span class="asgreek">παλαιᾷ</span> <small><sup>[[G3820]]</sup></small> |palaia <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">μηδὲ</span> <small><sup>[[G3366]]</sup></small> |mēde <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| leaven |<span class="asgreek">ζύμῃ</span> <small><sup>[[G2219]]</sup></small> |zumē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of malice |<span class="asgreek">κακίας</span> <small><sup>[[G2549]]</sup></small> |kakias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| wickedness |<span class="asgreek">πονηρίας</span> <small><sup>[[G4189]]</sup></small> |ponērias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| but |<span class="asgreek">ἀλλ᾽</span> <small><sup>[[G0235]]</sup></small> |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| unleavened [bread] |<span class="asgreek">ἀζύμοις</span> <small><sup>[[G0106]]</sup></small> |azumois <small><sup>[[A-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of sincerity |<span class="asgreek">εἰλικρινείας</span> <small><sup>[[G1505]]</sup></small> [^1] |eilikrineias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of truth. |<span class="asgreek">ἀληθείας.¶</span> <small><sup>[[G0225]]</sup></small> |alētheias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |<big><span class="asgreek">ὥστε</span></big> <small><small><sup>[[G5620]]</sup></small></small> |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we may celebrate the feast |<big><span class="asgreek">ἑορτάζωμεν</span></big> <small><small><sup>[[G1858]]</sup></small></small> |he'ortazōmen <small><sup>[[V-PAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| leaven |<big><span class="asgreek">ζύμῃ</span></big> <small><small><sup>[[G2219]]</sup></small></small> |zumē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| old |<big><span class="asgreek">παλαιᾷ</span></big> <small><small><sup>[[G3820]]</sup></small></small> |palaia <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">μηδὲ</span></big> <small><small><sup>[[G3366]]</sup></small></small> |mēde <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| leaven |<big><span class="asgreek">ζύμῃ</span></big> <small><small><sup>[[G2219]]</sup></small></small> |zumē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of malice |<big><span class="asgreek">κακίας</span></big> <small><small><sup>[[G2549]]</sup></small></small> |kakias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| wickedness |<big><span class="asgreek">πονηρίας</span></big> <small><small><sup>[[G4189]]</sup></small></small> |ponērias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| but |<big><span class="asgreek">ἀλλ᾽</span></big> <small><small><sup>[[G0235]]</sup></small></small> |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| unleavened [bread] |<big><span class="asgreek">ἀζύμοις</span></big> <small><small><sup>[[G0106]]</sup></small></small> |azumois <small><sup>[[A-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of sincerity |<big><span class="asgreek">εἰλικρινείας</span></big> <small><small><sup>[[G1505]]</sup></small></small> [^1] |eilikrineias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of truth. |<big><span class="asgreek">ἀληθείας.¶</span></big> <small><small><sup>[[G0225]]</sup></small></small> |alētheias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.7|<< 1 Corinthians 5:7]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.9|1 Corinthians 5:9 >>]]</td></tr></table>
 
 [^1]: ==WH== spelled: <span class='asgreek'>**εἰλικρινίας**</span>

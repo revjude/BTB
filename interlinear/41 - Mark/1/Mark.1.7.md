@@ -8,24 +8,24 @@ And he was preaching saying; He comes who [is] mightier than I after me, of whom
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he was preaching |<span class="asgreek">ἐκήρυσσεν</span> <small><sup>[[G2784]]</sup></small> |ekērussen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying; |<span class="asgreek">λέγων·</span> <small><sup>[[G3004G]]</sup></small> |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He comes |<span class="asgreek">ἔρχεται</span> <small><sup>[[G2064]]</sup></small> |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [is] mightier |<span class="asgreek">ἰσχυρότερός</span> <small><sup>[[G2478]]</sup></small> |ischuroteros <small><sup>[[A-NSM-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| than I |<span class="asgreek">μου</span> <small><sup>[[G3165]]</sup></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| after |<span class="asgreek">ὀπίσω</span> <small><sup>[[G3694]]</sup></small> |opisō <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| me, |<span class="asgreek">μου,</span> <small><sup>[[G3165]]</sup></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of whom |<span class="asgreek">οὗ</span> <small><sup>[[G3739]]</sup></small> |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">οὐκ</span> <small><sup>[[G3756]]</sup></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I am |<span class="asgreek">εἰμὶ</span> <small><sup>[[G1510]]</sup></small> |eimi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| sufficient |<span class="asgreek">ἱκανὸς</span> <small><sup>[[G2425]]</sup></small> |hikanos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having stooped down |<span class="asgreek">κύψας</span> <small><sup>[[G2955]]</sup></small> |kupsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to untie |<span class="asgreek">λῦσαι</span> <small><sup>[[G3089]]</sup></small> |lusai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| strap |<span class="asgreek">ἱμάντα</span> <small><sup>[[G2438]]</sup></small> |himanta <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| sandals |<span class="asgreek">ὑποδημάτων</span> <small><sup>[[G5266]]</sup></small> |hupodēmatōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Him. |<span class="asgreek">αὐτοῦ.</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he was preaching |<big><span class="asgreek">ἐκήρυσσεν</span></big> <small><small><sup>[[G2784]]</sup></small></small> |ekērussen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying; |<big><span class="asgreek">λέγων·</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He comes |<big><span class="asgreek">ἔρχεται</span></big> <small><small><sup>[[G2064]]</sup></small></small> |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [is] mightier |<big><span class="asgreek">ἰσχυρότερός</span></big> <small><small><sup>[[G2478]]</sup></small></small> |ischuroteros <small><sup>[[A-NSM-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| than I |<big><span class="asgreek">μου</span></big> <small><small><sup>[[G3165]]</sup></small></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| after |<big><span class="asgreek">ὀπίσω</span></big> <small><small><sup>[[G3694]]</sup></small></small> |opisō <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| me, |<big><span class="asgreek">μου,</span></big> <small><small><sup>[[G3165]]</sup></small></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of whom |<big><span class="asgreek">οὗ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">οὐκ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I am |<big><span class="asgreek">εἰμὶ</span></big> <small><small><sup>[[G1510]]</sup></small></small> |eimi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| sufficient |<big><span class="asgreek">ἱκανὸς</span></big> <small><small><sup>[[G2425]]</sup></small></small> |hikanos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having stooped down |<big><span class="asgreek">κύψας</span></big> <small><small><sup>[[G2955]]</sup></small></small> |kupsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to untie |<big><span class="asgreek">λῦσαι</span></big> <small><small><sup>[[G3089]]</sup></small></small> |lusai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| strap |<big><span class="asgreek">ἱμάντα</span></big> <small><small><sup>[[G2438]]</sup></small></small> |himanta <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| sandals |<big><span class="asgreek">ὑποδημάτων</span></big> <small><small><sup>[[G5266]]</sup></small></small> |hupodēmatōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Him. |<big><span class="asgreek">αὐτοῦ.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.6|<< Mark 1:6]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.8|Mark 1:8 >>]]</td></tr></table>

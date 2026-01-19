@@ -8,22 +8,22 @@ The [One] therefore supplying to you the Spirit and working miracles among you, 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| The [One] |<span class="asgreek">Ὁ</span> <small><sup>[[G3588]]</sup></small> |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| therefore |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| supplying |<span class="asgreek">ἐπιχορηγῶν</span> <small><sup>[[G2023]]</sup></small> |epichorēgōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to you |<span class="asgreek">ὑμῖν</span> <small><sup>[[G4771]]</sup></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Spirit |<span class="asgreek">πνεῦμα</span> <small><sup>[[G4151G]]</sup></small> |pneuma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| working |<span class="asgreek">ἐνεργῶν</span> <small><sup>[[G1754]]</sup></small> |energōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| miracles |<span class="asgreek">δυνάμεις</span> <small><sup>[[G1411]]</sup></small> |dunameis <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| among |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you, |<span class="asgreek">ὑμῖν,</span> <small><sup>[[G4771]]</sup></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [is it] out of |<span class="asgreek">ἐξ</span> <small><sup>[[G1537]]</sup></small> |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| works |<span class="asgreek">ἔργων</span> <small><sup>[[G2041]]</sup></small> |ergōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the Law |<span class="asgreek">νόμου</span> <small><sup>[[G3551]]</sup></small> |nomou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| or |<span class="asgreek">ἢ</span> <small><sup>[[G2228]]</sup></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| out of |<span class="asgreek">ἐξ</span> <small><sup>[[G1537]]</sup></small> |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| hearing |<span class="asgreek">ἀκοῆς</span> <small><sup>[[G0189]]</sup></small> |akoēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of faith? |<span class="asgreek">πίστεως;</span> <small><sup>[[G4102G]]</sup></small> |pisteōs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| The [One] |<big><span class="asgreek">Ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| therefore |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| supplying |<big><span class="asgreek">ἐπιχορηγῶν</span></big> <small><small><sup>[[G2023]]</sup></small></small> |epichorēgōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to you |<big><span class="asgreek">ὑμῖν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Spirit |<big><span class="asgreek">πνεῦμα</span></big> <small><small><sup>[[G4151G]]</sup></small></small> |pneuma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| working |<big><span class="asgreek">ἐνεργῶν</span></big> <small><small><sup>[[G1754]]</sup></small></small> |energōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| miracles |<big><span class="asgreek">δυνάμεις</span></big> <small><small><sup>[[G1411]]</sup></small></small> |dunameis <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| among |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you, |<big><span class="asgreek">ὑμῖν,</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [is it] out of |<big><span class="asgreek">ἐξ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| works |<big><span class="asgreek">ἔργων</span></big> <small><small><sup>[[G2041]]</sup></small></small> |ergōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the Law |<big><span class="asgreek">νόμου</span></big> <small><small><sup>[[G3551]]</sup></small></small> |nomou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| out of |<big><span class="asgreek">ἐξ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| hearing |<big><span class="asgreek">ἀκοῆς</span></big> <small><small><sup>[[G0189]]</sup></small></small> |akoēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of faith? |<big><span class="asgreek">πίστεως;</span></big> <small><small><sup>[[G4102G]]</sup></small></small> |pisteōs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.4|<< Galatians 3:4]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.6|Galatians 3:6 >>]]</td></tr></table>

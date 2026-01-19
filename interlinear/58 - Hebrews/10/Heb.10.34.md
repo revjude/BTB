@@ -8,30 +8,30 @@ Both for with the prisoners you sympathized and the plundering of the possession
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Both |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with the |<span class="asgreek">τοῖς</span> <small><sup>[[G3588]]</sup></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| prisoners [^1] [^2] |<span class="asgreek">δεσμίοις</span> <small><sup>[[G1198]]</sup></small> |desmiois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| you sympathized |<span class="asgreek">συνεπαθήσατε</span> <small><sup>[[G4834]]</sup></small> |sunepathēsate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| plundering |<span class="asgreek">ἁρπαγὴν</span> <small><sup>[[G0724]]</sup></small> |harpagēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| possessions |<span class="asgreek">ὑπαρχόντων</span> <small><sup>[[G5225]]</sup></small> |huparchontōn <small><sup>[[V-PAP-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you |<span class="asgreek">ὑμῶν</span> <small><sup>[[G4771]]</sup></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<span class="asgreek">μετὰ</span> <small><sup>[[G3326]]</sup></small> |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| joy |<span class="asgreek">χαρᾶς</span> <small><sup>[[G5479]]</sup></small> |charas <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you accepted |<span class="asgreek">προσεδέξασθε</span> <small><sup>[[G4327]]</sup></small> |prosedexasthe <small><sup>[[V-ADI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| knowing |<span class="asgreek">γινώσκοντες</span> <small><sup>[[G1097]]</sup></small> |ginōskontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to have |<span class="asgreek">ἔχειν</span> <small><sup>[[G2192]]</sup></small> |echein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR">k</abbr> | |
-| yourselves [^3] |<span class="asgreek">ἑαυτοὺς</span> <small><sup>[[G1438]]</sup></small> |he'autous <small><sup>[[F-2APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| a better [^4] |<span class="asgreek">κρείττονα</span> <small><sup>[[G2908]]</sup></small> |kreittona <small><sup>[[A-ASF-C]]</sup></small> | <abbr title="NA28+NA27+SBL+Treg+TR+Byz">NK(o)</abbr> | |
-| possession |<span class="asgreek">ὕπαρξιν</span> <small><sup>[[G5223]]</sup></small> |huparxin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| heavens [^5] |<span class="asgreek">οὐρανοῖς</span> <small><sup>[[G3772]]</sup></small> |ouranois <small><sup>[[N-DPM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| abiding. |<span class="asgreek">μένουσαν.</span> <small><sup>[[G3306]]</sup></small> |menousan <small><sup>[[V-PAP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Both |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with the |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| prisoners [^1] [^2] |<big><span class="asgreek">δεσμίοις</span></big> <small><small><sup>[[G1198]]</sup></small></small> |desmiois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| you sympathized |<big><span class="asgreek">συνεπαθήσατε</span></big> <small><small><sup>[[G4834]]</sup></small></small> |sunepathēsate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| plundering |<big><span class="asgreek">ἁρπαγὴν</span></big> <small><small><sup>[[G0724]]</sup></small></small> |harpagēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| possessions |<big><span class="asgreek">ὑπαρχόντων</span></big> <small><small><sup>[[G5225]]</sup></small></small> |huparchontōn <small><sup>[[V-PAP-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you |<big><span class="asgreek">ὑμῶν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |<big><span class="asgreek">μετὰ</span></big> <small><small><sup>[[G3326]]</sup></small></small> |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| joy |<big><span class="asgreek">χαρᾶς</span></big> <small><small><sup>[[G5479]]</sup></small></small> |charas <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you accepted |<big><span class="asgreek">προσεδέξασθε</span></big> <small><small><sup>[[G4327]]</sup></small></small> |prosedexasthe <small><sup>[[V-ADI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| knowing |<big><span class="asgreek">γινώσκοντες</span></big> <small><small><sup>[[G1097]]</sup></small></small> |ginōskontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to have |<big><span class="asgreek">ἔχειν</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR">k</abbr> | |
+| yourselves [^3] |<big><span class="asgreek">ἑαυτοὺς</span></big> <small><small><sup>[[G1438]]</sup></small></small> |he'autous <small><sup>[[F-2APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| a better [^4] |<big><span class="asgreek">κρείττονα</span></big> <small><small><sup>[[G2908]]</sup></small></small> |kreittona <small><sup>[[A-ASF-C]]</sup></small> | <abbr title="NA28+NA27+SBL+Treg+TR+Byz">NK(o)</abbr> | |
+| possession |<big><span class="asgreek">ὕπαρξιν</span></big> <small><small><sup>[[G5223]]</sup></small></small> |huparxin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| heavens [^5] |<big><span class="asgreek">οὐρανοῖς</span></big> <small><small><sup>[[G3772]]</sup></small></small> |ouranois <small><sup>[[N-DPM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| abiding. |<big><span class="asgreek">μένουσαν.</span></big> <small><small><sup>[[G3306]]</sup></small></small> |menousan <small><sup>[[V-PAP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.33|<< Hebrews 10:33]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.35|Hebrews 10:35 >>]]</td></tr></table>
 
 [^1]: Variant:  <span class='asgreek'>**δεσμοῖς**</span> <span class='asgreek'>**μου**</span>  (<i>desmois mou</i>) 'my imprisonments' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**δεσμίοις**</span>  (<i>desmiois</i>) 'prisoners' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)

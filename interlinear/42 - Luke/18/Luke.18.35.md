@@ -8,21 +8,21 @@ It came to pass then in the drawing near by Him to Jericho a blind [man] certain
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| It came to pass |<span class="asgreek">Ἐγένετο</span> <small><sup>[[G1096]]</sup></small> |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῷ</span> <small><sup>[[G3588]]</sup></small> |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| drawing near |<span class="asgreek">ἐγγίζειν</span> <small><sup>[[G1448]]</sup></small> |engizein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| by Him |<span class="asgreek">αὐτὸν</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jericho |<span class="asgreek">Ἰεριχὼ</span> <small><sup>[[G2410]]</sup></small> [^1] [^2] |Ierichō <small><sup>[[N-ASF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a blind [man] |<span class="asgreek">τυφλός</span> <small><sup>[[G5185]]</sup></small> |tuphlos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| certain |<span class="asgreek">τις</span> <small><sup>[[G5100]]</sup></small> |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was sitting |<span class="asgreek">ἐκάθητο</span> <small><sup>[[G2521]]</sup></small> |ekathēto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| beside |<span class="asgreek">παρὰ</span> <small><sup>[[G3844]]</sup></small> |para <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| road |<span class="asgreek">ὁδὸν</span> <small><sup>[[G3598]]</sup></small> |hodon <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| begging. [^3] |<span class="asgreek">ἐπαιτῶν.</span> <small><sup>[[G1871]]</sup></small> |epaitōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| It came to pass |<big><span class="asgreek">Ἐγένετο</span></big> <small><small><sup>[[G1096]]</sup></small></small> |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| drawing near |<big><span class="asgreek">ἐγγίζειν</span></big> <small><small><sup>[[G1448]]</sup></small></small> |engizein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| by Him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Jericho |<big><span class="asgreek">Ἰεριχὼ</span></big> <small><small><sup>[[G2410]]</sup></small></small> [^1] [^2] |Ierichō <small><sup>[[N-ASF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a blind [man] |<big><span class="asgreek">τυφλός</span></big> <small><small><sup>[[G5185]]</sup></small></small> |tuphlos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| certain |<big><span class="asgreek">τις</span></big> <small><small><sup>[[G5100]]</sup></small></small> |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was sitting |<big><span class="asgreek">ἐκάθητο</span></big> <small><small><sup>[[G2521]]</sup></small></small> |ekathēto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| beside |<big><span class="asgreek">παρὰ</span></big> <small><small><sup>[[G3844]]</sup></small></small> |para <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| road |<big><span class="asgreek">ὁδὸν</span></big> <small><small><sup>[[G3598]]</sup></small></small> |hodon <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| begging. [^3] |<big><span class="asgreek">ἐπαιτῶν.</span></big> <small><small><sup>[[G1871]]</sup></small></small> |epaitōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.34|<< Luke 18:34]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.36|Luke 18:36 >>]]</td></tr></table>
 
 [^1]: ==Tyn== spelled: <span class='asgreek'>**Ἱερειχὼ**</span>

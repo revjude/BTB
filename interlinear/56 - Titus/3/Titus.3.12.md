@@ -8,21 +8,21 @@ When I may send Artemas to you or Tychicus, do be diligent to come to me into Ni
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| When |<span class="asgreek">Ὅταν</span> <small><sup>[[G3752]]</sup></small> |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I may send |<span class="asgreek">πέμψω</span> <small><sup>[[G3992]]</sup></small> |pempsō <small><sup>[[V-AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Artemas |<span class="asgreek">Ἀρτεμᾶν</span> <small><sup>[[G0734]]</sup></small> |Arteman <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">πρὸς</span> <small><sup>[[G4314]]</sup></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you |<span class="asgreek">σὲ</span> <small><sup>[[G4771]]</sup></small> |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| or |<span class="asgreek">ἢ</span> <small><sup>[[G2228]]</sup></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Tychicus, |<span class="asgreek">Τύχικον,</span> <small><sup>[[G5190]]</sup></small> |Tuchikon <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do be diligent |<span class="asgreek">σπούδασον</span> <small><sup>[[G4704]]</sup></small> |spoudason <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to come |<span class="asgreek">ἐλθεῖν</span> <small><sup>[[G2064]]</sup></small> |elthein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">πρός</span> <small><sup>[[G4314]]</sup></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| me |<span class="asgreek">με</span> <small><sup>[[G3165]]</sup></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| into |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Nicopolis; |<span class="asgreek">Νικόπολιν·</span> <small><sup>[[G3533]]</sup></small> |Nikopolin <small><sup>[[N-ASF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| there |<span class="asgreek">ἐκεῖ</span> <small><sup>[[G1563]]</sup></small> |ekei <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I have decided |<span class="asgreek">κέκρικα</span> <small><sup>[[G2919]]</sup></small> |kekrika <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to winter. |<span class="asgreek">παραχειμάσαι.</span> <small><sup>[[G3914]]</sup></small> |paracheimasai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| When |<big><span class="asgreek">Ὅταν</span></big> <small><small><sup>[[G3752]]</sup></small></small> |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I may send |<big><span class="asgreek">πέμψω</span></big> <small><small><sup>[[G3992]]</sup></small></small> |pempsō <small><sup>[[V-AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Artemas |<big><span class="asgreek">Ἀρτεμᾶν</span></big> <small><small><sup>[[G0734]]</sup></small></small> |Arteman <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you |<big><span class="asgreek">σὲ</span></big> <small><small><sup>[[G4771]]</sup></small></small> |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Tychicus, |<big><span class="asgreek">Τύχικον,</span></big> <small><small><sup>[[G5190]]</sup></small></small> |Tuchikon <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do be diligent |<big><span class="asgreek">σπούδασον</span></big> <small><small><sup>[[G4704]]</sup></small></small> |spoudason <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to come |<big><span class="asgreek">ἐλθεῖν</span></big> <small><small><sup>[[G2064]]</sup></small></small> |elthein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">πρός</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| me |<big><span class="asgreek">με</span></big> <small><small><sup>[[G3165]]</sup></small></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Nicopolis; |<big><span class="asgreek">Νικόπολιν·</span></big> <small><small><sup>[[G3533]]</sup></small></small> |Nikopolin <small><sup>[[N-ASF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| there |<big><span class="asgreek">ἐκεῖ</span></big> <small><small><sup>[[G1563]]</sup></small></small> |ekei <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I have decided |<big><span class="asgreek">κέκρικα</span></big> <small><small><sup>[[G2919]]</sup></small></small> |kekrika <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to winter. |<big><span class="asgreek">παραχειμάσαι.</span></big> <small><small><sup>[[G3914]]</sup></small></small> |paracheimasai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.11|<< Titus 3:11]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.13|Titus 3:13 >>]]</td></tr></table>

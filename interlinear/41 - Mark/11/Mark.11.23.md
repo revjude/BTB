@@ -8,41 +8,41 @@ Amen for I say to you that who[ever] maybe may say to the mountain this; do be t
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Amen |<span class="asgreek">ἀμὴν</span> <small><sup>[[G0281]]</sup></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+Treg+TR+Byz">ko</abbr> | |
-| I say |<span class="asgreek">λέγω</span> <small><sup>[[G3004G]]</sup></small> |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to you |<span class="asgreek">ὑμῖν</span> <small><sup>[[G4771]]</sup></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who[ever] |<span class="asgreek">ὃς</span> <small><sup>[[G3739]]</sup></small> |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| maybe |<span class="asgreek">ἂν</span> <small><sup>[[G0302]]</sup></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may say |<span class="asgreek">εἴπῃ</span> <small><sup>[[G2036]]</sup></small> |eipē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to the |<span class="asgreek">τῷ</span> <small><sup>[[G3588]]</sup></small> |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| mountain |<span class="asgreek">ὄρει</span> <small><sup>[[G3735]]</sup></small> |orei <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| this; |<span class="asgreek">τούτῳ·</span> <small><sup>[[G3778]]</sup></small> |toutō <small><sup>[[D-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do be taken away |<span class="asgreek">ἄρθητι</span> <small><sup>[[G0142]]</sup></small> |arthēti <small><sup>[[V-APM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do be cast |<span class="asgreek">βλήθητι</span> <small><sup>[[G0906G]]</sup></small> |blēthēti <small><sup>[[V-APM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| into |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| sea,’ |<span class="asgreek">θάλασσαν,</span> <small><sup>[[G2281]]</sup></small> |thalassan <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may doubt |<span class="asgreek">διακριθῇ</span> <small><sup>[[G1252]]</sup></small> |diakrithēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῇ</span> <small><sup>[[G3588]]</sup></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| heart |<span class="asgreek">καρδίᾳ</span> <small><sup>[[G2588]]</sup></small> |kardia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| but |<span class="asgreek">ἀλλὰ</span> <small><sup>[[G0235]]</sup></small> |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may believe [^1] |<span class="asgreek">πιστεύῃ</span> <small><sup>[[G4100]]</sup></small> |pisteuē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| what [^2] |<span class="asgreek">ὃ</span> <small><sup>[[G3739]]</sup></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| he says [^3] |<span class="asgreek">λαλεῖ</span> <small><sup>[[G2980]]</sup></small> |lalei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| takes place, |<span class="asgreek">γίνεται,</span> <small><sup>[[G1096]]</sup></small> [^4] |ginetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it will be done |<span class="asgreek">ἔσται</span> <small><sup>[[G1510]]</sup></small> |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for him |<span class="asgreek">αὐτῷ</span> <small><sup>[[G0846]]</sup></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| what |<span class="asgreek">ὃ</span> <small><sup>[[G3739]]</sup></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| maybe |<span class="asgreek">ἐὰν</span> <small><sup>[[G1437]]</sup></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| he shall say. [^5] |<span class="asgreek">εἴπῃ.¶</span> <small><sup>[[G2036]]</sup></small> |eipē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| Amen |<big><span class="asgreek">ἀμὴν</span></big> <small><small><sup>[[G0281]]</sup></small></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+Treg+TR+Byz">ko</abbr> | |
+| I say |<big><span class="asgreek">λέγω</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to you |<big><span class="asgreek">ὑμῖν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who[ever] |<big><span class="asgreek">ὃς</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| maybe |<big><span class="asgreek">ἂν</span></big> <small><small><sup>[[G0302]]</sup></small></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may say |<big><span class="asgreek">εἴπῃ</span></big> <small><small><sup>[[G2036]]</sup></small></small> |eipē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to the |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| mountain |<big><span class="asgreek">ὄρει</span></big> <small><small><sup>[[G3735]]</sup></small></small> |orei <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| this; |<big><span class="asgreek">τούτῳ·</span></big> <small><small><sup>[[G3778]]</sup></small></small> |toutō <small><sup>[[D-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do be taken away |<big><span class="asgreek">ἄρθητι</span></big> <small><small><sup>[[G0142]]</sup></small></small> |arthēti <small><sup>[[V-APM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do be cast |<big><span class="asgreek">βλήθητι</span></big> <small><small><sup>[[G0906G]]</sup></small></small> |blēthēti <small><sup>[[V-APM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| sea,’ |<big><span class="asgreek">θάλασσαν,</span></big> <small><small><sup>[[G2281]]</sup></small></small> |thalassan <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may doubt |<big><span class="asgreek">διακριθῇ</span></big> <small><small><sup>[[G1252]]</sup></small></small> |diakrithēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| heart |<big><span class="asgreek">καρδίᾳ</span></big> <small><small><sup>[[G2588]]</sup></small></small> |kardia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| but |<big><span class="asgreek">ἀλλὰ</span></big> <small><small><sup>[[G0235]]</sup></small></small> |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may believe [^1] |<big><span class="asgreek">πιστεύῃ</span></big> <small><small><sup>[[G4100]]</sup></small></small> |pisteuē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| what [^2] |<big><span class="asgreek">ὃ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| he says [^3] |<big><span class="asgreek">λαλεῖ</span></big> <small><small><sup>[[G2980]]</sup></small></small> |lalei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| takes place, |<big><span class="asgreek">γίνεται,</span></big> <small><small><sup>[[G1096]]</sup></small></small> [^4] |ginetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it will be done |<big><span class="asgreek">ἔσται</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for him |<big><span class="asgreek">αὐτῷ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| what |<big><span class="asgreek">ὃ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| maybe |<big><span class="asgreek">ἐὰν</span></big> <small><small><sup>[[G1437]]</sup></small></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| he shall say. [^5] |<big><span class="asgreek">εἴπῃ.¶</span></big> <small><small><sup>[[G2036]]</sup></small></small> |eipē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.22|<< Mark 11:22]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.24|Mark 11:24 >>]]</td></tr></table>
 
 [^1]: ==Treg+TR+Byz==: may believe | <span class="asgreek">πιστεύσῃ</span><small><sup>[[G4100]]</sup></small> | pisteusē<small><sup>[[V-AAS-3S]]</sup></small>

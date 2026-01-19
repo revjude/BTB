@@ -8,11 +8,11 @@ As many as for into Christ you were baptized, Christ you have put on.<br><table 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| As many as |<span class="asgreek">ὅσοι</span> <small><sup>[[G3745]]</sup></small> |hosoi <small><sup>[[K-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| into |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Christ |<span class="asgreek">Χριστὸν</span> <small><sup>[[G5547]]</sup></small> |Christon <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you were baptized, |<span class="asgreek">ἐβαπτίσθητε,</span> <small><sup>[[G0907]]</sup></small> |ebaptisthēte <small><sup>[[V-API-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Christ |<span class="asgreek">Χριστὸν</span> <small><sup>[[G5547]]</sup></small> |Christon <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you have put on. |<span class="asgreek">ἐνεδύσασθε.</span> <small><sup>[[G1746]]</sup></small> |enedusasthe <small><sup>[[V-AMI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| As many as |<big><span class="asgreek">ὅσοι</span></big> <small><small><sup>[[G3745]]</sup></small></small> |hosoi <small><sup>[[K-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Christ |<big><span class="asgreek">Χριστὸν</span></big> <small><small><sup>[[G5547]]</sup></small></small> |Christon <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you were baptized, |<big><span class="asgreek">ἐβαπτίσθητε,</span></big> <small><small><sup>[[G0907]]</sup></small></small> |ebaptisthēte <small><sup>[[V-API-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Christ |<big><span class="asgreek">Χριστὸν</span></big> <small><small><sup>[[G5547]]</sup></small></small> |Christon <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you have put on. |<big><span class="asgreek">ἐνεδύσασθε.</span></big> <small><small><sup>[[G1746]]</sup></small></small> |enedusasthe <small><sup>[[V-AMI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.26|<< Galatians 3:26]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.28|Galatians 3:28 >>]]</td></tr></table>

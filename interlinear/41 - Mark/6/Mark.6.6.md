@@ -8,18 +8,18 @@ And He was marveling because of the unbelief of them. And He was going the villa
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He was marveling [^1] |<span class="asgreek">ἐθαύμαζεν</span> <small><sup>[[G2296]]</sup></small> |ethaumazen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
-| because of |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| unbelief |<span class="asgreek">ἀπιστίαν</span> <small><sup>[[G0570]]</sup></small> |apistian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of them. |<span class="asgreek">αὐτῶν.</span> <small><sup>[[G0846]]</sup></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He was going |<span class="asgreek">περιῆγεν</span> <small><sup>[[G4013]]</sup></small> |periēgen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὰς</span> <small><sup>[[G3588]]</sup></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| villages |<span class="asgreek">κώμας</span> <small><sup>[[G2968]]</sup></small> |kōmas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| around |<span class="asgreek">κύκλῳ</span> <small><sup>[[G2945]]</sup></small> |kuklō <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| teaching. |<span class="asgreek">διδάσκων.¶</span> <small><sup>[[G1321]]</sup></small> |didaskōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He was marveling [^1] |<big><span class="asgreek">ἐθαύμαζεν</span></big> <small><small><sup>[[G2296]]</sup></small></small> |ethaumazen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
+| because of |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| unbelief |<big><span class="asgreek">ἀπιστίαν</span></big> <small><small><sup>[[G0570]]</sup></small></small> |apistian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of them. |<big><span class="asgreek">αὐτῶν.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He was going |<big><span class="asgreek">περιῆγεν</span></big> <small><small><sup>[[G4013]]</sup></small></small> |periēgen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὰς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| villages |<big><span class="asgreek">κώμας</span></big> <small><small><sup>[[G2968]]</sup></small></small> |kōmas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| around |<big><span class="asgreek">κύκλῳ</span></big> <small><small><sup>[[G2945]]</sup></small></small> |kuklō <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| teaching. |<big><span class="asgreek">διδάσκων.¶</span></big> <small><small><sup>[[G1321]]</sup></small></small> |didaskōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.5|<< Mark 6:5]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.7|Mark 6:7 >>]]</td></tr></table>
 
 [^1]: ==WH==: He marveled | <span class="asgreek">ἐθαύμασεν</span><small><sup>[[G2296]]</sup></small> | ethaumasen<small><sup>[[V-AAI-3S]]</sup></small>

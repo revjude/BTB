@@ -8,25 +8,25 @@ Then again He put the hands upon the eyes of him, and made him look and he  rest
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Then |<span class="asgreek">εἶτα</span> <small><sup>[[G1534]]</sup></small> |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| again |<span class="asgreek">πάλιν</span> <small><sup>[[G3825]]</sup></small> |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He put [^1] |<span class="asgreek">ἐπέθηκεν</span> <small><sup>[[G2007]]</sup></small> |epethēken <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NK(o)</abbr> | |
-| the |<span class="asgreek">τὰς</span> <small><sup>[[G3588]]</sup></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| hands |<span class="asgreek">χεῖρας</span> <small><sup>[[G5495]]</sup></small> |cheiras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| upon |<span class="asgreek">ἐπὶ</span> <small><sup>[[G1909]]</sup></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| eyes |<span class="asgreek">ὀφθαλμοὺς</span> <small><sup>[[G3788]]</sup></small> |ophthalmous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him, |<span class="asgreek">αὐτοῦ,</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| made |<span class="asgreek">ἐποίησεν</span> <small><sup>[[G4160G]]</sup></small> |epoiēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| him [^2] |<span class="asgreek">αὐτὸν</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| look [^3] [^4] |<span class="asgreek">διέβλεψεν</span> <small><sup>[[G1227]]</sup></small> |dieblepsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he  restored [^5] |<span class="asgreek">ἀπεκατέστη</span> <small><sup>[[G0600]]</sup></small> |apekatestē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he was seeing well [^6] |<span class="asgreek">ἐνέβλεπεν</span> <small><sup>[[G1689]]</sup></small> |eneblepen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| clearly |<span class="asgreek">τηλαυγῶς</span> <small><sup>[[G5081]]</sup></small> |tēlaugōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| everything. [^7] |<span class="asgreek">ἅπαντα.</span> <small><sup>[[G0537]]</sup></small> |hapanta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| Then |<big><span class="asgreek">εἶτα</span></big> <small><small><sup>[[G1534]]</sup></small></small> |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| again |<big><span class="asgreek">πάλιν</span></big> <small><small><sup>[[G3825]]</sup></small></small> |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He put [^1] |<big><span class="asgreek">ἐπέθηκεν</span></big> <small><small><sup>[[G2007]]</sup></small></small> |epethēken <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NK(o)</abbr> | |
+| the |<big><span class="asgreek">τὰς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| hands |<big><span class="asgreek">χεῖρας</span></big> <small><small><sup>[[G5495]]</sup></small></small> |cheiras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| upon |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| eyes |<big><span class="asgreek">ὀφθαλμοὺς</span></big> <small><small><sup>[[G3788]]</sup></small></small> |ophthalmous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him, |<big><span class="asgreek">αὐτοῦ,</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| made |<big><span class="asgreek">ἐποίησεν</span></big> <small><small><sup>[[G4160G]]</sup></small></small> |epoiēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| him [^2] |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| look [^3] [^4] |<big><span class="asgreek">διέβλεψεν</span></big> <small><small><sup>[[G1227]]</sup></small></small> |dieblepsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he  restored [^5] |<big><span class="asgreek">ἀπεκατέστη</span></big> <small><small><sup>[[G0600]]</sup></small></small> |apekatestē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he was seeing well [^6] |<big><span class="asgreek">ἐνέβλεπεν</span></big> <small><small><sup>[[G1689]]</sup></small></small> |eneblepen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| clearly |<big><span class="asgreek">τηλαυγῶς</span></big> <small><small><sup>[[G5081]]</sup></small></small> |tēlaugōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| everything. [^7] |<big><span class="asgreek">ἅπαντα.</span></big> <small><small><sup>[[G0537]]</sup></small></small> |hapanta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.24|<< Mark 8:24]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.26|Mark 8:26 >>]]</td></tr></table>
 
 [^1]: ==WH+Treg==: he laid | <span class="asgreek">ἔθηκεν</span><small><sup>[[G5087]]</sup></small> | ethēken<small><sup>[[V-AAI-3S]]</sup></small>

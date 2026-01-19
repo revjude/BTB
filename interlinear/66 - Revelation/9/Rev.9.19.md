@@ -8,33 +8,33 @@ the for power of the horses in the mouths of them are and in the tails of them. 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| the [^1] |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| power [^2] |<span class="asgreek">ἐξουσία</span> <small><sup>[[G1849]]</sup></small> |exousia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| of the [^3] |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| horses [^4] |<span class="asgreek">ἵππων</span> <small><sup>[[G2462]]</sup></small> |ippōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῷ</span> <small><sup>[[G3588]]</sup></small> |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| mouths |<span class="asgreek">στόματι</span> <small><sup>[[G4750]]</sup></small> |stomati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of them |<span class="asgreek">αὐτῶν</span> <small><sup>[[G0846]]</sup></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are [^5] |<span class="asgreek">ἐστιν</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
-| the |<span class="asgreek">ταῖς</span> <small><sup>[[G3588]]</sup></small> |tais <small><sup>[[T-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
-| tails |<span class="asgreek">οὐραῖς</span> <small><sup>[[G3769]]</sup></small> |ourais <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
-| of them. |<span class="asgreek">αὐτῶν.</span> <small><sup>[[G0846]]</sup></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
-| the |<span class="asgreek">αἱ</span> <small><sup>[[G3588]]</sup></small> |hai <small><sup>[[T-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| tails |<span class="asgreek">οὐραὶ</span> <small><sup>[[G3769]]</sup></small> |ourai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of them |<span class="asgreek">αὐτῶν</span> <small><sup>[[G0846]]</sup></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [are] like |<span class="asgreek">ὅμοιαι</span> <small><sup>[[G3664]]</sup></small> |homoiai <small><sup>[[A-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| as serpents [^6] |<span class="asgreek">ὄφεσιν</span> <small><sup>[[G3789]]</sup></small> |ophesin <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
-| having |<span class="asgreek">ἔχουσαι</span> <small><sup>[[G2192]]</sup></small> |echousai <small><sup>[[V-PAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| heads |<span class="asgreek">κεφαλὰς</span> <small><sup>[[G2776]]</sup></small> |kephalas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| them |<span class="asgreek">αὐταῖς</span> <small><sup>[[G0846]]</sup></small> |autais <small><sup>[[P-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they injure. |<span class="asgreek">ἀδικοῦσιν.</span> <small><sup>[[G0091]]</sup></small> |adikousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [^1] |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| power [^2] |<big><span class="asgreek">ἐξουσία</span></big> <small><small><sup>[[G1849]]</sup></small></small> |exousia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| of the [^3] |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| horses [^4] |<big><span class="asgreek">ἵππων</span></big> <small><small><sup>[[G2462]]</sup></small></small> |ippōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| mouths |<big><span class="asgreek">στόματι</span></big> <small><small><sup>[[G4750]]</sup></small></small> |stomati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of them |<big><span class="asgreek">αὐτῶν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are [^5] |<big><span class="asgreek">ἐστιν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
+| the |<big><span class="asgreek">ταῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tais <small><sup>[[T-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
+| tails |<big><span class="asgreek">οὐραῖς</span></big> <small><small><sup>[[G3769]]</sup></small></small> |ourais <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
+| of them. |<big><span class="asgreek">αὐτῶν.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |
+| the |<big><span class="asgreek">αἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hai <small><sup>[[T-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| tails |<big><span class="asgreek">οὐραὶ</span></big> <small><small><sup>[[G3769]]</sup></small></small> |ourai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of them |<big><span class="asgreek">αὐτῶν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [are] like |<big><span class="asgreek">ὅμοιαι</span></big> <small><small><sup>[[G3664]]</sup></small></small> |homoiai <small><sup>[[A-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| as serpents [^6] |<big><span class="asgreek">ὄφεσιν</span></big> <small><small><sup>[[G3789]]</sup></small></small> |ophesin <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
+| having |<big><span class="asgreek">ἔχουσαι</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echousai <small><sup>[[V-PAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| heads |<big><span class="asgreek">κεφαλὰς</span></big> <small><small><sup>[[G2776]]</sup></small></small> |kephalas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| them |<big><span class="asgreek">αὐταῖς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autais <small><sup>[[P-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they injure. |<big><span class="asgreek">ἀδικοῦσιν.</span></big> <small><small><sup>[[G0091]]</sup></small></small> |adikousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.18|<< Revelation 9:18]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.20|Revelation 9:20 >>]]</td></tr></table>
 
 [^1]: ==TR==: the | <span class="asgreek">αἱ</span><small><sup>[[G3588]]</sup></small> | hai<small><sup>[[T-NPF]]</sup></small>

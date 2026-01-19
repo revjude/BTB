@@ -8,24 +8,24 @@ Until now not you have asked no [thing] in the name of Me; do ask and you will r
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Until |<span class="asgreek">ἕως</span> <small><sup>[[G2193]]</sup></small> |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">ἄρτι</span> <small><sup>[[G0737]]</sup></small> |arti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">οὐκ</span> <small><sup>[[G3756]]</sup></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you have asked |<span class="asgreek">ᾐτήσατε</span> <small><sup>[[G0154]]</sup></small> |ētēsate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| no [thing] |<span class="asgreek">οὐδὲν</span> <small><sup>[[G3762]]</sup></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῷ</span> <small><sup>[[G3588]]</sup></small> |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| name |<span class="asgreek">ὀνόματί</span> <small><sup>[[G3686]]</sup></small> |onomati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Me; |<span class="asgreek">μου·</span> <small><sup>[[G3165]]</sup></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do ask |<span class="asgreek">αἰτεῖτε</span> <small><sup>[[G0154]]</sup></small> |aiteite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you will receive, |<span class="asgreek">λήμψεσθε,</span> <small><sup>[[G2983]]</sup></small> [^1] |lēmpsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| joy |<span class="asgreek">χαρὰ</span> <small><sup>[[G5479]]</sup></small> |chara <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you |<span class="asgreek">ὑμῶν</span> <small><sup>[[G4771]]</sup></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may be |<span class="asgreek">ᾖ</span> <small><sup>[[G1510]]</sup></small> |ē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| filled. |<span class="asgreek">πεπληρωμένη.¶</span> <small><sup>[[G4137]]</sup></small> |peplērōmenē <small><sup>[[V-RPP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Until |<big><span class="asgreek">ἕως</span></big> <small><small><sup>[[G2193]]</sup></small></small> |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">ἄρτι</span></big> <small><small><sup>[[G0737]]</sup></small></small> |arti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">οὐκ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you have asked |<big><span class="asgreek">ᾐτήσατε</span></big> <small><small><sup>[[G0154]]</sup></small></small> |ētēsate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| no [thing] |<big><span class="asgreek">οὐδὲν</span></big> <small><small><sup>[[G3762]]</sup></small></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| name |<big><span class="asgreek">ὀνόματί</span></big> <small><small><sup>[[G3686]]</sup></small></small> |onomati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Me; |<big><span class="asgreek">μου·</span></big> <small><small><sup>[[G3165]]</sup></small></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do ask |<big><span class="asgreek">αἰτεῖτε</span></big> <small><small><sup>[[G0154]]</sup></small></small> |aiteite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you will receive, |<big><span class="asgreek">λήμψεσθε,</span></big> <small><small><sup>[[G2983]]</sup></small></small> [^1] |lēmpsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| joy |<big><span class="asgreek">χαρὰ</span></big> <small><small><sup>[[G5479]]</sup></small></small> |chara <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you |<big><span class="asgreek">ὑμῶν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may be |<big><span class="asgreek">ᾖ</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| filled. |<big><span class="asgreek">πεπληρωμένη.¶</span></big> <small><small><sup>[[G4137]]</sup></small></small> |peplērōmenē <small><sup>[[V-RPP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.23|<< John 16:23]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.25|John 16:25 >>]]</td></tr></table>
 
 [^1]: ==TR== spelled: <span class='asgreek'>**λήψεσθε**</span>

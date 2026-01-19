@@ -8,11 +8,11 @@ Having however sustenance and coverings, with these we will be content.<br><tabl
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Having |<span class="asgreek">ἔχοντες</span> <small><sup>[[G2192]]</sup></small> |echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| sustenance |<span class="asgreek">διατροφὰς</span> <small><sup>[[G1305]]</sup></small> |diatrophas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| coverings, |<span class="asgreek">σκεπάσματα,</span> <small><sup>[[G4629]]</sup></small> |skepasmata <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with these |<span class="asgreek">τούτοις</span> <small><sup>[[G3778]]</sup></small> |toutois <small><sup>[[D-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we will be content. |<span class="asgreek">ἀρκεσθησόμεθα.¶</span> <small><sup>[[G0714]]</sup></small> |arkesthēsometha <small><sup>[[V-FPI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Having |<big><span class="asgreek">ἔχοντες</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| sustenance |<big><span class="asgreek">διατροφὰς</span></big> <small><small><sup>[[G1305]]</sup></small></small> |diatrophas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| coverings, |<big><span class="asgreek">σκεπάσματα,</span></big> <small><small><sup>[[G4629]]</sup></small></small> |skepasmata <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with these |<big><span class="asgreek">τούτοις</span></big> <small><small><sup>[[G3778]]</sup></small></small> |toutois <small><sup>[[D-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we will be content. |<big><span class="asgreek">ἀρκεσθησόμεθα.¶</span></big> <small><small><sup>[[G0714]]</sup></small></small> |arkesthēsometha <small><sup>[[V-FPI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.7|<< 1 Timothy 6:7]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.9|1 Timothy 6:9 >>]]</td></tr></table>

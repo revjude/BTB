@@ -8,23 +8,23 @@ And he comes the mother of Him and the brothers of Him. and outside standing sen
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And [^1] [^2] |<span class="asgreek">Καὶ</span> <small><sup>[[G2532]]</sup></small> |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| he comes [^3] [^4] |<span class="asgreek">ἔρχεται</span> <small><sup>[[G2064]]</sup></small> |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn">N(K)O</abbr> | |
-| the |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| mother |<span class="asgreek">μήτηρ</span> <small><sup>[[G3384]]</sup></small> |mētēr <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«4+Byz«4">NKO</abbr> | |
-| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«5+Byz«5">NKO</abbr> | |
-| brothers |<span class="asgreek">ἀδελφοὶ</span> <small><sup>[[G0080]]</sup></small> |adelphoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«6+Byz«6">NKO</abbr> | |
-| of Him. |<span class="asgreek">αὐτοῦ.</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| outside |<span class="asgreek">ἔξω</span> <small><sup>[[G1854]]</sup></small> |exō <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| standing [^5] |<span class="asgreek">στήκοντες</span> <small><sup>[[G4739]]</sup></small> |stēkontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| sent |<span class="asgreek">ἀπέστειλαν</span> <small><sup>[[G0649]]</sup></small> |apesteilan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">πρὸς</span> <small><sup>[[G4314]]</sup></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him |<span class="asgreek">αὐτὸν</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| calling [^6] |<span class="asgreek">καλοῦντες</span> <small><sup>[[G2564G]]</sup></small> |kalountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| Him. |<span class="asgreek">αὐτόν.</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And [^1] [^2] |<big><span class="asgreek">Καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| he comes [^3] [^4] |<big><span class="asgreek">ἔρχεται</span></big> <small><small><sup>[[G2064]]</sup></small></small> |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn">N(K)O</abbr> | |
+| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| mother |<big><span class="asgreek">μήτηρ</span></big> <small><small><sup>[[G3384]]</sup></small></small> |mētēr <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«4+Byz«4">NKO</abbr> | |
+| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«5+Byz«5">NKO</abbr> | |
+| brothers |<big><span class="asgreek">ἀδελφοὶ</span></big> <small><small><sup>[[G0080]]</sup></small></small> |adelphoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«6+Byz«6">NKO</abbr> | |
+| of Him. |<big><span class="asgreek">αὐτοῦ.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| outside |<big><span class="asgreek">ἔξω</span></big> <small><small><sup>[[G1854]]</sup></small></small> |exō <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| standing [^5] |<big><span class="asgreek">στήκοντες</span></big> <small><small><sup>[[G4739]]</sup></small></small> |stēkontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| sent |<big><span class="asgreek">ἀπέστειλαν</span></big> <small><small><sup>[[G0649]]</sup></small></small> |apesteilan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| calling [^6] |<big><span class="asgreek">καλοῦντες</span></big> <small><small><sup>[[G2564G]]</sup></small></small> |kalountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| Him. |<big><span class="asgreek">αὐτόν.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.30|<< Mark 3:30]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.32|Mark 3:32 >>]]</td></tr></table>
 
 [^1]: Variant:  <span class='asgreek'>**Οὖν**</span>  (<i>Oun</i>) 'therefore' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**Καὶ**</span>  (<i>Kai</i>) 'And' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)

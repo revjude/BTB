@@ -8,22 +8,22 @@ Fearing then lest perhaps on rocky places we may fall, out of [the] stern having
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Fearing |<span class="asgreek">φοβούμενοί</span> <small><sup>[[G5399]]</sup></small> |phoboumenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">τε</span> <small><sup>[[G5037]]</sup></small> |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| lest |<span class="asgreek">μή</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
-| perhaps |<span class="asgreek">που</span> <small><sup>[[G4458]]</sup></small> [^1] |pou <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| on [^2] |<span class="asgreek">κατὰ</span> <small><sup>[[G2596]]</sup></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| rocky |<span class="asgreek">τραχεῖς</span> <small><sup>[[G5138]]</sup></small> |tracheis <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| places |<span class="asgreek">τόπους</span> <small><sup>[[G5117]]</sup></small> |topous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we may fall, [^3] [^4] |<span class="asgreek">ἐκπέσωμεν,</span> <small><sup>[[G1601]]</sup></small> |ekpesōmen <small><sup>[[V-2AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NK(O)</abbr> | |
-| out of [the] |<span class="asgreek">ἐκ</span> <small><sup>[[G1537]]</sup></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| stern |<span class="asgreek">πρύμνης</span> <small><sup>[[G4403]]</sup></small> |prumnēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having cast |<span class="asgreek">ῥίψαντες</span> <small><sup>[[G4496]]</sup></small> |rhipsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| anchors |<span class="asgreek">ἀγκύρας</span> <small><sup>[[G0045]]</sup></small> |agkuras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| four |<span class="asgreek">τέσσαρας</span> <small><sup>[[G5064]]</sup></small> |tessaras <small><sup>[[A-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they were praying for |<span class="asgreek">ηὔχοντο</span> <small><sup>[[G2172]]</sup></small> |ēuchonto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| day |<span class="asgreek">ἡμέραν</span> <small><sup>[[G2250]]</sup></small> |hēmeran <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to come. |<span class="asgreek">γενέσθαι.</span> <small><sup>[[G1096]]</sup></small> |genesthai <small><sup>[[V-2ADN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Fearing |<big><span class="asgreek">φοβούμενοί</span></big> <small><small><sup>[[G5399]]</sup></small></small> |phoboumenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">τε</span></big> <small><small><sup>[[G5037]]</sup></small></small> |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| lest |<big><span class="asgreek">μή</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
+| perhaps |<big><span class="asgreek">που</span></big> <small><small><sup>[[G4458]]</sup></small></small> [^1] |pou <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| on [^2] |<big><span class="asgreek">κατὰ</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| rocky |<big><span class="asgreek">τραχεῖς</span></big> <small><small><sup>[[G5138]]</sup></small></small> |tracheis <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| places |<big><span class="asgreek">τόπους</span></big> <small><small><sup>[[G5117]]</sup></small></small> |topous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we may fall, [^3] [^4] |<big><span class="asgreek">ἐκπέσωμεν,</span></big> <small><small><sup>[[G1601]]</sup></small></small> |ekpesōmen <small><sup>[[V-2AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NK(O)</abbr> | |
+| out of [the] |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| stern |<big><span class="asgreek">πρύμνης</span></big> <small><small><sup>[[G4403]]</sup></small></small> |prumnēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having cast |<big><span class="asgreek">ῥίψαντες</span></big> <small><small><sup>[[G4496]]</sup></small></small> |rhipsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| anchors |<big><span class="asgreek">ἀγκύρας</span></big> <small><small><sup>[[G0045]]</sup></small></small> |agkuras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| four |<big><span class="asgreek">τέσσαρας</span></big> <small><small><sup>[[G5064]]</sup></small></small> |tessaras <small><sup>[[A-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they were praying for |<big><span class="asgreek">ηὔχοντο</span></big> <small><small><sup>[[G2172]]</sup></small></small> |ēuchonto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| day |<big><span class="asgreek">ἡμέραν</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmeran <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to come. |<big><span class="asgreek">γενέσθαι.</span></big> <small><small><sup>[[G1096]]</sup></small></small> |genesthai <small><sup>[[V-2ADN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.28|<< Acts 27:28]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.30|Acts 27:30 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz== spelled: <span class='asgreek'>**μήπως**</span>

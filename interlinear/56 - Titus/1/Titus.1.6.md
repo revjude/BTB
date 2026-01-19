@@ -8,20 +8,20 @@ if anyone is blameless, of one wife [the] husband, children having believing, no
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| if |<span class="asgreek">εἴ</span> <small><sup>[[G1487G]]</sup></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| anyone |<span class="asgreek">τίς</span> <small><sup>[[G5101]]</sup></small> |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is |<span class="asgreek">ἐστιν</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| blameless, |<span class="asgreek">ἀνέγκλητος,</span> <small><sup>[[G0410]]</sup></small> |anegklētos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of one |<span class="asgreek">μιᾶς</span> <small><sup>[[G1520]]</sup></small> |mias <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| wife |<span class="asgreek">γυναικὸς</span> <small><sup>[[G1135H]]</sup></small> |gunaikos <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] husband, |<span class="asgreek">ἀνήρ,</span> <small><sup>[[G0435H]]</sup></small> |anēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| children |<span class="asgreek">τέκνα</span> <small><sup>[[G5043]]</sup></small> |tekna <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having |<span class="asgreek">ἔχων</span> <small><sup>[[G2192]]</sup></small> |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| believing, |<span class="asgreek">πιστά,</span> <small><sup>[[G4103]]</sup></small> |pista <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| under |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| accusation |<span class="asgreek">κατηγορίᾳ</span> <small><sup>[[G2724]]</sup></small> |katēgoria <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of debauchery |<span class="asgreek">ἀσωτίας</span> <small><sup>[[G0810]]</sup></small> |asōtias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| or |<span class="asgreek">ἢ</span> <small><sup>[[G2228]]</sup></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| insubordinate. |<span class="asgreek">ἀνυπότακτα.</span> <small><sup>[[G0506]]</sup></small> |anupotakta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| if |<big><span class="asgreek">εἴ</span></big> <small><small><sup>[[G1487G]]</sup></small></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| anyone |<big><span class="asgreek">τίς</span></big> <small><small><sup>[[G5101]]</sup></small></small> |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is |<big><span class="asgreek">ἐστιν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| blameless, |<big><span class="asgreek">ἀνέγκλητος,</span></big> <small><small><sup>[[G0410]]</sup></small></small> |anegklētos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of one |<big><span class="asgreek">μιᾶς</span></big> <small><small><sup>[[G1520]]</sup></small></small> |mias <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| wife |<big><span class="asgreek">γυναικὸς</span></big> <small><small><sup>[[G1135H]]</sup></small></small> |gunaikos <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] husband, |<big><span class="asgreek">ἀνήρ,</span></big> <small><small><sup>[[G0435H]]</sup></small></small> |anēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| children |<big><span class="asgreek">τέκνα</span></big> <small><small><sup>[[G5043]]</sup></small></small> |tekna <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having |<big><span class="asgreek">ἔχων</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| believing, |<big><span class="asgreek">πιστά,</span></big> <small><small><sup>[[G4103]]</sup></small></small> |pista <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| under |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| accusation |<big><span class="asgreek">κατηγορίᾳ</span></big> <small><small><sup>[[G2724]]</sup></small></small> |katēgoria <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of debauchery |<big><span class="asgreek">ἀσωτίας</span></big> <small><small><sup>[[G0810]]</sup></small></small> |asōtias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| insubordinate. |<big><span class="asgreek">ἀνυπότακτα.</span></big> <small><small><sup>[[G0506]]</sup></small></small> |anupotakta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.5|<< Titus 1:5]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.7|Titus 1:7 >>]]</td></tr></table>

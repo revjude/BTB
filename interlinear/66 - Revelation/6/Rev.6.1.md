@@ -8,31 +8,31 @@ And I watched when opened the Lamb one of the seven seals and I heard one of the
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">Καὶ</span> <small><sup>[[G2532]]</sup></small> |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I watched |<span class="asgreek">εἶδον</span> <small><sup>[[G1492H]]</sup></small> |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| when [^1] |<span class="asgreek">ὅτε</span> <small><sup>[[G3753]]</sup></small> |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
-| opened |<span class="asgreek">ἤνοιξεν</span> <small><sup>[[G0455]]</sup></small> |ēnoixen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Lamb |<span class="asgreek">ἀρνίον</span> <small><sup>[[G0721]]</sup></small> |arnion <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| one |<span class="asgreek">μίαν</span> <small><sup>[[G1520]]</sup></small> |mian <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of |<span class="asgreek">ἐκ</span> <small><sup>[[G1537]]</sup></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| seven [^2] |<span class="asgreek">ἑπτὰ</span> <small><sup>[[G2033]]</sup></small> |hepta <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
-| seals |<span class="asgreek">σφραγίδων</span> <small><sup>[[G4973]]</sup></small> |sphragidōn <small><sup>[[N-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I heard |<span class="asgreek">ἤκουσα</span> <small><sup>[[G0191]]</sup></small> |ēkousa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| one |<span class="asgreek">ἑνὸς</span> <small><sup>[[G1520]]</sup></small> |henos <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of |<span class="asgreek">ἐκ</span> <small><sup>[[G1537]]</sup></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| four |<span class="asgreek">τεσσάρων</span> <small><sup>[[G5064]]</sup></small> |tessarōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| living creatures |<span class="asgreek">ζῴων</span> <small><sup>[[G2226]]</sup></small> |zōōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| saying |<span class="asgreek">λέγοντος</span> <small><sup>[[G3004G]]</sup></small> |legontos <small><sup>[[V-PAP-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| like |<span class="asgreek">ὡς</span> <small><sup>[[G5613]]</sup></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a voice [^3] |<span class="asgreek">φωνὴ</span> <small><sup>[[G5456G]]</sup></small> |phōnē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| of thunder; |<span class="asgreek">βροντῆς·</span> <small><sup>[[G1027]]</sup></small> |brontēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Come |<span class="asgreek">ἔρχου</span> <small><sup>[[G2064]]</sup></small> |erchou <small><sup>[[V-PNM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| do heed. [^4] [^5] |<span class="asgreek">βλέπε.¶</span> <small><sup>[[G0991]]</sup></small> |blepe <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="TR">K(o)</abbr> | |
+| And |<big><span class="asgreek">Καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I watched |<big><span class="asgreek">εἶδον</span></big> <small><small><sup>[[G1492H]]</sup></small></small> |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| when [^1] |<big><span class="asgreek">ὅτε</span></big> <small><small><sup>[[G3753]]</sup></small></small> |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
+| opened |<big><span class="asgreek">ἤνοιξεν</span></big> <small><small><sup>[[G0455]]</sup></small></small> |ēnoixen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Lamb |<big><span class="asgreek">ἀρνίον</span></big> <small><small><sup>[[G0721]]</sup></small></small> |arnion <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| one |<big><span class="asgreek">μίαν</span></big> <small><small><sup>[[G1520]]</sup></small></small> |mian <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| seven [^2] |<big><span class="asgreek">ἑπτὰ</span></big> <small><small><sup>[[G2033]]</sup></small></small> |hepta <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |
+| seals |<big><span class="asgreek">σφραγίδων</span></big> <small><small><sup>[[G4973]]</sup></small></small> |sphragidōn <small><sup>[[N-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I heard |<big><span class="asgreek">ἤκουσα</span></big> <small><small><sup>[[G0191]]</sup></small></small> |ēkousa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| one |<big><span class="asgreek">ἑνὸς</span></big> <small><small><sup>[[G1520]]</sup></small></small> |henos <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| four |<big><span class="asgreek">τεσσάρων</span></big> <small><small><sup>[[G5064]]</sup></small></small> |tessarōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| living creatures |<big><span class="asgreek">ζῴων</span></big> <small><small><sup>[[G2226]]</sup></small></small> |zōōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| saying |<big><span class="asgreek">λέγοντος</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legontos <small><sup>[[V-PAP-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| like |<big><span class="asgreek">ὡς</span></big> <small><small><sup>[[G5613]]</sup></small></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a voice [^3] |<big><span class="asgreek">φωνὴ</span></big> <small><small><sup>[[G5456G]]</sup></small></small> |phōnē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| of thunder; |<big><span class="asgreek">βροντῆς·</span></big> <small><small><sup>[[G1027]]</sup></small></small> |brontēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Come |<big><span class="asgreek">ἔρχου</span></big> <small><small><sup>[[G2064]]</sup></small></small> |erchou <small><sup>[[V-PNM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| do heed. [^4] [^5] |<big><span class="asgreek">βλέπε.¶</span></big> <small><small><sup>[[G0991]]</sup></small></small> |blepe <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="TR">K(o)</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.14|<< Revelation 5:14]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.2|Revelation 6:2 >>]]</td></tr></table>
 
 [^1]: ==Byz==: that | <span class="asgreek">ὅτι</span><small><sup>[[G3754]]</sup></small> | hoti<small><sup>[[CONJ]]</sup></small>

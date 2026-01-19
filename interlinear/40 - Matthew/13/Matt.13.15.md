@@ -8,40 +8,40 @@ Has grown dull for the heart of the people this, and with the ears barely they h
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Has grown dull |<span class="asgreek">ἐπαχύνθη</span> <small><sup>[[G3975]]</sup></small> |epachunthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| heart |<span class="asgreek">καρδία</span> <small><sup>[[G2588]]</sup></small> |kardia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| people |<span class="asgreek">λαοῦ</span> <small><sup>[[G2992]]</sup></small> |laou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| this, |<span class="asgreek">τούτου,</span> <small><sup>[[G3778]]</sup></small> |toutou <small><sup>[[D-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with the |<span class="asgreek">τοῖς</span> <small><sup>[[G3588]]</sup></small> |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| ears |<span class="asgreek">ὠσὶν</span> <small><sup>[[G3775]]</sup></small> |ōsin <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| barely |<span class="asgreek">βαρέως</span> <small><sup>[[G0917]]</sup></small> |bareōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they have heard, |<span class="asgreek">ἤκουσαν,</span> <small><sup>[[G0191]]</sup></small> |ēkousan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| eyes |<span class="asgreek">ὀφθαλμοὺς</span> <small><sup>[[G3788]]</sup></small> |ophthalmous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of them |<span class="asgreek">αὐτῶν</span> <small><sup>[[G0846]]</sup></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they have closed; |<span class="asgreek">ἐκάμμυσαν·</span> <small><sup>[[G2576]]</sup></small> |ekammusan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| otherwise |<span class="asgreek">μήποτε</span> <small><sup>[[G3361]]</sup></small> |mēpote <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they may see |<span class="asgreek">ἴδωσιν</span> <small><sup>[[G1492H]]</sup></small> |idōsin <small><sup>[[V-2AAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with the |<span class="asgreek">τοῖς</span> <small><sup>[[G3588]]</sup></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| eyes |<span class="asgreek">ὀφθαλμοῖς</span> <small><sup>[[G3788]]</sup></small> |ophthalmois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with the |<span class="asgreek">τοῖς</span> <small><sup>[[G3588]]</sup></small> |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| ears |<span class="asgreek">ὠσὶν</span> <small><sup>[[G3775]]</sup></small> |ōsin <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they may hear |<span class="asgreek">ἀκούσωσιν</span> <small><sup>[[G0191]]</sup></small> |akousōsin <small><sup>[[V-AAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with the |<span class="asgreek">τῇ</span> <small><sup>[[G3588]]</sup></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| heart |<span class="asgreek">καρδίᾳ</span> <small><sup>[[G2588]]</sup></small> |kardia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they may understand |<span class="asgreek">συνῶσιν</span> <small><sup>[[G4920]]</sup></small> |sunōsin <small><sup>[[V-2AAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may return |<span class="asgreek">ἐπιστρέψωσιν</span> <small><sup>[[G1994]]</sup></small> |epistrepsōsin <small><sup>[[V-AAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I will heal [^1] |<span class="asgreek">ἰάσομαι</span> <small><sup>[[G2390]]</sup></small> |iasomai <small><sup>[[V-FDI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| them.’ |<span class="asgreek">αὐτούς.¶</span> <small><sup>[[G0846]]</sup></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Has grown dull |<big><span class="asgreek">ἐπαχύνθη</span></big> <small><small><sup>[[G3975]]</sup></small></small> |epachunthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| heart |<big><span class="asgreek">καρδία</span></big> <small><small><sup>[[G2588]]</sup></small></small> |kardia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| people |<big><span class="asgreek">λαοῦ</span></big> <small><small><sup>[[G2992]]</sup></small></small> |laou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| this, |<big><span class="asgreek">τούτου,</span></big> <small><small><sup>[[G3778]]</sup></small></small> |toutou <small><sup>[[D-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with the |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| ears |<big><span class="asgreek">ὠσὶν</span></big> <small><small><sup>[[G3775]]</sup></small></small> |ōsin <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| barely |<big><span class="asgreek">βαρέως</span></big> <small><small><sup>[[G0917]]</sup></small></small> |bareōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they have heard, |<big><span class="asgreek">ἤκουσαν,</span></big> <small><small><sup>[[G0191]]</sup></small></small> |ēkousan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| eyes |<big><span class="asgreek">ὀφθαλμοὺς</span></big> <small><small><sup>[[G3788]]</sup></small></small> |ophthalmous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of them |<big><span class="asgreek">αὐτῶν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they have closed; |<big><span class="asgreek">ἐκάμμυσαν·</span></big> <small><small><sup>[[G2576]]</sup></small></small> |ekammusan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| otherwise |<big><span class="asgreek">μήποτε</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mēpote <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they may see |<big><span class="asgreek">ἴδωσιν</span></big> <small><small><sup>[[G1492H]]</sup></small></small> |idōsin <small><sup>[[V-2AAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with the |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| eyes |<big><span class="asgreek">ὀφθαλμοῖς</span></big> <small><small><sup>[[G3788]]</sup></small></small> |ophthalmois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with the |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| ears |<big><span class="asgreek">ὠσὶν</span></big> <small><small><sup>[[G3775]]</sup></small></small> |ōsin <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they may hear |<big><span class="asgreek">ἀκούσωσιν</span></big> <small><small><sup>[[G0191]]</sup></small></small> |akousōsin <small><sup>[[V-AAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with the |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| heart |<big><span class="asgreek">καρδίᾳ</span></big> <small><small><sup>[[G2588]]</sup></small></small> |kardia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they may understand |<big><span class="asgreek">συνῶσιν</span></big> <small><small><sup>[[G4920]]</sup></small></small> |sunōsin <small><sup>[[V-2AAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may return |<big><span class="asgreek">ἐπιστρέψωσιν</span></big> <small><small><sup>[[G1994]]</sup></small></small> |epistrepsōsin <small><sup>[[V-AAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I will heal [^1] |<big><span class="asgreek">ἰάσομαι</span></big> <small><small><sup>[[G2390]]</sup></small></small> |iasomai <small><sup>[[V-FDI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| them.’ |<big><span class="asgreek">αὐτούς.¶</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.14|<< Matthew 13:14]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.16|Matthew 13:16 >>]]</td></tr></table>
 
 [^1]: ==TR==: I may heal | <span class="asgreek">ἰάσωμαι</span><small><sup>[[G2390]]</sup></small> | iasōmai<small><sup>[[V-ADS-1S]]</sup></small>

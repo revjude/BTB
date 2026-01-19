@@ -4,34 +4,34 @@ Which some professing have erred concerning the faith. Grace [be] with thee. Ame
 <small><sub>**BSB:**</sub></small>
 which some have professed and thus swerved away from the faith. Grace be with you all.
 <small><sub>**Literal:**</sub></small>
-which some professing from the faith went astray. {22} \<the>  Grace [be] with you [all] Amen. to Timothy first it was written from Laodicea which is capital of Phrygia \<the> of Pacatiana.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.20|<< 1 Timothy 6:20]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.1|2 Timothy 1:1 >>]]</td></tr></table>
+which some professing from the faith went astray. {22} <the>  Grace [be] with you [all] Amen. to Timothy first it was written from Laodicea which is capital of Phrygia <the> of Pacatiana.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.20|<< 1 Timothy 6:20]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.1|2 Timothy 1:1 >>]]</td></tr></table>
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| which |<span class="asgreek">ἥν</span> <small><sup>[[G3739]]</sup></small> |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| some |<span class="asgreek">τινες</span> <small><sup>[[G5100]]</sup></small> |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| professing |<span class="asgreek">ἐπαγγελλόμενοι</span> <small><sup>[[G1861]]</sup></small> |epangellomenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">περὶ</span> <small><sup>[[G4012]]</sup></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| faith |<span class="asgreek">πίστιν</span> <small><sup>[[G4102G]]</sup></small> |pistin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| went astray. |<span class="asgreek">ἠστόχησαν.¶</span> <small><sup>[[G0795]]</sup></small> |ēstochēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| {22} \<the> |<span class="asgreek">Ἡ</span> <small><sup>[[G3588]]</sup></small> |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
-|  Grace [be] |<span class="asgreek">χάρις</span> <small><sup>[[G5485]]</sup></small> |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |
-| with |<span class="asgreek">μεθ᾽</span> <small><sup>[[G3326]]</sup></small> [^3] |meth᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^4] | |
-| you [all] [^5] |<span class="asgreek">ὑμῶν</span> <small><sup>[[G4771]]</sup></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr>[^6] | |
-| Amen. |<span class="asgreek">ἀμήν.</span> <small><sup>[[G0281]]</sup></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="TR+Byz">KO</abbr>[^7] | |
-| to |<span class="asgreek">πρός</span> <small><sup>[[G4314]]</sup></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^8] | |
-| Timothy |<span class="asgreek">Τιμόθεον</span> <small><sup>[[G5095]]</sup></small> |Timotheon <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="TR">K</abbr>[^9] | |
-| first |<span class="asgreek">πρώτη</span> <small><sup>[[G4413G]]</sup></small> |prōtē <small><sup>[[A-NSF-S]]</sup></small> | <abbr title="TR">K</abbr>[^10] | |
-| it was written |<span class="asgreek">ἐγράφη</span> <small><sup>[[G1125]]</sup></small> |egraphē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="TR">K</abbr>[^11] | |
-| from |<span class="asgreek">ἀπό</span> <small><sup>[[G0575]]</sup></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^12] | |
-| Laodicea |<span class="asgreek">Λαοδικείας</span> <small><sup>[[G2993]]</sup></small> |Laodikeias <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="TR">K</abbr>[^13] | |
-| which |<span class="asgreek">ἥτις</span> <small><sup>[[G3748]]</sup></small> |hētis <small><sup>[[R-NSF]]</sup></small> | <abbr title="TR">K</abbr>[^14] | |
-| is |<span class="asgreek">ἐστίν</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="TR">K</abbr>[^15] | |
-| capital |<span class="asgreek">μητρόπολις</span> <small><sup>[[G3390]]</sup></small> |mētropolis <small><sup>[[N-NSF]]</sup></small> | <abbr title="TR">K</abbr>[^16] | |
-| of Phrygia |<span class="asgreek">φρυγίας</span> <small><sup>[[G5435]]</sup></small> |phrugias <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="TR">K</abbr>[^17] | |
-| \<the> |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="TR">K</abbr>[^18] | |
-| of Pacatiana. [^19] |<span class="asgreek">Πακατιανῆς.¶</span> <small><sup>[[G3818]]</sup></small> |Pakatianēs <small><sup>[[N-GSF-LG]]</sup></small> | <abbr title="TR">K</abbr>[^20] | |
+| which |<big><span class="asgreek">ἥν</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| some |<big><span class="asgreek">τινες</span></big> <small><small><sup>[[G5100]]</sup></small></small> |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| professing |<big><span class="asgreek">ἐπαγγελλόμενοι</span></big> <small><small><sup>[[G1861]]</sup></small></small> |epangellomenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">περὶ</span></big> <small><small><sup>[[G4012]]</sup></small></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| faith |<big><span class="asgreek">πίστιν</span></big> <small><small><sup>[[G4102G]]</sup></small></small> |pistin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| went astray. |<big><span class="asgreek">ἠστόχησαν.¶</span></big> <small><small><sup>[[G0795]]</sup></small></small> |ēstochēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| {22} \<the> |<big><span class="asgreek">Ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
+|  Grace [be] |<big><span class="asgreek">χάρις</span></big> <small><small><sup>[[G5485]]</sup></small></small> |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |
+| with |<big><span class="asgreek">μεθ᾽</span></big> <small><small><sup>[[G3326]]</sup></small></small> [^3] |meth᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^4] | |
+| you [all] [^5] |<big><span class="asgreek">ὑμῶν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr>[^6] | |
+| Amen. |<big><span class="asgreek">ἀμήν.</span></big> <small><small><sup>[[G0281]]</sup></small></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="TR+Byz">KO</abbr>[^7] | |
+| to |<big><span class="asgreek">πρός</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^8] | |
+| Timothy |<big><span class="asgreek">Τιμόθεον</span></big> <small><small><sup>[[G5095]]</sup></small></small> |Timotheon <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="TR">K</abbr>[^9] | |
+| first |<big><span class="asgreek">πρώτη</span></big> <small><small><sup>[[G4413G]]</sup></small></small> |prōtē <small><sup>[[A-NSF-S]]</sup></small> | <abbr title="TR">K</abbr>[^10] | |
+| it was written |<big><span class="asgreek">ἐγράφη</span></big> <small><small><sup>[[G1125]]</sup></small></small> |egraphē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="TR">K</abbr>[^11] | |
+| from |<big><span class="asgreek">ἀπό</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^12] | |
+| Laodicea |<big><span class="asgreek">Λαοδικείας</span></big> <small><small><sup>[[G2993]]</sup></small></small> |Laodikeias <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="TR">K</abbr>[^13] | |
+| which |<big><span class="asgreek">ἥτις</span></big> <small><small><sup>[[G3748]]</sup></small></small> |hētis <small><sup>[[R-NSF]]</sup></small> | <abbr title="TR">K</abbr>[^14] | |
+| is |<big><span class="asgreek">ἐστίν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="TR">K</abbr>[^15] | |
+| capital |<big><span class="asgreek">μητρόπολις</span></big> <small><small><sup>[[G3390]]</sup></small></small> |mētropolis <small><sup>[[N-NSF]]</sup></small> | <abbr title="TR">K</abbr>[^16] | |
+| of Phrygia |<big><span class="asgreek">φρυγίας</span></big> <small><small><sup>[[G5435]]</sup></small></small> |phrugias <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="TR">K</abbr>[^17] | |
+| \<the> |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="TR">K</abbr>[^18] | |
+| of Pacatiana. [^19] |<big><span class="asgreek">Πακατιανῆς.¶</span></big> <small><small><sup>[[G3818]]</sup></small></small> |Pakatianēs <small><sup>[[N-GSF-LG]]</sup></small> | <abbr title="TR">K</abbr>[^20] | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.20|<< 1 Timothy 6:20]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.1|2 Timothy 1:1 >>]]</td></tr></table>
 
 [^1]: In other versions this word occurs in verse 6.22

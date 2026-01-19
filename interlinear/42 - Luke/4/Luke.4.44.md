@@ -4,18 +4,18 @@ And he preached in the synagogues of Galilee.
 <small><sub>**BSB:**</sub></small>
 And He continued to preach in the synagogues of Judea.
 <small><sub>**Literal:**</sub></small>
-And He was preaching in the synagogues \<the> of Judea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.43|<< Luke 4:43]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.1|Luke 5:1 >>]]</td></tr></table>
+And He was preaching in the synagogues <the> of Judea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.43|<< Luke 4:43]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.1|Luke 5:1 >>]]</td></tr></table>
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He was |<span class="asgreek">ἦν</span> <small><sup>[[G1510]]</sup></small> |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| preaching |<span class="asgreek">κηρύσσων</span> <small><sup>[[G2784]]</sup></small> |kērussōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in [^1] |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| the [^2] |<span class="asgreek">τὰς</span> <small><sup>[[G3588]]</sup></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| synagogues [^3] |<span class="asgreek">συναγωγὰς</span> <small><sup>[[G4864]]</sup></small> |sunagōgas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| \<the> |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Judea. [^4] [^5] |<span class="asgreek">Ἰουδαίας.¶</span> <small><sup>[[G2449]]</sup></small> |Ioudaias <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(K)O</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He was |<big><span class="asgreek">ἦν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| preaching |<big><span class="asgreek">κηρύσσων</span></big> <small><small><sup>[[G2784]]</sup></small></small> |kērussōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in [^1] |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| the [^2] |<big><span class="asgreek">τὰς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| synagogues [^3] |<big><span class="asgreek">συναγωγὰς</span></big> <small><small><sup>[[G4864]]</sup></small></small> |sunagōgas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| \<the> |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Judea. [^4] [^5] |<big><span class="asgreek">Ἰουδαίας.¶</span></big> <small><small><sup>[[G2449]]</sup></small></small> |Ioudaias <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(K)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.43|<< Luke 4:43]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.1|Luke 5:1 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: in | <span class="asgreek">ἐν</span><small><sup>[[G1722]]</sup></small> | en<small><sup>[[PREP]]</sup></small>

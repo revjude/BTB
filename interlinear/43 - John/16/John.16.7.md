@@ -8,35 +8,35 @@ But I myself the truth say to you; it is profitable for you that I myself may go
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| But |<span class="asgreek">ἀλλ᾽</span> <small><sup>[[G0235]]</sup></small> |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I myself |<span class="asgreek">ἐγὼ</span> <small><sup>[[G1473]]</sup></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| truth |<span class="asgreek">ἀλήθειαν</span> <small><sup>[[G0225]]</sup></small> |alētheian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| say |<span class="asgreek">λέγω</span> <small><sup>[[G3004G]]</sup></small> |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to you; |<span class="asgreek">ὑμῖν·</span> <small><sup>[[G4771]]</sup></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it is profitable |<span class="asgreek">συμφέρει</span> <small><sup>[[G4851]]</sup></small> |sumpherei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for you |<span class="asgreek">ὑμῖν</span> <small><sup>[[G4771]]</sup></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I myself |<span class="asgreek">ἐγὼ</span> <small><sup>[[G1473]]</sup></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may go away; |<span class="asgreek">ἀπέλθω·</span> <small><sup>[[G0565]]</sup></small> |apelthō <small><sup>[[V-2AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| only |<span class="asgreek">ἐὰν</span> <small><sup>[[G1437]]</sup></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I myself |<span class="asgreek">ἐγὼ</span> <small><sup>[[G1473]]</sup></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="Byz">o</abbr> | |
-| unless |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I shall go away, |<span class="asgreek">ἀπέλθω,</span> <small><sup>[[G0565]]</sup></small> |apelthō <small><sup>[[V-2AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Helper |<span class="asgreek">παράκλητος</span> <small><sup>[[G3875]]</sup></small> |paraklētos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not [^1] |<span class="asgreek">οὐκ</span> <small><sup>[[G3756]]</sup></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+TR+Byz">NK(o)</abbr> | |
-| will come [^2] |<span class="asgreek">ἐλεύσεται</span> <small><sup>[[G2064]]</sup></small> |eleusetai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+TR+Byz">NK(o)</abbr> | |
-| to |<span class="asgreek">πρὸς</span> <small><sup>[[G4314]]</sup></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you; |<span class="asgreek">ὑμᾶς·</span> <small><sup>[[G4771]]</sup></small> |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| if |<span class="asgreek">ἐὰν</span> <small><sup>[[G1437]]</sup></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I shall go, |<span class="asgreek">πορευθῶ,</span> <small><sup>[[G4198]]</sup></small> |poreuthō <small><sup>[[V-AOS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I will send |<span class="asgreek">πέμψω</span> <small><sup>[[G3992]]</sup></small> |pempsō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him |<span class="asgreek">αὐτὸν</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">πρὸς</span> <small><sup>[[G4314]]</sup></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you. |<span class="asgreek">ὑμᾶς.</span> <small><sup>[[G4771]]</sup></small> |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| But |<big><span class="asgreek">ἀλλ᾽</span></big> <small><small><sup>[[G0235]]</sup></small></small> |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I myself |<big><span class="asgreek">ἐγὼ</span></big> <small><small><sup>[[G1473]]</sup></small></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| truth |<big><span class="asgreek">ἀλήθειαν</span></big> <small><small><sup>[[G0225]]</sup></small></small> |alētheian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| say |<big><span class="asgreek">λέγω</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to you; |<big><span class="asgreek">ὑμῖν·</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it is profitable |<big><span class="asgreek">συμφέρει</span></big> <small><small><sup>[[G4851]]</sup></small></small> |sumpherei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for you |<big><span class="asgreek">ὑμῖν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I myself |<big><span class="asgreek">ἐγὼ</span></big> <small><small><sup>[[G1473]]</sup></small></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may go away; |<big><span class="asgreek">ἀπέλθω·</span></big> <small><small><sup>[[G0565]]</sup></small></small> |apelthō <small><sup>[[V-2AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| only |<big><span class="asgreek">ἐὰν</span></big> <small><small><sup>[[G1437]]</sup></small></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I myself |<big><span class="asgreek">ἐγὼ</span></big> <small><small><sup>[[G1473]]</sup></small></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="Byz">o</abbr> | |
+| unless |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I shall go away, |<big><span class="asgreek">ἀπέλθω,</span></big> <small><small><sup>[[G0565]]</sup></small></small> |apelthō <small><sup>[[V-2AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Helper |<big><span class="asgreek">παράκλητος</span></big> <small><small><sup>[[G3875]]</sup></small></small> |paraklētos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not [^1] |<big><span class="asgreek">οὐκ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+TR+Byz">NK(o)</abbr> | |
+| will come [^2] |<big><span class="asgreek">ἐλεύσεται</span></big> <small><small><sup>[[G2064]]</sup></small></small> |eleusetai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+TR+Byz">NK(o)</abbr> | |
+| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you; |<big><span class="asgreek">ὑμᾶς·</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| if |<big><span class="asgreek">ἐὰν</span></big> <small><small><sup>[[G1437]]</sup></small></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I shall go, |<big><span class="asgreek">πορευθῶ,</span></big> <small><small><sup>[[G4198]]</sup></small></small> |poreuthō <small><sup>[[V-AOS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I will send |<big><span class="asgreek">πέμψω</span></big> <small><small><sup>[[G3992]]</sup></small></small> |pempsō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you. |<big><span class="asgreek">ὑμᾶς.</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.6|<< John 16:6]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.8|John 16:8 >>]]</td></tr></table>
 
 [^1]: ==PRT-N==: then not | <span class="asgreek">οὐ μὴ</span><small><sup>[[G3756]]</sup></small> | ou mē<small><sup>[[PRT-N + G3361]]</sup></small>

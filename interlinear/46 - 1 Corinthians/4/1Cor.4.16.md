@@ -8,12 +8,12 @@ I exhort therefore you, imitators of mine do become.<br><table width="100%" bord
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I exhort |<span class="asgreek">Παρακαλῶ</span> <small><sup>[[G3870]]</sup></small> |Parakalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| therefore |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you, |<span class="asgreek">ὑμᾶς,</span> <small><sup>[[G4771]]</sup></small> |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| imitators |<span class="asgreek">μιμηταί</span> <small><sup>[[G3402]]</sup></small> |mimētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of mine |<span class="asgreek">μου</span> <small><sup>[[G3165]]</sup></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do become. |<span class="asgreek">γίνεσθε.</span> <small><sup>[[G1096]]</sup></small> [^1] |ginesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I exhort |<big><span class="asgreek">Παρακαλῶ</span></big> <small><small><sup>[[G3870]]</sup></small></small> |Parakalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| therefore |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you, |<big><span class="asgreek">ὑμᾶς,</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| imitators |<big><span class="asgreek">μιμηταί</span></big> <small><small><sup>[[G3402]]</sup></small></small> |mimētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of mine |<big><span class="asgreek">μου</span></big> <small><small><sup>[[G3165]]</sup></small></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do become. |<big><span class="asgreek">γίνεσθε.</span></big> <small><small><sup>[[G1096]]</sup></small></small> [^1] |ginesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.15|<< 1 Corinthians 4:15]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.17|1 Corinthians 4:17 >>]]</td></tr></table>
 
 [^1]: ==Tyn== spelled: <span class='asgreek'>**γείνεσθε**</span>

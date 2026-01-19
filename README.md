@@ -1,7 +1,7 @@
 # Bruhman Translator's Bible (BTB)
 
 
-An powerful and comprehensive digital Bible compiled in markdown for the [Obsidian](https://obsidian.md) platform.
+A powerful and comprehensive digital Bible compiled in markdown for the [Obsidian](https://obsidian.md) platform.
 ## Overview
 
 Typically used as a personal note-taking solution, in this application the fast and powerful Wikipedia-style linking features of [Obsidian](https://obsidian.md) lend themselves mightily to the many still-relevant and freely available Bible resources found in the public domain.
@@ -15,13 +15,13 @@ Endless thanks to all of the proud scholars, theologians, and scribes who did th
 #### CHAPTERS
 ![Chapter View](/lexicon/views/ChapterView.png)
 #### RED-LETTERS & CROSS-REFERENCES
-![Chapter View](/lexicon/views/RedLetters.PNG)
+![Chapter View](/lexicon/views/RedLetters.png)
 #### VERSES
-![Verse View](/lexicon/views/VerseView.PNG)
+![Verse View](/lexicon/views/VerseView.png)
 #### LEXICON
-![Chapter View](/lexicon/views/Lexicon.PNG)
+![Chapter View](/lexicon/views/Lexicon.png)
 #### MAPS
-![Chapter View](/lexicon/views/Maps.PNG)
+![Chapter View](/lexicon/views/Maps.png)
 
 ## Features
 - Full chapters feature the **KJV** text with **Jesus' words in red-letters**.

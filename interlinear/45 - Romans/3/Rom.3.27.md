@@ -8,19 +8,19 @@ Where then [is] the boasting? It has been excluded. Through what principle? That
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Where |<span class="asgreek">Ποῦ</span> <small><sup>[[G4226]]</sup></small> |Pou <small><sup>[[ADV-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then [is] |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| boasting? |<span class="asgreek">καύχησις;</span> <small><sup>[[G2746]]</sup></small> |kauchēsis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| It has been excluded. |<span class="asgreek">ἐξεκλείσθη.</span> <small><sup>[[G1576]]</sup></small> |exekleisthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Through |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| what |<span class="asgreek">ποίου</span> <small><sup>[[G4169]]</sup></small> |poiou <small><sup>[[I-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| principle? |<span class="asgreek">νόμου;</span> <small><sup>[[G3551]]</sup></small> |nomou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| That |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of works? |<span class="asgreek">ἔργων;</span> <small><sup>[[G2041]]</sup></small> |ergōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| No, |<span class="asgreek">οὐχί,</span> <small><sup>[[G3780]]</sup></small> |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| but |<span class="asgreek">ἀλλὰ</span> <small><sup>[[G0235]]</sup></small> |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| through |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] principle |<span class="asgreek">νόμου</span> <small><sup>[[G3551]]</sup></small> |nomou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of faith. |<span class="asgreek">πίστεως.</span> <small><sup>[[G4102G]]</sup></small> |pisteōs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Where |<big><span class="asgreek">Ποῦ</span></big> <small><small><sup>[[G4226]]</sup></small></small> |Pou <small><sup>[[ADV-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then [is] |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| boasting? |<big><span class="asgreek">καύχησις;</span></big> <small><small><sup>[[G2746]]</sup></small></small> |kauchēsis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| It has been excluded. |<big><span class="asgreek">ἐξεκλείσθη.</span></big> <small><small><sup>[[G1576]]</sup></small></small> |exekleisthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Through |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| what |<big><span class="asgreek">ποίου</span></big> <small><small><sup>[[G4169]]</sup></small></small> |poiou <small><sup>[[I-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| principle? |<big><span class="asgreek">νόμου;</span></big> <small><small><sup>[[G3551]]</sup></small></small> |nomou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| That |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of works? |<big><span class="asgreek">ἔργων;</span></big> <small><small><sup>[[G2041]]</sup></small></small> |ergōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| No, |<big><span class="asgreek">οὐχί,</span></big> <small><small><sup>[[G3780]]</sup></small></small> |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| but |<big><span class="asgreek">ἀλλὰ</span></big> <small><small><sup>[[G0235]]</sup></small></small> |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| through |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] principle |<big><span class="asgreek">νόμου</span></big> <small><small><sup>[[G3551]]</sup></small></small> |nomou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of faith. |<big><span class="asgreek">πίστεως.</span></big> <small><small><sup>[[G4102G]]</sup></small></small> |pisteōs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.26|<< Romans 3:26]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.28|Romans 3:28 >>]]</td></tr></table>

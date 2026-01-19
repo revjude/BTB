@@ -8,21 +8,21 @@ Blessed [is] the coming kingdom in name of the Lord of the father of us David! H
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Blessed [is] |<span class="asgreek">εὐλογημένη</span> <small><sup>[[G2127]]</sup></small> |eulogēmenē <small><sup>[[V-RPP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| coming |<span class="asgreek">ἐρχομένη</span> <small><sup>[[G2064]]</sup></small> |erchomenē <small><sup>[[V-PNP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| kingdom |<span class="asgreek">βασιλεία</span> <small><sup>[[G0932]]</sup></small> |basileia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| name |<span class="asgreek">ὀνόματι</span> <small><sup>[[G3686]]</sup></small> |onomati <small><sup>[[N-DSN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| of the Lord [^1] |<span class="asgreek">κυρίου</span> <small><sup>[[G2962G]]</sup></small> |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| of the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| father |<span class="asgreek">πατρὸς</span> <small><sup>[[G3962]]</sup></small> |patros <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of us |<span class="asgreek">ἡμῶν</span> <small><sup>[[G3165]]</sup></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| David! |<span class="asgreek">Δαυίδ,</span> <small><sup>[[G1138]]</sup></small> [^2] [^3] |Dauid <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Hosanna |<span class="asgreek">ὡσαννὰ</span> <small><sup>[[G5614]]</sup></small> |hōsanna <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοῖς</span> <small><sup>[[G3588]]</sup></small> |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| highest! |<span class="asgreek">ὑψίστοις.¶</span> <small><sup>[[G5310]]</sup></small> |hupsistois <small><sup>[[A-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Blessed [is] |<big><span class="asgreek">εὐλογημένη</span></big> <small><small><sup>[[G2127]]</sup></small></small> |eulogēmenē <small><sup>[[V-RPP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| coming |<big><span class="asgreek">ἐρχομένη</span></big> <small><small><sup>[[G2064]]</sup></small></small> |erchomenē <small><sup>[[V-PNP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| kingdom |<big><span class="asgreek">βασιλεία</span></big> <small><small><sup>[[G0932]]</sup></small></small> |basileia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| name |<big><span class="asgreek">ὀνόματι</span></big> <small><small><sup>[[G3686]]</sup></small></small> |onomati <small><sup>[[N-DSN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| of the Lord [^1] |<big><span class="asgreek">κυρίου</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| of the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| father |<big><span class="asgreek">πατρὸς</span></big> <small><small><sup>[[G3962]]</sup></small></small> |patros <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of us |<big><span class="asgreek">ἡμῶν</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| David! |<big><span class="asgreek">Δαυίδ,</span></big> <small><small><sup>[[G1138]]</sup></small></small> [^2] [^3] |Dauid <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Hosanna |<big><span class="asgreek">ὡσαννὰ</span></big> <small><small><sup>[[G5614]]</sup></small></small> |hōsanna <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| highest! |<big><span class="asgreek">ὑψίστοις.¶</span></big> <small><small><sup>[[G5310]]</sup></small></small> |hupsistois <small><sup>[[A-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.9|<< Mark 11:9]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.11|Mark 11:11 >>]]</td></tr></table>
 
 [^1]: Extra Text (5-6):  <span class='asgreek'>**ἐν**</span>   <span class='asgreek'>**ὀνόματι**</span>    <span class='asgreek'>**κυρίου**</span>   (<i>en onomati kuriou</i>) 'in name of the Lord' is only in traditional manuscripts (TR+Byz)

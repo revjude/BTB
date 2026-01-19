@@ -4,29 +4,29 @@ So then after the Lord had spoken unto them, he was received up into heaven, and
 <small><sub>**BSB:**</sub></small>
 After the Lord Jesus had spoken to them, He was taken up into heaven and sat down at the right hand of God.
 <small><sub>**Literal:**</sub></small>
-\<the> Indeed therefore [the] Lord Jesus after \<the> speaking to them was taken up into the heaven and sat at [the] right hand \<the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.18|<< Mark 16:18]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.20|Mark 16:20 >>]]</td></tr></table>
+<the> Indeed therefore [the] Lord Jesus after <the> speaking to them was taken up into the heaven and sat at [the] right hand <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.18|<< Mark 16:18]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.20|Mark 16:20 >>]]</td></tr></table>
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<the> |<span class="asgreek">Ὁ</span> <small><sup>[[G3588]]</sup></small> |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| Indeed |<span class="asgreek">μὲν</span> <small><sup>[[G3303]]</sup></small> |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| therefore |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| [the] Lord |<span class="asgreek">κύριος</span> <small><sup>[[G2962G]]</sup></small> |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| Jesus |<span class="asgreek">Ἰησοῦς</span> <small><sup>[[G2424G]]</sup></small> |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA27+Tyn+WH+Treg">O</abbr> | |
-| after |<span class="asgreek">μετὰ</span> <small><sup>[[G3326]]</sup></small> |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| \<the> |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| speaking |<span class="asgreek">λαλῆσαι</span> <small><sup>[[G2980]]</sup></small> |lalēsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| to them |<span class="asgreek">αὐτοῖς</span> <small><sup>[[G0846]]</sup></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| was taken up |<span class="asgreek">ἀνελήφθη</span> <small><sup>[[G0353]]</sup></small> [^1] |anelēphthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| into |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| heaven |<span class="asgreek">οὐρανὸν</span> <small><sup>[[G3772]]</sup></small> |ouranon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| sat |<span class="asgreek">ἐκάθισεν</span> <small><sup>[[G2523]]</sup></small> |ekathisen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| at [the] |<span class="asgreek">ἐκ</span> <small><sup>[[G1537]]</sup></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| right hand |<span class="asgreek">δεξιῶν</span> <small><sup>[[G1188]]</sup></small> |dexiōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| \<the> |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
-| of God. [^2] |<span class="asgreek">θεοῦ.</span> <small><sup>[[G2316]]</sup></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| \<the> |<big><span class="asgreek">Ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| Indeed |<big><span class="asgreek">μὲν</span></big> <small><small><sup>[[G3303]]</sup></small></small> |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| therefore |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| [the] Lord |<big><span class="asgreek">κύριος</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| Jesus |<big><span class="asgreek">Ἰησοῦς</span></big> <small><small><sup>[[G2424G]]</sup></small></small> |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA27+Tyn+WH+Treg">O</abbr> | |
+| after |<big><span class="asgreek">μετὰ</span></big> <small><small><sup>[[G3326]]</sup></small></small> |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| \<the> |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| speaking |<big><span class="asgreek">λαλῆσαι</span></big> <small><small><sup>[[G2980]]</sup></small></small> |lalēsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| to them |<big><span class="asgreek">αὐτοῖς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| was taken up |<big><span class="asgreek">ἀνελήφθη</span></big> <small><small><sup>[[G0353]]</sup></small></small> [^1] |anelēphthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| heaven |<big><span class="asgreek">οὐρανὸν</span></big> <small><small><sup>[[G3772]]</sup></small></small> |ouranon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| sat |<big><span class="asgreek">ἐκάθισεν</span></big> <small><small><sup>[[G2523]]</sup></small></small> |ekathisen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| at [the] |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| right hand |<big><span class="asgreek">δεξιῶν</span></big> <small><small><sup>[[G1188]]</sup></small></small> |dexiōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| \<the> |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
+| of God. [^2] |<big><span class="asgreek">θεοῦ.</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.18|<< Mark 16:18]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.20|Mark 16:20 >>]]</td></tr></table>
 
 [^1]: ==NA28+NA27+Tyn+WH+Treg+Byz== spelled: <span class='asgreek'>**ἀνελήμφθη**</span>

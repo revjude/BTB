@@ -8,28 +8,28 @@ By now the hands of the apostles were happening signs and wonders many among the
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| By |<span class="asgreek">Διὰ</span> <small><sup>[[G1223]]</sup></small> |Dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| hands |<span class="asgreek">χειρῶν</span> <small><sup>[[G5495]]</sup></small> |cheirōn <small><sup>[[N-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| apostles |<span class="asgreek">ἀποστόλων</span> <small><sup>[[G0652]]</sup></small> |apostolōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| were happening [^1] |<span class="asgreek">ἐγίνετο</span> <small><sup>[[G1096]]</sup></small> |egineto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| signs |<span class="asgreek">σημεῖα</span> <small><sup>[[G4592]]</sup></small> |sēmeia <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| wonders |<span class="asgreek">τέρατα</span> <small><sup>[[G5059]]</sup></small> |terata <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| many |<span class="asgreek">πολλὰ</span> <small><sup>[[G4183]]</sup></small> |polla <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»3+Byz»3">NKO</abbr> | |
-| among |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῷ</span> <small><sup>[[G3588]]</sup></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| people; |<span class="asgreek">λαῷ·</span> <small><sup>[[G2992]]</sup></small> |laō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they were |<span class="asgreek">ἦσαν</span> <small><sup>[[G1510]]</sup></small> |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with one accord |<span class="asgreek">ὁμοθυμαδὸν</span> <small><sup>[[G3661]]</sup></small> |homothumadon <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all [^2] |<span class="asgreek">ἅπαντες</span> <small><sup>[[G0537]]</sup></small> |hapantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NK(o)</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῇ</span> <small><sup>[[G3588]]</sup></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Colonnade |<span class="asgreek">στοᾷ</span> <small><sup>[[G4745]]</sup></small> |stoa <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Solomon; |<span class="asgreek">Σολομῶντος·</span> <small><sup>[[G4672H]]</sup></small> |Solomōntos <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| By |<big><span class="asgreek">Διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |Dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| hands |<big><span class="asgreek">χειρῶν</span></big> <small><small><sup>[[G5495]]</sup></small></small> |cheirōn <small><sup>[[N-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| apostles |<big><span class="asgreek">ἀποστόλων</span></big> <small><small><sup>[[G0652]]</sup></small></small> |apostolōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were happening [^1] |<big><span class="asgreek">ἐγίνετο</span></big> <small><small><sup>[[G1096]]</sup></small></small> |egineto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| signs |<big><span class="asgreek">σημεῖα</span></big> <small><small><sup>[[G4592]]</sup></small></small> |sēmeia <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| wonders |<big><span class="asgreek">τέρατα</span></big> <small><small><sup>[[G5059]]</sup></small></small> |terata <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| many |<big><span class="asgreek">πολλὰ</span></big> <small><small><sup>[[G4183]]</sup></small></small> |polla <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»3+Byz»3">NKO</abbr> | |
+| among |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| people; |<big><span class="asgreek">λαῷ·</span></big> <small><small><sup>[[G2992]]</sup></small></small> |laō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they were |<big><span class="asgreek">ἦσαν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with one accord |<big><span class="asgreek">ὁμοθυμαδὸν</span></big> <small><small><sup>[[G3661]]</sup></small></small> |homothumadon <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all [^2] |<big><span class="asgreek">ἅπαντες</span></big> <small><small><sup>[[G0537]]</sup></small></small> |hapantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NK(o)</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Colonnade |<big><span class="asgreek">στοᾷ</span></big> <small><small><sup>[[G4745]]</sup></small></small> |stoa <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Solomon; |<big><span class="asgreek">Σολομῶντος·</span></big> <small><small><sup>[[G4672H]]</sup></small></small> |Solomōntos <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.11|<< Acts 5:11]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.13|Acts 5:13 >>]]</td></tr></table>
 
 [^1]: ==TR==: it happened | <span class="asgreek">ἐγένετο</span><small><sup>[[G1096]]</sup></small> | egeneto<small><sup>[[V-2ADI-3S]]</sup></small>

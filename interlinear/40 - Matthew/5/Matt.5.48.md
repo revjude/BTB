@@ -8,18 +8,18 @@ Will be therefore you yourselves perfect how the Father of you who Heavenly perf
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Will be |<span class="asgreek">ἔσεσθε</span> <small><sup>[[G1510]]</sup></small> |esesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| therefore |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you yourselves |<span class="asgreek">ὑμεῖς</span> <small><sup>[[G4771]]</sup></small> |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| perfect |<span class="asgreek">τέλειοι</span> <small><sup>[[G5046]]</sup></small> |teleioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| how [^1] |<span class="asgreek">ὡς</span> <small><sup>[[G5613]]</sup></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Father |<span class="asgreek">πατὴρ</span> <small><sup>[[G3962]]</sup></small> |patēr <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you |<span class="asgreek">ὑμῶν</span> <small><sup>[[G4771]]</sup></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Heavenly [^2] [^3] |<span class="asgreek">οὐράνιος</span> <small><sup>[[G3770]]</sup></small> |ouranios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| perfect |<span class="asgreek">τέλειός</span> <small><sup>[[G5046]]</sup></small> |teleios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is. |<span class="asgreek">ἐστιν.¶</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Will be |<big><span class="asgreek">ἔσεσθε</span></big> <small><small><sup>[[G1510]]</sup></small></small> |esesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| therefore |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you yourselves |<big><span class="asgreek">ὑμεῖς</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| perfect |<big><span class="asgreek">τέλειοι</span></big> <small><small><sup>[[G5046]]</sup></small></small> |teleioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| how [^1] |<big><span class="asgreek">ὡς</span></big> <small><small><sup>[[G5613]]</sup></small></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Father |<big><span class="asgreek">πατὴρ</span></big> <small><small><sup>[[G3962]]</sup></small></small> |patēr <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you |<big><span class="asgreek">ὑμῶν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Heavenly [^2] [^3] |<big><span class="asgreek">οὐράνιος</span></big> <small><small><sup>[[G3770]]</sup></small></small> |ouranios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| perfect |<big><span class="asgreek">τέλειός</span></big> <small><small><sup>[[G5046]]</sup></small></small> |teleios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is. |<big><span class="asgreek">ἐστιν.¶</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.47|<< Matthew 5:47]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.1|Matthew 6:1 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: as | <span class="asgreek">ὥσπερ</span><small><sup>[[G5618]]</sup></small> | hōsper<small><sup>[[CONJ]]</sup></small>

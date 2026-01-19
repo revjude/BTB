@@ -8,24 +8,24 @@ Some were saying that He it is, but others were saying; No, but that like as him
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Some |<span class="asgreek">ἄλλοι</span> <small><sup>[[G0243]]</sup></small> |alloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| were saying |<span class="asgreek">ἔλεγον</span> <small><sup>[[G3004G]]</sup></small> |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He |<span class="asgreek">οὗτός</span> <small><sup>[[G3778]]</sup></small> |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it is, |<span class="asgreek">ἐστιν,</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| but others |<span class="asgreek">ἄλλοι</span> <small><sup>[[G0243]]</sup></small> |alloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| were saying; |<span class="asgreek">ἔλεγον·</span> <small><sup>[[G3004G]]</sup></small> |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+KJV">NKO</abbr> | |
-| No, |<span class="asgreek">οὐχί,</span> <small><sup>[[G3780]]</sup></small> |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
-| but [^1] |<span class="asgreek">ἀλλ᾽</span> <small><sup>[[G0235]]</sup></small> [^2] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| like |<span class="asgreek">ὅμοιος</span> <small><sup>[[G3664]]</sup></small> |homoios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| as him |<span class="asgreek">αὐτῷ</span> <small><sup>[[G0846]]</sup></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he is. |<span class="asgreek">ἐστιν.</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He |<span class="asgreek">ἐκεῖνος</span> <small><sup>[[G1565]]</sup></small> |ekeinos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was saying |<span class="asgreek">ἔλεγεν</span> <small><sup>[[G3004G]]</sup></small> |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I myself |<span class="asgreek">ἐγώ</span> <small><sup>[[G1473]]</sup></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| am [he]. |<span class="asgreek">εἰμι.</span> <small><sup>[[G1510]]</sup></small> |eimi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Some |<big><span class="asgreek">ἄλλοι</span></big> <small><small><sup>[[G0243]]</sup></small></small> |alloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were saying |<big><span class="asgreek">ἔλεγον</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He |<big><span class="asgreek">οὗτός</span></big> <small><small><sup>[[G3778]]</sup></small></small> |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it is, |<big><span class="asgreek">ἐστιν,</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| but others |<big><span class="asgreek">ἄλλοι</span></big> <small><small><sup>[[G0243]]</sup></small></small> |alloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were saying; |<big><span class="asgreek">ἔλεγον·</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+KJV">NKO</abbr> | |
+| No, |<big><span class="asgreek">οὐχί,</span></big> <small><small><sup>[[G3780]]</sup></small></small> |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
+| but [^1] |<big><span class="asgreek">ἀλλ᾽</span></big> <small><small><sup>[[G0235]]</sup></small></small> [^2] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| like |<big><span class="asgreek">ὅμοιος</span></big> <small><small><sup>[[G3664]]</sup></small></small> |homoios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| as him |<big><span class="asgreek">αὐτῷ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he is. |<big><span class="asgreek">ἐστιν.</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He |<big><span class="asgreek">ἐκεῖνος</span></big> <small><small><sup>[[G1565]]</sup></small></small> |ekeinos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was saying |<big><span class="asgreek">ἔλεγεν</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I myself |<big><span class="asgreek">ἐγώ</span></big> <small><small><sup>[[G1473]]</sup></small></small> |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| am [he]. |<big><span class="asgreek">εἰμι.</span></big> <small><small><sup>[[G1510]]</sup></small></small> |eimi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.8|<< John 9:8]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.10|John 9:10 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: now | <span class="asgreek">δὲ</span><small><sup>[[G1161]]</sup></small> | de<small><sup>[[CONJ]]</sup></small>

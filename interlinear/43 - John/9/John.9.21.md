@@ -8,30 +8,30 @@ How however presently he sees not we know, or who opened of him the eyes we ours
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| How |<span class="asgreek">πῶς</span> <small><sup>[[G4459]]</sup></small> |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| presently |<span class="asgreek">νῦν</span> <small><sup>[[G3568]]</sup></small> |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he sees |<span class="asgreek">βλέπει</span> <small><sup>[[G0991]]</sup></small> |blepei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">οὐκ</span> <small><sup>[[G3756]]</sup></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we know, |<span class="asgreek">οἴδαμεν,</span> <small><sup>[[G6063]]</sup></small> |oidamen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| or |<span class="asgreek">ἢ</span> <small><sup>[[G2228]]</sup></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who |<span class="asgreek">τίς</span> <small><sup>[[G5101]]</sup></small> |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| opened |<span class="asgreek">ἤνοιξεν</span> <small><sup>[[G0455]]</sup></small> |ēnoixen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| eyes |<span class="asgreek">ὀφθαλμοὺς</span> <small><sup>[[G3788]]</sup></small> |ophthalmous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we ourselves |<span class="asgreek">ἡμεῖς</span> <small><sup>[[G3165]]</sup></small> |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">οὐκ</span> <small><sup>[[G3756]]</sup></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| know; |<span class="asgreek">οἴδαμεν·</span> <small><sup>[[G6063]]</sup></small> |oidamen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| him |<span class="asgreek">αὐτὸν</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do ask, |<span class="asgreek">ἐρωτήσατε,</span> <small><sup>[[G2065]]</sup></small> |erōtēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he himself |<span class="asgreek">αὐτὸς</span> <small><sup>[[G0846]]</sup></small> |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="TR«3+Byz«3">k</abbr> | |
-| [of] age |<span class="asgreek">ἡλικίαν</span> <small><sup>[[G2244]]</sup></small> |hēlikian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«4+Byz«4">NKO</abbr> | |
-| is; |<span class="asgreek">ἔχει·</span> <small><sup>[[G2192]]</sup></small> |echei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«5+Byz«5">NKO</abbr> | |
-| He himself |<span class="asgreek">αὐτὸς</span> <small><sup>[[G0846]]</sup></small> |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Concerning |<span class="asgreek">περὶ</span> <small><sup>[[G4012]]</sup></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| himself |<span class="asgreek">ἑαυτοῦ</span> <small><sup>[[G1438]]</sup></small> [^1] |he'autou <small><sup>[[F-3GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he will speak. |<span class="asgreek">λαλήσει.¶</span> <small><sup>[[G2980]]</sup></small> |lalēsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| How |<big><span class="asgreek">πῶς</span></big> <small><small><sup>[[G4459]]</sup></small></small> |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| presently |<big><span class="asgreek">νῦν</span></big> <small><small><sup>[[G3568]]</sup></small></small> |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he sees |<big><span class="asgreek">βλέπει</span></big> <small><small><sup>[[G0991]]</sup></small></small> |blepei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">οὐκ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we know, |<big><span class="asgreek">οἴδαμεν,</span></big> <small><small><sup>[[G6063]]</sup></small></small> |oidamen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who |<big><span class="asgreek">τίς</span></big> <small><small><sup>[[G5101]]</sup></small></small> |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| opened |<big><span class="asgreek">ἤνοιξεν</span></big> <small><small><sup>[[G0455]]</sup></small></small> |ēnoixen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| eyes |<big><span class="asgreek">ὀφθαλμοὺς</span></big> <small><small><sup>[[G3788]]</sup></small></small> |ophthalmous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we ourselves |<big><span class="asgreek">ἡμεῖς</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">οὐκ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| know; |<big><span class="asgreek">οἴδαμεν·</span></big> <small><small><sup>[[G6063]]</sup></small></small> |oidamen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do ask, |<big><span class="asgreek">ἐρωτήσατε,</span></big> <small><small><sup>[[G2065]]</sup></small></small> |erōtēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he himself |<big><span class="asgreek">αὐτὸς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="TR«3+Byz«3">k</abbr> | |
+| [of] age |<big><span class="asgreek">ἡλικίαν</span></big> <small><small><sup>[[G2244]]</sup></small></small> |hēlikian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«4+Byz«4">NKO</abbr> | |
+| is; |<big><span class="asgreek">ἔχει·</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«5+Byz«5">NKO</abbr> | |
+| He himself |<big><span class="asgreek">αὐτὸς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Concerning |<big><span class="asgreek">περὶ</span></big> <small><small><sup>[[G4012]]</sup></small></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| himself |<big><span class="asgreek">ἑαυτοῦ</span></big> <small><small><sup>[[G1438]]</sup></small></small> [^1] |he'autou <small><sup>[[F-3GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he will speak. |<big><span class="asgreek">λαλήσει.¶</span></big> <small><small><sup>[[G2980]]</sup></small></small> |lalēsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.20|<< John 9:20]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.22|John 9:22 >>]]</td></tr></table>
 
 [^1]: ==TR== spelled: <span class='asgreek'>**αὐτοῦ**</span>

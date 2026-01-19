@@ -8,14 +8,14 @@ Not for he knew what he may answer, terrified for they were.<br><table width="10
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Not |<span class="asgreek">οὐ</span> <small><sup>[[G3756]]</sup></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he knew |<span class="asgreek">ᾔδει</span> <small><sup>[[G1492I]]</sup></small> |ēdei <small><sup>[[V-2LAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| what |<span class="asgreek">τί</span> <small><sup>[[G5101]]</sup></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he may answer, [^1] [^2] |<span class="asgreek">ἀποκριθῇ,</span> <small><sup>[[G0611]]</sup></small> |apokrithēa <small><sup>[[V-AOS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)(o)</abbr> | |
-| terrified |<span class="asgreek">ἔκφοβοι</span> <small><sup>[[G1630]]</sup></small> |ekphoboi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«1+Byz«1">NKO</abbr> | |
-| they were. [^3] |<span class="asgreek">ἐγένοντο.¶</span> <small><sup>[[G1096]]</sup></small> |egenonto <small><sup>[[V-2ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| Not |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he knew |<big><span class="asgreek">ᾔδει</span></big> <small><small><sup>[[G1492I]]</sup></small></small> |ēdei <small><sup>[[V-2LAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| what |<big><span class="asgreek">τί</span></big> <small><small><sup>[[G5101]]</sup></small></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he may answer, [^1] [^2] |<big><span class="asgreek">ἀποκριθῇ,</span></big> <small><small><sup>[[G0611]]</sup></small></small> |apokrithēa <small><sup>[[V-AOS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)(o)</abbr> | |
+| terrified |<big><span class="asgreek">ἔκφοβοι</span></big> <small><small><sup>[[G1630]]</sup></small></small> |ekphoboi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«1+Byz«1">NKO</abbr> | |
+| they were. [^3] |<big><span class="asgreek">ἐγένοντο.¶</span></big> <small><small><sup>[[G1096]]</sup></small></small> |egenonto <small><sup>[[V-2ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.5|<< Mark 9:5]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.7|Mark 9:7 >>]]</td></tr></table>
 
 [^1]: ==TR ==: may speak | <span class="asgreek">λαλήσῃ</span><small><sup>[[G2980]]</sup></small> | lalēsē<small><sup>[[V-AAS-3S]]</sup></small>

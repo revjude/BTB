@@ -4,37 +4,37 @@ Therefore being a prophet, and knowing that God had sworn with an oath to him, t
 <small><sub>**BSB:**</sub></small>
 But he was a prophet and knew that God had promised him on oath that He would place one of his descendants on his throne.
 <small><sub>**Literal:**</sub></small>
-A prophet therefore being and knowing that with an oath swore to him \<the> God out of [the] fruit of the loins of him \<the> according to flesh going to raise up the Christ to set upon the throne of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.29|<< Acts 2:29]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.31|Acts 2:31 >>]]</td></tr></table>
+A prophet therefore being and knowing that with an oath swore to him <the> God out of [the] fruit of the loins of him <the> according to flesh going to raise up the Christ to set upon the throne of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.29|<< Acts 2:29]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.31|Acts 2:31 >>]]</td></tr></table>
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| A prophet |<span class="asgreek">προφήτης</span> <small><sup>[[G4396]]</sup></small> |prophētēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| therefore |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| being |<span class="asgreek">ὑπάρχων</span> <small><sup>[[G5225]]</sup></small> |huparchōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| knowing |<span class="asgreek">εἰδὼς</span> <small><sup>[[G6063]]</sup></small> |eidōs <small><sup>[[V-RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with an oath |<span class="asgreek">ὅρκῳ</span> <small><sup>[[G3727]]</sup></small> |horkō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| swore |<span class="asgreek">ὤμοσεν</span> <small><sup>[[G3660]]</sup></small> |ōmosen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to him |<span class="asgreek">αὐτῷ</span> <small><sup>[[G0846]]</sup></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| God |<span class="asgreek">θεὸς</span> <small><sup>[[G2316]]</sup></small> |theos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| out of [the] |<span class="asgreek">ἐκ</span> <small><sup>[[G1537]]</sup></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| fruit |<span class="asgreek">καρποῦ</span> <small><sup>[[G2590]]</sup></small> |karpou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| loins |<span class="asgreek">ὀσφύος</span> <small><sup>[[G3751]]</sup></small> |osphuos <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| according to |<span class="asgreek">κατὰ</span> <small><sup>[[G2596]]</sup></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| flesh |<span class="asgreek">σάρκα</span> <small><sup>[[G4561]]</sup></small> |sarka <small><sup>[[N-ASF]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| going to raise up |<span class="asgreek">ἀναστήσειν</span> <small><sup>[[G0450]]</sup></small> |anastēsein <small><sup>[[V-FAN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| Christ [^1] |<span class="asgreek">χριστόν</span> <small><sup>[[G5547]]</sup></small> |christon <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| to set |<span class="asgreek">καθίσαι</span> <small><sup>[[G2523]]</sup></small> |kathisai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| upon |<span class="asgreek">ἐπὶ</span> <small><sup>[[G1909]]</sup></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the [^2] |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| throne [^3] |<span class="asgreek">θρόνον</span> <small><sup>[[G2362]]</sup></small> |thronon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| of him, |<span class="asgreek">αὐτοῦ,</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| A prophet |<big><span class="asgreek">προφήτης</span></big> <small><small><sup>[[G4396]]</sup></small></small> |prophētēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| therefore |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| being |<big><span class="asgreek">ὑπάρχων</span></big> <small><small><sup>[[G5225]]</sup></small></small> |huparchōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| knowing |<big><span class="asgreek">εἰδὼς</span></big> <small><small><sup>[[G6063]]</sup></small></small> |eidōs <small><sup>[[V-RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with an oath |<big><span class="asgreek">ὅρκῳ</span></big> <small><small><sup>[[G3727]]</sup></small></small> |horkō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| swore |<big><span class="asgreek">ὤμοσεν</span></big> <small><small><sup>[[G3660]]</sup></small></small> |ōmosen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to him |<big><span class="asgreek">αὐτῷ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| God |<big><span class="asgreek">θεὸς</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| out of [the] |<big><span class="asgreek">ἐκ</span></big> <small><small><sup>[[G1537]]</sup></small></small> |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fruit |<big><span class="asgreek">καρποῦ</span></big> <small><small><sup>[[G2590]]</sup></small></small> |karpou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| loins |<big><span class="asgreek">ὀσφύος</span></big> <small><small><sup>[[G3751]]</sup></small></small> |osphuos <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| according to |<big><span class="asgreek">κατὰ</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| flesh |<big><span class="asgreek">σάρκα</span></big> <small><small><sup>[[G4561]]</sup></small></small> |sarka <small><sup>[[N-ASF]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| going to raise up |<big><span class="asgreek">ἀναστήσειν</span></big> <small><small><sup>[[G0450]]</sup></small></small> |anastēsein <small><sup>[[V-FAN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| Christ [^1] |<big><span class="asgreek">χριστόν</span></big> <small><small><sup>[[G5547]]</sup></small></small> |christon <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| to set |<big><span class="asgreek">καθίσαι</span></big> <small><small><sup>[[G2523]]</sup></small></small> |kathisai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| upon |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [^2] |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| throne [^3] |<big><span class="asgreek">θρόνον</span></big> <small><small><sup>[[G2362]]</sup></small></small> |thronon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| of him, |<big><span class="asgreek">αὐτοῦ,</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.29|<< Acts 2:29]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.31|Acts 2:31 >>]]</td></tr></table>
 
 [^1]: Extra Text (17-21):  <span class='asgreek'>**τὸ**</span>   <span class='asgreek'>**κατὰ**</span>    <span class='asgreek'>**σάρκα**</span>    <span class='asgreek'>**ἀναστήσειν**</span>    <span class='asgreek'>**τὸν**</span>    <span class='asgreek'>**χριστόν**</span>   (<i>to kata sarka anastēsein ton christon</i>) 'according to flesh going to raise up the Christ' is only in traditional manuscripts (TR+Byz)

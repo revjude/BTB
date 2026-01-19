@@ -8,16 +8,16 @@ And having stood up the high priest said to Him; No [thing] answer you? What the
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having stood up |<span class="asgreek">ἀναστὰς</span> <small><sup>[[G0450]]</sup></small> |anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| high priest |<span class="asgreek">ἀρχιερεὺς</span> <small><sup>[[G0749]]</sup></small> |archiereus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| said |<span class="asgreek">εἶπεν</span> <small><sup>[[G2036]]</sup></small> |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to Him; |<span class="asgreek">αὐτῷ·</span> <small><sup>[[G0846]]</sup></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| No [thing] |<span class="asgreek">οὐδὲν</span> <small><sup>[[G3762]]</sup></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| answer you? |<span class="asgreek">ἀποκρίνῃ;</span> <small><sup>[[G0611]]</sup></small> |apokrinē <small><sup>[[V-PNI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| What |<span class="asgreek">τί</span> <small><sup>[[G5101]]</sup></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| these |<span class="asgreek">οὗτοί</span> <small><sup>[[G3778]]</sup></small> |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you |<span class="asgreek">σου</span> <small><sup>[[G4771]]</sup></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do witness against? |<span class="asgreek">καταμαρτυροῦσιν;</span> <small><sup>[[G2649]]</sup></small> |katamarturousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having stood up |<big><span class="asgreek">ἀναστὰς</span></big> <small><small><sup>[[G0450]]</sup></small></small> |anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| high priest |<big><span class="asgreek">ἀρχιερεὺς</span></big> <small><small><sup>[[G0749]]</sup></small></small> |archiereus <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| said |<big><span class="asgreek">εἶπεν</span></big> <small><small><sup>[[G2036]]</sup></small></small> |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to Him; |<big><span class="asgreek">αὐτῷ·</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| No [thing] |<big><span class="asgreek">οὐδὲν</span></big> <small><small><sup>[[G3762]]</sup></small></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| answer you? |<big><span class="asgreek">ἀποκρίνῃ;</span></big> <small><small><sup>[[G0611]]</sup></small></small> |apokrinē <small><sup>[[V-PNI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| What |<big><span class="asgreek">τί</span></big> <small><small><sup>[[G5101]]</sup></small></small> |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| these |<big><span class="asgreek">οὗτοί</span></big> <small><small><sup>[[G3778]]</sup></small></small> |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you |<big><span class="asgreek">σου</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do witness against? |<big><span class="asgreek">καταμαρτυροῦσιν;</span></big> <small><small><sup>[[G2649]]</sup></small></small> |katamarturousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.61|<< Matthew 26:61]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.63|Matthew 26:63 >>]]</td></tr></table>

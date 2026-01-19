@@ -8,18 +8,18 @@ If now anyone thinks to have known anything, not yet no [thing] he knew even as 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| If |<span class="asgreek">εἴ</span> <small><sup>[[G1487G]]</sup></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">δέ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| anyone |<span class="asgreek">τις</span> <small><sup>[[G5100]]</sup></small> |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| thinks |<span class="asgreek">δοκεῖ</span> <small><sup>[[G1380]]</sup></small> |dokei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to have known [^1] |<span class="asgreek">ἐγνωκέναι</span> <small><sup>[[G1097]]</sup></small> |egnōkenai <small><sup>[[V-RAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| anything, |<span class="asgreek">τι,</span> <small><sup>[[G5100]]</sup></small> |ti <small><sup>[[X-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not yet [^2] |<span class="asgreek">οὔπω</span> <small><sup>[[G3768]]</sup></small> |oupō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| no [thing] |<span class="asgreek">οὐδὲν</span> <small><sup>[[G3762]]</sup></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| he knew [^3] |<span class="asgreek">ἔγνω</span> <small><sup>[[G1097]]</sup></small> |egnō <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| even as |<span class="asgreek">καθὼς</span> <small><sup>[[G2531]]</sup></small> |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it is necessary |<span class="asgreek">δεῖ</span> <small><sup>[[G1163]]</sup></small> |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to know; |<span class="asgreek">γνῶναι·</span> <small><sup>[[G1097]]</sup></small> |gnōnai <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| If |<big><span class="asgreek">εἴ</span></big> <small><small><sup>[[G1487G]]</sup></small></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">δέ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| anyone |<big><span class="asgreek">τις</span></big> <small><small><sup>[[G5100]]</sup></small></small> |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| thinks |<big><span class="asgreek">δοκεῖ</span></big> <small><small><sup>[[G1380]]</sup></small></small> |dokei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to have known [^1] |<big><span class="asgreek">ἐγνωκέναι</span></big> <small><small><sup>[[G1097]]</sup></small></small> |egnōkenai <small><sup>[[V-RAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| anything, |<big><span class="asgreek">τι,</span></big> <small><small><sup>[[G5100]]</sup></small></small> |ti <small><sup>[[X-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not yet [^2] |<big><span class="asgreek">οὔπω</span></big> <small><small><sup>[[G3768]]</sup></small></small> |oupō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| no [thing] |<big><span class="asgreek">οὐδὲν</span></big> <small><small><sup>[[G3762]]</sup></small></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| he knew [^3] |<big><span class="asgreek">ἔγνω</span></big> <small><small><sup>[[G1097]]</sup></small></small> |egnō <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| even as |<big><span class="asgreek">καθὼς</span></big> <small><small><sup>[[G2531]]</sup></small></small> |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it is necessary |<big><span class="asgreek">δεῖ</span></big> <small><small><sup>[[G1163]]</sup></small></small> |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to know; |<big><span class="asgreek">γνῶναι·</span></big> <small><small><sup>[[G1097]]</sup></small></small> |gnōnai <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.1|<< 1 Corinthians 8:1]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.3|1 Corinthians 8:3 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: to have known | <span class="asgreek">εἰδέναι</span><small><sup>[[G6063]]</sup></small> | eidenai<small><sup>[[V-RAN]]</sup></small>

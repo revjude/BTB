@@ -8,18 +8,18 @@ To boast it behooves [me], not is it profitable indeed, I will go on however to 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| To boast |<span class="asgreek">Καυχᾶσθαι</span> <small><sup>[[G2744]]</sup></small> |Kauchasthai <small><sup>[[V-PNN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it behooves [me], [^1] [^2] |<span class="asgreek">δεῖ,</span> <small><sup>[[G1163]]</sup></small> |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| not |<span class="asgreek">οὐ</span> <small><sup>[[G3756]]</sup></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is it profitable [^3] [^4] |<span class="asgreek">συμφέρον</span> <small><sup>[[G4851]]</sup></small> |sumpheron <small><sup>[[V-PAP-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| indeed, [^5] [^6] |<span class="asgreek">μέν,</span> <small><sup>[[G3303]]</sup></small> |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| I will go on |<span class="asgreek">ἐλεύσομαι</span> <small><sup>[[G2064]]</sup></small> |eleusomai <small><sup>[[V-FDI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however [^7] |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| to |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| visions |<span class="asgreek">ὀπτασίας</span> <small><sup>[[G3701]]</sup></small> |optasias <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| revelations |<span class="asgreek">ἀποκαλύψεις</span> <small><sup>[[G0602]]</sup></small> |apokalupseis <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of [the] Lord. |<span class="asgreek">κυρίου.¶</span> <small><sup>[[G2962G]]</sup></small> |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| To boast |<big><span class="asgreek">Καυχᾶσθαι</span></big> <small><small><sup>[[G2744]]</sup></small></small> |Kauchasthai <small><sup>[[V-PNN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it behooves [me], [^1] [^2] |<big><span class="asgreek">δεῖ,</span></big> <small><small><sup>[[G1163]]</sup></small></small> |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| not |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is it profitable [^3] [^4] |<big><span class="asgreek">συμφέρον</span></big> <small><small><sup>[[G4851]]</sup></small></small> |sumpheron <small><sup>[[V-PAP-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| indeed, [^5] [^6] |<big><span class="asgreek">μέν,</span></big> <small><small><sup>[[G3303]]</sup></small></small> |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| I will go on |<big><span class="asgreek">ἐλεύσομαι</span></big> <small><small><sup>[[G2064]]</sup></small></small> |eleusomai <small><sup>[[V-FDI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however [^7] |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| to |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| visions |<big><span class="asgreek">ὀπτασίας</span></big> <small><small><sup>[[G3701]]</sup></small></small> |optasias <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| revelations |<big><span class="asgreek">ἀποκαλύψεις</span></big> <small><small><sup>[[G0602]]</sup></small></small> |apokalupseis <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of [the] Lord. |<big><span class="asgreek">κυρίου.¶</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.33|<< 2 Corinthians 11:33]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.2|2 Corinthians 12:2 >>]]</td></tr></table>
 
 [^1]: Variant:  <span class='asgreek'>**δὴ**</span>  (<i>dē</i>) 'indeed' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**δεῖ**</span>,  (<i>dei</i>) 'it behooves [me],' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)

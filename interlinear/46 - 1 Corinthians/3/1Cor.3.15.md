@@ -8,18 +8,18 @@ If of anyone the work will be burned up, he will suffer loss, he himself however
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| If |<span class="asgreek">εἴ</span> <small><sup>[[G1487G]]</sup></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of anyone |<span class="asgreek">τινος</span> <small><sup>[[G5100]]</sup></small> |tinos <small><sup>[[X-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| work |<span class="asgreek">ἔργον</span> <small><sup>[[G2041]]</sup></small> |ergon <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will be burned up, |<span class="asgreek">κατακαήσεται,</span> <small><sup>[[G2618]]</sup></small> |katakaēsetai <small><sup>[[V-2FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he will suffer loss, |<span class="asgreek">ζημιωθήσεται,</span> <small><sup>[[G2210]]</sup></small> |zēmiōthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he himself |<span class="asgreek">αὐτὸς</span> <small><sup>[[G0846]]</sup></small> |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will be saved |<span class="asgreek">σωθήσεται</span> <small><sup>[[G4982]]</sup></small> |sōthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so |<span class="asgreek">οὕτως</span> <small><sup>[[G3779]]</sup></small> |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| as |<span class="asgreek">ὡς</span> <small><sup>[[G5613]]</sup></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| through |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| fire. |<span class="asgreek">πυρός.¶</span> <small><sup>[[G4442]]</sup></small> |puros <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| If |<big><span class="asgreek">εἴ</span></big> <small><small><sup>[[G1487G]]</sup></small></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of anyone |<big><span class="asgreek">τινος</span></big> <small><small><sup>[[G5100]]</sup></small></small> |tinos <small><sup>[[X-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| work |<big><span class="asgreek">ἔργον</span></big> <small><small><sup>[[G2041]]</sup></small></small> |ergon <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will be burned up, |<big><span class="asgreek">κατακαήσεται,</span></big> <small><small><sup>[[G2618]]</sup></small></small> |katakaēsetai <small><sup>[[V-2FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he will suffer loss, |<big><span class="asgreek">ζημιωθήσεται,</span></big> <small><small><sup>[[G2210]]</sup></small></small> |zēmiōthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he himself |<big><span class="asgreek">αὐτὸς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will be saved |<big><span class="asgreek">σωθήσεται</span></big> <small><small><sup>[[G4982]]</sup></small></small> |sōthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so |<big><span class="asgreek">οὕτως</span></big> <small><small><sup>[[G3779]]</sup></small></small> |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| as |<big><span class="asgreek">ὡς</span></big> <small><small><sup>[[G5613]]</sup></small></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| through |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fire. |<big><span class="asgreek">πυρός.¶</span></big> <small><small><sup>[[G4442]]</sup></small></small> |puros <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.14|<< 1 Corinthians 3:14]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.16|1 Corinthians 3:16 >>]]</td></tr></table>

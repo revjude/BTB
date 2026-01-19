@@ -8,18 +8,18 @@ behold I am coming quickly; do hold fast to what you have, so that no one may ta
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| behold [^1] |<span class="asgreek">ἰδού</span> <small><sup>[[G2400]]</sup></small> |idou <small><sup>[[INJ]]</sup></small> | <abbr title="TR">K</abbr> | |
-| I am coming |<span class="asgreek">ἔρχομαι</span> <small><sup>[[G2064]]</sup></small> |erchomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| quickly; |<span class="asgreek">ταχύ·</span> <small><sup>[[G5035]]</sup></small> |tachu <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do hold fast |<span class="asgreek">κράτει</span> <small><sup>[[G2902]]</sup></small> |kratei <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to what |<span class="asgreek">ὃ</span> <small><sup>[[G3739]]</sup></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you have, |<span class="asgreek">ἔχεις,</span> <small><sup>[[G2192]]</sup></small> |echeis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| no one |<span class="asgreek">μηδεὶς</span> <small><sup>[[G3367]]</sup></small> |mēdeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may take |<span class="asgreek">λάβῃ</span> <small><sup>[[G2983]]</sup></small> |labē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| crown |<span class="asgreek">στέφανόν</span> <small><sup>[[G4735]]</sup></small> |stephanon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you. |<span class="asgreek">σου.</span> <small><sup>[[G4771]]</sup></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| behold [^1] |<big><span class="asgreek">ἰδού</span></big> <small><small><sup>[[G2400]]</sup></small></small> |idou <small><sup>[[INJ]]</sup></small> | <abbr title="TR">K</abbr> | |
+| I am coming |<big><span class="asgreek">ἔρχομαι</span></big> <small><small><sup>[[G2064]]</sup></small></small> |erchomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| quickly; |<big><span class="asgreek">ταχύ·</span></big> <small><small><sup>[[G5035]]</sup></small></small> |tachu <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do hold fast |<big><span class="asgreek">κράτει</span></big> <small><small><sup>[[G2902]]</sup></small></small> |kratei <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to what |<big><span class="asgreek">ὃ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you have, |<big><span class="asgreek">ἔχεις,</span></big> <small><small><sup>[[G2192]]</sup></small></small> |echeis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| no one |<big><span class="asgreek">μηδεὶς</span></big> <small><small><sup>[[G3367]]</sup></small></small> |mēdeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may take |<big><span class="asgreek">λάβῃ</span></big> <small><small><sup>[[G2983]]</sup></small></small> |labē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| crown |<big><span class="asgreek">στέφανόν</span></big> <small><small><sup>[[G4735]]</sup></small></small> |stephanon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you. |<big><span class="asgreek">σου.</span></big> <small><small><sup>[[G4771]]</sup></small></small> |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.10|<< Revelation 3:10]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.12|Revelation 3:12 >>]]</td></tr></table>
 
 [^1]: Extra Text:  <span class='asgreek'>**ἰδού**</span>  (<i>idou</i>) 'behold' is only in traditional manuscripts (TR)

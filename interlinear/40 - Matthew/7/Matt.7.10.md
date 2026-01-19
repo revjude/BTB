@@ -8,15 +8,15 @@ Or also if a fish he will ask for, surely not a serpent will he give to him?<br>
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Or |<span class="asgreek">ἢ</span> <small><sup>[[G2228]]</sup></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+KJV">NKO</abbr> | |
-| also |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| if [^1] |<span class="asgreek">ἐὰν</span> <small><sup>[[G1437]]</sup></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| a fish |<span class="asgreek">ἰχθὺν</span> <small><sup>[[G2486]]</sup></small> |ichthun <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he will ask for, [^2] [^3] |<span class="asgreek">αἰτήσει,</span> <small><sup>[[G0154]]</sup></small> |aitēsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| surely not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a serpent |<span class="asgreek">ὄφιν</span> <small><sup>[[G3789]]</sup></small> |ophin <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will he give |<span class="asgreek">ἐπιδώσει</span> <small><sup>[[G1929]]</sup></small> |epidōsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to him? |<span class="asgreek">αὐτῷ;</span> <small><sup>[[G0846]]</sup></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Or |<big><span class="asgreek">ἢ</span></big> <small><small><sup>[[G2228]]</sup></small></small> |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+KJV">NKO</abbr> | |
+| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| if [^1] |<big><span class="asgreek">ἐὰν</span></big> <small><small><sup>[[G1437]]</sup></small></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| a fish |<big><span class="asgreek">ἰχθὺν</span></big> <small><small><sup>[[G2486]]</sup></small></small> |ichthun <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he will ask for, [^2] [^3] |<big><span class="asgreek">αἰτήσει,</span></big> <small><small><sup>[[G0154]]</sup></small></small> |aitēsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| surely not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a serpent |<big><span class="asgreek">ὄφιν</span></big> <small><small><sup>[[G3789]]</sup></small></small> |ophin <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will he give |<big><span class="asgreek">ἐπιδώσει</span></big> <small><small><sup>[[G1929]]</sup></small></small> |epidōsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to him? |<big><span class="asgreek">αὐτῷ;</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.9|<< Matthew 7:9]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.11|Matthew 7:11 >>]]</td></tr></table>
 
 [^1]: Extra Text:  <span class='asgreek'>**ἐὰν**</span>  (<i>ean</i>) 'if' is only in traditional manuscripts (TR+Byz)

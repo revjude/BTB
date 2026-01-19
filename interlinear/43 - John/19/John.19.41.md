@@ -8,26 +8,26 @@ There was now in the place where He was crucified a garden and in the garden a t
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| There was |<span class="asgreek">Ἦν</span> <small><sup>[[G1510]]</sup></small> |Ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῷ</span> <small><sup>[[G3588]]</sup></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| place |<span class="asgreek">τόπῳ</span> <small><sup>[[G5117]]</sup></small> |topō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| where |<span class="asgreek">ὅπου</span> <small><sup>[[G3699]]</sup></small> |hopou <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He was crucified |<span class="asgreek">ἐσταυρώθη</span> <small><sup>[[G4717]]</sup></small> |estaurōthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a garden |<span class="asgreek">κῆπος</span> <small><sup>[[G2779]]</sup></small> |kēpos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῷ</span> <small><sup>[[G3588]]</sup></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| garden |<span class="asgreek">κήπῳ</span> <small><sup>[[G2779]]</sup></small> |kēpō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a tomb |<span class="asgreek">μνημεῖον</span> <small><sup>[[G3419]]</sup></small> |mnēmeion <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| new |<span class="asgreek">καινὸν</span> <small><sup>[[G2537]]</sup></small> |kainon <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| which |<span class="asgreek">ᾧ</span> <small><sup>[[G3739]]</sup></small> |hō <small><sup>[[R-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not yet |<span class="asgreek">οὐδέπω</span> <small><sup>[[G3764]]</sup></small> |oudepō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| no [one] |<span class="asgreek">οὐδεὶς</span> <small><sup>[[G3762]]</sup></small> |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was |<span class="asgreek">ἦν</span> <small><sup>[[G1510]]</sup></small> |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">no</abbr> | |
-| [already] laid. [^1] |<span class="asgreek">τεθειμένος.</span> <small><sup>[[G5087]]</sup></small> |tetheimenos <small><sup>[[V-RPP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
+| There was |<big><span class="asgreek">Ἦν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |Ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| place |<big><span class="asgreek">τόπῳ</span></big> <small><small><sup>[[G5117]]</sup></small></small> |topō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| where |<big><span class="asgreek">ὅπου</span></big> <small><small><sup>[[G3699]]</sup></small></small> |hopou <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He was crucified |<big><span class="asgreek">ἐσταυρώθη</span></big> <small><small><sup>[[G4717]]</sup></small></small> |estaurōthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a garden |<big><span class="asgreek">κῆπος</span></big> <small><small><sup>[[G2779]]</sup></small></small> |kēpos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| garden |<big><span class="asgreek">κήπῳ</span></big> <small><small><sup>[[G2779]]</sup></small></small> |kēpō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a tomb |<big><span class="asgreek">μνημεῖον</span></big> <small><small><sup>[[G3419]]</sup></small></small> |mnēmeion <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| new |<big><span class="asgreek">καινὸν</span></big> <small><small><sup>[[G2537]]</sup></small></small> |kainon <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| which |<big><span class="asgreek">ᾧ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hō <small><sup>[[R-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not yet |<big><span class="asgreek">οὐδέπω</span></big> <small><small><sup>[[G3764]]</sup></small></small> |oudepō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| no [one] |<big><span class="asgreek">οὐδεὶς</span></big> <small><small><sup>[[G3762]]</sup></small></small> |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was |<big><span class="asgreek">ἦν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">no</abbr> | |
+| [already] laid. [^1] |<big><span class="asgreek">τεθειμένος.</span></big> <small><small><sup>[[G5087]]</sup></small></small> |tetheimenos <small><sup>[[V-RPP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.40|<< John 19:40]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.42|John 19:42 >>]]</td></tr></table>
 
 [^1]: ==Treg+TR+Byz==: was laid | <span class="asgreek">ἐτέθη</span><small><sup>[[G5087]]</sup></small> | etethē<small><sup>[[V-API-3S]]</sup></small>

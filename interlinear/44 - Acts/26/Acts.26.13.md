@@ -8,25 +8,25 @@ At day mid on the road I saw, O king, from heaven above the brightness of the su
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| At day |<span class="asgreek">ἡμέρας</span> <small><sup>[[G2250]]</sup></small> |hēmeras <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| mid |<span class="asgreek">μέσης</span> <small><sup>[[G3319]]</sup></small> |mesēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| on |<span class="asgreek">κατὰ</span> <small><sup>[[G2596]]</sup></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| road |<span class="asgreek">ὁδὸν</span> <small><sup>[[G3598]]</sup></small> |hodon <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I saw, |<span class="asgreek">εἶδον,</span> <small><sup>[[G1492H]]</sup></small> |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| O king, |<span class="asgreek">βασιλεῦ,</span> <small><sup>[[G0935]]</sup></small> |basileu <small><sup>[[N-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from heaven |<span class="asgreek">οὐρανόθεν</span> <small><sup>[[G3771]]</sup></small> |ouranothen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| above |<span class="asgreek">ὑπὲρ</span> <small><sup>[[G5228]]</sup></small> |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| brightness |<span class="asgreek">λαμπρότητα</span> <small><sup>[[G2987]]</sup></small> |lamprotēta <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| sun |<span class="asgreek">ἡλίου</span> <small><sup>[[G2246]]</sup></small> |hēliou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having shone around |<span class="asgreek">περιλάμψαν</span> <small><sup>[[G4034]]</sup></small> |perilampsan <small><sup>[[V-AAP-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| me |<span class="asgreek">με</span> <small><sup>[[G3165]]</sup></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a light |<span class="asgreek">φῶς</span> <small><sup>[[G5457]]</sup></small> |phōs <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| those |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<span class="asgreek">σὺν</span> <small><sup>[[G4862]]</sup></small> |sun <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| me myself |<span class="asgreek">ἐμοὶ</span> <small><sup>[[G1473]]</sup></small> |emoi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| journeying. |<span class="asgreek">πορευομένους.</span> <small><sup>[[G4198]]</sup></small> |poreuomenous <small><sup>[[V-PNP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| At day |<big><span class="asgreek">ἡμέρας</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmeras <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| mid |<big><span class="asgreek">μέσης</span></big> <small><small><sup>[[G3319]]</sup></small></small> |mesēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| on |<big><span class="asgreek">κατὰ</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| road |<big><span class="asgreek">ὁδὸν</span></big> <small><small><sup>[[G3598]]</sup></small></small> |hodon <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I saw, |<big><span class="asgreek">εἶδον,</span></big> <small><small><sup>[[G1492H]]</sup></small></small> |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| O king, |<big><span class="asgreek">βασιλεῦ,</span></big> <small><small><sup>[[G0935]]</sup></small></small> |basileu <small><sup>[[N-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from heaven |<big><span class="asgreek">οὐρανόθεν</span></big> <small><small><sup>[[G3771]]</sup></small></small> |ouranothen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| above |<big><span class="asgreek">ὑπὲρ</span></big> <small><small><sup>[[G5228]]</sup></small></small> |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| brightness |<big><span class="asgreek">λαμπρότητα</span></big> <small><small><sup>[[G2987]]</sup></small></small> |lamprotēta <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| sun |<big><span class="asgreek">ἡλίου</span></big> <small><small><sup>[[G2246]]</sup></small></small> |hēliou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having shone around |<big><span class="asgreek">περιλάμψαν</span></big> <small><small><sup>[[G4034]]</sup></small></small> |perilampsan <small><sup>[[V-AAP-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| me |<big><span class="asgreek">με</span></big> <small><small><sup>[[G3165]]</sup></small></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a light |<big><span class="asgreek">φῶς</span></big> <small><small><sup>[[G5457]]</sup></small></small> |phōs <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| those |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |<big><span class="asgreek">σὺν</span></big> <small><small><sup>[[G4862]]</sup></small></small> |sun <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| me myself |<big><span class="asgreek">ἐμοὶ</span></big> <small><small><sup>[[G1473]]</sup></small></small> |emoi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| journeying. |<big><span class="asgreek">πορευομένους.</span></big> <small><small><sup>[[G4198]]</sup></small></small> |poreuomenous <small><sup>[[V-PNP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.12|<< Acts 26:12]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.14|Acts 26:14 >>]]</td></tr></table>

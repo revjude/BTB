@@ -8,15 +8,15 @@ At then [the] feast he was releasing to them one prisoner which they were reques
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| At |<span class="asgreek">κατὰ</span> <small><sup>[[G2596]]</sup></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] feast |<span class="asgreek">ἑορτὴν</span> <small><sup>[[G1859]]</sup></small> |he'ortēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he was releasing |<span class="asgreek">ἀπέλυεν</span> <small><sup>[[G0630G]]</sup></small> |apeluen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to them |<span class="asgreek">αὐτοῖς</span> <small><sup>[[G0846]]</sup></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| one |<span class="asgreek">ἕνα</span> <small><sup>[[G1520]]</sup></small> |hena <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| prisoner |<span class="asgreek">δέσμιον</span> <small><sup>[[G1198]]</sup></small> |desmion <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| which [^1] |<span class="asgreek">ὃν</span> <small><sup>[[G3739]]</sup></small> |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
-| they were requesting. [^2] |<span class="asgreek">παρῃτοῦντο.</span> <small><sup>[[G3868]]</sup></small> |parētounto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
+| At |<big><span class="asgreek">κατὰ</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] feast |<big><span class="asgreek">ἑορτὴν</span></big> <small><small><sup>[[G1859]]</sup></small></small> |he'ortēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he was releasing |<big><span class="asgreek">ἀπέλυεν</span></big> <small><small><sup>[[G0630G]]</sup></small></small> |apeluen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to them |<big><span class="asgreek">αὐτοῖς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| one |<big><span class="asgreek">ἕνα</span></big> <small><small><sup>[[G1520]]</sup></small></small> |hena <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| prisoner |<big><span class="asgreek">δέσμιον</span></big> <small><small><sup>[[G1198]]</sup></small></small> |desmion <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| which [^1] |<big><span class="asgreek">ὃν</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
+| they were requesting. [^2] |<big><span class="asgreek">παρῃτοῦντο.</span></big> <small><small><sup>[[G3868]]</sup></small></small> |parētounto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.5|<< Mark 15:5]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.7|Mark 15:7 >>]]</td></tr></table>
 
 [^1]: ==Treg+TR+Byz==: whom | <span class="asgreek">ὅνπερ</span><small><sup>[[G3746]]</sup></small> | honper<small><sup>[[R-ASM]]</sup></small>

@@ -8,11 +8,11 @@ The sons of Levi: Gershom, Kohath, and Merari.
 
 | Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֖י</big></span><small><sup>[[H1121A]]</sup></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Levi  | <span class="ashebrew"><big>לֵוִ֑י</big></span><small><sup>[[H3878]]</sup></small> &#8207;| le.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gershom  | <span class="ashebrew"><big>גֵּרְשֹׁ֕ם</big></span><small><sup>[[H1647H]]</sup></small> &#8207;| ge.re.Shom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Kohath  | <span class="ashebrew"><big>קְהָ֖ת</big></span><small><sup>[[H6955]]</sup></small> &#8207;| ke.Hat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Merari  | <span class="ashebrew"><big>וּ</big></span><small><sup>[[H9002]]</sup></small> <span class="ashebrew"><big>מְרָרִֽי</big></span><small><sup>[[H4847]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.ra.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  | <span class="ashebrew"><big>בְּנֵ֖י</big></span><small><small><sup>[[H1121A]]</sup></small></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Levi  | <span class="ashebrew"><big>לֵוִ֑י</big></span><small><small><sup>[[H3878]]</sup></small></small> &#8207;| le.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gershom  | <span class="ashebrew"><big>גֵּרְשֹׁ֕ם</big></span><small><small><sup>[[H1647H]]</sup></small></small> &#8207;| ge.re.Shom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Kohath  | <span class="ashebrew"><big>קְהָ֖ת</big></span><small><small><sup>[[H6955]]</sup></small></small> &#8207;| ke.Hat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Merari  | <span class="ashebrew"><big>וּ</big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>מְרָרִֽי</big></span><small><small><sup>[[H4847]]</sup></small></small> <span class="ashebrew"><big>׃</big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| u.<small><sup>[[HC]]</sup></small> me.ra.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.15|<< 1 Chronicles 6:15]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.17|1 Chronicles 6:17 >>]]</td></tr></table>
 
 

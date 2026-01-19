@@ -8,30 +8,30 @@ And will walk the nations those being saved through the light of it and the king
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will walk |<span class="asgreek">περιπατήσουσιν</span> <small><sup>[[G4043]]</sup></small> |peripatēsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»6+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὰ</span> <small><sup>[[G3588]]</sup></small> |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| nations |<span class="asgreek">ἔθνη</span> <small><sup>[[G1484]]</sup></small> |ethnē <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| those |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="TR">K</abbr> | |
-| being saved [^1] |<span class="asgreek">σωζομένων</span> <small><sup>[[G4982]]</sup></small> |sōzomenōn <small><sup>[[V-PPP-GPM]]</sup></small> | <abbr title="TR">K</abbr> | |
-| through [^2] |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| the [^3] |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| light [^4] |<span class="asgreek">φωτὸς</span> <small><sup>[[G5457]]</sup></small> |phōtos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| of it |<span class="asgreek">αὐτῆς,</span> <small><sup>[[G0846]]</sup></small> |autēs <small><sup>[[P-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| kings |<span class="asgreek">βασιλεῖς</span> <small><sup>[[G0935]]</sup></small> |basileis <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| earth |<span class="asgreek">γῆς</span> <small><sup>[[G1093G]]</sup></small> |gēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| bring |<span class="asgreek">φέρουσιν</span> <small><sup>[[G5342]]</sup></small> |pherousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the [^5] [^6] |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(O)</abbr> | |
-| glory |<span class="asgreek">δόξαν</span> <small><sup>[[G1391]]</sup></small> |doxan <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="TR">K</abbr> | |
-| honor [^7] |<span class="asgreek">τιμὴν</span> <small><sup>[[G5092]]</sup></small> |timēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| of them [^8] [^9] |<span class="asgreek">αὐτῶν</span> <small><sup>[[G0846]]</sup></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(O)</abbr> | |
-| into |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it. |<span class="asgreek">αὐτήν.</span> <small><sup>[[G0846]]</sup></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will walk |<big><span class="asgreek">περιπατήσουσιν</span></big> <small><small><sup>[[G4043]]</sup></small></small> |peripatēsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»6+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὰ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| nations |<big><span class="asgreek">ἔθνη</span></big> <small><small><sup>[[G1484]]</sup></small></small> |ethnē <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| those |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| being saved [^1] |<big><span class="asgreek">σωζομένων</span></big> <small><small><sup>[[G4982]]</sup></small></small> |sōzomenōn <small><sup>[[V-PPP-GPM]]</sup></small> | <abbr title="TR">K</abbr> | |
+| through [^2] |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| the [^3] |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| light [^4] |<big><span class="asgreek">φωτὸς</span></big> <small><small><sup>[[G5457]]</sup></small></small> |phōtos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| of it |<big><span class="asgreek">αὐτῆς,</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autēs <small><sup>[[P-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| kings |<big><span class="asgreek">βασιλεῖς</span></big> <small><small><sup>[[G0935]]</sup></small></small> |basileis <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| earth |<big><span class="asgreek">γῆς</span></big> <small><small><sup>[[G1093G]]</sup></small></small> |gēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| bring |<big><span class="asgreek">φέρουσιν</span></big> <small><small><sup>[[G5342]]</sup></small></small> |pherousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the [^5] [^6] |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(O)</abbr> | |
+| glory |<big><span class="asgreek">δόξαν</span></big> <small><small><sup>[[G1391]]</sup></small></small> |doxan <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="TR">K</abbr> | |
+| honor [^7] |<big><span class="asgreek">τιμὴν</span></big> <small><small><sup>[[G5092]]</sup></small></small> |timēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| of them [^8] [^9] |<big><span class="asgreek">αὐτῶν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(O)</abbr> | |
+| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it. |<big><span class="asgreek">αὐτήν.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.23|<< Revelation 21:23]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.25|Revelation 21:25 >>]]</td></tr></table>
 
 [^1]: Extra Text:  <span class='asgreek'>**τῶν**</span>   <span class='asgreek'>**σωζομένων**</span>   (<i>tōn sōzomenōn</i>) 'those being saved' is only in traditional manuscripts (TR)

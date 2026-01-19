@@ -8,30 +8,30 @@ Behold therefore [the] kindness and severity of God; upon indeed those having fa
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Behold |<span class="asgreek">Ἴδε</span> <small><sup>[[G2396]]</sup></small> |Ide <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| therefore |<span class="asgreek">οὖν</span> <small><sup>[[G3767]]</sup></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] kindness |<span class="asgreek">χρηστότητα</span> <small><sup>[[G5544]]</sup></small> |chrēstotēta <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| severity |<span class="asgreek">ἀποτομίαν</span> <small><sup>[[G0663]]</sup></small> |apotomian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of God; |<span class="asgreek">θεοῦ·</span> <small><sup>[[G2316]]</sup></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| upon |<span class="asgreek">ἐπὶ</span> <small><sup>[[G1909]]</sup></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| indeed |<span class="asgreek">μὲν</span> <small><sup>[[G3303]]</sup></small> |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| those |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having fallen |<span class="asgreek">πεσόντας</span> <small><sup>[[G4098]]</sup></small> |pesontas <small><sup>[[V-2AAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| severity, [^1] |<span class="asgreek">ἀποτομία,</span> <small><sup>[[G0663]]</sup></small> |apotomia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| toward |<span class="asgreek">ἐπὶ</span> <small><sup>[[G1909]]</sup></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you |<span class="asgreek">σὲ</span> <small><sup>[[G4771]]</sup></small> |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| kindness [^2] |<span class="asgreek">χρηστότης</span> <small><sup>[[G5544]]</sup></small> |chrēstotēs <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| of God, [^3] |<span class="asgreek">θεοῦ,</span> <small><sup>[[G2316]]</sup></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
-| if |<span class="asgreek">ἐὰν</span> <small><sup>[[G1437]]</sup></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you shall continue in [^4] [^5] |<span class="asgreek">ἐπιμένῃς</span> <small><sup>[[G1961]]</sup></small> |epimenēs <small><sup>[[V-PAS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+KJV">NK(O)</abbr> | |
-| the |<span class="asgreek">τῇ</span> <small><sup>[[G3588]]</sup></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| kindness; |<span class="asgreek">χρηστότητι·</span> <small><sup>[[G5544]]</sup></small> |chrēstotēti <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| otherwise |<span class="asgreek">ἐπεὶ</span> <small><sup>[[G1893]]</sup></small> |epei <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| also |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you yourself |<span class="asgreek">σὺ</span> <small><sup>[[G4771]]</sup></small> |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will be cut off. |<span class="asgreek">ἐκκοπήσῃ.</span> <small><sup>[[G1581]]</sup></small> |ekkopēsē <small><sup>[[V-2FPI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Behold |<big><span class="asgreek">Ἴδε</span></big> <small><small><sup>[[G2396]]</sup></small></small> |Ide <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| therefore |<big><span class="asgreek">οὖν</span></big> <small><small><sup>[[G3767]]</sup></small></small> |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] kindness |<big><span class="asgreek">χρηστότητα</span></big> <small><small><sup>[[G5544]]</sup></small></small> |chrēstotēta <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| severity |<big><span class="asgreek">ἀποτομίαν</span></big> <small><small><sup>[[G0663]]</sup></small></small> |apotomian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of God; |<big><span class="asgreek">θεοῦ·</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| upon |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| indeed |<big><span class="asgreek">μὲν</span></big> <small><small><sup>[[G3303]]</sup></small></small> |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| those |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having fallen |<big><span class="asgreek">πεσόντας</span></big> <small><small><sup>[[G4098]]</sup></small></small> |pesontas <small><sup>[[V-2AAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| severity, [^1] |<big><span class="asgreek">ἀποτομία,</span></big> <small><small><sup>[[G0663]]</sup></small></small> |apotomia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| toward |<big><span class="asgreek">ἐπὶ</span></big> <small><small><sup>[[G1909]]</sup></small></small> |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you |<big><span class="asgreek">σὲ</span></big> <small><small><sup>[[G4771]]</sup></small></small> |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| kindness [^2] |<big><span class="asgreek">χρηστότης</span></big> <small><small><sup>[[G5544]]</sup></small></small> |chrēstotēs <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| of God, [^3] |<big><span class="asgreek">θεοῦ,</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
+| if |<big><span class="asgreek">ἐὰν</span></big> <small><small><sup>[[G1437]]</sup></small></small> |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you shall continue in [^4] [^5] |<big><span class="asgreek">ἐπιμένῃς</span></big> <small><small><sup>[[G1961]]</sup></small></small> |epimenēs <small><sup>[[V-PAS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+KJV">NK(O)</abbr> | |
+| the |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| kindness; |<big><span class="asgreek">χρηστότητι·</span></big> <small><small><sup>[[G5544]]</sup></small></small> |chrēstotēti <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| otherwise |<big><span class="asgreek">ἐπεὶ</span></big> <small><small><sup>[[G1893]]</sup></small></small> |epei <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you yourself |<big><span class="asgreek">σὺ</span></big> <small><small><sup>[[G4771]]</sup></small></small> |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will be cut off. |<big><span class="asgreek">ἐκκοπήσῃ.</span></big> <small><small><sup>[[G1581]]</sup></small></small> |ekkopēsē <small><sup>[[V-2FPI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.21|<< Romans 11:21]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.23|Romans 11:23 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: severity | <span class="asgreek">ἀποτομίαν</span><small><sup>[[G0663]]</sup></small> | apotomian<small><sup>[[N-ASF]]</sup></small>

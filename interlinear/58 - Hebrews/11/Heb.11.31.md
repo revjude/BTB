@@ -8,19 +8,19 @@ By faith Rahab the prostitute not did perish with those having disobeyed having 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| By faith |<span class="asgreek">Πίστει</span> <small><sup>[[G4102G]]</sup></small> |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Rahab |<span class="asgreek">Ῥαὰβ</span> <small><sup>[[G4460]]</sup></small> [^1] |Rhaab <small><sup>[[N-NSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| prostitute |<span class="asgreek">πόρνη</span> <small><sup>[[G4204]]</sup></small> |pornē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">οὐ</span> <small><sup>[[G3756]]</sup></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| did perish with |<span class="asgreek">συναπώλετο</span> <small><sup>[[G4881]]</sup></small> |sunapōleto <small><sup>[[V-2AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| those |<span class="asgreek">τοῖς</span> <small><sup>[[G3588]]</sup></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having disobeyed |<span class="asgreek">ἀπειθήσασιν</span> <small><sup>[[G0544]]</sup></small> |apeithēsasin <small><sup>[[V-AAP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having received |<span class="asgreek">δεξαμένη</span> <small><sup>[[G1209]]</sup></small> |dexamenē <small><sup>[[V-ADP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| spies |<span class="asgreek">κατασκόπους</span> <small><sup>[[G2685]]</sup></small> |kataskopous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with |<span class="asgreek">μετ᾽</span> <small><sup>[[G3326]]</sup></small> |met᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| peace. |<span class="asgreek">εἰρήνης.¶</span> <small><sup>[[G1515]]</sup></small> |eirēnēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| By faith |<big><span class="asgreek">Πίστει</span></big> <small><small><sup>[[G4102G]]</sup></small></small> |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Rahab |<big><span class="asgreek">Ῥαὰβ</span></big> <small><small><sup>[[G4460]]</sup></small></small> [^1] |Rhaab <small><sup>[[N-NSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| prostitute |<big><span class="asgreek">πόρνη</span></big> <small><small><sup>[[G4204]]</sup></small></small> |pornē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| did perish with |<big><span class="asgreek">συναπώλετο</span></big> <small><small><sup>[[G4881]]</sup></small></small> |sunapōleto <small><sup>[[V-2AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| those |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having disobeyed |<big><span class="asgreek">ἀπειθήσασιν</span></big> <small><small><sup>[[G0544]]</sup></small></small> |apeithēsasin <small><sup>[[V-AAP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having received |<big><span class="asgreek">δεξαμένη</span></big> <small><small><sup>[[G1209]]</sup></small></small> |dexamenē <small><sup>[[V-ADP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| spies |<big><span class="asgreek">κατασκόπους</span></big> <small><small><sup>[[G2685]]</sup></small></small> |kataskopous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with |<big><span class="asgreek">μετ᾽</span></big> <small><small><sup>[[G3326]]</sup></small></small> |met᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| peace. |<big><span class="asgreek">εἰρήνης.¶</span></big> <small><small><sup>[[G1515]]</sup></small></small> |eirēnēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.30|<< Hebrews 11:30]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.32|Hebrews 11:32 >>]]</td></tr></table>
 
 [^1]: ==Tyn== spelled: ̔<span class='asgreek'>**Ραὰβ**</span>

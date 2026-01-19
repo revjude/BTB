@@ -8,8 +8,8 @@ praise of  David<br><table width="100%" border="0"><tr><td style="border:none;wh
 
 | Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| praise  | <span class="ashebrew"><big>תְּהִלָּ֗ה</big></span><small><sup>[[H8416]]</sup></small> &#8207;| te.hi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of David  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָ֫וִ֥ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| praise  | <span class="ashebrew"><big>תְּהִלָּ֗ה</big></span><small><small><sup>[[H8416]]</sup></small></small> &#8207;| te.hi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of David  | <span class="ashebrew"><big>לְ</big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דָ֫וִ֥ד</big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.15|<< Psalms 144:15]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.1|Psalms 145:1 >>]]</td></tr></table>
 
 

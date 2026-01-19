@@ -8,27 +8,27 @@ do consider the lilies how they grow: Not do they labor nor do they spin. I say 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| do consider |<span class="asgreek">κατανοήσατε</span> <small><sup>[[G2657]]</sup></small> |katanoēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὰ</span> <small><sup>[[G3588]]</sup></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| lilies |<span class="asgreek">κρίνα</span> <small><sup>[[G2918]]</sup></small> |krina <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| how |<span class="asgreek">πῶς</span> <small><sup>[[G4459]]</sup></small> |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they grow: |<span class="asgreek">αὐξάνει·</span> <small><sup>[[G0837]]</sup></small> |auxanei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Not |<span class="asgreek">οὐ</span> <small><sup>[[G3756]]</sup></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do they labor |<span class="asgreek">κοπιᾷ</span> <small><sup>[[G2872]]</sup></small> |kopia <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| nor |<span class="asgreek">οὐδὲ</span> <small><sup>[[G3761]]</sup></small> |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do they spin. |<span class="asgreek">νήθει.</span> <small><sup>[[G3514]]</sup></small> |nēthei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I say |<span class="asgreek">λέγω</span> <small><sup>[[G3004G]]</sup></small> |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to you; |<span class="asgreek">ὑμῖν·</span> <small><sup>[[G4771]]</sup></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not even |<span class="asgreek">οὐδὲ</span> <small><sup>[[G3761]]</sup></small> |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Solomon |<span class="asgreek">Σολομὼν</span> <small><sup>[[G4672G]]</sup></small> |Solomōn <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<span class="asgreek">πάσῃ</span> <small><sup>[[G3956]]</sup></small> |pasē <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῇ</span> <small><sup>[[G3588]]</sup></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| glory |<span class="asgreek">δόξῃ</span> <small><sup>[[G1391]]</sup></small> |doxē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was arrayed |<span class="asgreek">περιεβάλετο</span> <small><sup>[[G4016]]</sup></small> |periebaleto <small><sup>[[V-2AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| as |<span class="asgreek">ὡς</span> <small><sup>[[G5613]]</sup></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| one |<span class="asgreek">ἓν</span> <small><sup>[[G1520]]</sup></small> |hen <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of these. |<span class="asgreek">τούτων.</span> <small><sup>[[G3778]]</sup></small> |toutōn <small><sup>[[D-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do consider |<big><span class="asgreek">κατανοήσατε</span></big> <small><small><sup>[[G2657]]</sup></small></small> |katanoēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὰ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| lilies |<big><span class="asgreek">κρίνα</span></big> <small><small><sup>[[G2918]]</sup></small></small> |krina <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| how |<big><span class="asgreek">πῶς</span></big> <small><small><sup>[[G4459]]</sup></small></small> |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they grow: |<big><span class="asgreek">αὐξάνει·</span></big> <small><small><sup>[[G0837]]</sup></small></small> |auxanei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Not |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do they labor |<big><span class="asgreek">κοπιᾷ</span></big> <small><small><sup>[[G2872]]</sup></small></small> |kopia <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| nor |<big><span class="asgreek">οὐδὲ</span></big> <small><small><sup>[[G3761]]</sup></small></small> |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do they spin. |<big><span class="asgreek">νήθει.</span></big> <small><small><sup>[[G3514]]</sup></small></small> |nēthei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I say |<big><span class="asgreek">λέγω</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to you; |<big><span class="asgreek">ὑμῖν·</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not even |<big><span class="asgreek">οὐδὲ</span></big> <small><small><sup>[[G3761]]</sup></small></small> |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Solomon |<big><span class="asgreek">Σολομὼν</span></big> <small><small><sup>[[G4672G]]</sup></small></small> |Solomōn <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |<big><span class="asgreek">πάσῃ</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pasē <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| glory |<big><span class="asgreek">δόξῃ</span></big> <small><small><sup>[[G1391]]</sup></small></small> |doxē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was arrayed |<big><span class="asgreek">περιεβάλετο</span></big> <small><small><sup>[[G4016]]</sup></small></small> |periebaleto <small><sup>[[V-2AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| as |<big><span class="asgreek">ὡς</span></big> <small><small><sup>[[G5613]]</sup></small></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| one |<big><span class="asgreek">ἓν</span></big> <small><small><sup>[[G1520]]</sup></small></small> |hen <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of these. |<big><span class="asgreek">τούτων.</span></big> <small><small><sup>[[G3778]]</sup></small></small> |toutōn <small><sup>[[D-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.26|<< Luke 12:26]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.28|Luke 12:28 >>]]</td></tr></table>

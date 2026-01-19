@@ -8,21 +8,21 @@ Of itself for the earth brings forth fruit — first a plant then an ear then fu
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Of itself |<span class="asgreek">αὐτομάτη</span> <small><sup>[[G0844]]</sup></small> |automatē <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| the |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| earth |<span class="asgreek">γῆ</span> <small><sup>[[G1093I]]</sup></small> |gē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| brings forth fruit — |<span class="asgreek">καρποφορεῖ</span> <small><sup>[[G2592]]</sup></small> |karpophorei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| first |<span class="asgreek">πρῶτον</span> <small><sup>[[G4413G]]</sup></small> |prōton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a plant |<span class="asgreek">χόρτον</span> <small><sup>[[G5528]]</sup></small> |chorton <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">εἶτα</span> <small><sup>[[G1534]]</sup></small> [^1] |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| an ear |<span class="asgreek">στάχυν</span> <small><sup>[[G4719]]</sup></small> |stachun <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">εἶτα</span> <small><sup>[[G1534]]</sup></small> [^2] |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| full |<span class="asgreek">πλήρης</span> <small><sup>[[G4134]]</sup></small> [^3] |plērēs <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| grain [^4] |<span class="asgreek">σῖτον</span> <small><sup>[[G4621]]</sup></small> |siton <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+TR+Byz">NK(o)</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῷ</span> <small><sup>[[G3588]]</sup></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| ear. |<span class="asgreek">στάχυϊ.</span> <small><sup>[[G4719]]</sup></small> |stachui <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Of itself |<big><span class="asgreek">αὐτομάτη</span></big> <small><small><sup>[[G0844]]</sup></small></small> |automatē <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| earth |<big><span class="asgreek">γῆ</span></big> <small><small><sup>[[G1093I]]</sup></small></small> |gē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| brings forth fruit — |<big><span class="asgreek">καρποφορεῖ</span></big> <small><small><sup>[[G2592]]</sup></small></small> |karpophorei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| first |<big><span class="asgreek">πρῶτον</span></big> <small><small><sup>[[G4413G]]</sup></small></small> |prōton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a plant |<big><span class="asgreek">χόρτον</span></big> <small><small><sup>[[G5528]]</sup></small></small> |chorton <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">εἶτα</span></big> <small><small><sup>[[G1534]]</sup></small></small> [^1] |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| an ear |<big><span class="asgreek">στάχυν</span></big> <small><small><sup>[[G4719]]</sup></small></small> |stachun <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">εἶτα</span></big> <small><small><sup>[[G1534]]</sup></small></small> [^2] |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| full |<big><span class="asgreek">πλήρης</span></big> <small><small><sup>[[G4134]]</sup></small></small> [^3] |plērēs <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| grain [^4] |<big><span class="asgreek">σῖτον</span></big> <small><small><sup>[[G4621]]</sup></small></small> |siton <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+TR+Byz">NK(o)</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῷ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| ear. |<big><span class="asgreek">στάχυϊ.</span></big> <small><small><sup>[[G4719]]</sup></small></small> |stachui <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.27|<< Mark 4:27]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.29|Mark 4:29 >>]]</td></tr></table>
 
 [^1]: ==WH== spelled: <span class='asgreek'>**εἶτεν**</span>

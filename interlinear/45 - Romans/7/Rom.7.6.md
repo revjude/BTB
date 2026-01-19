@@ -8,24 +8,24 @@ Now however we have been released from the law having died to that which we were
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Now |<span class="asgreek">νυνὶ</span> <small><sup>[[G3570]]</sup></small> |nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we have been released |<span class="asgreek">κατηργήθημεν</span> <small><sup>[[G2673]]</sup></small> |katērgēthēmen <small><sup>[[V-API-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">ἀπὸ</span> <small><sup>[[G0575]]</sup></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| law |<span class="asgreek">νόμου</span> <small><sup>[[G3551]]</sup></small> |nomou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having died |<span class="asgreek">ἀποθανόντες</span> <small><sup>[[G0599]]</sup></small> |apothanontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that which |<span class="asgreek">ᾧ</span> <small><sup>[[G3739]]</sup></small> |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we were bound, |<span class="asgreek">κατειχόμεθα,</span> <small><sup>[[G2722]]</sup></small> |kateichometha <small><sup>[[V-IPI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in order for |<span class="asgreek">ὥστε</span> <small><sup>[[G5620]]</sup></small> |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to serve |<span class="asgreek">δουλεύειν</span> <small><sup>[[G1398]]</sup></small> |douleuein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| us |<span class="asgreek">ἡμᾶς</span> <small><sup>[[G3165]]</sup></small> |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| newness |<span class="asgreek">καινότητι</span> <small><sup>[[G2538]]</sup></small> |kainotēti <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of [the] Spirit |<span class="asgreek">πνεύματος</span> <small><sup>[[G4151G]]</sup></small> |pneumatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">οὐ</span> <small><sup>[[G3756]]</sup></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in oldness |<span class="asgreek">παλαιότητι</span> <small><sup>[[G3821]]</sup></small> |palaiotēti <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of [the] letter. |<span class="asgreek">γράμματος.¶</span> <small><sup>[[G1121]]</sup></small> |grammatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Now |<big><span class="asgreek">νυνὶ</span></big> <small><small><sup>[[G3570]]</sup></small></small> |nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we have been released |<big><span class="asgreek">κατηργήθημεν</span></big> <small><small><sup>[[G2673]]</sup></small></small> |katērgēthēmen <small><sup>[[V-API-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">ἀπὸ</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| law |<big><span class="asgreek">νόμου</span></big> <small><small><sup>[[G3551]]</sup></small></small> |nomou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having died |<big><span class="asgreek">ἀποθανόντες</span></big> <small><small><sup>[[G0599]]</sup></small></small> |apothanontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that which |<big><span class="asgreek">ᾧ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we were bound, |<big><span class="asgreek">κατειχόμεθα,</span></big> <small><small><sup>[[G2722]]</sup></small></small> |kateichometha <small><sup>[[V-IPI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in order for |<big><span class="asgreek">ὥστε</span></big> <small><small><sup>[[G5620]]</sup></small></small> |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to serve |<big><span class="asgreek">δουλεύειν</span></big> <small><small><sup>[[G1398]]</sup></small></small> |douleuein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| us |<big><span class="asgreek">ἡμᾶς</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| newness |<big><span class="asgreek">καινότητι</span></big> <small><small><sup>[[G2538]]</sup></small></small> |kainotēti <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of [the] Spirit |<big><span class="asgreek">πνεύματος</span></big> <small><small><sup>[[G4151G]]</sup></small></small> |pneumatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in oldness |<big><span class="asgreek">παλαιότητι</span></big> <small><small><sup>[[G3821]]</sup></small></small> |palaiotēti <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of [the] letter. |<big><span class="asgreek">γράμματος.¶</span></big> <small><small><sup>[[G1121]]</sup></small></small> |grammatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.5|<< Romans 7:5]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.7|Romans 7:7 >>]]</td></tr></table>

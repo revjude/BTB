@@ -4,63 +4,63 @@ And they went out quickly, and fled from the sepulchre; for they trembled and we
 <small><sub>**BSB:**</sub></small>
 So the women left the tomb and ran away, trembling and bewildered. And in their fear they did not say a word to anyone.
 <small><sub>**Literal:**</sub></small>
-And having gone out quickly they fled from the tomb; had for them trembling and amazement. and to no [one] no [thing] they spoke; they were afraid for. (8b) all now the [things] instructed to [those] around \<the> Peter promptly they reported. After now these [things] also Himself \<the> Jesus from [the] east and to [the] west sent out through them the sacred and imperishable preaching \<the> of eternal salvation. Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.7|<< Mark 16:7]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.9|Mark 16:9 >>]]</td></tr></table>
+And having gone out quickly they fled from the tomb; had for them trembling and amazement. and to no [one] no [thing] they spoke; they were afraid for. (8b) all now the [things] instructed to [those] around <the> Peter promptly they reported. After now these [things] also Himself <the> Jesus from [the] east and to [the] west sent out through them the sacred and imperishable preaching <the> of eternal salvation. Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.7|<< Mark 16:7]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.9|Mark 16:9 >>]]</td></tr></table>
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having gone out |<span class="asgreek">ἐξελθοῦσαι</span> <small><sup>[[G1831]]</sup></small> |exelthousai <small><sup>[[V-2AAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| quickly [^1] |<span class="asgreek">ταχὺ</span> <small><sup>[[G5035]]</sup></small> |tachu <small><sup>[[ADV]]</sup></small> | <abbr title="TR">K</abbr> | |
-| they fled |<span class="asgreek">ἔφυγον</span> <small><sup>[[G5343]]</sup></small> |ephugon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">ἀπὸ</span> <small><sup>[[G0575]]</sup></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| tomb; |<span class="asgreek">μνημείου·</span> <small><sup>[[G3419]]</sup></small> |mnēmeiou <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| had |<span class="asgreek">εἶχεν</span> <small><sup>[[G2192]]</sup></small> |eichen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for [^2] |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| them |<span class="asgreek">αὐτὰς</span> <small><sup>[[G0846]]</sup></small> |autas <small><sup>[[P-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| trembling |<span class="asgreek">τρόμος</span> <small><sup>[[G5156]]</sup></small> |tromos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| amazement. |<span class="asgreek">ἔκστασις.</span> <small><sup>[[G1611]]</sup></small> |ekstasis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to no [one] |<span class="asgreek">οὐδενὶ</span> <small><sup>[[G3762]]</sup></small> |oudeni <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| no [thing] |<span class="asgreek">οὐδὲν</span> <small><sup>[[G3762]]</sup></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they spoke; |<span class="asgreek">εἶπαν·</span> <small><sup>[[G2036]]</sup></small> [^3] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they were afraid |<span class="asgreek">ἐφοβοῦντο</span> <small><sup>[[G5399]]</sup></small> |ephobounto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for. |<span class="asgreek">γάρ.¶</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| (8b) all |<span class="asgreek">[[Πάντα</span> <small><sup>[[G3956]]</sup></small> |Panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| the [things] |<span class="asgreek">τὰ</span> <small><sup>[[G3588]]</sup></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| instructed |<span class="asgreek">παρηγγελμένα</span> <small><sup>[[G3853]]</sup></small> |parēngelmena <small><sup>[[V-RPP-APN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| to [those] |<span class="asgreek">τοῖς</span> <small><sup>[[G3588]]</sup></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| around |<span class="asgreek">περὶ</span> <small><sup>[[G4012]]</sup></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| \<the> |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| Peter |<span class="asgreek">Πέτρον</span> <small><sup>[[G4074G]]</sup></small> |Petron <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| promptly |<span class="asgreek">συντόμως</span> <small><sup>[[G4935]]</sup></small> |suntomōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| they reported. |<span class="asgreek">ἐξήγγειλαν.</span> <small><sup>[[G1804]]</sup></small> |exēngeilan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| After |<span class="asgreek">Μετὰ</span> <small><sup>[[G3326]]</sup></small> |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| now |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| these [things] |<span class="asgreek">ταῦτα</span> <small><sup>[[G3778]]</sup></small> |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| also |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| Himself |<span class="asgreek">αὐτὸς</span> <small><sup>[[G0846]]</sup></small> |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| \<the> |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| Jesus |<span class="asgreek">Ἰησοῦς</span> <small><sup>[[G2424G]]</sup></small> |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| from |<span class="asgreek">ἀπὸ</span> <small><sup>[[G0575]]</sup></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| [the] east |<span class="asgreek">ἀνατολῆς</span> <small><sup>[[G0395]]</sup></small> |anatolēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| to |<span class="asgreek">ἄχρι</span> <small><sup>[[G0891]]</sup></small> |achri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| [the] west |<span class="asgreek">δύσεως</span> <small><sup>[[G6091]]</sup></small> |duseōs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| sent out |<span class="asgreek">ἐξαπέστειλεν</span> <small><sup>[[G1821]]</sup></small> |exapesteilen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| through |<span class="asgreek">δι᾽</span> <small><sup>[[G1223]]</sup></small> |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| them |<span class="asgreek">αὐτῶν</span> <small><sup>[[G0846]]</sup></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| sacred |<span class="asgreek">ἱερὸν</span> <small><sup>[[G2411]]</sup></small> |hi'eron <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| imperishable |<span class="asgreek">ἄφθαρτον</span> <small><sup>[[G0862]]</sup></small> |aphtharton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| preaching |<span class="asgreek">κήρυγμα</span> <small><sup>[[G2782]]</sup></small> |kērugma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| \<the> |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| of eternal |<span class="asgreek">αἰωνίου</span> <small><sup>[[G0166]]</sup></small> |aiōniou <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| salvation. |<span class="asgreek">σωτηρίας.</span> <small><sup>[[G4991]]</sup></small> |sōtērias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
-| Amen. [^4] |<span class="asgreek">ἀμήν.¶]]</span> <small><sup>[[G0281]]</sup></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having gone out |<big><span class="asgreek">ἐξελθοῦσαι</span></big> <small><small><sup>[[G1831]]</sup></small></small> |exelthousai <small><sup>[[V-2AAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| quickly [^1] |<big><span class="asgreek">ταχὺ</span></big> <small><small><sup>[[G5035]]</sup></small></small> |tachu <small><sup>[[ADV]]</sup></small> | <abbr title="TR">K</abbr> | |
+| they fled |<big><span class="asgreek">ἔφυγον</span></big> <small><small><sup>[[G5343]]</sup></small></small> |ephugon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">ἀπὸ</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| tomb; |<big><span class="asgreek">μνημείου·</span></big> <small><small><sup>[[G3419]]</sup></small></small> |mnēmeiou <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| had |<big><span class="asgreek">εἶχεν</span></big> <small><small><sup>[[G2192]]</sup></small></small> |eichen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for [^2] |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| them |<big><span class="asgreek">αὐτὰς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autas <small><sup>[[P-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| trembling |<big><span class="asgreek">τρόμος</span></big> <small><small><sup>[[G5156]]</sup></small></small> |tromos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| amazement. |<big><span class="asgreek">ἔκστασις.</span></big> <small><small><sup>[[G1611]]</sup></small></small> |ekstasis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to no [one] |<big><span class="asgreek">οὐδενὶ</span></big> <small><small><sup>[[G3762]]</sup></small></small> |oudeni <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| no [thing] |<big><span class="asgreek">οὐδὲν</span></big> <small><small><sup>[[G3762]]</sup></small></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they spoke; |<big><span class="asgreek">εἶπαν·</span></big> <small><small><sup>[[G2036]]</sup></small></small> [^3] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they were afraid |<big><span class="asgreek">ἐφοβοῦντο</span></big> <small><small><sup>[[G5399]]</sup></small></small> |ephobounto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for. |<big><span class="asgreek">γάρ.¶</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| (8b) all |<big><span class="asgreek">[[Πάντα</span></big> <small><small><sup>[[G3956]]</sup></small></small> |Panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| the [things] |<big><span class="asgreek">τὰ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| instructed |<big><span class="asgreek">παρηγγελμένα</span></big> <small><small><sup>[[G3853]]</sup></small></small> |parēngelmena <small><sup>[[V-RPP-APN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| to [those] |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| around |<big><span class="asgreek">περὶ</span></big> <small><small><sup>[[G4012]]</sup></small></small> |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| \<the> |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| Peter |<big><span class="asgreek">Πέτρον</span></big> <small><small><sup>[[G4074G]]</sup></small></small> |Petron <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| promptly |<big><span class="asgreek">συντόμως</span></big> <small><small><sup>[[G4935]]</sup></small></small> |suntomōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| they reported. |<big><span class="asgreek">ἐξήγγειλαν.</span></big> <small><small><sup>[[G1804]]</sup></small></small> |exēngeilan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| After |<big><span class="asgreek">Μετὰ</span></big> <small><small><sup>[[G3326]]</sup></small></small> |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| now |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| these [things] |<big><span class="asgreek">ταῦτα</span></big> <small><small><sup>[[G3778]]</sup></small></small> |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| Himself |<big><span class="asgreek">αὐτὸς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| \<the> |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| Jesus |<big><span class="asgreek">Ἰησοῦς</span></big> <small><small><sup>[[G2424G]]</sup></small></small> |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| from |<big><span class="asgreek">ἀπὸ</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| [the] east |<big><span class="asgreek">ἀνατολῆς</span></big> <small><small><sup>[[G0395]]</sup></small></small> |anatolēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| to |<big><span class="asgreek">ἄχρι</span></big> <small><small><sup>[[G0891]]</sup></small></small> |achri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| [the] west |<big><span class="asgreek">δύσεως</span></big> <small><small><sup>[[G6091]]</sup></small></small> |duseōs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| sent out |<big><span class="asgreek">ἐξαπέστειλεν</span></big> <small><small><sup>[[G1821]]</sup></small></small> |exapesteilen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| through |<big><span class="asgreek">δι᾽</span></big> <small><small><sup>[[G1223]]</sup></small></small> |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| them |<big><span class="asgreek">αὐτῶν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| sacred |<big><span class="asgreek">ἱερὸν</span></big> <small><small><sup>[[G2411]]</sup></small></small> |hi'eron <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| imperishable |<big><span class="asgreek">ἄφθαρτον</span></big> <small><small><sup>[[G0862]]</sup></small></small> |aphtharton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| preaching |<big><span class="asgreek">κήρυγμα</span></big> <small><small><sup>[[G2782]]</sup></small></small> |kērugma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| \<the> |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| of eternal |<big><span class="asgreek">αἰωνίου</span></big> <small><small><sup>[[G0166]]</sup></small></small> |aiōniou <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| salvation. |<big><span class="asgreek">σωτηρίας.</span></big> <small><small><sup>[[G4991]]</sup></small></small> |sōtērias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
+| Amen. [^4] |<big><span class="asgreek">ἀμήν.¶]]</span></big> <small><small><sup>[[G0281]]</sup></small></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.7|<< Mark 16:7]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.9|Mark 16:9 >>]]</td></tr></table>
 
 [^1]: Extra Text:  <span class='asgreek'>**ταχὺ**</span>  (<i>tachu</i>) 'quickly' is only in traditional manuscripts (TR)

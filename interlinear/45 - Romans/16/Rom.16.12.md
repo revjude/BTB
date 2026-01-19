@@ -8,21 +8,21 @@ do greet Tryphena and Tryphosa those toiling in [the] Lord. do greet Persis the 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| do greet |<span class="asgreek">ἀσπάσασθε</span> <small><sup>[[G0782]]</sup></small> |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Tryphena |<span class="asgreek">Τρύφαιναν</span> <small><sup>[[G5170]]</sup></small> |Truphainan <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Tryphosa |<span class="asgreek">Τρυφῶσαν</span> <small><sup>[[G5173]]</sup></small> |Truphōsan <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| those |<span class="asgreek">τὰς</span> <small><sup>[[G3588]]</sup></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| toiling |<span class="asgreek">κοπιώσας</span> <small><sup>[[G2872]]</sup></small> |kopiōsas <small><sup>[[V-PAP-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in [the] |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Lord. |<span class="asgreek">κυρίῳ.</span> <small><sup>[[G2962G]]</sup></small> |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do greet |<span class="asgreek">ἀσπάσασθε</span> <small><sup>[[G0782]]</sup></small> |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Persis |<span class="asgreek">Περσίδα</span> <small><sup>[[G4069]]</sup></small> |Persida <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| beloved, |<span class="asgreek">ἀγαπητήν,</span> <small><sup>[[G0027]]</sup></small> |agapētēn <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who |<span class="asgreek">ἥτις</span> <small><sup>[[G3748]]</sup></small> |hētis <small><sup>[[R-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| much |<span class="asgreek">πολλὰ</span> <small><sup>[[G4183]]</sup></small> |polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| toiled |<span class="asgreek">ἐκοπίασεν</span> <small><sup>[[G2872]]</sup></small> |ekopiasen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in [the] |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Lord. |<span class="asgreek">κυρίῳ.¶</span> <small><sup>[[G2962G]]</sup></small> |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do greet |<big><span class="asgreek">ἀσπάσασθε</span></big> <small><small><sup>[[G0782]]</sup></small></small> |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Tryphena |<big><span class="asgreek">Τρύφαιναν</span></big> <small><small><sup>[[G5170]]</sup></small></small> |Truphainan <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Tryphosa |<big><span class="asgreek">Τρυφῶσαν</span></big> <small><small><sup>[[G5173]]</sup></small></small> |Truphōsan <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| those |<big><span class="asgreek">τὰς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| toiling |<big><span class="asgreek">κοπιώσας</span></big> <small><small><sup>[[G2872]]</sup></small></small> |kopiōsas <small><sup>[[V-PAP-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in [the] |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Lord. |<big><span class="asgreek">κυρίῳ.</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do greet |<big><span class="asgreek">ἀσπάσασθε</span></big> <small><small><sup>[[G0782]]</sup></small></small> |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Persis |<big><span class="asgreek">Περσίδα</span></big> <small><small><sup>[[G4069]]</sup></small></small> |Persida <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| beloved, |<big><span class="asgreek">ἀγαπητήν,</span></big> <small><small><sup>[[G0027]]</sup></small></small> |agapētēn <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who |<big><span class="asgreek">ἥτις</span></big> <small><small><sup>[[G3748]]</sup></small></small> |hētis <small><sup>[[R-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| much |<big><span class="asgreek">πολλὰ</span></big> <small><small><sup>[[G4183]]</sup></small></small> |polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| toiled |<big><span class="asgreek">ἐκοπίασεν</span></big> <small><small><sup>[[G2872]]</sup></small></small> |ekopiasen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in [the] |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Lord. |<big><span class="asgreek">κυρίῳ.¶</span></big> <small><small><sup>[[G2962G]]</sup></small></small> |kuriō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.11|<< Romans 16:11]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.13|Romans 16:13 >>]]</td></tr></table>

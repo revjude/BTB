@@ -8,22 +8,22 @@ When then you may hear of wars and rumors of wars, not do be disturbed; it must 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| When |<span class="asgreek">ὅταν</span> <small><sup>[[G3752]]</sup></small> |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you may hear of [^1] |<span class="asgreek">ἀκούσητε</span> <small><sup>[[G0191]]</sup></small> |akousēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+TR+Byz">NK(o)</abbr> | |
-| wars |<span class="asgreek">πολέμους</span> <small><sup>[[G4171]]</sup></small> |polemous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| rumors |<span class="asgreek">ἀκοὰς</span> <small><sup>[[G0189]]</sup></small> |akoas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of wars, |<span class="asgreek">πολέμων,</span> <small><sup>[[G4171]]</sup></small> |polemōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">μὴ</span> <small><sup>[[G3361]]</sup></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| do be disturbed; |<span class="asgreek">θροεῖσθε·</span> <small><sup>[[G2360]]</sup></small> |throeisthe <small><sup>[[V-PPM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it must |<span class="asgreek">δεῖ</span> <small><sup>[[G1163]]</sup></small> |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
-| come to pass, |<span class="asgreek">γενέσθαι,</span> <small><sup>[[G1096]]</sup></small> |genesthai <small><sup>[[V-2ADN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| but |<span class="asgreek">ἀλλ᾽</span> <small><sup>[[G0235]]</sup></small> |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not yet [is] |<span class="asgreek">οὔπω</span> <small><sup>[[G3768]]</sup></small> |oupō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸ</span> <small><sup>[[G3588]]</sup></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| end. |<span class="asgreek">τέλος.</span> <small><sup>[[G5056]]</sup></small> |telos <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| When |<big><span class="asgreek">ὅταν</span></big> <small><small><sup>[[G3752]]</sup></small></small> |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you may hear of [^1] |<big><span class="asgreek">ἀκούσητε</span></big> <small><small><sup>[[G0191]]</sup></small></small> |akousēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+TR+Byz">NK(o)</abbr> | |
+| wars |<big><span class="asgreek">πολέμους</span></big> <small><small><sup>[[G4171]]</sup></small></small> |polemous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| rumors |<big><span class="asgreek">ἀκοὰς</span></big> <small><small><sup>[[G0189]]</sup></small></small> |akoas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of wars, |<big><span class="asgreek">πολέμων,</span></big> <small><small><sup>[[G4171]]</sup></small></small> |polemōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">μὴ</span></big> <small><small><sup>[[G3361]]</sup></small></small> |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| do be disturbed; |<big><span class="asgreek">θροεῖσθε·</span></big> <small><small><sup>[[G2360]]</sup></small></small> |throeisthe <small><sup>[[V-PPM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it must |<big><span class="asgreek">δεῖ</span></big> <small><small><sup>[[G1163]]</sup></small></small> |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
+| come to pass, |<big><span class="asgreek">γενέσθαι,</span></big> <small><small><sup>[[G1096]]</sup></small></small> |genesthai <small><sup>[[V-2ADN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| but |<big><span class="asgreek">ἀλλ᾽</span></big> <small><small><sup>[[G0235]]</sup></small></small> |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not yet [is] |<big><span class="asgreek">οὔπω</span></big> <small><small><sup>[[G3768]]</sup></small></small> |oupō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| end. |<big><span class="asgreek">τέλος.</span></big> <small><small><sup>[[G5056]]</sup></small></small> |telos <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.6|<< Mark 13:6]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.8|Mark 13:8 >>]]</td></tr></table>
 
 [^1]: ==Treg==: you do hear of | <span class="asgreek">ἀκούετε</span><small><sup>[[G0191]]</sup></small> | akouete<small><sup>[[V-PAI-2P]]</sup></small>

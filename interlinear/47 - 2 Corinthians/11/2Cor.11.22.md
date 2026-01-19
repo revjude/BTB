@@ -8,16 +8,16 @@ Hebrews are they? I myself also; Israelites are they? I myself also; Descendants
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Hebrews |<span class="asgreek">Ἑβραῖοί</span> <small><sup>[[G1445]]</sup></small> |Hebraioi <small><sup>[[N-NPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are they? |<span class="asgreek">εἰσιν;</span> <small><sup>[[G1510]]</sup></small> |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I myself also; |<span class="asgreek">κἀγώ·</span> <small><sup>[[G1473]]</sup></small> |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Israelites |<span class="asgreek">Ἰσραηλῖταί</span> <small><sup>[[G2475]]</sup></small> [^1] |Israēlitai <small><sup>[[N-NPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are they? |<span class="asgreek">εἰσιν;</span> <small><sup>[[G1510]]</sup></small> |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I myself also; |<span class="asgreek">κἀγώ·</span> <small><sup>[[G1473]]</sup></small> |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Descendants |<span class="asgreek">σπέρμα</span> <small><sup>[[G4690G]]</sup></small> |sperma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Abraham |<span class="asgreek">Ἀβραάμ</span> <small><sup>[[G0011]]</sup></small> [^2] |Abraam <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are they? |<span class="asgreek">εἰσιν;</span> <small><sup>[[G1510]]</sup></small> |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| I myself also; |<span class="asgreek">κἀγώ·</span> <small><sup>[[G1473]]</sup></small> |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Hebrews |<big><span class="asgreek">Ἑβραῖοί</span></big> <small><small><sup>[[G1445]]</sup></small></small> |Hebraioi <small><sup>[[N-NPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are they? |<big><span class="asgreek">εἰσιν;</span></big> <small><small><sup>[[G1510]]</sup></small></small> |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I myself also; |<big><span class="asgreek">κἀγώ·</span></big> <small><small><sup>[[G1473]]</sup></small></small> |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Israelites |<big><span class="asgreek">Ἰσραηλῖταί</span></big> <small><small><sup>[[G2475]]</sup></small></small> [^1] |Israēlitai <small><sup>[[N-NPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are they? |<big><span class="asgreek">εἰσιν;</span></big> <small><small><sup>[[G1510]]</sup></small></small> |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I myself also; |<big><span class="asgreek">κἀγώ·</span></big> <small><small><sup>[[G1473]]</sup></small></small> |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Descendants |<big><span class="asgreek">σπέρμα</span></big> <small><small><sup>[[G4690G]]</sup></small></small> |sperma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Abraham |<big><span class="asgreek">Ἀβραάμ</span></big> <small><small><sup>[[G0011]]</sup></small></small> [^2] |Abraam <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are they? |<big><span class="asgreek">εἰσιν;</span></big> <small><small><sup>[[G1510]]</sup></small></small> |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I myself also; |<big><span class="asgreek">κἀγώ·</span></big> <small><small><sup>[[G1473]]</sup></small></small> |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.21|<< 2 Corinthians 11:21]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.23|2 Corinthians 11:23 >>]]</td></tr></table>
 
 [^1]: ==Tyn+WH== spelled: <span class='asgreek'>**Ἰσραηλεῖταί**</span>

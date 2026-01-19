@@ -8,28 +8,28 @@ Who[ever] for maybe shall desire the life of him to save, will lose it; who[ever
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Who[ever] |<span class="asgreek">ὃς</span> <small><sup>[[G3739]]</sup></small> |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| maybe [^1] |<span class="asgreek">ἂν</span> <small><sup>[[G0302]]</sup></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
-| shall desire |<span class="asgreek">θέλῃ</span> <small><sup>[[G2309]]</sup></small> |thelē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| life |<span class="asgreek">ψυχὴν</span> <small><sup>[[G5590H]]</sup></small> |psuchēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to save, |<span class="asgreek">σῶσαι,</span> <small><sup>[[G4982]]</sup></small> |sōsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will lose |<span class="asgreek">ἀπολέσει</span> <small><sup>[[G0622]]</sup></small> |apolesei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it; |<span class="asgreek">αὐτήν·</span> <small><sup>[[G0846]]</sup></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who[ever] |<span class="asgreek">ὃς</span> <small><sup>[[G3739]]</sup></small> |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δ᾽</span> <small><sup>[[G1161]]</sup></small> |d᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| maybe |<span class="asgreek">ἂν</span> <small><sup>[[G0302]]</sup></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may lose |<span class="asgreek">ἀπολέσῃ</span> <small><sup>[[G0622]]</sup></small> |apolesē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| life |<span class="asgreek">ψυχὴν</span> <small><sup>[[G5590H]]</sup></small> |psuchēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| on account of |<span class="asgreek">ἕνεκεν</span> <small><sup>[[G1752]]</sup></small> |heneken <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| me, |<span class="asgreek">ἐμοῦ,</span> <small><sup>[[G1473]]</sup></small> |emou <small><sup>[[S-1SGSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he |<span class="asgreek">οὗτος</span> <small><sup>[[G3778]]</sup></small> |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will save |<span class="asgreek">σώσει</span> <small><sup>[[G4982]]</sup></small> |sōsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it. |<span class="asgreek">αὐτήν.</span> <small><sup>[[G0846]]</sup></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Who[ever] |<big><span class="asgreek">ὃς</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| maybe [^1] |<big><span class="asgreek">ἂν</span></big> <small><small><sup>[[G0302]]</sup></small></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |
+| shall desire |<big><span class="asgreek">θέλῃ</span></big> <small><small><sup>[[G2309]]</sup></small></small> |thelē <small><sup>[[V-PAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| life |<big><span class="asgreek">ψυχὴν</span></big> <small><small><sup>[[G5590H]]</sup></small></small> |psuchēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to save, |<big><span class="asgreek">σῶσαι,</span></big> <small><small><sup>[[G4982]]</sup></small></small> |sōsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will lose |<big><span class="asgreek">ἀπολέσει</span></big> <small><small><sup>[[G0622]]</sup></small></small> |apolesei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it; |<big><span class="asgreek">αὐτήν·</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who[ever] |<big><span class="asgreek">ὃς</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δ᾽</span></big> <small><small><sup>[[G1161]]</sup></small></small> |d᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| maybe |<big><span class="asgreek">ἂν</span></big> <small><small><sup>[[G0302]]</sup></small></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may lose |<big><span class="asgreek">ἀπολέσῃ</span></big> <small><small><sup>[[G0622]]</sup></small></small> |apolesē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| life |<big><span class="asgreek">ψυχὴν</span></big> <small><small><sup>[[G5590H]]</sup></small></small> |psuchēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| on account of |<big><span class="asgreek">ἕνεκεν</span></big> <small><small><sup>[[G1752]]</sup></small></small> |heneken <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| me, |<big><span class="asgreek">ἐμοῦ,</span></big> <small><small><sup>[[G1473]]</sup></small></small> |emou <small><sup>[[S-1SGSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he |<big><span class="asgreek">οὗτος</span></big> <small><small><sup>[[G3778]]</sup></small></small> |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will save |<big><span class="asgreek">σώσει</span></big> <small><small><sup>[[G4982]]</sup></small></small> |sōsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it. |<big><span class="asgreek">αὐτήν.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autēn <small><sup>[[P-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.23|<< Luke 9:23]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.25|Luke 9:25 >>]]</td></tr></table>
 
 [^1]: ==Byz==: if | <span class="asgreek">ἐὰν</span><small><sup>[[G1437]]</sup></small> | ean<small><sup>[[COND]]</sup></small>

@@ -8,9 +8,9 @@ A song of ascents. Of David. My heart is not proud, O LORD, my eyes are not haug
 
 | Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [the] song of  | <span class="ashebrew"><big>שִׁ֥יר</big></span><small><sup>[[H7892A]]</sup></small> &#8207;| shir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the ascents  | <span class="ashebrew"><big>הַֽ</big></span><small><sup>[[H9009]]</sup></small> <span class="ashebrew"><big>מַּֽעֲל֗וֹת</big></span><small><sup>[[H4609B]]</sup></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ma.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of David  | <span class="ashebrew"><big>לְ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>דָ֫וִ֥ד</big></span><small><sup>[[H1732]]</sup></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] song of  | <span class="ashebrew"><big>שִׁ֥יר</big></span><small><small><sup>[[H7892A]]</sup></small></small> &#8207;| shir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ascents  | <span class="ashebrew"><big>הַֽ</big></span><small><small><sup>[[H9009]]</sup></small></small> <span class="ashebrew"><big>מַּֽעֲל֗וֹת</big></span><small><small><sup>[[H4609B]]</sup></small></small> &#8207;| ha.<small><sup>[[HTd]]</sup></small> ma.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of David  | <span class="ashebrew"><big>לְ</big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>דָ֫וִ֥ד</big></span><small><small><sup>[[H1732]]</sup></small></small> &#8207;| le.<small><sup>[[HR]]</sup></small> Da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.130.8|<< Psalms 130:8]]</td><td align="center" style="border:none;">[[Ps.131|Psalms 131]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.131.1|Psalms 131:1 >>]]</td></tr></table>
 
 

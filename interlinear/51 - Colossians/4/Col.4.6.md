@@ -8,19 +8,19 @@ Let your speech always be gracious, seasoned with salt, so that you may know how
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| [Let] the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| speech |<span class="asgreek">λόγος</span> <small><sup>[[G3056]]</sup></small> |logos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of you |<span class="asgreek">ὑμῶν</span> <small><sup>[[G4771]]</sup></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [be] always |<span class="asgreek">πάντοτε</span> <small><sup>[[G3842]]</sup></small> |pantote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| grace, |<span class="asgreek">χάριτι,</span> <small><sup>[[G5485]]</sup></small> |chariti <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| with salt |<span class="asgreek">ἅλατι</span> <small><sup>[[G0217]]</sup></small> |halati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| seasoned, |<span class="asgreek">ἠρτυμένος,</span> <small><sup>[[G0741]]</sup></small> |ērtumenos <small><sup>[[V-RPP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to  know |<span class="asgreek">εἰδέναι</span> <small><sup>[[G6063]]</sup></small> |eidenai <small><sup>[[V-RAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| how |<span class="asgreek">πῶς</span> <small><sup>[[G4459]]</sup></small> |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it behooves |<span class="asgreek">δεῖ</span> <small><sup>[[G1163]]</sup></small> |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you |<span class="asgreek">ὑμᾶς</span> <small><sup>[[G4771]]</sup></small> |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| one |<span class="asgreek">ἑνὶ</span> <small><sup>[[G1520]]</sup></small> |heni <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| each |<span class="asgreek">ἑκάστῳ</span> <small><sup>[[G1538]]</sup></small> |hekastō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to answer. |<span class="asgreek">ἀποκρίνεσθαι.¶</span> <small><sup>[[G0611]]</sup></small> |apokrinesthai <small><sup>[[V-PNN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [Let] the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| speech |<big><span class="asgreek">λόγος</span></big> <small><small><sup>[[G3056]]</sup></small></small> |logos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of you |<big><span class="asgreek">ὑμῶν</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [be] always |<big><span class="asgreek">πάντοτε</span></big> <small><small><sup>[[G3842]]</sup></small></small> |pantote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| grace, |<big><span class="asgreek">χάριτι,</span></big> <small><small><sup>[[G5485]]</sup></small></small> |chariti <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| with salt |<big><span class="asgreek">ἅλατι</span></big> <small><small><sup>[[G0217]]</sup></small></small> |halati <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| seasoned, |<big><span class="asgreek">ἠρτυμένος,</span></big> <small><small><sup>[[G0741]]</sup></small></small> |ērtumenos <small><sup>[[V-RPP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to  know |<big><span class="asgreek">εἰδέναι</span></big> <small><small><sup>[[G6063]]</sup></small></small> |eidenai <small><sup>[[V-RAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| how |<big><span class="asgreek">πῶς</span></big> <small><small><sup>[[G4459]]</sup></small></small> |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it behooves |<big><span class="asgreek">δεῖ</span></big> <small><small><sup>[[G1163]]</sup></small></small> |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you |<big><span class="asgreek">ὑμᾶς</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| one |<big><span class="asgreek">ἑνὶ</span></big> <small><small><sup>[[G1520]]</sup></small></small> |heni <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| each |<big><span class="asgreek">ἑκάστῳ</span></big> <small><small><sup>[[G1538]]</sup></small></small> |hekastō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to answer. |<big><span class="asgreek">ἀποκρίνεσθαι.¶</span></big> <small><small><sup>[[G0611]]</sup></small></small> |apokrinesthai <small><sup>[[V-PNN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.5|<< Colossians 4:5]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.7|Colossians 4:7 >>]]</td></tr></table>

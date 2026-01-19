@@ -8,31 +8,31 @@ and when it may be sown, it grows up and becomes greater than all the garden pla
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| when |<span class="asgreek">ὅταν</span> <small><sup>[[G3752]]</sup></small> |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it may be sown, |<span class="asgreek">σπαρῇ,</span> <small><sup>[[G4687]]</sup></small> |sparēa <small><sup>[[V-2APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it grows up |<span class="asgreek">ἀναβαίνει</span> <small><sup>[[G0305]]</sup></small> |anabainei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| becomes |<span class="asgreek">γίνεται</span> <small><sup>[[G1096]]</sup></small> [^1] |ginetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| greater [^2] |<span class="asgreek">μεῖζον</span> <small><sup>[[G3173]]</sup></small> |meizon <small><sup>[[A-NSN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
-| than all |<span class="asgreek">πάντων</span> <small><sup>[[G3956]]</sup></small> |pantōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| garden plants |<span class="asgreek">λαχάνων</span> <small><sup>[[G3001]]</sup></small> |lachanōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it produces |<span class="asgreek">ποιεῖ</span> <small><sup>[[G4160G]]</sup></small> |poiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| branches |<span class="asgreek">κλάδους</span> <small><sup>[[G2798]]</sup></small> |kladous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| great |<span class="asgreek">μεγάλους</span> <small><sup>[[G3173]]</sup></small> |megalous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so that |<span class="asgreek">ὥστε</span> <small><sup>[[G5620]]</sup></small> |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to be able |<span class="asgreek">δύνασθαι</span> <small><sup>[[G1410]]</sup></small> |dunasthai <small><sup>[[V-PNN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| under |<span class="asgreek">ὑπὸ</span> <small><sup>[[G5259G]]</sup></small> |hupo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὴν</span> <small><sup>[[G3588]]</sup></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shadow |<span class="asgreek">σκιὰν</span> <small><sup>[[G4639]]</sup></small> |skian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of it |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὰ</span> <small><sup>[[G3588]]</sup></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| birds |<span class="asgreek">πετεινὰ</span> <small><sup>[[G4071]]</sup></small> |peteina <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τοῦ</span> <small><sup>[[G3588]]</sup></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| air |<span class="asgreek">οὐρανοῦ</span> <small><sup>[[G3772]]</sup></small> |ouranou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to perch. |<span class="asgreek">κατασκηνοῦν.¶</span> <small><sup>[[G2681]]</sup></small> [^3] |kataskēnoun <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| when |<big><span class="asgreek">ὅταν</span></big> <small><small><sup>[[G3752]]</sup></small></small> |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it may be sown, |<big><span class="asgreek">σπαρῇ,</span></big> <small><small><sup>[[G4687]]</sup></small></small> |sparēa <small><sup>[[V-2APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it grows up |<big><span class="asgreek">ἀναβαίνει</span></big> <small><small><sup>[[G0305]]</sup></small></small> |anabainei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| becomes |<big><span class="asgreek">γίνεται</span></big> <small><small><sup>[[G1096]]</sup></small></small> [^1] |ginetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| greater [^2] |<big><span class="asgreek">μεῖζον</span></big> <small><small><sup>[[G3173]]</sup></small></small> |meizon <small><sup>[[A-NSN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
+| than all |<big><span class="asgreek">πάντων</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pantōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| garden plants |<big><span class="asgreek">λαχάνων</span></big> <small><small><sup>[[G3001]]</sup></small></small> |lachanōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it produces |<big><span class="asgreek">ποιεῖ</span></big> <small><small><sup>[[G4160G]]</sup></small></small> |poiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| branches |<big><span class="asgreek">κλάδους</span></big> <small><small><sup>[[G2798]]</sup></small></small> |kladous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| great |<big><span class="asgreek">μεγάλους</span></big> <small><small><sup>[[G3173]]</sup></small></small> |megalous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |<big><span class="asgreek">ὥστε</span></big> <small><small><sup>[[G5620]]</sup></small></small> |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to be able |<big><span class="asgreek">δύνασθαι</span></big> <small><small><sup>[[G1410]]</sup></small></small> |dunasthai <small><sup>[[V-PNN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| under |<big><span class="asgreek">ὑπὸ</span></big> <small><small><sup>[[G5259G]]</sup></small></small> |hupo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὴν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shadow |<big><span class="asgreek">σκιὰν</span></big> <small><small><sup>[[G4639]]</sup></small></small> |skian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of it |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὰ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| birds |<big><span class="asgreek">πετεινὰ</span></big> <small><small><sup>[[G4071]]</sup></small></small> |peteina <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τοῦ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| air |<big><span class="asgreek">οὐρανοῦ</span></big> <small><small><sup>[[G3772]]</sup></small></small> |ouranou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to perch. |<big><span class="asgreek">κατασκηνοῦν.¶</span></big> <small><small><sup>[[G2681]]</sup></small></small> [^3] |kataskēnoun <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.31|<< Mark 4:31]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.33|Mark 4:33 >>]]</td></tr></table>
 
 [^1]: ==Tyn== spelled: <span class='asgreek'>**γείνεται**</span>

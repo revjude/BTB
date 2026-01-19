@@ -8,21 +8,21 @@ And He sent messengers before [the] face of Him. And having gone they entered in
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He sent |<span class="asgreek">ἀπέστειλεν</span> <small><sup>[[G0649]]</sup></small> |apesteilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| messengers |<span class="asgreek">ἀγγέλους</span> <small><sup>[[G0032H]]</sup></small> |angelous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| before |<span class="asgreek">πρὸ</span> <small><sup>[[G4253]]</sup></small> |pro <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] face |<span class="asgreek">προσώπου</span> <small><sup>[[G4383]]</sup></small> |prosōpou <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Him. |<span class="asgreek">αὐτοῦ.</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having gone |<span class="asgreek">πορευθέντες</span> <small><sup>[[G4198]]</sup></small> |poreuthentes <small><sup>[[V-AOP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they entered |<span class="asgreek">εἰσῆλθον</span> <small><sup>[[G1525]]</sup></small> |eisēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| into |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a village |<span class="asgreek">κώμην</span> <small><sup>[[G2968]]</sup></small> |kōmēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the Samaritans |<span class="asgreek">Σαμαριτῶν</span> <small><sup>[[G4541]]</sup></small> [^1] |Samaritōn <small><sup>[[N-GPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so as [^2] |<span class="asgreek">ὡς</span> <small><sup>[[G5613]]</sup></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
-| to make ready |<span class="asgreek">ἑτοιμάσαι</span> <small><sup>[[G2090]]</sup></small> |hetoimasai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for Him. |<span class="asgreek">αὐτῷ.</span> <small><sup>[[G0846]]</sup></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He sent |<big><span class="asgreek">ἀπέστειλεν</span></big> <small><small><sup>[[G0649]]</sup></small></small> |apesteilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| messengers |<big><span class="asgreek">ἀγγέλους</span></big> <small><small><sup>[[G0032H]]</sup></small></small> |angelous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| before |<big><span class="asgreek">πρὸ</span></big> <small><small><sup>[[G4253]]</sup></small></small> |pro <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] face |<big><span class="asgreek">προσώπου</span></big> <small><small><sup>[[G4383]]</sup></small></small> |prosōpou <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Him. |<big><span class="asgreek">αὐτοῦ.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having gone |<big><span class="asgreek">πορευθέντες</span></big> <small><small><sup>[[G4198]]</sup></small></small> |poreuthentes <small><sup>[[V-AOP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they entered |<big><span class="asgreek">εἰσῆλθον</span></big> <small><small><sup>[[G1525]]</sup></small></small> |eisēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a village |<big><span class="asgreek">κώμην</span></big> <small><small><sup>[[G2968]]</sup></small></small> |kōmēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the Samaritans |<big><span class="asgreek">Σαμαριτῶν</span></big> <small><small><sup>[[G4541]]</sup></small></small> [^1] |Samaritōn <small><sup>[[N-GPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so as [^2] |<big><span class="asgreek">ὡς</span></big> <small><small><sup>[[G5613]]</sup></small></small> |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
+| to make ready |<big><span class="asgreek">ἑτοιμάσαι</span></big> <small><small><sup>[[G2090]]</sup></small></small> |hetoimasai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for Him. |<big><span class="asgreek">αὐτῷ.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.51|<< Luke 9:51]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.53|Luke 9:53 >>]]</td></tr></table>
 
 [^1]: ==Tyn+WH+TR== spelled: <span class='asgreek'>**Σαμαρειτῶν**</span>

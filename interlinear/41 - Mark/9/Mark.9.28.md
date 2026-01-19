@@ -8,24 +8,24 @@ And when was entering He into a house the disciples of Him in private were askin
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">Καὶ</span> <small><sup>[[G2532]]</sup></small> |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| when was entering [^1] |<span class="asgreek">εἰσελθόντος</span> <small><sup>[[G1525]]</sup></small> |eiselthontos <small><sup>[[V-2AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| He [^2] |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| into |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a house |<span class="asgreek">οἶκον</span> <small><sup>[[G3624G]]</sup></small> |oikon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">οἱ</span> <small><sup>[[G3588]]</sup></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| disciples |<span class="asgreek">μαθηταὶ</span> <small><sup>[[G3101]]</sup></small> |mathētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">κατ᾽</span> <small><sup>[[G2596]]</sup></small> |kat᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| private |<span class="asgreek">ἰδίαν</span> <small><sup>[[G2398]]</sup></small> |idian <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| were asking |<span class="asgreek">ἐπηρώτων</span> <small><sup>[[G1905]]</sup></small> |epērōtōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«3+Byz«3">NKO</abbr> | |
-| Him; |<span class="asgreek">αὐτόν·</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«4+Byz«4">NKO</abbr> | |
-| Why |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| we ourselves |<span class="asgreek">ἡμεῖς</span> <small><sup>[[G3165]]</sup></small> |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not |<span class="asgreek">οὐκ</span> <small><sup>[[G3756]]</sup></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| were able |<span class="asgreek">ἠδυνήθημεν</span> <small><sup>[[G1410]]</sup></small> |ēdunēthēmen <small><sup>[[V-AOI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to cast out |<span class="asgreek">ἐκβαλεῖν</span> <small><sup>[[G1544]]</sup></small> |ekbalein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it? |<span class="asgreek">αὐτό;</span> <small><sup>[[G0846]]</sup></small> |auto <small><sup>[[P-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">Καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| when was entering [^1] |<big><span class="asgreek">εἰσελθόντος</span></big> <small><small><sup>[[G1525]]</sup></small></small> |eiselthontos <small><sup>[[V-2AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| He [^2] |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| into |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a house |<big><span class="asgreek">οἶκον</span></big> <small><small><sup>[[G3624G]]</sup></small></small> |oikon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">οἱ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| disciples |<big><span class="asgreek">μαθηταὶ</span></big> <small><small><sup>[[G3101]]</sup></small></small> |mathētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">κατ᾽</span></big> <small><small><sup>[[G2596]]</sup></small></small> |kat᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| private |<big><span class="asgreek">ἰδίαν</span></big> <small><small><sup>[[G2398]]</sup></small></small> |idian <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were asking |<big><span class="asgreek">ἐπηρώτων</span></big> <small><small><sup>[[G1905]]</sup></small></small> |epērōtōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«3+Byz«3">NKO</abbr> | |
+| Him; |<big><span class="asgreek">αὐτόν·</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR«4+Byz«4">NKO</abbr> | |
+| Why |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| we ourselves |<big><span class="asgreek">ἡμεῖς</span></big> <small><small><sup>[[G3165]]</sup></small></small> |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not |<big><span class="asgreek">οὐκ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were able |<big><span class="asgreek">ἠδυνήθημεν</span></big> <small><small><sup>[[G1410]]</sup></small></small> |ēdunēthēmen <small><sup>[[V-AOI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to cast out |<big><span class="asgreek">ἐκβαλεῖν</span></big> <small><small><sup>[[G1544]]</sup></small></small> |ekbalein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it? |<big><span class="asgreek">αὐτό;</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auto <small><sup>[[P-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.27|<< Mark 9:27]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.29|Mark 9:29 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: coming | <span class="asgreek">εἰσελθόντα</span><small><sup>[[G1525]]</sup></small> | eiselthonta<small><sup>[[V-2AAP-ASM]]</sup></small>

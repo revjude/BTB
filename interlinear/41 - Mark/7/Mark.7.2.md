@@ -8,22 +8,22 @@ And they had seen some of the disciples of Him that with defiled hands, That is 
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they had seen |<span class="asgreek">ἰδόντες</span> <small><sup>[[G1492H]]</sup></small> |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| some |<span class="asgreek">τινὰς</span> <small><sup>[[G5100]]</sup></small> |tinas <small><sup>[[X-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| disciples |<span class="asgreek">μαθητῶν</span> <small><sup>[[G3101]]</sup></small> |mathētōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Him |<span class="asgreek">αὐτοῦ</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
-| with defiled |<span class="asgreek">κοιναῖς</span> <small><sup>[[G2839G]]</sup></small> |koinais <small><sup>[[A-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| hands, |<span class="asgreek">χερσίν,</span> <small><sup>[[G5495]]</sup></small> |chersin <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| That |<span class="asgreek">τοῦτ᾽</span> <small><sup>[[G3778]]</sup></small> |tout᾽ <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn»1+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is |<span class="asgreek">ἔστιν</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| unwashed, |<span class="asgreek">ἀνίπτοις,</span> <small><sup>[[G0449]]</sup></small> |aniptois <small><sup>[[A-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are eating [^1] |<span class="asgreek">ἐσθίουσιν</span> <small><sup>[[G2068]]</sup></small> |esthiousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
-| bread |<span class="asgreek">ἄρτους</span> <small><sup>[[G0740]]</sup></small> |artous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they found fault; [^2] |<span class="asgreek">ἐμέμψαντο·</span> <small><sup>[[G3201]]</sup></small> |emempsanto <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they had seen |<big><span class="asgreek">ἰδόντες</span></big> <small><small><sup>[[G1492H]]</sup></small></small> |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| some |<big><span class="asgreek">τινὰς</span></big> <small><small><sup>[[G5100]]</sup></small></small> |tinas <small><sup>[[X-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| disciples |<big><span class="asgreek">μαθητῶν</span></big> <small><small><sup>[[G3101]]</sup></small></small> |mathētōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Him |<big><span class="asgreek">αὐτοῦ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
+| with defiled |<big><span class="asgreek">κοιναῖς</span></big> <small><small><sup>[[G2839G]]</sup></small></small> |koinais <small><sup>[[A-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| hands, |<big><span class="asgreek">χερσίν,</span></big> <small><small><sup>[[G5495]]</sup></small></small> |chersin <small><sup>[[N-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| That |<big><span class="asgreek">τοῦτ᾽</span></big> <small><small><sup>[[G3778]]</sup></small></small> |tout᾽ <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn»1+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is |<big><span class="asgreek">ἔστιν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| unwashed, |<big><span class="asgreek">ἀνίπτοις,</span></big> <small><small><sup>[[G0449]]</sup></small></small> |aniptois <small><sup>[[A-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are eating [^1] |<big><span class="asgreek">ἐσθίουσιν</span></big> <small><small><sup>[[G2068]]</sup></small></small> |esthiousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
+| bread |<big><span class="asgreek">ἄρτους</span></big> <small><small><sup>[[G0740]]</sup></small></small> |artous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they found fault; [^2] |<big><span class="asgreek">ἐμέμψαντο·</span></big> <small><small><sup>[[G3201]]</sup></small></small> |emempsanto <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.1|<< Mark 7:1]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.3|Mark 7:3 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: are eating | <span class="asgreek">ἐσθίοντας</span><small><sup>[[G2068]]</sup></small> | esthiontas<small><sup>[[V-PAP-APM]]</sup></small>

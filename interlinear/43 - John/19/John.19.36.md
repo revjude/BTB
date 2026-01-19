@@ -8,16 +8,16 @@ Took place for these things so that the Scripture may be fulfilled: Bone not one
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Took place |<span class="asgreek">ἐγένετο</span> <small><sup>[[G1096]]</sup></small> |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| these things |<span class="asgreek">ταῦτα</span> <small><sup>[[G3778]]</sup></small> |tauta <small><sup>[[D-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Scripture |<span class="asgreek">γραφὴ</span> <small><sup>[[G1124]]</sup></small> |graphē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may be fulfilled: |<span class="asgreek">πληρωθῇ·</span> <small><sup>[[G4137]]</sup></small> |plērōthēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Bone |<span class="asgreek">ὀστοῦν</span> <small><sup>[[G3747]]</sup></small> |ostoun <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| not one |<span class="asgreek">οὐ</span> <small><sup>[[G3756]]</sup></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will be broken |<span class="asgreek">συντριβήσεται</span> <small><sup>[[G4937]]</sup></small> |suntribēsetai <small><sup>[[V-2FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">ἀπ᾽</span> <small><sup>[[G0575]]</sup></small> |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="Byz">o</abbr> | |
-| of Him. |<span class="asgreek">αὐτοῦ.</span> <small><sup>[[G0846]]</sup></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Took place |<big><span class="asgreek">ἐγένετο</span></big> <small><small><sup>[[G1096]]</sup></small></small> |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| these things |<big><span class="asgreek">ταῦτα</span></big> <small><small><sup>[[G3778]]</sup></small></small> |tauta <small><sup>[[D-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Scripture |<big><span class="asgreek">γραφὴ</span></big> <small><small><sup>[[G1124]]</sup></small></small> |graphē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may be fulfilled: |<big><span class="asgreek">πληρωθῇ·</span></big> <small><small><sup>[[G4137]]</sup></small></small> |plērōthēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Bone |<big><span class="asgreek">ὀστοῦν</span></big> <small><small><sup>[[G3747]]</sup></small></small> |ostoun <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| not one |<big><span class="asgreek">οὐ</span></big> <small><small><sup>[[G3756]]</sup></small></small> |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will be broken |<big><span class="asgreek">συντριβήσεται</span></big> <small><small><sup>[[G4937]]</sup></small></small> |suntribēsetai <small><sup>[[V-2FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">ἀπ᾽</span></big> <small><small><sup>[[G0575]]</sup></small></small> |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="Byz">o</abbr> | |
+| of Him. |<big><span class="asgreek">αὐτοῦ.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.35|<< John 19:35]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.37|John 19:37 >>]]</td></tr></table>

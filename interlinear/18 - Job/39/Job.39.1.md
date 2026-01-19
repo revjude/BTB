@@ -8,14 +8,14 @@ Knowest thou the time when the wild goats of the rock bring forth? [or] canst th
 
 | Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| ¿ do you know  | <span class="ashebrew"><big>הֲ</big></span><small><sup>[[H9008]]</sup></small> <span class="ashebrew"><big>יָדַ֗עְתָּ</big></span><small><sup>[[H3045]]</sup></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> ya.Da'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] time of  | <span class="ashebrew"><big>עֵ֭ת</big></span><small><sup>[[H6256]]</sup></small> &#8207;| 'et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] bringing forth of  | <span class="ashebrew"><big>לֶ֣דֶת</big></span><small><sup>[[H3205]]</sup></small> &#8207;| Le.det<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mountain goats of  | <span class="ashebrew"><big>יַעֲלֵי</big></span><small><sup>[[H3277H]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ya.'a.lei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rock  | <span class="ashebrew"><big>סָ֑לַע</big></span><small><sup>[[H5553H]]</sup></small> &#8207;| Sa.la'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] giving birth of  | <span class="ashebrew"><big>חֹלֵ֖ל</big></span><small><sup>[[H2342H]]</sup></small> &#8207;| cho.Lel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| does  | <span class="ashebrew"><big>אַיָּל֣וֹת</big></span><small><sup>[[H0355]]</sup></small> &#8207;| 'ai.ya.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| do you watch?  | <span class="ashebrew"><big>תִּשְׁמֹֽר</big></span><small><sup>[[H8104I]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| tish.Mor<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ do you know  | <span class="ashebrew"><big>הֲ</big></span><small><small><sup>[[H9008]]</sup></small></small> <span class="ashebrew"><big>יָדַ֗עְתָּ</big></span><small><small><sup>[[H3045]]</sup></small></small> &#8207;| ha.<small><sup>[[HTi]]</sup></small> ya.Da'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] time of  | <span class="ashebrew"><big>עֵ֭ת</big></span><small><small><sup>[[H6256]]</sup></small></small> &#8207;| 'et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] bringing forth of  | <span class="ashebrew"><big>לֶ֣דֶת</big></span><small><small><sup>[[H3205]]</sup></small></small> &#8207;| Le.det<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mountain goats of  | <span class="ashebrew"><big>יַעֲלֵי</big></span><small><small><sup>[[H3277H]]</sup></small></small> <span class="ashebrew"><big>־</big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ya.'a.lei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rock  | <span class="ashebrew"><big>סָ֑לַע</big></span><small><small><sup>[[H5553H]]</sup></small></small> &#8207;| Sa.la'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] giving birth of  | <span class="ashebrew"><big>חֹלֵ֖ל</big></span><small><small><sup>[[H2342H]]</sup></small></small> &#8207;| cho.Lel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| does  | <span class="ashebrew"><big>אַיָּל֣וֹת</big></span><small><small><sup>[[H0355]]</sup></small></small> &#8207;| 'ai.ya.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| do you watch?  | <span class="ashebrew"><big>תִּשְׁמֹֽר</big></span><small><small><sup>[[H8104I]]</sup></small></small> <span class="ashebrew"><big>׃</big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| tish.Mor<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.41|<< Job 38:41]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.2|Job 39:2 >>]]</td></tr></table>
 
 

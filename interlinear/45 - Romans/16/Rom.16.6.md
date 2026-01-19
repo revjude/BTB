@@ -8,13 +8,13 @@ do greet Mary, who much toiled for you.<br><table width="100%" border="0"><tr><t
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| do greet |<span class="asgreek">ἀσπάσασθε</span> <small><sup>[[G0782]]</sup></small> |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Mary, |<span class="asgreek">Μαρίαν,</span> <small><sup>[[G3137M]]</sup></small> [^1] |Marian <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| who |<span class="asgreek">ἥτις</span> <small><sup>[[G3748]]</sup></small> |hētis <small><sup>[[R-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| much |<span class="asgreek">πολλὰ</span> <small><sup>[[G4183]]</sup></small> |polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| toiled |<span class="asgreek">ἐκοπίασεν</span> <small><sup>[[G2872]]</sup></small> |ekopiasen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you. [^2] [^3] |<span class="asgreek">ὑμᾶς.¶</span> <small><sup>[[G4771]]</sup></small> |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| do greet |<big><span class="asgreek">ἀσπάσασθε</span></big> <small><small><sup>[[G0782]]</sup></small></small> |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Mary, |<big><span class="asgreek">Μαρίαν,</span></big> <small><small><sup>[[G3137M]]</sup></small></small> [^1] |Marian <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| who |<big><span class="asgreek">ἥτις</span></big> <small><small><sup>[[G3748]]</sup></small></small> |hētis <small><sup>[[R-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| much |<big><span class="asgreek">πολλὰ</span></big> <small><small><sup>[[G4183]]</sup></small></small> |polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| toiled |<big><span class="asgreek">ἐκοπίασεν</span></big> <small><small><sup>[[G2872]]</sup></small></small> |ekopiasen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you. [^2] [^3] |<big><span class="asgreek">ὑμᾶς.¶</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.5|<< Romans 16:5]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.7|Romans 16:7 >>]]</td></tr></table>
 
 [^1]: ==SBL+TR+Byz== spelled: <span class='asgreek'>**Μαριάμ**</span>

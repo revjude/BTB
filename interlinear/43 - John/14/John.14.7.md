@@ -8,23 +8,23 @@ If you have known Me, also the Father of Mine then you will know; and from now y
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| If |<span class="asgreek">εἰ</span> <small><sup>[[G1487G]]</sup></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you have known [^1] |<span class="asgreek">ἐγνώκατέ</span> <small><sup>[[G1097]]</sup></small> |egnōkate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27">N(k)O</abbr> | |
-| Me, |<span class="asgreek">με,</span> <small><sup>[[G3165]]</sup></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| also |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τὸν</span> <small><sup>[[G3588]]</sup></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Father |<span class="asgreek">πατέρα</span> <small><sup>[[G3962]]</sup></small> |patera <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Mine |<span class="asgreek">μου</span> <small><sup>[[G3165]]</sup></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">ἂν</span> <small><sup>[[G0302]]</sup></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="Tyn+SBL+WH+Treg+TR»1+Byz»1">ko</abbr> | |
-| you will know; [^2] [^3] |<span class="asgreek">γνώσεσθε·</span> <small><sup>[[G1097]]</sup></small> |gnōsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27">N(k)(o)</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">ἀπ᾽</span> <small><sup>[[G0575]]</sup></small> |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn»1+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |<span class="asgreek">ἄρτι</span> <small><sup>[[G0737]]</sup></small> |arti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you know |<span class="asgreek">γινώσκετε</span> <small><sup>[[G1097]]</sup></small> [^4] |ginōskete <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him |<span class="asgreek">αὐτὸν</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you have seen |<span class="asgreek">ἑωράκατε</span> <small><sup>[[G3708]]</sup></small> |he'ōrakate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Him. |<span class="asgreek">αὐτόν.</span> <small><sup>[[G0846]]</sup></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
+| If |<big><span class="asgreek">εἰ</span></big> <small><small><sup>[[G1487G]]</sup></small></small> |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you have known [^1] |<big><span class="asgreek">ἐγνώκατέ</span></big> <small><small><sup>[[G1097]]</sup></small></small> |egnōkate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27">N(k)O</abbr> | |
+| Me, |<big><span class="asgreek">με,</span></big> <small><small><sup>[[G3165]]</sup></small></small> |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| also |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τὸν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Father |<big><span class="asgreek">πατέρα</span></big> <small><small><sup>[[G3962]]</sup></small></small> |patera <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Mine |<big><span class="asgreek">μου</span></big> <small><small><sup>[[G3165]]</sup></small></small> |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">ἂν</span></big> <small><small><sup>[[G0302]]</sup></small></small> |an <small><sup>[[PRT]]</sup></small> | <abbr title="Tyn+SBL+WH+Treg+TR»1+Byz»1">ko</abbr> | |
+| you will know; [^2] [^3] |<big><span class="asgreek">γνώσεσθε·</span></big> <small><small><sup>[[G1097]]</sup></small></small> |gnōsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27">N(k)(o)</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">ἀπ᾽</span></big> <small><small><sup>[[G0575]]</sup></small></small> |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn»1+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |<big><span class="asgreek">ἄρτι</span></big> <small><small><sup>[[G0737]]</sup></small></small> |arti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you know |<big><span class="asgreek">γινώσκετε</span></big> <small><small><sup>[[G1097]]</sup></small></small> [^4] |ginōskete <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him |<big><span class="asgreek">αὐτὸν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you have seen |<big><span class="asgreek">ἑωράκατε</span></big> <small><small><sup>[[G3708]]</sup></small></small> |he'ōrakate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Him. |<big><span class="asgreek">αὐτόν.</span></big> <small><small><sup>[[G0846]]</sup></small></small> |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.6|<< John 14:6]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.8|John 14:8 >>]]</td></tr></table>
 
 [^1]: ==Tyn+SBL+WH+Treg+TR+Byz==: you had known | <span class="asgreek">ἐγνώκειτέ</span><small><sup>[[G1097]]</sup></small> | egnōkeite<small><sup>[[V-LAI-2P]]</sup></small>

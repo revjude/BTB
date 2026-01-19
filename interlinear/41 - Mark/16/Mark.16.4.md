@@ -8,17 +8,17 @@ And having looked up they see that has been rolled away the stone; it was for la
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having looked up |<span class="asgreek">ἀναβλέψασαι</span> <small><sup>[[G0308]]</sup></small> |anablepsasai <small><sup>[[V-AAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they see |<span class="asgreek">θεωροῦσιν</span> <small><sup>[[G2334]]</sup></small> |theōrousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that |<span class="asgreek">ὅτι</span> <small><sup>[[G3754G]]</sup></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| has been rolled away |<span class="asgreek">ἀποκεκύλισται</span> <small><sup>[[G0617]]</sup></small> [^1] |apokekulistai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| stone; |<span class="asgreek">λίθος·</span> <small><sup>[[G3037]]</sup></small> |lithos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| it was |<span class="asgreek">ἦν</span> <small><sup>[[G1510]]</sup></small> |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">γὰρ</span> <small><sup>[[G1063]]</sup></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| large |<span class="asgreek">μέγας</span> <small><sup>[[G3173]]</sup></small> |megas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| extremely. |<span class="asgreek">σφόδρα.</span> <small><sup>[[G4970]]</sup></small> |sphodra <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having looked up |<big><span class="asgreek">ἀναβλέψασαι</span></big> <small><small><sup>[[G0308]]</sup></small></small> |anablepsasai <small><sup>[[V-AAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they see |<big><span class="asgreek">θεωροῦσιν</span></big> <small><small><sup>[[G2334]]</sup></small></small> |theōrousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that |<big><span class="asgreek">ὅτι</span></big> <small><small><sup>[[G3754G]]</sup></small></small> |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| has been rolled away |<big><span class="asgreek">ἀποκεκύλισται</span></big> <small><small><sup>[[G0617]]</sup></small></small> [^1] |apokekulistai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| stone; |<big><span class="asgreek">λίθος·</span></big> <small><small><sup>[[G3037]]</sup></small></small> |lithos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| it was |<big><span class="asgreek">ἦν</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">γὰρ</span></big> <small><small><sup>[[G1063]]</sup></small></small> |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| large |<big><span class="asgreek">μέγας</span></big> <small><small><sup>[[G3173]]</sup></small></small> |megas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| extremely. |<big><span class="asgreek">σφόδρα.</span></big> <small><small><sup>[[G4970]]</sup></small></small> |sphodra <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.3|<< Mark 16:3]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.5|Mark 16:5 >>]]</td></tr></table>
 
 [^1]: ==WH+Treg== spelled: <span class='asgreek'>**ἀνακεκύλισται**</span>

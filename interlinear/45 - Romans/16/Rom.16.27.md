@@ -4,36 +4,36 @@ To God only wise, [be] glory through Jesus Christ for ever. Amen.
 <small><sub>**BSB:**</sub></small>
 to the only wise God be glory forever through Jesus Christ! Amen.
 <small><sub>**Literal:**</sub></small>
-{14.26} [to the] only wise God through Jesus Christ which [is] [be] the glory to the ages Amen to Romans it was written from Corinth through Phoebe the servant \<the> in Cenchrea church.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.26|<< Romans 16:26]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.1|1 Corinthians 1:1 >>]]</td></tr></table>
+{14.26} [to the] only wise God through Jesus Christ which [is] [be] the glory to the ages Amen to Romans it was written from Corinth through Phoebe the servant <the> in Cenchrea church.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.26|<< Romans 16:26]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.1|1 Corinthians 1:1 >>]]</td></tr></table>
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| {14.26} [to the] only |<span class="asgreek">μόνῳ</span> <small><sup>[[G3441]]</sup></small> |monō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^1] | |
-| wise |<span class="asgreek">σοφῷ</span> <small><sup>[[G4680]]</sup></small> |sophō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^2] | |
-| God |<span class="asgreek">θεῷ</span> <small><sup>[[G2316]]</sup></small> |theō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^3] | |
-| through |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^4] | |
-| Jesus |<span class="asgreek">Ἰησοῦ</span> <small><sup>[[G2424G]]</sup></small> |Iēsou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^5] | |
-| Christ |<span class="asgreek">Χριστοῦ,</span> <small><sup>[[G5547]]</sup></small> |Christou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^6] | |
-| which [is] |<span class="asgreek">ᾧ</span> <small><sup>[[G3739]]</sup></small> |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^7] | |
-| [be] the |<span class="asgreek">ἡ</span> <small><sup>[[G3588]]</sup></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^8] | |
-| glory |<span class="asgreek">δόξα</span> <small><sup>[[G1391]]</sup></small> |doxa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^9] | |
-| to |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^10] | |
-| the |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^11] | |
-| ages |<span class="asgreek">αἰῶνας,</span> <small><sup>[[G0165H]]</sup></small> |aiōnas <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^12] | |
-| Amen |<span class="asgreek">ἀμήν</span> <small><sup>[[G0281]]</sup></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^13] | |
-| to |<span class="asgreek">πρός</span> <small><sup>[[G4314]]</sup></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^14] | |
-| Romans |<span class="asgreek">Ῥωμαίους</span> <small><sup>[[G4514]]</sup></small> |Rhōmaious <small><sup>[[N-APM-LG]]</sup></small> | <abbr title="TR">K</abbr>[^15] | |
-| it was written |<span class="asgreek">ἐγράφη</span> <small><sup>[[G1125]]</sup></small> |egraphē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="TR">K</abbr>[^16] | |
-| from |<span class="asgreek">ἀπό</span> <small><sup>[[G0575]]</sup></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^17] | |
-| Corinth |<span class="asgreek">Κορίνθου</span> <small><sup>[[G2882]]</sup></small> |Korinthou <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="TR">K</abbr>[^18] | |
-| through |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^19] | |
-| Phoebe |<span class="asgreek">φοίβης</span> <small><sup>[[G5402]]</sup></small> |phoibēs <small><sup>[[N-GSF-P]]</sup></small> | <abbr title="TR">K</abbr>[^20] | |
-| the |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="TR">K</abbr>[^21] | |
-| servant |<span class="asgreek">διακόνου</span> <small><sup>[[G1249]]</sup></small> |diakonou <small><sup>[[N-GSF]]</sup></small> | <abbr title="TR">K</abbr>[^22] | |
-| \<the> |<span class="asgreek">τῆς</span> <small><sup>[[G3588]]</sup></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="TR">K</abbr>[^23] | |
-| in |<span class="asgreek">ἕν</span> <small><sup>[[G1722]]</sup></small> |hen <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^24] | |
-| Cenchrea |<span class="asgreek">Κεγχρεαῖς</span> <small><sup>[[G2747]]</sup></small> |Kegchreais <small><sup>[[N-DPF-L]]</sup></small> | <abbr title="TR">K</abbr>[^25] | |
-| church. [^26] |<span class="asgreek">ἐκκλησίας.¶</span> <small><sup>[[G1577]]</sup></small> |ekklēsias <small><sup>[[N-GSF]]</sup></small> | <abbr title="TR">K</abbr>[^27] | |
+| {14.26} [to the] only |<big><span class="asgreek">μόνῳ</span></big> <small><small><sup>[[G3441]]</sup></small></small> |monō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^1] | |
+| wise |<big><span class="asgreek">σοφῷ</span></big> <small><small><sup>[[G4680]]</sup></small></small> |sophō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^2] | |
+| God |<big><span class="asgreek">θεῷ</span></big> <small><small><sup>[[G2316]]</sup></small></small> |theō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^3] | |
+| through |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^4] | |
+| Jesus |<big><span class="asgreek">Ἰησοῦ</span></big> <small><small><sup>[[G2424G]]</sup></small></small> |Iēsou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^5] | |
+| Christ |<big><span class="asgreek">Χριστοῦ,</span></big> <small><small><sup>[[G5547]]</sup></small></small> |Christou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^6] | |
+| which [is] |<big><span class="asgreek">ᾧ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^7] | |
+| [be] the |<big><span class="asgreek">ἡ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^8] | |
+| glory |<big><span class="asgreek">δόξα</span></big> <small><small><sup>[[G1391]]</sup></small></small> |doxa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^9] | |
+| to |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^10] | |
+| the |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^11] | |
+| ages |<big><span class="asgreek">αἰῶνας,</span></big> <small><small><sup>[[G0165H]]</sup></small></small> |aiōnas <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^12] | |
+| Amen |<big><span class="asgreek">ἀμήν</span></big> <small><small><sup>[[G0281]]</sup></small></small> |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^13] | |
+| to |<big><span class="asgreek">πρός</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^14] | |
+| Romans |<big><span class="asgreek">Ῥωμαίους</span></big> <small><small><sup>[[G4514]]</sup></small></small> |Rhōmaious <small><sup>[[N-APM-LG]]</sup></small> | <abbr title="TR">K</abbr>[^15] | |
+| it was written |<big><span class="asgreek">ἐγράφη</span></big> <small><small><sup>[[G1125]]</sup></small></small> |egraphē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="TR">K</abbr>[^16] | |
+| from |<big><span class="asgreek">ἀπό</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^17] | |
+| Corinth |<big><span class="asgreek">Κορίνθου</span></big> <small><small><sup>[[G2882]]</sup></small></small> |Korinthou <small><sup>[[N-GSF-L]]</sup></small> | <abbr title="TR">K</abbr>[^18] | |
+| through |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^19] | |
+| Phoebe |<big><span class="asgreek">φοίβης</span></big> <small><small><sup>[[G5402]]</sup></small></small> |phoibēs <small><sup>[[N-GSF-P]]</sup></small> | <abbr title="TR">K</abbr>[^20] | |
+| the |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="TR">K</abbr>[^21] | |
+| servant |<big><span class="asgreek">διακόνου</span></big> <small><small><sup>[[G1249]]</sup></small></small> |diakonou <small><sup>[[N-GSF]]</sup></small> | <abbr title="TR">K</abbr>[^22] | |
+| \<the> |<big><span class="asgreek">τῆς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="TR">K</abbr>[^23] | |
+| in |<big><span class="asgreek">ἕν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |hen <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr>[^24] | |
+| Cenchrea |<big><span class="asgreek">Κεγχρεαῖς</span></big> <small><small><sup>[[G2747]]</sup></small></small> |Kegchreais <small><sup>[[N-DPF-L]]</sup></small> | <abbr title="TR">K</abbr>[^25] | |
+| church. [^26] |<big><span class="asgreek">ἐκκλησίας.¶</span></big> <small><small><sup>[[G1577]]</sup></small></small> |ekklēsias <small><sup>[[N-GSF]]</sup></small> | <abbr title="TR">K</abbr>[^27] | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.26|<< Romans 16:26]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.1|1 Corinthians 1:1 >>]]</td></tr></table>
 
 [^1]: In other versions this word occurs in verse 14.26

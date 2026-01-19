@@ -8,19 +8,19 @@ Having continued then a time they were sent away in peace from the brothers to t
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Having continued |<span class="asgreek">ποιήσαντες</span> <small><sup>[[G4160J]]</sup></small> |poiēsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a time |<span class="asgreek">χρόνον</span> <small><sup>[[G5550]]</sup></small> |chronon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they were sent away |<span class="asgreek">ἀπελύθησαν</span> <small><sup>[[G0630G]]</sup></small> |apeluthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">μετ᾽</span> <small><sup>[[G3326]]</sup></small> |met᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| peace |<span class="asgreek">εἰρήνης</span> <small><sup>[[G1515]]</sup></small> |eirēnēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">ἀπὸ</span> <small><sup>[[G0575]]</sup></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">τῶν</span> <small><sup>[[G3588]]</sup></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| brothers |<span class="asgreek">ἀδελφῶν</span> <small><sup>[[G0080]]</sup></small> |adelphōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">πρὸς</span> <small><sup>[[G4314]]</sup></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| those |<span class="asgreek">τοὺς</span> <small><sup>[[G3588]]</sup></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having sent [^1] [^2] |<span class="asgreek">ἀποστείλαντας</span> <small><sup>[[G0649]]</sup></small> |aposteilantas <small><sup>[[V-AAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| them. |<span class="asgreek">αὐτούς.¶</span> <small><sup>[[G0846]]</sup></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
+| Having continued |<big><span class="asgreek">ποιήσαντες</span></big> <small><small><sup>[[G4160J]]</sup></small></small> |poiēsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a time |<big><span class="asgreek">χρόνον</span></big> <small><small><sup>[[G5550]]</sup></small></small> |chronon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they were sent away |<big><span class="asgreek">ἀπελύθησαν</span></big> <small><small><sup>[[G0630G]]</sup></small></small> |apeluthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">μετ᾽</span></big> <small><small><sup>[[G3326]]</sup></small></small> |met᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| peace |<big><span class="asgreek">εἰρήνης</span></big> <small><small><sup>[[G1515]]</sup></small></small> |eirēnēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">ἀπὸ</span></big> <small><small><sup>[[G0575]]</sup></small></small> |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">τῶν</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| brothers |<big><span class="asgreek">ἀδελφῶν</span></big> <small><small><sup>[[G0080]]</sup></small></small> |adelphōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">πρὸς</span></big> <small><small><sup>[[G4314]]</sup></small></small> |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| those |<big><span class="asgreek">τοὺς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having sent [^1] [^2] |<big><span class="asgreek">ἀποστείλαντας</span></big> <small><small><sup>[[G0649]]</sup></small></small> |aposteilantas <small><sup>[[V-AAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| them. |<big><span class="asgreek">αὐτούς.¶</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.32|<< Acts 15:32]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.34|Acts 15:34 >>]]</td></tr></table>
 
 [^1]: Variant:  <span class='asgreek'>**ἀποστόλους**</span>  (<i>apostolous</i>) 'apostles' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**ἀποστείλαντας**</span>  (<i>aposteilantas</i>) 'having sent' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)

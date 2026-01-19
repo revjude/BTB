@@ -8,26 +8,26 @@ On the and following day he appeared to those who were quarreling and was reconc
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| On the |<span class="asgreek">τῇ</span> <small><sup>[[G3588]]</sup></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">τε</span> <small><sup>[[G5037]]</sup></small> |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| following |<span class="asgreek">ἐπιούσῃ</span> <small><sup>[[G1966]]</sup></small> |epiousē <small><sup>[[V-PAP-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| day |<span class="asgreek">ἡμέρᾳ</span> <small><sup>[[G2250]]</sup></small> |hēmera <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he appeared |<span class="asgreek">ὤφθη</span> <small><sup>[[G3700H]]</sup></small> |ōphthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to those who |<span class="asgreek">αὐτοῖς</span> <small><sup>[[G0846]]</sup></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| were quarreling |<span class="asgreek">μαχομένοις</span> <small><sup>[[G3164]]</sup></small> |machomenois <small><sup>[[V-PNP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was reconciling [^1] [^2] |<span class="asgreek">συνήλλασσεν</span> <small><sup>[[G9996]]</sup></small> |sunēllassen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| them |<span class="asgreek">αὐτοὺς</span> <small><sup>[[G0846]]</sup></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |<span class="asgreek">εἰς</span> <small><sup>[[G1519]]</sup></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| peace |<span class="asgreek">εἰρήνην</span> <small><sup>[[G1515]]</sup></small> |eirēnēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having said: |<span class="asgreek">εἰπών·</span> <small><sup>[[G2036]]</sup></small> |eipōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Men, |<span class="asgreek">ἄνδρες,</span> <small><sup>[[G0435G]]</sup></small> |andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| brothers |<span class="asgreek">ἀδελφοί</span> <small><sup>[[G0080]]</sup></small> |adelphoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| are |<span class="asgreek">ἐστε</span> <small><sup>[[G1510]]</sup></small> |este <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you yourselves; |<span class="asgreek">ὑμεῖς·</span> <small><sup>[[G4771]]</sup></small> |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| why |<span class="asgreek">ἱνατί</span> <small><sup>[[G2443]]</sup></small> |hinati <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| wrong |<span class="asgreek">ἀδικεῖτε</span> <small><sup>[[G0091]]</sup></small> |adikeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| one another? |<span class="asgreek">ἀλλήλους;</span> <small><sup>[[G0240]]</sup></small> |allēlous <small><sup>[[C-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| On the |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">τε</span></big> <small><small><sup>[[G5037]]</sup></small></small> |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| following |<big><span class="asgreek">ἐπιούσῃ</span></big> <small><small><sup>[[G1966]]</sup></small></small> |epiousē <small><sup>[[V-PAP-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| day |<big><span class="asgreek">ἡμέρᾳ</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmera <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he appeared |<big><span class="asgreek">ὤφθη</span></big> <small><small><sup>[[G3700H]]</sup></small></small> |ōphthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to those who |<big><span class="asgreek">αὐτοῖς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| were quarreling |<big><span class="asgreek">μαχομένοις</span></big> <small><small><sup>[[G3164]]</sup></small></small> |machomenois <small><sup>[[V-PNP-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was reconciling [^1] [^2] |<big><span class="asgreek">συνήλλασσεν</span></big> <small><small><sup>[[G9996]]</sup></small></small> |sunēllassen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| them |<big><span class="asgreek">αὐτοὺς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |<big><span class="asgreek">εἰς</span></big> <small><small><sup>[[G1519]]</sup></small></small> |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| peace |<big><span class="asgreek">εἰρήνην</span></big> <small><small><sup>[[G1515]]</sup></small></small> |eirēnēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having said: |<big><span class="asgreek">εἰπών·</span></big> <small><small><sup>[[G2036]]</sup></small></small> |eipōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Men, |<big><span class="asgreek">ἄνδρες,</span></big> <small><small><sup>[[G0435G]]</sup></small></small> |andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| brothers |<big><span class="asgreek">ἀδελφοί</span></big> <small><small><sup>[[G0080]]</sup></small></small> |adelphoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| are |<big><span class="asgreek">ἐστε</span></big> <small><small><sup>[[G1510]]</sup></small></small> |este <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you yourselves; |<big><span class="asgreek">ὑμεῖς·</span></big> <small><small><sup>[[G4771]]</sup></small></small> |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
+| why |<big><span class="asgreek">ἱνατί</span></big> <small><small><sup>[[G2443]]</sup></small></small> |hinati <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| wrong |<big><span class="asgreek">ἀδικεῖτε</span></big> <small><small><sup>[[G0091]]</sup></small></small> |adikeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| one another? |<big><span class="asgreek">ἀλλήλους;</span></big> <small><small><sup>[[G0240]]</sup></small></small> |allēlous <small><sup>[[C-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.25|<< Acts 7:25]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.27|Acts 7:27 >>]]</td></tr></table>
 
 [^1]: Variant:  <span class='asgreek'>**συνήλασεν**</span>  (<i>sunēlasen</i>) 'brought together' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**συνήλλασσεν**</span>  (<i>sunēllassen</i>) 'was reconciling' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)

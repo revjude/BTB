@@ -8,8 +8,8 @@ a song of the  ascents<br><table width="100%" border="0"><tr><td style="border:n
 
 | Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| a song  | <span class="ashebrew"><big>שִׁ֗יר</big></span><small><sup>[[H7892A]]</sup></small> &#8207;| Shir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of the ascents  | <span class="ashebrew"><big>לַֽ</big></span><small><sup>[[H9005]]</sup></small> <span class="ashebrew"><big>מַּ֫עֲל֥וֹת</big></span><small><sup>[[H4609B]]</sup></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Ma.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a song  | <span class="ashebrew"><big>שִׁ֗יר</big></span><small><small><sup>[[H7892A]]</sup></small></small> &#8207;| Shir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the ascents  | <span class="ashebrew"><big>לַֽ</big></span><small><small><sup>[[H9005]]</sup></small></small> <span class="ashebrew"><big>מַּ֫עֲל֥וֹת</big></span><small><small><sup>[[H4609B]]</sup></small></small> &#8207;| la.<small><sup>[[HRd]]</sup></small> Ma.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.120.7|<< Psalms 120:7]]</td><td align="center" style="border:none;">[[Ps.121|Psalms 121]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.121.1|Psalms 121:1 >>]]</td></tr></table>
 
 

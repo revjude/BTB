@@ -8,21 +8,21 @@ Even as You gave to Him authority over all flesh, so that all whom You have give
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Even as |<span class="asgreek">καθὼς</span> <small><sup>[[G2531]]</sup></small> |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| You gave |<span class="asgreek">ἔδωκας</span> <small><sup>[[G1325]]</sup></small> |edōkas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to Him |<span class="asgreek">αὐτῷ</span> <small><sup>[[G0846]]</sup></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| authority |<span class="asgreek">ἐξουσίαν</span> <small><sup>[[G1849]]</sup></small> |exousian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| over all |<span class="asgreek">πάσης</span> <small><sup>[[G3956]]</sup></small> |pasēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| flesh, |<span class="asgreek">σαρκός,</span> <small><sup>[[G4561]]</sup></small> |sarkos <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| so that |<span class="asgreek">ἵνα</span> <small><sup>[[G2443]]</sup></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| all |<span class="asgreek">πᾶν</span> <small><sup>[[G3956]]</sup></small> |pan <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| whom |<span class="asgreek">ὃ</span> <small><sup>[[G3739]]</sup></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| You have given |<span class="asgreek">δέδωκας</span> <small><sup>[[G1325]]</sup></small> |dedōkas <small><sup>[[V-RAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to Him, |<span class="asgreek">αὐτῷ,</span> <small><sup>[[G0846]]</sup></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He may give [^1] |<span class="asgreek">δώσῃ</span> <small><sup>[[G1325]]</sup></small> |dōsē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+SBL+Treg+TR">NK(o)</abbr> | |
-| to them |<span class="asgreek">αὐτοῖς</span> <small><sup>[[G0846]]</sup></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| life |<span class="asgreek">ζωὴν</span> <small><sup>[[G2222]]</sup></small> |zōēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| eternal. |<span class="asgreek">αἰώνιον.</span> <small><sup>[[G0166]]</sup></small> |aiōnion <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Even as |<big><span class="asgreek">καθὼς</span></big> <small><small><sup>[[G2531]]</sup></small></small> |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You gave |<big><span class="asgreek">ἔδωκας</span></big> <small><small><sup>[[G1325]]</sup></small></small> |edōkas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to Him |<big><span class="asgreek">αὐτῷ</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| authority |<big><span class="asgreek">ἐξουσίαν</span></big> <small><small><sup>[[G1849]]</sup></small></small> |exousian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| over all |<big><span class="asgreek">πάσης</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pasēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| flesh, |<big><span class="asgreek">σαρκός,</span></big> <small><small><sup>[[G4561]]</sup></small></small> |sarkos <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| so that |<big><span class="asgreek">ἵνα</span></big> <small><small><sup>[[G2443]]</sup></small></small> |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| all |<big><span class="asgreek">πᾶν</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pan <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| whom |<big><span class="asgreek">ὃ</span></big> <small><small><sup>[[G3739]]</sup></small></small> |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You have given |<big><span class="asgreek">δέδωκας</span></big> <small><small><sup>[[G1325]]</sup></small></small> |dedōkas <small><sup>[[V-RAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to Him, |<big><span class="asgreek">αὐτῷ,</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He may give [^1] |<big><span class="asgreek">δώσῃ</span></big> <small><small><sup>[[G1325]]</sup></small></small> |dōsē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+SBL+Treg+TR">NK(o)</abbr> | |
+| to them |<big><span class="asgreek">αὐτοῖς</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| life |<big><span class="asgreek">ζωὴν</span></big> <small><small><sup>[[G2222]]</sup></small></small> |zōēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| eternal. |<big><span class="asgreek">αἰώνιον.</span></big> <small><small><sup>[[G0166]]</sup></small></small> |aiōnion <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.1|<< John 17:1]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.3|John 17:3 >>]]</td></tr></table>
 
 [^1]: ==Tyn+WH+Byz==: will give | <span class="asgreek">δώσει</span><small><sup>[[G1325]]</sup></small> | dōsei<small><sup>[[V-FAI-3S]]</sup></small>

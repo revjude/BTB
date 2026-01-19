@@ -8,14 +8,14 @@ And then will fall away many and one another they will betray and they will hate
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">τότε</span> <small><sup>[[G5119]]</sup></small> |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| will fall away |<span class="asgreek">σκανδαλισθήσονται</span> <small><sup>[[G4624]]</sup></small> |skandalisthēsontai <small><sup>[[V-FPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| many |<span class="asgreek">πολλοὶ</span> <small><sup>[[G4183]]</sup></small> |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| one another |<span class="asgreek">ἀλλήλους</span> <small><sup>[[G0240]]</sup></small> |allēlous <small><sup>[[C-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they will betray |<span class="asgreek">παραδώσουσιν</span> <small><sup>[[G3860]]</sup></small> |paradōsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they will hate |<span class="asgreek">μισήσουσιν</span> <small><sup>[[G3404]]</sup></small> |misēsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| one another; |<span class="asgreek">ἀλλήλους·</span> <small><sup>[[G0240]]</sup></small> |allēlous <small><sup>[[C-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">τότε</span></big> <small><small><sup>[[G5119]]</sup></small></small> |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| will fall away |<big><span class="asgreek">σκανδαλισθήσονται</span></big> <small><small><sup>[[G4624]]</sup></small></small> |skandalisthēsontai <small><sup>[[V-FPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| many |<big><span class="asgreek">πολλοὶ</span></big> <small><small><sup>[[G4183]]</sup></small></small> |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| one another |<big><span class="asgreek">ἀλλήλους</span></big> <small><small><sup>[[G0240]]</sup></small></small> |allēlous <small><sup>[[C-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they will betray |<big><span class="asgreek">παραδώσουσιν</span></big> <small><small><sup>[[G3860]]</sup></small></small> |paradōsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they will hate |<big><span class="asgreek">μισήσουσιν</span></big> <small><small><sup>[[G3404]]</sup></small></small> |misēsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| one another; |<big><span class="asgreek">ἀλλήλους·</span></big> <small><small><sup>[[G0240]]</sup></small></small> |allēlous <small><sup>[[C-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.9|<< Matthew 24:9]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.11|Matthew 24:11 >>]]</td></tr></table>

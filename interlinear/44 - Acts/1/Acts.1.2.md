@@ -8,18 +8,18 @@ until the day having given orders to the apostles through [the] Spirit Holy whom
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| until |<span class="asgreek">ἄχρι</span> <small><sup>[[G0891]]</sup></small> |achri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ἧς</span> <small><sup>[[G3739]]</sup></small> |hēs <small><sup>[[R-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| day |<span class="asgreek">ἡμέρας</span> <small><sup>[[G2250]]</sup></small> |hēmeras <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having given orders |<span class="asgreek">ἐντειλάμενος</span> <small><sup>[[G1781]]</sup></small> |enteilamenos <small><sup>[[V-ANP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to the |<span class="asgreek">τοῖς</span> <small><sup>[[G3588]]</sup></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| apostles |<span class="asgreek">ἀποστόλοις</span> <small><sup>[[G0652]]</sup></small> |apostolois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| through |<span class="asgreek">διὰ</span> <small><sup>[[G1223]]</sup></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] Spirit |<span class="asgreek">πνεύματος</span> <small><sup>[[G4151G]]</sup></small> |pneumatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Holy |<span class="asgreek">ἁγίου</span> <small><sup>[[G0040G]]</sup></small> |hagiou <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| whom |<span class="asgreek">οὓς</span> <small><sup>[[G3739]]</sup></small> |hous <small><sup>[[R-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He had chosen |<span class="asgreek">ἐξελέξατο</span> <small><sup>[[G1586]]</sup></small> |exelexato <small><sup>[[V-AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He was taken up. |<span class="asgreek">ἀνελήμφθη.</span> <small><sup>[[G0353]]</sup></small> [^1] |anelēmphthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| until |<big><span class="asgreek">ἄχρι</span></big> <small><small><sup>[[G0891]]</sup></small></small> |achri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ἧς</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hēs <small><sup>[[R-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| day |<big><span class="asgreek">ἡμέρας</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmeras <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having given orders |<big><span class="asgreek">ἐντειλάμενος</span></big> <small><small><sup>[[G1781]]</sup></small></small> |enteilamenos <small><sup>[[V-ANP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to the |<big><span class="asgreek">τοῖς</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| apostles |<big><span class="asgreek">ἀποστόλοις</span></big> <small><small><sup>[[G0652]]</sup></small></small> |apostolois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| through |<big><span class="asgreek">διὰ</span></big> <small><small><sup>[[G1223]]</sup></small></small> |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] Spirit |<big><span class="asgreek">πνεύματος</span></big> <small><small><sup>[[G4151G]]</sup></small></small> |pneumatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Holy |<big><span class="asgreek">ἁγίου</span></big> <small><small><sup>[[G0040G]]</sup></small></small> |hagiou <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| whom |<big><span class="asgreek">οὓς</span></big> <small><small><sup>[[G3739]]</sup></small></small> |hous <small><sup>[[R-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He had chosen |<big><span class="asgreek">ἐξελέξατο</span></big> <small><small><sup>[[G1586]]</sup></small></small> |exelexato <small><sup>[[V-AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He was taken up. |<big><span class="asgreek">ἀνελήμφθη.</span></big> <small><small><sup>[[G0353]]</sup></small></small> [^1] |anelēmphthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.1|<< Acts 1:1]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.3|Acts 1:3 >>]]</td></tr></table>
 
 [^1]: ==TR== spelled: <span class='asgreek'>**ἀνελήφθη**</span>

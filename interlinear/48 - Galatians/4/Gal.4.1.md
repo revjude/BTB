@@ -8,19 +8,19 @@ I say now, for as long as time the heir a child is, [in] no[thing] he differs fr
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| I say |<span class="asgreek">Λέγω</span> <small><sup>[[G3004G]]</sup></small> |Legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now, |<span class="asgreek">δέ,</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| for |<span class="asgreek">ἐφ᾽</span> <small><sup>[[G1909]]</sup></small> |eph᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| as long as |<span class="asgreek">ὅσον</span> <small><sup>[[G3745]]</sup></small> |hoson <small><sup>[[K-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| time |<span class="asgreek">χρόνον</span> <small><sup>[[G5550]]</sup></small> |chronon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| heir |<span class="asgreek">κληρονόμος</span> <small><sup>[[G2818]]</sup></small> |klēronomos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a child |<span class="asgreek">νήπιός</span> <small><sup>[[G3516]]</sup></small> |nēpios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| is, |<span class="asgreek">ἐστιν,</span> <small><sup>[[G1510]]</sup></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [in] no[thing] |<span class="asgreek">οὐδὲν</span> <small><sup>[[G3762]]</sup></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he differs |<span class="asgreek">διαφέρει</span> <small><sup>[[G1308]]</sup></small> |diapherei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from a slave |<span class="asgreek">δούλου</span> <small><sup>[[G1401]]</sup></small> |doulou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [though] owner |<span class="asgreek">κύριος</span> <small><sup>[[G2962H]]</sup></small> |kurios <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of everything |<span class="asgreek">πάντων</span> <small><sup>[[G3956]]</sup></small> |pantōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| being; |<span class="asgreek">ὤν·</span> <small><sup>[[G1510]]</sup></small> |ōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| I say |<big><span class="asgreek">Λέγω</span></big> <small><small><sup>[[G3004G]]</sup></small></small> |Legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now, |<big><span class="asgreek">δέ,</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| for |<big><span class="asgreek">ἐφ᾽</span></big> <small><small><sup>[[G1909]]</sup></small></small> |eph᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| as long as |<big><span class="asgreek">ὅσον</span></big> <small><small><sup>[[G3745]]</sup></small></small> |hoson <small><sup>[[K-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| time |<big><span class="asgreek">χρόνον</span></big> <small><small><sup>[[G5550]]</sup></small></small> |chronon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| heir |<big><span class="asgreek">κληρονόμος</span></big> <small><small><sup>[[G2818]]</sup></small></small> |klēronomos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a child |<big><span class="asgreek">νήπιός</span></big> <small><small><sup>[[G3516]]</sup></small></small> |nēpios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| is, |<big><span class="asgreek">ἐστιν,</span></big> <small><small><sup>[[G1510]]</sup></small></small> |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [in] no[thing] |<big><span class="asgreek">οὐδὲν</span></big> <small><small><sup>[[G3762]]</sup></small></small> |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he differs |<big><span class="asgreek">διαφέρει</span></big> <small><small><sup>[[G1308]]</sup></small></small> |diapherei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from a slave |<big><span class="asgreek">δούλου</span></big> <small><small><sup>[[G1401]]</sup></small></small> |doulou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [though] owner |<big><span class="asgreek">κύριος</span></big> <small><small><sup>[[G2962H]]</sup></small></small> |kurios <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of everything |<big><span class="asgreek">πάντων</span></big> <small><small><sup>[[G3956]]</sup></small></small> |pantōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| being; |<big><span class="asgreek">ὤν·</span></big> <small><small><sup>[[G1510]]</sup></small></small> |ōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.29|<< Galatians 3:29]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.2|Galatians 4:2 >>]]</td></tr></table>

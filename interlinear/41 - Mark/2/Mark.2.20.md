@@ -4,26 +4,26 @@ But the days will come, when the bridegroom shall be taken away from them, and t
 <small><sub>**BSB:**</sub></small>
 But the time will come when the bridegroom will be taken from them; then they will fast.
 <small><sub>**Literal:**</sub></small>
-Will come however [the] days when may have been taken away from them the bridegroom, and then they will fast in that \<the> day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.19|<< Mark 2:19]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.21|Mark 2:21 >>]]</td></tr></table>
+Will come however [the] days when may have been taken away from them the bridegroom, and then they will fast in that <the> day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.19|<< Mark 2:19]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.21|Mark 2:21 >>]]</td></tr></table>
 
 | Translation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <span class='asgreek'>Greek</span><small><sup> \[Strong's\]</sup></small> | Transliteration<small><sup> \[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Will come |<span class="asgreek">ἐλεύσονται</span> <small><sup>[[G2064]]</sup></small> |eleusontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| however |<span class="asgreek">δὲ</span> <small><sup>[[G1161]]</sup></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] days |<span class="asgreek">ἡμέραι</span> <small><sup>[[G2250]]</sup></small> |hēmerai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| when |<span class="asgreek">ὅταν</span> <small><sup>[[G3752]]</sup></small> |hotan <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| may have been taken away |<span class="asgreek">ἀπαρθῇ</span> <small><sup>[[G0522]]</sup></small> |aparthēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from |<span class="asgreek">ἀπ᾽</span> <small><sup>[[G0575]]</sup></small> |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| them |<span class="asgreek">αὐτῶν</span> <small><sup>[[G0846]]</sup></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |<span class="asgreek">ὁ</span> <small><sup>[[G3588]]</sup></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| bridegroom, |<span class="asgreek">νυμφίος,</span> <small><sup>[[G3566]]</sup></small> |numphios <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |<span class="asgreek">καὶ</span> <small><sup>[[G2532]]</sup></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |<span class="asgreek">τότε</span> <small><sup>[[G5119]]</sup></small> |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| they will fast |<span class="asgreek">νηστεύσουσιν</span> <small><sup>[[G3522]]</sup></small> |nēsteusousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |<span class="asgreek">ἐν</span> <small><sup>[[G1722]]</sup></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| that [^1] [^2] |<span class="asgreek">ἐκείνῃ</span> <small><sup>[[G1565]]</sup></small> |ekeinē <small><sup>[[D-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
-| \<the> [^3] |<span class="asgreek">τῇ</span> <small><sup>[[G3588]]</sup></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| day. [^4] [^5] |<span class="asgreek">ἡμέρᾳ.¶</span> <small><sup>[[G2250]]</sup></small> |hēmera <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| Will come |<big><span class="asgreek">ἐλεύσονται</span></big> <small><small><sup>[[G2064]]</sup></small></small> |eleusontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| however |<big><span class="asgreek">δὲ</span></big> <small><small><sup>[[G1161]]</sup></small></small> |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] days |<big><span class="asgreek">ἡμέραι</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmerai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| when |<big><span class="asgreek">ὅταν</span></big> <small><small><sup>[[G3752]]</sup></small></small> |hotan <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| may have been taken away |<big><span class="asgreek">ἀπαρθῇ</span></big> <small><small><sup>[[G0522]]</sup></small></small> |aparthēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from |<big><span class="asgreek">ἀπ᾽</span></big> <small><small><sup>[[G0575]]</sup></small></small> |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| them |<big><span class="asgreek">αὐτῶν</span></big> <small><small><sup>[[G0846]]</sup></small></small> |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |<big><span class="asgreek">ὁ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| bridegroom, |<big><span class="asgreek">νυμφίος,</span></big> <small><small><sup>[[G3566]]</sup></small></small> |numphios <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |<big><span class="asgreek">καὶ</span></big> <small><small><sup>[[G2532]]</sup></small></small> |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |<big><span class="asgreek">τότε</span></big> <small><small><sup>[[G5119]]</sup></small></small> |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| they will fast |<big><span class="asgreek">νηστεύσουσιν</span></big> <small><small><sup>[[G3522]]</sup></small></small> |nēsteusousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |<big><span class="asgreek">ἐν</span></big> <small><small><sup>[[G1722]]</sup></small></small> |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| that [^1] [^2] |<big><span class="asgreek">ἐκείνῃ</span></big> <small><small><sup>[[G1565]]</sup></small></small> |ekeinē <small><sup>[[D-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| \<the> [^3] |<big><span class="asgreek">τῇ</span></big> <small><small><sup>[[G3588]]</sup></small></small> |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| day. [^4] [^5] |<big><span class="asgreek">ἡμέρᾳ.¶</span></big> <small><small><sup>[[G2250]]</sup></small></small> |hēmera <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.19|<< Mark 2:19]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.21|Mark 2:21 >>]]</td></tr></table>
 
 [^1]: Variant:  <span class='asgreek'>**ἐκείναις**</span>  (<i>ekeinais</i>) 'those' occurs in traditional manuscripts (TR+Byz) instead of <span class='asgreek'>**ἐκείνῃ**</span>  (<i>ekeinē</i>) 'that' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)

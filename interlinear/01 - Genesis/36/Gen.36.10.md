@@ -8,20 +8,20 @@ these [are] [the] names of [the] sons of Esau Eliphaz [the] son of Adah [the] wi
 
 | Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| these  | <span class="ashebrew"><big>אֵ֖לֶּה</big></span><small><sup>[[H0428]]</sup></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] [the] names of  | <span class="ashebrew"><big>שְׁמ֣וֹת</big></span><small><sup>[[H8034]]</sup></small> &#8207;| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  | <span class="ashebrew"><big>בְּנֵֽי</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Esau  | <span class="ashebrew"><big>עֵשָׂ֑ו</big></span><small><sup>[[H6215G]]</sup></small> &#8207;| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Eliphaz  | <span class="ashebrew"><big>אֱלִיפַ֗ז</big></span><small><sup>[[H0464G]]</sup></small> &#8207;| 'e.li.Faz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Adah  | <span class="ashebrew"><big>עָדָה֙</big></span><small><sup>[[H5711H]]</sup></small> &#8207;| 'a.Dah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wife of  | <span class="ashebrew"><big>אֵ֣שֶׁת</big></span><small><sup>[[H0802H]]</sup></small> &#8207;| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Esau  | <span class="ashebrew"><big>עֵשָׂ֔ו</big></span><small><sup>[[H6215G]]</sup></small> &#8207;| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Reuel  | <span class="ashebrew"><big>רְעוּאֵ֕ל</big></span><small><sup>[[H7467G]]</sup></small> &#8207;| re.'u.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><sup>[[H1121A]]</sup></small> <span class="ashebrew"><big>־</big></span><small><sup>[[H9014]]</sup></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Basemath  | <span class="ashebrew"><big>בָּשְׂמַ֖ת</big></span><small><sup>[[H1315I]]</sup></small> &#8207;| ba.se.Mat<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] wife of  | <span class="ashebrew"><big>אֵ֥שֶׁת</big></span><small><sup>[[H0802H]]</sup></small> &#8207;| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Esau  | <span class="ashebrew"><big>עֵשָֽׂו</big></span><small><sup>[[H6215G]]</sup></small> <span class="ashebrew"><big>׃</big></span><small><sup>[[H9016]]</sup></small> &#8207;| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  | <span class="ashebrew"><big>אֵ֖לֶּה</big></span><small><small><sup>[[H0428]]</sup></small></small> &#8207;| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] [the] names of  | <span class="ashebrew"><big>שְׁמ֣וֹת</big></span><small><small><sup>[[H8034]]</sup></small></small> &#8207;| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  | <span class="ashebrew"><big>בְּנֵֽי</big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־</big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Esau  | <span class="ashebrew"><big>עֵשָׂ֑ו</big></span><small><small><sup>[[H6215G]]</sup></small></small> &#8207;| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Eliphaz  | <span class="ashebrew"><big>אֱלִיפַ֗ז</big></span><small><small><sup>[[H0464G]]</sup></small></small> &#8207;| 'e.li.Faz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־</big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Adah  | <span class="ashebrew"><big>עָדָה֙</big></span><small><small><sup>[[H5711H]]</sup></small></small> &#8207;| 'a.Dah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wife of  | <span class="ashebrew"><big>אֵ֣שֶׁת</big></span><small><small><sup>[[H0802H]]</sup></small></small> &#8207;| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Esau  | <span class="ashebrew"><big>עֵשָׂ֔ו</big></span><small><small><sup>[[H6215G]]</sup></small></small> &#8207;| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Reuel  | <span class="ashebrew"><big>רְעוּאֵ֕ל</big></span><small><small><sup>[[H7467G]]</sup></small></small> &#8207;| re.'u.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  | <span class="ashebrew"><big>בֶּן</big></span><small><small><sup>[[H1121A]]</sup></small></small> <span class="ashebrew"><big>־</big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Basemath  | <span class="ashebrew"><big>בָּשְׂמַ֖ת</big></span><small><small><sup>[[H1315I]]</sup></small></small> &#8207;| ba.se.Mat<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wife of  | <span class="ashebrew"><big>אֵ֥שֶׁת</big></span><small><small><sup>[[H0802H]]</sup></small></small> &#8207;| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Esau  | <span class="ashebrew"><big>עֵשָֽׂו</big></span><small><small><sup>[[H6215G]]</sup></small></small> <span class="ashebrew"><big>׃</big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.9|<< Genesis 36:9]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.11|Genesis 36:11 >>]]</td></tr></table>
 
 
