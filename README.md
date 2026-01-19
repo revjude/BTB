@@ -15,13 +15,13 @@ Endless thanks to all of the proud scholars, theologians, and scribes who did th
 #### CHAPTERS
 ![Chapter View](/lexicon/views/ChapterView.png)
 #### RED-LETTERS & CROSS-REFERENCES
-![Chapter View](/lexicon/views/RedLetters.png)
+![Chapter View](/lexicon/views/RedLetters.PNG)
 #### VERSES
-![Verse View](/lexicon/views/VerseView.png)
+![Verse View](/lexicon/views/VerseView.PNG)
 #### LEXICON
-![Chapter View](/lexicon/views/Lexicon.png)
+![Chapter View](/lexicon/views/Lexicon.PNG)
 #### MAPS
-![Chapter View](/lexicon/views/Maps.png)
+![Chapter View](/lexicon/views/Maps.PNG)
 
 ## Features
 - Full chapters feature the **KJV** text with **Jesus' words in red-letters**.
@@ -49,16 +49,6 @@ Endless thanks to all of the proud scholars, theologians, and scribes who did th
 6. If you would like to use the maps features you have to sign up for a [Google developer API key](https://developers.google.com/maps/documentation/javascript), and then use VS Code to do a global find and replace of '\[GoogleAPIKey\]' with your key.
 
 There are no ***required*** Obsidian plugins, but there are a multitude of them that could be useful.
-## License
-This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
-
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to this project, and indicate if changes were made:  https://github.com/revjude/BTB
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
-See the full license at: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 ### Source Material Licenses
 The underlying Bible texts and reference materials used in this project are in the public domain or used under their respective open licenses. See the Acknowledgments section below for details on individual resources.
 ## Acknowledgments
