@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>strain off,</b> <span class='asgreek'>κώνωπα</span> [<a href="javascript:void(0)" title=" NT.Matt.23.24. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Amos.6.6]] ☩ [[Matt.23.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.6.6]] ☩ [[Matt.23.24]]
 </sub></small>

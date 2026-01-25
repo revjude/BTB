@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>betroth</b>, <span class='asgreek'>τ�
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>pledge, mortgage</b>, <span class='asgreek'>ὑποθήκην</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τί</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 4th c.AD: Alciphro Epistolographus 3.3. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i> in sense of <i>active</i> [<a href="javascript:void(0)" title=" 11.1, with ">Refs</a>]<i>future</i> <i>infinitive</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Parthenius Mythographus 9.4. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.21.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.21.9]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>active</i>, <b>condense</b>, <span class=
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_4.b</b> <span class='asgreek'>ἄρτον</span> <span class='asgreek'>πᾶσαν</span> <span class='asgreek'>ἡδονὴν</span> <span class='asgreek'>==ἰσχύω==ύοντα</span> <b>making strong.. </b>,[<a href="javascript:void(0)" title="LXX.Wis.16.20 ">LXX</a>] (<b>in se habentem</b>, Vulg.). 
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> -<span class='asgreek'>ύοντες</span> <span class='asgreek'>ἀστέρες</span> those <b>in dominating positions</b>, Serapion in [<a href="javascript:void(0)" title=" “Catalogus Codicum Astrologorum” 8(4).226. [ῡ in Batrachomyomachia [same place], Trag. and Comedy texts, 5th c.BC: Sophocles Tragicus “Ajax” 1409, “OT” 356, 5th-6th c.BC: Aristophanes Comicus “Vespae” 357, “Av.” 488, 1606 ">Refs 5th c.BC+</a>]; later, <span class='asgreek'>ῠ</span> sometimes in <i>present</i> and <i>imperfect</i>, [<a href="javascript:void(0)" title="“Anthologia Graeca” 5.166 (3rd c.BC: Asclepiades Epigrammaticus), 211 (1st c.BC: Meleager Epigrammaticus).] ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.12.4]] ☩ [[2Chr.2.6]] ☩ [[Mark.5.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.12.4]] ☩ [[LXX.2Chr.2.6]] ☩ [[Mark.5.4]]
 </sub></small>

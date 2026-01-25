@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>offering offruits</b>, [<a href="javascript:void(0)" title=" LXX.Lev.4.10, +others, “IG” 3.77 (\_plural\_, 2nd c.AD)">LXX+2nd c.AD+</a>]; <b>sacrifice</b> to Aphrodite at Amathus, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.4.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.4.10]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_A.3</b> proverbs, <span class='asgreek'>Βοιωτ
 $\quad$ $\quad$<b>\_\_A.II</b> ={<span class='asgreek'>ὕαινα</span>}[<a href="javascript:void(0)" title=" 11, 5th c.BC: Epicharmus Comicus 68, 4th c.BC: Archestratus Epicus “fragment” 22.1. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_A.III</b> see at {<span class='asgreek'>ὕσγη</span>}. (Cf. Latin <span class='asgreek'>σῡς</span>, O[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus ">Refs 5th c.BC+</a>] <b>sú, sw-in:</b> perhaps I.-[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus ">Refs 5th c.BC+</a>] <b>sū-s</b> <i>feminine</i> 'mother', cf. Sanskrit <i>sū-s</i> 'mother', <b>sū-te</b> 'bring forth (young)'; change of meaning as in Polish <b>maciora</b> (1) 'mother', (2) 'sow', and in Sardinian <b>mardi</b> 'sow', from <b>mater</b>; Sanskrit <i>sū-s</i> is also <i>masculine</i>, and <span class='asgreek'>σῦς</span> is difficult.)
 
-<small><sub>LSJ Scripture Refs: [[Lev.11.7]] ☩ [[Ps.79.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.11.7]] ☩ [[LXX.Ps.79.14]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>to be red</b> or <b>ruddy</b>, [<a href="javascript:void(0)" title=" LXX.Lev.13.19, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.13.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.13.19]]
 </sub></small>

@@ -1,0 +1,24 @@
+**LXX Job 41:34** 
+<small><sub>**LXX:**</sub></small>
+Every lofty \[thing\] he sees; and he \[is\] king of all the \[things\] in the waters. 
+<small><sub>**KJV:**</sub></small>
+He beholdeth all high [things]: he [is] a king over all the children of pride.
+<small><sub>**BSB:**</sub></small>
+He looks down on all the haughty; he is king over all the proud.”<small><sub>**MT:**</sub></small>
+[[Job.41.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.33|<< Job 41:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.1|Job 42:1 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| Every | <span class="asgreek">παν <sup><small><small>[[G3956]]</small></small></sup> </span> |
+| lofty \[thing\] | <span class="asgreek">υψηλόν <sup><small><small>[[G5308]]</small></small></sup> </span> |
+| he sees; | <span class="asgreek">ορά <sup><small><small>[[G3708]]</small></small></sup> </span> |
+| and he | <span class="asgreek">αυτός <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
+| \[is\] king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
+| of all | <span class="asgreek">πάντων <sup><small><small>[[G3956]]</small></small></sup> </span> |
+| the \[things\]\<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
+| the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| waters. | <span class="asgreek">ύδασιν <sup><small><small>[[G5204]]</small></small></sup> </span> |
+[[Job.41.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.33|<< Job 41:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.1|Job 42:1 >>]]</td></tr></table>
+
+

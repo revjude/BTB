@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_1</b> <b>headband</b>, <span class='asgreek'>τὰ
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>necklace</b>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus see entry {κάθορμα}, 10th c.AD: Suidas Legal icographus see at {καθόρμια}. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>enclosure, covering</b>, [<a href="javascript:void(0)" title=" LXX.Num.16.38 (17.3).—Cf. περίθημα. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.16.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.16.38]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>to be watchful</b>, [<a href="javascript:void(0)" title=" LXX.Wis.6.15, NT.Mark.13.33, NT.Eph.6.18; ὑπὲρ τῶν ψυχῶν NT.Heb.13.17; ἐπὶ τὰ κακά LXX.Dan.9.14">LXX+NT</a>]: with <i>infinitive</i>, <span class='asgreek'>μηθέν</span> <span class='asgreek'>σε</span> <span class='asgreek'>ἐνοχλήσειν</span>[<a href="javascript:void(0)" title=" “PGrenf.” 2.14a3. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>accusative</i>, <b>lie awake and think of</b>, <span class='asgreek'>τινά</span>[<a href="javascript:void(0)" title=" “PMag.Par.” 1.2966.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.13.33]] ☩ [[Eph.6.18]] ☩ [[Heb.13.17]] ☩ [[Dan.9.14]]
+<small><sub>LSJ Scripture Refs: [[Mark.13.33]] ☩ [[Eph.6.18]] ☩ [[Heb.13.17]] ☩ [[LXX.Dan.9.14]]
 </sub></small>

@@ -6,5 +6,5 @@
  (<span class='asgreek'>ἀμφιάζω</span>) <b>garment,</b> [<a href="javascript:void(0)" title=" LXX.Job.22.6, +others">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.22.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.22.6]]
 </sub></small>

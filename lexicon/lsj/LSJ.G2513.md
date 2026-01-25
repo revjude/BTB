@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>clearly, plainly</b>, <span class='asg
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> of language, <b>purely, correctly</b>, -<span class='asgreek'>ώτερον</span> <span class='asgreek'>διαλέγεσθαι</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1116e, compare 2nd c.AD: Lucianus Sophista “Im.” 15. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>entirely</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 591; κ. τις ὢν ἀόργητος 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.71 W.; κ. ἐς ἐφήβους τελεῖν 2nd-3rd c.AD: Dio Cassius Historicus 36.25, compare “Codex Justinianus [4th-6th c.AD]” 1.4.34.9: \_superlative\_ -ώτατα">Refs 5th c.BC+</a>] <b>in its purest form</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “de Pietate - Herkulanische Studien” 66. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.5.17]] ☩ [[Num.8.7]] ☩ [[Acts.20.26]] ☩ [[Gen.24.8]] ☩ [[Gen.7.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.5.17]] ☩ [[LXX.Num.8.7]] ☩ [[Acts.20.26]] ☩ [[LXX.Gen.24.8]] ☩ [[LXX.Gen.7.2]]
 </sub></small>

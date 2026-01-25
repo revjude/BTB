@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> = Latin <i>cuspator,</i> [<a href="javascript:void(0)" title=" 6th c.AD: Lydus, Joannes Laurentius Historicus “Mag.” 1.46. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.1.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.1.6]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> Architecture texts, <b>bonding</b>, <span class='asgreek'>τείχους</span> [<a href="javascript:void(0)" title=" “SIG” 2587.308 (\_plural\_, written ἐνδέσζμων); ἔ. ποιεῖσθαι τοῦ ἔργου 6th c.AD: Procopius Caesariensis Historicus “de Bello Persico” 2.26. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.7.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.7.20]]
 </sub></small>

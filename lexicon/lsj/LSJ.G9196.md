@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>one of</b> [<a href="javascript:void(0)" title=" 5 ἔκτακτοι ">Refs</a>]<b>attached to a</b> <span class='asgreek'>τάξις</span> or <span class='asgreek'>σύνταγμα</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Tactica” 10.4, 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 9.4, 1st c.BC: Asclepiodotus Tacticus “Tact.” 2.9">Refs 1st c.BC+</a>]; or <b>to a</b> <span class='asgreek'>ἑκατονταρχία</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Tactica” 14.4, 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 16.2, 1st c.BC: Asclepiodotus Tacticus “Tact.” 6.3. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.22.36]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.22.36]]
 </sub></small>

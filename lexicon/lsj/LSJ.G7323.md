@@ -6,5 +6,5 @@
  [<a href="javascript:void(0)" title=" 69, 2nd c.AD(?): Theodotion LXX.Dan.5.31, 1st c.AD: Philo Judaeus 1.21, LXX.Num.3.50, LXX.Gen.46.26, LXX.1Esd.5.15, LXX.Neh.11.6, LXX.1Esd.2.14 ">LXX+1st c.AD+</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Dan.5.31]] ☩ [[Num.3.50]] ☩ [[Gen.46.26]] ☩ [[Neh.11.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.5.31]] ☩ [[LXX.Num.3.50]] ☩ [[LXX.Gen.46.26]] ☩ [[LXX.Neh.11.6]]
 </sub></small>

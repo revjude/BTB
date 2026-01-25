@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>absolutely</i>, <b>form</b> or <b>hold an
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <i>passive</i>, <b>to be matter of opinion,</b> <span class='asgreek'>ταῦτα</span> <span class='asgreek'>δε==δοξάζω==άσθαι</span> [<a href="javascript:void(0)" title=" 6th c.BC: Xenophanes Poeta Philosophus 35, compare 4th-3rd c.BC: Epicurus Philosophus “Sententiae” 22. ">Refs 6th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>magnify, extol,</b> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>πλέον</span> <span class='asgreek'>τι</span> <span class='asgreek'>αὑτὸν</span> <span class='asgreek'>δ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.45, cf. LXX.Exod.15.2, +others; τὸν θεόν NT.Rom.1.21, +others">NT+5th c.BC+</a>]:—<i>passive</i>, <b>to be distinguished, held in honour, magnified,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Dionysius Comicus 2.24; δε==δοξάζω==ασμένος ἐπ᾽ ἀρετῇ 2nd c.BC: Polybius Historicus 6.53.10, cf. LXX.Exod.15.1, +others, NT.John.7.39, +others; ἱερὸν δε==δοξάζω==ασμένον ἐξ ἀρχαίων “OGI” 168.56 (2nd c.BC). ">NT+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.15.2]] ☩ [[Rom.1.21]] ☩ [[Exod.15.1]] ☩ [[John.7.39]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.15.2]] ☩ [[Rom.1.21]] ☩ [[LXX.Exod.15.1]] ☩ [[John.7.39]]
 </sub></small>

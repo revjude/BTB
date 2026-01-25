@@ -38,5 +38,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_B.II.3.c</b> <span class='asgreek'>ἵ</sp
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_B.II.3.d</b> in indignant exclamations, <b>to think that.. !</b> <span class='asgreek'>Σωκράτης</span> <span class='asgreek'>ἵ</span>. <span class='asgreek'>πάθῃ</span> <span class='asgreek'>ταῦτα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 1.29.16. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_B.III</b> in later Gr. with <i>indicative</i>, [<a href="javascript:void(0)" title=" LXX.Exod.1.11, +others, NT.Gal.2.4, 4.17, etc. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.6.12]] ☩ [[John.15.8]] ☩ [[Gen.22.14]] ☩ [[Mark.5.23]] ☩ [[2Cor.8.7]] ☩ [[Exod.1.11]] ☩ [[Gal.2.4]]
+<small><sub>LSJ Scripture Refs: [[Mark.6.12]] ☩ [[John.15.8]] ☩ [[LXX.Gen.22.14]] ☩ [[Mark.5.23]] ☩ [[2Cor.8.7]] ☩ [[LXX.Exod.1.11]] ☩ [[Gal.2.4]]
 </sub></small>

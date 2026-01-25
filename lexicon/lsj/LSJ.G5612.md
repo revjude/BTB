@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>howl over,</b> <span class='asgreek'>τῆνον</span> <span class='asgreek'>μὰν</span> <span class='asgreek'>θῶες</span>, <span class='asgreek'>τῆνον</span> <span class='asgreek'>λύκοι</span> <span class='asgreek'>ὠ</span>. [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 1.71; ὠ. ἐπί τινι 2nd c.AD: Lucianus Sophista “DMort.” 10.13.">Refs 3rd c.BC+</a>]—The <i>active</i> [<a href="javascript:void(0)" title=" only in “Anthologia Graeca” 11.31 (Antip., uncertain reading), 10th c.AD: Suidas Legal icographus ">Refs</a>] (Sanskrit <i>rauti</i> (<i>plural</i> <b>ruvanti</b>), <b>ruváti</b> 'bellow', Latin <i>ru-mor,</i> Slavonic <i>rev-ą, raju-ti.</i>)
 
-<small><sub>LSJ Scripture Refs: [[Hos.11.10]] ☩ [[Ps.37.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hos.11.10]] ☩ [[LXX.Ps.37.9]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <i>substantive</i>, <b>slanderer,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “Fragmenta.” 297, 4th c.BC: Aristoteles Philosophus “Topica” 126a31, 2nd c.AD: Athenaeus Epigrammaticus 11.508d ">Refs 5th c.BC+</a>]; <b>enemy,</b> [<a href="javascript:void(0)" title=" LXX.Esth.7.4, 8.1 ">LXX</a>]: hence, = <b>Sâtân,</b>[<a href="javascript:void(0)" title=" [prev. work] 1 “Chr.” 21.1">Refs</a>]; <b>the Devil,</b> [<a href="javascript:void(0)" title="NT.Matt.4.1, etc. ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i> <b>-<span class='asgreek'>λως</span></b> <b>injuriously, invidiously,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.15; χρῆσθαί τινι 6th c.AD: Procopius Caesariensis Historicus “Historia Arcana” 2. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.7.4]] ☩ [[Matt.4.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.7.4]] ☩ [[Matt.4.1]]
 </sub></small>

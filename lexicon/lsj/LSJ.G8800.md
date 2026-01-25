@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b> Grammars, <span class='asgreek'>πτῶσις</spa
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <span class='asgreek'>π</span>. <span class='asgreek'>λέξις</span> <b>dependent</b> construction, [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 198; τὸ π., opposed to τὸ εὐθύ, [prev. work] 104. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b><span class='asgreek'>πλάγιον</span></b>, <span class='asgreek'>τό</span>, technical term of uncertain meaning in connexion with enrolment of <span class='asgreek'>ἔφηβοι</span>, <b>Chron.d' Égypte</b> [<a href="javascript:void(0)" title=" 7 (1932). 301, “Sammelb.” 7239.25 (2nd c.AD), “BGU” 1084.31 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.3.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.3.29]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>divide by two,</b> [<a href="java
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>δ</span>. <span class='asgreek'>τινὰ</span> <span class='asgreek'>κατά</span> <span class='asgreek'>τινος</span> <b>divide</b> one against another, [<a href="javascript:void(0)" title=" NT.Matt.10.35. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>to be divided,</b> interpolated in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 4.8.18 ">Refs 5th c.BC+</a>]; <span class='asgreek'>διχαζούσης</span> <span class='asgreek'>ἡμέρας</span> at <b>mid</b>-day, [<a href="javascript:void(0)" title=" Anonymus cited in 10th c.AD: Suidas Legal icographus ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.14.6]] ☩ [[Matt.10.35]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.14.6]] ☩ [[Matt.10.35]]
 </sub></small>

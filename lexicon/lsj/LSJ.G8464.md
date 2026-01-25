@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> a kind of <b>sideboard</b> to range the wine-cups on, [<a href="javascript:void(0)" title=" 2nd c.AD: Phrynichus Atticista “Praeparatio Sophistica” p.95 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>female cupbearer,</b> [<a href="javascript:void(0)" title=" LXX.Eccl.2.8. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.2.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.2.8]]
 </sub></small>

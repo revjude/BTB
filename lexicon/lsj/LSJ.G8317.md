@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ὧραι</span> <span
 $\quad$ $\quad$<b>\_\_II</b> <b>a month old</b>, [<a href="javascript:void(0)" title=" LXX.Num.3.15, +others; μ. ὕδωρ 5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.188. ">LXX+5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>a month long</b>, <span class='asgreek'>νύξ</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Antonius Diogenes Scriptor Eroticus 9; χρόνος 1st c.BC: Geminus Astronomicus 1.8, compare 2nd c.AD: Cleomedes Astronomus 1.7 ">Refs 1st c.BC+</a>]; <span class='asgreek'>παραλλαγή</span>, <span class='asgreek'>παράλλαγμα</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Geminus Astronomicus 8.22, 19. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.3.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.3.15]]
 </sub></small>

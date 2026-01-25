@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>object of desire</b>, [<a href="javascript:void(0)" title=" LXX.Ps.144.16, LXX.Sir.18.31. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> variant for{<span class='asgreek'>==εὐδοκία==ιμίη</span>} in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “παραγγελίαι” 6. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Chr.16.10]] ☩ [[Luke.2.14]] ☩ [[Phil.1.15]] ☩ [[Ps.144.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.16.10]] ☩ [[Luke.2.14]] ☩ [[Phil.1.15]] ☩ [[LXX.Ps.144.16]]
 </sub></small>

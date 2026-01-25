@@ -19,5 +19,5 @@ $\quad$ $\quad$<b>\_\_VIII</b> <b>rank</b> or <b>line</b> of soldiers, opposed t
 $\quad$ $\quad$<b>\_\_IX</b> <span class='asgreek'>ζυγὰ</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>ἄζυγα</span> <b>even</b> or odd, a game, [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Plutus” 817. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_X</b> measure of land, [<a href="javascript:void(0)" title=" “SIG” 963.13 (Amorgos, 4th c.BC). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.27.40]] ☩ [[Matt.11.29]] ☩ [[Prov.11.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.27.40]] ☩ [[Matt.11.29]] ☩ [[LXX.Prov.11.1]]
 </sub></small>

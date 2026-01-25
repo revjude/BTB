@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>partnership,</b> [<a href="javascript:voi
 $\quad$ $\quad$<b>\_\_II</b> Grammars, <b>participle</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Dionysius Thrax Grammaticus 634.5, 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 2, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1011c, 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 15.20, +others, 2nd c.AD(?): Pollianus Epigrammaticus 7.9, 12th c.AD: Eustathius Episcopus Thessalonicensis 138.16. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>compactness</b>, [<a href="javascript:void(0)" title=" LXX.Ps.121.3. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.6.14]] ☩ [[Ps.121.3]]
+<small><sub>LSJ Scripture Refs: [[2Cor.6.14]] ☩ [[LXX.Ps.121.3]]
 </sub></small>

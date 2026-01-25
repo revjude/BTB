@@ -7,5 +7,5 @@ Included with: <b> <span class='asgreek'>==στέμφυλον==</span>-<span cl
 
 $\quad$ $\quad$<b>\_\_II</b> <i>plural</i>, <b>mass of pressed grapes</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ νούσων” 2.69, “Aff.” 27 (where it seems to be a drink), 3rd c.BC: Lycophron Tragicus 678, “PSI” 6.554.20 (3rd c.BC), “PCair.Zen.” 527.8 (3rd c.BC)">Refs 5th c.BC+</a>]; <span class='asgreek'>οἶνον</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>στεμφύλων</span> [<a href="javascript:void(0)" title=" LXX.Num.6.4; σταφυλῆς στέμφυλα 4th c.BC: Aristoteles Philosophus “Fragmenta” 107: in \_sing.\_, 2nd c.AD: Galenus Medicus 6.576.">LXX+4th c.BC+</a>]—Signf. 1 is said to be <i>Attic dialect</i> by [<a href="javascript:void(0)" title=" 2nd c.AD: Phrynichus Atticista 384. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.6.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.6.4]]
 </sub></small>

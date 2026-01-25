@@ -26,5 +26,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.7</b> <b>take away, remove</b>, [<a href="javas
 $\quad$ $\quad$<b>\_\_V</b> <i>passive</i>, <b>to be suspended, hang</b>, [<span class='asgreek'>μάχαιρα</span>] <span class='asgreek'>πὰρ</span> <span class='asgreek'>ξίφεος</span> <span class='asgreek'>μέγα</span> <span class='asgreek'>κουλεὸν</span> <span class='asgreek'>αἰὲν</span> <span class='asgreek'>ἄωρτο</span>[<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 3.272, 19.253. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> in Medicine texts, <b>to be swollen</b>, [<span class='asgreek'>σπλὴν</span>] <span class='asgreek'>ἀερθείς</span>[<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 1.61; μαζοὶ ἀείρονται [prev. work] 2.174.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.3.14]] ☩ [[1Cor.6.15]] ☩ [[1Kgs.2.28]] ☩ [[Matt.24.39]] ☩ [[John.19.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.3.14]] ☩ [[1Cor.6.15]] ☩ [[LXX.1Kgs.2.28]] ☩ [[Matt.24.39]] ☩ [[John.19.15]]
 </sub></small>

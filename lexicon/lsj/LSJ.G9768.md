@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>pot</b> or <b>cauldron,</b> <span class='asgreek'>==χυτρόπους==ποδες</span> [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 748, LXX.Lev.11.35; χ. κέραμοι “App.Anth.” 5.29.5 (from Juba). ">LXX+8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> ={<span class='asgreek'>τορύνη</span>}, [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Ranae” 509 ">Refs 5th c.BC+</a>]:—<i>diminutive</i> <b><span class='asgreek'>χυτρο</span>-<span class='asgreek'>πόδιον</span></b>, <span class='asgreek'>τό</span>, [<a href="javascript:void(0)" title=" 6th c.BC: Hipponax Iambographus 25. ">Refs 6th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.11.35]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.11.35]]
 </sub></small>

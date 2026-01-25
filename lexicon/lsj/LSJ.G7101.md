@@ -6,5 +6,5 @@
  <b>banished, cast away,</b> [<a href="javascript:void(0)" title=" LXX.Jer.22.30, 5th c.AD(?): Hesychius Legal icographus ">LXX+5th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.22.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.22.30]]
 </sub></small>

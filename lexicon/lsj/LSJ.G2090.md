@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> with <i>perfect</i> <i>passive</i> <span 
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>prepare oneself, make oneself ready</b>, with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Apologia Socratis” 8; πρὸς τὴν χειμασίαν 2nd c.BC: Polybius Historicus 3.105.11. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <b>to be prepared</b>, <span class='asgreek'>ἔλεγε</span> <span class='asgreek'>ἡτοιμάσθαι</span> <b>that preparations had been made</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.64, compare 7.62, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>ἑ</span>. <span class='asgreek'>τι</span> <b>to be prepared with</b>.., [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 8.30.7. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.23.23]] ☩ [[Isa.40.3]] ☩ [[Rev.8.6]]
+<small><sub>LSJ Scripture Refs: [[Acts.23.23]] ☩ [[LXX.Isa.40.3]] ☩ [[Rev.8.6]]
 </sub></small>

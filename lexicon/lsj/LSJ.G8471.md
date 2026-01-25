@@ -6,5 +6,5 @@
  = {<span class='asgreek'>οἰώνισμα</span>}, [<a href="javascript:void(0)" title=" LXX.Gen.44.5, +others, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Numa” 14 ">LXX+1st c.AD+</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.44.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.44.5]]
 </sub></small>

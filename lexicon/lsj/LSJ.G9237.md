@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> as <i>adjective</i>, <b>of</b> or <b>for sexual intercourse</b>, <span class='asgreek'>φίλτρα</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 5.195 (1st c.BC: Meleager Epigrammaticus). ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mic.7.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mic.7.5]]
 </sub></small>

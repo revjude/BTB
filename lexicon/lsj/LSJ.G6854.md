@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>have in mind,</b> <span class='asgreek'>τι</sp
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>bethink oneself,</b> [<a href="javascript:void(0)" title=" LXX.Gen.6.6. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> with <i>adverbs</i>, <b>to be minded</b> or <b>disposed</b> so and so, <span class='asgreek'>ἄλλως</span> <span class='asgreek'>πως</span> <span class='asgreek'>πρός</span> <span class='asgreek'>τινας</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 343b; κακῶς δ. περὶ τῶν οἰκείων 5th-6th c.BC: Isocrates Orator 1.35: with ὡς and ">Refs 5th c.BC+</a>]<i>participle</i>, <span class='asgreek'>ὅταν</span> <span class='asgreek'>ὡς</span> <span class='asgreek'>πετόμενοι</span> <span class='asgreek'>==διανοέω==ῶνται</span> when they <b>are affected</b> as if flying, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 158b. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.6.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.6.6]]
 </sub></small>

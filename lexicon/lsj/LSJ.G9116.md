@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἀνθρωπίνη</span> <span class='asgreek'>κόπρος</span> <span class='asgreek'>ἐστὶν</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>λεγόμενον</span> <span class='asgreek'>==σκόρδον==ον</span> [<a href="javascript:void(0)" title=" “PHolm.” 9.26. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.11.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.11.5]]
 </sub></small>

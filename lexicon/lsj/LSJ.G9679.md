@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_d</b> <b>sheikh,</b> <span class='asgreek'
 $\quad$ $\quad$<b>\_\_II</b> as a military term, at Athens, <b>the commander of the cavalry furnished by each tribe,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.69. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>οἱ</span> <span class='asgreek'>φ</span>., an oligarchical council at Epidamnus, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1301b22. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.31.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.31.28]]
 </sub></small>

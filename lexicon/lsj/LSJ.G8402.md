@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>pastoral,</b> <span class='asgreek'>β
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>ν</span>. <span class='asgreek'>τράπεζα</span> <b>game</b> diet, [<a href="javascript:void(0)" title=" 4th c.AD: Himerius Sophista “Orationes” 25.3. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>==νομάς==άσιν</span> <span class='asgreek'>αὐγαῖς</span> is uncertain reading in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Timotheus Lyricus “Persae” 89. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.28.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.28.24]]
 </sub></small>

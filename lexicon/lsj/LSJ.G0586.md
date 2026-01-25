@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>pay tithe of,</b> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" LXX.Gen.28.22, NT.Matt.23.23, etc.">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.8.16]] ☩ [[Luke.18.12]] ☩ [[Heb.7.5]] ☩ [[Deut.14.22]] ☩ [[Gen.28.22]] ☩ [[Matt.23.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.8.16]] ☩ [[Luke.18.12]] ☩ [[Heb.7.5]] ☩ [[LXX.Deut.14.22]] ☩ [[LXX.Gen.28.22]] ☩ [[Matt.23.23]]
 </sub></small>

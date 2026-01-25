@@ -6,5 +6,5 @@
  <b>bring forth untimely, miscarry,</b> [<a href="javascript:void(0)" title=" LXX.Job.21.10; ==ὠμοτοκέω==οῦσαί τε.. καὶ νεκρὰ τίκτουσαι 1st c.BC: Dionysius Halicarnassensis 9.40. ">LXX+1st c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.21.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.21.10]]
 </sub></small>

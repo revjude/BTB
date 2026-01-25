@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>κατασμικρίζω</span>}, <b>belittle</b>, -<span class='asgreek'>σμικρῦναι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>διαφαυλίσαι</span> Hierocl.[<a href="javascript:void(0)" title=" p.59 4th-5th c.BC: Aeschylus Tragicus, compare 2nd c.AD: Maximus Tyrius Sophista 22.2, 2nd c.AD: Athenaeus Epigrammaticus 8.359a, 6th c.AD: Simplicius Philosophus “in Epict.” p.102 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>κατακερματίζω</span>, <span class='asgreek'>εἰς</span> <span class='asgreek'>λεπτὰ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἀγεννῆ</span> <span class='asgreek'>μόρια</span>} [<a href="javascript:void(0)" title=" 1st c.BC(?): Maximus Astrologus Tyr. 34.1 (\_passive\_). ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.7.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.7.19]]
 </sub></small>

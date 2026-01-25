@@ -6,5 +6,5 @@
  <b>mother-of-pearl</b>, [<a href="javascript:void(0)" title=" LXX.Esth.1.6 (variant{πίννινος}). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Esth.1.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.1.6]]
 </sub></small>

@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>lid</b>, [<a href="javascript:void(0)"
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>tent, pavilion</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Themistius Sophista “Orationes” 13.166b. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>proper name</i>, “Uranos”, son of Erebos and Gaia, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 127s q">Refs 8th c.BC+</a>].; but husband of Gaia, parent of Cronos and the Titans (compare <span class='asgreek'>Οὐρανίδης</span>),[<a href="javascript:void(0)" title=" [prev. work] 106, “Hymni Homerici” 30.17, compare 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 207. (Acc. to 4th c.BC: Aristoteles Philosophus “de Mundo” 400a7, from ὅρος and ἄνω,compare 5th-6th c.BC: Plato Philosophus “Cratylus” 396c. This must be wrong, but the true etymology is doubtful.) ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.96.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.96.6]]
 </sub></small>

@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <b>sacrifice, slay</b>, <span c
 $\quad$ $\quad$<b>\_\_III</b> <i>active</i>, <b>rule, govern</b>, with <i>genitive</i>, [<a href="javascript:void(0)" title=" 4th c.AD: Alciphro Epistolographus 3.44 (assuming variant). ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>κατάρξω</span> <span class='asgreek'>ὑμᾶς</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>σκορπίοις</span> <b>will chastise</b> you.., [<a href="javascript:void(0)" title=" LXX.1Kgs.12.24r. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.12.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.12.24]]
 </sub></small>

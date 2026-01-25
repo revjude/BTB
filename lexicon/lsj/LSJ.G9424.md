@@ -6,5 +6,5 @@
  <b>pleasantness, delight</b>, [<a href="javascript:void(0)" title=" LXX.Ps.15.11 (\_plural\_), 26(27).4, Aristeas 307, 2nd c.AD(?): Pollianus Epigrammaticus 3.97, 5th c.AD(?): Hesychius Legal icographus see at {τέρψις}. ">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.15.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.15.11]]
 </sub></small>

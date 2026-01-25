@@ -27,5 +27,5 @@ $\quad$ $\quad$<b>\_\_A0.III</b> <i>metaphorically</i>, of mental sight, <b>disc
 $\quad$ $\quad$<b>\_\_A0.IV</b> <i>absolutely</i>, <b>see visions,</b> <span class='asgreek'>ὁ</span> <span class='asgreek'>ἀληθινῶς</span> <span class='asgreek'>ὁρῶν</span> [<a href="javascript:void(0)" title=" LXX.Num.24.3, 15 ">LXX</a>]:—<i>passive</i>, <b>appear in a vision,</b> <span class='asgreek'>ὤφθη</span> <span class='asgreek'>ἄγγελος</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>γυναῖκα</span>[<a href="javascript:void(0)" title="LXX.Judg.13.3. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_A0.V</b> <b>interview,</b> <span class='asgreek'>ἐμνήσθης</span> <span class='asgreek'>μοι</span> <span class='asgreek'>ἰδεῖν</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>κεραμέα</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>κεραμίων</span> you told me to <b>see</b> the potter about the jars, [<a href="javascript:void(0)" title=" “PCair.Zen.” 264 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.2.25]] ☩ [[Luke.13.28]] ☩ [[Gen.22.8]] ☩ [[Num.24.3]] ☩ [[Judg.13.3]]
+<small><sub>LSJ Scripture Refs: [[Acts.2.25]] ☩ [[Luke.13.28]] ☩ [[LXX.Gen.22.8]] ☩ [[LXX.Num.24.3]] ☩ [[LXX.Judg.13.3]]
 </sub></small>

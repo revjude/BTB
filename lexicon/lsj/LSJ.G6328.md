@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>womanish man, effeminate person,</b> [<a 
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> = <b>pathicus, cinaedus,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 6.254 (Myrinus Epigrammaticus), compare 4th c.AD: Libanius Sophista “Declamationes” 12.42. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> of women, <b>Sapphic,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἔρωτες</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Am.” 28, compare 2nd c.AD: Artemidorus Daldianus Onirocriticus 2.12.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.18.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.18.8]]
 </sub></small>

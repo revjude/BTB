@@ -6,5 +6,5 @@
  <b>chief of a tribe,</b> [<a href="javascript:void(0)" title=" LXX.Deut.29.10(9).">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.29.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.29.10]]
 </sub></small>

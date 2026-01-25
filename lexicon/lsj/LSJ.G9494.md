@@ -6,5 +6,5 @@
  ={<span class='asgreek'>==τρισσόω==εύω</span>}, [<a href="javascript:void(0)" title=" LXX.1Kgs.18.34, where ἐτρίσσευσαν (but -ωσαν codex A) follows. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.18.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.18.34]]
 </sub></small>

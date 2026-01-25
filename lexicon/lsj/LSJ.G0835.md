@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>cause to dwell,</b>[<a href="javascript:void(0)" title="LXX.Jer.38.9, 1st-2nd c.AD: Dio Chrysostomus Sophista 35.16.">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.29.6]] ☩ [[Jer.38.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.29.6]] ☩ [[LXX.Jer.38.9]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> a bird, probably the <b>Lämmergeier</b>, [<a href="javascript:void(0)" title=" LXX.Lev.11.13, LXX.Deut.14.13. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>plural</i>, part of a ship's <b>tackle</b>, or <b>anchor</b>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.11.13]] ☩ [[Deut.14.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.11.13]] ☩ [[LXX.Deut.14.13]]
 </sub></small>

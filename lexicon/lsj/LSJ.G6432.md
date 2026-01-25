@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==ἀποικισμός==εσία</span>}, [<a href="javascript:void(0)" title=" LXX.Jer.26.19, +others">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.26.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.26.19]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>housewife,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 18.38. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.21.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.21.7]]
 </sub></small>

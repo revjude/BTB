@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>μίσθιος</span>
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>σοφὸς</span> <span class='asgreek'>αὐ</span>., ={<span class='asgreek'>αὐτοσχέδιος</span>}, [<a href="javascript:void(0)" title=" 12th c.AD: Eustathius Episcopus Thessalonicensis 44.14. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> = {<span class='asgreek'>αὐθήμερος</span>}, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Signis Tempestatum” 10.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.7.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.7.1]]
 </sub></small>

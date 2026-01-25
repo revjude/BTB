@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>matter for judgement, question</b>, [<a href="ja
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>law-suit</b>, [<a href="javascript:void(0)" title=" LXX.Exod.18.22, NT.1Cor.6.7. ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>κρίσις</span>}, <b>judging, judgement,</b> NT.John.9.39, [<a href="javascript:void(0)" title=" NT.Acts.24.25 ">NT</a>], etc. [<span class='asgreek'>ῖ</span> in A. [prev. cited] (nisi to be read <span class='asgreek'>κρεῖμα</span>): <span class='asgreek'>ῐ</span> in post-classical poetry; frequently written <span class='asgreek'>==κρίμα==</span> in codices]
 
-<small><sub>LSJ Scripture Refs: [[Ps.118.7]] ☩ [[Rom.11.33]] ☩ [[Deut.21.22]] ☩ [[Mark.12.40]] ☩ [[Exod.18.22]] ☩ [[1Cor.6.7]] ☩ [[John.9.39]] ☩ [[Acts.24.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.118.7]] ☩ [[Rom.11.33]] ☩ [[LXX.Deut.21.22]] ☩ [[Mark.12.40]] ☩ [[LXX.Exod.18.22]] ☩ [[1Cor.6.7]] ☩ [[John.9.39]] ☩ [[Acts.24.25]]
 </sub></small>

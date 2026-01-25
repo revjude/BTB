@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>passive</i>, <b>to be treated with contumely</b>,[<a href="javascript:void(0)" title="LXX.2Kgs.1.21. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.94.10]] ☩ [[Lev.20.22]] ☩ [[Gen.27.46]] ☩ [[2Kgs.1.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.94.10]] ☩ [[LXX.Lev.20.22]] ☩ [[LXX.Gen.27.46]] ☩ [[LXX.2Kgs.1.21]]
 </sub></small>

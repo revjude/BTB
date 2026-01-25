@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> Astron., <b>diametrical opposition,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 195, etc. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.3.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.3.3]]
 </sub></small>

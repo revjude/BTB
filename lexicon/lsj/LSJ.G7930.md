@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <span class='asgreek'>κ</span>. <span class='asgreek'>εἰς</span>.. <b>settle</b> in a spot, of disease, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Aff.” 15, compare 11. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.20.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.20.7]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_1</b> <b>intestines</b>, [<a href="javascript:void
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>ribs of a ship, belly-timbers</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.2.8, Moschioap. 2nd c.AD: Athenaeus Epigrammaticus 5.206f. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>flat-bellied,</b> [<a href="javascript:void(0)" title=" Cat.Codex Astr. 7.202. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.1.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.1.9]]
 </sub></small>

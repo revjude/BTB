@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>embank with dykes,</b> [<a href="javascript:void(0)" title=" Sammelb. 7376.13 (1st c.AD)">Refs 1st c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>γῆ</span> <span class='asgreek'>κεχωματισμένη</span> [<a href="javascript:void(0)" title=" “PTeb.” 105.26 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.11.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.11.13]]
 </sub></small>

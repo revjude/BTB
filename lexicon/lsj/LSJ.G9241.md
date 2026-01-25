@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>comparison</b>, [<a href="javascript:void(0)" ti
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>σ</span>. <span class='asgreek'>ἐνυπνίου</span> <b>interpretation</b> of a dream, [<a href="javascript:void(0)" title=" LXX.Gen.40.12, +others; τῆς γραφῆς 2nd c.AD(?): Theodotion LXX.Dan.5.7,17. ">LXX+2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>decision,</b> [<a href="javascript:void(0)" title=" PEnteux. 8.6 (3rd c.BC), “BGU” 1185.27 (1st c.BC), “PLond.” 2.359.3 (2nd c.AD)">Refs 3rd c.BC+</a>]; <span class='asgreek'>ἐν</span> <span class='asgreek'>συγκρίσει</span> of land <b>awaiting the decision</b> of the dioecetes whether it shall be assessed for rent, [<a href="javascript:void(0)" title=" “PTeb.” 61 (b). 220, compare 72.149, +others (2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.40.12]] ☩ [[Dan.5.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.40.12]] ☩ [[LXX.Dan.5.7]]
 </sub></small>

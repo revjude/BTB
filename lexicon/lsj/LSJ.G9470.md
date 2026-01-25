@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>corpse of one slain,</b> [<a href="javascript:void(0)" title=" LXX.Deut.21.1, LXX.Judg.16.24. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.21.1]] ☩ [[Judg.16.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.21.1]] ☩ [[LXX.Judg.16.24]]
 </sub></small>

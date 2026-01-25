@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>invocation</b>, <span class='asgreek'>λιτὰ
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.b</b> <b>shouting</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ichn.” 232. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>name, appellation</b>, <span class='asgreek'>κ</span>. <span class='asgreek'>ἐπωνύμους</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 418. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.18.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.18.14]]
 </sub></small>

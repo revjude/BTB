@@ -5,5 +5,5 @@
  <b>consecration, sanctification,</b> [<a href="javascript:void(0)" title=" LXX.Judg.17.3, +others, NT.1Thess.4.7.">LXX+NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Judg.17.3]] ☩ [[1Thess.4.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.17.3]] ☩ [[1Thess.4.7]]
 </sub></small>

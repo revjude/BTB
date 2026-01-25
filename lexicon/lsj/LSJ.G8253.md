@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>seat of an oracle</b>, [<a href="javascript:void
 $\quad$ $\quad$<b>\_\_III</b> <b>method, process of divination,</b> [<a href="javascript:void(0)" title=" PMag.Lond. 46.1. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> in <i>plural</i>, <b>rewards of divination</b>, [<a href="javascript:void(0)" title=" LXX.Num.22.7. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.22.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.22.7]]
 </sub></small>

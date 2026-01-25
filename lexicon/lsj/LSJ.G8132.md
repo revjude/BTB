@@ -6,5 +6,5 @@
  <b>bloom</b> of the olive or vine, [<a href="javascript:void(0)" title=" LXX.Song.7.12, 12th c.AD: Eustathius Episcopus Thessalonicensis 1095.23. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Song.7.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.7.12]]
 </sub></small>

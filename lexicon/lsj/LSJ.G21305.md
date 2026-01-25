@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>absolutely</i>, <b>thrift, sparing,</b> <span class='asgreek'>κτήματα</span> <span class='asgreek'>δαρδάπτουσιν</span> <span class='asgreek'>ὑπέρβιον</span>, <span class='asgreek'>οὐδ᾽</span> <span class='asgreek'>ἔπι</span> <span class='asgreek'>==φειδώ==ώ</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 14.92, compare 16.315, 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 369; φ. καὶ λιμός 3rd c.AD: Democritus Epigrammaticus 229; φ. πονηρά 5th c.BC: Euripides Tragicus “Fragmenta” 407 ">Refs 8th c.BC+</a>]; opposed to <span class='asgreek'>ἀσωτία</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1390b1. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.3.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.3.13]]
 </sub></small>

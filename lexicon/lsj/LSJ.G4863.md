@@ -23,5 +23,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>conclude</b> from premisses, <b>infer,
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <i>passive</i>, <span class='asgreek'>συνάγεται</span> <span class='asgreek'>τᾷ</span> <span class='asgreek'>περιφορᾷ</span> <b>is carried along with</b> it, [<a href="javascript:void(0)" title=" 5th-4th c.BC: Timaeus Locrus Philosophus 98e. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>bring about</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>τέλος</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>νίκης</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Bella Civilia” 1.101; also σ. τι εἰς τέλος [prev. work] 5.145. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.3.17]] ☩ [[2Kgs.11.27]] ☩ [[Judg.19.15]] ☩ [[Matt.25.35]] ☩ [[Acts.11.26]] ☩ [[Matt.6.26]]
+<small><sub>LSJ Scripture Refs: [[Luke.3.17]] ☩ [[LXX.2Kgs.11.27]] ☩ [[LXX.Judg.19.15]] ☩ [[Matt.25.35]] ☩ [[Acts.11.26]] ☩ [[Matt.6.26]]
 </sub></small>

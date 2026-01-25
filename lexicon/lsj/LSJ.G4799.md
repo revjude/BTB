@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_II</b> of persons, <b>confusion</b>, [<a href="javascript:
 $\quad$ $\quad$<b>\_\_III</b> of contracts and the like, <b>violation</b>, <span class='asgreek'>τῶν</span> <span class='asgreek'>σπονδῶν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.146, 5.26; νόμων 5th-6th c.BC: Isocrates Orator 4.114 (\_plural\_); σ. ὁρκίων 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Alcibiades” 14 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τὴν</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ὅρκων</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>σπονδῶν</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 379e. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>confusion</b>, [<a href="javascript:void(0)" title=" “SIG” 684.7 (Dyme, 2nd c.BC), NT.Acts.19.29. ">NT+2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.11.9]] ☩ [[1Kgs.5.6]] ☩ [[Acts.19.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.11.9]] ☩ [[LXX.1Kgs.5.6]] ☩ [[Acts.19.29]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>anointing, unction,</b> [<a href="javascript:voi
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in “NT” of spiritual <b>grace,</b> <span class='asgreek'>==χρῖσμα==</span> <span class='asgreek'>ἔχετε</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἁγίου</span> [<a href="javascript:void(0)" title=" NT.1John.2.20, compare 27. ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>coating</b> of wall, <b>plaster,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 2.9, 2nd c.AD: Lucianus Sophista “Hist.Conscr.” 62. (The usual accent χρίσμα is wrong, compare χρῖμα.) ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.29.7]] ☩ [[1John.2.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.29.7]] ☩ [[1John.2.20]]
 </sub></small>

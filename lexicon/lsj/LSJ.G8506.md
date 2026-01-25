@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>agreed to, admitted,</b> <span class='asg
 $\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> -<span class='asgreek'>γως</span> <b>agreeably to, in unison with,</b> <span class='asgreek'>ὁ</span>. <span class='asgreek'>ἔχειν</span> <span class='asgreek'>τινί</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1139a30 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ὁ</span>. <span class='asgreek'>κεῖσθαι</span> to be <b>similarly</b> placed, [<a href="javascript:void(0)" title=" [prev. author] “PA” 665b23, +others; also ἐξ ὁμολόγου ">Refs</a>]<b>by agreement,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.67.1, +others; ἐξ ὁμολόγων “IG” 9(2).205.3 (Thess., 3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>confessedly, openly,</b> [<a href="javascript:void(0)" title=" LXX.Hos.14.5; also ἐξ ὁμολόγου 2nd c.BC: Polybius Historicus 3.91.10, etc. ">LXX+2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Hos.14.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hos.14.5]]
 </sub></small>

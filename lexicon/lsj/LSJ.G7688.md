@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> in leprosy, <b>scab</b>, [<a href="javascript:void(
 $\quad$ $\quad$<b>\_\_III</b> the best kind of <span class='asgreek'>ἀμμωνιακόν</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.84. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>fracture,</b> [<a href="javascript:void(0)" title=" Hippiatr. 74 (\_plural\_). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.13.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.13.30]]
 </sub></small>

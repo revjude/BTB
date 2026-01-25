@@ -8,5 +8,5 @@ Included with: <b> <span class='asgreek'>==ἱλαρῶς==</span></b> [<span cl
 $\quad$ $\quad$<b>\_\_II</b> of blood, <b>quick-pulsing</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “de gymnastica” 48 (\_comparative\_). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> of imitation gold, <b>bright,</b> [<a href="javascript:void(0)" title=" PLeid.X. 17 (3rd-4th c.AD). ">Refs 3rd c.AD+</a>] <i>adverb</i> <span class='asgreek'>ἱλαρῶς</span> (to be read <span class='asgreek'>ἱλαρῷ</span>)[<a href="javascript:void(0)" title=" [prev. work]87. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.9.7]] ☩ [[Prov.22.8]] ☩ [[Job.22.26]]
+<small><sub>LSJ Scripture Refs: [[2Cor.9.7]] ☩ [[LXX.Prov.22.8]] ☩ [[LXX.Job.22.26]]
 </sub></small>

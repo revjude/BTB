@@ -6,5 +6,5 @@
  <b>taciturnity</b>, [<a href="javascript:void(0)" title=" Scholia 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 160 (\_plural\_)">Refs 2nd c.AD+</a>]: <i>metaphorically</i>, <b>veil, covering</b>, [<a href="javascript:void(0)" title=" LXX.Song.4.1, 3, 6.6(7); compare σιωπηλός 11. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Song.4.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.4.1]]
 </sub></small>

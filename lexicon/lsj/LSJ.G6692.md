@@ -6,5 +6,5 @@
  (<span class='asgreek'>βουνός</span>) <b>heap up, pile up</b>, [<a href="javascript:void(0)" title=" LXX.Ruth.2.14, 16. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ruth.2.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ruth.2.14]]
 </sub></small>

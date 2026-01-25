@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, in <i>plural</i>, <b>dealings, transactions</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Archytas Tarentinus Philosophus 3, 5th c.BC: Hippocrates Medicus “περὶ ἰητροῦ” 1 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἑκούσια</span> <span class='asgreek'>σ</span>., i.e. sales, loans, etc., distinguished from <span class='asgreek'>ἀκούσια</span> <span class='asgreek'>σ</span>., i.e. crimes of force or fraud, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1131a2, compare “Rh.” 1376b12 ">Refs 4th c.BC+</a>]; <span class='asgreek'>βίαια</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" LXX.Isa.58.6; σ. καὶ ἐγκλήματα “OGI” 229.54 (Smyrna, 3rd c.BC). ">LXX+3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.58.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.58.6]]
 </sub></small>

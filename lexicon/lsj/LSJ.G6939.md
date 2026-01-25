@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>digging through, house-breaking,</b> [<a href="j
 $\quad$ $\quad$<b>\_\_III</b> <b>hole made in wall by</b> <span class='asgreek'>χελώνη</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeneas Tacticus 32.12. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>siege-mine,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 20.94. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.22.2]] ☩ [[Jer.2.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.22.2]] ☩ [[LXX.Jer.2.34]]
 </sub></small>

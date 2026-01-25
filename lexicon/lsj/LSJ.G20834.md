@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>ἀναμιμνῄσκ
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>remember, recall to mind,</b> <span class='asgreek'>τινός</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.151, 5th c.BC: Thucydides Historicus 2.54, etc.">Refs 5th c.BC+</a>]; less frequently <span class='asgreek'>τι</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 661, 5th-6th c.BC: Plato Philosophus “Phaedo” 72e, 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.1.26; περί τι 5th-6th c.BC: Plato Philosophus “Respublica” 329a">Refs 5th c.BC+</a>]: followed by a <i>relative</i>, <span class='asgreek'>ἀναμνησθέντας</span> <span class='asgreek'>οἷα</span> <span class='asgreek'>ἐπάσχετε</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.109: \_absolutely\_, [prev. author] 3.51, 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 552. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>νοσήματος</span> have a <b>relapse,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 17(2).423.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.20.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.20.24]]
 </sub></small>

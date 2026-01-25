@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>senseless, stupid,</b> <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> of things, <b>useless,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “κατ᾽ ἰητρεῖον” 8; ἐς τὸ ἐ. κεῖσθαι [prev. passage] ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>dumbfounded, astonished,</b> <span class='asgreek'>εἱστήκεισαν</span> <span class='asgreek'>ἐ</span>.
 
-<small><sub>LSJ Scripture Refs: [[Acts.9.7]] ☩ [[Isa.56.10]]
+<small><sub>LSJ Scripture Refs: [[Acts.9.7]] ☩ [[LXX.Isa.56.10]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>ἀ</span>. <span clas
 $\quad$ $\quad$<b>\_\_II</b> in moral sense, <b>indecorum, obscene</b> or <b>disgraceful conduct,</b> [<a href="javascript:void(0)" title="NT.Rom.1.27: in \_plural\_, 1st c.AD: Philo Judaeus 1.78, 2nd c.AD: Vettius Valens Astrologus 61.31. ">NT+1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> euphemistic for <span class='asgreek'>αἰδοῖον</span>, [<a href="javascript:void(0)" title=" LXX.Lev.18.7, +others">LXX</a>]; for <span class='asgreek'>ἀπόπατος</span>,[<a href="javascript:void(0)" title="LXX.Deut.23.13(14).">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.27]] ☩ [[Lev.18.7]] ☩ [[Deut.23.13]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.27]] ☩ [[LXX.Lev.18.7]] ☩ [[LXX.Deut.23.13]]
 </sub></small>

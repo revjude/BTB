@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> = <b>impetum facio, irruo,</b> [<a href="jav
 $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, with <i>accusative</i> <i>of things</i>, <span class='asgreek'>πενταδραχμίαν</span> <span class='asgreek'>ἑκάστῳ</span> <span class='asgreek'>==ἐφοδιάζω==ιασάμενος</span> <b>having seen</b> that five drachmae <b>were paid</b> to each, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 1.6.12. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <b>maintain, promote</b>, <span class='asgreek'>ἀργίαν</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Solon” 23; τὴν ἀπείθειαν [prev. author] “Cor.” 16. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.15.14]] ☩ [[Josh.9.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.15.14]] ☩ [[LXX.Josh.9.12]]
 </sub></small>

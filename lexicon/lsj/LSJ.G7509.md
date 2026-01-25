@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> concrete, <span class='asgreek'>ἐρύθημα</span> <span class='asgreek'>ἱματίων</span> <b>scarlet</b> garments, [<a href="javascript:void(0)" title=" LXX.Isa.63.1. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.63.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.63.1]]
 </sub></small>

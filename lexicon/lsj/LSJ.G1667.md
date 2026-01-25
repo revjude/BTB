@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>whirl in the dance</b>, [<a href="java
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <i>middle</i> in <i>active</i> sense, <span class='asgreek'>ἧκε</span> <span class='asgreek'>δέ</span> <span class='asgreek'>μιν</span> <span class='asgreek'>σφαιρηδὸν</span> <span class='asgreek'>ἑλιξάμενος</span> he threw it <b>with a whirl</b> like a ball, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 13.204. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <span class='asgreek'>τὰς</span> <span class='asgreek'>κεφαλὰς</span> <span class='asgreek'>εἱλίχατο</span> <span class='asgreek'>μίτρῃσι</span> <b>have their</b> heads <b>rolled round</b> with turbans, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.90. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.34.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.34.4]]
 </sub></small>

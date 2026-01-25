@@ -6,5 +6,5 @@
  ={<span class='asgreek'>ψαλμῳδός</span>},[<a href="javascript:void(0)" title="LXX.1Chr.9.33, LXX.2Chr.5.12, +others, variant LXX.Sir.47.9. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Chr.9.33]] ☩ [[2Chr.5.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.9.33]] ☩ [[LXX.2Chr.5.12]]
 </sub></small>

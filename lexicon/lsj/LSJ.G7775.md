@@ -6,5 +6,5 @@
  ={<span class='asgreek'>ἀσκαλαβώτης</span>}, [<a href="javascript:void(0)" title=" LXX.Lev.11.30, “PMag.Lond.” 121.186. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.11.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.11.30]]
 </sub></small>

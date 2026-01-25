@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>διπλόη</span>} 1, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ νούσων” 2.23. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>abscess</b> in horse's ear, [<a href="javascript:void(0)" title=" “Hippiatrica” 17. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.2.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.2.19]]
 </sub></small>

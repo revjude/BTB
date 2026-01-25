@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>paint, varnish,</b> etc., [<a href="javas
 $\quad$ $\quad$<b>\_\_II</b> <b>anointing, laying on</b> of unguents or paint, <span class='asgreek'>ἀ</span>. <span class='asgreek'>μύρων</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus Alcaeus1.122c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>erasure,</b> [<a href="javascript:void(0)" title=" LXX.Exod.17.14, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.611a.">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mic.7.11]] ☩ [[Exod.17.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mic.7.11]] ☩ [[LXX.Exod.17.14]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> see at {<span class='asgreek'>μώλυσις</span>}.
 
-<small><sub>LSJ Scripture Refs: [[Jer.51.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.51.4]]
 </sub></small>

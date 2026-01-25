@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>passive</i>, of flesh, <b>to be mortified
 $\quad$ $\quad$<b>\_\_II</b> <b>condemn to death by sentence</b> of law, [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 3.3.11, NT.Matt.26.60 ">NT+5th c.BC+</a>]:— <i>passive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 2.6.4 ">Refs 5th c.BC+</a>]; <span class='asgreek'>οἱ</span> <span class='asgreek'>τεθανατωμένοι</span> those <b>condemned to death</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus [prev. cited] ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>to be fatal, cause death</b>, <span class='asgreek'>ὄφεις</span> -<span class='asgreek'>οῦντες</span> [<a href="javascript:void(0)" title=" LXX.Num.21.6 ">LXX</a>]; <span class='asgreek'>μυῖαι</span> -<span class='asgreek'>οῦσαι</span>[<a href="javascript:void(0)" title="LXX.Eccl.10.1; νόσος 1st c.AD: Philo Judaeus 2.247 (-ῶσαν, -ώσασαν codices). ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.14.45]] ☩ [[Rom.7.4]] ☩ [[Rom.8.13]] ☩ [[Matt.26.60]] ☩ [[Num.21.6]] ☩ [[Eccl.10.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.14.45]] ☩ [[Rom.7.4]] ☩ [[Rom.8.13]] ☩ [[Matt.26.60]] ☩ [[LXX.Num.21.6]] ☩ [[LXX.Eccl.10.1]]
 </sub></small>

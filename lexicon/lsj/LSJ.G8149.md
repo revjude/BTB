@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>clamp, clasp</b>, [<a href="javascript
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>tongs</b> or <b>snuffers</b> to trim lamps, [<a href="javascript:void(0)" title=" LXX.Exod.38.17 (37.23), LXX.Num.4.9, variant in 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 8.3.7. ">LXX+1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> ={<span class='asgreek'>πυράγρα</span>}, [<a href="javascript:void(0)" title=" Cyrilli Glossarium ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.3.22]] ☩ [[Exod.38.17]] ☩ [[Num.4.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.3.22]] ☩ [[LXX.Exod.38.17]] ☩ [[LXX.Num.4.9]]
 </sub></small>

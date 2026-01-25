@@ -14,5 +14,5 @@ $\quad$ ****<b>\_\_B</b> <i>intransitive</i>, <b>burn, blaze,</b> of fire, torch
 $\quad$ $\quad$ $\quad$<b>\_\_B.2</b> <i>metaphorically</i>, <b>burst</b> or <b>break forth,</b> of passion, <span class='asgreek'>θυμὸς</span> <span class='asgreek'>ἀνδρεία</span> <span class='asgreek'>==φλέγω==ν</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 52, compare 287; φ. λύσσῃ 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 680 (Lyric poetry)">Refs 5th c.BC+</a>]; of grief, [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 3.773. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.3</b> <b>shine forth, become famous,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “N.” 6.38 ">Refs 5th c.BC+</a>].—poetical in early writers, except [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus ">Refs 5th c.BC+</a>] [same places] (Cf. Latin <i>fulgeo, flagro, flamma,</i> Lett. <b>blāzma</b> 'glare of light or fire'.)
 
-<small><sub>LSJ Scripture Refs: [[Deut.32.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.22]]
 </sub></small>

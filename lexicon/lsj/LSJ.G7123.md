@@ -6,5 +6,5 @@
  <b>becoming sober</b> or <b>calm,</b> [<a href="javascript:void(0)" title=" LXX.Lam.2.18. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lam.2.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lam.2.18]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>vocative</i> <span class='asgreek'>==κρ
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>==κρύφιος==ιος</span>, <span class='asgreek'>ὁ</span>, fabulous gem, Ps.-[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fluv.” 13.4. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <span class='asgreek'>==κρύφιος==ιος</span>, <span class='asgreek'>ὁ</span>, title of a grade of initiates in the mysteries of Mithras, [<a href="javascript:void(0)" title="“CIL” 6.751a, 753 (\_plural\_). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ruth.4.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ruth.4.1]]
 </sub></small>

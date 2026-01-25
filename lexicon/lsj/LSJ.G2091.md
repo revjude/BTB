@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>preparation</b>, <span class='asgreek'>ἀρμένων</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aeneas Tacticus 21.1, cf. LXX.Ps.9.38 (10.17)">LXX+4th c.BC+</a>]; <span class='asgreek'>τροφῆς</span>[<a href="javascript:void(0)" title="LXX.Wis.13.12 ">LXX</a>]; <b>equipment</b>, <span class='asgreek'>ἐν</span> -<span class='asgreek'>ασίᾳ</span> <span class='asgreek'>εὐαγγελίου</span> [<a href="javascript:void(0)" title=" NT.Eph.6.15. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.9.38]] ☩ [[Eph.6.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.9.38]] ☩ [[Eph.6.15]]
 </sub></small>

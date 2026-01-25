@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>heap with</b> something, with <i>genitive</i>, <span class='asgreek'>αἰγιαλοὶ</span> <span class='asgreek'>σε==σωρεύω==ευμένοι</span> <span class='asgreek'>τινῶν</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 16.8.9: with \_dative\_, σ. βωμοὺς λιβάνῳ 2nd c.AD: Herodianus Grammaticus 4.8.9; αὐχένας στέμμασι “Anthologia Graeca” 7.233 (1st c.AD: Apollonides Epigrammaticus): \_metaphorically\_, γυναικάρια σε==σωρεύω==ευμένα ἁμαρτίαις NT.2Tim.3.6. ">NT+2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.25.22]] ☩ [[Rom.12.20]] ☩ [[2Tim.3.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.25.22]] ☩ [[Rom.12.20]] ☩ [[2Tim.3.6]]
 </sub></small>

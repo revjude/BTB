@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀκοή</span></span>, <span class="asgreek">-ῆς, ἡ</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">ἀκούω</span></span>),</span>  <span class="asseptuagint">\[in LXX: [[Exod.15.26|Ex 15:26]], al. for <span class="ashebrew">שׁמע</span> <small><sup>[[H8085]]</sup></small>, its parts and derivatives, exc. [[Deut.11.22|De 11:22]] (<span class="ashebrew">שׁמר</span> <small><sup>[[H8104]]</sup></small>);\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀκοή</span></span>, <span class="asgreek">-ῆς, ἡ</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">ἀκούω</span></span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Exod.15.26|Ex 15:26]], al. for <span class="ashebrew">שׁמע</span> <small><sup>[[H8085]]</sup></small>, its parts and derivatives, exc. [[LXX.Deut.11.22|De 11:22]] (<span class="ashebrew">שׁמר</span> <small><sup>[[H8104]]</sup></small>);\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">hearing</span>, <span class="asitalic">the sense of hearing</span>: [[1Cor.12.17|I Co 12:17]], [[2Pet.2.8|II Pe 2:8]]; "Hebraic dative," <span class="asgreek">ἀκοῇ ακούειν</span> (freq. in LXX; V. M, <span class="asitalic">Pr.</span>, 14, 75), [[Matt.13.14|Mt 13:14]], [[Acts.28.26|Ac 28:26]].</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">organ of hearing</span>, <span class="asitalic">the ear</span> (Arist., al.; MM, <span class="asitalic">VGT</span>, s.v.): [[2Tim.4.3|II Ti 4:3]], [[2Tim.4.4|4]]; pl., [[Mark.7.35|Mk 7:35]], [[Luke.7.1|Lk 7:1]], [[Acts.17.20|Ac 17:20]], [[Heb.5.11|He 5:11]].</span>
 <span class="asbullet"><span class="asbold">3.</span> <span class="asitalic">a thing heard</span>, i.e.,</span>
@@ -9,8 +9,8 @@ $\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asit
 
 | Book | Refs |
 | - | - |
-| Exodus | [[Exod.15.26\|15:26]] |
-| Deuteronomy | [[Deut.11.22\|11:22]] |
+| Exodus | [[LXX.Exod.15.26\|15:26]] |
+| Deuteronomy | [[LXX.Deut.11.22\|11:22]] |
 | Matthew | [[Matt.4.24\|4:24]] · [[Matt.13.14\|13:14]] |
 | Mark | [[Mark.1.28\|1:28]] · [[Mark.7.35\|7:35]] · [[Mark.13.7\|13:7]] |
 | Luke | [[Luke.7.1\|7:1]] |

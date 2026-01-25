@@ -21,5 +21,5 @@ $\quad$ $\quad$<b>\_\_III</b> <i>middle</i> in <i>intransitive</i> sense, [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> of birds, <b>settle, alight</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 614b23. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>leave goods purchased</b> in a market, [<a href="javascript:void(0)" title=" “SIG” 975.6 (Delos, 3rd c.BC)">Refs 3rd c.BC+</a>].--<i>Attic dialect</i> in this <i>signification</i> <i>accusative</i> to [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.12.2]] ☩ [[Matt.19.28]] ☩ [[Mal.3.3]] ☩ [[Neh.13.27]] ☩ [[Ruth.2.23]] ☩ [[Neh.11.1]]
+<small><sub>LSJ Scripture Refs: [[Heb.12.2]] ☩ [[Matt.19.28]] ☩ [[LXX.Mal.3.3]] ☩ [[LXX.Neh.13.27]] ☩ [[LXX.Ruth.2.23]] ☩ [[LXX.Neh.11.1]]
 </sub></small>

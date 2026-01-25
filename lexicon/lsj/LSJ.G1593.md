@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i>, <b>shun, avoid,</b> 
 $\quad$ $\quad$<b>\_\_II</b> <b>fall headlong,</b> <span class='asgreek'>εἰς</span> <span class='asgreek'>θάνατον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 1268; ἐ. πρός τι ">Refs 5th c.BC+</a>]<b>to turn aside,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.297: with \_genitive\_, τῶν παρόντων 3rd c.AD: Plotinus Philosophus 6.7.34. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>motion away,</b> <span class='asgreek'>ἐξένευσ᾽</span> <span class='asgreek'>ἀποστῆναι</span> <span class='asgreek'>πρόσω</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 1330. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.23.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.23.16]]
 </sub></small>

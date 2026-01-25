@@ -21,5 +21,5 @@ $\quad$ $\quad$<b>\_\_II</b> very rarely <i>transitive</i>, <b>let flow, pour</b
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> with <i>accusative</i> <i>cognate</i>, <span class='asgreek'>ῥείτω</span> <span class='asgreek'>γάλα</span>, <span class='asgreek'>μέλι</span>, <b>let</b> the land <b>run</b> milk, honey, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 5.124, 126 ">Refs 3rd c.BC+</a>]; <span class='asgreek'>αἷμα</span> <span class='asgreek'>ῥυήσεται</span>, of the Nile, [<a href="javascript:void(0)" title=" 2nd c.BC: Ezekiel Poeta Judaeus “Exagoge - Mnemosyne” 133; οἶνον ==ῥέω==ν 2nd c.AD: Lucianus Sophista “VH” 1.7, cf. LXX.Joel.3.18, Scholia 5th-6th c.BC: Aristophanes Comicus “Plutus” 287:—in place of this \_accusative\_ the best writers commonly used the \_dative\_, see above 1.1. ">LXX+5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> see at {<span class='asgreek'>ῥέον</span>}. (Cf. <span class='asgreek'>ῥό</span>ϝ<span class='asgreek'>ος</span>, Sanskrit <i>sravati</i>, Lithuanian <i>sravēti</i> 'flow': I.-[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus ">Refs 5th c.BC+</a>] <b>srèw-</b> alternating with <b>sr[ocaron]w-</b> and <b>sr[ucaron]-.</b>)
 
-<small><sub>LSJ Scripture Refs: [[Joel.3.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Joel.3.18]]
 </sub></small>

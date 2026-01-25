@@ -6,5 +6,5 @@
  <b>crowd of people,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 10.14.15, LXX.Job.39.7; τῶν νέων “Inscription Perg.” 252.22. ">LXX+2nd c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.39.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.39.7]]
 </sub></small>

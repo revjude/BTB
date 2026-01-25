@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ἑορτή</span>}, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 700. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.16.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.16.27]]
 </sub></small>

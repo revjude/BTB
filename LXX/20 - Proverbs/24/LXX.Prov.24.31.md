@@ -1,0 +1,31 @@
+**LXX Proverbs 24:31** 
+<small><sub>**LXX:**</sub></small>
+if you should let it go barren, then entirely overgrown; and failing takes place;  and his fences of stones shall be razed. 
+<small><sub>**KJV:**</sub></small>
+And, lo, it was all grown over with thorns, [and] nettles had covered the face thereof, and the stone wall thereof was broken down.
+<small><sub>**BSB:**</sub></small>
+Thorns had grown up everywhere, thistles had covered the ground, and the stone wall was broken down.<small><sub>**MT:**</sub></small>
+[[Prov.24.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.30|<< Proverbs 24:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.32|Proverbs 24:32 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| if | <span class="asgreek">εάν <sup><small><small>[[G1437]]</small></small></sup> </span> |
+| you should let | <span class="asgreek">αφής <sup><small><small>[[G0863]]</small></small></sup> </span> |
+| it | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| go barren, | <span class="asgreek">χερσωθήσεται <sup><small><small>[[G9720]]</small></small></sup> </span> |
+| then | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| overgrown | <span class="asgreek">χορτομανήσει <sup><small><small>[[G9752]]</small></small></sup> </span> |
+| entirely | <span class="asgreek">όλος <sup><small><small>[[G3650]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| takes place | <span class="asgreek">γίνεται <sup><small><small>[[G1096]]</small></small></sup> </span> |
+| failing | <span class="asgreek">εκλελειμμένος <sup><small><small>[[G1587]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
+| fences | <span class="asgreek">φραγμοί <sup><small><small>[[G5418]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| of stones | <span class="asgreek">λίθων <sup><small><small>[[G3037]]</small></small></sup> </span> |
+| his | <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| shall be razed. | <span class="asgreek">κατασκάπτονται <sup><small><small>[[G2679]]</small></small></sup> </span> |
+[[Prov.24.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.30|<< Proverbs 24:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.32|Proverbs 24:32 >>]]</td></tr></table>
+
+

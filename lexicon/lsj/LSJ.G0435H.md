@@ -22,5 +22,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_VI.8</b> In [<a href="javascript:void(0)" title=" 
 $\quad$ $\quad$ $\quad$<b>\_\_VI.9</b> <span class='asgreek'>ἄνδρας</span> <span class='asgreek'>γράφειν</span>· <span class='asgreek'>τὸ</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>διδασκάλου</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>παιδία</span> <span class='asgreek'>ὀνόματα</span> <span class='asgreek'>γράφειν</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> <b>male animal,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 637b15.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.8.24]] ☩ [[Job.41.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.8.24]] ☩ [[LXX.Job.41.8]]
 </sub></small>

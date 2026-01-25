@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>σ</span>. <span class
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>tell along with, help to tell</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hippolytus” 557 (Lyric poetry). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> [<a href="javascript:void(0)" title=" 1 ">Refs</a>]<i>aorist</i> <i>middle</i> <span class='asgreek'>συνειπάμην</span>, <b>agree, conspire</b>, with <i>infinitive</i>, [<a href="javascript:void(0)" title=" LXX.Dan.2.9, 1st c.BC: Dionysius Halicarnassensis 5.51: \_absolutely\_, συνειπάμεναι ἐπένθησαν [prev. work] 48 ">LXX+1st c.BC+</a>]; <span class='asgreek'>καθάπερ</span> <span class='asgreek'>σοι</span> <span class='asgreek'>συνειπάμην</span> as I <b>arranged</b> with you, [<a href="javascript:void(0)" title=" “PCair.Zen.” 229.6 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.2.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.2.9]]
 </sub></small>

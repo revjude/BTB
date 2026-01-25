@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b>. <b>small urn placed on a</b> <span class
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b>. <b>imposture, deception</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Aquila LXX.Prov.11.1, +others ">LXX+2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b>. [<a href="javascript:void(0)" title=" 4th-5th c.BC: Pythagoras Philosophus ">Refs 4th c.BC+</a>] name for <b>two</b>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.8.18]] ☩ [[Prov.11.1]]
+<small><sub>LSJ Scripture Refs: [[Acts.8.18]] ☩ [[LXX.Prov.11.1]]
 </sub></small>

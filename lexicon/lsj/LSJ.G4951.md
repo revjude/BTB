@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>drag by force, hale</b>, <span class='asg
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i> in <i>passive</i>, <b>to be dragged, drawn</b>, <span class='asgreek'>εἰς</span> <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἀναγκαῖα</span> <span class='asgreek'>πράγματα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Diogenes Oenoandensis Epicureus 1, compare 4th c.AD: Iamblichus Philosophus “de vita Pythagorica” 3.16. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>passive</i>, of taxes, <b>to be attached</b> to land, <i>perfect</i> <i>participle</i> <span class='asgreek'>σεσυρομένης</span> (sic) [<a href="javascript:void(0)" title=" “PLond.” 5.1686.33 (6th c.AD), compare ἐπισεσυρομένα in “PFlor.” 294.41 (6th c.AD), and ἐπισύρεσθαι in “PMasp.” 151.135 (6th c.AD). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.17.13]] ☩ [[John.21.8]] ☩ [[Deut.32.24]] ☩ [[Acts.8.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.17.13]] ☩ [[John.21.8]] ☩ [[LXX.Deut.32.24]] ☩ [[Acts.8.3]]
 </sub></small>

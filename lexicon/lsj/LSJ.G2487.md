@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>ἴ</span>. <span clas
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>track, route</b> in the desert, [<a href="javascript:void(0)" title=" “PRyl.” 197.8 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> <i>plural</i>, <b>representations of footprints</b> as votive offerings indicating the presence of a God, <span class='asgreek'>ἀνέθηκαν</span>.. <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>θεοῦ</span> <span class='asgreek'>ἐνέργιαν</span> <span class='asgreek'>ἴχνη</span> <span class='asgreek'>αὐτοῦ</span> <span class='asgreek'>χρύσεα</span> <span class='asgreek'>τέσσερα</span> [<a href="javascript:void(0)" title=" “BCH” 51.106 (from Panamara), etc. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.4.12]] ☩ [[Deut.11.24]] ☩ [[1Kgs.5.4]]
+<small><sub>LSJ Scripture Refs: [[Rom.4.12]] ☩ [[LXX.Deut.11.24]] ☩ [[LXX.1Kgs.5.4]]
 </sub></small>

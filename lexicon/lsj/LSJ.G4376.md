@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> (from <i>middle</i>) <b>taking</b> of food, [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>food, victuals</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἀφορισμοί” 2.33 (\_plural\_), 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 4.9.6, 5th-6th c.AD: Orphica “Fragmenta” 49.87. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>flavour</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.8.11, 2nd c.AD: Athenaeus Epigrammaticus 1.33f ">Refs 4th c.BC+</a>]; <b>bouquet</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 9.19.1. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.39.7]] ☩ [[Acts.21.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.39.7]] ☩ [[Acts.21.26]]
 </sub></small>

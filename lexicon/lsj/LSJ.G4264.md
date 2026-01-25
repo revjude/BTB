@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>teach,</b> <span class='asgreek'>τιν�
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, ={<span class='asgreek'>προβαίνω</span>}, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 10.44.1, 2nd c.AD: Aristides Rhetor 2.231 1st c.AD: Josephus Historicus ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> of a male, <b>mount before,</b> <span class='asgreek'>ἄλλην</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 546a10. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.6.7]] ☩ [[Acts.19.33]] ☩ [[Matt.14.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.6.7]] ☩ [[Acts.19.33]] ☩ [[Matt.14.8]]
 </sub></small>

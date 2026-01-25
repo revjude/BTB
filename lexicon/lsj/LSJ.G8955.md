@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>watch, vigil</b>, [<a href="javascript:void(0)"
 $\quad$ $\quad$<b>\_\_IV</b> <b>caution</b>, <span class='asgreek'>==προφυλακή==ακῇ</span> <span class='asgreek'>χρῆσθαι</span> <span class='asgreek'>περί</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.283. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>precaution</b>, c.<i>genitive</i>, against.., [<a href="javascript:void(0)" title=" [prev. author] 2.368, +others, compare 4th-3rd c.BC: Epicurus Philosophus “Oxy.” 215 iii 14: in Medicine texts, ==προφυλακή==ακῆς χάριν">Refs 4th c.BC+</a>] as a <b>precaution</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.118, compare 1st c.AD: Dioscorides (Dioscurides) Medicus 2.47. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.12.42]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.12.42]]
 </sub></small>

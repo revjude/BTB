@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>moistening</b>, [<a href="javascript:void(0)" ti
 $\quad$ $\quad$<b>\_\_III</b> <b>inundation</b> of the Nile, in <i>plural</i>, [<a href="javascript:void(0)" title=" “POxy.” 280.5 (1st c.AD), 4th c.AD: Hephaestio Astrologus 1.23. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>irrigation</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 9.6.3, “PPetr.” 3p.119 (3rd c.BC). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.67.10]] ☩ [[Matt.7.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.67.10]] ☩ [[Matt.7.25]]
 </sub></small>

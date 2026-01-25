@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>overload</b>(?), <span class='asgreek'>τὰς</span> <span class='asgreek'>ἅλως</span> [<a href="javascript:void(0)" title=" “PFay.” 112.20 (1st c.AD). ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>oppress</b>, [<a href="javascript:void(0)" title=" LXX.Judg.10.8, +others (Cf. φλάω.) ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.18.21]] ☩ [[Judg.10.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.18.21]] ☩ [[LXX.Judg.10.8]]
 </sub></small>

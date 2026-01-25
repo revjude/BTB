@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b><span class='asgreek'>ἱλαστήριον</sp
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> (i.e. <span class='asgreek'>ἀνάθημα</span>) <b>propitiatory gift</b> or <b>offering,</b> [<a href="javascript:void(0)" title="NT.Rom.3.25">NT</a>]; of a monument, [<a href="javascript:void(0)" title=" “Inscription Cos” 81,347. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>monastery</b>, Men.Prot.p.15 [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.25.16]] ☩ [[Lev.16.2]] ☩ [[Heb.9.5]] ☩ [[Rom.3.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.25.16]] ☩ [[LXX.Lev.16.2]] ☩ [[Heb.9.5]] ☩ [[Rom.3.25]]
 </sub></small>

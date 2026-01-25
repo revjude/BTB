@@ -6,5 +6,5 @@
  <b>prudence</b>, [<a href="javascript:void(0)" title=" LXX.Prov.16.23. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.16.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.16.23]]
 </sub></small>

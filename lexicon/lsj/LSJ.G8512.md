@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>bordering on, closely resembling,</b> <span class='asgreek'>ὅμοροι</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>ἀνδρεῖος</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>θρασύς</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Eudemia” 1232a25; ==ὅμορος== οὖσα τῇ αἰσθητῇ φύσει 3rd c.AD: Plotinus Philosophus 4.8.7. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> as <i>substantive</i>, <span class='asgreek'>ὅ</span>. <span class='asgreek'>τινῶν</span> their <b>neighbours,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 14.18, compare 5th c.BC: Thucydides Historicus 2.85; οἱ ὅ. ">Refs 5th c.BC+</a>]<b>neighbouring people,</b> [<a href="javascript:void(0)" title=" [prev. author] 1.15, etc.">Refs</a>]; <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ὅ</span>. <span class='asgreek'>διάφοροι</span> because of their <b>neighbourhood,</b> [<a href="javascript:void(0)" title=" [prev. author] 6.88. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.35.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.35.5]]
 </sub></small>

@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>make</b> a fire <b>in</b>, <span class='asgreek'
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i> of passion, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Symmachus LXX.Ps.38.4. ">LXX+2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>absolutely</i>, <b>offer sacrifice</b>, <span class='asgreek'>Ἀπόλλωνι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 1.42.6. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.38.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.38.4]]
 </sub></small>

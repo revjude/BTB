@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> of sores or boils, <b>break out,</
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, of passion, <b>boil over,</b> Arist [<a href="javascript:void(0)" title=" “Pr.” 947b32, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.728b">Refs 1st c.AD+</a>]; <span class='asgreek'>ἀναζείουσα</span> <span class='asgreek'>βαρὺν</span> <span class='asgreek'>χόλον</span> <b>boil</b> with rage, [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 4.391; ἀνέζεσεν αἷμα 5th c.BC: Pherecrates Comicus 18 4th c.BC: Demosthenes Orator; ἀνέζει ἡ καρδία 4th c.AD: Themistius Sophista “Orationes” 13.172d. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> causal, <b>make to boil,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ διαίτης ὀξέων” 21; ἀναζείουσιν ἀϋτμήν “Anthologia Graeca” 9.626 (5th-6th c.AD: Marianus Epigrammaticus).">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.9.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.9.9]]
 </sub></small>

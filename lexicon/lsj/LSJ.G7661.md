@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <span class='asgreek'>θερμόν</spa
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>θ</span>. (i.e. <span class='asgreek'>χωρία</span>) [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.29 ">Refs 5th c.BC+</a>]; but (i.e. <span class='asgreek'>λουτρά</span>), <b>hot springs</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 4.5.3; τὰ θ. τοῦ Ἡρακλέους 1st c.BC-1st c.AD: Strabo Geographus 9.4.2. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>adverb</i> <b>-<span class='asgreek'>μῶς</span></b>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Euthydemus” 284e ">Refs 5th c.BC+</a>]: <i>comparative</i> -<span class='asgreek'>ότερον</span>, <span class='asgreek'>ἔχειν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Eubulus Comicus 7.1 ">Refs 4th c.BC+</a>]: <i>neuter</i> <i>plural</i> as <i>adverb</i>, <span class='asgreek'>θερμὰ</span> <span class='asgreek'>θερμὰ</span> <span class='asgreek'>πηδῶσαι</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 4.61. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.38.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.38.2]]
 </sub></small>

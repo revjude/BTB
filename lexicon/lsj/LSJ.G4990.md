@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> in [<a href="javascript:void(0)" title=" LXX
 $\quad$ $\quad$<b>\_\_II</b> in Poets, as <i>adjective</i>, <span class='asgreek'>σ</span>. <span class='asgreek'>ναὸς</span> <span class='asgreek'>πρότονος</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 897, compare 5th c.BC: Pindarus Lyricus “Fragmenta.” 159 ">Refs 5th c.BC+</a>]; with a <i>feminine</i> noun, <span class='asgreek'>γονῆς</span> <span class='asgreek'>σωτῆρος</span> (as [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Hermes Trismegistus for γυνή) 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 225 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τιμαὶ</span> <span class='asgreek'>σωτῆρες</span> the office or prerogative <b>of saving</b>, of the Dioscuri, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Electra” 993 (\_anapaest meter\_). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> name of a month created by Caligula, [<a href="javascript:void(0)" title=" “BGU” 1078 (38 2nd c.AD: Apollonius Dyscolus Grammaticus), “PRyl.” 2.149 (39 / 40 2nd c.AD: Apollonius Dyscolus Grammaticus), etc. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.32.15]] ☩ [[1Tim.1.1]] ☩ [[Luke.2.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.15]] ☩ [[1Tim.1.1]] ☩ [[Luke.2.11]]
 </sub></small>

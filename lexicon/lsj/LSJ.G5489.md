@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>any leaf</b> or <b>thin plate,</b> <span class='asgreek'>χ</span>. <span class='asgreek'>μολύβδινοι</span> <b>sheets</b> of lead, [<a href="javascript:void(0)" title=" 2nd or1st c.BC: Lysimachus Historicus cited in 1st c.AD: Josephus Historicus “contra Apionem” 1.34. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.8.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.8.1]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ἡ</span> <span class='as
 $\quad$ $\quad$<b>\_\_IV</b> <b>membrum virile,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Artemidorus Daldianus Onirocriticus 1.45. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>skill,</b> [<a href="javascript:void(0)" title=" LXX.Eccl.4.4.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.4.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.4.4]]
 </sub></small>

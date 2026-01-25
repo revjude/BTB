@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>sacred college</b>, <span class='asgreek'>ἱερὰ</span> <span class='asgreek'>γ</span>. [<a href="javascript:void(0)" title=" “IG” 3.702 (from Eleusis), compare 7.2808 (Hyettus, 3rd c.BC), etc. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>πρεσβεία</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Rhesus” 936. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.5.21]] ☩ [[Exod.3.16]]
+<small><sub>LSJ Scripture Refs: [[Acts.5.21]] ☩ [[LXX.Exod.3.16]]
 </sub></small>

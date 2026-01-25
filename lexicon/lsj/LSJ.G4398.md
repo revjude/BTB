@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>prophet's wife</b>, [<a href="javascript:void(0)" title=" LXX.Isa.8.3. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.15.20]] ☩ [[Judg.4.4]] ☩ [[Isa.8.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.15.20]] ☩ [[LXX.Judg.4.4]] ☩ [[LXX.Isa.8.3]]
 </sub></small>

@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> in <i>aorist</i>, <b>come to a standstill
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>enter in, pierce,</b> <span class='asgreek'>εἴς</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 10.7. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>to be urgent against,</b> <span class='asgreek'>τινί</span> [<a href="javascript:void(0)" title=" LXX.Gen.49.23, NT.Mark.6.19, NT.Luke.11.53. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.49.23]] ☩ [[Mark.6.19]] ☩ [[Luke.11.53]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.49.23]] ☩ [[Mark.6.19]] ☩ [[Luke.11.53]]
 </sub></small>

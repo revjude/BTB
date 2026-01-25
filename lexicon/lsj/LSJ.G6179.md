@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> of wood, <b>without heart</b> or <b>pith, solid</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 3.12.1.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.5.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.5.21]]
 </sub></small>

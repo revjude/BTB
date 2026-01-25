@@ -6,5 +6,5 @@
  ={<span class='asgreek'>ἀμφιδέξιος</span>}, [<a href="javascript:void(0)" title=" LXX.Josh.3.15, 5th c.AD: Aristaenetus Rhetor 1.8, 2nd c.AD: Galenus Medicus 18(1).147.">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Josh.3.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.3.15]]
 </sub></small>

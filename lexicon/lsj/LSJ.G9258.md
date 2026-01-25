@@ -6,5 +6,5 @@
  (<span class='asgreek'>συμβολή</span> IV) <b>to be given to feasting</b>, [<a href="javascript:void(0)" title=" LXX.Deut.21.20, LXX.Sir.18.33. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.21.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.21.20]]
 </sub></small>

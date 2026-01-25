@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">περισσεύω</span></span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">περισσός</span>),</span>  <span class="asseptuagint">\[in LXX: [[1Sam.2.33|I Ki 2:33]] (<span class="ashebrew">מַרְבִּית</span> <small><sup>[[H4768]]</sup></small>), [[1Sam.2.36|I Ki 2:36]], [[Eccl.3.19|Ec 3:19]] (<span class="ashebrew">יתר</span> <small><sup>[[H3498]]</sup></small> ni., <span class="ashebrew">יוׄתֵר</span> <small><sup>[[H3148]]</sup></small>), [[Tob.4.16|To 4:16]], [[Sir.10.27|Si 10:27]] [[Sir.11.12|11:12]] [[Sir.19.24|19:24]], [[Sir.30.38|30:38]] ([[Sir.33.29|33:29]]), [[1Macc.3.30|I Mac 3:30]]\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">περισσεύω</span></span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">περισσός</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.1Sam.2.33|I Ki 2:33]] (<span class="ashebrew">מַרְבִּית</span> <small><sup>[[H4768]]</sup></small>), [[LXX.1Sam.2.36|I Ki 2:36]], [[LXX.Eccl.3.19|Ec 3:19]] (<span class="ashebrew">יתר</span> <small><sup>[[H3498]]</sup></small> ni., <span class="ashebrew">יוׄתֵר</span> <small><sup>[[H3148]]</sup></small>), [[Tob.4.16|To 4:16]], [[Sir.10.27|Si 10:27]] [[Sir.11.12|11:12]] [[Sir.19.24|19:24]], [[Sir.30.38|30:38]] ([[Sir.33.29|33:29]]), [[1Macc.3.30|I Mac 3:30]]\*;\]</span> </span>
 <span class="asbullet"><span class="asbold">I.</span> Prop., intrans.,</span>
 $\quad$ <span class="asbullet"><span class="asbold">1.</span> of things, <span class="asitalic">to be over and above</span> the number (Hes.), hence,</span>
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to be</span> or <span class="asitalic">remain over</span>: [[Matt.14.20|Mt 14:20]] [[Matt.15.37|15:37]], [[Luke.9.17|Lk 9:17]], [[John.6.12|Jo 6:12]], [[John.6.13|13]];</span>
@@ -15,8 +15,8 @@ $\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asit
 
 | Book | Refs |
 | - | - |
-| 1 Samuel | [[1Sam.2.33\|2:33]] · [[1Sam.2.36\|2:36]] |
-| Ecclesiastes | [[Eccl.3.19\|3:19]] |
+| 1 Samuel | [[LXX.1Sam.2.33\|2:33]] · [[LXX.1Sam.2.36\|2:36]] |
+| Ecclesiastes | [[LXX.Eccl.3.19\|3:19]] |
 | Matthew | [[Matt.5.20\|5:20]] · [[Matt.13.12\|13:12]] · [[Matt.14.20\|14:20]] · [[Matt.15.37\|15:37]] · [[Matt.25.29\|25:29]] |
 | Mark | [[Mark.12.44\|12:44]] |
 | Luke | [[Luke.9.17\|9:17]] · [[Luke.12.15\|12:15]] · [[Luke.15.17\|15:17]] · [[Luke.21.4\|21:4]] |

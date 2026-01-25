@@ -6,5 +6,5 @@
  <b>moonless night</b>, [<a href="javascript:void(0)" title=" LXX.Ps.10.2, 2nd c.AD: Aristides Rhetor “Orationes” 24(44).51 (\_falsa lectio\_ for{-μαίνῃ}), 3rd c.AD: Democritus Epigrammaticus (?) cited in “Etymologicum Genuinum” see at {γλαύξ}. ">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.10.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.10.2]]
 </sub></small>

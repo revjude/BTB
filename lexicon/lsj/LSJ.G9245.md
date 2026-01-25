@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>συκόμορον</span>}
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>σῦκον</span>} 11, [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Ranae” 1278. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> a disease of horses, [<a href="javascript:void(0)" title=" “Hippiatrica” 127. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Amos.7.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.7.14]]
 </sub></small>

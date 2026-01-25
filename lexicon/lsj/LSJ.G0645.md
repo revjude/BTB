@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>withdraw, reclaim,</b> [<a href="javascri
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <span class='asgreek'>ἀπεσπασμένος</span>, <span class='asgreek'>ὁ</span>, <b>eunuch,</b> [<a href="javascript:void(0)" title=" LXX.Lev.22.24. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> (i.e. <span class='asgreek'>ἑαυτόν</span>), <b>separate</b> (i.e. <b>be separated</b>) <b>from,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 10.48, 2nd c.AD: Lucianus Sophista “Icar.” 11, 2nd-3rd c.AD: Dio Cassius Historicus 56.22; and in 5th-6th c.BC: Xenophon Historicus “Anabasis” 1.5.3 the best Mss. give πολὺ γὰρ ἀπέσπα (for ἀπέπτα) φεύγουσα [στρουθός].">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.20.30]] ☩ [[Lev.22.24]]
+<small><sub>LSJ Scripture Refs: [[Acts.20.30]] ☩ [[LXX.Lev.22.24]]
 </sub></small>

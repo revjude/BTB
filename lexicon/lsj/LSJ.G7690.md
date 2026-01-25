@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>pupil</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 157.29. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.2.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.2.7]]
 </sub></small>

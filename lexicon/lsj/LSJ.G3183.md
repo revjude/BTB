@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> later also, of men, <span class='asgreek'>μεθύσους</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἐμπόρους</span> <span class='asgreek'>ποιεῖ</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 67.1, compare “Comica Adespota” 384, LXX.Prov.23.21, NT.1Cor.5.11, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Brutus” 5, 2nd c.AD: Lucianus Sophista “Tim.” 55, 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 3.195 ">NT+4th c.BC+</a>]; <b>drunken, intemperate</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Cebes Philosophus 34, 4th c.AD: Julianus Imperator “Caesares” 330c. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.23.21]] ☩ [[1Cor.5.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.23.21]] ☩ [[1Cor.5.11]]
 </sub></small>

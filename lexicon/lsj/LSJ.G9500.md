@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>τ</span>., ={<span class='asgreek'>τρίστεγον</span>}, <b>third story,</b> [<a href="javascript:void(0)" title=" LXX.3Ki.6.13(8) ">LXX</a>], in <i>plural</i> <b><span class='asgreek'>==τριώροφος==</span>-<span class='asgreek'>ώρῠγος</span></b>, <span class='asgreek'>ον</span>, (<span class='asgreek'>ὄργυια</span>) <b>of three fathoms,</b> restored in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 6.1.52 by L. Dind. from the best codices (which have τριώρων or τριώρυον), others having τριόργυ (ι)">Refs 5th c.BC+</a>] <span class='asgreek'>ον</span>: compare <span class='asgreek'>διώρυγος</span>, <span class='asgreek'>πεντώρυγος</span>.
 
-<small><sub>LSJ Scripture Refs: [[Gen.6.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.6.16]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>disclose, reveal,</b> <span class='asgree
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>unmask,</b> <span class='asgreek'>τινά</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Cat.” 26, “Vit.Auct.” 23. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> of the epiglottis, <b>raise,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Anima” 422a2 (\_passive\_).">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.2.27]] ☩ [[Matt.10.26]] ☩ [[2Thess.2.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.2.27]] ☩ [[Matt.10.26]] ☩ [[2Thess.2.3]]
 </sub></small>

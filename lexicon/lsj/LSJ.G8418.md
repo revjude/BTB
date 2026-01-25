@@ -6,5 +6,5 @@
  <b>drowsiness,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 10, LXX.Ps.131.4, +others: in \_plural\_, 3rd c.AD: Porphyrius Tyrius Philosophus “Abst.” I. 28. ">LXX+5th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.131.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.131.4]]
 </sub></small>

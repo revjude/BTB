@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>festival, at which sacrifices were offere
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> generally, <b>rite, ceremony</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.693f, “Thes.” 20. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>victim, offering</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.184f, 2nd c.AD: Lucianus Sophista “Sacr.” 12. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.3.1]] ☩ [[Exod.29.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.3.1]] ☩ [[LXX.Exod.29.34]]
 </sub></small>

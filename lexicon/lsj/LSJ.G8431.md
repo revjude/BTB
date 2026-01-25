@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>make of wood,</b> <span class='asgreek'>γαῦλον</span> [<a href="javascript:void(0)" title=" “IG” 11(2).203 A 53 (Delos, 3rd c.BC), compare 12(3).1270.15 (Syme, 2nd-1st c.BC), LXX.2Chr.3.5 ">LXX+3rd c.BC+</a>]:—<i>passive</i>,[<a href="javascript:void(0)" title="LXX.Ezek.41.16; ναὸς ἐξυλωμένος “SIG” 996.18 (Smyrna, 1st c.AD). ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.3.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.3.5]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>stop up, caulk,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Dinarchus Orator “Fragmenta - Orat.” \_Attic dialect\_ 89.10">Refs 4th c.BC+</a>]; <b>stuff with food,</b> <span class='asgreek'>σαυτὸν</span> <span class='asgreek'>ἀποσάξεις</span> (Casaub. for -<span class='asgreek'>τάξεις</span>) <i>diphthong</i>[<a href="javascript:void(0)" title=" 43.41">Refs</a>]:—<i>middle</i>, <b>stuff oneself,</b> philem.[<a href="javascript:void(0)" title=" 68.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.24.32]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.24.32]]
 </sub></small>

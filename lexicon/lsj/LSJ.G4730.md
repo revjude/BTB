@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>straits, difficulty</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>ποταμοῦ</span> <b>difficulty of passing</b> the river, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 1.3.7, cf. LXX.Deut.28.53, +others">LXX+5th c.BC+</a>]; <b>distress</b>, [<a href="javascript:void(0)" title=" “OGI” 339.103 (Sestos, 2nd c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>πόλεως</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.67.1, etc.; ἡ τοῦ καιροῦ 2nd-3rd c.AD: Dio Cassius Historicus 39.34: \_plural\_ in NT.2Cor.6.4, “PLond.” 5.1677.11 (6th c.AD)">NT+2nd c.BC+</a>]; also, <b>narrow limits</b>, probably in [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2.220 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.53]] ☩ [[2Cor.6.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.53]] ☩ [[2Cor.6.4]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>sarcophagus</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 42.26. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.5.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.5.10]]
 </sub></small>

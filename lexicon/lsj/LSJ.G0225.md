@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_II</b> of persons, <b>truthfulness, sincerity</b>, [<a hre
 $\quad$ $\quad$<b>\_\_III</b> \*)a. personified, [<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 1, 4th-5th c.BC: Parmenides Poeta Philosophus 1.29, etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>symbol of truth, jewel</b> worn by Egyptian high-priest, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 1.48, 75, 2nd-3rd c.AD: Aelianus “Varia Historia” 14.34">Refs 1st c.BC+</a>]: of the Thummim, [<a href="javascript:void(0)" title=" LXX.Lev.8.8.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.8.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.8.8]]
 </sub></small>

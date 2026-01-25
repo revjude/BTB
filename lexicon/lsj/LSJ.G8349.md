@@ -6,5 +6,5 @@
  <i>diminutive</i> of <span class='asgreek'>μόσχος</span> (B), <b>little calf</b>, [<a href="javascript:void(0)" title=" “PSI” 6.600.4 (3rd c.BC), LXX.Gen.18.7, +others, 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 3.22.6. ">LXX+3rd c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.18.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.18.7]]
 </sub></small>

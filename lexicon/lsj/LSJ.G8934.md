@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>think in addition</b>, <span class='asgreek'>φθεγξάμενος</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἀγαθὸν</span> <span class='asgreek'>μηδὲν</span> <span class='asgreek'>ἔτι</span> <span class='asgreek'>προσνόει</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 3.8.11 ">Refs 3rd c.AD+</a>]:— <i>passive</i>, <span class='asgreek'>ἐν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>λόγῳ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>αὐτογραμμῆς</span> <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἔνι</span> <span class='asgreek'>προσνοούμενον</span> <span class='asgreek'>πέρας</span> [<a href="javascript:void(0)" title=" [prev. author] 6.6.17. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.3.26]] ☩ [[Isa.63.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.3.26]] ☩ [[LXX.Isa.63.5]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>comparison</b>, [<a href="javascript:void(0)" ti
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>interpretation</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>σημείου</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Anabasis” 1.18.7. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>assistance</b>, <span class='asgreek'>πρὸς</span> <span class='asgreek'>βίον</span> [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 7.105. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.26.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.26.24]]
 </sub></small>

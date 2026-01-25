@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> with <i>genitive</i>, <b>delight in</b>, [<a href="javascript:void(0)" title=" τοῦ Κυρίου Vetus Testamentum Graece redditum LXX.Ps.36.4 ">LXX</a>]; <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>πλήθει</span> <span class='asgreek'>εἰρήνης</span> [<a href="javascript:void(0)" title="[prev. work] 11. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.36.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.36.4]]
 </sub></small>

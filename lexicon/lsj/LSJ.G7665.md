@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> ={<span class='asgreek'>θῆλυς</span>},
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <span class='asgreek'>θ</span>. <span class='asgreek'>κεντήματα</span> bites <b>of female</b> vipers, [<a href="javascript:void(0)" title=" 3rd c.AD: Philumenus Medicus “de Venenatis Animalibus” 16.3. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.c</b> Astrology texts, applied to certain planets or figures of the Zodiac, [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 20, 33. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.5.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.5.3]]
 </sub></small>

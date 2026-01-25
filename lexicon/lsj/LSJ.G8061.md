@@ -6,5 +6,5 @@
  <b>striking with the fist, maltreatment</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Artemidorus Daldianus Onirocriticus 2.15, LXX.Zeph.2.8. ">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Zeph.2.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zeph.2.8]]
 </sub></small>

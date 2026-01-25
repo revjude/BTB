@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> Astrology texts, <b>make favourable,</b> [<a
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_4.b</b> <b>exert beneficent influence,</b> [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “Paraphrasis Ptolemaei Tetrabiblou” 292. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>do well, act rightly,</b> [<a href="javascript:void(0)" title=" NT.1Pet.2.15.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.3.4]] ☩ [[Luke.6.33]] ☩ [[Num.10.32]] ☩ [[1Pet.2.15]]
+<small><sub>LSJ Scripture Refs: [[Mark.3.4]] ☩ [[Luke.6.33]] ☩ [[LXX.Num.10.32]] ☩ [[1Pet.2.15]]
 </sub></small>

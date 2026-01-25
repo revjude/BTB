@@ -6,5 +6,5 @@
  <b>bewail,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 7.618, LXX.Exod.33.4. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.33.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.33.4]]
 </sub></small>

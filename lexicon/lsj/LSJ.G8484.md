@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>smallness, scantiness,</b> [<a href="java
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> of Time, <b>shortness,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 158d. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>feebleness</b> of voice, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 6.145. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.101.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.101.23]]
 </sub></small>

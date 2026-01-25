@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ναῦς</span> <span class='asgreek'>π</span>. a ship <b>with feet,</b> i.e. <b>oars,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus, 12th c.AD: Eustathius Episcopus Thessalonicensis 1515.29 ">Refs 5th c.AD+</a>]; <span class='asgreek'>στῦλος</span> <span class='asgreek'>π</span>. a <b>firmly based</b> pillar, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 898. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>π</span>. <b>parts about the feet, feet,</b> [<a href="javascript:void(0)" title="[prev. work] 1594. (-ήρης perhaps from -ᾱρης,compare 4th c.AD(?): Arcadius Grammaticus \_proper name\_ Ποδάρης.) ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.25.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.25.6]]
 </sub></small>

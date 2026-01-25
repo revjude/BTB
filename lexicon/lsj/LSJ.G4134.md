@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.6</b> <span class='asgreek'>ἐκ</span> <span
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>==πλήρης==</span> is used <i>indeclinable</i> in later Greek, especially of payments <b>in full,</b> Wilcken [<a href="javascript:void(0)" title=" “Chr.” 499.9 (2nd-3rd c.AD), etc.">Refs 2nd c.AD+</a>]; frequently variant in [<a href="javascript:void(0)" title=" LXX, LXX.Gen.27.27, LXX.Num.7.20, LXX.Job.21.24, +others ">LXX</a>]
 $\quad$ $\quad$<b>\_\_V</b> <i>adverb</i> <span class='asgreek'>πλήρως</span> <b>in full,</b> [<a href="javascript:void(0)" title=" Sammelb. 4652.2 (4th c.AD)">Refs 4th c.AD+</a>]: <i>superlative</i> <b>-<span class='asgreek'>έστατα</span></b>[<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “Protrepticus” 21.κγ᾽. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.27.27]] ☩ [[Num.7.20]] ☩ [[Job.21.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.27.27]] ☩ [[LXX.Num.7.20]] ☩ [[LXX.Job.21.24]]
 </sub></small>

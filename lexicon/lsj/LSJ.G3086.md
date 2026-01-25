@@ -5,5 +5,5 @@
  <b>ransomer, redeemer</b>, [<a href="javascript:void(0)" title=" LXX.Ps.18.15, NT.Acts.7.35. ">LXX+NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.18.15]] ☩ [[Acts.7.35]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.18.15]] ☩ [[Acts.7.35]]
 </sub></small>

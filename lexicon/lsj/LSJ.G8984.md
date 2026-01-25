@@ -6,5 +6,5 @@
  <b>make poor</b>, <span class='asgreek'>Κύριος</span> <span class='asgreek'>==πτωχίζω==ίζει</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>πλουτίζει</span> [<a href="javascript:void(0)" title=" LXX.1Kgs.2.7. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.2.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.2.7]]
 </sub></small>

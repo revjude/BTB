@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> In LXX, <b>of oleaster,</b> [<a href="javascript:void(0)" title=" LXX.3Ki.6.31">LXX</a>]; <b>of fir,</b> [<a href="javascript:void(0)" title=" LXX.2Chr.2.8.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.2.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.2.8]]
 </sub></small>

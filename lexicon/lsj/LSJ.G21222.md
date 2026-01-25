@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_III</b> as <i>proper name</i>, a deity worshipped in compa
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> title of priest at Cyrene, [<a href="javascript:void(0)" title="[prev. work]5145 compare (τελεσφορέω 111). ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>sorceress</b>, [<a href="javascript:void(0)" title=" LXX.Deut.23.17(18). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.23.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.23.17]]
 </sub></small>

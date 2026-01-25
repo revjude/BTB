@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>plural</i>, glossed <span class='asgre
 $\quad$ $\quad$<b>\_\_III</b> <b>pessary</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ γυναικείης φύσιος” 67, “Mul.” 1.20, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.16. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>additional plot</b> of land, [<a href="javascript:void(0)" title=" “PPetr.” 3p.39 (3rd c.BC), “POxy.” 504.12, 45 (2nd c.AD). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.19.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.19.25]]
 </sub></small>

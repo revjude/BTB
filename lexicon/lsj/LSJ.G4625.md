@@ -6,5 +6,5 @@ Included with: <b> <span class='asgreek'>==σκάνδαλον==</span>-<span cl
 
 $\quad$ $\quad$<b>\_\_II</b> see at {<span class='asgreek'>==σκάνδαλον==ιστής</span>}.
 
-<small><sub>LSJ Scripture Refs: [[Josh.23.13]] ☩ [[1Kgs.18.21]] ☩ [[Rom.11.9]] ☩ [[1Pet.2.7]] ☩ [[Matt.18.7]] ☩ [[Luke.17.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.23.13]] ☩ [[LXX.1Kgs.18.21]] ☩ [[Rom.11.9]] ☩ [[1Pet.2.7]] ☩ [[Matt.18.7]] ☩ [[Luke.17.1]]
 </sub></small>

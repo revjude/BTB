@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>bow down under a burden</b>, [<a href="ja
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>κύψαι</span>, = {<span class='asgreek'>ἀπάγξασθαι</span>}, [<a href="javascript:void(0)" title=" 7th c.BC: Archilochus Lyricus 35, compare 9th c.AD: Photius Legal icographus, etc. ">Refs 7th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> of animals, <b>to be bowed forward</b>, opposed to the erect figure of man, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Partibus Animalium” 657a15 ">Refs 4th c.BC+</a>]; <span class='asgreek'>κέρεα</span> <span class='asgreek'>κεκυφότα</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἔμπροσθε</span> horns <b>bent</b> forward, of certain African oxen, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.183; ἐπὴν ὁ στόμαχος [τῆς ὑστέρης] ἐς τὸν ἀρχὸν κεκύφῃ 5th c.BC: Hippocrates Medicus [same place] ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.9.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.9.31]]
 </sub></small>

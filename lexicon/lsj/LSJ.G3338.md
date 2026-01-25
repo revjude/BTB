@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>absolutely</i>, <b>change one's purpose</
 $\quad$ $\quad$<b>\_\_II</b> causal in <i>future</i> <i>participle</i>, <span class='asgreek'>τὸ</span> <span class='asgreek'>μεταμελησόμενον</span> <b>that which will cause regret, matter for future repentance</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.6.23. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>==μεταμέλλομαι==ει</span>}[<a href="javascript:void(0)" title=" 1.1, ==μεταμέλλομαι==εσθαι αὐτοῖς περὶ ὧν ἂν συμβουλεύσωνται 5th-6th c.BC: Plato Philosophus “Demodocus” 382d ">Refs 5th c.BC+</a>].:—the form <b><span class='asgreek'>μεταμελέομαι</span></b>, censured by Thom.Mag.[<a href="javascript:void(0)" title=" p.123 R., occurs in 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 27. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.109.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.109.4]]
 </sub></small>

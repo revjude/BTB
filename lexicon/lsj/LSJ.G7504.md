@@ -6,5 +6,5 @@
  <b>of the desert,</b> <span class='asgreek'>ὄνος</span>[<a href="javascript:void(0)" title="LXX.Job.11.12. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.11.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.11.12]]
 </sub></small>

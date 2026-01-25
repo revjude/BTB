@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>lie asleep, lie idle</b>,
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of things, <b>lie still, be at rest</b>, <span class='asgreek'>ἐλπίδες</span> <span class='asgreek'>οὔπω</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 634; καθεύδειν ἐᾶν ἐν τῇ γῇ κατακείμενα τείχη 5th-6th c.BC: Plato Philosophus “Leges” 778d: τοὺς νόμους ἐᾶν κ. 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Agesilaus” 30. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> of the <b>sleep</b> of death, <span class='asgreek'>καθεύδοντες</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τάφῳ</span> [<a href="javascript:void(0)" title=" LXX.Ps.87.6, cf. LXX.Dan.12.2, NT.1Thess.5.10. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.87.6]] ☩ [[Dan.12.2]] ☩ [[1Thess.5.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.87.6]] ☩ [[LXX.Dan.12.2]] ☩ [[1Thess.5.10]]
 </sub></small>

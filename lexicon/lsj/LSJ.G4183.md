@@ -45,5 +45,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.7</b> <span class='asgreek'>πρὸ</span> <spa
 $\quad$ $\quad$ $\quad$<b>\_\_IV.8</b> <span class='asgreek'>σὺν</span> <span class='asgreek'>πολλῷ</span> <b>in no small degree, only too much</b> or <b>too well,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 2.8, 9.20, 10.9 (compare “CR” 41.53). ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> for <i>comparative</i> <span class='asgreek'>πλείων</span>, <span class='asgreek'>πλέων</span>, <i>superlative</i> <span class='asgreek'>πλεῖστος</span>, (see entry). (Cf. Sanskrit <i>purú-,</i> Gothic <i>filu</i> 'much'.)
 
-<small><sub>LSJ Scripture Refs: [[Mark.6.35]] ☩ [[Gen.29.7]] ☩ [[Acts.26.24]]
+<small><sub>LSJ Scripture Refs: [[Mark.6.35]] ☩ [[LXX.Gen.29.7]] ☩ [[Acts.26.24]]
 </sub></small>

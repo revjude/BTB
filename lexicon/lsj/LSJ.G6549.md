@@ -6,5 +6,5 @@
  <b>belonging to a baker</b> or <b>baking</b>, [<a href="javascript:void(0)" title=" LXX.1Chr.16.3">LXX</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>ἀ</span>., name of work by Chrysipp. Tyan. in [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 14.647c.">Refs 2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Chr.16.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.16.3]]
 </sub></small>

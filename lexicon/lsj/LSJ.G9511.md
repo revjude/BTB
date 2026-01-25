@@ -6,5 +6,5 @@
  <b>luxury,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Eudemia” 1221a9, LXX.Deut.28.56, 2nd c.AD: Athenaeus Epigrammaticus 12.544f. ">LXX+4th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.56]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.56]]
 </sub></small>

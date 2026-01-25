@@ -6,5 +6,5 @@
  <b>that which is trampled under foot</b>, [<a href="javascript:void(0)" title=" LXX.Lam.2.8, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lam.2.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lam.2.8]]
 </sub></small>

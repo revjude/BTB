@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> personified as husband of Gaia and father of Typhoeus, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 822 ">Refs 8th c.BC+</a>]; <span class='asgreek'>ὦ</span> <span class='asgreek'>Γᾶς</span> <span class='asgreek'>παῖ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>Ταρτάρου</span>, of Cerberus, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1574 (Lyric poetry). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.40.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.40.15]]
 </sub></small>

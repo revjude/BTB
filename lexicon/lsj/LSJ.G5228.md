@@ -32,5 +32,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_F.1</b> of Place, <b>over, beyond,</b> as in <span
 $\quad$ $\quad$ $\quad$<b>\_\_F.2</b> of doing a thing <b>for</b> or <b>in defence of,</b> as in <span class='asgreek'>ὑπερμαχέω</span>, <span class='asgreek'>ὑπερασπίζω</span>, <span class='asgreek'>ὑπεραλγέω</span>. 
 $\quad$ $\quad$ $\quad$<b>\_\_F.3</b> <b>above measure,</b> as in <span class='asgreek'>ὑπερήφανος</span>, <span class='asgreek'>ὑπερφίαλος</span>.
 
-<small><sub>LSJ Scripture Refs: [[Judg.18.26]] ☩ [[Ruth.1.13]] ☩ [[2Cor.11.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.18.26]] ☩ [[LXX.Ruth.1.13]] ☩ [[2Cor.11.23]]
 </sub></small>

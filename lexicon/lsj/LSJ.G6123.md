@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>purchase</b>, [<a href="javascript:void(0)" title=" LXX.Gen.42.19, +others, “OGI” 660.20 (Egypt, 1st c.AD) (\_plural\_)">LXX+1st c.AD+</a>]; frequently of auctions, <span class='asgreek'>ποιεῖσθαί</span> <span class='asgreek'>τινος</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" “BGU” 1128.9 (1st c.BC).">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.42.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.42.19]]
 </sub></small>

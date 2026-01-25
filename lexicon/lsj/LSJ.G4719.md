@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_V</b> <b>surgical bandage, 'spica' bandage</b>, [<a href="
 $\quad$ $\quad$<b>\_\_VI</b> <span class='asgreek'>παρὰ</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ναυπηγοῖς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>φάλαγγος</span> <span class='asgreek'>μεριζόμενον</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> = Heb. <b>shibboleth</b>, [<a href="javascript:void(0)" title=" LXX.Judg.12.6. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.41.7]] ☩ [[Matt.12.1]] ☩ [[Judg.12.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.41.7]] ☩ [[Matt.12.1]] ☩ [[LXX.Judg.12.6]]
 </sub></small>

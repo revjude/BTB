@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>to be superior</b>, <span class='asgr
 $\quad$ $\quad$<b>\_\_IV</b> causal, <b>make to abound</b>, <span class='asgreek'>πᾶσαν</span> <span class='asgreek'>χάριν</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" NT.2Cor.9.8; τινὰς τῇ ἀγάπῃ NT.1Thess.3.12 ">NT</a>]:—<i>passive</i>, <b>to be made to abound,</b> [<a href="javascript:void(0)" title="NT.Matt.13.12, 25.29. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> of Time, <span class='asgreek'>π</span>. <span class='asgreek'>τὰς</span> <span class='asgreek'>ὥρας</span> <b>make</b> them <b>longer</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 2.42b. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.14.20]] ☩ [[Acts.16.5]] ☩ [[Luke.15.17]] ☩ [[Eccl.3.19]] ☩ [[1Cor.14.12]] ☩ [[1Thess.4.1]] ☩ [[1Cor.8.8]] ☩ [[2Cor.9.8]] ☩ [[1Thess.3.12]] ☩ [[Matt.13.12]]
+<small><sub>LSJ Scripture Refs: [[Matt.14.20]] ☩ [[Acts.16.5]] ☩ [[Luke.15.17]] ☩ [[LXX.Eccl.3.19]] ☩ [[1Cor.14.12]] ☩ [[1Thess.4.1]] ☩ [[1Cor.8.8]] ☩ [[2Cor.9.8]] ☩ [[1Thess.3.12]] ☩ [[Matt.13.12]]
 </sub></small>

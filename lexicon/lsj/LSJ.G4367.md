@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> with <i>accusative</i> et <i>infinitive</
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <i>absolutely</i>, <b>command, order</b>, opposed to <span class='asgreek'>ὑπηρετέω</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Topica” 129a12 ">Refs 4th c.BC+</a>]:—<i>passive</i>, <b>receive orders</b>,[<a href="javascript:void(0)" title=" [prev. work] 14; οἱ προστεταγμένοι 5th c.BC: Thucydides Historicus 1.136. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> Astrology texts, <i>correlative</i> of <span class='asgreek'>ἀκούω</span> see, [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 35, 7th c.AD: Hephaestio Grammaticus Astr. 1.9, 2nd-1st c.BC(?): Serapio Astrologus in “Catalogus Codicum Astrologorum” 8(4).226. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.2.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.2.8]]
 </sub></small>

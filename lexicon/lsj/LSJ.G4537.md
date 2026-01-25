@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i>, <span class='asgreek'>ἡμέραν</span> <span class='asgreek'>σ</span>. <b>proclaim, announce</b> day, of the cock, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Ocyp.” 114. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.10.4]] ☩ [[1Cor.15.52]] ☩ [[Josh.6.13]] ☩ [[Matt.6.2]] ☩ [[1Cor.15.52]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.10.4]] ☩ [[1Cor.15.52]] ☩ [[LXX.Josh.6.13]] ☩ [[Matt.6.2]] ☩ [[1Cor.15.52]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>private servant</b>, [<a href="javascr
 $\quad$ $\quad$<b>\_\_III</b> in religioussense, <b>minister</b>, [<span class='asgreek'>θεοῦ</span>][<a href="javascript:void(0)" title="LXX.Ps.102.21, NT.Rom.13.6, +others; τῶν θεῶν 1st c.BC: Dionysius Halicarnassensis 2.22, compare 73; τῶν ἁγίων λ. NT.Heb.8.2 ">LXX+NT+1st c.BC+</a>]; <span class='asgreek'>θεοῖς</span> <span class='asgreek'>λιτουργοί</span> (sic) [<a href="javascript:void(0)" title=" “Rev.Et.Anc.” 32.5 (Athens, 1st c.BC)">Refs 1st c.BC+</a>]; <b>attendant</b> at sacrifices, <b>acolyte,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 3.1005, +others ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> Astrology texts, <span class='asgreek'>==λειτουργός==οί</span>, <span class='asgreek'>οἱ</span>, astral gods <b>subordinate</b> to the <span class='asgreek'>δεκανοί</span>, [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de Mysteriis” 9.2, 4th c.AD: Firmicus Maternus Astrologus 2.4.4, 5th c.AD: Martianus Capella Grammaticus Latinus 2.200. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.10.5]] ☩ [[Phil.2.25]] ☩ [[2Kgs.13.18]] ☩ [[Ps.102.21]] ☩ [[Rom.13.6]] ☩ [[Heb.8.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.10.5]] ☩ [[Phil.2.25]] ☩ [[LXX.2Kgs.13.18]] ☩ [[LXX.Ps.102.21]] ☩ [[Rom.13.6]] ☩ [[Heb.8.2]]
 </sub></small>

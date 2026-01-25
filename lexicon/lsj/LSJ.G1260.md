@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>debate, argue,</b> <span class='asgreek'>περ�
 $\quad$ $\quad$<b>\_\_III</b> <b>impute,</b> <span class='asgreek'>τί</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" LXX.2Kgs.19.19(20). ">LXX</a>]
 $\quad$ $\quad$<b>\_\_IV</b> with <i>accusative</i> loci. <b>hold a circuit court</b> (Latin <i>conventus</i>) <b>for</b> a district, [<a href="javascript:void(0)" title=" “PRyl.” 74.8 (2nd c.AD), “POxy.” 484.24 (2nd c.AD)">Refs 2nd c.AD+</a>]; <span class='asgreek'>ἐν</span> <span class='asgreek'>Ἰονλιοπόλει</span> [<a href="javascript:void(0)" title=" “BGU” 903.18 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.19.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.19.19]]
 </sub></small>

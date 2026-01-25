@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, of birds, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 597a11. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, <b>adopt</b> a child, [<a href="javascript:void(0)" title=" “UPZ” 4.5 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.16.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.16.2]]
 </sub></small>

@@ -15,5 +15,5 @@ $\quad$ $\quad$<b>\_\_VII</b> <b>milk vetch, Orobus niger,</b> [<a href="javascr
 $\quad$ $\quad$<b>\_\_VIII</b> <b>prism of wood,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aeneas Tacticus 31.17, +others ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IX</b> <b>ear-ring,</b> <span class='asgreek'>ξύλινοι</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" 6th c.BC: Anacreon Lyricus 21.4.">Refs 6th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.5.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.5.5]]
 </sub></small>

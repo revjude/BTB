@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of rank, <span class='asgreek'>π</span>. <s
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> epithet of gods, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 123 bis">Refs 5th c.AD+</a>]; so <span class='asgreek'>Πρωτογόνη</span>, <span class='asgreek'>ἡ</span>, name of Persephone, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta [prev. cited] ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>paroxytone</i> <span class='asgreek'>πρωτογόνος</span>, <span class='asgreek'>ἡ</span>, <b>bringing forth first</b>, implied by [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 4.208. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mic.7.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mic.7.1]]
 </sub></small>

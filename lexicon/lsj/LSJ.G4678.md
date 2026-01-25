@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>learning, wisdom</b>, <span class='asgree
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> among the Jews, <span class='asgreek'>ἀρχὴ</span> <span class='asgreek'>==σοφία==ς</span> <span class='asgreek'>φόβος</span> <span class='asgreek'>Κυρίου</span> [<a href="javascript:void(0)" title=" LXX.Prov.1.7, cf. LXX.Job.28.28, +others">LXX</a>]; <span class='asgreek'>Σοφία</span>, recognized first as an attribute of God, was later identified with the Spirit of God,[<a href="javascript:void(0)" title="cf. LXX.Prov.8 with LXX.Sir.24s q. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> later as a title, <span class='asgreek'>ἡ</span> <span class='asgreek'>ὑμετέρα</span>, <span class='asgreek'>ἡ</span> <span class='asgreek'>ὑμῶν</span> <span class='asgreek'>σ</span>., [<a href="javascript:void(0)" title=" “POxy.” 1165.6, “PSI” 7.790.14 (both 6th c.AD). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.1.7]] ☩ [[Job.28.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.1.7]] ☩ [[LXX.Job.28.28]]
 </sub></small>

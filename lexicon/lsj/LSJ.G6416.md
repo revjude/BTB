@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'>ἅπλωσον</span> <span class='asgreek'>σεαυτόν</span> <b>be simple,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Marcus Antoninus Imperator 4.26">Refs 2nd c.AD+</a>]:—<i>passive</i>, <b>to be simplified,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 6.7.35">Refs 3rd c.AD+</a>]; but, <b>to be expanded,</b> [<a href="javascript:void(0)" title=" [prev. author] 3.5.9 (perhaps ἐξαπλ-). ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>make plain,</b> <span class='asgreek'>ὁδόν</span>[<a href="javascript:void(0)" title=" LXX.Job.22.3.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.22.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.22.3]]
 </sub></small>

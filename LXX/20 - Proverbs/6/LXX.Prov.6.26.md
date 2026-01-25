@@ -1,0 +1,25 @@
+**LXX Proverbs 6:26** 
+<small><sub>**LXX:**</sub></small>
+For \[the\] value of a harlot \[is\] as much as even one bread loaf; and a woman ensnares \[the\] precious souls of men. 
+<small><sub>**KJV:**</sub></small>
+For by means of a whorish woman [a man is brought] to a piece of bread: and the adulteress will hunt for the precious life.
+<small><sub>**BSB:**</sub></small>
+For the levy of the prostitute is poverty, and the adulteress preys upon your very life.<small><sub>**MT:**</sub></small>
+[[Prov.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.25|<< Proverbs 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.27|Proverbs 6:27 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| For \[the\] value | <span class="asgreek">τιμή <sup><small><small>[[G5092]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
+| of a harlot | <span class="asgreek">πόρνης <sup><small><small>[[G4204]]</small></small></sup> </span> |
+| \[is\] as much as | <span class="asgreek">όση <sup><small><small>[[G3745]]</small></small></sup> </span> |
+| even | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| one | <span class="asgreek">ενός <sup><small><small>[[G1520]]</small></small></sup> </span> |
+| bread loaf; | <span class="asgreek">άρτου <sup><small><small>[[G0740]]</small></small></sup> </span> |
+| and a woman | <span class="asgreek">γυνή <sup><small><small>[[G1135]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
+| of men | <span class="asgreek">ανδρών <sup><small><small>[[G0435]]</small></small></sup> </span> |
+| \[the\] precious | <span class="asgreek">τιμίας <sup><small><small>[[G5093]]</small></small></sup> </span> |
+| souls | <span class="asgreek">ψυχάς <sup><small><small>[[G5590]]</small></small></sup> </span> |
+| ensnares | <span class="asgreek">αγρεύει <sup><small><small>[[G0064]]</small></small></sup> </span> |
+[[Prov.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.25|<< Proverbs 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.27|Proverbs 6:27 >>]]</td></tr></table>
+
+

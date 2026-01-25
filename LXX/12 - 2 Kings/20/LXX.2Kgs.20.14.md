@@ -1,0 +1,46 @@
+**LXX 2 Kings 20:14** 
+<small><sub>**LXX:**</sub></small>
+And Isaiah the prophet entered to Hezekiah the king, and he said to him, What did these men say, and from what place came they to you? And Hezekiah said, From a land at a distance -- they came to me from Babylon. 
+<small><sub>**KJV:**</sub></small>
+Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country, [even] from Babylon.
+<small><sub>**BSB:**</sub></small>
+Then the prophet Isaiah went to King Hezekiah and asked, “Where did those men come from, and what did they say to you?” “They came from a distant land,” Hezekiah replied, “from Babylon.”<small><sub>**MT:**</sub></small>
+[[2Kgs.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.13|<< 2 Kings 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.15|2 Kings 20:15 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| entered | <span class="asgreek">εισήλθεν <sup><small><small>[[G1525]]</small></small></sup> </span> |
+| Isaiah | <span class="asgreek">Ησαϊας <sup><small><small>[[G2268]]</small></small></sup> </span> |
+| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| prophet | <span class="asgreek">προφήτης <sup><small><small>[[G4396]]</small></small></sup> </span> |
+| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
+| Hezekiah | <span class="asgreek">Εζεκίαν <sup><small><small>[[G1478]]</small></small></sup> </span> |
+| the | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| king, | <span class="asgreek">βασιλέα <sup><small><small>[[G0935]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| he said | <span class="asgreek">είπε <sup><small><small>[[G2036]]</small></small></sup> </span> |
+| to him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| What did | <span class="asgreek">τι <sup><small><small>[[G5100]]</small></small></sup> </span> |
+| say | <span class="asgreek">ελάλησαν <sup><small><small>[[G2980]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| men | <span class="asgreek">άνδρες <sup><small><small>[[G0435]]</small></small></sup> </span> |
+| these | <span class="asgreek">ούτοι <sup><small><small>[[G3778]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| from what place | <span class="asgreek">πόθεν <sup><small><small>[[G4159]]</small></small></sup> </span> |
+| came they | <span class="asgreek">ήκον <sup><small><small>[[G2240]]</small></small></sup> </span> |
+| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
+| you? | <span class="asgreek">σε <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| Hezekiah said, | <span class="asgreek">είπεν <sup><small><small>[[G2036]]</small></small></sup> <span class="asgreek">Εζεκίας <sup><small><small>[[G1478]]</small></small></sup> </span> |
+| From | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
+| a land | <span class="asgreek">γης <sup><small><small>[[G1093]]</small></small></sup> </span> |
+| at a distance -- | <span class="asgreek">πόρρωθεν <sup><small><small>[[G4207]]</small></small></sup> </span> |
+| they came | <span class="asgreek">ήκον <sup><small><small>[[G2240]]</small></small></sup> </span> |
+| to | <span class="asgreek">προς <sup><small><small>[[G4314]]</small></small></sup> </span> |
+| me | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| from | <span class="asgreek">εκ <sup><small><small>[[G1537]]</small></small></sup> </span> |
+| Babylon. | <span class="asgreek">Βαβυλώνος <sup><small><small>[[G0897]]</small></small></sup> </span> |
+[[2Kgs.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.13|<< 2 Kings 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.15|2 Kings 20:15 >>]]</td></tr></table>
+
+

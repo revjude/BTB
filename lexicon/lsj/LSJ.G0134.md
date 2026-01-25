@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>praise</b>, with collateral sense, <b>
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <i>absolutely</i>, <b>approve</b>, <span class='asgreek'>ὁ</span> <span class='asgreek'>δᾶμος</span> <span class='asgreek'>αἰνεῖ</span>[<a href="javascript:void(0)" title=" “IG” 9(1).119 (\_Locrian dialect\_). ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>to promise</b> or <b>vow</b>, <span class='asgreek'>τινί</span> <span class='asgreek'>τι</span> or <span class='asgreek'>τινὶ</span> <span class='asgreek'>ποιεῖν</span> <span class='asgreek'>τι</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Philoctetes” 1398, 5th c.BC: Euripides Tragicus “Alcestis” 12.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Chr.16.4]] ☩ [[Luke.2.13]] ☩ [[1Chr.16.36]] ☩ [[Rev.19.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.16.4]] ☩ [[Luke.2.13]] ☩ [[LXX.1Chr.16.36]] ☩ [[Rev.19.5]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>hindrance, obstruction,</b> [<a href="javascript:void(0)" title=" POxy. 892.11 (4th c.AD). ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.8.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.8.2]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>zealous pursuit</b>, <span class='asgreek'>αἱ</span> <span class='asgreek'>πολύτροποι</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>βίου</span> <span class='asgreek'>ζ</span>. [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.362 ">Refs 1st c.AD+</a>]; <b>custom, fashion</b>, <span class='asgreek'>ἀρχαιότροποι</span> <span class='asgreek'>ζ</span>. [<a href="javascript:void(0)" title="[prev. work] 468. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>jealousy</b>, [<a href="javascript:void(0)" title=" LXX.Num.5.14. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.5.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.5.14]]
 </sub></small>

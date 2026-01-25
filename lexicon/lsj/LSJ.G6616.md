@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>tribute,</b> [<a href="javascript:void(0)
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>deduction,</b> [<a href="javascript:void(0)" title=" POxy. 1731.10 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>coarse grits made from</b> <span class='asgreek'>ζέα</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 18.112.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.35.21]] ☩ [[Num.18.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.35.21]] ☩ [[LXX.Num.18.27]]
 </sub></small>

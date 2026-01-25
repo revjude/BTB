@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> with <i>genitive</i>, of things, <b>fondness
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>the natural force which unites discordant elements and movements,</b> opposed to <span class='asgreek'>νεῖκος</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 18, +others, 5th-6th c.BC: Isocrates Orator 15.268. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Pythagoras Philosophus ">Refs 4th c.BC+</a>] name for <b>three,</b> [<a href="javascript:void(0)" title=" Theol.Ar. 16">Refs</a>] (not for <b>six,</b> [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “In Nic.” p.34 P.). ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.4.4]] ☩ [[Prov.5.19]]
+<small><sub>LSJ Scripture Refs: [[Jas.4.4]] ☩ [[LXX.Prov.5.19]]
 </sub></small>

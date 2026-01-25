@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> later specifically <b>an ass,</b> [<a href="javascript:void(0)" title=" LXX.Zech.9.9, NT.Matt.21.5, NT.2Pet.2.16; ἡμίονοι καὶ ==ὑποζύγιον==α “PCair.Zen.” 158, (3rd c.BC)">LXX+NT+3rd c.BC+</a>]; <span class='asgreek'>βοῦς</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>ὑ</span>. <span class='asgreek'>ἢ</span> <span class='asgreek'>πρόβατον</span> [<a href="javascript:void(0)" title=" “PPetr.” 3p.56 (3rd c.BC)">Refs 3rd c.BC+</a>]; <span class='asgreek'>οὖρον</span> <span class='asgreek'>οἷον</span> <span class='asgreek'>ὑποζυγίου</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἀφορισμοί” 4.70. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Zech.9.9]] ☩ [[Matt.21.5]] ☩ [[2Pet.2.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.9.9]] ☩ [[Matt.21.5]] ☩ [[2Pet.2.16]]
 </sub></small>

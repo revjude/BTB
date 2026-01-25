@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>equipment, dress</b>, [<a href="javascript:void(0)" title=" LXX.2Chr.9.4, +others, Aristeas 96, “BGU” 1.3 (3rd c.AD), Papyrus in “Sitzb.Heidelb. Akad.” 1923(2).18 ">LXX+3rd c.AD+</a>];= <b>pectorale,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.9.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.9.4]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>having an impediment in one's speech</b> (connected by the Greeks with <span class='asgreek'>ἴσχω</span>), <span class='asgreek'>οἱ</span> <span class='asgreek'>ἰ</span>... <span class='asgreek'>ἴσχονται</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>φωνεῖν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 903a38, compare 895a15, 905a21, “Anecdota Graeca - Bekker” 100; ἰ. καὶ τραυλός 5th c.BC: Herodotus Historicus 4.155, compare 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 1.19; ἰ. καὶ βραδύγλωσσος LXX.Exod.4.10, compare 2nd c.BC: Ezekiel Poeta Judaeus “Exagoge - Mnemosyne” 114 ">LXX+5th c.BC+</a>]; also of metals, etc., <span class='asgreek'>χρυσὸς</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>λίθος</span> <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>πληρότητος</span> <span class='asgreek'>ἰ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>δυσηχῆ</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.721c: \_metaphorically\_, ἡ φιλία ἰ. γέγονεν ἐν τῷ παρρησιάζεσθαι [prev. work]89b. ">Refs 1st c.AD+</a>] <i>adverb</i> -<span class='asgreek'>φώνως</span> Zos.Alch.p.108B.
 
-<small><sub>LSJ Scripture Refs: [[Exod.4.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.4.10]]
 </sub></small>

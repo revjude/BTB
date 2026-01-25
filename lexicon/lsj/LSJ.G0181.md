@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>unsteadiness</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>σώματος</span>[<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 3.121; ἀ. καὶ μανία 2nd c.BC: Polybius Historicus 7.4.8: \_plural\_, 4th c.AD(?): Manetho Astrologus 5.57.">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.26.28]] ☩ [[2Cor.6.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.26.28]] ☩ [[2Cor.6.5]]
 </sub></small>

@@ -20,5 +20,5 @@ $\quad$ $\quad$<b>\_\_III</b> of live wood, <b>tree,</b> [<span class='asgreek'>
 $\quad$ $\quad$<b>\_\_IV</b> of persons, <b>blockhead,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca Appx. 4.187 ">Refs</a>]; of a stubborn person, <span class='asgreek'>σίδηρός</span> <span class='asgreek'>τις</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>ξ</span>. <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>δεήσεις</span> [<a href="javascript:void(0)" title=" 3rd c.AD(?): Achilles Tatius Astronomus 5.22. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>a measure oflength,</b> =  3 (also 2 2/3) cubits, the side of the <span class='asgreek'>ναύβιον</span>, [<a href="javascript:void(0)" title="2nd-1st c.BC(?): Hero Mechanicus ">Refs 2nd c.BC+</a>] “\*Geometry texts” 23.4,11, [<a href="javascript:void(0)" title=" “POxy.” 669.11, 28 (3rd c.AD), 1053 (6th-7th c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.16.24]] ☩ [[Deut.21.22]] ☩ [[Josh.8.29]] ☩ [[Acts.5.30]] ☩ [[Song.2.3]]
+<small><sub>LSJ Scripture Refs: [[Acts.16.24]] ☩ [[LXX.Deut.21.22]] ☩ [[LXX.Josh.8.29]] ☩ [[Acts.5.30]] ☩ [[LXX.Song.2.3]]
 </sub></small>

@@ -6,5 +6,5 @@
  (<span class='asgreek'>ἀμέλγω</span>) <b>milking,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “Fragmenta.” 106, LXX.Job.20.17.">LXX+5th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.20.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.20.17]]
 </sub></small>

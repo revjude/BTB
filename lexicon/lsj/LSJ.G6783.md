@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> in [<a href="javascript:void(0)" title=" 1st c.AD: Plinius Rerum Naturalium Scriptor ">Refs 1st c.AD+</a>], Prob. <b>rabbit, Lepus cuniculus, HN</b>8.219, 10.173.
 
-<small><sub>LSJ Scripture Refs: [[Lev.11.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.11.5]]
 </sub></small>

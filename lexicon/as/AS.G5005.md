@@ -1,12 +1,12 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ταλαίπωρος</span></span>, <span class="asgreek">-ον </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Ps.137.8|Ps 136 (137):8]] (<span class="ashebrew">שָׁדַד</span> <small><sup>[[H7703]]</sup></small>), [[Isa.33.1|Is 33:1]] (<span class="asgreek">ποιεῖν τ.</span>, <span class="ashebrew">שָׁדַד</span> <small><sup>[[H7703]]</sup></small>), [[Tob.13.10|To 13:10]], [[Wis.3.11|Wi 3:11]], al. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ταλαίπωρος</span></span>, <span class="asgreek">-ον </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Ps.137.8|Ps 136 (137):8]] (<span class="ashebrew">שָׁדַד</span> <small><sup>[[H7703]]</sup></small>), [[LXX.Isa.33.1|Is 33:1]] (<span class="asgreek">ποιεῖν τ.</span>, <span class="ashebrew">שָׁדַד</span> <small><sup>[[H7703]]</sup></small>), [[Tob.13.10|To 13:10]], [[Wis.3.11|Wi 3:11]], al. ;\] </span> </span>
 <span class="asitalic">distressed, miserable, wretched</span>: [[Rom.7.24|Ro 7:24]], [[Rev.3.17|Re 3:17]].†
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Psalms | [[Ps.137.8\|137:8]] |
-| Isaiah | [[Isa.33.1\|33:1]] |
+| Psalms | [[LXX.Ps.137.8\|137:8]] |
+| Isaiah | [[LXX.Isa.33.1\|33:1]] |
 | Romans | [[Rom.7.24\|7:24]] |
 | Revelation | [[Rev.3.17\|3:17]] |
 

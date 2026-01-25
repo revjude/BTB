@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_6</b> in <i>plural</i>, <b>wooden tablets</b> for 
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_6.b</b> <i>plural</i>, <b>painted panels, pictures</b>, [<a href="javascript:void(0)" title=" “SIG” 977a10 (Delos, 2nd c.BC). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> <b>plank to which offenders were bound</b> or <b>nailed</b>, <span class='asgreek'>ζῶντα</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>σανίδα</span> <span class='asgreek'>διε</span>- (variant{<span class='asgreek'>προσδιε</span>-}) <span class='asgreek'>πασσάλευσαν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.33; σανίδι προσπασσαλεύσαντες [prev. author] 9.120, compare 5th c.BC: Cratinus Comicus 341; ἐν τῇ σ. δῆσαι, πρὸς τῇ σ. δεῖν 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 931, 940; σανίσι προσδῆσαι 4th-3rd c.BC: Duris Epigrammaticus 67 1st c.AD: Josephus Historicus ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.44]] ☩ [[2Kgs.12.9]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.44]] ☩ [[LXX.2Kgs.12.9]]
 </sub></small>

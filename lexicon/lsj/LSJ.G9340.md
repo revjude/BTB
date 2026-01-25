@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>συντριμμός</span>},[<a href="javascript:void(0)" title=" LXX.Prov.16.18, +others">LXX</a>]; <b>ruin</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 74.4. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.16.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.16.18]]
 </sub></small>

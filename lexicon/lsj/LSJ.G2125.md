@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>watch for, await quietly</b>, <span cl
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>put out of harm's way</b>, <span class='asgreek'>τὰ</span> <span class='asgreek'>κοῖλα</span> <span class='asgreek'>γαστρός</span> [<a href="javascript:void(0)" title=" [prev. author] “Ph.” 1411. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> later in <i>active</i>, <span class='asgreek'>==εὐλαβέομαι==εῖν</span> <span class='asgreek'>τινα</span> <b>beware of</b>, [<a href="javascript:void(0)" title=" “BGU” 665.4 (1st c.AD)">Refs 1st c.AD+</a>]; compare <span class='asgreek'>εὐλάβησον</span>, -<span class='asgreek'>ῆσαι</span>, [<a href="javascript:void(0)" title=" 9th c.AD: Photius Legal icographus, etc. ">Refs 9th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.2.4]] ☩ [[Nah.1.7]] ☩ [[Zeph.3.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.2.4]] ☩ [[LXX.Nah.1.7]] ☩ [[LXX.Zeph.3.12]]
 </sub></small>

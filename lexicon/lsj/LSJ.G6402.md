@@ -6,5 +6,5 @@
  (<span class='asgreek'>ἀπαίρω</span>) <b>setting out, departure,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 3.58, LXX.Num.33.2, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 17.9.3.">LXX+1st c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.33.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.33.2]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>invoked</b>, [<a href="javascript:void(0)
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>summoned to court,</b> [<a href="javascript:void(0)" title=" PAmh. 2.79.5 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>substantive</i> <span class='asgreek'>==κλητός==ή</span> (i.e. <span class='asgreek'>ἐκκλησία</span>), <span class='asgreek'>ἡ</span>, <b>convocation</b>, [<a href="javascript:void(0)" title=" LXX.Exod.12.16, LXX.Lev.23.2 (\_plural\_). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.12.16]] ☩ [[Lev.23.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.12.16]] ☩ [[LXX.Lev.23.2]]
 </sub></small>

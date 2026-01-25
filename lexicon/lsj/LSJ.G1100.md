@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>tongue of land</b>, [<a href="javascr
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <b>ingot</b>, <span class='asgreek'>γ</span>. <span class='asgreek'>χρυσῆ</span> [<a href="javascript:void(0)" title=" LXX.Josh.7.21. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.5</b> <b>marking</b> on the liver, in divination, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus (==γλῶσσα==">Refs 5th c.AD+</a>] from <span class='asgreek'>γλωχ</span>-<b>y[acaron]</b>, compare <span class='asgreek'>γλώξ</span>, <span class='asgreek'>γλωχί</span>; <span class='asgreek'>γλάσσα</span> from \*<span class='asgreek'>γλᾰχ</span>-<b>y[acaron]</b>, weak grade of same root.)
 
-<small><sub>LSJ Scripture Refs: [[Acts.2.3]] ☩ [[Josh.7.21]]
+<small><sub>LSJ Scripture Refs: [[Acts.2.3]] ☩ [[LXX.Josh.7.21]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> part of a ship, [<a href="javascript:void(0)
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> in <i>plural</i>, <b>leaves</b> of a folding-door, [<a href="javascript:void(0)" title=" LXX.Ezek.41.2. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>part of the women's tunic that was fastened on the shoulder by brooches, shoulder-strap,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hecuba” 558, 4th c.BC: Chaeremon Tragicus 14.2, 4th-3rd c.BC: Apollodorus Carystius Comicus 4, “IG” 11(2).287 A 87 (3rd c.BC)">Refs 5th c.BC+</a>]; <b>tunic</b> of a rower, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 1404 ">Refs 5th c.BC+</a>]; the high-priest's <b>ephod,</b> [<a href="javascript:void(0)" title=" LXX.Exod.28.6, 1st c.AD: Philo Judaeus 2.151, +others ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.6]]
 </sub></small>

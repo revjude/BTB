@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> <b>cubit-rule</b>, as we say 'foot-rule', 
 $\quad$ $\quad$ $\quad$<b>\_\_V.3</b> <i>metaphorically</i> of any small amount (compare <span class='asgreek'>πήχυιος</span>), [<a href="javascript:void(0)" title=" NT.Matt.6.27 ">NT</a>]; <span class='asgreek'>κατὰ</span> <span class='asgreek'>πῆχυν</span> <b>little</b> by <b>little</b>, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Marinus Biographus “Procl.” 26. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <span class='asgreek'>πήχεις</span>, <span class='asgreek'>οἱ</span>, the <b>cubits</b> (of inundation), represented in pictures as children one cubit high playing round the Nile, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Rh.Pr.” 6, 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.5 ">Refs 2nd c.AD+</a>]. (Cf. Sanskrit <i>bāhú</i>-, Avest. <b>bāzu</b>- (<i>masculine</i>) 'arm', ONorse <b>bógr</b> 'shoulder'.)
 
-<small><sub>LSJ Scripture Refs: [[Exod.25.9]] ☩ [[Matt.6.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.25.9]] ☩ [[Matt.6.27]]
 </sub></small>

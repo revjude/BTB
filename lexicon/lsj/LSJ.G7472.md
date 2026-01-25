@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> of a person, <b>rejoiced at,</b> <span class='asgreek'>πτώματι</span> <span class='asgreek'>ἐχθρῶν</span> [<a href="javascript:void(0)" title=" LXX.Job.31.29. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Nah.3.4]] ☩ [[Job.31.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Nah.3.4]] ☩ [[LXX.Job.31.29]]
 </sub></small>

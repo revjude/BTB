@@ -6,5 +6,5 @@
  <b>with edible fruit</b>, <span class='asgreek'>ξύλον</span> [<a href="javascript:void(0)" title=" LXX.Deut.20.20. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.20.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.20.20]]
 </sub></small>

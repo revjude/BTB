@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>substantive</i>, <b>wood-offerer,</b> [<a href="javascript:void(0)" title=" LXX.Neh.13.31. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.29.11]] ☩ [[Neh.13.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.29.11]] ☩ [[LXX.Neh.13.31]]
 </sub></small>

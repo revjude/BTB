@@ -6,5 +6,5 @@
  <b>have malignant itch,</b> [<a href="javascript:void(0)" title=" LXX.Lev.22.22. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.22.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.22.22]]
 </sub></small>

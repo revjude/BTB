@@ -6,5 +6,5 @@
  <b>exercise enmity,</b> [<a href="javascript:void(0)" title=" LXX.Prov.3.30, 5th c.AD: Proclus Philosophus “Paraphrasis Ptolemaei Tetrabiblou” 171. ">LXX+5th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.3.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.3.30]]
 </sub></small>

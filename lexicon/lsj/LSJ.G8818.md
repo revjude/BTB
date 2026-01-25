@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>build of brick,</b> <span class='asgreek'>τε�
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i> is variously explained by Grammars  as <b>to be changed into bricks, built up with bricks, tortured</b> or <b>enslaved,</b> [<a href="javascript:void(0)" title=" EM 367.43, etc.">Refs</a>]; <b>to be duped,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus, 10th c.AD: Suidas Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>==πλινθεύω==ευομένη</span>, <span class='asgreek'>ἡ</span>, <b>tax on brickmaking,</b> [<a href="javascript:void(0)" title=" POxy. 502.44 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.11.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.11.3]]
 </sub></small>

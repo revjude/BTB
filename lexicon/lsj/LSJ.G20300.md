@@ -5,5 +5,5 @@
  = {<span class='asgreek'>ἐκδίκησις</span>}, [<a href="javascript:void(0)" title=" LXX.Judg.16.28 (uncertain)">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Judg.16.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.16.28]]
 </sub></small>

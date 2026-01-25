@@ -6,5 +6,5 @@
  <b>made of</b> <span class='asgreek'>κάρπασος</span>, [<a href="javascript:void(0)" title=" LXX.Esth.1.6, 1st c.BC-1st c.AD: Strabo Geographus 7.2.3, 1st c.BC: Dionysius Halicarnassensis 2.68. ">LXX+1st c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Esth.1.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.1.6]]
 </sub></small>

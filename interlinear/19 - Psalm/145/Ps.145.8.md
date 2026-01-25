@@ -3,18 +3,18 @@
 The LORD [is] gracious, and full of compassion; slow to anger, and of great mercy.
 <small><sub>**BSB:**</sub></small>
 The LORD is gracious and compassionate, slow to anger and abounding in loving devotion.
-<small><sub>**Literal:**</sub></small>
-[is] gracious and  compassionate Yahweh long of anger<s> and  great of covenant loyalty<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.7|<< Psalms 145:7]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.9|Psalms 145:9 >>]]</td></tr></table>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Ps.145.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.7|<< Psalms 145:7]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.9|Psalms 145:9 >>]]</td></tr></table>
 
-| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |
-| [is] gracious  | <span class="ashebrew"><big>חַנּ֣וּן</big></span><small><small><sup>[[H2587]]</sup></small></small> &#8207;| cha.Nun<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and compassionate  | <span class="ashebrew"><big>וְ</big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רַח֣וּם</big></span><small><small><sup>[[H7349]]</sup></small></small> &#8207;| ve.<small><sup>[[HC]]</sup></small> ra.Chum<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה</big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| long of  | <span class="ashebrew"><big>אֶ֥רֶךְ</big></span><small><small><sup>[[H0750]]</sup></small></small> &#8207;| 'E.rekh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anger\<s>  | <span class="ashebrew"><big>אַ֝פַּ֗יִם</big></span><small><small><sup>[[H0639G]]</sup></small></small> &#8207;| 'a.Pa.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and great of  | <span class="ashebrew"><big>וּ</big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גְדָל</big></span><small><small><sup>[[H1419A]]</sup></small></small> <span class="ashebrew"><big>־</big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u.<small><sup>[[HC]]</sup></small> ge.dol-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| covenant loyalty  | <span class="ashebrew"><big>חָֽסֶד</big></span><small><small><sup>[[H2617A]]</sup></small></small> <span class="ashebrew"><big>׃</big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Cha.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] gracious  | <span class="ashebrew"><big>חַנּ֣וּן </big></span><small><small><sup>[[H2587]]</sup></small></small> &#8207;| cha.Nun <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and compassionate  | <span class="ashebrew"><big>וְ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>רַח֣וּם </big></span><small><small><sup>[[H7349]]</sup></small></small> &#8207;| ve. <small><sup>[[HC]]</sup></small> ra.Chum <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֑ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| long of  | <span class="ashebrew"><big>אֶ֥רֶךְ </big></span><small><small><sup>[[H0750]]</sup></small></small> &#8207;| 'E.rekh <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anger\<s>  | <span class="ashebrew"><big>אַ֝פַּ֗יִם </big></span><small><small><sup>[[H0639G]]</sup></small></small> &#8207;| 'a.Pa.yim <small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and great of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>גְדָל </big></span><small><small><sup>[[H1419A]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> ge.dol- <small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| covenant loyalty  | <span class="ashebrew"><big>חָֽסֶד </big></span><small><small><sup>[[H2617A]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| Cha.sed <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.7|<< Psalms 145:7]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.9|Psalms 145:9 >>]]</td></tr></table>
 
 

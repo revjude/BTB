@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> as <i>substantive</i>, <span class='asgreek'>ἅλιμον</span>, <span class='asgreek'>τό</span>, <b>tree purslane, Atriples Halimus</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Antiphanes Comicus 160, 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.16.5, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.91 (ἅλιμος, ὁ, Pseudo-Dioscorides (Dioscurides) Medicus [prev. passage]). (Sts. written ἄλιμον,compare “Anecdota Graeca - Bekker” 376.)">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.17.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.17.6]]
 </sub></small>

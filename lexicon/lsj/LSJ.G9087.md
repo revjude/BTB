@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>allowance of corn</b>, <span class='asgreek'>ὁ</span> <span class='asgreek'>ἀγορασμὸς</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" LXX.Gen.42.19. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.42.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.42.19]]
 </sub></small>

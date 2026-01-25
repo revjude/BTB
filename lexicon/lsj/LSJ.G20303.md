@@ -5,5 +5,5 @@
  <b>oppression,</b> [<a href="javascript:void(0)" title=" LXX.Mic.7.2. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Mic.7.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mic.7.2]]
 </sub></small>

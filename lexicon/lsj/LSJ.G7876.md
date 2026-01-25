@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>measure exactly, be the measure of</b>, [<a href="javascript:void(0)" title=" μόριον ὃ -μετρήσει τὴν ὅλην 4th c.BC: Aristoteles Philosophus “Physica” 237b28 ">Refs 4th c.BC+</a>] (for which <span class='asgreek'>ἀναμ</span>- is used [<a href="javascript:void(0)" title=" 238a22); τὰ -μετροῦντά τινων">Refs</a>] <b>aliquot parts</b>, [<a href="javascript:void(0)" title=" [prev\. author] “Metaphorical” 1023b15 ">Refs</a>]:—<i>passive</i>, <span class='asgreek'>ὁ</span> <span class='asgreek'>λόγος</span> -<span class='asgreek'>μετρεῖται</span> <span class='asgreek'>συλλαβῇ</span> [<a href="javascript:void(0)" title=" [prev\. author] “Cat.” 4b33 ">Refs</a>]: especially in Metric, of feet or rhythms, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 17, compare “Dem.” 39. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.34.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.34.10]]
 </sub></small>

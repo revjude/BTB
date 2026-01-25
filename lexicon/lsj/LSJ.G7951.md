@@ -6,5 +6,5 @@
  = {<span class='asgreek'>καταφυτεία</span>}, [<a href="javascript:void(0)" title=" LXX.Jer.38.22 ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.38.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.38.22]]
 </sub></small>

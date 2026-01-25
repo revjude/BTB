@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>go round</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Ocyp.” 63. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.19.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.19.4]]
 </sub></small>

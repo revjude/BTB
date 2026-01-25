@@ -5,5 +5,5 @@
  ={<span class='asgreek'>πανούργημα</span>} (for which it is variant in [<a href="javascript:void(0)" title=" Scholia 5th-6th c.BC: Aristophanes Comicus “Equites” 800, LXX.Sir.1.6, +others)">LXX+5th c.BC+</a>]: <i>plural</i>, in good sense, <b>wonderful feats</b>,[<a href="javascript:void(0)" title="LXX.Judg.11.8 (variant{-ήματα}). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Judg.11.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.11.8]]
 </sub></small>

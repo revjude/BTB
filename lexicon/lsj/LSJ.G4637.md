@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>==σκηνόω==έ
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>pitch</b> a tent, <span class='asgreek'>==σκηνόω==ὰς</span>.. <span class='asgreek'>==σκηνόω==ώσας</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Polyaenus Historicus 7.21.6. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>τὸν</span> <span class='asgreek'>τόπον</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>νῦν</span> <span class='asgreek'>σκενοῖ</span> (sic) the place which he now <b>inhabits</b>, uncertain in [<a href="javascript:void(0)" title=" “PCair.Zen.” 499.89 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.5.17]] ☩ [[John.1.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.5.17]] ☩ [[John.1.14]]
 </sub></small>

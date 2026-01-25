@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>made of the wood of the tree</b> <span class='asgreek'>στύραξ</span>, <span class='asgreek'>ἀκοντίσματα</span> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 12.7.3; ῥάβδος LXX.Gen.30.37. ">LXX+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.30.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.30.37]]
 </sub></small>

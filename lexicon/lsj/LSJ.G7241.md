@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>deposit,</b> of money in a bank, [<a href="javas
 $\quad$ $\quad$<b>\_\_III</b> <b>ornament,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>τραχήλων</span> [<a href="javascript:void(0)" title=" LXX.Song.4.9. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>reservoir,</b> [<a href="javascript:void(0)" title=" POxy. 1830.9, +others (6th c.AD). (Cf. ἔνθημα.) ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.4.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.4.9]]
 </sub></small>

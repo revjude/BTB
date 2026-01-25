@@ -27,5 +27,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.10</b> <b>call to mind, consider,</b> [<a href=
 $\quad$ $\quad$ $\quad$<b>\_\_II.11</b> <b>repeat,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 26a. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.12</b> <b>recall a likeness,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἀνδριάντα</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ὁμοιότητα</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἰδέας</span>[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Brutus” 1, compare 2.53d.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.53.12]] ☩ [[Heb.9.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.53.12]] ☩ [[Heb.9.28]]
 </sub></small>

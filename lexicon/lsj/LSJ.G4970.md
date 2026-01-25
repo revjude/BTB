@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_I.5</b> <span class='asgreek'>τὸ</span> <span c
 $\quad$ $\quad$ $\quad$<b>\_\_I.6</b> <span class='asgreek'>==σφόδρα==α</span>, <span class='asgreek'>σφοδρῶς</span> [<a href="javascript:void(0)" title=" LXX.Gen.7.19. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>σ</span>. <span class='asgreek'>γε</span> or <span class='asgreek'>καὶ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>γε</span>, in answers, strongly affirmative, frequently in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus, πάνυ γε σ. “Men.” 82b; πάνυ σ. ταῦτα λέγω “Ap.” 25a. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.2.10]] ☩ [[Gen.7.19]]
+<small><sub>LSJ Scripture Refs: [[Matt.2.10]] ☩ [[LXX.Gen.7.19]]
 </sub></small>

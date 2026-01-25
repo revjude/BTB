@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_c</b> <b>of the olive-tree</b>, <span clas
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>of olive-oil</b>, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Orphica “Lithica” 717. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>of olives</b>, <span class='asgreek'>ἔλαιον</span> [<a href="javascript:void(0)" title=" LXX.Lev.24.2, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 3.8.3. (Also spelt ἐλαίινος “IG” 2.678 “B.”) ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.24.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.24.2]]
 </sub></small>

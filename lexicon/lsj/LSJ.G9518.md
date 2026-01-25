@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>make a mess of</b> [<a href="javascript:void(0)" title="compare (τυρεύω 11), τυροῦντες ἅπαντα 4th c.BC: Archestratus Epicus “fragment” 45.13 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τυρωθέντα</span>· <span class='asgreek'>ταραχθέντα</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>make</b> or <b>season with cheese,</b> <span class='asgreek'>πλακοῦντες</span> <span class='asgreek'>τετυρωμένοι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Artemidorus Daldianus Onirocriticus 1.72. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.10.10]] ☩ [[Ps.118.70]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.10.10]] ☩ [[LXX.Ps.118.70]]
 </sub></small>

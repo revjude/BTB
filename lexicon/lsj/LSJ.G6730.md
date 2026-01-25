@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>food</b>, [<a href="javascript:void(0)" title="
 $\quad$ $\quad$<b>\_\_IV</b> <b>taste, flavour</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.12, “Geoponica” 5.7.3. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>back of the tongue</b>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.104. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.5.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.5.2]]
 </sub></small>

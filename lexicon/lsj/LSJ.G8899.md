@@ -6,5 +6,5 @@
  <b>vat in front of a wine-press,</b> [<a href="javascript:void(0)" title=" LXX.Isa.5.2. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.5.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.5.2]]
 </sub></small>

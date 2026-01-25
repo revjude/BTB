@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> of events and accidents, <b>happen, occur</b>, <spa
 $\quad$ $\quad$<b>\_\_III</b> of places, <b>to be contiguous to</b>, <span class='asgreek'>χώραις</span> -<span class='asgreek'>οῦσαν</span> <span class='asgreek'>θάλατταν</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.59.7, etc.; πρὸς τόπον 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aristides” 11; Ἐσεβὼν καὶ ταῖς -ούσαις αὐτῇ LXX.Num.21.25. ">LXX+2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> see at {<span class='asgreek'>συγκύρω</span>}.
 
-<small><sub>LSJ Scripture Refs: [[Num.21.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.21.25]]
 </sub></small>

@@ -5,5 +5,5 @@
  ={<span class='asgreek'>ὄψον</span>}, [<a href="javascript:void(0)" title=" LXX.Num.11.22. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.11.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.11.22]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>peep out of</b> a door or window, <spa
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> of persons outside a place, <b>peep in, look in</b>, <span class='asgreek'>εἰς</span> <span class='asgreek'>οἰκίαν</span>[<a href="javascript:void(0)" title="LXX.Sir.21.23; παρέκυψεν εἰς τὸ μνημεῖον NT.John.20.11 ">LXX+NT</a>]; <span class='asgreek'>==παρακύπτω==κύψας</span> <span class='asgreek'>βλέπει</span>[<a href="javascript:void(0)" title=" [prev. work] 5, NT.Luke.24.12; ὁ ==παρακύπτω==κύψας εἰς νόμον τέλειον NT.Jas.1.25; π. εἰς τὰ ὑμέτερα 2nd c.AD: Lucianus Sophista “Pisc.” 30, cf. NT.1Pet.1.12 ">NT+2nd c.AD+</a>]; of a thing, <b>appear in</b>, <span class='asgreek'>ἐς</span> <span class='asgreek'>ἀρχόν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ συρίγγων” 3. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>meddle with</b>, <span class='asgreek'>πράγματι</span> [<a href="javascript:void(0)" title=" “PLips.” 29.10 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.2.9]] ☩ [[John.20.11]] ☩ [[Luke.24.12]] ☩ [[Jas.1.25]] ☩ [[1Pet.1.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.2.9]] ☩ [[John.20.11]] ☩ [[Luke.24.12]] ☩ [[Jas.1.25]] ☩ [[1Pet.1.12]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ὑποκάτω</span>}, <span class='asgreek'>οἱ</span> <span class='asgreek'>ὑ</span>. <span class='asgreek'>ἀγροί</span> the <b>lower</b> lands, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 761b. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.9.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.9.14]]
 </sub></small>

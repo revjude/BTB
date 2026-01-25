@@ -1,10 +1,10 @@
-<span class="asform"><span class="asgreek"><span class="asbold">σάρδιον</span></span>, <span class="asgreek">-ον, τό </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">אֹדֶם</span> <small><sup>[[H0124]]</sup></small>, [[Exod.28.17|Ex 28:17]], al.; also for <span class="ashebrew">שֹׁהַם</span> <small><sup>[[H7718]]</sup></small> ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">σάρδιον</span></span>, <span class="asgreek">-ον, τό </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for <span class="ashebrew">אֹדֶם</span> <small><sup>[[H0124]]</sup></small>, [[LXX.Exod.28.17|Ex 28:17]], al.; also for <span class="ashebrew">שֹׁהַם</span> <small><sup>[[H7718]]</sup></small> ;\] </span> </span>
 the <span class="asitalic">sardian</span> stone, <span class="asitalic">sard</span> (of which <span class="asitalic">carnelian</span> is one variety): [[Rev.4.3|Re 4:3]] [[Rev.21.20|21:20]].†
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Exodus | [[Exod.28.17\|28:17]] |
+| Exodus | [[LXX.Exod.28.17\|28:17]] |
 | Revelation | [[Rev.4.3\|4:3]] · [[Rev.21.20\|21:20]] |
 

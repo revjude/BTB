@@ -6,5 +6,5 @@
  <i>genitive</i> <span class='asgreek'>ονος</span>, (<span class='asgreek'>ῥῆμα</span>) <b>much-speaking, wordy,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Marcus Antoninus Imperator 3.5; πνεῦμα τοῦ στόματος LXX.Job.8.2; σοφία 2nd c.AD: Maximus Tyrius Sophista 31.1. ">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.8.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.8.2]]
 </sub></small>

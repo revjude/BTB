@@ -21,5 +21,5 @@ $\quad$ $\quad$<b>\_\_V</b> ={<span class='asgreek'>συμποσίαρχος</s
 $\quad$ $\quad$<b>\_\_VI</b> <b>wren,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 592b27. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> <b>queen-bee,</b>[<a href="javascript:void(0)" title=" [prev. work] 623b9, “GA” 759a20, etc. (The form βασιλέα">Refs</a>] is scanned ?\~X ?\~X ¯ in [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “N.” 1.39 ">Refs 5th c.BC+</a>]; codices <span class='asgreek'>βασίλεια</span>.)
 
-<small><sub>LSJ Scripture Refs: [[Ps.47.2]] ☩ [[1Tim.2.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.47.2]] ☩ [[1Tim.2.2]]
 </sub></small>

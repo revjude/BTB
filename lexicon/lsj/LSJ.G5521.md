@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> in LXX = Hebrew <b>rôsh,</b> a poisonous plant, v
 $\quad$ $\quad$<b>\_\_IV</b> serpent's <b>venom,</b> <span class='asgreek'>χ</span>. <span class='asgreek'>ἀσπίδος</span>[<a href="javascript:void(0)" title="LXX.Job.20.14 ">LXX</a>]; of the hydra's <b>venom,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus 2.5.2, 1st c.BC: Diodorus Siculus Historicus 4.11. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>bitter drink,</b> [<a href="javascript:void(0)" title="NT.Matt.27.34. (With ==χολή==, χόλος,">NT</a>] cf. Latin <i>fel,</i> ONorse <b>gall,</b> etc., 'bile, gall':—probably the name is derived from the colour of bile, and is <i>cognate</i> with Latin (<b>h</b>) <b>olus, helvus,</b> [<a href="javascript:void(0)" title=" \{1st c.BC-1st c.AD\}: Germanicus Caesar Epigrammaticus ">Refs 1st c.BC+</a>] <b>gelb</b> 'yellow', perhaps also <span class='asgreek'>χλόη</span>.)
 
-<small><sub>LSJ Scripture Refs: [[Ps.68.22]] ☩ [[Job.20.14]] ☩ [[Matt.27.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.68.22]] ☩ [[LXX.Job.20.14]] ☩ [[Matt.27.34]]
 </sub></small>

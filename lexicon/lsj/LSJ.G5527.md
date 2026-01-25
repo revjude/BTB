@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>food</b> for men, [<a href="javascript:void(0)" title=" NT.Acts.7.11 (\_plural\_). ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.24.25]] ☩ [[Acts.7.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.24.25]] ☩ [[Acts.7.11]]
 </sub></small>

@@ -6,5 +6,5 @@
  ={<span class='asgreek'>κύπτω</span>}, <span class='asgreek'>κύφοντα</span> <span class='asgreek'>ὀφθαλμοῖς</span> <b>with downcast</b> eyes, [<a href="javascript:void(0)" title=" LXX.Job.22.29. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.22.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.22.29]]
 </sub></small>

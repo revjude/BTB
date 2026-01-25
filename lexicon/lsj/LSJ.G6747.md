@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>note down</b> or <b>write</b> [on waxen tablets], <span class='asgreek'>τόκους</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 11.289 (6th c.AD: Palladas Epigrammaticus). ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <b>to be hatched</b>, <span class='asgreek'>ἕως</span> <span class='asgreek'>γλυφῆναι</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ὠά</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Antigonus Carystius Paradoxographus “Mirabilia” 97 ">Refs 3rd c.BC+</a>]. (Cf. Latin <i>glūbo</i> 'peel', <b>glūma</b> 'husk', OHG. <b>klioban</b> 'cleave'.)
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.9]]
 </sub></small>

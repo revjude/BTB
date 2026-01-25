@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> in moral sense, <b>worthless, knavish,</b> <span c
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>base, cowardly,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Philoctetes” 437, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>χρώματα</span>, i.e. the coward's hue, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 5.2.34 (interpolated). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> with a political connotation, <b>of the baser sort,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Supplices” 424; οἱ λεγόμενοι π. 5th-6th c.BC: Plato Philosophus “Respublica” 519a ">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>καλοὶ</span> <span class='asgreek'>κἀγαθοί</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 15.100,316, compare 5th-6th c.BC: Aristophanes Comicus “Equites” 186.">Refs 5th c.BC+</a>] —On the variation of accent, <span class='asgreek'>==πονηρός==</span> and <span class='asgreek'>πόνηρος</span>, see at {<span class='asgreek'>μοχθηρός</span>} near the end
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.11]] ☩ [[Deut.17.2]] ☩ [[Matt.13.19]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.11]] ☩ [[LXX.Deut.17.2]] ☩ [[Matt.13.19]]
 </sub></small>

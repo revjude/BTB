@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, = {<span class='asgreek'>==διακαθίζω==ιζάνω</span>}, [<a href="javascript:void(0)" title=" LXX.2Kgs.11.1. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.11.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.11.1]]
 </sub></small>

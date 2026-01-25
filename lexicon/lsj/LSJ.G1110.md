@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>knowable</b>, [<a href="javascript:void(0
 $\quad$ $\quad$<b>\_\_II</b> <i>plural</i>, as <i>substantive</i>, ={<span class='asgreek'>γνώριμοι</span>}, <b>notables</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Symmachus LXX.Prov.31.23">LXX+2nd c.AD+</a>]; <b>acquaintance, friend,</b> [<a href="javascript:void(0)" title="NT.Luke.2.44, +others ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>active</i>, <b>knowing</b>, uncertain in [<a href="javascript:void(0)" title=" LXX.Gen.2.9 (γνωστικός cited in 1st c.AD: Philo Judaeus 1.37). ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.27.23]] ☩ [[Prov.31.23]] ☩ [[Luke.2.44]] ☩ [[Gen.2.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.27.23]] ☩ [[LXX.Prov.31.23]] ☩ [[Luke.2.44]] ☩ [[LXX.Gen.2.9]]
 </sub></small>

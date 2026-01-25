@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>==στραγγεύομαι==ευομένη</span> <span class='asgreek'>κάθαρσις</span> <b>coming slowly</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus “fragment” 138. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i> in <i>middle</i> sense, [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 17 (restored for ἐστράγευσεν, ἐστράτευσεν), 10th c.AD: Suidas Legal icographus see {κυπτάζειν}, “Etymologicum Magnum” 330.56 (restored for στρατεύειν)">Refs 5th c.BC+</a>]; = <b>agino,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>] (<span class='asgreek'>στρατ</span>-).
 
-<small><sub>LSJ Scripture Refs: [[Prov.24.10]] ☩ [[Judg.19.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.24.10]] ☩ [[LXX.Judg.19.8]]
 </sub></small>

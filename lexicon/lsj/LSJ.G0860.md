@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> in <i>plural</i>, <b>stripes, strokes,</b
 $\quad$ $\quad$ $\quad$<b>\_\_II.8</b> <b>infection,</b> especially of <b>leprosy,</b>[<a href="javascript:void(0)" title="LXX.Lev.13.6, +others">LXX</a>]: generally, <b>plague,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Aquila LXX.Gen.12.17, 2nd c.AD: Aquila LXX, 2nd-3rd c.AD: Symmachus LXX.Exod.11.1. ">LXX+2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>junction, point of contact</b> in the body, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Generatione et Corruptione” 326b12, 327a12">Refs 4th c.BC+</a>]; <b>ligament, Ep. Eph.</b>[<a href="javascript:void(0)" title=" 4.16, NT.Col.2.19.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.7.14]] ☩ [[Lev.13.6]] ☩ [[Gen.12.17]] ☩ [[Exod.11.1]] ☩ [[Col.2.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.7.14]] ☩ [[LXX.Lev.13.6]] ☩ [[LXX.Gen.12.17]] ☩ [[LXX.Exod.11.1]] ☩ [[Col.2.19]]
 </sub></small>

@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>storing up</b>, <span class='asgreek'>τῶν</
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ὀνομάτων</span> <span class='asgreek'>π</span>. <b>putting down</b> or <b>mention</b> of names, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.36.3 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>τῶν</span> <span class='asgreek'>μαρτυριῶν</span> <b>citation</b> of instances, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 7.180 ">Refs 3rd c.AD+</a>]: hencein Grammars, <b>instance</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 5.13 (\_plural\_), +others ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>laying of advice before</b> others, <b>suggestion</b>, <span class='asgreek'>αἱ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>φίλων</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 9.22.10, +others ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.11.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.11.11]]
 </sub></small>

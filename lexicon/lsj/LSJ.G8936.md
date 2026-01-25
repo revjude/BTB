@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <b>stink</b>, <i>3rd.pers.</i> <i>plural</i> <i>aorist</i> <span class='asgreek'>προσώζεσαν</span> [<a href="javascript:void(0)" title=" LXX.Ps.37.6. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.37.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.37.6]]
 </sub></small>

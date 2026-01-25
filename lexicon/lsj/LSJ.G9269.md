@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, with <i>future</i> <i>middle</i>, <i>aorist</i> and <i>perfect</i> <i>active</i>, <b>stand beside so as to assist</b>, <span class='asgreek'>τἠμῇ</span> <span class='asgreek'>φρενί</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1340, cf. LXX.Ps.93.16, “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2056.8 (from Varna), “PSI” 4.392.13 (3rd c.BC), etc.">LXX+5th c.BC+</a>]; <span class='asgreek'>ἅπαντι</span> <span class='asgreek'>δαίμων</span> <span class='asgreek'>ἀνδρὶ</span> <span class='asgreek'>==συμπαρίστημι==ίσταται</span> <span class='asgreek'>εὐθὺς</span> <span class='asgreek'>γενομένῳ</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 550 ">Refs 4th c.BC+</a>]; <i>2nd pers.</i> <i>plural</i> <i>aorist 2</i> <i>imperative</i> <span class='asgreek'>==συμπαρίστημι==άστατε</span> [<a href="javascript:void(0)" title=" “Sammelb.” 7452.6 (perhaps 3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.93.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.93.16]]
 </sub></small>

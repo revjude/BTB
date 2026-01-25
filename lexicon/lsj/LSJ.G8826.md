@@ -6,5 +6,5 @@
  <b>bearing the spirit, inspired,</b>[<a href="javascript:void(0)" title="LXX.Hos.9.7 ">LXX</a>]; <span class='asgreek'>προφῆται</span>[<a href="javascript:void(0)" title="LXX.Zeph.3.4. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Hos.9.7]] ☩ [[Zeph.3.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hos.9.7]] ☩ [[LXX.Zeph.3.4]]
 </sub></small>

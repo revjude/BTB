@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>stain, dye</b>, <span class='asgreek'>χιτωνίσκον</span> <span class='asgreek'>αἵματι</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 2.3.4:">Refs 1st c.AD+</a>] — <i>passive</i>, <span class='asgreek'>ἔρια</span> <span class='asgreek'>μεμολυσμένα</span> <span class='asgreek'>ἄνθεσι</span>[<a href="javascript:void(0)" title=" [prev. work] 3.6.1. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> see at {<span class='asgreek'>μωλύω</span>}.
 
-<small><sub>LSJ Scripture Refs: [[Song.5.3]] ☩ [[Gen.37.31]] ☩ [[Zech.14.2]] ☩ [[Isa.65.4]] ☩ [[Rev.14.4]] ☩ [[1Cor.8.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.5.3]] ☩ [[LXX.Gen.37.31]] ☩ [[LXX.Zech.14.2]] ☩ [[LXX.Isa.65.4]] ☩ [[Rev.14.4]] ☩ [[1Cor.8.7]]
 </sub></small>

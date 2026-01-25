@@ -6,5 +6,5 @@
  <b>longed for, to be longed for,</b> [<a href="javascript:void(0)" title=" ἡμέρα Vetus Testamentum Graece redditum  LXX.Jer.20.14 ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.20.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.20.14]]
 </sub></small>

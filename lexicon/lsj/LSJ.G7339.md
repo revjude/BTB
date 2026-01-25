@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>journey</b>, [<a href="javascript:void(0)" title=" “PSI” 4.406.27 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.16.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.16.3]]
 </sub></small>

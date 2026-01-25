@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>roaring</b> of a lion, [<a href="javascript:void(0)" title=" LXX.Prov.19.12. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.8.12]] ☩ [[Prov.19.12]]
+<small><sub>LSJ Scripture Refs: [[Matt.8.12]] ☩ [[LXX.Prov.19.12]]
 </sub></small>

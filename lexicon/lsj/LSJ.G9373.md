@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>tie up in a bundle</b>, <span class='a
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>tighten up</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>μαλακῆς</span> <span class='asgreek'>τρίψεως</span> <span class='asgreek'>ἀραιότητα</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 6.91 ">Refs 2nd c.AD+</a>]; of astringents, [<a href="javascript:void(0)" title="[prev. work]477">Refs</a>]; <span class='asgreek'>σύες</span>.. <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἄρρεσιν</span> <span class='asgreek'>ἐμφερῶς</span> <span class='asgreek'>ἐσφιγμέναι</span> sows <b>with firm flesh</b> like boars, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.30; ὑπὸ τῆς ἐμφύτου θερμασίας ἀναχαλᾶται τῶν ἐσφιγμένων ἕκαστον [prev. author] 2.10. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>press together</b>, <span class='asgreek'>πόδας</span>.. <span class='asgreek'>κατὰ</span> <span class='asgreek'>γαστέρος</span> [<a href="javascript:void(0)" title=" Batrachomyomachia 71; χεῖρας [prev. work] 88. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.12.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.12.10]]
 </sub></small>

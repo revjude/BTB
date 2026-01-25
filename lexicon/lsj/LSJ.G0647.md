@@ -7,5 +7,5 @@ Included with: <b> <span class='asgreek'>==ἀποστάσιον==</span>-<span
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==ἀποστάσιον==στασίου</span> <span class='asgreek'>βιβλίον</span> writing or bill <b>of divorce,</b> [<a href="javascript:void(0)" title=" LXX.Deut.24.1, NT.Matt.19.7, NT.Mark.10.4: so ==ἀποστάσιον==στάσιον NT.Matt.5.32. ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>==ἀποστάσιον==στασίου</span> <span class='asgreek'>συγγραφή</span> deed <b>of cession, conveyance,</b> [<a href="javascript:void(0)" title=" PHib. 1.96.3 (3rd c.BC),compare “PGiss.” 36.21 (2nd c.BC), etc.">Refs 3rd c.BC+</a>]; <span class='asgreek'>ἀντίγραφονίου</span>[<a href="javascript:void(0)" title=" “BGU” 919.23 (2nd c.AD)">Refs 2nd c.AD+</a>]; with <span class='asgreek'>συγγραφή</span> omitted, especially in phrase <span class='asgreek'>πρᾶσις</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>==ἀποστάσιον==στασίου</span>[<a href="javascript:void(0)" title=" “PTeb.” 561v (1st c.AD), etc.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.24.1]] ☩ [[Matt.19.7]] ☩ [[Mark.10.4]] ☩ [[Matt.5.32]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.24.1]] ☩ [[Matt.19.7]] ☩ [[Mark.10.4]] ☩ [[Matt.5.32]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>get scent of</b>, <span class='asgreek'>τῆς</span> <span class='asgreek'>Ἱππίου</span> <span class='asgreek'>τυραννίδος</span> [<a href="javascript:void(0)" title=" [prev. author] “Lys.” 619; τοῦ χρυσίου 2nd c.AD: Lucianus Sophista “Tim.” 45. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> causal in <i>active</i>, <span class='asgreek'>==ὀσφραίνομαι==αίνειν</span> <span class='asgreek'>τινά</span> <span class='asgreek'>τινι</span> <b>make</b> one <b>smell</b> at a thing, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 12.795">Refs 2nd c.AD+</a>]; compare <span class='asgreek'>ἀπ</span>-, <span class='asgreek'>προσοσφραίνω</span>.
 
-<small><sub>LSJ Scripture Refs: [[Gen.8.21]] ☩ [[Ps.134.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.8.21]] ☩ [[LXX.Ps.134.17]]
 </sub></small>

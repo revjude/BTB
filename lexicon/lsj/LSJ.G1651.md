@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>get the better of</b>, <span class='as
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>expose</b>, <span class='asgreek'>τινὰ</span> <span class='asgreek'>ληροῦντα</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 171d, compare 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.7.2, 2nd c.AD: Marcus Antoninus Imperator 1.17 ">Refs 5th c.BC+</a>]; <b>betray</b> a weakness, [<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus 222. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>decide</b> a dispute, <span class='asgreek'>ἀνὰ</span> <span class='asgreek'>μέσον</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>δύο</span> [<a href="javascript:void(0)" title=" LXX.Gen.31.37. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.31.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.31.37]]
 </sub></small>

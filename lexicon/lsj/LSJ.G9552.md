@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>intransitive</i>, <b>prevail,</b> [<a href="javascript:void(0)" title="[prev. work] 6.10.2 (where codices SP have ὑπερκρατοῦς ὄντος,compare 5th c.AD(?): Hesychius Legal icographus see at {ὑπερμενέϊ}). ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.16.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.16.22]]
 </sub></small>

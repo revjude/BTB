@@ -6,5 +6,5 @@
  = {<span class='asgreek'>κίχρημι</span>}, [<a href="javascript:void(0)" title=" LXX.1Kgs.1.28 ">LXX</a>]:—<i>middle</i>, [<a href="javascript:void(0)" title=" “Corpus Glossariorum Latinorum” ">Refs</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.1.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.1.28]]
 </sub></small>

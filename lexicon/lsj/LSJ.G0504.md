@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==ἄνυδρος==ον</span>, <span class='asgreek'>τό</span>, ={<span class='asgreek'>στρύχνον</span> <span class='asgreek'>μανικόν</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.73.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.44.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.44.3]]
 </sub></small>

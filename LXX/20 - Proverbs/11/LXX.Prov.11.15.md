@@ -1,0 +1,22 @@
+**LXX Proverbs 11:15** 
+<small><sub>**LXX:**</sub></small>
+\[The\] wicked \[man\] does evil whenever he mixes with a just \[man\]; and he detests \[the\] sound of safety. 
+<small><sub>**KJV:**</sub></small>
+He that is surety for a stranger shall smart [for it]: and he that hateth suretiship is sure.
+<small><sub>**BSB:**</sub></small>
+He who puts up security for a stranger will surely suffer, but the one who hates indebtedness is secure.<small><sub>**MT:**</sub></small>
+[[Prov.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.14|<< Proverbs 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.16|Proverbs 11:16 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| \[The\] wicked \[man\] | <span class="asgreek">πονηρός <sup><small><small>[[G4190]]</small></small></sup> </span> |
+| does evil | <span class="asgreek">κακοποιεί <sup><small><small>[[G2554]]</small></small></sup> </span> |
+| whenever | <span class="asgreek">όταν <sup><small><small>[[G3752]]</small></small></sup> </span> |
+| he mixes | <span class="asgreek">συμμίξη <sup><small><small>[[G9266]]</small></small></sup> </span> |
+| with a just \[man\]; | <span class="asgreek">δικαίω <sup><small><small>[[G1342]]</small></small></sup> </span> |
+| and he detests | <span class="asgreek">μισεί <sup><small><small>[[G3404]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
+| \[the\] sound | <span class="asgreek">ήχον <sup><small><small>[[G2279]]</small></small></sup> </span> |
+| of safety. | <span class="asgreek">ασφαλείας <sup><small><small>[[G0803]]</small></small></sup> </span> |
+[[Prov.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.14|<< Proverbs 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.16|Proverbs 11:16 >>]]</td></tr></table>
+
+

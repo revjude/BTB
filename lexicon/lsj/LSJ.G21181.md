@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> variant for{<span class='asgreek'>σύνθεμα</span>} in [<a href="javascript:void(0)" title=" LXX.Eccl.12.11 codex 4th-5th c.BC: Aeschylus Tragicus ">LXX+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.12.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.12.11]]
 </sub></small>

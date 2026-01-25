@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_VII.1</b> <b>forefathers</b>, [<a href="javascript
 $\quad$ $\quad$ $\quad$<b>\_\_VII.2</b> <b>parents</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 21.17, 4th c.AD: Alciphro Epistolographus 3.40, “epigram Gr.” 227 (from Teos). ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_VII.3</b> <b>parentnation</b>, opposed to colonists, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.51, 8.22, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Themistocles” 9 ">Refs 5th c.BC+</a>]. (Cf. Sanskrit<i>pitár</i>-, Latin <i>pater</i>, etc.)
 
-<small><sub>LSJ Scripture Refs: [[Deut.32.6]] ☩ [[Matt.6.8]] ☩ [[Jas.1.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.6]] ☩ [[Matt.6.8]] ☩ [[Jas.1.17]]
 </sub></small>

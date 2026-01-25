@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>refutation,</b> [<a href="javascript:void
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>annulment,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 2.2 “Intr.” ">Refs 6th c.AD+</a>]; <b>undoing,</b> <span class='asgreek'>ἐπ᾽</span> -<span class='asgreek'>ῇ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>νοήσεως</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>θεοῦ</span>[<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “D.” 3.7. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> <b>raising</b> of body, [<a href="javascript:void(0)" title=" 4th c.AD: Cassius Felix Medicus 82.">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Hag.2.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hag.2.15]]
 </sub></small>

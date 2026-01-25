@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>not feigned</b>: hence, <b>true,</b> oppo
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>not fully shapen, unformed,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.317. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> variant for{<span class='asgreek'>ἄπλᾱτος</span>} (which see).
 
-<small><sub>LSJ Scripture Refs: [[Gen.25.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.25.27]]
 </sub></small>

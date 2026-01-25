@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>pre-eminence,</b> <span class='asgreek'>ἐ</span>. <b>in nullo est,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Epistulae ad Atticum” 4.15.7; ἀπεργάσασθαι τὴν ἐ. 3rd c.AD: Longinus Rhetor 10.3 ">Refs 1st c.BC+</a>]; <span class='asgreek'>δι᾽</span> <span class='asgreek'>==ἐξοχή==ὴν</span> <span class='asgreek'>μορφῆς</span> Hierocl.p.55 [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus; κατ᾽ ==ἐξοχή==ήν ">Refs 4th c.BC+</a>]<b>par excellence,</b> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 1.2.10, 1st c.AD: Philo Judaeus 1.65, 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 26.15, “OGI” 764.52 (2nd c.BC), etc.">Refs 2nd c.BC+</a>]; <span class='asgreek'>οἱ</span> <span class='asgreek'>κατ᾽</span> <span class='asgreek'>==ἐξοχή==ὴν</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>πόλεως</span> <b>leading</b> men, [<a href="javascript:void(0)" title=" NT.Acts.25.23. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.39.28]] ☩ [[Acts.25.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.39.28]] ☩ [[Acts.25.23]]
 </sub></small>

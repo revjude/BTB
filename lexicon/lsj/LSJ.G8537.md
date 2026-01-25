@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>shield-case.</b> [<a href="javascript:void(0)" title=" “OGI” 339.80 (Sestos, 2nd c.BC, \_plural\_). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.32.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.32.27]]
 </sub></small>

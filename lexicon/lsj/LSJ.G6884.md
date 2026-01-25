@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>sluice-gate,</b> Wilcken [<a href="javascript:void(0)" title=" “Chr.” 11 B 6 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.4.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.4.7]]
 </sub></small>

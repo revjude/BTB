@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> rarely with <i>dative</i>, <b>superintend, w
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>visit as a spy, spy out</b>, [<a href="javascript:void(0)" title=" LXX.Deut.1.22, +others">LXX</a>]: <i>metaphorically</i>, of a geographer, <b>explore</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 8.6.4, 17.1.1 ">Refs 1st c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>περιγεγραμμένων</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>μεταρσίων</span> <span class='asgreek'>==ἐφοδεύω==ευθήσεται</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>πρόσγεια</span> [<a href="javascript:void(0)" title=" “Placita Philosophorum” 3.8.2. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>metaphorically</i>, of reasoning, <b>carry on methodically</b>, <span class='asgreek'>λόγον</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 2.25, compare 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 8.222, 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 103, 1st c.BC(?): Maximus Astrologus Tyr. 16.8. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.1.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.1.22]]
 </sub></small>

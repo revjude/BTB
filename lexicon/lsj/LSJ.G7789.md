@@ -6,5 +6,5 @@
  (or <span class='asgreek'>ιδος</span>), <span class='asgreek'>ἡ</span>, <b>camelopard, giraffe</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Agatharchides Geographus 72, LXX.Deut.14.5, 3rd c.BC(?): Callixinus Historicus 2, 2nd-3rd c.AD: Dio Cassius Historicus 43.23, 3rd c.AD: Heliodorus Scriptor Eroticus 10.27. ">LXX+3rd c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.14.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.14.5]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>secretion</b> of sap, [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>abstraction,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 4.7.8. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> (from <i>passive</i>) <b>a being separated, parting, departure,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 5.16.6, 1st c.BC: Diodorus Siculus Historicus 17.10 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>τὸν</span> <span class='asgreek'>χ</span>. <span class='asgreek'>ποιήσασθαι</span> [<a href="javascript:void(0)" title=" [prev. author] 2.60 ">Refs</a>]; <b>seclusion,</b> [<a href="javascript:void(0)" title=" LXX.Lev.12.2, 18.19; ὁ ἀπὸ θεοῦ χ. 5th c.AD: Hierocles Platonicus Philosophus “in Carmen Aureum - FPG” 24p.472M. ">LXX+5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.12.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.12.2]]
 </sub></small>

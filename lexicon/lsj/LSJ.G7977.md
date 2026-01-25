@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>successful accomplishment</b> of a thing, <b>suc
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>setting right, reform, amendment</b>, <span class='asgreek'>τῆς</span> <span class='asgreek'>πολιτείας</span> [<a href="javascript:void(0)" title=" [prev. author] 3.30.2; τῶν πραγμάτων [prev. author] 2.53.3. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> as philosophical term, <b>right action</b>, =[<a href="javascript:void(0)" title=" {==κατόρθωσις==ωμα} 2, 3rd c.BC: Chrysippus Stoicus 3.21 (\_plural\_), +others ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.96.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.96.2]]
 </sub></small>

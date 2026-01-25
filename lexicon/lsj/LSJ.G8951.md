@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in war, <b>advantage gained, success</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.9.7, 2.10.6, 1st c.BC: Diodorus Siculus Historicus 2.19, +others; ἐπὶ τοῦ π. γίγνεσθαι [prev. author] 3.54; οὐκ ἔσται τὸ π. σου LXX.Judg.4.9, compare 1st c.AD: Onosander (Onasander) Tacticus 13.1. ">LXX+2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>privilege</b>, <span class='asgreek'>τὰ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>βασιλείας</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 31.19, compare 5th c.AD(?): Hesychius Legal icographus ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.4.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.4.9]]
 </sub></small>

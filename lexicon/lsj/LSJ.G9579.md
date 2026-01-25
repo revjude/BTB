@@ -6,5 +6,5 @@
  <b>relaxing underneath,</b> <span class='asgreek'>γονάτων</span> [<a href="javascript:void(0)" title=" LXX.Nah.2.11, 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 2.9. ">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Nah.2.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Nah.2.11]]
 </sub></small>

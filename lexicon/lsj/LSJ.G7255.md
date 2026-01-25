@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>to be related,</b> <span class='asgreek'>τινί</span> [<a href="javascript:void(0)" title=" LXX.Esth.8.1. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.8.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.8.1]]
 </sub></small>

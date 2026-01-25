@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>burning desire</b>, [<a 
 $\quad$ $\quad$<b>\_\_IV</b> <b>fever</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 2.240 ">Refs 2nd c.AD+</a>]: <i>plural</i>, <b>feverish states</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ τόπων τῶν κατὰ ἄνθρωπον” 27. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>inflammation</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Fragmenta” 60; στομάχου 1st c.AD: Dioscorides (Dioscurides) Medicus 2.124. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.27.21]] ☩ [[1Pet.4.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.27.21]] ☩ [[1Pet.4.12]]
 </sub></small>

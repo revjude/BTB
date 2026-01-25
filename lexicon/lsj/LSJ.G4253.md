@@ -40,5 +40,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_D.III.4</b> <b>in preference,</b> <span class='asg
 $\quad$ $\quad$ $\quad$<b>\_\_D.III.5</b> <b>before, beforehand,</b> <span class='asgreek'>προαισθάνομαι</span>, <span class='asgreek'>προγίγνομαι</span>, <span class='asgreek'>προκαταλαμβάνω</span>, etc.; of <b>fore</b>sight, <span class='asgreek'>προνοέω</span>, <span class='asgreek'>προοράω</span>. 
 $\quad$ ****<b>\_\_E</b> Etymology: cf. Latin <span class='asgreek'>προ</span>?\~X-, Slavonic <i>pro-,</i> Sanskrit <i>pra-,</i> etc., in compounds.
 
-<small><sub>LSJ Scripture Refs: [[Amos.1.1]] ☩ [[John.12.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.1.1]] ☩ [[John.12.1]]
 </sub></small>

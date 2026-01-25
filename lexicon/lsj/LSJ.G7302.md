@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> (from <i>passive</i>) <b>setting out,</b>[<a href="javascript:void(0)" title="LXX.Num.10.6. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>rising, height</b> of water in a vessel, [<a href="javascript:void(0)" title=" 2nd c.AD: Cleomedes Astronomus 1.1. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.12.17]] ☩ [[Num.10.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.12.17]] ☩ [[LXX.Num.10.6]]
 </sub></small>

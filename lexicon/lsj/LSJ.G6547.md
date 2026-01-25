@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>that by which anything is carried,</b> [<a href="javascript:void(0)" title=" LXX.Neh.4.17(11).">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.4.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.4.17]]
 </sub></small>

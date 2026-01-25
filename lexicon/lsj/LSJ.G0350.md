@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> generally, <b>examine,</b> <span class='a
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>select,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Pseudo-Callisthenes Historicus 3.26. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> in <i>middle</i>, <i>absolutely</i>, <span class='asgreek'>ἀνακρίνεσθαι</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἑωυτούς</span> <b>dispute, wrangle</b> one with another, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 9.56.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.20.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.20.12]]
 </sub></small>

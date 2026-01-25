@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>pure, unadulterated,</b> <span class='asgreek'>γάλα</span>[<a href="javascript:void(0)" title=" “BGU” 1107.7 (1st c.BC), +others">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.2.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.2.3]]
 </sub></small>

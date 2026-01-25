@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>myrrh-coloured</b>, <span class='asgreek'>παλλίον</span> <span class='asgreek'>ζμ</span>. [<a href="javascript:void(0)" title=" “POxy.” 1584.18 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.2.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.2.12]]
 </sub></small>

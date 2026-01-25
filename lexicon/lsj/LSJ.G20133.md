@@ -7,5 +7,5 @@ form of: <small>[[G6519]]</small>
  = {<span class='asgreek'>ἄπωσις</span>}, [<a href="javascript:void(0)" title=" LXX.Lam.1.7">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Lam.1.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lam.1.7]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>head of a family,</b> [<a href="javascript:void(0)" title=" LXX.Josh.21.1.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Josh.21.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.21.1]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>numerous,</b> <span class='asgreek'>ὑπὲρ</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>πατέρας</span> [<a href="javascript:void(0)" title=" LXX.Deut.30.5; uncertain reading in LXX.1Mac.4.35. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.30.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.30.5]]
 </sub></small>

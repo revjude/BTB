@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>channel</b>, [<a href="javascript:void(0)
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>χαλκῆ</span> <span class='asgreek'>θ</span>. <b>laver</b>,[<a href="javascript:void(0)" title="LXX.2Kgs.8.8. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <span class='asgreek'>θ</span>. <span class='asgreek'>κοίλη</span> wooden <b>theatre</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Grammaticus “fragment” 208 (= “Comica Adespota” 864).">Refs 2nd c.AD+</a>] —For the \_Laconian dialect\_ form <span class='asgreek'>σάλασσα</span>, see at {<span class='asgreek'>θαλασσομέδων</span>}.
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.18.32]] ☩ [[2Kgs.8.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.18.32]] ☩ [[LXX.2Kgs.8.8]]
 </sub></small>

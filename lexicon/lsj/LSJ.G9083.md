@@ -6,5 +6,5 @@
  <b>roll of hair</b>, [<a href="javascript:void(0)" title=" LXX.Lev.19.27; Phaselite word \_accusative\_ to 5th c.AD(?): Hesychius Legal icographus ">LXX+5th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.19.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.19.27]]
 </sub></small>

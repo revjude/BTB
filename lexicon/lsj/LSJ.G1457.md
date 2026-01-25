@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>innovate</b>, probably in [<a href="javascript:void(0)" title=" “PPar.” 16.24 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.16.11]] ☩ [[1Kgs.11.14]] ☩ [[Heb.10.20]] ☩ [[Heb.9.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.16.11]] ☩ [[LXX.1Kgs.11.14]] ☩ [[Heb.10.20]] ☩ [[Heb.9.18]]
 </sub></small>

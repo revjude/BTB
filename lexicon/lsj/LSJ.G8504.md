@@ -6,5 +6,5 @@
  <b>rain-water,</b> [<a href="javascript:void(0)" title=" LXX.Ps.77.44, 12th c.AD: Tzetzes, Joannes Grammaticus “Historiarum variarum chiliades” 5.416. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.77.44]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.77.44]]
 </sub></small>

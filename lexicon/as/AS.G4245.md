@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">πρέσβυς</span></span>, <span class="asgreek">-εως, ὁ</span>, poët. form of <span class="asgreek">πρεσβύτης</span> (q.v.),</span> <span class="asetym">  <span class="asseptuagint">\[in LXX (= <span class="asgreek">πρεσβευτής</span>, <span class="asitalic">an ambassador</span>): [[Num.21.20|Nu 21:20]] ([[Num.21.21|21]]), al. (<span class="ashebrew">מַלְאָךְ</span> <small><sup>[[H4397]]</sup></small>), [[Isa.13.8|Is 13:8]] [[Isa.57.9|57:9]] (<span class="ashebrew">צִיר</span> <small><sup>[[H6735]]</sup></small>), [[1Macc.9.70|I Mac 9:70]], al.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">πρέσβυς</span></span>, <span class="asgreek">-εως, ὁ</span>, poët. form of <span class="asgreek">πρεσβύτης</span> (q.v.),</span> <span class="asetym">  <span class="asseptuagint">\[in LXX (= <span class="asgreek">πρεσβευτής</span>, <span class="asitalic">an ambassador</span>): [[LXX.Num.21.20|Nu 21:20]] ([[LXX.Num.21.21|21]]), al. (<span class="ashebrew">מַלְאָךְ</span> <small><sup>[[H4397]]</sup></small>), [[LXX.Isa.13.8|Is 13:8]] [[LXX.Isa.57.9|57:9]] (<span class="ashebrew">צִיר</span> <small><sup>[[H6735]]</sup></small>), [[1Macc.9.70|I Mac 9:70]], al.;\]</span> </span>
 <span class="asitalic">an old man</span>. Compar., <span class="asgreek">πρεσβύτερος</span>, <span class="asgreek">-α</span>, <span class="asgreek">-ον</span>, \[in LXX chiefly for <span class="ashebrew">זָקֵן</span> <small><sup>[[H2204]]</sup></small>;\]
 <span class="asbullet"><span class="asbold">1.</span> of age, <span class="asitalic">elder</span>: <span class="asgreek">ὁ νἱὸς ὁ π.</span>, [[Luke.15.25|Lk 15:25]]; as subst., opp. to <span class="asgreek">νεανίσκοι</span>, [[Acts.2.17|Ac 2:17]]; to <span class="asgreek">νεώτερος</span>, [[1Tim.5.1|I Ti 5:1]], [[1Tim.5.2|2]]; of the religious leaders of the past, [[Matt.15.2|Mt 15:2]], [[Mark.7.3|Mk 7:3]], [[Mark.7.5|5]], [[Heb.11.2|He 11:2]] (= <span class="asgreek">οἱ πατέρες</span>, [[Heb.1.1|He 1:1]]).</span>
 <span class="asbullet"><span class="asbold">2.</span> Of dignity, rank or office (as found in <span class="asgreek">π.</span> and Inscr. of civil and religious offices, including priesthood, in Asia Minor and in Egypt; v. Deiss., <span class="asitalic">BS</span>, 154 ff., 233 ff.; <span class="asitalic">LAE</span>, 373);</span>
@@ -10,8 +10,8 @@ $\quad$ <span class="asbullet"><span class="asbold">(c)</span> in the visions of
 
 | Book | Refs |
 | - | - |
-| Numbers | [[Num.21.20\|21:20]] · [[Num.21.21\|21:21]] |
-| Isaiah | [[Isa.13.8\|13:8]] · [[Isa.57.9\|57:9]] |
+| Numbers | [[LXX.Num.21.20\|21:20]] · [[LXX.Num.21.21\|21:21]] |
+| Isaiah | [[LXX.Isa.13.8\|13:8]] · [[LXX.Isa.57.9\|57:9]] |
 | Matthew | [[Matt.15.2\|15:2]] · [[Matt.16.21\|16:21]] · [[Matt.21.23\|21:23]] · [[Matt.26.3\|26:3]] · [[Matt.26.47\|26:47]] · [[Matt.26.57\|26:57]] · [[Matt.27.1\|27:1]] · [[Matt.27.3\|27:3]] · [[Matt.27.12\|27:12]] · [[Matt.27.20\|27:20]] · [[Matt.27.41\|27:41]] · [[Matt.28.12\|28:12]] |
 | Mark | [[Mark.7.3\|7:3]] · [[Mark.7.5\|7:5]] · [[Mark.8.31\|8:31]] · [[Mark.11.27\|11:27]] · [[Mark.14.43\|14:43]] · [[Mark.14.53\|14:53]] · [[Mark.15.1\|15:1]] |
 | Luke | [[Luke.7.3\|7:3]] · [[Luke.9.22\|9:22]] · [[Luke.15.25\|15:25]] · [[Luke.20.1\|20:1]] · [[Luke.22.52\|22:52]] |

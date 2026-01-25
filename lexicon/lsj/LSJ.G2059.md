@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>put into words, express,</b> [<a href=
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>describe, write about,</b> <span class='asgreek'>τὸν</span> <span class='asgreek'>Νεῖλον</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 121. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>absolutely</i>, <b>speak clearly, articulate,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 5.74. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.42.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.42.17]]
 </sub></small>

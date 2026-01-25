@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b>. in <i>plural</i>, <b>inspectors</b>, [<a hr
 $\quad$ $\quad$<b>\_\_II</b>. ={<span class='asgreek'>συγγνώμων</span>}, <b>pardoning</b>, [<a href="javascript:void(0)" title=" τινί 2nd c.BC: Moschus Bucolicus 4.70 ">Refs 2nd c.BC+</a>]. 
 $\quad$ $\quad$<b>\_\_III</b>. <b>acquainted with</b>, <span class='asgreek'>φύσεως</span>, <span class='asgreek'>γυναικῶν</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.29, 2.274; τέχνης 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 7.56 ">Refs 1st c.AD+</a>].
 
-<small><sub>LSJ Scripture Refs: [[Prov.12.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.12.26]]
 </sub></small>

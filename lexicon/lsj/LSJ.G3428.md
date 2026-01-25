@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==μοιχαλίς==εία</span>}, [<a href="javascript:void(0)" title=" NT.2Pet.2.14. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Hos.3.1]] ☩ [[Rom.7.3]] ☩ [[Jas.4.4]] ☩ [[Matt.12.39]] ☩ [[2Pet.2.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hos.3.1]] ☩ [[Rom.7.3]] ☩ [[Jas.4.4]] ☩ [[Matt.12.39]] ☩ [[2Pet.2.14]]
 </sub></small>

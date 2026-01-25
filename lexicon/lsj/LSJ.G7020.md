@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>concave</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 7.13.1. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.13.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.13.30]]
 </sub></small>

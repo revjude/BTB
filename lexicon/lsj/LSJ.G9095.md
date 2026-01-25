@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>protect</b> or <b>shelter</b>, especially
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>exercise unauthorized patronage over</b>, <span class='asgreek'>τὰς</span> <span class='asgreek'>ἱερὰς</span> <span class='asgreek'>ἀρούρας</span> Wilcken [<a href="javascript:void(0)" title=" “Chr.” 65.60 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> with <i>accusative</i> <i>of things</i>, <b>keep off</b>, <span class='asgreek'>καῦμα</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>Ἐρώτων</span> [<a href="javascript:void(0)" title=" “Anacreontea” 17.9. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.40.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.40.3]]
 </sub></small>

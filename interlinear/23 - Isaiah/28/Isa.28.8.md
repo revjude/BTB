@@ -3,19 +3,19 @@
 For all tables are full of vomit [and] filthiness, [so that there is] no place [clean].
 <small><sub>**BSB:**</sub></small>
 For all their tables are covered with vomit; there is not a place without filth.
-<small><sub>**Literal:**</sub></small>
-for all [the] tables they are full vomit filth not room<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.7|<< Isaiah 28:7]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.9|Isaiah 28:9 >>]]</td></tr></table>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Isa.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.7|<< Isaiah 28:7]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.9|Isaiah 28:9 >>]]</td></tr></table>
 
-| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |
-| for  | <span class="ashebrew"><big>כִּ֚י</big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all  | <span class="ashebrew"><big>כָּל</big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־</big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] tables  | <span class="ashebrew"><big>שֻׁלְחָנ֔וֹת</big></span><small><small><sup>[[H7979]]</sup></small></small> &#8207;| shul.cha.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are full  | <span class="ashebrew"><big>מָלְא֖וּ</big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| mal.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| vomit  | <span class="ashebrew"><big>קִ֣יא</big></span><small><small><sup>[[H6892B]]</sup></small></small> &#8207;| ki'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| filth  | <span class="ashebrew"><big>צֹאָ֑ה</big></span><small><small><sup>[[H6675]]</sup></small></small> &#8207;| tzo.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| not  | <span class="ashebrew"><big>בְּלִ֖י</big></span><small><small><sup>[[H1097]]</sup></small></small> &#8207;| be.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| room  | <span class="ashebrew"><big>מָקֽוֹם</big></span><small><small><sup>[[H4725]]</sup></small></small> <span class="ashebrew"><big>׃</big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big> </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס</big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  | <span class="ashebrew"><big>כִּ֚י </big></span><small><small><sup>[[H3588A]]</sup></small></small> &#8207;| ki <small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  | <span class="ashebrew"><big>כָּל </big></span><small><small><sup>[[H3605]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| kol- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] tables  | <span class="ashebrew"><big>שֻׁלְחָנ֔וֹת </big></span><small><small><sup>[[H7979]]</sup></small></small> &#8207;| shul.cha.Not <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are full  | <span class="ashebrew"><big>מָלְא֖וּ </big></span><small><small><sup>[[H4390]]</sup></small></small> &#8207;| mal.'U <small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| vomit  | <span class="ashebrew"><big>קִ֣יא </big></span><small><small><sup>[[H6892B]]</sup></small></small> &#8207;| ki' <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| filth  | <span class="ashebrew"><big>צֹאָ֑ה </big></span><small><small><sup>[[H6675]]</sup></small></small> &#8207;| tzo.'Ah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  | <span class="ashebrew"><big>בְּלִ֖י </big></span><small><small><sup>[[H1097]]</sup></small></small> &#8207;| be.Li <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| room  | <span class="ashebrew"><big>מָקֽוֹם </big></span><small><small><sup>[[H4725]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> <span class="ashebrew"><big>  </big></span><small><small><sup>[[ ]]</sup></small></small> <span class="ashebrew"><big>ס </big></span><small><small><sup>[[H9018]]</sup></small></small> &#8207;| ma.Kom <small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.7|<< Isaiah 28:7]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.9|Isaiah 28:9 >>]]</td></tr></table>
 
 

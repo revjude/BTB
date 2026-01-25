@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>==λεπίζω==ίς</span>) <b>strip</b> an object of its covering <b>of metal</b> <b>plates</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 22.4.7, 10.27.11 (\_passive\_). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.30.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.30.37]]
 </sub></small>

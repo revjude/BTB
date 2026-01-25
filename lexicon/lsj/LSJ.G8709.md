@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, of persons, <b>mild</b>, <span class='asgreek'>πεπειροτέρους</span> <span class='asgreek'>γεγονότας</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 9.49. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>π</span>. <span class='asgreek'>νοῦσος</span> a disease <b>come to its crisis</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ διαίτης ὀξέων” 39 ">Refs 5th c.BC+</a>]; also <span class='asgreek'>πεπειρότερον</span> <span class='asgreek'>πτύελον</span> <b>more concocted</b>, [<a href="javascript:void(0)" title=" [prev. author] “Epid.” 2.3.4. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.40.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.40.10]]
 </sub></small>

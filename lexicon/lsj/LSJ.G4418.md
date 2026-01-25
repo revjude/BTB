@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>foot</b> or <b>lower part
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>butt-end</b> of the <span class='asgreek'>ἀγκών</span> of a torsion-engine, [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 59.30, 66.2 ">Refs 3rd c.BC+</a>]; of a surgical machine, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus 49.4.9, +others ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>ham</b> (mock Epicism formed from Latin <i>perna</i>), [<a href="javascript:void(0)" title=" Batrachomyomachia 37 ">Refs</a>]; <i>falsa lectio</i> for{<span class='asgreek'>πέρνα</span>} in [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 15.15, 7th c.AD: Paulus Aegineta Medicus 7.17.74 (πέρνα correctly in 4.32). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.3.15]] ☩ [[Judg.5.22]] ☩ [[Song.1.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.3.15]] ☩ [[LXX.Judg.5.22]] ☩ [[LXX.Song.1.8]]
 </sub></small>

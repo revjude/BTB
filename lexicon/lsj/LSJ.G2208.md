@@ -9,5 +9,5 @@ name of: <small>[[G4613G]]</small>
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>jealous</b>, <span class='asgreek'>θεὸς</span> <span class='asgreek'>ζ</span>. [<a href="javascript:void(0)" title=" LXX.Exod.20.5. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>zealot</b>, used to translate <span class='asgreek'>Κανανίτης</span> or <span class='asgreek'>Καναναῖος</span>, [<a href="javascript:void(0)" title=" NT.Luke.6.15, NT.Acts.1.13, 1st c.AD: Josephus Historicus “Bellum Judaicum” 4.3.9; τῶν πατρίων ἐθῶν [prev. author] “AJ” 12.6.2; τῶν νόμων LXX.2Mac.4.2. ">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.14.12]] ☩ [[Exod.20.5]] ☩ [[Luke.6.15]] ☩ [[Acts.1.13]]
+<small><sub>LSJ Scripture Refs: [[1Cor.14.12]] ☩ [[LXX.Exod.20.5]] ☩ [[Luke.6.15]] ☩ [[Acts.1.13]]
 </sub></small>

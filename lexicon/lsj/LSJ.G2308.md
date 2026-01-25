@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>goodwill, favour</b>, [<a href="javascript:void(0)" title=" LXX.Prov.8.35. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.2.4]] ☩ [[Prov.8.35]]
+<small><sub>LSJ Scripture Refs: [[Heb.2.4]] ☩ [[LXX.Prov.8.35]]
 </sub></small>

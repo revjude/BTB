@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>besprinkle</b>, <span class='asgreek'>οὔκουν</span>.. <span class='asgreek'>σεαυτὸν</span> <span class='asgreek'>ἁλσὶ</span> <span class='asgreek'>πάσει</span>; [<a href="javascript:void(0)" title=" 5th c.BC: Crates Comicus [same place], compare 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 9.2 ">Refs 5th c.BC+</a>]; <span class='asgreek'>χρυσῷ</span>, <span class='asgreek'>ῥόδοις</span> <span class='asgreek'>π</span>. <span class='asgreek'>τινά</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 912, 1330. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, <b>sprinkle oneself</b> with ashes, [<a href="javascript:void(0)" title=" LXX.3Mac.1.18. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.9.8]] ☩ [[Esth.1.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.9.8]] ☩ [[LXX.Esth.1.6]]
 </sub></small>

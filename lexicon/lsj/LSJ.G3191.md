@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> with <i>accusative</i> <i>person</i>, <b>
 $\quad$ $\quad$<b>\_\_III</b> Grammars, <b>to be accustomed</b>, with <i>infinitive</i>, <span class='asgreek'>μεμελέτηκε</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>τ</span> ¯ <span class='asgreek'>εἰς</span> <span class='asgreek'>θ</span> ¯ <span class='asgreek'>τρέπεσθαι</span> [<a href="javascript:void(0)" title=" “Anecdota Graeca - MSS. Bibl. Oxon.” 1.66; τὰ μὴ ==μελετάω==ήσανταπάσχεινσυναίρεσιν 9th c.AD: Theognostus Grammaticus “Can.” 145.25. ">Refs 9th c.AD+</a>] 
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.b</b> in Medicine texts, <b>acquire a habit</b>, <span class='asgreek'>==μελετάω==ησάντων</span> <span class='asgreek'>ἐκπίπτειν</span> <span class='asgreek'>βραχιόνων</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 14.782 ">Refs 2nd c.AD+</a>]:— <i>passive</i>, <b>become chronic</b>, <span class='asgreek'>==μελετάω==ηθὲν</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>πάθος</span> [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 16.67. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.27.4]] ☩ [[1Tim.4.15]] ☩ [[Josh.1.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.27.4]] ☩ [[1Tim.4.15]] ☩ [[LXX.Josh.1.8]]
 </sub></small>

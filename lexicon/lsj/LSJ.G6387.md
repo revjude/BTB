@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>written complaint</b> handed in to th
 $\quad$ $\quad$<b>\_\_IV</b> in Logic, <b>shifting</b> of the basis of argument: hence of argument based on a probable or agreed assumption, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Priora” 69a20, cf. Anonymus “in SE” 65.35">Refs 4th c.BC+</a>]; <b>reduction,</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἀδύνατον</span> <span class='asgreek'>ἀ</span>. <b>reductio per impossibile, APr.</b> 29b6[<a href="javascript:void(0)" title="; ἡ ἀ. μετάβασίς ἐστιν ἀπ᾽ ἄλλου προβλήματος ἢ θεωρήματος ἐπ᾽ ἄλλο, οὗ γνωσθέντος ἢ πορισθέντος καὶ τὸ προκείμενον ἔσται καταφανές 5th c.AD: Proclus Philosophus “in primum Euclidis librum commentarius” p.212F.; τῶν ἀπορουμένων διαγραμμάτων τὴν ἀ. ποιήσασθαι [prev. work] p.213F. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_IV.b</b> <b>reduction</b> of a disputant (compare <span class='asgreek'>ἀπάγω</span> see[<a href="javascript:void(0)" title=" 1c), ἡ ἐπὶ τὸ ἄδηλον ἀ. 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 2.234.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.10.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.10.4]]
 </sub></small>

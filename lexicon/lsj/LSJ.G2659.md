@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>contrition</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Nov.” 137.6 “Intr.” ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.29.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.29.10]]
 </sub></small>

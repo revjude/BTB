@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <span class='asgreek'>μ</span>. <
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> of taste, <b>insipid, flat, Comedy texts Adesp.</b>[<a href="javascript:void(0)" title=" 596, Diocl.fragment 138, 1st c.AD: Dioscorides (Dioscurides) Medicus 4.19. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> -<span class='asgreek'>ρως</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.6.21 ">Refs 5th c.BC+</a>]. (Cf. Sanskrit <i>mūrás</i> 'idiot'.)
 
-<small><sub>LSJ Scripture Refs: [[Matt.7.26]] ☩ [[Jer.5.21]] ☩ [[1Cor.1.25]] ☩ [[Isa.32.6]]
+<small><sub>LSJ Scripture Refs: [[Matt.7.26]] ☩ [[LXX.Jer.5.21]] ☩ [[1Cor.1.25]] ☩ [[LXX.Isa.32.6]]
 </sub></small>

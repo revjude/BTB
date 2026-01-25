@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> in <i>plural</i>, <b>love-feast,</b> [<a href="java
 $\quad$ $\quad$<b>\_\_III</b> <b>alms, charity,</b> [<a href="javascript:void(0)" title=" PGen. 14 (4th-5th c.AD). ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>==ἀγάπη==η</span> <span class='asgreek'>θεῶν</span>, title of Isis, [<a href="javascript:void(0)" title=" “POxy.” 1380.109 (2nd c.AD).">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.2.2]] ☩ [[Song.2.7]] ☩ [[Rom.5.8]] ☩ [[2Cor.5.14]] ☩ [[Luke.11.42]] ☩ [[1Cor.13.1]] ☩ [[2Pet.2.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.2.2]] ☩ [[LXX.Song.2.7]] ☩ [[Rom.5.8]] ☩ [[2Cor.5.14]] ☩ [[Luke.11.42]] ☩ [[1Cor.13.1]] ☩ [[2Pet.2.13]]
 </sub></small>

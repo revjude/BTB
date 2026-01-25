@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>τὸ</span> -<span
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>Λ</span>. <b>Laconian steel</b>, St.Byzantine see at {<span class='asgreek'>Λακεδαίμων</span>}. 
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>Λακωνικόν</span>, <span class='asgreek'>τό</span>, <b>female garment</b>, <span class='asgreek'>διαφανῆ</span> <span class='asgreek'>Λ</span>. [<a href="javascript:void(0)" title=" LXX.Isa.3.23. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.3.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.3.23]]
 </sub></small>

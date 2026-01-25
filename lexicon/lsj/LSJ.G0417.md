@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>cardinal point, quarter,</b> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>τεσσάρων</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" LXX.Zech.2.6, “Annales du Service” 19.40 (Theadelphia, 1st c.BC), NT.Matt.24.31, +others, 2nd c.AD: Vettius Valens Astrologus 140.6, “PFlor.” 50.104: \_sing.\_, [prev. work] 20.19 (2nd c.AD)">LXX+1st c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>κατ᾽</span> <span class='asgreek'>ἄνεμον</span> <b>aspect,</b> [<a href="javascript:void(0)" title=" POxy. 100.10 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>wind</b> in the body, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.179, +others (From ἀνε-">Refs 5th c.BC+</a>] 'blow, breathe', cf. Sanskrit <i>áni-ti</i> 'breathes', Gothic <i>uzanan</i> 'expire', etc.)
 
-<small><sub>LSJ Scripture Refs: [[Zech.2.6]] ☩ [[Matt.24.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.2.6]] ☩ [[Matt.24.31]]
 </sub></small>

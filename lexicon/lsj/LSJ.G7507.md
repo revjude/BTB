@@ -6,5 +6,5 @@
  ={<span class='asgreek'>==ἑρμηνευτής==εύς</span>}, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Politicus” 290c, LXX.Gen.42.23, 2nd c.AD(?): Pollianus Epigrammaticus 5.154. ">LXX+5th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.42.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.42.23]]
 </sub></small>

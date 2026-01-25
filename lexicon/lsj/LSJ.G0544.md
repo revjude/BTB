@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of animals, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 7.5.62 ">Refs 5th c.BC+</a>]; of ships, <span class='asgreek'>τοῖς</span> <span class='asgreek'>οἴαξιν</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 13.46. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> of a woman, <b>refuse compliance,</b> [<a href="javascript:void(0)" title=" 5th c.AD: Aristaenetus Rhetor 2.20.">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.5.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.5.6]]
 </sub></small>

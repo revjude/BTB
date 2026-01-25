@@ -6,5 +6,5 @@
  <b>born in the house</b>, ={<span class='asgreek'>οἰκογενής</span>}, [<a href="javascript:void(0)" title=" “SIG” 2854.5, +others(Delph.), LXX.Lev.18.9. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.18.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.18.9]]
 </sub></small>

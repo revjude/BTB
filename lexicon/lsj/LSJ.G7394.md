@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <i>metaphorically</i>, <b>sparkle on</b> <b>the surface</b>, [<a href="javascript:void(0)" title=" ἐπεγέλασέ τις ὕλη τῷ μίγματι 2nd-3rd c.AD: Hermes Trismegistus cited in 5th c.AD: Stobaeus, Joannes 1.49.44. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b>. ={<span class='asgreek'>ἐπεγγελάω</span>}, [<a href="javascript:void(0)" title=" LXX.Prov.1.26, 2nd c.AD: Galenus Medicus 6.234, 2nd c.AD: Lucianus Sophista “Bis Acc.” 5; τῷ δυστυχοῦντι Chiloap. 5th c.AD: Stobaeus, Joannes 3.1.172. ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.1.26]] ☩ [[Prov.1.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.1.26]] ☩ [[LXX.Prov.1.26]]
 </sub></small>

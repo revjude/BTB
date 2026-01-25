@@ -6,5 +6,5 @@
  <i>middle</i>, <b>feed upon,</b> [<a href="javascript:void(0)" title=" LXX.Job.40.25(30). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.40.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.40.25]]
 </sub></small>

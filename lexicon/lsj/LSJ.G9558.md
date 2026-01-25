@@ -6,5 +6,5 @@
  <b>taking no notice,</b> [<a href="javascript:void(0)" title=" LXX.Lev.20.4. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.20.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.20.4]]
 </sub></small>

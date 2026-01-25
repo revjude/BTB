@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>make to tremble</b>, [<a href="javascript:void(0)" title=" LXX.Ps.28.8. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i> of intoxication, <span class='asgreek'>συνέσεισέ</span> <span class='asgreek'>μ᾽</span> <span class='asgreek'>ἐκποθεῖσα</span> <span class='asgreek'>φιάλη</span> [<a href="javascript:void(0)" title=" 4th c.BC: Xenarchus Comicus 2.2. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.28.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.28.8]]
 </sub></small>

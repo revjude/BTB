@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>wager,</b> [<a href="javascript:void(0)" title=
 $\quad$ $\quad$<b>\_\_IV</b> <b>decree,</b> [<a href="javascript:void(0)" title=" LXX.Dan.6.12(13). ">LXX</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>vow,</b>[<a href="javascript:void(0)" title="LXX.Num.30.3, +others, compare 1st c.AD: Philo Judaeus 1.77. ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.6.12]] ☩ [[Num.30.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.6.12]] ☩ [[LXX.Num.30.3]]
 </sub></small>

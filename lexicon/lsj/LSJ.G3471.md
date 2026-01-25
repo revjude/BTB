@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> causal, <b>make foolish, convict of folly</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>βουλὴ</span> <span class='asgreek'>αὐτῶν</span> <span class='asgreek'>==μωραίνω==ανθήσεται</span> [<a href="javascript:void(0)" title=" LXX.Isa.19.11 ">LXX</a>]; <span class='asgreek'>ἐ==μωραίνω==άνθην</span> <span class='asgreek'>σφόδρα</span>[<a href="javascript:void(0)" title="LXX.2Kgs.24.10, cf. NT.1Cor.1.20 ">LXX+NT</a>]:—<i>passive</i>, <b>to become foolish, be stupefied</b>, [<span class='asgreek'>αἶγες</span>] <span class='asgreek'>ἑστᾶσιν</span> <span class='asgreek'>ὥσπερ</span> <span class='asgreek'>με==μωραίνω==αμμέναι</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 610b30 (sed compare ==μωραίνω==όομαι)">Refs 4th c.BC+</a>]; <b>to become insipid</b>, <span class='asgreek'>ἐὰν</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἅλας</span> <span class='asgreek'>==μωραίνω==ανθῇ</span> [<a href="javascript:void(0)" title=" NT.Matt.5.13. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.19.11]] ☩ [[2Kgs.24.10]] ☩ [[1Cor.1.20]] ☩ [[Matt.5.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.19.11]] ☩ [[LXX.2Kgs.24.10]] ☩ [[1Cor.1.20]] ☩ [[Matt.5.13]]
 </sub></small>

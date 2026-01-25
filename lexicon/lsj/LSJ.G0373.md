@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.c</b> of the dead, <span class='asgre
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.d</b> <b>regain strength,</b> uncertain reading in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 6 1.11. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>rest</b> or <b>settle</b> upon an object, <span class='asgreek'>τὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Θεοῦ</span> <span class='asgreek'>πνεῦμα</span> <span class='asgreek'>ἐφ᾽</span> <span class='asgreek'>ὑμᾶς</span> <span class='asgreek'>==ἀναπαύω==παύεται</span> [<a href="javascript:void(0)" title="NT.1Pet.4.14, cf. LXX.Isa.11.2 ">LXX+NT</a>]; of shadows, [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “Comm. in Mathematics texts” 8.">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lam.5.5]] ☩ [[Rev.14.13]] ☩ [[1Pet.4.14]] ☩ [[Isa.11.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lam.5.5]] ☩ [[Rev.14.13]] ☩ [[1Pet.4.14]] ☩ [[LXX.Isa.11.2]]
 </sub></small>

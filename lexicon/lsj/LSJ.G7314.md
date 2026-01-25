@@ -6,5 +6,5 @@
  <b>inquiry, investigation,</b> [<a href="javascript:void(0)" title=" LXX.Ps.63.7 (in form -εραυν-), conjecture in 6th c.AD: Lydus, Joannes Laurentius Historicus “de Ostentis” 16. ">LXX+6th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.63.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.63.7]]
 </sub></small>

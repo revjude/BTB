@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b>. <b>come to a judgement, decide</b>, [<a href="jav
 $\quad$ $\quad$<b>\_\_IV</b>. <b>recongnize, acknowledge, approve</b>, [<a href="javascript:void(0)" title=" “NT.1Cor.16.18”; ἐ.σε τῆς ἐπιμελείας Chio Epistolographus [4th c.BC] “Ep.” 6 ">NT+4th c.BC+</a>]. 
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b>. <b>recognize</b> an obligation, <b>undertake</b> to discharge or deliver, [<a href="javascript:void(0)" title=" “PLips.” 22.14 (4th c.AD), etc. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.37.32]] ☩ [[Ruth.2.10]] ☩ [[Deut.16.19]] ☩ [[1Cor.16.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.37.32]] ☩ [[LXX.Ruth.2.10]] ☩ [[LXX.Deut.16.19]] ☩ [[1Cor.16.18]]
 </sub></small>

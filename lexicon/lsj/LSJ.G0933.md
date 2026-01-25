@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>tiara, diadem,</b> [<a href="javascript:void(0)"
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ἅλιμος</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.91">Refs 1st c.AD+</a>]; ={<span class='asgreek'>λευκό</span>ϊ<span class='asgreek'>ον</span>}, [<a href="javascript:void(0)" title=" [prev. author] 3.123. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>Βασίλεια</span>, <span class='asgreek'>τά</span>, <b>festival of Zeus Basileus,</b> in Boeotia, [<a href="javascript:void(0)" title=" “IG” 7.552, Scholia 5th c.BC: Pindarus Lyricus “O.” 7.153, “IG” 12(1).78; at Olbia, “IPE” 1.105. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.1.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.1.10]]
 </sub></small>

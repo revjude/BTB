@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>white as ivory</b>, <span class='asgreek'>μέτωπον</span> [<a href="javascript:void(0)" title=" “Anacreontea” 15.12 ">Refs</a>]; <span class='asgreek'>τάριχος</span> Crates 29.
 
-<small><sub>LSJ Scripture Refs: [[Amos.3.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.3.15]]
 </sub></small>

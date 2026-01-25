@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> c.<i>accusative</i> et <i>infinitive</i>, <b
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>passive</i>, literal <b>appear upon the surface,</b> [<a href="javascript:void(0)" title=" 5th-4th c.BC: Timaeus Locrus Philosophus 101d; ἐ. ταῖς εἰκόσιν ἰδέα 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aratus” 3: \_metaphorically\_, τὸ ἦθος ὡς χρῶμα ταῖς πράξεσιν ἐ. [prev. work] 48,compare “Galb.” 23. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> seemingly <i>intransitive</i>, in <i>active</i>, <b>show light, dawn,</b> <span class='asgreek'>ἡμέρας</span> <span class='asgreek'>ἐπιφαινούσης</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 5.6.6 (so ἀνατολῆς ἐπιφαινομένης [prev. author] 3.113.1); ἐπιφᾶναι τοῖς ἐν σκότει καθημένοις ">Refs 2nd c.BC+</a>]<b>to shine upon</b> [<a href="javascript:void(0)" title=" NT.Luke.1.79, cf. LXX.Deut.33.2. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.33.2]] ☩ [[Luke.1.79]] ☩ [[Titus.3.4]] ☩ [[Luke.1.79]] ☩ [[Deut.33.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.33.2]] ☩ [[Luke.1.79]] ☩ [[Titus.3.4]] ☩ [[Luke.1.79]] ☩ [[LXX.Deut.33.2]]
 </sub></small>

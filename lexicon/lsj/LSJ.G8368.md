@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of persons, <b>defiled, polluted</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Medea” 1393 (\_anapaest meter\_), “El.” 1350 (\_anapaest meter\_), 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 340, 3rd c.BC: Theocritus Poeta Bucolicus 2.20. ">Refs 5th c.BC+</a>] <i>adverb</i> -<span class='asgreek'>ρῶς</span> <i>falsa lectio</i> for{<span class='asgreek'>μυστικῶς</span>} in [<a href="javascript:void(0)" title=" 1st c.BC: Zosimus Epigrammaticus 4.3. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.18.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.18.23]]
 </sub></small>

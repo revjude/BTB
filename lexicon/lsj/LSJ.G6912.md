@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_I.2</b> <b>give security</b>, [<a href="javascript
 $\quad$ $\quad$<b>\_\_II</b> <b>take pledges, distrain,</b> [<a href="javascript:void(0)" title="[prev. work]629.20 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>absolutely</i>, <b>mortgage</b> one's property, [<a href="javascript:void(0)" title=" LXX.Neh.5.3. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.5.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.5.3]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>shaft, dart</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.20.20f, LXX.1Mac.10.80, “Anthologia Graeca” 6.282 (Theodorus Epigrammaticus); so ==σχίζα==αι εἰς βέλη καταπαλτῶν “IG” 22.1629.996. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.20.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.20.20]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>make afraid,</b> [<a href="javascript:void(0)" title=" LXX.Deut.20.8. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.20.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.20.8]]
 </sub></small>

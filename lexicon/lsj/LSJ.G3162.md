@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>metaphorically</i>, <span class='asgreek'
 $\quad$ $\quad$<b>\_\_II</b> name of a precious stone, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Mirabilia” 847a5, Pseudo-Plutarchus Biographus et Philosophus “Fluv.” 10.5. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> part of the liver, [<a href="javascript:void(0)" title=" 2nd c.AD: Rufus Medicus “περὶ ὀνομασίας” 180. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.21.24]] ☩ [[Matt.26.52]] ☩ [[Eph.6.17]] ☩ [[Isa.49.2]]
+<small><sub>LSJ Scripture Refs: [[Luke.21.24]] ☩ [[Matt.26.52]] ☩ [[Eph.6.17]] ☩ [[LXX.Isa.49.2]]
 </sub></small>

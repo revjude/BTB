@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>make good,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Numenius Apamensis Platonicus cited in 4th c.AD: Eusebius Caesariensis Scriptor Ecclesiasticus “PE” 11.22 (\_passive\_).">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.25.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.25.31]]
 </sub></small>

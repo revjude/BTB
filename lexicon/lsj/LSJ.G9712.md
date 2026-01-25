@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>voting by show of hands,</b> [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> generally, <b>election, appointment,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.93, etc. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>a vote,</b> in <i>plural</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 659b, 4th c.BC: Aeschines Orator 3.3 ">Refs 5th c.BC+</a>]; collectively, <b>votes,</b> <span class='asgreek'>οἷς</span> <span class='asgreek'>ἂν</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>πλείστη</span> <span class='asgreek'>χ</span>. <span class='asgreek'>γίγνηται</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 755d, compare 756b. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.58.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.58.9]]
 </sub></small>

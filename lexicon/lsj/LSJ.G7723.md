@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> as <i>adjective</i>, <b>catching with birdlime</b>, <span class='asgreek'>ἰ</span>. <span class='asgreek'>κάλαμοι</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 6.152 (from Agis). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Amos.8.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.8.1]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>make to flourish, revive,</b> [<a href="javascript:void(0)" title=" LXX.Sir.11.22, 50.10">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.4.10]] ☩ [[Ps.27.7]]
+<small><sub>LSJ Scripture Refs: [[Phil.4.10]] ☩ [[LXX.Ps.27.7]]
 </sub></small>

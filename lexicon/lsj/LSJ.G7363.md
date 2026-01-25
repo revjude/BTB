@@ -6,5 +6,5 @@
  <b>glean after the vintage,</b> with <i>accusative</i>, [<a href="javascript:void(0)" title=" LXX.Deut.24.21, LXX.Lev.19.10. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.24.21]] ☩ [[Lev.19.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.24.21]] ☩ [[LXX.Lev.19.10]]
 </sub></small>

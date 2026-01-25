@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>pledge, earnest,</b> <span cla
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>present, bribe,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Galba” 17">Refs 1st c.AD+</a>]. (Semitic, probably Phoenician, word, Hebrew <b>'ērābōn</b>: frequently written <span class='asgreek'>ἀραβών</span>, [<a href="javascript:void(0)" title=" “UPZ” 67.14 (2nd c.BC), etc.) ">NT+2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἀρραβών</span>· <span class='asgreek'>πρόδομα</span>, <span class='asgreek'>καὶ</span> <span class='asgreek'>ἄγκιστρον</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.38.17]] ☩ [[Eph.1.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.38.17]] ☩ [[Eph.1.14]]
 </sub></small>

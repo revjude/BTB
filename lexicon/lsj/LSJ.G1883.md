@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_IV</b> of Relationship, <span class='asgreek'>πατέρ�
 $\quad$ $\quad$<b>\_\_V</b> in Logic, <span class='asgreek'>τὸ</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>γένος</span> the genus or species <b>above,</b> opposed to <span class='asgreek'>τὰ</span> <span class='asgreek'>ὑποκάτω</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Topica” 122a4, 143a21; τὰ ἐ. τοῦ γένους [prev. work] 122a34. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> of Number, <b>above, more,</b> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>εἰκοσαετοῦς</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" LXX.Exod.30.14, +others">LXX</a>]; <b>above, more than,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τριακοσίων</span> <span class='asgreek'>δηναρίων</span> [<a href="javascript:void(0)" title=" NT.Mark.14.5; ὤφθη ἐ. πεντακοσίοις NT.1Cor.15.6. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.18.2]] ☩ [[2Kgs.24.20]] ☩ [[Exod.30.14]] ☩ [[Mark.14.5]] ☩ [[1Cor.15.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.18.2]] ☩ [[LXX.2Kgs.24.20]] ☩ [[LXX.Exod.30.14]] ☩ [[Mark.14.5]] ☩ [[1Cor.15.6]]
 </sub></small>

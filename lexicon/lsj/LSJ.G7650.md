@@ -6,5 +6,5 @@
  <b>wished for, desired</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.15.22, LXX.Mal.3.12. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.15.22]] ☩ [[Mal.3.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.15.22]] ☩ [[LXX.Mal.3.12]]
 </sub></small>

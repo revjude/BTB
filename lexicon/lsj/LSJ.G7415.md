@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_II</b>. <b>invited in addition, supernumerary guest</b>, [
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b>. <b>alien, foreign</b>, <span class='asgreek'>ὄχλος</span>, opposed to <span class='asgreek'>ἐπιχώριος</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 6.53. ">Refs 1st c.BC+</a>] 
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b>. <b>irrelevant</b>, <span class='asgreek'>λοιδορία</span> 2nd c.BC: Polybius Historicus 8.11.2.
 
-<small><sub>LSJ Scripture Refs: [[Num.28.18]] ☩ [[Josh.20.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.28.18]] ☩ [[LXX.Josh.20.9]]
 </sub></small>

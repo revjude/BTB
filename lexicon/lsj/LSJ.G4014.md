@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>make void, cancel</b> a vow, [<a href="ja
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>strike off, cancel</b> an item in an account, [<a href="javascript:void(0)" title=" “PCair.Zen.” 147 (3rd c.BC)">Refs 3rd c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" “Sammelb.” 5136.8 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, with <i>accusative</i> <i>of things</i>, <b>to be stripped of</b> a thing, <b>have</b> a thing <b>taken off</b> or <b>away from</b> one, <span class='asgreek'>περιῃρημένοι</span> <span class='asgreek'>χρήματα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>συμμάχους</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 3.31; ==περιαιρέω==εθεὶς τὰ ὄντα [prev. author] 21.138; τοὺς στεφάνους περιῄρηνται [prev. author] 26.5: with \_accusative\_ understood, ==περιαιρέω==εθήσεσθαι ἤμελλον 4th-3rd c.BC: Epicurus Philosophus “De rerum natura - Wien. Stud.” 15.34. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.30.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.30.13]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>falsify</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 7.39. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.32]] ☩ [[Mark.10.12]] ☩ [[Jer.3.8]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.32]] ☩ [[Mark.10.12]] ☩ [[LXX.Jer.3.8]]
 </sub></small>

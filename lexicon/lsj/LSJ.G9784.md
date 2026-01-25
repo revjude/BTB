@@ -6,5 +6,5 @@
  <b>sung to the harp, sung of,</b> [<a href="javascript:void(0)" title=" LXX.Ps.118.54. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.118.54]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.118.54]]
 </sub></small>

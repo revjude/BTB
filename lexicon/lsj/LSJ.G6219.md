@@ -6,5 +6,5 @@
  <b>painful</b>, [<a href="javascript:void(0)" title=" LXX.Jer.10.19, +others">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.10.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.10.19]]
 </sub></small>

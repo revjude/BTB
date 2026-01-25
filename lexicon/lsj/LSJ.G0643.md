@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>reject,</b> [<a href="javascript:void(
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>defer,</b> <span class='asgreek'>διήγησιν</span>[<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 5.1. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>transfer,</b> <span class='asgreek'>ἔς</span> <span class='asgreek'>τινας</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>αἰτίας</span>[<a href="javascript:void(0)" title=" 4th c.AD: Julianus Imperator “Orationes” 2.66d.">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.14.36]] ☩ [[Acts.21.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.14.36]] ☩ [[Acts.21.15]]
 </sub></small>

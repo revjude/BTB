@@ -3,18 +3,18 @@
 The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.
 <small><sub>**BSB:**</sub></small>
 The mouth of the righteous brings forth wisdom, but a perverse tongue will be cut out.
-<small><sub>**Literal:**</sub></small>
-[the] mouth of a righteous [person] it will bear fruit wisdom and  a tongue of perversities it will be cut off<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.30|<< Proverbs 10:30]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.32|Proverbs 10:32 >>]]</td></tr></table>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Prov.10.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.30|<< Proverbs 10:30]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.32|Proverbs 10:32 >>]]</td></tr></table>
 
-| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |
-| [the] mouth of  | <span class="ashebrew"><big>פִּֽי</big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>־</big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a righteous [person]  | <span class="ashebrew"><big>צַ֭דִּיק</big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will bear fruit  | <span class="ashebrew"><big>יָנ֣וּב</big></span><small><small><sup>[[H5107]]</sup></small></small> &#8207;| ya.Nuv<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wisdom  | <span class="ashebrew"><big>חָכְמָ֑ה</big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and a tongue of  | <span class="ashebrew"><big>וּ</big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְשׁ֥וֹן</big></span><small><small><sup>[[H3956G]]</sup></small></small> &#8207;| u.<small><sup>[[HC]]</sup></small> le.Shon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perversities  | <span class="ashebrew"><big>תַּ֝הְפֻּכ֗וֹת</big></span><small><small><sup>[[H8419]]</sup></small></small> &#8207;| tah.pu.Khot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be cut off  | <span class="ashebrew"><big>תִּכָּרֵֽת</big></span><small><small><sup>[[H3772G]]</sup></small></small> <span class="ashebrew"><big>׃</big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ti.ka.Ret<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mouth of  | <span class="ashebrew"><big>פִּֽי </big></span><small><small><sup>[[H6310G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| pi- <small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a righteous [person]  | <span class="ashebrew"><big>צַ֭דִּיק </big></span><small><small><sup>[[H6662]]</sup></small></small> &#8207;| Tza.dik <small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will bear fruit  | <span class="ashebrew"><big>יָנ֣וּב </big></span><small><small><sup>[[H5107]]</sup></small></small> &#8207;| ya.Nuv <small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wisdom  | <span class="ashebrew"><big>חָכְמָ֑ה </big></span><small><small><sup>[[H2451]]</sup></small></small> &#8207;| chokh.mah <small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a tongue of  | <span class="ashebrew"><big>וּ </big></span><small><small><sup>[[H9002]]</sup></small></small> <span class="ashebrew"><big>לְשׁ֥וֹן </big></span><small><small><sup>[[H3956G]]</sup></small></small> &#8207;| u. <small><sup>[[HC]]</sup></small> le.Shon <small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perversities  | <span class="ashebrew"><big>תַּ֝הְפֻּכ֗וֹת </big></span><small><small><sup>[[H8419]]</sup></small></small> &#8207;| tah.pu.Khot <small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be cut off  | <span class="ashebrew"><big>תִּכָּרֵֽת </big></span><small><small><sup>[[H3772G]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| ti.ka.Ret <small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.30|<< Proverbs 10:30]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.32|Proverbs 10:32 >>]]</td></tr></table>
 
 

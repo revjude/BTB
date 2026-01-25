@@ -6,5 +6,5 @@
  <b>spitting on</b>, [<a href="javascript:void(0)" title=" LXX.Isa.50.6. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.50.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.50.6]]
 </sub></small>

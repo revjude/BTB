@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>sexual intercourse</b>, [<a href="javascript:void(0)" title=" [prev. author] “Lg.” 839a, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Numa” 4. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>οἱ</span> <span class='asgreek'>υἱοὶ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>σ</span>. mistranslation of Hebrew <b>benē hatta\` ărūbóth</b> 'sons of pledges', i.e. 'hostages', through confusion of root with <b>\`ēreb</b> 'mixed horde', [<a href="javascript:void(0)" title=" LXX.2Kgs.14.14. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.14.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.14.14]]
 </sub></small>

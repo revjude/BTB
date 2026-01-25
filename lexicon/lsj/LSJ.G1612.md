@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>turn inside out,</b> <span class='asgreek'>τὰ
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i> in <i>perfect</i> <i>participle</i> <i>passive</i>, <span class='asgreek'>γενεὰ</span> <span class='asgreek'>ἐξεστραμμένη</span> <b>perverse</b> generation, [<a href="javascript:void(0)" title=" LXX.Deut.32.20. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>transmute</b> base metal, [<a href="javascript:void(0)" title=" 1st c.BC: Zosimus Epigrammaticus Alch. p.195B. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.32.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.20]]
 </sub></small>

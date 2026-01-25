@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> euphemistic in mal. <i>participle</i>, [<a h
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>passive</i>, <b>to be deluded,</b> [<a href="javascript:void(0)" title="NT.Matt.2.16, “Anthologia Graeca” 10.56.2 (6th c.AD: Palladas Epigrammaticus), 2nd c.AD: Vettius Valens Astrologus 16.14 ">NT+2nd c.AD+</a>]; <b>to be defrauded</b>, of the revenues, [<a href="javascript:void(0)" title=" “Codex Justinianus [4th-6th c.AD]” 1.34.2. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>sport in</b> or <b>on</b>, <span class='asgreek'>ὡς</span> <span class='asgreek'>νεβρὸς</span> <span class='asgreek'>χλοεραῖς</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>λείμακος</span> <span class='asgreek'>ἡδοναῖς</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 866 (Lyric poetry)">Refs 5th c.BC+</a>]; <span class='asgreek'>τοῖς</span> <span class='asgreek'>χοροῖσιν</span> <span class='asgreek'>ἐ</span>. <b>to sport in</b> the dance, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 975; τῷ γυμνασίῳ 2nd c.AD: Lucianus Sophista “Lex.” 5. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Hab.1.10]] ☩ [[Num.22.29]] ☩ [[Josh.19.25]] ☩ [[Matt.2.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hab.1.10]] ☩ [[LXX.Num.22.29]] ☩ [[LXX.Josh.19.25]] ☩ [[Matt.2.16]]
 </sub></small>

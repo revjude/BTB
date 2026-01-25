@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>make to bring forth</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Symmachus LXX.Isa.66.9. ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.23.19]] ☩ [[Isa.66.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.23.19]] ☩ [[LXX.Isa.66.9]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> uncertain meaning in <i>accusative</i> <span class='asgreek'>τὸν</span> <span class='asgreek'>==νάβλα==</span>, [<a href="javascript:void(0)" title=" “OGI” 175.9 (Egypt, 2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.10.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.10.5]]
 </sub></small>

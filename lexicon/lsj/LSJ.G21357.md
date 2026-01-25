@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>crumble away, vanish, disappear,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 678 (assuming variant). (==ψάω==, ψαίω, ψαύω, ψαίρω, ψήχω, ψώχω, and perhaps ψίω, ψωμός, seem to be different enlargements of ψ-,">Refs 5th c.BC+</a>] which corresponds to <b>ps-</b> in Sanskrit <i>psā ´ti, bhes-</i> in Sanskrit <i>babhasti</i> 'crush, chew, devour', <b>bhasman</b> 'ashes'.)
 
-<small><sub>LSJ Scripture Refs: [[Jer.31.33]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.31.33]]
 </sub></small>

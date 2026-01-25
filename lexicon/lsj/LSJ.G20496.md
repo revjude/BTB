@@ -5,5 +5,5 @@
  <b>command</b>, [<a href="javascript:void(0)" title=" LXX.Josh.5.15 (variant), LXX.1Mac.9.31. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Josh.5.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.5.15]]
 </sub></small>

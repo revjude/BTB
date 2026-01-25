@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> with an <i>adjective</i>, <span class='as
 $\quad$ $\quad$<b>\_\_III</b> later, <i>active</i> <i>intransitive</i>, like <i>passive</i>, <span class='asgreek'>ἡ</span> <span class='asgreek'>σελήνη</span> <span class='asgreek'>αὐξάνει</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Posteriora” 78b6, compare “HA” 620a21, Aristeas 208, 1st c.BC: Diodorus Siculus Historicus 4.64, NT.Col.2.19, 4th c.BC: Demosthenes Orator Chr. 4.128, 2nd-3rd c.AD: Dio Cassius Historicus 48.52, etc. ">NT+4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> of Verbs, <b>take the augment,</b> both <i>active</i> and <i>passive</i>, [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus “Epim.” 280">Refs 2nd c.AD+</a>]; <span class='asgreek'>αὔξουσα</span> (i.e. <span class='asgreek'>συλλαβή</span>), <span class='asgreek'>ἡ</span>, <b>augment,</b> [<a href="javascript:void(0)" title="[prev. passage] (Cf. ἀέξω.) ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.17.6]] ☩ [[Col.2.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.17.6]] ☩ [[Col.2.19]]
 </sub></small>

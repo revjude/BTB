@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i>, <b>grow out of,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἰδίην</span> <span class='asgreek'>ἰδέην</span> Hp. [prev. cited] 
 $\quad$ $\quad$<b>\_\_II</b> <b>cause to grow, produce,</b> <span class='asgreek'>ἔξοδον</span> <span class='asgreek'>χλοῆς</span> [<a href="javascript:void(0)" title=" LXX.Job.38.27 ">LXX</a>]; <b>cause to revive,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>φυήν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “ὀξέων νούσων θεραπευτικόν” 2.3. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.38.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.38.27]]
 </sub></small>

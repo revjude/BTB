@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i> of argument, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 16.82.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.3.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.3.3]]
 </sub></small>

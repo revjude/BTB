@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>bowl</b> for offerings, [<a href="javascr
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> a <b>pouring-cup</b> used by doctors, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.377e. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> part of the <span class='asgreek'>νόμος</span> <span class='asgreek'>Πυθικός</span>, [<a href="javascript:void(0)" title=" 2nd c.BC: Demetrius Lacon Philosophus “Herc.” 1014.53 (written σπονδῆον). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.4.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.4.7]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>adjective</i> <span class='asgreek'>==μετάμελος==ος</span>, <span class='asgreek'>ον</span>, <b>repenting</b>, <span class='asgreek'>πόλις</span> <span class='asgreek'>ταῖς</span> <span class='asgreek'>διαδιδομέναις</span> <span class='asgreek'>φήμαις</span> <span class='asgreek'>==μετάμελος==ος</span> <span class='asgreek'>οὖσα</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 25.11. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.11.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.11.3]]
 </sub></small>

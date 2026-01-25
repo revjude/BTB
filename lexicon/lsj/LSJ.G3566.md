@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>son-in-law,</b> [<a href="javascript:void(0)" title=" LXX.Josh.15.6. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> as <i>adjective</i> <span class='asgreek'>νύμφιος</span>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, <b>bridal,</b> <span class='asgreek'>τράπεζα</span> <span class='asgreek'>==νυμφίος==ία</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 3.16; λέκτρα “epigram Gr.” 373 (from Aezani). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.15.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.15.6]]
 </sub></small>

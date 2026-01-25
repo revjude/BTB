@@ -20,5 +20,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.II.2</b> later, in <i>present</i>, simply <b>go,
 $\quad$ $\quad$<b>\_\_B.III</b> in Medicine texts, of the bowels, <b>to be open,</b> <span class='asgreek'>κοιλίη</span> <span class='asgreek'>ὑπάγουσα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Acut.(Sp.”) 2, 2nd c.AD: Galenus Medicus 15.756">Refs 5th c.BC+</a>]; see above [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus IV. 3. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_B.IV</b> <b>sink down, squat,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 540a7; compare ὑπαγωγή 111.2. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.14.21]] ☩ [[Matt.4.10]] ☩ [[Mark.1.44]] ☩ [[John.16.5]] ☩ [[Matt.9.6]] ☩ [[Jer.43.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.14.21]] ☩ [[Matt.4.10]] ☩ [[Mark.1.44]] ☩ [[John.16.5]] ☩ [[Matt.9.6]] ☩ [[LXX.Jer.43.19]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>separation from a husband,</b> [<a href="javascript:void(0)" title=" Leges Gortynensium 3.45. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.38.14]] ☩ [[Judg.8.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.38.14]] ☩ [[LXX.Judg.8.5]]
 </sub></small>

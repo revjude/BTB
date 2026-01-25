@@ -32,5 +32,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.V.3</b> in <i>neuter</i> <i>participle</i>, <spa
 $\quad$ ****<b>\_\_C</b> <b>to be</b> <span class='asgreek'>ὕπαρχος</span> or <b>subordinate colleague,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 36.36; τῷ.. Ἀντωνίνῳ [prev. author] 71.34. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_C.II</b> uncertain in the sense of <span class='asgreek'>ἄρχω</span>, <b>rule;</b> for [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.87 ">Refs 5th c.BC+</a>], where the [<a href="javascript:void(0)" title=" Scholia is in error, see above 5th c.BC: Bacchylides Lyricus 111.2b; in 4th c.BC: Aristoteles Philosophus “Politica” 1291b32 ὑπερέχειν is probable reading ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.24.47]] ☩ [[Gen.12.5]]
+<small><sub>LSJ Scripture Refs: [[Matt.24.47]] ☩ [[LXX.Gen.12.5]]
 </sub></small>

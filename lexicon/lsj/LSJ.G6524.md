@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> in good sense, <b>rest, leisure,</b> <span c
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> in <i>plural</i>, <b>holidays,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 4.8.33">Refs 2nd c.AD+</a>], = <b>feriae</b> or <b>justitium,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Bella Civilia” 1.56, “PPetr.” 3">Refs 2nd c.AD+</a>]: <i>singular</i>, of the Sabbath, [<a href="javascript:void(0)" title=" LXX.Isa.1.14. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>lapse of cultivation,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 4.5.6.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.1.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.1.14]]
 </sub></small>

@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>condescend</b>, [<a href="javascript:v
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>fall in value,</b> [<a href="javascript:void(0)" title=" POxy. 1223.33 (4th c.AD),compare 2nd c.AD(?): Pollianus Epigrammaticus 1.51. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <span class='asgreek'>λέγεται</span> <span class='asgreek'>μηδὲν</span> <span class='asgreek'>αὐτοῖς</span> <span class='asgreek'>τούτων</span> <span class='asgreek'>καταβαίνειν</span>, of abusive language, does not <b>affect</b> them or <b>get home</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 2.242. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.23.13]] ☩ [[2Kgs.1.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.23.13]] ☩ [[LXX.2Kgs.1.21]]
 </sub></small>

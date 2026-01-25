@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>substantive</i>, <b>solitary wild boar</b> (<span class='asgreek'>ὗς</span> <span class='asgreek'>ἄγριος</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>μὴ</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἄλλοις</span> <span class='asgreek'>συναγελαζόμενος</span> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus), variant for{ὗς ἄγριος} in 5th-4th c.BC: Aesopus Fabularum Scriptor 407; μ. ἄγριος LXX.Ps.79.13 (variant). ">LXX+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.79.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.79.13]]
 </sub></small>

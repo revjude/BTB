@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b><span class='asgreek'>==οὐαί==</span>·</b> <span class='asgreek'>φυλαί</span> [<a href="javascript:void(0)" title="(5th c.AD: Cypria), 5th c.AD(?): Hesychius Legal icographus (Cf. \_Doric dialect\_ ὠβά.) ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Amos.5.18]] ☩ [[1Kgs.13.30]] ☩ [[Num.21.29]] ☩ [[Rev.8.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.5.18]] ☩ [[LXX.1Kgs.13.30]] ☩ [[LXX.Num.21.29]] ☩ [[Rev.8.13]]
 </sub></small>

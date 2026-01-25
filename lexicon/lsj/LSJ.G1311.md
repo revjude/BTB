@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b> <i>perfect</i> <span class='asgreek'>διέφθο
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> in Trag. and Comedy texts always <i>transitive</i> [<a href="javascript:void(0)" title="compare (5th c.AD(?): Ammonius Epigrammaticus 42, 2nd c.AD: Moeris Grammaticus 127), τὰς.. ἐλπίδας διέφθορεν 5th c.BC: Sophocles Tragicus “Electra” 306; τὰς φρένας διέφθορε.. μοναρχία 5th c.BC: Euripides Tragicus “Hippolytus” 1014; τὸν λόγον δ. 5th c.BC: Cratinus Comicus 292, compare 5th c.BC: Eupolis Comicus [same place], 5th c.BC: Pherecrates Comicus 145.15, 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 490, 4th-3rd c.BC: Menander Comicus 3. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>aorist</i> <span class='asgreek'>διέφθειρα</span> <i>intransitive</i>, <b>became corrupt,</b> [<a href="javascript:void(0)" title=" LXX.Josh.2.19. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.2.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.2.19]]
 </sub></small>

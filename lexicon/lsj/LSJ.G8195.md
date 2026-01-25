@@ -6,5 +6,5 @@
  ={<span class='asgreek'>λίκνον</span>}, [<a href="javascript:void(0)" title=" LXX.Amos.9.9, “Sammelb.” 5230.2 (1st c.AD), Serv.Dan.ad Verg. “G.” 1.166, 5th c.AD(?): Hesychius Legal icographus ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Amos.9.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.9.9]]
 </sub></small>

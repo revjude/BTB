@@ -6,5 +6,5 @@
  <b>ventilated, airy</b>, <span class='asgreek'>ὑπερῷα</span> [<a href="javascript:void(0)" title=" LXX.Jer.22.14. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.22.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.22.14]]
 </sub></small>

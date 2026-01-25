@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==περίβλημα==βολος</span>}[<a href="javascript:void(0)" title=" 11.2, 1st c.AD: Philo Judaeus 2.148 ">Refs 1st c.AD+</a>]; <b>enceinte, fortification</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Politicus” 288b. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.31.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.31.20]]
 </sub></small>

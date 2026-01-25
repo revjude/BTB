@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>section</b> of a machine, <span class='asgreek'>ἡ</span> <span class='asgreek'>κάτω</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus “Abhandlungen der Göttinger Gesellschaft der Wissenschaften (Phil.-hist. Klasse)” 173.4. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>circular incision</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD: Oribasius Medicus 45.6.9, 45.7.3, 6th c.AD: Aëtius Medicus 15.8. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.17.13]] ☩ [[Rom.2.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.17.13]] ☩ [[Rom.2.29]]
 </sub></small>

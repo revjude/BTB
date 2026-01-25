@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>λαχανισμός</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 4.9.8. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.11.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.11.10]]
 </sub></small>

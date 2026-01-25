@@ -6,5 +6,5 @@
  <b>deceit, subtlety,</b> [<a href="javascript:void(0)" title=" LXX.Num.25.17, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.25.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.25.17]]
 </sub></small>

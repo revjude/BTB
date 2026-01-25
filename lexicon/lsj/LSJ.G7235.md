@@ -6,5 +6,5 @@
  ={<span class='asgreek'>εὐφραίνομαι</span> <span class='asgreek'>ἐν</span>}.., [<a href="javascript:void(0)" title=" LXX.Prov.8.31, 1st c.AD: Philo Judaeus 1.232, +others ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.8.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.8.31]]
 </sub></small>

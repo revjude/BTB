@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b>. <b>face</b> upwards or downwards, [<a href=
 $\quad$ $\quad$<b>\_\_II</b>. <b>eye with envy</b>, [<a href="javascript:void(0)" title=" τύχαις 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 1526 ">Refs 5th c.BC+</a>]. 
 $\quad$ $\quad$<b>\_\_III</b>. Astrology texts, <b>to be in aspect with</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Hephaestio Astrologus 3.20. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.26.9]] ☩ [[Hos.11.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.26.9]] ☩ [[LXX.Hos.11.4]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>schoolmaster: governor</b>, [<a href="javascript:void(0)" title=" LXX.Deut.1.15, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.1.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.1.15]]
 </sub></small>

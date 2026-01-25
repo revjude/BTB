@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>substantive</i> <span class='asgreek'>==ἐνόρκιος==ιον</span>, <span class='asgreek'>τό</span>, <b>oath,</b> [<a href="javascript:void(0)" title=" LXX.Num.5.21. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ἔνσπονδος</span>}, [<a href="javascript:void(0)" title=" “GDI” 3045 (from Olympia). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.5.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.5.21]]
 </sub></small>

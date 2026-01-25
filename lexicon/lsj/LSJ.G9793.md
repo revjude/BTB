@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> generally, <b>decree, law,</b> <span class='asgreek'>θεῶν</span> <span class='asgreek'>ψ</span>. <span class='asgreek'>παλαιόν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 115, compare 5th-6th c.BC: Aristophanes Comicus “Vespae” 378 (Lyric poetry), Legal cited in 5th-6th c.BC: Andocides Orator 1.96, LXX.Esth.3.7, +others ">LXX+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.3.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.3.7]]
 </sub></small>

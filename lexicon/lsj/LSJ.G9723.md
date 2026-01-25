@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>want,</b> <span class='asgreek'>διὰ</span> <span class='asgreek'>==χηρεία==είαν</span> <span class='asgreek'>ἐπιστήμης</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.358; νόθῳ κόσμῳ ==χηρεία==είᾳ γνησίου [prev. author] 2.492. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mic.1.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mic.1.16]]
 </sub></small>

@@ -6,5 +6,5 @@
  (<span class='asgreek'>βᾶρις</span> [<a href="javascript:void(0)" title=" 2)">Refs</a>] <b>battlemented house, fortress</b>, [<a href="javascript:void(0)" title=" LXX.Ps.121.7. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.121.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.121.7]]
 </sub></small>

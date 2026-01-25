@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>mass of soil</b> in which roots are found, conj
 $\quad$ $\quad$<b>\_\_IV</b> <b>heap of rubbish, ruin,</b> [<a href="javascript:void(0)" title=" LXX.Josh.8.28, LXX.Isa.25.2, 4th c.AD: Libanius Sophista “Orationes” 61.13. ">LXX+4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>χ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>γῆς</span> the <b>dust</b> of the earth, [<a href="javascript:void(0)" title=" LXX.Exod.8.16. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Hab.1.10]] ☩ [[Josh.8.28]] ☩ [[Isa.25.2]] ☩ [[Exod.8.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hab.1.10]] ☩ [[LXX.Josh.8.28]] ☩ [[LXX.Isa.25.2]] ☩ [[LXX.Exod.8.16]]
 </sub></small>

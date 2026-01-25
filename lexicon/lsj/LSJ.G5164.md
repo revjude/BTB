@@ -23,5 +23,5 @@ $\quad$ ****<b>\_\_B</b> <span class='asgreek'>τρόχος</span>, <span class
 $\quad$ $\quad$ $\quad$<b>\_\_B.2</b> <b>place for running, race-course,</b> [<a href="javascript:void(0)" title=" [prev. author] “Hipp.” 1133 (Lyric poetry). ">Refs</a>]
 $\quad$ $\quad$<b>\_\_B.II</b> an animal, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Herodorus Historicus 58J. (1st c.BC: Trypho Grammaticus cited in 1st-2nd c.AD: Ammonius Grammaticus “περὶ ὁμοίων καὶ διαφόρων λέξεων” p.131 V. distinguished the two senses as above.) ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.76.18]] ☩ [[Jas.3.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.76.18]] ☩ [[Jas.3.6]]
 </sub></small>

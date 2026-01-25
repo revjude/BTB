@@ -6,5 +6,5 @@
  <b>brightness shining from afar</b>, [<a href="javascript:void(0)" title=" LXX.Ps.17.13. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.17.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.17.13]]
 </sub></small>

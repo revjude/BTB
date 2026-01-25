@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>σαρκὸς</span> <
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>consistency, thickness</b>, of liquids or fluids, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Sensu” 441a29, “GA” 739a12 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>θαλάσσης</span>, attributed to its saltness, [<a href="javascript:void(0)" title=" [prev. author] “Mete.” 359a7; ὥστε γίνεσθαι τὸ π. ὡς κυκεῶνα 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 89.21. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> in concrete sense, <b>thick mass</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.18. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.24.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.24.8]]
 </sub></small>

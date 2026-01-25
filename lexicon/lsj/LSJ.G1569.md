@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>terrible,</b> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Theodotion LXX.Dan.7.7. ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.3.11]] ☩ [[Dan.7.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.3.11]] ☩ [[LXX.Dan.7.7]]
 </sub></small>

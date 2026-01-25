@@ -5,5 +5,5 @@
  <b>tow,</b> [<a href="javascript:void(0)" title=" LXX.Judg.16.9, 2nd-3rd c.AD: Symmachus LXX.Isa.1.31.">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Judg.16.9]] ☩ [[Isa.1.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.16.9]] ☩ [[LXX.Isa.1.31]]
 </sub></small>

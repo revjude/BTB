@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b>. <i>impersonal</i>, <b>it rains</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Simplicius Philosophus “in Epict.” p.92D. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.10.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.10.6]]
 </sub></small>

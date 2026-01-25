@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>,= <span class='asgreek'>στρεύγομαι</span>, [<a href="javascript:void(0)" title="Scholia 8th c.BC: Ilias Homerus Epicus “Illiad” 15.511, “Etymologicum Magnum” 729.50 ">Refs 8th c.BC+</a>]: <i>active</i> in same sense, [<a href="javascript:void(0)" title="Scholia 8th c.BC: Odyssea Homerus Epicus “Odyssey” 12.351. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.1.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.1.15]]
 </sub></small>

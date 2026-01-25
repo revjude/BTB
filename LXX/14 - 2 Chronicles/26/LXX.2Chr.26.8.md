@@ -1,0 +1,32 @@
+**LXX 2 Chronicles 26:8** 
+<small><sub>**LXX:**</sub></small>
+And the Mehunim gave gifts  to Uzziah. And his name was \[famous\] unto \[the\] entrance of Egypt, for he strengthened himself even higher. 
+<small><sub>**KJV:**</sub></small>
+And the Ammonites gave gifts to Uzziah: and his name spread abroad [even] to the entering in of Egypt; for he strengthened [himself] exceedingly.
+<small><sub>**BSB:**</sub></small>
+The Ammonites brought tribute to Uzziah, and his fame spread as far as the border of Egypt, for he had become exceedingly powerful.<small><sub>**MT:**</sub></small>
+[[2Chr.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.7|<< 2 Chronicles 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.9|2 Chronicles 26:9 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| gave | <span class="asgreek">έδωκαν <sup><small><small>[[G1325]]</small></small></sup> </span> |
+| the | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| Mehunim | <span class="asgreek">Μιναίοι <sup><small><small>[[H4586]]</small></small></sup> </span> |
+| gifts | <span class="asgreek">δώρα <sup><small><small>[[G1435]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| to Uzziah. | <span class="asgreek">Οζία <sup><small><small>[[G3604]]</small></small></sup> </span> |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| was | <span class="asgreek">ην <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">το <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| his name | <span class="asgreek">όνομα <sup><small><small>[[G3686]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[famous\] unto | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
+| \[the\] entrance | <span class="asgreek">εισόδου <sup><small><small>[[G1529]]</small></small></sup> </span> |
+| of Egypt, | <span class="asgreek">Αιγύπτου <sup><small><small>[[G0125]]</small></small></sup> </span> |
+| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
+| he strengthened himself | <span class="asgreek">κατίσχυσεν <sup><small><small>[[G2729]]</small></small></sup> </span> |
+| even | <span class="asgreek">έως <sup><small><small>[[G2193]]</small></small></sup> </span> |
+| higher. | <span class="asgreek">άνω <sup><small><small>[[G0507]]</small></small></sup> </span> |
+[[2Chr.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.7|<< 2 Chronicles 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.9|2 Chronicles 26:9 >>]]</td></tr></table>
+
+

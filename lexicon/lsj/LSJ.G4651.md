@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_IV</b> the constellation [<a href="javascript:void(0)" tit
 $\quad$ $\quad$<b>\_\_V</b> an engine of war for discharging arrows, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “Belopoeica” 74.6, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Marcellus” 15; ==σκορπίος==ων σωλῆνες “IG” 22.1627.333. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> a stone, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Orphica “Lithica” 500, compare 494. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.12.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.12.11]]
 </sub></small>

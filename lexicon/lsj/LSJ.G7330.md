@@ -6,5 +6,5 @@
  <b>propitiation, atonement,</b> [<a href="javascript:void(0)" title=" LXX.Num.29.11, 3rd c.AD(?): Diogenes Laertius 1.110, 4th c.AD: Iamblichus Philosophus “de Mysteriis” 1.13 (\_plural\_). ">LXX+3rd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.29.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.29.11]]
 </sub></small>

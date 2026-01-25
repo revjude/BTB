@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>concede</b>, [<a href="javascript:void
 $\quad$ $\quad$<b>\_\_III</b> <b>see amiss, see wrong</b>, <span class='asgreek'>παρακούειν</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>==παροράω==ᾶν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 157e, compare “Hp.Ma.” 300c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>look sideways</b>, <span class='asgreek'>εἴς</span> <span class='asgreek'>τινα</span> or <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Symposium” 8.42, “Cyr.” 7.1.4; εἰς τὸ πλάγιον π. μᾶλλον ἢ εἰς τὸ πρόσθεν 4th c.BC: Aristoteles Philosophus “Historia Animalium” 630b1; ἐπὶ τὸν ἡγούμενον 1st c.BC: Asclepiodotus Tacticus “Tact.” 12.11, 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 42.1. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.12.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.12.14]]
 </sub></small>

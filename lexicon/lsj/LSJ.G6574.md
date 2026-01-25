@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>στέγω</span>) <i>active</i>, <b>not holding</b>: <i>metaphorically</i>, <span class='asgreek'>ἄ</span>. <span class='asgreek'>χείλεσι</span> <b>unable to keep</b> one's mouth <b>shut, given to prating,</b> [<a href="javascript:void(0)" title=" LXX.Prov.10.8; στόμα ἄ. [prev. work] 26.28.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.58.7]] ☩ [[Prov.10.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.58.7]] ☩ [[LXX.Prov.10.8]]
 </sub></small>

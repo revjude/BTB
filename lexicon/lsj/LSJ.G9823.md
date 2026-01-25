@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>σ</span>. <span cl
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>to be bent</b> or <b>turned</b>, <span class='asgreek'>==στρεπτός==οὶ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>θεοὶ</span> <span class='asgreek'>αὐτοί</span> the gods themselves <b>may be turned</b> (by prayer), [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 9.497; σ. φρένες ἐσθλῶν 15.203 ">Refs 8th c.BC+</a>]; also <span class='asgreek'>σ</span>. <span class='asgreek'>γλῶσσα</span> <b>glib, plant</b> tongue, [<a href="javascript:void(0)" title=" 20.248. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>bent, curved</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>σίδηρος</span>, of a pick-axe, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hercules Furens” 946 ">Refs 5th c.BC+</a>]; <span class='asgreek'>κορώνη</span>, of a bow, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 25.212; ἄγκιστρα “Anthologia Graeca” 6.27 (3rd c.BC: Theaetetus Epigrammaticus). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.25.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.25.10]]
 </sub></small>

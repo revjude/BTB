@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b>. <b>notable, remarkable</b>, <span class=
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b>. <b>significant</b>, <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Artemidorus Daldianus Onirocriticus 1.59, 3.32. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b>. <i>adverb</i> <b>-<span class='asgreek'>μως</span></b>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.39.9, 2nd-3rd c.AD: Symmachus LXX.Ps.73.4, 1st c.AD: Josephus Historicus “Bellum Judaicum” 6.1.8 ">LXX+2nd c.BC+</a>]: <i>comparative</i> <b>-<span class='asgreek'>ότερον</span></b>[<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 9.762">Refs 2nd c.AD+</a>]; <b>-<span class='asgreek'>οτέρως</span></b> [<a href="javascript:void(0)" title="2nd c.AD: Artemidorus Daldianus Onirocriticus 2.9 ">Refs 2nd c.AD+</a>]: <i>superlative</i> <b>-<span class='asgreek'>ότατα</span></b>[<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Hist.Conscr.” 43. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.30.42]] ☩ [[Matt.27.16]] ☩ [[Ps.73.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.30.42]] ☩ [[Matt.27.16]] ☩ [[LXX.Ps.73.4]]
 </sub></small>

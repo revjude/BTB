@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>marrow</b> as good food, <span class='asg
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>metaphorically</i>, <span class='asgreek'>νεαρὸς</span> <span class='asgreek'>μ</span>. [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 76 (\_anapaest meter\_)">Refs 4th c.BC+</a>]; <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἄκρον</span> <span class='asgreek'>μ</span>. <span class='asgreek'>ψυχῆς</span> <b>marrow, inmost part</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hippolytus” 255 (\_anapaest meter\_)">Refs 5th c.BC+</a>]; <span class='asgreek'>Τρινακρίας</span> <span class='asgreek'>μ</span>., of Syracuse, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 28.18. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> generally, <b>soft, marrow-like meat</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Alexander Rhetor 186.10. [ῡ always in 8th c.BC: Homerus Epicus ">Refs 8th c.BC+</a>]: <span class='asgreek'>ῠ</span> always in <i>Attic dialect</i>; so also in the derivation words.]
 
-<small><sub>LSJ Scripture Refs: [[Gen.45.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.45.18]]
 </sub></small>

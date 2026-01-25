@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>remove one's habitation,</b> [<a href="javascript:void(0)" title=" LXX.Gen.13.18.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.13.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.13.18]]
 </sub></small>

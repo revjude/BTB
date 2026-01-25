@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>cheating</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 1039. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.34.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.34.16]]
 </sub></small>

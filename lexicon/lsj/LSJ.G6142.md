@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> of fruit or corn, <b>full-grown, ripe</b>
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.b</b> <span class='asgreek'>ἁ</span>. <span class='asgreek'>ῥίζα</span>, ={<span class='asgreek'>ἀριστολοχεία</span> <span class='asgreek'>στρογγύλη</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.4. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.c</b> of an egg, <b>ready to be laid</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 559b11 (\_comparative\_).—First in 5th c.BC: Herodotus Historicus ">Refs 5th c.BC+</a>], never in Trag., rare in <i>Attic dialect</i>; but the derivations <span class='asgreek'>ἁδροτής</span>, <span class='asgreek'>ἁδροσύνη</span> occur in <i>Epic dialect</i> and <span class='asgreek'>ἁδρύνω</span> in Trag.
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.10.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.10.6]]
 </sub></small>

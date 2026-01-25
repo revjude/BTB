@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>dry, hard, barren,</b> <span class='as
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i>, <b>barren,</b> of women, <span class='asgreek'>χέρσους</span> <span class='asgreek'>φθαρῆναι</span> <span class='asgreek'>κἀγάμους</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 1502. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.b</b> with <i>genitive</i>, <b>barren of,</b> <span class='asgreek'>πυρὰ</span> <span class='asgreek'>==χέρσος==</span> <span class='asgreek'>ἀγλα</span>ϊ<span class='asgreek'>ς</span> <span class='asgreek'>μάτων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Electra” 325 ">Refs 5th c.BC+</a>]. (Cf. Sanskrit <i>hár[snull]ate</i> 'become stiff, bristle', Avest. <b>zarštva-</b> 'stone', Latin <i>horreo.</i>)
 
-<small><sub>LSJ Scripture Refs: [[Isa.7.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.7.24]]
 </sub></small>

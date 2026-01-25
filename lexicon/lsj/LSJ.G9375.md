@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.c</b> <b>voting pebble</b>, [<a href=
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>head of</b> a kind of <b>artichoke</b> (<span class='asgreek'>κινάρα</span>), [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 6.637, “Geoponica” 18.19.2, “Edict.Diocl.” 6.2. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>roller for closing</b> or <b>opening a trap-door</b>, <span class='asgreek'>σπονδύλου</span> <span class='asgreek'>προ</span>ϋ<span class='asgreek'>ποτιθεμένου</span> Aen. Tact.36.2.
 
-<small><sub>LSJ Scripture Refs: [[Lev.5.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.5.8]]
 </sub></small>

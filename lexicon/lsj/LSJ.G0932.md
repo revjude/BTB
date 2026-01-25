@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>diadem,</b> [<a href="javascript:void(0)" title=
 $\quad$ $\quad$<b>\_\_III</b> <b>reign,</b> [<a href="javascript:void(0)" title="[prev. work]331.40 (Pergam.), 1st c.BC: Diodorus Siculus Historicus 17.1, “POxy.” 1257.7 (3rd c.AD)">Refs 1st c.BC+</a>]; so <span class='asgreek'>αἱ</span> <span class='asgreek'>β</span>. <b>the reigns of the Kings,</b> title of book of “VT”; <b>accession to the throne</b>, [<a href="javascript:void(0)" title=" “BGU” 646.12 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> concrete, <b>His Majesty,</b> [<a href="javascript:void(0)" title=" LXX.2Kgs.11.1, LXX.1Mac.6.47. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.1.6]] ☩ [[Matt.3.2]] ☩ [[2Kgs.11.1]]
+<small><sub>LSJ Scripture Refs: [[Rev.1.6]] ☩ [[Matt.3.2]] ☩ [[LXX.2Kgs.11.1]]
 </sub></small>

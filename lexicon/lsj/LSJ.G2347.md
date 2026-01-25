@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>crushing, castration</b>, <span class='asgreek'>πώλων</span> [<a href="javascript:void(0)" title=" “Hippiatrica” 20. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>oppression, affliction</b>, [<a href="javascript:void(0)" title=" LXX.Gen.35.3, +others, “BGU” 1139.4 (1st c.BC), NT.Acts.14.22 (\_plural\_), +others, 2nd c.AD: Vettius Valens Astrologus 71.16 (\_plural\_), “POxy.” 939.13 (4th c.AD). ">LXX+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.35.3]] ☩ [[Acts.14.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.35.3]] ☩ [[Acts.14.22]]
 </sub></small>

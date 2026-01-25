@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>κ</span>. <span class
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>κ</span>. <span class='asgreek'>πυρετός</span>, ={<span class='asgreek'>καῦσος</span>} (A) 1, [<a href="javascript:void(0)" title=" 6th c.AD: Alexander Trallianus Medicus “de febribus” 2. ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>διψάς</span>}[<a href="javascript:void(0)" title=" 11, 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 6.51, 3rd c.AD: Philumenus Medicus “de Venenatis Animalibus” 20.1. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.20.12]] ☩ [[Jer.18.17]] ☩ [[Judg.8.3]] ☩ [[Jas.1.11]]
+<small><sub>LSJ Scripture Refs: [[Matt.20.12]] ☩ [[LXX.Jer.18.17]] ☩ [[LXX.Judg.8.3]] ☩ [[Jas.1.11]]
 </sub></small>

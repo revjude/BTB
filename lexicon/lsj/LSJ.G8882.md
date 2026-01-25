@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>spout,</b> <span class='asgreek'>τὸ</s
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>blow into a flame,</b> <span class='asgreek'>π</span>. <span class='asgreek'>πυρὸς</span> <span class='asgreek'>μένος</span>, of Hephaestus, [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 4.819. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>blow,</b> [<a href="javascript:void(0)" title="[prev. work] 1537. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.5.22]] ☩ [[Num.5.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.5.22]] ☩ [[LXX.Num.5.21]]
 </sub></small>

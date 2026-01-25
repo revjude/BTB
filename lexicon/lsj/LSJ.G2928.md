@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_6</b> in Rhet., <b>argue so that the opponent is u
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> in Medicine texts, in <i>passive</i>, <b>to be suppressed</b>, of the menses or lochia, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Mul.” 1.36, 154, 2.163. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>lie hidden</b>, [<a href="javascript:void(0)" title=" τὰ μὲν.. ὄμματα βλέποντα, τὰ δὲ ==κρύπτω==τοντα 5th c.BC: Euripides Tragicus “Phoenissae” 1117 ">Refs 5th c.BC+</a>] (assuming variant); also [<a href="javascript:void(0)" title=" κ. τινά \_conceal oneself from\_ Hymni Homerici 1.7 ">Refs</a>].— (<span class='asgreek'>καλύπτω</span> is simply <b>cover</b>; <span class='asgreek'>κεύθω</span> <i>cover</i> so that no trace of it can be seen; <span class='asgreek'>==κρύπτω==τω</span> <i>keep covered</i>, especially for purposes of concealment.)
 
-<small><sub>LSJ Scripture Refs: [[Jer.39.27]] ☩ [[John.8.59]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.39.27]] ☩ [[John.8.59]]
 </sub></small>

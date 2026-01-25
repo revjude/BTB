@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <i>metaphorically</i>, <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>proceed</b> at law, [<a href="javascript:void(0)" title=" “PEleph.” 3.5, 4.6 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>go on one's way,</b> i.e. <b>die,</b> [<a href="javascript:void(0)" title=" 4th c.AD: Julianus Imperator “Epistulae” 14. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.14.2]] ☩ [[Lev.18.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.14.2]] ☩ [[LXX.Lev.18.3]]
 </sub></small>

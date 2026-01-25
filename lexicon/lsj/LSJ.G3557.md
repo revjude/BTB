@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>middle</i>, <b>put aside for oneself, 
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i> in <i>active</i> sense, <b>deprive, rob,</b> <span class='asgreek'>σφ᾽</span> <span class='asgreek'>ἀδελφὸς</span> <span class='asgreek'>χρημάτων</span> <span class='asgreek'>==νοσφίζω==ίζεται</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Supplices” 153, compare 3rd c.BC: Apollonius Rhodius Epicus 4.1108. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> in later poets, <b>remove,</b> <span class='asgreek'>τοὺς</span>.. <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>Ξάνθοιο</span>.. <span class='asgreek'>πνοιαὶ</span> <span class='asgreek'>==νοσφίζω==ίσσαντο</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Dionysius Periegeta 684; ==νοσφίζω==ίσατ᾽ ἐκ θυμοῖο καὶ ἡδέος ἐκ βιότοιο 4th c.AD(?): Quintus Smyrnaeus Epicus 10.79.">Refs 2nd c.AD+</a>] —Rare in \_Attic dialect\_ Prose.
 
-<small><sub>LSJ Scripture Refs: [[Josh.7.1]] ☩ [[Acts.5.2]] ☩ [[Titus.2.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.7.1]] ☩ [[Acts.5.2]] ☩ [[Titus.2.10]]
 </sub></small>

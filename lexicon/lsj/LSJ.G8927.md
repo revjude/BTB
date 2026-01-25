@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>leave over</b>, of surplus material, [<a href="javascript:void(0)" title=" LXX.Exod.36.7 ">LXX</a>]; <b>leave behind</b>, in dissection or operations, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD: Oribasius Medicus 50.48.5, 2nd c.AD: Galenus Medicus 2.531">Refs 1st c.AD+</a>]: generally, <b>leave behind one</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>ἱμάτιον</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 2.4.5. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.36.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.36.7]]
 </sub></small>

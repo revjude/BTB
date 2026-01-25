@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>substantive</i> <span class='asgreek'>==κόκκινος==ινα</span>, <span class='asgreek'>τά</span>, <b>scarlet clothes</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>κ</span>. <span class='asgreek'>περιπατεῖν</span>, <span class='asgreek'>κ</span>. <span class='asgreek'>φορεῖν</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 3.22.10, 4.11.34; - ων βαφαί “PHolm.” 21.41: \_sing.\_, LXX.Exod.25.4. ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.9.19]] ☩ [[Exod.25.4]]
+<small><sub>LSJ Scripture Refs: [[Heb.9.19]] ☩ [[LXX.Exod.25.4]]
 </sub></small>

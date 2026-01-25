@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">τύπος</span></span>, <span class="asgreek">-ου, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τύπτω</span>), </span>  <span class="asseptuagint">\[in LXX: [[Exod.25.39|Ex 25:39]] (40) (<span class="ashebrew">תַּבְנִית</span> <small><sup>[[H8403]]</sup></small>), [[Amos.5.26|Am 5:26]] (<span class="ashebrew">צֶלֶם</span> <small><sup>[[H6754]]</sup></small>), [[3Macc.3.30|III Mac 3:30]], [[4Macc.6.19|IV Mac 6:19]] \* ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">τύπος</span></span>, <span class="asgreek">-ου, ὁ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τύπτω</span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Exod.25.39|Ex 25:39]] (40) (<span class="ashebrew">תַּבְנִית</span> <small><sup>[[H8403]]</sup></small>), [[LXX.Amos.5.26|Am 5:26]] (<span class="ashebrew">צֶלֶם</span> <small><sup>[[H6754]]</sup></small>), [[3Macc.3.30|III Mac 3:30]], [[4Macc.6.19|IV Mac 6:19]] \* ;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> the <span class="asitalic">mark</span> of a blow: <span class="asgreek">τῶν ἥλων</span>, [[John.20.25|Jo 20:25]].</span>
 <span class="asbullet"><span class="asbold">2.</span> An <span class="asitalic">impression, impress</span>, the <span class="asitalic">stamp</span> made by a die; hence, <span class="asitalic">a figure, image</span>: [[Acts.7.43|Ac 7:43]] <span class="assuperscript">(LXX)</span>.</span>
 <span class="asbullet"><span class="asbold">3.</span> <span class="asitalic">form</span> (Plat.): [[Rom.6.17|Ro 6:17]]; the sense or substance of a letter ([[3Macc.3.30|III Mac, l.c.]]), [[Acts.23.25|Ac 23:25]].</span>
@@ -9,8 +9,8 @@
 
 | Book | Refs |
 | - | - |
-| Exodus | [[Exod.25.39\|25:39]] |
-| Amos | [[Amos.5.26\|5:26]] |
+| Exodus | [[LXX.Exod.25.39\|25:39]] |
+| Amos | [[LXX.Amos.5.26\|5:26]] |
 | John | [[John.20.25\|20:25]] |
 | Acts | [[Acts.7.43\|7:43]] · [[Acts.7.44\|7:44]] · [[Acts.23.25\|23:25]] |
 | Romans | [[Rom.5.14\|5:14]] · [[Rom.6.17\|6:17]] |

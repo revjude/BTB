@@ -6,5 +6,5 @@
  <b>peel</b>, [<a href="javascript:void(0)" title=" LXX.Gen.30.37, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.23, 2nd c.AD: Galenus Medicus 19.106. ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.30.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.30.37]]
 </sub></small>

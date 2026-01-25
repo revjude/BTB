@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>ascribe, attribute</b>, <span class='asgr
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>prescribe</b>, <span class='asgreek'>σκορπιοπλήκτοις</span> <span class='asgreek'>προσγέγραπται</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Philumenus Medicus “de Venenatis Animalibus” 14.8. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>paint together with</b> or <b>beside</b>, <span class='asgreek'>τοὺς</span> <span class='asgreek'>ποταμίους</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἵππων</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>Νείλῳ</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.5, compare 4th c.AD: Palaephatus Paradoxographus 45 ">Refs 2nd c.AD+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.16. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.3.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.3.3]]
 </sub></small>

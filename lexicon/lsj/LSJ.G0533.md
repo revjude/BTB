@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> in Logic, opposed to <span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἑαυτόν</span> <b>deny</b> oneself, [<a href="javascript:void(0)" title=" NT.Matt.16.24, +others ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <i>future</i> <span class='asgreek'>==ἀπαρνέομαι==ηθήσεται</span> it <b>shall be denied</b> or <b>refused,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Philoctetes” 527, cf. NT.Luke.12.9, uncertain in LXX.Isa.31.7">NT+5th c.BC+</a>]: <i>aorist</i> <span class='asgreek'>ὥνθρωπος</span> <span class='asgreek'>ἓν</span> <span class='asgreek'>μὲν</span> <span class='asgreek'>οἶδεν</span>, <span class='asgreek'>ἓν</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἀπηρνήθη</span> <b>was refused,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 4.74.">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.16.24]] ☩ [[Matt.16.24]] ☩ [[Luke.12.9]] ☩ [[Isa.31.7]]
+<small><sub>LSJ Scripture Refs: [[Matt.16.24]] ☩ [[Matt.16.24]] ☩ [[Luke.12.9]] ☩ [[LXX.Isa.31.7]]
 </sub></small>

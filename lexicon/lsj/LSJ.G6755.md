@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>notable, distinguished</b>, <span class='asgreek
 $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i> -<span class='asgreek'>μως</span> <b>intelligibly</b>, <span class='asgreek'>γ</span>. <span class='asgreek'>αἰνίξομαι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Electra” 946; γ. μοι πάνυ φράσεις 4th c.BC: Antiphanes Comicus 52.6; ἁπλῶς καὶ πᾶσι γ. γεγράφθαι 4th c.BC: Demosthenes Orator 24.68 ">Refs 5th c.BC+</a>]; <span class='asgreek'>γ</span>. <span class='asgreek'>μᾶλλον</span> <span class='asgreek'>λέγειν</span>, opposed to <span class='asgreek'>οὐ</span> <span class='asgreek'>σαφῶς</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 747a27. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>familiarly</b>, <span class='asgreek'>γ</span>. <span class='asgreek'>ἔχειν</span> <span class='asgreek'>τινί</span> to be on <b>friendly terms</b> with one, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 53.4.">Refs 4th c.BC+</a>] —Rare in poetry.
 
-<small><sub>LSJ Scripture Refs: [[Ruth.3.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ruth.3.2]]
 </sub></small>

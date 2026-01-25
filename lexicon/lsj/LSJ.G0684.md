@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>loss,</b> [<a href="javascript:void(0)" title=" 
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>perdition,</b> [<a href="javascript:void(0)" title="NT.Rom.9.22, NT.2Thess.2.3. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>thing lost,</b> [<a href="javascript:void(0)" title=" LXX.Lev.6.3 (5.22).">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.9.22]] ☩ [[2Thess.2.3]] ☩ [[Lev.6.3]]
+<small><sub>LSJ Scripture Refs: [[Rom.9.22]] ☩ [[2Thess.2.3]] ☩ [[LXX.Lev.6.3]]
 </sub></small>

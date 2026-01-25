@@ -6,5 +6,5 @@
  <b>weariness</b>, <span class='asgreek'>σαρκός</span> [<a href="javascript:void(0)" title=" LXX.Eccl.12.12. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Eccl.12.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.12.12]]
 </sub></small>

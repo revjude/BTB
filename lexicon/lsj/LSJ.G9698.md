@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> generally, <b>darkness,</b> [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>any vast gulf</b> or <b>chasm,</b> [<a href="javascript:void(0)" title=" LXX.Mic.1.6, LXX.Zech.14.4 ">LXX</a>]; of a <b>pit,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 4.92 ">Refs 3rd c.AD+</a>]; of the <b>gaping jaws</b> of the crocodile, [<a href="javascript:void(0)" title="[prev. work] 3.414, compare 4.161, “H.” 5.52. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Pythagoras Philosophus ">Refs 4th c.BC+</a>] name for <b>one,</b> [<a href="javascript:void(0)" title=" Theol.Ar. 6. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mic.1.6]] ☩ [[Zech.14.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mic.1.6]] ☩ [[LXX.Zech.14.4]]
 </sub></small>

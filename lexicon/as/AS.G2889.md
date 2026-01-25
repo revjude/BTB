@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">κόσμος</span></span>, <span class="asgreek">-ου, ὁ</span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Gen.2.1|Ge 2:1]], [[Deut.4.19|De 4:19]] [[Deut.17.3|17:3]], [[Isa.24.21|Is 24:21]] [[Isa.40.26|40:26]] (<span class="ashebrew">צבא</span> <small><sup>[[H6633]]</sup></small>), [[Exod.33.5|Ex 33:5]], [[Exod.33.6|6]], [[Jer.2.32|Je 2:32]] [[Jer.4.30|4:30]], [[Ezek.7.20|Ez 7:20]] [[Ezek.16.11|16:11]] [[Ezek.23.40|23:40]] (<span class="ashebrew">עֲדִי</span> <small><sup>[[H5716]]</sup></small>), [[Isa.61.10|Is 61:10]] (<span class="ashebrew">כְּלִי</span> <small><sup>[[H3627]]</sup></small>), al., [[Wis.2.24|Wi 2:24]] and freq., [[Sir.6.30|Si 6:30]], al;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">κόσμος</span></span>, <span class="asgreek">-ου, ὁ</span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Gen.2.1|Ge 2:1]], [[LXX.Deut.4.19|De 4:19]] [[LXX.Deut.17.3|17:3]], [[LXX.Isa.24.21|Is 24:21]] [[LXX.Isa.40.26|40:26]] (<span class="ashebrew">צבא</span> <small><sup>[[H6633]]</sup></small>), [[LXX.Exod.33.5|Ex 33:5]], [[LXX.Exod.33.6|6]], [[LXX.Jer.2.32|Je 2:32]] [[LXX.Jer.4.30|4:30]], [[LXX.Ezek.7.20|Ez 7:20]] [[LXX.Ezek.16.11|16:11]] [[LXX.Ezek.23.40|23:40]] (<span class="ashebrew">עֲדִי</span> <small><sup>[[H5716]]</sup></small>), [[LXX.Isa.61.10|Is 61:10]] (<span class="ashebrew">כְּלִי</span> <small><sup>[[H3627]]</sup></small>), al., [[Wis.2.24|Wi 2:24]] and freq., [[Sir.6.30|Si 6:30]], al;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">order</span> (Hom., Plat., al.).</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">ornament</span>, <span class="asitalic">adornment</span>, esp. of women (Hom., al.): [[1Pet.3.3|I Pe 3:3]].</span>
@@ -14,12 +14,12 @@ $\quad$ <span class="asbullet"><span class="asbold">(d)</span> metaph.: <span cl
 
 | Book | Refs |
 | - | - |
-| Genesis | [[Gen.2.1\|2:1]] |
-| Exodus | [[Exod.33.5\|33:5]] · [[Exod.33.6\|33:6]] |
-| Deuteronomy | [[Deut.4.19\|4:19]] · [[Deut.17.3\|17:3]] |
-| Isaiah | [[Isa.24.21\|24:21]] · [[Isa.40.26\|40:26]] · [[Isa.61.10\|61:10]] |
-| Jeremiah | [[Jer.2.32\|2:32]] · [[Jer.4.30\|4:30]] |
-| Ezekiel | [[Ezek.7.20\|7:20]] · [[Ezek.16.11\|16:11]] · [[Ezek.23.40\|23:40]] |
+| Genesis | [[LXX.Gen.2.1\|2:1]] |
+| Exodus | [[LXX.Exod.33.5\|33:5]] · [[LXX.Exod.33.6\|33:6]] |
+| Deuteronomy | [[LXX.Deut.4.19\|4:19]] · [[LXX.Deut.17.3\|17:3]] |
+| Isaiah | [[LXX.Isa.24.21\|24:21]] · [[LXX.Isa.40.26\|40:26]] · [[LXX.Isa.61.10\|61:10]] |
+| Jeremiah | [[LXX.Jer.2.32\|2:32]] · [[LXX.Jer.4.30\|4:30]] |
+| Ezekiel | [[LXX.Ezek.7.20\|7:20]] · [[LXX.Ezek.16.11\|16:11]] · [[LXX.Ezek.23.40\|23:40]] |
 | Matthew | [[Matt.4.8\|4:8]] · [[Matt.5.14\|5:14]] · [[Matt.13.38\|13:38]] · [[Matt.16.26\|16:26]] |
 | Mark | [[Mark.8.36\|8:36]] · [[Mark.14.9\|14:9]] · [[Mark.16.15\|16:15]] |
 | Luke | [[Luke.4.5\|4:5]] · [[Luke.9.25\|9:25]] |

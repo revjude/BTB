@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>glory,</b> [<a href="javascript:void(0)" title=" LXX.Isa.46.13, LXX.Lam.2.1. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.46.13]] ☩ [[Lam.2.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.46.13]] ☩ [[LXX.Lam.2.1]]
 </sub></small>

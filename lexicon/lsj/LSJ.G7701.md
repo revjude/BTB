@@ -6,5 +6,5 @@
  = <span class='asgreek'>θυσία</span> [<a href="javascript:void(0)" title=" 11, LXX.Exod.29.18 (variant{θυμίαμα}), LXX.2Esd.6.3. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.29.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.29.18]]
 </sub></small>

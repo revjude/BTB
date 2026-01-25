@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>incombustible</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 387a18, 4th-3rd c.BC: Theophrastus Philosophus “de Lapidibus” 4">Refs 4th c.BC+</a>]; <b>unquenchable</b> (variant for{<span class='asgreek'>ἄσβεστος</span>}), <span class='asgreek'>πῦρ</span>[<a href="javascript:void(0)" title=" LXX.Job.20.26.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.20.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.20.26]]
 </sub></small>

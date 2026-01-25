@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>reverence,</b> <span class='asgreek'>τινά</span> [<a href="javascript:void(0)" title=" [prev. author] “Lg.” 879c. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.60]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.60]]
 </sub></small>

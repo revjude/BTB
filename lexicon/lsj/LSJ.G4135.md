@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>pay in full,</b> [<a href="javascript:voi
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, of persons, <b>have full satisfaction, to be fully assured,</b> <span class='asgreek'>ὅτι</span>.. [<a href="javascript:void(0)" title=" NT.Rom.4.21: \_absolutely\_, [prev. work] 14.5. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>π</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>ποιῆσαι</span> <b>to be fully bent on</b> doing, [<a href="javascript:void(0)" title=" LXX.Eccl.8.11. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.4.5]] ☩ [[Luke.1.1]] ☩ [[Rom.4.21]] ☩ [[Eccl.8.11]]
+<small><sub>LSJ Scripture Refs: [[2Tim.4.5]] ☩ [[Luke.1.1]] ☩ [[Rom.4.21]] ☩ [[LXX.Eccl.8.11]]
 </sub></small>

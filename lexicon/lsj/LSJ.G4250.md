@@ -31,5 +31,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_B.II.3.b</b> by assimilation, <span class=
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.4</b> <span class='asgreek'>π</span>. <span class='asgreek'>ἄν</span> with <i>optative</i> is doubtful, and (if not corrupt) due to the change required by <i>indirect speech</i>, <span class='asgreek'>ἀπαγορευόντων</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>φίλων</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἐμῶν</span> <span class='asgreek'>μὴ</span> <span class='asgreek'>ἀποκτείνειν</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ἄνδρα</span>, <span class='asgreek'>πρὶν</span> <span class='asgreek'>ἄν</span> <span class='asgreek'>ἐγὼ</span> <span class='asgreek'>ἔλθοιμι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 5.34 (assuming variant), compare 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.3.48, 2.4.18. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.5</b> without a Verb, <span class='asgreek'>πρὶν</span> <span class='asgreek'>ὥρη</span> (i.e. <span class='asgreek'>γένηται</span>) [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 15.394. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.29.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.29.26]]
 </sub></small>

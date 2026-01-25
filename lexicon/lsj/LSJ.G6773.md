@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>exposure,</b> [<a href="javascript:void(0)" title=" LXX.Gen.9.22 ">LXX</a>]; <span class='asgreek'>ἐξαλλάσσειν</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἑαυτοῦ</span> <span class='asgreek'>γ</span>. his <b>defenceless side</b> [<a href="javascript:void(0)" title="compare (γυμνός 2), 5th c.BC: Thucydides Historicus 5.71. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.9.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.9.22]]
 </sub></small>

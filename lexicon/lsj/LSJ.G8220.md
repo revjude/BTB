@@ -6,5 +6,5 @@
  <i>feminine</i> of {<span class='asgreek'>μάγειρος</span>}, [<a href="javascript:void(0)" title=" LXX.1Kgs.8.13 ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.8.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.8.13]]
 </sub></small>

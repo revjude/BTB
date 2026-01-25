@@ -26,5 +26,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.III.2</b> of things that obscure the sight, <spa
 $\quad$ $\quad$ $\quad$<b>\_\_B.III.3</b> <i>aorist</i> <i>passive</i>, <span class='asgreek'>ἐχύθη</span> <span class='asgreek'>οἱ</span> <span class='asgreek'>θυμός</span> his mind <b>overflowed with joy,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 3.1009. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.III.4</b> <i>passive</i>, <b>to be dissipated, diffused,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 1.4.10; οὐδὲν τοῦ χεῖσθαι δεηθέν [prev. author] 6.5.3 ">Refs 3rd c.AD+</a>]; <b>to be rarefied,</b> opposed to <span class='asgreek'>πιλεῖσθαι</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 15.28">Refs 2nd c.AD+</a>]. (Cf. Sanskrit <i>juhóti</i> 'pour (sacrificial offerings)', <i>participle</i> <b>hutás</b> (= <span class='asgreek'>χυτός</span>), Latin <i>fundo,</i> Gothic <i>giutan</i> 'pour'.)
 
-<small><sub>LSJ Scripture Refs: [[Jer.6.11]] ☩ [[Exod.4.9]] ☩ [[Lev.4.18]] ☩ [[Deut.12.16]] ☩ [[Lev.4.12]] ☩ [[Exod.29.16]] ☩ [[Job.29.6]] ☩ [[Mal.3.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.6.11]] ☩ [[LXX.Exod.4.9]] ☩ [[LXX.Lev.4.18]] ☩ [[LXX.Deut.12.16]] ☩ [[LXX.Lev.4.12]] ☩ [[LXX.Exod.29.16]] ☩ [[LXX.Job.29.6]] ☩ [[LXX.Mal.3.3]]
 </sub></small>

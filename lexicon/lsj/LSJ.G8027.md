@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> wooden <b>collar</b> worn by prisoners, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 3.3.11, E.[same place], 2nd c.AD: Lucianus Sophista “Tox.” 32, 4th c.AD: Julianus Imperator “Epistulae” 89b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>χρύσεος</span> <span class='asgreek'>κ</span>. <b>collar</b> of gold, as an ornament, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Cyclops” 184, LXX.Gen.41.42. ">LXX+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.41.42]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.41.42]]
 </sub></small>

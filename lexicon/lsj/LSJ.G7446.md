@@ -6,5 +6,5 @@
  <b>cover over</b>, <span class='asgreek'>τινά</span> [<a href="javascript:void(0)" title=" LXX.Lam.3.43 ">LXX</a>]; <b>put over</b>, <span class='asgreek'>νεφέλην</span> <span class='asgreek'>σεαυτῷ</span> [<a href="javascript:void(0)" title="[prev. work] 44. ">Refs</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lam.3.43]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lam.3.43]]
 </sub></small>

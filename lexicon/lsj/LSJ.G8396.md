@@ -6,5 +6,5 @@ Related to: <b> <span class='asgreek'>==νικοποιέω==</span>-<span class
  <b>causing victory,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Aquila LXX.Ps.4.1, +others ">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.4.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.4.1]]
 </sub></small>

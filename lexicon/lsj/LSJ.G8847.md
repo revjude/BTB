@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>π</span>. <span class
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> of Time, <span class='asgreek'>π</span>. <span class='asgreek'>ἔτει</span> <b>in the last of many</b> years, i.e. after many years, [<a href="javascript:void(0)" title=" 4th c.BC: Cratinus Junior Comicus 9 ">Refs 4th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>χρόνῳ</span> <b>after a very long</b> time, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Pax” 559, 4th c.BC: Demosthenes Orator 24.196, 57.18, 4th-3rd c.BC: Menander Comicus 329. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> in later Gr., ={<span class='asgreek'>πολύς</span>}, <span class='asgreek'>==πολλοστός==ὸς</span> <span class='asgreek'>ἔργοις</span> one that has done <b>a great deal,</b> [<a href="javascript:void(0)" title=" LXX.2Kgs.23.20, cf. LXX.Prov.5.19. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.23.20]] ☩ [[Prov.5.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.23.20]] ☩ [[LXX.Prov.5.19]]
 </sub></small>

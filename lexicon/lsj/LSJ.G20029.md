@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>substantive</i>, <span class='asgreek'>αἰγέη</span> (i.e. <span class='asgreek'>δορά</span>), <span class='asgreek'>ἡ</span>, <b>a goat's skin</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.189; τὴν αἰγέαν 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 1.18.6, cf. LXX.Num.21.20; \_contraction\_ αἰγῆ Hdn.Gr. 1.310.">LXX+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.21.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.21.20]]
 </sub></small>

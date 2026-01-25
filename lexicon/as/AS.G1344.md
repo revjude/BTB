@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">δικαιόω</span></span>, <span class="asgreek">-ῶ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">δίκαιος</span>), </span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">צדק</span> <small><sup>[[H6663]]</sup></small> pi., hi., (1) as [[Ezek.16.51|Ez 16:51]], [[Jer.3.11|Je 3:11]] (cf. NT usage); (2) as [[Deut.25.1|De 25:1]]; [[Exod.23.7|Ex 23:7]], [[Isa.50.8|Is 50:8]] ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">δικαιόω</span></span>, <span class="asgreek">-ῶ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">δίκαιος</span>), </span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">צדק</span> <small><sup>[[H6663]]</sup></small> pi., hi., (1) as [[LXX.Ezek.16.51|Ez 16:51]], [[LXX.Jer.3.11|Je 3:11]] (cf. NT usage); (2) as [[LXX.Deut.25.1|De 25:1]]; [[LXX.Exod.23.7|Ex 23:7]], [[LXX.Isa.50.8|Is 50:8]] ;\] </span> </span>
 <span class="asbullet"><span class="asbold">1.</span> in cl.,</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> c. acc rei, <span class="asitalic">to deem right</span>;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> c. acc pers., <span class="asitalic">to do one justice</span>; pass., <span class="asgreek">δικαιοῦσθαι</span>, <span class="asitalic">to be treated rightly</span>, opp. to <span class="asgreek">ἀδικεῖσθαι</span>.</span>
@@ -10,11 +10,11 @@ $\quad$ <span class="asbullet"><span class="asbold">(2)</span> <span class="asit
 
 | Book | Refs |
 | - | - |
-| Exodus | [[Exod.23.7\|23:7]] |
-| Deuteronomy | [[Deut.25.1\|25:1]] |
-| Isaiah | [[Isa.50.8\|50:8]] |
-| Jeremiah | [[Jer.3.11\|3:11]] |
-| Ezekiel | [[Ezek.16.51\|16:51]] |
+| Exodus | [[LXX.Exod.23.7\|23:7]] |
+| Deuteronomy | [[LXX.Deut.25.1\|25:1]] |
+| Isaiah | [[LXX.Isa.50.8\|50:8]] |
+| Jeremiah | [[LXX.Jer.3.11\|3:11]] |
+| Ezekiel | [[LXX.Ezek.16.51\|16:51]] |
 | Matthew | [[Matt.11.19\|11:19]] · [[Matt.12.37\|12:37]] |
 | Luke | [[Luke.7.29\|7:29]] · [[Luke.7.35\|7:35]] · [[Luke.10.29\|10:29]] · [[Luke.16.15\|16:15]] · [[Luke.18.14\|18:14]] |
 | Acts | [[Acts.13.39\|13:39]] |

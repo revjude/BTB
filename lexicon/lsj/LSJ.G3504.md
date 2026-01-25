@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>new convert, neophyte,</b> [<a href="javascript:void(0)" title=" NT.1Tim.3.6. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.143.12]] ☩ [[1Tim.3.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.143.12]] ☩ [[1Tim.3.6]]
 </sub></small>

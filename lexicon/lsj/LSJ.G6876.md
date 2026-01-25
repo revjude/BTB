@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>disperse</b> the soul, when it leaves the
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> in <i>passive</i>, of reports, <b>to be spread abroad,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 7.6.9. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>reject,</b> <span class='asgreek'>βουλήν</span> [<a href="javascript:void(0)" title=" LXX.1Kgs.12.24. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.12.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.12.24]]
 </sub></small>

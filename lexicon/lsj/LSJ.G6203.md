@@ -6,5 +6,5 @@
  <b>commandment</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.11.34: \_plural\_, ἀ. καρδίας">LXX</a>] <b>searchings</b> of heart,[<a href="javascript:void(0)" title="LXX.Judg.5.15 (codex A)">LXX</a>]; <b>portion, gift</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Aquila LXX.Gen.47.22.">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.11.34]] ☩ [[Judg.5.15]] ☩ [[Gen.47.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.11.34]] ☩ [[LXX.Judg.5.15]] ☩ [[LXX.Gen.47.22]]
 </sub></small>

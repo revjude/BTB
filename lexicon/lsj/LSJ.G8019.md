@@ -6,5 +6,5 @@
  <b>observation of a sign</b> or <b>omen</b>, variant in [<a href="javascript:void(0)" title=" LXX.Deut.18.14. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.18.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.18.14]]
 </sub></small>

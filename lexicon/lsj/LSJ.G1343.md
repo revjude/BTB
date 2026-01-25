@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>Δ</span>., personified, [<a
 $\quad$ $\quad$<b>\_\_IV</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Pythagoras Philosophus ">Refs 4th c.BC+</a>] name for <b>four,</b> [<a href="javascript:void(0)" title=" Theol.Ar. 23. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>δικαιοσύνη</span>· <span class='asgreek'>ἡ</span> <span class='asgreek'>χοῖνιξ</span>, <span class='asgreek'>μυστικῶς</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.15.6]] ☩ [[Isa.26.2]] ☩ [[Matt.3.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.15.6]] ☩ [[LXX.Isa.26.2]] ☩ [[Matt.3.15]]
 </sub></small>

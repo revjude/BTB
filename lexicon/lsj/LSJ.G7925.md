@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>spread as in sowing</b>, <span class='asgreek'>�
 $\quad$ $\quad$<b>\_\_III</b> <b>plant</b>, [<a href="javascript:void(0)" title=" ἀμπελῶνα Vetus Testamentum Graece redditum LXX.Deut.22.9; γῆν “PMagd.” 28.3 (3rd c.BC), 1st c.AD: Philo Judaeus 2.262: \_metaphorically\_, [νόσοι] χωρία καὶ πελάγη κατασπείρασαι τῶν ἀβουλήτων [prev\. author] 2.567; πλούτῳ Ἑλλάδα κ. 1st c.BC: Dionysius Halicarnassensis “de Demosthene” 29 ">LXX+3rd c.BC+</a>]. 
 $\quad$ $\quad$<b>\_\_IV</b> <b>besprinkle</b>, [<a href="javascript:void(0)" title=" ἤδη καὶ λευκαί με κατασπείρουσιν ἔθειραι “AP” 11.41 (1st c.BC: Philodemus Gadarensis Epigrammaticus). ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.22.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.22.9]]
 </sub></small>

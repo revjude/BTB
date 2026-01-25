@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>Αἰών</span>, 
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Pythagoras Philosophus, = 10, “Theologumena Arithmeticae” 59. ">Refs 4th c.BC+</a>]
 $\quad$ ****<b>\_\_B</b> <b>spinal marrow</b> (perhaps regarded as seat of <b>life), <i>Hymns of </i>Merc</b> 42, 119, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “Fragmenta.” 111, 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 7.122; perhaps also 8th c.BC: Ilias Homerus Epicus “Illiad” 19.27.">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.1.70]] ☩ [[Gen.3.23]] ☩ [[John.8.35]] ☩ [[Ps.131.14]] ☩ [[Jer.7.7]] ☩ [[Exod.15.18]] ☩ [[1Kgs.1.22]] ☩ [[Matt.13.22]] ☩ [[Rom.12.2]] ☩ [[1Tim.6.17]] ☩ [[2Tim.4.10]] ☩ [[Rom.1.25]] ☩ [[Phil.4.20]] ☩ [[Eph.3.9]]
+<small><sub>LSJ Scripture Refs: [[Luke.1.70]] ☩ [[LXX.Gen.3.23]] ☩ [[John.8.35]] ☩ [[LXX.Ps.131.14]] ☩ [[LXX.Jer.7.7]] ☩ [[LXX.Exod.15.18]] ☩ [[LXX.1Kgs.1.22]] ☩ [[Matt.13.22]] ☩ [[Rom.12.2]] ☩ [[1Tim.6.17]] ☩ [[2Tim.4.10]] ☩ [[Rom.1.25]] ☩ [[Phil.4.20]] ☩ [[Eph.3.9]]
 </sub></small>

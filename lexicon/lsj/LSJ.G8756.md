@@ -6,5 +6,5 @@
  <b>suburbs</b>, [<a href="javascript:void(0)" title=" LXX.Josh.21.2, LXX.1Chr.6.55(40), +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Josh.21.2]] ☩ [[1Chr.6.55]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.21.2]] ☩ [[LXX.1Chr.6.55]]
 </sub></small>

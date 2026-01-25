@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>interweave,</b> in <i>passive</i>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 9.17 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>ζώνη</span> <span class='asgreek'>==διυφαίνω==υφασμένη</span> <span class='asgreek'>καλλίστοις</span> <span class='asgreek'>χρώμασιν</span>[<a href="javascript:void(0)" title=" Aristeas 97, cf. LXX.Exod.36.31 (39.23). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.36.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.36.31]]
 </sub></small>

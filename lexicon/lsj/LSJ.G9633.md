@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>outcast, castaway,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 5.10.5. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.22.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.22.25]]
 </sub></small>

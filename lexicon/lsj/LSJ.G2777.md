@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>toe-cap</b> of a shoe, [<a href="javascript:voi
 $\quad$ $\quad$<b>\_\_IV</b> <b>rope attached to the bow</b> of a ship, [<a href="javascript:void(0)" title=" 2nd c.AD: Polyaenus Historicus 3.9.38 (\_plural\_). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>κ</span>. <span class='asgreek'>βιβλίου</span> <b>roll</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.2.9, LXX.Ps.38.8, +others ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.38.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.38.8]]
 </sub></small>

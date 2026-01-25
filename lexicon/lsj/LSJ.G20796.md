@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>freight, cargo</b> of ships, <span class='asgree
 $\quad$ $\quad$<b>\_\_III</b> <b>rent</b> of a tenement, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 1.75. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>ναῦλα</span>, <span class='asgreek'>τά</span>, = <span class='asgreek'>ἐφόδια</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus (ascribed to Aeschylus by Cyrilli Glossarium in codex Laur.57.39). ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jonah.1.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jonah.1.3]]
 </sub></small>

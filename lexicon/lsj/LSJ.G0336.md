@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>repeal,</b> <span class='asgreek'>δο
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>direct confutation</b> of arguments, opposed to <span class='asgreek'>διαίρεσις</span> (confutation by drawing a distinction), [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Sophistici Elenchi” 183a10">Refs 4th c.BC+</a>]; <b>destruction</b> (by argument), <span class='asgreek'>τινός</span>[<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ σημείων καὶ σημειώσεων” 12. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> Astrology texts, ={<span class='asgreek'>ἀκτινοβολία</span>}, Thrasyll. cited in [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus “in Ptolemaei Tetrabiblon” 189.">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.11.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.11.15]]
 </sub></small>

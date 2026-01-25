@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus has only \_plural\_, δρῠμά, τά, 8th c.BC: Ilias Homerus Epicus “Illiad” 11.118, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 10.150, 197, 251, also in 3rd c.BC: Simmias 15 (probably)">Refs 8th c.BC+</a>]; <span class='asgreek'>δρῡμά</span> in late <i>Epic dialect</i>, [<a href="javascript:void(0)" title=" 2nd c.AD: Dionysius Periegeta 492, 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 1.64. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>δρυμός</span>· <span class='asgreek'>φρούριον</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>], perhaps in this sense in [<a href="javascript:void(0)" title=" “PPetr.” 2p.140 ">Refs</a>]. (Cf. Sanskrit<i>drumá</i>- 'tree', Slavonic <i>dr[ucaron]m[ucaron]</i> 'thicket': <span class='asgreek'>ῠ</span> is original, <span class='asgreek'>ῡ</span> borrowed from <span class='asgreek'>δρῦς</span>.)
 
-<small><sub>LSJ Scripture Refs: [[Eccl.2.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.2.6]]
 </sub></small>

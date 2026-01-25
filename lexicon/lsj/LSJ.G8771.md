@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>make a dam</b>, <span class='asgreek'>φρυγάνοις</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>λίθοις</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 603a9. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.30.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.30.22]]
 </sub></small>

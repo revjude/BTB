@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of persons, <b>to be overbearing,</b> [<a href="javascript:void(0)" title=" Sammelb. 4638.6 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> with <i>genitive</i>, <b>to be stronger than, prevail over,</b> <span class='asgreek'>τοῦ</span> <span class='asgreek'>πάθους</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 1.29.4, cf. LXX.Josh.17.18: also with \_accusative\_, “PPetr.” 2p.58 (3rd c.BC, compare 3p.66), “PRyl.” 119.30 (1st c.AD). ">LXX+3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.24.4]] ☩ [[Esth.3.10]] ☩ [[Josh.17.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.24.4]] ☩ [[LXX.Esth.3.10]] ☩ [[LXX.Josh.17.18]]
 </sub></small>

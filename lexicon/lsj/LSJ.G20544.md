@@ -13,5 +13,5 @@ spelling of: <small>[[G7754]]</small>
 &nbsp;&nbsp;perhaps <i>Doric dialect</i> for <span class='asgreek'>καθάρισις</span>, <span class='asgreek'>στέγας</span> [<a href="javascript:void(0)" title=" “IG” 4.1484.293 (Epid.). ">Refs</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.12.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.12.4]]
 </sub></small>

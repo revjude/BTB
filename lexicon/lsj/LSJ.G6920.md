@@ -6,5 +6,5 @@
  (<span class='asgreek'>==διετηρίς==ετής</span>) <b>space of two years,</b> [<a href="javascript:void(0)" title=" LXX.2Kgs.13.23, “IGRom.” 4.850 (Laodicea ad Lycum). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.13.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.13.23]]
 </sub></small>

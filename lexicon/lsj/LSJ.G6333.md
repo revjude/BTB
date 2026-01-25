@@ -6,5 +6,5 @@
  <b>blasting, blight,</b> [<a href="javascript:void(0)" title=" LXX.Deut.28.22, “IG” 12(9).955.7, 1179.25 (from Euboea).">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.22]]
 </sub></small>

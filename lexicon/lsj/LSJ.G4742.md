@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>stud</b>, [<a href="javascript:void(0)" t
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>σ</span>. <span class='asgreek'>χρυσοῦν</span> <b>colour</b> of gold, Ps.[<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus cited in Zos.Alch. p.119 5th c.BC: Bacchylides Lyricus, comparep.126 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b>= <b>cicatricis signum,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gal.6.17]] ☩ [[Song.1.11]]
+<small><sub>LSJ Scripture Refs: [[Gal.6.17]] ☩ [[LXX.Song.1.11]]
 </sub></small>

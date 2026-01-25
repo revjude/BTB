@@ -67,5 +67,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_G.IV.2</b> of comparison, as in <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_G.IV.3</b> of alteration or change, as in <span class='asgreek'>παραλλάσσω</span>, <span class='asgreek'>παραπείθω</span>, <span class='asgreek'>παραπλάσσω</span>, <span class='asgreek'>παρατεκταίνω</span>, <span class='asgreek'>παραυδάω</span>, <span class='asgreek'>παράφημι</span>. 
 $\quad$ $\quad$ $\quad$<b>\_\_G.IV.4</b> of a side-issue, <span class='asgreek'>παραπόλλυμι</span>. (Cogn. with Gothic <i>faúr</i> 'along', Latin <i>por</i>-.)
 
-<small><sub>LSJ Scripture Refs: [[Mark.3.21]] ☩ [[1Cor.3.19]] ☩ [[Gen.19.1]] ☩ [[Mark.10.46]] ☩ [[Ps.8.6]] ☩ [[Rom.14.5]] ☩ [[2Cor.11.24]] ☩ [[Luke.5.7]] ☩ [[1Cor.12.15]] ☩ [[Gen.29.20]] ☩ [[Exod.14.11]]
+<small><sub>LSJ Scripture Refs: [[Mark.3.21]] ☩ [[1Cor.3.19]] ☩ [[LXX.Gen.19.1]] ☩ [[Mark.10.46]] ☩ [[LXX.Ps.8.6]] ☩ [[Rom.14.5]] ☩ [[2Cor.11.24]] ☩ [[Luke.5.7]] ☩ [[1Cor.12.15]] ☩ [[LXX.Gen.29.20]] ☩ [[LXX.Exod.14.11]]
 </sub></small>

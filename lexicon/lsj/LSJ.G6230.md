@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>to be changed for the worse</b>, [<a h
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>to be confused in mind</b>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>μέθης</span>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 8.27.5. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>disguise oneself</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.14.2.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lam.4.1]] ☩ [[1Kgs.14.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lam.4.1]] ☩ [[LXX.1Kgs.14.2]]
 </sub></small>

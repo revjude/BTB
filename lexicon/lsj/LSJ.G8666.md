@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>being trodden on</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 2.12. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.19.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.19.26]]
 </sub></small>

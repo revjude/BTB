@@ -8,5 +8,5 @@ form of: <small>[[G2068]]</small>
 
 $\quad$ $\quad$<b>\_\_II</b> <b>eat up, devour, squander,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 2.76, 4.33. (Cf. παματοφαγέω">Refs 8th c.BC+</a>] and Sanskrit <i>bhájati</i> 'apportion, (<i>middle</i>) enjoy'.)
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.19.42]] ☩ [[Gen.18.8]] ☩ [[Luke.14.15]] ☩ [[Ruth.2.14]] ☩ [[Luke.17.8]] ☩ [[Gen.3.14]] ☩ [[Gen.2.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.19.42]] ☩ [[LXX.Gen.18.8]] ☩ [[Luke.14.15]] ☩ [[LXX.Ruth.2.14]] ☩ [[Luke.17.8]] ☩ [[LXX.Gen.3.14]] ☩ [[LXX.Gen.2.16]]
 </sub></small>

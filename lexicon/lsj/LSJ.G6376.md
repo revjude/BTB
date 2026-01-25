@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>inner chamber, closet,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.16.18.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.16.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.16.18]]
 </sub></small>

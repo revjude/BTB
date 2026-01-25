@@ -15,5 +15,5 @@ $\quad$ $\quad$<b>\_\_IV</b> of persons, cities, etc., <b>of no mark, obscure, i
 $\quad$ $\quad$<b>\_\_V</b> <i>adverb</i> <b>-<span class='asgreek'>μως</span></b> <b>without leaving traces,</b>[<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 1.1, “Morb.Sacr.” 11; ἀ. πορεύεσθαι 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 3.4">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>κενῶς</span> <span class='asgreek'>φθέγγεσθαι</span> <b>inarticulately,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Theopompus Historicus 250. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> <b>ignobly,</b> <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 5.52, 2nd c.AD: Herodianus Grammaticus 1.10.4.">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.42.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.42.11]]
 </sub></small>

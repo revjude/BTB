@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to be grasped,</b> <span class='asgreek'>χείρ</span> [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “Protrepticus” 21.ιθ. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>to be taken, understood,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2.269 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.61.2]] ☩ [[Luke.4.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.61.2]] ☩ [[Luke.4.24]]
 </sub></small>

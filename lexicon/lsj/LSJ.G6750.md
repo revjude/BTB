@@ -6,5 +6,5 @@
  ={<span class='asgreek'>γλωσσοειδής</span>}: <b>talkative, babbling</b>, [<a href="javascript:void(0)" title=" LXX.Ps.139.11, Sextus Pythagoreus “Sent.” 13M. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.139.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.139.11]]
 </sub></small>

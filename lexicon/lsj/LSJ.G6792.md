@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> = Latin <i>decemvir,</i> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 10.60. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>τελώνης</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus (Cf. δεκατ-.) ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.18.21]] ☩ [[Deut.1.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.18.21]] ☩ [[LXX.Deut.1.15]]
 </sub></small>

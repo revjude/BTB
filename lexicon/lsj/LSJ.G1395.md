@@ -5,5 +5,5 @@
  later form of <span class='asgreek'>δοτήρ</span>, [<a href="javascript:void(0)" title=" LXX.Prov.22.8, NT.2Cor.9.7 ">LXX+NT</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.22.8]] ☩ [[2Cor.9.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.22.8]] ☩ [[2Cor.9.7]]
 </sub></small>

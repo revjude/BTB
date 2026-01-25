@@ -6,5 +6,5 @@
  <b>make bald</b>, variant in [<a href="javascript:void(0)" title=" LXX.Neh.13.25. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Neh.13.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.13.25]]
 </sub></small>

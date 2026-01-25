@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <span class='asgreek'>ὁ</span> -<span class='asgreek'>όμενος</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>καρδίᾳ</span> he whose heart <b>is easily melted</b>, [<a href="javascript:void(0)" title=" LXX.Exod.35.5. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.35.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.35.5]]
 </sub></small>

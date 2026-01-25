@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>drying-place, basking-place,</b> [<a href="javascript:void(0)" title=" EM 561.12. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.101.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.101.4]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>priuate possession</b>, <span class='asgreek'>εἰς</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" LXX.Ps.134.4, cf. LXX.Eccl.2.8. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.134.4]] ☩ [[Eccl.2.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.134.4]] ☩ [[LXX.Eccl.2.8]]
 </sub></small>

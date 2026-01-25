@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> legal <b>warranty</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 3.249 (\_plural\_), “PTeb.” 311.27 (2nd c.AD), etc.">Refs 4th c.BC+</a>]; <span class='asgreek'>βεβαιώσεως</span> <span class='asgreek'>δίκη</span> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 8.34. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.25.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.25.23]]
 </sub></small>

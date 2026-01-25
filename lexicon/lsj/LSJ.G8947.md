@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i> in <i>passive</i>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Χρυσίππου</span> <span class='asgreek'>προσχυθεὶς</span> <span class='asgreek'>ἀδολεσχίας</span> <b>deluged</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 5.318. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.1.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.1.5]]
 </sub></small>

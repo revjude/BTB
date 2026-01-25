@@ -6,5 +6,5 @@
  <b>reproachful</b>, [<a href="javascript:void(0)" title=" LXX.Deut.22.14, 17; εὑρεσιλογίαι 1st c.AD: Philo Judaeus 2.448. ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.22.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.22.14]]
 </sub></small>

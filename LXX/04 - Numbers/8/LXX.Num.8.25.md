@@ -1,0 +1,25 @@
+**LXX Numbers 8:25** 
+<small><sub>**LXX:**</sub></small>
+And from fifty years \[old\] he shall leave from the ministration, and shall not work any longer. 
+<small><sub>**KJV:**</sub></small>
+And from the age of fifty years they shall cease waiting upon the service [thereof], and shall serve no more:
+<small><sub>**BSB:**</sub></small>
+But at the age of fifty, they must retire from performing the work and no longer serve.<small><sub>**MT:**</sub></small>
+[[Num.8.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.24|<< Numbers 8:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.26|Numbers 8:26 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
+| fifty years \[old\] | <span class="asgreek">πεντηκονταέτους <sup><small><small>[[G8704]]</small></small></sup> </span> |
+| he shall leave | <span class="asgreek">αποστήσεται <sup><small><small>[[G0868]]</small></small></sup> </span> |
+| from | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
+| the | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| ministration, | <span class="asgreek">λειτουργίας <sup><small><small>[[G3009]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
+| work | <span class="asgreek">εργάται <sup><small><small>[[G2038]]</small></small></sup> </span> |
+| any longer. | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
+[[Num.8.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.24|<< Numbers 8:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.26|Numbers 8:26 >>]]</td></tr></table>
+
+

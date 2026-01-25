@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_E.4</b> <i>metaphorically</i>, <span class='asgree
 $\quad$ $\quad$ $\quad$<b>\_\_E.5</b> proverbial, <span class='asgreek'>ἀπωτέρω</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>γόνυ</span> <span class='asgreek'>κνάμα</span> 'blood is thicker than water', 'charity begins at home', [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 16.18; γ. κνήμης ἔγγιον 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1168b8, 2nd c.AD: Athenaeus Epigrammaticus 9.383b. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_E.II</b> <b>joint</b> of grasses or plants, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.98, 5th-6th c.BC: Xenophon Historicus “Anabasis” 4.5.26, 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 8.2.4, 3rd c.AD: Porphyrius Tyrius Philosophus “de Antro Nympharum - Porphyrii Opuscula” 19 ">Refs 5th c.BC+</a>]. (Cf. Sanskrit <i>jā´nu</i>, Latin <i>genu</i>, etc.)
 
-<small><sub>LSJ Scripture Refs: [[Isa.45.23]] ☩ [[1Kgs.19.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.45.23]] ☩ [[LXX.1Kgs.19.18]]
 </sub></small>

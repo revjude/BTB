@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> the <b>service</b> itself, [<a href="javascript:void(0)" title=" LXX.1Esd.1.16. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Chr.23.6]] ☩ [[Neh.23.30]] ☩ [[Luke.1.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.23.6]] ☩ [[LXX.Neh.23.30]] ☩ [[Luke.1.5]]
 </sub></small>

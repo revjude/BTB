@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>privy parts</b>, [<a href="javascript:void(0)" title=" LXX.Hab.2.15 (\_plural\_). ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>place behind the scenes</b> in a theatre, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 4.124. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.6.15]] ☩ [[Jer.7.11]] ☩ [[Matt.21.13]] ☩ [[John.11.38]] ☩ [[Hab.2.15]]
+<small><sub>LSJ Scripture Refs: [[Rev.6.15]] ☩ [[LXX.Jer.7.11]] ☩ [[Matt.21.13]] ☩ [[John.11.38]] ☩ [[LXX.Hab.2.15]]
 </sub></small>

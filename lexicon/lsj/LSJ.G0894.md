@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==ἄψινθος==ιον</sp
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> = <b>Artemisia monosperma,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Aquila LXX.Prov.5.4. ">LXX+2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>θαλάσσιον</span>, ={<span class='asgreek'>σέριφον</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.23.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.8.11]] ☩ [[Prov.5.4]]
+<small><sub>LSJ Scripture Refs: [[Rev.8.11]] ☩ [[LXX.Prov.5.4]]
 </sub></small>

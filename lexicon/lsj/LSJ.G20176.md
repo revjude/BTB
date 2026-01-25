@@ -5,5 +5,5 @@
  <b>of unintelligible speech,</b> <span class='asgreek'>λαός</span> [<a href="javascript:void(0)" title=" LXX.Esth.3.5: but explained by ἐλλόγιμος, 5th c.AD(?): Hesychius Legal icographus, 10th c.AD: Suidas Legal icographus ">LXX+5th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Esth.3.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.3.5]]
 </sub></small>

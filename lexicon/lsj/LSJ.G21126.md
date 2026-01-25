@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>μάχης</span> <b>obstinacy</b> of conflict, [<a href="javascript:void(0)" title=" LXX.Sir.28.10. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.37.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.37.18]]
 </sub></small>

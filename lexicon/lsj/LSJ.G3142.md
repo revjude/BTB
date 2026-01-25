@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>μ</span>. <b>the tables of the Decalogue</b>, [<a href="javascript:void(0)" title=" LXX.Lev.16.13, +others ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>shrine of a martyr</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 15.15 (a) Z., “POxy.” 941.4 (6th c.AD), etc. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.16.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.16.13]]
 </sub></small>

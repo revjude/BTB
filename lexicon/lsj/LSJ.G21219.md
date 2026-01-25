@@ -8,5 +8,5 @@ $\quad$ ****<b>\_\_A</b> <span class='asgreek'>ταῶ</span> [<a href="javascri
 $\quad$ $\quad$<b>\_\_A.II</b> name of a gem, [<a href="javascript:void(0)" title=" 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 37.187. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_A.III</b> name of a fish, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 3.1. (Acc. to Tryphoap. 2nd c.AD: Athenaeus Epigrammaticus 9.397e, the Athenians pronounced it with an aspirate, ταὧς λέγουσιν Ἀθηναῖοι τὴν τελευταίαν συλλαβὴν περισπῶντες καὶ δασύνοντες">Refs 2nd c.AD+</a>]; the bird was a native of India (<span class='asgreek'>ταῶς</span> <span class='asgreek'>ἐξ</span> <span class='asgreek'>Ἰνδίας</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Nav.” 23)">Refs 2nd c.AD+</a>]; hence <span class='asgreek'>ταὧς</span> and Latin <i>pavus</i>, <b>pavo</b>, perhaps also Hebrew <b>tukkîyîm</b> 'peacocks', may be borrowed from the same oriental source.)
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.10.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.10.22]]
 </sub></small>

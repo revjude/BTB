@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>disintegrate, reduce to powder</b>,[<a href="javascript:void(0)" title=" Zos.Alch. p.177 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>dissipate</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>πατρικὸν</span> <span class='asgreek'>βίον</span> [<a href="javascript:void(0)" title=" “Catalogus Codicum Astrologorum” 2.162. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.39.15]] ☩ [[2Kgs.22.15]] ☩ [[Matt.12.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.39.15]] ☩ [[LXX.2Kgs.22.15]] ☩ [[Matt.12.30]]
 </sub></small>

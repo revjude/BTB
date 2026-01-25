@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> especially a type of early <b>melody</b> 
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>νοῦμμος</span>} (which see), [<a href="javascript:void(0)" title=" 5th c.BC: Epicharmus Comicus 136, 5th c.BC: Sophron Comicus 162, “Inscription Délos” 407.21 (2nd c.BC)">Refs 5th c.BC+</a>]; <span class='asgreek'>ν</span>. <span class='asgreek'>σηστέρτιοι</span>, = Latin <i>nummi sestertii,</i> [<a href="javascript:void(0)" title=" Inscription Prien. 41.13 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> Architecture texts, <b>course</b> of masonry, [<a href="javascript:void(0)" title=" “IG” 12(2).11.17 (Mytil.). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.1.2]] ☩ [[Isa.2.3]] ☩ [[Deut.33.4]] ☩ [[Luke.2.22]] ☩ [[Gal.6.2]] ☩ [[Rom.8.2]] ☩ [[Jas.1.25]] ☩ [[Jas.2.8]] ☩ [[John.7.51]] ☩ [[Lev.6.31]] ☩ [[Rom.7.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.1.2]] ☩ [[LXX.Isa.2.3]] ☩ [[LXX.Deut.33.4]] ☩ [[Luke.2.22]] ☩ [[Gal.6.2]] ☩ [[Rom.8.2]] ☩ [[Jas.1.25]] ☩ [[Jas.2.8]] ☩ [[John.7.51]] ☩ [[LXX.Lev.6.31]] ☩ [[Rom.7.2]]
 </sub></small>

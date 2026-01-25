@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> a <b>plant</b>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]; <span class='asgreek'>ὄζει</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>τόπος</span> <span class='asgreek'>β</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 9.395a. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.18.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.18.8]]
 </sub></small>

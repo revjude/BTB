@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_1</b> <b>leathern</b> or <b>hair curtain, stretche
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>π</span>. <span class='asgreek'>ποδός</span> <b>covering</b> for the foot, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 527. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>plural</i>, of <b>fasteners</b> for bandages, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(2).748 (nisi to be read παραρραμμάτων). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.35.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.35.11]]
 </sub></small>

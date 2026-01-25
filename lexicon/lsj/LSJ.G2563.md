@@ -22,5 +22,5 @@ $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>καλάμη</span>}, <b>s
 $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>ὁ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>σκέλους</span> the <b>shinbone</b>, [<a href="javascript:void(0)" title="Scholia 2nd c.AD: Lucianus Sophista “VH” 1.23. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <b>ticket</b> for obtaining corn-rations, = <b>tessera frumentaria,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>] (Cf. Latin <i>culmus</i>, OHG. <b>halm</b>, etc.)
 
-<small><sub>LSJ Scripture Refs: [[Ps.44.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.44.1]]
 </sub></small>

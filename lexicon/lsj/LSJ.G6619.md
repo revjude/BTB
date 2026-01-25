@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>Εἰλειθυίας</span> <span class='asgreek'>ἄ</span>. <b>exudation from</b> silver fir, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 5.9.8.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.15.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.15.19]]
 </sub></small>

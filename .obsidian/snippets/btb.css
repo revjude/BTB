@@ -1,0 +1,219 @@
+body {
+    --metadata-display-reading: none; 
+    --embed-border-start: unset;
+}
+abbr{
+    cursor:pointer;
+}
+table{
+    width:100%;
+}
+.theme-light, .theme-dark {
+  --popover-width: 800px; /* Adjust the width as needed */
+  --popover-height: 600px; /* Adjust the height as needed */
+}
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0px !important;
+}
+/* Adjust space between header and next paragraph/list */
+:root div:has(h1,h2,h3,h4,h5,h6) + div > p,
+:root div:has(h1,h2,h3,h4,h5,h6) + div > ul,
+:root div:has(h1,h2,h3,h4,h5,h6) + div > ol {
+  margin-top: 0px !important;
+}
+/* Optional: use these if the above doesn't work with specific themes or for more control */
+.popover.hover-popover.is-loaded {
+  width: var(--popover-width) !important;
+  height: var(--popover-height) !important;
+  max-height: 95vh !important; /* Limits the max height to 95% of the viewport height */
+}
+/*  use this if you want hide missing embedded notes
+span.mod-empty-attachment{
+    display:none !important;
+}
+*/
+.markdown-embed-title { display:none; }
+.markdown-embed h1, .markdown-embed h2, .markdown-embed h3,
+.markdown-embed h4, .markdown-embed h5, .markdown-embed h6 {
+    display: none !important;
+}
+.markdown-embed-link, .internal-embed {
+    display: inline-block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.markdown-rendered div:is(.el-p,.el-pre,.el-table,.el-ul,.el-ol) + div > :is(h1,h2,h3,h4,h5,h6) {
+  margin-top: 1em;
+}
+.startversemarker {
+    font-weight:600;
+    font-size:1.2em;
+}
+.endversemarker {
+    font-weight:600;
+    font-size:1.2em;
+}
+.smallcaps{font-variant: small-caps;}
+.small{font-size: .5em;}
+.big{font-size: 2em;}
+/*Brown-Driver-Briggs*/
+:is(.markdown-source-view, .markdown-rendered) .bdbLangHebrew {
+    color: var(--color-red);
+    font-size: 1em;
+    font-weight: 600;
+}
+:is(.markdown-source-view, .markdown-rendered) .bdbLangAramaic {
+    color: var(--color-green);
+    font-size: 1em;
+    font-weight: 600;
+}
+:is(.markdown-source-view, .markdown-rendered) .bdbLangGreek {
+    color: var(--color-purple);
+    font-size: 1em;
+    font-weight: 600;
+}
+:is(.markdown-source-view, .markdown-rendered) .bdbHebrewEntryType {
+    color: var(--color-red);
+    font-size: 1.5em;
+    font-weight: 700;
+}
+:is(.markdown-source-view, .markdown-rendered) .bdbHebrewEntryTypeLetter {
+    color: var(--color-red);
+    font-size: 3em;
+    font-weight: 700;
+}
+:is(.markdown-source-view, .markdown-rendered) .bdbAramaicEntryType {
+    color: var(--color-green);
+    font-size: 1.5em;
+    font-weight: 700;
+}
+:is(.markdown-source-view, .markdown-rendered) .bdbAramaicEntryTypeLetter {
+    color: var(--color-green);
+    font-size: 3em;
+    font-weight: 700;
+}
+:is(.markdown-source-view, .markdown-rendered) .bdbPlainEntryType {
+    color: #575653;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+:is(.markdown-source-view, .markdown-rendered) .bdbEntryHeader {
+    display: block;
+    text-align: right;
+    font-size: 1em;
+    color: #6F6E69;
+}
+:is(.markdown-source-view, .markdown-rendered) .bdbTitleWord {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+:is(.markdown-source-view, .markdown-rendered) .bdbSeriacGlyph {
+    height: 1em;
+    vertical-align: middle;
+}
+
+/*Abbott-Smith*/
+:is(.markdown-source-view, .markdown-rendered) span.asbullet {
+    margin-top: 0;
+    margin-bottom: .25em;
+    line-height: 1.5;
+    display:inline-block;
+}
+:is(.markdown-source-view, .markdown-rendered) span.asform {
+    margin-bottom: .5em;
+    line-height: 1.5;
+    display:inline-block;
+}
+:is(.markdown-source-view, .markdown-rendered) span.asgreek {
+    color: var(--color-purple);
+    font-size: 1em;
+    font-weight: 600;
+}
+:is(.markdown-source-view, .markdown-rendered) span.ashebrew {
+    color: var(--color-red);
+    font-size: 1em;
+    font-weight: 600;
+}
+:is(.markdown-source-view, .markdown-rendered) span.asaramaic {
+    color: var(--color-green);
+    font-size: 1em;
+    font-weight: 600;
+}
+:is(.markdown-source-view, .markdown-rendered) span.aslatin {
+    font-size: 1em;
+    font-weight: 600;
+    color: var(--color-orange);
+}
+:is(.markdown-source-view, .markdown-rendered) span.asbold {
+    font-weight: 700;
+}
+:is(.markdown-source-view, .markdown-rendered) span.asitalic {
+    font-style: italic;
+    font-weight: 600;
+}
+:is(.markdown-source-view, .markdown-rendered) span.assuperscript {
+    vertical-align: super;
+    font-size: 0.75em;
+}
+:is(.markdown-source-view, .markdown-rendered) span.assubscript {
+    vertical-align: sub;
+    font-size: 0.75em;
+}
+:is(.markdown-source-view, .markdown-rendered) span.asgramGrp {
+    color: var(--background-modifier-active-hover);
+    font-size: 0.95em;
+}
+:is(.markdown-source-view, .markdown-rendered) span.aspos {
+    font-weight: 500;
+    color: var(--text-accent);
+}
+:is(.markdown-source-view, .markdown-rendered) span.asetym {
+    color: var(--text-accent);
+    font-size: 0.9em;
+    display: block;
+    margin: 0.5em 0;
+}
+:is(.markdown-source-view, .markdown-rendered) span.asseptuagint {
+    color: var(--text-muted);
+}
+:is(.markdown-source-view, .markdown-rendered) span.asderivation {
+    color: var(--text-muted);
+}
+:is(.markdown-source-view, .markdown-rendered) span.asusg {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    font-style: italic;
+    display: inline;
+}
+:is(.markdown-source-view, .markdown-rendered) span.asre {
+    display: block;
+    margin-top: 1em;
+    padding-top: 0.5em;
+    border-top: 1px solid var(--text-faint);
+    color: var(--text-accent);
+}
+:is(.markdown-source-view, .markdown-rendered) span.asref {
+    font-weight: normal;
+}
+:is(.markdown-source-view, .markdown-rendered) span.ashighlight {
+    font-style: italic;
+    font-weight: 550;
+    background-color: var(--text-highlight-bg);
+}
+
+/*TIPNR*/
+:is(.markdown-source-view, .markdown-rendered) .tipnrLangHebrew {
+    color: var(--color-red);
+    font-size: 1em;
+    font-weight: 600;
+}
+:is(.markdown-source-view, .markdown-rendered) .tipnrLangGreek {
+    color: var(--color-purple);
+    font-size: 1em;
+    font-weight: 600;
+}
+:is(.markdown-source-view, .markdown-rendered) span.tipnrhighlight {
+    font-style: italic;
+    font-weight: 550;
+    background-color: var(--text-highlight-bg);
+}

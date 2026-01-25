@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ἡ</span> <span class='asgr
 $\quad$ $\quad$<b>\_\_IV</b> in Grammars, <b>transitive force</b> of Verbs, <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>δ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>προσώπου</span> <span class='asgreek'>ῥήματα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 202.7, +others ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> in Rhet. of <b>intervals</b> or <b>pauses</b> in pronunciation caused by long syllables and the like, <span class='asgreek'>ῥυθμοὶ</span> <span class='asgreek'>πλείστην</span> <span class='asgreek'>ἔχοντες</span> <span class='asgreek'>δ</span>. [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 20; compare διαβαίνω 1. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.19.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.19.18]]
 </sub></small>

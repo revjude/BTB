@@ -6,5 +6,5 @@
  <b>seventieth</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 7.7, LXX.Zech.1.12. ">LXX+5th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Zech.1.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.1.12]]
 </sub></small>

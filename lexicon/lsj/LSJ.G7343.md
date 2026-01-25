@@ -6,5 +6,5 @@
  <b>houseless,</b> [<a href="javascript:void(0)" title=" LXX.Job.6.18. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.6.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.6.18]]
 </sub></small>

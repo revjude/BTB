@@ -6,5 +6,5 @@
  <b>ashes of a burnt-sacrifice</b>, [<a href="javascript:void(0)" title=" LXX.Lev.6.10(3), 11(4). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.6.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.6.10]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>δορυφόρος</span>}
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> a magistrate or religious official, [<a href="javascript:void(0)" title=" “IG” 12(8).178 (from Samothrace). ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> epithet of Pallas, <span class='asgreek'>Ἀρχ</span>. <span class='asgreek'>Ἐφ</span>. 1911.126 (Thessaly; of Ares,[<a href="javascript:void(0)" title=" “Rev.Bibl.” 32.118 (from Palestine). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.14.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.14.8]]
 </sub></small>

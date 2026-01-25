@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>march round,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 34.4. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.15.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.15.3]]
 </sub></small>

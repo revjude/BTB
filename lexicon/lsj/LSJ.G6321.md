@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>remove barriers,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.4.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.4.7]]
 </sub></small>

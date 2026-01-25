@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> in Egypt, <b>desert,</b> [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> part of the foot, ={<span class='asgreek'>τὸ</span> <span class='asgreek'>ἄνω</span> <span class='asgreek'>πρὸ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>δακτύλων</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.197. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> ={<span class='asgreek'>ἀμίς</span>}, [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 82. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.8.5]] ☩ [[Rev.6.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.8.5]] ☩ [[Rev.6.15]]
 </sub></small>

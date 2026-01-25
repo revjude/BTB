@@ -7,5 +7,5 @@ Related to: <b> <span class='asgreek'>==σίελον==</span>-<span class='asgr
 
 $\quad$ $\quad$<b>\_\_II</b> <b>synovial fluid</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ σαρκῶν” 10. [\_Attic dialect\_ σίαλον, τό, Hellenic σίελος, ὁ, \_accusative\_ to Moer. p.347 P.">Refs 5th c.BC+</a>]; the latter occurs [<a href="javascript:void(0)" title=" LXX.Isa.40.15 (\_neuter\_ σίελον codex A), 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 2.2, “PMag.Par.” 1.132: \_plural\_ τὰ σίελα LXX.1Kgs.21.13.] ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.40.15]] ☩ [[1Kgs.21.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.40.15]] ☩ [[LXX.1Kgs.21.13]]
 </sub></small>

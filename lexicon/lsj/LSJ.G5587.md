@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>slandering,</b> [<a href="javascript:void
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>whistle</b> of a snake-charmer, [<a href="javascript:void(0)" title=" LXX.Eccl.10.11. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>crepitation,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.159. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.12.20]] ☩ [[Eccl.10.11]]
+<small><sub>LSJ Scripture Refs: [[2Cor.12.20]] ☩ [[LXX.Eccl.10.11]]
 </sub></small>

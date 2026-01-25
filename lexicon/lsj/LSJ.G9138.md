@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἐξ</span> <span class='asgreek'>Ἀπόλλωνος</span> <span class='asgreek'>αὐτὸν</span> <span class='asgreek'>σ</span>. <b>make</b> him <b>son</b> of [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus, 12th c.AD: Eustathius Episcopus Thessalonicensis 1348.52. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, of plants, <b>to be in seed</b>, [<a href="javascript:void(0)" title=" LXX.Exod.9.31. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.12.2]] ☩ [[Exod.9.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.12.2]] ☩ [[LXX.Exod.9.31]]
 </sub></small>

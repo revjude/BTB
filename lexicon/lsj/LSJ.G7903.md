@@ -6,5 +6,5 @@
  <b>carry off as booty</b>, [<a href="javascript:void(0)" title=" LXX.Num.21.1, LXX.Judg.2.14. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.21.1]] ☩ [[Judg.2.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.21.1]] ☩ [[LXX.Judg.2.14]]
 </sub></small>

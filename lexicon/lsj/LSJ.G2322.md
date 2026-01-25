@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>maintenance</b> or <b>repairs</b> of 
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <b>preparation</b> of fat for medical use, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 2.76. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> in collective sense, <b>body of attendants, retinue</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.199, 5.21, 7.184, LXX.Gen.45.16; σὺν ἱππικῇ θ. 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 4.6.1; ὁ ἐπὶ τῆς θ. τεταγμένος 2nd c.BC: Polybius Historicus 4.87.5. ">LXX+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.45.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.45.16]]
 </sub></small>

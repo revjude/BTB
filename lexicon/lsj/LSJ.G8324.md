@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>wind off</b> thread, [<a href="
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> in <i>middle</i>, <span class='asgreek'>μαρύεται</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>χείλη</span> <span class='asgreek'>κισσός</span> ivy <b>draws itself, winds</b> round the edge, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 1.29. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i> is found in <i>perfect</i>, <span class='asgreek'>περὶ</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>τένοντα</span> <span class='asgreek'>δυσκρίτους</span> <span class='asgreek'>φλέβας</span> <span class='asgreek'>μεμήρυκεν</span> has <b>twined</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ὀστέων φύσιος” 16. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.31.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.31.13]]
 </sub></small>

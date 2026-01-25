@@ -1,6 +1,6 @@
 <span class="asform"><span class="asgreek"><span class="asbold">χάρις, -ιτος, ἡ </span></span>, acc., <span class="asgreek">χάριν</span> (<span class="asgreek">χάριτα</span> in [[Acts.24.27|Ac 24:27]], [[Jude.1.4|Ju 4]]; v. WH, <span class="asitalic">App.</span>, 157), </span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">חֵן</span> <small><sup>[[H2580]]</sup></small> ;\]</span> </span>
 
-<span class="asbullet"><span class="asbold">1.</span> objectively, that which causes favourable regard, <span class="asitalic">gracefulness, grace, loveliness</span> of form, <span class="asitalic">graciousness</span> of speech (cl.; [[Eccl.10.12|Ec 10:12]], [[Sir.21.16|Si 21:16]], al.): [[Col.4.6|Col 4:6]]; <span class="asgreek">λόγοι τ. χάριτος</span> (gen. qual.), [[Luke.4.22|Lk 4:22]].</span>
+<span class="asbullet"><span class="asbold">1.</span> objectively, that which causes favourable regard, <span class="asitalic">gracefulness, grace, loveliness</span> of form, <span class="asitalic">graciousness</span> of speech (cl.; [[LXX.Eccl.10.12|Ec 10:12]], [[Sir.21.16|Si 21:16]], al.): [[Col.4.6|Col 4:6]]; <span class="asgreek">λόγοι τ. χάριτος</span> (gen. qual.), [[Luke.4.22|Lk 4:22]].</span>
 <span class="asbullet"><span class="asbold">2.</span> Subjectively,</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> on the part of the giver, <span class="asitalic">grace, graciousness, kindness, goodwill, favour</span>: [[Luke.2.52|Lk 2:52]], [[Acts.7.10|Ac 7:10]], al.; esp. in NT of the divine <span class="asitalic">favour, grace</span>, with emphasis on its freeness and universality: [[Luke.1.30|Lk 1:30]], [[Acts.14.26|Ac 14:26]], [[Rom.1.7|Ro 1:7]], [[1Cor.1.3|I Co 1:3]], al.; opp. to <span class="asgreek">ὀφείλημα</span>, [[Rom.4.4|Ro 4:4]], 16; to <span class="asgreek">ἔργα</span>, [[Rom.11.6|Ro 11:6]];</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> on the part of the receiver, a sense of favour received, <span class="asitalic">thanks, gratitude</span>: [[Rom.6.17|Ro 6:17]]  [[Rom.7.25|7:25]], al.; <span class="asgreek">χ. ἔχειν</span>, <span class="asitalic">to be thankful</span>, [[Luke.17.9|Lk 17:9]], [[1Tim.1.12|I Ti 1:12]], al.</span>
@@ -12,7 +12,7 @@ $\quad$ <span class="asbullet"><span class="asbold">(b)</span> a proof or gift o
 
 | Book | Refs |
 | - | - |
-| Ecclesiastes | [[Eccl.10.12\|10:12]] |
+| Ecclesiastes | [[LXX.Eccl.10.12\|10:12]] |
 | Luke | [[Luke.1.30\|1:30]] · [[Luke.2.52\|2:52]] · [[Luke.4.22\|4:22]] · [[Luke.17.9\|17:9]] |
 | John | [[John.1.16\|1:16]] |
 | Acts | [[Acts.6.8\|6:8]] · [[Acts.7.10\|7:10]] · [[Acts.14.26\|14:26]] · [[Acts.24.27\|24:27]] |

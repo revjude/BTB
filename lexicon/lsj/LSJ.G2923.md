@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>κ</span>. <span class='asgreek'>ἐνυπνίων</span> <b>interpreter</b> of dreams, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Pers.” 226. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>κριτάς</span>· <span class='asgreek'>ὀδόντας</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus; compare κραντήρ. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.2.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.2.16]]
 </sub></small>

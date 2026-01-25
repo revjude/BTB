@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>search for</b>, <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" NT.Mark.1.36. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>overdrive</b> cattle, [<a href="javascript:void(0)" title=" LXX.Gen.33.13. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.17.38]] ☩ [[Mark.1.36]] ☩ [[Gen.33.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.17.38]] ☩ [[Mark.1.36]] ☩ [[LXX.Gen.33.13]]
 </sub></small>

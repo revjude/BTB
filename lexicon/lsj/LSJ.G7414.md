@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>curse</b> (of God),[<a href="javascript:void(0)" title="LXX.Mal.2.2. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.5.19]] ☩ [[Mal.2.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.5.19]] ☩ [[LXX.Mal.2.2]]
 </sub></small>

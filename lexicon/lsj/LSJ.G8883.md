@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of slaves, <span class='asgreek'>π</span>. 
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>π</span>. <span class='asgreek'>τοὺς</span> <span class='asgreek'>δικαστάς</span> <b>buy,</b> i.e. <b>bribe</b> them, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 7.7. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>rent, farm</b> a tax, etc., <span class='asgreek'>τέλος</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Vectigalibus” 4.20; μέταλλον 4th-3rd c.BC: Dinarchus Orator cited in 1st c.BC: Dionysius Halicarnassensis “de Dinarcho” 13; ὠνὴν ἐκ τοῦ δημοσίου 5th-6th c.BC: Andocides Orator 1.92, etc.: \_absolutely\_, οἱ πριάμενοι [τὸ θέατρον]">Refs 5th c.BC+</a>] the <b>contractors</b> for the management of the theatre, [<a href="javascript:void(0)" title=" “IG” 22.1176.15,31">Refs</a>]. (Cf. Sanskrit <span class='asgreek'>κρ</span>ī<span class='asgreek'>ν</span>ā´<span class='asgreek'>τι</span>, OIr. <b>crenid,</b> Welsh <b>prynu</b> 'buy', Old Lithuanian <i>krienas</i> 'bride-price'.)
 
-<small><sub>LSJ Scripture Refs: [[Gen.42.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.42.10]]
 </sub></small>

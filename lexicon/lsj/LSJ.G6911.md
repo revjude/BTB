@@ -6,5 +6,5 @@
  <b>bear twins,</b> [<a href="javascript:void(0)" title=" LXX.Song.4.2. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Song.4.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.4.2]]
 </sub></small>

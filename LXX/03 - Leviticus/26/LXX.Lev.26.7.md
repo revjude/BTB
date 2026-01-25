@@ -1,0 +1,24 @@
+**LXX Leviticus 26:7** 
+<small><sub>**LXX:**</sub></small>
+And you shall pursue  your enemies, and they shall fall before you in carnage. 
+<small><sub>**KJV:**</sub></small>
+And ye shall chase your enemies, and they shall fall before you by the sword.
+<small><sub>**BSB:**</sub></small>
+You will pursue your enemies, and they will fall by the sword before you.<small><sub>**MT:**</sub></small>
+[[Lev.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.6|<< Leviticus 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.8|Leviticus 26:8 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| you shall pursue | <span class="asgreek">διώξεσθε <sup><small><small>[[G1377]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">τους <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| your enemies, | <span class="asgreek">εχθρούς <sup><small><small>[[G2190]]</small></small></sup> <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| they shall fall | <span class="asgreek">πεσούνται <sup><small><small>[[G4098]]</small></small></sup> </span> |
+| before | <span class="asgreek">ενώπιον <sup><small><small>[[G1799]]</small></small></sup> </span> |
+| you | <span class="asgreek">υμών <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
+| carnage. | <span class="asgreek">φόνω <sup><small><small>[[G5408]]</small></small></sup> </span> |
+[[Lev.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.6|<< Leviticus 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.8|Leviticus 26:8 >>]]</td></tr></table>
+
+

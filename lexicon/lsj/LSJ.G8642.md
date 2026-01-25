@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>run over</b>, i. e. <b>treat cursorily</b
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_4.b</b> <b>pass over, omit</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 10.43.1, 2nd c.AD: Galenus Medicus 8.869; ἵνα ταῦτα παραδράμω 2nd-3rd c.AD: Dio Cassius Historicus 79.12 ">Refs 2nd c.BC+</a>]; <b>slight, neglect</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 20.32. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>escape un noticed</b>, <span class='asgreek'>τινας</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.6.4; παρὰ δὲ φρένας ἔδραμον ἀνδρῶν 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 3.96: \_absolutely\_, of Time, 2nd c.AD: Herodianus Grammaticus 2.12.4. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.14.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.14.27]]
 </sub></small>

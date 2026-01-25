@@ -5,5 +5,5 @@
  <i>adverb</i> <b>with empty hands,</b> [<a href="javascript:void(0)" title=" LXX.1Chr.12.33. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Chr.12.33]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.12.33]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> a kind of <b>polypus,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Artemidorus Daldianus Onirocriticus 2.14. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> a kind of <b>fish,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.11.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.11.18]]
 </sub></small>

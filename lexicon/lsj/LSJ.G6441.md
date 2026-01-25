@@ -6,5 +6,5 @@
  <b>take the</b> <span class='asgreek'>κίδαρις</span> <b>off,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>κεφαλήν</span>[<a href="javascript:void(0)" title=" LXX.Lev.10.6, 21.10.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.10.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.10.6]]
 </sub></small>

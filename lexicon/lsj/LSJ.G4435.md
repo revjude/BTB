@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> generally, <b>fight</b>, <span cla
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> in [<a href="javascript:void(0)" title=" NT.Mark.7.3, ==πυγμή==ῇ νίψασθαι">NT</a>] is interpretation <b>diligently</b> (variant{<span class='asgreek'>πυκνά</span>}, <b>often</b>). 
 $\quad$ $\quad$<b>\_\_II</b> a measure of length, <b>the distance from the elbow to the knuckles</b>,= [<a href="javascript:void(0)" title=" 18 δάκτυλοι, 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 9.11.5, 2nd c.AD(?): Pollianus Epigrammaticus 2.147, 158. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.21.18]] ☩ [[Isa.58.4]] ☩ [[Mark.7.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.21.18]] ☩ [[LXX.Isa.58.4]] ☩ [[Mark.7.3]]
 </sub></small>

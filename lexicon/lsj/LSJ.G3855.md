@@ -26,5 +26,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.2</b> <b>pass away</b>, [<a href="javascript:voi
 $\quad$ $\quad$<b>\_\_B.II</b> <b>pass along</b> the coast, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.44.3 ">Refs 2nd c.BC+</a>]; simply, <b>go</b>, <span class='asgreek'>εἴσω</span> <span class='asgreek'>πάραγε</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus “Ἐπιτρέποντες” 188, compare 194, “Sam.” 80, “Pk.” 275. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_B.III</b> <b>delay</b> (see. above [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus IV), ==παράγω==ῆγον ἐφ᾽ ἱκανὸν χρόνον 1st c.BC: Diodorus Siculus Historicus 11.3; ἐξέκρουε καὶ π. 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Romulus” 23. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.143.4]] ☩ [[1Cor.7.31]] ☩ [[1John.2.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.143.4]] ☩ [[1Cor.7.31]] ☩ [[1John.2.8]]
 </sub></small>

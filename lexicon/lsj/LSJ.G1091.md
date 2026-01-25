@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>husbandry</b>, [<a href="javascript:void(0)" tit
 $\quad$ $\quad$<b>\_\_III</b> <b>crop</b>,[<a href="javascript:void(0)" title="LXX.Prov.24.5. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_IV</b> in <i>plural</i>, <b>tax</b> on land, uncertain in [<a href="javascript:void(0)" title=" “SIG” 311.9 (Lagina, 4th c.BC). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.3.9]] ☩ [[Prov.24.5]]
+<small><sub>LSJ Scripture Refs: [[1Cor.3.9]] ☩ [[LXX.Prov.24.5]]
 </sub></small>

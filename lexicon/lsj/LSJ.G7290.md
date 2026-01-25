@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <span class='asgreek'>==ἐξα
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>turn another way, move back and forward,</b> <span class='asgreek'>κερκίδα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Troades” 200 (Lyric poetry)">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>δρόμον</span> <b>change</b> one's course, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 10.7 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ποίαν</span> (i.e. <span class='asgreek'>ὁδόν</span>) <span class='asgreek'>==ἐξαλλάσσω==άξ</span>; which <b>other</b> way <b>shall</b> I <b>take?</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hecuba” 1060 (Lyric poetry). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>divert, amuse,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 747, 4th-3rd c.BC: Philippides Comicus 35 ">Refs 4th c.BC+</a>]; <b>coax, win over,</b> <span class='asgreek'>ὀψαρίοις</span> [<a href="javascript:void(0)" title=" “POxy.” 531.18 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.45.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.45.22]]
 </sub></small>

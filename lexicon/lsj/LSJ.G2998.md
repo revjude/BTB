@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>λ</span>. <span class='asgreek'>λάκκον</span> <b>hew</b> it <b>out</b>, [<a href="javascript:void(0)" title=" LXX.Exod.21.33, cf. LXX.Deut.6.11 (\_passive\_). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.21.33]] ☩ [[Deut.6.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.21.33]] ☩ [[LXX.Deut.6.11]]
 </sub></small>

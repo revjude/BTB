@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>military unit, regiment,</b> [<a href="javascri
 $\quad$ $\quad$<b>\_\_IV</b> <b>chief thing, principal part</b>, <span class='asgreek'>ἡ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>τέχνης</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Diphilus Comicus 17.5. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>a principality</b>, [<a href="javascript:void(0)" title=" LXX.Gen.36.30 ">LXX</a>]; <b>a Roman governorship</b>, <span class='asgreek'>ἡ</span> '<span class='asgreek'>Ιλλυρίδος</span> <span class='asgreek'>ἡ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 6.7.2, compare 7.5.2 ">Refs 2nd c.AD+</a>]; <b>tenure of office of a governor,</b> [<a href="javascript:void(0)" title=" PRyl. 77.36 (2nd c.AD)">Refs 2nd c.AD+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>Ἡ</span>. the <b>Government,</b> [<a href="javascript:void(0)" title=" PGrenf. 2.73.11 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.3.1]] ☩ [[Gen.36.30]]
+<small><sub>LSJ Scripture Refs: [[Luke.3.1]] ☩ [[LXX.Gen.36.30]]
 </sub></small>

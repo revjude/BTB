@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>fold</b>, [<a href="javascript:void(0)" title=" LXX.Job.41.4(5). ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> a military evolution, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Tactica” 9.4 (\_plural\_). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.41.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.41.4]]
 </sub></small>

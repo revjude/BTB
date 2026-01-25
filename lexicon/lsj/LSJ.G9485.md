@@ -6,5 +6,5 @@
  <b>to be three years old,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.1.24. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.1.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.1.24]]
 </sub></small>

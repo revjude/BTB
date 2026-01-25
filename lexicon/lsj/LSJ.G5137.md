@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> of parts <b>resembling the neck,</b> e. g. <b>upper
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>neck</b> of a vessel, [<a href="javascript:void(0)" title=" “BCH” 35.286 (from Delos), 2nd-1st c.BC(?): Hero Mechanicus “(Spiritalia) Pneumatica” 1.19, +others">Refs 2nd c.BC+</a>]; of a gourd, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 616a23 ">Refs 4th c.BC+</a>]; of parts of the body, <span class='asgreek'>τ</span>. <span class='asgreek'>μήτρας</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.169, 2nd c.AD(?): Pollianus Epigrammaticus 2.222; ὑστέρας 2nd c.AD: Soranus Medicus 1.7 ">Refs 5th c.BC+</a>]; <span class='asgreek'>κύστεως</span> [<a href="javascript:void(0)" title="[prev. passage], 2nd c.AD: Galenus Medicus “de Usu Partium” 14.9, 2nd c.AD(?): Pollianus Epigrammaticus 2.171; καρδίας “Placita Philosophorum” 4.5.8. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>middle part of a mast,</b> [<a href="javascript:void(0)" title=" 2nd-1st c.BC: Asclepiades Myrleanus Historicus cited in 2nd c.AD: Athenaeus Epigrammaticus 11.475a. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.46.29]] ☩ [[Luke.15.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.46.29]] ☩ [[Luke.15.20]]
 </sub></small>

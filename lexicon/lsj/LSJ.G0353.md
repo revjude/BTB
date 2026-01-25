@@ -25,5 +25,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>pull up short,</b> of a horse, [<a href="javasc
 $\quad$ $\quad$<b>\_\_IV</b> <b>win over,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 682, 4th-3rd c.BC: Dinarchus Orator 1.28, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Brutus” 24, +others; ἀ. τὸν ἀκροατήν 4th c.BC: Aristoteles Philosophus “Rhetorica” 1354b32. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>ἀγορὰν</span> <span class='asgreek'>στοαῖς</span> <span class='asgreek'>ἀνειλημμένην</span> <span class='asgreek'>διτταῖς</span>, perhaps on a terrace <b>supported</b> by two colonnades, [<a href="javascript:void(0)" title=" 4th c.BC: Dicaearchus Geographus 59.23; compare ἀνάλημμα 11.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.1.11]] ☩ [[Num.14.1]]
+<small><sub>LSJ Scripture Refs: [[Acts.1.11]] ☩ [[LXX.Num.14.1]]
 </sub></small>

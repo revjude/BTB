@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>αἰπόλος</span>· <span class='asgreek'>κάπηλος</span> [<a href="javascript:void(0)" title="(5th c.AD: Cypria), 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Amos.7.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.7.14]]
 </sub></small>

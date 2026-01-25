@@ -6,5 +6,5 @@
  <b>covering, veil</b>, [<a href="javascript:void(0)" title=" LXX.Exod.26.14, 1st c.AD: Josephus Historicus “Bellum Judaicum” 5.12.3 (uncertain reading). ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.26.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.26.14]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>perambulation, inspection</b>, [<a href="javascript:void(0)" title=" Χωρίων καὶ παραδείσων “CPHerm.” 7 ii6 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.13.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.13.7]]
 </sub></small>

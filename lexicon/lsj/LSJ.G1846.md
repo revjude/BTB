@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>dig out</b> of the ground, <b>dig up,</b> <span 
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>gouge out,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>αὐτῶν</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>ὀφθαλμούς</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.116, cf. LXX.Judg.16.21, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Artoxerxes” 14. ">LXX+5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i>, <span class='asgreek'>τὸν</span> <span class='asgreek'>ἐξορύσσοντα</span> <span class='asgreek'>λόγον</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>κεκρυμμένα</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>πραγμάτων</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.72. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.16.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.16.21]]
 </sub></small>

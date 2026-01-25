@@ -5,5 +5,5 @@
  <b>watch-tower</b>, [<a href="javascript:void(0)" title=" “BGU” 1550 (1st c.BC: Ptolemaeus Epigrammaticus), “PTheb.Bank” 1i16 (2nd c.BC), Meyer “Ostr.” 40 (1st c.AD), “PFay.” 38.5 (3rd-4th c.AD), 5th c.AD(?): Hesychius Legal icographus ">Refs 2nd c.BC+</a>]: also <b><span class='asgreek'>μαγδώλ</span></b>, <i>genitive</i> <span class='asgreek'>τοῦ</span> <span class='asgreek'>μαγδῶλος</span> [<a href="javascript:void(0)" title=" “PHamb.” 62.8 (2nd c.AD)">Refs 2nd c.AD+</a>]. (Hebrew <b>migdol</b>; place-name in [<a href="javascript:void(0)" title=" LXX.Num.33.7 ">LXX</a>], compare <b><span class='asgreek'>Μαγδωλός</span></b>, a town in Egypt, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Hecataeus Milesius Historicus 317 1st c.AD: Josephus Historicus ">Refs 4th c.BC+</a>]; also <b><span class='asgreek'>Μαγδῶλα</span></b> <span class='asgreek'>Μίρη</span> [<a href="javascript:void(0)" title=" “PAmh.” 2.87 (2nd c.AD), etc.) ">Refs 2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.33.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.33.7]]
 </sub></small>

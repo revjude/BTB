@@ -6,5 +6,5 @@
  <b>interweave with</b>, in <i>passive</i>, [<a href="javascript:void(0)" title=" LXX.Isa.3.23. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.3.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.3.23]]
 </sub></small>

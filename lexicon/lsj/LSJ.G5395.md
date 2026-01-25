@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> of other kinds of <b>flame,</b> <span class=
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> in similes and metaphors, <span class='asgreek'>φλογὶ</span> <span class='asgreek'>εἴκελος</span>, <span class='asgreek'>ἶσος</span>, of <b>fiery</b> warriors, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 13.330, 39 ">Refs 8th c.BC+</a>]; <span class='asgreek'>φ</span>. <span class='asgreek'>οἴνου</span> <b>the fiery strength</b> of wine, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Alcestis” 758; φ. πήματος 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 166 (Lyric poetry). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>wallflower, Cheiranthus Cheiri,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 6.6.2. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.3.22]] ☩ [[1Kgs.17.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.3.22]] ☩ [[LXX.1Kgs.17.7]]
 </sub></small>

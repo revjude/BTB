@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>repress, stifle</b>, <span class='asgr
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>outweigh</b>, <span class='asgreek'>τἀγαθῷ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>δυστυχές</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hippolytus” 637, compare “Supp.” 249 (assuming variant). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> later, <b>lay hold of</b>, <span class='asgreek'>ταῦρον</span>.. <span class='asgreek'>πιάξας</span> <span class='asgreek'>τᾶς</span> <span class='asgreek'>ὁπλᾶς</span> <b>by</b> the hoof, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 4.35; αὐτὸν τῆς χειρός NT.Acts.3.7, cf. NT.John.7.30, etc. ">NT+3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.2.15]] ☩ [[John.8.20]] ☩ [[Rev.19.20]] ☩ [[Acts.3.7]] ☩ [[John.7.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.2.15]] ☩ [[John.8.20]] ☩ [[Rev.19.20]] ☩ [[Acts.3.7]] ☩ [[John.7.30]]
 </sub></small>

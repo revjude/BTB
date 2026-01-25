@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>taunt</b>, [<a href="javascript:void(0)" title=" 5th c.AD: Aristaenetus Rhetor 1.27. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>ambush</b> [<a href="javascript:void(0)" title="(from Theban), 4th c.AD: Palaephatus Paradoxographus 4.">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.37]] ☩ [[1Cor.13.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.37]] ☩ [[1Cor.13.12]]
 </sub></small>

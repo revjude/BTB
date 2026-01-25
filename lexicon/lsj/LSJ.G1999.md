@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>collection,</b> <span class='asgreek'>κακῶν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 11.127; ὑδατίδων 2nd c.AD: Soranus Medicus 1.58. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> variant for{<span class='asgreek'>ἐπίστασις</span>}, [<a href="javascript:void(0)" title=" NT.2Cor.11.28. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.24.12]] ☩ [[Num.16.40]] ☩ [[2Cor.11.28]]
+<small><sub>LSJ Scripture Refs: [[Acts.24.12]] ☩ [[LXX.Num.16.40]] ☩ [[2Cor.11.28]]
 </sub></small>

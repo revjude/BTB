@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of birds, <b>restingplace, nest,</b> NT.Matt.8.20 (<i>plural</i>).
 
-<small><sub>LSJ Scripture Refs: [[1Chr.28.2]] ☩ [[Matt.8.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.28.2]] ☩ [[Matt.8.20]]
 </sub></small>

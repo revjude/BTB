@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in Philos. and Religion, <b>guilt, sin,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 660c, +others, 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1148a3, +others, LXX.Gen.18.20, +others, NT.John.8.46, +others">NT+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.18.20]] ☩ [[John.8.46]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.18.20]] ☩ [[John.8.46]]
 </sub></small>

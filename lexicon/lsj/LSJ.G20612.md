@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>eye-salve,</b> [<a href="javascript:void(
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> ={<span class='asgreek'>==κολλύριον==α</span>}[<a href="javascript:void(0)" title=" 1, LXX.1Kgs.12.24. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>fine clay on which a seal can be impressed</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Alex.” 21. (Freq. written κολλούριον, as Hp.[same place] (variant)">Refs 2nd c.AD+</a>], <b>PHolm., PLeid.X.,</b> [<a href="javascript:void(0)" title=" PFlor. [same places]) ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.12.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.12.24]]
 </sub></small>

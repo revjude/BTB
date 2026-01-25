@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>full of potsherds</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>ὄρος</span> <span class='asgreek'>τὸ</span> -<span class='asgreek'>ῶδες</span> [<a href="javascript:void(0)" title=" LXX.Josh.1.35; ὀ. τόπος “POxy.” 941.2 (6th c.AD). ">LXX+6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.1.35]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.1.35]]
 </sub></small>

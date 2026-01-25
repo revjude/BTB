@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>earth</b>, <span class='asgreek'>χυτ�
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>earth</b>, as an element, <span class='asgreek'>ὑμεῖς</span>.. <span class='asgreek'>ὕδωρ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>γ</span>. <span class='asgreek'>γένοισθε</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 7.99; ἐμοῦ θανόντος γ. μειχθήτω πυρί “Tragica Adespota” 513; γαίης καὶ ὕδατος ἐκγενόμεσθα 6th c.BC: Xenophanes Poeta Philosophus 33, compare 5th c.BC: Empedocles Poeta Philosophus 17.18, 109.1, etc. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>the earth</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 18.20: elsewhere Γαῖα">Refs 3rd c.BC+</a>], as <i>proper name</i>, [<a href="javascript:void(0)" title=" “Earth”, 8th-7th c.BC: Hesiodus Epicus “Theogonia” 45, 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 2, etc. (The usually form in 8th c.BC: Homerus Epicus ">Refs 8th c.BC+</a>]; used in Trag. for the sake of meter and by Comedy texts in <i>paratragoedia</i>, see above)
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.18.35]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.18.35]]
 </sub></small>

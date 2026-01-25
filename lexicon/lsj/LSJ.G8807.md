@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> Rhet. and Grammars, <b>use of redundant word
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <b>lengthening</b> of clauses, opposed to <span class='asgreek'>μείωσις</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 7. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>repetition,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Timaeus Historicus 71 (\_plural\_). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.25.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.25.37]]
 </sub></small>

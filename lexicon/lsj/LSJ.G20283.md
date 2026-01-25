@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be naturally disposed, to be wont</
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> in phrases expressive of meaning, <span class='asgreek'>τὸ</span> <span class='asgreek'>θέλει</span> <span class='asgreek'>σημαίνειν</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>τέρας</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.78; τὸ θέλει τὸ ἔπος εἶπαι [prev. author] 6.37; τὸ θέλει τὰ δῶρα λέγειν [prev. author] 4.131 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>ἔπος</span> <span class='asgreek'>τοῦτο</span> <span class='asgreek'>ἐθέλει</span> <span class='asgreek'>λέγειν</span> <span class='asgreek'>ὡς</span>.. [<a href="javascript:void(0)" title=" [prev. author] 2.13. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>τοῦ</span> <span class='asgreek'>θέλοντος</span>, ={<span class='asgreek'>τοῦ</span> <span class='asgreek'>θελήματος</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1220 (Lyric poetry, assuming variant). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.40.12]] ☩ [[Matt.7.12]] ☩ [[1Kgs.18.22]] ☩ [[Ps.17.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.40.12]] ☩ [[Matt.7.12]] ☩ [[LXX.1Kgs.18.22]] ☩ [[LXX.Ps.17.20]]
 </sub></small>

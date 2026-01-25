@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>hang the head,</b> <span class='asgreek'>ἐδάκρυσεν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐνύστασε</span> [<a href="javascript:void(0)" title="“Anthologia Graeca” l">Refs</a>].with (Cf. Lithuanian <i>snústi</i> (stem <b>snúd</b>-) 'grow drowsy'.)
 
-<small><sub>LSJ Scripture Refs: [[Isa.5.27]] ☩ [[2Kgs.4.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.5.27]] ☩ [[LXX.2Kgs.4.6]]
 </sub></small>

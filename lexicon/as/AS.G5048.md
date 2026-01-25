@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">τελειόω</span></span>, <span class="asgreek">-ῶ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τέλειος</span>), </span>  <span class="asseptuagint">\[in LXX: [[Exod.29.9|Ex 29:9]], [[Lev.4.5|Le 4:5]], al. (<span class="asgreek">τ. χεῖρας</span>, <span class="ashebrew">מָלֵא</span> <small><sup>[[H4390]]</sup></small> pi.), [[2Sam.22.26|II Ki 22:26]], al. (<span class="ashebrew">תָּמַם</span> <small><sup>[[H8552]]</sup></small>), [[Wis.4.13|Wi 4:13]], al. (cf. Westc., He., 64) ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">τελειόω</span></span>, <span class="asgreek">-ῶ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τέλειος</span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Exod.29.9|Ex 29:9]], [[LXX.Lev.4.5|Le 4:5]], al. (<span class="asgreek">τ. χεῖρας</span>, <span class="ashebrew">מָלֵא</span> <small><sup>[[H4390]]</sup></small> pi.), [[LXX.2Sam.22.26|II Ki 22:26]], al. (<span class="ashebrew">תָּמַם</span> <small><sup>[[H8552]]</sup></small>), [[Wis.4.13|Wi 4:13]], al. (cf. Westc., He., 64) ;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">bring to an end, finish, accomplish, fulfil</span>: [[John.4.34|Jo 4:34]], [[Acts.20.24|Ac 20:24]]; of time, [[Luke.2.43|Lk 2:43]], [[John.5.36|Jo 5:36]] [[John.17.4|17:4]]; pass., <span class="asgreek">ἡ γραφή</span>, [[John.19.28|Jo 19:28]].</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to bring to maturity</span> or <span class="asitalic">completeness, to complete, perfect</span>;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of things: [[Heb.7.19|He 7:19]], [[Jas.2.22|Ja 2:22]], [[1John.2.5|I Jo 2:5]] [[1John.4.12|4:12]], [[1John.4.17|17]] :</span>
@@ -8,9 +8,9 @@ $\quad$ <span class="asbullet"><span class="asbold">(b)</span> of persons, in et
 
 | Book | Refs |
 | - | - |
-| Exodus | [[Exod.29.9\|29:9]] |
-| Leviticus | [[Lev.4.5\|4:5]] |
-| 2 Samuel | [[2Sam.22.26\|22:26]] |
+| Exodus | [[LXX.Exod.29.9\|29:9]] |
+| Leviticus | [[LXX.Lev.4.5\|4:5]] |
+| 2 Samuel | [[LXX.2Sam.22.26\|22:26]] |
 | Luke | [[Luke.2.43\|2:43]] · [[Luke.13.32\|13:32]] |
 | John | [[John.4.34\|4:34]] · [[John.5.36\|5:36]] · [[John.17.4\|17:4]] · [[John.17.23\|17:23]] · [[John.19.28\|19:28]] |
 | Acts | [[Acts.20.24\|20:24]] |

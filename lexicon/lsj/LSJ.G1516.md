@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>of</b> or <b>in peace, peaceful</b>, <span class='asgreek'>βίος</span>, <span class='asgreek'>πρᾶξις</span>, etc., [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 829a, “R.” 399b, etc.; ἐπιστῆμαι 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 1.17 ">Refs 5th c.BC+</a>]: <i>superlative</i>, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.634. ">Refs 1st c.AD+</a>] <i>adverb</i> -<span class='asgreek'>κῶς</span> <b>peaceably</b>, opposed to <span class='asgreek'>πολεμικῶς</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 5.46, 1st c.BC: Philodemus Philosophus “περὶ τοῦ καθ᾽ Ὅμηρον ἀγαθοῦ βασιλέως” p.45 ">Refs 5th c.BC+</a>] O., etc.: <i>comparative</i> -<span class='asgreek'>ώτερον</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Fug.” 5. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>peaceable</b>, of persons, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 2.24. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.11.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.11.15]]
 </sub></small>

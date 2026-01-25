@@ -6,5 +6,5 @@
  = {<span class='asgreek'>γογγυσμός</span>}, [<a href="javascript:void(0)" title=" LXX.Num.14.27 ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Num.14.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.14.27]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>spend in eating, waste</b>, <span class='asgreek'>μή</span> <span class='asgreek'>τοι</span> <span class='asgreek'>κατὰ</span> <span class='asgreek'>πάντα</span> <span class='asgreek'>φάγωσι</span> <span class='asgreek'>κτήματα</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 3.315, 15.12; τὴν πατρῴαν οὐσίαν 4th c.BC: Aeschines Orator 1.96; πατρῴαν γῆν 4th-3rd c.BC: Menander Comicus 349.4. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.12.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.12.24]]
 </sub></small>

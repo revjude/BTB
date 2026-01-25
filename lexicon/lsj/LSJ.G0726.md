@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>captivate, ravish,</b> [<a href="javascri
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> <b>draw up</b> by means of a vacuum, [<a href="javascript:void(0)" title=" 6th c.AD: Simplicius Philosophus “in Aristotelis Physica commentaria - Comm. in Arist. Graeca” 647.28. ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>plunder,</b> <span class='asgreek'>πόλεις</span>, <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>οἰκιῶν</span>, <span class='asgreek'>τὴν</span> <span class='asgreek'>Ἑλλάδα</span>, etc., [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.5, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 7.2.5, 4th c.BC: Demosthenes Orator 8.55, etc.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.19.13]] ☩ [[1Thess.4.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.19.13]] ☩ [[1Thess.4.17]]
 </sub></small>

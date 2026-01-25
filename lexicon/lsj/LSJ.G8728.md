@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>purify completely</b>, <span class='asgreek'>π</span>. <span class='asgreek'>ἐπαοιδαῖς</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 496, compare 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 16.14; τὴν στήλην 5th-6th c.BC: Plato Philosophus “Critias” 120a; τὸν υἱὸν ἐν πυρί LXX.Deut.18.10; πόλιν μὴ σκίλλῃ [ἀλλὰ] τῷ λόγῳ 1st-2nd c.AD: Dio Chrysostomus Sophista 48.17. ">LXX+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.18.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.18.10]]
 </sub></small>

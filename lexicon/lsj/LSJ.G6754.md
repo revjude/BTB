@@ -6,5 +6,5 @@
  <b>dark, gloomy</b>,[<a href="javascript:void(0)" title="LXX.Prov.7.9, 1st c.AD: Philo Judaeus 2.109, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.949a. ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.7.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.7.9]]
 </sub></small>

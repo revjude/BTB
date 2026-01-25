@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>attainment of manhood</b>, [<a href="javascript:
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <b>marriage</b>, [<a href="javascript:void(0)" title=" LXX.Jer.2.2; compare τέλειος 1.2b, 11. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> of events, <b>accomplishment, fulfilment,</b> [<a href="javascript:void(0)" title="NT.Luke.1.45; λόγων LXX.Jdt.10.9. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.2.2]] ☩ [[Luke.1.45]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.2.2]] ☩ [[Luke.1.45]]
 </sub></small>

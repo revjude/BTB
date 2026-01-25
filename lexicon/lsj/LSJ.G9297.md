@@ -27,5 +27,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_C.3</b> <b>lay hold of</b>, <span class='asgreek'>
 $\quad$ $\quad$ $\quad$<b>\_\_C.4</b> <b>take part with</b> one, <b>assist</b>, <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Helena” 1444: \_absolutely\_, 4th-5th c.BC: Aeschylus Tragicus “Persae” 742 (troch.)">Refs 5th c.BC+</a>]; <span class='asgreek'>τινος</span> in a thing, [<a href="javascript:void(0)" title="[prev. work] 724 (troch.), 5th c.BC: Sophocles Tragicus “Fragmenta” 874. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_C.5</b> <b>bring upon oneself</b>, <span class='asgreek'>πληγάς</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 40.32. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.10.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.10.34]]
 </sub></small>

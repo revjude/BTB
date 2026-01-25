@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>agitate, dismay</b>, <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" LXX.Dan.4.16(19). ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>make haste, hasten</b>, [<a href="javascript:void(0)" title="LXX.Deut.33.2. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.5.13]] ☩ [[Dan.4.16]] ☩ [[Deut.33.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.5.13]] ☩ [[LXX.Dan.4.16]] ☩ [[LXX.Deut.33.2]]
 </sub></small>

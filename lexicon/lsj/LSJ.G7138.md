@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>shed fruit,</b> <span class='as
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>melt</b> or <b>fall away, disappear,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 452d, “Thg.” 130e ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐξερρύησαν</span> <span class='asgreek'>οἱ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Θεμιστοκλέους</span> <span class='asgreek'>λόγοι</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>Ἑλλήνων</span> they <b>faded from</b> their <b>memory,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Themistocles” 12. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> with <i>accusative</i> <i>cognate</i>, <b>shed, let fall,</b> <span class='asgreek'>χάριν</span> <span class='asgreek'>ἐξέρρευσας</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 11.374 (1st c.AD(?): Macedonius Epigrammaticus). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.40]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.40]]
 </sub></small>

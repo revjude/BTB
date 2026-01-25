@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_III</b> in Mathematics texts, <b>rational</b>, of magnitud
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>ῥ</span>. <b>the precise, literal contents</b> of a document, <b>the letter</b> of the law, [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 2.36, etc.">Refs 2nd c.AD+</a>]; <span class='asgreek'>==ῥητός==ός</span> <b>literal</b>, opposed to allegorical, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.69, +others ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> ={<span class='asgreek'>ῥῆμα</span>} [<a href="javascript:void(0)" title=" I.3, even of ">Refs</a>]<b>a living thing</b>, Hebrew <b>dâvâr</b>, [<a href="javascript:void(0)" title=" LXX.Exod.9.4. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.4.1]] ☩ [[Exod.9.4]]
+<small><sub>LSJ Scripture Refs: [[1Tim.4.1]] ☩ [[LXX.Exod.9.4]]
 </sub></small>

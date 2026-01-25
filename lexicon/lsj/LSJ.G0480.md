@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be opposed,</b> in various ways, [<
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> Rhet., <span class='asgreek'>ἀντικειμένη</span> [<span class='asgreek'>λέξις</span>] <b>antithetical,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1409b35; ἀντικειμένως εἰπεῖν [prev. work] 1401a5, compare 1410b29; ἀντικείμενα κῶλα 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 22. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>resist, be adverse,</b> <span class='asgreek'>ἀντικείσομαι</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἀντικειμένοις</span> <span class='asgreek'>σοι</span>[<a href="javascript:void(0)" title=" LXX.Exod.23.22, cf. LXX.Isa.66.6, +others, NT.Luke.13.17, +others">LXX+NT</a>]; <b>to be hurtful,</b> <span class='asgreek'>τοῖς</span> <span class='asgreek'>σώμασι</span>[<a href="javascript:void(0)" title=" 5th-6th c.AD: Procopius Gazaeus Rhetor “Epistulae - Epistolographi” 27.">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.23.22]] ☩ [[Isa.66.6]] ☩ [[Luke.13.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.23.22]] ☩ [[LXX.Isa.66.6]] ☩ [[Luke.13.17]]
 </sub></small>

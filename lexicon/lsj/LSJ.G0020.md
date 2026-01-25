@@ -5,5 +5,5 @@
  <b>great joy, exultation,</b> [<a href="javascript:void(0)" title=" LXX.Job.8.21, +others, NT.Luke.1.14, 44, 1 “Enoch” 5.9, 3rd c.AD: Pseudo-Callisthenes Historicus 2.22.">LXX+NT+3rd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.8.21]] ☩ [[Luke.1.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.8.21]] ☩ [[Luke.1.14]]
 </sub></small>

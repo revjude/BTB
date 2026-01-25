@@ -5,5 +5,5 @@
  ={<span class='asgreek'>διωρυχή</span>}, [<a href="javascript:void(0)" title=" LXX.Jer.38.9. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.38.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.38.9]]
 </sub></small>

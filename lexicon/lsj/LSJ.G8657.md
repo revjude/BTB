@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b><b>actlike a drunken man</b>, [<a href="javas
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>treat with drunken violence</b>, [<a href="javascript:void(0)" title="“PSI” [prev. cited] ">Refs</a>]:—<i>passive</i>, <b>to be so treated</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.198; ὑπό τινων [prev. author] 54.5. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> generally, <b>maltreat, do violence to</b>, <span class='asgreek'>λῃσταὶ</span> <span class='asgreek'>==παροινέω==ήσαντες</span> <span class='asgreek'>ἡμᾶς</span> [<a href="javascript:void(0)" title=" “PCair.Zen.” 659.5 (3rd c.BC),compare 1st c.BC: Diodorus Siculus Historicus 28.5 ">Refs 3rd c.BC+</a>]:—<i>passive</i>, <b>to be insulted,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Zenon Papyri du Caire 288, 462.8(3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.41.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.41.12]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>destruction</b>, [<a href="javascript:void(0)" title=" LXX.Num.15.31. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.15.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.15.31]]
 </sub></small>

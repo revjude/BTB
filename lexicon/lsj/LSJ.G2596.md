@@ -53,5 +53,5 @@ $\quad$ ****<b>\_\_F</b> <span class='asgreek'>==κατά==</span> as a <i>prep
  for <span class='asgreek'>καθ᾽</span> <span class='asgreek'>εἷς</span>, <b>one by one, one after antoher</b>, [<a href="javascript:void(0)" title=" LXX.3Mac.5.34; εἷς καθεῖς NT.Mark.14.19, etc.: formed backwards from the \_neuter\_ ἓν καθέν, noted by 2nd c.AD: Lucianus Sophista “Sol.” 9. ">LXX+NT+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.12.11]] ☩ [[Luke.2.41]] ☩ [[Mark.14.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.12.11]] ☩ [[Luke.2.41]] ☩ [[Mark.14.19]]
 </sub></small>

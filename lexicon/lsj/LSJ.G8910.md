@@ -6,5 +6,5 @@
  <b>die besides</b> or <b>with</b>, [<a href="javascript:void(0)" title=" LXX.Exod.21.29, 2nd-3rd c.AD: Dio Cassius Historicus 53.9. ">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.21.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.21.29]]
 </sub></small>

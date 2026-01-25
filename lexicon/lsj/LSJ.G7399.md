@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>offspring, breed</b>, [<a href="javascript:void(0)" title=" ἵππων 1st c.BC: Diodorus Siculus Historicus 4.15 ">Refs 1st c.BC+</a>]; of men, [<a href="javascript:void(0)" title=" LXX.2Chr.31.16. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b>. in Egypt, <b>descendants of foreign</b> <b>military settlers</b>, <span class='asgreek'>Μακεδών</span>, <span class='asgreek'>Ἰουδαῖος</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἐ</span>, Wilcken [<a href="javascript:void(0)" title="“Chr.” 241 (3rd c.BC), Mitteis “Chr.” 21.13 (3rd c.BC), etc.; later apparently used in legal fictions of a category of persons, Πέρσης τῆς ἐ. “PStrassb.” 83.12 (2nd c.BC), “BGU” 1134 1st c.BC-1st c.AD, etc. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.31.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.31.16]]
 </sub></small>

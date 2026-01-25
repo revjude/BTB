@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>give back words, exchange</b> 'tu quoq
 $\quad$ $\quad$<b>\_\_III</b> <b>deliver in turn,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>σύνθημα</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 3.3.58 (\_passive\_)">Refs 5th c.BC+</a>]; <b>explain in turn,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 87c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>give back</b> a sound, of an echo, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sulla” 19 ">Refs 1st c.AD+</a>]; of troops, <span class='asgreek'>κραυγὴν</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" [prev. author] “Tim.” 27.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.32.35]] ☩ [[Rom.12.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.35]] ☩ [[Rom.12.19]]
 </sub></small>

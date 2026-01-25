@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἰδιώταις</span> -<span class='asgreek'>κτώμενα</span> <b>possessed</b> by.., [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Vit.Herc.” 1457.10">Refs 1st c.BC+</a>]: <i>aorist</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 16.56. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.28.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.28.10]]
 </sub></small>

@@ -6,5 +6,5 @@
  (<span class='asgreek'>ῥόα</span>) <b>pomegranate-orchard</b>, [<a href="javascript:void(0)" title=" LXX.Zech.12.11. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Zech.12.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.12.11]]
 </sub></small>

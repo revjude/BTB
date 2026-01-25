@@ -6,5 +6,5 @@
  = {<span class='asgreek'>==λατρευτός==ευτικός</span>}, <span class='asgreek'>ἔργον</span> [<a href="javascript:void(0)" title=" LXX.Exod.12.16. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.12.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.12.16]]
 </sub></small>

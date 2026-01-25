@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>to be cast out, abominable,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.238.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.16.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.16.8]]
 </sub></small>

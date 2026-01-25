@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b>. <b>burn incense</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.12.33, 1st c.AD: Josephus Historicus “Bellum Judaicum” 7.3.3, D.S. 12.11, 18.61, Porph. “Abst.” 2.59; λιβανωτόν 1st c.BC: Diodorus Siculus Historicus 18.61, variant in Ar. “Pl.” 1116 ">LXX+1st c.BC+</a>]: generally, <b>offer on</b>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>βωμοῦ</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>δεκάτας</span> 1st c.BC: Dionysius Halicarnassensis 1.40 codices
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.12.33]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.12.33]]
 </sub></small>

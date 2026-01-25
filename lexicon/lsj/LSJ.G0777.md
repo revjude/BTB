@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>of forbidden food,</b> <span class='asgreek'>εὐωχία</span> <span class='asgreek'>ἄ</span>.[<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.398 (uncertain reading).">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.24.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.24.6]]
 </sub></small>

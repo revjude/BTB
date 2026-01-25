@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> in comparisons, <b>like, just as,</b> [<a href="jav
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ὡς</span> <span class='asgreek'>εἴτε</span> <b>as it were,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 1.44. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> with Numerals, or measures of time and space, <b>about,</b> <span class='asgreek'>ὡσεὶ</span> <span class='asgreek'>τριήκοντα</span> <span class='asgreek'>σταδίων</span> <span class='asgreek'>μάλιστά</span> <span class='asgreek'>κῃ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.109, compare 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 1.2.9, LXX.Gen.24.55, +others, NT.Matt.14.21, +others ">NT+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.24.55]] ☩ [[Matt.14.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.24.55]] ☩ [[Matt.14.21]]
 </sub></small>

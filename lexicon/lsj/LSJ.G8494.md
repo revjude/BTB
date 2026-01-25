@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>in full flame,</b> opposed to <span class='asgreek'>ἡμίκαυτος</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(1).225. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.6.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.6.23]]
 </sub></small>

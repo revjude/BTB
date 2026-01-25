@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> a kind of <b>catapult,</b> ={<span class='asgreek'>μονάγκων</span>}, [<a href="javascript:void(0)" title=" 6th c.AD: Procopius Caesariensis Historicus “de Bello Gothico” 1.21, 6th c.AD: Lydus, Joannes Laurentius Historicus “Mag.” 1.46, Amm. Marc.23.4.7. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.103.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.103.11]]
 </sub></small>

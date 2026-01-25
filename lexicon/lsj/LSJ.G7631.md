@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>boil down to one half,</b> [<a href="javascript:void(0)" title=" Hippiatr. 2. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.54.24]] ☩ [[Gen.33.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.54.24]] ☩ [[LXX.Gen.33.1]]
 </sub></small>

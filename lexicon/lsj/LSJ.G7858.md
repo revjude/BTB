@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>wearisome, tedious</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.173S. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.3.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.3.17]]
 </sub></small>

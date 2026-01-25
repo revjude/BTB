@@ -20,5 +20,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_8</b> <span class='asgreek'>ἐ</span>. <span clas
 $\quad$ $\quad$ $\quad$<b>\_\_9</b> of circumstances, <b>happen, occur</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 7.8.4. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_10</b> <b>desert</b>, <span class='asgreek'>πρός</span> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" LXX.2Kgs.25.11. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.25.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.25.11]]
 </sub></small>

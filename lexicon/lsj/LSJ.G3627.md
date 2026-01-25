@@ -6,5 +6,5 @@ Included with: <b> <span class='asgreek'>==οἰκτείρω==</span>-<span cla
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>infinitive</i>, <span class='asgreek'>οἰ</span>. <span class='asgreek'>νιν</span> <span class='asgreek'>λιπεῖν</span> I <b>am sorry</b> to leave her, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 652 ">Refs 5th c.BC+</a>]; <span class='asgreek'>οἰ</span>. <span class='asgreek'>εἰ</span>.. <b>to be sorry that</b> it should be, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 1.4.7 ">Refs 5th c.BC+</a>]. [<i>Aeolic dialect</i> <span class='asgreek'>==οἰκτείρω==ίρρω</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus Gr. 2.558: hence ==οἰκτείρω==ῑρω is probably from ==οἰκτείρω==ιρ-ψω, and ==οἰκτείρω==ίρετε [ῐ] in “Anthologia Graeca” 7.267 (3rd c.BC: Posidippus Comicus) is an error: but the \_Attic dialect\_ ">Refs 3rd c.BC+</a>]<i>future</i> is <span class='asgreek'>==οἰκτείρω==ερῶ</span> <i>accusative</i> to [<a href="javascript:void(0)" title="Hdn.Gr. 2.559.] ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.33.19]] ☩ [[Rom.9.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.33.19]] ☩ [[Rom.9.15]]
 </sub></small>

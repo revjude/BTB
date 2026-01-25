@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>thyroid cartilage, Adam's apple,</b> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.207. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.1.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.1.16]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>troublesomeness, importunity</b>, [<a href="javascript:void(0)" title=" LXX.Eccl.7.26 (25). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Eccl.7.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.7.26]]
 </sub></small>

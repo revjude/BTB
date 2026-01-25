@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>throw off</b> humours, [<a href="javascript:void
 $\quad$ $\quad$<b>\_\_III</b> <b>expel, drive out,</b> [<a href="javascript:void(0)" title=" LXX.Neh.13.28, LXX.2Mac.1.12: \_metaphorically\_, ὁ θυμὸς ἐ. τῆς ψυχῆς ἀκόλαστα ῥήματα 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.456c. ">LXX+1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>intransitive</i> in <i>active</i>, <b>boil over,</b> of water, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus 1.6.3 ">Refs 2nd c.AD+</a>]; <b>pullulate,</b> of shoots, <span class='asgreek'>==ἐκβράζω==</span> <span class='asgreek'>μιᾶς</span> <span class='asgreek'>ῥίζης</span> [<a href="javascript:void(0)" title=" “Geoponica” 2.6.28. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.13.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.13.28]]
 </sub></small>

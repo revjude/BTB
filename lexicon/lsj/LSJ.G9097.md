@@ -6,5 +6,5 @@
  <b>shelterer, protector</b>, [<a href="javascript:void(0)" title=" LXX.Exod.15.2, LXX.3Mac.6.9, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.15.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.15.2]]
 </sub></small>

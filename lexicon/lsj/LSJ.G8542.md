@@ -6,5 +6,5 @@
  <b>hut of a garden-watcher,</b> [<a href="javascript:void(0)" title=" LXX.Isa.1.8, compare 9th c.AD: Theognostus Grammaticus “Can.” 136 ">LXX+9th c.AD+</a>]; = <b>pomarium,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.1.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.1.8]]
 </sub></small>

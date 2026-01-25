@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>copulation</b>, [<a href="javascript:void(0)" title=" LXX.Lev.18.23. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.18.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.18.23]]
 </sub></small>

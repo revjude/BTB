@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>drawing up of an army in square,</b> Suid. see at {<span class='asgreek'>==πλινθεία==ωτόν</span>}.
 
-<small><sub>LSJ Scripture Refs: [[Exod.1.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.1.14]]
 </sub></small>

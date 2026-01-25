@@ -6,5 +6,5 @@
  <b>taskmaster,</b> [<a href="javascript:void(0)" title=" PPetr. 2p.6(3rd c.BC), LXX.Exod.3.7, 1st c.AD: Philo Judaeus 2.86. ">LXX+3rd c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.3.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.3.7]]
 </sub></small>

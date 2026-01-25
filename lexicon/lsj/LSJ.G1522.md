@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> in Poets, simply, <b>hear,</b> <span class='
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>perceive, feel effect of,</b> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἐγκεφάλου</span> <span class='asgreek'>ἐσακούσαντος</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>τρώματος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “προρρητικόν” 2.14. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i> in strict sense, <span class='asgreek'>ἔξωθεν</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>οἰκίας</span> <span class='asgreek'>εἰσακούεται</span> <span class='asgreek'>μᾶλλον</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>ἔσωθεν</span> <span class='asgreek'>ἔξω</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 903b13 (variant{εἴσω ἀκ}.). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.4.2]] ☩ [[Luke.1.13]] ☩ [[Matt.6.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.4.2]] ☩ [[Luke.1.13]] ☩ [[Matt.6.7]]
 </sub></small>

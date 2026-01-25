@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b>. in Metric, of metres in which different fee
 $\quad$ $\quad$ $\quad$<b>\_\_4</b>. <b>sociable, gregarious</b>, Timo [<a href="javascript:void(0)" title=" 47. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b>. <i>adverb</i> -<span class='asgreek'>τως</span> <b>in combination</b>, [<a href="javascript:void(0)" title=" Paul.Aeg. 3.48. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.11.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.11.4]]
 </sub></small>

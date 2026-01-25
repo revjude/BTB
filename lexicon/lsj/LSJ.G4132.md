@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in Medicine texts, <b>accumulation, excessive flow,</b> Lycusap.[<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus 8.25.39, 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων ὀξέων παθῶν” 2.9, “SD” 2.2. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.40.18]] ☩ [[Luke.6.48]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.40.18]] ☩ [[Luke.6.48]]
 </sub></small>

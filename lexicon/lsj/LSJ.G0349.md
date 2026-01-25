@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> rarely of animals, <span class='asgreek'>ἂν</span> <span class='asgreek'>γλαὺξ</span> <span class='asgreek'>ἀνακράγῃ</span>[<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 534.11.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Joel.3.16]] ☩ [[Judg.7.20]] ☩ [[Mark.1.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Joel.3.16]] ☩ [[LXX.Judg.7.20]] ☩ [[Mark.1.23]]
 </sub></small>

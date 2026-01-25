@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> generally, <b>gird up one's loins</b> for
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <b>to be fixed by means of girths</b>, [<a href="javascript:void(0)" title=" LXX.1Mac.6.37. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>to be formed in belts</b> or <b>seams</b>, <span class='asgreek'>καδμεία</span> <span class='asgreek'>ἐζωσμένη</span> (<span class='asgreek'>ἐξωσμ</span>- codices) probably in [<a href="javascript:void(0)" title=" 2nd c.AD: Pseudo-Democritus Alchemista Alch. p.45B. (cf. ==ζωνῖτις==). (ζω(ς)- from I.- 5th c.BC: Euripides Tragicus ">Refs 5th c.BC+</a>] <b>yōs-</b>, cf. Lithuanian <i>júosti</i> 'to gird', <b>júostas</b>, Avest. <b>yāsta-</b>,= <span class='asgreek'>ζωστός</span> 'girt'.) 
 
-<small><sub>LSJ Scripture Refs: [[John.21.18]] ☩ [[Exod.29.9]] ☩ [[John.21.18]] ☩ [[Lev.8.7]] ☩ [[1Kgs.17.39]]
+<small><sub>LSJ Scripture Refs: [[John.21.18]] ☩ [[LXX.Exod.29.9]] ☩ [[John.21.18]] ☩ [[LXX.Lev.8.7]] ☩ [[LXX.1Kgs.17.39]]
 </sub></small>

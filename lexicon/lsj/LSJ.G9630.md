@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> Astron. ={<span class='asgreek'>φάσις</span>}, <span class='asgreek'>φ</span>. <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἡλίου</span> <span class='asgreek'>αὐγῶν</span> heliacal <b>rising,</b> [<a href="javascript:void(0)" title="Theo Sm. p.137 H. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.1.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.1.15]]
 </sub></small>

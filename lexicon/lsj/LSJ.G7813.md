@@ -6,5 +6,5 @@
  <i>diminutive</i> of <span class='asgreek'>κάρυον</span>, [<a href="javascript:void(0)" title=" LXX.Exod.25.32, +others (\_plural\_)">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.25.32]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.25.32]]
 </sub></small>

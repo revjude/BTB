@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>southern</b>, <span class='asgreek'>κέλευθος</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 722; τὰ ==μεσημβρινός==ινά 5th c.BC: Thucydides Historicus 6.2, 1st c.BC-1st c.AD: Strabo Geographus 2.1.12, etc.">Refs 5th c.BC+</a>]: <i>comparative</i> -<span class='asgreek'>ώτερος</span> [<a href="javascript:void(0)" title=" 1st c.BC: Geminus Astronomicus 14.10, Anonymus  “Geographiae Expositio Compendiaria” 18">Refs 1st c.BC+</a>]: <i>superlative</i> -<span class='asgreek'>ώτατος</span> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 2.5.33, etc. [ῐ, but ῑ for the sake of meter, on the analogy of ὀπωρινός, 3rd c.BC: Callimachus Epicus “Lavacrum Palladis” 72, 73, 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 2.17.] ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.90.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.90.6]]
 </sub></small>

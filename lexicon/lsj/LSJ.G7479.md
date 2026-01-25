@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>village,</b> [<a href="javascript:void(0)" title=" LXX.1Chr.27.25, “PTeb.” 382.6 (1st c.BC-1st c.AD), “POxy.” 2137.12, 2142.3 (3rd c.AD). ">LXX+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Chr.27.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.27.25]]
 </sub></small>

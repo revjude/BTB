@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_7</b> <b>chastisement</b>, [<a href="javascript:vo
 $\quad$ $\quad$<b>\_\_II</b> <b>youth, childhood</b>, <span class='asgreek'>παιδείης</span> <span class='asgreek'>πολυήρατον</span> <span class='asgreek'>ἄνθος</span> [<a href="javascript:void(0)" title=" 6th c.BC: Theognis Elegiacus 1305, compare 1348; ἐκ ==παιδεία==ς φίλος 5th c.BC: Lysias Orator 20.11; so (probably) στερρὰν ==παιδεία==ν 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 206 (Lyric poetry). ">Refs 6th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in <i>collective</i> sense, <b>body of youths</b>, <span class='asgreek'>==παιδεία==ς</span> <span class='asgreek'>λιπαρὴς</span> <span class='asgreek'>ὄχλος</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Am.” 6. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.22.15]] ☩ [[Heb.12.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.22.15]] ☩ [[Heb.12.5]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'>δ</span>. <span class='asgreek'>τινός</span> <b>thirst after</b> a thing, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “N.” 3.6; ἐλευθερίας 5th-6th c.BC: Plato Philosophus “Respublica” 562c: later with \_accusative\_, δ. Χῖον 3rd c.BC: Teles Philosophus p.8 H.; φόνον “APl.” 4.137 (1st c.AD: Philippus Epigrammaticus); δικαιοσύνην NT.Matt.5.6; αἷμα 1st c.AD: Josephus Historicus “Bellum Judaicum” 1.32.2; also δ. πρὸς τὸν θεόν LXX.Ps.41.2: with \_dative\_, ὕδατιLXX.Exod.17.3 ">NT+5th c.BC+</a>]: with <i>infinitive</i>, <span class='asgreek'>==διψάω==ῶ</span> <span class='asgreek'>χαρίζεσθαι</span> <span class='asgreek'>ὑμῖν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 5.1.1; ἀκρατῶς ἐδίψη οἴνου πίνειν 2nd-3rd c.AD: Aelianus “Varia Historia” 2.41, etc. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.29.8]] ☩ [[Matt.5.6]] ☩ [[Ps.41.2]] ☩ [[Exod.17.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.29.8]] ☩ [[Matt.5.6]] ☩ [[LXX.Ps.41.2]] ☩ [[LXX.Exod.17.3]]
 </sub></small>

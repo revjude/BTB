@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>level, equalize,</b> <span class='asgreek
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>reduce to a uniform mass,</b> <span class='asgreek'>ρὰ</span> <span class='asgreek'>σιτία</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ποτόν</span> [<a href="javascript:void(0)" title=" Diocl.fragment 141. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>to be</b> or <b>remain equal</b> or <b>equable, maintain one's level,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 5.1.12, Mnesith. cited in 2nd c.AD: Athenaeus Epigrammaticus 5.357e, 2nd c.BC: Polybius Historicus 29.26.2, 1st c.BC: Philodemus Philosophus “περὶ ποιημάτων” 5.9. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.45.2]] ☩ [[Job.39.10]] ☩ [[Isa.28.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.45.2]] ☩ [[LXX.Job.39.10]] ☩ [[LXX.Isa.28.25]]
 </sub></small>

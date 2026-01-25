@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>τὸ</span> -<span class='a
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <span class='asgreek'>τ</span>. <span class='asgreek'>φάρμακον</span> poison <b>for smearing arrows with,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Mirabilia” 837a13, “BGU” 21 ii 14 (4th c.AD), 4th c.AD: Oribasius Medicus “fragment” 126: τὸ τ. 1st c.BC-1st c.AD: Strabo Geographus 3.4.18, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.106, 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 9.15: \_plural\_, 1st c.AD: Dioscorides (Dioscurides) Medicus 2.79. ">Refs 4th c.BC+</a>] 
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.2.b</b> = <b>venenum,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.5.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.5.28]]
 </sub></small>

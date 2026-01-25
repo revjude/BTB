@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>not fit for sacrifice</b>, opposed to <sp
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> ={<span class='asgreek'>ἄπυρος</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>without sacrificing</b>, <span class='asgreek'>ἄθυτος</span> <span class='asgreek'>ἀπελθεῖν</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 3.2.22.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.19.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.19.7]]
 </sub></small>

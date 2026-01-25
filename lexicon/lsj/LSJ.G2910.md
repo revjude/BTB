@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be hanged</b>, of persons, [<a href
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i>, <b>to be in suspense</b>, [<a href="javascript:void(0)" title=" ἵνα μὴ κρέμηται ἡ διάνοια 4th c.BC: Aristoteles Philosophus “Rhetorica” 1415a13 ">Refs 4th c.BC+</a>]; <span class='asgreek'>κ</span>. [<span class='asgreek'>ὁλόγος</span>] [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(2).754. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> ={<span class='asgreek'>ὀκλάζω</span>}, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus 65 (ubi see Scholia). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.26.7]] ☩ [[Gen.40.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.26.7]] ☩ [[LXX.Gen.40.19]]
 </sub></small>

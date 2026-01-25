@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>λίθος</span> <span class='asgreek'>μυλίτης</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 19.118. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.14.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.14.14]]
 </sub></small>

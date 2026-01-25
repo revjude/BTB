@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_8</b> obscene meaning, [<a href="javascript:void(0
 $\quad$ $\quad$ $\quad$<b>\_\_9</b> <i>middle</i>, <span class='asgreek'>κρούεσθαι</span> <span class='asgreek'>πρύμναν</span> <b>back water</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.51, 54, 3.78; αἱ πρύμναν κρουόμεναι νῆες 2nd c.AD: Arrianus Historicus “Anabasis” 5.17.7 ">Refs 5th c.BC+</a>] (also in <i>active</i>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 16.3.8); κ. ἐπὶ π. τὴν ναῦν 2nd c.AD: Appianus Historicus “Bella Civilia” 5.119 ">Refs 2nd c.BC+</a>]: hence <span class='asgreek'>κρούεσθαι</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>πτερόν</span> <b>fly backwards</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “NA” 3.13:">Refs 2nd c.AD+</a>] —also in <i>active</i>, [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 2.9.18. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_10</b> <span class='asgreek'>κρούειν</span> <span class='asgreek'>ἀκράτῳ</span>, see at {<span class='asgreek'>πατάσσω</span>} [<a href="javascript:void(0)" title=" 11.2. (Cf. Lith. \_krùšti\_ 'bruise', 'pound', Lett. \_krausēt\_ 'thresh'.) ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.19.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.19.22]]
 </sub></small>

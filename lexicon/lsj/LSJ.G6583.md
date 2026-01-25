@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> a kind of <b>petroleum,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.99. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>pitch,</b> [<a href="javascript:void(0)" title=" LXX.Gen.6.14. (1st c.AD: Philo Judaeus 1.420 derives it from σφάλλω.) ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.6.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.6.14]]
 </sub></small>

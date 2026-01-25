@@ -6,5 +6,5 @@
  <b>holy place, sanctuary,</b> [<a href="javascript:void(0)" title=" LXX.Lev.12.4, +others">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.12.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.12.4]]
 </sub></small>

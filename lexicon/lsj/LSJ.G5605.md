@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <b>worry, fuss,</b> <span class='
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> with <i>accusative</i>, <b>to be in travail with,</b> <span class='asgreek'>συμφορᾶς</span> <span class='asgreek'>βάρος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 325; τὴν καύχησιν τὴν σοφιστικήν 4th-3rd c.BC: Epicurus Philosophus “Fragmenta” 93, compare “Anthologia Graeca” 9.578 (5th c.AD: Leo Philosophus Epigrammaticus) (where ὧν is in the case of the antecedent by attraction). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> Causal, <b>cause to quiver,</b> as in travail, <span class='asgreek'>φωνὴ</span> <span class='asgreek'>βροντῆς</span> <span class='asgreek'>ὠδίνησε</span> <span class='asgreek'>γῆν</span> [<a href="javascript:void(0)" title=" LXX.Sir.43.17(18) codex 2nd c.AD: Alexander Rhetor ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Hab.3.10]] ☩ [[Ps.7.15]] ☩ [[Ps.113.7]] ☩ [[Prov.8.25]] ☩ [[Song.8.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hab.3.10]] ☩ [[LXX.Ps.7.15]] ☩ [[LXX.Ps.113.7]] ☩ [[LXX.Prov.8.25]] ☩ [[LXX.Song.8.5]]
 </sub></small>

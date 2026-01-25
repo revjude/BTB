@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>neuter</i> <span class='asgreek'>==ἐνώπιος==ιον</span> as <i>adverb</i>, <b>face to face,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 22.152 ">Refs 3rd c.BC+</a>]; <b>in person,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 12(5).1061.10 (from Carthaea), “PTeb.” 14.13 (2nd c.BC)">Refs 2nd c.BC+</a>]: as <i>preposition</i> with <i>genitive</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 3.43 codices, “PCair.Zen.” 73.14 (3rd c.BC), “PGrenf.” 1.38.11 (2nd-1st c.BC), NT.Rom.12.17, NT.Gal.1.20, 2nd c.AD: Hermogenes Rhetor “περὶ εὑρέσεως” 1.1; ἐ. θεῶν “SIG” 2843.7 (Delph., 2nd c.AD)">NT+4th c.BC+</a>]. Regul. <i>adverb</i> <b>-<span class='asgreek'>ίως</span></b>[<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.33.11]] ☩ [[Rom.12.17]] ☩ [[Gal.1.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.33.11]] ☩ [[Rom.12.17]] ☩ [[Gal.1.20]]
 </sub></small>

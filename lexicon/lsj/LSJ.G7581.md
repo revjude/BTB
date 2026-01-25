@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>with a white speck on it</b>, <span class='asgreek'>ὸφθαλμός</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 15.18; ὀφθαλμοῖσιν ==ἔφηλος== Callias Epigrammaticus “anonymous fragment” 106 ">Refs 2nd c.AD+</a>]; of persons suffering from the complaint, [<a href="javascript:void(0)" title=" LXX.Lev.21.20. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.21.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.21.20]]
 </sub></small>

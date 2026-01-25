@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>to be viviparous</b>, [<a href="javascript:void(
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>make alive, quicken</b>, <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 4.15.2 ">Refs 4th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 311, 6th-7th c.AD: Isidorus Hispalensis Grammaticus cited in 2nd c.AD: Athenaeus Epigrammaticus 2.93f: \_metaphorically\_, σωφροσύνη ζ. τὸ φρονοῦν 1st c.AD: Philo Judaeus 2.378, compare 435. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> ={<span class='asgreek'>ζωγρέω</span>}, <b>preserve alive</b>, [<a href="javascript:void(0)" title=" LXX.Exod.1.17, “1 Ki.” 27.9 ">LXX</a>]; <span class='asgreek'>κύριος</span> <span class='asgreek'>θανατοῖ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ζ</span>[<a href="javascript:void(0)" title=". [prev. work] 2.6, cf. NT.Luke.17.33 ">NT</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" NT.Acts.7.19. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.1.17]] ☩ [[Luke.17.33]] ☩ [[Acts.7.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.1.17]] ☩ [[Luke.17.33]] ☩ [[Acts.7.19]]
 </sub></small>

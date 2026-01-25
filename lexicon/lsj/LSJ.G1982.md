@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>darken, obscure</b>, [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_3</b>. of the Divine presence, <b>overshadow</b> for protection, etc., <span class='asgreek'>τινί</span> [<a href="javascript:void(0)" title=" LXX.Ps.90.4 ">LXX</a>]; <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>κεφαλήν</span> <span class='asgreek'>τινος</span>[<a href="javascript:void(0)" title=" [prev. work] 139(140).8; δύναμις ὑψίστου ἐπισκιάσει σοι NT.Luke.1.35. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b>. <i>passive</i>, <b>to be weak-sighted</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 111.1. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.17.5]] ☩ [[Mark.9.7]] ☩ [[Ps.90.4]] ☩ [[Luke.1.35]]
+<small><sub>LSJ Scripture Refs: [[Matt.17.5]] ☩ [[Mark.9.7]] ☩ [[LXX.Ps.90.4]] ☩ [[Luke.1.35]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>live in banishment</b>, [<a href="javascript:void(0)" title=" “SIG” 175.20 (Delph., 4th c.BC), “Schwyzer” 424.6 (Elis, 4th c.BC), LXX.Ps.54.8 ">LXX+4th c.BC+</a>]: <i>future</i> <span class='asgreek'>φυγαδεύσομαι</span> [<a href="javascript:void(0)" title=" “POxy.” 1477.15 (3rd-4th c.AD), 2nd c.BC: Polybius Historicus 10.22.1. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.54.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.54.8]]
 </sub></small>

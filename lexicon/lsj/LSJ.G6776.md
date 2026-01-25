@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>trench</b> made round a tree, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 3.4.1, 5th-6th c.AD: Orphica “Fragmenta” 280.4; γύρους περισκάψας 4th c.AD: Alciphro Epistolographus 3.13. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.22.14]] ☩ [[Isa.40.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.22.14]] ☩ [[LXX.Isa.40.22]]
 </sub></small>

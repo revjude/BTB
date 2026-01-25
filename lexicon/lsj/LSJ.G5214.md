@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>tell over and over again, harp upon, repeat, rec
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>sing, chant,</b> <span class='asgreek'>ὡς</span> <span class='asgreek'>ποιηταὶ</span> <span class='asgreek'>==ὑμνέω==ήκασι</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>αὐτῶν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.21 ">Refs 5th c.BC+</a>]; <span class='asgreek'>==ὑμνέω==ῶν</span> <span class='asgreek'>οὔποτ᾽</span> <span class='asgreek'>ἔληγεν</span> <span class='asgreek'>ὡς</span>.. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Agesilaus” 11.2. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> in <i>passive</i> sense, <span class='asgreek'>φῆμαι</span>.. <span class='asgreek'>==ὑμνέω==ήσουσι</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ὦτα</span> <b>will ring</b> in their ears, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 463d. [On the quantity, see at {ὕμνος}.] ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.16.25]] ☩ [[Prov.1.20]]
+<small><sub>LSJ Scripture Refs: [[Acts.16.25]] ☩ [[LXX.Prov.1.20]]
 </sub></small>

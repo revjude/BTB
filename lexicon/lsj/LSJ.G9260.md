@@ -6,5 +6,5 @@
  <i>passive</i>, <b>feed together</b>, [<a href="javascript:void(0)" title=" LXX.Isa.11.6. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.11.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.11.6]]
 </sub></small>

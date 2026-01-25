@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἱερός</span></span>, <span class="asgreek">-ά, όν</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Ezek.28.18|Ez 28:18]] (<span class="ashebrew">מִקְדָּשׁ</span> <small><sup>[[H4720]]</sup></small>); <span class="asgreek">τό ἱ.</span>, [[1Chr.29.4|I Ch 29:4]] (<span class="ashebrew">בַּיִת</span> <small><sup>[[H1004]]</sup></small>), [[Ezek.45.19|Ez 45:19]] (<span class="ashebrew">עֲזָרָה</span> <small><sup>[[H5835]]</sup></small>); very freq. in I Es, I-IV Mac;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἱερός</span></span>, <span class="asgreek">-ά, όν</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Ezek.28.18|Ez 28:18]] (<span class="ashebrew">מִקְדָּשׁ</span> <small><sup>[[H4720]]</sup></small>); <span class="asgreek">τό ἱ.</span>, [[LXX.1Chr.29.4|I Ch 29:4]] (<span class="ashebrew">בַּיִת</span> <small><sup>[[H1004]]</sup></small>), [[LXX.Ezek.45.19|Ez 45:19]] (<span class="ashebrew">עֲזָרָה</span> <small><sup>[[H5835]]</sup></small>); very freq. in I Es, I-IV Mac;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> in Hom., <span class="asitalic">marvellous</span>, <span class="asitalic">mighty</span>, <span class="asitalic">divine</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> (Also in Hom. and later cl.) <span class="asitalic">consecrated to the deity</span>, <span class="asitalic">sacred</span>: pl., <span class="asgreek">ἱ. γράμματα</span>, [[2Tim.3.15|II Ti 3:15]].</span>
 <span class="asbullet"><span class="asbold">3.</span> As subst.,</span>
@@ -9,8 +9,8 @@ $\quad$ <span class="asbullet"><span class="asbold">(b)</span> later, <span clas
 
 | Book | Refs |
 | - | - |
-| 1 Chronicles | [[1Chr.29.4\|29:4]] |
-| Ezekiel | [[Ezek.28.18\|28:18]] · [[Ezek.45.19\|45:19]] |
+| 1 Chronicles | [[LXX.1Chr.29.4\|29:4]] |
+| Ezekiel | [[LXX.Ezek.28.18\|28:18]] · [[LXX.Ezek.45.19\|45:19]] |
 | Matthew | [[Matt.12.6\|12:6]] |
 | Mark | [[Mark.13.3\|13:3]] |
 | Acts | [[Acts.4.1\|4:1]] · [[Acts.19.27\|19:27]] |

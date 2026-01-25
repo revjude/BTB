@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>command,</b> [<a href="javascript:void(0)" title=" LXX.Ps.118.91, 2nd c.BC: Polybius Historicus 4.19.10, 1st c.BC: Philodemus Gadarensis Epigrammaticus “Herc.” 1251.20, “Po.” 2.48 (\_plural\_)">LXX+2nd c.BC+</a>]; <b>testamentary disposition,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.87.5 ">Refs 2nd c.BC+</a>]; <b>compact,</b> [<a href="javascript:void(0)" title=" [prev. author] 8.16.12. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>imperial constitution,</b> <span class='asgreek'>θεῖαι</span> <span class='asgreek'>δ</span>. Wilcken[<a href="javascript:void(0)" title=" “Chr.” 41 iii 20 (3rd c.AD)">Refs 3rd c.AD+</a>]; <span class='asgreek'>κατὰ</span> <span class='asgreek'>διάταξιν</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Ἁδριανοῦ</span> [<a href="javascript:void(0)" title=" “BGU” 1022.9 (2nd c.AD)">Refs 2nd c.AD+</a>]; <span class='asgreek'>νεαραὶ</span> <span class='asgreek'>δ</span>., title of Justinian's Novels; of the <b>decree</b> of the <b>praefectus Aegypti,</b> Wilcken[<a href="javascript:void(0)" title=" “Chr.” 27.10 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.118.91]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.118.91]]
 </sub></small>

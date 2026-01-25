@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of doves, <b>coo</b>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 5.89 ">Refs 2nd c.AD+</a>]. (Cf. Sanskrit <i>ga[ndot]gūyati</i> 'utter cries of joy'.)
 
-<small><sub>LSJ Scripture Refs: [[Num.14.29]] ☩ [[Matt.20.11]] ☩ [[John.6.41]] ☩ [[Num.11.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.14.29]] ☩ [[Matt.20.11]] ☩ [[John.6.41]] ☩ [[LXX.Num.11.1]]
 </sub></small>

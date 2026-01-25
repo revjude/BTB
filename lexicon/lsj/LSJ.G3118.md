@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>dwelling a long time</b>, [<a href="javascript:void(0)" title=" LXX.Exod.20.12, +others ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>long-lived,</b> [<a href="javascript:void(0)" title="NT.Eph.6.3; βοῦς 3rd c.AD: Porphyrius Tyrius Philosophus “Vita Pythagorae - Porphyrii Opuscula” 24 (\_superlative\_). ">NT+3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.20.12]] ☩ [[Eph.6.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.20.12]] ☩ [[Eph.6.3]]
 </sub></small>

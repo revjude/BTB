@@ -6,5 +6,5 @@
  <b>smear with pitch,</b> [<a href="javascript:void(0)" title=" LXX.Gen.6.14.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.6.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.6.14]]
 </sub></small>

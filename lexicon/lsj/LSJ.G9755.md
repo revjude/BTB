@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of any loud noise, <b>thunder,</b> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Theodotion LXX.Job.39.19. ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Amos.6.7]] ☩ [[Job.39.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.6.7]] ☩ [[LXX.Job.39.19]]
 </sub></small>

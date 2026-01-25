@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'>σ</span>. <span class='asgreek'>τὴν</span> <span class='asgreek'>καρδίαν</span> <span class='asgreek'>τινός</span> <b>harden</b> his heart, [<a href="javascript:void(0)" title=" LXX.Exod.7.3, +others, NT.Heb.3.8,cf. NT.Rom.9.18 ">LXX+NT</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" LXX.Sir.30.12. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.7.3]] ☩ [[Heb.3.8]] ☩ [[Rom.9.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.7.3]] ☩ [[Heb.3.8]] ☩ [[Rom.9.18]]
 </sub></small>

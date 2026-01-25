@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>festival on the tenth day after birth,
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>δεκάτα</span>· <span class='asgreek'>τάξις</span>, <span class='asgreek'>ἄθροισμα</span>, <span class='asgreek'>καὶ</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>εἴκοσιν</span> <span class='asgreek'>ἁρμάτων</span> <span class='asgreek'>τάξις</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <span class='asgreek'>δέκατον</span>, <span class='asgreek'>τό</span>, <b>tenth part,</b> [<a href="javascript:void(0)" title=" LXX.Lev.23.13, 17 (\_plural\_). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.23.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.23.13]]
 </sub></small>

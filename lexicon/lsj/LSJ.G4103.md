@@ -18,5 +18,5 @@ $\quad$ ****<b>\_\_C</b> <i>adverb</i> <span class='asgreek'>πιστῶς</span
 $\quad$ $\quad$ $\quad$<b>\_\_C.2</b> <b>persuasively</b>, in <i>comparative</i>, <span class='asgreek'>πιστότερον</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>ἀληθέστερον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 3.3.4 ">Refs 5th c.BC+</a>]; <b>credibly, demonstrably</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Epinomis” 983e ">Refs 5th c.BC+</a>]; <b>unmistakably</b>, <span class='asgreek'>κριθῆναι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 9.857. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_C.3</b> <b>with disposition to believe</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 34.49 ">Refs 4th c.BC+</a>]: <i>comparative</i>, <span class='asgreek'>πιστότερον</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἐκείνους</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>ὑμᾶς</span> <span class='asgreek'>αὐτοὺς</span> <span class='asgreek'>διακείμενοι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 18.15. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.59]] ☩ [[Acts.16.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.59]] ☩ [[Acts.16.1]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>knave</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 2.40, LXX.Prov.26.22, 2nd c.AD: Galenus Medicus 14.648; γόης τις ἢ Κ. λόγων “Comica Adespota” 1307; οἱ Κέρκωπες or Κερκώπων ἀγορά, at Athens, “Knavesmarket”, 3rd c.AD(?): Diogenes Laertius 9.114, 12th c.AD: Eustathius Episcopus Thessalonicensis 1430.35. ">LXX+4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>long-tailed ape</b>, [<a href="javascript:void(0)" title="Manil. 4.668. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.26.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.26.22]]
 </sub></small>

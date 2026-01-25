@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> with <i>genitive</i>, <span class='asgreek'>
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>ἡ</span>. <span class='asgreek'>χρὴ</span> <span class='asgreek'>φλεβοτομεῖν</span> <b>in which case</b>.., [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus “Synopsis” 6.13. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> after Verbs of knowing or remembering, <span class='asgreek'>οὐ</span> <span class='asgreek'>μνημονεύεις</span>.. <span class='asgreek'>ἡνίκα</span>..; [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 1273; οἶδ᾽ ἡνίκ᾽ Αἴας εἷλκε Κασάνδραν 5th c.BC: Euripides Tragicus “Troades” 70, compare 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 815. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.40.36]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.40.36]]
 </sub></small>

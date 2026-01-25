@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>part, separate, divide</b>, <s
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>σχίζειν</span> <span class='asgreek'>γάλα</span> <b>make</b> milk <b>curdle</b>, i. e. <b>separate</b> the whey from the curds, [<a href="javascript:void(0)" title=" [prev. author] 2.70; compare σχίσις 2. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i> of <b>divided</b> opinions, <span class='asgreek'>σφεων</span> <span class='asgreek'>ἐσχίζοντο</span> <span class='asgreek'>αἱ</span> <span class='asgreek'>γνῶμαι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.219, compare 5th-6th c.BC: Xenophon Historicus “Symposium” 4.59; ἐσχίσθησαν ταῖς γνώμαις 2nd c.AD: Galenus Medicus 16.728 ">Refs 5th c.BC+</a>]. (Cf. Latin <i>scindo</i>, Gothic <i>skaidan</i> 'separate', etc.)
 
-<small><sub>LSJ Scripture Refs: [[Zech.14.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.14.4]]
 </sub></small>

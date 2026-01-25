@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of a vine, <b>bear sour grapes,</b> [<a href="javascript:void(0)" title=" LXX.Isa.18.5. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> in <i>middle</i>, <span class='asgreek'>Σικελὸς</span> <span class='asgreek'>ὀμφακίζεται</span> the Sicilian <b>steals sour grapes,</b> proverbial of one who will steal anything however worthless, [<a href="javascript:void(0)" title=" 5th c.BC: Epicharmus Comicus 239, compare 5th c.AD: Aristaenetus Rhetor 2.7. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.18.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.18.5]]
 </sub></small>

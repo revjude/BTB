@@ -6,5 +6,5 @@
  <b>do</b> a thing <b>thrice</b> or <b>for the third time,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.20.19, 20 ">LXX</a>]; compare <span class='asgreek'>==τρισσεύω==όω</span>.
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.20.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.20.19]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>made of groats</b> or <b>coarse meal,</b> <span class='asgreek'>ἄρτος</span> [<a href="javascript:void(0)" title=" 1st c.BC: Trypho Grammaticus cited in 2nd c.AD: Athenaeus Epigrammaticus 3.109c, Philistio cited in 2nd c.AD: Athenaeus Epigrammaticus 3.115d, LXX.Gen.40.16. ">LXX+1st c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.40.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.40.16]]
 </sub></small>

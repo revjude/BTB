@@ -6,5 +6,5 @@
  <b>common talk, by-word</b>, [<a href="javascript:void(0)" title=" LXX.Job.17.6. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.17.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.17.6]]
 </sub></small>

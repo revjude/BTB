@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>go to war with,</b> [<a href="javascript:void(0)" title=" LXX.Deut.20.10, +others ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.20.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.20.10]]
 </sub></small>

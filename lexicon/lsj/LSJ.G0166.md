@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> = Latin <i>saecularis</i>, [<a href="javascr
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>adverb</i> -<span class='asgreek'>ίως</span> <b>eternally</b>, <span class='asgreek'>νοῦς</span> <span class='asgreek'>ἀκίνητος</span> <span class='asgreek'>αἰ</span>. <span class='asgreek'>πάντα</span> <span class='asgreek'>ὤν</span>[<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “Inst.” 172, compare 6th c.AD: Simplicius Philosophus “in Epictetum commentaria” p.77D.">Refs 5th c.AD+</a>]; <b>perpetually</b>, <span class='asgreek'>μισεῖν</span> [<a href="javascript:void(0)" title="Scholia 5th c.BC: Euripides Tragicus “Alcestis” 338. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>αἰώνιον</span>, <span class='asgreek'>τό</span>, ={<span class='asgreek'>ἀείζωον</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>μέγα</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.88.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.9.12]] ☩ [[Rom.16.26]] ☩ [[Gen.9.16]] ☩ [[Exod.27.21]] ☩ [[Matt.25.46]] ☩ [[Matt.25.46]] ☩ [[2Tim.1.9]] ☩ [[2Cor.4.18]]
+<small><sub>LSJ Scripture Refs: [[Heb.9.12]] ☩ [[Rom.16.26]] ☩ [[LXX.Gen.9.16]] ☩ [[LXX.Exod.27.21]] ☩ [[Matt.25.46]] ☩ [[Matt.25.46]] ☩ [[2Tim.1.9]] ☩ [[2Cor.4.18]]
 </sub></small>

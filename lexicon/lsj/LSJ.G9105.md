@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>umbel</b> of umbelliferous plants, [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> perhaps <b>arbour</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 15.1.21. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> perhaps <i>diminutive</i> of <span class='asgreek'>σκιά</span>, <b>shade</b>, [<a href="javascript:void(0)" title=" [prev. author] 3.4.17.—The Mss. wrongly give σκιάδιον in 5th c.BC: Pherecrates Comicus, 4th-3rd c.BC: Theophrastus Philosophus, 1st c.AD: Dioscorides (Dioscurides) Medicus 8th c.BC: Ilias Homerus Epicus “Illiad” cc., 4th c.BC: Demetrius Phalereus Historicus “fragment” 5 1st c.AD: Josephus Historicus, etc. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.66.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.66.20]]
 </sub></small>

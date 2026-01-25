@@ -1,0 +1,29 @@
+**LXX Psalm 97:8** 
+<small><sub>**LXX:**</sub></small>
+Zion heard and was glad; and the daughters of Judea exulted because of  your judgments, O <span class="smallcaps">lord</span>. 
+<small><sub>**KJV:**</sub></small>
+Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD.
+<small><sub>**BSB:**</sub></small>
+Zion hears and rejoices, and the towns of Judah exult because of Your judgments, O LORD.<small><sub>**MT:**</sub></small>
+[[Ps.97.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.7|<< Psalm 97:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.9|Psalm 97:9 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| heard | <span class="asgreek">ήκουσε <sup><small><small>[[G0191]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| was glad | <span class="asgreek">ευφράνθη <sup><small><small>[[G2165]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">η <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| Zion | <span class="asgreek">Σιών <sup><small><small>[[G4622]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| exulted | <span class="asgreek">ηγαλλιάσαντο <sup><small><small>[[G0021]]</small></small></sup> </span> |
+| the | <span class="asgreek">αι <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| daughters | <span class="asgreek">θυγατέρες <sup><small><small>[[G2364]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">της <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| of Judea | <span class="asgreek">Ιουδαίας <sup><small><small>[[G2449]]</small></small></sup> </span> |
+| because of | <span class="asgreek">ένεκεν <sup><small><small>[[G1752]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| your judgments, | <span class="asgreek">κριμάτων <sup><small><small>[[G2917]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| O <span class="smallcaps">lord</span>. | <span class="asgreek">κύριε <sup><small><small>[[G2962]]</small></small></sup> </span> |
+[[Ps.97.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.7|<< Psalm 97:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.9|Psalm 97:9 >>]]</td></tr></table>
+
+

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>weave by subtle art</b>, <span class='asgreek'>ἐ</span>. <span class='asgreek'>αἰνίγματα</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 610; ἐ. πλοκάς 5th c.BC: Euripides Tragicus “Iphigenia Aulidensis” 936. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.28.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.28.18]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>sweeper, duster</b> made of palm-leaves, <span class='asgreek'>κ</span>. <span class='asgreek'>φοινίκων</span> [<a href="javascript:void(0)" title=" LXX.Lev.23.40, “BGU” 1120.17 (1st c.BC). ">LXX+1st c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.23.40]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.23.40]]
 </sub></small>

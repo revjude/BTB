@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>upward inclination,</b> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 56. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>upward motion,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Athenaeus Mechanicus 26.2.">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.72.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.72.4]]
 </sub></small>

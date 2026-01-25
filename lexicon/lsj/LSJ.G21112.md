@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἵππων</span> <span class='asgreek'>εἶδος</span> <span class='asgreek'>οἱ</span> <span class='asgreek'>σ</span>. (perhaps <b>mole-coloured</b>), [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus: compare σπαλακός. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>meadow-saffron, Colchicum parnassicum</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 1.6.11 (assuming variant). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.11.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.11.30]]
 </sub></small>

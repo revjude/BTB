@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>avenge</b>, <span class='asgreek'>ἀπό</span> <span class='asgreek'>τινος</span>[<a href="javascript:void(0)" title="LXX.Jer.15.15. (Written ἀθο- before ω in codices of LXX )">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Nah.1.3]] ☩ [[Prov.6.29]] ☩ [[Jer.15.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Nah.1.3]] ☩ [[LXX.Prov.6.29]] ☩ [[LXX.Jer.15.15]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>a little handle,</b> <span class='asgreek'>προχύτου</span> [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “(Spiritalia) Pneumatica” 1.9; χωρὶς ὠτίων ποτήριον 5th c.BC: Theopompus Comicus 31, compare 6th c.AD: Aëtius Medicus 1.138. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> ={<span class='asgreek'>ὠτάριον</span>} 111, [<a href="javascript:void(0)" title=" 1st c.AD: Xenocrates Medicus cited in 4th c.AD: Oribasius Medicus 2.58.130 ">Refs 1st c.AD+</a>]; gloss on{<span class='asgreek'>τήθη</span>}, ={<span class='asgreek'>λεπὰς</span> <span class='asgreek'>ἀγρία</span>}, [<a href="javascript:void(0)" title="Scholia 2nd c.BC: Nicander Epicus “Alexipharmaca” 396. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.9.15]] ☩ [[Matt.26.51]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.9.15]] ☩ [[Matt.26.51]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>severe fit of a disease, paroxysm</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἀφορισμοί” 1.11, 12, 2nd c.AD: Galenus Medicus 17(2).387, etc. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.39.37]] ☩ [[Acts.15.39]] ☩ [[Heb.10.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.39.37]] ☩ [[Acts.15.39]] ☩ [[Heb.10.24]]
 </sub></small>

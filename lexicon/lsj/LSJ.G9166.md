@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> rarely with <i>accusative</i> <i>of things</i>, <b>take away</b>, <span class='asgreek'>μισθόν</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 9.174.12 (6th c.AD: Palladas Epigrammaticus)">Refs 6th c.AD+</a>]: —<i>passive</i>, <b>to have taken from one</b>, <span class='asgreek'>πλούτου</span>.. <span class='asgreek'>κτῆσιν</span> <span class='asgreek'>ἐστερημένῃ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 960 (though the \_accusative\_ may be construed with στένειν); φασγάνῳ βίον στερείς 5th c.BC: Euripides Tragicus “Helena” 95. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.24.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.24.11]]
 </sub></small>

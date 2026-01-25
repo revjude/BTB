@@ -6,5 +6,5 @@
  <b>one who speaks riddles</b>, [<a href="javascript:void(0)" title=" LXX.Num.21.27.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.21.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.21.27]]
 </sub></small>

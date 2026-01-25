@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>π</span>. <span class='asgreek'>ἀνὰ</span> <span class='asgreek'>μέσον</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>κτηνῶν</span> <b>put a mark of distinction</b> between, <b>separate</b>,[<a href="javascript:void(0)" title="LXX.Exod.9.4; π. τὴν γῆν [prev. work] 8.22. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.59]] ☩ [[Exod.9.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.59]] ☩ [[LXX.Exod.9.4]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>rights of kin, right of inheritance</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 1661; προτέροις τοῖς ἄρρεσι τῶν θηλειῶν τὴν ἀ. πεποίηκε 4th c.BC: Isaeus Orator 7.20; νόθῳ μηδὲ νόθῃ εἶναι ἀ. [prev. author] 6.47, Legal cited in 4th c.BC: Demosthenes Orator 43.51; ταῖς ἀ. πρότεροι ὄντες τινός 4th c.BC: Isaeus Orator 7.44, compare 4th c.BC: Demosthenes Orator 44.2. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>exclusion by descent</b>, [<a href="javascript:void(0)" title=" LXX.Neh.13.29.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.13.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.13.29]]
 </sub></small>

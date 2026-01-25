@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>discharge</b> a projectile, [<a href="javascrip
 $\quad$ $\quad$<b>\_\_IV</b> <b>destroy,</b> <span class='asgreek'>ὀχυρώματα</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>πυρί</span> [<a href="javascript:void(0)" title=" LXX.4Ki.8.12. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>emit, display,</b> <span class='asgreek'>φαντασίαν</span> [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “Hypotyposis astronomicarum positionum” 5.72. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.13.26]] ☩ [[Luke.1.53]] ☩ [[Deut.24.4]] ☩ [[Gen.3.23]]
+<small><sub>LSJ Scripture Refs: [[Acts.13.26]] ☩ [[Luke.1.53]] ☩ [[LXX.Deut.24.4]] ☩ [[LXX.Gen.3.23]]
 </sub></small>

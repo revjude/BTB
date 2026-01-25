@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <b>aqueduct</b> or <b>irrigatio
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>one who drinks much water, dropsical person,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 7.122. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> a plant, ={<span class='asgreek'>νυμφαία</span>}, [<a href="javascript:void(0)" title=" 4th c.AD(?): Apuleius Scriptor Botanicus “Herb.” 68. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.18.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.18.17]]
 </sub></small>

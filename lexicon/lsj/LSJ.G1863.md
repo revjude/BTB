@@ -28,5 +28,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>bring with one,</b> <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>bring over to oneself, win over,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>πλῆθος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.45; τινὰ εἰς εὔνοιαν 2nd c.BC: Polybius Historicus 7.14.4: with \_accusative\_ et ">Refs 5th c.BC+</a>]<i>infinitive</i>, <span class='asgreek'>ἐ</span>. <span class='asgreek'>τινὰς</span> <span class='asgreek'>ξυγχωρῆσαι</span> <b>induce</b> them to concede, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.41. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>put in place,</b> <span class='asgreek'>λίθον</span> [<a href="javascript:void(0)" title=" “Princeton Exp.Inscription” 1175 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.10.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.10.24]]
 </sub></small>

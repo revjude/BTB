@@ -6,5 +6,5 @@
  <b>to have compassion</b>, [<a href="javascript:void(0)" title=" LXX.Prov.17.5. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.17.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.17.5]]
 </sub></small>

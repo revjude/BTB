@@ -8,5 +8,5 @@ $\quad$ ****<b>\_\_B</b>[<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD:
 $\quad$ $\quad$ $\quad$<b>\_\_B.2</b> ={<span class='asgreek'>κονιορτός</span>}, <b>dust,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.18.38, +others, NT.Mark.6.11. ">LXX+NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.3</b> <span class='asgreek'>==χόος==</span> <span class='asgreek'>θανάτου</span> <b>the grave,</b> [<a href="javascript:void(0)" title=" LXX.Ps.21.16, compare 5th c.AD(?): Hesychius Legal icographus, 10th c.AD: Suidas Legal icographus ">LXX+5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.18.38]] ☩ [[Mark.6.11]] ☩ [[Ps.21.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.18.38]] ☩ [[Mark.6.11]] ☩ [[LXX.Ps.21.16]]
 </sub></small>

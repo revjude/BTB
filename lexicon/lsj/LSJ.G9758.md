@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>anointing,</b> [<a href="javascript:void(0)" title=" PPetr. 2p.72 (3rd c.BC), LXX.Exod.29.21, +others; φαρμάκων 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 2.14.3 (\_plural\_) ">LXX+3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>colouring, varnish, wash,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Musonius Philosophus “fragment” 19p.108H.(\_plural\_), 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 6.41 ">Refs 1st c.AD+</a>]; <b>colour-washing,</b> <span class='asgreek'>τῶν</span> <span class='asgreek'>σκαναμάτων</span> [<a href="javascript:void(0)" title=" “IG” 42(1).109 i 128 (Epid., 3rd c.BC),compare “Supp.epigram” 4.270 (Panamara, 1st c.BC(?)). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.29.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.29.21]]
 </sub></small>

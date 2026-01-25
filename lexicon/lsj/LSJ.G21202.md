@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_8</b> in Medicine texts, <b>accumulation of sedime
 $\quad$ $\quad$ $\quad$<b>\_\_9</b> in Medicine texts, <b>the pulse-beats taken collectively</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 9.279. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_10</b> <b>machine, apparatus</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus “Abhandlungen der Göttinger Gesellschaft der Wissenschaften (Phil.-hist. Klasse)” 138.13 ">Refs 2nd c.AD+</a>].--The word first occurs in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus and 5th-6th c.BC: Plato Philosophus, but is chiefly used in later Prose. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.1.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.1.10]]
 </sub></small>

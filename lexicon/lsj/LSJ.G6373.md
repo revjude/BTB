@@ -6,5 +6,5 @@
  <b>a prop</b> or <b>support,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 9, 16">Refs 5th c.BC+</a>]: <i>metaphorically</i>, <b>support, stay,</b> [<a href="javascript:void(0)" title=" LXX.Ps.17.18.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.17.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.17.18]]
 </sub></small>

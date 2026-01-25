@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>distort, pervert,<
 $\quad$ $\quad$<b>\_\_II</b> <b>turn aside, divert,</b> <span class='asgreek'>ἴχνος</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>πρόσθεν</span> <span class='asgreek'>φρενῶν</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 1017. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> obscene meaning, ={<span class='asgreek'>βινεῖν</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Eupolis Comicus 7 4th c.BC: Demosthenes Orator ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.32.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.5]]
 </sub></small>

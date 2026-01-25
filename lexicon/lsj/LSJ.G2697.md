@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>possession</b>, [<a href="javascript:void(0)" title=" LXX.Lev.25.25, LXX.Zech.11.14, +others, NT.Acts.7.5. ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>relation, attitude</b>, [<a href="javascript:void(0)" title=" κ. φιλικὴ πρὸς τῶν πέλας “Stoicorum Veterum Fragmenta” 3.24 ">Refs</a>].
 
-<small><sub>LSJ Scripture Refs: [[Lev.25.25]] ☩ [[Zech.11.14]] ☩ [[Acts.7.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.25.25]] ☩ [[LXX.Zech.11.14]] ☩ [[Acts.7.5]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be released</b> from an obligation, [<a href="javascript:void(0)" title=" “PEleph.” 19.8 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> mistranslation of Hebrew '<b>rp</b> 'break the neck', [<a href="javascript:void(0)" title=" LXX.Exod.13.13 ">LXX</a>]. -<span class='asgreek'>ών</span>, <span class='asgreek'>ῶνος</span>, <span class='asgreek'>ὁ</span>, ={<span class='asgreek'>ἀπόπατος</span>}[<a href="javascript:void(0)" title=" 2, LXX.2Kgs.10.27, “Anecdota Graeca - Bekker” 433. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.13.15]] ☩ [[Titus.2.14]] ☩ [[1Pet.1.18]] ☩ [[Exod.13.13]] ☩ [[2Kgs.10.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.13.15]] ☩ [[Titus.2.14]] ☩ [[1Pet.1.18]] ☩ [[LXX.Exod.13.13]] ☩ [[LXX.2Kgs.10.27]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>abrogate, cancel</b>, [<span class='asgreek'>διαθήκην</span>]
 
-<small><sub>LSJ Scripture Refs: [[Lam.3.4]] ☩ [[Heb.8.13]] ☩ [[Job.9.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lam.3.4]] ☩ [[Heb.8.13]] ☩ [[LXX.Job.9.5]]
 </sub></small>

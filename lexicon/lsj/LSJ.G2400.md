@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> in <i>indicative</i> of all ten
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> with questions, <span class='asgreek'>ἰ</span>., <span class='asgreek'>τί</span> <span class='asgreek'>ἔστι</span>; [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 825, “Eq.” 157. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> in repeating another's words quizzingly, as <span class='asgreek'>ἰδού</span> <span class='asgreek'>γ᾽</span> <span class='asgreek'>ἄκρατον</span> wine, <b>quotha</b>! [<a href="javascript:void(0)" title="[prev. work] 87 ">Refs</a>]; <span class='asgreek'>ἰ</span>. <span class='asgreek'>λέγειν</span>[<a href="javascript:void(0)" title=" [prev. work] 344; ἰδού γε κλέπτειν [prev. author] “Th.” 206, compare “Ec.” 136. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.27.1]] ☩ [[Luke.19.20]] ☩ [[Exod.4.14]] ☩ [[Gen.24.15]] ☩ [[Matt.27.51]] ☩ [[Luke.13.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.27.1]] ☩ [[Luke.19.20]] ☩ [[LXX.Exod.4.14]] ☩ [[LXX.Gen.24.15]] ☩ [[Matt.27.51]] ☩ [[Luke.13.16]]
 </sub></small>

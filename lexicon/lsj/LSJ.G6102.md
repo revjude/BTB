@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> of a horse, <b>not ridden,</b> [<a href="jav
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>ἄβατον</span>, <span class='asgreek'>τό</span>, a plant eaten pickled, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 6.623. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <span class='asgreek'>ἄ</span>. <span class='asgreek'>πόνος</span> a plague <b>that hinders walking,</b> i.e. gout, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Ocyp.” 36; ὑποδήματα 9th c.AD: Photius Legal icographus, etc., 10th c.AD: Suidas Legal icographus see at {ἀναξυρίδας}.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.29.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.29.17]]
 </sub></small>

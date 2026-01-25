@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>rest, calm</b>, [<a href="javascript:void(0)" title=" LXX.Isa.66.1">LXX</a>], +others; <b>place of rest</b>, [<a href="javascript:void(0)" title="LXX.Ps.94.11, +others; αἱ κ. τῶν πνευμάτων Theophrastus Philosophus [{4-3rd c.BC}] “de Ventis” 18 ">LXX+4-3rd c.BC+</a>]: <i>metaphorically</i>, <b>allaying</b>, [<a href="javascript:void(0)" title=" στάσεως 1st c.BC: Philodemus Gadarensis Epigrammaticus “Mus.” p.86 ">Refs 1st c.BC+</a>] K.
 
-<small><sub>LSJ Scripture Refs: [[Isa.66.1]] ☩ [[Ps.94.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.66.1]] ☩ [[LXX.Ps.94.11]]
 </sub></small>

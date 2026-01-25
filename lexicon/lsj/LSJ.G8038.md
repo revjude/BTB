@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>adjective</i>, <i>feminine</i> of <span class='asgreek'>κοῖλος</span>, <span class='asgreek'>νεφέλαι</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Signis Tempestatum” 51 (nisi to be read κηλ-); εὐνή 3rd-4th c.AD: Tryphiodorus Epicus 194. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.14.37]] ☩ [[Gen.14.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.14.37]] ☩ [[LXX.Gen.14.8]]
 </sub></small>

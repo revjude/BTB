@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> = <b>popina,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.24.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.24.20]]
 </sub></small>

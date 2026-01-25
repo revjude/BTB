@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>subdue</b> or <b>enchant by dancing</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Salt.” 22. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>dance vehemently</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 17.1.17. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Zech.12.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.12.10]]
 </sub></small>

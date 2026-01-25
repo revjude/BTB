@@ -6,5 +6,5 @@
  <b>mound</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.23.17. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.23.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.23.17]]
 </sub></small>

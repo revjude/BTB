@@ -18,5 +18,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>report, rumour,</b> [<a href="javascript:void(0)
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_IV.b</b> <b>message,</b> [<a href="javascript:void(0)" title=" Sammelb. 7252.21 (3rd-4th c.AD). ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>loud talk, bragging,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Gnomologium Vaticanum - Kleine Schriften” 45. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.20.18]] ☩ [[Ps.103.7]] ☩ [[Rev.1.15]] ☩ [[Gen.45.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.20.18]] ☩ [[LXX.Ps.103.7]] ☩ [[Rev.1.15]] ☩ [[LXX.Gen.45.16]]
 </sub></small>

@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>substance,</b> <span class='asgreek'>ἀναί�
 $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>μερόπων</span> <span class='asgreek'>φυή</span> <b>the race</b> of men, [<a href="javascript:void(0)" title=" “APl.” 4.183.7. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <b>produce</b> of a year, <b>harvest,</b> <span class='asgreek'>φ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἐνεστῶτος</span> <span class='asgreek'>ἔτους</span> [<a href="javascript:void(0)" title=" “BGU” 708.4 (2nd c.AD),compare “Pland.” 26.12 (1st c.AD), etc.">Refs 1st c.AD+</a>] —poetical and later Prose.
 
-<small><sub>LSJ Scripture Refs: [[Neh.4.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.4.7]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>cut out,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>γλῶσσαν</span> <span class='asgreek'>ἐκθερίξω</span> (<i>aorist</i> <i>subjunctive</i>) [<a href="javascript:void(0)" title=" “Anacreontea” 9.7. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.19.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.19.9]]
 </sub></small>

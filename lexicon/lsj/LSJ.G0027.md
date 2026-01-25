@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of persons, <b>beloved,</b> <span class='
 $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i> <b>-<span class='asgreek'>τῶς</span></b> <b>gladly, contentedly,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 735d, 4th c.BC: Demosthenes Orator 19.219, etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>just enough to content one, barely, scarcely,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Lysis” 218c; ἀ σωθῆναι 5th c.BC: Lysias Orator 6.45, compare 4th-3rd c.BC: Diphilus Comicus 89.2, etc.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.11.34]] ☩ [[Mark.12.6]] ☩ [[Rom.12.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.11.34]] ☩ [[Mark.12.6]] ☩ [[Rom.12.19]]
 </sub></small>

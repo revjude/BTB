@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>lifting,</b> hence, <b>removal,</b> of
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>going up, ascent, way up,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>Ἄλπεων</span>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.39.9, etc.; τὴν ἀ. ποιεῖσθαι 50.3. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>bubbling up,</b> <span class='asgreek'>πομφολύγων</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 936b1, 4th-3rd c.BC: Theophrastus Philosophus “de Igne” 16 ">Refs 4th c.BC+</a>]; of the Nile, <b>sources,</b> <span class='asgreek'>ἀμβολαί</span>[<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 4924 (from Philae).">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.5.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.5.13]]
 </sub></small>

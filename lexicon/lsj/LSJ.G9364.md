@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of the effect of severe cold on single limbs
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> of plants and trees, <b>to be blighted</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Juventute” 470a31, 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.14.4, etc. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>to have spasms</b> or <b>convulsions</b>, <span class='asgreek'>ἀπορεῖν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>τῷ</span> <span class='asgreek'>δεινῷ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Cratinus Comicus 342, compare 5th c.BC: Pherecrates Comicus 80. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.26.16]] ☩ [[Deut.28.32]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.26.16]] ☩ [[LXX.Deut.28.32]]
 </sub></small>

@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_7</b> <b>striking, minting</b>, <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_8</b> <b>divorce</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Aquila LXX.Deut.24.3 (1). ">LXX+2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>κόπος</span>} 11, <span class='asgreek'>φλοίσβου</span> <span class='asgreek'>μετὰ</span> <span class='asgreek'>==κοπή==ν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 479 codices 12th c.AD: Eustathius Episcopus Thessalonicensis (sed to be read κόπον). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.10.20]] ☩ [[Heb.7.1]] ☩ [[Deut.24.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.10.20]] ☩ [[Heb.7.1]] ☩ [[LXX.Deut.24.3]]
 </sub></small>

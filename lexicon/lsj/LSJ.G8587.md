@@ -6,5 +6,5 @@
  <b>antiquity</b>, in <i>plural</i>, [<a href="javascript:void(0)" title=" LXX.Job.36.28, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.36.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.36.28]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> in <i>middle</i>, ={<span class='asgreek'>καρδιουργέω</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus, “Etymologicum Magnum” 492.12. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.4.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.4.9]]
 </sub></small>

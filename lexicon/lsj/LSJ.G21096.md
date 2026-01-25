@@ -7,5 +7,5 @@ spelling of: <small>[[G9087]]</small>
  = <span class='asgreek'>σιτοδοσία</span>, [<a href="javascript:void(0)" title=" LXX.Neh.9.15 ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Neh.9.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.9.15]]
 </sub></small>

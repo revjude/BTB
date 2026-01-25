@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>terrifying</b>, <span class='asgreek'>μήνυσις</span> [<a href="javascript:void(0)" title=" “PSI” 6.684.17 (4th-5th c.AD). ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.29.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.29.16]]
 </sub></small>

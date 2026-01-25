@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>state</b> or <b>community,</b> <span 
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>rights of citizenship,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 718, 4th c.BC: Demosthenes Orator 21.106. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>πόλιν</span> <span class='asgreek'>παίζειν</span>, a game resembling backgammon, [<a href="javascript:void(0)" title=" 5th c.BC: Cratinus Comicus 56 ">Refs 5th c.BC+</a>], perhaps alluded to in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 422e ">Refs 5th c.BC+</a>]. (Cf. Sanskrit <i>pūr,</i> Lithuanian <i>pilìs</i> 'fortrees'.)
 
-<small><sub>LSJ Scripture Refs: [[Neh.11.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.11.1]]
 </sub></small>

@@ -33,5 +33,5 @@ $\quad$ $\quad$<b>\_\_C.IV</b> <b>to be annulled,</b> [<a href="javascript:void(
 $\quad$ $\quad$<b>\_\_C.V</b> <span class='asgreek'>ἀπολελυμένος</span>, <span class='asgreek'>η</span>, <span class='asgreek'>ον</span>, <b>absolute,</b> especially in Grammars, [<a href="javascript:void(0)" title=" 2nd c.BC: Dionysius Thrax Grammaticus 636.15, 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 97.20, +others">Refs 2nd c.BC+</a>]: also, <b>general,</b> of meaning, [<a href="javascript:void(0)" title=" 4th c.AD(?): Olympiodorus Alchemista p.72B. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_C.VI</b> of metres, <b>irregular, without strophic responsion,</b> [<a href="javascript:void(0)" title=" 7th c.AD: Hephaestio Grammaticus “Poëm.” 5.">Refs 7th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.1.19]] ☩ [[Num.20.29]]
+<small><sub>LSJ Scripture Refs: [[Matt.1.19]] ☩ [[LXX.Num.20.29]]
 </sub></small>

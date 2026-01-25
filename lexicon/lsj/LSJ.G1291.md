@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>pay, render,</b> especially in kind, [<a 
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> <b>set apart,</b> <span class='asgreek'>τινὰ</span> <span class='asgreek'>ἑαυτῷ</span>[<a href="javascript:void(0)" title="LXX.3Ki.8.53; τὴν ἱερὰν γῆν “PRev.Laws” 36.7 (3rd c.BC),compare “PTeb.” 74.2 (2nd c.BC). ">LXX+3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>differ,</b> <span class='asgreek'>πρός</span> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 18.47.11. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.3.1]] ☩ [[Josh.1.19]] ☩ [[Mark.5.43]] ☩ [[Lev.5.4]] ☩ [[Lev.22.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.3.1]] ☩ [[LXX.Josh.1.19]] ☩ [[Mark.5.43]] ☩ [[LXX.Lev.5.4]] ☩ [[LXX.Lev.22.21]]
 </sub></small>

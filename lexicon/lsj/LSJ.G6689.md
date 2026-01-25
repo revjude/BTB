@@ -6,5 +6,5 @@
  <b>ox-goad</b>, [<a href="javascript:void(0)" title=" LXX.Eccl.12.11. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Eccl.12.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.12.11]]
 </sub></small>

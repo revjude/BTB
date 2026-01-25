@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>bar the passage of, stop</b>, <span class
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>middle</i> in <i>active</i> sense, [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Alexipharmaca” 191. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>stuff in</b>, <span class='asgreek'>φύλλα</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>ὀπάς</span> (variant{<span class='asgreek'>φύλλοις</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>ὀ</span>}.) [<a href="javascript:void(0)" title=" “Geoponica” 13.5.3">Refs</a>]; <span class='asgreek'>τινί</span> <span class='asgreek'>τι</span> variant in [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Theriaca” 79 (\_middle\_). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mic.5.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mic.5.1]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>having received mercy</b>, [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>showing pity</b>, <span class='asgreek'>ἐ</span>. <span class='asgreek'>δάκρυον</span> a tear <b>of pity</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 8.531, 16.219 ">Refs 8th c.BC+</a>], Men.[same place]; <span class='asgreek'>οὐδὲν</span> <span class='asgreek'>ἐλεινόν</span> no <b>feeling of pity</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 59a, compare “R.” 606b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> <span class='asgreek'>ἐλεεινῶς</span>, <i>Attic dialect</i> <span class='asgreek'>ἐλεινῶς</span>, <b>pitiably</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Philoctetes” 870, 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 1063; ἐλεινῶς διακεῖσθαι 4th c.BC: Demosthenes Orator 19.81: \_neuter\_ \_plural\_ ἐλεεινά">Refs 5th c.BC+</a>] as <i>adverb</i>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 2.314. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.9.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.9.23]]
 </sub></small>

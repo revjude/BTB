@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> <span class='asgreek'>ἐν</span> <span 
 $\quad$ $\quad$ $\quad$<b>\_\_IV.4</b> in local sense, <b>district,</b> [<a href="javascript:void(0)" title=" POxy. 2113.25 (4th c.AD). ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.5</b> in Neo-Platonism, <b>by way of species</b> or <b>element</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>μέρει</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὡς</span> <span class='asgreek'>στοιχεῖον</span> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 193 ">Refs 5th c.AD+</a>]; <span class='asgreek'>οὕτω</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>μέγας</span> <span class='asgreek'>Ἰάμβλιχος</span> <span class='asgreek'>ἐνόησεν</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἓν</span> <span class='asgreek'>ὂν</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>μέρει</span> <span class='asgreek'>ἑκάτερον</span>[<a href="javascript:void(0)" title=" [prev. work] 176; πάντα μὲν ἅμα, ἐν μέρει δὲ ἕκαστον 3rd c.AD: Plotinus Philosophus 3.6.18. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.13.9]] ☩ [[1Kgs.6.8]] ☩ [[Num.20.16]] ☩ [[2Cor.2.5]]
+<small><sub>LSJ Scripture Refs: [[1Cor.13.9]] ☩ [[LXX.1Kgs.6.8]] ☩ [[LXX.Num.20.16]] ☩ [[2Cor.2.5]]
 </sub></small>

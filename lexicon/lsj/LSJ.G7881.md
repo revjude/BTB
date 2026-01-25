@@ -6,5 +6,5 @@
  <b>end, goal</b>, [<a href="javascript:void(0)" title=" LXX.Ps.18.7, Scholia 5th-6th c.BC: Aristophanes Comicus “Ra.” 1026; κ. σκέψεως Scholia 5th c.BC: Euripides Tragicus “Hec.” 744 ">LXX+5th c.BC+</a>]; <b>result</b>, [<a href="javascript:void(0)" title=" “PSI” 6.698.5 (4th c.AD). ">Refs 4th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.18.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.18.7]]
 </sub></small>

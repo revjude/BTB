@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>transitive</i>, <b>make foolish</b> or <b>vain,</b> <i>falsa lectio</i> in [<a href="javascript:void(0)" title=" 2nd c.AD: Aquila LXX.2Kgs.15.31.">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.15.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.15.31]]
 </sub></small>

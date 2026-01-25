@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>deceive</b>, [<a href="javascript:void(0)" title=" ἕκαστος κατὰ τοῦ φίλου -παίξεται Vetus Testamentum Graece redditum LXX.Jer.9.5(4) ">LXX</a>]. 
 $\quad$ $\quad$<b>\_\_II</b> <i>middle</i> in sense of <i>active</i>, <span class='asgreek'>ἐπί</span> <span class='asgreek'>τινι</span> <span class='asgreek'>πράξει</span> <span class='asgreek'>τινῶν</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus “Fig.” p.92S. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.9.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.9.5]]
 </sub></small>

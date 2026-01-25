@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> with <i>genitive</i> <i>person</i>, [<a h
 $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> <b>disobey</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>θεοῦ</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 1.10.4: \_absolutely\_, LXX.Isa.65.12, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 1.1.4, 2nd c.AD: Lucianus Sophista “Sat.” 10 ">LXX+1st c.AD+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 6.7.4. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.4</b> <b>pretend not to hear</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Philopoemen” 16, Luc “Jud.Voc.” 2. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.5.36]] ☩ [[Esth.3.3]] ☩ [[Matt.18.17]] ☩ [[Isa.65.12]]
+<small><sub>LSJ Scripture Refs: [[Mark.5.36]] ☩ [[LXX.Esth.3.3]] ☩ [[Matt.18.17]] ☩ [[LXX.Isa.65.12]]
 </sub></small>

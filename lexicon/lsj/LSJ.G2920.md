@@ -16,5 +16,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>event, issue</b>, <span class='asgreek'>κρί
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>turning point</b> of a disease, <b>sudden change</b> for better or worse, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “VM” 19 (\_plural\_), 2nd c.AD: Galenus Medicus 9.550, etc.; κ. ξύντομος ἐπὶ τὸ κάκιον 5th c.BC: Hippocrates Medicus “περὶ κρισίων” 34, compare 2nd c.AD: Galenus Medicus 18(2).231. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> middle of the spinal column, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.177. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.2.36]] ☩ [[Matt.10.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.2.36]] ☩ [[Matt.10.15]]
 </sub></small>

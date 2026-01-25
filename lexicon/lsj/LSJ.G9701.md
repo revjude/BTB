@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <span class='asgreek'>χ</span>. <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>Ἰερουσαλήμ</span> <b>raise a barricade</b> against it, <b>besiege</b> it, [<a href="javascript:void(0)" title=" LXX.Jer.39.2. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>prop vines with stakes,</b> [<span class='asgreek'>ἄμπελον</span>] [<a href="javascript:void(0)" title=" “PCair.Zen.” 229 (3rd c.BC),compare “Geoponica” 5.27.1; βλαστόν “PSI” 6.624.14 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.39.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.39.2]]
 </sub></small>

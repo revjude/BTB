@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>sterile summer fruit of the cultivated fig,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 12.133. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>sterile male inflorescence of the caprifig,</b> breeding <span class='asgreek'>ψῆνες</span>, which fertilize <span class='asgreek'>σῦκα</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.193. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.2.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.2.13]]
 </sub></small>

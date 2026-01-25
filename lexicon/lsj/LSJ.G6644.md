@@ -6,5 +6,5 @@
  <b>of deep,</b> i.e. <b>hollow, voice,</b> [<a href="javascript:void(0)" title=" LXX.Isa.33.19. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.33.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.33.19]]
 </sub></small>

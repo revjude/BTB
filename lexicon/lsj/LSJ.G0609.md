@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>abstract</b> an idea or word from its con
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τινὰ</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τόπου</span> <b>beat off from</b> a strong place, of soldiers, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 3.4.39, 4.2.10. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, <b>smite the breast in mourning</b>: with <i>accusative</i>, <b>mourn for,</b> <span class='asgreek'>νεκρόν</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Troades” 628.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.23.1]] ☩ [[Gal.5.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.23.1]] ☩ [[Gal.5.12]]
 </sub></small>

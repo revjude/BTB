@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <i>substantive</i>, <span class='asgreek'>δίδ�
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>the testicles,</b> [<a href="javascript:void(0)" title=" LXX.Deut.25.11, “Anthologia Graeca” 5.125 (1st c.BC: Philodemus Gadarensis Epigrammaticus): \_sing.\_, 3rd c.BC: Herophilus Medicus cited in 2nd c.AD: Galenus Medicus “de Usu Partium” 14.11. ">LXX+3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>ovaries,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Herophilus Medicus [same place], 2nd c.AD: Soranus Medicus 1.12. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.8.29]] ☩ [[Deut.25.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.8.29]] ☩ [[LXX.Deut.25.11]]
 </sub></small>

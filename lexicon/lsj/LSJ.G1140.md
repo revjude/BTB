@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>inferior divine being,</b> <span class='asgreek'>μεταξὺ</span> <span class='asgreek'>θεοῦ</span> <span class='asgreek'>τε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>θνητοῦ</span> [<a href="javascript:void(0)" title=" [prev. author] “Smp.” 202e; καινὰ δ. εἰσφέρειν 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.1.2, 5th-6th c.BC: Plato Philosophus “Apologia” 24c, cf. Vett. Val. 67.5, etc.">Refs 5th c.BC+</a>]; applied to the <b>'genius'</b> of Socrates, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.1.2, 5th-6th c.BC: Plato Philosophus “Apologia” 40a, “Tht.” 151a, “Euthphr.” 3b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>evil spirit,</b> <span class='asgreek'>δ</span>. <span class='asgreek'>φαῦλα</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 2.338, cf. LXX.Deut.32.17, LXX.Tob.3.8, NT.Matt.7.22, +others, “PMag.Lond.” 1.46.120 (4th c.AD). ">NT+3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.32.17]] ☩ [[Matt.7.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.17]] ☩ [[Matt.7.22]]
 </sub></small>

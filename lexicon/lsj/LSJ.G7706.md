@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>remedy</b>, [<a href="javascript:void(0)"
 $\quad$ $\quad$<b>\_\_II</b> <i>plural</i>,= <span class='asgreek'>ἴατρα</span> 1, <b>doctor's fee, expense of a cure</b>, [<a href="javascript:void(0)" title=" LXX.Exod.21.10, 2nd c.AD(?): Pollianus Epigrammaticus 4.177, 6.186. ">LXX+2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> ={<span class='asgreek'>ἴατρα</span>} [<a href="javascript:void(0)" title=" 11, -εῖα θεοῖς ἐπηκόοις Roussel “Cultes Egyptiens” 94, +others (Delos, 2nd-1st c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.21.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.21.10]]
 </sub></small>

@@ -20,13 +20,13 @@ $\quad$ <span class="asbullet"><span class="asbold">6.</span> Seq. <span class="
 $\quad$ <span class="asbullet"><span class="asbold">7.</span> C. adv.: [[Matt.19.20|Mt 19:20]], [[Mark.4.26|Mk 4:26]], [[Luke.18.11|Lk 18:11]], al.</span>
 $\quad$ <span class="asbullet"><span class="asbold">8.</span> Ellipses;</span>
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(a)</span> of the copula (Bl., §30, 3): [[Matt.8.29|Mt 8:29]] [[Matt.24.32|24:32]], [[John.21.22|Jo 21:22]], [[John.21.23|23]], [[Heb.6.4|He 6:4]], al.;</span>
-$\quad$$\quad$ <span class="asbullet"><span class="asbold">(b)</span> of the predicate: <span class="asgreek">ἐγώ εἰμί</span>, [[Matt.14.27|Mt 14:27]], [[Mark.6.50|Mk 6:50]], al.; absol. (cf. [[Deut.32.39|De 32:39]]; <span class="ashebrew">אֲנִי הוּא</span> <small><sup>[[H0589]]</sup></small><small><sup>[[H1931]]</sup></small>), [[Mark.13.6|Mk 13:6]], [[John.4.26|Jo 4:26]], al. (cf. <span class="asgreek">ἄπ-, ἔν-, πάρ-, συμ-πάρ-, σύν-ειμι</span>).</span>
+$\quad$$\quad$ <span class="asbullet"><span class="asbold">(b)</span> of the predicate: <span class="asgreek">ἐγώ εἰμί</span>, [[Matt.14.27|Mt 14:27]], [[Mark.6.50|Mk 6:50]], al.; absol. (cf. [[LXX.Deut.32.39|De 32:39]]; <span class="ashebrew">אֲנִי הוּא</span> <small><sup>[[H0589]]</sup></small><small><sup>[[H1931]]</sup></small>), [[Mark.13.6|Mk 13:6]], [[John.4.26|Jo 4:26]], al. (cf. <span class="asgreek">ἄπ-, ἔν-, πάρ-, συμ-πάρ-, σύν-ειμι</span>).</span>
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Deuteronomy | [[Deut.32.39\|32:39]] |
+| Deuteronomy | [[LXX.Deut.32.39\|32:39]] |
 | Matthew | [[Matt.1.20\|1:20]] · [[Matt.2.13\|2:13]] · [[Matt.2.15\|2:15]] · [[Matt.5.3\|5:3]] · [[Matt.5.10\|5:10]] · [[Matt.5.13\|5:13]] · [[Matt.7.29\|7:29]] · [[Matt.8.29\|8:29]] · [[Matt.10.30\|10:30]] · [[Matt.13.19\|13:19]] · [[Matt.14.15\|14:15]] · [[Matt.14.27\|14:27]] · [[Matt.16.22\|16:22]] · [[Matt.16.28\|16:28]] · [[Matt.19.2\|19:2]] · [[Matt.19.5\|19:5]] · [[Matt.19.20\|19:20]] · [[Matt.21.25\|21:25]] · [[Matt.24.3\|24:3]] · [[Matt.24.32\|24:32]] · [[Matt.26.26\|26:26]] · [[Matt.27.46\|27:46]] |
 | Mark | [[Mark.1.22\|1:22]] · [[Mark.1.45\|1:45]] · [[Mark.2.1\|2:1]] · [[Mark.3.17\|3:17]] · [[Mark.4.26\|4:26]] · [[Mark.5.21\|5:21]] · [[Mark.5.42\|5:42]] · [[Mark.6.50\|6:50]] · [[Mark.7.2\|7:2]] · [[Mark.9.1\|9:1]] · [[Mark.10.8\|10:8]] · [[Mark.11.30\|11:30]] · [[Mark.12.7\|12:7]] · [[Mark.13.6\|13:6]] · [[Mark.14.2\|14:2]] · [[Mark.14.22\|14:22]] · [[Mark.14.24\|14:24]] · [[Mark.15.40\|15:40]] · [[Mark.15.42\|15:42]] |
 | Luke | [[Luke.1.7\|1:7]] · [[Luke.1.18\|1:18]] · [[Luke.1.19\|1:19]] · [[Luke.1.80\|1:80]] · [[Luke.3.23\|3:23]] · [[Luke.4.7\|4:7]] · [[Luke.4.31\|4:31]] · [[Luke.5.29\|5:29]] · [[Luke.9.32\|9:32]] · [[Luke.14.1\|14:1]] · [[Luke.16.19\|16:19]] · [[Luke.18.11\|18:11]] · [[Luke.21.23\|21:23]] · [[Luke.22.19\|22:19]] · [[Luke.23.9\|23:9]] |

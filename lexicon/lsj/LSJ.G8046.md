@@ -6,5 +6,5 @@
  <b>cohabitation</b>, [<a href="javascript:void(0)" title=" LXX.Lev.20.15. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.20.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.20.15]]
 </sub></small>

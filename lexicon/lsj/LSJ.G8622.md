@@ -6,5 +6,5 @@
  <b>talk at random</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 923.4, LXX.Ps.43.17, 2nd-3rd c.AD: Dio Cassius Historicus 69.4. ">LXX+4th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.43.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.43.17]]
 </sub></small>

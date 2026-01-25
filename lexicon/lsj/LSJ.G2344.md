@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>receptacle</b> for valuables, <b>safe,
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>offertory-box</b> (for its form, see [<a href="javascript:void(0)" title=" “IG” 9(2).590), “IG” 7.235.23 (Oropus, 4th c.BC), 12(3).443 (Thera, 3rd c.BC), “Jahrb.” 16.162 note 13 (Rhodes, 3rd c.BC), “Schwyzer” 89 (Argos, 3rd c.BC), “SIG” 1015.30 (Halic.), “PTeb.” 6.27 (2nd c.BC), “IG” 5(1).1390.89 (Andania, 1st c.BC)">Refs 4th c.BC+</a>]; <span class='asgreek'>σπονδεῖον</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>θ</span>. <b>coin-in-the-slot machine</b> which sold holy water, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “(Spiritalia) Pneumatica” 1.21. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>cavern</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ichn.” 276">Refs 5th c.BC+</a>]; <b>subterranean dungeon</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Philopoemen” 19. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.2.3]] ☩ [[Luke.6.45]] ☩ [[Deut.32.34]] ☩ [[Matt.2.11]]
+<small><sub>LSJ Scripture Refs: [[Col.2.3]] ☩ [[Luke.6.45]] ☩ [[LXX.Deut.32.34]] ☩ [[Matt.2.11]]
 </sub></small>

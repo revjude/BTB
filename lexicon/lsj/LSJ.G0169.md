@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.c</b> <b>ceremonially unclean</b>, of fo
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.d</b> <b>not sifted, containing impurities,</b> [<a href="javascript:void(0)" title=" PPetr. 2p.8 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>not fit for cleansing</b>, [<span class='asgreek'>φάρμακα</span>] <span class='asgreek'>ἑλκέων</span> <span class='asgreek'>ἀκαθαρτότερα</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “χρονίων νούσων θεραπευτικόν” 1.8.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.12.2]] ☩ [[Zech.13.2]] ☩ [[Matt.12.43]] ☩ [[Lev.5.2]] ☩ [[Acts.10.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.12.2]] ☩ [[LXX.Zech.13.2]] ☩ [[Matt.12.43]] ☩ [[LXX.Lev.5.2]] ☩ [[Acts.10.14]]
 </sub></small>

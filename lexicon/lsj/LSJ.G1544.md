@@ -27,5 +27,5 @@ $\quad$ $\quad$<b>\_\_IX</b> in Mathematics texts, <b>produce</b> a line, in <i>
 $\quad$ $\quad$ $\quad$<b>\_\_IX.2</b> <b>start counting,</b> in astronomical calculations, [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “Paraphrasis Ptolemaei Tetrabiblou” 252. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_X</b> <i>intransitive</i>, <b>go out, depart,</b> <span class='asgreek'>ἵν᾽</span> <span class='asgreek'>ἐκβάλω</span> <span class='asgreek'>ποδὶ</span> <span class='asgreek'>ἄλλην</span> <span class='asgreek'>ἐπ᾽</span> <span class='asgreek'>αἶαν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Electra” 96 ">Refs 5th c.BC+</a>]; of the sea, <b>break out of its bed,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 367b13 ">Refs 4th c.BC+</a>]; of a rivcr, <b>branch off,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 113a: \_metaphorically\_, ἐπειδὰν ἐς μειράκια ἐκβάλωσιν 2nd-3rd c.AD: Dio Cassius Historicus 52.26. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.9.34]] ☩ [[Mark.1.34]] ☩ [[Lev.21.7]]
+<small><sub>LSJ Scripture Refs: [[John.9.34]] ☩ [[Mark.1.34]] ☩ [[LXX.Lev.21.7]]
 </sub></small>

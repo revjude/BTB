@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <i>metaphorically</i>, <b>despise</b>, [<a href="javascript:void(0)" title=" “BGU” 15ii5 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>examine, contemplate</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Hymnus in Delum” 303; τὸ σεαυτοῦ κακόν 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.469b. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.18.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.18.16]]
 </sub></small>

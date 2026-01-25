@@ -17,5 +17,5 @@ $\quad$ $\quad$<b>\_\_VII</b> Geometry texts, <b>application</b>, <span class='a
 $\quad$ $\quad$ $\quad$<b>\_\_VII.2</b> <b>parabola</b>, because the square on the ordinate is equal to a rectangle whose height is equal to the abscissa <b>applied to</b> the parameter, [<a href="javascript:void(0)" title="[prev. work] 1.11. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_VIII</b> ={<span class='asgreek'>παράβολον</span>} (see. <span class='asgreek'>παράβολος</span>[<a href="javascript:void(0)" title=" III. 1), 4th c.BC: Aristoteles Philosophus “Oeconomica” 1348b13 (variants παράβολον, -βόλιον), “OGI” 41.5 (Samos, 3rd c.BC, \_plural\_). “PPetr.” 3p.232 (3rd c.BC, \_plural\_). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.12.1]] ☩ [[Luke.4.23]] ☩ [[Ps.43.14]]
+<small><sub>LSJ Scripture Refs: [[Mark.12.1]] ☩ [[Luke.4.23]] ☩ [[LXX.Ps.43.14]]
 </sub></small>

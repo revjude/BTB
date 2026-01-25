@@ -6,5 +6,5 @@
  <b>cover with brass</b> or <b>copper</b>, [<a href="javascript:void(0)" title=" LXX.Exod.27.6. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.27.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.27.6]]
 </sub></small>

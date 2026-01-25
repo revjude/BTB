@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to be a butcher</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Babrius Fabularum Scriptor 122.16. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>butcher, massacre</b>, [<a href="javascript:void(0)" title=" LXX.Lam.2.21. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lam.2.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lam.2.21]]
 </sub></small>

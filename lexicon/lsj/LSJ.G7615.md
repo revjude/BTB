@@ -6,5 +6,5 @@
  (<span class='asgreek'>ζώννυμι</span>) <b>girding on, cincture</b>, <span class='asgreek'>σάκκων</span> [<a href="javascript:void(0)" title=" LXX.Isa.22.12. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.22.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.22.12]]
 </sub></small>

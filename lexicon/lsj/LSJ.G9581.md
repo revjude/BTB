@@ -17,5 +17,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>draft</b> or <b>copy</b> of a letter, [<a href=
 $\quad$ $\quad$<b>\_\_IV</b> <b>memorial, petition,</b> addressed to a magistrate, whereas the <span class='asgreek'>ἔντευξις</span> [<a href="javascript:void(0)" title=" 4 ">Refs</a>] is in form addressed to the king, [<a href="javascript:void(0)" title=" “IG” 12(3).327.4 (Egypt, 3rd c.BC), “BGU” 1007.1 (3rd c.BC), “PTeb.” 30.10, +others (2nd c.BC), “UPZ” 23.2, 28.3 (2nd c.BC), etc. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>notification,</b> e.g. of birth, [<a href="javascript:void(0)" title=" “PFay.” 28.12 (2nd c.AD) ">Refs 2nd c.AD+</a>]; of removal, [<a href="javascript:void(0)" title=" “POxy.” 251.29 (1st c.AD), etc. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.8.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.8.16]]
 </sub></small>

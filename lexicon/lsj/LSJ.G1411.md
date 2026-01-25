@@ -30,5 +30,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_V.3</b> <b>product</b> of two numbers, <span class
 $\quad$ $\quad$<b>\_\_VI</b> concrete, <b>powers</b>, especially of divine beings, <span class='asgreek'>αἱ</span> <span class='asgreek'>δ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>οὐρανῶν</span> [<a href="javascript:void(0)" title=" LXX.Isa.34.4, cf. NT.1Pet.3.22, +others, 1st c.AD: Philo Judaeus 1.587, “Corpus Hermeticum” 1.26, 3rd c.AD: Porphyrius Tyrius Philosophus “de Abstinentia - Porphyrii Opuscula” 2.34: \_sing.\_, NT.Acts.8.10, “PMag.Par.” 1.1275">LXX+NT+1st c.AD+</a>]; <span class='asgreek'>πολυώνυμος</span> <span class='asgreek'>δ</span>., of God, [<a href="javascript:void(0)" title=" 2nd c.AD: Secundus Gnomologus “Sententiae - FPG” 3. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> <b>manifestation of divine power, miracle,</b> [<a href="javascript:void(0)" title="NT.Matt.11.21, +others, Buresch “Aus Lydien” 113, etc. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.21.22]] ☩ [[2Cor.8.3]] ☩ [[Isa.34.4]] ☩ [[1Pet.3.22]] ☩ [[Acts.8.10]] ☩ [[Matt.11.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.21.22]] ☩ [[2Cor.8.3]] ☩ [[LXX.Isa.34.4]] ☩ [[1Pet.3.22]] ☩ [[Acts.8.10]] ☩ [[Matt.11.21]]
 </sub></small>

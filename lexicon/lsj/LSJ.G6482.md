@@ -6,5 +6,5 @@
  (<span class='asgreek'>ἐς</span> <span class='asgreek'>κόρακας</span>) <b>wish</b> one <b>far enough, curse, damn,</b> [<a href="javascript:void(0)" title=" LXX.Isa.17.13, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.740a, 4th c.AD: Alciphro Epistolographus 1.38, 4th c.AD: Iamblichus Philosophus “de vita Pythagorica” 25.112.">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.17.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.17.13]]
 </sub></small>

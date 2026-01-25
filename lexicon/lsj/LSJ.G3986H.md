@@ -9,5 +9,5 @@ meaning of: <small>[[G3986G]]</small>
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>worry</b>, [<a href="javascript:void(0)" title=" LXX.Eccl.5.2. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>temptation</b>,[<a href="javascript:void(0)" title="LXX.Sir.44.20, NT.Mark.14.38, etc. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.4.34]] ☩ [[1Pet.4.12]] ☩ [[Eccl.5.2]] ☩ [[Mark.14.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.4.34]] ☩ [[1Pet.4.12]] ☩ [[LXX.Eccl.5.2]] ☩ [[Mark.14.38]]
 </sub></small>

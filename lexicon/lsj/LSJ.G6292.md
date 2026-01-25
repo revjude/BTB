@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> any high <b>erection</b> or <b>embankment,</b> espe
 $\quad$ $\quad$<b>\_\_III</b> <b>sun-dial</b>, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2681, 1st c.BC: Vitruvius Scriptor de Architectura Latinus 9.7.7. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>μέρος</span> <span class='asgreek'>τι</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἥπατος</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.32.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.32.5]]
 </sub></small>

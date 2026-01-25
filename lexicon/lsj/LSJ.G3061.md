@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of persons, <b>plague, pest</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 25.80. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> as <i>adjective</i>, <b>pestilent</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.1.16 ">LXX</a>]; <span class='asgreek'>ἀνὴρ</span> <span class='asgreek'>λ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>πονηρός</span>[<a href="javascript:void(0)" title=" [prev. work] 30.22, cf. NT.Acts.24.5; λ. οἶνος 2nd-3rd c.AD: Symmachus LXX.Prov.20.1. ">NT+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.1.16]] ☩ [[Acts.24.5]] ☩ [[Prov.20.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.1.16]] ☩ [[Acts.24.5]] ☩ [[LXX.Prov.20.1]]
 </sub></small>

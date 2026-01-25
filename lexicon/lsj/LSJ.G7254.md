@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> c.<i>accusative</i>, <b>hatch as in a nest,</b> <span class='asgreek'>ἔρωτα</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus Alcaeus1.135e; παιδείας ψυχαῖς 4th c.AD: Themistius Sophista “Orationes” 24.307d ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be hatched,</b> <span class='asgreek'>ἐπιθυμίαι</span> <span class='asgreek'>ἐννενεοττευμέναι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 573e. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.22.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.22.23]]
 </sub></small>

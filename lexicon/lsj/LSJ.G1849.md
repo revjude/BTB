@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <span class='asgreek'>ἡ</span
 $\quad$ $\quad$<b>\_\_III</b> <b>abundance of means, resources,</b> <span class='asgreek'>==ἐξουσία==ίας</span> <span class='asgreek'>ἐπίδειξις</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.31; πλοῦτος καὶ ἐ. [prev. author] 1.123, compare 4th c.BC: Demosthenes Orator 21.138; ἐνδεεστέρως ἢ πρὸς τὴν ἐ. 5th c.BC: Thucydides Historicus 4.39; τῶν ἀναγκαίων ἐ. 5th-6th c.BC: Plato Philosophus “Leges” 828d ">Refs 5th c.BC+</a>]; <b>excessive wealth,</b> opposed to <span class='asgreek'>οὐσία</span>, [<a href="javascript:void(0)" title=" “Comica Adespota” 25a.5D. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>pomp,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aemilius Paulus” 34. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.3.2]] ☩ [[Luke.12.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.3.2]] ☩ [[Luke.12.11]]
 </sub></small>

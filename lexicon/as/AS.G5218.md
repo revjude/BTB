@@ -1,4 +1,4 @@
-<span class="asform">† <span class="asgreek"><span class="asbold">ὑπακοή</span></span>, <span class="asgreek">-ῆς, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ὑπακούω</span>), </span>  <span class="asseptuagint">\[in LXX: [[2Sam.22.36|II Ki 22:36]] (<span class="ashebrew">עֲנָוָה</span> <small><sup>[[H6038]]</sup></small>); in Aq.: [[2Sam.23.23|ib. 23:23]] \* ;\]</span> </span>
+<span class="asform">† <span class="asgreek"><span class="asbold">ὑπακοή</span></span>, <span class="asgreek">-ῆς, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ὑπακούω</span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.2Sam.22.36|II Ki 22:36]] (<span class="ashebrew">עֲנָוָה</span> <small><sup>[[H6038]]</sup></small>); in Aq.: [[LXX.2Sam.23.23|ib. 23:23]] \* ;\]</span> </span>
 <span class="asitalic">obedience</span> (opp. to <span class="asgreek">παρακοή</span>);
 <span class="asbullet"><span class="asbold">1.</span> in general, absol., <span class="asgreek">εἰς ὑ.</span>, [[Rom.6.16|Ro 6:16]]; c. gen. subjc., [[2Cor.7.15|II Co 7:15]] [[2Cor.10.6|10:6]], [[Phlm.1.21|Phm 21]]; c. gen. obj., [[Rom.1.5|Ro 1:5]] (Lft, <span class="asitalic">Notes</span>, 246) [[Rom.16.26|16:26]], [[1Pet.1.22|I Pe 1:22]]; <span class="asgreek">τ. Χριστοῦ</span>, [[2Cor.10.5|II Co 10:5]].</span>
 <span class="asbullet"><span class="asbold">2.</span> Of obedience to God's commands: absol., [[1Pet.1.2|I Pe 1:2]]; opp. to <span class="asgreek">ἁμαρτία</span>, [[Rom.6.16|Ro 6:16]]; <span class="asgreek">τέκνα ὑπακοῆς</span>, [[1Pet.1.14|I Pe 1:14]]; c. gen. subj., [[Rom.15.18|Ro 15:18]] [[Rom.16.19|16:19]].</span>
@@ -9,7 +9,7 @@
 
 | Book | Refs |
 | - | - |
-| 2 Samuel | [[2Sam.22.36\|22:36]] · [[2Sam.23.23\|23:23]] |
+| 2 Samuel | [[LXX.2Sam.22.36\|22:36]] · [[LXX.2Sam.23.23\|23:23]] |
 | Romans | [[Rom.1.5\|1:5]] · [[Rom.5.19\|5:19]] · [[Rom.6.16\|6:16]] · [[Rom.15.18\|15:18]] · [[Rom.16.19\|16:19]] · [[Rom.16.26\|16:26]] |
 | 2 Corinthians | [[2Cor.7.15\|7:15]] · [[2Cor.10.5\|10:5]] · [[2Cor.10.6\|10:6]] |
 | Philemon | [[Phlm.1.21\|1:21]] |

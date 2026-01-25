@@ -6,5 +6,5 @@
  <b>object of contempt,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>λαοῦ</span> [<a href="javascript:void(0)" title=" LXX.Ps.21.6. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.21.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.21.6]]
 </sub></small>

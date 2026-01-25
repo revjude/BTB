@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> generally, <b>any service</b> or <b>funct
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>service, ministration, help</b>, [<a href="javascript:void(0)" title=" NT.2Cor.9.12, NT.Phil.2.30. ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>public service</b> of the gods, <span class='asgreek'>αἱ</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>θεοὺς</span> <span class='asgreek'>λ</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1330a13; αἱ τῶν θεῶν θεραπεῖαι καὶ λ. 1st c.BC: Diodorus Siculus Historicus 1.21, compare “UPZ” 17.17 (2nd c.BC), “PTeb.” 302.30 (1st c.AD), etc.">Refs 4th c.BC+</a>]; <b>the service</b> or <b>ministry</b> of priests, [<a href="javascript:void(0)" title=" LXX.Num.8.25, NT.Luke.1.23. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.9.12]] ☩ [[Phil.2.30]] ☩ [[Num.8.25]] ☩ [[Luke.1.23]]
+<small><sub>LSJ Scripture Refs: [[2Cor.9.12]] ☩ [[Phil.2.30]] ☩ [[LXX.Num.8.25]] ☩ [[Luke.1.23]]
 </sub></small>

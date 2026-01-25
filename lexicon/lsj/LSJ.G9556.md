@@ -6,5 +6,5 @@
  <b>overlooking, disdaining,</b> <span class='asgreek'>τῶν</span> <span class='asgreek'>αἰσθητικῶν</span> <span class='asgreek'>κινήσεων</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Marcus Antoninus Imperator 8.26 ">Refs 2nd c.AD+</a>]: <i>absolutely</i>, <b>contempt, disdain,</b> [<a href="javascript:void(0)" title=" LXX.Num.22.30. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.22.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.22.30]]
 </sub></small>

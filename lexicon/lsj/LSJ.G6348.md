@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἄ</span>. <span class='asgreek'>σφαίρας</span>, used of the <b>diameter</b> of a sphere, [<a href="javascript:void(0)" title=" “IGRom.” 4.503.12 (Pergam.).">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.14.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.14.6]]
 </sub></small>

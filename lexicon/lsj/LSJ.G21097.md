@@ -5,5 +5,5 @@
  <b>protection</b>, [<a href="javascript:void(0)" title=" LXX.Deut.33.27. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.33.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.33.27]]
 </sub></small>

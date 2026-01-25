@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>leaf of metal</b>, <span class='asgreek'>χρυσίων</span> <span class='asgreek'>πέταλα</span> [<a href="javascript:void(0)" title=" “IG” 12.374.283; πέταλα χρυσᾶ [prev. work]22.1394.5; π. χρυσίῳ ἐπίτηκτα “Inscription Délos” 442 B 138(2nd c.BC),compare 1st c.AD: Dioscorides (Dioscurides) Medicus 5.79, 2nd c.AD: Lucianus Sophista “Philops.” 19 ">Refs 2nd c.BC+</a>]; used for gilding the horns of victims, [<a href="javascript:void(0)" title=" “IG” 22.1635.36: \_sing.\_, π. χρυσοῦν LXX.Exod.28.32(36) ">LXX</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>πύρινα</span>, of the stars, [<a href="javascript:void(0)" title=" “Placita Philosophorum” 2.14.4. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>slice</b>, <span class='asgreek'>ῥαφανῖδες</span> <span class='asgreek'>κατατμηθεῖσαι</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>πέταλα</span> [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus “fragment” 81. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.32]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.32]]
 </sub></small>

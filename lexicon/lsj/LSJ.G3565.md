@@ -22,5 +22,5 @@ $\quad$ $\quad$<b>\_\_VIII</b> <b>opening rosebud,</b> [<a href="javascript:void
 $\quad$ $\quad$<b>\_\_IX</b> <b>clitoris,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Rufus Medicus “περὶ ὀνομασίας” 112, 2nd c.AD: Galenus Medicus “de Usu Partium” 15.3. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_X</b> <b>niche,</b> [<a href="javascript:void(0)" title=" 3rd c.BC(?): Callixinus Historicus 2. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.4.19]] ☩ [[Matt.10.35]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.4.19]] ☩ [[Matt.10.35]]
 </sub></small>

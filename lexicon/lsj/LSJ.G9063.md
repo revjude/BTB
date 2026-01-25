@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> probably <b>ostrich</b>, [<a href="javasc
 $\quad$ $\quad$<b>\_\_V</b> as name of Zeus, uncertain in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Antimachus Colophonius Elegiacus et Epicus 94 (σείρινα">Refs 5th c.BC+</a>] <i>accusative</i> <i>singular</i>, codices [<a href="javascript:void(0)" title=" “Etymologicum Magnum”). ">Refs</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <b>a light garment</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Harpocratio Grammaticus see entry {σείρινα}, 9th c.AD: Photius Legal icographus, etc. (Correctly written with -ει-">Refs 1st c.AD+</a>], as name of a ship, [<a href="javascript:void(0)" title=" “IG” 22.1629.687.) ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.13.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.13.21]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>correspond to,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Nicomachus Gerasenus Mathematicus “Arithmetica Introductio” 1.8.10, 11.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.16.8]] ☩ [[Luke.14.6]] ☩ [[Rom.9.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.16.8]] ☩ [[Luke.14.6]] ☩ [[Rom.9.20]]
 </sub></small>

@@ -34,5 +34,5 @@ $\quad$ ****<b>\_\_C</b> IN COMPOSITION (joined with other words), the sense of 
 $\quad$ $\quad$ $\quad$<b>\_\_C.2</b> to express <b>completion,</b> like our <b>utterly,</b> <span class='asgreek'>==ἐκ==πέρθω</span>, <span class='asgreek'>ἐξαλαπάζω</span>, <span class='asgreek'>==ἐκ==βαρβαρόω</span>, <span class='asgreek'>==ἐκ==διδάσκω</span>, <span class='asgreek'>==ἐκ==διψάω</span>, <span class='asgreek'>==ἐκ==δωριεύομαι</span>, <span class='asgreek'>ἐξοπλίζω</span>, <span class='asgreek'>ἐξομματόω</span>, <span class='asgreek'>ἔκλευκος</span>, <span class='asgreek'>ἔκπικρος</span>. 
 $\quad$ ****<b>\_\_D</b> As <i>adverb</i>, <b>therefrom,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 18.480. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.15.2]] ☩ [[John.8.23]] ☩ [[Gal.3.7]] ☩ [[Rom.2.8]] ☩ [[Luke.16.9]] ☩ [[Matt.20.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.15.2]] ☩ [[John.8.23]] ☩ [[Gal.3.7]] ☩ [[Rom.2.8]] ☩ [[Luke.16.9]] ☩ [[Matt.20.2]]
 </sub></small>

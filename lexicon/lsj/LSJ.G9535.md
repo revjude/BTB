@@ -6,5 +6,5 @@
  <b>lauding, praising,</b> [<a href="javascript:void(0)" title=" LXX.Ps.117.14, 1st c.BC: Diodorus Siculus Historicus 4.7. ">LXX+1st c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.117.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.117.14]]
 </sub></small>

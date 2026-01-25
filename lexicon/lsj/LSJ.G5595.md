@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>give</b> food <b>by hand,</b> <span class='asgreek'>σῖτον</span> <span class='asgreek'>οὐδ᾽</span> <span class='asgreek'>ἐάν</span> <span class='asgreek'>τις</span> <span class='asgreek'>==ψωμίζω==ίζῃ</span> <span class='asgreek'>δύνανται</span> <span class='asgreek'>καταπιεῖν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 592a30 ">Refs 4th c.BC+</a>]; <b>bestow for food,</b> <span class='asgreek'>ψ</span>. <span class='asgreek'>πάντα</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ὑπάρχοντα</span> [<a href="javascript:void(0)" title=" NT.1Cor.13.3. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>bait,</b> <span class='asgreek'>ἄγκιστρον</span> [<a href="javascript:void(0)" title=" “PFay.” 2 iii 14 (“Lyrica Adespota”). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.11.4]] ☩ [[1Cor.13.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.11.4]] ☩ [[1Cor.13.3]]
 </sub></small>

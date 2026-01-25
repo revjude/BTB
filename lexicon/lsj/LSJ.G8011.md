@@ -6,5 +6,5 @@
  = Hebrew <b>kinnor</b>, a stringed instrument played with the hand, [<a href="javascript:void(0)" title=" LXX.1Kgs.16.23 ">LXX</a>]; with a plectron, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 7.12.3. ">Refs 1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.16.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.16.23]]
 </sub></small>

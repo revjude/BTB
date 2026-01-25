@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>χάρμα</span>} [<a href="javascript:void(0)" title=" 11, ">Refs</a>]<b>joy, delight,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 559; also found in Prose, [βίον] ἄλυπόν τε καὶ ἄνευ χαρμονῶν 5th-6th c.BC: Plato Philosophus “Philebus” 43c; ὑπὸ τῆς χαρμονῆς 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.4.22, cf. LXX.Job.3.7, +others, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1098c, 4th c.AD: Julianus Imperator “Orationes” 2.56a. ">LXX+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.3.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.3.7]]
 </sub></small>

@@ -28,5 +28,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.III.14</b> <b>say</b> or <b>send word</b> by ano
 $\quad$ $\quad$ $\quad$<b>\_\_B.III.15</b> <b>maintain</b> as a thesis, <span class='asgreek'>οἱ</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>ἰδέας</span> <span class='asgreek'>λέγοντες</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physica” 193b36, “Metaphorical” 1036b14. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.III.16</b> <b>nominate</b>, Latin <i>dicere [dictatorem</i>], [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus “fragment” 36.26 (\_passive\_)">Refs 2nd c.AD+</a>]. (Cf. Latin <i>lègo, legio, legulus</i> ('olivegatherer').)
 
-<small><sub>LSJ Scripture Refs: [[Gen.38.22]] ☩ [[Matt.22.23]] ☩ [[Rom.2.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.38.22]] ☩ [[Matt.22.23]] ☩ [[Rom.2.22]]
 </sub></small>

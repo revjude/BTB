@@ -6,5 +6,5 @@
  <b>piercing,</b> [<a href="javascript:void(0)" title=" LXX.Hos.9.13.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Hos.9.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hos.9.13]]
 </sub></small>

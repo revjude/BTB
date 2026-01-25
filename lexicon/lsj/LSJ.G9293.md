@@ -6,5 +6,5 @@
  <b>combination with another</b>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Theodotion LXX.Dan.11.23. ">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Dan.11.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.11.23]]
 </sub></small>

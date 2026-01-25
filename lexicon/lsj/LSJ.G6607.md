@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>to be sufficient,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Eudemia” 1242a8, “PLips.” 29.11 (3rd c.AD).">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.32.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.10]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>transitive</i>, <span class='asgreek'>σ�
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i> of persons, <span class='asgreek'>==συννέφω==ουσαν</span> <span class='asgreek'>ὄμματα</span> <b>wearing a dark and gloomy</b> look, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Electra” 1078; κύψασα κάτω καὶ ξυννενοφυῖα βαδίζει 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 395 (\_anapaest meter\_), compare 2nd-3rd c.AD: Philostratus Sophista “Vitae Sophistarum” 1.18.1; ἐπερωτηθεὶς διὰ τί συννένοφε 2nd-3rd c.AD: Dio Cassius Historicus 55.11. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be under a cloud, in adversity</b>, opposed to <span class='asgreek'>εὐτυχεῖν</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Fragmenta” 330.7. (συννεφεῖ, etc., codices, corr. Cobet.) ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.9.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.9.14]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_1</b> <b>beleaguered, besieged</b>, <span class='a
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>walled, fortified</b>, [<a href="javascript:void(0)" title=" LXX.Num.13.20 (19), LXX.Deut.9.1, +others, 1st c.BC-1st c.AD: Strabo Geographus 13.1.7 ">LXX+1st c.BC+</a>]; <span class='asgreek'>τ</span>. <span class='asgreek'>τὴν</span> <span class='asgreek'>φύσιν</span> <b>firm</b> by nature, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Heroicus” 10.7. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>τ</span>. <span class='asgreek'>στέφανος</span>, = <b>corona vallaris</b>, [<a href="javascript:void(0)" title=" “BCH” 28.425 (Argos, 2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.13.20]] ☩ [[Deut.9.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.13.20]] ☩ [[LXX.Deut.9.1]]
 </sub></small>

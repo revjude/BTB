@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be prolonged</b> or <b>delaye
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>grow up,</b> <span class='asgreek'>==χρονίζω==ισθεὶς</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἀπέδειξεν</span> <span class='asgreek'>ἔθος</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 727 (Lyric poetry). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>to be located in time, made temporal,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Simplicius Philosophus “in Aristotelis Physica commentaria - Comm. in Arist. Graeca” 716.11, 5th-6th c.AD: Damascius Philosophus “de Principiis” 405. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.32.1]] ☩ [[Gen.34.19]] ☩ [[Luke.12.45]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.32.1]] ☩ [[LXX.Gen.34.19]] ☩ [[Luke.12.45]]
 </sub></small>

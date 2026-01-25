@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to be exhausted, weary</b>, [<a href="javascript:void(0)" title=" LXX.Ps.60.2, etc.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.60.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.60.2]]
 </sub></small>

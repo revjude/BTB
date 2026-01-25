@@ -18,5 +18,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> -<span class='asgreek'>φως</span> 
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <b>lightly, with light heart</b>, <span class='asgreek'>κουφότερον</span> <span class='asgreek'>μετεφώνεε</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 8.201; κ. νοῆσαι 7th-6th c.BC: Sappho Lyrica “Papyrus fragments” in E. Diehl, 5.14 ">Refs 8th c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>φέρειν</span>, opposed to <span class='asgreek'>δεινῶς</span> <span class='asgreek'>φ</span>., [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Medea” 449, 1018; ὡς κουφότατα φέρειν 5th c.BC: Herodotus Historicus 1.35 ">Refs 5th c.BC+</a>]; <span class='asgreek'>διάγουσα</span> <span class='asgreek'>κούφως</span> doing <b>well</b>, of a patient, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 1.26.δ. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>lightly, with ease</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 701. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.9.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.9.11]]
 </sub></small>

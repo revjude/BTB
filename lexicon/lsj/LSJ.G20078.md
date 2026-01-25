@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἀνθρακίνου</span> <span class='asgreek'>βαφή</span> <b>blue</b> dye <b>(woad),</b> [<a href="javascript:void(0)" title=" PHolm. 18.35.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.1.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.1.7]]
 </sub></small>

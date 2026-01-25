@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <i>absolutely</i>, <b>impose sile
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>leave unspoken</b>, <span class='asgreek'>ἃ</span> <span class='asgreek'>χρὴ</span> <span class='asgreek'>λέγειν</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.254, compare 2.268; τὰς ἀπειλάς 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 7.7.3 ">Refs 1st c.AD+</a>]. 
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i> in <i>impersonal</i> sense, <span class='asgreek'>ἡσυχάζεται</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>γῆς</span> <b>there is quiet</b>, [<a href="javascript:void(0)" title=" LXX.Job.37.17. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.37.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.37.17]]
 </sub></small>

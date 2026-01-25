@@ -5,5 +5,5 @@
  <b>redeemable</b>, [<a href="javascript:void(0)" title=" LXX.Lev.25.31. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.25.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.25.31]]
 </sub></small>

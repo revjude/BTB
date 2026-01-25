@@ -17,5 +17,5 @@ $\quad$ $\quad$<b>\_\_IV</b> part of the bit of a bridle, [<a href="javascript:v
 $\quad$ $\quad$<b>\_\_V</b> uncertain meaning in naval dockyard records, <span class='asgreek'>σίδηρος</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>τ</span>. [<a href="javascript:void(0)" title=" “IG” 22.1629.1154, 1631.338. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_VI</b> as <i>adjective</i>, <b>three-tiered,</b> <span class='asgreek'>πυρὰ</span> <span class='asgreek'>πυργοειδὴς</span> <span class='asgreek'>τ</span>. [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 74.5. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.3.18]] ☩ [[2Kgs.12.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.3.18]] ☩ [[LXX.2Kgs.12.31]]
 </sub></small>

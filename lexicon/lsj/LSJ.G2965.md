@@ -18,5 +18,5 @@ $\quad$ $\quad$<b>\_\_X</b> ={<span class='asgreek'>ἀπομαγδαλία</sp
 $\quad$ $\quad$<b>\_\_XI</b> <span class='asgreek'>ξυλίνη</span> <span class='asgreek'>κ</span>., ={<span class='asgreek'>κυνόσβατος</span>}, Oracle texts cited in Did cited in [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 2.70c. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_XII</b> <b>piece in the game of</b> <span class='asgreek'>πόλεις</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Cratinus Comicus 56.3 (uncertain)">Refs 5th c.BC+</a>]. (Cf. Sanskrit <i>śvā</i>, <i>genitive</i> <b>śúnas</b>, Lithuanian <i>šuõ</i>, <i>genitive</i> <b>šuñs</b>, Latin <i>canis</i>, Gothic <i>hunds</i> (<span class='asgreek'>==κύων==</span>), etc.)
 
-<small><sub>LSJ Scripture Refs: [[Ps.21.17]] ☩ [[Phil.3.2]] ☩ [[Matt.7.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.21.17]] ☩ [[Phil.3.2]] ☩ [[Matt.7.6]]
 </sub></small>

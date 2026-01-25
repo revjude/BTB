@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>make any whistling</b> or <b>hissing sound, hiss
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>hiss</b> an actor [<a href="javascript:void(0)" title="compare (σῦριγξ 1.2), ἐξέπιπτες ἐγὼ δ᾽ ἐσύριττον 4th c.BC: Demosthenes Orator 18.265, compare 4th c.BC: Timocles Comicus 2 4th c.BC: Demosthenes Orator, 2nd c.AD: Lucianus Sophista “Nigr.” 10, etc. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> with <i>accusative</i> <i>person</i>, <b>hiss</b> him, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 21.226 ">Refs 4th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 3.76,231, 5th-6th c.BC: Plato Philosophus “Axiochus” 368d, 2nd c.AD: Aristides Rhetor “Orationes” 34(50).7. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.5.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.5.26]]
 </sub></small>

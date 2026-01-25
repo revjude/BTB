@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>crushing</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>ὀστέου</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Cassius Medicus “Physici et Medici Graeci Minores” 38. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.10.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.10.10]]
 </sub></small>

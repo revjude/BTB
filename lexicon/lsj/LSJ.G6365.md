@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>place</b> or <b>settle instead of</b> another, [<a href="javascript:void(0)" title=" LXX.2Kgs.17.26.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.17.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.17.26]]
 </sub></small>

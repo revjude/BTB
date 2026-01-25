@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>way of thinking,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 888c. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.2.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.2.14]]
 </sub></small>

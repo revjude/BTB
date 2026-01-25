@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> with <i>accusative</i> <i>of things</i>, <b>sprinkle, strew over</b>, [<a href="javascript:void(0)" title=" ἄνθος Χαλκοῦ 5th c.BC: Hippocrates Medicus “περὶ συρίγγων” 3; ἄλευρα 4th c.BC: Aristoteles Philosophus “Historia Animalium” 627b20; κατὰ τῆς τραπέζης κ. τέφραν Aristophanes Comicus [{5-6th c.BC}] “Nubes” 177 ">Refs 6th c.BC+</a>]:—<i>middle</i>, <span class='asgreek'>==καταπάσσω==πασάμενος</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>κεφαλῆς</span> <span class='asgreek'>κόνιν</span> <b>on his own</b> head, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “BJ” 2.21.3 (variant{==καταπάσσω==μησάμενος}); γῆν ἐπὶ τῆς κεφαλῆς variant in LXX.Job.1.20; τῶν στρωμάτων ῥόδα πολλὰ κατεπέπαστο 2nd c.AD: Lucianus Sophista “Asin.” 7 ">LXX+1st c.AD+</a>].
 
-<small><sub>LSJ Scripture Refs: [[Job.1.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.1.20]]
 </sub></small>

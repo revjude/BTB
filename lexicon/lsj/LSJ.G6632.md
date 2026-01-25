@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>withhold,</b> [<a href="javascript:void(0)" title=" LXX.Neh.9.20.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.9.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.9.20]]
 </sub></small>

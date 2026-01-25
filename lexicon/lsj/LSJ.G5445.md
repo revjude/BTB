@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>mixture,</b> <span class='asgreek'>σύμμιγμα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>φ</span>. <span class='asgreek'>ἀέρος</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>πυρός</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.922a, etc.">Refs 1st c.AD+</a>]: in <i>plural</i>, <b>cements,</b> [<a href="javascript:void(0)" title="[prev. work]811c. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.8.3]] ☩ [[Gal.5.9]] ☩ [[Rom.9.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.8.3]] ☩ [[Gal.5.9]] ☩ [[Rom.9.21]]
 </sub></small>

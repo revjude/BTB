@@ -5,5 +5,5 @@
  (<span class='asgreek'>ἐρίζω</span>) <b>wrangler,</b> [<a href="javascript:void(0)" title=" LXX.Ps.138.20 (\_plural\_, variant). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.138.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.138.20]]
 </sub></small>

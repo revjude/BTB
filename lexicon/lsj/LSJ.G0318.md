@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>bodily pain, anguish,</b> <span class='as
 $\quad$ $\quad$<b>\_\_II</b> <b>tie of blood, kindred,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 32.5. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ἡ</span> <span class='asgreek'>δικαστικὴ</span> <span class='asgreek'>κλεψύδρα</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.14.18]] ☩ [[Job.15.24]] ☩ [[1Cor.7.26]] ☩ [[2Cor.6.4]]
+<small><sub>LSJ Scripture Refs: [[Luke.14.18]] ☩ [[LXX.Job.15.24]] ☩ [[1Cor.7.26]] ☩ [[2Cor.6.4]]
 </sub></small>

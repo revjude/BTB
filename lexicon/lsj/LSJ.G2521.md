@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_7.b</b> <b>to be low-lying</b>, <span clas
 $\quad$ $\quad$ $\quad$<b>\_\_8</b> of a statue, <b>to be placed</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Symposium” 215b, 4th c.BC: Aristoteles Philosophus “Politica” 1315b21. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_9</b> of things, <b>to be set</b> or <b>placed</b>, <span class='asgreek'>λαγῴοις</span> <span class='asgreek'>ἐπ᾽</span> <span class='asgreek'>ἀμύλῳ</span> <span class='asgreek'>καθημένοις</span> [<a href="javascript:void(0)" title=" 5th c.BC: Teleclides Comicus 32, compare 5th c.BC: Pherecrates Comicus 108.17; τὸ πηδάλιον κ. πλάγιον 4th c.BC: Aristoteles Philosophus “Mechanica” 851a4, compare [prev. work] 13. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.23.3]] ☩ [[Lev.8.35]] ☩ [[Luke.22.30]] ☩ [[Acts.8.28]] ☩ [[Neh.11.6]] ☩ [[Matt.4.16]]
+<small><sub>LSJ Scripture Refs: [[Acts.23.3]] ☩ [[LXX.Lev.8.35]] ☩ [[Luke.22.30]] ☩ [[Acts.8.28]] ☩ [[LXX.Neh.11.6]] ☩ [[Matt.4.16]]
 </sub></small>

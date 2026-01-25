@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>cry, shout aloud</b>, Pi.[same
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> rarely of a cry of pain or grief, <span class='asgreek'>ἠλάλαζε</span> <span class='asgreek'>δυσθνἥσκων</span> <span class='asgreek'>φόνὡ</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Electra” 843, LXX.Jer.4.8, +others, NT.Mark.5.38, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Luc” 28. ">NT+5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> rarely also of other sounds than the voice, <b>sound loudly</b>, <span class='asgreek'>ψαλμὸς</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἀλαλάζει</span>[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Fragmenta - American Journal of Philology” 57; κύμβαλον ἀλαλάζον NT.1Cor.13.1.—poetical word, used by 5th-6th c.BC: Xenophon Historicus and in late Prose.">NT+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.4.8]] ☩ [[Mark.5.38]] ☩ [[1Cor.13.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.4.8]] ☩ [[Mark.5.38]] ☩ [[1Cor.13.1]]
 </sub></small>

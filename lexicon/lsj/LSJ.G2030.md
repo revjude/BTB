@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> simply, <b>spectator,</b> <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>inspector,</b> [<a href="javascript:void(0)" title=" 4th-6th c.AD: Codex Justinianus 10.16.13 “Intr.” ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>one admitted to the highest grade of the mysteries,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 12.6.51, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Alcibiades” 22, etc., compare ἐφόπται “IG” 12(8).205.3 (from Samothrace): with \_genitive\_, μυστηρίων ἐ. “Michel” 1141 ([prev. passage]) ">Refs 1st c.AD+</a>]; <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" “PMag.Lond.” 121.572: \_metaphorically\_, ἐ. τῆς ἐκείνου μεγαλειότητος NT.2Pet.1.16. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.5.1]] ☩ [[2Pet.1.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.5.1]] ☩ [[2Pet.1.16]]
 </sub></small>

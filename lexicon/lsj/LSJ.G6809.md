@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>direction, order,</b> <span class='asgree
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>Urim,</b> [<a href="javascript:void(0)" title=" LXX.Lev.8.8. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>interpretation,</b>[<a href="javascript:void(0)" title="LXX.Dan.2.27. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.8.8]] ☩ [[Dan.2.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.8.8]] ☩ [[LXX.Dan.2.27]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>pluck grapes</b> or <b>fruit,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 3.5; ἀ. πέπερι [prev. work] 3.4">Refs 2nd c.AD+</a>]: <i>metaphorically</i>, <span class='asgreek'>ἀρχὰς</span> <span class='asgreek'>ἐθνῶν</span> <span class='asgreek'>ἀ</span>.[<a href="javascript:void(0)" title=" LXX.Amos.6.1.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Amos.6.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.6.1]]
 </sub></small>

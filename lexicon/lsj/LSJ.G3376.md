@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>ornament in form of crescent moon,</b> [<
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> ={<span class='asgreek'>μηνίσκος</span>} 1, probably in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 1115, compare 2nd c.AD: Cleomedes Astronomus 2.5. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> as <i>proper name</i>, the god [<a href="javascript:void(0)" title=" “Lunus”, \_masculine\_ of Μήνη, 2nd c.AD: Lucianus Sophista “JTr.” 8. (I.- 5th c.BC: Euripides Tragicus ">Refs 5th c.BC+</a>] stem <b>mēns</b>- 'moon', 'month', cf. Latin <i>mensis</i>, <i>genitive</i> <i>plural</i> <b>mensum</b>, etc.)
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.20.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.20.24]]
 </sub></small>

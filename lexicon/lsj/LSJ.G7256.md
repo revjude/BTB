@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, <b>arm oneself,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 1.16a ">Refs 2nd c.AD+</a>]:—<i>passive</i>, <i>perfect</i> <i>participle</i> <b>-<span class='asgreek'>ωπλισμένος</span></b> <b>armed,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Aquila LXX.Exod.13.18. ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.13.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.13.18]]
 </sub></small>

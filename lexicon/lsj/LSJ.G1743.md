@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>endow with vitality,</b> in <i>passive</i>, <i>metaphorically</i> of scientific theorems, [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 4.9.5. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.6.34]] ☩ [[1Tim.1.12]] ☩ [[Ps.51.9]] ☩ [[Rom.4.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.6.34]] ☩ [[1Tim.1.12]] ☩ [[LXX.Ps.51.9]] ☩ [[Rom.4.20]]
 </sub></small>

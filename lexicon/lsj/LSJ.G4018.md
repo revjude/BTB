@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>περίβολος</span>} 11.2, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 4590 (from Palestine). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.22.12]] ☩ [[Jer.15.12]] ☩ [[1Cor.11.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.22.12]] ☩ [[LXX.Jer.15.12]] ☩ [[1Cor.11.15]]
 </sub></small>

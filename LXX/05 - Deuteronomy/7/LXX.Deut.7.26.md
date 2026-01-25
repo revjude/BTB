@@ -1,0 +1,32 @@
+**LXX Deuteronomy 7:26** 
+<small><sub>**LXX:**</sub></small>
+And you shall not carry an abomination into  your house, that it be anathema as this \[thing\]. Loathing you shall loathe, and as an abomination you shall abhor \[it\], for it is anathema. 
+<small><sub>**KJV:**</sub></small>
+Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: [but] thou shalt utterly detest it, and thou shalt utterly abhor it; for it [is] a cursed thing.
+<small><sub>**BSB:**</sub></small>
+And you must not bring any detestable thing into your house, or you, like it, will be set apart for destruction. You are to utterly detest and abhor it, because it is set apart for destruction.<small><sub>**MT:**</sub></small>
+[[Deut.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.25|<< Deuteronomy 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.1|Deuteronomy 8:1 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| you shall not | <span class="asgreek">ουκ <sup><small><small>[[G3756]]</small></small></sup> </span> |
+| carry | <span class="asgreek">εισοίσεις <sup><small><small>[[G1533]]</small></small></sup> </span> |
+| an abomination | <span class="asgreek">βδέλυγμα <sup><small><small>[[G0946]]</small></small></sup> </span> |
+| into | <span class="asgreek">εις <sup><small><small>[[G1519]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| your house, | <span class="asgreek">οικόν <sup><small><small>[[G3624]]</small></small></sup> <span class="asgreek">σου <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| that | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| it be anathema | <span class="asgreek">ανάθεμα <sup><small><small>[[G0331]]</small></small></sup> <span class="asgreek">έση <sup><small><small>[[G1510]]</small></small></sup> </span> |
+| as | <span class="asgreek">ώσπερ <sup><small><small>[[G5618]]</small></small></sup> </span> |
+| this \[thing\]. | <span class="asgreek">τούτο <sup><small><small>[[G3778]]</small></small></sup> </span> |
+| Loathing | <span class="asgreek">προσοχθίσματι <sup><small><small>[[G8938]]</small></small></sup> </span> |
+| you shall loathe, | <span class="asgreek">προσοχθιείς <sup><small><small>[[G4360]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| as an abomination | <span class="asgreek">βδελύγματι <sup><small><small>[[G0946]]</small></small></sup> </span> |
+| you shall abhor \[it\], | <span class="asgreek">βδελύξη <sup><small><small>[[G0948]]</small></small></sup> </span> |
+| for | <span class="asgreek">ότι <sup><small><small>[[G3754]]</small></small></sup> </span> |
+| it is anathema. | <span class="asgreek">ανάθεμά <sup><small><small>[[G0331]]</small></small></sup> <span class="asgreek">εστι <sup><small><small>[[G1510]]</small></small></sup> </span> |
+[[Deut.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.25|<< Deuteronomy 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.1|Deuteronomy 8:1 >>]]</td></tr></table>
+
+

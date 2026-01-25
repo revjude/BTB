@@ -6,5 +6,5 @@
  <b>multiply,</b> [<a href="javascript:void(0)" title=" LXX.Exod.5.5 ">LXX</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ποσί</span> <b>abound</b> in feet,[<a href="javascript:void(0)" title="LXX.Lev.11.42. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.5.5]] ☩ [[Lev.11.42]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.5.5]] ☩ [[LXX.Lev.11.42]]
 </sub></small>

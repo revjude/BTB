@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>enjoy as master,</b> <span class='asgreek
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>absolutely</i>, <b>live royally,</b> <span class='asgreek'>β</span>. <span class='asgreek'>ἐν</span> <span class='asgreek'>πενίᾳ</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.101d, cf. NT.1Cor.4.8. ">NT+1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> causal, <b>appoint as king,</b> <span class='asgreek'>τινά</span> [<a href="javascript:void(0)" title=" LXX.Josh.9.6 ">LXX</a>]; but <span class='asgreek'>β</span>. <span class='asgreek'>τισὶ</span> <span class='asgreek'>βασιλέα</span> <b>make</b> them <b>a king,</b>[<a href="javascript:void(0)" title="LXX.1Kgs.8.22, 12.1. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.4.8]] ☩ [[Josh.9.6]] ☩ [[1Kgs.8.22]]
+<small><sub>LSJ Scripture Refs: [[1Cor.4.8]] ☩ [[LXX.Josh.9.6]] ☩ [[LXX.1Kgs.8.22]]
 </sub></small>

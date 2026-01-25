@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> = {<span class='asgreek'>οἰκοδόμημα</span>}, [<a href="javascript:void(0)" title=" NT.Matt.24.1, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Lucullus” 39, “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 4449 (from Beroea), +others: \_metaphorically\_, NT.1Cor.3.9. ">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Chr.26.27]] ☩ [[Matt.24.1]] ☩ [[1Cor.3.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.26.27]] ☩ [[Matt.24.1]] ☩ [[1Cor.3.9]]
 </sub></small>

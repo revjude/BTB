@@ -6,5 +6,5 @@
  <b>step, stair,</b> [<a href="javascript:void(0)" title=" LXX.Exod.20.26.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.20.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.20.26]]
 </sub></small>

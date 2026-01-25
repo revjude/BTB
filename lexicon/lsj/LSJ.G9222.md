@@ -6,5 +6,5 @@
  <b>a covering</b>, [<a href="javascript:void(0)" title=" LXX.Deut.22.30 (23.1), 27.20: ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.22.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.22.30]]
 </sub></small>

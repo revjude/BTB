@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>protection,</b> <span class='asgreek'>γῆ</span> <span class='asgreek'>αἰώνιον</span> <span class='asgreek'>φ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Secundus Gnomologus “Sententiae - FPG” 15, compare 6th c.AD: Simplicius Philosophus “in Aristotelis Categorias commentarium - Comm. in Arist. Graeca” 373.36. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>precept, commandment,</b> [<a href="javascript:void(0)" title=" LXX.Lev.8.35, 22.9, +others, 4th c.AD: Julianus Imperator “contra Galilaeos” 238c. ">LXX+4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.8.35]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.8.35]]
 </sub></small>

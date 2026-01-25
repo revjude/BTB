@@ -6,5 +6,5 @@
  <b>inherit along with</b>, [<a href="javascript:void(0)" title=" LXX.Num.32.30. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.32.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.32.30]]
 </sub></small>

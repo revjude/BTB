@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> mostly of the strings of musical instruments, <b>pl
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> later, <b>sing to a harp,</b> [<a href="javascript:void(0)" title=" LXX.Ps.7.18, 9.12, +others; τῇ καρδίᾳ NT.Eph.5.19 ">LXX+NT</a>]; <span class='asgreek'>τῷ</span> <span class='asgreek'>πνεύματι</span> [<a href="javascript:void(0)" title=" NT.1Cor.[prev. cited] ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>passive</i>, of the instrument, <b>to be struck</b> or <b>played,</b> <span class='asgreek'>ψαλλομένη</span> <span class='asgreek'>χορδή</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 919b2 ">Refs 4th c.BC+</a>]; also of persons, <b>to be played to on the harp,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Macho Comicus cited in 2nd c.AD: Athenaeus Epigrammaticus 8.348f. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.5.3]] ☩ [[1Cor.14.15]] ☩ [[Ps.9.12]] ☩ [[Ps.7.18]] ☩ [[Eph.5.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.5.3]] ☩ [[1Cor.14.15]] ☩ [[LXX.Ps.9.12]] ☩ [[LXX.Ps.7.18]] ☩ [[Eph.5.19]]
 </sub></small>

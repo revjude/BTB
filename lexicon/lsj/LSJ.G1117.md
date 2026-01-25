@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>beast's load</b>, [<a href="javascript:vo
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>guild of transport-agents</b> in Nubia, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 4980, +others ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>γὁμος</span>· <span class='asgreek'>ζωμός</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.23.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.23.5]]
 </sub></small>

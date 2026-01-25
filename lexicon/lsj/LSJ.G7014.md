@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>press hard</b>, especially of troops <b>pressing
 $\quad$ $\quad$<b>\_\_III</b> <b>to be upon</b>, <span class='asgreek'>ὁ</span> <span class='asgreek'>δέ</span> <span class='asgreek'>οἱ</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>ποσσὶ</span>.. <span class='asgreek'>ἐνέκειτο</span>, of a sandal, [<a href="javascript:void(0)" title=" “IG” 14.1389i27. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>to be a burden, annoyance</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 4.47 (probably). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.8.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.8.21]]
 </sub></small>

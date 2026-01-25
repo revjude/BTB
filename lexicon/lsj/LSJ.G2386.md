@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ἴασις</span>}, <span class='asgreek'>ἰάματα</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Ἀπόλλωνος</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Ἀσκλαπιοῦ</span> [<a href="javascript:void(0)" title=" “IG” 4.951.2(Epid.), cf. NT.1Cor.12.9 (\_plural\_). ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>soothing, pacification</b>, [<a href="javascript:void(0)" title=" LXX.Eccl.10.4. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.12.9]] ☩ [[Eccl.10.4]]
+<small><sub>LSJ Scripture Refs: [[1Cor.12.9]] ☩ [[LXX.Eccl.10.4]]
 </sub></small>

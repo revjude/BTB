@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_c</b> <i>plural</i>, <b>pleadings, documen
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_d</b> <b>act of</b> <span class='asgreek'>δικαίὠσις</span> [<a href="javascript:void(0)" title=" 1.3, NT.Rom.5.16. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>ordinance, decree,</b> [<a href="javascript:void(0)" title=" LXX.Gen.26.5, LXX.Exod.15.26 (\_plural\_), +others, NT.Rom.1.32, 2.26 (\_plural\_), +others ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.19.28]] ☩ [[Rom.5.16]] ☩ [[Gen.26.5]] ☩ [[Exod.15.26]] ☩ [[Rom.1.32]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.19.28]] ☩ [[Rom.5.16]] ☩ [[LXX.Gen.26.5]] ☩ [[LXX.Exod.15.26]] ☩ [[Rom.1.32]]
 </sub></small>

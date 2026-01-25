@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>protest, asseverate,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 101a, etc., “PSI” 4.422 (3rd c.BC)">Refs 5th c.BC+</a>]: with <i>accusative</i>, <b>bear witness to,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>εὐαγγέλιον</span> [<a href="javascript:void(0)" title=" NT.Acts.20.24 ">NT</a>]; <b>testify,</b> [<a href="javascript:void(0)" title=" LXX.Deut.32.46, +others">LXX</a>]; <span class='asgreek'>τῇ</span> <span class='asgreek'>Ἱερουσαλὴμ</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>ἀνομίας</span> <span class='asgreek'>αὐτῆς</span>[<a href="javascript:void(0)" title="LXX.Ezek.16.2. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>absolutely</i>, <b>beg earnestly of</b> one, <b>conjure</b> him, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 7.1.9; δ. καὶ παρακαλεῖν NT.Acts.2.40 ">NT+5th c.BC+</a>]; <span class='asgreek'>δ</span>. <span class='asgreek'>τινὰ</span> <span class='asgreek'>ἵνα</span>.. [<a href="javascript:void(0)" title=" NT.1Tim.5.21. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.20.24]] ☩ [[Deut.32.46]] ☩ [[Acts.2.40]] ☩ [[1Tim.5.21]]
+<small><sub>LSJ Scripture Refs: [[Acts.20.24]] ☩ [[LXX.Deut.32.46]] ☩ [[Acts.2.40]] ☩ [[1Tim.5.21]]
 </sub></small>

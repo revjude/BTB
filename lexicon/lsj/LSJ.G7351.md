@@ -6,5 +6,5 @@
  <b>contempt,</b>[<a href="javascript:void(0)" title="LXX.Ps.89.5, 5th c.AD(?): Hesychius Legal icographus see at {προπηλακισμός}. ">LXX+5th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.89.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.89.5]]
 </sub></small>

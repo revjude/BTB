@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>sublimate</b> volatile elements, [<a href
 $\quad$ $\quad$<b>\_\_II</b> <b>breathe out</b>, <span class='asgreek'>βαρὺν</span> <span class='asgreek'>ὕπνον</span> <span class='asgreek'>ἐ</span>., i.e. snore loudly, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 24.47; αἷμα 3rd c.BC: Herodas Mimographus 2.72. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>snort</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 743">Refs 3rd c.BC+</a>]; <b>burst forth</b>, <span class='asgreek'>φλόγες</span> <span class='asgreek'>ἐκφυσήσασαι</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Mundo” 400a32. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Hag.1.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hag.1.9]]
 </sub></small>

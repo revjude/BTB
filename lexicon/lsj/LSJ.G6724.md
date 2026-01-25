@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>proselyte</b>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.14.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.14.1]]
 </sub></small>

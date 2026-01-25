@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>prove, try,</b> [<a href="javascript:void(0)" t
 $\quad$ $\quad$<b>\_\_IV</b> <i>middle</i> or <i>passive</i>, <b>dispute,</b> [<a href="javascript:void(0)" title=" LXX.Isa.1.18, LXX.Mic.6.2. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <i>passive</i>, <b>to be distinguished,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Philoponus, Joannes Philosophus “in Aristotelis Meteorologicorum librum primum commentarium - Comm. in Arist. Graeca” 128.30. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.1.18]] ☩ [[Mic.6.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.1.18]] ☩ [[LXX.Mic.6.2]]
 </sub></small>

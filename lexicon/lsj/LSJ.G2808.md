@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_A.II</b> <b>shut in, enclose</b>, <span class='asgreek'>π
 $\quad$ $\quad$<b>\_\_A.III</b> <b>confine</b>, <span class='asgreek'>πλάστιγξ</span> <span class='asgreek'>αὐχένα</span> <span class='asgreek'>πώλων</span> <span class='asgreek'>ἔκλῃε</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Rhesus” 304 ">Refs 5th c.BC+</a>]:— <i>passive</i>, <b>to be confined</b>, <span class='asgreek'>χέρας</span> <span class='asgreek'>βρόχοισι</span> <span class='asgreek'>κεκλῃμένα</span> [<a href="javascript:void(0)" title=" [prev. author] “Andr.” 502 (Lyric poetry): \_metaphorically\_, ὅρκοις κεκλῄμεθα [prev. author] “Hel.” 977. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_A.III.2</b> <b>deliver bound</b>, <span class='asgreek'>τινὰ</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>βασιλέως</span> <span class='asgreek'>χεῖρας</span> [<a href="javascript:void(0)" title=" LXX.1Kgs.23.20. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.23.20]] ☩ [[1Kgs.23.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.23.20]] ☩ [[LXX.1Kgs.23.20]]
 </sub></small>

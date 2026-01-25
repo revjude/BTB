@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>dirt, filth</b>, [<a href="javasc
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in moral sense, <b>depravity</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 21.119. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>ceremonial impurity</b>, [<a href="javascript:void(0)" title=" LXX.Lev.15.3, +others">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.15.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.15.3]]
 </sub></small>

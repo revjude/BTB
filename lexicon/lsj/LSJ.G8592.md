@@ -6,5 +6,5 @@
  <b>all the herbage</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἀγροῦ</span> [<a href="javascript:void(0)" title=" LXX.Job.5.25. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.5.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.5.25]]
 </sub></small>

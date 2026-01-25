@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>idea, conception,</b> <span class='asg
 $\quad$ $\quad$<b>\_\_III</b> <b>anxiety, worry,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “παραγγελίαι” 4. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>resolution</b>, [<a href="javascript:void(0)" title=" “BGU” 1024 iv 12 (4th c.AD). ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.9.4]] ☩ [[Job.21.27]]
+<small><sub>LSJ Scripture Refs: [[Matt.9.4]] ☩ [[LXX.Job.21.27]]
 </sub></small>

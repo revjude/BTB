@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>angular,</b> <span class='asgreek'>γ</span>. <span class='asgreek'>ῥῆμα</span>, i. e. hard to pronounce, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Comicus 67. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.38.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.38.6]]
 </sub></small>

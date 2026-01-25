@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>choice, pure,</b> <span class='asgreek'>σμύρνη</span> [<a href="javascript:void(0)" title=" LXX.Exod.30.23; βοήθημα 3rd c.BC: Asclepiades Epigrammaticus cited in 6th c.AD: Aëtius Medicus 9.12; ἀνδρών “PRein.” 43.9 (2nd c.AD)">LXX+3rd c.BC+</a>]; <span class='asgreek'>==ἐκλεκτός==όν</span>,= <b>corn,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Aquila LXX.Ps.64.14. ">LXX+2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>chosen of God, elect,</b> [<a href="javascript:void(0)" title=" LXX.Isa.43.20, NT.Mark.13.20, etc. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.30.23]] ☩ [[Ps.64.14]] ☩ [[Isa.43.20]] ☩ [[Mark.13.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.30.23]] ☩ [[LXX.Ps.64.14]] ☩ [[LXX.Isa.43.20]] ☩ [[Mark.13.20]]
 </sub></small>

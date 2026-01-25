@@ -40,5 +40,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_D.6</b> almost ={<span class='asgreek'>ἀ</span>-
 $\quad$ ****<b>\_\_E</b> <span class='asgreek'>ἄπο</span>, by anastrophe for <span class='asgreek'>==ἀπό==</span>, when it follows its Noun, as <span class='asgreek'>ὀμμάτων</span> <span class='asgreek'>ἄπο</span>[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 1231, etc.">Refs 5th c.BC+</a>]; never in Prose. 
 $\quad$ $\quad$ $\quad$<b>\_\_E.2</b> <span class='asgreek'>ἄπο</span> for <span class='asgreek'>ἄπεστι</span>, [<a href="javascript:void(0)" title=" 7th-6th c.BC(?): Semonides Iambographus 1.20, 5th c.BC: Timocreon Lyricus 9.">Refs 7th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.1.10]] ☩ [[Num.5.3]] ☩ [[Mark.15.21]] ☩ [[2Kgs.20.5]] ☩ [[Matt.3.4]] ☩ [[Lev.4.7]] ☩ [[Luke.9.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.1.10]] ☩ [[LXX.Num.5.3]] ☩ [[Mark.15.21]] ☩ [[LXX.2Kgs.20.5]] ☩ [[Matt.3.4]] ☩ [[LXX.Lev.4.7]] ☩ [[Luke.9.22]]
 </sub></small>

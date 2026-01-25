@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>φιάλη</span> <span class='asgreek'>καρυωτή</span> cup <b>adorned with a nut-shaped boss,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 11(2).161 B 30, +others(Delos, 3rd c.BC), “OGI” 214.31 (Branchidae, 3rd c.BC), Semus 16; also κ. λαμπάδια LXX.Exod.38.16 (37.19). ">LXX+3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.38.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.38.16]]
 </sub></small>

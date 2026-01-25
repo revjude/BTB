@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> cant word for <b>a rich man, 'nabob</b>', [<a href="javascript:void(0)" title=" 2nd c.AD: Alexander Rhetor 116.8 (\_plural\_); σ. ἐκ πένητος 2nd c.AD: Lucianus Sophista “Nigr.” 20. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> as culttitle of a god, [<a href="javascript:void(0)" title=" “IGRom.” 3.1059 (Maad, 1st c.BC), 2nd c.AD: Pausanias Periegeta 6.25.6. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.16.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.16.5]]
 </sub></small>

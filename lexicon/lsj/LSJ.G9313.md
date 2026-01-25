@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>know perfectly well</b> or <b>fully</b>, <span class='asgreek'>πολλάκις</span> <span class='asgreek'>ἑώρακα</span>.. <span class='asgreek'>τὸν</span> <span class='asgreek'>ἥλιον</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>σελήνην</span> <span class='asgreek'>δρῶντας</span> <span class='asgreek'>ταῦθ᾽</span> <span class='asgreek'>ἃ</span> <span class='asgreek'>ἀεὶ</span> <span class='asgreek'>πάντες</span> <span class='asgreek'>συνεπιστάμεθα</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 821c ">Refs 5th c.BC+</a>]; <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἄρα</span> <span class='asgreek'>συνεπίστανται</span> <span class='asgreek'>ὅτι</span> <span class='asgreek'>ἐπίσταντα</span>; [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Sophistici Elenchi” 177a27. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.19.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.19.27]]
 </sub></small>

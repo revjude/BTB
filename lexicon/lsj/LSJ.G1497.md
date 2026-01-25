@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>image, likeness</b>, <span class='asgreek'>γυ
 $\quad$ $\quad$<b>\_\_IV</b> later, <b>image of a god, idol</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.17.12, NT.1Cor.12.2, “OGI” 201.8 (Silco, 6th c.AD), etc. ">LXX+NT+6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>εἴ</span>. <span class='asgreek'>οὐράνια</span> <b>constellations</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 3.1004, compare 1st c.BC(?): Maximus Astrologus 56. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.17.12]] ☩ [[1Cor.12.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.17.12]] ☩ [[1Cor.12.2]]
 </sub></small>

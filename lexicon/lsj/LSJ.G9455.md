@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, of wine, <b>do</b> on
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> ={<span class='asgreek'>συνουσιάζω</span>}, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Fragmenta - American Journal of Philology” 44 ">Refs 4th c.BC+</a>]; compare <span class='asgreek'>τρώζω</span>. 
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>γυναῖκα</span> <span class='asgreek'>τίκτουσαν</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>τιτρωσκομένην</span> (<span class='asgreek'>τρωσκ</span>- codex <span class='asgreek'>θ</span>) in childbirth or <b>miscarriage</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ νούσων” 1.5. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.31.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.31.19]]
 </sub></small>

@@ -6,5 +6,5 @@
  = {<span class='asgreek'>μεγαλορρημονία</span>}, [<a href="javascript:void(0)" title=" LXX.1Kgs.2.3, 2nd-3rd c.AD: Philostratus Sophista “Heroicus” 2.19, Anonymus cited in 10th c.AD: Suidas Legal icographus ">LXX+2nd c.AD+</a>] see at {<span class='asgreek'>σεμνομυθοῦσιν</span>}.
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.2.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.2.3]]
 </sub></small>

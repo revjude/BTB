@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> generally, of things, <b>beautiful, grac
 $\quad$ $\quad$<b>\_\_IV</b> irregular <i>superlative</i> <span class='asgreek'>ὡραιέστατος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Epicharmus Comicus 186d. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <i>adverb</i> <span class='asgreek'>ὡραίως</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἀφορισμοί” 3.8. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.3.6]] ☩ [[2Chr.36.19]] ☩ [[Matt.23.27]] ☩ [[Acts.3.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.3.6]] ☩ [[LXX.2Chr.36.19]] ☩ [[Matt.23.27]] ☩ [[Acts.3.10]]
 </sub></small>

@@ -19,5 +19,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> less frequently with <i>participle</i> af
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> = {<span class='asgreek'>εἰ</span> <span class='asgreek'>μή</span>}, <b>except</b>, <span class='asgreek'>πόλεις</span>.. <span class='asgreek'>χαλεπαὶ</span> <span class='asgreek'>λαβεῖν</span>, <span class='asgreek'>μὴ</span> <span class='asgreek'>οὐ</span> <span class='asgreek'>χρόνῳ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>πολιορκίᾳ</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.123. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> in questions expecting an affirmative answer, [<a href="javascript:void(0)" title=" LXX.Judg.14.3, NT.1Cor.9.4, 5th-4th c.BC: Aesopus Fabularum Scriptor 404. ">LXX+NT+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.14.3]] ☩ [[1Cor.9.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.14.3]] ☩ [[1Cor.9.4]]
 </sub></small>

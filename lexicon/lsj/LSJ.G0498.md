@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, <b>set oneself against, meet face to
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> generally, <b>oppose, resist,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 31.25.8, NT.Acts.18.6, NT.Rom.13.2, etc. ">NT+2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>set against, compare,</b> [<a href="javascript:void(0)" title=" LXX.Prov.3.15 (\_passive\_).">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.18.6]] ☩ [[Rom.13.2]] ☩ [[Prov.3.15]]
+<small><sub>LSJ Scripture Refs: [[Acts.18.6]] ☩ [[Rom.13.2]] ☩ [[LXX.Prov.3.15]]
 </sub></small>

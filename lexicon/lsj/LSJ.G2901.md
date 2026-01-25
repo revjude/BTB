@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> in <i>active</i
 $\quad$ $\quad$
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, <b>control</b>, [<a href="javascript:void(0)" title=" πάθη λόγῳ 1st c.AD: Philo Judaeus 1.420 ">Refs 1st c.AD+</a>].
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.23.16]] ☩ [[Luke.1.80]] ☩ [[1Cor.16.13]] ☩ [[2Kgs.10.11]] ☩ [[Ruth.1.18]] ☩ [[2Kgs.11.23]] ☩ [[1Kgs.21.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.23.16]] ☩ [[Luke.1.80]] ☩ [[1Cor.16.13]] ☩ [[LXX.2Kgs.10.11]] ☩ [[LXX.Ruth.1.18]] ☩ [[LXX.2Kgs.11.23]] ☩ [[LXX.1Kgs.21.23]]
 </sub></small>

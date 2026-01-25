@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>feminine,</b> <span class='asgreek'>ἀγωγὴ</span> <span class='asgreek'>οἰκουρὸς</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὕ</span>. a <b>feminine</b> mode of life, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 32.10. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.5.20]] ☩ [[Rom.7.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.5.20]] ☩ [[Rom.7.2]]
 </sub></small>

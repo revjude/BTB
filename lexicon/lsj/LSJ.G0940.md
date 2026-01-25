@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> with <i>accusative</i>, <b>malign, disparage,</b> [
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> with <i>dative</i>, <b>envy, grudge,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 20.24, etc.">Refs 4th c.BC+</a>]; <span class='asgreek'>τινί</span> <span class='asgreek'>τινος</span> <b>grudge</b> one a thing, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Dio Chrysostomus Sophista 78.37, 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 6.12; τινὶ ἐπί τινι 1st-2nd c.AD: Dio Chrysostomus Sophista 78.25: \_absolutely\_, 2nd c.AD: Lucianus Sophista “Nav.” 17: τινός ">Refs 1st c.AD+</a>]<b>keep to oneself,</b> [<a href="javascript:void(0)" title=" [prev. author] “Philops.” 35. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> with <i>accusative</i> et <i>infinitive</i>, <span class='asgreek'>μὴ</span> <span class='asgreek'>==βασκαίνω==ήνας</span> <span class='asgreek'>γελάσαι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἄλλον</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Varia Historia” 14.20. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.56]] ☩ [[Deut.28.56]] ☩ [[Gal.3.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.56]] ☩ [[LXX.Deut.28.56]] ☩ [[Gal.3.1]]
 </sub></small>

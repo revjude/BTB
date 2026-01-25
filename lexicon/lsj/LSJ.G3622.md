@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>public revenue</b> of a state, [<a href="javascr
 $\quad$ $\quad$<b>\_\_III</b> <b>transaction, contract,</b> or legal <b>instrument</b>, [<a href="javascript:void(0)" title=" “CPR” 4.1 (1st c.AD), “BGU” 457.10 (2nd c.AD), etc. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> magical <b>operation</b> or <b>process,</b> [<a href="javascript:void(0)" title=" PMag.Par. 1.161,292,2009. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.22.19]] ☩ [[Luke.16.2]] ☩ [[Eph.1.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.22.19]] ☩ [[Luke.16.2]] ☩ [[Eph.1.10]]
 </sub></small>

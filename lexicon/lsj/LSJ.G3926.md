@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i>, <b>annoy</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 16.37.3, “OGI” 139.16 (Egypt, 2nd c.BC), 5th c.AD: Hierocles Platonicus Philosophus “in Carmen Aureum - FPG” 8p.431M. ">Refs 2nd c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>παρηνώχλησθε</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 18.50; ὑπό τινος 2nd c.BC: Polybius Historicus 3.53.6 ">Refs 4th c.BC+</a>]; of disease, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>νευρικῆς</span> <span class='asgreek'>διαθέσεως</span> [<a href="javascript:void(0)" title=" “OGI” 331.10 (Pergam., 2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.14.17]] ☩ [[Acts.15.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.14.17]] ☩ [[Acts.15.19]]
 </sub></small>

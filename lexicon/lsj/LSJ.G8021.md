@@ -6,5 +6,5 @@
  <b>distribution of land</b>, [<a href="javascript:void(0)" title=" LXX.Ps.77.55, 1st c.BC: Diodorus Siculus Historicus 5.53. ">LXX+1st c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.77.55]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.77.55]]
 </sub></small>

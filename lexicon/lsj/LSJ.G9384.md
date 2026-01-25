@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>σ</span>. <span class
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>λίνον</span> <span class='asgreek'>σ</span>. <b>fine</b> flax, [<a href="javascript:void(0)" title=" LXX.Isa.19.9. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>that may be split</b> or <b>cleft, divisible</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>κατὰ</span> <span class='asgreek'>μῆκος</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 515b15, compare “Mete.” 386b26, etc.">Refs 4th c.BC+</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>λίθος</span>, probably <b>talc</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.127">Refs 1st c.AD+</a>], compare 106, etc.; <span class='asgreek'>σ</span>. <span class='asgreek'>κρόμμυα</span> (see. <span class='asgreek'>κρόμμυον</span> 11)[<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 7.4.7. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.19.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.19.9]]
 </sub></small>

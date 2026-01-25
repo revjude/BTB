@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> as <i>passive</i>, <b>to be troubled</b>, [<a href="javascript:void(0)" title=" LXX.Job.23.15, 2nd c.AD: Aquila LXX.2Kgs.4.1, +others ">LXX+2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be oppressed</b>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>μειζόνων</span> Vett. Val.254.16.
 
-<small><sub>LSJ Scripture Refs: [[Job.23.15]] ☩ [[2Kgs.4.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.23.15]] ☩ [[LXX.2Kgs.4.1]]
 </sub></small>

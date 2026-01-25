@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>estate, property</b>, [<a href="javascript:void(0)" title=" LXX.Lev.25.13, etc.">LXX</a>]; <span class='asgreek'>βιβλιοθήκη</span> <span class='asgreek'>ἐγκτήσεων</span> register <b>of properties</b>, [<a href="javascript:void(0)" title=" “BGU” 76 (2nd c.AD), etc. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>acquisition of territory</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 28.20.8 (probable reading). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.25.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.25.13]]
 </sub></small>

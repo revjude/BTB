@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>forbearance</b>, [<a href="javascript:void(0)" title=" LXX.Prov.25.15, Aristeas 188. NT.Eph.4.2. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.1.11]] ☩ [[Prov.25.15]] ☩ [[Eph.4.2]]
+<small><sub>LSJ Scripture Refs: [[Col.1.11]] ☩ [[LXX.Prov.25.15]] ☩ [[Eph.4.2]]
 </sub></small>

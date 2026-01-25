@@ -6,5 +6,5 @@
  <b>plaited</b>, [<a href="javascript:void(0)" title=" LXX.Exod.36.31 (39.23)">LXX</a>]; <b>twined together</b>, <span class='asgreek'>ἔρνεσι</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 4.1.18 (1st c.BC: Meleager Epigrammaticus). ">Refs 1st c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.36.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.36.31]]
 </sub></small>

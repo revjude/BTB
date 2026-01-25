@@ -1,0 +1,24 @@
+**LXX Proverbs 5:22** 
+<small><sub>**LXX:**</sub></small>
+Unlawful \[deeds\] ensnare a man; and each \[is\] grasped by chains of ones own sins. 
+<small><sub>**KJV:**</sub></small>
+His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.
+<small><sub>**BSB:**</sub></small>
+The iniquities of a wicked man entrap him; the cords of his sin entangle him.<small><sub>**MT:**</sub></small>
+[[Prov.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.21|<< Proverbs 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.23|Proverbs 5:23 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| Unlawful \[deeds\] | <span class="asgreek">παρανομίαι <sup><small><small>[[G3892]]</small></small></sup> </span> |
+| a man | <span class="asgreek">άνδρα <sup><small><small>[[G0435]]</small></small></sup> </span> |
+| ensnare | <span class="asgreek">αγρεύουσι <sup><small><small>[[G0064]]</small></small></sup> </span> |
+| chains | <span class="asgreek">σειραίς <sup><small><small>[[G4577]]</small></small></sup> </span> |
+| and | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">των <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| of ones own | <span class="asgreek">εαυτού <sup><small><small>[[G1438]]</small></small></sup> </span> |
+| sins | <span class="asgreek">αμαρτιών <sup><small><small>[[G0266]]</small></small></sup> </span> |
+| each | <span class="asgreek">έκαστος <sup><small><small>[[G1538]]</small></small></sup> </span> |
+| \[is\] grasped by | <span class="asgreek">σφίγγεται <sup><small><small>[[G9373]]</small></small></sup> </span> |
+[[Prov.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.21|<< Proverbs 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.23|Proverbs 5:23 >>]]</td></tr></table>
+
+

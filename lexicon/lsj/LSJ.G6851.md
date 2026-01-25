@@ -6,5 +6,5 @@
  in <i>perfect</i> <i>participle</i> <i>passive</i> -<span class='asgreek'>νενησμένος</span>, <b>spin out,</b> [<a href="javascript:void(0)" title=" LXX.Exod.35.6. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.35.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.35.6]]
 </sub></small>

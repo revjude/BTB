@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>give ear, listen,</b> [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> later, like{<span class='asgreek'>ἐπαΐω</span>}, <b>perceive, understand,</b> <span class='asgreek'>τῶν</span> <span class='asgreek'>ᾀδομένων</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Salt.” 64, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Flamininus” 10 ">Refs 1st c.AD+</a>] (or, <b>hear distinctly</b>). 
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <span class='asgreek'>ἐπακούσεταί</span> <span class='asgreek'>μοι</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>δικαιοσύνη</span> <span class='asgreek'>μου</span> <b>shall answer for</b> me, [<a href="javascript:void(0)" title=" LXX.Gen.30.33. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.30.33]] ☩ [[Isa.49.8]] ☩ [[Hos.2.21]] ☩ [[Gen.30.33]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.30.33]] ☩ [[LXX.Isa.49.8]] ☩ [[LXX.Hos.2.21]] ☩ [[LXX.Gen.30.33]]
 </sub></small>

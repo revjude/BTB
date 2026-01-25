@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>file,</b> <span class='asgreek'>ῥίνῃ</span> <span class='asgreek'>πρίζειν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 12.848. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Amos.1.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.1.3]]
 </sub></small>

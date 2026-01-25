@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>entrance fee,</b> [<a href="javascript:vo
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>board of officials</b> (compare {<span class='asgreek'>ἀπάρχης</span>}), [<a href="javascript:void(0)" title=" “IG” 12(8).273 (from Thasos). ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> <b>birth-certificate</b> of a free person, [<a href="javascript:void(0)" title=" “PTeb.” 316.10 (1st c.AD), “PGnom.” 131 (2nd c.AD)">Refs 1st c.AD+</a>]: perhaps <i>metaphorically</i> in [<a href="javascript:void(0)" title=" NT.Rom.8.23.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.25.2]] ☩ [[Rom.11.16]] ☩ [[1Cor.15.20]] ☩ [[Jas.1.18]] ☩ [[Rom.8.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.25.2]] ☩ [[Rom.11.16]] ☩ [[1Cor.15.20]] ☩ [[Jas.1.18]] ☩ [[Rom.8.23]]
 </sub></small>

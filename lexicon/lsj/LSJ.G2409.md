@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'>ἱ</span>. <span class='asgreek'>τις</span> <span class='asgreek'>ἄτας</span> <b>a minister</b> of woe, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 735 (Lyric poetry); comically, λεπτοτάτων λήρων ==ἱερεύς==εῦ 5th-6th c.BC: Aristophanes Comicus “Nubes” 359 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἱ</span>. <span class='asgreek'>Διονύσου</span>, of a winebibber, [<a href="javascript:void(0)" title=" 5th c.BC: Eupolis Comicus 19; ἱ. φιλοσοφίας 4th c.AD: Libanius Sophista “Orationes” 52.42. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.21.10]] ☩ [[Lev.4.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.21.10]] ☩ [[LXX.Lev.4.5]]
 </sub></small>

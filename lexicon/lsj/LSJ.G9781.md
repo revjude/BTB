@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>use a level,</b> [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “Dioptra” 12. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.18.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.18.8]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἅ</span>. <span class='asgreek'>εὐτυχίας</span> <b>windfall,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.330d; οὐχ ἅ. οὐδ᾽ ἕρμαιον ποιεῖσθαί τι 3rd c.AD: Heliodorus Scriptor Eroticus 7.20.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.29.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.29.17]]
 </sub></small>

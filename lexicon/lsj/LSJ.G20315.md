@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>κῶμον</span> <span class='asgreek'>==ἐκπετάννυμι==ασθείς</span> <b>wholly given up to</b> the revel, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Cyclops” 497 (Lyric poetry): ">Refs 5th c.BC+</a>]<i>perfect</i> <i>participle</i> <i>passive</i> <span class='asgreek'>ἐκπεπταμένος</span> <b>wide open,</b> <span class='asgreek'>κοῖλα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 22 ">Refs 5th c.BC+</a>]; of <b>gaping</b> wounds, [<a href="javascript:void(0)" title=" [prev. author] “Off.” 11; ἐ. τοῖς βλεφάροις 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 2.12. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.65.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.65.2]]
 </sub></small>

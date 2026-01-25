@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>cover</b>, [<a href="javascript:void(0)" 
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>plural</i>, <b>tiles,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 22.463.71, 1st c.BC: Dionysius Halicarnassensis 6.92; κ. ἀνθεμωτοί “IG” 22.1627.306 (\_sing.\_), “BCH” 35.76 (Delos, 2nd c.BC), “IG” 7.3498.61 (Oropus, 2nd c.BC)">Refs 2nd c.BC+</a>], Demioprat. cited in [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 10.157. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>metaphorically</i>, <span class='asgreek'>οἱ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>πόλιος</span> <span class='asgreek'>κ</span>. 'pillars of society', [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 2.31. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.4.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.4.13]]
 </sub></small>

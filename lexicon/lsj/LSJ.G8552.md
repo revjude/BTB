@@ -6,5 +6,5 @@
  <i>deponent verb</i>, ={<span class='asgreek'>ὀρνεοσκοπέω</span>}, <b>observe birds, interpret their flight and cries,</b> [<a href="javascript:void(0)" title=" LXX.Lev.19.26. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.19.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.19.26]]
 </sub></small>

@@ -9,5 +9,5 @@
  = {<span class='asgreek'>==ἐπιληπτεύομαι==ίζω</span>}, [<a href="javascript:void(0)" title=" LXX.1Kgs.21.15(16)">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.21.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.21.15]]
 </sub></small>

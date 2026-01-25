@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>trench</b>(?), [<a href="javascript:void(0)" title=" LXX.1Kgs.17.20 codex A, compare 2nd c.AD: Aquila LXX, 2nd-3rd c.AD: Symmachus LXX, 2nd c.AD(?): Theodotion LXX.1Kgs.26.5. ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.17.20]] ☩ [[1Kgs.26.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.17.20]] ☩ [[LXX.1Kgs.26.5]]
 </sub></small>

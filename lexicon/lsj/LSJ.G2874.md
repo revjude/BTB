@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>refuse</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>σείσματι</span> <span class='asgreek'>κοσκίνου</span> <span class='asgreek'>διαμένει</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" LXX.Sir.27.4 ">LXX</a>]; <b>manure,</b> [<a href="javascript:void(0)" title="NT.Luke.13.8 (variant{κόπρια}). ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.2.8]] ☩ [[Luke.13.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.2.8]] ☩ [[Luke.13.8]]
 </sub></small>

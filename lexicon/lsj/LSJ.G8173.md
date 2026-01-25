@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>performance of religious ritual</b>, [<a href="javascript:void(0)" title=" LXX.Num.4.32. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.4.32]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.4.32]]
 </sub></small>

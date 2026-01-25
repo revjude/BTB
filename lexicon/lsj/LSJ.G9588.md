@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'>ὑ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>ἀνατρέπων</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Euthydemus” 278b; ὑ. καὶ συκοφαντεῖν 4th c.BC: Demosthenes Orator 18.138, compare 1st c.BC: Philodemus Philosophus “περὶ κακιῶν ί” p.24 1st c.AD: Josephus Historicus ">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" LXX.Ps.36.31, 1st c.AD: Philo Judaeus 2.58, +others ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.36.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.36.31]]
 </sub></small>

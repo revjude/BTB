@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>take in</b> sounds, <b>be sensitive to</b>, <span class='asgreek'>ἰαχῆς</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ καρδίης” 8, compare “Liqu.” 2: \_metaphorically\_, ἐ. τῆς ξυμφορῆς">Refs 5th c.BC+</a>] <b>to be affected</b> by it, [<a href="javascript:void(0)" title=" [prev. author] “Art.” 53 ">Refs</a>]; <span class='asgreek'>ἐνακούει</span> <span class='asgreek'>ἐμβαλλόμενα</span>, of dislocations, they <b>obey</b> the surgeon's hand, i.e. <b>are set</b>, [<a href="javascript:void(0)" title=" [prev. author] “Fract.” 40 ">Refs</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἰητρείης</span> <b>yield to</b> treatment, [<a href="javascript:void(0)" title=" [prev. author] “Art.” 62. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Nah.1.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Nah.1.12]]
 </sub></small>

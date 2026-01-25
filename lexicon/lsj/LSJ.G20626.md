@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>membrum virile</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 989, 1019. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.9.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.9.24]]
 </sub></small>

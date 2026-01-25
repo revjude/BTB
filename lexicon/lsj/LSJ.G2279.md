@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>echo</b>, [<a href="javascript:void(0)" t
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> Grammars, <b>breathing</b>, <span class='asgreek'>ἦχοι</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>μὲν</span> <span class='asgreek'>δασύς</span>, <span class='asgreek'>ὁ</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>ψιλός</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 73. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>voice</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>ἦ</span>. <span class='asgreek'>εὔτονον</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>λαμπρὸν</span> <span class='asgreek'>ἀποτελεῖ</span> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.17 ">Refs 1st c.AD+</a>]. (<b><span class='asgreek'>==ἦχος==</span></b>, <span class='asgreek'>τό</span>, is found in [<a href="javascript:void(0)" title=" LXX.Jer.28.16, uncertain in NT.Luke.21.25.) ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.12.19]] ☩ [[Jer.28.16]] ☩ [[Luke.21.25]]
+<small><sub>LSJ Scripture Refs: [[Heb.12.19]] ☩ [[LXX.Jer.28.16]] ☩ [[Luke.21.25]]
 </sub></small>

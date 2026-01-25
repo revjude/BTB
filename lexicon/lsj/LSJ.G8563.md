@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>smelling</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 1.20.8. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Hos.14.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hos.14.7]]
 </sub></small>

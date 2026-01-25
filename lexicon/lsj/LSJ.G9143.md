@@ -6,5 +6,5 @@
  <b>ashy, ash-coloured</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 7.92, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 592b6, 617b4, LXX.Gen.30.39, +others ">LXX+5th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.30.39]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.30.39]]
 </sub></small>

@@ -6,5 +6,5 @@
  ={<span class='asgreek'>==φονευτής==εύς</span>}, [<a href="javascript:void(0)" title=" LXX.4Ki.9.31, LXX.Prov.22.13. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.22.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.22.13]]
 </sub></small>

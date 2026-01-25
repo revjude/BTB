@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <b>rush, charge</b>, of s
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> ={<span class='asgreek'>ῥοπή</span>}, Chrysipp. cited in [<a href="javascript:void(0)" title=" Scholia T 8th c.BC: Ilias Homerus Epicus “Illiad” 22.212. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>street</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeneas Tacticus 2.5, 3.4; τὴν ῥ. ὁδοιπορεῖν 4th-3rd c.BC: Philippides Comicus 13, cf. LXX.Isa.15.3, +others ">LXX+4th c.BC+</a>]; of a Roman camp, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.29.1 ">Refs 2nd c.BC+</a>]; <b>lane, alley,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Zenon Papyri du Caire 764.142 (3rd c.BC), “PStrassb.” 86.19 (2nd c.BC), NT.Acts.9.11 ">NT+3rd c.BC+</a>]; <b>slit, chink</b>, uncertain reading in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ καρδίης” 2. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.15.3]] ☩ [[Acts.9.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.15.3]] ☩ [[Acts.9.11]]
 </sub></small>

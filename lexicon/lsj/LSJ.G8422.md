@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>to be yellow,</b> [<a href="javascript:void(0)" title=" LXX.Lev.13.30; τρίχες -ουσαι 4th c.AD: Alciphro Epistolographus “fragment” 5.4. ">LXX+4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.13.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.13.30]]
 </sub></small>

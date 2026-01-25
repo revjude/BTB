@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>chance,</b> [<a href="javascript:void(0)" title=" LXX.Eccl.9.11.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.9.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.9.11]]
 </sub></small>

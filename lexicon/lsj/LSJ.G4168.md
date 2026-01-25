@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i> of disciples, [<a href="javascript:void(0)" title=" NT.Luke.12.32, +others; π. Θεοῦ NT.1Pet.5.2. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.25.2]] ☩ [[Luke.12.32]] ☩ [[1Pet.5.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.25.2]] ☩ [[Luke.12.32]] ☩ [[1Pet.5.2]]
 </sub></small>

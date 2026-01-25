@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>reverent, pious</b>, [<a href="javascr
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <b>easy to get hold of</b>, <span class='asgreek'>κέρκος</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Lex.” 7. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>cautiously undertaken</b> or <b>effected</b>, <span class='asgreek'>μετάβασις</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 736d; ἡδοναί 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pericles” 15 ἀβλ-Reiske). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.15.31]] ☩ [[Mic.7.2]] ☩ [[Luke.2.25]] ☩ [[Acts.2.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.15.31]] ☩ [[LXX.Mic.7.2]] ☩ [[Luke.2.25]] ☩ [[Acts.2.5]]
 </sub></small>

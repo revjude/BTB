@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>perfect</i> <i>participle</i> <i>passive</i> <span class='asgreek'>κατωχευμένος</span> <b>fertilized</b>, <span class='asgreek'>φοίνικες</span> Mitteis [<a href="javascript:void(0)" title=" “Chr.” 151.26 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.19.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.19.19]]
 </sub></small>

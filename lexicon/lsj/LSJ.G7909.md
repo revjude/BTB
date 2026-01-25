@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>movable bridge</b>, for boarding ships
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>sluice</b>, [<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 9.8. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> a sea-bird, probably so called from <b>swooping down</b> upon its prey, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Av.” 887, 4th c.BC: Aristoteles Philosophus “HA” 509a4, 615a28, Juba 68a, Dionysius Epigrammaticus “Av.” 2.2, 3.22 ">Refs 5th c.BC+</a>]; <b>cormorant</b>, Hebrew <b>shālâkh</b>, [<a href="javascript:void(0)" title=" LXX.Deut.14.16(17)">LXX</a>], +others; of an eagle, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “fragment” 377 ">Refs 5th c.BC+</a>]; of the Harpies, [<a href="javascript:void(0)" title="[prev. work] 714. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.14.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.14.16]]
 </sub></small>

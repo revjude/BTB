@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b>. <b>remedy for</b> <b>external application</
 $\quad$ $\quad$ $\quad$<b>\_\_4</b>. <b>addition</b>, [<a href="javascript:void(0)" title=" “POxy.” 500.14 (2nd c.AD)">Refs 2nd c.AD+</a>]; <b>higher bid,</b> [<a href="javascript:void(0)" title=" PAmh. 2.85.21 (1st c.AD). ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b>. <b>shaft</b> of an arrow, [<a href="javascript:void(0)" title=" 7th c.AD: Paulus Aegineta Medicus 6.88. ">Refs 7th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.25.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.25.16]]
 </sub></small>

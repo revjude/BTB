@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, of the anus, [<a href="javascript:void(0)" title=" 3rd c.BC: Sotades Lyricus 2.2. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.40.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.40.4]]
 </sub></small>

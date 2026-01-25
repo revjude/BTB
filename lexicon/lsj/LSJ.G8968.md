@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>right</b> of the leading advocate <b>to speak first</b>,[<a href="javascript:void(0)" title=" argument 2 4th c.BC: Demosthenes Orator 20. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.18.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.18.17]]
 </sub></small>

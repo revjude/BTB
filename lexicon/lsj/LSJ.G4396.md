@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> in <b>NT, inspired preacher and teacher,
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.2.b</b> <b>foreteller, prophet of future events,</b> [<a href="javascript:void(0)" title=" NT.Acts.2.30, 3.18, 21, NT.2Pet.3.2. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>herbalist</b>, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.10, +others">Refs 1st c.AD+</a>]; <b>quack doctor</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 16.761. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Titus.1.12]] ☩ [[Exod.7.1]] ☩ [[1Kgs.9.9]] ☩ [[1Cor.12.28]] ☩ [[Acts.2.30]] ☩ [[2Pet.3.2]]
+<small><sub>LSJ Scripture Refs: [[Titus.1.12]] ☩ [[LXX.Exod.7.1]] ☩ [[LXX.1Kgs.9.9]] ☩ [[1Cor.12.28]] ☩ [[Acts.2.30]] ☩ [[2Pet.3.2]]
 </sub></small>

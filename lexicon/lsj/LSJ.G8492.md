@@ -6,5 +6,5 @@
  <b>whole burnt-offering,</b> [<a href="javascript:void(0)" title=" LXX.Lev.5.10, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.5.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.5.10]]
 </sub></small>

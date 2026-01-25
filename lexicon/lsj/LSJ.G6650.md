@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> in Medicine texts, <b>suppository,</b> [<
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.6.b</b> <b>pledget, pessary,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 1.84. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>ballot-ball,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ἀθηναίων Πολιτεία” 63.2 ">Refs 4th c.BC+</a>]. (Latin <i>glans,</i> Slav. želą<span class='asgreek'>δῐ</span>, Lith. <span class='asgreek'>γὶλε</span> ¯.)
 
-<small><sub>LSJ Scripture Refs: [[Gen.35.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.35.8]]
 </sub></small>

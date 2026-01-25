@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>avenge,</b> <span class='asgreek'>πατέρων</span>..<span class='asgreek'>ἐκδικάζοντες</span> <span class='asgreek'>φόνον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Supplices” 1215, compare 154 (uncertain reading). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.19.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.19.18]]
 </sub></small>

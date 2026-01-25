@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἐπί</span> <span class='asgreek'>τινα</span> <b>overlay</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.3.19; τῷ αὑτῆς παιδίῳ 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 8.2.2. ">LXX+1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b>. <i>metaphorically</i> in <i>perfect</i> <i>participle</i> <i>passive</i>, <b>sleepy</b> or <b>negligent about</b> a thing, [<a href="javascript:void(0)" title=" Plb. 2.13.4. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.3.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.3.19]]
 </sub></small>

@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>grant, concede</b> in argument, <span
 $\quad$ $\quad$<b>\_\_IV</b> Grammars, <b>describe, record,</b> [<a href="javascript:void(0)" title="Scholia 5th c.BC: Pindarus Lyricus “P.” 5.93, Scholia 8th c.BC: Ilias Homerus Epicus “Illiad” 16.207. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> seemingly <i>intransitive</i>, <b>give oneself up, devote oneself,</b> with <i>dative</i>, especially <span class='asgreek'>ἡδονῇ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 21, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Publicola” 13; ἡδοναῖς 2nd-3rd c.AD: Philostratus Sophista “Vitae Sophistarum” 1.12; ἐλπίδι 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 17.12.2; εἰς δημοκοπίαν 1st c.BC: Diodorus Siculus Historicus 25.8; δρόμῳ δοὺς φέρεσθαι ">Refs 5th c.BC+</a>]<b>at full speed,</b> [<a href="javascript:void(0)" title=" 4th c.AD: Alciphro Epistolographus 3.47. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.12.58]] ☩ [[Exod.31.6]] ☩ [[Num.14.4]] ☩ [[Gen.17.20]] ☩ [[Deut.28.1]] ☩ [[Neh.5.3]] ☩ [[Rev.9.5]]
+<small><sub>LSJ Scripture Refs: [[Luke.12.58]] ☩ [[LXX.Exod.31.6]] ☩ [[LXX.Num.14.4]] ☩ [[LXX.Gen.17.20]] ☩ [[LXX.Deut.28.1]] ☩ [[LXX.Neh.5.3]] ☩ [[Rev.9.5]]
 </sub></small>

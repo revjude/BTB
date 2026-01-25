@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>engage,</b> <span class='asgreek'>ἐνίων</span> <span class='asgreek'>αὑτοὺς</span> <span class='asgreek'>==ἐνειλέω==ηκότων</span> <span class='asgreek'>οἰκονομίαις</span> [<a href="javascript:void(0)" title=" “PTeb.” 24.62 (2nd c.BC)">Refs 2nd c.BC+</a>]:—<i>passive</i>, <b>to be engaged, entangled in</b> or <b>with,</b> <span class='asgreek'>τοῖς</span> <span class='asgreek'>πολεμίοις</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Artoxerxes” 11; ὅπλοις [prev. author] “Brut.” 45; ὥσπερ θηρίον ταῖς πάντων χερσίν [prev. author] “Caes.” 66 ">Refs 1st c.AD+</a>]; <span class='asgreek'>ὥσπερ</span> <span class='asgreek'>ἄρκυσιν</span> <span class='asgreek'>==ἐνειλέω==ημένους</span> probably to be read instead of -<span class='asgreek'>λημμ</span>-, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 6.2.8 ">Refs 1st c.AD+</a>]; <span class='asgreek'>βρέφη</span>-<span class='asgreek'>ημένα</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>χεῖρας</span> Artem.[same place]; <b>come to blows with,</b> [<a href="javascript:void(0)" title=" PRyl. 144.18 (1st c.AD). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.21.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.21.9]]
 </sub></small>

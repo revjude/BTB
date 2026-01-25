@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>oblong case,</b> <span class='asgreek'>φιάλ
 $\quad$ $\quad$<b>\_\_III</b> <b>block</b> of houses, [<a href="javascript:void(0)" title=" “PRein.” 49.11 (3rd c.AD), etc.">Refs 3rd c.AD+</a>]; <b>rectangular plan</b> of land, [<a href="javascript:void(0)" title=" “PLille” 1.8 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>frame</b> of a panel, [<a href="javascript:void(0)" title=" “IG” 11(2).165.22,32 (Delos, 3rd c.BC, \_plural\_)">Refs 3rd c.BC+</a>]; window-<b>frame</b> or <b>-casing,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Zenon Papyri du Caire 663.10 (3rd c.BC, \_plural\_)">Refs 3rd c.BC+</a>]; <span class='asgreek'>==πλινθεῖον==εῖα</span>.. <span class='asgreek'>τοῖς</span> <span class='asgreek'>πύργοις</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>Ἐλευσῖνι</span> [<a href="javascript:void(0)" title=" “IG” 22.1672.203. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.12.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.12.31]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to be fierce,</b> of lions, [<a href="javascript:void(0)" title=" LXX.Isa.5.29 (ὁρμῶσιν codex A). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.5.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.5.29]]
 </sub></small>

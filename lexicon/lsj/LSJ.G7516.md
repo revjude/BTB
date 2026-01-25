@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>grating,</b> [<a href="javascript:void
 $\quad$ $\quad$<b>\_\_V</b> in Medicine texts, <b>scab, eschar</b> on a wound caused by burning or otherwise, <span class='asgreek'>τὰς</span> <span class='asgreek'>ἐκπτώσιας</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 11, compare 5th-6th c.BC: Plato Comicus 184.4, 4th c.BC: Aristoteles Philosophus “Problemata” 863a12, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.56, 2nd c.AD: Galenus Medicus 10.315, etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> in <i>plural</i>, ={<span class='asgreek'>τὰ</span> <span class='asgreek'>χείλη</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>γυναικείων</span> <span class='asgreek'>αἰδοίων</span>}, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 1286. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.27.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.27.4]]
 </sub></small>

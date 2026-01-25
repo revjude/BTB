@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>thin, lank,</b> [<a href="javascript:void(0)" t
 $\quad$ $\quad$<b>\_\_IV</b> <b>porous,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 8.672">Refs 2nd c.AD+</a>]; <span class='asgreek'>δ</span>. <span class='asgreek'>ἄρτοι</span> <b>light</b> bread, [<a href="javascript:void(0)" title=" LXX.Num.21.5. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_V</b> <i>adverb</i> <span class='asgreek'>διακένως</span>, <span class='asgreek'>ζώνη</span> <span class='asgreek'>δ</span>. <span class='asgreek'>ὑφασμένη</span> of a <b>gauzy</b> texture, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 3.7.2. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.21.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.21.5]]
 </sub></small>

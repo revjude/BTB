@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> of disease, <b>chronic</b>, <span class='asgreek'>λέπρα</span> [<a href="javascript:void(0)" title=" LXX.Lev.13.51 ">LXX</a>]; <span class='asgreek'>ἀρρώστημα</span>[<a href="javascript:void(0)" title="LXX.Sir.30.17. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.13.51]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.13.51]]
 </sub></small>

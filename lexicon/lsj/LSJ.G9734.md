@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>become snow-white,</b> [<a href="javascript:void(0)" title=" LXX.Ps.67.15. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.67.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.67.15]]
 </sub></small>

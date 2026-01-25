@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>barbed lance</b> of the same shape, [<a href="javascript:void(0)" title=" LXX.1Kgs.18.28, +others, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 7.2.2. ">LXX+1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>use of the</b> <span class='asgreek'>ς</span>[<a href="javascript:void(0)" title=". 11.1, 7th c.AD: Stephanus Medicus “in Hp.” 2.255 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.18.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.18.28]]
 </sub></small>

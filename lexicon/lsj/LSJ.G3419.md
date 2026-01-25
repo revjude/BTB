@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of one dead, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Simonides Lyricus 106 (\_plural\_); ==μνημεῖον==εῖ᾽ Ὀρέστου.. προσθεῖναι 5th c.BC: Sophocles Tragicus “Electra” 933 ">Refs 5th c.BC+</a>]; of an urn containing the ashes of the dead,[<a href="javascript:void(0)" title=" [prev. work] 1126; τύμβον χῶσον κἀπίθες ==μνημεῖον==εῖά μοι 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 702; τάφων τε καὶ τῶν ἄλλων μ. 5th-6th c.BC: Plato Philosophus “Respublica” 414a ">Refs 5th c.BC+</a>]; <b>tomb</b>, [<a href="javascript:void(0)" title=" LXX.Josh.13.6, NT.John.5.28, “SIG” 1234, etc.">LXX+NT</a>]: generally, <b>monument</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.138, 5th-6th c.BC: Plato Philosophus “Critias” 120c (\_plural\_), 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.4.17, “IG” 14.1932 (2nd c.AD), etc. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.13.6]] ☩ [[John.5.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.13.6]] ☩ [[John.5.28]]
 </sub></small>

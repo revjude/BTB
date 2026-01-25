@@ -47,5 +47,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_E.I.2.a</b> a modified degree, as in <span
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_E.I.2.b</b> the possession of a quality, as in <span class='asgreek'>ἔναιμος</span> <b>with</b> blood <b>in it</b>, <span class='asgreek'>==ἐν==άκανθος</span> thorny: <span class='asgreek'>ἔμφωνος</span> <b>with</b> a voice: <span class='asgreek'>ἔννομος</span> <b>in accordance with</b> law, etc. 
 $\quad$ $\quad$<b>\_\_E.II</b> <span class='asgreek'>==ἐν==</span> becomes <span class='asgreek'>ἐμ</span>- before the labials <span class='asgreek'>β</span> <span class='asgreek'>μ</span> <span class='asgreek'>π</span> <span class='asgreek'>φ</span> ; <span class='asgreek'>ἐγ</span>- before the gutturals <span class='asgreek'>γ</span> <span class='asgreek'>κ</span> <span class='asgreek'>ξ</span> ; <span class='asgreek'>ἐλ</span>- before ; <span class='asgreek'>ἐρ</span>- before ; rarely <span class='asgreek'>ἐσ</span>- before ; but Inscrr. and Papyri often preserve <span class='asgreek'>==ἐν==</span>- in all these cases.
 
-<small><sub>LSJ Scripture Refs: [[Luke.2.49]] ☩ [[Matt.9.34]] ☩ [[1Kgs.16.24]]
+<small><sub>LSJ Scripture Refs: [[Luke.2.49]] ☩ [[Matt.9.34]] ☩ [[LXX.1Kgs.16.24]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> Hellenist., <i>metaphorically</i>, <span class='asgreek'>ὁ</span> <span class='asgreek'>καρπὸς</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ὀ</span>., of a son, [<a href="javascript:void(0)" title=" NT.Acts.2.30, cf. LXX.Gen.35.11, +others ">LXX+NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>περιζώννυσθαι</span> or <span class='asgreek'>ἀναζώννυσθαι</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ὀσφύν</span> gird up one's <b>loins</b>,[<a href="javascript:void(0)" title="LXX.Jer.1.17 ">LXX</a>]; <span class='asgreek'>βυσσίνῳ</span>[<a href="javascript:void(0)" title="LXX.Dan.10.5, cf. NT.Luke.12.35. [ῡ in \_nominative\_ and \_accusative\_ \_sing.\_, which are accented ==ὀσφῦς==, ὀσφῦν by Hdn.Gr. 2.937 ">LXX+NT</a>]; <span class='asgreek'>ὀσφύς</span>, -<span class='asgreek'>ύν</span> frequently in codices, and this may be admitted for late writers: compare <span class='asgreek'>ὀφρῦς</span>.]
 
-<small><sub>LSJ Scripture Refs: [[Acts.2.30]] ☩ [[Gen.35.11]] ☩ [[Jer.1.17]] ☩ [[Dan.10.5]] ☩ [[Luke.12.35]]
+<small><sub>LSJ Scripture Refs: [[Acts.2.30]] ☩ [[LXX.Gen.35.11]] ☩ [[LXX.Jer.1.17]] ☩ [[LXX.Dan.10.5]] ☩ [[Luke.12.35]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>that can be felt,</b> <span class='asgreek'>σκότος</span> LXX.Exod.10.21 (so <span class='asgreek'>ψηλαφῆσαι</span> <span class='asgreek'>σκότος</span>[<a href="javascript:void(0)" title="LXX.Job.12.25). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.10.21]] ☩ [[Job.12.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.10.21]] ☩ [[LXX.Job.12.25]]
 </sub></small>

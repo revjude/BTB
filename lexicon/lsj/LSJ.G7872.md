@@ -6,5 +6,5 @@
  ={<span class='asgreek'>==καταλοχία==ισμός</span>}, variant in [<a href="javascript:void(0)" title=" LXX.2Chr.31.18. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Chr.31.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.31.18]]
 </sub></small>

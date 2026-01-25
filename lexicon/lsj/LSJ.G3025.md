@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_6</b> part of the brain, <b>the meeting-point of t
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> <b>hollow of a chariot</b>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus (\_plural\_). ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_8</b> in <i>plural</i>, <b>the lower parts of the nose</b>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.80. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.30.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.30.38]]
 </sub></small>

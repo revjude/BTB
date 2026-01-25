@@ -6,5 +6,5 @@
  <b>stone-cutter's tool</b>, [<a href="javascript:void(0)" title=" LXX.Ps.73.7. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.73.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.73.7]]
 </sub></small>

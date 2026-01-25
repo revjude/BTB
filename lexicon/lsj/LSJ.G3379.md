@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_I.2</b> in prohibition or warning, with <i>aorist<
 $\quad$ $\quad$ $\quad$<b>\_\_I.3</b> in later Gr., <b>perhaps</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1172a33, LXX.Gen.24.5, Aristeas 15, 1st c.AD: Philo Judaeus 1.13, 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 3.22.80, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.106d, 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 18.4. ">LXX+4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> as <i>conjunction</i>, <b>lest ever</b>, <span class='asgreek'>αἰσχυνόμενοι</span> <span class='asgreek'>φάτιν</span> <span class='asgreek'>ἀνδρῶν</span>.., <span class='asgreek'>μή</span> <span class='asgreek'>ποτέ</span> <span class='asgreek'>τις</span> <span class='asgreek'>εἴπῃσι</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 21.324, +others; οὐδαμὰ ἐλπίσας μή κοτε ἄρα.. ἐλάσῃ 5th c.BC: Herodotus Historicus 1.77, compare 8.53. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.24.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.24.5]]
 </sub></small>

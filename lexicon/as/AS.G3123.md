@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">μάλα</span></span>,</span>  <span class="asgramGrp"><span class="aspos">adv.</span>,</span>  <span class="asetym">    <span class="asseptuagint">\[in LXX for <span class="ashebrew">אֲבָל</span> <small><sup>[[H0061]]</sup></small>, [[1Kgs.1.43|III Ki 1:43]], [[Dan.10.21|Da LXX 10:21]], al.; compar. for <span class="ashebrew">מ</span>, [[Num.13.32|Nu 13:32]] ([[Num.13.31|31]]), al.; <span class="asgreek">μᾶλλον ἠ</span> (<span class="ashebrew">מ</span>), [[Gen.19.9|Ge 19:9]], al.; superlat., [[2Macc.8.7|II Mac 8:7]], [[4Macc.4.22|IV Mac 4:22]] [[4Macc.12.9|12:9]] [[4Macc.15.4|15:4]];\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">μάλα</span></span>,</span>  <span class="asgramGrp"><span class="aspos">adv.</span>,</span>  <span class="asetym">    <span class="asseptuagint">\[in LXX for <span class="ashebrew">אֲבָל</span> <small><sup>[[H0061]]</sup></small>, [[LXX.1Kgs.1.43|III Ki 1:43]], [[LXX.Dan.10.21|Da LXX 10:21]], al.; compar. for <span class="ashebrew">מ</span>, [[LXX.Num.13.32|Nu 13:32]] ([[LXX.Num.13.31|31]]), al.; <span class="asgreek">μᾶλλον ἠ</span> (<span class="ashebrew">מ</span>), [[LXX.Gen.19.9|Ge 19:9]], al.; superlat., [[2Macc.8.7|II Mac 8:7]], [[4Macc.4.22|IV Mac 4:22]] [[4Macc.12.9|12:9]] [[4Macc.15.4|15:4]];\]</span> </span>
 <span class="asbullet"><span class="asbold">I.</span> Pos., <span class="asitalic">very</span>, <span class="asitalic">very much</span>, <span class="asitalic">exceedingly</span> (cl.; LXX ut supr.; in NT its place is taken by <span class="asgreek">λίαν</span>, <span class="asgreek">σφόδρα</span>, etc.).</span>
 <span class="asbullet"><span class="asbold">II.</span> Compar., <span class="asgreek">μᾶλλον</span>.</span>
 $\quad$ <span class="asbullet"><span class="asbold">1.</span> Of increase, <span class="asitalic">more</span>; with qualifying words: <span class="asgreek">πολλῷ</span>, [[Mark.10.48|Mk 10:48]], [[Luke.18.39|Lk 18:39]], [[Rom.5.15|Ro 5:15]], [[Rom.5.17|17]], [[Phil.2.12|Phl 2:12]], al.; <span class="asgreek">πόσῳ</span>, [[Luke.12.24|Lk 12:24]], [[Rom.11.12|Ro 11:12]], al.; <span class="asgreek">τοσούτῳ . . . ὅσῳ</span>, [[Heb.10.25|He 10:25]].</span>
@@ -10,10 +10,10 @@ $\quad$ <span class="asbullet"><span class="asbold">3.</span> Of preference, <sp
 
 | Book | Refs |
 | - | - |
-| Genesis | [[Gen.19.9\|19:9]] |
-| Numbers | [[Num.13.31\|13:31]] · [[Num.13.32\|13:32]] |
-| 1 Kings | [[1Kgs.1.43\|1:43]] |
-| Daniel | [[Dan.10.21\|10:21]] |
+| Genesis | [[LXX.Gen.19.9\|19:9]] |
+| Numbers | [[LXX.Num.13.31\|13:31]] · [[LXX.Num.13.32\|13:32]] |
+| 1 Kings | [[LXX.1Kgs.1.43\|1:43]] |
+| Daniel | [[LXX.Dan.10.21\|10:21]] |
 | Matthew | [[Matt.6.26\|6:26]] · [[Matt.6.30\|6:30]] · [[Matt.7.11\|7:11]] · [[Matt.10.6\|10:6]] · [[Matt.18.13\|18:13]] |
 | Mark | [[Mark.7.36\|7:36]] · [[Mark.10.48\|10:48]] |
 | Luke | [[Luke.5.15\|5:15]] · [[Luke.12.24\|12:24]] · [[Luke.18.39\|18:39]] |

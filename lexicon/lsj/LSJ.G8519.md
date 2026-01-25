@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> a kind of <b>demon</b> haunting wild places, [<a href="javascript:void(0)" title=" LXX.Isa.13.22, 34.11, 14. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.13.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.13.22]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> of God or men, [<a href="javascript:void(0)" title=
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>bless, praise</b> a god, [<a href="javascript:void(0)" title=" “OGI” 73 (from Egypt), compare εὐ. τὴν Εἶσιν (sic) “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 4705c ([prev. passage])">Refs</a>]; <span class='asgreek'>σου</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>δυνάμεις</span>[<a href="javascript:void(0)" title=" Buresch “Aus Lydien” 113">Refs</a>]; so in [<a href="javascript:void(0)" title=" LXX and NT, LXX.Josh.22.23, +others, NT.Jas.3.9. ">LXX+NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> also, apparently by a Hebrew euphemism, <b>curse</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.20.10, cf. LXX.Job.2.5. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.1.22]] ☩ [[Num.23.11]] ☩ [[2Kgs.7.29]] ☩ [[Ruth.2.19]] ☩ [[Gen.35.9]] ☩ [[Acts.3.26]] ☩ [[Deut.28.3]] ☩ [[Luke.1.28]] ☩ [[Josh.22.23]] ☩ [[Jas.3.9]] ☩ [[1Kgs.20.10]] ☩ [[Job.2.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.1.22]] ☩ [[LXX.Num.23.11]] ☩ [[LXX.2Kgs.7.29]] ☩ [[LXX.Ruth.2.19]] ☩ [[LXX.Gen.35.9]] ☩ [[Acts.3.26]] ☩ [[LXX.Deut.28.3]] ☩ [[Luke.1.28]] ☩ [[LXX.Josh.22.23]] ☩ [[Jas.3.9]] ☩ [[LXX.1Kgs.20.10]] ☩ [[LXX.Job.2.5]]
 </sub></small>

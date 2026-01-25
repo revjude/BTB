@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>fond of women,</b> Theopomp. Hist.240, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physiognomonica” 808a36, LXX.1Kgs.11.1 codex 2nd c.AD: Alexander Rhetor, 2nd c.AD: Aspasius Philosophus “in Ethica Nicomachea commentaria - pars” 91.22. ">LXX+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.11.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.11.1]]
 </sub></small>

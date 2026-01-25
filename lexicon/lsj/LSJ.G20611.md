@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> used of <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τέφρας</span> <span class='asgreek'>πεπλασμένα</span> [<a href="javascript:void(0)" title="compare (κόλλιξ 11), 4th-3rd c.BC: Theophrastus Philosophus cited in 5th c.AD(?): Hesychius Legal icographus ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.13.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.13.6]]
 </sub></small>

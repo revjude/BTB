@@ -6,5 +6,5 @@
  <i>middle</i>, <b>divide among themselves</b>, [<a href="javascript:void(0)" title=" LXX.Job.40.25. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.40.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.40.25]]
 </sub></small>

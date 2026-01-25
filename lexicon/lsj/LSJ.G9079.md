@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> the Persian <span class='asgreek'>ς</span>.
 $\quad$ $\quad$<b>\_\_II</b> <b>ear-ring</b>, [<a href="javascript:void(0)" title=" 9th c.AD: Photius Legal icographus, etc., compare {σιγλοφόρος} ">Refs 9th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> in [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 34.8.7, probably corrupt for Σικελικός. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.30.23]] ☩ [[Lev.5.15]] ☩ [[Exod.39.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.30.23]] ☩ [[LXX.Lev.5.15]] ☩ [[LXX.Exod.39.2]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>not struck with a hammer,</b> [<a href="javascript:void(0)" title=" LXX.Job.41.15.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.41.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.41.15]]
 </sub></small>

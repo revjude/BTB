@@ -1,0 +1,27 @@
+**LXX Ezra 10:21** 
+<small><sub>**LXX:**</sub></small>
+And of \[the\] sons of Harim -- Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah. 
+<small><sub>**KJV:**</sub></small>
+And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.
+<small><sub>**BSB:**</sub></small>
+From the descendants of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.<small><sub>**MT:**</sub></small>
+[[Ezra.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.20|<< Ezra 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.22|Ezra 10:22 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| of | <span class="asgreek">από <sup><small><small>[[G0575]]</small></small></sup> </span> |
+| \[the\] sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
+| of Harim -- | <span class="asgreek">Ηράμ <sup><small><small>[[H2766]]</small></small></sup> </span> |
+| Maaseiah, | <span class="asgreek">Μαασία <sup><small><small>[[H4641]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| Elijah, | <span class="asgreek">Ελία <sup><small><small>[[G2243]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| Shemaiah, | <span class="asgreek">Σαμαρία <sup><small><small>[[H8098]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| Jehiel, | <span class="asgreek">Ιεϊέλ <sup><small><small>[[H3171]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| Uzziah. | <span class="asgreek">Οζίας <sup><small><small>[[G3604]]</small></small></sup> </span> |
+[[Ezra.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.20|<< Ezra 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.22|Ezra 10:22 >>]]</td></tr></table>
+
+

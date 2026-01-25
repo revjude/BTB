@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be taken in the arms</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 3.58. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.24.48]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.24.48]]
 </sub></small>

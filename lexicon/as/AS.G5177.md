@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">τυγχάνω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Deut.19.5|De 19:5]] (<span class="ashebrew">מָצָא</span> <small><sup>[[H4672]]</sup></small>), [[Job.3.21|Jb 3:21]] [[Job.7.2|7:2]] [[Job.17.1|17:1]], [[Prov.30.23|Pr 24:58 (30:23)]] (without definite Heb. equiv.), [[Wis.15.19|Wi 15:19]], [[1Macc.11.42|I Mac 11:42]], [[3Macc.3.7|III Mac 3:7]], al. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">τυγχάνω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Deut.19.5|De 19:5]] (<span class="ashebrew">מָצָא</span> <small><sup>[[H4672]]</sup></small>), [[LXX.Job.3.21|Jb 3:21]] [[LXX.Job.7.2|7:2]] [[LXX.Job.17.1|17:1]], [[LXX.Prov.30.23|Pr 24:58 (30:23)]] (without definite Heb. equiv.), [[Wis.15.19|Wi 15:19]], [[1Macc.11.42|I Mac 11:42]], [[3Macc.3.7|III Mac 3:7]], al. ;\] </span> </span>
 <span class="asbullet"><span class="asbold">I.</span> Trans.</span>
 $\quad$ <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to hit</span> (opp. to <span class="asgreek">ἁμαρτάνω</span>, <span class="asitalic">to miss the mark</span>: Hom., Xen., al.).</span>
 $\quad$ <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to hit upon, light upon</span>;</span>
@@ -10,9 +10,9 @@ $\quad$$\quad$ <span class="asbullet"><span class="asbold">(b)</span> of things,
 
 | Book | Refs |
 | - | - |
-| Deuteronomy | [[Deut.19.5\|19:5]] |
-| Job | [[Job.3.21\|3:21]] · [[Job.7.2\|7:2]] · [[Job.17.1\|17:1]] |
-| Proverbs | [[Prov.30.23\|30:23]] |
+| Deuteronomy | [[LXX.Deut.19.5\|19:5]] |
+| Job | [[LXX.Job.3.21\|3:21]] · [[LXX.Job.7.2\|7:2]] · [[LXX.Job.17.1\|17:1]] |
+| Proverbs | [[LXX.Prov.30.23\|30:23]] |
 | Luke | [[Luke.20.35\|20:35]] |
 | Acts | [[Acts.19.11\|19:11]] · [[Acts.24.3\|24:3]] · [[Acts.26.22\|26:22]] · [[Acts.27.3\|27:3]] · [[Acts.28.2\|28:2]] |
 | 1 Corinthians | [[1Cor.14.10\|14:10]] · [[1Cor.15.37\|15:37]] · [[1Cor.16.6\|16:6]] |

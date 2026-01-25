@@ -26,5 +26,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.7</b> <b>operculum of the</b> <span class='asg
 $\quad$ $\quad$ $\quad$<b>\_\_III.8</b> a shell-fish, supposed female of <span class='asgreek'>σωλήν</span>, probably <b>Lithodomus,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Xenocrates Medicus cited in 4th c.AD: Oribasius Medicus 2.58.106 (\_plural\_). ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.9</b> <span class='asgreek'>ὄνυχες</span> <span class='asgreek'>θαλάσσιοι</span> <b>sea-weed,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Pseudo-Democritus Alchemista Alch. p.42 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>] (Cf. Latin <i>unguis,</i> Sanskrit <i>nakhás</i> 'nail', etc.)
 
-<small><sub>LSJ Scripture Refs: [[Job.28.16]] ☩ [[Exod.30.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.28.16]] ☩ [[LXX.Exod.30.34]]
 </sub></small>

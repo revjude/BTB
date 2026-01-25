@@ -6,5 +6,5 @@
  <b>cause</b> one <b>to eat a funeral feast</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.3.35 (variant{παραδειπνίσαι})">LXX</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 2nd c.AD: Artemidorus Daldianus Onirocriticus 4.81. ">Refs 2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.3.35]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.3.35]]
 </sub></small>

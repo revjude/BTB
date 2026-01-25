@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>turn into stone, petrify</b>, <span class='asgreek'>γυῖα</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 3.11 (Cyzic.), compare 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.11. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.35.33]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.35.33]]
 </sub></small>

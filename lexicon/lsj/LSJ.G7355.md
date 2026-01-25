@@ -6,5 +6,5 @@
  <b>banishment,</b> [<a href="javascript:void(0)" title=" LXX.Lam.2.14 (\_plural\_). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lam.2.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lam.2.14]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> a kind of <b>gazelle</b> or <b>antelope,</b> in Egy
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ὄ</span>. <span class='asgreek'>τετράκερως</span> Indian four-horned <b>antelope, Tetraceros quadricornis,</b> [<a href="javascript:void(0)" title="[prev. work] 15.14 ">Refs</a>]; also an Indian <b>gazelle,</b> [<a href="javascript:void(0)" title="[prev. work] 13.25. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> a great fish, perhaps <b>narwhal, Monodon monoceros,</b> or a kind of whale, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 3.2.7. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.14.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.14.5]]
 </sub></small>

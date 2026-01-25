@@ -6,5 +6,5 @@
  <b>place</b> a man's <b>seat in front of</b> others, [<a href="javascript:void(0)" title=" LXX.Esth.3.1. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Esth.3.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.3.1]]
 </sub></small>

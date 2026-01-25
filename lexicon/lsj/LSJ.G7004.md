@@ -6,5 +6,5 @@
  <b>consecration</b>, [<a href="javascript:void(0)" title=" LXX.Num.7.88 ">LXX</a>] (variant -<span class='asgreek'>ωσις</span>).
 
 
-<small><sub>LSJ Scripture Refs: [[Num.7.88]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.7.88]]
 </sub></small>

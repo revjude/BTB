@@ -6,5 +6,5 @@
  <b>forehead-baldness,</b> [<a href="javascript:void(0)" title=" LXX.Lev.13.42.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.13.42]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.13.42]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> [<span class='asgreek'>σπέρματα</span>] <span class='asgreek'>πᾶσι</span> <span class='asgreek'>Χυμοῖς</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὀσμαῑς</span> -<span class='asgreek'>εσπαρμένα</span> <b>impregnated</b> with, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Fragmenta” 250. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.3.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.3.8]]
 </sub></small>

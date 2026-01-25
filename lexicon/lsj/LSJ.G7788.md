@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> in Medicine texts, <b>hollow near the auditory meatus</b>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.86. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>plural</i>, ={<span class='asgreek'>ζῶναι</span> <span class='asgreek'>στρατιωτικαί</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>] (Cf. Avest, <b>kamarā</b> 'girdle', Latin <i>camurus</i>, unless Carian,[<a href="javascript:void(0)" title="compare καμαρός 11.) ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.40.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.40.22]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>invest with legal powers, authorize to act,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>σοι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐπιτρέπω</span> [<a href="javascript:void(0)" title=" “PLips.” 38.5 (4th c.AD),compare “PMasp.” 124.6 (6th c.AD). ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.13.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.13.17]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>carry off,</b> <span class='asgreek'>ἀρρώστημα</span> <span class='asgreek'>ἐκνήψει</span> <span class='asgreek'>ὕπνος</span> [<a href="javascript:void(0)" title=" LXX.Sir.34.2 (uncertain). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.9.24]] ☩ [[1Cor.15.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.9.24]] ☩ [[1Cor.15.34]]
 </sub></small>

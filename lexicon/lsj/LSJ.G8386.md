@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>νεάω</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 1.221: with \_accusative\_ \_cognate\_, νεώσατε ἑαυτοῖς νεώματα LXX.Jer.4.3. ">LXX+2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>restore</b> a M[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>] reading in a corrupt passage, [<a href="javascript:void(0)" title=" 2nd c.BC: Demetrius Lacon Philosophus “Herc.” 1012.26. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.4.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.4.3]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>boasting, bragging,</b> <span class='asgreek'>πουλυμαθημοσύνης</span> [<a href="javascript:void(0)" title="Timo  20. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>amplitude,</b> <span class='asgreek'>τῆς</span> <span class='asgreek'>ποιήσεως</span> [<a href="javascript:void(0)" title=" 12th c.AD: Eustathius Episcopus Thessalonicensis 1382.21. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.22.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.22.20]]
 </sub></small>

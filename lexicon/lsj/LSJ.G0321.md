@@ -30,5 +30,5 @@ $\quad$ ****<b>\_\_B</b> <i>middle</i> and <i>passive</i>, <b>put out to sea, se
 $\quad$ $\quad$ $\quad$<b>\_\_B.2</b> <i>metaphorically</i>, <b>put to sea,</b> i. e. <b>make ready, prepare oneself,</b> <span class='asgreek'>ὡς</span> <span class='asgreek'>ἐρωτήσων</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Charmides” 155d, compare “Erx.” 392d. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.3</b> in thought, <b>ascend</b> to higher unity, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 117.">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.7.41]] ☩ [[Lev.11.3]] ☩ [[Acts.12.4]]
+<small><sub>LSJ Scripture Refs: [[Acts.7.41]] ☩ [[LXX.Lev.11.3]] ☩ [[Acts.12.4]]
 </sub></small>

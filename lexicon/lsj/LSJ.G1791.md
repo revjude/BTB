@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>humiliation,</b> [<a href="javascript:void(0)" title=" LXX.Ps.34.26, +others ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.6.5]] ☩ [[Ps.34.26]]
+<small><sub>LSJ Scripture Refs: [[1Cor.6.5]] ☩ [[LXX.Ps.34.26]]
 </sub></small>

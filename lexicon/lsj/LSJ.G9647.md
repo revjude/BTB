@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>lintel,</b> [<a href="javascript:void(0)"
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>standing posts in which a windlass works,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 47. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>support,</b> <span class='asgreek'>φ</span>. <span class='asgreek'>πιοειδής</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Rufus Medicus cited in 4th c.AD: Oribasius Medicus 49.27.7, compare 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 73. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.6.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.6.9]]
 </sub></small>

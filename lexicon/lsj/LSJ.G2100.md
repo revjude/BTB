@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in Medicine texts, in <i>passive</i>, <b>to be benefited, get relief</b>, of patients, [<a href="javascript:void(0)" title=" 1st c.AD: Herodotus Medicus in “Rh.Mus.” 58.72,79. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, = <i>passive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Lysippus Comicus 7, 3rd-2nd c.BC: Apollonius Pergaeus Geometra “Conica” 1 “Praef.”, 1st c.BC: Dionysius Halicarnassensis 11.60, 5th c.AD: Hierocles Platonicus Philosophus “in Carmen Aureum - FPG” 11p.442M. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.5.22]] ☩ [[Heb.13.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.5.22]] ☩ [[Heb.13.16]]
 </sub></small>

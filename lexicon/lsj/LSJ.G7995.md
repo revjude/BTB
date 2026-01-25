@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>drink poured out</b> [<a href="javascript:void(0)" title="compare (κεράννυμι 1.1), “IGRom.” 4.696 (from Hieropolis)">Refs</a>]; <span class='asgreek'>οἴνου</span> <span class='asgreek'>ἀκράτου</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" LXX.Ps.74.8. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>mixed disease</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 9.675. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.74.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.74.8]]
 </sub></small>

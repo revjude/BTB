@@ -6,5 +6,5 @@
  <b>bear</b> one's <b>first-born</b>,[<a href="javascript:void(0)" title="LXX.1Kgs.6.7, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.6.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.6.7]]
 </sub></small>

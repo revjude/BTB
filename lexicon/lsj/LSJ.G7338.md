@@ -6,5 +6,5 @@
  ={<span class='asgreek'>ἐξίχνευσις</span>},[<a href="javascript:void(0)" title="LXX.Judg.5.16 (variant), 2nd c.AD: Aquila LXX.Job.11.7. ">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Judg.5.16]] ☩ [[Job.11.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.5.16]] ☩ [[LXX.Job.11.7]]
 </sub></small>

@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>destruction, ruin</b>, [<a href="javas
 $\quad$ $\quad$<b>\_\_III</b> <b>raising of the foot</b> in beating time, opposed to <span class='asgreek'>θέσις</span>, <b>downward beat,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoxenus Musicus “Rhythmica” 12.17, 1st c.BC: Dionysius Halicarnassensis “de Demosthene” 48, 3rd c.AD(?): Aristides Quintilianus Musicus 1.13, 2nd c.AD: Lucianus Sophista “Harm.” I, etc. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>==ἄρσις==</span>· <span class='asgreek'>ζύμη</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.19.42]] ☩ [[Gen.49.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.19.42]] ☩ [[LXX.Gen.49.3]]
 </sub></small>

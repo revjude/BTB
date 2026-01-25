@@ -6,5 +6,5 @@
  ={<span class='asgreek'>==παροικεσία==ία</span>}, [<a href="javascript:void(0)" title=" LXX.Ezek.20.38, LXX.Zech.9.12. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Zech.9.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.9.12]]
 </sub></small>

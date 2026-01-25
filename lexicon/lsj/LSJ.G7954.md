@@ -6,5 +6,5 @@
  <b>let down</b>, <span class='asgreek'>τινὰς</span> <span class='asgreek'>διὰ</span> <span class='asgreek'>θυρίδος</span> [<a href="javascript:void(0)" title=" LXX.Josh.2.15. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Josh.2.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.2.15]]
 </sub></small>

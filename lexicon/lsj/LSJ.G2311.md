@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>destroy utterly</b>, in <i>passive</i>, -<span class='asgreek'>ωθέντα</span> (<span class='asgreek'>θεμειλωθ</span>- codex)· <span class='asgreek'>ἐκ</span> <span class='asgreek'>ῥιζῶν</span> <span class='asgreek'>ἀρθέντα</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.6.25]] ☩ [[Heb.1.10]] ☩ [[Matt.7.25]] ☩ [[Eph.3.18]] ☩ [[Col.1.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.6.25]] ☩ [[Heb.1.10]] ☩ [[Matt.7.25]] ☩ [[Eph.3.18]] ☩ [[Col.1.23]]
 </sub></small>

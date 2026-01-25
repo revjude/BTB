@@ -3,16 +3,16 @@
 Then Job answered the LORD, and said,
 <small><sub>**BSB:**</sub></small>
 Then Job replied to the LORD:
-<small><sub>**Literal:**</sub></small>
-and  he answered Job  Yahweh and  he said<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.34|<< Job 41:34]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.2|Job 42:2 >>]]</td></tr></table>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Job.42.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.34|<< Job 41:34]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.2|Job 42:2 >>]]</td></tr></table>
 
-| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |
-| and he answered  | <span class="ashebrew"><big>וַ</big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֖עַן</big></span><small><small><sup>[[H6030B]]</sup></small></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Job  | <span class="ashebrew"><big>אִיּ֥וֹב</big></span><small><small><sup>[[H0347]]</sup></small></small> &#8207;| 'i.Yov<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.>  | <span class="ashebrew"><big>אֶת</big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־</big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה</big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he said  | <span class="ashebrew"><big>וַ</big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּאמַֽר</big></span><small><small><sup>[[H0559]]</sup></small></small> <span class="ashebrew"><big>׃</big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he answered  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יַּ֖עַן </big></span><small><small><sup>[[H6030B]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.Ya.'an <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Job  | <span class="ashebrew"><big>אִיּ֥וֹב </big></span><small><small><sup>[[H0347]]</sup></small></small> &#8207;| 'i.Yov <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  | <span class="ashebrew"><big>אֶת </big></span><small><small><sup>[[H0853]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| 'et- <small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  | <span class="ashebrew"><big>יְהוָ֗ה </big></span><small><small><sup>[[H3068G]]</sup></small></small> &#8207;| Yah.weh <small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  | <span class="ashebrew"><big>וַ </big></span><small><small><sup>[[H9001]]</sup></small></small> <span class="ashebrew"><big>יֹּאמַֽר </big></span><small><small><sup>[[H0559]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| va <small><sup>[[Hc]]</sup></small> i.yo.Mar <small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.34|<< Job 41:34]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.2|Job 42:2 >>]]</td></tr></table>
 
 

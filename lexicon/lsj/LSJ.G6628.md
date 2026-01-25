@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>attainment of definiteness,</b> [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>pithy sentence, aphorism</b> (such as those of [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus), 5th c.BC: Critias Philosophus, Tragicus, Elegiacus 39 4th c.BC: Demosthenes Orator, 1st c.AD: Philo Judaeus 1.636, 2nd c.AD: Hermogenes Rhetor “περὶ ἰδεῶν” 1.6. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>fixed rule,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 9.2.1.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.56.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.56.3]]
 </sub></small>

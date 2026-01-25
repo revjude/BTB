@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>trust in, give credence to</b>, <span class='asgreek'>τινί</span> [<a href="javascript:void(0)" title=" LXX.Deut.1.32, +others, 1st c.BC: Nicolaus Damascenus Historicus “fragment” 130.19 1st c.AD: Josephus Historicus; ἔν τινι LXX.2Chr.20.20 ">LXX+1st c.BC+</a>]; <span class='asgreek'>ἐπί</span> <span class='asgreek'>τινι</span>[<a href="javascript:void(0)" title="LXX.3Mac.2.7. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.1.32]] ☩ [[2Chr.20.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.1.32]] ☩ [[LXX.2Chr.20.20]]
 </sub></small>

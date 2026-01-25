@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> in Surgery, <b>cautery</b>, [<a href="javascript:vo
 $\quad$ $\quad$<b>\_\_III</b> in <i>plural</i>, <b>burning heat</b>, <span class='asgreek'>ψύξεις</span> <span class='asgreek'>τε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" [prev. author] “Tht.” 156b. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>smelting</b>, <span class='asgreek'>χαλκοῦ</span>, <span class='asgreek'>ἀργύρου</span>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 14.6.5. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.39.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.39.17]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>satirize, ridicule
 $\quad$ $\quad$<b>\_\_II</b> <b>tear off, pick off</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>χλωρόν</span> [<a href="javascript:void(0)" title=" LXX.Gen.30.37. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>tear away, take by violence from</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>λείαν</span> <span class='asgreek'>τινῶν</span> -<span class='asgreek'>σῠρεῖν</span> (<i>future</i> <i>infinitive</i>) [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.93.1, compare 4.19.4 ">Refs 2nd c.BC+</a>]:—<i>middle</i>, <b>carry off</b>, <span class='asgreek'>λείαν</span> <span class='asgreek'>==περισύρω==εσύραντο</span> [<a href="javascript:void(0)" title=" 4th c.BC: Hyperides Orator “Fragmenta” 264, compare 2nd c.AD: Appianus Historicus “Ἰβηρική” 65 ">Refs 4th c.BC+</a>]: <i>metaphorically</i>, <b>destroy</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.178: ">Refs 1st c.AD+</a>] —<span class='asgreek'>==περισύρω==σύρεται</span> is <i>falsa lectio</i> for{<span class='asgreek'>παρασύρεται</span>} in [<a href="javascript:void(0)" title=" 2nd c.AD: Dionysius Periegeta 864. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.30.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.30.37]]
 </sub></small>

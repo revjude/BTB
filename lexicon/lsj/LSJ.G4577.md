@@ -15,5 +15,5 @@ $\quad$ $\quad$<b>\_\_V</b> <b>series</b>, [<a href="javascript:void(0)" title="
 $\quad$ $\quad$<b>\_\_VI</b> <i>plural</i>, <b>a disease of horses,</b> [<a href="javascript:void(0)" title=" Hippiatr. 52. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_VII</b> <b>the front part of the perineum</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 6.34. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.5.22]] ☩ [[2Pet.2.4]] ☩ [[Judg.16.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.5.22]] ☩ [[2Pet.2.4]] ☩ [[LXX.Judg.16.13]]
 </sub></small>

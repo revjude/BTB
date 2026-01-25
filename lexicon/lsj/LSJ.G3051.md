@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>λ</span>. <span class='asgreek'>Κυρίου</span> the <b>sayings</b> of the Lord, [<a href="javascript:void(0)" title=" LXX.Ps.11.6, cf. NT.Acts.7.38, NT.Rom.3.2, NT.1Pet.4.11. ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>λ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>κρίσεων</span> <b>the oracular breastplate</b> worn by the Jewish High-Priest, [<a href="javascript:void(0)" title=" LXX.Exod.28.26(30), compare 1st c.AD: Philo Judaeus 2.154; τὰ ==λόγιον==ια Aristeas 158. ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.11.6]] ☩ [[Acts.7.38]] ☩ [[Rom.3.2]] ☩ [[1Pet.4.11]] ☩ [[Exod.28.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.11.6]] ☩ [[Acts.7.38]] ☩ [[Rom.3.2]] ☩ [[1Pet.4.11]] ☩ [[LXX.Exod.28.26]]
 </sub></small>

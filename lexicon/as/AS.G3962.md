@@ -5,7 +5,7 @@ $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of the male paren
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> of a forefather or ancestor (in cl. usually in pl.; Hom., al.): [[Matt.3.9|Mt 3:9]], [[Luke.1.73|Lk 1:73]], [[John.8.39|Jo 8:39]], al.; pl., [[Matt.23.30|Mt 23:30]], [[Matt.23.32|32]], [[Luke.6.23|Lk 6:23]], [[Luke.6.26|26]], [[John.4.20|Jo 4:20]], [[1Cor.10.1|I Co 10:1]], al.</span>
 <span class="asbullet"><span class="asbold">2.</span> Metaph.,</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of an author, originator, or archetype (= <span class="asgreek">αἴτιος</span>, <span class="asgreek">ἀρχηγός</span>, etc.; Pind., Plat., al.): [[John.8.41|Jo 8:41-44]], [[Rom.4.11|Ro 4:11]], [[Rom.4.12|12]], [[Rom.4.16|16]].</span>
-$\quad$ <span class="asbullet"><span class="asbold">(b)</span> as a title of respect or honour, used of seniors, teachers and others in a position of responsible authority ([[Judg.17.10|Jg 17:10]], [[2Sam.2.12|II Ki 2:12]], [[Prov.1.8|Pr 1:8]], al.): [[Matt.23.9|Mt 23:9]], [[Acts.7.2|Ac 7:2]] [[Acts.22.1|22:1]], [[1John.2.13|I Jo 2:13]].</span>
+$\quad$ <span class="asbullet"><span class="asbold">(b)</span> as a title of respect or honour, used of seniors, teachers and others in a position of responsible authority ([[LXX.Judg.17.10|Jg 17:10]], [[LXX.2Sam.2.12|II Ki 2:12]], [[LXX.Prov.1.8|Pr 1:8]], al.): [[Matt.23.9|Mt 23:9]], [[Acts.7.2|Ac 7:2]] [[Acts.22.1|22:1]], [[1John.2.13|I Jo 2:13]].</span>
 <span class="asbullet"><span class="asbold">3.</span> Of God (as in cl. of Zeus) as Father;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of created things: <span class="asgreek">τ. φώτων</span>, [[Jas.1.17|Ja 1:17]];</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> of all sentient beings: [[Eph.3.14|Eph 3:14]], [[Eph.3.15|15]], [[Heb.12.9|He 12:9]];</span>
@@ -18,9 +18,9 @@ $\quad$$\quad$ <span class="asbullet"><span class="asbold">(β)</span> by Apostl
 
 | Book | Refs |
 | - | - |
-| Judges | [[Judg.17.10\|17:10]] |
-| 2 Samuel | [[2Sam.2.12\|2:12]] |
-| Proverbs | [[Prov.1.8\|1:8]] |
+| Judges | [[LXX.Judg.17.10\|17:10]] |
+| 2 Samuel | [[LXX.2Sam.2.12\|2:12]] |
+| Proverbs | [[LXX.Prov.1.8\|1:8]] |
 | Matthew | [[Matt.2.22\|2:22]] · [[Matt.3.9\|3:9]] · [[Matt.5.16\|5:16]] · [[Matt.6.4\|6:4]] · [[Matt.6.14\|6:14]] · [[Matt.7.11\|7:11]] · [[Matt.11.25\|11:25]] · [[Matt.11.27\|11:27]] · [[Matt.15.13\|15:13]] · [[Matt.23.9\|23:9]] · [[Matt.23.30\|23:30]] · [[Matt.23.32\|23:32]] |
 | Mark | [[Mark.11.25\|11:25]] |
 | Luke | [[Luke.1.17\|1:17]] · [[Luke.1.73\|1:73]] · [[Luke.6.23\|6:23]] · [[Luke.6.26\|6:26]] · [[Luke.6.36\|6:36]] · [[Luke.10.21\|10:21]] · [[Luke.10.22\|10:22]] |

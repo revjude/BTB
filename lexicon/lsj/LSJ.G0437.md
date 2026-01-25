@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>admit, signify,</b> <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>assent, agree,</b> <span class='asgreek'>τοῖς</span> <span class='asgreek'>εἰρημένοις</span>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 28.4.4. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>return thanks</b> to God, [<a href="javascript:void(0)" title=" LXX.Ps.78.13. NT.Luke.2.38">LXX+NT</a>]; <span class='asgreek'>χάριν</span> <span class='asgreek'>ἀ</span>. <b>return</b> thanks, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aemilius Paulus” 11:">Refs 1st c.AD+</a>] —<i>active</i>, -<span class='asgreek'>λογέω</span> <b>admit a claim,</b> is late, [<a href="javascript:void(0)" title=" “PGrenf.” 2.71i i14 (3rd c.AD).">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.78.13]] ☩ [[Luke.2.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.78.13]] ☩ [[Luke.2.38]]
 </sub></small>

@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.5</b> <i>passive</i>, <b>to be deceived,</b> p
 $\quad$ $\quad$ $\quad$<b>\_\_III.6</b> Grammars, <b>use in addition</b> or <b>redundantly,</b> <span class='asgreek'>εἰώθασιν</span> <span class='asgreek'>οἱ</span> <span class='asgreek'>Ἀττικοὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἄρθρα</span> <span class='asgreek'>==πλεονάζω==άζειν</span> [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Plutus” 5; Αἰολεῖς ==πλεονάζω==άζουσιν ἕτερον σύμφωνον “Etymologicum Magnum” 84.18:">Refs 5th c.BC+</a>] —<i>passive</i>, <span class='asgreek'>τὸ</span> <span class='asgreek'>ῡ</span> <span class='asgreek'>==πλεονάζω==αζόμενον</span> <span class='asgreek'>ψιλοῦται</span>[<a href="javascript:void(0)" title=" [prev. work] 440.12. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.7</b> <b>to be in excess of unity, partake of plurality,</b> [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “Inst.” 2. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.26.12]] ☩ [[Num.3.46]] ☩ [[Rom.5.20]] ☩ [[1Thess.3.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.26.12]] ☩ [[LXX.Num.3.46]] ☩ [[Rom.5.20]] ☩ [[1Thess.3.12]]
 </sub></small>

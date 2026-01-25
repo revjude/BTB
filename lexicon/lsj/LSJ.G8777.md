@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, of young men, whose beard begins to <b>darken</b> their faces, [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Lavacrum Palladis” 76. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>make dark-coloured</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.2. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Amos.9.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.9.13]]
 </sub></small>

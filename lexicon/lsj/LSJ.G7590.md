@@ -6,5 +6,5 @@
  late form of <span class='asgreek'>ἔχθρα</span>, [<a href="javascript:void(0)" title=" LXX.Gen.26.21 ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.26.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.26.21]]
 </sub></small>

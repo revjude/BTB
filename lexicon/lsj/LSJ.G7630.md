@@ -6,5 +6,5 @@
  <b>a half</b>, [<a href="javascript:void(0)" title=" LXX.Num.31.36; παραλληλογράμμου “Theologumena Arithmeticae” 39 ">LXX</a>]; name of a tax on vines, [<a href="javascript:void(0)" title=" “PSI” 4.434.4 (\_sing.\_, 3rd c.BC), “Raccolta Lumbroso” 123(\_plural\_, 3rd c.BC). ">Refs 3rd c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.31.36]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.31.36]]
 </sub></small>

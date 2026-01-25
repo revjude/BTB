@@ -6,5 +6,5 @@
  <b>enclose in a collar</b>, [<a href="javascript:void(0)" title=" LXX.Prov.6.21 (\_middle\_). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.6.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.6.21]]
 </sub></small>

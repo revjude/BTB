@@ -6,5 +6,5 @@
  <b>mockery,</b> [<a href="javascript:void(0)" title=" LXX.Job.12.4, Scholia B 8th c.BC: Ilias Homerus Epicus “Illiad” 14.459. ">LXX+8th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.12.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.12.4]]
 </sub></small>

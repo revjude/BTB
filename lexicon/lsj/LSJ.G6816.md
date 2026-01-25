@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>διαβάλλω</span> [<a
 $\quad$ $\quad$<b>\_\_III</b> (<span class='asgreek'>διαβάλλω</span> [<a href="javascript:void(0)" title=" v111)">Refs</a>] <b>legal obligation(?),</b> [<a href="javascript:void(0)" title=" Leges Gortynensium 9.35. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>fraud,</b> [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Plutus” 373. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.22.32]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.22.32]]
 </sub></small>

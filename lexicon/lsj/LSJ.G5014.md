@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>humiliation, abasement</b>, [<a href="jav
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>lowness of style</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.7a, 1st c.AD: Quintilianus Rhetor Latinus “Inst.” 8.3.48. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>dejection</b> of a planet (compare <span class='asgreek'>ταπείνωμα</span>), [<a href="javascript:void(0)" title=" 2nd c.AD: Dorotheus Astrologus 86. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.29.32]] ☩ [[Luke.1.48]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.29.32]] ☩ [[Luke.1.48]]
 </sub></small>

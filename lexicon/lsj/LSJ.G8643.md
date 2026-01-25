@@ -7,5 +7,5 @@ Included with: <b> <span class='asgreek'>==παραφρόνησις==</span>-<s
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to be delirious</b>, variant in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “προγνωστικόν” 10 ">Refs 5th c.BC+</a>]. <span class='asgreek'>παραφρόν</span>-<span class='asgreek'>ησις</span>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, ={<span class='asgreek'>παραφροσύνη</span>}, [<a href="javascript:void(0)" title=" LXX.Zech.12.4, 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 18, 3rd c.BC: Herodas Mimographus ">LXX+5th c.BC+</a>] <i>middle</i> in [<a href="javascript:void(0)" title=" “Rh.Mus.” 58.70. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Zech.12.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.12.4]]
 </sub></small>

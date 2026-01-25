@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> of Time, <b>curtail, shorten</b>, <span class='asgreek'>τὰς</span> <span class='asgreek'>ἡμέρας</span> [<a href="javascript:void(0)" title=" NT.Mark.13.20, cf. NT.Matt.24.22 (\_passive\_). ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.4.12]] ☩ [[Mark.13.20]] ☩ [[Matt.24.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.4.12]] ☩ [[Mark.13.20]] ☩ [[Matt.24.22]]
 </sub></small>

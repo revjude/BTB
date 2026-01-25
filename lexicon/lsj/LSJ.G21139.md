@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>knot</b> or <b>induration</b> in the breast or other parts, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 587b22 ">Refs 4th c.BC+</a>]; compare <span class='asgreek'>στραγγαλιά</span>. 
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> some kind of ornament, [<a href="javascript:void(0)" title=" LXX.Judg.8.26 ">LXX</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>ἀργυρᾶ</span>, <span class='asgreek'>σ</span>. <span class='asgreek'>χρυσᾶ</span> <span class='asgreek'>κεκολλημένη</span>, [<a href="javascript:void(0)" title=" “POxy.” 1449.18, 23 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.8.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.8.26]]
 </sub></small>

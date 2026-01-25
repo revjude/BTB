@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b>. <b>governor</b>, <b>administrator</b>, 
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b>. ={<span class='asgreek'>προστάτης</span>}, Latin <i>patronus,</i> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 14.1317. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b>. in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 437, ={χυτρόπους}, 3rd-2nd c.BC: Aristophanes Byzantinus Philosophus cited in 12th c.AD: Eustathius Episcopus Thessalonicensis 1827.45; other explanations, [prev. passage], compareScholia Ar.[same place]: τοὐπιστάτου is from ἐπίστατος, ={πυρίστατος}, Anonymus cited in 12th c.AD: Eustathius Episcopus Thessalonicensis 1827.56: uncertain meaning in “BpW” 1892.514">Refs 5th c.BC+</a>]; compare <span class='asgreek'>ἐπίστατον</span>.
 
-<small><sub>LSJ Scripture Refs: [[Luke.5.5]] ☩ [[Exod.1.11]]
+<small><sub>LSJ Scripture Refs: [[Luke.5.5]] ☩ [[LXX.Exod.1.11]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> Grammars, <b>mode</b> or <b>modification</b> of a w
 $\quad$ $\quad$<b>\_\_III</b> in the Logic of [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus ">Refs 4th c.BC+</a>], <b>mood</b> of syllogisms, [<a href="javascript:void(0)" title=" “APr.” 42b30. ">Refs</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.b</b> <b>arrangement of terms</b> in a syllogism, [<a href="javascript:void(0)" title=" [prev. author] “APo.” 94a12. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.30.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.30.12]]
 </sub></small>

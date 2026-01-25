@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>crush,</b> [<a href="javascript:void(0)" 
 $\quad$ $\quad$<b>\_\_II</b> Grammars, <b>drop</b> a letter in the middle of a word, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Adverbiis;” 185.3 (\_passive\_). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>oppress much,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Aquila LXX.Exod.3.9, 2nd-3rd c.AD: Symmachus LXX.Judg.10.12:—">LXX+2nd c.AD+</a>]<i>passive</i>, <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>πόλιν</span> <span class='asgreek'>==ἀποθλίβω==θλιβῆναι</span> Wilcken [<a href="javascript:void(0)" title=" “Chr.” 11 A 9 (2nd c.BC).">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.8.45]] ☩ [[Num.22.25]] ☩ [[Exod.3.9]] ☩ [[Judg.10.12]]
+<small><sub>LSJ Scripture Refs: [[Luke.8.45]] ☩ [[LXX.Num.22.25]] ☩ [[LXX.Exod.3.9]] ☩ [[LXX.Judg.10.12]]
 </sub></small>

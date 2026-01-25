@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>illuminate with spiritual light,</b> <
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.4.b</b> in a special sense, <b>baptize,</b> in <i>passive</i>, [<a href="javascript:void(0)" title=" NT.Heb.6.4, 10.32. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>throw light upon, illustrate,</b> of commentators, <span class='asgreek'>Ὅμηρον</span> [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 1.57. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.4.5]] ☩ [[1Cor.1.1]] ☩ [[2Tim.1.10]] ☩ [[2Kgs.17.28]] ☩ [[Eph.3.9]] ☩ [[Heb.6.4]]
+<small><sub>LSJ Scripture Refs: [[1Cor.4.5]] ☩ [[1Cor.1.1]] ☩ [[2Tim.1.10]] ☩ [[LXX.2Kgs.17.28]] ☩ [[Eph.3.9]] ☩ [[Heb.6.4]]
 </sub></small>

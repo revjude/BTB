@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> in Prose, of taste, <b>salt,</b> <span class
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>bitter, distasteful,</b> <span class='asgreek'>γειτόνημα</span>[<a href="javascript:void(0)" title=" 7th c.BC: Alcman Lyricus 116, compare 5th-6th c.BC: Plato Philosophus “Leges” 705a; ἀκοή “Phdr.” 243d; λόγοι 2nd c.AD: Athenaeus Epigrammaticus 3.121e">Refs 7th c.BC+</a>]; <span class='asgreek'>ἁλμυρὰ</span> <span class='asgreek'>κλαίειν</span> weep <b>bitterly,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 23.34; ἁλμυρὸν καταπτύσαι 3rd c.BC: Cercidas Iambographus 19.37. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <b>piquant,</b> <span class='asgreek'>ἁ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>δριμύ</span>[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.685e.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.17.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.17.6]]
 </sub></small>

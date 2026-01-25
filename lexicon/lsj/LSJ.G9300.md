@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> in concrete sense, <b>union, cluster</b> (of stars
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>enumeration</b> of misdeeds, deeds, [<a href="javascript:void(0)" title=" “PFlor.” 295.7 (6th c.AD). ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>league</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.16.20, LXX.4Ki.10.34. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.16.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.16.20]]
 </sub></small>

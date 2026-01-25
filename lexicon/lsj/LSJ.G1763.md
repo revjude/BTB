@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>ἔτος</span>}, <
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>Ἐνιαυτός</span>, personified, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Fragmenta” 19, 5th-6th c.AD: Orphica “Fragmenta” 127.3 (assuming variant), 5th c.AD: Proclus Philosophus “in Platonis Timaeum commentarii” 3.41 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> name for a <b>Cornucopiae,</b> [<a href="javascript:void(0)" title=" 3rd c.BC(?): Callixinus Historicus 2, compare 2nd c.AD: Athenaeus Epigrammaticus 11.783c. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.25.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.25.29]]
 </sub></small>

@@ -5,5 +5,5 @@
  = <span class='asgreek'>ἴκτερος</span>, <i>accusative</i> <span class='asgreek'>ἴκτερα</span> variant in [<a href="javascript:void(0)" title=" LXX.Lev.26.16 ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.26.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.26.16]]
 </sub></small>

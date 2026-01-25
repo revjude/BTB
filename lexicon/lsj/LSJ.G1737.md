@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>clothe</b>, <span class='asgreek'>τινὰ</span> <span class='asgreek'>ἱματίῳ</span> [<a href="javascript:void(0)" title=" “Geoponica” 16.21.9. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.1.24]] ☩ [[Mark.15.17]] ☩ [[Luke.8.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.1.24]] ☩ [[Mark.15.17]] ☩ [[Luke.8.27]]
 </sub></small>

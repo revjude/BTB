@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>quarry stones from,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>γῆν</span> [<a href="javascript:void(0)" title=" 4th c.AD: Julianus Imperator “contra Galilaeos” 135c. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.21.18]] ☩ [[Deut.6.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.21.18]] ☩ [[LXX.Deut.6.11]]
 </sub></small>

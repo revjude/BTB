@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>suppliant</b>, <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title="Scholia 5th c.BC: Euripides Tragicus “Hecuba” 147; but π. Ζεύς, ={ἱκέσιος}, [prev. work] 345. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.16.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.16.2]]
 </sub></small>

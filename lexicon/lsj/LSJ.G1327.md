@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>military evolution,</b> <span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>excursion,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 247a. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>repeated experiment,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 10.169. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.22.9]] ☩ [[Ps.118.136]]
+<small><sub>LSJ Scripture Refs: [[Matt.22.9]] ☩ [[LXX.Ps.118.136]]
 </sub></small>

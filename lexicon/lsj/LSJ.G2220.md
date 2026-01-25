@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>cause to effervesce</b>, <span class='asgreek'>γῆν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 10.964, 6th c.AD: Aëtius Medicus 1 “Praef.”:">Refs 2nd c.AD+</a>] —<i>passive</i>, <span class='asgreek'>ζυμουμένη</span> [<span class='asgreek'>χύτρα</span>] [<a href="javascript:void(0)" title=" 2nd c.AD: Alexander Rhetor 124.8. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.5.6]] ☩ [[Exod.12.34]]
+<small><sub>LSJ Scripture Refs: [[1Cor.5.6]] ☩ [[LXX.Exod.12.34]]
 </sub></small>

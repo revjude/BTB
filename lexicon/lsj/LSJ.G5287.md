@@ -27,5 +27,5 @@ $\quad$ $\quad$<b>\_\_B.V</b> ={<span class='asgreek'>ὑπόστημα</span>}
 $\quad$ $\quad$<b>\_\_B.VI</b> <b>wealth, substance, property,</b>[<a href="javascript:void(0)" title="LXX.Deut.11.6, LXX.Jer.10.17, “POxy.” 1274.15 (3rd c.AD), “BGU” 1020.16 (6th c.AD), etc. ">LXX+3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.VI.2</b> <i>plural</i>, <b>title deeds, documents recording ownership of property,</b> [<a href="javascript:void(0)" title=" POxy. 237 viii 26 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.68.3]] ☩ [[Ps.88.48]] ☩ [[Ps.138.15]] ☩ [[Nah.2.7]] ☩ [[Ruth.1.12]] ☩ [[Heb.3.14]] ☩ [[2Cor.11.17]] ☩ [[Heb.11.1]] ☩ [[Heb.1.3]] ☩ [[1Kgs.13.23]] ☩ [[Deut.11.6]] ☩ [[Jer.10.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.68.3]] ☩ [[LXX.Ps.88.48]] ☩ [[LXX.Ps.138.15]] ☩ [[LXX.Nah.2.7]] ☩ [[LXX.Ruth.1.12]] ☩ [[Heb.3.14]] ☩ [[2Cor.11.17]] ☩ [[Heb.11.1]] ☩ [[Heb.1.3]] ☩ [[LXX.1Kgs.13.23]] ☩ [[LXX.Deut.11.6]] ☩ [[LXX.Jer.10.17]]
 </sub></small>

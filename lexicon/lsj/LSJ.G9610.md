@@ -6,5 +6,5 @@
  <b>high-hearted, proud,</b> [<a href="javascript:void(0)" title=" LXX.Prov.16.6(5), 2nd-3rd c.AD: Symmachus LXX.Eccl.7.9(8). ">LXX+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.16.6]] ☩ [[Eccl.7.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.16.6]] ☩ [[LXX.Eccl.7.9]]
 </sub></small>

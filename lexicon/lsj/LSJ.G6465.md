@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>take a fifth part of,</b> [<a href="javascript:void(0)" title="[prev. work] 41.34.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.47.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.47.26]]
 </sub></small>

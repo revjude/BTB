@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_IV</b> in <i>plural</i>, <b>muscles of the loins, psoas-mu
 $\quad$ $\quad$<b>\_\_V</b> ={<span class='asgreek'>ἀλωπεκία</span>} [<a href="javascript:void(0)" title=" 1, ">Refs</a>]<b>mange,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 7.72, 3rd c.BC: Callimachus Epicus “Hymnus in Dianam” 79">Refs 3rd c.BC+</a>]: in <i>plural</i>, <b>bald patches,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ παθῶν” 35. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> kind of <b>dance,</b> uncertain in [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 419 (probably in sense see), compare 5th c.AD(?): Hesychius Legal icographus see at {ὄρχησις}.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.21.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.21.10]]
 </sub></small>

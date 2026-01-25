@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.2</b> <i>passive</i>, <b>diverge,</b> of light r
 $\quad$ $\quad$ $\quad$<b>\_\_B.3</b> <b>upset,</b> <span class='asgreek'>==ὑπτιάζω==άζειν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἀνατρέπειν</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>γαστέρα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 6.593 ">Refs 2nd c.AD+</a>]; <b>relax,</b> [<span class='asgreek'>τὸ</span> <span class='asgreek'>στόμα</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>γαστρός</span>], opposed to <span class='asgreek'>ῥωννύειν</span>, [<a href="javascript:void(0)" title=" [prev. author] 15.461. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_B.II</b> <i>metaphorically</i>, <b>make subservient,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Lydus, Joannes Laurentius Historicus “Mag.” 2.26. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.11.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.11.13]]
 </sub></small>

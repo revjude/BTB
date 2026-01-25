@@ -1,0 +1,27 @@
+**LXX Proverbs 21:26** 
+<small><sub>**LXX:**</sub></small>
+An impious man lusts evil lusts \[the\] whole day; but the just one \[desires\] mercy, and he pities unsparingly. 
+<small><sub>**KJV:**</sub></small>
+He coveteth greedily all the day long: but the righteous giveth and spareth not.
+<small><sub>**BSB:**</sub></small>
+All day long he covets more, but the righteous give without restraint.<small><sub>**MT:**</sub></small>
+[[Prov.21.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.25|<< Proverbs 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.27|Proverbs 21:27 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| An impious man | <span class="asgreek">ασεβής <sup><small><small>[[G0765]]</small></small></sup> </span> |
+| lusts | <span class="asgreek">επιθυμεί <sup><small><small>[[G1937]]</small></small></sup> </span> |
+| \[the\] whole | <span class="asgreek">όλην <sup><small><small>[[G3650]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">την <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| day | <span class="asgreek">ημέραν <sup><small><small>[[G2250]]</small></small></sup> </span> |
+| lusts | <span class="asgreek">επιθυμίας <sup><small><small>[[G1939]]</small></small></sup> </span> |
+| evil | <span class="asgreek">κακάς <sup><small><small>[[G2556]]</small></small></sup> </span> |
+| but the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
+| just one | <span class="asgreek">δίκαιος <sup><small><small>[[G1342]]</small></small></sup> </span> |
+| \[desires\] mercy, | <span class="asgreek">ελεεί <sup><small><small>[[G1656]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| he pities | <span class="asgreek">οικτείρει <sup><small><small>[[G3627]]</small></small></sup> </span> |
+| unsparingly. | <span class="asgreek">αφειδώς <sup><small><small>[[G6620]]</small></small></sup> </span> |
+[[Prov.21.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.25|<< Proverbs 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.27|Proverbs 21:27 >>]]</td></tr></table>
+
+

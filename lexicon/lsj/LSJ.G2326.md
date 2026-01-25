@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>reaping-time, harvest</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Eupolis Comicus 202, 2nd c.BC: Polybius Historicus 5.95.5, NT.Matt.13.30, +others ">NT+5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>harvest, crop</b>, [<a href="javascript:void(0)" title=" LXX.Lev.19.9, NT.Matt.9.37. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.13.30]] ☩ [[Lev.19.9]] ☩ [[Matt.9.37]]
+<small><sub>LSJ Scripture Refs: [[Matt.13.30]] ☩ [[LXX.Lev.19.9]] ☩ [[Matt.9.37]]
 </sub></small>

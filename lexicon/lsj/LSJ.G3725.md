@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> Astrology texts, a subdivision of a zodiacal
 $\quad$ $\quad$<b>\_\_II</b> <i>plural</i>, <b>rules,</b> e.g. for the use of wine, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ὑγρῶν χρήσιος” 5. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>==ὅριον==</span>· <span class='asgreek'>τείχισμα</span>, <span class='asgreek'>φραγμόν</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus; so ὅρια καὶ σταυρώματα 5th c.BC: Thucydides Historicus 6.74 (restored from Scholia). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.10.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.10.4]]
 </sub></small>

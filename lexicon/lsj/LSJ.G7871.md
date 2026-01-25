@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>count, reckon among</b>, <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἀχαρίστους</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἀδίκοις</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.2.1 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>ἔν</span> <span class='asgreek'>τισι</span> -<span class='asgreek'>λογισθῆναι</span> [<a href="javascript:void(0)" title=" LXX.Isa.14.10, LXX.Wis.5.5. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>recount in order</b>, <span class='asgreek'>τισὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἔργα</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἑαυτοῦ</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Συριακή” 61, compare “Mac.” 19. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.14.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.14.10]]
 </sub></small>

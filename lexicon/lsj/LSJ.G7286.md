@@ -6,5 +6,5 @@
  <b>six hundredth,</b> [<a href="javascript:void(0)" title=" LXX.Gen.7.11. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.7.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.7.11]]
 </sub></small>

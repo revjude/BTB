@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>φ</span>., <span class='asgreek'>τό</span> (perhaps i.e. <span class='asgreek'>ἴον</span>), <b>wallflower, Cheiranthus Cheiri,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 6.8.1. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.3.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.3.24]]
 </sub></small>

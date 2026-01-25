@@ -3,17 +3,17 @@
 The children of Bazlith, the children of Mehida, the children of Harsha,
 <small><sub>**BSB:**</sub></small>
 the descendants of Bazlith, the descendants of Mehida, the descendants of Harsha,
-<small><sub>**Literal:**</sub></small>
-[the] descendants of Bazluth [the] descendants of Mehida [the] descendants of Harsha<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.53|<< Nehemiah 7:53]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.55|Nehemiah 7:55 >>]]</td></tr></table>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Neh.7.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.53|<< Nehemiah 7:53]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.55|Nehemiah 7:55 >>]]</td></tr></table>
 
-| Translation | <small><sup>\[Strong\'s\]</sup></small><span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | <small><small><sup>\[Strong\'s\]</sup></small></small> <span class="ashebrew">Hebrew</span> (or <span class="asaramaic">Aramaic</span>) | Transliteration <small><small><sup>\[morphology\]</sup></small></small> | Texts |
 | - | - | - | - |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵי</big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־</big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Bazluth  | <span class="ashebrew"><big>בַצְלִ֥ית</big></span><small><small><sup>[[H1213]]</sup></small></small> &#8207;| vatz.Lit<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵֽי</big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־</big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Mehida  | <span class="ashebrew"><big>מְחִידָ֖א</big></span><small><small><sup>[[H4240]]</sup></small></small> &#8207;| me.chi.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֥י</big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Harsha  | <span class="ashebrew"><big>חַרְשָֽׁא</big></span><small><small><sup>[[H2797]]</sup></small></small> <span class="ashebrew"><big>׃</big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| char.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bazluth  | <span class="ashebrew"><big>בַצְלִ֥ית </big></span><small><small><sup>[[H1213]]</sup></small></small> &#8207;| vatz.Lit <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵֽי </big></span><small><small><sup>[[H1121G]]</sup></small></small> <span class="ashebrew"><big>־ </big></span><small><small><sup>[[H9014]]</sup></small></small> &#8207;| be.nei- <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Mehida  | <span class="ashebrew"><big>מְחִידָ֖א </big></span><small><small><sup>[[H4240]]</sup></small></small> &#8207;| me.chi.Da' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] descendants of  | <span class="ashebrew"><big>בְּנֵ֥י </big></span><small><small><sup>[[H1121G]]</sup></small></small> &#8207;| be.Nei <small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Harsha  | <span class="ashebrew"><big>חַרְשָֽׁא </big></span><small><small><sup>[[H2797]]</sup></small></small> <span class="ashebrew"><big>׃ </big></span><small><small><sup>[[H9016]]</sup></small></small> &#8207;| char.Sha' <small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.53|<< Nehemiah 7:53]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.55|Nehemiah 7:55 >>]]</td></tr></table>
 
 

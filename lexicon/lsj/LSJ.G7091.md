@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>genitive</i>, <span class='asgreek'>
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>ferment,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.7. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be boiled to a decoction,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “χρονίων νούσων θεραπευτικόν” 2.5. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.16.20]] ☩ [[1Kgs.6.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.16.20]] ☩ [[LXX.1Kgs.6.1]]
 </sub></small>

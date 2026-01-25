@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>cause to appear white</b>, of the effect 
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>have a sensation of whiteness</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 7.191, +others ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>grow white</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hyps.fragment” 34(60) i13, 4th c.BC: Aristoteles Philosophus “Problemata” 890a9, LXX.Lev.13.19 ">LXX+5th c.BC+</a>]; <span class='asgreek'>ἀφροῖο</span> <b>with</b> foam, [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Alexipharmaca” 170. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.13.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.13.19]]
 </sub></small>

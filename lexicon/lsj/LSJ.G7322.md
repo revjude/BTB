@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>confession,</b> [<a href="javascript:void(0)" title="[prev. work] 22.22. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.33.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.33.26]]
 </sub></small>

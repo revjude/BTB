@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>middle</i> and <i>passive</i>, <b>bathe</b>, <sp
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in strict <i>passive</i> sense, <span class='asgreek'>λοῦσθαι</span> <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Διός</span>, i.e. <b>to be washed</b> by the rain from heaven, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.124, 125. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> in strict <i>middle</i> sense, with <i>accusative</i>, <span class='asgreek'>λοέσσασθαι</span> <span class='asgreek'>χρόα</span> <b>wash one's</b> body, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 522, “Th.” 5 ">Refs 8th c.BC+</a>]; <span class='asgreek'>λούονται</span> (variant{<span class='asgreek'>λοῦνται</span>}) <span class='asgreek'>ὕδατι</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>σῶμα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.75. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.5.12]] ☩ [[Acts.16.33]] ☩ [[Rev.1.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.5.12]] ☩ [[Acts.16.33]] ☩ [[Rev.1.5]]
 </sub></small>

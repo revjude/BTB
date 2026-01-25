@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>ruin,</b> <span class='asgreek'>ἀνθρώπων</span> probably in [<a href="javascript:void(0)" title=" “OGI” 669.63 (Egypt, 1st c.AD). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.92.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.92.3]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>shoulderstrap</b>, [<a href="javascript:void(0)" title=" LXX.Exod.28.14. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.14]]
 </sub></small>

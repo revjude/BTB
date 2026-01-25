@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>conceive</b>, [<a href="javascript:void(0)" title=" LXX.Ps.50.7. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.50.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.50.7]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ ****<b>\_\_A</b> <span class='asgreek'>πρίονος</span> [<a href="
 $\quad$ $\quad$ $\quad$<b>\_\_A.2</b> <b>Saw,</b> nickname of a timber-merchant, [<a href="javascript:void(0)" title=" “Comica Adespota” 823. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_A.3</b> <b>cylindrical saw, trephine,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ τῶν ἐν κεφαλη—ͅ τρωμάτων” 21. (Oxyt. \_accusative\_ to 9th c.AD: Photius Legal icographus, etc., thus differing from \_participle\_ ==πρίων==, but \_paroxytone\_ \_accusative\_ to Hdn.Gr. 1.20.)">Refs 5th c.BC+</a>] [<span class='asgreek'>ῑ</span> Trag. and Comedy texts, also [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 5.199 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>ῐ</span> in later Poets, <i>dative</i> <i>plural</i> <span class='asgreek'>πρῐόνεσσι</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Theriaca” 52, compare “Anthologia Graeca” 6.204 (1st c.AD: Leonidas Alexandrinus Epigrammaticus).] ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Amos.1.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.1.3]]
 </sub></small>

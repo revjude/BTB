@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>bridal hymn, epigram Gr.</b>[<a href="jav
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> perhaps <b>shrine</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 4.56. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>παστόν</span> (<i>accusative</i>) is uncertain reading in [<a href="javascript:void(0)" title=" 6th c.BC: Pherecydes Lerius Historicus 13 (b) 1st c.AD: Josephus Historicus ">Refs 6th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.18.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.18.5]]
 </sub></small>

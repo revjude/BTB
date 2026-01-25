@@ -6,5 +6,5 @@
  <b>bearing malice, revengeful</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1125a3, “Rh.” 1381b4, LXX.Prov.12.28. ">LXX+4th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.12.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.12.28]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>balloting urn,</b> especially in lawco
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>cinerary urn,</b> [<a href="javascript:void(0)" title=" [prev. author] “Phil.” 21, 2nd c.AD: Lucianus Sophista “Dem.Enc.” 29, etc. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>water-clock,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 5.75, 4th c.AD: Julianus Imperator “Caesares” 325c. [ῑ in 3rd c.BC: Apollonius Rhodius Epicus [same place], where ==ὑδρία==είης is variant] ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.12.6]] ☩ [[John.2.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.12.6]] ☩ [[John.2.6]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>turban of Jewish high priest</b>, [<a href="javascript:void(0)" title=" LXX.Exod.28.4, +others ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>an Arcadian dance</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 14.631d. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.4]]
 </sub></small>

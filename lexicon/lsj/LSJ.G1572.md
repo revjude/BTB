@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>light up, kindle,</b> <span class='asgreek'>τ�
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>stimulate,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>βλάστησιν</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 2.1.3. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>scorch,</b> <span class='asgreek'>==ἐκκαίω==ν</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>ἥλιος</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 867a20 ">Refs 4th c.BC+</a>]; of thirst, <b>parch,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Dips.” 4. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.24.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.24.1]]
 </sub></small>

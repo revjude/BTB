@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>sprinkle on</b> one, <span class='asgreek'>τινί</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 684; π. πολὺ τῇ θύρᾳ 1st c.BC-1st c.AD: Strabo Geographus 14.5.14 ">Refs 3rd c.BC+</a>]; <span class='asgreek'>τινὶ</span> <span class='asgreek'>ὕδατος</span> (<i>partitive</i> <i>genitive</i>) [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 11.418: \_absolutely\_, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 620a14. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>passive</i>, <b>to be sprinkled</b>, <span class='asgreek'>ἅλμῃ</span> <b>with</b> salt,[<a href="javascript:void(0)" title=" [prev. work] 596a26, compare “Mir.” 835b35 ">Refs</a>]; <span class='asgreek'>ταῖς</span> <span class='asgreek'>φλοξί</span> <b>upon</b> flames, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.627c. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.4.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.4.6]]
 </sub></small>

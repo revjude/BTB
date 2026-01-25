@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>dose of medicine,</b> [<a href="javasc
 $\quad$ $\quad$ $\quad$<b>\_\_II.8</b> <span class='asgreek'>τῆς</span> <span class='asgreek'>οἰκονομίας</span> <span class='asgreek'>πολλὴν</span> <span class='asgreek'>ποιεῖσθαι</span> <span class='asgreek'>δ</span>. lay great <b>stress</b> on an arrangement, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Demosthene” 51; οὐ τοσαύτην ποιούμενοι τῆς ἡδονῆς δ. ὅσην τῆς ἀληθείας [prev. work] 18. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.9</b> <b>destiny, fate</b> of an individual, <span class='asgreek'>ἡ</span> <span class='asgreek'>ἀνθρωπίνη</span> <span class='asgreek'>δ</span>. [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de Mysteriis” 1.3 ">Refs 4th c.AD+</a>]; especially of planetary <b>influence,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 2.3.2, +others ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.4.15]] ☩ [[Gen.47.22]]
+<small><sub>LSJ Scripture Refs: [[Phil.4.15]] ☩ [[LXX.Gen.47.22]]
 </sub></small>

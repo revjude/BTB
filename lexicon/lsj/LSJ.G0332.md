@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>curse and swear,</b> [<a href="javascript:void(0)" title="NT.Mark.14.71.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.21.2]] ☩ [[Josh.6.20]] ☩ [[Deut.13.15]] ☩ [[Acts.23.14]] ☩ [[Num.18.14]] ☩ [[Mark.14.71]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.21.2]] ☩ [[LXX.Josh.6.20]] ☩ [[LXX.Deut.13.15]] ☩ [[Acts.23.14]] ☩ [[LXX.Num.18.14]] ☩ [[Mark.14.71]]
 </sub></small>

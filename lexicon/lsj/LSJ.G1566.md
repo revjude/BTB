@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to the other world,</b> [<a href="javascr
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>genitive</i>, <span class='asgreek'>ἄνειμι</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>λόγου</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.239, compare 5th-6th c.BC: Plato Philosophus “Leges” 864c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ἐκεῖ</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ διαίτης” 2.38, 3rd c.BC: Chrysippus Stoicus 2.244, 2nd c.BC: Polybius Historicus 5.51.3, LXX.Job.39.29, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 3.2.1, Scholia 5th c.BC: Pindarus Lyricus “O.” 9.108; τοὺς ἐ. ὄντας NT.Acts.22.5. ">NT+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.39.29]] ☩ [[Acts.22.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.39.29]] ☩ [[Acts.22.5]]
 </sub></small>

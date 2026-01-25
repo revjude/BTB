@@ -15,5 +15,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>calmness of the sea, malacia ac tranquillitas</b
 
 $\quad$ $\quad$<b>\_\_II</b> see at {<span class='asgreek'>μαλάχιον</span>}.
 
-<small><sub>LSJ Scripture Refs: [[Gen.42.4]] ☩ [[Matt.4.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.42.4]] ☩ [[Matt.4.23]]
 </sub></small>

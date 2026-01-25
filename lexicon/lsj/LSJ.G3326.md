@@ -42,5 +42,5 @@ $\quad$ $\quad$<b>\_\_G.VI</b> <b>after, behind</b>, as in <span class='asgreek'
 $\quad$ $\quad$<b>\_\_G.VII</b> <b>reversely</b>, as in <span class='asgreek'>μετατρέπω</span>, <span class='asgreek'>μεταστρέφω</span>. 
 $\quad$ $\quad$<b>\_\_G.VIII</b> most frequently of <b>change</b> of place, condition, plan, etc., as in <span class='asgreek'>μεταβαίνω</span>, <span class='asgreek'>μεταβάλλω</span>, <span class='asgreek'>μεταβουλεύω</span>, <span class='asgreek'>μεταγιγνώσκω</span>, etc.
 
-<small><sub>LSJ Scripture Refs: [[Matt.26.47]] ☩ [[Acts.14.27]] ☩ [[Luke.10.36]] ☩ [[Judg.11.27]] ☩ [[Rev.12.7]]
+<small><sub>LSJ Scripture Refs: [[Matt.26.47]] ☩ [[Acts.14.27]] ☩ [[Luke.10.36]] ☩ [[LXX.Judg.11.27]] ☩ [[Rev.12.7]]
 </sub></small>

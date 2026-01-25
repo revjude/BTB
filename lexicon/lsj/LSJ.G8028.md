@@ -6,5 +6,5 @@
  <b>steal from, rob</b>, <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" LXX.Gen.31.26. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.31.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.31.26]]
 </sub></small>

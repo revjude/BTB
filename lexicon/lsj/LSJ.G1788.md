@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> later with <i>accusative</i>, <b>reverenc
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.b</b> <b>feel shame on account of,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 2.49.7. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <i>absolutely</i>, <b>feel shame</b> or <b>fear</b>, [<a href="javascript:void(0)" title=" “UPZ” 62.29 (2nd c.BC), NT.2Thess.3.14, NT.Titus.2.8. ">NT+2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.4.14]] ☩ [[Lev.26.41]] ☩ [[Mark.12.6]] ☩ [[2Thess.3.14]] ☩ [[Titus.2.8]]
+<small><sub>LSJ Scripture Refs: [[1Cor.4.14]] ☩ [[LXX.Lev.26.41]] ☩ [[Mark.12.6]] ☩ [[2Thess.3.14]] ☩ [[Titus.2.8]]
 </sub></small>

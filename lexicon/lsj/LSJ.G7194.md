@@ -6,5 +6,5 @@
  <b>come in upon</b>, <span class='asgreek'>τινί</span> [<a href="javascript:void(0)" title=" LXX.Prov.6.11. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.6.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.6.11]]
 </sub></small>

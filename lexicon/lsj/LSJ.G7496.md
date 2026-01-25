@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>ἐ</span>., <span cla
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>working for a livelihood,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἐ</span>. the <b>working people,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “BC” 3.72; especially of courtesans, 2nd c.AD: Artemidorus Daldianus Onirocriticus 1.78. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>active,</b> [<a href="javascript:void(0)" title=" θρασύτης {5-6th c.AD}: Orphica “Hymni” 60.7 ">Refs 5th c.AD+</a>].
 
-<small><sub>LSJ Scripture Refs: [[Lev.13.49]] ☩ [[1Kgs.20.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.13.49]] ☩ [[LXX.1Kgs.20.19]]
 </sub></small>

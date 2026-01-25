@@ -6,5 +6,5 @@
  <b>a shake, quake</b>, [<a href="javascript:void(0)" title=" LXX.Job.28.26, “Anthologia Graeca” 9.139 (4th-5th c.AD: Claudianus Epigrammaticus). ">LXX+4th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.28.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.28.26]]
 </sub></small>

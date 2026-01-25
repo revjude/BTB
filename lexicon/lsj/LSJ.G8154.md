@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>pit, reservoir</b>, [<a href="javascript:
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>Κούρτιος</span> <span class='asgreek'>λ</span>., = Latin <i>lacus Curtius</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 2.42. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> a kind of garment, <span class='asgreek'>λ</span>. <span class='asgreek'>χρωμάτινος</span> [<a href="javascript:void(0)" title=" “Periplus Maris Rubri [1st c.AD]” 6. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.37.20]] ☩ [[Dan.6.7]] ☩ [[Ps.39.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.37.20]] ☩ [[LXX.Dan.6.7]] ☩ [[LXX.Ps.39.2]]
 </sub></small>

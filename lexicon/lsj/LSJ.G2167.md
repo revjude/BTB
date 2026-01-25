@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>proper name</i>, [<a href="javascript:void(0)" title=" “Euphrosyne” ">Refs</a>], one of the Graces, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 909, etc. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.31.27]] ☩ [[Acts.2.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.31.27]] ☩ [[Acts.2.28]]
 </sub></small>

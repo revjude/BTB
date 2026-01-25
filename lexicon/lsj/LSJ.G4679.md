@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <span class='asgreek'>σ</span>
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> with <i>accusative</i> <i>person</i>, <b>deceive</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>Τίτον</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 4.2.3; μή με ==σοφίζω==ίζου “Anthologia Graeca” 12.25 (Stat. Flacc.); τὸν δῆμον 2nd c.AD: Herodianus Grammaticus 7.10.7; also σ. τὴν αἴσθησιν 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 1.15. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> '<b>counter</b>' by a device, <span class='asgreek'>==σοφίζω==ίζεται</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>βίαν</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>μηχανήματος</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 3.7.20. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.18.8]] ☩ [[2Tim.3.15]] ☩ [[Eccl.7.24]] ☩ [[1Kgs.3.8]] ☩ [[2Pet.1.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.18.8]] ☩ [[2Tim.3.15]] ☩ [[LXX.Eccl.7.24]] ☩ [[LXX.1Kgs.3.8]] ☩ [[2Pet.1.16]]
 </sub></small>

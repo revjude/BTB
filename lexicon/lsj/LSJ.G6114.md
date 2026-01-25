@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>holiness,</b>[<a href="javascript:void(0)" title="LXX.Ps.92.5.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Amos.7.13]] ☩ [[Ps.92.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.7.13]] ☩ [[LXX.Ps.92.5]]
 </sub></small>

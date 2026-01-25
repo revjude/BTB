@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>inmost part of a temple, shrine</b> containing t
 $\quad$ $\quad$<b>\_\_III</b> <b>portable shrine</b> carried in processions, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.63, 1st c.BC: Diodorus Siculus Historicus 1.15, etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>metaphorically</i>, of Christians, <span class='asgreek'>ν</span>. <span class='asgreek'>θεοῦ</span> <span class='asgreek'>ἐστε</span> [<a href="javascript:void(0)" title=" NT.1Cor.3.16 ">NT</a>]; of the body of Christ, [<a href="javascript:void(0)" title=" NT.John.2.19, 21. [νᾰόν and νᾰῶ 5th-6th c.AD: Orphica “Fragmenta” 32b iv (Phaestus, 2nd c.BC)">NT+2nd c.BC+</a>]; elsewhere <span class='asgreek'>ᾱ</span>.] (Perh. from <span class='asgreek'>νᾰσ</span>-ϝ<span class='asgreek'>ός</span>, compare <span class='asgreek'>ναίω</span>.)
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.1.9]] ☩ [[1Cor.3.16]] ☩ [[John.2.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.1.9]] ☩ [[1Cor.3.16]] ☩ [[John.2.19]]
 </sub></small>

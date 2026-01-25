@@ -16,5 +16,5 @@ $\quad$ $\quad$<b>\_\_II</b> of events, <b>await,</b> <span class='asgreek'>το
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of contiguous countries, <b>come next,</b> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>ταύτης</span> (i.e. <span class='asgreek'>τῆς</span> <span class='asgreek'>Περσικῆς</span>) <span class='asgreek'>ἐ</span>. <span class='asgreek'>Ἀσσυρίη</span> [<a href="javascript:void(0)" title=" [prev. author] 4.39, compare 99, “Peripl.M. Rubr.” 27. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> in Architecture texts, <b>support,</b> <span class='asgreek'>καμάραν</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 18.26. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.11.33]] ☩ [[Gen.43.9]]
+<small><sub>LSJ Scripture Refs: [[1Cor.11.33]] ☩ [[LXX.Gen.43.9]]
 </sub></small>

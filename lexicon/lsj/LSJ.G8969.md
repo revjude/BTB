@@ -6,5 +6,5 @@
  <b>invest with the privilege of primogeniture</b>, [<a href="javascript:void(0)" title=" LXX.Deut.21.17. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.21.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.21.17]]
 </sub></small>

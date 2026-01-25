@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.b</b> <i>metaphorically</i>, <span cla
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> in large ships, <b>state-cabin</b> on the poop, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 1.89, 4th c.AD: Palaephatus Paradoxographus 29; τῶν συριῶν ὑπὲρ τὴν σ. οὐσῶν “PHib.” 1.38.7 (3rd c.BC); ἀποκαταστήσω [τὸν σῖτον] ἐπὶ ==σκηνή==ήν [prev. work] 86.8 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>entertainment given in tents, banquet</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 2.3.1, 4.2.34, etc.; σ. δημοσία [prev. author] “Lac.” 15.4. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.26.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.26.1]]
 </sub></small>

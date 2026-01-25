@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>to be convicted of</b> <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>middle</i>, <b>disguise oneself,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.14.5. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>ποιητοῦ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τὰ</span> <span class='asgreek'>ἔπη</span> <b>estrange</b> the verses <b>from</b> him, i.e. <b>deny that</b> they <b>are</b> his, [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 2.49b">Refs 2nd c.AD+</a>]; but in <i>passive</i>, <span class='asgreek'>ἀπεξενωμένος</span> <b>outlandish,</b> of words,[<a href="javascript:void(0)" title=" Hdn.Gr. 2.910; μαθήματα 4th c.AD: Iamblichus Philosophus “de vita Pythagorica” 1.2.">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.14.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.14.5]]
 </sub></small>

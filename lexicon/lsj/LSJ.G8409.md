@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <i>substantive</i> <span class='asgreek'>νωτοφόρος</span>, <span class='asgreek'>ὁ</span>, <b>carrier, porter,</b> [<a href="javascript:void(0)" title=" PPetr. 3p.139(3rd c.BC), LXX.2Chr.34.13, “PTeb.” 115.7 (2nd c.BC). ">LXX+3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>neuter</i> <span class='asgreek'>νωτοφόρον</span>, <span class='asgreek'>τό</span>, <b>beast of burden,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 6.2.34 (but ν. ἡμίονος as cited by 2nd c.AD(?): Pollianus Epigrammaticus 2.180, compare “PCair.Zen.” 8.13 (3rd c.BC)), 2nd-3rd c.AD: Dio Cassius Historicus 56.20. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.2.18]] ☩ [[2Chr.34.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.2.18]] ☩ [[LXX.2Chr.34.13]]
 </sub></small>

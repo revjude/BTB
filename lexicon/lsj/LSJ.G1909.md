@@ -97,5 +97,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_G.III.2</b>. Authority <b>over</b>, as in <span cl
 $\quad$ $\quad$ $\quad$<b>\_\_G.III.3</b>. Motive <b>for</b>, as in <span class='asgreek'>ἐπιθυμέω</span>, <span class='asgreek'>ἐπιζήμιος</span>, <span class='asgreek'>ἐπιθάνατος</span>. 
 $\quad$ $\quad$ $\quad$<b>\_\_G.III.4</b>. to give force or intensity to the Verb, as in <span class='asgreek'>ἐπαινέω</span>, <span class='asgreek'>ἐπιμέμφομαι</span>, <span class='asgreek'>ἐπικείρω</span>, <span class='asgreek'>ἐπικλάω</span>. 
 
-<small><sub>LSJ Scripture Refs: [[Mark.12.26]] ☩ [[Matt.28.14]] ☩ [[Mark.12.14]] ☩ [[Deut.17.7]] ☩ [[Rom.4.18]] ☩ [[Rom.5.12]] ☩ [[Matt.10.18]] ☩ [[Luke.23.48]] ☩ [[2Kgs.23.1]]
+<small><sub>LSJ Scripture Refs: [[Mark.12.26]] ☩ [[Matt.28.14]] ☩ [[Mark.12.14]] ☩ [[LXX.Deut.17.7]] ☩ [[Rom.4.18]] ☩ [[Rom.5.12]] ☩ [[Matt.10.18]] ☩ [[Luke.23.48]] ☩ [[LXX.2Kgs.23.1]]
 </sub></small>

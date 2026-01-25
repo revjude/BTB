@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>burn, blaze,</b> [<a href="javascript:void(0)" title=" LXX.Exod.9.24. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.96.3]] ☩ [[Jas.3.6]] ☩ [[Exod.9.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.96.3]] ☩ [[Jas.3.6]] ☩ [[LXX.Exod.9.24]]
 </sub></small>

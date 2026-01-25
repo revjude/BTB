@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>derangement, madness</b>, [<a href="javascript:void(0)" title=" LXX.Deut.28.28, +others, 1st c.AD: Philo Judaeus 2.556, 2nd c.AD: Oenomaus Philosophus cited in 4th c.AD: Eusebius Caesariensis Scriptor Ecclesiasticus “Praeparatio Evangelica” 5.22. ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.28]]
 </sub></small>

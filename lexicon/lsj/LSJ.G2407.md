@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be made holy</b>, Zos.Alch.p.108B.
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.1]] ☩ [[Luke.1.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.1]] ☩ [[Luke.1.8]]
 </sub></small>

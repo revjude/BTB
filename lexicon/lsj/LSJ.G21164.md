@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>musterroll, census</b>, [<a href="javascript:void(0)" title=" LXX.1Chr.9.1. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Chr.9.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.9.1]]
 </sub></small>

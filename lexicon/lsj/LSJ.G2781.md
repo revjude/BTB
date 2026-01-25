@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, of a book of poems, [
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, of anything pleasant, <span class='asgreek'>τῆς</span> <span class='asgreek'>ἐπιθυμίας</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 4th c.AD: Libanius Sophista “Epistulae” 112.1. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>a cutaneous disease</b>, ={<span class='asgreek'>μελικηρίς</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 2.135 (\_plural\_), 2nd c.AD: Galenus Medicus 7.728, +others ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.14.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.14.27]]
 </sub></small>

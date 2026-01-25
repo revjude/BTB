@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>sail-cloth,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 47.20, 2nd c.BC: Polybius Historicus 5.89.2; so perhaps in “PPetr.” 1p.79 (3rd c.BC, \_plural\_). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.19.40]] ☩ [[Judg.14.13]]
+<small><sub>LSJ Scripture Refs: [[John.19.40]] ☩ [[LXX.Judg.14.13]]
 </sub></small>

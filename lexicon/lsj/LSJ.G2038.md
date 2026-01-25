@@ -17,5 +17,5 @@ $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, rarely in <i>present</i> and <i>im
 $\quad$ $\quad$ $\quad$<b>\_\_III.1</b> <b>to be made</b> or <b>built,</b> [<a href="javascript:void(0)" title=" ἔργαστο τὸ τεῖχος 5th c.BC: Herodotus Historicus 1.179; ἐκ πέτρας εἰργασμένος Aeschylus Tragicus [{4-5th c.BC}] “Prometheus Vinctus” 244; οἰκοδόμημα διὰ ταχέων εἰργ. 5th c.BC: Thucydides Historicus 4.8 ">Refs 5th c.BC+</a>]; <span class='asgreek'>λίθοι</span> <span class='asgreek'>εἰργ</span>. <b>wrought</b> stones, [<a href="javascript:void(0)" title=" [prev\. author] 1.93; γῆ εἰργ. Xenophon Historicus [{5-6th c.BC}] “Oeconomicus” 19.8; θώρακας εὖ εἰργ. [prev\. author] “Mem.” 3.10.9 ">Refs 6th c.BC+</a>]. 
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>to be done,</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Ag.” 354, 1346, 5th c.BC: Euripides Tragicus “Hec.” 1085; εἰργασμένα \_things done, deeds, 5th c.BC: Herodotus Historicus 7.53 (ἐργ-), 5th c.BC: Euripides Tragicus “Ion” 1281, compare 5th c.BC: Sophocles Tragicus “OT” 1369. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.29.27]] ☩ [[1Cor.16.10]] ☩ [[Acts.10.35]] ☩ [[Matt.7.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.29.27]] ☩ [[1Cor.16.10]] ☩ [[Acts.10.35]] ☩ [[Matt.7.23]]
 </sub></small>

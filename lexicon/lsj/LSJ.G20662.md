@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>κιναιδεία<
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>weakliness, sickness</b>, [<a href="javascript:void(0)" title=" LXX.Gen.42.4, NT.Matt.4.23, Pseudo-Herodotus Historicus “Vitae Homeri” 36, “POxy.” 1151.27 (5th c.AD)">LXX+NT+5th c.BC+</a>]; <span class='asgreek'>μ</span>. <span class='asgreek'>σώματος</span>, opposed to <span class='asgreek'>ψυχῆς</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Mus.” p.30 K. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>calmness of the sea, malacia ac tranquillitas</b>, [<a href="javascript:void(0)" title="Caes. “BG” 3.15.3. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.42.4]] ☩ [[Matt.4.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.42.4]] ☩ [[Matt.4.23]]
 </sub></small>

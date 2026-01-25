@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>show by example</b>, [<a href="javascript:void(0)" title=" 12th c.AD: Eustathius Episcopus Thessalonicensis 153.18 (\_passive\_). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.25.4]] ☩ [[Matt.1.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.25.4]] ☩ [[Matt.1.19]]
 </sub></small>

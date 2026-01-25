@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be diffused, dissipated,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 14, 4th c.BC: Aristoteles Philosophus “Meteorologica” 341a30. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.7.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.7.17]]
 </sub></small>

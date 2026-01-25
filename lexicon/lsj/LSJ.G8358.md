@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>hard formation</b> in a woman's womb, [<a href="
 $\quad$ $\quad$<b>\_\_V</b> <i>plural</i>, <b>molars</b>, [<a href="javascript:void(0)" title=" LXX.Job.29.17, 1st c.AD: Anonymus Londinensis 24.24, 2nd c.AD: Galenus Medicus “de Usu Partium” 9.15 ">LXX+1st c.AD+</a>]: <i>singular</i>, of an ass's <b>tooth, PMag. Lond.</b>[<a href="javascript:void(0)" title=" 125.22, +others ">Refs</a>]
 $\quad$ $\quad$<b>\_\_VI</b> ={<span class='asgreek'>μῶλυ</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 12.80: root of λάπαθον, 6th c.AD: Aëtius Medicus 1.251 ">Refs 2nd c.AD+</a>]. (Cf. Latin <i>molo</i>, Gothic <i>malan</i> 'grind', etc.)
 
-<small><sub>LSJ Scripture Refs: [[Job.29.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.29.17]]
 </sub></small>

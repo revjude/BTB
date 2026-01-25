@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>prefixing, placing first,</b> [<a href
 $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> <span class='asgreek'>π</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>πτῶσις</span> perhaps <b>stem</b> (or <b>root</b>) and ending, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ ποιημάτων” 2.18. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> ={<span class='asgreek'>προθεσμία</span>}, interpolated in [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.21.6]] ☩ [[Matt.12.4]] ☩ [[Heb.9.2]] ☩ [[2Chr.29.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.21.6]] ☩ [[Matt.12.4]] ☩ [[Heb.9.2]] ☩ [[LXX.2Chr.29.18]]
 </sub></small>

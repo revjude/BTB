@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> = <i>Attic dialect</i> <span class='asgreek'>ἔπαινος</span>, <b>praise</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 23.795, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 21.110, 5th c.BC: Pindarus Lyricus “N.” 1.6; ἐπιτύμβιος αἶ. 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1547, compare 780, 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 707 (all Lyric poetry); ἄξιος αἴνου μεγάλου 5th c.BC: Herodotus Historicus 7.107 (variant{ἐπαίνου}),cf. LXX.Ps.8.2, +others, NT.Luke.18.43. ">NT+8th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>decree, resolution</b>, <span class='asgreek'>τῶν</span> <span class='asgreek'>Ἀχαιῶν</span>[<a href="javascript:void(0)" title=" “IG” 4.926 (Epid.)">Refs</a>]; <span class='asgreek'>κατ᾽</span> <span class='asgreek'>αἶνον</span>, opposed to <span class='asgreek'>κατὰ</span> <span class='asgreek'>ψήφισμα</span>, [<a href="javascript:void(0)" title=" “SIG” 672.15 (Delph.), compare “Etymologicum Magnum” 36.16.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.8.2]] ☩ [[Luke.18.43]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.8.2]] ☩ [[Luke.18.43]]
 </sub></small>

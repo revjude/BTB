@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>plural</i>, <b>eyes,</b> <span class='asg
 $\quad$ $\quad$<b>\_\_II</b> <b>a vision,</b> [<a href="javascript:void(0)" title=" LXX.Joel.2.28, NT.Acts.2.17 (\_plural\_). ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>appearance,</b> <span class='asgreek'>ὅμοιος</span> <span class='asgreek'>ὁράσει</span> <span class='asgreek'>λίθῳ</span> <span class='asgreek'>ἰάσπιδι</span> [<a href="javascript:void(0)" title=" NT.Rev.4.3; ὁ μεταμορφούμενος ἐν ταῖς ὁράσεσιν “PLeid.W.” 13.36. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Joel.2.28]] ☩ [[Acts.2.17]] ☩ [[Rev.4.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Joel.2.28]] ☩ [[Acts.2.17]] ☩ [[Rev.4.3]]
 </sub></small>

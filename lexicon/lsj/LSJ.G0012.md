@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἄ</span>. <b>the great deep,</b> [<a href="javascript:void(0)" title=" LXX.Gen.1.2, etc.">LXX</a>]: <b>the abyss, underworld, </b>[<a href="javascript:void(0)" title=" NT.Luke.8.31, NT.Rom.10.7, NT.Rev.9.1, etc.">NT</a>]; <b>the infinite void,</b> [<a href="javascript:void(0)" title=" PMag.Par. 1.1120, compare “PMag.Lond.” 121.261.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.1.2]] ☩ [[Luke.8.31]] ☩ [[Rom.10.7]] ☩ [[Rev.9.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.1.2]] ☩ [[Luke.8.31]] ☩ [[Rom.10.7]] ☩ [[Rev.9.1]]
 </sub></small>

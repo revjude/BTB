@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>talk down, rail at</b>, <span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>weary by talking</b>, gloss on{<span class='asgreek'>καταγλωττίζειν</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Phrynichus Atticista “Praeparatio Sophistica” p.79B. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> simply, <b>interview, address</b> a person, [<a href="javascript:void(0)" title=" “PHib.” 1.151 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.2.12]] ☩ [[Hos.7.13]] ☩ [[Ps.49.20]]
+<small><sub>LSJ Scripture Refs: [[1Pet.2.12]] ☩ [[LXX.Hos.7.13]] ☩ [[LXX.Ps.49.20]]
 </sub></small>

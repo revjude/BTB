@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>act as</b> <span class='asgreek'>ἔκ
 $\quad$ $\quad$<b>\_\_III</b> <b>claim</b>, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 3488 (from Thyatira), “Inscription Perg.” 245; σιτία καὶ ποτά 5th c.AD: Hierocles Platonicus Philosophus “in Carmen Aureum - FPG” 8p.431M. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τισί</span> <b>make retribution for</b> them, [<a href="javascript:void(0)" title=" 5th-4th c.BC: Aesopus Fabularum Scriptor 279b. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.10.6]] ☩ [[2Kgs.4.8]] ☩ [[Rom.12.19]] ☩ [[Luke.18.3]] ☩ [[Ps.36.28]]
+<small><sub>LSJ Scripture Refs: [[2Cor.10.6]] ☩ [[LXX.2Kgs.4.8]] ☩ [[Rom.12.19]] ☩ [[Luke.18.3]] ☩ [[LXX.Ps.36.28]]
 </sub></small>

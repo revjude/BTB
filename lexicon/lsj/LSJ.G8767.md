@@ -6,5 +6,5 @@
  <b>surrounding wall</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.25.1, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.25.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.25.1]]
 </sub></small>

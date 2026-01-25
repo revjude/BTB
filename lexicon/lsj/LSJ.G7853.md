@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_I.2</b> <b>leave as an inheritance</b>, <span clas
 $\quad$ $\quad$ $\quad$<b>\_\_I.3</b> <b>assign as a possession</b>, [<a href="javascript:void(0)" title="[prev. work] 3.28, 12.10, NT.Acts.13.19. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> with <i>accusative</i> <i>person</i>, <b>make one's heir</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.7.1. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.21.16]] ☩ [[Acts.13.19]] ☩ [[2Kgs.7.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.21.16]] ☩ [[Acts.13.19]] ☩ [[LXX.2Kgs.7.1]]
 </sub></small>

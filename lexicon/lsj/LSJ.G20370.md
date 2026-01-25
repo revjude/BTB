@@ -5,5 +5,5 @@
  <b>encamp,</b> uncertain in [<a href="javascript:void(0)" title=" LXX.Gen.13.12. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.13.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.13.12]]
 </sub></small>

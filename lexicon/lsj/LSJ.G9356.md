@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>draw together</b> by stitching, <b>sew together</b>, <span class='asgreek'>διφθέρας</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 1.5.10. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> in <i>middle</i>, <b>draw along with one</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Publicola” 16. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lam.5.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lam.5.10]]
 </sub></small>

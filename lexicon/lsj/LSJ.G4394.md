@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> concrete, <b>prophecy</b> or <b>oracular res
 $\quad$ $\quad$<b>\_\_II</b> <b>office of</b> <span class='asgreek'>προφήτης</span> [<a href="javascript:void(0)" title=" 2, εἴ τοι μέμηλεν ἔμπεδος π. “BMus.Inscription” 921b7 (from Branchidae), compare “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2869 (from Didyma), 2880 (from Branchidae), “OGI” 494.8 (Milet.); in Egypt, ==προφητεία==ειῶν καὶ γραμματειῶν καρπεῖαι “PTeb.” 6.34 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> in <b>NT, gift of expounding scripture</b>, or <b>of speaking and preaching, under the influence of the Holy Spirit</b> (compare <span class='asgreek'>προφήτης</span>), [<a href="javascript:void(0)" title=" NT.Rom.12.6, NT.1Cor.12.10, NT.1Tim.1.18, 4.14, +others ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.15.8]] ☩ [[Rom.12.6]] ☩ [[1Cor.12.10]] ☩ [[1Tim.1.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.15.8]] ☩ [[Rom.12.6]] ☩ [[1Cor.12.10]] ☩ [[1Tim.1.18]]
 </sub></small>

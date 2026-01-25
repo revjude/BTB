@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>beast of burden,</b>[<a href="javascript:void(0)" title="LXX.Gen.45.17. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>porter's wages,</b> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 7.133. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.45.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.45.17]]
 </sub></small>

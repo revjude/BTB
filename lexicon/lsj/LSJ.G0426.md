@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>examine</b> documents, [<a href="javascript:void(0)" title=" “POxy.” 34i13">Refs</a>]; <b>examine by torture,</b> <span class='asgreek'>τινά</span>[<a href="javascript:void(0)" title=" NT.Acts.22.24, compare 29.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.6.29]] ☩ [[Acts.22.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.6.29]] ☩ [[Acts.22.24]]
 </sub></small>

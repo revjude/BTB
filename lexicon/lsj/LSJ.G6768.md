@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>embroidery,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 5.275 (6th c.AD: Agathias Historicus et Epigrammaticus)">Refs 6th c.AD+</a>]: but in <i>plural</i>, = <b>paintings</b>, [<a href="javascript:void(0)" title=" 4th-5th c.AD(?): Nonnus Epicus “Dionysiaca” 25.433. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.32.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.32.4]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>pass in review</b>: hence, <b>number</b> a host, [<a href="javascript:void(0)" title=" LXX.1Kgs.15.4. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.15.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.15.4]]
 </sub></small>

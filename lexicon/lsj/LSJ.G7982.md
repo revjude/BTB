@@ -20,5 +20,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>in fast colours</b>, <span class='asgr
 $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> <b>as if possessed</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Varia Historia” 3.9, 2nd c.AD(?): Pollianus Epigrammaticus 1.16. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.4</b> <b>accompanied by catalepsy</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Κωακαὶ προγνώσιες” 570, +others ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jonah.2.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jonah.2.7]]
 </sub></small>

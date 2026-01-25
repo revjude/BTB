@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i> of men, <b>to be wanto
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>transitive</i>, ={<span class='asgreek'>καταπλήττω</span>}, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 1081. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i> <span class='asgreek'>==φρυάσσομαι==άσσω</span> [<a href="javascript:void(0)" title=" LXX.Ps.2.1 (quoted in NT.Acts.4.25)">LXX+NT</a>]; of birds, [<a href="javascript:void(0)" title=" 1st c.AD: Cyranus 81, compare “Corpus Glossariorum Latinorum” ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.2.1]] ☩ [[Acts.4.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.2.1]] ☩ [[Acts.4.25]]
 </sub></small>

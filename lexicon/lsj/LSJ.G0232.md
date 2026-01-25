@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> only <i>middle</i> occurs in <i>Attic dialect</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Comicus 44">Refs 5th c.BC+</a>]; <span class='asgreek'>Ἁλιευομένη</span>, title of play by [<a href="javascript:void(0)" title=" 4th c.BC: Antiphanes Comicus:—also later, 2nd-1st c.BC: Posidonius Historicus 68.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.21.3]] ☩ [[Jer.16.16]]
+<small><sub>LSJ Scripture Refs: [[John.21.3]] ☩ [[LXX.Jer.16.16]]
 </sub></small>

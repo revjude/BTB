@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>stairs,</b> [<a href="javascript:void(
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>progress,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Artemidorus Daldianus Onirocriticus 4.28 ">Refs 2nd c.AD+</a>]; of numbers, <b>progression,</b> [<a href="javascript:void(0)" title=" [prev. author] 2.70. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>ἵππουρις</span>}; compare <span class='asgreek'>ἀναβάσιον</span>.
 
-<small><sub>LSJ Scripture Refs: [[1Chr.26.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.26.16]]
 </sub></small>

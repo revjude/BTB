@@ -17,5 +17,5 @@ $\quad$ $\quad$<b>\_\_V</b> <b>beseech, entreat</b>, [<a href="javascript:void(0
 $\quad$ $\quad$<b>\_\_VI</b> <i>passive</i>, <b>relent</b>, <span class='asgreek'>πρός</span>, <span class='asgreek'>ἐπί</span> <span class='asgreek'>τινι</span>, <b>towards</b> a person, [<a href="javascript:void(0)" title=" LXX.Judg.21.6, 15, cf. LXX.2Kgs.24.16. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_VI.2</b> <b>repent, regret</b>, <span class='asgreek'>παρακέκλημαι</span> <span class='asgreek'>ὅτι</span>..[<a href="javascript:void(0)" title="LXX.1Kgs.15.11. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.7.13]] ☩ [[Matt.2.18]] ☩ [[Mark.8.22]] ☩ [[Matt.8.34]] ☩ [[Judg.21.6]] ☩ [[2Kgs.24.16]] ☩ [[1Kgs.15.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.7.13]] ☩ [[Matt.2.18]] ☩ [[Mark.8.22]] ☩ [[Matt.8.34]] ☩ [[LXX.Judg.21.6]] ☩ [[LXX.2Kgs.24.16]] ☩ [[LXX.1Kgs.15.11]]
 </sub></small>

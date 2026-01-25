@@ -19,5 +19,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_9</b> Grammars, <span class='asgreek'>σ</span>. <
 $\quad$ $\quad$ $\quad$<b>\_\_10</b> <span class='asgreek'>συνέσχον</span> I <b>also received.. </b>, [<a href="javascript:void(0)" title=" “BGU” 577.16 (3rd c.AD), etc. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>meet</b>, see[<a href="javascript:void(0)" title=" above 1.1; εἰς ἕν 4th c.BC: Aristoteles Philosophus “Historia Animalium” 530b27 ">Refs 4th c.BC+</a>]; <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span> <b>to be connected with</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 1.145. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.7.57]] ☩ [[Ps.68.15]] ☩ [[Isa.52.16]] ☩ [[Jer.2.13]] ☩ [[Luke.22.63]] ☩ [[2Cor.5.14]] ☩ [[Luke.8.45]] ☩ [[Luke.4.38]] ☩ [[Acts.18.5]] ☩ [[Jer.23.9]] ☩ [[Deut.11.17]] ☩ [[Gen.8.2]] ☩ [[2Kgs.24.25]] ☩ [[Prov.11.26]]
+<small><sub>LSJ Scripture Refs: [[Acts.7.57]] ☩ [[LXX.Ps.68.15]] ☩ [[LXX.Isa.52.16]] ☩ [[LXX.Jer.2.13]] ☩ [[Luke.22.63]] ☩ [[2Cor.5.14]] ☩ [[Luke.8.45]] ☩ [[Luke.4.38]] ☩ [[Acts.18.5]] ☩ [[LXX.Jer.23.9]] ☩ [[LXX.Deut.11.17]] ☩ [[LXX.Gen.8.2]] ☩ [[LXX.2Kgs.24.25]] ☩ [[LXX.Prov.11.26]]
 </sub></small>

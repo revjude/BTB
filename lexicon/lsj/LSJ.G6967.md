@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> later, <b>uncut corn,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 11.365.10 (6th c.AD: Agathias Historicus et Epigrammaticus), 2nd c.AD: Lucianus Sophista “Hes.” 7: \_metaphorically\_, πρώτης ==δράγμα==ματα φυταλιῆς ">Refs 2nd c.AD+</a>]<b>first-fruits,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 6.44 (1st c.AD: Leonidas Alexandrinus Epigrammaticus (?)), cf. LXX.Lev.23.12. ">LXX+1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ἐποίησεν</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>γῆ</span> <span class='asgreek'>==δράγμα==ματα</span> brought forth <b>by handfuls,</b> i. e. <b>plenty,</b>[<a href="javascript:void(0)" title="LXX.Gen.41.47. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.23.12]] ☩ [[Gen.41.47]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.23.12]] ☩ [[LXX.Gen.41.47]]
 </sub></small>

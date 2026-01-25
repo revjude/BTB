@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>strike by slinging</b>, <span class='asgr
 $\quad$ $\quad$<b>\_\_II</b> <b>throw as from a sling</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.25.29 ">LXX</a>]:—<i>passive</i>, <span class='asgreek'>ἐκ</span> <span class='asgreek'>κλιμάκων</span> <span class='asgreek'>ἐ==σφενδονάω==ᾶτο</span> <span class='asgreek'>χωρὶς</span> <span class='asgreek'>ἀλλήλων</span> <span class='asgreek'>μέλη</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 1183, compare 3rd c.AD: Heliodorus Scriptor Eroticus 10.30. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>move like a swing, swing to and fro</b>, <span class='asgreek'>ὅπλισμα</span>.. <span class='asgreek'>διαφέρων</span> <span class='asgreek'>ἐσφενδόνα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Supplices” 715. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.25.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.25.29]]
 </sub></small>

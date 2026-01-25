@@ -6,5 +6,5 @@
  <b>furnishing with rafters, roofing,</b> [<a href="javascript:void(0)" title=" LXX.Eccl.10.18, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1112e (\_plural\_), 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 3.99, “M.” 9.343, “POxy.” 1648.60 (2nd c.AD). ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Eccl.10.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.10.18]]
 </sub></small>

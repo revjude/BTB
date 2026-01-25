@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>heart in wood, pith</b>, [<a href="javascript:v
 $\quad$ $\quad$<b>\_\_IV</b> <i>metaphorically</i>, <span class='asgreek'>κ</span>. <span class='asgreek'>θαλάσσης</span> <b>depths</b> of the sea, [<a href="javascript:void(0)" title=" LXX.Ezek.27.4. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>Κ</span>. <span class='asgreek'>Λέοντος</span>, name of the star [<a href="javascript:void(0)" title=" “Regulus”, 1st c.BC: Geminus Astronomicus 3.5. (I.- 5th c.BC: Euripides Tragicus ">Refs 5th c.BC+</a>] <b>[kcirc]ṛd-</b>, cf. Latin <i>cor(d)-</i>, Lithuanian <i>širdis</i> 'heart', etc.)
 
-<small><sub>LSJ Scripture Refs: [[Judg.19.3]] ☩ [[Luke.24.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.19.3]] ☩ [[Luke.24.38]]
 </sub></small>

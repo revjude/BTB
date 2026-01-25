@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, of fate, <span class='asgreek'>μοῖραι</span> <span class='asgreek'>==κλωστός==τὸν</span> <span class='asgreek'>ἔθεντο</span> <span class='asgreek'>μίτον</span> [<a href="javascript:void(0)" title=" “IG” 3.1344. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.14.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.14.6]]
 </sub></small>

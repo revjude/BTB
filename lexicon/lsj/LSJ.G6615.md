@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==ἀφαγνίζω==ίσας</span>· <span class='asgreek'>ἀποδύσας</span>, <span class='asgreek'>συλήσας</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.14.52]] ☩ [[Lev.14.49]] ☩ [[Num.19.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.14.52]] ☩ [[LXX.Lev.14.49]] ☩ [[LXX.Num.19.19]]
 </sub></small>

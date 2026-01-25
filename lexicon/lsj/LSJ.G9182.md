@@ -6,5 +6,5 @@
  ={<span class='asgreek'>στιλπνόω</span>}, [<a href="javascript:void(0)" title=" LXX.Ps.7.13, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.84,5.154. ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.7.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.7.13]]
 </sub></small>

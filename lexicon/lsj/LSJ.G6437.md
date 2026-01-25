@@ -6,5 +6,5 @@
  (<span class='asgreek'>κάκη</span>) <b>sink under a weight of misery,</b> [<a href="javascript:void(0)" title=" LXX.Jer.15.9.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.15.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.15.9]]
 </sub></small>

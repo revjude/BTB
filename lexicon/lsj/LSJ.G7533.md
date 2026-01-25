@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of wine, meats, etc., <b>to be highly esteem
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> of money, <b>to be genuine</b>, [<a href="javascript:void(0)" title=" LXX.Gen.43.23. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> in <i>middle</i>, <b>hold in honour</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 4.24 ">Refs 1st c.BC+</a>] codices <b><span class='asgreek'>==εὐδοκιμέω==</span>-<span class='asgreek'>ησις</span></b>, <span class='asgreek'>εως</span>, <span class='asgreek'>ἡ</span>, <b>good repute, reputation, credit</b>, mostly in <i>plural</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 358a, 363a, 2nd c.AD: Lucianus Sophista “Pisc.” 25: \_sing.\_, 4th c.AD: Themistius Sophista “Orationes” 29.347c. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.43.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.43.23]]
 </sub></small>

@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>error</b>, variant for{<span class='as
 $\quad$ $\quad$<b>\_\_III</b> <b>story</b> or <b>tier</b> of a funeral pile, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 17.115. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>turntable</b> (?), [<a href="javascript:void(0)" title=" “PTeb.” 12.17 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.2.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.2.12]]
 </sub></small>

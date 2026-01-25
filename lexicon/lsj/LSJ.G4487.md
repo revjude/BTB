@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>verse, line</b>, [<a href="java
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>subject of speech, matter</b>, Hebraism in [<a href="javascript:void(0)" title=" LXX and NT, LXX.Gen.15.1, 22.1, LXX.Deut.2.7, NT.Luke.1.37, 65, 2.15; compare ῥητός IV. 2. ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> Grammars, <b>verb</b>, opposed to <span class='asgreek'>ὄνομα</span> (noun), [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Sophista” 262af, “Cra.” 425a, +others, 4th c.BC: Aristoteles Philosophus “Poetica” 1457a14, 2nd c.BC: Diogenes Babylonius Stoicus 3.213 ">Refs 5th c.BC+</a>]:— from the fact that a Verb usually forms <b>the predicate</b> [<a href="javascript:void(0)" title="(4th c.BC: Aristoteles Philosophus “de Interpretatione” 16b6), ==ῥῆμα==">Refs 4th c.BC+</a>] is applied to an <i>adjective</i> <b>when used as a predicate</b>, [<a href="javascript:void(0)" title="[prev. work] 16a13, 20b1. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.15.1]] ☩ [[Deut.2.7]] ☩ [[Luke.1.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.15.1]] ☩ [[LXX.Deut.2.7]] ☩ [[Luke.1.37]]
 </sub></small>

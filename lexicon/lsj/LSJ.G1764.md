@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.IV.2</b> in Logic, <b>object,</b> <span class='a
 $\quad$ $\quad$ $\quad$<b>\_\_B.IV.3</b> of the Roman tribunes, <b>exercise the right of intercessio, veto,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.16.4, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Tiberius Gracchus” 10, +others ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_B.V</b> of fluids, <b>congeal, freeze,</b> <span class='asgreek'>ὕδωρ</span> <span class='asgreek'>ἐνεστηκός</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 5.13.1 ">Refs 4th c.BC+</a>]; <b>become impacted in,</b> <span class='asgreek'>ἐνιστάμενον</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>στομάχου</span> <span class='asgreek'>στενά</span> (i.e. <span class='asgreek'>γάλα</span>) [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus “Alex.” 26. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.12.24]] ☩ [[1Cor.7.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.12.24]] ☩ [[1Cor.7.26]]
 </sub></small>

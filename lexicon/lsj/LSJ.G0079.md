@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>kinswoman</b>, [<a href="javascript:void(0)" title=" LXX.Job.42.11. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> term of endearment, [<a href="javascript:void(0)" title=" LXX.Song.4.9, LXX.Tob.5.21">LXX</a>]; applied to a wife, [<a href="javascript:void(0)" title=" “POxy.” 744.1 (1st c.BC), etc.:—as a title, Βερενίκη ἡ ἀ. καὶ γυνὴ αὐτοῦ (of a cousin) “OGI” 60.3 (3rd c.BC)">Refs 3rd c.BC+</a>]:—<b>sister</b> (as a fellow Christian), [<a href="javascript:void(0)" title=" NT.Rom.16.1, etc.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.42.11]] ☩ [[Song.4.9]] ☩ [[Rom.16.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.42.11]] ☩ [[LXX.Song.4.9]] ☩ [[Rom.16.1]]
 </sub></small>

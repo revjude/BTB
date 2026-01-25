@@ -32,5 +32,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.II.2</b> <b>to be compelled to migrate</b> (abov
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.3</b> of a law-court, <b>rise,</b> [<a href="javascript:void(0)" title=" [prev. author] 21.221. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.4</b> <b>cease,</b> <span class='asgreek'>οὐκ</span>, <span class='asgreek'>ἀνέστη</span> <span class='asgreek'>ἕως</span> <span class='asgreek'>ἐνίκησε</span> <span class='asgreek'>σκορπίσαι</span>[<a href="javascript:void(0)" title=" “Psalms of Solomon [1st c.BC]” 4.13.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.15.12]] ☩ [[Acts.3.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.15.12]] ☩ [[Acts.3.22]]
 </sub></small>

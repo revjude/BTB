@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> of a garment, <b>well-girded</b>, uncertain 
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>metaphorically</i>, <b>unencumbered</b>, <span class='asgreek'>πενία</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pelopidas” 3; εὔ. καὶ ἐλεύθερος βίος 2nd-3rd c.AD: Dio Cassius Historicus 56.6. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> in Lit. Crit., <b>work-a-day, unpretending</b>; in depreciatory sense, <b>cheap</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>εὔ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>οἷον</span> <span class='asgreek'>εὐτελὲς</span> <span class='asgreek'>εἶδος</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>λόγου</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Hermogenes Rhetor “περὶ ἰδεῶν” 2.10; τὸ εὔ. χωρὶς εὐτελείας [prev. work] 1.11; ἐκπίπτειν τὸν λόγον εἰς τὸ -ότερον [prev. work] 1.5. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.4.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.4.13]]
 </sub></small>

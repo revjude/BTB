@@ -26,5 +26,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> in the same sense as <i>imperative</i> (a
 $\quad$ $\quad$ $\quad$<b>\_\_IV.4</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>χαῖρον</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ψυχῆς</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.136c, 1089e. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> Astrology texts, of a planet, occupy the position appropriate to another of its own <span class='asgreek'>αἵρεσις</span>, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Serapio Astrologus in “Catalogus Codicum Astrologorum” 8(4).230, 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 51, 2nd c.AD: Vettius Valens Astrologus 63.6, 4th c.AD(?): Manetho Astrologus 2.348 ">Refs 2nd c.BC+</a>]. (Cf. Sanskrit <i>háryati</i> 'take pleasure in', Umbr. <b>heriest</b> 'will wish', Latin <i>horior.</i>)
 
-<small><sub>LSJ Scripture Refs: [[Rev.11.10]] ☩ [[Prov.1.26]]
+<small><sub>LSJ Scripture Refs: [[Rev.11.10]] ☩ [[LXX.Prov.1.26]]
 </sub></small>

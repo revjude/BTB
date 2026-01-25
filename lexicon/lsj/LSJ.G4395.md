@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>expound, interpret, preach, under the influence 
 $\quad$ $\quad$<b>\_\_III</b> <b>hold office of</b> <span class='asgreek'>προφήτης</span>, <span class='asgreek'>Θεοδώρου</span> <span class='asgreek'>προφᾱτεύοντος</span> [<a href="javascript:void(0)" title=" “IG” 7.4155 (Ptoön), compare 12(1).833.6 (from Lindus), “PGnom.” 211 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>to be a quack doctor</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 15.172. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.22.12]] ☩ [[Acts.19.6]] ☩ [[Num.11.25]] ☩ [[Luke.1.67]] ☩ [[John.11.51]] ☩ [[Acts.2.17]] ☩ [[1Cor.11.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.22.12]] ☩ [[Acts.19.6]] ☩ [[LXX.Num.11.25]] ☩ [[Luke.1.67]] ☩ [[John.11.51]] ☩ [[Acts.2.17]] ☩ [[1Cor.11.4]]
 </sub></small>

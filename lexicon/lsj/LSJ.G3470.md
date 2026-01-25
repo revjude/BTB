@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>blemish</b>, [<a href="javascript:void(0)" title=" LXX.Lev.24.19, +others, NT.2Pet.2.13. ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> personified, [<a href="javascript:void(0)" title=" “Momus”, first in 8th-7th c.BC: Hesiodus Epicus “Theogonia” 214, compare 5th-6th c.BC: Plato Philosophus “Respublica” 487a, 2nd c.AD: Babrius Fabularum Scriptor 59.6. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.24.19]] ☩ [[2Pet.2.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.24.19]] ☩ [[2Pet.2.13]]
 </sub></small>

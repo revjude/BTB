@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">μέλλω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Job.3.8|Jb 3:8]] (<span class="ashebrew">עָתִיד</span> <small><sup>[[H6264]]</sup></small>) [[Job.19.25|19:25]] (<span class="ashebrew">אַחֲרוֹן</span> <small><sup>[[H0314]]</sup></small>); elsewhere for fut., and freq. in Wi, II, IV Mac;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">μέλλω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Job.3.8|Jb 3:8]] (<span class="ashebrew">עָתִיד</span> <small><sup>[[H6264]]</sup></small>) [[LXX.Job.19.25|19:25]] (<span class="ashebrew">אַחֲרוֹן</span> <small><sup>[[H0314]]</sup></small>); elsewhere for fut., and freq. in Wi, II, IV Mac;\]</span> </span>
 <span class="asitalic">to be about</span> to be or do;
 <span class="asbullet"><span class="asbold">1.</span> c. inf. (Bl., § 62, 4; 68, 2; M, <span class="asitalic">Pr.</span>, 114);</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of intending or being about to do of   one's own free will: c. inf. praes., [[Matt.2.13|Mt 2:13]], [[Luke.10.1|Lk 10:1]], [[Acts.3.3|Ac 3:3]] [[Acts.5.35|5:35]], [[Heb.8.5|He 8:5]], [[2Pet.1.12|II Pe 1:12]] (Field, <span class="asitalic">Notes</span>, 240), al.; c. inf. aor. (Bl., § 58, 3), [[Acts.12.6|Ac 12:6]], [[Rev.3.16|Re 3:16]];</span>
@@ -9,7 +9,7 @@ $\quad$ <span class="asbullet"><span class="asbold">(b)</span> of compulsion, ne
 
 | Book | Refs |
 | - | - |
-| Job | [[Job.3.8\|3:8]] · [[Job.19.25\|19:25]] |
+| Job | [[LXX.Job.3.8\|3:8]] · [[LXX.Job.19.25\|19:25]] |
 | Matthew | [[Matt.2.13\|2:13]] · [[Matt.3.7\|3:7]] · [[Matt.12.32\|12:32]] · [[Matt.16.27\|16:27]] |
 | Luke | [[Luke.9.31\|9:31]] · [[Luke.10.1\|10:1]] |
 | John | [[John.6.71\|6:71]] |

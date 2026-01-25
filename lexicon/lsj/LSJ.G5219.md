@@ -23,5 +23,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> in Grammars, <b>understand</b> a word om
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>understand,</b> with <i>accusative</i> et <i>infinitive</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Mus.” p.72 K., “Po.” 5.9. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>future</i> <span class='asgreek'>ὑπακούσεται</span> in [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.69 ">Refs 5th c.BC+</a>], if correct, must be <i>passive</i>, if their <b>service shall be</b> lighter; but Scholia gives <span class='asgreek'>ὑπακούσονται</span>, whence <span class='asgreek'>ξυγκαταστρεψάμενοι</span> (for -<span class='asgreek'>οις</span>) is conjectured.
 
-<small><sub>LSJ Scripture Refs: [[Gen.41.40]] ☩ [[Acts.12.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.41.40]] ☩ [[Acts.12.13]]
 </sub></small>

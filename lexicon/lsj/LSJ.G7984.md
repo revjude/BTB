@@ -6,5 +6,5 @@
  <b>in great pain</b> or <b>affliction</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.1.10, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.1.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.1.10]]
 </sub></small>

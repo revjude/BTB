@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>plural</i>, of <b>animals slaughtered</b>
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, of persons, <span class='asgreek'>θ</span>. <span class='asgreek'>λεύσιμον</span>, probably of Clytemnestra, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1118 (Lyric poetry); πρόκεισθε θύματα τῆς ἡμετέρας ἐξουσίας 2nd c.AD: Herodianus Grammaticus 2.13.5. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>act of sacrifice</b>, <span class='asgreek'>ὧδ᾽</span> <span class='asgreek'>ἦν</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>κείνης</span> <span class='asgreek'>θ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 573. [θῠμα only “Supp.epigram” 2.518 (Rome, 4th c.AD), cf. Hdn.Gr.2.15.] ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.43.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.43.16]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> in Logic, <b>to be of wider extent</b>, [
 $\quad$ $\quad$<b>\_\_III</b> in <i>passive</i>, with <i>dative</i>, <b>extend beside</b> or <b>be coextensive with</b>, <span class='asgreek'>π</span>. <span class='asgreek'>χείλεσι</span> <span class='asgreek'>ποταμοῦ</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 3.10; ὅλα ὅλοις -τείνεται “Stoicorum Veterum Fragmenta” 2.156; -τείνεσθαι τῷ χρόνῳ 2nd c.BC: Diogenes Babylonius Stoicus 3.216; ὕλης -τεινομένης τοῖς σώμασιν 4th c.AD: Julianus Imperator “Orationes” 4.134a. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <i>metaphorically</i>, <b>measure oneself with</b>, <span class='asgreek'>==παρεκτείνω==τείνεσθαί</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus 238; μὴ -τείνου πένης ὢν πλουσίῳ LXX.Prov.23.4. ">LXX+3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.23.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.23.4]]
 </sub></small>

@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>security, safety</b>, <span class='asg
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> with <i>genitive</i> <i>object</i>, <b>security against</b>, <span class='asgreek'>ἀπορίας</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Philemo Comicus 213.12. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>bodily health, well-being</b>, [<a href="javascript:void(0)" title=" “BGU” 423.13 (2nd c.AD), “POxy.” 939.20 (3rd c.AD), etc. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.50.14]] ☩ [[1Pet.1.9]] ☩ [[Eph.1.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.50.14]] ☩ [[1Pet.1.9]] ☩ [[Eph.1.13]]
 </sub></small>

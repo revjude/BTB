@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>any nook</b> or <b>bend,</b> as the <b>angle</b>
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> kind of <b>vase,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Artemidorus Daldianus Onirocriticus 1.74, compare “Sammelb.” 4292. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> proverbial, <span class='asgreek'>γλυκὺς</span> <span class='asgreek'>ἀ</span>. used <span class='asgreek'>κατ᾽</span> <span class='asgreek'>ἀντίΦρασιν</span> of a difficulty, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 257d, 4th-3rd c.BC: Clearchus Historicus 6; explanation by Scholia 5th-6th c.BC: Plato Philosophus [same place], 2nd c.AD: Zenobius Paroemiographus 2.92, 2nd c.AD: Athenaeus Epigrammaticus 12.516a">Refs 5th c.BC+</a>], from <b>a long bend</b> or <b>reach</b> in the Nile; but apparently ={<span class='asgreek'>παραγκάλισμα</span>}, <b>thing to be embraced, treasure,</b>[<a href="javascript:void(0)" title=" Pl Comedy texts  178">Refs</a>]; also ={<span class='asgreek'>ἀβρότονον</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.24. (For the Root see at {ἄγκος}.) ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.9.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.9.18]]
 </sub></small>

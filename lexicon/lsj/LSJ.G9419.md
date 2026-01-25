@@ -28,5 +28,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_A.VI.3</b> of ships, <b>cut through</b> the waves,
 $\quad$ $\quad$<b>\_\_A.VII</b> <b>cut short, bring to a crisis</b> or <b>decision</b>, <span class='asgreek'>μαχᾶν</span> <span class='asgreek'>τ</span>. <span class='asgreek'>τέλος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “O.” 13.57; κίνδυνον τ. σιδάρῳ 5th c.BC: Euripides Tragicus “Heraclidae” 758 (Lyric poetry); λόγῳ τὰ διάφορα τεμεῖν 4th c.AD: Libanius Sophista “Orationes” 18.164 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τὰς</span> <span class='asgreek'>δίκας</span> <span class='asgreek'>τ</span>. [<a href="javascript:void(0)" title=" “Codex Justinianus [4th-6th c.AD]” 3.1.12, compare 2.12.27.2, +others ">Refs</a>]
 $\quad$ $\quad$<b>\_\_A.VIII</b> <span class='asgreek'>ταμών</span> <i>metaphorically</i>for <span class='asgreek'>ἀρύσας</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 143. (Cf.Slovenian τνèμ τéęti">Refs 5th c.BC+</a>] 'to hack', Ir. <b>tamnaim</b> 'I mutilate'.)
 
-<small><sub>LSJ Scripture Refs: [[Lev.25.3]] ☩ [[Isa.5.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.25.3]] ☩ [[LXX.Isa.5.6]]
 </sub></small>

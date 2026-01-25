@@ -12,5 +12,5 @@
  = {<span class='asgreek'>ἀγκωνίσκιον</span>}, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “(Spiritalia) Pneumatica” 1.42, LXX.Exod.26.17">LXX+2nd c.BC+</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.26.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.26.17]]
 </sub></small>

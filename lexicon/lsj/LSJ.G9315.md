@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>σ</span>. <span cl
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>set upon and use to one's own advantage</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>τῇ</span> <span class='asgreek'>ἀγνοίᾳ</span>, <span class='asgreek'>τῷ</span> <span class='asgreek'>μίσει</span> <span class='asgreek'>τινός</span>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.43.4; τοῖς καιροῖς [prev. author] 3.15.10, 5.87.2. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>σ</span>. <span class='asgreek'>τισὶ</span> <span class='asgreek'>ἁμαρτίαν</span> <b>lay</b> a sin <b>to their charge</b>, [<a href="javascript:void(0)" title=" LXX.Num.12.11. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.32.27]] ☩ [[Acts.24.9]] ☩ [[Num.12.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.27]] ☩ [[Acts.24.9]] ☩ [[LXX.Num.12.11]]
 </sub></small>

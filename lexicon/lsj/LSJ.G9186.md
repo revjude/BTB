@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>padding</b>, [<a href="javascript:void(0)
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>foundation-course</b> below stylobate, [<a href="javascript:void(0)" title=" “IG” 42(1).102.3, +others (Epid., 4th c.BC), 5(2).33 (Tegea, 3rd c.BC). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>heap of corn</b>, [<a href="javascript:void(0)" title=" LXX.Ruth.3.7 ">LXX</a>]; <b>sheaf, shock</b> of corn,[<a href="javascript:void(0)" title="LXX.Judg.15.5 ">LXX</a>] codex A (<span class='asgreek'>στυβ</span>-).
 
-<small><sub>LSJ Scripture Refs: [[Isa.55.13]] ☩ [[Ruth.3.7]] ☩ [[Judg.15.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.55.13]] ☩ [[LXX.Ruth.3.7]] ☩ [[LXX.Judg.15.5]]
 </sub></small>

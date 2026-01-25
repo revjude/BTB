@@ -6,5 +6,5 @@
  <b>with a docked tail</b>, [<a href="javascript:void(0)" title=" LXX.Lev.22.23. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.22.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.22.23]]
 </sub></small>

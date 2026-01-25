@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>lint</b> for wounds, [<a href="javascript:void(0
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>top-knot</b>, coiffure of Theban women, [<a href="javascript:void(0)" title=" 4th c.BC: Dicaearchus Geographus 1.19. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> kind of comic mask, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 4.151, 154, 3rd c.AD: Heliodorus Scriptor Eroticus 10.39. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.38.16]] ☩ [[Zech.4.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.38.16]] ☩ [[LXX.Zech.4.2]]
 </sub></small>

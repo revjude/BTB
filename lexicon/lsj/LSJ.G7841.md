@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>genitive</i>, <b>behave boldly against</b>, <span class='asgreek'>τῆς</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>Σπαρτιατῶν</span> <span class='asgreek'>δυνάμεως</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 15.34; Χώρας 1st c.BC-1st c.AD: Strabo Geographus 12.8.6. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>passive</i>, <b>to be confirmed,</b> [<a href="javascript:void(0)" title=" 4th-6th c.AD: Codex Justinianus 9.4.6.5. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.32.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.32.8]]
 </sub></small>

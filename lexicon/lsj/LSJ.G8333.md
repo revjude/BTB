@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>oriental head-dress</b>, perhaps a kin
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>head-dress</b> of the priest of Heracles at Cos, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.304c">Refs 1st c.AD+</a>]; of the Jewish high-priest, [<a href="javascript:void(0)" title=" LXX.Exod.29.6, +others ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ἐπιδιδυμίς</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus cited in 2nd c.AD: Galenus Medicus 19.123 (where μήτρη). [ῐ by nature, 5th c.BC: Euripides Tragicus ">Refs 5th c.BC+</a>] [same places], etc.; <span class='asgreek'>ῑ</span> by position in [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus] ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.29.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.29.6]]
 </sub></small>

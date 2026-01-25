@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>fruitless, unprofitable</b>, <span class='asgreek'>πόνος</span>[<a href="javascript:void(0)" title=" 5th c.BC: Bacchylides Lyricus “fragment” 7.5; λόγοι 5th-6th c.BC: Plato Philosophus “Phaedrus” 277a; τὰ ἄ. 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1125a11">Refs 5th c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>πως</span></b>[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 254. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>making barren</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 942, compare 1st c.BC(?): Maximus Astrologus Tyr. 5.4.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.41.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.41.19]]
 </sub></small>

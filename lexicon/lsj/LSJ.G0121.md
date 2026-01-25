@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>unharmed by</b>, <span class='asgreek'>==
 $\quad$ $\quad$<b>\_\_II</b> <b>not deserving punishment, guiltless</b>, <span class='asgreek'>ἀ</span>. <span class='asgreek'>ὁ</span> <span class='asgreek'>κτείνων</span>[<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus 257; ἀ. χερσί LXX.Ps.23.4; ἀ. ἀπὸ τοῦ αἵματος NT.Matt.27.24. ">NT+3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>active</i>, <b>causing no harm, harmless</b>, <span class='asgreek'>κίνδυνος</span>[<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator “Prooemia” 26. (==ἀθῷος== distinguished by Grammars  from Ἄθωος">Refs 4th c.BC+</a>], <b>of Mt. Athos</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 285, cf. Hdn.Gr. 1.128.)">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.23.4]] ☩ [[Matt.27.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.23.4]] ☩ [[Matt.27.24]]
 </sub></small>

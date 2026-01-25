@@ -19,5 +19,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.II.5</b> <i>absolutely</i>, <b>change one's posi
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.6</b> of language, <b>to be removed from common usage,</b> [<a href="javascript:void(0)" title=" [prev. author] “Rh.” 1404b13. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_B.III</b> <b>stand out, project,</b> <span class='asgreek'>ἐξεστηκός</span> <b>convex,</b> opposed to <span class='asgreek'>κοῖλον</span>, [<a href="javascript:void(0)" title=" [prev. author] “HA” 493b4. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.24.22]] ☩ [[Matt.12.23]] ☩ [[Mark.2.12]] ☩ [[Josh.4.21]]
+<small><sub>LSJ Scripture Refs: [[Luke.24.22]] ☩ [[Matt.12.23]] ☩ [[Mark.2.12]] ☩ [[LXX.Josh.4.21]]
 </sub></small>

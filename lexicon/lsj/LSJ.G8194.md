@@ -6,5 +6,5 @@
  ={<span class='asgreek'>==λικμήτωρ==ητήρ</span>}, <i>metaphorically</i>, <span class='asgreek'>λ</span>. <span class='asgreek'>ἀσεβῶν</span> [<a href="javascript:void(0)" title=" LXX.Prov.20.20(26). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.20.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.20.20]]
 </sub></small>

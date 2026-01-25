@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_1</b> <b>fisher</b>, [<a href="javascript:void(0)"
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>seaman, sailor</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 24.419">Refs 8th c.BC+</a>]; <span class='asgreek'>ἐρέτας</span> <span class='asgreek'>==ἁλιεύς==ῆας</span> rowers <b>on the sea</b>, [<a href="javascript:void(0)" title=" 16.349">Refs</a>]; as <i>adjective</i>, <span class='asgreek'>==ἁλιεύς==εὺς</span> <span class='asgreek'>στρατός</span> [<a href="javascript:void(0)" title="Opp.H. 5.121. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> a fish, ={<span class='asgreek'>βάτραχος</span>}, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 620b12, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.978d, 2nd c.AD: Pausanias Periegeta 3.21.5.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.19.8]] ☩ [[Matt.4.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.19.8]] ☩ [[Matt.4.18]]
 </sub></small>

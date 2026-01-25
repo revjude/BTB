@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> Rhet., <b>afterthought, correction</b>, [<a href="javascript:void(0)" title=" Rutilius Lupus Rhetor 1.16. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.14.15]] ☩ [[Acts.20.21]] ☩ [[Heb.6.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.14.15]] ☩ [[Acts.20.21]] ☩ [[Heb.6.1]]
 </sub></small>

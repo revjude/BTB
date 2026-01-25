@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>sit idle,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Varia Historia” 6.12.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.20.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.20.18]]
 </sub></small>

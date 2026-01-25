@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>growing in woods,</b> of plants, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 3.2.4, LXX.2Kgs.16.4, 3rd c.BC: Hecataeus Abderita Historicus cited in 1st c.AD: Josephus Historicus “contra Apionem” 1.22, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.648c.">LXX+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.16.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.16.4]]
 </sub></small>

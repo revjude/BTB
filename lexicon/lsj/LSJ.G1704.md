@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>walk about upon</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>ὑπ᾽</span> <span class='asgreek'>οὐρανόν</span> (i.e. <span class='asgreek'>γῆν</span>) [<a href="javascript:void(0)" title=" LXX.Job.1.7, +others">LXX</a>]; <b>trample on,</b> [<a href="javascript:void(0)" title=" PHolm. 18.30">Refs</a>]: <i>metaphorically</i>, <b>insult</b>, <span class='asgreek'>τινί</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.57a. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.26.12]] ☩ [[2Cor.6.16]] ☩ [[Job.1.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.26.12]] ☩ [[2Cor.6.16]] ☩ [[LXX.Job.1.7]]
 </sub></small>

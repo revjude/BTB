@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>τρίτος</span>}, [<a
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>==τρισσῶς==οί</span>, = <b>shields,</b> misrendering of Hebrew <b>šelātî</b> through confusion with <b>šālōš</b> 'three', [<a href="javascript:void(0)" title=" LXX.2Kgs.11.10. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_V</b> literal rendering of Hebrew <b>šālīš</b> 'measure containing third part (of unknown unit)', [<a href="javascript:void(0)" title=" 2nd c.AD: Aquila LXX.Isa.40.12. ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.22.20]] ☩ [[2Kgs.11.10]] ☩ [[Isa.40.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.22.20]] ☩ [[LXX.2Kgs.11.10]] ☩ [[LXX.Isa.40.12]]
 </sub></small>

@@ -57,5 +57,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_F.1</b> in poetry <span class='asgreek'>==πρό�
 $\quad$ $\quad$ $\quad$<b>\_\_F.2</b> in [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus it is frequently separated from its Verb by tmesis. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_F.3</b> sometimes (in violation of the rule given by [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 127.8, “Pron.” 42.5)">Refs 2nd c.AD+</a>] followed by an <i>enclitic</i> <i>pronoun</i>, <span class='asgreek'>==πρός==</span> <span class='asgreek'>με</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 292, 5th-6th c.BC: Aristophanes Comicus “Plutus” 1055, 4th c.BC: Demosthenes Orator 18.14 (variant), 4th-3rd c.BC: Menander Comicus 978, “Pk.” 77, “Comica Adespota” 15.25 4th c.BC: Demosthenes Orator, 22.68 4th c.BC: Demosthenes Orator, etc. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.24.25]] ☩ [[2Kgs.23.3]] ☩ [[Mark.4.1]] ☩ [[1Cor.16.6]] ☩ [[Gen.49.33]] ☩ [[2Cor.5.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.24.25]] ☩ [[LXX.2Kgs.23.3]] ☩ [[Mark.4.1]] ☩ [[1Cor.16.6]] ☩ [[LXX.Gen.49.33]] ☩ [[2Cor.5.12]]
 </sub></small>

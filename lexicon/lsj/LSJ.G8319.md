@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>crescent-shaped line of battle</b>, [<
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>neck-ornament,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 11(2).147 B 10 (Delos, 4th c.BC), LXX.Isa.3.19, LXX.Judg.8.21, “PRyl.” 125.17 (1st c.AD). ">LXX+4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> = <b>olla,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.3.19]] ☩ [[Judg.8.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.3.19]] ☩ [[LXX.Judg.8.21]]
 </sub></small>

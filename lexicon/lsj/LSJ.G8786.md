@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_III</b> in Medicine texts, <b>digestion</b> of food, <span
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>ripening, 'concoction'</b> of acrid humours, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 18, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.102a. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.2.b</b> <b>concoction</b>, as a function of the animal organs, <span class='asgreek'>ἡ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>σπέρματος</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 719b2; ἡ διάκρισις π. ἐστί [prev. work] 775a17 ">Refs 4th c.BC+</a>]; of milk, [<a href="javascript:void(0)" title="[prev. work] 776b35. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Hos.7.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hos.7.4]]
 </sub></small>

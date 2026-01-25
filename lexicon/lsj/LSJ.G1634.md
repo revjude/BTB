@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>to be short of breath, gasp</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 886b14. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <b>to be thoroughly cooled, chilled</b>,[<a href="javascript:void(0)" title=" [prev. work] 882a36, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.695d. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.4.21]] ☩ [[Acts.5.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.4.21]] ☩ [[Acts.5.5]]
 </sub></small>

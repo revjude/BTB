@@ -5,5 +5,5 @@
  <b>to be almighty</b>, variant in [<a href="javascript:void(0)" title=" LXX.Zech.8.2. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Zech.8.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.8.2]]
 </sub></small>

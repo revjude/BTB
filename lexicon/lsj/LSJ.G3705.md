@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>device, plan,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>ὅ</span>. <span class='asgreek'>Θάλεω</span> (Camer. <span class='asgreek'>εὕρημα</span>) [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1259a31, compare 4th c.BC: Demosthenes Orator “Prooemia” 55.1. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.15.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.15.1]]
 </sub></small>

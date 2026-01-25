@@ -6,5 +6,5 @@
  <b>gift, offering,</b> [<a href="javascript:void(0)" title=" LXX.Num.8.13sq.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.8.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.8.13]]
 </sub></small>

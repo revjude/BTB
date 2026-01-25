@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.1</b> kind of <b>herb,</b> [<a href="javascript
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>amethyst,</b> [<a href="javascript:void(0)" title=" LXX.Exod.28.19, NT.Rev.21.20, 2nd c.AD: Dionysius Periegeta 1122, “Anthologia Graeca” 5.204, 9.748 (5th-6th c.BC: Plato Philosophus Jun.)">LXX+NT+5th c.BC+</a>]:—also <span class='asgreek'>ἀμέθυστον</span>, <span class='asgreek'>τό</span>, [<a href="javascript:void(0)" title=" “IG” 11(2).287 B 22 (Delos, 3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>ἀμέθυστον</span>, <span class='asgreek'>τό</span>, kind of <b>grape,</b> Colum.3.2.24.
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.19]] ☩ [[Rev.21.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.19]] ☩ [[Rev.21.20]]
 </sub></small>

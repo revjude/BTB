@@ -6,5 +6,5 @@
  <b>a terrifying,</b> [<a href="javascript:void(0)" title=" LXX.Ps.87.17 (\_plural\_). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.87.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.87.17]]
 </sub></small>

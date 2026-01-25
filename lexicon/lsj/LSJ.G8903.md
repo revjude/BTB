@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>store, provision,</b> [<a href="javascrip
 $\quad$ $\quad$<b>\_\_II</b> elephant's <b>proboscis</b> (compare <span class='asgreek'>==προνομή==αία</span>), [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 5.84.3, 1st c.BC: Diodorus Siculus Historicus 17.88 (\_plural\_). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> =[<a href="javascript:void(0)" title=" {==προνομή==ία} 1, 2nd c.AD: Lucianus Sophista “Sat.” 17. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.31.11]] ☩ [[1Kgs.10.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.31.11]] ☩ [[LXX.1Kgs.10.23]]
 </sub></small>

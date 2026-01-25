@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>signetcord,</b> [<a href="javascript:void(0)" title=" LXX.Gen.38.18, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 1.16.2. ">LXX+1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>collar,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.1.10]] ☩ [[Gen.38.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.1.10]] ☩ [[LXX.Gen.38.18]]
 </sub></small>

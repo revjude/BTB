@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>depart this life,</b> [<a href="javascript:void(0)" title=" LXX.Josh.5.27 (\_passive\_). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.5.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.5.27]]
 </sub></small>

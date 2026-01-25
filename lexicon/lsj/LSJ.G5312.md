@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>represent in the 'grand manner',</b> [
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>passive</i>, Astron., of planets, <b>mount</b> to the north of the ecliptic, Theo Sm.p.135 H. 
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <i>passive</i>, Astrology texts, of planets, <b>attain exaltation,</b> i.e. maximum appotelesmatic efficacy, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 140.7. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.15.2]] ☩ [[Matt.23.12]] ☩ [[Deut.8.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.15.2]] ☩ [[Matt.23.12]] ☩ [[LXX.Deut.8.14]]
 </sub></small>

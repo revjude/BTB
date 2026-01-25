@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>pay through a bank</b>, [<a href="javascr
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> (i.e. <span class='asgreek'>στρατόν</span>), <b>march through,</b> <span class='asgreek'>Στυμφαλίαν</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.68.5, probably in 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pelopidas” 17. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of rivers, boundaries, etc., <span class='asgreek'>δ</span>. <span class='asgreek'>τὰ</span> <span class='asgreek'>ὅρια</span> <span class='asgreek'>εἰς</span>.. [<a href="javascript:void(0)" title=" LXX.Josh.15.8; ὁ Εὐφράτης δ. διὰ τοῦ Ταύρου 1st c.BC-1st c.AD: Strabo Geographus 16.1.13; δ. εἰς νότον καὶ βορρᾶ[ν] “PLond.” 2.154.9 (1st c.AD). ">LXX+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.15.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.15.8]]
 </sub></small>

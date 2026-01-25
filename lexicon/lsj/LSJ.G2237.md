@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> concrete, <b>a pleasure</b>, [<a href="javas
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus ">Refs 5th c.BC+</a>], <b>desires after pleasure, pleasant lusts</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.2.23, NT.Titus.3.3, +others ">NT+5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> in <i>Ionic dialect</i> Philosophers, <b>taste, flavour</b>, usually joined with <span class='asgreek'>χροιή</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Diogenes Apolloniates Philosophus 5, 5th c.BC: Anaxagoras Philosophus 4 (\_plural\_), compare 4th c.BC: Aristoteles Philosophus “de Partibus Animalium” 660b9, 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.4.7, LXX.Num.11.8, 4th c.BC: Eudemus Philosophus cited in 2nd c.AD: Athenaeus Epigrammaticus 9.369f, Mnesith. cited in [same work] 8.357f. ">LXX+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Titus.3.3]] ☩ [[Num.11.8]]
+<small><sub>LSJ Scripture Refs: [[Titus.3.3]] ☩ [[LXX.Num.11.8]]
 </sub></small>

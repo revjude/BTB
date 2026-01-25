@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>line of union, meeting-place</b>, <spa
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <i>metaphorically</i>, <b>distress, affliction,</b> [<a href="javascript:void(0)" title="NT.Luke.21.25, NT.2Cor.2.4 ">NT</a>]; <b>oppression</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 2.8 (\_plural\_), “PMag.Lond.” 122.35">Refs 2nd c.AD+</a>]; <b>detention, imprisonment</b>, [<a href="javascript:void(0)" title=" “BGU” 1821.21 (1st c.BC), “PLond.” 2.354.24 (1st c.BC), 2nd c.AD: Vettius Valens Astrologus 74.23, 4th c.AD(?): Manetho Astrologus 1.313 (\_plural\_), +others">Refs 1st c.BC+</a>]: but of <b>going to bed</b> in disease, <span class='asgreek'>ἀκίνδυνος</span> <span class='asgreek'>ἔσται</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Serapio Astrologus in “Catalogus Codicum Astrologorum” 1.102. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>trap, gin, snare</b>, [<a href="javascript:void(0)" title=" LXX.Judg.2.3 (\_plural\_). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.21.25]] ☩ [[2Cor.2.4]] ☩ [[Judg.2.3]]
+<small><sub>LSJ Scripture Refs: [[Luke.21.25]] ☩ [[2Cor.2.4]] ☩ [[LXX.Judg.2.3]]
 </sub></small>

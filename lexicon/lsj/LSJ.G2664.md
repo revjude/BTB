@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.b</b> <b>put down</b>, [<a href="java
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i> and <i>middle</i> (<i>future</i> [<a href="javascript:void(0)" title=" -πᾰήσομαι “PMag.Lond.” 121.916)">Refs</a>], <b>leave off, cease</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Eq.” 1265; λόγος κ. ἐν.. Plato Philosophus [{5-6th c.BC}] “Philebus” 66c ">Refs 6th c.BC+</a>]: with <i>participle</i>, <span class='asgreek'>οὐ</span> -<span class='asgreek'>παήσεται</span> <span class='asgreek'>ἐρχομένη</span> [<a href="javascript:void(0)" title="“PMag.” [prev. cited] ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>active</i> used <i>intransitive</i> like <i>middle</i>, [<a href="javascript:void(0)" title=" μολπᾶν δ᾽ ἄπο.. ==καταπαύω==παύσας πόσις.. ἔκειτο 5th c.BC: Euripides Tragicus “Hecuba” 918 ">Refs 5th c.BC+</a>] (Lyric poetry, assuming variant); <span class='asgreek'>εὐημερῶν</span> <span class='asgreek'>κατάπαυσον</span> <b>rest</b> while you are well off, [<a href="javascript:void(0)" title="“Comedy texts Adesp.” 110.8, cf. LXX.Gen.8.22, +others; κ. τοῦ πορευθῆναι LXX.1Kgs.12.24. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.8.22]] ☩ [[1Kgs.12.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.8.22]] ☩ [[LXX.1Kgs.12.24]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>keep muster-roll of,</b> <span class='asgreek'>λαόν</span> [<a href="javascript:void(0)" title=" LXX.2Kgs.25.19. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ἐκτάσσοντα</span>· <span class='asgreek'>χαράσσοντα</span>, <span class='asgreek'>γράφοντα</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.25.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.25.19]]
 </sub></small>

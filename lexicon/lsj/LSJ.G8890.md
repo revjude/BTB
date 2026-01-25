@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>house</b> or <b>estate in the suburbs,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 1.7, “VS” 2.1.11. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.35.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.35.2]]
 </sub></small>

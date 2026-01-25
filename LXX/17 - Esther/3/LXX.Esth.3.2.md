@@ -1,0 +1,33 @@
+**LXX Esther 3:2** 
+<small><sub>**LXX:**</sub></small>
+And all the ones in the courtyard did obeisance to him, for so the king assigned \[it\] to do.  But Mordecai did not do obeisance to him. 
+<small><sub>**KJV:**</sub></small>
+And all the king’s servants, that [were] in the king’s gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did [him] reverence.
+<small><sub>**BSB:**</sub></small>
+All the royal servants at the king’s gate bowed down and paid homage to Haman, because the king had commanded that this be done for him. But Mordecai would not bow down or pay homage.<small><sub>**MT:**</sub></small>
+[[Esth.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.1|<< Esther 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.3|Esther 3:3 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| all | <span class="asgreek">πάντες <sup><small><small>[[G3956]]</small></small></sup> </span> |
+| the ones | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| in | <span class="asgreek">εν <sup><small><small>[[G1722]]</small></small></sup> </span> |
+| the | <span class="asgreek">τη <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| courtyard | <span class="asgreek">αυλή <sup><small><small>[[G0833]]</small></small></sup> </span> |
+| did obeisance to | <span class="asgreek">προσεκύνουν <sup><small><small>[[G4352]]</small></small></sup> </span> |
+| him, | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| for so | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> <span class="asgreek">γαρ <sup><small><small>[[G1063]]</small></small></sup> </span> |
+| assigned \[it\] | <span class="asgreek">προσέταξεν <sup><small><small>[[G4367]]</small></small></sup> </span> |
+| the | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| king | <span class="asgreek">βασιλεύς <sup><small><small>[[G0935]]</small></small></sup> </span> |
+| to do. | <span class="asgreek">ποιήσαι <sup><small><small>[[G4160]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">ο <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| But | <span class="asgreek">δε <sup><small><small>[[G1161]]</small></small></sup> </span> |
+| Mordecai | <span class="asgreek">Μαρδαχαίος <sup><small><small>[[H4782]]</small></small></sup> </span> |
+| did not | <span class="asgreek">ου <sup><small><small>[[G3756]]</small></small></sup> </span> |
+| do obeisance to | <span class="asgreek">προσεκύνει <sup><small><small>[[G4352]]</small></small></sup> </span> |
+| him. | <span class="asgreek">αυτώ <sup><small><small>[[G1473]]</small></small></sup> </span> |
+[[Esth.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.1|<< Esther 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.3|Esther 3:3 >>]]</td></tr></table>
+
+

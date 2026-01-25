@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>falling from the right way</b>, <span class='asg
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>τόπου</span> <span class='asgreek'>π</span>. the <b>situation</b> of a place <b>off the road</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.32.5. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>κατὰ</span> [<span class='asgreek'>τὴν</span>] <span class='asgreek'>τοῦ</span> <span class='asgreek'>διώγματος</span> <span class='asgreek'>π</span>. in the <b>course</b> of.., [<a href="javascript:void(0)" title=" [prev. author] 11.17.3 ">Refs</a>]; <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>κελτοὺς</span> <span class='asgreek'>π</span>. as they were <b>pursuing</b>, [<a href="javascript:void(0)" title=" [prev. author] 3.115.11. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.22.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.22.21]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>genitive</i>, <b>go</b> or <b>come o
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>transgress,</b> <span class='asgreek'>ἐσπερᾶσαι</span> <span class='asgreek'>πὰρ</span> <span class='asgreek'>ἃν</span> <span class='asgreek'>λέγῃ</span> <span class='asgreek'>ἱεροθύτας</span> [<a href="javascript:void(0)" title=" “IG” 5(2).6 (Tegea, 4th c.BC). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>carry out</b> or <b>away,</b> [<a href="javascript:void(0)" title=" LXX.Num.11.31. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.11.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.11.31]]
 </sub></small>

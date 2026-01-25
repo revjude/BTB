@@ -6,5 +6,5 @@
  <b>fall given by tripping up,</b> [<a href="javascript:void(0)" title=" LXX.Prov.24.17. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.24.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.24.17]]
 </sub></small>

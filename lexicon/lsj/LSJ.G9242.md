@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.d</b> <b>train</b>, [<a href="javascr
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.e</b> <span class='asgreek'>ἐπιτήρει</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἡμέραν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὥραν</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>ᾗ</span> <span class='asgreek'>==συγκροτέω==εῖται</span> <span class='asgreek'>μάλιστα</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>χρησμός</span> on which the oracle <b>works</b> best, [<a href="javascript:void(0)" title=" 2nd c.AD: Astrampsychus Onirocriticus “Oracula” p.3. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.f</b> <b>assist, help</b>, <span class='asgreek'>==συγκροτέω==ῆσε</span> (i.e. -<span class='asgreek'>ῆσαι</span>) <span class='asgreek'>τὸν</span> <span class='asgreek'>εὐγενῆ</span> <span class='asgreek'>Παῦλον</span> [<a href="javascript:void(0)" title=" “POxy.” 1872.2 (5th-6th c.AD)">Refs 5th c.AD+</a>]; <span class='asgreek'>==συγκροτέω==εῖ</span>·.. <span class='asgreek'>συμπράττει</span>, [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.24.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.24.10]]
 </sub></small>

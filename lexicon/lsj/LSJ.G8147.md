@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>put to silence</b>, in <i>passive</i>, <b
 $\quad$ $\quad$<b>\_\_II</b> <b>maim, injure</b>, in <i>passive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ τόπων τῶν κατὰ ἄνθρωπον” 2, cf. Erot. see entry ==κωφόω==ωθῇ. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, of water, <b>lose its freshness</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ διαίτης” 1.35. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.38.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.38.3]]
 </sub></small>

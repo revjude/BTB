@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.5</b> <span class='asgreek'>ὁ</span> <span c
 $\quad$ $\quad$ $\quad$<b>\_\_III.6</b> <b>fistulous ulcer</b> which spreads under the skin, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.128, 1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD: Oribasius Medicus 44.8.22, 2nd c.AD: Galenus Medicus 11.125. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> in Tactics, <b>enveloping force</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Onosander (Onasander) Tacticus 21.5. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.16.22]] ☩ [[1Kgs.22.35]]
+<small><sub>LSJ Scripture Refs: [[Luke.16.22]] ☩ [[LXX.1Kgs.22.35]]
 </sub></small>

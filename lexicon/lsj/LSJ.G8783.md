@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>substantive</i> <span class='asgreek'>==πετρ
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>sling</b>, variant in [<a href="javascript:void(0)" title=" LXX.1Kgs.14.14. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>λίθοι</span> <span class='asgreek'>πετρόβολοι</span> <b>hurled as from a sling</b>, of hailstones,[<a href="javascript:void(0)" title="LXX.Ezek.13.11, 13. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.41.19]] ☩ [[1Kgs.14.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.41.19]] ☩ [[LXX.1Kgs.14.14]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>bag, case, receptacle,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Demosthenes” 30, 7th c.AD: Paulus Aegineta Medicus 3.41; στακτῆς ">Refs 1st c.AD+</a>]<b>sachet,</b> [<a href="javascript:void(0)" title=" LXX.Song.1.13. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>bundle,</b> <span class='asgreek'>ἐπιστολῶν</span>[<a href="javascript:void(0)" title=" “PRyl.” 78.36 (2nd c.AD), etc.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.1.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.1.13]]
 </sub></small>

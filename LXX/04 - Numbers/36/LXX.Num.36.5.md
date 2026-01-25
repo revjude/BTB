@@ -1,0 +1,28 @@
+**LXX Numbers 36:5** 
+<small><sub>**LXX:**</sub></small>
+And Moses gave charge to the sons of Israel, through \[the\] order of \[the\] <span class="smallcaps">lord</span>, saying, Thus \[to the\] tribe of \[the\] sons of Israel, say, 
+<small><sub>**KJV:**</sub></small>
+And Moses commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well.
+<small><sub>**BSB:**</sub></small>
+So at the word of the LORD, Moses commanded the Israelites: “The tribe of the sons of Joseph speaks correctly.<small><sub>**MT:**</sub></small>
+[[Num.36.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.4|<< Numbers 36:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.6|Numbers 36:6 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| Moses gave charge | <span class="asgreek">ενετείλατο <sup><small><small>[[G1781]]</small></small></sup> <span class="asgreek">Μωυσής <sup><small><small>[[G3475]]</small></small></sup> </span> |
+| to the | <span class="asgreek">τοις <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| sons | <span class="asgreek">υιοίς <sup><small><small>[[G5207]]</small></small></sup> </span> |
+| of Israel, | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
+| through | <span class="asgreek">διά <sup><small><small>[[G1223]]</small></small></sup> </span> |
+| \[the\] order | <span class="asgreek">προστάγματος <sup><small><small>[[G8943]]</small></small></sup> </span> |
+| of \[the\] <span class="smallcaps">lord</span>, | <span class="asgreek">κυρίου <sup><small><small>[[G2962]]</small></small></sup> </span> |
+| saying, | <span class="asgreek">λέγων <sup><small><small>[[G3004]]</small></small></sup> </span> |
+| Thus | <span class="asgreek">ούτως <sup><small><small>[[G3779]]</small></small></sup> </span> |
+| \[to the\] tribe | <span class="asgreek">φυλή <sup><small><small>[[G5443]]</small></small></sup> </span> |
+| of \[the\] sons | <span class="asgreek">υιών <sup><small><small>[[G5207]]</small></small></sup> </span> |
+| of Israel, | <span class="asgreek">Ιωσήφ <sup><small><small>[[G2501]]</small></small></sup> </span> |
+| say, | <span class="asgreek">λέγουσι <sup><small><small>[[G3004]]</small></small></sup> </span> |
+[[Num.36.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.4|<< Numbers 36:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.6|Numbers 36:6 >>]]</td></tr></table>
+
+

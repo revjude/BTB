@@ -6,5 +6,5 @@
  <b>dye with madder, dye red,</b> [<a href="javascript:void(0)" title=" LXX.Exod.25.5, 26.14. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.25.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.25.5]]
 </sub></small>

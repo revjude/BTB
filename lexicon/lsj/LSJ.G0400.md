@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>ἀ</span>. <span clas
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> of poetic <b>utterance,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Mundo” 400a18, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Coriolanus” 32 ">Refs 4th c.BC+</a>]; of any <b>utterance,</b> with <i>accusative</i>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 1p.24U., compare p.27 U. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>invoke,</b> in <i>passive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 125 (quater).">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Chr.15.28]] ☩ [[Luke.1.42]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.15.28]] ☩ [[Luke.1.42]]
 </sub></small>

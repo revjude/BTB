@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.e</b> (i.e. <span class='asgreek'>φ�
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.f</b> <b>women's garments</b>, [<a href="javascript:void(0)" title=" “PSI” 4.341.7 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>γυναικεῖον</span>, <span class='asgreek'>τό</span>, ={<span class='asgreek'>στίβι</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.84. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.3.7]] ☩ [[Gen.18.11]]
+<small><sub>LSJ Scripture Refs: [[1Pet.3.7]] ☩ [[LXX.Gen.18.11]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> as <i>adjective</i>, <b>leisurely, idle</b>, <span class='asgreek'>βίος</span> [<a href="javascript:void(0)" title=" [prev. author] “Cic.” 3, 2.135b; ἀργὸς καὶ σ. ὄχλος [prev. author] “Sol.” 22. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.5.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.5.17]]
 </sub></small>

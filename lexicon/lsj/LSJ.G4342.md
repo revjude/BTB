@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.c</b> <b>devote oneself to</b> an office
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>passive</i>, <span class='asgreek'>ὁ</span> <span class='asgreek'>==προσκαρτερέω==ούμενος</span> <span class='asgreek'>χρόνος</span> time <b>diligently employed</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 2.29. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>wait for</b> a person, <span class='asgreek'>Φιλέᾳ</span> [<a href="javascript:void(0)" title=" “POxy.” 1764.4 (3rd c.AD): \_absolutely\_, ἕως ἂν Ἐτέαρχος παραγένηται “PSI” 5.598.7 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.1.14]] ☩ [[Num.13.21]] ☩ [[Acts.8.13]]
+<small><sub>LSJ Scripture Refs: [[Acts.1.14]] ☩ [[LXX.Num.13.21]] ☩ [[Acts.8.13]]
 </sub></small>

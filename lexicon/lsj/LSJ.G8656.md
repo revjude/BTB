@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> = {<span class='asgreek'>παροικία</span>}, [<a href="javascript:void(0)" title=" LXX.Gen.28.4, +others ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>transmigration</b> of souls, [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 2.9.6. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.28.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.28.4]]
 </sub></small>

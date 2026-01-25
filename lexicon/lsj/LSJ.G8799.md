@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>strike with the flat of the sword</b>, [<a href=
 $\quad$ $\quad$<b>\_\_III</b> Grammars, <b>inflect, decline</b>, [<a href="javascript:void(0)" title=" Scholia recentia 5th c.BC: Sophocles Tragicus “Electra” 365. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <i>passive</i>, <span class='asgreek'>πεπλαγίασται</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>λόγος</span>, of Tragic irony, [<a href="javascript:void(0)" title="Scholia 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 137, 1183. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.29.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.29.21]]
 </sub></small>

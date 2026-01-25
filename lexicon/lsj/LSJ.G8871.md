@@ -6,5 +6,5 @@ Included with: <b> <span class='asgreek'>==ποσαπλῶς==</span>-<span clas
  = {<span class='asgreek'>==ποσαπλῶς==πλάσιος</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 13.872">Refs 2nd c.AD+</a>]. <i>adverb</i> <b>-<span class='asgreek'>πλῶ</span>;</b> <b>how many times?</b> [<a href="javascript:void(0)" title=" LXX.Ps.62.1. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.62.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.62.1]]
 </sub></small>

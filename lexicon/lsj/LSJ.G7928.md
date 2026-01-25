@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>στασιάζω</span>}, [<a href="javascript:void(0)" title=" LXX “LXX.Exod.38.22(1)“, 1st c.AD: Josephus Historicus “BJ Prooem.” 7, “BGU” 836.5 (6th c.AD). ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.38.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.38.22]]
 </sub></small>

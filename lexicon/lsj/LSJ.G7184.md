@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>remnant</b>, variant in [<a href="javascript:void(0)" title=" LXX.2Kgs.21.2. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.21.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.21.2]]
 </sub></small>

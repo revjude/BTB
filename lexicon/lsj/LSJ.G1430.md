@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>==δῶμα==</span> <
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>housetop</b>, [<a href="javascript:void(0)" title=" LXX.Deut.22.8, NT.Matt.24.17, 2nd c.AD: Babrius Fabularum Scriptor 5.5, “POxy.” 475.22 (2nd c.AD), etc. ">LXX+NT+2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>household, family</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1468 (Lyric poetry), 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 1226, etc.">Refs 5th c.BC+</a>]; compare <span class='asgreek'>δῶ</span>.
 
-<small><sub>LSJ Scripture Refs: [[Deut.22.8]] ☩ [[Matt.24.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.22.8]] ☩ [[Matt.24.17]]
 </sub></small>

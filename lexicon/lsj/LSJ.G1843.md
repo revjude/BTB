@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>make grateful acknowledgements, give thanks, sing praises,</b> [<a href="javascript:void(0)" title=" LXX.2Kgs.22.50, +others, 1st c.AD: Philo Judaeus 1.59, +others, NT.Matt.11.25: with \_accusative\_, τοῦτο τῷ Κυρίῳ LXX.Gen.29.35. ">LXX+1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> later in <i>active</i>, <b>agree, consent,</b> [<a href="javascript:void(0)" title="NT.Luke.22.6:—">NT</a>]<i>passive</i>, <span class='asgreek'>ἐξωμολογημέναι</span> <span class='asgreek'>ἀποδείξεις</span> <b>agreed, admitted</b> proofs, [<a href="javascript:void(0)" title=" “SIG” 685.95 (5th c.BC: Magnes Comicus Mae., 2nd c.BC). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.9.20]] ☩ [[Matt.3.6]] ☩ [[Phil.2.11]] ☩ [[2Kgs.22.50]] ☩ [[Matt.11.25]] ☩ [[Gen.29.35]] ☩ [[Luke.22.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.9.20]] ☩ [[Matt.3.6]] ☩ [[Phil.2.11]] ☩ [[LXX.2Kgs.22.50]] ☩ [[Matt.11.25]] ☩ [[LXX.Gen.29.35]] ☩ [[Luke.22.6]]
 </sub></small>

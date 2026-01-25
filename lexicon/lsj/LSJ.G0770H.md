@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to be needy,</b> [<a href="javascript:voi
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>infinitive</i>, <b>to be too weak</b> to do a thing, <b>not to be able</b>.., [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 2.15.5; εἰς τὸ θεωρεῖν 3rd c.AD: Plotinus Philosophus 3.8.4. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>decline,</b> <span class='asgreek'>ἠσθένησεν</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἡμέρα</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἑσπέραν</span>[<a href="javascript:void(0)" title=" LXX.Judg.19.9.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gal.4.13]] ☩ [[Matt.10.8]] ☩ [[Judg.19.9]]
+<small><sub>LSJ Scripture Refs: [[Gal.4.13]] ☩ [[Matt.10.8]] ☩ [[LXX.Judg.19.9]]
 </sub></small>

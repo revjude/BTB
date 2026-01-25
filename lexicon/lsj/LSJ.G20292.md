@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of a road, <b>overhang,</b> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>Γαί</span> [<a href="javascript:void(0)" title=" LXX.1Kgs.13.18. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.13.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.13.18]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>encamp, bivouac</b>, Aen. Tact.
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, in <i>active</i>, <b>have a lair</b>, of a lion, [<a href="javascript:void(0)" title=" 5th-4th c.BC: Aesopus Fabularum Scriptor 114 ">Refs 5th c.BC+</a>]: <b>nest</b>, of birds, [<a href="javascript:void(0)" title=" “BGU” 1252.11 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>parcelout</b> lands (compare <span class='asgreek'>κοίτη</span> see), [<a href="javascript:void(0)" title="[prev. work] 619.4 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.40.12]] ☩ [[Song.1.7]] ☩ [[Deut.6.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.40.12]] ☩ [[LXX.Song.1.7]] ☩ [[LXX.Deut.6.7]]
 </sub></small>

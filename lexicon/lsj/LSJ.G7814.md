@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>stone, kernel</b>, [<a href="javascript:void(0)"
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>seed</b> of conifers, [<a href="javascript:void(0)" title=" [prev. author] “CP” 1.19.1 ">Refs</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>πιτύ</span>ϊ<span class='asgreek'>να</span> pine-<b>kernels</b>, [<a href="javascript:void(0)" title=" Diocl.fragment 127. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ἠρύγγη</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.21. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.17.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.17.8]]
 </sub></small>

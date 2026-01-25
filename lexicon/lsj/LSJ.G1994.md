@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.b</b>. <b>conduct oneself, behave</b>
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b>. c.<i>accusative</i>, <span class='asgreek'>θεοῦ</span> <span class='asgreek'>νιν</span> <span class='asgreek'>κέλευσμ᾽</span> <span class='asgreek'>ἐπεστράφη</span> <b>turned against</b> her, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Andromache” 101 (Lyric poetry). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b>. <i>perfect</i> <i>participle</i> <i>passive</i> <span class='asgreek'>ἐπεστραμμένος</span>, ={<span class='asgreek'>==ἐπιστρέφω==στρεφής</span>}, <b>earnest, vehement</b>, <span class='asgreek'>λέγειν</span> <span class='asgreek'>ἐπεστραμμένα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.62; ἀφέλεια -στραμμένη 2nd-3rd c.AD: Philostratus Sophista “Vitae Sophistarum” 1.7.1. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.12.44]] ☩ [[Deut.30.9]] ☩ [[2Chr.33.3]] ☩ [[Mal.1.4]] ☩ [[Deut.30.2]] ☩ [[Judg.5.19]] ☩ [[Matt.13.15]] ☩ [[Luke.22.32]]
+<small><sub>LSJ Scripture Refs: [[Matt.12.44]] ☩ [[LXX.Deut.30.9]] ☩ [[LXX.2Chr.33.3]] ☩ [[LXX.Mal.1.4]] ☩ [[LXX.Deut.30.2]] ☩ [[LXX.Judg.5.19]] ☩ [[Matt.13.15]] ☩ [[Luke.22.32]]
 </sub></small>

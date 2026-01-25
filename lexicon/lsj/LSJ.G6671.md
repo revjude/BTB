@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> of animals, <b>put the female to the male</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Alcaeus Comicus 18, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 573b7 ">Refs 5th c.BC+</a>]; also of the male, [<a href="javascript:void(0)" title=" 4th c.AD(?): Horapollo 1.48 ">Refs 4th c.AD+</a>]:—<i>passive</i>, of the female, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 577a29, LXX.Lev.18.23. ">LXX+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.18.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.18.23]]
 </sub></small>

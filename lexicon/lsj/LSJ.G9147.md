@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_I.3</b> <i>absolutely</i>, <b>leak</b>, <span clas
 $\quad$ $\quad$<b>\_\_II</b> <b>fall in drops, drip, trickle</b>, <span class='asgreek'>ὕδωρ</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 6.74; στάζει.. φοίνιον τόδ᾽.. αἷμα 5th c.BC: Sophocles Tragicus “Philoctetes” 783: \_metaphorically\_, σ. δ᾽ ἐν ὕπνῳ πρὸ καρδίας.. πόνος 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 179 (Lyric poetry); ψόφος σ. δι᾽ ὤτων 5th c.BC: Euripides Tragicus “Rhesus” 566; ==στάζω== λισσάδος ὡς πέτρας λιβὰς ἀνήλιος [prev. author] “Andr.” 533 (Lyric poetry): with \_genitive\_, ὀπὸν στάζοντα τομῆς">Refs 5th c.BC+</a>] <b>dripping from</b> the cut, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 534 (\_anapaest meter\_); αἷμα ἐξ ἄκρου ἔσταζε κρατός 5th c.BC: Euripides Tragicus “Medea” 1199, etc.; σμικρὸν ἀπὸ ῥινῶν ἔσταξεν 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 1.14. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of dry things, as ripe fruit, <b>drop off</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 1001 (uncertain reading). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.49.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.49.18]]
 </sub></small>

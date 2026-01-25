@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>rascal that deserves death, gallowsbird,<
 $\quad$ $\quad$<b>\_\_II</b> of the agent or instrument of slaughter, <span class='asgreek'>φόνον</span> <span class='asgreek'>ἔμμεναι</span> <span class='asgreek'>ἡρώεσσι</span> to be <b>a death</b> to heroes, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 16.144, compare 8th c.BC: Odyssea Homerus Epicus “Odyssey” 21.24 ">Refs 8th c.BC+</a>]; of poison, [<a href="javascript:void(0)" title=" “Mim.Oxy.” 413.180; ἐν φόνῳ μαχαίρας LXX.Exod.17.13, LXX.Deut.13.15(16), 20.13 ">LXX</a>]; without <span class='asgreek'>ἐν</span>, [<a href="javascript:void(0)" title=" LXX.Num.21.24. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ἀτρακτυλίς</span>}, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 6.4.6. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.17.13]] ☩ [[Deut.13.15]] ☩ [[Num.21.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.17.13]] ☩ [[LXX.Deut.13.15]] ☩ [[LXX.Num.21.24]]
 </sub></small>

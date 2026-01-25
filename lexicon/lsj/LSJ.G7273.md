@@ -6,5 +6,5 @@
  <b>thing to take pleasure in, a delight,</b> [<a href="javascript:void(0)" title=" LXX.Eccl.2.8 (\_plural\_), 1st c.AD: Philo Judaeus 1.690. ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Eccl.2.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.2.8]]
 </sub></small>

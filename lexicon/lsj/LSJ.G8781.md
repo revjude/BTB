@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>platform, stage</b>, [<a href="javascr
 $\quad$ $\quad$<b>\_\_III</b> <b>springe, trap</b>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>==πέταυρον==</span> <span class='asgreek'>ᾅδου</span> <span class='asgreek'>συναντᾷ</span> [<a href="javascript:void(0)" title=" LXX.Prov.9.18. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>public notice-board,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 7.235.42 (Oropus, 4th c.BC); π. τῷ λόγῳ (for publication of accounts) [prev. work]11(2).145.44 (Delos, 4th c.BC). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.9.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.9.18]]
 </sub></small>

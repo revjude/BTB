@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> with <i>accusative</i> <i>cognate</i>, <s
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>παρὰ</span> <span class='asgreek'>ἓν</span> <span class='asgreek'>πάλαισμα</span> <span class='asgreek'>ἔδραμε</span> <span class='asgreek'>νικᾶν</span> he was within one fall or bout of carrying off the victory, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 9.33 ">Refs 5th c.BC+</a>]; compare <span class='asgreek'>παρά</span>[<a href="javascript:void(0)" title=" with 111.5, τριάζω 1. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>commit,</b> <span class='asgreek'>μηδ᾽</span> <span class='asgreek'>ἑτέρας</span> <span class='asgreek'>δραμεῖν</span> <span class='asgreek'>ἀταξίας</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>ἀσελγίας</span> [<a href="javascript:void(0)" title=" “PLond.” 5.1711.34 (6th c.AD). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.1.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.1.4]]
 </sub></small>

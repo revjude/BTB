@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>thinking faculty, intelligence, understanding,<
 $\quad$ $\quad$<b>\_\_IV</b> <b>thought expressed, meaning of</b> a word or passage, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Lysis” 205b, “Phdr.” 228d; τὰς τῶν ὀνομάτων δ. [prev. author] “Cra.” 418a; τὴν αὐτὴν ἔχει δ. 4th c.BC: Aristoteles Philosophus “de Anima” 404a17; ἡ φυσικὴ δ. τοῦ νόμου Aristeas 171 ">Refs 5th c.BC+</a>]; so <span class='asgreek'>δ</span>., opposed to <span class='asgreek'>ῥητόν</span>, <b>spirit,</b> opposed to letter, [<a href="javascript:void(0)" title=" 2nd c.AD: Hermogenes Rhetor “περὶ τῶν στάσεων” 2. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>intellectual capacity</b> revealed in speech or action by the characters in drama, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Poetica” 1450a6, b11, 1456a34, “Rh.” 1404a19, +others (Rare in Poetry.) ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.1.21]] ☩ [[Deut.28.28]]
+<small><sub>LSJ Scripture Refs: [[Col.1.21]] ☩ [[LXX.Deut.28.28]]
 </sub></small>

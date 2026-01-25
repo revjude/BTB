@@ -1,0 +1,24 @@
+**LXX Genesis 30:19** 
+<small><sub>**LXX:**</sub></small>
+And Leah conceived again. And she bore a sixth son  to Jacob. 
+<small><sub>**KJV:**</sub></small>
+And Leah conceived again, and bare Jacob the sixth son.
+<small><sub>**BSB:**</sub></small>
+Again Leah conceived and bore a sixth son to Jacob.<small><sub>**MT:**</sub></small>
+[[Gen.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.18|<< Genesis 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.20|Genesis 30:20 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| conceived | <span class="asgreek">συνέλαβεν <sup><small><small>[[G4815]]</small></small></sup> </span> |
+| again | <span class="asgreek">έτι <sup><small><small>[[G2089]]</small></small></sup> </span> |
+| Leah | <span class="asgreek">Λεία <sup><small><small>[[H3812]]</small></small></sup> </span> |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| she bore | <span class="asgreek">έτεκεν <sup><small><small>[[G5088]]</small></small></sup> </span> |
+| son | <span class="asgreek">υιόν <sup><small><small>[[G5207]]</small></small></sup> </span> |
+| a sixth | <span class="asgreek">έκτον <sup><small><small>[[G1623]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">τω <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| to Jacob. | <span class="asgreek">Ιακώβ <sup><small><small>[[G2384]]</small></small></sup> </span> |
+[[Gen.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.18|<< Genesis 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.20|Genesis 30:20 >>]]</td></tr></table>
+
+

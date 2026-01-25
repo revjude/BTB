@@ -6,5 +6,5 @@
  <b>supplanting</b>, [<a href="javascript:void(0)" title=" LXX.Ps.40.10 ">LXX</a>]: generally, <b>craft, subtlety</b>,[<a href="javascript:void(0)" title="[prev. work = 12th c.AD: Tzetzes, Joannes Grammaticus “Historiarum variarum chiliades”] LXX.4Ki.10.19. ">Refs</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.40.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.40.10]]
 </sub></small>

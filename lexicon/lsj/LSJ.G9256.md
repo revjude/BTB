@@ -6,5 +6,5 @@
  <b>assisting</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.21.16. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.21.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.21.16]]
 </sub></small>

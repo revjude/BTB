@@ -7,5 +7,5 @@ Included with: <b> <span class='asgreek'>==νοητῶς==</span>-<span class='a
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==νοητῶς==ητικός</span>}, Oracle texts cited in [<a href="javascript:void(0)" title=" 6th c.AD: Lydus, Joannes Laurentius Historicus “de Mensibus” 1.11 ">Refs 6th c.AD+</a>]. <i>adverb</i> <b>-<span class='asgreek'>τῶς</span></b> <b>carefully,</b> [<a href="javascript:void(0)" title=" LXX.Prov.23.1. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.23.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.23.1]]
 </sub></small>

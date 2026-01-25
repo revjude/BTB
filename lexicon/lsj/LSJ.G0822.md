@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>sublimate</b> or <b>deposit</b> of colouring mat
 $\quad$ $\quad$<b>\_\_III</b> <b>poultice,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Crito Medicus cited in 2nd c.AD: Galenus Medicus 13.879. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>σπινθήρ</span>, <span class='asgreek'>ἀπαύγασμα</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Joel.2.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Joel.2.30]]
 </sub></small>

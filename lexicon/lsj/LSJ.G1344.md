@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.1</b> <b>chastise, punish,</b> [<a href="javas
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <i>passive</i>, also, <b>have right done one,</b> opposed to <span class='asgreek'>ἀδικεῖσθαι</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1136a18. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>pronounce and treat as righteous, justify, vindicate,</b> [<a href="javascript:void(0)" title=" LXX.Exod.23.7, LXX.Jer.3.11; ἑαυτούς NT.Luke.16.15, etc.:—frequently in ">LXX+NT</a>]<i>passive</i> [<a href="javascript:void(0)" title=", [prev. work] 7.35, etc. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.23.7]] ☩ [[Jer.3.11]] ☩ [[Luke.16.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.23.7]] ☩ [[LXX.Jer.3.11]] ☩ [[Luke.16.15]]
 </sub></small>

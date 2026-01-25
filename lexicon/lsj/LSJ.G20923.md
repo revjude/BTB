@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>sole of the shoe</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Mochl.” 32, 4th c.BC: Aeneas Tacticus 31.4, 3rd c.BC: Herodas Mimographus 7.116, 2nd c.BC: Nicander Epicus “fragment” 85.6, 2nd c.BC: Polybius Historicus 12.6.4; συάγρεα ==πέλμα==τα “PCair.Zen.” 692.18 (3rd c.BC). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>stalk</b> of apples and pears, [<a href="javascript:void(0)" title=" “Geoponica” 10.25.1. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.4.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.4.17]]
 </sub></small>

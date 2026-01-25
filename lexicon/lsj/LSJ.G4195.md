@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> of special seas, <span class='asgreek'>π</span>. <
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> the country [<a href="javascript:void(0)" title=" “Pontus” on the 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>] shore of the Black Sea, [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Μιθριδάτειος” 8, etc.: ">Refs 2nd c.AD+</a>] <i>adjective</i> <span class='asgreek'>Ποντικός</span> (which see). 
 $\quad$ $\quad$<b>\_\_III</b> personified as son of Gaia, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 132, 233f (Cogn. with πάτος, which see) ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.15.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.15.5]]
 </sub></small>

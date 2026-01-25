@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.b</b> in bad sense, <b>antiquated, ob
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.c</b> <span class='asgreek'>π</span>. <span class='asgreek'>δρᾶμα</span> a drama <b>which has been previously acted</b>, [<a href="javascript:void(0)" title=" “SIG” 1078 lxxxvii (Athens, 4th c.BC). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i> <span class='asgreek'>παλαιῶς</span> <b>in an old way</b>, <span class='asgreek'>τὰ</span> <span class='asgreek'>καινὰ</span> <span class='asgreek'>π</span>. <span class='asgreek'>διδάσκειν</span> [<a href="javascript:void(0)" title=" 5th-4th c.BC: Socratis et Socraticorum Epistulae “Ep.” 30.9: \_comparative\_ παλαίτερον">Refs 5th c.BC+</a>] <b>at an earlier time</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 8.57, +others ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.7.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.7.9]]
 </sub></small>

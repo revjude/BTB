@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> in Logic and in Mathematics texts, <b>postulate, assumption</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Posteriora” 76b23, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Demetrius” 3, 2nd c.AD: Lucianus Sophista “Herm.” 74.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.1.17]] ☩ [[Luke.23.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.1.17]] ☩ [[Luke.23.24]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>light,</b> <span class='asgreek'>Κύριος</span> <span class='asgreek'>φ</span>. <span class='asgreek'>μου</span> [<a href="javascript:void(0)" title=" LXX.Ps.26.1, cf. NT.2Cor.4.4, 6. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.26.1]] ☩ [[2Cor.4.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.26.1]] ☩ [[2Cor.4.4]]
 </sub></small>

@@ -20,5 +20,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>command,</b> i.e. <b>body of troops,</
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <i>plural</i>, <b>heavenly powers,</b> [<a href="javascript:void(0)" title="NT.Rom.8.38, +others, compare 5th-6th c.AD: Damascius Philosophus “de Principiis” 96">NT+5th c.AD+</a>]; <b>powers of evil,</b> [<a href="javascript:void(0)" title="NT.Eph.6.12, +others ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>εἶδος</span> <span class='asgreek'>μελίσσης</span> <span class='asgreek'>ἀκέντρου</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.10.11]] ☩ [[Gen.2.10]] ☩ [[Num.1.2]] ☩ [[1Kgs.13.17]] ☩ [[Rom.8.38]] ☩ [[Eph.6.12]]
+<small><sub>LSJ Scripture Refs: [[Acts.10.11]] ☩ [[LXX.Gen.2.10]] ☩ [[LXX.Num.1.2]] ☩ [[LXX.1Kgs.13.17]] ☩ [[Rom.8.38]] ☩ [[Eph.6.12]]
 </sub></small>

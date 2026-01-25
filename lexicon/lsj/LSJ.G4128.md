@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <b>plurality,</b> opposed to <span class
 $\quad$ $\quad$<b>\_\_IV</b> of Time, <b>length,</b> <span class='asgreek'>χρόνου</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.1, 5th-6th c.BC: Plato Philosophus “Theaetetus” 158d, 5th-6th c.BC: Isocrates Orator 12.180; π. ἐτῶν 5th-6th c.BC: Aristophanes Comicus “Nubes” 855; πλήθει πολλῶν μηνῶν 5th c.BC: Sophocles Tragicus “Philoctetes” 722 (Lyric poetry). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> with Preps., or <i>adverbs</i>, <span class='asgreek'>ἐς</span> <span class='asgreek'>π</span>. <b>in great numbers,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.14 ">Refs 5th c.BC+</a>]; <span class='asgreek'>κατὰ</span> <span class='asgreek'>==πλῆθος==</span> a <b>large number</b> at a time, [<a href="javascript:void(0)" title=" “IG” 12.6.112; ὡς ἐπὶ τὸ π. ">Refs</a>]<b>usually, mostly,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 275b; ὡς ἐπὶ τὸ π. εἰπεῖν 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 786a35; κατὰ π. 1st c.BC: Dionysius Halicarnassensis 6.67. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.36.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.36.5]]
 </sub></small>

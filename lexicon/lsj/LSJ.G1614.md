@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>put to the full stretch,</b> <span class='asgre
 $\quad$ $\quad$<b>\_\_IV</b> <b>lengthen</b> a short syllable, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 27.2 (\_passive\_), +others, interpolated in 1st c.BC: Dionysius Halicarnassensis 2.58. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <i>intransitive</i>, <b>draw along,</b> [<a href="javascript:void(0)" title=" LXX.Judg.20.37. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.20.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.20.37]]
 </sub></small>

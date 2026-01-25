@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>make lame,</b> [<a href="javascript:void(0)" title=" Scholia T 8th c.BC: Ilias Homerus Epicus “Illiad” 8.402 ">Refs 8th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>ἐ==χωλαίνω==άνθη</span> [<a href="javascript:void(0)" title=" LXX.2Kgs.4.4. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.18.21]] ☩ [[Ps.17.46]] ☩ [[2Kgs.4.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.18.21]] ☩ [[LXX.Ps.17.46]] ☩ [[LXX.2Kgs.4.4]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>like a saw,</b> [<a href="javascript:void(0)" title=" LXX.Isa.41.15. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.41.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.41.15]]
 </sub></small>

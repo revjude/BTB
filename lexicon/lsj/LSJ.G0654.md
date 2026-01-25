@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.II.1</b> <b>turn one's face away from, abandon,<
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.2</b> <b>turn oneself about,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.4.25; ἅρματα ἀπεστραμμένα ὥσπερ εἰς φυγήν [prev. work] 6.2.17">Refs 5th c.BC+</a>]; <span class='asgreek'>==ἀποστρέφω==στραφῆναι</span> <span class='asgreek'>λυγιζόμενος</span> <b>escape</b> by wriggling, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 405c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.3</b> <span class='asgreek'>==ἀποστρέφω==στραφῆναί</span> <span class='asgreek'>τινος</span> <b>fall off from</b> one, <b>desert</b> him, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 4.8.4.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.6.21]] ☩ [[Hos.8.3]] ☩ [[Num.25.4]] ☩ [[2Kgs.22.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.6.21]] ☩ [[LXX.Hos.8.3]] ☩ [[LXX.Num.25.4]] ☩ [[LXX.2Kgs.22.9]]
 </sub></small>

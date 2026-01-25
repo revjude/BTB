@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_VI</b> Astron., <b>node</b>, [<a href="javascript:void(0)"
 $\quad$ $\quad$ $\quad$<b>\_\_VI.2</b> <span class='asgreek'>Σ</span>. <b>the Knot</b>, i.e. the star <b>a</b> Piscium, [<a href="javascript:void(0)" title=" 2nd c.BC: Hipparchus Astronomicus 1.11.20, 1st c.BC: Geminus Astronomicus 3.7, [prev. author] “Calend.” 10, 1st c.BC: Ptolemaeus Epigrammaticus “Alm.” 8.1. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_VI.3</b> Astrology texts, <b>connexion</b> of heavenly bodies, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 163.13, +others ">Refs 2nd c.AD+</a>]; of the moon, [<a href="javascript:void(0)" title=" 4th c.AD: Paulus Alexandrinus Astrologus “S.” 3. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.2.19]] ☩ [[Col.3.14]] ☩ [[2Kgs.11.14]] ☩ [[1Kgs.14.24]]
+<small><sub>LSJ Scripture Refs: [[Col.2.19]] ☩ [[Col.3.14]] ☩ [[LXX.2Kgs.11.14]] ☩ [[LXX.1Kgs.14.24]]
 </sub></small>

@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <i>passive</i>, <b>to be affected by fir
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> of gold, <b>to be proved</b> or <b>tested by fire</b>, <span class='asgreek'>χρυσίον</span> <span class='asgreek'>πεπυρωμένον</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>πυρός</span> [<a href="javascript:void(0)" title=" NT.Rev.3.18 ">NT</a>]: <i>metaphorically</i>, <b>proved by fire, approved</b>, [<a href="javascript:void(0)" title=" LXX.Ps.17.31, 118, 119.140, 1st c.AD: Philo Judaeus 1.57. ">LXX+1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <b>to be affected by heart-burn</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Herodotus Medicus cited in 6th c.AD: Aëtius Medicus 9.2. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.11.29]] ☩ [[Rev.3.18]] ☩ [[Ps.17.31]]
+<small><sub>LSJ Scripture Refs: [[2Cor.11.29]] ☩ [[Rev.3.18]] ☩ [[LXX.Ps.17.31]]
 </sub></small>

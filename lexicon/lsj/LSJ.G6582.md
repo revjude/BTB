@@ -6,5 +6,5 @@
  ={<span class='asgreek'>πισσάσφαλτος</span>}, [<a href="javascript:void(0)" title=" LXX.Exod.2.3.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.2.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.2.3]]
 </sub></small>

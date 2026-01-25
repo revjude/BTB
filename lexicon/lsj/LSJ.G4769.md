@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>σ</span>. <span class
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>wooden pole</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Fragmenta” 203, 2nd c.BC: Polybius Historicus 1.22.4 ">Refs 5th c.BC+</a>]; [<span class='asgreek'>σκηνῆς</span>] tent-<b>poles, uprights</b>, opposed to <span class='asgreek'>διατόναια</span>, [<a href="javascript:void(0)" title=" “PCair.Zen.” 353.9 (3rd c.BC)">Refs 3rd c.BC+</a>]; <b>plank</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 47. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>stile</b> for writing on waxed tablets; wrongly used in this sense by Greek speakers at Alexandria and in the East <i>accusative</i> to [<a href="javascript:void(0)" title=" 3rd c.BC: Herophilus Medicus cited in 2nd c.AD: Galenus Medicus “Anatomy texts Ad” xiv (Arabic version, ii p.183 ed. M. Simon, Leipzig 1906)">Refs 3rd c.BC+</a>]; compare <span class='asgreek'>στυλοειδής</span>.
 
-<small><sub>LSJ Scripture Refs: [[Gal.2.9]] ☩ [[1Tim.3.15]] ☩ [[Exod.13.21]] ☩ [[Rev.10.1]]
+<small><sub>LSJ Scripture Refs: [[Gal.2.9]] ☩ [[1Tim.3.15]] ☩ [[LXX.Exod.13.21]] ☩ [[Rev.10.1]]
 </sub></small>

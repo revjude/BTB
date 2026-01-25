@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>offering offruits</b>, [<a href="javascript:void(0)" title=" LXX.Num.18.9; compare ==κάρπωμα==ωσις 11. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.18.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.18.9]]
 </sub></small>

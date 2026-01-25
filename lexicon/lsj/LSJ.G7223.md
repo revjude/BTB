@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>stand in the way as an adversary</b>, [<a href="javascript:void(0)" title=" LXX.Num.22.22. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.108.4]] ☩ [[Num.22.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.108.4]] ☩ [[LXX.Num.22.22]]
 </sub></small>

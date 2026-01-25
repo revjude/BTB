@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>feast,</b>[<a href="javascript:void(0)" title="LXX.Dan.5.23; ἑ. γερδίων “PTeb.” 584 (2nd c.AD). ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.25.30]] ☩ [[Dan.5.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.25.30]] ☩ [[LXX.Dan.5.23]]
 </sub></small>

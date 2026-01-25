@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>adjective</i> <span class='asgreek'>ἀπεναντίος</span>, <span class='asgreek'>ον</span>, [<a href="javascript:void(0)" title=" 6th c.AD: Procopius Caesariensis Historicus “de Aedificiis” 1.11. ">Refs 6th c.AD+</a>]<i>adverb</i> -<span class='asgreek'>ίως</span> variant in [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Nigr.” 36.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.6.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.6.4]]
 </sub></small>

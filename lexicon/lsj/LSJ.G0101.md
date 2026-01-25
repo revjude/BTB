@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> of things, <b>to be impossible</b>, [<a href="javascript:void(0)" title=" LXX.Job.10.13, 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.98 W., NT.Matt.17.20, NT.Luke.1.37, 3rd c.AD: Pseudo-Callisthenes Historicus 3.26.">LXX+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.10.13]] ☩ [[Matt.17.20]] ☩ [[Luke.1.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.10.13]] ☩ [[Matt.17.20]] ☩ [[Luke.1.37]]
 </sub></small>

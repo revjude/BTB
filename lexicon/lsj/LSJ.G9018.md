@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>the sharp projection on the middle of 
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>outer edge</b> of the arm of the polypus, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 524a7. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>trunk</b>, of Dagon, [<a href="javascript:void(0)" title=" LXX.1Kgs.5.4. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.5.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.5.4]]
 </sub></small>

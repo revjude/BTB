@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==εἰσόδιος==ιον</span>, <span class='asgreek'>τό</span>, <b>introduction</b> to a speech, [<a href="javascript:void(0)" title=" 2nd c.AD: Aristides Rhetor 2.321 1st c.AD: Josephus Historicus ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.11.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.11.13]]
 </sub></small>

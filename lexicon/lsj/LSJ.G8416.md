@@ -6,5 +6,5 @@
  <b>bridal, marriage,</b> [<a href="javascript:void(0)" title=" LXX.Song.3.11. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Song.3.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.3.11]]
 </sub></small>

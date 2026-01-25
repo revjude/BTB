@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>idolatry,</b> [<a href="javascript:void(0)" title=" LXX.Hos.4.11, +others ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.19.9]] ☩ [[1Cor.7.2]] ☩ [[Hos.4.11]]
+<small><sub>LSJ Scripture Refs: [[Matt.19.9]] ☩ [[1Cor.7.2]] ☩ [[LXX.Hos.4.11]]
 </sub></small>

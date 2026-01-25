@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> in Mathematics texts, <b>positive term,</b> 
 $\quad$ $\quad$<b>\_\_II</b> <b>substance,</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>κέρατος</span> <span class='asgreek'>ὕ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 1.129. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> like{<span class='asgreek'>τὰ</span> <span class='asgreek'>ὑπάρχοντα</span>}, <b>substance, property,</b> [<a href="javascript:void(0)" title=" LXX.Prov.18.11, 2nd c.BC: Polybius Historicus 2.17.11, 1st c.BC: Philodemus Philosophus “περὶ οἰκονομίας” p.69 1st c.AD: Josephus Historicus (\_plural\_), 1st c.BC: Dionysius Halicarnassensis 7.8, 1st c.BC: Diodorus Siculus Historicus 20.71, NT.Heb.10.34, “POxy.” 1274.14 (3rd c.AD); χρημάτων ὕ. Teles p.43 H. ">LXX+2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.18.11]] ☩ [[Heb.10.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.18.11]] ☩ [[Heb.10.34]]
 </sub></small>

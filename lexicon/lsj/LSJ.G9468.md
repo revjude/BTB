@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>a drinking-cup,</b> which had such a crea
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> a <b>what's-itsname, thingumbob,</b> <span class='asgreek'>τίθεται</span> (i.e. <span class='asgreek'>σκινδαψός</span>) <span class='asgreek'>καὶ</span> <span class='asgreek'>κατ᾽</span> <span class='asgreek'>οὐδενὸς</span> (perhaps <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>δεῖνος</span> legend.) <span class='asgreek'>ὡς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>==τραγέλαφος==έλαφος</span> [<a href="javascript:void(0)" title=" 5th c.AD(?): Stephanus Byzantius see at {Γαληψός}. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> later, a real animal of Arabia, or on the Phasis, probably a kind of <b>wild goat</b> or <b>antelope,</b> [<a href="javascript:void(0)" title=" LXX.Job.39.1, 1st c.BC: Diodorus Siculus Historicus 2.51, 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 8.120, etc. ">LXX+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.39.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.39.1]]
 </sub></small>

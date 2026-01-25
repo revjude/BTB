@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>δ</span>. <span class
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>spell, charm,</b> [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de Mysteriis” 3.27. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>δέσμη</span>}, Papyrus in [<a href="javascript:void(0)" title=" “Philol.” 80.341, 2nd c.AD(?): Pollianus Epigrammaticus 2.135, 12th c.AD: Eustathius Episcopus Thessalonicensis 862.27; ἀσπαράγου δ. “BGU” 1120.14 (1st c.BC)">Refs 1st c.BC+</a>]; <span class='asgreek'>δ</span>. <span class='asgreek'>ἀργυρίου</span> [<a href="javascript:void(0)" title=" LXX.Gen.42.27; compare δέσις 111. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.42.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.42.27]]
 </sub></small>

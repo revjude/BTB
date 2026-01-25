@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>make hateful</b> or <b>hostile</b>, <span class='asgreek'>τινά</span> <span class='asgreek'>τινι</span> Max.[same place]
 
-<small><sub>LSJ Scripture Refs: [[Num.25.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.25.18]]
 </sub></small>

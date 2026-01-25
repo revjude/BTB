@@ -6,5 +6,5 @@
  a precious stone (<i>diminutive</i> of <span class='asgreek'>λίγυρος</span>), [<a href="javascript:void(0)" title=" LXX.Exod.28.19, 1st c.AD: Josephus Historicus “Bellum Judaicum” 5.5.7 ">LXX+1st c.AD+</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.19]]
 </sub></small>

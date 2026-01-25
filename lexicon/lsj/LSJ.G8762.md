@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>π</span>. <span class='asgreek'>τὼ</span> <span class='asgreek'>χεῖρε</span> <b>tie</b> his hands <b>behind</b> him, [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 1.27 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be twisted</b>, of an intestine, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 8.388. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>attract</b> a person's <b>attention</b>, <span class='asgreek'>π</span>. <span class='asgreek'>τὸν</span> <span class='asgreek'>θεατήν</span> [<a href="javascript:void(0)" title=" 4th c.AD: Libanius Sophista “Orationes” 11.236 ">Refs 4th c.AD+</a>]; <b>convert</b> a person, [<a href="javascript:void(0)" title=" “Catalogus Codicum Astrologorum” 2.180. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.36.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.36.9]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>joiner's square,</b> [<a href="javascript:void(0
 $\quad$ $\quad$<b>\_\_III</b> <b>cutwater</b> of a bridge, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 2.8. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> of persons, <b>leader, chief,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.14.38. (Akin to γόνυ.) ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.26.26]] ☩ [[1Kgs.14.38]]
+<small><sub>LSJ Scripture Refs: [[Acts.26.26]] ☩ [[LXX.1Kgs.14.38]]
 </sub></small>

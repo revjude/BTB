@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>middle</i> (<i>aorist</i> <i>passive</i> in [<a 
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>contend with</b> one <b>for</b> a thing, <span class='asgreek'>ἀ</span>. <span class='asgreek'>τινὶ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἀρχῆς</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 2.1.11, 2.3.23">Refs 5th c.BC+</a>]; more rarely <span class='asgreek'>τινὶ</span> <span class='asgreek'>περί</span> <span class='asgreek'>τινος</span>[<a href="javascript:void(0)" title=" [prev. work] 5.2.11; τινὸς πρός τινα 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 1.29.9. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>absolutely</i>, <b>set up opposition,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Protagoras” 336c, 4th c.BC: Aristoteles Philosophus “Politica” 1314a12">Refs 5th c.BC+</a>]; <b>maintain resistance,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 2.9.5, 21.25.6.">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.24.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.24.19]]
 </sub></small>

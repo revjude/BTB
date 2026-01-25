@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>to be quick, make haste, hurry</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 692, “Ch.” 660, 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 861, “OC” 219 (Lyric poetry), 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 582: in Prose, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.5.15: with \_genitive\_, τοῦ ποιῆσαι LXX.Gen.18.7. ">LXX+5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be early</b>, <span class='asgreek'>ταχύνουσαν</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>βραδύνουσαν</span> <span class='asgreek'>ἀκμὴν</span> <span class='asgreek'>προδιαγνῶναι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 19.201. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.18.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.18.7]]
 </sub></small>

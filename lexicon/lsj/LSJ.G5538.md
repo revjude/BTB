@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_II</b> (from <i>middle</i>) <b>doing business for one's ow
 $\quad$ $\quad$<b>\_\_III</b> later, <b>appellation, title, designation</b>, [<a href="javascript:void(0)" title=" “SIG” 739.2 (Delph., 1st c.BC), 3rd c.AD(?): Diogenes Laertius 1.48 (\_plural\_)">Refs 1st c.BC+</a>]; <b>use of a name</b> or <b>designation,</b> [<a href="javascript:void(0)" title=" Arch.Papyrus 4.122v7 (2nd c.AD)">Refs 2nd c.AD+</a>]; simply, <b>name,</b> Dosith.p.382K. 
 $\quad$ $\quad$<b>\_\_IV</b> 'affair', <span class='asgreek'>χ</span>. <span class='asgreek'>εὔχρηστος</span> (of <span class='asgreek'>σπάργανα</span>) [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.111 (sed to be read σχημ-.) ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mal.2.4]] ☩ [[Rom.11.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mal.2.4]] ☩ [[Rom.11.4]]
 </sub></small>

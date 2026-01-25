@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> generally, <b>go out,</b> [<a href="javascript:void
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>go away,</b> <span class='asgreek'>ὑγιὴς</span> <span class='asgreek'>ἐξῆρπε</span> [<a href="javascript:void(0)" title=" “IG” 4.951.97 (Epid.). ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>transitive</i>, <b>make to come forth, produce,</b> <span class='asgreek'>βατράχους</span> [<a href="javascript:void(0)" title=" LXX.Ps.104.30. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.104.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.104.30]]
 </sub></small>

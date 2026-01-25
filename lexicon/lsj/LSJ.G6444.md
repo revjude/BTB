@@ -6,5 +6,5 @@
  <b>guard-house,</b> [<a href="javascript:void(0)" title=" LXX.Jer.36.26.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.36.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.36.26]]
 </sub></small>

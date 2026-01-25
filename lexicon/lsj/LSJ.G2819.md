@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_A.II.4</b> Astrology texts, certain <b>degrees</b>
 $\quad$ $\quad$ $\quad$<b>\_\_A.II.5</b> generally, <b>province, sphere</b>, <span class='asgreek'>ἕνα</span> <span class='asgreek'>θεὸν</span> <span class='asgreek'>πολλῶν</span> <span class='asgreek'>ἅμα</span> <span class='asgreek'>προεστάναι</span> <span class='asgreek'>κλήρων</span> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 369. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_A.III</b> of the Levites, <span class='asgreek'>Κύριος</span> <span class='asgreek'>αὐτὸς</span> <span class='asgreek'>==κλῆρος==</span> <span class='asgreek'>αὐτοῦ</span> [<a href="javascript:void(0)" title=" LXX.Deut.18.2 ">LXX</a>]: hence, of the Christian <b>clergy</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>κλήρῳ</span> <span class='asgreek'>καταλεγόμενος</span> [<a href="javascript:void(0)" title=" “Codex Justinianus [4th-6th c.AD]” 1.3.38.2, 6th c.AD: Justinianus Imperator “Novellae” 6.1.7, 2nd c.AD: Astrampsychus Onirocriticus “Oracula” 98.7. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.18.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.18.2]]
 </sub></small>

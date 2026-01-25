@@ -27,5 +27,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_C.5</b> <b>declare</b>, <span class='asgreek'>μ�
 $\quad$ $\quad$ $\quad$<b>\_\_C.6</b> ={<span class='asgreek'>προσορίζω</span>}, <b>add</b> land <b>by deed of conveyance</b>, <span class='asgreek'>κυρία</span> <span class='asgreek'>ἔσται</span> -<span class='asgreek'>ομένη</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>πόλιν</span> <span class='asgreek'>ἣν</span> <span class='asgreek'>ἂν</span> <span class='asgreek'>βούληται</span> [<a href="javascript:void(0)" title=" “OGI” 225.10 (Didyma, 3rd c.BC), compare 221.44 (Ilium, 3rd c.BC), +others ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_C.7</b> <b>convey</b> property, <span class='asgreek'>π</span>. <span class='asgreek'>ἐν</span> <span class='asgreek'>προσφορᾷ</span> [<span class='asgreek'>μέρος</span> <span class='asgreek'>οἰκίας</span>] [<a href="javascript:void(0)" title=" “PRyl.” 155.7 (2nd c.AD), etc. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Amos.5.25]] ☩ [[Heb.11.4]] ☩ [[Matt.5.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.5.25]] ☩ [[Heb.11.4]] ☩ [[Matt.5.24]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἐγκακοῦμεν</span>· <span class='asgreek'>ὑψοῦμεν</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.3.11]] ☩ [[Gen.27.46]] ☩ [[Gal.6.9]] ☩ [[Luke.18.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.3.11]] ☩ [[LXX.Gen.27.46]] ☩ [[Gal.6.9]] ☩ [[Luke.18.1]]
 </sub></small>

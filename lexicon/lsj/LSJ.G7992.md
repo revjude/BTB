@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>image</b>, = Heb. <b>tèraphim</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.19.13. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.19.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.19.13]]
 </sub></small>

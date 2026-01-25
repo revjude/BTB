@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <b>make a false st
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>π</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>ἐλπίδος</span> <b>to be baulked of.. </b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 8.5.1. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>γλῶττα</span> <span class='asgreek'>π</span>. <b>stutters</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 875b19. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.4.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.4.3]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>an instrument for operating on the urethr
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>point of a fishing-hook</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Merc.Cond.” 3. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>tree</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 983 (Lyric poetry). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.33.55]] ☩ [[2Cor.12.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.33.55]] ☩ [[2Cor.12.7]]
 </sub></small>

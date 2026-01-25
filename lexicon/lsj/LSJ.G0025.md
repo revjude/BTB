@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.5</b> rarely with <i>genitive</i>, <span class
 $\quad$ $\quad$ $\quad$<b>\_\_III.6</b> <i>absolutely</i>, <b>to be content,</b> <span class='asgreek'>ἀγαπήσαντες</span>[<a href="javascript:void(0)" title=" 4th c.BC: Lycurgus Orator 73, compare 2nd c.AD: Lucianus Sophista “Nec.” 17. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.7</b> with <i>infinitive</i>, <b>to be fond</b> of doing, <b>wont</b> to do, like{<span class='asgreek'>φιλέω</span>}, <span class='asgreek'>τοὺς</span> <span class='asgreek'>Λυκίους</span> <span class='asgreek'>ἀγαπῶντας</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>τρίχωμα</span> <span class='asgreek'>φορεῖν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Oeconomica” 1348a29, cf. LXX.Hos.12.7.">LXX+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.41.8]] ☩ [[Deut.11.1]] ☩ [[John.3.21]] ☩ [[Rom.8.28]] ☩ [[Matt.5.43]] ☩ [[2Chr.18.2]] ☩ [[John.3.19]] ☩ [[Hos.12.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.41.8]] ☩ [[LXX.Deut.11.1]] ☩ [[John.3.21]] ☩ [[Rom.8.28]] ☩ [[Matt.5.43]] ☩ [[LXX.2Chr.18.2]] ☩ [[John.3.19]] ☩ [[LXX.Hos.12.7]]
 </sub></small>

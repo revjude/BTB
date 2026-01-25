@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>metaphorically</i>, <span class='asgreek'
 $\quad$ $\quad$<b>\_\_II</b> <b>anything congealed</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>χιόνος</span> frozen snow, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.55.5 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>τροφῆς</span>, i. e. fat, [<a href="javascript:void(0)" title=" 2nd c.AD: Rufus Medicus “περὶ ὀνομασίας” 215 ">Refs 2nd c.AD+</a>]; <b>solid mass</b>, <span class='asgreek'>ἔστη</span> <span class='asgreek'>π</span>., of the waters of Jordan, [<a href="javascript:void(0)" title=" LXX.Josh.3.16. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>that which makes to curdle</b>, as rennet does milk, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 516a4. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.3.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.3.16]]
 </sub></small>

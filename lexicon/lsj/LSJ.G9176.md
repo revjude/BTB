@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> ={<span class='asgreek'>στερέωμα</s
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>λοιπὸν</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>σ</span>. the rest of the <b>multitude</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.25.11. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <i>plural</i>, <b>surgical supports</b>, ={<span class='asgreek'>ἀποστηρίγματα</span>}, distinguished from <span class='asgreek'>ἑρμάσματα</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(2).917. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.25.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.25.11]]
 </sub></small>

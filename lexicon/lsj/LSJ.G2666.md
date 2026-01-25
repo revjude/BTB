@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.c</b> <b>swallow, absorb</b>, [<a href=
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>swallow up, consume</b>, [the robe] [<a href="javascript:void(0)" title=" ἐρίων τάλαντον καταπέπωκε ῥᾳδίως Aristophanes Comicus [{5-6th c.BC}] “Vespae” 1147 ">Refs 6th c.BC+</a>]; <span class='asgreek'>ὁ</span> <span class='asgreek'>δικαστὴς</span> <span class='asgreek'>αὐτὰ</span> [the revenue] [<a href="javascript:void(0)" title=" καταπίνει μόνος [prev\. author] “Ra.” 1466 ">Refs</a>]; <span class='asgreek'>τὸν</span> <span class='asgreek'>ναύκληρον</span> <span class='asgreek'>αὐτῷ</span> <span class='asgreek'>σκάφει</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Anaxilas Comicus 22.19 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus “Epit.” 151. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>spend, waste in tippling</b>, [<span class='asgreek'>τὴν</span> <span class='asgreek'>οὐσίαν</span>] [<a href="javascript:void(0)" title=" οὐ μόνον κατέφαγεν, ἀλλὰ.. καὶ κατέπιεν 4th c.BC: Aeschines Orator 1.96, compare 2nd-3rd c.AD: Dio Cassius Historicus 45.28. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.16.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.16.30]]
 </sub></small>

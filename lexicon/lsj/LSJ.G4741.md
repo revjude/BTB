@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.II.2</b> of diseases, <b>fix, settle, determine<
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.3</b> of planetary phases, <b>pause, stand still</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Geminus Astronomicus 12.23, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.76d, Theo Sm.p.147 H., 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 75, 2nd c.AD: Vettius Valens Astrologus 183.1, 4th c.AD: Paulus Alexandrinus Astrologus “G.” 2. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.4</b> <i>metaphorically</i>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>δόγματος</span> <span class='asgreek'>σ</span>. <b>hold fast</b> to an opinion, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 2.136. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.5.10]] ☩ [[Jer.17.5]] ☩ [[Jer.24.6]] ☩ [[Gen.27.37]] ☩ [[Isa.59.16]] ☩ [[1Kgs.26.19]] ☩ [[Gen.27.37]] ☩ [[Luke.22.32]] ☩ [[2Thess.2.17]] ☩ [[1Pet.5.10]] ☩ [[Luke.16.26]]
+<small><sub>LSJ Scripture Refs: [[1Pet.5.10]] ☩ [[LXX.Jer.17.5]] ☩ [[LXX.Jer.24.6]] ☩ [[LXX.Gen.27.37]] ☩ [[LXX.Isa.59.16]] ☩ [[LXX.1Kgs.26.19]] ☩ [[LXX.Gen.27.37]] ☩ [[Luke.22.32]] ☩ [[2Thess.2.17]] ☩ [[1Pet.5.10]] ☩ [[Luke.16.26]]
 </sub></small>

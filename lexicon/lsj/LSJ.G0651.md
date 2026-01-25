@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>payment</b> of tribute, [<a href="javascr
 $\quad$ $\quad$<b>\_\_II</b> (from <i>passive</i>) <b>expedition,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.8. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>apostleship,</b> [<a href="javascript:void(0)" title=" NT.1Cor.9.2, NT.Gal.2.8.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.8.8]] ☩ [[1Cor.9.2]] ☩ [[Gal.2.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.8.8]] ☩ [[1Cor.9.2]] ☩ [[Gal.2.8]]
 </sub></small>

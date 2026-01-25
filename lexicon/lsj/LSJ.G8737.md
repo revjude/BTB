@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>comprehension</b>, <span class='asgreek'>ἐν</
 $\quad$ $\quad$<b>\_\_III</b> <b>inclusion</b>, <span class='asgreek'>κατὰ</span> <span class='asgreek'>περίληψιν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 10.99, 286, compare 5th c.AD: Proclus Philosophus “in primum Euclidis librum commentarius” p.395 F. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> concrete, <b>that which includes</b> or <b>comprehends</b>, [<span class='asgreek'>θεὸς</span>] <span class='asgreek'>πάντων</span> <span class='asgreek'>π</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>μέτρον</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 6.8.18 ">Refs 3rd c.AD+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>ἡνωμένη</span> <span class='asgreek'>π</span>. <span class='asgreek'>ἣν</span> <span class='asgreek'>σπέρμα</span> <span class='asgreek'>πάντων</span> <span class='asgreek'>ἐκάλεσε</span> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 98. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.3.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.3.5]]
 </sub></small>

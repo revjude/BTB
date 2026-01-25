@@ -6,5 +6,5 @@
  <b>like a</b> <span class='asgreek'>λαμπήνη</span>, <span class='asgreek'>ἅμαξαι</span> [<a href="javascript:void(0)" title=" LXX.Num.7.3. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.7.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.7.3]]
 </sub></small>

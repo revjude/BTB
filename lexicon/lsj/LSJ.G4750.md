@@ -22,5 +22,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.1.c</b> <span class='asgreek'>τὸ</s
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <span class='asgreek'>ἄκρον</span> <span class='asgreek'>σ</span>. <span class='asgreek'>πύργων</span> the <b>edge</b> or <b>top</b> of the towers, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 1166 ">Refs 5th c.BC+</a>]; <span class='asgreek'>πρὸς</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>βίου</span> at the very <b>verge</b> of life, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Agesilaus” 11.15. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> ={<span class='asgreek'>ὀμφαλός</span>}[<a href="javascript:void(0)" title=" 111.3, 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 7.3 ">Refs 2nd c.AD+</a>]. (Cf. Avest. <b>staman-</b>, m. 'mouth (of dog)', Welsh <b>safn</b> 'mouth'.)
 
-<small><sub>LSJ Scripture Refs: [[Luke.21.15]] ☩ [[2Kgs.23.35]] ☩ [[Num.12.8]] ☩ [[Luke.21.24]]
+<small><sub>LSJ Scripture Refs: [[Luke.21.15]] ☩ [[LXX.2Kgs.23.35]] ☩ [[LXX.Num.12.8]] ☩ [[Luke.21.24]]
 </sub></small>

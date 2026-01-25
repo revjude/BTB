@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> Astrology texts, <b>combine energy</b>, of planetary influence, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 107.14. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> in Medicine texts, of symptoms, <span class='asgreek'>σ</span>. <span class='asgreek'>πρὸς</span> [<span class='asgreek'>τὸν</span>] <span class='asgreek'>τοῦ</span> <span class='asgreek'>κάμνοντος</span> <span class='asgreek'>κίνδυνον</span> <b>contribute</b> to.., [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 17(1).628. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.32.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.32.3]]
 </sub></small>

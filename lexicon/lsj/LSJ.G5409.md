@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be borne along,</b> <span cla
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be carried away,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 2.76 ">Refs 5th c.BC+</a>]; simply, <b>to be shifted,</b> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 293. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, <b>fetch for oneself, fetch regularly,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Electra” 309 ">Refs 5th c.BC+</a>]; <span class='asgreek'>λευκανίηνδε</span> <span class='asgreek'>==φορέω==εύμενος</span> <b>putting</b> food into <b>one's</b> mouth, [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 2.192. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.16.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.16.23]]
 </sub></small>

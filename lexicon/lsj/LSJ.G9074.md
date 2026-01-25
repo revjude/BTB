@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>cheek-piece, side-piece</b>, in military engines, [<a href="javascript:void(0)" title=" 2nd c.BC: Athenaeus Mechanicus 35.5, 2nd c.AD: Apollodorus Damascenus Mechanicus “Abhandlungen der Göttinger Gesellschaft der Wissenschaften (Phil.-hist. Klasse)” 183.3, 188.4. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.18.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.18.3]]
 </sub></small>

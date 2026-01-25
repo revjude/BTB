@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">περι-πίπτω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Ruth.2.3|Ru 2:3]], [[2Sam.1.6|II Ki 1:6]] (<span class="ashebrew">קרה</span> <small><sup>[[H7136]]</sup></small>), [[Prov.11.5|Pr 11:5]] (<span class="ashebrew">נפל</span> <small><sup>[[H5307]]</sup></small>), [[Dan.2.9|Da LXX 2:9]], [[2Macc.6.13|II Mac 6:13]] [[2Macc.9.7|9:7]], [[2Macc.9.21|21]] [[2Macc.10.4|10:4]]\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">περι-πίπτω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Ruth.2.3|Ru 2:3]], [[LXX.2Sam.1.6|II Ki 1:6]] (<span class="ashebrew">קרה</span> <small><sup>[[H7136]]</sup></small>), [[LXX.Prov.11.5|Pr 11:5]] (<span class="ashebrew">נפל</span> <small><sup>[[H5307]]</sup></small>), [[LXX.Dan.2.9|Da LXX 2:9]], [[2Macc.6.13|II Mac 6:13]] [[2Macc.9.7|9:7]], [[2Macc.9.21|21]] [[2Macc.10.4|10:4]]\*;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to fall around</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to fall in with</span>, <span class="asitalic">light upon</span>, <span class="asitalic">come across</span>: c. dat., <span class="asgreek">λῃσταῖς</span>, [[Luke.10.30|Lk 10:30]]; <span class="asgreek">πειρασμοῖς</span>, [[Jas.1.2|Ja 1:2]]; seq. <span class="asgreek">εἰς</span>, [[Acts.27.41|Ac 27:41]].†</span>
 
@@ -6,10 +6,10 @@
 
 | Book | Refs |
 | - | - |
-| Ruth | [[Ruth.2.3\|2:3]] |
-| 2 Samuel | [[2Sam.1.6\|1:6]] |
-| Proverbs | [[Prov.11.5\|11:5]] |
-| Daniel | [[Dan.2.9\|2:9]] |
+| Ruth | [[LXX.Ruth.2.3\|2:3]] |
+| 2 Samuel | [[LXX.2Sam.1.6\|1:6]] |
+| Proverbs | [[LXX.Prov.11.5\|11:5]] |
+| Daniel | [[LXX.Dan.2.9\|2:9]] |
 | Luke | [[Luke.10.30\|10:30]] |
 | Acts | [[Acts.27.41\|27:41]] |
 | James | [[Jas.1.2\|1:2]] |

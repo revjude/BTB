@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <i>substantive</i> -<span class='asgreek'>κόπος</span>, <span class='asgreek'>ὁ</span>, <b>wood-feller,</b> [<a href="javascript:void(0)" title=" LXX.Josh.9.27(21), 1st c.BC-1st c.AD: Strabo Geographus 16.4.11. ">LXX+1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>pecking wood,</b> of the birds <span class='asgreek'>κελεός</span> and <span class='asgreek'>κνιπολόγος</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 593a9, 14. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.9.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.9.27]]
 </sub></small>

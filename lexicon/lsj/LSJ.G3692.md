@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>hole in the roof,</b> serving as a chimne
 $\quad$ $\quad$<b>\_\_II</b> <i>plural</i>, in Architecture texts, <b>holes</b> in the frieze left to receive the beam-ends, [<a href="javascript:void(0)" title=" 1st c.BC: Vitruvius Scriptor de Architectura Latinus 4.2.4 ">Refs 1st c.BC+</a>]; later, of <b>windows, lights in doors,</b> <span class='asgreek'>αἱ</span> <span class='asgreek'>ὀ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>τοίχων</span> [<a href="javascript:void(0)" title=" 1st c.BC: Ptolemaeus Epigrammaticus cited in 6th c.AD: Simplicius Philosophus “in Aristotelis de Caelo commentaria - Comm. in Arist. Graeca” 710.21; σιδήρια ἐξ ὀπῆς “IG” 4.39 (Aegina, 5th c.BC). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> (<span class='asgreek'>ὄψομαι</span>, <span class='asgreek'>ὄπωπα</span>) <b>sight,</b> <span class='asgreek'>τοὶ</span> <span class='asgreek'>μήτ᾽</span> <span class='asgreek'>ἀκουὰν</span> <span class='asgreek'>μήτ᾽</span> <span class='asgreek'>ὀπὰν</span> <span class='asgreek'>πεπαμένοι</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Cercidas Iambographus 4.23. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.33.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.33.22]]
 </sub></small>

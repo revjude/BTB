@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_1</b> <b>calamity</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Protagoras” 345b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>lucky chance</b>, [<a href="javascript:void(0)" title=" LXX.Ruth.2.3. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ruth.2.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ruth.2.3]]
 </sub></small>

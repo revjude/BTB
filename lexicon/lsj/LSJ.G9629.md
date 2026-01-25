@@ -6,5 +6,5 @@
  <b>she that despises,</b>[<a href="javascript:void(0)" title="LXX.Zeph.3.1. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Zeph.3.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zeph.3.1]]
 </sub></small>

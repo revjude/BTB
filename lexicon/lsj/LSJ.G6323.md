@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>grow again,</b> of the hair, [<a href=
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i>, <b>recover, make a fresh start,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 2.177. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i> in <i>present</i> -<span class='asgreek'>φύει</span>, [<a href="javascript:void(0)" title=" 6th c.AD: Philoponus, Joannes Philosophus ">Refs 6th c.AD+</a>]<b>inde An.</b>195.12.
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.5.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.5.6]]
 </sub></small>

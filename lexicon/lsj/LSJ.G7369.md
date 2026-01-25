@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>send to attack,</b> [<a href="javascript:void(0)" title=" [prev. author] 32.5.11; τινάς τισι [prev. author] 2.8.12; συκοφάντην ἐπί τινα 1st c.BC: Diodorus Siculus Historicus 12.24, cf. LXX.Job.20.23. ">LXX+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.20.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.20.23]]
 </sub></small>

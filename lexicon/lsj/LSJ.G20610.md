@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be derided</b>, [<a href="javascript:void(0)" title=" LXX.Job.5.4. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.5.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.5.4]]
 </sub></small>

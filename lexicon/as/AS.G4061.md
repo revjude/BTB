@@ -1,4 +1,4 @@
-<span class="asform">† <span class="asgreek"><span class="asbold">περι-τομή</span></span>, <span class="asgreek">-ῆς, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">περιτέμνω</span>),</span>  <span class="asseptuagint">\[in LXX: [[Gen.17.13|Ge 17:13]], [[Exod.4.25|Ex 4:25]], [[Exod.4.26|26]] (<span class="ashebrew">מוּל</span> <small><sup>[[H4135]]</sup></small> ni., <span class="ashebrew">מוּלָה</span> <small><sup>[[H4139]]</sup></small>), [[Jer.11.16|Je 11:16]]\*;\]</span> </span>
+<span class="asform">† <span class="asgreek"><span class="asbold">περι-τομή</span></span>, <span class="asgreek">-ῆς, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">περιτέμνω</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Gen.17.13|Ge 17:13]], [[LXX.Exod.4.25|Ex 4:25]], [[LXX.Exod.4.26|26]] (<span class="ashebrew">מוּל</span> <small><sup>[[H4135]]</sup></small> ni., <span class="ashebrew">מוּלָה</span> <small><sup>[[H4139]]</sup></small>), [[LXX.Jer.11.16|Je 11:16]]\*;\]</span> </span>
 <span class="asitalic">circumcision</span>;
 <span class="asbullet"><span class="asbold">(a)</span> of the rite itself: [[John.7.22|Jo 7:22]], [[John.7.23|23]], [[Acts.7.8|Ac 7:8]], [[Rom.4.11|Ro 4:11]], [[Gal.5.11|Ga 5:11]], [[Phil.3.5|Phl 3:5]];</span>
 <span class="asbullet"><span class="asbold">(b)</span> of the state of circumcision: [[Rom.2.25|Ro 2:25-28]] [[Rom.3.1|3:1]], [[1Cor.7.19|I Co 7:19]], [[Gal.5.6|Ga 5:6]] [[Gal.6.15|6:15]], [[Col.3.11|Col 3:11]]; <span class="asgreek">ἐν π. ὤν</span>, [[Rom.4.10|Ro 4:10]];</span>
@@ -8,9 +8,9 @@
 
 | Book | Refs |
 | - | - |
-| Genesis | [[Gen.17.13\|17:13]] |
-| Exodus | [[Exod.4.25\|4:25]] · [[Exod.4.26\|4:26]] |
-| Jeremiah | [[Jer.11.16\|11:16]] |
+| Genesis | [[LXX.Gen.17.13\|17:13]] |
+| Exodus | [[LXX.Exod.4.25\|4:25]] · [[LXX.Exod.4.26\|4:26]] |
+| Jeremiah | [[LXX.Jer.11.16\|11:16]] |
 | John | [[John.7.22\|7:22]] · [[John.7.23\|7:23]] |
 | Acts | [[Acts.7.8\|7:8]] · [[Acts.10.45\|10:45]] · [[Acts.11.2\|11:2]] |
 | Romans | [[Rom.2.25\|2:25]] · [[Rom.2.29\|2:29]] · [[Rom.3.1\|3:1]] · [[Rom.3.30\|3:30]] · [[Rom.4.9\|4:9]] · [[Rom.4.10\|4:10]] · [[Rom.4.11\|4:11]] · [[Rom.4.12\|4:12]] · [[Rom.15.8\|15:8]] |

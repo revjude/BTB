@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> light troops (<b>velites</b>) who <b>ran beside</b> the cavalry, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aemilius Paulus” 12. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>==παραβάτης==βαίνω</span> II.1)<b>transgressor</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 553 ">Refs 4th c.BC+</a>] (Lyric poetry, in <i>poetry</i> form <span class='asgreek'>παρβάτης</span>),[<a href="javascript:void(0)" title="compare 2nd-3rd c.AD: Symmachus LXX.Ps.16.4; π. θεῶν 1st-2nd c.AD: Polemo Sophista cited in 4th-5th c.AD: Macrobius Grammaticus “Sat.” 5.19.29; π. νόμου NT.Rom.2.25. ">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.16.4]] ☩ [[Rom.2.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.16.4]] ☩ [[Rom.2.25]]
 </sub></small>

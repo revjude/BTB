@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <b>partner, fellow</b>, [
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>familiar spirit</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.17.11. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> as <i>adjective</i>, ={<span class='asgreek'>κοινός</span>},{<span class='asgreek'>ξίφος</span>} [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 1173. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.17.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.17.11]]
 </sub></small>

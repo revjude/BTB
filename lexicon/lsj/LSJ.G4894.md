@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> <b>conscience</b>, <span class='asgreek'>�
 $\quad$ $\quad$<b>\_\_VI</b> <span class='asgreek'>ὡς</span> <span class='asgreek'>ἂν</span> <span class='asgreek'>συνειδῇς</span> as you may <b>think proper</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 13.2. ">Refs 6th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.27.6]] ☩ [[1Cor.4.4]] ☩ [[Acts.5.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.27.6]] ☩ [[1Cor.4.4]] ☩ [[Acts.5.2]]
 </sub></small>

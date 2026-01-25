@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>plural</i>, <b>covenant</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de vita Pythagorica” 31.185. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.20.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.20.38]]
 </sub></small>

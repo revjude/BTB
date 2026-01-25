@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> collectively, ={<span class='asgreek'>οἱ</span> <span class='asgreek'>διεσπαρμένοι</span>}, [<a href="javascript:void(0)" title=" LXX.Deut.28.25, NT.John.7.35: \_plural\_, LXX.Ps.146.2. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.15.7]] ☩ [[Deut.28.25]] ☩ [[John.7.35]] ☩ [[Ps.146.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.15.7]] ☩ [[LXX.Deut.28.25]] ☩ [[John.7.35]] ☩ [[LXX.Ps.146.2]]
 </sub></small>

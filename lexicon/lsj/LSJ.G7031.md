@@ -6,5 +6,5 @@
  <b>possessed in</b> a foreign country, [<a href="javascript:void(0)" title=" LXX.Lev.14.34, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.14.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.14.34]]
 </sub></small>

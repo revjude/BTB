@@ -7,5 +7,5 @@ Included with: <b> <span class='asgreek'>==κρυφαίως==</span>-<span clas
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>secret, clandestine</b>, [<a href="javascript:void(0)" title=" δρασμός Aeschylus Tragicus [{4-5th c.BC}] “Persae” 360 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἔκπλους</span> [<a href="javascript:void(0)" title="[prev. work] 385; ἔπος 5th c.BC: Sophocles Tragicus “fragment” 935 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀδικίαι</span> Phld. [prev. cited] <i>adverb</i> -<span class='asgreek'>ως</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Pers.” 370, Aen. Tact. 18.8. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.23.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.23.24]]
 </sub></small>

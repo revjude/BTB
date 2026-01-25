@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>squeeze, press,</b> <span class='asgreek'
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <b>squeeze out,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 342a9 (\_passive\_). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> Grammars, <b>elide</b> a letter at the beginning or end of a word, <span class='asgreek'>οὐ</span> <span class='asgreek'>γὰρ</span> <span class='asgreek'>οἷόν</span> <span class='asgreek'>τε</span> <span class='asgreek'>εὑρέσθαι</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ῡ</span> -<span class='asgreek'>όμενον</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Conjunctionibus;” 228.17, compare 1st c.BC: Dionysius Halicarnassensis “de Demosthene” 43. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.40.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.40.11]]
 </sub></small>

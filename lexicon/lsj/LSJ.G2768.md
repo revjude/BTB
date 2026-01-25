@@ -33,5 +33,5 @@ $\quad$ $\quad$<b>\_\_VI</b> <span class='asgreek'>κέρατα</span> <span cl
 $\quad$ $\quad$<b>\_\_VII</b> = {<span class='asgreek'>κερατίνης</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “DMort.” 1.2. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VIII</b> = {<span class='asgreek'>σταφυλῖνος</span> <span class='asgreek'>ἄγριος</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.52">Refs 1st c.AD+</a>]; ={<span class='asgreek'>οἰνάνθη</span>}, uncertain in Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.120. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.17.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.17.3]]
 </sub></small>

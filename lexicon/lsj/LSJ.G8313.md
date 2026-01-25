@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>οἱ</span> <span cla
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>jest</b>, [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Vespae” 64. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>moderate, regulate, control</b>, <span class='asgreek'>ὅρκοις</span> <span class='asgreek'>μ</span>. <span class='asgreek'>ψυχὴν</span> <span class='asgreek'>νέαν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 692b ">Refs 5th c.BC+</a>]; [<span class='asgreek'>τὴν</span> <span class='asgreek'>βασιλείαν</span>] [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1313a26 ">Refs 4th c.BC+</a>]; <span class='asgreek'>τι</span> <span class='asgreek'>ἡμῖν</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἐκφορίου</span> <b>reduce</b> our rent, [<a href="javascript:void(0)" title=" “PCair.Zen.” 433.12 (3rd c.BC)">Refs 3rd c.BC+</a>]; <span class='asgreek'>τὴν</span> <span class='asgreek'>τιμωρίαν</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.41. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.2.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.2.2]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>νάρδου</span> <
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <span class='asgreek'>ν</span>. <span class='asgreek'>ἀγρία</span>, ={<span class='asgreek'>ἄσαρον</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.10; ={φοῦ}, [prev. work]11. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>oil of spikenard</b>, [<a href="javascript:void(0)" title=" “PSI” 6.628.7 (3rd c.BC), “Anthologia Graeca” 6.250 (1st c.AD: Antiphilus Epigrammaticus), 2nd c.AD: Aretaeus Medicus “χρονίων νούσων θεραπευτικόν” 2.2, etc.; ν. Βαβυλωνιακή 2nd c.AD: Alexander Rhetor 308 ">Refs 3rd c.BC+</a>]. (Semitic word, cf. Bab. <b>lardu.</b>)
 
-<small><sub>LSJ Scripture Refs: [[Song.1.12]] ☩ [[Mark.14.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.1.12]] ☩ [[Mark.14.3]]
 </sub></small>

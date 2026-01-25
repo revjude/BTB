@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_6</b> in Tactics, <b>sequence formation,</b> one w
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> <b>leading away into captivity, captivity,</b> [<a href="javascript:void(0)" title=" LXX.Isa.14.17 ">LXX</a>]: generally, <b>distress, misery,</b>[<a href="javascript:void(0)" title="LXX.Sir.23.14 (\_plural\_), compare 5th c.AD(?): Hesychius Legal icographus ">LXX+5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_8</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>τριχὸς</span> <span class='asgreek'>ἐ</span>. <b>direction of growth,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 3.35. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.14.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.14.17]]
 </sub></small>

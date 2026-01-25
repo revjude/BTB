@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in good sense, <b>lowly in mind, humble</b>, [<a href="javascript:void(0)" title=" LXX.Prov.29.23, NT.1Pet.3.8. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.29.23]] ☩ [[1Pet.3.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.29.23]] ☩ [[1Pet.3.8]]
 </sub></small>

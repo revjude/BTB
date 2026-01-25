@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> Latin <i>exodium, after-piece,</i> Liv.[<
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> among the Jews, <b>a feast to commemorate the Exodus,</b> [<a href="javascript:void(0)" title=" LXX.Lev.23.36, LXX.Deut.16.8. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>gateway,</b> [<a href="javascript:void(0)" title=" POxy. 243.16 (1st c.AD, -ωδ- Papyrus). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.23.36]] ☩ [[Deut.16.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.23.36]] ☩ [[LXX.Deut.16.8]]
 </sub></small>

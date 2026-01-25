@@ -6,5 +6,5 @@
  <b>one that takes bribes</b>, [<a href="javascript:void(0)" title=" LXX.Job.15.34. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.15.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.15.34]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>rejoice much</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Alciphro Epistolographus 2.4, “IG” 14.2410.11, “Supp.epigram” 2.844 (from Syria). ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.1.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.1.26]]
 </sub></small>

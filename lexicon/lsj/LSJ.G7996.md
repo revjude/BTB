@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> as <i>substantive</i>, <b>horned serpent</b> or <b>asp, Cerastes cornutus</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Theriaca” 258, LXX.Prov.23.32, 1st c.BC: Diodorus Siculus Historicus 3.50, 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 1.57; οἱ κ. ὄφεις 4th-3rd c.BC: Callias Historicus 3. ">LXX+4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>pest which destroys fig-trees</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.14.5, 5.4.5. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.23.32]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.23.32]]
 </sub></small>

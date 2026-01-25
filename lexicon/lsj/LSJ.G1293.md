@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <b>distinction,</b> <span class='
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.c</b> <b>opposition,</b> <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title="[prev. work] 41.24. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in Music, <b>distinctness,</b> of notes, [<a href="javascript:void(0)" title=" NT.1Cor.14.7. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.30.7]] ☩ [[Exod.8.23]] ☩ [[Rom.3.22]] ☩ [[Num.19.2]] ☩ [[1Cor.14.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.30.7]] ☩ [[LXX.Exod.8.23]] ☩ [[Rom.3.22]] ☩ [[LXX.Num.19.2]] ☩ [[1Cor.14.7]]
 </sub></small>

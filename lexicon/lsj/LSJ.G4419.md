@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.8</b> <b>fleshy excrescence</b> on the nails, [
 $\quad$ $\quad$ $\quad$<b>\_\_II.9</b> <i>plural</i>,= <span class='asgreek'>του</span> ={<span class='asgreek'>πνεύμονος</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>λοβοῦ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἄκρα</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.10</b> <i>plural</i>, <b>flanges</b> holding the projector of a torsion-engine, [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 54.23; on a κέστρος 11, 2nd c.BC: Polybius Historicus 27.11.4. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.4.9]] ☩ [[Ruth.3.9]]
+<small><sub>LSJ Scripture Refs: [[Luke.4.9]] ☩ [[LXX.Ruth.3.9]]
 </sub></small>

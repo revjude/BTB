@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>cool, refresh</b>, <span class='asgreek'>
 $\quad$ $\quad$<b>\_\_II</b> <b>dry</b> land after irrigation, [<a href="javascript:void(0)" title=" “PCair.Zen.” 155 (3rd c.BC):">Refs 3rd c.BC+</a>] — <i>passive</i>, of a country, <span class='asgreek'>χώρα</span> <span class='asgreek'>κατεψυγμένη</span> <b>dried</b> or <b>parched up</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 1.7, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pompeius” 31. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>cool down</b>, of persons, [<a href="javascript:void(0)" title=" LXX.Gen.18.4. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.18.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.18.4]]
 </sub></small>

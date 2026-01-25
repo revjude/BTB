@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>smooth down, placate</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 129 “Praef.” ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.7.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.7.23]]
 </sub></small>

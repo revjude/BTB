@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>arch</b> or <b>bow</b> for releasing 
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>knob</b> against which the butt-ends of the arms of a torsion-engine rest, [<a href="javascript:void(0)" title="[prev. work] 93.7. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> probably part of an irrigation machine, [<a href="javascript:void(0)" title=" “PLond.” 3.1177.179 (2nd c.AD)">Refs 2nd c.AD+</a>]; part of a crane in which the axle turns, [<a href="javascript:void(0)" title=" 1st c.BC: Vitruvius Scriptor de Architectura Latinus 10.2.2, +others ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.34.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.34.7]]
 </sub></small>

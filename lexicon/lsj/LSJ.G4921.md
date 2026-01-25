@@ -36,5 +36,5 @@ $\quad$ $\quad$<b>\_\_B.VI</b> <b>to be contracted</b>, <span class='asgreek'>σ
 $\quad$ $\quad$<b>\_\_B.VII</b> <span class='asgreek'>συνέστηκε</span> with <i>accusative</i> et <i>infinitive</i>, <b>it is well known</b> that.., = Latin <i>constat</i>, [<a href="javascript:void(0)" title=" 4th-5th c.AD: Marcianus Geographus “Periplus - GGM” 1 “Prooem.” ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_B.VIII</b> <b>to be weighed together</b>, <span class='asgreek'>συνεστάθη</span> [<a href="javascript:void(0)" title=" “Inscription Délos” 1423 “Aa” i17, 1429 B i3 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.6.4]] ☩ [[Gen.40.4]] ☩ [[Num.27.23]]
+<small><sub>LSJ Scripture Refs: [[2Cor.6.4]] ☩ [[LXX.Gen.40.4]] ☩ [[LXX.Num.27.23]]
 </sub></small>

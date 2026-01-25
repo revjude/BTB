@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>close oligarchy</b>, opposed to <span class='asgreek'>ἰσονομία</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 4.78, compare 5th-6th c.BC: Andocides Orator 2.27, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 5.4.46, etc.; ὑπὸ τῶν ὀλίγων δ. 5th-6th c.BC: Plato Philosophus “Politicus” 291d ">Refs 5th c.BC+</a>]; opposed to <span class='asgreek'>πολιτεία</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1272b10; distinguished from ὀλιγαρχία, [prev. work] 1292b10, compare 1293a31 ">Refs 4th c.BC+</a>]: in <i>plural</i>, of the Roman Senate, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 52.1. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> in <i>plural</i>, <b>mighty deeds</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.13.12, +others ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.13.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.13.12]]
 </sub></small>

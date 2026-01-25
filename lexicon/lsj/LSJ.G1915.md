@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b>. <b>that which is put on</b>, <b>piece of embroider
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b>. <b>patch,</b> NT.Matt.9.16, etc. 
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b>. <b>outer bandage</b>, Paul. Aeg.6.92.
 
-<small><sub>LSJ Scripture Refs: [[Isa.3.22]] ☩ [[Matt.9.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.3.22]] ☩ [[Matt.9.16]]
 </sub></small>

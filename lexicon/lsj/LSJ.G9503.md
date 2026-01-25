@@ -6,5 +6,5 @@
  <b>bring</b> one <b>nourishment, sustain,</b> [<a href="javascript:void(0)" title=" LXX.Deut.1.31, LXX.2Mac.7.27, NT.Acts.13.18 (variant{ἐτροποφόρησε}). ">LXX+NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.1.31]] ☩ [[Acts.13.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.1.31]] ☩ [[Acts.13.18]]
 </sub></small>

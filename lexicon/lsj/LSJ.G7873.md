@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>register of grants of land to military settlers</b>, <span class='asgreek'>φυλακιτῶν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐφόδων</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" “PPetr.” 3p.230 (3rd c.BC),compare “POxy.” 45 (1st c.AD), etc. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Chr.4.33]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.4.33]]
 </sub></small>

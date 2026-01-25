@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>export,</b> <span class='asgreek'>ἐ<
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>send forth, give out,</b> <span class='asgreek'>σέλας</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 281 ">Refs 4th c.BC+</a>]; <span class='asgreek'>πνεῦμα</span>, [<span class='asgreek'>ὑγρόν</span>], [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Partibus Animalium” 664a18, “HA” 589b18; δυσοσμίαν 4th c.AD: Alciphro Epistolographus 3.28. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>utter, pronounce,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 35.1 (\_passive\_). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.19.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.19.31]]
 </sub></small>

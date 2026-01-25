@@ -6,5 +6,5 @@
  = {<span class='asgreek'>==ἀροτρίασις==ιασμός</span>}, [<a href="javascript:void(0)" title=" LXX.Gen.45.6, Ps.- 1st c.BC: Ptolemaeus Epigrammaticus “Centil.” 214">LXX+1st c.BC+</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.45.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.45.6]]
 </sub></small>

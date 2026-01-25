@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>oppress,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.12.3: a form ἐκπιεζέωLXX.Ezek.22.29 ">LXX</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.74.2. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.12.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.12.3]]
 </sub></small>

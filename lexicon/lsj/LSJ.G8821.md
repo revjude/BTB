@@ -6,5 +6,5 @@
  variant for{<span class='asgreek'>πλινθεία</span>}[<a href="javascript:void(0)" title=" 1, LXX.Exod.5.8. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.5.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.5.8]]
 </sub></small>

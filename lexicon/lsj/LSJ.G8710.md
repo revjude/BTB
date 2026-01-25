@@ -6,5 +6,5 @@
  <i>adverb</i> =<span class='asgreek'>πεπεισμένως</span>, [<a href="javascript:void(0)" title=" LXX.Zech.14.11, 1st-2nd c.AD: Dio Chrysostomus Sophista 12.26 ">LXX+1st c.AD+</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Zech.14.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.14.11]]
 </sub></small>

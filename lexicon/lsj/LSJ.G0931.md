@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>inquiry by torture,</b> <span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>agony</b> of battle, <span class='asgreek'>ἡ</span> <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἔργον</span> <span class='asgreek'>β</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 6.24 ">Refs 2nd c.AD+</a>]; <b>tortures</b> of disease, [<a href="javascript:void(0)" title=" NT.Matt.4.24; compare ἐπάγρυπνος β. 2nd c.AD: Vettius Valens Astrologus 211.28; also ψυχικαί [prev. author] 182.19 ">NT+2nd c.AD+</a>]; <b>torments</b> of hell,[<a href="javascript:void(0)" title=" NT.Luke.16.23. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>trespass-offering,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.6.17.—Oriental word. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.4.24]] ☩ [[Luke.16.23]] ☩ [[1Kgs.6.17]]
+<small><sub>LSJ Scripture Refs: [[Matt.4.24]] ☩ [[Luke.16.23]] ☩ [[LXX.1Kgs.6.17]]
 </sub></small>

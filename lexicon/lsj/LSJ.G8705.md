@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>leader of a company of fifty</b>, [<a href="javascript:void(0)" title=" LXX.Exod.18.21, LXX.4Ki.1.9. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.18.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.18.21]]
 </sub></small>

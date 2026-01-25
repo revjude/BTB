@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>friend,</b> [<a href="javascript:void(0)" title=" LXX.Gen.21.22, LXX.Judg.14.20. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>one who negotiates a marriage for another,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.329f. Cf. νυμφευτής. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.21.22]] ☩ [[Judg.14.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.21.22]] ☩ [[LXX.Judg.14.20]]
 </sub></small>

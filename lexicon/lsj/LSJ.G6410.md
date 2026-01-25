@@ -6,5 +6,5 @@
  <b>unpurified, impure,</b> [<a href="javascript:void(0)" title=" LXX.Lev.19.23, 1st c.AD: Philo Judaeus 1.346.">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.19.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.19.23]]
 </sub></small>

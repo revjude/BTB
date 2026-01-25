@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> kind of <span class='asgreek'>κράμβη<
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> ={<span class='asgreek'>ἅλιμον</span>}, [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 1.21. ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>saliness,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 3.39. ἁλμυρῖτις γῆ, = {ἁλμυρίζω} 1.2, 1st c.AD: Zopyrus Medicus cited in 4th c.AD: Oribasius Medicus 14.62.1.">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.39.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.39.6]]
 </sub></small>

@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.7</b> <span class='asgreek'>ἐς</span> <span
 $\quad$ $\quad$ $\quad$<b>\_\_III.8</b> <b>fill up</b> a document, [<a href="javascript:void(0)" title=" 6th c.AD: Lydus, Joannes Laurentius Historicus “Mag.” 3.11:">Refs 6th c.AD+</a>] —<i>passive</i> [<a href="javascript:void(0)" title=", [prev. work]68. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>intransitive</i>, <span class='asgreek'>ἡ</span> [<span class='asgreek'>ὁδὸς</span>] <span class='asgreek'>==πληρόω==οῖ</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ἀριθμὸν</span> <span class='asgreek'>τοῦτον</span> the length of road <b>comes in full</b> to this number, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.7 (assuming variant). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.1.8]] ☩ [[Exod.32.29]] ☩ [[Judg.17.5]] ☩ [[Rom.1.29]] ☩ [[2Cor.7.4]] ☩ [[Eph.1.23]] ☩ [[Mark.1.15]] ☩ [[Matt.1.22]] ☩ [[John.13.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.1.8]] ☩ [[LXX.Exod.32.29]] ☩ [[LXX.Judg.17.5]] ☩ [[Rom.1.29]] ☩ [[2Cor.7.4]] ☩ [[Eph.1.23]] ☩ [[Mark.1.15]] ☩ [[Matt.1.22]] ☩ [[John.13.18]]
 </sub></small>

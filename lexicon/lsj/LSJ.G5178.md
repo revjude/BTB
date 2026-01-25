@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>τ</span>. <span class
 $\quad$ $\quad$<b>\_\_II</b> perhaps ={<span class='asgreek'>ἀποτυμπανίζω</span>} (which is variant), [<a href="javascript:void(0)" title=" NT.Heb.11.35 (\_passive\_)">NT</a>]; coupled with <span class='asgreek'>ἀνασκολοπίζεσθαι</span> in [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “JTr.” 19; compare τύμπανον 11. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> of orators, 'beat the big drum', [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vitae Sophistarum” 1.21.5. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.21.13]] ☩ [[Heb.11.35]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.21.13]] ☩ [[Heb.11.35]]
 </sub></small>

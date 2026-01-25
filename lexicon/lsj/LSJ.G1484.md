@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>sex</b>, <span class='asgreek'>θῆλυ<
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>part, member</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ τόπων τῶν κατὰ ἄνθρωπον” 1. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> of a single person, <b>a relation</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “N.” 5.43. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.2.1]] ☩ [[Acts.7.45]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.2.1]] ☩ [[Acts.7.45]]
 </sub></small>

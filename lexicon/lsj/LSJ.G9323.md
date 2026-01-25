@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>collection</b>, [<a href="javascript:void
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>ointment made of several ingredients, mixture,</b> [<a href="javascript:void(0)" title=" PMag.Berol. 1.256, +others">Refs</a>]; medicinal <b>mixture,</b> [<a href="javascript:void(0)" title=" Hippiatr. 22 ">Refs</a>]; chemical <b>compound</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Pseudo-Democritus Alchemista Alch. p.55 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>whole</b> of parts, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus “Abhandlungen der Göttinger Gesellschaft der Wissenschaften (Phil.-hist. Klasse)” 180.9, +others ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.12.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.12.11]]
 </sub></small>

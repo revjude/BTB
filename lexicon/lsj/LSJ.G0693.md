@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>silver-plated,</b> <span class='asgreek'>κλῖναι</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 9.82. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> as <i>substantive</i>, <span class='asgreek'>ἀργυροῦς</span>, <span class='asgreek'>ὁ</span>, <b>silver coin,</b> [<a href="javascript:void(0)" title=" LXX.Zech.11.12, +others, “SIG” 731.20 (Tomi, 1st c.BC), 2nd-1st c.BC(?): Hero Mechanicus “\*Mens.” 60.1, +others">LXX+2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Zech.11.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.11.12]]
 </sub></small>

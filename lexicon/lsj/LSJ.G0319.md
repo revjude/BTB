@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>reveal oneself, make oneself kn
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.c</b> causal, <b>cause to recognize, reveal oneself to,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 4.59. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>recognize</b> a rule in a new instance, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Priora” 67a24.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.45.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.45.1]]
 </sub></small>

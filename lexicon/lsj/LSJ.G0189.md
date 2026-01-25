@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>hearing, listening to</b>, <span class='asgreek
 $\quad$ $\quad$<b>\_\_IV</b> <b>obedience</b>, <span class='asgreek'>ἀ</span>. <span class='asgreek'>ὑπὲρ</span> <span class='asgreek'>θυσίαν</span> <span class='asgreek'>ἀγαθή</span>[<a href="javascript:void(0)" title=" LXX.1Kgs.15.22. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_V</b> in <i>plural</i>, place where <b>supernatural voices are heard,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 4.955.10 (Epid.), 5th-6th c.AD: Marinus Biographus “Procl.” 32; αἱ ἀ. τοῦ θεοῦ 2nd c.AD: Aristides Rhetor “Orationes” 47(23).13.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.15.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.15.22]]
 </sub></small>

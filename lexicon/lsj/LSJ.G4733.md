@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>foundation</b> or <b>framework</b>, e.g. 
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> ={<span class='asgreek'>στεῖρα</span>} (of a ship), [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 5.7.3. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>firmament</b>, i.e. the sky, the heaven above, [<a href="javascript:void(0)" title=" LXX.Gen.1.6, LXX.Ezek.1.22, +others; τὸν τῶν οὐρανίων σ. δεσπότην “Tab.Defix.Aud.” 242.8 (Carthage, 3rd c.AD). ">LXX+3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.9.29]] ☩ [[Col.2.5]] ☩ [[Gen.1.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.9.29]] ☩ [[Col.2.5]] ☩ [[LXX.Gen.1.6]]
 </sub></small>

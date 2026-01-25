@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>a fattening substance</b>, [<a href="java
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>salve</b>, [<a href="javascript:void(0)" title=" 4th c.AD(?): Manetho Astrologus 4.345. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>==λίπασμα==ασμα</span> <span class='asgreek'>ὀφθαλμῶν</span> <b>a glistening</b>, i.e. a tear, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus cited in 2nd c.AD: Cleomedes Astronomus 2.1 (p.89 U.). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.8.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.8.10]]
 </sub></small>

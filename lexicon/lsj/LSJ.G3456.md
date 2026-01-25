@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>bleed at the nose</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 7.123. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.1.30]] ☩ [[Jer.20.7]] ☩ [[Gal.6.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.1.30]] ☩ [[LXX.Jer.20.7]] ☩ [[Gal.6.7]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> uncertain meaning as variant in [<a href="javascript:void(0)" title=" LXX.Deut.14.1. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==φοιβάω==άζω</span>}[<a href="javascript:void(0)" title=" 1, Scholia 5th c.BC: Sophocles Tragicus “Ajax” 332. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.14.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.14.1]]
 </sub></small>

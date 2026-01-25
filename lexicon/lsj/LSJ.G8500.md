@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>rice-wheat,</b> a cultural variety of <span class='asgreek'>ζειά</span> [<a href="javascript:void(0)" title=" 2, 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 8.9.2, Diocl.fragment 113, 1st c.AD: Dioscorides (Dioscurides) Medicus 2.91. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.9.32]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.9.32]]
 </sub></small>

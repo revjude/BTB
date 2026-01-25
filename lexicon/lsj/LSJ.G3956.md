@@ -32,5 +32,5 @@ $\quad$ $\quad$<b>\_\_D.IV</b> with Preps., <span class='asgreek'>εἰς</span>
 $\quad$ $\quad$<b>\_\_D.V</b> <span class='asgreek'>διὰ</span> <span class='asgreek'>πασῶν</span> (i.e. <span class='asgreek'>χορδῶν</span>), see at {<span class='asgreek'>διαπασῶν</span>}. 
 $\quad$ $\quad$<b>\_\_D.VI</b> <span class='asgreek'>οὐ</span> <span class='asgreek'>==πᾶς==</span> not <b>any</b>, i.e. <b>none</b>, [<a href="javascript:void(0)" title=" LXX.Ps.142.2, NT.Luke.1.37, NT.Gal.2.16, +others ">LXX+NT</a>]; <span class='asgreek'>ἄνευ</span> <span class='asgreek'>πάσης</span> <span class='asgreek'>ταραχῆς</span> without <b>any</b> disturbance, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 15.87. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.11.8]] ☩ [[Exod.12.44]] ☩ [[Jer.13.11]] ☩ [[Matt.13.19]] ☩ [[Ps.142.2]] ☩ [[Luke.1.37]] ☩ [[Gal.2.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.11.8]] ☩ [[LXX.Exod.12.44]] ☩ [[LXX.Jer.13.11]] ☩ [[Matt.13.19]] ☩ [[LXX.Ps.142.2]] ☩ [[Luke.1.37]] ☩ [[Gal.2.16]]
 </sub></small>

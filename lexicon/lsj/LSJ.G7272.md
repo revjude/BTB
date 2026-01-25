@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> = Latin <i>sequester,</i> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.4.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.4.12]]
 </sub></small>

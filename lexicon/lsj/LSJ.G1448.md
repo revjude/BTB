@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> mostly <i>intransitive</i>, <b>approach</b>, [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be next of kin</b>, [<a href="javascript:void(0)" title=" LXX.Lev.21.3. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> with <i>infinitive</i>, <b>to be on the point of</b> doing, <span class='asgreek'>ναοῦ</span> -<span class='asgreek'>οντος</span> <span class='asgreek'>συμπεσεῖν</span> [<a href="javascript:void(0)" title=" “IG” 12(1).1270.8 (from Syme). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.3.2]] ☩ [[Gen.48.10]] ☩ [[Exod.19.21]] ☩ [[Job.33.22]] ☩ [[Phil.2.30]] ☩ [[Jas.5.8]] ☩ [[Lev.21.3]]
+<small><sub>LSJ Scripture Refs: [[Matt.3.2]] ☩ [[LXX.Gen.48.10]] ☩ [[LXX.Exod.19.21]] ☩ [[LXX.Job.33.22]] ☩ [[Phil.2.30]] ☩ [[Jas.5.8]] ☩ [[LXX.Lev.21.3]]
 </sub></small>

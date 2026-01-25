@@ -6,5 +6,5 @@
  <b>fight with the horns</b>, [<a href="javascript:void(0)" title=" LXX.Dan.11.40. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Dan.11.40]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.11.40]]
 </sub></small>

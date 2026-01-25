@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>trembling, shaking,</b> [<a href="javascript:void(0)" title=" LXX.Nah.2.10(11) ">LXX</a>]; <b>confusion,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Nah.2.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Nah.2.10]]
 </sub></small>

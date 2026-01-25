@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>keep watch at night</b>, [<a href="jav
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> of things, <b>remain during the night</b>, <span class='asgreek'>οὐ</span> <span class='asgreek'>μὴ</span> <span class='asgreek'>==κοιμάω==ηθήσεται</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>μισθὸς</span> <span class='asgreek'>παρά</span> <span class='asgreek'>σοι</span> <span class='asgreek'>ἕως</span> <span class='asgreek'>πρωί</span> [<a href="javascript:void(0)" title=" LXX.Lev.19.13 ">LXX</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>κιβωτὸς</span> <span class='asgreek'>ἐ==κοιμάω==ήθη</span> <span class='asgreek'>ἐκεῖ</span>[<a href="javascript:void(0)" title="LXX.Josh.6.10. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> with <i>accusative</i>, <b>dream of</b>, <span class='asgreek'>μέταλλα</span> <span class='asgreek'>χρύσεια</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Gall.” 6. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.27.52]] ☩ [[John.11.11]] ☩ [[Lev.19.13]] ☩ [[Josh.6.10]]
+<small><sub>LSJ Scripture Refs: [[Matt.27.52]] ☩ [[John.11.11]] ☩ [[LXX.Lev.19.13]] ☩ [[LXX.Josh.6.10]]
 </sub></small>

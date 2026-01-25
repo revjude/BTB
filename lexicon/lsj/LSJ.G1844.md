@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>conjure,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>σε</span> <span class='asgreek'>κύριον</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>θεόν</span> [<a href="javascript:void(0)" title=" LXX.Gen.24.3, compare “PMag.Lond.” 121.269; ἐ. [τινὰ] τοῖς μεγάλοις ὀνόμασιν [prev. work] 892; ἐ. σε κατὰ τοῦ θεοῦ NT.Matt.26.63; also τινὰ κατά τινος “PMag.Par.” 1.356. ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>exorcise</b> an evil spirit, [<a href="javascript:void(0)" title=" “Tab.Defix.” in “Rh.Mus.” 55.248. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.24.3]] ☩ [[Matt.26.63]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.24.3]] ☩ [[Matt.26.63]]
 </sub></small>

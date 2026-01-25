@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>pirate's nest</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 14.5.7, 3rd c.AD: Heliodorus Scriptor Eroticus 5.6 (\_plural\_). ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>gang of brigands</b> or <b>pirates</b>, [<a href="javascript:void(0)" title=" LXX.Gen.49.19, 1st c.BC: Dionysius Halicarnassensis 7.37, Ach. Tat. 6.21. ">LXX+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.7.1]] ☩ [[Gen.49.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.7.1]] ☩ [[LXX.Gen.49.19]]
 </sub></small>

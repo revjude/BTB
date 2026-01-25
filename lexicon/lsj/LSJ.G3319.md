@@ -37,5 +37,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> regular <i>adverb</i> <span class='asgreek
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_V.2.b</b> Grammars, <b>in the middle voice</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 276.21. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> irregular <i>comparative</i> <span class='asgreek'>μεσαίτερος</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Parmenides” 165b ">Refs 5th c.BC+</a>]: <i>superlative</i> <span class='asgreek'>μεσαίτατος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.17, 4th c.BC: Aristoteles Philosophus “de Mundo” 392b33, 1st c.BC: Geminus Astronomicus 9.3, etc.; poetry μεσσότατος 3rd c.BC: Apollonius Rhodius Epicus 4.649, 4th c.AD(?): Manetho Astrologus 6.373 ">Refs 5th c.BC+</a>]. (Cf. Sanskrit<i>mádhyas</i> 'middle', Latin <i>medius</i>, etc.)
 
-<small><sub>LSJ Scripture Refs: [[Matt.14.6]] ☩ [[Col.2.14]] ☩ [[Exod.14.27]] ☩ [[Phil.2.15]]
+<small><sub>LSJ Scripture Refs: [[Matt.14.6]] ☩ [[Col.2.14]] ☩ [[LXX.Exod.14.27]] ☩ [[Phil.2.15]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>fig-yard</b>, [<a href="javascript:void(0)" title=" LXX.Amos.4.9. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Amos.4.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.4.9]]
 </sub></small>

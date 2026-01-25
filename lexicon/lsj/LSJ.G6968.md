@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>the hand,</b> <span class='asgreek'>τίς</spa
 $\quad$ $\quad$<b>\_\_III</b> a <b>measure,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.87, 2nd-1st c.BC(?): Hero Mechanicus “\*Mens.” 61.9, 5th c.AD(?): Hesychius Legal icographus ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>βακχικαὶ</span> <span class='asgreek'>δ</span>., ={<span class='asgreek'>θύρσοι</span>}, [<a href="javascript:void(0)" title="Scholia 8th c.BC: Ilias Homerus Epicus “Illiad” 6.134. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.40.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.40.12]]
 </sub></small>

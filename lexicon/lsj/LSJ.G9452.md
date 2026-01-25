@@ -6,5 +6,5 @@
  <b>tax by assessment</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>γῆν</span> [<a href="javascript:void(0)" title=" LXX.2Kgs.23.35. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.23.35]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.23.35]]
 </sub></small>

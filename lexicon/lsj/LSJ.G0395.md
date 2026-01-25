@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.c</b> phase of new moon when [<a href="j
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> in <i>plural</i>, <b>sources</b> of a river, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 2.17.4. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>growing,</b> of the teeth, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 501b28 ">Refs 4th c.BC+</a>]; of the white at the root of the nails, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.146: \_plural\_, ἀγρὸς ἀνατολὰς καὶ βλάστας ἔχει 1st c.AD: Philo Judaeus 1.68, cf. LXX.Jer.23.5, +others">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.23.7]] ☩ [[Matt.2.1]] ☩ [[Jer.23.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.23.7]] ☩ [[Matt.2.1]] ☩ [[LXX.Jer.23.5]]
 </sub></small>

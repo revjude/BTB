@@ -6,5 +6,5 @@
  <b>disparagement, contempt,</b> [<a href="javascript:void(0)" title=" LXX.Zeph.3.11. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Zeph.3.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zeph.3.11]]
 </sub></small>

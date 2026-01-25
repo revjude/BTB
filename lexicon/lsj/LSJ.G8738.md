@@ -6,5 +6,5 @@
  [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 160, 5th c.BC: Thucydides Historicus 1.74, +others, 4th c.BC: Aristoteles Philosophus “Oeconomica” 1350b13, LXX.Amos.5.15 ">LXX+5th c.BC+</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Amos.5.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Amos.5.15]]
 </sub></small>

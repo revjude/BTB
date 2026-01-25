@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> = {<span class='asgreek'>σχοίνισμα</span>} [<a href="javascript:void(0)" title=" 1, ">Refs</a>]<b>allotment</b>, [<a href="javascript:void(0)" title=" LXX.Josh.17.5. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.17.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.17.5]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>εὔγλωσσος</span>} 11, [<a href="javascript:void(0)" title=" LXX.Job.11.2. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.11.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.11.2]]
 </sub></small>

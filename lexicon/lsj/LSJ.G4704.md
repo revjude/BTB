@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.1</b> with <i>accusative</i> <i>of things</i>, 
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>passive</i>, of persons, <b>to be treated with respect</b>, opposed to <span class='asgreek'>καταφρονεῖσθαι</span>, [<a href="javascript:void(0)" title=" [prev. author] “Rh.” 1380a26 ">Refs</a>]; <b>to be courted</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 17.3.15, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Themistocles” 5, 3rd c.AD(?): Diogenes Laertius 5.75 ">Refs 1st c.BC+</a>]; of women, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cimon” 4, “Art.” 26. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> in LXX, <b>trouble, disturb</b> any one, [<a href="javascript:void(0)" title=" LXX.Job.22.10, 23.16. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.4.9]] ☩ [[2Pet.1.15]] ☩ [[Job.22.10]]
+<small><sub>LSJ Scripture Refs: [[2Tim.4.9]] ☩ [[2Pet.1.15]] ☩ [[LXX.Job.22.10]]
 </sub></small>

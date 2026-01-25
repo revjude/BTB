@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>μήλη</span>) = {<span class='asgreek'>μηλωτίς</span>}, Erot. see at {<span class='asgreek'>κάτοπτρον</span>}.
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.19.13]] ☩ [[Heb.11.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.19.13]] ☩ [[Heb.11.37]]
 </sub></small>

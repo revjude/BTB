@@ -23,5 +23,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.III.4</b> <i>metaphorically</i>, <span class='as
 $\quad$ $\quad$<b>\_\_B.IV</b> <span class='asgreek'>στάσεις</span>,= <span class='asgreek'>τὰ</span> <span class='asgreek'>πεφυκότα</span> <span class='asgreek'>σπέρματα</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 859. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_B.V</b> <b>statute, decree</b>, [<a href="javascript:void(0)" title=" LXX.Dan.6.7(8), LXX.1Mac.7.18. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.9.6]] ☩ [[Dan.6.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.9.6]] ☩ [[LXX.Dan.6.7]]
 </sub></small>

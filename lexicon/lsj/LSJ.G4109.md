@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> in <i>plural</i>, <b>flaps, tail-fins</b> of
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <b>folds</b> within certain parts of the ruminant stomach, [<a href="javascript:void(0)" title=" [prev. author] “HA” 507b11, “PA” 675a28. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>κοπτῆς</span> <span class='asgreek'>πλάκες</span>,<span class='asgreek'>πλακοῦντες</span>, [<a href="javascript:void(0)" title="“Anthologia Graeca” 12.212 (2nd c.AD: Strato Epigrammaticus)">Refs 2nd c.AD+</a>]. (Cf. Lett.<b>plakt</b> 'become flat'.)
 
-<small><sub>LSJ Scripture Refs: [[Exod.31.18]] ☩ [[Heb.9.4]] ☩ [[2Cor.3.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.31.18]] ☩ [[Heb.9.4]] ☩ [[2Cor.3.3]]
 </sub></small>

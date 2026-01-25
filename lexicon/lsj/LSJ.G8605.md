@@ -6,5 +6,5 @@
  a <b>cutting</b> or <b>scraping instrument</b>, variant in [<a href="javascript:void(0)" title=" LXX.Isa.44.13. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.44.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.44.13]]
 </sub></small>

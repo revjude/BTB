@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>slip</b> or <b>glide along,</b> <span cla
 $\quad$ $\quad$<b>\_\_II</b> causal, <b>sprain by slipping,</b> <span class='asgreek'>ὠλισθήκει</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>γλουτόν</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “V A” 3.39,compare “Gym.” 14. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>make to slip,</b> <span class='asgreek'>τὰς</span> <span class='asgreek'>διανοίας</span> [<a href="javascript:void(0)" title=" LXX.Sir.3.24. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.14.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.14.19]]
 </sub></small>

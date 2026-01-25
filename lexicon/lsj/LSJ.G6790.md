@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>western,</b> <span class='asgreek'>κλίμα</span> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 9.2.41. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>δ</span>. (i.e. <span class='asgreek'>δεῖπνον</span>) <b>evening meal,</b> <i>falsa lectio</i> in [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 10.418b (quoting 2nd c.BC: Polybius Historicus 20.6.6), compare 2nd c.AD: Athenaeus Epigrammaticus 1.11e. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.3.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.3.8]]
 </sub></small>

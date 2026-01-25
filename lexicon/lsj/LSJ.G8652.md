@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==παρθενικός==ικόν</span>, <span class='asgreek'>τό</span>, ={<span class='asgreek'>ἀρτεμισία</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.113. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Joel.1.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Joel.1.8]]
 </sub></small>

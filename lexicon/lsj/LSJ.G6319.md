@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.9</b> <b>office of</b> <span class='asgreek'>==
 $\quad$ $\quad$ $\quad$<b>\_\_II.10</b> in Medicine texts, ={<span class='asgreek'>ἀνάδοσις</span>}, opposed to <span class='asgreek'>πέψις</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 2.7. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>ceiling</b> of a wine-press, [<a href="javascript:void(0)" title=" “Geoponica” 6.1.3.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.50.21]] ☩ [[Num.4.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.50.21]] ☩ [[LXX.Num.4.6]]
 </sub></small>

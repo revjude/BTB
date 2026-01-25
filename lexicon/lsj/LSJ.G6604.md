@@ -6,5 +6,5 @@
  <b>chief of the court, mayor of the palace,</b> [<a href="javascript:void(0)" title=" LXX.2Kgs.8.18">LXX</a>]:—hence <i>substantive</i> <b><span class='asgreek'>==αὐλάρχης==</span>-<span class='asgreek'>αρχία</span></b>, <span class='asgreek'>ἡ</span>,[<a href="javascript:void(0)" title="LXX.3Ki.3.1.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.8.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.8.18]]
 </sub></small>

@@ -26,5 +26,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>critical mark</b>, [<a href="javascrip
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>στιγμή</span>}, <b>mathematical point</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Posteriora” 76b5, “Ph.” 240b3, 3rd c.BC: Euclides Geometra “Def.” 1, +others">Refs 4th c.BC+</a>]; also <span class='asgreek'>ς</span>. (with or without <span class='asgreek'>χρόνου</span>) <b>point</b> of time, <b>instant</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Caelo” 283a11, “Ph.” 262b2f ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> in Prosody and Music, <b>unit of time</b>, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Aristides Quintilianus Musicus 1.14, 3rd c.AD: Longinus Rhetor “Proll. Heph.” 5. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.4.8]] ☩ [[Matt.24.24]] ☩ [[John.4.48]] ☩ [[Luke.21.11]] ☩ [[Matt.16.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.4.8]] ☩ [[Matt.24.24]] ☩ [[John.4.48]] ☩ [[Luke.21.11]] ☩ [[Matt.16.3]]
 </sub></small>

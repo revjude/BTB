@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==συντριμμός==τριμμοὶ</span> <span class='asgreek'>θανάτου</span> <b>afflictions, miseries</b>,[<a href="javascript:void(0)" title="LXX.2Kgs.22.5. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Zeph.1.10]] ☩ [[2Kgs.22.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zeph.1.10]] ☩ [[LXX.2Kgs.22.5]]
 </sub></small>

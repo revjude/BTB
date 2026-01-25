@@ -6,5 +6,5 @@
  <i>future</i> -<span class='asgreek'>ιῶ</span>, <b>cleanse, purify,</b> [<a href="javascript:void(0)" title=" LXX.Job.25.4.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.25.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.25.4]]
 </sub></small>

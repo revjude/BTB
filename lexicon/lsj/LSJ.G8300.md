@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>intransitive</i> in <i>active</i>, = <i>middle</i>,[<a href="javascript:void(0)" title=" [prev. work] 61(62).6, 1st c.BC-1st c.AD: Strabo Geographus “Chr.” 7.5. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.51.5]] ☩ [[Ps.10.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.51.5]] ☩ [[LXX.Ps.10.1]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ξείνια</span>, 
 $\quad$ $\quad$<b>\_\_II</b> <b>foreign,</b> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>ξενίας</span> (i.e. <span class='asgreek'>γῆς</span>) [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 2.2.9, 5th-6th c.BC: Plato Philosophus “Cratylus” 429e, compare “Ath.Mitt.” 25.427; ἐν ξενίῃ “epigram Gr.” 1041.8. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ξ</span>. <span class='asgreek'>κόσμος</span>, in Crete, magistrate who tried suits <b>with aliens</b>, [<a href="javascript:void(0)" title=" “GDI” 4981.4, +others ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.8.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.8.2]]
 </sub></small>

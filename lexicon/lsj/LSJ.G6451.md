@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> with <i>accusative</i> only, <b>keep off, hinder,</
 $\quad$ $\quad$<b>\_\_III</b> <i>absolutely</i>, <b>stop the way,</b> [<a href="javascript:void(0)" title=" [prev. author] 1.72: \_impersonal\_, οὐδὲν ==ἀποκωλύω==ύει">Refs</a>] <b>there is</b> nothing <b>to prevent</b> it, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 372e, +others ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>shut up,</b> <span class='asgreek'>τέκνα</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>οἶκον</span>[<a href="javascript:void(0)" title=" LXX.1Kgs.6.10.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.2.10]] ☩ [[1Kgs.6.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.2.10]] ☩ [[LXX.1Kgs.6.10]]
 </sub></small>

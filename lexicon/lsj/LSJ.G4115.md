@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἐπλατύνθη</
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>pronounce broadly,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>φωνήν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Hermogenes Rhetor “περὶ ἰδεῶν” 1.6, 1st-2nd c.AD: Harpocratio Grammaticus see at {λαρυγγίζειν}. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>amplify,</b> <span class='asgreek'>τὸν</span> <span class='asgreek'>λόγον</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ind.Sto.” 24; τὴν ἑρμηνείαν 2nd c.AD: Hermogenes Rhetor “προγυμνάσματα” 3 ">Refs 1st c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>διήγησις</span> <span class='asgreek'>πλατύνεται</span> <span class='asgreek'>τρόποις</span> [<a href="javascript:void(0)" title=" [prev. author] “Inv.” 2.7 ">Refs</a>]: <i>absolutely</i>, <b>use amplification,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Dinarcho” 6. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.23.5]] ☩ [[2Cor.6.11]] ☩ [[Ps.118.32]] ☩ [[1Kgs.2.1]] ☩ [[Deut.11.16]]
+<small><sub>LSJ Scripture Refs: [[Matt.23.5]] ☩ [[2Cor.6.11]] ☩ [[LXX.Ps.118.32]] ☩ [[LXX.1Kgs.2.1]] ☩ [[LXX.Deut.11.16]]
 </sub></small>

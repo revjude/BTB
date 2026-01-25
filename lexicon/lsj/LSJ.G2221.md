@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>restore to life and strength, revive</b>, <span class='asgreek'>περὶ</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>πνοιὴ</span> <span class='asgreek'>Βορέαο</span> <span class='asgreek'>ζώγρει</span> <span class='asgreek'>ἐπιπνείουσα</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 5.698 (quoted by 2nd c.AD: Aretaeus Medicus “ὀξέων νούσων θεραπευτικόν” 2.3)">Refs 8th c.BC+</a>]; <b>preserve alive</b>, <span class='asgreek'>ζώγρει</span>, <span class='asgreek'>δέσποτ᾽</span> <span class='asgreek'>ἄναξ</span>, <span class='asgreek'>τὸν</span> <span class='asgreek'>σὸν</span> <span class='asgreek'>ναετῆρα</span> [<a href="javascript:void(0)" title=" “epigram Gr.” 841.7 (Thrace, 2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.31.18]] ☩ [[Luke.5.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.31.18]] ☩ [[Luke.5.10]]
 </sub></small>

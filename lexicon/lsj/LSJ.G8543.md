@@ -6,5 +6,5 @@
  <b>beholder,</b> [<a href="javascript:void(0)" title=" LXX.Job.34.21, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Nicias” 19. ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.34.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.34.21]]
 </sub></small>

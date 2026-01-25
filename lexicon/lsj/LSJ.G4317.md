@@ -29,5 +29,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.II.3</b> <span class='asgreek'>αἷς</span> [<
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.4</b> <span class='asgreek'>μηδὲ</span> <span class='asgreek'>προσάγου</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>πράγματι</span> <span class='asgreek'>χειμῶνας</span> <span class='asgreek'>ἑτέρους</span> <b>do</b> not <b>add</b> further troubles, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 187 ">Refs 4th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>τὸν</span> <span class='asgreek'>χρόνον</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>πόνον</span> <b>employ</b> it <b>for one's own advantage,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 29.17.4. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.5</b> <span class='asgreek'>μάρτυρα</span> <span class='asgreek'>π</span>. <b>cite</b> as witness, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1049b. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.18.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.18.21]]
 </sub></small>

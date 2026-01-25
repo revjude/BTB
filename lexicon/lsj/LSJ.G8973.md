@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>trip up, supplant</b>, [<a href="javascript:void(0)" title=" LXX.Gen.27.36, 1st c.AD: Philo Judaeus 1.125. ">LXX+1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>heel an old shoe,</b> [<a href="javascript:void(0)" title=" Comica Adespota 46. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.9.4]] ☩ [[Gen.27.36]] ☩ [[Gen.27.36]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.9.4]] ☩ [[LXX.Gen.27.36]] ☩ [[LXX.Gen.27.36]]
 </sub></small>

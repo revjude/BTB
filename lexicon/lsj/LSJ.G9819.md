@@ -6,5 +6,5 @@
  <b>with ears slit</b> or <b>cropped,</b> [<a href="javascript:void(0)" title=" LXX.Lev.21.18, 22.23. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.21.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.21.18]]
 </sub></small>

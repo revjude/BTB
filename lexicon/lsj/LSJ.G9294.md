@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> Astron., <b>rise with</b>, in <i>passive</i>
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>bring up together with itself</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.451a">Refs 1st c.AD+</a>]; <span class='asgreek'>τὴ</span> <span class='asgreek'>ἀρχήν</span> <b>refer to</b> its origin <b>at the same time</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 5.32.4, compare 5th-6th c.AD: Damascius Philosophus “de Principiis” 64. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>certify at the same time</b>, <span class='asgreek'>συνανενηνοχέναι</span> <span class='asgreek'>τινὶ</span> <span class='asgreek'>συγχώρησιν</span> Mitteis [<a href="javascript:void(0)" title=" “Chr.” 31 iii 28 (2nd c.BC)">Refs 2nd c.BC+</a>]; <b>report</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>καθ᾽</span> <span class='asgreek'>ἓν</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" “PSI” 4.386.32 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.50.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.50.25]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>bring prosperity</b>, <span class='asgreek'>ἡμῖν</span> [<a href="javascript:void(0)" title=" LXX.Ps.67.20. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.18.5]] ☩ [[Prov.17.23]] ☩ [[Ps.67.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.18.5]] ☩ [[LXX.Prov.17.23]] ☩ [[LXX.Ps.67.20]]
 </sub></small>

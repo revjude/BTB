@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>shear</b> of its walls, <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀκρόπολιν</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Varia Historia” 7.8. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.32.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.32.9]]
 </sub></small>

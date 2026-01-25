@@ -6,5 +6,5 @@
  <b>gather in the vintage,</b> [<a href="javascript:void(0)" title=" PGurob 8.10 (3rd c.BC), LXX.Lev.25.5. ">LXX+3rd c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.25.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.25.5]]
 </sub></small>

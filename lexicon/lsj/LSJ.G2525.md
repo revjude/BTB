@@ -23,5 +23,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.7</b> of purchases, <b>cost,</b> <span class='as
 $\quad$ $\quad$ $\quad$<b>\_\_B.8</b> <b>stand against, oppose,</b> <span class='asgreek'>πρός</span> <span class='asgreek'>τινα</span> uncertain reading in [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 23.18.5 ">Refs 2nd c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>Τιτήνεσσι</span> <span class='asgreek'>κατέσταθεν</span> [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 674. ">Refs 8th c.BC+</a>]
 $\quad$ ****<b>\_\_C</b> <i>aorist 1</i> <i>middle</i> and sometimes <i>present</i> <i>middle</i> are used in <i>transitive</i> sense, see above [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus 11.2f ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.1.10]] ☩ [[1Kgs.8.5]] ☩ [[Num.3.32]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.1.10]] ☩ [[LXX.1Kgs.8.5]] ☩ [[LXX.Num.3.32]]
 </sub></small>

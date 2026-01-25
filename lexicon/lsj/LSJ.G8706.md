@@ -6,5 +6,5 @@
  <b>fifty-three</b>,[<a href="javascript:void(0)" title="LXX.Gen.5.31. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.5.31]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.5.31]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>affliction, ruin</b>, [<a href="javascript:void(0)" title=" LXX.Isa.59.7, LXX.Jer.3.22. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>collection</b>, <span class='asgreek'>ἁμαρτωλῶν</span> <span class='asgreek'>ἀνθρώπων</span> (variant{<span class='asgreek'>σύστρεμμα</span>}, which see)[<a href="javascript:void(0)" title="LXX.Num.32.14. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.21.19]] ☩ [[Isa.59.7]] ☩ [[Jer.3.22]] ☩ [[Num.32.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.21.19]] ☩ [[LXX.Isa.59.7]] ☩ [[LXX.Jer.3.22]] ☩ [[LXX.Num.32.14]]
 </sub></small>

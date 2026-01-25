@@ -7,5 +7,5 @@ Related to: <b> <span class='asgreek'>==ἐπικυλίω==</span></b> [<span c
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>roll up</b>, <span class='asgreek'>ἣν</span> <span class='asgreek'>κυλίουσι</span> <span class='asgreek'>κόπρον</span> (i.e. <span class='asgreek'>κάνθαροι</span>) [<a href="javascript:void(0)" title=" [prev. author] “HA” 552a17. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.10.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.10.18]]
 </sub></small>

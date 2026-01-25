@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>blow-hole</b> or <b>spiracle</b> of whale
 $\quad$ $\quad$<b>\_\_II</b> <b>one who blows a pipe</b> or <b>bellows,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.75 (variant), 10th c.AD: Suidas Legal icographus see at {ἐξέλιπε}. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> a kind of <b>whale,</b> perhaps <b>Biscay whale,</b> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 3.2.7. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.32.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.32.19]]
 </sub></small>

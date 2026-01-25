@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>mound raised for attacking</b> a city, [<a href="javascript:void(0)" title=" LXX.2Kgs.20.15, +others ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.20.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.20.15]]
 </sub></small>

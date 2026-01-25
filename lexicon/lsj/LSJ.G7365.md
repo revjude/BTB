@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> generally, <b>to be upon the surface,</b>
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <i>absolutely</i>, <b>show itself, appear plainly,</b> <span class='asgreek'>τοὐπιχώριον</span> <span class='asgreek'>==ἐπανθέω==εῖ</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 1174; ὅπερ.. παισὶ καὶ θηρίοις.. σύμφυτον ==ἐπανθέω==εῖ 5th-6th c.BC: Plato Philosophus “Leges” 710a; τῷΙσοκράτει πολλαὶ χάριτες ἐπήνθουν 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 19; πᾶσιν ==ἐπανθέω==εῖ.. ἡ χάρις 2nd c.AD: Lucianus Sophista “Im.” 9, compare “Hist.Conscr.” 55; τῷ προσώπῳ τὸ θηριῶδες ἐ. 4th c.AD: Callistratus Sophista “Statuarum descriptiones” 12; τὰ -οῦντα τῇ αἰσθήσει τῶν ζῴων θελκτήρια [prev. work] 7. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>to be bright,</b> <span class='asgreek'>πτερίσκοις</span> <span class='asgreek'>πορφυροῖς</span> <span class='asgreek'>==ἐπανθέω==ούντων</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Babrius Fabularum Scriptor 118.5. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.14.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.14.7]]
 </sub></small>

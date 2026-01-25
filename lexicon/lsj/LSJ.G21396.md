@@ -5,5 +5,5 @@
 &nbsp;&nbsp;(<span class='asgreek'>στῆναι</span>) <b>in the way</b>,[<a href="javascript:void(0)" title="LXX.1Chr.2.7, 10th c.AD: Suidas Legal icographus ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Chr.2.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.2.7]]
 </sub></small>

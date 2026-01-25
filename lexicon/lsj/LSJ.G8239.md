@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>lengthen</b> a syllable, [<a href="javasc
 $\quad$ $\quad$<b>\_\_II</b> <b>remove to a distance, put away</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>βοήθειαν</span> [<a href="javascript:void(0)" title=" LXX.Ps.21.20, compare 39(40).12 ">LXX</a>]; <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἀνθρώπους</span>[<a href="javascript:void(0)" title="LXX.Isa.6.12 ">LXX</a>]:—<i>passive</i>, <b>to be far off</b>, <span class='asgreek'>τόπου</span> <b>from</b> a place, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “Spir.Praef.” ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>intransitive</i> in <i>active</i>, <b>travel far</b>, with <i>genitive</i>, [<a href="javascript:void(0)" title=" LXX.Judg.18.22, cf. LXX.Ps.54.7. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.8.13]] ☩ [[Isa.49.19]] ☩ [[Ps.128.3]] ☩ [[Ps.21.20]] ☩ [[Isa.6.12]] ☩ [[Judg.18.22]] ☩ [[Ps.54.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.8.13]] ☩ [[LXX.Isa.49.19]] ☩ [[LXX.Ps.128.3]] ☩ [[LXX.Ps.21.20]] ☩ [[LXX.Isa.6.12]] ☩ [[LXX.Judg.18.22]] ☩ [[LXX.Ps.54.7]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>inscribe on a</b> <span class='asgreek'>στήλη</span>, [<a href="javascript:void(0)" title=" “OGI” 221.15 (Ilium, 3rd c.BC)">Refs 3rd c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" “Milet.” 6.36 (from Didyma). ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>mark out with boundary pillars</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>χώραν</span> [<a href="javascript:void(0)" title=" “OGI” 225.30 (Didyma, 3rd c.BC), compare 335.74 (Pergam., 2nd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.18.17]] ☩ [[Judg.18.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.18.17]] ☩ [[LXX.Judg.18.16]]
 </sub></small>

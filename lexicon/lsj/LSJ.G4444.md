@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>part of an army drawn up in close order, column<
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> at Teos, a division of the people, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 3064,3081, +others ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>dice-box,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 9.482.24 (6th c.AD: Agathias Historicus et Epigrammaticus)">Refs 6th c.AD+</a>]; cf. Latin <i>pyrgus.</i>
 
-<small><sub>LSJ Scripture Refs: [[Isa.5.2]] ☩ [[Mic.4.8]] ☩ [[Mark.12.1]] ☩ [[Luke.14.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.5.2]] ☩ [[LXX.Mic.4.8]] ☩ [[Mark.12.1]] ☩ [[Luke.14.28]]
 </sub></small>

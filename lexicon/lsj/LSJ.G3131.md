@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b><span class='asgreek'>μάννα</span></b>, <span class='asgreek'>τό</span>, = Hebrew <b>mān, manna</b>, [<a href="javascript:void(0)" title=" LXX.Exod.16.35 (variant{μάν}), LXX.Num.11.6, +others, compare 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 3.1.6. ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.16.35]] ☩ [[Num.11.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.16.35]] ☩ [[LXX.Num.11.6]]
 </sub></small>

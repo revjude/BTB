@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> a liquid measure,= <span class='asgreek'>ἀ
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>καδίσκος</span>} 11, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 1032. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>funerary urn,</b> [<a href="javascript:void(0)" title=" Jahresh. 8.154.">Refs</a>] —The metre usually requires <span class='asgreek'>==κάδος==</span>, never <span class='asgreek'>κάδδος</span> which is written in [<a href="javascript:void(0)" title=" 4th c.AD: Themistius Sophista “in Aristotelis Physica paraphrasis - pars” 268.2, +others">Refs 4th c.AD+</a>]; compare <span class='asgreek'>κάδδιχος</span>.
 
-<small><sub>LSJ Scripture Refs: [[2Chr.2.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.2.10]]
 </sub></small>

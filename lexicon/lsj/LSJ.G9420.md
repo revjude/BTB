@@ -6,5 +6,5 @@
  <b>observer of</b> <span class='asgreek'>τέρατα</span>, <b>soothsayer, diviner</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 933c, 933e, 4th c.BC: Aristoteles Philosophus “Fragmenta” 75, LXX.Deut.18.11: compare τερασκόπος. ">LXX+5th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.18.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.18.11]]
 </sub></small>

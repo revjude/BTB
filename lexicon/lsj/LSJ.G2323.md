@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.9</b> of land, <b>cultivate</b>, [<a href="java
 $\quad$ $\quad$ $\quad$<b>\_\_II.10</b> <b>prepare, dress</b>, food or drugs, [<a href="javascript:void(0)" title=" 4th c.BC: Archestratus Epicus “fragment” 13.4, +others, 1st c.AD: Dioscorides (Dioscurides) Medicus 2.76 (\_passive\_). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.11</b> <b>mend</b> garments, [<a href="javascript:void(0)" title=" “PGiss.” 79iv3 (\_passive\_, 2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.19.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.19.24]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>ulcer</b> on the cornea, [<a href="javascript:vo
 $\quad$ $\quad$<b>\_\_III</b> Astrology texts, ={<span class='asgreek'>ταπείνωμα</span>}, [<a href="javascript:void(0)" title=" 4th c.AD: Paulus Alexandrinus Astrologus “A.” 2, “Catalogus Codicum Astrologorum” 8(1).243 (\_plural\_). ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>metaphorically</i>, <span class='asgreek'>τὰ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>εὐτυχίας</span> <b>weak points</b> in.., [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ κακιῶν ί” p.12 1st c.AD: Josephus Historicus ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.23.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.23.2]]
 </sub></small>

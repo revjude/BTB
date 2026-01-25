@@ -5,5 +5,5 @@
  <b>destruction,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.15.21. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.15.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.15.21]]
 </sub></small>

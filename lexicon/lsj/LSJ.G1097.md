@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>know carnally</b>, [<a href="javascript:void(0)
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>γ</span>. <span class='asgreek'>χάριν</span>, ={<span class='asgreek'>εἰδέναι</span> <span class='asgreek'>χάριν</span>}, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 39.9. ">Refs 2nd c.AD+</a>]
 $\quad$ ****<b>\_\_B</b> causal, <b>make known, celebrate</b>, <span class='asgreek'>γνώσομαι</span> <span class='asgreek'>τὰν</span> <span class='asgreek'>ὀλβίαν</span> <span class='asgreek'>Κόρινθον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “O.” 13.3 \_accusative\_ to Scholia (at [prev. work]), see uncertain (Root γνω-">Refs 5th c.BC+</a>], cf. Sanskrit <i>jānāmi, jñātas</i>, Latin <i>gnosco</i>, <b>gnotus</b>, etc.)
 
-<small><sub>LSJ Scripture Refs: [[Gen.4.1]] ☩ [[Matt.1.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.4.1]] ☩ [[Matt.1.25]]
 </sub></small>

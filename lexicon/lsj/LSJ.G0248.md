@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>thresh, smite,</b> <span class='asgreek'>
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>crush, smash,</b> <span class='asgreek'>σκεύη</span>[<a href="javascript:void(0)" title=" [prev. author] 129.16">Refs</a>]; <b>destroy,</b> <span class='asgreek'>πόλεις</span>[<a href="javascript:void(0)" title=" LXX.Jer.5.17. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>drive round and round,</b> like cattle treading out corn, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 2 (\_accusative\_ to Scholia).">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.5.17]] ☩ [[Jer.28.33]] ☩ [[Deut.25.4]] ☩ [[Jer.5.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.5.17]] ☩ [[LXX.Jer.28.33]] ☩ [[LXX.Deut.25.4]] ☩ [[LXX.Jer.5.17]]
 </sub></small>

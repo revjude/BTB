@@ -6,5 +6,5 @@
  <b>shine like gold,</b> [<a href="javascript:void(0)" title=" LXX.Job.37.22. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.37.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.37.22]]
 </sub></small>

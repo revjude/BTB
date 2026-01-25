@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> of more positive colour, <b>red</b>, <span c
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>blushing</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 900 ">Refs 5th c.BC+</a>]; also <span class='asgreek'>κύων</span>.. <span class='asgreek'>πύρσ᾽</span> <span class='asgreek'>ἔχουσα</span> <span class='asgreek'>δέργματα</span> glaring with <b>bloodshot</b> eyes, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hecuba” 1265. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>paroxytone</i> <span class='asgreek'>Πύρρος</span>, <span class='asgreek'>ὁ</span>, “Pyrrhus”, as <i>proper name</i>; also <span class='asgreek'>Πύρ</span>ϝ<span class='asgreek'>ος</span>, name of a horse, [<a href="javascript:void(0)" title=" “GDI” 3119h50 (from Corinth);compare Πυρϝίας “IG” 4.492.5 (Mycenae, 6th c.BC), Πυρϝαλίων [prev. work]517.4 (from Argos). (Prob. from \*πυρσϝός.) ">Refs 6th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.6.4]] ☩ [[Gen.25.30]]
+<small><sub>LSJ Scripture Refs: [[Rev.6.4]] ☩ [[LXX.Gen.25.30]]
 </sub></small>

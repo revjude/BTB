@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>fare badly</b>, <span class='asgreek'>ἐ
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> with <i>double</i> <i>genitive</i>, <b>fail</b> a person <b>in</b>, <span class='asgreek'>ἐλιπάρεον</span> [<span class='asgreek'>τὸν</span> <span class='asgreek'>Ἀσκληπιὸν</span>] <span class='asgreek'>μὴ</span> -<span class='asgreek'>έειν</span> <span class='asgreek'>μου</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>θεραπείης</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 15. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>to be kept waiting for</b> a thing, with <i>genitive</i>, <span class='asgreek'>ἐντονίων</span> [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 58.3 ">Refs 3rd c.BC+</a>]; <span class='asgreek'>θανάτου</span> Ps.-[<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Philopatr.” 16. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.22.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.22.29]]
 </sub></small>

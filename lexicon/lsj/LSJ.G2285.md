@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in objective sense, <span class='asgreek'>==θάμβος==οι</span> <b>terrors</b> in the way, [<a href="javascript:void(0)" title=" LXX [same place] ">Refs</a>]; <b>object of wonder,</b> [<a href="javascript:void(0)" title=" epigram Gr. 1068 (from Gerasa). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.12.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.12.5]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>subject to momentary impact</b>, [<a href="javascript:void(0)" title="Hierocl. p.23A. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.10.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.10.9]]
 </sub></small>

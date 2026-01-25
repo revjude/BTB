@@ -6,5 +6,5 @@
  <b>rebellious</b> or <b>perverse person,</b> [<a href="javascript:void(0)" title=" LXX.Deut.21.18, 1st c.AD: Philo Judaeus 1.359, 5th c.AD(?): Hesychius Legal icographus see at {ἔριθος}. ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.21.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.21.18]]
 </sub></small>

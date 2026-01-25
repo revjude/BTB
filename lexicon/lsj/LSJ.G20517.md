@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>to be initiated, consecrated</b>, <span class='asgreek'>τισι</span> [<a href="javascript:void(0)" title=" “PMag.Lond.” 121.747. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.1.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.1.2]]
 </sub></small>

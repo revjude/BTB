@@ -6,5 +6,5 @@
  <i>genitive</i> <span class='asgreek'>ονος</span>, <b>loving sin,</b> [<a href="javascript:void(0)" title=" LXX.Prov.17.19. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.17.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.17.19]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>shaking out, violent shaking</b>, [<a href="javascript:void(0)" title=" LXX.Nah.2.10(11), 1st c.AD: Philo Judaeus 1.415 ">LXX+1st c.AD+</a>]; perhaps <b>winnowing</b> or <b>threshing,</b> [<a href="javascript:void(0)" title=" PFay. 114.22 (1st c.AD). ">Refs 1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Nah.2.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Nah.2.10]]
 </sub></small>

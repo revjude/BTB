@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.2.b</b> Grammars, <b>correlativity</b>
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.2.c</b> <b>answering clause,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Hermogenes Rhetor “περὶ ἰδεῶν” 1.11, 2.1; see l. in 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 20.6. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>capping verses,</b> as a subject of competition, [<a href="javascript:void(0)" title=" “Michel” 913 (from Teos).">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.61.2]] ☩ [[Ps.18.11]] ☩ [[Col.3.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.61.2]] ☩ [[LXX.Ps.18.11]] ☩ [[Col.3.24]]
 </sub></small>

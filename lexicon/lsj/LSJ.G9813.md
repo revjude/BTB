@@ -6,5 +6,5 @@
  <i>passive</i>, <b>to be beautiful,</b> [<a href="javascript:void(0)" title=" LXX.Song.1.10, 7.1, 6; ὡραιώθης μοι σφόδρα “2 Ki.” 1.26. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Song.1.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.1.10]]
 </sub></small>

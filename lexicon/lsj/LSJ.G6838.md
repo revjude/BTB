@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_V</b> <b>refutation,</b> <span class='asgreek'>λόγων
 $\quad$ $\quad$<b>\_\_VI</b> <b>intermission,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Herodotus Medicus cited in 4th c.AD: Oribasius Medicus 6.20.19. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> Grammars, <b>tmesis,</b> [<a href="javascript:void(0)" title="Charis. p.275 K. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.28.4]] ☩ [[Deut.24.3]] ☩ [[Judg.21.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.28.4]] ☩ [[LXX.Deut.24.3]] ☩ [[LXX.Judg.21.15]]
 </sub></small>

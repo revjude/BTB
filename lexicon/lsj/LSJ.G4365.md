@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of a certain day, <b>draw near, approach</b>
 $\quad$ $\quad$<b>\_\_II</b> <b>attach oneself to</b>, <span class='asgreek'>ἀνδρὶ</span> <span class='asgreek'>ἁμαρτωλῷ</span> [<a href="javascript:void(0)" title=" LXX.Sir.12.14 ">LXX</a>]; of proselytes,[<a href="javascript:void(0)" title="LXX.Num.1.51, +others, LXX.Lev.9.1 (8.35)">LXX</a>]; also <span class='asgreek'>ὅταν</span> -<span class='asgreek'>πορεύωνται</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>θυσιαστήριον</span> <span class='asgreek'>λειτουργεῖν</span>[<a href="javascript:void(0)" title="LXX.Exod.30.20. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> of revenue, <b>come in</b>, [<a href="javascript:void(0)" title=" “SIG” 344.112 (Antig.Epist.). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.1.51]] ☩ [[Lev.9.1]] ☩ [[Exod.30.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.1.51]] ☩ [[LXX.Lev.9.1]] ☩ [[LXX.Exod.30.20]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>bloom</b>, [<a href="javascript:void(0)" title=" LXX.Song.2.13. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Song.2.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.2.13]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>pollute with murder</b> or <b>blood,</b> [<a href="javascript:void(0)" title=" LXX.Num.35.33, LXX.Ps.105.38. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.35.33]] ☩ [[Ps.105.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.35.33]] ☩ [[LXX.Ps.105.38]]
 </sub></small>

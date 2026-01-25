@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_8</b> <i>plural</i>, <span class='asgreek'>σκό
 $\quad$ $\quad$<b>\_\_II</b> in Architecture, <b>scotia, cavetto</b>, a sunken moulding, so called from <b>the dark shadow</b> it casts, [<a href="javascript:void(0)" title=" 1st c.BC: Vitruvius Scriptor de Architectura Latinus 3.5.2, 5th c.AD(?): Hesychius Legal icographus ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b><span class='asgreek'>Σκοτιά</span></b>, epithet of Aphrodite in Egypt, [<a href="javascript:void(0)" title="[prev. author] ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mic.3.6]] ☩ [[Matt.10.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mic.3.6]] ☩ [[Matt.10.27]]
 </sub></small>

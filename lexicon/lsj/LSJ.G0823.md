@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_III</b> in Logic, <b>individual,</b> of terms, [<a href="j
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>individual,</b> [<a href="javascript:void(0)" title=" [prev. author] “APo.” 96b11, +others: ">Refs</a>]<i>substantive</i> <span class='asgreek'>ἄτομον</span>, <span class='asgreek'>τό</span>,[<a href="javascript:void(0)" title=" [prev. author] “Cat.” 1b6, 3a38, “Metaphorical” 1058a18 (\_plural\_), 3rd c.AD: Plotinus Philosophus 6.2.2, +others ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> of the <b>summum genus,</b> <span class='asgreek'>πρὶν</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἄ</span>. <span class='asgreek'>ἐλθεῖν</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Metaphysica” 994b21">Refs 4th c.BC+</a>]. <i>adverb</i> <span class='asgreek'>ἀτόμως</span>, <span class='asgreek'>ὑπάρχειν</span> <b>immediately, without the intervention of a middle term,</b> [<a href="javascript:void(0)" title=" [prev. author] “APo.” 79a33.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.15.52]] ☩ [[Isa.54.8]]
+<small><sub>LSJ Scripture Refs: [[1Cor.15.52]] ☩ [[LXX.Isa.54.8]]
 </sub></small>

@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.1</b> <b>to take and bear a title</b> or <b>na
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> generally, <b>to be called,</b> <span class='asgreek'>μοιχαλίς</span> [<a href="javascript:void(0)" title=" NT.Rom.7.3: μήτηρ 1st c.AD: Philo Judaeus 1.440 ">NT+1st c.AD+</a>]; <span class='asgreek'>καὶ</span> <span class='asgreek'>ὡς</span> <span class='asgreek'>χ</span>. 'and so forth' (omitting some of the writer's names), [<a href="javascript:void(0)" title=" “POxy.” 100.1 (2nd c.AD), etc.; also with \_dative\_, ἀεὶ -ίζων τῷ προκειμένῳ ὀνοματίῳ [prev. work] 2131.8 (3rd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>change</b> or <b>be changed,</b> <span class='asgreek'>εἴς</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" “Geoponica” 12.1.9. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.7.3]] ☩ [[Jer.33.2]] ☩ [[Matt.2.12]] ☩ [[Acts.10.22]] ☩ [[Luke.2.26]] ☩ [[Acts.11.26]] ☩ [[Rom.7.3]]
+<small><sub>LSJ Scripture Refs: [[Rom.7.3]] ☩ [[LXX.Jer.33.2]] ☩ [[Matt.2.12]] ☩ [[Acts.10.22]] ☩ [[Luke.2.26]] ☩ [[Acts.11.26]] ☩ [[Rom.7.3]]
 </sub></small>

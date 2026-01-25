@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>ἑπτά</span>}, <span class='asgreek'>ἑβδόμαις</span> <span class='asgreek'>πύλαις</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 125 (Lyric poetry, assuming variant), cf. Thom.Mag. p.133 R.; ἐν κύκλοισιν ἑβδόμοις “Milet.” 6.46. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>ἕβδομα</span>, <span class='asgreek'>τά</span>, <b>seven years' work</b>, [<a href="javascript:void(0)" title=" LXX.Gen.29.27. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.4.4]] ☩ [[Gen.29.27]]
+<small><sub>LSJ Scripture Refs: [[Heb.4.4]] ☩ [[LXX.Gen.29.27]]
 </sub></small>

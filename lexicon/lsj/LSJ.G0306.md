@@ -22,5 +22,5 @@ $\quad$ $\quad$<b>\_\_B.III</b> <b>throw one's cloak up</b> or <b>back, throw it
 $\quad$ $\quad$<b>\_\_B.IV</b> = above [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus IV, ἀναβάλλεσθαι μάχας">Refs 4th c.BC+</a>] <b>risk</b> battles, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.49. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_B.V</b> <b>to be wroth,</b> [<a href="javascript:void(0)" title=" LXX.Ps.77.21.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.24.22]] ☩ [[Ps.77.21]]
+<small><sub>LSJ Scripture Refs: [[Acts.24.22]] ☩ [[LXX.Ps.77.21]]
 </sub></small>

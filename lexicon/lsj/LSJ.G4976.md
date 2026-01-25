@@ -23,5 +23,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_8.d</b> <b>configuration</b> of birds in a
 $\quad$ $\quad$ $\quad$<b>\_\_9</b> in Tactics, military <b>formation</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 1.10.10. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_10</b> ={<span class='asgreek'>τὸ</span> <span class='asgreek'>αἰδοῖον</span>} [<a href="javascript:void(0)" title=" LXX.Isa.3.17. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.2.6]] ☩ [[1Cor.7.31]] ☩ [[Isa.3.17]]
+<small><sub>LSJ Scripture Refs: [[Phil.2.6]] ☩ [[1Cor.7.31]] ☩ [[LXX.Isa.3.17]]
 </sub></small>

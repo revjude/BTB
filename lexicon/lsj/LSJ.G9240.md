@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>σ</span>. <span class
 $\quad$ $\quad$<b>\_\_II</b> <b>judgement, decree</b>,[<a href="javascript:void(0)" title="LXX.1Mac.1.57, “PAmh.” 2.68.34 (1st c.AD), 2nd c.AD(?): Theodotion LXX.Dan.4.21. ">LXX+1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>σύγκρισις</span>} 111, [<a href="javascript:void(0)" title=" LXX.Dan.5.26. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.4.21]] ☩ [[Dan.5.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.4.21]] ☩ [[LXX.Dan.5.26]]
 </sub></small>

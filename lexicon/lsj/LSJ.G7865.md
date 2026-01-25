@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>posterity</b>, [<a href="javascript:void(0)" title=" LXX.Gen.45.7. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.45.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.45.7]]
 </sub></small>

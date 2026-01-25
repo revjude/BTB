@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>seed</b>, [<a href="javascript:void(0)" title=" 
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>genitals</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ὑγρῶν χρήσιος” 2. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>γ</span>. <span class='asgreek'>Ἑρμοῦ</span>, ={<span class='asgreek'>βούφθαλμος</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.139. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.15.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.15.3]]
 </sub></small>

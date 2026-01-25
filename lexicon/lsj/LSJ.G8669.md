@@ -6,5 +6,5 @@
  (<span class='asgreek'>ἄρχω</span>) <b>tutelary god</b>, [<a href="javascript:void(0)" title=" LXX.Isa.37.38. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.37.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.37.38]]
 </sub></small>

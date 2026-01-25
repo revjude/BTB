@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>passive</i>, <b>fall into obscurity, b
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <i>passive</i>, <b>lose its power,</b> of a drug, [<a href="javascript:void(0)" title=" 2nd c.BC: Agatharchides Geographus 97. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <b>to be deprived of sight,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>βλέπειν</span>[<a href="javascript:void(0)" title=" LXX.Isa.44.18.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.44.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.44.18]]
 </sub></small>

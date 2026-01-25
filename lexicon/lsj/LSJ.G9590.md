@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>a station of soldiers, camp,</b> [<a href="java
 $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>περίνεος</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.171, 2nd c.AD: Rufus Medicus “περὶ ὀνομασίας” 101. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>multitude,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.23.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.23.14]]
 </sub></small>

@@ -1,0 +1,26 @@
+**LXX 2 Samuel 21:21** 
+<small><sub>**LXX:**</sub></small>
+And he berated  Israel, and Jonathan son of Shimea brother of David struck him. 
+<small><sub>**KJV:**</sub></small>
+And when he defied Israel, Jonathan the son of Shimea the brother of David slew him.
+<small><sub>**BSB:**</sub></small>
+and when he taunted Israel, Jonathan the son of David’s brother Shimei killed him.<small><sub>**MT:**</sub></small>
+[[2Sam.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.20|<< 2 Samuel 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.22|2 Samuel 21:22 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| And | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| he berated | <span class="asgreek">ωνείδισε <sup><small><small>[[G3679]]</small></small></sup> </span> |
+| \<the> | <span class="asgreek">τον <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| Israel, | <span class="asgreek">Ισραήλ <sup><small><small>[[G2474]]</small></small></sup> </span> |
+| and | <span class="asgreek">και <sup><small><small>[[G2532]]</small></small></sup> </span> |
+| struck | <span class="asgreek">επάταξεν <sup><small><small>[[G3960]]</small></small></sup> </span> |
+| him | <span class="asgreek">αυτόν <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| Jonathan | <span class="asgreek">Ιωναθάν <sup><small><small>[[H3129]]</small></small></sup> </span> |
+| son | <span class="asgreek">υιός <sup><small><small>[[G5207]]</small></small></sup> </span> |
+| of Shimea | <span class="asgreek">Σαμαά <sup><small><small>[[H8092]]</small></small></sup> </span> |
+| brother | <span class="asgreek">αδελφού <sup><small><small>[[G0080]]</small></small></sup> </span> |
+| of David | <span class="asgreek">Δαυίδ <sup><small><small>[[G4622]]</small></small></sup> </span> |
+[[2Sam.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.20|<< 2 Samuel 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.22|2 Samuel 21:22 >>]]</td></tr></table>
+
+

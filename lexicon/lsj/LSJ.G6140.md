@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>keenness, subtlety</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 269e. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>conversation, talk</b>, [<a href="javascript:void(0)" title=" LXX.4Ki.9.11, LXX.Ps.54.2.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.54.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.54.2]]
 </sub></small>

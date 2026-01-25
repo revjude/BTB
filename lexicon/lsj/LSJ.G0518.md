@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of a speaker or writer, <b>report, relate,</
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>recite, declaim,</b> [<a href="javascript:void(0)" title="Chor.in  “Rev.Phil.” 1.220. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>explain, interpret,</b> a dream or riddle, [<a href="javascript:void(0)" title=" LXX.Gen.41.8, LXX.Judg.14.12.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.41.8]] ☩ [[Judg.14.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.41.8]] ☩ [[LXX.Judg.14.12]]
 </sub></small>

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">δίκαιος</span></span>, <span class="asgreek">-α, -ον</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">δίκη</span>), </span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">צַדִּיק</span> <small><sup>[[H6662]]</sup></small> (for rendering of <span class="ashebrew">צַדִּיק</span> <small><sup>[[H6662]]</sup></small> in sense of <span class="asitalic">correct</span>, v. Deiss., <span class="asitalic">BS</span>, 115 f.); sometimes for <span class="ashebrew">נָקִי</span> <small><sup>[[H5355]]</sup></small> as [[Prov.1.11|Pr 1:11]], al. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">δίκαιος</span></span>, <span class="asgreek">-α, -ον</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">δίκη</span>), </span>  <span class="asseptuagint">\[in LXX chiefly for <span class="ashebrew">צַדִּיק</span> <small><sup>[[H6662]]</sup></small> (for rendering of <span class="ashebrew">צַדִּיק</span> <small><sup>[[H6662]]</sup></small> in sense of <span class="asitalic">correct</span>, v. Deiss., <span class="asitalic">BS</span>, 115 f.); sometimes for <span class="ashebrew">נָקִי</span> <small><sup>[[H5355]]</sup></small> as [[LXX.Prov.1.11|Pr 1:11]], al. ;\] </span> </span>
 in early Gk. writers
 <span class="asbullet"><span class="asbold">(a)</span> of persons, observant of <span class="asgreek">δίκη</span>, custom, rule, right, <span class="asitalic">righteous</span> in performing duties to gods and   men ;</span>
 <span class="asbullet"><span class="asbold">(b)</span> of things, <span class="asitalic">righteous</span>, in accordance with right.</span>
@@ -15,7 +15,7 @@ $\quad$$\quad$ <span class="asbullet"><span class="asbold">(b)</span> of things:
 
 | Book | Refs |
 | - | - |
-| Proverbs | [[Prov.1.11\|1:11]] |
+| Proverbs | [[LXX.Prov.1.11\|1:11]] |
 | Matthew | [[Matt.1.19\|1:19]] · [[Matt.5.45\|5:45]] · [[Matt.10.41\|10:41]] · [[Matt.13.17\|13:17]] · [[Matt.13.43\|13:43]] · [[Matt.13.49\|13:49]] · [[Matt.20.4\|20:4]] · [[Matt.23.35\|23:35]] |
 | Mark | [[Mark.6.20\|6:20]] |
 | Luke | [[Luke.1.6\|1:6]] · [[Luke.1.17\|1:17]] · [[Luke.2.25\|2:25]] · [[Luke.12.57\|12:57]] · [[Luke.23.50\|23:50]] |

@@ -6,5 +6,5 @@
  <b>all purple,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.3.13, LXX.Num.4.7, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.180e. ">LXX+5th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.4.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.4.7]]
 </sub></small>

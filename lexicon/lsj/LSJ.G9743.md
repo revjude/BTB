@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ξηρὴ</span> <span
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>nausea,</b> <span class='asgreek'>ἔσται</span> <span class='asgreek'>ὑμῖν</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>==χολέρα==αν</span> [<a href="javascript:void(0)" title=" LXX.Num.11.20. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>χολέδρα</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.11.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.11.20]]
 </sub></small>

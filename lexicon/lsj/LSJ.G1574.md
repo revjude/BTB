@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>pierce, stab,</b> [<a href="javascript:void(0)" 
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>massacre,</b> [<a href="javascript:void(0)" title=" LXX.Josh.16.10. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, of hair, <b>stand out, project,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Sat.” 24. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.22.29]] ☩ [[Josh.16.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.22.29]] ☩ [[LXX.Josh.16.10]]
 </sub></small>

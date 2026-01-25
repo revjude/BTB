@@ -7,5 +7,5 @@ $\quad$ $\quad$<b>\_\_A.II</b> <span class='asgreek'>β</span>. <span class='asg
 $\quad$ $\quad$<b>\_\_A.III</b> <span class='asgreek'>β</span>. <span class='asgreek'>Μοσυλῖτις</span>, a kind of <b>cassia,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.13. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_A.IV</b> ={<span class='asgreek'>ἑλένιον</span>}, <b>elecampane,</b> Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.28. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.3.2]] ☩ [[Mark.12.26]] ☩ [[Luke.20.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.3.2]] ☩ [[Mark.12.26]] ☩ [[Luke.20.37]]
 </sub></small>

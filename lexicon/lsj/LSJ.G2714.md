@@ -11,5 +11,5 @@ Included with: <b> <span class='asgreek'>κατεξᾰγιάζω</span></b>,
  <b>assay,</b> [<a href="javascript:void(0)" title=" Arch.Anz. 38/39.154 (\_passive\_). ">Refs</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Josh.1.5]] ☩ [[Eph.1.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.1.5]] ☩ [[Eph.1.4]]
 </sub></small>

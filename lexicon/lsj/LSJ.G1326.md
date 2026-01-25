@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>raise,</b> <span class='asgreek'>τὸν</span> <span class='asgreek'>αὐχένα</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 4.4; χώματα 1st c.AD: Josephus Historicus “Bellum Judaicum” 6.1.1, 6.2.7 ">Refs 1st c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>πύλας</span> <span class='asgreek'>==διεγείρω==ειρομένας</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>ὕψος</span> <span class='asgreek'>πηχῶν</span> <span class='asgreek'>ἑβδομήκοντα</span> [<a href="javascript:void(0)" title=" LXX.Jdt.1.4; τοῖς πηδήμασι πρὸς οὐρανὸν ==διεγείρω==ειρεσθε μἐσον 5th-6th c.AD: Procopius Gazaeus Rhetor ἠθοπ.ποιμένος p.137B. ">LXX+5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.11.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.11.11]]
 </sub></small>

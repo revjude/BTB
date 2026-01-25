@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> generally, <b>rob, plunder</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 565, “Pl.” 165, 4th-3rd c.BC: Diphilus Comicus 32.14, LXX I LXX.Esth.4.24: with \_accusative\_ \_person\_, 5th-6th c.BC: Aristophanes Comicus “Ranae” 1075, 4th c.BC: Demosthenes Orator 9.22 ">LXX+5th c.BC+</a>]; of plagiarists, <span class='asgreek'>λ</span>. <span class='asgreek'>Ὅμηρον</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 11.130 (2nd c.AD(?): Pollianus Epigrammaticus). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.4.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.4.24]]
 </sub></small>

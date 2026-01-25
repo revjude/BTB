@@ -6,5 +6,5 @@
  <b>oppression</b>, [<a href="javascript:void(0)" title=" LXX.Exod.6.7, +others, Aristeas 23. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.6.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.6.7]]
 </sub></small>

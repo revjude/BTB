@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>abuse</b>, [<span class='asgreek'>παιδίσκῃ</span>] uncertain meaning in [<a href="javascript:void(0)" title=" “PSI” 4.406.7 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.8.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.8.13]]
 </sub></small>

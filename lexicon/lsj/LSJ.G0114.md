@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>deal treacherously with, break faith with
 $\quad$ $\quad$<b>\_\_II</b> Grammars, <b>reject as spurious</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Dinarcho” 9, 3rd c.AD(?): Diogenes Laertius 7.34, etc. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>absolutely</i>, <b>to be unsuitable, unfit</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Diphilus Comicus 1 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.2.17]] ☩ [[Gal.3.15]] ☩ [[Isa.1.2]] ☩ [[Mark.6.26]] ☩ [[1Kgs.12.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.2.17]] ☩ [[Gal.3.15]] ☩ [[LXX.Isa.1.2]] ☩ [[Mark.6.26]] ☩ [[LXX.1Kgs.12.19]]
 </sub></small>

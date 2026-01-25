@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>abundance,</b> [<a href="javascript:void(0)" title=" LXX.Prov.3.10, “Geoponica” 1.10.8 (\_plural\_). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.16.3]] ☩ [[Prov.3.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.16.3]] ☩ [[LXX.Prov.3.10]]
 </sub></small>

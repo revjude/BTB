@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>undigested,</b> <span class='asgreek'>σιτία</span>[<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ παθῶν” 24.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.25.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.25.5]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <b>smite, slaughter</b>, [<a href
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.c</b> <b>afflict, visit</b>, <span class='asgreek'>πατάξαι</span> <span class='asgreek'>σε</span> <span class='asgreek'>Κύριος</span> <span class='asgreek'>παραπληξίᾳ</span>[<a href="javascript:void(0)" title="LXX.Deut.28.28, compare “IG” 12(9).1179.23 (Euboea, 2nd c.AD). ">LXX+2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <span class='asgreek'>ἄτῃ</span> <span class='asgreek'>πατάξαι</span> <span class='asgreek'>θυμόν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 1097 ">Refs 5th c.BC+</a>]; <span class='asgreek'>πόθος</span> <span class='asgreek'>καρδίαν</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 54 (also μοι κραδίην ἐπάταξε ὅττι.. Thgn.[same place]) ">Refs 5th c.BC+</a>]; <span class='asgreek'>πατάξω</span>.. <span class='asgreek'>μεγάλοις</span> <span class='asgreek'>ποτηρίοις</span> [<a href="javascript:void(0)" title=" 4th c.BC: Timocles Comicus 20; compare παίω 1.6. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.9.43]] ☩ [[1Kgs.17.9]] ☩ [[Deut.28.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.9.43]] ☩ [[LXX.1Kgs.17.9]] ☩ [[LXX.Deut.28.28]]
 </sub></small>

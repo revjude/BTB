@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> of persons, <b>purify</b>, <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>ἁμαρτίας</span> [<a href="javascript:void(0)" title=" LXX.Sir.38.10; ἀπὸ παντὸς μολυσμοῦ NT.2Cor.7.1; τὴν συνείδησιν ἀπὸ νεκρῶν ἔργων NT.Heb.9.14 ">LXX+NT</a>]; <b>cleanse</b> from leprosy, [<a href="javascript:void(0)" title=" NT.Matt.8.2 (and in \_passive\_, of the disease, [prev. work] 3):—">NT</a>]<i>passive</i>, -<span class='asgreek'>ιζέστω</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>γυναικός</span> <span class='asgreek'>κτλ</span>. [<a href="javascript:void(0)" title=" “IG” 22.1366.4, compare 1365. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.9.14]] ☩ [[Exod.29.36]] ☩ [[Matt.23.25]] ☩ [[Acts.10.15]] ☩ [[2Cor.7.1]] ☩ [[Heb.9.14]] ☩ [[Matt.8.2]]
+<small><sub>LSJ Scripture Refs: [[Heb.9.14]] ☩ [[LXX.Exod.29.36]] ☩ [[Matt.23.25]] ☩ [[Acts.10.15]] ☩ [[2Cor.7.1]] ☩ [[Heb.9.14]] ☩ [[Matt.8.2]]
 </sub></small>

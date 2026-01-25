@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>departure, disappearance,</b> [<a href="j
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>distinguishing,</b> with <i>genitive</i>, [<a href="javascript:void(0)" title=" 6th c.AD: Elias Philosophus “in Aristotelis Categorias commentaria - pars” 119.7. ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>distance, </b> [<a href="javascript:void(0)" title=" 3rd c.BC: Archimedes Geometra “ψαμμίτης” 1.5.">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.22.22]] ☩ [[2Thess.2.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.22.22]] ☩ [[2Thess.2.3]]
 </sub></small>

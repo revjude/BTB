@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>not clipped</b> or <b>circumscribed,</b> <span class='asgreek'>φύσις</span>[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.495c.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.17.14]] ☩ [[Acts.7.51]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.17.14]] ☩ [[Acts.7.51]]
 </sub></small>

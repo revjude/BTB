@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>image</b> of Emperor on standard, [<a href="java
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>σῆμα</span>} [<a href="javascript:void(0)" title=" 5 (on shield), Scholia 5th-6th c.BC: Aristophanes Comicus “Ranae” 963. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>σημεῖον</span>, <span class='asgreek'>διαξέσας</span> <span class='asgreek'>==σημαία==ς</span>} (on stone) [<a href="javascript:void(0)" title=" “IG” 7.3073.138 (from Lebadea). (The spellings ==σημαία== as in “IG” [same place], “UPZ” 18.5 (2nd c.BC), and good Mss. of 2nd c.BC: Polybius Historicus (see. vol. 4p.xxi 5th c.BC: Bacchylides Lyricus -W.), 1st c.BC: Dionysius Halicarnassensis 8.64, 9.13, +others, 1st c.BC: Diodorus Siculus Historicus 20.90, and σημέα as in “UPZ” 14.23, “Sammelb.” [same place], “Mon.Anc.” [prev. cited], “Abh.Berl.Akad.” 1932 (5).41 (Pergam., 2nd c.AD), are probably the only early spellings: σημαία which is found in 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fabius Maximus” 12 and as variant in 2nd c.BC: Polybius Historicus, 1st c.BC: Dionysius Halicarnassensis 8.65, +others, is probably \_falsa lectio\_ for{σημέα}.) ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.30.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.30.17]]
 </sub></small>

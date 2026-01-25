@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>worship idolatrous
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>commit adultery</b>, [<a href="javascript:void(0)" title=" 6th c.BC: Xenophanes Poeta Philosophus 11.3; ἐμοίχευσάς τι 5th-6th c.BC: Aristophanes Comicus “Nubes” 1076, compare 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.1.5, 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1129b21. ">Refs 6th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, in <i>future</i> <i>middle</i> (in <i>passive</i> sense), <span class='asgreek'>οὐ</span> <span class='asgreek'>==μοιχεύω==εύσεταί</span> <span class='asgreek'>μου</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>φιλήματα</span> her kisses <b>shall</b> not <b>be adulterously stolen</b> from me, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Achilles Tatius Astronomus 4.8. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.3.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.3.9]]
 </sub></small>

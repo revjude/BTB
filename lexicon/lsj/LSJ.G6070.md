@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of an army, <b>encamp</b>, [<a href="java
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> of guests at table, <b>take</b> their <b>places</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.615d. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>advance</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 11.23.5 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>εἰς</span>.. [<a href="javascript:void(0)" title=" [prev. author] 5.14.9, 29.19.8. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.15.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.15.27]]
 </sub></small>

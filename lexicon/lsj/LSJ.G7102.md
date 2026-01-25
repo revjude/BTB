@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to be a member of the Assembly,</b> <span
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>summon to an assembly, convene,</b> <span class='asgreek'>τοὺς</span> <span class='asgreek'>αὑτοῦ</span> <span class='asgreek'>στρατιώτας</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aeneas Tacticus 9.1; λαόν 1st c.BC: Diodorus Siculus Historicus 21.16; συναγωγήν LXX.Lev.8.3, +others">LXX+4th c.BC+</a>]:—<i>passive</i>, <i>to be called together,</i>[<a href="javascript:void(0)" title="[prev. work] LXX.Jer.33.9, +others ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <span class='asgreek'>τινὰ</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἑαυτὸν</span> <span class='asgreek'>ἐ</span>. <b>summon</b> considerations before one's mind, [<a href="javascript:void(0)" title=" 4th-5th c.AD: Eunapius Historicus “Fragmenta Historica - HGM” p.210D. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.8.3]] ☩ [[Jer.33.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.8.3]] ☩ [[LXX.Jer.33.9]]
 </sub></small>

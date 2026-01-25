@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>μισθοῦ</span> <b>deduct</b> on account of wages, [<a href="javascript:void(0)" title=" “IG” 4.1508 A 8 (Epid.).">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.27.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.27.18]]
 </sub></small>

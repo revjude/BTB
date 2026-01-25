@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of hair, <b>fall off</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 15.18 ">Refs 2nd c.AD+</a>]; of persons, <b>to be bald</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Plutus” 266, 3rd c.AD(?): Longus Scriptor Eroticus 3.32, compare 2nd c.AD: Galenus Medicus 16.88; μ. τὰς τρίχας 1st-2nd c.AD: Sotion Paradoxographus p.186 W.; ἐάν τινι μαδήσῃ ἡ κεφαλή LXX.Lev.13.40: \_absolutely\_, ἐὰν μαδήσῃ">LXX+5th c.BC+</a>] if <b>there is baldness</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.189. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.13.40]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.13.40]]
 </sub></small>

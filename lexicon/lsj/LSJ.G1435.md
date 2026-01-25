@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> in <i>plural</i>, <b>good qualities, talents
 $\quad$ $\quad$<b>\_\_II</b> <b>front part of palm</b>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.144. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>hand's breadth, palm</b>, as a measure of length, [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Theriaca” 398, 1st c.BC: Vitruvius Scriptor de Architectura Latinus 2.3.3, “Milet.” 7.57 (from Didyma)">Refs 2nd c.BC+</a>]; compare <span class='asgreek'>δεκάδωρος</span>.
 
-<small><sub>LSJ Scripture Refs: [[Gen.4.4]] ☩ [[Mark.7.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.4.4]] ☩ [[Mark.7.11]]
 </sub></small>

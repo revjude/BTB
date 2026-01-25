@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>sealed copy,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 12(7).237.69 (Amorgos, 1st c.BC). ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>stamped receipt</b> for goods taken, [<a href="javascript:void(0)" title=" “PRev.Laws” 31.19 (3rd c.BC).">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.22.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.22.24]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>regnal year</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>πέμπτον</span> <span class='asgreek'>ἔ</span>. <span class='asgreek'>Δομιτιανοῦ</span> [<a href="javascript:void(0)" title=" “POxy.” 477.8 (2nd c.AD)">Refs 2nd c.AD+</a>]. (<b>ϝ<span class='asgreek'>έτος</span></b> [<a href="javascript:void(0)" title=" “SIG” 9.2 (Olympia, 6th c.BC), “Berl.Sitzb.” 1927.8 (\_Locrian dialect\_, 5th c.BC), “Inscription Cyprian dialect” 135.1 H., “Tab.Heracl.” ">Refs 6th c.BC+</a>][same place]; cf. Latin <i>vetus.</i>)
 
-<small><sub>LSJ Scripture Refs: [[Luke.2.41]] ☩ [[Lev.25.50]]
+<small><sub>LSJ Scripture Refs: [[Luke.2.41]] ☩ [[LXX.Lev.25.50]]
 </sub></small>

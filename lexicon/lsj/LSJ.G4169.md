@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_IV</b> simply, <b>what, which?</b> especially of place or 
 $\quad$ $\quad$<b>\_\_V</b> ={<span class='asgreek'>πότερος</span>}, [<a href="javascript:void(0)" title=" “Anecdota Graeca - MSS. Bibl. Oxon.” 1.284. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <i>adverb</i> <span class='asgreek'>ποίως</span> Hdn.Gr.2.925, [<a href="javascript:void(0)" title=" Bacchius Musicus “Εἰσαγωγὴ τέχνης μουσικῆς” 93 ">Refs</a>]. [The first syllable is sometimes short in Trag. and Comedy texts, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 911, 5th-6th c.BC: Aristophanes Comicus “Vespae” 1369.] ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.4.7]] ☩ [[Matt.21.23]] ☩ [[2Kgs.15.2]] ☩ [[1Kgs.13.12]] ☩ [[Acts.23.34]] ☩ [[Matt.24.42]]
+<small><sub>LSJ Scripture Refs: [[Acts.4.7]] ☩ [[Matt.21.23]] ☩ [[LXX.2Kgs.15.2]] ☩ [[LXX.1Kgs.13.12]] ☩ [[Acts.23.34]] ☩ [[Matt.24.42]]
 </sub></small>

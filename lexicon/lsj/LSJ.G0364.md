@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>memorial sacrifice,</b> [<a href="javascript:void(0)" title=" LXX.Num.10.10, cf. NT.Luke.22.19. ">LXX+NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>παλίνδρομος</span> <span class='asgreek'>ἀ</span>., of the moon, [<a href="javascript:void(0)" title=" 2nd c.AD: Secundus Gnomologus “Sententiae - FPG” 6.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.10.10]] ☩ [[Luke.22.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.10.10]] ☩ [[Luke.22.19]]
 </sub></small>

@@ -6,5 +6,5 @@
  = {<span class='asgreek'>διαβούλιον</span>}, [<a href="javascript:void(0)" title=" LXX.Ps.5.10, LXX.Hos.11.6 ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.5.10]] ☩ [[Hos.11.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.5.10]] ☩ [[LXX.Hos.11.6]]
 </sub></small>

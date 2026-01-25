@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>lay low</b>, [<a href="javascript:void(0)" titl
 $\quad$ $\quad$<b>\_\_IV</b> <b>layer</b>, in <i>passive</i> of vines, [<a href="javascript:void(0)" title="“Gp.” 5.17.11. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <span class='asgreek'>βοτάνιον</span> <span class='asgreek'>κατὰ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἐδάφους</span> -<span class='asgreek'>εστρωμένον</span> <b>prostrate</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 2.130. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.12.23]] ☩ [[1Cor.10.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.12.23]] ☩ [[1Cor.10.5]]
 </sub></small>

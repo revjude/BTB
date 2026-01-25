@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>turn</b> of events, [<a href="javascript:void(0)" title=" LXX.1Kgs.12.15. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.12.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.12.15]]
 </sub></small>

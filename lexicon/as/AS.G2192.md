@@ -5,7 +5,7 @@ $\quad$ <span class="asbullet"><span class="asbold">1.</span> <span class="asita
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to hold</span>, as, in the hand: [[Rev.5.8|Re 5:8]] [[Rev.14.6|14:6]], al.; <span class="asgreek">ἐν τ. χειρί</span>, [[Rev.1.16|Re 1:16]] [[Rev.10.2|10:2]], al.;</span>
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(b)</span> of arms and clothing, = <span class="asref"><span class="asgreek">φέρω</span></span>, <span class="asref"><span class="asgreek">φορέω</span></span>, <span class="asitalic">to bear</span>, <span class="asitalic">wear</span>: [[Matt.3.4|Mt 3:4]] [[Matt.22.12|22:12]], al.; so freq. pres. ptcp. (LS, s.v., A, I, 6; Bl., § 74, 2), [[Mark.11.13|Mk 11:13]], [[John.18.10|Jo 18:10]], [[Rev.9.17|Re 9:17]], al.;</span>
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(c)</span> of a woman, <span class="asgreek">ἐν γαστρὶ ἔ</span> (<span class="asgreek">κοίτην ἔ.</span>), <span class="asitalic">to be with child</span>: [[Mark.13.17|Mk 13:17]], [[Rom.9.10|Ro 9:10]];</span>
-$\quad$$\quad$ <span class="asbullet"><span class="asbold">(d)</span> <span class="asitalic">to hold fast</span>, <span class="asitalic">keep</span>: [[Luke.19.20|Lk 19:20]]; metaph., of the mind and conduct, [[Mark.16.8|Mk 16:8]] (cf. [[Job.21.6|Jb 21:6]], [[Isa.13.8|Is 13:8]]; Deiss., <span class="asitalic">BS</span>, 293; Field, <span class="asitalic">Notes</span>, 44 f.), [[John.14.21|Jo 14:21]], [[Rom.1.28|Ro 1:28]], [[1Tim.3.9|I Ti 3:9]], [[2Tim.1.13|II Ti 1:13]], [[Rev.6.9|Re 6:9]], al.;</span>
+$\quad$$\quad$ <span class="asbullet"><span class="asbold">(d)</span> <span class="asitalic">to hold fast</span>, <span class="asitalic">keep</span>: [[Luke.19.20|Lk 19:20]]; metaph., of the mind and conduct, [[Mark.16.8|Mk 16:8]] (cf. [[LXX.Job.21.6|Jb 21:6]], [[LXX.Isa.13.8|Is 13:8]]; Deiss., <span class="asitalic">BS</span>, 293; Field, <span class="asitalic">Notes</span>, 44 f.), [[John.14.21|Jo 14:21]], [[Rom.1.28|Ro 1:28]], [[1Tim.3.9|I Ti 3:9]], [[2Tim.1.13|II Ti 1:13]], [[Rev.6.9|Re 6:9]], al.;</span>
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(e)</span> <span class="asitalic">to involve</span>: [[Heb.10.35|He 10:35]]<span class="assuperscript">(LXX)</span>, [[Jas.1.4|Ja 1:4]], [[John.4.18|I Jo 4:18]];</span>
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(f)</span> = Lat. <span class="aslatin">habere</span> (Bl., § 34, 5; 73, 5), <span class="asitalic">to hold</span>, <span class="asitalic">consider</span>: c. acc. et predic. ptcp., [[Luke.14.18|Lk 14:18]]; c. acc., seq. <span class="asgreek">ὡς</span>, [[Matt.14.5|Mt 14:5]]; <span class="asgreek">εἰς</span> (Hebraism), [[Matt.21.46|Mt 21:46]]; on (Bl., § 70, 2), [[Mark.11.32|Mk 11:32]].</span>
 $\quad$ <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to have</span>, <span class="asitalic">possess</span>;</span>
@@ -25,8 +25,8 @@ $\quad$$\quad$ <span class="asbullet"><span class="asbold">III.</span> Mid., <sp
 
 | Book | Refs |
 | - | - |
-| Job | [[Job.21.6\|21:6]] |
-| Isaiah | [[Isa.13.8\|13:8]] |
+| Job | [[LXX.Job.21.6\|21:6]] |
+| Isaiah | [[LXX.Isa.13.8\|13:8]] |
 | Matthew | [[Matt.3.4\|3:4]] · [[Matt.3.9\|3:9]] · [[Matt.4.24\|4:24]] · [[Matt.5.23\|5:23]] · [[Matt.9.36\|9:36]] · [[Matt.13.12\|13:12]] · [[Matt.14.5\|14:5]] · [[Matt.18.25\|18:25]] · [[Matt.19.15\|19:15]] · [[Matt.19.22\|19:22]] · [[Matt.21.46\|21:46]] · [[Matt.22.12\|22:12]] · [[Matt.25.29\|25:29]] |
 | Mark | [[Mark.1.38\|1:38]] · [[Mark.5.23\|5:23]] · [[Mark.10.22\|10:22]] · [[Mark.11.13\|11:13]] · [[Mark.11.25\|11:25]] · [[Mark.11.32\|11:32]] · [[Mark.13.17\|13:17]] · [[Mark.14.8\|14:8]] · [[Mark.16.8\|16:8]] · [[Mark.16.18\|16:18]] |
 | Luke | [[Luke.11.5\|11:5]] · [[Luke.12.4\|12:4]] · [[Luke.12.19\|12:19]] · [[Luke.12.50\|12:50]] · [[Luke.13.33\|13:33]] · [[Luke.14.18\|14:18]] · [[Luke.19.20\|19:20]] |

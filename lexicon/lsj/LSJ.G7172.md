@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>effusion</b> of pus, [<a href="javascript:void(0)" title=" 3rd c.BC: Erasistratus Medicus cited in 2nd c.AD: Galenus Medicus 8.318. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>sluice</b> or <b>drain</b>, [<a href="javascript:void(0)" title=" “CPR” 176.16 (3rd c.AD), +others ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.4.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.4.12]]
 </sub></small>

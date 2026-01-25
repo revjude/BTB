@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>clot</b> of blood, [<a href="javascript:void(0)"
 $\quad$ $\quad$<b>\_\_III</b> <b>altar</b>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>στιβάς</span>} [<a href="javascript:void(0)" title="(5th c.AD: Cypria), [prev. author] (Barbarous word \_accusative\_ to 2nd c.AD: Aelius Dionysius Grammaticus “fragment” 93.) ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.17.9]] ☩ [[Gen.31.46]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.17.9]] ☩ [[LXX.Gen.31.46]]
 </sub></small>

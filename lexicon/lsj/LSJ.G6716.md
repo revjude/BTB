@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>brother-in-law</b>, i.e. <b>sister's husband</b>
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>πενθερός</span>}, <b>father-in-law</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hippolytus” 635, “Andr.” 641, LXX.Exod.3.1. ">LXX+5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>Doric dialect</i> and <i>Aeolic dialect</i>, <b>bridegroom, wooer</b>, [<a href="javascript:void(0)" title=" 7th-6th c.BC: Sappho Lyrica 103, 5th c.BC: Pindarus Lyricus “P.” 9.116, 3rd c.BC: Theocritus Poeta Bucolicus 18.49, 15.129, 4th-3rd c.BC: Aratus Epicus 248 ">Refs 7th c.BC+</a>]. (Cf. Sanskrit <i>jārá-</i> (from <b>ĝ[mmacrnull]ró-</b> 'lover'.)
 
-<small><sub>LSJ Scripture Refs: [[Exod.3.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.3.1]]
 </sub></small>

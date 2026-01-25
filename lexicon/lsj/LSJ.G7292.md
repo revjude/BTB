@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>err, do wrong,</b> <i>absolutely</i>, [<a
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be mismanaged, to be a failure,</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἐξαμαρτανομένη</span> <span class='asgreek'>πρᾶξις</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Protagoras” 357d; ἐξημαρτήθη τὰ νοσήματα 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 4.2; πολιτεῖαι ἐξημαρτημέναι 4th c.BC: Aristoteles Philosophus “Politica” 1289b9. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>transitive</i>, <b>cause to sin,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.15.26, +others ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.15.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.15.26]]
 </sub></small>

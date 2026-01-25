@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>visit, try, afflict,</b> <span class='asgreek'>τινα</span> <span class='asgreek'>μεγάλοις</span> <span class='asgreek'>ἐτασμοῖς</span>[<a href="javascript:void(0)" title="LXX.Gen.12.17. (fragment ἐτός (B) as δοκιμάζω from δόκιμος.) ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Chr.29.17]] ☩ [[Gen.12.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.29.17]] ☩ [[LXX.Gen.12.17]]
 </sub></small>

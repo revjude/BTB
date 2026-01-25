@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>passive</i>, <b>to be spread abroad,</b> [<a href="javascript:void(0)" title=" LXX.Josh.15.9. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.15.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.15.9]]
 </sub></small>

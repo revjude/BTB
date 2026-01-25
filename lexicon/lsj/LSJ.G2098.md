@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>good tidings, good news</b>, in <i>plural</i>, [<a href="javascript:void(0)" title=" LXX.2Kgs.4.10, 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Epistulae ad Atticum” 2.3.1, 13.40.1, “Inscription Prien.” 105.40 (1st c.BC): \_sing.\_, 1st c.AD: Josephus Historicus “Bellum Judaicum” 2.17.4, 2nd c.AD: Lucianus Sophista “Asin.” 26, 2nd c.AD: Appianus Historicus “Bella Civilia” 3.93, “Sammelb.” 421 (3rd c.AD). ">LXX+1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in Christian sense, <b>the gospel,</b> [<a href="javascript:void(0)" title="NT.Gal.1.11, etc. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.4.10]] ☩ [[Gal.1.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.4.10]] ☩ [[Gal.1.11]]
 </sub></small>

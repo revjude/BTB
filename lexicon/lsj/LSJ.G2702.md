@@ -22,5 +22,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>enter the lists</b>, like Latin <i>de
 $\quad$ $\quad$<b>\_\_IV</b> <b>bring against</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>διαβολὴν</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τινός</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rhetorica ad Alexandrum” 1437a19. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <i>intransitive</i> in <i>active</i>, <b>to be prone, inclined</b>, <span class='asgreek'>κ</span>. <span class='asgreek'>εἰς</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>γυναῖκας</span> [<a href="javascript:void(0)" title=" “POxy.” 465.146. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.37.2]] ☩ [[Gen.37.2]] ☩ [[Acts.20.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.37.2]] ☩ [[LXX.Gen.37.2]] ☩ [[Acts.20.9]]
 </sub></small>

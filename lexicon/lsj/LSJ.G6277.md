@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>throw up,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>λίκνοις</span> <span class='asgreek'>==ἀναβράσσω==αττόμενα</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 368b29">Refs 4th c.BC+</a>]; especially of the sea, <span class='asgreek'>ἅλμη</span> <span class='asgreek'>==ἀναβράσσω==ασθεῖσα</span> spray <b>dashed up,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 2.566, cf. LXX.Wis.10.19. ">LXX+3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>jump,</b> of chariot,[<a href="javascript:void(0)" title="LXX.Nah.3.2.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Nah.3.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Nah.3.2]]
 </sub></small>

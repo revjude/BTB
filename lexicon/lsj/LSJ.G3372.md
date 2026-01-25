@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>longitude</b>, [<a href="javascript:void(
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> in Prosody, <b>length</b>, opposed to <span class='asgreek'>βραχύτης</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Poetica” 1456b32, 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 15: \_plural\_, μήκη καὶ βραχύτητας προσῆπτε 5th-6th c.BC: Plato Philosophus “Respublica” 400b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>first line of phalanx</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Asclepiodotus Tacticus “Tact.” 2.5. (From same Root as μακρός. Hence μήκιστος, \_superlative\_ of μακρός.) ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.12.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.12.6]]
 </sub></small>

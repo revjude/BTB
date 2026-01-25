@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>treat haughtily</b> or <b>contemptuously,</b> <span class='asgreek'>τινί</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Cyclops” 588, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Themistocles” 18, 4th c.AD: Alciphro Epistolographus 1.35 ">Refs 5th c.BC+</a>]; <b>exult over,</b> <span class='asgreek'>τινὸς</span> <span class='asgreek'>συμφοραῖς</span> [<a href="javascript:void(0)" title=" 4th c.AD: Julianus Imperator ">Refs 4th c.AD+</a>]<b>ad Ath.</b>279c; <span class='asgreek'>ἔν</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" LXX.Hab.1.10: \_absolutely\_, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Alcibiades” 23 ">LXX+1st c.AD+</a>]:—<i>passive</i>, <b>to be made a mock of,</b> [<a href="javascript:void(0)" title=" [prev. author] “Lys.” 6, “Caes.” 64. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>use</b> or <b>abuse at pleasure,</b> <span class='asgreek'>τοῖς</span> <span class='asgreek'>νόμοις</span>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>συνοῦσι</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Abd.” 10, “Merc.Cond.” 35, +others ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.2.13]] ☩ [[Hab.1.10]]
+<small><sub>LSJ Scripture Refs: [[2Pet.2.13]] ☩ [[LXX.Hab.1.10]]
 </sub></small>

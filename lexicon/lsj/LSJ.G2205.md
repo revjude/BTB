@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>pride, honour, glory</b>, [<a href="javascript:v
 $\quad$ $\quad$<b>\_\_III</b> <b>spirit</b>, <span class='asgreek'>τῆς</span> <span class='asgreek'>πολιτείας</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.27.8 ">Refs 2nd c.BC+</a>]: <i>plural</i>, <b>tastes, interests</b>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>διαφόρων</span> <span class='asgreek'>ἐπιτηδευμάτων</span>, <span class='asgreek'>βίων</span>, <span class='asgreek'>ζήλων</span>, <span class='asgreek'>ἡλικιῶν</span>, [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 7.4. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> especially in Lit. Crit., <b>style</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>Ἀσιανοῦ</span> <span class='asgreek'>λεγομένου</span> <span class='asgreek'>ζήλου</span> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 14.1.41, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Antonius” 2. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.3.6]] ☩ [[2Kgs.19.31]] ☩ [[1Cor.14.1]] ☩ [[Heb.10.27]]
+<small><sub>LSJ Scripture Refs: [[Phil.3.6]] ☩ [[LXX.2Kgs.19.31]] ☩ [[1Cor.14.1]] ☩ [[Heb.10.27]]
 </sub></small>

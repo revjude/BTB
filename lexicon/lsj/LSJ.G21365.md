@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>travail, anguish,</b> [<a
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>fruit of</b> the mind's <b>travail,</b> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἐμῆς</span> <span class='asgreek'>ὠ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Dem.Enc.” 25; λόγων ὠδῖνες 4th c.AD: Himerius Sophista “Orationes” 18.3; ἐπέων 3rd-4th c.AD: Tryphiodorus Epicus 117. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>ὠδῖνες</span> <span class='asgreek'>θανάτου</span>, <span class='asgreek'>ᾅδου</span>, the <b>bonds</b> of death, [<a href="javascript:void(0)" title=" LXX.2Kgs.22.6, LXX.Ps.17.5, 6 ">LXX</a>] (due to confusion of Heb. <b>[hudot]ēbel</b> 'pang' with <b>[hudot]èbel</b> 'cord'),compare [<a href="javascript:void(0)" title=" NT.Acts.2.24. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.37.3]] ☩ [[1Thess.5.3]] ☩ [[Exod.15.14]] ☩ [[Matt.24.8]] ☩ [[2Kgs.22.6]] ☩ [[Ps.17.5]] ☩ [[Acts.2.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.37.3]] ☩ [[1Thess.5.3]] ☩ [[LXX.Exod.15.14]] ☩ [[Matt.24.8]] ☩ [[LXX.2Kgs.22.6]] ☩ [[LXX.Ps.17.5]] ☩ [[Acts.2.24]]
 </sub></small>

@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> generally, <b>move to and fro</b>, [<a hr
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, <b>shake</b> something <b>of one's own, from oneself</b>, etc., <span class='asgreek'>σεισαμένας</span> <span class='asgreek'>πτερὰ</span> <span class='asgreek'>ματρός</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 13.13; σ. γυίων ἄπο νήχυτον ἅλμην 3rd c.BC: Apollonius Rhodius Epicus 4.1367; σ. πλοκαμῖδας “Anthologia Graeca” 5.272 (6th c.AD: Agathias Historicus et Epigrammaticus). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>shake oneself, shake, stir</b>, <span class='asgreek'>Ἥρη</span> <span class='asgreek'>σείσατο</span> <span class='asgreek'>εἰνὶ</span> <span class='asgreek'>θρόνῳ</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 8.199; ἐσείσατο δάφνινος ὄρπηξ 3rd c.BC: Callimachus Epicus “Hymnus in Apollinem” 1. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.10.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.10.14]]
 </sub></small>

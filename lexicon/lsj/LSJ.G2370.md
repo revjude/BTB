@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>smoke, fumigate</b>, <span class='asgreek'>τί</span> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" “PMag.Par.” 1.2970 ">Refs</a>]:—<i>middle</i>, Hp.[same places]:—<i>passive</i>, <span class='asgreek'>θυμιώμεναι</span> <span class='asgreek'>μέλισσαι</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 623b20. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>smoke</b>, <span class='asgreek'>ἄνθρακες</span> <span class='asgreek'>θυμιῶντες</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Igne” 75. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.22.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.22.17]]
 </sub></small>

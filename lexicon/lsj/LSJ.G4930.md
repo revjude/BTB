@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>unjust gain</b>, [<a href="javascript:void(0)" t
 $\quad$ $\quad$<b>\_\_V</b> in Grammar, <b>completed action</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 214, 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 205.14, “Etymologicum Magnum” 472.23. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> ={<span class='asgreek'>ἐντελέχεια</span>}, <b>reality</b>, [<a href="javascript:void(0)" title=" 1st c.BC(?): Ocellus Lucanus Philosophus 2.3. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.11.12]] ☩ [[Matt.13.39]] ☩ [[Judg.20.40]] ☩ [[1Kgs.8.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.11.12]] ☩ [[Matt.13.39]] ☩ [[LXX.Judg.20.40]] ☩ [[LXX.1Kgs.8.3]]
 </sub></small>

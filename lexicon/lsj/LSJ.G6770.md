@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>future</i> <span class='asgreek'>γρύσει</span>, ={<span class='asgreek'>τήξει</span>} <b>will liquefy</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 876b18. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.11.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.11.7]]
 </sub></small>

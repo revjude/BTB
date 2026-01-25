@@ -6,5 +6,5 @@
  <b>in four rows</b> or <b>courses</b>, [<a href="javascript:void(0)" title=" LXX.Exod.28.17, 36.17 (39.10). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.17]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>atonement</b>, <span class='asgreek'>τ�
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> generally, <b>recompense</b>, <span class='asgreek'>==λύτρον==ον</span> <span class='asgreek'>καμάτων</span> for toil, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “I.” 8(7).1; συμφορᾶς [prev. author] “O.” 7.77. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> a plant, ={<span class='asgreek'>λυσιμάχειος</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.3. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.30.12]] ☩ [[Matt.20.28]] ☩ [[Mark.10.45]] ☩ [[Exod.21.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.30.12]] ☩ [[Matt.20.28]] ☩ [[Mark.10.45]] ☩ [[LXX.Exod.21.30]]
 </sub></small>

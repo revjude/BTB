@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> in Roman Law, <b>put a formal question</b> i
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_5.b</b> hence later, <b>guarantee,</b> [<a href="javascript:void(0)" title=" PIand. 48.9 (6th c.AD). ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>ask a further question</b>, [<a href="javascript:void(0)" title="“SIG” 953.49 (Calymna, 2nd c.BC), +others ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.18.5]] ☩ [[2Kgs.11.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.18.5]] ☩ [[LXX.2Kgs.11.7]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>throw headlong down</b>, <span class='asgreek'>ἐκ</span> <span class='asgreek'>τριηρέων</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.1.31; ἀπὸ τῶν ἵππων 2nd c.BC: Polybius Historicus 3.116.12; ἀπὸ τοῦ πύργου 1st c.BC: Diodorus Siculus Historicus 4.31 ">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.4.7. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.4.29]] ☩ [[2Chr.25.12]]
+<small><sub>LSJ Scripture Refs: [[Luke.4.29]] ☩ [[LXX.2Chr.25.12]]
 </sub></small>

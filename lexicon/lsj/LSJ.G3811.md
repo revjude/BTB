@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>absolutely</i>, <b>give instruction, t
 $\quad$ $\quad$<b>\_\_III</b> <b>correct, discipline</b>, <span class='asgreek'>τοὐμὸν</span> <span class='asgreek'>ἦθος</span> <span class='asgreek'>π</span>. <span class='asgreek'>νοεῖς</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 595; διαίτῃ τὴν ψυχὴν ἐπαίδευσε καὶ τὸ σῶμα 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.3.5 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ὕβρις</span> <span class='asgreek'>πε==παιδεύω==ευμένη</span> <b>chastened</b> (i.e. <b>well-bred</b>) insolence, Aristotle's definition of <span class='asgreek'>εὐτραπελία</span>, [<a href="javascript:void(0)" title=" “Rh.” 1389b11. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>chastise, punish</b>, [<a href="javascript:void(0)" title=" LXX.Hos.7.12, NT.Luke.23.16, +others ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Hos.7.12]] ☩ [[Luke.23.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hos.7.12]] ☩ [[Luke.23.16]]
 </sub></small>

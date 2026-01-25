@@ -6,5 +6,5 @@
  <b>long journey,</b> [<a href="javascript:void(0)" title=" LXX.Isa.57.10. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.57.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.57.10]]
 </sub></small>

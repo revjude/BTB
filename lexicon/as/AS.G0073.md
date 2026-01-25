@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀγών</span></span>, <span class="asgreek">-ῶνος, ὁ</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">ἄγω</span></span>),</span>  <span class="asseptuagint">\[in LXX: [[Isa.7.13|Is 7:13]] (<span class="ashebrew">לאה</span> <small><sup>[[H3811]]</sup></small>), [[Esth.4.17|Es 4:17]], [[Wis.4.2|Wi 4:2]]  [[Wis.10.12|10:12]], II Mac<span class="assubscript">6</span>, IV Mac<span class="assubscript">5</span>\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀγών</span></span>, <span class="asgreek">-ῶνος, ὁ</span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">ἄγω</span></span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Isa.7.13|Is 7:13]] (<span class="ashebrew">לאה</span> <small><sup>[[H3811]]</sup></small>), [[LXX.Esth.4.17|Es 4:17]], [[Wis.4.2|Wi 4:2]]  [[Wis.10.12|10:12]], II Mac<span class="assubscript">6</span>, IV Mac<span class="assubscript">5</span>\*;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">a gathering</span>, esp. for games.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">a place of assembly</span>.</span>
@@ -10,8 +10,8 @@ $\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asit
 
 | Book | Refs |
 | - | - |
-| Esther | [[Esth.4.17\|4:17]] |
-| Isaiah | [[Isa.7.13\|7:13]] |
+| Esther | [[LXX.Esth.4.17\|4:17]] |
+| Isaiah | [[LXX.Isa.7.13\|7:13]] |
 | Philippians | [[Phil.1.30\|1:30]] |
 | Colossians | [[Col.2.1\|2:1]] |
 | 1 Thessalonians | [[1Thess.2.2\|2:2]] |

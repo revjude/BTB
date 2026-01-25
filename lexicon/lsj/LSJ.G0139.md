@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.III.2</b> <b>commission</b>, <span class='asgree
 $\quad$ $\quad$ $\quad$<b>\_\_B.III.3</b> <b>freewill offering</b>, opposed to <b>vow</b>, [<a href="javascript:void(0)" title=" LXX.Lev.22.18, +others ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.III.4</b> <b>bid</b> at auction, <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀμείνονα</span> <span class='asgreek'>αἵ</span>. <span class='asgreek'>διδόντι</span> <span class='asgreek'>παραδοθῆναι</span>[<a href="javascript:void(0)" title=" “POxy.” 716.22 (2nd c.AD), compare 1630.8 (3rd c.AD).">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.5.17]] ☩ [[Lev.22.18]]
+<small><sub>LSJ Scripture Refs: [[Acts.5.17]] ☩ [[LXX.Lev.22.18]]
 </sub></small>

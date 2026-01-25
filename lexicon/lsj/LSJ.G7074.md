@@ -6,5 +6,5 @@ Included with: <b> <span class='asgreek'>==ἑκατονταπλασίως==</s
  = {<span class='asgreek'>ἑκατονταπλασίων</span>}, Simp\`.[<a href="javascript:void(0)" title=" “in Ph.” 1115.33">Refs</a>]. <i>adverb</i> <b>-<span class='asgreek'>ίως</span></b>[<a href="javascript:void(0)" title=" LXX.1Chr.21.3. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Chr.21.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.21.3]]
 </sub></small>

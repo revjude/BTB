@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>κ</span>. <span class='asgreek'>τι</span> <span class='asgreek'>περί</span> <span class='asgreek'>τινων</span> <b>evade by quibbling</b>, [<a href="javascript:void(0)" title="“CIG”(add.)4224d10 (from Anticragus). ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>falsify</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “AJ” 8.15.5. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.1.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.1.10]]
 </sub></small>

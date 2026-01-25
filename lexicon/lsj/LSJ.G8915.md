@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>give a share of</b>, <span class='asgreek'>οὐ
 $\quad$ $\quad$<b>\_\_III</b> <b>concede, permit of</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 324.20. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>hand</b> a thing to a person, <span class='asgreek'>δελτάριον</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>Κάτωνι</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cat.Mi.” 24, “Brut.” 5, compare “Ant.” 83. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.29.33]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.29.33]]
 </sub></small>

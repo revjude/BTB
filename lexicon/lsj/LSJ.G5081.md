@@ -7,5 +7,5 @@ Included with: <b> <span class='asgreek'>==τηλαυγῶς==</span>-<span clas
 $\quad$ $\quad$<b>\_\_II</b> of distant objects, <b>far-seen, conspicuous</b>, <span class='asgreek'>σκοπιή</span> [<a href="javascript:void(0)" title=" 6th c.BC: Theognis Elegiacus 550; κορυφά 5th c.BC: Pindarus Lyricus “Pae.” 7.12; φᾶρος 5th c.BC: Bacchylides Lyricus 16.5; ὄχθος 5th c.BC: Sophocles Tragicus “Trachiniae” 524 (Lyric poetry)">Refs 6th c.BC+</a>]; of leprosy, [<a href="javascript:void(0)" title=" LXX.Lev.13.4, +others ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>far-seeing</b>, <span class='asgreek'>αἴσθησις</span>, <span class='asgreek'>ψυχή</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 17, 22 (\_comparative\_). ">Refs 5th c.BC+</a>] <i>adverb</i> -<span class='asgreek'>γῶς</span>, <span class='asgreek'>==τηλαυγῶς==έστερον</span> <span class='asgreek'>ὁρᾶν</span> to see <b>more clearly</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 1.50, compare 1st c.BC-1st c.AD: Strabo Geographus 17.1.30, 1st c.AD: Philo Judaeus 1.540, NT.Mark.8.25.--poetical word, used in late Prose: δηλαυγῶς seems to be a different word. ">NT+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.13.4]] ☩ [[Mark.8.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.13.4]] ☩ [[Mark.8.25]]
 </sub></small>

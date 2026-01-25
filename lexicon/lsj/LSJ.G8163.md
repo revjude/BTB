@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>drink greedily</b>, <span class='asgreek'>αἷμα</span> <span class='asgreek'>λέλαφας</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “fragment” [same place], compare “Epica Alexandrina Adespota” [same place]; οἶνον 2nd c.AD: Athenaeus Epigrammaticus 10.443e:">Refs 5th c.BC+</a>] —also in <i>middle</i>, <span class='asgreek'>λεπαστὴν</span> <span class='asgreek'>λαψαμένοις</span> <b>gulp down</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Pherecrates Comicus [same place] —In 2nd c.AD: Athenaeus Epigrammaticus 8.363a λαπάττειν should be restored for λάπτειν">Refs 5th c.BC+</a>], unless it was an error of the writer, as in [<a href="javascript:void(0)" title=" 12th c.AD: Eustathius Episcopus Thessalonicensis 1413.3. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.7.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.7.5]]
 </sub></small>

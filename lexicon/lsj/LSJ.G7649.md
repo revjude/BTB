@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>wizard</b> (by confusion of Hebrew '<b>ōbh</b> 'necromancer' with '<b>ōbheh</b> 'wishing'), [<a href="javascript:void(0)" title=" LXX.2Kgs.21.6 ">LXX</a>]; ={<span class='asgreek'>ἐγγαστρίμυθος</span>}, [<a href="javascript:void(0)" title=" Cyrilli Glossarium ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mic.7.18]] ☩ [[2Kgs.21.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mic.7.18]] ☩ [[LXX.2Kgs.21.6]]
 </sub></small>

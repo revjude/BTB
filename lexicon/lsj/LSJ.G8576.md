@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ὠχυρωμένη</
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>confirm</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>λεγόμενον</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2.98 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>constrain</b>, <span class='asgreek'>τοὺς</span> <span class='asgreek'>πονηρούς</span> [<a href="javascript:void(0)" title="[prev. work]148 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.28.53]] ☩ [[Josh.6.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.28.53]] ☩ [[LXX.Josh.6.1]]
 </sub></small>

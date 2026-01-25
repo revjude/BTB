@@ -6,5 +6,5 @@
  <b>second</b> or <b>repeated Law,</b> the fifth book of the Pentateuch, [<a href="javascript:void(0)" title=" LXX, cf. LXX.Deut.17.18, LXX.Josh.9.5 (8.32). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.17.18]] ☩ [[Josh.9.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.17.18]] ☩ [[LXX.Josh.9.5]]
 </sub></small>

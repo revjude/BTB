@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>accusative</i> <i>person</i>, <b>def
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> in Medicine texts, <b>treat, 'doctor'</b>, in <i>passive</i>, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus “fragment” 74, 7th c.AD: Paulus Aegineta Medicus 6.26: \_metaphorically\_, πᾶς λίβανος δολοῦται τῇ.. ῥητίνῃ -ευομένῃ">Refs 4th c.AD+</a>] (variant -<span class='asgreek'>ευόμενος</span>) [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.68. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>collect, exact</b> a tax or debt, [<a href="javascript:void(0)" title=" “Codex Justinianus [4th-6th c.AD]” 10.19.9.1, 1.3.38.2. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.19.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.19.27]]
 </sub></small>

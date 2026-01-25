@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>τίς</span> <span c
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <i>metaphorically</i>, <b>hoary, venerable,</b> <span class='asgreek'>ὃς</span> <span class='asgreek'>πολιῷ</span> <span class='asgreek'>νόμῳ</span> <span class='asgreek'>αἶσαν</span> <span class='asgreek'>ὀρθοῖ</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 673 (Lyric poetry); κληδὼν ἐν πολιαῖσι μένει φήμαις 5th c.BC: Euripides Tragicus “Electra” 701 (Lyric poetry); μάθημα χρόνῳ π. 5th-6th c.BC: Plato Philosophus “Timaeus” 22b; πλοῦτος.. χρόνῳ π. 4th c.AD: Julianus Imperator “Orationes” 2.82b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>bright, clear, serene,</b> <span class='asgreek'>ἔαρ</span> [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 477, 492; αἰθήρ 5th c.BC: Euripides Tragicus “Orestes” 1376 (Lyric poetry); ἠήρ 3rd c.BC: Apollonius Rhodius Epicus 3.275, 4th c.AD(?): Quintus Smyrnaeus Epicus 2.554. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.47.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.47.2]]
 </sub></small>

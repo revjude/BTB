@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>transgress</b> a law, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.539 (\_passive\_, variant{-βιασθῆναι}). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.12.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.12.13]]
 </sub></small>

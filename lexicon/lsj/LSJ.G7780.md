@@ -6,5 +6,5 @@
  <b>make more beautiful</b>, [<a href="javascript:void(0)" title=" LXX.Song.4.10 (\_passive\_). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Song.4.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.4.10]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>equip, dress</b>, <span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>deck, adorn</b>, <span class='asgreek'>τὰς</span> <span class='asgreek'>φρένας</span> <span class='asgreek'>τινί</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 9.214 (5th c.AD: Leo Philosophus Epigrammaticus). ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>to be a</b> <span class='asgreek'>==στολίζω==ιστής</span>, [<a href="javascript:void(0)" title=" “IG” 3.162.9. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.8.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.8.15]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>σταφυλίς</span>},{<span class='asgreek'>ῥωγάς</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> = <b>rima</b>, <span class='asgreek'>γυναικεία</span> <span class='asgreek'>φύσις</span>, [<a href="javascript:void(0)" title=" “Corpus Glossariorum Latinorum” ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.7.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.7.19]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>pluck, strip bare</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>τράμιν</span> [<a href="javascript:void(0)" title=" 6th c.BC: Hipponax Iambographus 84; τὴν ῥοδωνιάν 4th c.BC: Demosthenes Orator 53.16. ">Refs 6th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>strip the leaves off</b>, <span class='asgreek'>ὀρίγανον</span>, <span class='asgreek'>κρόμμυον</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Mirabilia” 831a30, “Pr.” 924a32. -τιλτέον">Refs 4th c.BC+</a>], <b>one must pluck out</b>, <span class='asgreek'>τὰς</span> <span class='asgreek'>τρίχας</span> [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 9.8. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.7.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.7.4]]
 </sub></small>

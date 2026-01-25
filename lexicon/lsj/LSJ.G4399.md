@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <b>to be beforehand</b>, <span class='asgreek'>στόματι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 1385, Theo Sm. p.160H. ">Refs 5th c.BC+</a>]: <i>aorist</i> <i>middle</i>, <span class='asgreek'>προφθάμενος</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 4.913. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.20.25]] ☩ [[Jonah.4.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.20.25]] ☩ [[LXX.Jonah.4.2]]
 </sub></small>

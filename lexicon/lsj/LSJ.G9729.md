@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> ={<span class='asgreek'>χιλιάς</sp
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> Persian military district, [<a href="javascript:void(0)" title=" “AJA” 16.13 (Sardis, 4th-3rd c.BC). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>χιλιετηρίς</span>}, applied to work by Asinius Quadratus, [<a href="javascript:void(0)" title=" 5th c.AD(?): Stephanus Byzantius see entry {Ὀξύβιοι} compare (χιλιάς 11). ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.31.48]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.31.48]]
 </sub></small>

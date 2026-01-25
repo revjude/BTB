@@ -6,5 +6,5 @@ Included with: <b> <span class='asgreek'>==προμαχών==</span>-<span clas
  <b>breastwork, battlement,</b> in <i>plural</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.98, 3.151, 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.8.13; π. ἕνα τοῦ τείχεος 5th c.BC: Herodotus Historicus 1.164. προμαχών, later form of προμαχεών, LXX.Jer.5.10, +others, 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 91.50, 1st c.AD: Josephus Historicus “Bellum Judaicum” 5.4.2, etc. ">LXX+5th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.5.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.5.10]]
 </sub></small>

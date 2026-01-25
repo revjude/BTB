@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.4</b> <b>move forward</b>, of soldiers, [<a href
 $\quad$ $\quad$ $\quad$<b>\_\_B.5</b> <b>to be disturbed</b> or <b>in rebellion</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 39.54, 42.15, +others ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.6</b> <span class='asgreek'>κεκινημένος</span> <span class='asgreek'>περί</span> <span class='asgreek'>τι</span>, Latin <i>versatus in</i>.., [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 908d. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.20.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.20.1]]
 </sub></small>

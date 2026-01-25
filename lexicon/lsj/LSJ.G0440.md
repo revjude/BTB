@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> a precious stone of dark-red colour, including the 
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> hence, <b>carbuncle, malignant pustule</b> (<i>accusative</i> to some, <b>small-pox</b>), [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 3.7, 2nd c.AD: Galenus Medicus 7.719, +others ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ἰσάτις</span>}, <b>woad,</b> [<a href="javascript:void(0)" title=" PHolm. 18.34, +others">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.18]]
 </sub></small>

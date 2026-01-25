@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>unsheath,</b> <span class='asgreek'>μάχαιραν</span> [<a href="javascript:void(0)" title=" LXX.Ezek.5.2. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>clear away,</b> <span class='asgreek'>πέτρας</span> [<a href="javascript:void(0)" title=" “Sammelb.” 4368. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.136.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.136.7]]
 </sub></small>

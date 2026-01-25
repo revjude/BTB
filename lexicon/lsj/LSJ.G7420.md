@@ -6,5 +6,5 @@
  <b>add strength to, confirm</b>, [<a href="javascript:void(0)" title=" LXX.Eccl.4.12 (\_passive\_). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Eccl.4.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.4.12]]
 </sub></small>

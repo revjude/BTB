@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>crooked, cunning</b>, <span class='asgreek'>==στρεβλός==οῖσι</span> <span class='asgreek'>παλαίσμασι</span> by <b>cunning</b> dodges in wrestling, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 878 (mock heroic)">Refs 5th c.BC+</a>]; <b>perverse, froward</b>, [<a href="javascript:void(0)" title=" LXX.Ps.17.27, LXX.Sir.36.(22) 25, 5th-4th c.BC: Aesopus Fabularum Scriptor 66. ">LXX+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.17.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.17.27]]
 </sub></small>

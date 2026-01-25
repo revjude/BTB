@@ -7,5 +7,5 @@ Included with: <b> <span class='asgreek'>==μονόκερως==</span>-<span cl
 
 $\quad$ $\quad$<b>\_\_II</b> <i>substantive</i> <b><span class='asgreek'>μονόκερως</span></b>, <span class='asgreek'>ωτος</span>, <span class='asgreek'>ὁ</span>, <b>wild ox</b>, [<a href="javascript:void(0)" title=" LXX.Ps.21.21, 28(29).6. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.21.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.21.21]]
 </sub></small>

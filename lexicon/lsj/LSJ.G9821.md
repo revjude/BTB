@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> in corn, ={<span class='asgreek'>ἐρυσίβη</span>}, <b>mildew,</b> [<a href="javascript:void(0)" title=" LXX.Deut.28.22. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.22]]
 </sub></small>

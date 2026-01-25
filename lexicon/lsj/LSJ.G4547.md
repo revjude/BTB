@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>horseshoe</b>, <span class='asgreek'>σ</
 $\quad$ $\quad$<b>\_\_II</b> a surgical bandage, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Heliodorus Medicus (?)cited in 4th c.AD: Oribasius Medicus 49.35.3 ">Refs 1st c.AD+</a>], as variant for <b><span class='asgreek'>==σανδάλιον==ιος</span></b>, <span class='asgreek'>ὁ</span>, which is found also in Heraclas cited in [same work][<a href="javascript:void(0)" title=" 48.4. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> see at {<span class='asgreek'>σάνδαλον</span>} [<a href="javascript:void(0)" title=" 11. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.9.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.9.5]]
 </sub></small>

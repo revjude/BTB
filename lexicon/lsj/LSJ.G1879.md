@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, <b>come to rest,</b> of a machine, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “Automatopoetica” 24.4: \_metaphorically\_, ἐ. ἔν τινι">Refs 2nd c.BC+</a>] <b>come to rest</b> in, [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de communi mathematica scientia” 8 ">Refs 4th c.AD+</a>]; <span class='asgreek'>==ἐπαναπαύω==παύσεται</span> <span class='asgreek'>ἐπ᾽</span> <span class='asgreek'>αὐτὸν</span> (i.e. <span class='asgreek'>τὸν</span> <span class='asgreek'>οἶκον</span>) <span class='asgreek'>ἡ</span> <span class='asgreek'>εἰρήνη</span> <span class='asgreek'>ὑμῶν</span> [<a href="javascript:void(0)" title=" NT.Luke.10.6; ἐπανεπαύσατο ἐπ᾽ αὐτοῖς πνεῦμα LXX.Num.11.26. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.10.6]] ☩ [[Rom.2.17]] ☩ [[Luke.10.6]] ☩ [[Num.11.26]]
+<small><sub>LSJ Scripture Refs: [[Luke.10.6]] ☩ [[Rom.2.17]] ☩ [[Luke.10.6]] ☩ [[LXX.Num.11.26]]
 </sub></small>

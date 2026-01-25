@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>military contingent furnished by a tribe,</b> am
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>representatives of a tribe,</b> on political bodies, <span class='asgreek'>φυλῆς</span> <span class='asgreek'>πρυτανευούσης</span>, <span class='asgreek'>προεδρευούσης</span>, [<a href="javascript:void(0)" title=" “IG” 1.26a16, “SIG” 589.2 (Magn.Mae., 2nd c.BC), etc. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> of things, ={<span class='asgreek'>γένος</span>}, <b>kind, species,</b> <span class='asgreek'>κατὰ</span> <span class='asgreek'>φυλὰς</span> <span class='asgreek'>διεκρίνομεν</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἔπιπλα</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 9.6. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.1.4]] ☩ [[1Kgs.10.20]] ☩ [[Matt.19.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.1.4]] ☩ [[LXX.1Kgs.10.20]] ☩ [[Matt.19.28]]
 </sub></small>

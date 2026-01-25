@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> later, <b>maidservant, slave</b>, [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Phalaris Epistolographus “Epistulae - Epistolographi” 142.3 ">Refs 3rd c.BC+</a>]. [<span class='asgreek'>ῡ</span> in <i>Epic dialect</i> in the longer forms, for the sake of meter] (Cf. Sanskrit <i>duhitár-</i>, Engl. <b>daughter</b>, etc.)
 
-<small><sub>LSJ Scripture Refs: [[Judg.1.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.1.27]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i> <i>of things</i>, <b>call, clamour for</b>, <span class='asgreek'>ἐμβάδας</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 103. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.19.40]] ☩ [[Josh.1.14]] ☩ [[Num.11.2]] ☩ [[Isa.6.4]]
+<small><sub>LSJ Scripture Refs: [[Luke.19.40]] ☩ [[LXX.Josh.1.14]] ☩ [[LXX.Num.11.2]] ☩ [[LXX.Isa.6.4]]
 </sub></small>

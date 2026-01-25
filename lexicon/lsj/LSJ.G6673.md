@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>library, collection of books</b>, [<a hre
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>record-office, registry,</b> [<a href="javascript:void(0)" title=" PTeb. 389. 18 (2nd c.AD)">Refs 2nd c.AD+</a>]; <span class='asgreek'>β</span>. <span class='asgreek'>ἐγκτήσεων</span> [<a href="javascript:void(0)" title=" “BGU” 76.1 (2nd-3rd c.AD)">Refs 2nd c.AD+</a>]; <span class='asgreek'>β</span>. <span class='asgreek'>δημοσίων</span> [<span class='asgreek'>λόγων</span>] [<a href="javascript:void(0)" title=" “PRyl.” 291.1 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>compilation</b> from various sources, title of works by [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus and 1st c.BC: Diodorus Siculus Historicus ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.2.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.2.23]]
 </sub></small>

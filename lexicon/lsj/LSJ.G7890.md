@@ -6,5 +6,5 @@
  <i>passive</i>, <b>to be cobbled, clouted</b>, of shoes, [<a href="javascript:void(0)" title=" LXX.Josh.9.5. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Josh.9.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.9.5]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>grinder, molar</b>, [<a href="javascript:
 $\quad$ $\quad$<b>\_\_II</b> <i>poetry</i> for <span class='asgreek'>μύλλος</span> (which see), [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 1.130. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>μύλη</span>} IV, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 2.36, 1st c.AD: Erotianus Grammaticus ">Refs 1st c.AD+</a>] see at {<span class='asgreek'>ἐμυλώθη</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.11.5]] ☩ [[2Kgs.11.21]] ☩ [[Matt.18.6]] ☩ [[Mark.9.42]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.11.5]] ☩ [[LXX.2Kgs.11.21]] ☩ [[Matt.18.6]] ☩ [[Mark.9.42]]
 </sub></small>

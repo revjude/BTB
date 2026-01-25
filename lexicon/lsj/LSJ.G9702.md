@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>palisade,</b> [<a href="javascript:void(0)" title=" LXX.Deut.20.20. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>propping of vines</b>, [<a href="javascript:void(0)" title=" “PSI” 6.595.3 (3rd c.BC), “Geoponica” 5.27 at Title Page ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.20.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.20.20]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>absolutely</i>, <b>hope</b> that a thing 
 $\quad$ $\quad$<b>\_\_II</b> causal, <b>drive to despair,</b> <span class='asgreek'>τινά</span>[<a href="javascript:void(0)" title=" “Anthologia Graeca” 11.114 (1st c.AD: Nicarchus Epigrammaticus). ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>hope to receive back,</b> <span class='asgreek'>μηδὲν</span> (variant{<span class='asgreek'>μηδένα</span>}) <span class='asgreek'>==ἀπελπίζω==ίζοντες</span>[<a href="javascript:void(0)" title=" NT.Luke.6.35 (uncertain).">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.29.19]] ☩ [[Luke.6.35]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.29.19]] ☩ [[Luke.6.35]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>distribute land</b>, with <i>dative</i>, [<a href="javascript:void(0)" title=" LXX.2Esd.9.12 ">LXX</a>]; <b>settle on the land</b>, <span class='asgreek'>αὐτούς</span>[<a href="javascript:void(0)" title="LXX.Ps.77.55 ">LXX</a>]:—<i>passive</i>, - <span class='asgreek'>εῖτο</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>χώρα</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.291. ">Refs 1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.77.55]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.77.55]]
 </sub></small>

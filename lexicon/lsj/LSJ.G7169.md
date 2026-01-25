@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>payment assessed on produce</b>, ={<span class='asgreek'>δεκάτη</span>}, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Oeconomica” 1345b33 ">Refs 4th c.BC+</a>]; especially <b>rent paid in kind</b>, <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἀπότακτον</span> [<a href="javascript:void(0)" title=" “PAmh.” 2.87 (2nd c.AD),compare “PTeb.” 377.23 (3rd c.AD), “OGI” 669.30, etc. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.25.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.25.19]]
 </sub></small>

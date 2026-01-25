@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>mud, mire</b>, [<a href="javascript:void(
 $\quad$ $\quad$<b>\_\_II</b> poetical, <b>thick</b> or <b>muddy wine, lees</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 783 ">Refs 5th c.BC+</a>]; of wine spilt on the floor, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.463a, 2nd c.AD(?): Charito Scriptor Eroticus 1.3 ">Refs 1st c.AD+</a>]; compare <span class='asgreek'>Πηλεύς</span> near the end 
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>dolt, blockhead, Comedy texts Adesp.</b>[<a href="javascript:void(0)" title=" 890. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.11.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.11.3]]
 </sub></small>

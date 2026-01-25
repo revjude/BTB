@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>swell,</b> uncertain in [<a href="jav
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>to be excited, agitated,</b> <span class='asgreek'>ἐλπίδι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 1461; ἐξαρθεὶς ὑπὸ μεγαλαυχίας ">Refs 5th c.BC+</a>]<b>puffed up,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 716a ">Refs 5th c.BC+</a>]: with <i>participle</i>, <span class='asgreek'>ἐξήρθης</span> <span class='asgreek'>κλύων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Rhesus” 109. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <span class='asgreek'>ἐξηρμένος</span> probably <i>falsa lectio</i> in [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.4.5. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.2.9]] ☩ [[Deut.16.19]] ☩ [[1Cor.5.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.2.9]] ☩ [[LXX.Deut.16.19]] ☩ [[1Cor.5.13]]
 </sub></small>

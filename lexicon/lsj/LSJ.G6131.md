@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>to be next of kin, heir-at-law</b>, <span class=
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> with <i>accusative</i>, <span class='asgreek'>ἀ</span>. <span class='asgreek'>τινά</span> <b>do a kinsman's office</b> to a woman, i.e. <b>marry</b> her, [<a href="javascript:void(0)" title=" LXX.Ruth.3.13, 4.4; also κληρονομίαν ἀ. ">LXX</a>]<b>enter upon.., Nu.</b> [<a href="javascript:void(0)" title=" 36.8. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>passive</i>, <b>to be excluded by descent</b>, <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἱερατείας</span>[<a href="javascript:void(0)" title=" LXX.2Esd.2.62, LXX.Neh.7.64.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ruth.3.13]] ☩ [[Neh.7.64]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ruth.3.13]] ☩ [[LXX.Neh.7.64]]
 </sub></small>

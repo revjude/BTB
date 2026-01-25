@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.1</b> <b>round hill, knoll</b>, [<a href="javas
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>round piece of wool</b> fastened to the edge of nets, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 2.6, compare 2nd c.AD(?): Pollianus Epigrammaticus 5.29. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> at Paphos, <b>breast-shaped cup</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus Cyren. cited in 2nd c.AD: Athenaeus Epigrammaticus 11.487b, compare “IG” 7.3498 (from Oropus), 11(4).1307.21 (from Delos). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.32.12]] ☩ [[Rev.1.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.32.12]] ☩ [[Rev.1.13]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>cry for</b>, of infants, <span class='
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, <b>bewail oneself, weep aloud</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 920 (Lyric poetry): ">Refs 4th c.BC+</a>]<i>perfect</i> <i>participle</i> <i>passive</i> <span class='asgreek'>κεκλαυμένος</span> <b>bathed in tears</b>, [<a href="javascript:void(0)" title=" [prev. author] “Ch.” 457 (Lyric poetry), 731, 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 1490. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <i>transitive</i>, <b>bewail to oneself</b>, <span class='asgreek'>πάθη</span>.. <span class='asgreek'>πόλλ᾽</span> <span class='asgreek'>ἔγωγ᾽</span> <span class='asgreek'>ἐκλαυσάμην</span> [<a href="javascript:void(0)" title=" [prev. author] “Tr.” 153; κλαιόμενα τάδε βρέφη σφαγάς 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1096 (Lyric poetry). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.16.20]] ☩ [[Ps.77.64]]
+<small><sub>LSJ Scripture Refs: [[John.16.20]] ☩ [[LXX.Ps.77.64]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> generally, <b>service,</b> <span class='asgreek'>δ
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in concrete sense, in <i>plural</i>, <b>the class of servants</b> or <b>attendants,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 956e, “Ep.” 350a, compare “IG” 5(1).1390.98 (Andania, 1st c.BC)">Refs 5th c.BC+</a>]: also in <i>singular</i>, <b>retinue,</b> [<a href="javascript:void(0)" title=" LXX.Job.1.3, “OGI” 139.8 (Philae, 2nd c.BC) ">LXX+2nd c.BC+</a>]; of <b>shop-assistants,</b> [<a href="javascript:void(0)" title=" Sardis 7(1).168 (4th c.AD). ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>ὑ</span>. <span class='asgreek'>σοι</span> <span class='asgreek'>παντελὴς</span>.. <span class='asgreek'>κεραμίων</span> 'a dinner-<b>service</b>', [<a href="javascript:void(0)" title=" 4th c.BC: Axionicus Comicus 7. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.1.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.1.3]]
 </sub></small>

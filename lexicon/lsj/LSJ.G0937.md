@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.d</b> (i.e. <span class='asgreek'>φ�
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.e</b> (i.e. <span class='asgreek'>φυτόν</span>) <b>basil, Ocimum basilicum,</b> [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.f</b> <span class='asgreek'>βασιλικά</span>, <span class='asgreek'>τά</span>, <b>communications received from kings</b>, [<a href="javascript:void(0)" title=" “SIG” 333.23 (from Samos), 426.26 (from Teos)">Refs</a>]; also, <b>interests</b> or <b>revenues of the crown,</b> [<a href="javascript:void(0)" title=" PRev.Laws 15.4 (3rd c.BC), “PTeb.” 5.256 (2nd c.BC), LXX.1Mac.10.43 ">LXX+3rd c.BC+</a>]; <b>prerogatives,</b> [<a href="javascript:void(0)" title="[prev. work] 15.8. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.20.17]] ☩ [[Jas.2.8]] ☩ [[Esth.1.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.20.17]] ☩ [[Jas.2.8]] ☩ [[LXX.Esth.1.19]]
 </sub></small>

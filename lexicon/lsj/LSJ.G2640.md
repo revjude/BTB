@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> see at {<span class='asgreek'>κατάλημμα</span>}.
 
-<small><sub>LSJ Scripture Refs: [[Gen.45.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.45.7]]
 </sub></small>

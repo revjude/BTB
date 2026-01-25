@@ -5,5 +5,5 @@
  <b>drawers</b>, [<a href="javascript:void(0)" title=" Anonymus cited in 10th c.AD: Suidas Legal icographus, variant in LXX.Exod.28.38(42). ">Refs</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.38]]
 </sub></small>

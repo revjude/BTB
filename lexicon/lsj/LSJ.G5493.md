@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> simply, <b>river,</b> [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>drain, gutter,</b> <span class='asgreek'>οἱ</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>οἰκιῶν</span> <span class='asgreek'>χ</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 55.19. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>valley, watercourse,</b> [<a href="javascript:void(0)" title=" LXX.4Ki.3.16. (Plur. accented χείμαρροι by Ptolemaeus Ascalonita, χειμάρροι by Nicias, 12th c.AD: Eustathius Episcopus Thessalonicensis 496.37; later \_nominative\_ χείμαρρος 2nd c.AD: Pausanias Periegeta 9.33.7, 10.37.3, \_accusative\_ χείμαρρον LXX [prev. cited] codex 2nd c.AD: Alexander Rhetor, LXX.Ps.123.4, 2nd c.AD: Pausanias Periegeta 1.35.7.) ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.34.5]] ☩ [[Ps.123.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.34.5]] ☩ [[LXX.Ps.123.4]]
 </sub></small>

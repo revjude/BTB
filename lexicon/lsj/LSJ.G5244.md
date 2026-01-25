@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> rarely in good sense, <b>magnificent, splendid,</b> <span class='asgreek'>σοφία</span>, <span class='asgreek'>ἔργον</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 96a, “Smp.” 217e; ὑ. τι διαπραττομένη [prev. author] “Grg.” 511d; ποτήρια χρυσᾶ.., ὑπερήφανα 4th-3rd c.BC: Philippides Comicus 27; πράξεις ὑ. τὸ μέγεθος 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fabius Maximus” 26 ">Refs 5th c.BC+</a>]; <b>sublime,</b> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 3 ">Refs 5th c.AD+</a>]. <i>adverb</i> -<span class='asgreek'>νως</span>, <span class='asgreek'>ἀγωνιζόμενος</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Agesilaus” 34. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.3.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.3.34]]
 </sub></small>

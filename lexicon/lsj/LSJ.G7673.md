@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>guard of the state-granaries,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Zenon Papyri du Caire 292.155(3rd c.BC), “PTeb.” 90.40 (1st c.BC), “POxy.” 522.9 (2nd c.AD). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.5.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.5.14]]
 </sub></small>

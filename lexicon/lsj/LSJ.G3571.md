@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> in Comparisons, of anything dark and dire
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>Νύξ</span> as <i>proper name</i>, <b>the goddess of Night,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 14.259, 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 17, “Th.” 123, 211; N. ὀλοή [prev. work] 224. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>the night-</b> or <b>evening-quarter of heaven, the West,</b> <span class='asgreek'>πρὸς</span> <span class='asgreek'>νυκτός</span> [<a href="javascript:void(0)" title="[prev. work] 275. (Cf. Latin ">Refs</a>]<b>nox,</b> Lithuanian <i>naktis,</i> Gothic <i>nahts,</i> etc.)
 
-<small><sub>LSJ Scripture Refs: [[Isa.26.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.26.9]]
 </sub></small>

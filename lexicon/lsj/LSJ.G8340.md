@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.c</b> <b>to be used alone</b>, <span cla
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>transitive</i>, <b>individualize</b>, [<a href="javascript:void(0)" title=" 12th c.AD: Eustathius Episcopus Thessalonicensis 349.35 ">Refs</a>]:—<i>passive</i>, <b>to be made one</b>, <span class='asgreek'>τῇ</span> <span class='asgreek'>συμφυΐᾳ</span> [<a href="javascript:void(0)" title=" [prev. author] 1321.28. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>==μονάζω==ὰς</span> <span class='asgreek'>ἑαυτὴν</span> <span class='asgreek'>==μονάζω==άσασα</span> unity <b>multiplied into</b> itself, [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “in Nicomachi arithmeticam introductionem” p.60 P. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.101.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.101.7]]
 </sub></small>

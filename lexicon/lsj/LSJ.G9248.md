@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>oppression</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>πένητος</span> [<a href="javascript:void(0)" title=" LXX.Eccl.5.7, cf. LXX.Ps.118.134 ">LXX</a>]; <b>extortion,</b> [<a href="javascript:void(0)" title=" PTeb. 43.36 (2nd c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>τακτὸν</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>πρόστιμον</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" “PFlor.” 6.6 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>quibble, sophism</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1402a15, compare “EE” 1221b7. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.5.7]] ☩ [[Ps.118.134]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.5.7]] ☩ [[LXX.Ps.118.134]]
 </sub></small>

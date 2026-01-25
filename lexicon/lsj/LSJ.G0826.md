@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> of the sun, <b>illumine,</b> <span class='asgreek'>
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <b>enlighten,</b> [<a href="javascript:void(0)" title=" NT.2Cor.4.4">NT</a>]; <b>set in a clear light,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.659, +others ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>appear bright</b> or <b>white,</b> [<a href="javascript:void(0)" title=" LXX.Lev.13.25, +others">LXX</a>]; <b>shine,</b> [<a href="javascript:void(0)" title=" PMag.Par. 1.2558, 2.143.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.4.4]] ☩ [[Lev.13.25]]
+<small><sub>LSJ Scripture Refs: [[2Cor.4.4]] ☩ [[LXX.Lev.13.25]]
 </sub></small>

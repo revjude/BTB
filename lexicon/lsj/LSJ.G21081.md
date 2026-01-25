@@ -6,5 +6,5 @@ $\quad$ ****<b>\_\_B</b>(<span class='asgreek'>ὁ</span> in [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_B.2</b> ={<span class='asgreek'>ῥάξ</span>} [<a href="javascript:void(0)" title=" 4, in \_plural\_, 2nd c.AD: Rufus Medicus cited in 4th c.AD: Oribasius Medicus 25.1.32. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.3</b> ={<span class='asgreek'>ῥάξ</span>}[<a href="javascript:void(0)" title=" 3, 2nd c.BC: Nicander Epicus “Theriaca” 716. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.65.8]] ☩ [[Lev.19.10]] ☩ [[Isa.17.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.65.8]] ☩ [[LXX.Lev.19.10]] ☩ [[LXX.Isa.17.6]]
 </sub></small>

@@ -6,5 +6,5 @@
  <b>catch in a snare,</b> [<a href="javascript:void(0)" title=" LXX.Job.40.19(24). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.40.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.40.19]]
 </sub></small>

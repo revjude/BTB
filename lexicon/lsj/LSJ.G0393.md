@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>grow,</b> of hair, <span class='asgree
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> of mountains, <b>rise,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Apollonius Rhodius Epicus 1.501">Refs 3rd c.BC+</a>]; but, <b>appear on the horizon,</b> [<a href="javascript:void(0)" title="[prev. work] 601. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>rise up,</b> <span class='asgreek'>ἀνέτειλε</span> <span class='asgreek'>σωτήρ</span> probably in [<a href="javascript:void(0)" title=" “epigram Gr.” 978 (from Philae).">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.3.18]] ☩ [[Matt.5.45]] ☩ [[Heb.7.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.3.18]] ☩ [[Matt.5.45]] ☩ [[Heb.7.14]]
 </sub></small>

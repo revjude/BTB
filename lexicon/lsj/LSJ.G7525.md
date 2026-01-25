@@ -9,5 +9,5 @@
  <b> <span class='asgreek'>ἐτ</span>-<span class='asgreek'>ασμός</span></b>, <span class='asgreek'>ὁ</span>,[<a href="javascript:void(0)" title="LXX.Gen.12.17 (\_plural\_)">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.10.17]] ☩ [[Gen.12.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.10.17]] ☩ [[LXX.Gen.12.17]]
 </sub></small>

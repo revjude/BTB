@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>redemption by payment of ransom, deliverance, </b>[<a href="javascript:void(0)" title=" NT.Luke.21.28, NT.Rom.3.24, +others ">NT</a>]; of Nebuchadnezzar's <b>recovery,</b> [<a href="javascript:void(0)" title=" LXX.Dan.4.30c">LXX</a>]; in <b>NT, redemption,</b> [<a href="javascript:void(0)" title="NT.Rom.3.24, +others">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.21.28]] ☩ [[Rom.3.24]] ☩ [[Dan.4.30]] ☩ [[Rom.3.24]]
+<small><sub>LSJ Scripture Refs: [[Luke.21.28]] ☩ [[Rom.3.24]] ☩ [[LXX.Dan.4.30]] ☩ [[Rom.3.24]]
 </sub></small>

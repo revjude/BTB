@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>genitive</i> <i>object</i>, <span class='asgreek'>κ</span>. <span class='asgreek'>κακῶν</span> <b>refuge from</b>.., [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Orestes” 448 (\_plural\_); τῶν ἀκουσίων ἁμαρτημάτων κ. εἶναι τοὺς βωμούς 5th c.BC: Thucydides Historicus 4.98; κ. ποιεῖσθαι εἰς τέκνα 5th c.BC: Euripides Tragicus “Orestes” 567 (\_plural\_), compare 5th c.BC: Antipho Orator 1.4; ηὕρισκον κ. αὑτοῖς εἰς θεούς 5th-6th c.BC: Plato Philosophus “Leges” 699b, etc.; ἡ εἰς τοὺς νόμους κ. 4th c.BC: Hyperides Orator “pro Euxenippo” 10; ἐμοὶ πόλις ἐστὶ καὶ κ. καὶ νόμος ὁ δεσπότης 4th-3rd c.BC: Menander Comicus 581. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>way of escape, excuse</b>, <span class='asgreek'>μεγάλων</span> <span class='asgreek'>ἀδικημάτων</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 46.9, compare 54.21 (\_plural\_). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.17.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.17.15]]
 </sub></small>

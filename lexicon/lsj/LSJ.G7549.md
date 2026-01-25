@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_II</b> of things, <b>easy</b>, <span class='asgreek'>οὐ
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>lithe</b>, <span class='asgreek'>εὔ</span>., <span class='asgreek'>ὑγρομελής</span>, of the pyrrhich, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 4.96. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> epithet of Hermes at Metapontum, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]; of Asclepius at Epidaurus, [<a href="javascript:void(0)" title=" “IG” 4.1260. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.15.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.15.3]]
 </sub></small>

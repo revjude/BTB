@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>χρησμῳδέω</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Ion” 6; compare ==ὑμνῳδέω==ία 2. [ῠ in 4th-5th c.BC: Aeschylus Tragicus [same place], see at {ὕμνος} near the end] ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Chr.25.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.25.6]]
 </sub></small>

@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>become visible, to be manifested</b>, 
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>to be exemplified</b> or <b>implied in</b>.., <span class='asgreek'>ἐν</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>κατηγορίᾳ</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>τοιαύτῃ</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Metaphysica” 1028a28 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἐνυπάρχειν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" [prev. author] “de An.” 413a15, “EN” 1096b22. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>to be indicated</b>, <span class='asgreek'>τῆς</span> <span class='asgreek'>ἡδονῆς</span> -<span class='asgreek'>ομένης</span> <span class='asgreek'>τέλους</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 3.8, compare 2nd c.AD: Galenus Medicus 10.126. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.79.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.79.2]]
 </sub></small>

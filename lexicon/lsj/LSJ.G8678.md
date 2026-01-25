@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>attack</b>, of a robber-band, <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" LXX.Gen.49.19, probably in “SIG” 582.12 (Delos, 2nd c.BC)">LXX+2nd c.BC+</a>]: —<i>passive</i>, [<a href="javascript:void(0)" title="Scholia 5th c.BC: Euripides Tragicus “Hecuba” 934. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.49.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.49.19]]
 </sub></small>

@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_III</b> a kind of <b>cup,</b> used as <b>a dice-box,</b> [
 $\quad$ $\quad$<b>\_\_IV</b> <b>tightening, constriction</b> by means of ropes, [<a href="javascript:void(0)" title="Apollod  “Poliorc.” 161.1. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_V</b> ={<span class='asgreek'>φίμωσις</span>} 11.2, <span class='asgreek'>φ</span>. <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>αἰδοίοις</span> <span class='asgreek'>χαλᾷ</span> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.91, compare 1st c.AD: Andromachus Poeta Medicus cited in 2nd c.AD: Galenus Medicus 13.311">Refs 1st c.AD+</a>]; <b>imperforation</b> of the anus, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD: Oribasius Medicus 44.20.72. (Connected with σφίγγω, σφιγμός by “Etymologicum Magnum” 795.21.) ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.37.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.37.29]]
 </sub></small>

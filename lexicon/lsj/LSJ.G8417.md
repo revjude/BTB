@@ -6,5 +6,5 @@
  <b>nap, short sleep,</b> [<a href="javascript:void(0)" title=" LXX.Job.33.15. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.33.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.33.15]]
 </sub></small>

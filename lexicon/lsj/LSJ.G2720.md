@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>make straight towards</b>, 
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>prosper</b>, [<a href="javascript:void(0)" title=" LXX.Sir.29.18 ">LXX</a>]: with <i>genitive</i>, <b>succeed</b> in doing.., <span class='asgreek'>οὐ</span> <span class='asgreek'>κατεύθυνε</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>λαλῆσαι</span> <span class='asgreek'>οὕτως</span>[<a href="javascript:void(0)" title="LXX.Judg.12.6. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>οἱ</span> -<span class='asgreek'>ευθύνοντες</span> the <b>righteous</b>,[<a href="javascript:void(0)" title="LXX.Prov.15.8. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.6.12]] ☩ [[Judg.12.6]] ☩ [[Prov.15.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.6.12]] ☩ [[LXX.Judg.12.6]] ☩ [[LXX.Prov.15.8]]
 </sub></small>

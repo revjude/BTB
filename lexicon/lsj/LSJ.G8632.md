@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> = {<span class='asgreek'>παραπληκτικός</span>}, <span class='asgreek'>π</span>. <span class='asgreek'>τὰ</span> <span class='asgreek'>δεξιὰ</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἀριστερά</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Aër.” 10. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.34]]
 </sub></small>

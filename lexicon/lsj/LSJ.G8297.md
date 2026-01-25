@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>undermine</b>, <span class='asgreek'>τε
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>explore,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 6.302 (1st c.AD: Leonidas Alexandrinus Epigrammaticus), 2nd c.BC: Nicander Epicus “Theriaca” 672; μ. τὴν ἔρευναν 3rd c.AD: Porphyrius Tyrius Philosophus “ad Marcellam - Porphyrii Opuscula” 26. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==μεταλλεύω==άσσω</span>}, <b>pervert</b>, <span class='asgreek'>ῥεμβασμὸς</span> <span class='asgreek'>ἐπιθυμίας</span> <span class='asgreek'>μ</span>. <span class='asgreek'>νοῦν</span> <span class='asgreek'>ἄκακον</span> [<a href="javascript:void(0)" title=" LXX.Wis.4.12 ">LXX</a>]:—<i>passive</i>, <b>to be converted</b>, <span class='asgreek'>εἰς</span> <span class='asgreek'>πάντα</span> [<a href="javascript:void(0)" title="[prev. work] 16.25. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.8.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.8.9]]
 </sub></small>

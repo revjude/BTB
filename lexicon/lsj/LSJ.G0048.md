@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>sacrifice</b>, [<a href="javascript:void(
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>hallow, consecrate</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Aristonous Lyricus 1.17 (\_passive\_). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>burn up, consume</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 116; ἐπαστράψας αἰθὴρ ἥγνισε.. ἱστορίαν “Anthologia Graeca” 7.49 (from Bianor).">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.8.6]] ☩ [[1Pet.1.22]] ☩ [[Exod.19.10]] ☩ [[Josh.3.5]] ☩ [[Acts.21.24]] ☩ [[Num.6.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.8.6]] ☩ [[1Pet.1.22]] ☩ [[LXX.Exod.19.10]] ☩ [[LXX.Josh.3.5]] ☩ [[Acts.21.24]] ☩ [[LXX.Num.6.3]]
 </sub></small>

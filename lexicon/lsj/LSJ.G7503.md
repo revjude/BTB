@@ -6,5 +6,5 @@
  <b>of</b> or <b>for solitude, living in a desert,</b> [<a href="javascript:void(0)" title=" LXX.Ps.101.7. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.101.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.101.7]]
 </sub></small>

@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>present world</b> (as subject to <b>decline</b>
 $\quad$ $\quad$<b>\_\_IV</b> rendering of Hebrew <b>miphleseth</b> 'a thing to shudder at', [<a href="javascript:void(0)" title=" LXX.1Kgs.15.13. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_V</b> (<span class='asgreek'>καταδύω</span> [<a href="javascript:void(0)" title=" 11.2)">Refs</a>] <b>ducking</b> of the head in a bath, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus “fragment” 48. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.68.3]] ☩ [[Ps.16.14]] ☩ [[Ps.48.2]] ☩ [[1Kgs.15.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.68.3]] ☩ [[LXX.Ps.16.14]] ☩ [[LXX.Ps.48.2]] ☩ [[LXX.1Kgs.15.13]]
 </sub></small>

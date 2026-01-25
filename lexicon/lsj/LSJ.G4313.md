@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>come forward,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.80.8, etc. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>to be promoted, advance,</b> <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>στρατηγίαν</span> [<a href="javascript:void(0)" title=" [prev. author] 28.6.9, compare 2.4.2. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.7.40]] ☩ [[Exod.32.34]] ☩ [[Luke.1.76]] ☩ [[Gen.2.14]]
+<small><sub>LSJ Scripture Refs: [[Acts.7.40]] ☩ [[LXX.Exod.32.34]] ☩ [[Luke.1.76]] ☩ [[LXX.Gen.2.14]]
 </sub></small>

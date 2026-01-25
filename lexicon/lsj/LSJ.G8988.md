@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> in Medicine texts, <b>pylorus</b> or <b>lower orifice of the stomach</b>, <span class='asgreek'>οἷον</span> <span class='asgreek'>π</span>. <span class='asgreek'>τις</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus “de Usu Partium” 4.7, compare “Nat.Fac.” 3.4, 1st c.AD: Celsus Medicus 4.1.7, 2nd c.AD: Rufus Medicus “περὶ ὀνομασίας” 169, [prev. author] cited in 4th c.AD: Oribasius Medicus 7.26.34. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>π</span>., <span class='asgreek'>ἡ</span>, <b>os uteri</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Pseudo-Democritus Alchemista cited in 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 23. (Cf. πυλαωρός.) ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.7.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.7.1]]
 </sub></small>

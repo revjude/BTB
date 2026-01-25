@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.1</b> <b>hot-water bottle,</b> [<a href="javasc
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>spot</b> on the body, <b>mole, birthmark,</b> [<a href="javascript:void(0)" title=" PPetr. 3p.2, +others (3rd c.BC), 1st c.AD: Dioscorides (Dioscurides) Medicus 1.13, 5.118, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.563a, 800e, 2nd c.AD: Galenus Medicus 11.845, etc. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>ornament on beds,</b> Theodor.Hierap. cited in [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 10.413b ">Refs 2nd c.AD+</a>]. (Cf. Albanian <b>ba</b><span class='asgreek'>θε</span> 'Vicia Faba'.)
 
-<small><sub>LSJ Scripture Refs: [[Gen.25.34]] ☩ [[1Kgs.10.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.25.34]] ☩ [[LXX.1Kgs.10.1]]
 </sub></small>

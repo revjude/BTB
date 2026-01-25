@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>slaughter</b>, [<a href="javascript:void(0)" tit
 $\quad$ $\quad$<b>\_\_III</b> <b>falling off of hair in patches</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 19.430. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>ὀργή</span>}, <span class='asgreek'>πληγή</span>, <span class='asgreek'>σφῦρα</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>βώλους</span> <span class='asgreek'>θραύουσα</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.17.9]] ☩ [[Num.16.48]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.17.9]] ☩ [[LXX.Num.16.48]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>conclusion</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>ὅλου</span> <span class='asgreek'>χρόνου</span> [<a href="javascript:void(0)" title=" “POxy.” 275.20 (1st c.AD)">Refs 1st c.AD+</a>]; <span class='asgreek'>ἔτους</span> [<a href="javascript:void(0)" title=" “PFlor.” 50.114 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.24.22]] ☩ [[Hos.13.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.24.22]] ☩ [[LXX.Hos.13.8]]
 </sub></small>

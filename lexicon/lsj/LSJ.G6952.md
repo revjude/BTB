@@ -6,5 +6,5 @@
  (<span class='asgreek'>ὄροφος</span>) <b>with two roofs</b> or <b>stories,</b> [<a href="javascript:void(0)" title=" LXX.Gen.6.16, 2nd c.AD: Appianus Historicus “Αιβυκή” 95 ">LXX+2nd c.AD+</a>]:—written <b><span class='asgreek'>διώρυφος</span></b>, [<a href="javascript:void(0)" title=" “PPetr.” 3p.39. ">Refs</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Gen.6.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.6.16]]
 </sub></small>

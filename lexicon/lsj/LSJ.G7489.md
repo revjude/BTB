@@ -9,5 +9,5 @@ Included with: <b> <span class='asgreek'>==ἑπταπλασίως==</span>-<sp
   <b> <span class='asgreek'>==ἑπταπλασίως==</span>-<span class='asgreek'>πλᾰσίων</span></b>, <span class='asgreek'>ον</span>, <i>genitive</i> <span class='asgreek'>ονος</span>, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus “fragment” 90, 10th c.AD: Suidas Legal icographus ">Refs 4th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.11.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.11.6]]
 </sub></small>

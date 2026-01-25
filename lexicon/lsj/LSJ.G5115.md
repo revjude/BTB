@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>rainbow,</b> [<a href="javascript:void(0)" title
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>arch,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 9.694. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> <b>curved support, cradle</b> used in amputations, [<a href="javascript:void(0)" title=" 2nd c.AD: Archigenes Medicus cited in 4th c.AD: Oribasius Medicus 47.13.6 ">Refs 2nd c.AD+</a>]; part of a carriage or cart, [<a href="javascript:void(0)" title=" “PPetr.” 2p.133, 3p.144 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.9.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.9.13]]
 </sub></small>

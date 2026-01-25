@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>ἐκλέγειν</sp
 $\quad$ $\quad$<b>\_\_II</b> <b>levy taxes</b> or <b>tribute,</b> <span class='asgreek'>χρήματα</span> <span class='asgreek'>παρά</span> <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.44; τὰς ἐπικαρπίας 5th-6th c.BC: Andocides Orator 1.92, compare “IG” 12.76.8 (\_passive\_, [prev. work]16) ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἔκ</span> <span class='asgreek'>τινων</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 49.49 ">Refs 4th c.BC+</a>]; <b>take toll of,</b> <span class='asgreek'>χαλκοῦς</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Characteres” 6.4: with \_accusative\_ \_person\_, ἐ. τέλη τοὺς καταπλέοντας 4th c.BC: Aeschines Orator 3.113: c.\_accusative\_ et \_genitive\_, τὴν δεκάτην τῶν πλοίων 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 1.1.22. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>declare,</b>[<a href="javascript:void(0)" title=" Prisc. p.294D., “Corpus Glossariorum Latinorum” ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.4.37]] ☩ [[Eph.1.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.4.37]] ☩ [[Eph.1.4]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>investigation</b>, <b>inquiry</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “προρρητικόν” 2.4, etc.; ἡ ἐ. ἦν, εἰ.. 5th-6th c.BC: Plato Philosophus “Respublica” 456c: \_plural\_, 1st c.BC: Philodemus Philosophus “περὶ οἰκονομίας” p.71J. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b>. <b>numbering, census</b>, [<a href="javascript:void(0)" title=" LXX.Num.1.21, +others ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.1.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.1.21]]
 </sub></small>

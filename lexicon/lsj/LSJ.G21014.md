@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> as a name of tutelary gods, <span class='asgreek'>�
 $\quad$ $\quad$<b>\_\_III</b> <i>substantive</i>, <b>bastion,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Procopius Caesariensis Historicus “de Aedificiis” 5.4. ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> in Crete, <b>cake</b> made for a seven-days-old child, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus προμαχ-ών, later form of προμαχεών, LXX.Jer.5.10, +others, 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 91.50, 1st c.AD: Josephus Historicus “Bellum Judaicum” 5.4.2, etc. ">LXX+3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.5.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.5.10]]
 </sub></small>

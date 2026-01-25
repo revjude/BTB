@@ -1,0 +1,19 @@
+**LXX Isaiah 46:5** 
+<small><sub>**LXX:**</sub></small>
+To whom do you liken me? Behold cunningly contrive, O misleading ones! 
+<small><sub>**KJV:**</sub></small>
+To whom will ye liken me, and make [me] equal, and compare me, that we may be like?
+<small><sub>**BSB:**</sub></small>
+To whom will you liken Me or count Me equal? To whom will you compare Me, that we should be alike?<small><sub>**MT:**</sub></small>
+[[Isa.46.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.4|<< Isaiah 46:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.6|Isaiah 46:6 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| To whom | <span class="asgreek">τίνι <sup><small><small>[[G5100]]</small></small></sup> </span> |
+| do you liken me? | <span class="asgreek">με <sup><small><small>[[G1473]]</small></small></sup> <span class="asgreek">ωμοιώσατε <sup><small><small>[[G3666]]</small></small></sup> </span> |
+| Behold | <span class="asgreek">ίδετε <sup><small><small>[[G1492]]</small></small></sup> </span> |
+| cunningly contrive, | <span class="asgreek">τεχνάσασθε <sup><small><small>[[G9442]]</small></small></sup> </span> |
+| O misleading ones! | <span class="asgreek">οι <sup><small><small>[[G3588]]</small></small></sup> <span class="asgreek">πλανώμενοι <sup><small><small>[[G4105]]</small></small></sup> </span> |
+[[Isa.46.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.4|<< Isaiah 46:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.6|Isaiah 46:6 >>]]</td></tr></table>
+
+

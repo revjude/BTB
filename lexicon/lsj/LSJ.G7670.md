@@ -6,5 +6,5 @@
  <b>caught by wild beasts</b>, [<a href="javascript:void(0)" title=" LXX.Lev.5.2, 1st c.AD: Philo Judaeus 2.355. ">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.5.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.5.2]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>demand an account of,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>αἷμα</span> [<a href="javascript:void(0)" title=" LXX.2Kgs.4.11, +others, cf. NT.Luke.11.50 (\_passive\_). ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.1.10]] ☩ [[2Kgs.4.11]] ☩ [[Luke.11.50]]
+<small><sub>LSJ Scripture Refs: [[1Pet.1.10]] ☩ [[LXX.2Kgs.4.11]] ☩ [[Luke.11.50]]
 </sub></small>

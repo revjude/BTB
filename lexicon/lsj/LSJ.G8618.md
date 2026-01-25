@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>π</span>. <span class='asgreek'>ὁμολογία</span> agreement concluded <b>on demand</b> [<a href="javascript:void(0)" title="compare (παράκλησις 1.4), “POxy.” 125.11 (6th c.AD), etc. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Zech.1.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.1.13]]
 </sub></small>

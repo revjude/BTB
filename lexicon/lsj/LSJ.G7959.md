@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>vase for pouring</b>, later Gr. for <i>Attic dia
 $\quad$ $\quad$<b>\_\_III</b> mistranslation of Hebrew <b>mû[snull]aq</b> 'straitness', as if <b>mû[snull]a ¯ q</b> 'smelting', [<a href="javascript:void(0)" title=" LXX.Job.36.16. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>ἀήρ</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.36.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.36.16]]
 </sub></small>

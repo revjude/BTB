@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>perversion,</b> [<
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>distraction,</b> [<a href="javascript:void(0)" title=" 4th c.AD: Metrodorus Epigrammaticus “Herc.” 831.7">Refs 4th c.AD+</a>]; <b>madness,</b> [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 2.89. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>tergiversation,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 17.8.1 (\_plural\_). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.2.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.2.14]]
 </sub></small>

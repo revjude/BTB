@@ -6,5 +6,5 @@
  <b>ant-lion</b>, [<a href="javascript:void(0)" title=" LXX.Job.4.11. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.4.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.4.11]]
 </sub></small>

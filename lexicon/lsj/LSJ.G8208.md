@@ -6,5 +6,5 @@
  ={<span class='asgreek'>λοιδορία</span>}, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 967c (\_plural\_)">Refs 5th c.BC+</a>]: personified as place-name, [<a href="javascript:void(0)" title=" LXX.Exod.17.7. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.17.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.17.7]]
 </sub></small>

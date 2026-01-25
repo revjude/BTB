@@ -6,5 +6,5 @@
  <b>redemption,</b> [<a href="javascript:void(0)" title=" LXX.Num.3.49. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.3.49]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.3.49]]
 </sub></small>

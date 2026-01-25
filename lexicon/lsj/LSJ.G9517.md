@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>territory</b> or <b>resources of a pri
 $\quad$ $\quad$<b>\_\_III</b> <i>feminine</i> of <span class='asgreek'>τύραννος</span>, <b>princess,</b> [<a href="javascript:void(0)" title=" LXX.Esth.1.18. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_IV</b> name of a medicine, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 14.165. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.1.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.1.18]]
 </sub></small>

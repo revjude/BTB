@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_V</b> <b>interpret</b> a dream, etc., [<a href="javascript
 $\quad$ $\quad$<b>\_\_VI</b> <b>question,</b> <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἰατρούς</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 4.1.148. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> <b>doubt, hesitate, waver,</b> [<a href="javascript:void(0)" title=" NT.Acts.11.12 (assuming variant): usually in ">NT</a>]<i>middle</i> and <i>passive</i>, <span class='asgreek'>μηδὲν</span> <span class='asgreek'>διακρινόμενος</span>[<a href="javascript:void(0)" title=" [prev. work]10.20">Refs</a>]; <span class='asgreek'>μὴ</span> <span class='asgreek'>διακριθῆτε</span> [<a href="javascript:void(0)" title=" NT.Matt.21.21, cf. NT.Rom.4.20. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Joel.3.2]] ☩ [[Acts.11.12]] ☩ [[Matt.21.21]] ☩ [[Rom.4.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Joel.3.2]] ☩ [[Acts.11.12]] ☩ [[Matt.21.21]] ☩ [[Rom.4.20]]
 </sub></small>

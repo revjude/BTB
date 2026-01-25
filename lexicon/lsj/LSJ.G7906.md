@@ -6,5 +6,5 @@
  <b>cursing</b>, [<a href="javascript:void(0)" title=" LXX.Judg.5.23. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Judg.5.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.5.23]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.c</b> in Law, <b>contract, agreement,</b
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>vow,</b> [<a href="javascript:void(0)" title=" LXX.Jer.51.25 (\_plural\_). ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> in Stoic Philos., <b>conformity with nature, summum.. bonum, cum positum sit in eo quod</b> <span class='asgreek'>==ὁμολογία==ίαν</span> <b>Stoici, nos appellemus convenientiam,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Cicero, M. Tullius Orator et Philosophus “de Finibus” 3.6.21; ψυχὴ πεποιημένη πρὸς ==ὁμολογία==ίαν παντὸς τοῦ βίου “Stoicorum Veterum Fragmenta” 3.11. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.51.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.51.25]]
 </sub></small>

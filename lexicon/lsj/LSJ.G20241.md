@@ -5,5 +5,5 @@
  <b>seal up,</b> [<a href="javascript:void(0)" title=" LXX.Jer.39.10. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.39.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.39.10]]
 </sub></small>

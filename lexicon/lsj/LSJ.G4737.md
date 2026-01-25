@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i>, <b>confer glory up
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>crown</b> or <b>honour</b> with libations, <span class='asgreek'>σ</span>. <span class='asgreek'>τύμβον</span> <span class='asgreek'>αἵματι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hecuba” 126 (\_anapaest meter\_). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>crown</b> with the badge of office, especially of persons sacrificing, [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 26.8 ">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.1.40 ">Refs 5th c.BC+</a>]; of magistrates in office, <span class='asgreek'>ὁ</span> <span class='asgreek'>ἐστεφανωμένος</span> <span class='asgreek'>ἄρχων</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 21.17; βούλεται -ωθῆναι ἐξηγητείαν “PRyl.” 77.37 (2nd c.AD). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.3.11]] ☩ [[2Tim.2.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.3.11]] ☩ [[2Tim.2.5]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>thread</b>, [<a href="javascript:void(0)" title=" LXX.Num.15.38. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>thread of fate</b>, <span class='asgreek'>κλώσματα</span> <span class='asgreek'>θεῖα</span> <span class='asgreek'>τελῶν</span> [<a href="javascript:void(0)" title=" “IG” 12(7).123 (from Amorgos). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.15.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.15.38]]
 </sub></small>

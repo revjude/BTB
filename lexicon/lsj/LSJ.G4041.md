@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>especial, peculiar</b>, <span class='asgreek'>λαός</span> [<a href="javascript:void(0)" title=" LXX.Exod.19.5, +others, NT.Titus.2.14. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.19.5]] ☩ [[Titus.2.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.19.5]] ☩ [[Titus.2.14]]
 </sub></small>

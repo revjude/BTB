@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>chide, rail at, upbraid,</b> with <i>accusative</i> <i>person</i>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 1.521, +others; Ἀγαμέμνονα ν. μύθῳ 2.224; αἰσχροῖς, ὀνειδείοις, χολωτοῖσιν ἐπέεσσιν, 3.38, 21.480, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 22.225, etc.">Refs 8th c.BC+</a>]; <span class='asgreek'>ὃς</span> <span class='asgreek'>νείκεσσε</span> <span class='asgreek'>θεάς</span>.., <span class='asgreek'>τὴν</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ᾔνησ᾽</span> [Paris] <b>insulted</b> the goddesses (Hera and Athena), but praised the other [<a href="javascript:void(0)" title="(from Aphrodite), 8th c.BC: Ilias Homerus Epicus “Illiad” 24.29.">Refs 8th c.BC+</a>]—<i>Epic dialect</i> Verb, used twice by [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus, 8.125, 9.55 ">Refs 5th c.BC+</a>]; not in <i>Attic dialect</i>: in later Prose, [<a href="javascript:void(0)" title=" LXX.Prov.10.12, +others ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.10.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.10.12]]
 </sub></small>

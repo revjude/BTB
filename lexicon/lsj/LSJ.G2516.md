@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>sit</b> as suppliants, <span class='as
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>sit</b> for one's portrait, [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus “Vita Plotini” 1. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> of a teacher, <span class='asgreek'>πρὸς</span> <span class='asgreek'>ὑμᾶς</span> <span class='asgreek'>ἐκαθεζόμην</span> <span class='asgreek'>διδάσκων</span> [<a href="javascript:void(0)" title=" NT.Matt.26.55. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.12.5]] ☩ [[Matt.26.55]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.12.5]] ☩ [[Matt.26.55]]
 </sub></small>

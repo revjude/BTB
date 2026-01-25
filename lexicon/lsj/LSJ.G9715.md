@@ -19,5 +19,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.7</b> a kind of <b>bandage,</b> [<a href="java
 $\quad$ $\quad$ $\quad$<b>\_\_III.8</b> part of a surgical machine, from its slow uniform motion, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus 49.4.45. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.9</b> ={<span class='asgreek'>==χελώνη==ιον</span>}[<a href="javascript:void(0)" title=" 111, “IG” 11(2).159 A 26,60 (Delos, 3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Hos.12.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hos.12.11]]
 </sub></small>

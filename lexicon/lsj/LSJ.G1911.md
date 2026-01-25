@@ -34,5 +34,5 @@ $\quad$ $\quad$<b>\_\_IV</b>. in <i>passive</i>, <b>lie upon, be put upon</b>, <
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b>. <b>to be set over</b>, [<a href="javascript:void(0)" title=" ὁ τελώνης ὁ ἐπιβεβλημένος τῷ Ζεύγματι Philostratus Sophista [{2-3rd c.AD}] “Vita Apollonii” 1.20 ">Refs 2nd c.AD+</a>]. 
 $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b>. Rhet., <b>ornate</b> (see. <span class='asgreek'>ἐπιβολή</span>), <span class='asgreek'>ἰδέα</span> <span class='asgreek'>λόγων</span> <span class='asgreek'>οὔτ᾽</span> <span class='asgreek'>ἐπιβεβλημένη</span> [<a href="javascript:void(0)" title=" οὔτ᾽ αὖος [prev\. author] “VS” 1.20.2 ">Refs</a>].
 
-<small><sub>LSJ Scripture Refs: [[Matt.26.50]] ☩ [[Exod.21.30]] ☩ [[Mark.14.72]] ☩ [[Luke.15.12]]
+<small><sub>LSJ Scripture Refs: [[Matt.26.50]] ☩ [[LXX.Exod.21.30]] ☩ [[Mark.14.72]] ☩ [[Luke.15.12]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> of style, <b>to be compact</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Demosthene” 43. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.19.5]] ☩ [[Gen.2.24]] ☩ [[Mark.10.7]] ☩ [[Eph.5.31]] ☩ [[Lev.19.31]]
+<small><sub>LSJ Scripture Refs: [[Matt.19.5]] ☩ [[LXX.Gen.2.24]] ☩ [[Mark.10.7]] ☩ [[Eph.5.31]] ☩ [[LXX.Lev.19.31]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>make tender</b> or <b>delicate,</b> <span class='asgreek'>τοὺς</span> <span class='asgreek'>πόδας</span> <span class='asgreek'>ὑποδήμασι</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Respublica Lacedaemoniorum” 2.1">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be softened,</b> <i>metaphorically</i>, [<a href="javascript:void(0)" title=" LXX.2Kgs.22.19, LXX.Ps.54.21.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.22.19]] ☩ [[Ps.54.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.22.19]] ☩ [[LXX.Ps.54.21]]
 </sub></small>

@@ -19,5 +19,5 @@ $\quad$ $\quad$<b>\_\_VII</b> <span class='asgreek'>Δία</span> <span class='
 $\quad$ $\quad$<b>\_\_VIII</b> <span class='asgreek'>λίθοι</span> <span class='asgreek'>χαλάζης</span> hail- <b>stones</b>, [<a href="javascript:void(0)" title=" LXX.Josh.10.11. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_IX</b> <span class='asgreek'>λ</span>. <span class='asgreek'>ὁ</span> <span class='asgreek'>οὐ</span> <span class='asgreek'>λ</span>. the philosophers' <b>stone</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Zosimus Epigrammaticus Alch. p.122 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.10.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.10.11]]
 </sub></small>

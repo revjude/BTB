@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be approved</b>, <span class='asgre
 $\quad$ $\quad$<b>\_\_III</b> of persons or things, <b>to be well-pleasing</b> or <b>acceptable, find favour with</b>, <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 20.5.10, 2nd c.AD: Maximus Tyrius Sophista 32.5; τὰ -οῦντα ἑαυτῷ 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.Supp.” p.54 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> with <i>accusative</i> et <i>genitive</i>, <b>deem worthy of</b>, <span class='asgreek'>τινα</span> <span class='asgreek'>τιμῆς</span> [<a href="javascript:void(0)" title=" “PLond.” 1.3.6 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Thess.2.12]] ☩ [[Isa.62.4]] ☩ [[2Cor.12.10]] ☩ [[2Pet.1.17]] ☩ [[Gen.33.10]] ☩ [[Lev.26.34]] ☩ [[1Thess.2.8]] ☩ [[1Chr.29.23]]
+<small><sub>LSJ Scripture Refs: [[2Thess.2.12]] ☩ [[LXX.Isa.62.4]] ☩ [[2Cor.12.10]] ☩ [[2Pet.1.17]] ☩ [[LXX.Gen.33.10]] ☩ [[LXX.Lev.26.34]] ☩ [[1Thess.2.8]] ☩ [[LXX.1Chr.29.23]]
 </sub></small>

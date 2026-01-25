@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in <i>plural</i>, <b>door-jambs,</b> [<a 
 $\quad$ $\quad$<b>\_\_III</b> in <i>plural</i>, <b>part of a bridle-bit,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 10.9 and 10. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>the second cervical vertebra,</b> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.132">Refs 2nd c.AD+</a>]. (Cf. Sanskrit <i>ák[snull]as,</i> Latin <i>axis,</i> OHG. <b>ahsa,</b> Lithuanian <i>ašìs</i> 'axle'.)
 
-<small><sub>LSJ Scripture Refs: [[Prov.2.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.2.9]]
 </sub></small>

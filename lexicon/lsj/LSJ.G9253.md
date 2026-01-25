@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be compared with</b>, <span class='asgreek'>χρυσίῳ</span> [<a href="javascript:void(0)" title=" LXX.Job.28.16, 19. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.28.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.28.16]]
 </sub></small>

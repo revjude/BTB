@@ -18,5 +18,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>a serpent</b>, of uniform roundness and thicknes
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>a fish</b> of like shape, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 1.184. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>finger-bone, phalanx</b>, [<a href="javascript:void(0)" title=" 7th c.AD: Paulus Aegineta Medicus 6.43, 12th c.AD: Tzetzes, Joannes Grammaticus “Historiarum variarum chiliades” 9.126. ">Refs 7th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.30.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.30.4]]
 </sub></small>

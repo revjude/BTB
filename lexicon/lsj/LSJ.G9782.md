@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>αἱ</span> <span class='as
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <i>plural</i>, <b>rings</b> for the staves of the altar of incense, [<a href="javascript:void(0)" title=" LXX.Exod.30.4 ">LXX</a>]; <b>iron bands</b> for strengthening an engine, [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 57.33. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>ταχεῖα</span> <span class='asgreek'>κίνησις</span>}, [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Plato Philosophus “Leges” 947d. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.27.10]] ☩ [[Exod.30.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.27.10]] ☩ [[LXX.Exod.30.4]]
 </sub></small>

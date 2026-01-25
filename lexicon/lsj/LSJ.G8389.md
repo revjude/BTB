@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>strand</b> of a torsion-engine, [<a href=
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>withe,</b> [<a href="javascript:void(0)" title=" LXX.Judg.16.7. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> wrongly taken by some, ={<span class='asgreek'>νεῦρον</span>}, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 8.328. (Cogn. with νεῦρον.) ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.16.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.16.7]]
 </sub></small>

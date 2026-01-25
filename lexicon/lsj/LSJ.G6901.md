@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>thing torn to pieces, prey,</b> [<a href="javascript:void(0)" title=" LXX.Jer.37.16. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.37.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.37.16]]
 </sub></small>

@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>comminute</b> or <b>liquefy</b> food in digestion, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.689d">Refs 1st c.AD+</a>]; -<span class='asgreek'>ύνουσα</span> <span class='asgreek'>δίαιτα</span> diet <b>productive of thin humours</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus “περὶ λεπτυνούσης διαίτης - CMG” 3 ">Refs 2nd c.AD+</a>]:—<i>passive</i>, <b>become fluid</b>, opposed to <span class='asgreek'>παχύνεσθαι</span>, of foods, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 19; also - όμενα εἰς πνεῦμα διακρίνεται 4th c.BC: Aristoteles Philosophus “Problemata” 966b14. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>thresh, winnow</b>, <span class='asgreek'>λ</span>. <span class='asgreek'>Δηοῦς</span> <span class='asgreek'>καρπόν</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 9.21. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.17.42]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.17.42]]
 </sub></small>

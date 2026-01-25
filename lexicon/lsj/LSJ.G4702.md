@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>μὴν</span> <span c
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>μέτρον</span> <span class='asgreek'>σ</span>. a measure <b>of seed-corn,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 6.95 (1st c.AD: Antiphilus Epigrammaticus). ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <span class='asgreek'>αἰδὼς</span> <span class='asgreek'>σ</span>.,= <span class='asgreek'>τὸ</span> <span class='asgreek'>αἰδοῖον</span>, [<a href="javascript:void(0)" title=" 4th c.AD(?): Manetho Astrologus 3.396. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.12.1]] ☩ [[Gen.1.29]]
+<small><sub>LSJ Scripture Refs: [[Matt.12.1]] ☩ [[LXX.Gen.1.29]]
 </sub></small>

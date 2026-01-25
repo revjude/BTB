@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> as a symbol of <b>royalty, kingly power</
 $\quad$ $\quad$<b>\_\_III</b> = Hebrew “Shevet”, of the tribes (<span class='asgreek'>φυλαί</span>) of Israel, [<a href="javascript:void(0)" title=" LXX.1Kgs.11.13, +others(but in LXX.1Kgs.10.20f, φυλή is a sub-division of ==σκῆπτρον==). ">LXX</a>]
 $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>λυχνὶς</span> <span class='asgreek'>στεφανωματική</span>}, Ps.[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.100. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.11.13]] ☩ [[1Kgs.10.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.11.13]] ☩ [[LXX.1Kgs.10.20]]
 </sub></small>

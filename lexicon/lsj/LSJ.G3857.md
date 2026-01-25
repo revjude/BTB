@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <b>Paradise, the abode of the bles
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.c</b> explanation of <span class='asgreek'>μακάρων</span> <span class='asgreek'>νῆσοι</span>, [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus ad 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 169. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>stupid fellow,</b> [<a href="javascript:void(0)" title=" Comica Adespota 1102. (Persian word, compare 2nd c.AD(?): Pollianus Epigrammaticus 9.13, 9th c.AD: Photius Legal icographus, etc. ">Refs 2nd c.AD+</a>], and Avest. <b>pairidaēza</b>- 'enclosure'.)
 
-<small><sub>LSJ Scripture Refs: [[Neh.2.8]] ☩ [[Song.4.13]] ☩ [[Eccl.2.5]] ☩ [[Gen.2.8]] ☩ [[Luke.23.43]] ☩ [[2Cor.12.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.2.8]] ☩ [[LXX.Song.4.13]] ☩ [[LXX.Eccl.2.5]] ☩ [[LXX.Gen.2.8]] ☩ [[Luke.23.43]] ☩ [[2Cor.12.4]]
 </sub></small>

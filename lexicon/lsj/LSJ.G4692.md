@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> followed by a <i>preposition</i>, <span c
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> with <i>adverb</i>, <span class='asgreek'>σ</span>. <span class='asgreek'>οἷ</span> <span class='asgreek'>θέλεις</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 334; δεῦρο 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 179; ἔνθα 5th-6th c.BC: Xenophon Historicus “Anabasis” 4.8.14, etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>to be troubled in mind, harassed</b>, [<a href="javascript:void(0)" title=" LXX.Exod.15.15, LXX.1Kgs.28.21, +others (Cf. σπουδή, σπούδαξ">LXX</a>], Lithuanian <i>spáudžiu</i> 'press'.)
 
-<small><sub>LSJ Scripture Refs: [[Exod.15.15]] ☩ [[1Kgs.28.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.15.15]] ☩ [[LXX.1Kgs.28.21]]
 </sub></small>

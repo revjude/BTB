@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <span class='asgreek'>ζῇ</span> <span
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>look for</b>, <span class='asgreek'>μεῖζόν</span> <span class='asgreek'>τι</span> <span class='asgreek'>β</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Charmides” 172c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> Astrology texts of signs equidistant from the tropical points, <b>to be in aspect</b>, <span class='asgreek'>β</span>. <span class='asgreek'>ἄλληλα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 36, 4th c.AD: Hephaestio Astrologus 1.9. (βλέφαρα occurs in 8th c.BC: Homerus Epicus, but not ==βλέπω== except in Batrachomyomachia [same place]) ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.6.9]] ☩ [[1Kgs.9.9]] ☩ [[Mark.8.15]] ☩ [[Phil.3.2]] ☩ [[Mark.13.9]] ☩ [[1Cor.16.10]] ☩ [[Mark.4.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.6.9]] ☩ [[LXX.1Kgs.9.9]] ☩ [[Mark.8.15]] ☩ [[Phil.3.2]] ☩ [[Mark.13.9]] ☩ [[1Cor.16.10]] ☩ [[Mark.4.24]]
 </sub></small>

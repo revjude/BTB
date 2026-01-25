@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in Crete, ={<span class='asgreek'>ἔφηβος</span>}, [<a href="javascript:void(0)" title=" “Leg.Gort.” 1.40; compare δρόμος 11.3. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>race-horse</b> (?), [<a href="javascript:void(0)" title=" “PMag.Lond.” 121.390. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.9.25]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.9.25]]
 </sub></small>

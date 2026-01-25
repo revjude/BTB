@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>fence, fortification</b>, [<a href="j
 $\quad$ $\quad$<b>\_\_IV</b> <b>straitness</b>, ={<span class='asgreek'>θλῖψις</span>},{<span class='asgreek'>συνοχή</span>}, [<a href="javascript:void(0)" title=" 9th c.AD: Photius Legal icographus, etc. ">Refs 9th c.AD+</a>]; especially <b>siege</b>, [<a href="javascript:void(0)" title=" LXX.Jer.19.9 ">LXX</a>]; <span class='asgreek'>ἦλθεν</span> <span class='asgreek'>πόλις</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>==περιοχή==ῇ</span>[<a href="javascript:void(0)" title="LXX.2Kgs.24.10 ">LXX</a>]; <span class='asgreek'>ὕδωρ</span> <span class='asgreek'>==περιοχή==ῆς</span>[<a href="javascript:void(0)" title="LXX.Nah.3.14. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_V</b>=<span class='asgreek'>περιπέτεια</span>, [<a href="javascript:void(0)" title=" 9th c.AD: Photius Legal icographus, etc. ">Refs 9th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.8.32]] ☩ [[1Kgs.22.4]] ☩ [[Ps.30.21]] ☩ [[Jer.19.9]] ☩ [[2Kgs.24.10]] ☩ [[Nah.3.14]]
+<small><sub>LSJ Scripture Refs: [[Acts.8.32]] ☩ [[LXX.1Kgs.22.4]] ☩ [[LXX.Ps.30.21]] ☩ [[LXX.Jer.19.9]] ☩ [[LXX.2Kgs.24.10]] ☩ [[LXX.Nah.3.14]]
 </sub></small>

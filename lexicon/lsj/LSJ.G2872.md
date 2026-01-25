@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>work hard, toil,</b> [<a href="javascript:void(0)" title="NT.Matt.6.28, etc.; μεθ᾽ ἡδονῆς κ. 2nd c.AD: Vettius Valens Astrologus 266.6; εἴς τι NT.1Tim.4.10, cf. NT.Rom.16.6; ἔν τινι NT.1Tim.5.17; ἐπί τι LXX.Josh.24.13 ">NT+2nd c.AD+</a>]: with <i>infinitive</i>, <b>strive, struggle</b>, <span class='asgreek'>μὴ</span> <span class='asgreek'>==κοπιάω==ία</span> <span class='asgreek'>ζητεῖν</span> [<a href="javascript:void(0)" title=" “Lyrica Alexandrina Adespota” 37.7. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>==κοπιάω==άζω</span>}, <b>come to rest: arrive at a state of saturation,</b> [<a href="javascript:void(0)" title=" PLeid.X. 30 (3rd-4th c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.2.3]] ☩ [[Deut.25.18]] ☩ [[John.4.6]] ☩ [[Matt.6.28]] ☩ [[1Tim.4.10]] ☩ [[Rom.16.6]] ☩ [[1Tim.5.17]] ☩ [[Josh.24.13]]
+<small><sub>LSJ Scripture Refs: [[Rev.2.3]] ☩ [[LXX.Deut.25.18]] ☩ [[John.4.6]] ☩ [[Matt.6.28]] ☩ [[1Tim.4.10]] ☩ [[Rom.16.6]] ☩ [[1Tim.5.17]] ☩ [[LXX.Josh.24.13]]
 </sub></small>

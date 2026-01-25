@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἔστιν</span> <span class='asgreek'>μοι</span> <span class='asgreek'>θ</span>. <span class='asgreek'>ἔν</span> <span class='asgreek'>τινι</span> <b>pleasure</b> in.., [<a href="javascript:void(0)" title=" LXX.Eccl.12.1, compare 5.3 ">LXX</a>]:—also <b><span class='asgreek'>θελ</span>-<span class='asgreek'>ήμη</span></b>, <span class='asgreek'>ἡ</span>, [<a href="javascript:void(0)" title=" 9th c.AD: Theognostus Grammaticus “Can.” 112. ">Refs 9th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.1.8]] ☩ [[Matt.7.21]] ☩ [[Eccl.12.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.1.8]] ☩ [[Matt.7.21]] ☩ [[LXX.Eccl.12.1]]
 </sub></small>

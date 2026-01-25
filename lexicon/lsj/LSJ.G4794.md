@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>draw together</b>, <span class='asgreek'>ἢν</span> <span class='asgreek'>συγκύπτῃ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>κέρατα</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>πλαισίου</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 3.4.19, compare 21. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>to be bowed down, bent double</b>, as under a burden, [<a href="javascript:void(0)" title=" NT.Luke.13.11, 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 2.20; συγκεκῡφώς 4th c.AD: Themistius Sophista “Orationes” 7.90b; σ. τῷ προσώπῳ LXX.Job.9.27 ">NT+2nd c.AD+</a>]; <span class='asgreek'>μελανίᾳ</span>[<a href="javascript:void(0)" title="LXX.Sir.19.26. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.13.11]] ☩ [[Job.9.27]]
+<small><sub>LSJ Scripture Refs: [[Luke.13.11]] ☩ [[LXX.Job.9.27]]
 </sub></small>

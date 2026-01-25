@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>σ</span>. <span class
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <span class='asgreek'>λύειν</span> <span class='asgreek'>==σχοινίον==ίον</span> <span class='asgreek'>μεριμνᾶν</span> the <b>cord</b> of cares (which binds one), [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “Fragmenta.” 248. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> Comedy texts, <b>membrum virile</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 1342. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.8.2]] ☩ [[Ps.15.6]] ☩ [[Jer.45.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.8.2]] ☩ [[LXX.Ps.15.6]] ☩ [[LXX.Jer.45.11]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>empty of love, harden,</b> <span class='asgreek'>καρδίαν</span>[<a href="javascript:void(0)" title=" LXX.Deut.15.7.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.15.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.15.7]]
 </sub></small>

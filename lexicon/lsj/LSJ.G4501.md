@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>νυκτερίς</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Cyranus 36. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.3.24]] ☩ [[Luke.2.35]] ☩ [[Rev.6.8]] ☩ [[1Kgs.17.51]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.3.24]] ☩ [[Luke.2.35]] ☩ [[Rev.6.8]] ☩ [[LXX.1Kgs.17.51]]
 </sub></small>

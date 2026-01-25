@@ -6,5 +6,5 @@
  <b>exchanging, requital,</b> variant in [<a href="javascript:void(0)" title=" LXX.Ps.118.112, 5th c.AD(?): Hesychius Legal icographus ">LXX+5th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.118.112]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.118.112]]
 </sub></small>

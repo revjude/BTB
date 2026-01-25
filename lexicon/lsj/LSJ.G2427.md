@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be satisfied, content</b>, <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 2.74: \_absolutely\_, Teles p.39 H., cf. LXX.Mal.3.10 ">LXX+1st c.BC+</a>]; <span class='asgreek'>ἱκανούσθω</span> <span class='asgreek'>ὑμῖν</span>, with <i>infinitive</i>, <b>let it suffice</b> you.., i.e. do it no more, [<a href="javascript:void(0)" title=" LXX.1Kgs.12.28, +others: \_absolutely\_, LXX.Num.16.7. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.3.6]] ☩ [[Mal.3.10]] ☩ [[1Kgs.12.28]] ☩ [[Num.16.7]]
+<small><sub>LSJ Scripture Refs: [[2Cor.3.6]] ☩ [[LXX.Mal.3.10]] ☩ [[LXX.1Kgs.12.28]] ☩ [[LXX.Num.16.7]]
 </sub></small>

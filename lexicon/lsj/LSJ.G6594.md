@@ -6,5 +6,5 @@
  a kind of <b>locust,</b> [<a href="javascript:void(0)" title=" LXX.Lev.11.22 (ἀττακύς Al. [prev. passage])">LXX</a>]: —also <span class='asgreek'>ἄττακος</span>, <span class='asgreek'>ὁ</span>,[<a href="javascript:void(0)" title=" Aristeas 145, 1st c.AD: Philo Judaeus 1.85.">Refs 1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.11.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.11.22]]
 </sub></small>

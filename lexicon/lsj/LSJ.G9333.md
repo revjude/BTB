@@ -6,5 +6,5 @@
  <b>complete cicatrization, soundness</b>, [<a href="javascript:void(0)" title=" LXX.Jer.40.6, 4th c.AD: Oribasius Medicus 44.13.3 ">LXX+4th c.AD+</a>]; of plants, [<a href="javascript:void(0)" title=" “Geoponica” 4.13.4. ">Refs</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.40.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.40.6]]
 </sub></small>

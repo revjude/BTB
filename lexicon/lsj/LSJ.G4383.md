@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> Grammars, <b>person</b>, [<a href="javasc
 $\quad$ $\quad$ $\quad$<b>\_\_IV.4</b> <span class='asgreek'>π</span>. <span class='asgreek'>πόλεως</span> a <b>feature</b> of the city, of a person, [<a href="javascript:void(0)" title=" 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Epistulae ad Familiares” 15.17.2. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.5</b> <i>falsa lectio</i> in [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Zeno Citieus Stoicus 1.23 (cf. Nicolaus Rhetor “Progymnasmata” p.4 F.). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.43.3]] ☩ [[Gen.25.18]] ☩ [[Deut.34.1]] ☩ [[Amos.9.8]] ☩ [[Matt.22.16]] ☩ [[1Kgs.2.11]] ☩ [[1Thess.2.17]] ☩ [[2Cor.5.12]] ☩ [[Mal.1.8]] ☩ [[Luke.20.21]] ☩ [[Gal.2.6]] ☩ [[Prov.18.5]] ☩ [[Deut.10.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.43.3]] ☩ [[LXX.Gen.25.18]] ☩ [[LXX.Deut.34.1]] ☩ [[LXX.Amos.9.8]] ☩ [[Matt.22.16]] ☩ [[LXX.1Kgs.2.11]] ☩ [[1Thess.2.17]] ☩ [[2Cor.5.12]] ☩ [[LXX.Mal.1.8]] ☩ [[Luke.20.21]] ☩ [[Gal.2.6]] ☩ [[LXX.Prov.18.5]] ☩ [[LXX.Deut.10.17]]
 </sub></small>

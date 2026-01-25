@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> in concrete sense, <b>a joy,</b> of persons, <span class='asgreek'>χ</span>. <span class='asgreek'>μου</span> [<a href="javascript:void(0)" title=" NT.Phil.4.1, cf. NT.1Thess.2.20. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.2.10]] ☩ [[Matt.25.21]] ☩ [[1Chr.29.22]] ☩ [[Phil.4.1]] ☩ [[1Thess.2.20]]
+<small><sub>LSJ Scripture Refs: [[Matt.2.10]] ☩ [[Matt.25.21]] ☩ [[LXX.1Chr.29.22]] ☩ [[Phil.4.1]] ☩ [[1Thess.2.20]]
 </sub></small>

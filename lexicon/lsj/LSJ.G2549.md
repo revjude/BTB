@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> Philos., [<a href="javascript:void(0)" title
 $\quad$ $\quad$<b>\_\_II</b> <b>ill-repute, dishonour</b>, <span class='asgreek'>κ</span>. <span class='asgreek'>ἀντιλαβεῖν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.58. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>hurt, damage</b> done or suffered, [<a href="javascript:void(0)" title=" LXX.1Kgs.6.9, LXX.1Mac.7.23, NT.Matt.6.34. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.6.9]] ☩ [[Matt.6.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.6.9]] ☩ [[Matt.6.34]]
 </sub></small>

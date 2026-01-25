@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>purge away</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀκαθαρσίαν</span>[<a href="javascript:void(0)" title="[prev. work = 2nd c.AD: Galenus Medicus “φιλόσοφος ἱστορία - Doxographi Graeci”] LXX.Lev.19.23. ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.30.6]] ☩ [[Lev.19.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.30.6]] ☩ [[LXX.Lev.19.23]]
 </sub></small>

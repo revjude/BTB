@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_V.1</b> (i.e. <span class='asgreek'>ἱερά</sp
 $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>τρίτα</span> <span class='asgreek'>λέγειν</span> <span class='asgreek'>τινί</span> play <b>the third part</b> (like <span class='asgreek'>τριταγωνιστεῖν</span> <span class='asgreek'>τινι</span>), [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.246, compare 4th-3rd c.BC: Menander Comicus 223.17. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_V.3</b> <span class='asgreek'>πρῶτα</span> <span class='asgreek'>δραμεῖν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>δεύτερα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τ</span>. win.. <b>third place</b> in the race, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Epigrammata - PLG” 3 (τρίτατα conjecture Bgk.)">Refs 5th c.BC+</a>]. (Cf. Sanskrit <i>trlīyas,</i> Latin <i>terlius,</i> etc.)
 
-<small><sub>LSJ Scripture Refs: [[Num.22.32]] ☩ [[John.21.14]] ☩ [[Matt.26.44]] ☩ [[Num.15.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.22.32]] ☩ [[John.21.14]] ☩ [[Matt.26.44]] ☩ [[LXX.Num.15.6]]
 </sub></small>

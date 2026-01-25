@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_7</b> ={<span class='asgreek'>ἀφεσμός</sp
 $\quad$ $\quad$ $\quad$<b>\_\_8</b> <b>release,</b> <span class='asgreek'>ὕδατος</span>[<a href="javascript:void(0)" title=" “PPetr.” 2p.34 (3rd c.BC)">Refs 3rd c.BC+</a>]: hence, in concrete sense, <b>conduit, sluice,</b>[<a href="javascript:void(0)" title=" [prev. work] 3p.88, “PFlor.” 388.44 (3rd c.AD): \_plural\_, ἀφέσεις θαλάσσης ">Refs 3rd c.AD+</a>]<b>channels,</b> [<a href="javascript:void(0)" title=" LXX.2Kgs.22.16. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_9</b> Astrology texts, <b>reckoning of the vital quadrant,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 127, compare 2nd c.AD: Vettius Valens Astrologus 136.2 (but ἀπὸ Λέοντος τὴν ἄφεσιν ποιούμενοι,">Refs 2nd c.AD+</a>] simply, <b>starting from</b>.., [<a href="javascript:void(0)" title=" [prev. author] 31.8).">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.4.18]] ☩ [[Mark.3.29]] ☩ [[Matt.26.28]] ☩ [[2Kgs.22.16]]
+<small><sub>LSJ Scripture Refs: [[Luke.4.18]] ☩ [[Mark.3.29]] ☩ [[Matt.26.28]] ☩ [[LXX.2Kgs.22.16]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> in Rhythmic, the shortest pause, <
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> in Medicine, <b>intermission</b> in fever, [<a href="javascript:void(0)" title=" 7th c.AD: Stephanus Medicus “in Gal.” 1.268 4th c.BC: Demosthenes Orator (\_sing.\_and \_plural\_). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>deficiency</b>, <span class='asgreek'>μὴ</span> <span class='asgreek'>γενέσθαι</span> <span class='asgreek'>μήτε</span> <span class='asgreek'>δανεισμὸν</span> <span class='asgreek'>μήτε</span> <span class='asgreek'>λ</span>. <span class='asgreek'>περὶ</span> <span class='asgreek'>ταύτας</span> <span class='asgreek'>τᾶς</span> <span class='asgreek'>εἰσφορᾶς</span> [<a href="javascript:void(0)" title=" “IG” 5(1).1432.9 (Messene, 1st c.BC-1st c.AD). ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.19.4]] ☩ [[Rom.11.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.19.4]] ☩ [[Rom.11.5]]
 </sub></small>

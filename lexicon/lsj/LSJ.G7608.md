@@ -6,5 +6,5 @@
  <b>fermented, leavened</b>, [<a href="javascript:void(0)" title=" LXX.Exod.13.7, +others ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Exod.13.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.13.7]]
 </sub></small>

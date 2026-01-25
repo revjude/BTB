@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>speciousness, plausibility</b>, <span class='asgreek'>εὐπρεπείᾳ</span> <span class='asgreek'>λόγου</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.11, 82; ἔχει.. ==εὐπρέπεια==ειαν μᾶλλον ἢ ἀλήθειαν 5th-6th c.BC: Plato Philosophus “Euthydemus” 305e ">Refs 5th c.BC+</a>]; <b>pretext</b>, with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pyrrhus” 23. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.23.9]] ☩ [[Jas.1.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.23.9]] ☩ [[Jas.1.11]]
 </sub></small>

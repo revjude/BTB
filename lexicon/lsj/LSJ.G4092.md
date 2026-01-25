@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b>= <span class='asgreek'>πρήθω</span> [<a href="javascript:void(0)" title=" 1.1 ">Refs</a>], <b>blow up, distend</b>, in <i>passive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ γυναικείης φύσιος” 10, “Flat.” 8, 2nd c.BC: Nicander Epicus “Alexipharmaca” 477, NT.Acts.28.6 (variant); ἐπέπρητο ὅλα “IG” 42(1).122.123 (Epid.)">NT+5th c.BC+</a>]:—<i>active</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 522b28, 1st c.AD: Dioscorides (Dioscurides) Medicus 4.32">Refs 4th c.BC+</a>]. (Cf. Russ. <b>prèt</b>' 'sweat', 'stew'.)
 
-<small><sub>LSJ Scripture Refs: [[Num.5.27]] ☩ [[Acts.28.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.5.27]] ☩ [[Acts.28.6]]
 </sub></small>

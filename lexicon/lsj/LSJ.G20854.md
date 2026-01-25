@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>τὸ</span> -<span class='asgreek'>οῦν</span> <span class='asgreek'>ζυγόν</span> the rank <b>consisting of</b> <span class='asgreek'>οὐραγοί</span> [<a href="javascript:void(0)" title=" 2, 1st c.BC: Asclepiodotus Tacticus “Tact.” 10.14. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>lag behind</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>ὥρᾳ</span> <span class='asgreek'>ἐξεγείρου</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>μὴ</span> <span class='asgreek'>οὐράγει</span> [<a href="javascript:void(0)" title=" LXX.Sir.35.11. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.6.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.6.8]]
 </sub></small>

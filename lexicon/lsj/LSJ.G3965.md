@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>πάτρα</span>} [<a hre
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>family</b>, [<a href="javascript:void(0)" title=" LXX.Exod.12.3, +others, NT.Eph.3.15. ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> in <i>plural</i>, = <b>patrum officia,</b> [<a href="javascript:void(0)" title=" 4th-6th c.AD: Codex Justinianus 1.5.14. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.2.4]] ☩ [[Exod.12.3]] ☩ [[Eph.3.15]]
+<small><sub>LSJ Scripture Refs: [[Luke.2.4]] ☩ [[LXX.Exod.12.3]] ☩ [[Eph.3.15]]
 </sub></small>

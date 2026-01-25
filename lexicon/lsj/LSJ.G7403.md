@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>multiply by</b> <b>two</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Paulus Alexandrinus Astrologus “H.” 4:">Refs 4th c.AD+</a>] —<i>passive</i>, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 223.34. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.26.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.26.9]]
 </sub></small>

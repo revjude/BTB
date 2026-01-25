@@ -6,5 +6,5 @@
  strengthened for <span class='asgreek'>φύρω</span>, <i>aorist 1</i> <i>passive</i> <span class='asgreek'>ἐξεφύρθην</span> [<a href="javascript:void(0)" title=" LXX.Jer.3.2. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.3.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.3.2]]
 </sub></small>

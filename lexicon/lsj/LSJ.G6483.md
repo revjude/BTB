@@ -6,5 +6,5 @@
  <b>casting off utterly,</b> [<a href="javascript:void(0)" title=" LXX.Isa.66.15, 5th c.AD(?): Hesychius Legal icographus ">LXX+5th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Isa.66.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.66.15]]
 </sub></small>

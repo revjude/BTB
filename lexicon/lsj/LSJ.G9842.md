@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>socket</b> of a lampstand, [<a href="javascript:void(0)" title=" LXX.Exod.38.16 (37.19). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.38.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.38.16]]
 </sub></small>

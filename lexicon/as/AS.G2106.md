@@ -4,14 +4,14 @@
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> c. dat. (Polyb., al.; [[1Macc.1.43|I Mac 1:43]], [[1Esd.4.39|I Es 4:39]]): [[2Thess.2.12|II Th 2:12]];</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> as freq. in LXX,</span>
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(α)</span> c. acc: [[Matt.12.13|Mt 12:13]], [[Heb.10.5|He 10:5]], [[Heb.10.8|8]] <span class="assuperscript">(LXX)</span>;</span>
-$\quad$$\quad$ <span class="asbullet"><span class="asbold">(β)</span> seq. <span class="asgreek">ἐν</span> (cf. Heb. <span class="ashebrew">רָצָה בְּ</span> <small><sup>[[H7521]]</sup></small>, [[Ps.149.4|Ps 149:4]]): [[Matt.3.17|Mt 3:17]] [[Matt.17.5|17:5]], [[Mark.1.11|Mk 1:11]], [[Luke.3.22|Lk 3:22]] (on the tense, v. M, <span class="asitalic">Pr.</span>, 134 f.; <span class="asitalic">DCG</span>, i,308 b), [[1Cor.10.5|I Co 10:5]], [[2Cor.12.10|II Co 12:10]], [[Heb.10.38|He 10:38]] <span class="assuperscript">(LXX)</span>;</span>
+$\quad$$\quad$ <span class="asbullet"><span class="asbold">(β)</span> seq. <span class="asgreek">ἐν</span> (cf. Heb. <span class="ashebrew">רָצָה בְּ</span> <small><sup>[[H7521]]</sup></small>, [[LXX.Ps.149.4|Ps 149:4]]): [[Matt.3.17|Mt 3:17]] [[Matt.17.5|17:5]], [[Mark.1.11|Mk 1:11]], [[Luke.3.22|Lk 3:22]] (on the tense, v. M, <span class="asitalic">Pr.</span>, 134 f.; <span class="asitalic">DCG</span>, i,308 b), [[1Cor.10.5|I Co 10:5]], [[2Cor.12.10|II Co 12:10]], [[Heb.10.38|He 10:38]] <span class="assuperscript">(LXX)</span>;</span>
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(c)</span> seq. <span class="asgreek">εἰς</span>: [[2Pet.1.17|II Pe 1:17]]. (cf. <span class="asgreek">συν-ευδοκέω</span>, and v. Cremer, 213 f.; Field, <span class="asitalic">Notes</span>, 48 f.; <span class="asitalic">DCG</span>, i, 355<span class="assuperscript">a</span>.)†</span>
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Psalms | [[Ps.149.4\|149:4]] |
+| Psalms | [[LXX.Ps.149.4\|149:4]] |
 | Matthew | [[Matt.3.17\|3:17]] · [[Matt.12.13\|12:13]] · [[Matt.17.5\|17:5]] |
 | Mark | [[Mark.1.11\|1:11]] |
 | Luke | [[Luke.3.22\|3:22]] · [[Luke.12.32\|12:32]] |

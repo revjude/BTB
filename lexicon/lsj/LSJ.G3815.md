@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>jest, sport</b>, [<a href="javascript:void(0)" t
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> with <i>accusative</i>, <b>play with, make sport of</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Nigr.” 20, “Anthologia Graeca” 10.64 (6th c.AD: Agathias Historicus et Epigrammaticus). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> Grammars, of words <b>played upon</b> or <b>coined for the joke's sake</b>, <span class='asgreek'>οἱ</span> <span class='asgreek'>κωμῳδοὶ</span> <span class='asgreek'>παίζειν</span> <span class='asgreek'>εἰώθασι</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>τοιαῦτα</span> [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Aves” 42, compare 68, etc. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.6.21]] ☩ [[Judg.16.25]] ☩ [[Gen.26.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.6.21]] ☩ [[LXX.Judg.16.25]] ☩ [[LXX.Gen.26.8]]
 </sub></small>

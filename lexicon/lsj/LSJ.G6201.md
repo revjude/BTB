@@ -6,5 +6,5 @@
  <b>make to hear</b>, <span class='asgreek'>τινά</span> <span class='asgreek'>τι</span> or <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" LXX.Ps.50.8, LXX.Sir.45.5.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.50.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.50.8]]
 </sub></small>

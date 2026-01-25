@@ -6,5 +6,5 @@
  <b>that which is eaten, food</b>, [<a href="javascript:void(0)" title=" LXX.Num.14.9, +others, “Etymologicum Magnum” 453.53. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Num.14.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.14.9]]
 </sub></small>

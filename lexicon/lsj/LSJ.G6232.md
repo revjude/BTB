@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>to be unnatural, have a strange taste,</b
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>passive</i>, <b>to be alienated from one's natural condition,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 64e. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <i>passive</i>, also of things, <b>to be alienated, fall into other hands,</b> <span class='asgreek'>ἀλλοτριοῦται</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἀρχή</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.120, compare 4th c.BC: Demosthenes Orator 18.88.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.42.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.42.7]]
 </sub></small>

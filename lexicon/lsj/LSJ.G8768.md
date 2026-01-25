@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>arc of a circle</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physica” 264b25, 3rd c.BC: Euclides Geometra 3.28 ">Refs 4th c.BC+</a>]; marked on concave sun-dial (<span class='asgreek'>πόλος</span>), [<a href="javascript:void(0)" title=" “Sammelb.” 358.1 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>wandering, error</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>καρδίᾳ</span> [<a href="javascript:void(0)" title=" LXX.Eccl.9.3. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.9.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.9.3]]
 </sub></small>

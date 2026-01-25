@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>day of rejoicing,</b> <span class='asgreek'>ἑορταὶ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>χ</span>. [<a href="javascript:void(0)" title=" LXX.Jdt.8.6. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.18.6]] ☩ [[Jer.40.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.18.6]] ☩ [[LXX.Jer.40.11]]
 </sub></small>

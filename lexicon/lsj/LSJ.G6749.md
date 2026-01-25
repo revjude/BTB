@@ -6,5 +6,5 @@
  ={<span class='asgreek'>χαριτογλωσσέω</span>}, <b>flatter</b>, [<a href="javascript:void(0)" title=" LXX.Prov.28.23. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Prov.28.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.28.23]]
 </sub></small>

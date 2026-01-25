@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>thread, pass through,</b> [<a href="javas
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>string together,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 9.9.1, 9.12.1 (\_passive\_). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>insert,</b> <span class='asgreek'>πῆχυν</span> <span class='asgreek'>μεταξὺ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>μηρίων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 70; χεῖρας εἰς σφαίρας Dionysius Epigrammaticus Eleg. 3.3; ἐνεῖραν [πεύκῃ] σφῆνας 2nd c.AD: Babrius Fabularum Scriptor 38.2. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.10.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.10.11]]
 </sub></small>

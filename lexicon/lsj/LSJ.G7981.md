@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>possessed</b> by a supernatural power, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus see entry {κατοκώχιμον}, “Corpus Glossariorum Latinorum” ">Refs 5th c.AD+</a>]; of things, '<b>eerie', uncanny</b>, <span class='asgreek'>κ</span>. <span class='asgreek'>πάντα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>φρικώδη</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>μυστικά</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “JTr.” 30. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> Alch., of <b>fixing</b> agents, <b>mordants</b>,[<a href="javascript:void(0)" title=" Syn.Alch. p.62 5th c.BC: Bacchylides Lyricus, Zos.Alch.p.216 5th c.BC: Bacchylides Lyricus, “PHolm.” 15.19, “Pleid.X.” 92. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.25.46]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.25.46]]
 </sub></small>

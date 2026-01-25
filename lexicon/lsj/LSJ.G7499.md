@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>provocation,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.54W. (\_plural\_), 1st c.BC: Dionysius Halicarnassensis 10.33. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>rebelliousness,</b> [<a href="javascript:void(0)" title=" LXX.Deut.31.27">LXX</a>]; <b>perverseness,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.359. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.28.22]] ☩ [[Deut.31.27]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.28.22]] ☩ [[LXX.Deut.31.27]]
 </sub></small>

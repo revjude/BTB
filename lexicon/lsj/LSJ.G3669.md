@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> Grammars, <b>comparison,</b> -<spa
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>simile,</b> Ps.-[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Vitae Homeri” 84, +others ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Pythagoras Philosophus ">Refs 4th c.BC+</a>] name for <b>nine,</b> [<a href="javascript:void(0)" title=" Theol.Ar. 57. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.3.9]] ☩ [[Gen.1.26]]
+<small><sub>LSJ Scripture Refs: [[Jas.3.9]] ☩ [[LXX.Gen.1.26]]
 </sub></small>

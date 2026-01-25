@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> a parasitic growth on the olive, [<a href="javascri
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> a flax-like plant from which the Athenians made fishinglines, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus, 9th c.AD: Photius Legal icographus, etc., “Etymologicum Magnum” 753.10. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>πιστάκη</span>}, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.4.7. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.1.30]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.1.30]]
 </sub></small>

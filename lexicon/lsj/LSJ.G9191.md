@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>endeavour to make out, guess at</b> a thing, wit
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>have regard to</b>, with <i>genitive</i>, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “Belopoeica” 102.8. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>φείδομαι</span>}, condemned by [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Sol.” 7. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.19.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.19.3]]
 </sub></small>

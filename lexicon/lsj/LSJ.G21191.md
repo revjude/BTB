@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of things, <b>coming together, combination, 
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> Grammars, <b>contraction</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 97.15 ">Refs 2nd c.AD+</a>]; <b>crasis</b>, [<a href="javascript:void(0)" title=" [prev. author] “Conj.” 228.27. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>stronghold</b>, [<a href="javascript:void(0)" title=" LXX.Judg.9.46, 49. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.1.1]] ☩ [[Judg.9.46]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.1.1]] ☩ [[LXX.Judg.9.46]]
 </sub></small>

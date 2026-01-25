@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>the bloom of youth, beauty,</b> [<a href="javascript:void(0)" title=" LXX.Isa.44.13, +others; σώματος 2nd c.AD(?): Xenophon Ephesius Scriptor Eroticus 1.1, 3rd c.AD: Heliodorus Scriptor Eroticus 2.1, +others: \_plural\_, 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 7.43. ">LXX+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.44.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.44.13]]
 </sub></small>

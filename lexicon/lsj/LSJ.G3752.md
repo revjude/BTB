@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_A.II.2</b> <span class='asgreek'>πρίν</span> 
 $\quad$ $\quad$ $\quad$<b>\_\_A.II.3</b> <span class='asgreek'>εἰς</span> <span class='asgreek'>ὅτε</span> <span class='asgreek'>κεν</span> until <b>such time as</b>.., [<a href="javascript:void(0)" title="[prev. work]99, 19.144. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_A.II.4</b> <span class='asgreek'>ὅ</span>. <span class='asgreek'>τάχιστα</span>, Latin <i>cum primum</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 1205, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 4.5.33; ὅ. πρῶτον 5th-6th c.BC: Plato Philosophus “Lysis” 211b. [ὅτᾱν only in later Poetry, “Lyric poetry Alex. Adesp.” 37.17.] ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.38.9]] ☩ [[Mark.3.11]] ☩ [[Exod.16.3]] ☩ [[Rev.8.1]] ☩ [[Luke.13.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.38.9]] ☩ [[Mark.3.11]] ☩ [[LXX.Exod.16.3]] ☩ [[Rev.8.1]] ☩ [[Luke.13.28]]
 </sub></small>

@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> of contracts, transactions, suits, etc.,
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <b>unsecured</b>, of debts, <span class='asgreek'>οἱ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>μ</span>. <span class='asgreek'>ἐγγυώμενοι</span> [<a href="javascript:void(0)" title=" “SIG” 364.42,46 (Ephesus, 3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.5</b> of persons, <b>thoughtless, absent-minded</b>, 'distrait', [<a href="javascript:void(0)" title=" 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Epistulae ad Atticum” 15.14.4, 16.5.3 (\_comparative\_), 2nd c.AD: Galenus Medicus 15.910">Refs 1st c.BC+</a>]; <b>fickle</b>, <span class='asgreek'>κοῦφοί</span> <span class='asgreek'>τε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>μ</span>. [<a href="javascript:void(0)" title=" 5th-4th c.BC: Timaeus Locrus Philosophus 104e ">Refs 5th c.BC+</a>]. <i>adverb</i> -<span class='asgreek'>ρως</span> [<a href="javascript:void(0)" title="Vett. Val. 166.4. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.22.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.22.28]]
 </sub></small>

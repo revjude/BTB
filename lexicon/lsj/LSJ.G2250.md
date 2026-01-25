@@ -17,5 +17,5 @@ $\quad$ $\quad$<b>\_\_III</b> with Preps., <span class='asgreek'>μίαν</span
 $\quad$ $\quad$<b>\_\_IV</b> as <i>proper name</i>, <b>the goddess of day</b>, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 124. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> see at {<span class='asgreek'>ἥμερος</span>} [<a href="javascript:void(0)" title=" 11. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Chr.4.41]] ☩ [[Ps.142.5]] ☩ [[Acts.12.21]] ☩ [[Acts.17.31]] ☩ [[Joel.2.1]] ☩ [[2Pet.3.12]] ☩ [[Matt.10.15]] ☩ [[1Cor.4.3]] ☩ [[Luke.1.7]] ☩ [[Gen.47.8]] ☩ [[Exod.29.38]] ☩ [[Judg.17.10]] ☩ [[John.14.20]] ☩ [[John.2.19]] ☩ [[Gen.39.10]] ☩ [[2Pet.2.8]] ☩ [[2Chr.21.15]] ☩ [[Judg.15.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.4.41]] ☩ [[LXX.Ps.142.5]] ☩ [[Acts.12.21]] ☩ [[Acts.17.31]] ☩ [[LXX.Joel.2.1]] ☩ [[2Pet.3.12]] ☩ [[Matt.10.15]] ☩ [[1Cor.4.3]] ☩ [[Luke.1.7]] ☩ [[LXX.Gen.47.8]] ☩ [[LXX.Exod.29.38]] ☩ [[LXX.Judg.17.10]] ☩ [[John.14.20]] ☩ [[John.2.19]] ☩ [[LXX.Gen.39.10]] ☩ [[2Pet.2.8]] ☩ [[LXX.2Chr.21.15]] ☩ [[LXX.Judg.15.1]]
 </sub></small>

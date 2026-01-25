@@ -6,5 +6,5 @@
  <b>might</b>, <span class='asgreek'>ῥάβδος</span> <span class='asgreek'>μεγαλώματος</span> [<a href="javascript:void(0)" title=" LXX.Jer.31.17. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Jer.31.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.31.17]]
 </sub></small>

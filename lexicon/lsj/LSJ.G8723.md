@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>convenient</b>, [<a href="javascript:void
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>δένδρον</span> <span class='asgreek'>π</span>., name of a fabulous Indian tree, [<a href="javascript:void(0)" title=" 1st c.AD: Cyranus 95. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>going round the right arm</b>:— <i>substantive</i> <b><span class='asgreek'>περιδέξιον</span></b>, <span class='asgreek'>τς</span>, <b>armlet for the right arm, PPetr.2 Intr.</b>p.22 [<a href="javascript:void(0)" title="(3rd c.BC), LXX.Exod.35.22, LXX.Isa.3.20. ">LXX+3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.35.22]] ☩ [[Isa.3.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.35.22]] ☩ [[LXX.Isa.3.20]]
 </sub></small>

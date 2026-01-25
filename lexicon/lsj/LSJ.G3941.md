@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>π</span>. <span class='asgreek'>πόλεμος</span> war <b>with neighbours</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.235. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>foreign, alien</b>, [<a href="javascript:void(0)" title=" LXX.Gen.15.13, +others; σπέρμα π. ἐν γῇ ἀλλοτρίᾳ NT.Acts.7.6 ">LXX+NT</a>]: as <i>substantive</i>, <b>sojourner</b> in another's house, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 1.82 ">Refs 3rd c.AD+</a>]: generally, <b>alien, stranger</b>, [<a href="javascript:void(0)" title=" LXX.Lev.22.10 ">LXX</a>]: in later Greek, ={<span class='asgreek'>μέτοικος</span>}, [<a href="javascript:void(0)" title=" “SIG” 398.37 (Cos, 3rd c.BC), “IG” 7.2712.64 (Acraeph.), “OGI” 1338.12,20, +others(Pergam., 2nd c.BC), etc.">Refs 3rd c.BC+</a>]; = <b>colonus,</b> [<a href="javascript:void(0)" title=" 4th-6th c.AD: Codex Justinianus 1.34.1 (\_plural\_). ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.15.13]] ☩ [[Acts.7.6]] ☩ [[Lev.22.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.15.13]] ☩ [[Acts.7.6]] ☩ [[LXX.Lev.22.10]]
 </sub></small>

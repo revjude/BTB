@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> Philos., <b>in the intelligible world,</b> [
 $\quad$ $\quad$<b>\_\_II</b> with Verbs of motion, for <span class='asgreek'>==ἐκεῖ==σε</span>, <b>thither,</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>πλέομεν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.147 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἀπικέσθαι</span> variant in [<a href="javascript:void(0)" title=" [prev. author] 9.108; ὁδοῦ τῆς ἐ. 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1019; οἱ ἐ. καταπεφευγότες 5th c.BC: Thucydides Historicus 3.71, compare 2nd c.BC: Polybius Historicus 5.101.10; βλέψον δὲ κἀκεῖ 4th-3rd c.BC: Menander Comicus “Ἐπιτρέποντες” 103. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> rarely, of Time, <b>then,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Philoctetes” 395 (Lyric poetry), 4th c.BC: Demosthenes Orator 22.38. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.9.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.9.10]]
 </sub></small>

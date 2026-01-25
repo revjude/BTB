@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>bring in,</b> in a discussion, <span class='asgr
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> Astrology texts, ={<span class='asgreek'>ἐπισυμφέρω</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 288.29. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>conclude, infer,</b> <span class='asgreek'>συλλογιζόμενοι</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>μεταξὺ</span> <span class='asgreek'>χρόνον</span> <span class='asgreek'>==ἐπισυνάγω==άγουσιν</span> <span class='asgreek'>ὅτι</span>.. [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “Hypotyposis astronomicarum positionum” 5.54. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.6.16]] ☩ [[Matt.23.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.6.16]] ☩ [[Matt.23.37]]
 </sub></small>

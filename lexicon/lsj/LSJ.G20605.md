@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> in Roman Egypt, a numbered <b>divisi
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>collective</i>, ={<span class='asgreek'>οἱ</span> <span class='asgreek'>κληροῦχοι</span>}, <b>the body of citizens who receive such allotments</b>, <span class='asgreek'>ἀποικίαις</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>==κληρουχία==ίαις</span> [<a href="javascript:void(0)" title=" “IG” 12.140.9; κ. ἐκπέμπειν 5th-6th c.BC: Isocrates Orator 4.107 (\_plural\_); κ. ἔγραφεν 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pericles” 34 (\_plural\_). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>inheritance</b>, [<a href="javascript:void(0)" title=" LXX.Neh.11.20, 1st c.AD: Philo Judaeus 2.290 (\_plural\_). ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.11.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.11.20]]
 </sub></small>

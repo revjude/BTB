@@ -6,5 +6,5 @@
  <b>valuation,</b> [<a href="javascript:void(0)" title=" PRev.Laws 24.11 (3rd c.BC), “PCair.Zen.” 300.3 (3rd c.BC), LXX.Lev.27.18, LXX.2Kgs.12.4, “PGnom.” 70 (2nd c.AD), “POxy.” 1764.7 (3rd c.AD), etc. ">LXX+3rd c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Lev.27.18]] ☩ [[2Kgs.12.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.27.18]] ☩ [[LXX.2Kgs.12.4]]
 </sub></small>

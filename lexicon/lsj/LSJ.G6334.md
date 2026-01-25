@@ -6,5 +6,5 @@
  <b>blasted by the wind,</b> [<a href="javascript:void(0)" title=" LXX.Hos.8.7, 1st c.AD: Philo Judaeus 2.431.">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Hos.8.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Hos.8.7]]
 </sub></small>

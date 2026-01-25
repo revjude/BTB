@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>elevation, projection,</b> of a machine, 
 $\quad$ $\quad$<b>\_\_II</b> <b>elation,</b> <span class='asgreek'>ψυχῆς</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Zeno Citieus Stoicus 1.51 (\_plural\_), cf. Chrysipp.[prev. work]3.116">Refs 4th c.BC+</a>]; <span class='asgreek'>ἡδονή</span>, ={<span class='asgreek'>ἄλογος</span> <span class='asgreek'>ἔ</span>}. [<a href="javascript:void(0)" title=" “Stoicorum Veterum Fragmenta” 3.95, +others, Andronicus Epigrammaticus Rhod. p.570M., cf. LXX.Zech.12.7. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>elevation</b> of style, <span class='asgreek'>τοῦ</span> <span class='asgreek'>λόγου</span> Thom.Mag.[<a href="javascript:void(0)" title=" p.175R. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.140.2]] ☩ [[Lam.3.47]] ☩ [[2Kgs.19.25]] ☩ [[Zech.12.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.140.2]] ☩ [[LXX.Lam.3.47]] ☩ [[LXX.2Kgs.19.25]] ☩ [[LXX.Zech.12.7]]
 </sub></small>

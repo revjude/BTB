@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> in <i>active</i>, = <i>passive</i>, [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Ἰλλυρική” 23. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Dan.8.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.8.7]]
 </sub></small>

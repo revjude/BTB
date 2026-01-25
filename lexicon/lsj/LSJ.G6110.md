@@ -6,5 +6,5 @@
  <b>transport of joy,</b> [<a href="javascript:void(0)" title=" LXX.Ps.31.7, etc.">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.31.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.31.7]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>journey down</b> the Nile, [<a href="java
 $\quad$ $\quad$<b>\_\_II</b> <b>coming back, return,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hercules Furens” 19, 5th c.BC: Thucydides Historicus 3.114 ">Refs 5th c.BC+</a>]; especially of an exile to his country, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.60, 61, +others, 5th c.BC: Thucydides Historicus 3.85, 5.16, etc.; κ. καὶ ἄδεια [prev. author] 8.81. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>cycle, recurrence,</b> <span class='asgreek'>χιλίων</span> <span class='asgreek'>ἐτῶν</span> <span class='asgreek'>κ</span>. a thousand years <b>twice told,</b> in <i>plural</i>, [<a href="javascript:void(0)" title=" LXX.Eccl.6.6, compare 9th c.AD: Photius Legal icographus, etc. ">LXX+9th c.AD+</a>]; also <span class='asgreek'>τρεῖς</span> <span class='asgreek'>καθόδους</span> three <b>times,</b> [<a href="javascript:void(0)" title=" LXX.3Ki.9.25, compare 2nd c.AD: Aquila LXX.Exod.34.24, +others; ἄχρι δύο καθόδων ">LXX+2nd c.AD+</a>]<b>twice over,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Alexander Trallianus Medicus 1.17. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eccl.6.6]] ☩ [[Exod.34.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Eccl.6.6]] ☩ [[LXX.Exod.34.24]]
 </sub></small>

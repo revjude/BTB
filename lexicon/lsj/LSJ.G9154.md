@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> a plant, <span class='asgreek'>σ</span>. <span class='asgreek'>ἀγρία</span>, <b>stavesacre, Delphinium Staphisagria</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ γυναικείης φύσιος” 95, 1st c.AD: Dioscorides (Dioscurides) Medicus 4.152">Refs 5th c.BC+</a>]; <b>staphis</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 23.17. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.6.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.6.3]]
 </sub></small>

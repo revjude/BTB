@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>feminine</i> ={<span class='asgreek'>χίμαιρα</span>}, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 1.6, “epigram” 6.3, “Anthologia Graeca” 6.157 (3rd c.BC: Theodoridas Epigrammaticus), 9.403 (1st c.AD(?): Maecius Epigrammaticus). (Cogn. with χεῖμα, χειμών,">Refs 3rd c.BC+</a>] literal 'one winter old', cf. Latin <i>bīmus</i> (from <b>\*b[icaron]-h[icaron]mus,</b> cf. Sanskrit <i>himás</i> 'winter').)
 
-<small><sub>LSJ Scripture Refs: [[Lev.4.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.4.23]]
 </sub></small>

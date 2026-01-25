@@ -7,5 +7,5 @@ group of: <small>[[H3064G]]</small>
  <b>side with</b> or <b>imitate the Jews</b>, [<a href="javascript:void(0)" title=" LXX.Esth.8.17">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Esth.8.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.8.17]]
 </sub></small>

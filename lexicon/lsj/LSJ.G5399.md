@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.II.6</b> with <i>accusative</i> <i>of things</i>
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.7</b> with <i>genitive</i>, <span class='asgreek'>πεφοβημένος</span> <span class='asgreek'>νυκτός</span>, <span class='asgreek'>θαλάσσης</span>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus 290, 766. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.8</b> with <i>participle</i>, <span class='asgreek'>προδιδοὺς</span> <span class='asgreek'>φοβηθείς</span> [<a href="javascript:void(0)" title=" 4th c.BC: Lycurgus Orator 17. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.4.41]] ☩ [[1Pet.3.14]] ☩ [[Lev.26.2]] ☩ [[Jer.1.8]] ☩ [[Matt.10.28]] ☩ [[Luke.12.4]]
+<small><sub>LSJ Scripture Refs: [[Mark.4.41]] ☩ [[1Pet.3.14]] ☩ [[LXX.Lev.26.2]] ☩ [[LXX.Jer.1.8]] ☩ [[Matt.10.28]] ☩ [[Luke.12.4]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>release, discharge</b> from an obligation, [<a href="javascript:void(0)" title=" “POxy.” 1130.20 (5th c.AD). ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>λ</span>. <span class='asgreek'>ὕδατος</span>, = <b>spring</b> of water, [<a href="javascript:void(0)" title=" LXX.Josh.1.15. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.25.29]] ☩ [[Luke.1.68]] ☩ [[Heb.9.12]] ☩ [[Josh.1.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.25.29]] ☩ [[Luke.1.68]] ☩ [[Heb.9.12]] ☩ [[LXX.Josh.1.15]]
 </sub></small>

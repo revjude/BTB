@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>pollute, defile</b>, <span class='asgreek'>τινά</span> [<a href="javascript:void(0)" title=" LXX.Lev.21.9, 3rd c.AD: Heliodorus Scriptor Eroticus 2.25. ">LXX+3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.31.14]] ☩ [[Matt.12.5]] ☩ [[Lev.21.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.31.14]] ☩ [[Matt.12.5]] ☩ [[LXX.Lev.21.9]]
 </sub></small>

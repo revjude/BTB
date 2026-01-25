@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>adornments</b>, [<a href="javascript:void
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>restraint, decorum</b>, <span class='asgreek'>ὅσα</span> <span class='asgreek'>παίζεται</span> <span class='asgreek'>μετὰ</span> <span class='asgreek'>==περιστολή==ῆς</span> [<a href="javascript:void(0)" title="Aristeas  284. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ἐν</span> <span class='asgreek'>π</span>. <b>secretly,</b> [<a href="javascript:void(0)" title=" Psalm.Solom. 13.7. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.33.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.33.6]]
 </sub></small>

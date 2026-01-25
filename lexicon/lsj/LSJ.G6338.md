@@ -25,5 +25,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_C.5</b> <b>instead of,</b> as <span class='asgreek
 $\quad$ $\quad$ $\quad$<b>\_\_C.6</b> <b>equal to, like,</b> as <span class='asgreek'>==ἀνθ᾽ οὗ==θεος</span>, <span class='asgreek'>==ἀνθ᾽ οὗ==παις</span>, <span class='asgreek'>==ἀνθ᾽ οὗ==δουλος</span>. 
 $\quad$ $\quad$ $\quad$<b>\_\_C.7</b> <b>corresponding, counter,</b> as <span class='asgreek'>==ἀνθ᾽ οὗ==φορτος</span>, <span class='asgreek'>==ἀνθ᾽ οὗ==τυπος</span>.
 
-<small><sub>LSJ Scripture Refs: [[Luke.12.3]] ☩ [[Eph.5.31]] ☩ [[Deut.28.62]] ☩ [[John.1.16]]
+<small><sub>LSJ Scripture Refs: [[Luke.12.3]] ☩ [[Eph.5.31]] ☩ [[LXX.Deut.28.62]] ☩ [[John.1.16]]
 </sub></small>

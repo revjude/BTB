@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>encampment</b>, [<a href="javascript:v
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>παρεξειρεσία</span>} (which see), [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 21.7.4 (sed to be read παραβολαί). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> in boxing and wrestling, <span class='asgreek'>π</span>. <span class='asgreek'>βάλλειν</span> <b>trip</b> an adversary by a twist of the leg, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Ocyp.” 60, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.638f (\_plural\_). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.32.2]] ☩ [[Exod.14.19]] ☩ [[Acts.21.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.32.2]] ☩ [[LXX.Exod.14.19]] ☩ [[Acts.21.34]]
 </sub></small>

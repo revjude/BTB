@@ -6,5 +6,5 @@ Included with: <b> <span class='asgreek'>==χιλιοπλασίως==</span>-<s
  = {<span class='asgreek'>χιλιοπλασίων</span>}, only <i>adverb</i> <b>-<span class='asgreek'>ίως</span></b>[<a href="javascript:void(0)" title=" LXX.Deut.1.11. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.1.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.1.11]]
 </sub></small>

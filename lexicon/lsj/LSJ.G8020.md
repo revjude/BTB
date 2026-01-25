@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>periwinkle, Vinca herbacea</b>, [<a href="javasc
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>traveller's joy, Clematis Vitalba</b>, [<a href="javascript:void(0)" title="[prev. work]180, 2nd c.AD: Galenus Medicus 12.31. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> probably <b>bearbind, Convolvulus arvensis</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 24.139. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.32.32]] ☩ [[Dan.3.46]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.32]] ☩ [[LXX.Dan.3.46]]
 </sub></small>

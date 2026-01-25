@@ -44,5 +44,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_F.I.3</b> of the <b>agency</b> or <b>influence und
 $\quad$ $\quad$<b>\_\_F.II</b> denoting what is in small degree or gradual, <b>somewhat, a little,</b> as in <span class='asgreek'>ὑποκινέω</span>, <span class='asgreek'>ὑποδεής</span>, <span class='asgreek'>==ὑπό==λευκος</span> (so in tmesi, <span class='asgreek'>ὑ</span>. <span class='asgreek'>τι</span> <span class='asgreek'>ἀσεβῆ</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 242d, compare “Grg.” 493c; ὑ. τι μικρὸν ἐπιθήκισα 5th-6th c.BC: Aristophanes Comicus “Vespae” 1290 (Lyric poetry)). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_F.III</b> <b>underhand, secretly,</b> as in <span class='asgreek'>ὑποθέω</span>, <span class='asgreek'>ὑποθωπεύω</span>, <span class='asgreek'>ὑποκορίζομαι</span>, <span class='asgreek'>==ὑπό==ρνυμι</span>.
 
-<small><sub>LSJ Scripture Refs: [[Job.12.5]] ☩ [[Lev.27.32]] ☩ [[Deut.4.11]] ☩ [[Exod.17.14]] ☩ [[Gen.18.4]] ☩ [[Eccl.7.7]] ☩ [[Lam.3.34]] ☩ [[Prov.6.7]] ☩ [[Ps.143.2]] ☩ [[Jonah.4.10]] ☩ [[Acts.5.21]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.12.5]] ☩ [[LXX.Lev.27.32]] ☩ [[LXX.Deut.4.11]] ☩ [[LXX.Exod.17.14]] ☩ [[LXX.Gen.18.4]] ☩ [[LXX.Eccl.7.7]] ☩ [[LXX.Lam.3.34]] ☩ [[LXX.Prov.6.7]] ☩ [[LXX.Ps.143.2]] ☩ [[LXX.Jonah.4.10]] ☩ [[Acts.5.21]]
 </sub></small>

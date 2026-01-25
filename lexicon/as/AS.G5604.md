@@ -1,11 +1,11 @@
 <span class="asform"><span class="asgreek"><span class="asbold">ὠδίν</span></span></span> <span class="asetym">  <span class="asderivation">(late form of <span class="asgreek">ὠδίς</span>), <span class="asgreek">-ῖνος, ἡ</span> </span>  <span class="asseptuagint">\[in LXX for<span class="ashebrew">חֶבֶל</span> <small><sup>[[H2256]]</sup></small> (and wrongly for<span class="ashebrew">חֶבֶל</span> <small><sup>[[H2256]]</sup></small>, cf. Ac, l.c.), <span class="ashebrew">חִיל</span> <small><sup>[[H2427]]</sup></small>, etc. ;\]</span> </span>
-<span class="asitalic">a birth pang, travail pain</span>: [[1Thess.5.3|I Th 5:3]]; metaph., of extreme suffering, [[Matt.24.8|Mt 24:8]], [[Mark.13.8|Mk 13:8]]; <span class="asgreek">ὠδῖνες θανάτου</span> ([[Ps.18.4|Ps 17 (18):4]] <span class="ashebrew">הֶבְלֵי</span> <small><sup>[[H2256]]</sup></small><span class="ashebrew">מָוֶת</span> <small><sup>[[H4194]]</sup></small>), [[Acts.2.24|Ac 2:24]].†
+<span class="asitalic">a birth pang, travail pain</span>: [[1Thess.5.3|I Th 5:3]]; metaph., of extreme suffering, [[Matt.24.8|Mt 24:8]], [[Mark.13.8|Mk 13:8]]; <span class="asgreek">ὠδῖνες θανάτου</span> ([[LXX.Ps.18.4|Ps 17 (18):4]] <span class="ashebrew">הֶבְלֵי</span> <small><sup>[[H2256]]</sup></small><span class="ashebrew">מָוֶת</span> <small><sup>[[H4194]]</sup></small>), [[Acts.2.24|Ac 2:24]].†
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Psalms | [[Ps.18.4\|18:4]] |
+| Psalms | [[LXX.Ps.18.4\|18:4]] |
 | Matthew | [[Matt.24.8\|24:8]] |
 | Mark | [[Mark.13.8\|13:8]] |
 | Acts | [[Acts.2.24\|2:24]] |

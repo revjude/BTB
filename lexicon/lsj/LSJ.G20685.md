@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> in Mathematics texts in <i>comparative</i>, <b>having a higher denominator</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “in Nicomachi arithmeticam introductionem” p.50 P., +others">Refs 4th c.AD+</a>] <i>adverb</i> -<span class='asgreek'>ωτέρως</span> [<a href="javascript:void(0)" title="[prev. work] p.85 P. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jer.39.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.39.19]]
 </sub></small>

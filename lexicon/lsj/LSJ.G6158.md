@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>sublimed vapour</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Zosimus Epigrammaticus Alch. p.250B., +others">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.9.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.9.8]]
 </sub></small>

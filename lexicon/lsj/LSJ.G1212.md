@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>δῆλον</span> 
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <i>adverb</i> <span class='asgreek'>δήλως</span> is rejected by <i>Attic dialect</i>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 6.207. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>δῆλοι</span>, <span class='asgreek'>οἱ</span>, <b>Urim,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.28.6, +others (Cf. δέατο.) ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.28.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.28.6]]
 </sub></small>

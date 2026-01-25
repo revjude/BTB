@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>πορφυροῦς</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Esth.1.6]] ☩ [[Rev.19.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Esth.1.6]] ☩ [[Rev.19.8]]
 </sub></small>

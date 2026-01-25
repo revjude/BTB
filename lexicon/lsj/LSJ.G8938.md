@@ -6,5 +6,5 @@
  <b>object of wrath, offence</b>,[<a href="javascript:void(0)" title="LXX.2Kgs.23.13 ">LXX</a>]; <span class='asgreek'>προσοχθίσματι</span> <span class='asgreek'>προσοχθιεῖς</span>[<a href="javascript:void(0)" title="LXX.Deut.7.26. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.23.13]] ☩ [[Deut.7.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.23.13]] ☩ [[LXX.Deut.7.26]]
 </sub></small>

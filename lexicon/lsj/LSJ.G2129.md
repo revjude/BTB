@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>act of blessing</b>, opposed to <span class='as
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>blessing called down</b> or <b>bestowed</b>, [<a href="javascript:void(0)" title=" LXX.Prov.10.22, NT.1Pet.3.9. ">LXX+NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>gift, bounty</b>, [<a href="javascript:void(0)" title=" LXX.Josh.15.19, LXX.4Ki.5.15, NT.2Cor.9.5 ">LXX+NT</a>]; <span class='asgreek'>ὁ</span> <span class='asgreek'>σπείρων</span> <span class='asgreek'>ἐπ᾽</span> <span class='asgreek'>==εὐλογία==ίαις</span> <span class='asgreek'>ἐπ᾽</span> <span class='asgreek'>==εὐλογία==ίαις</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>θερίσει</span> <b>bountifully</b>,[<a href="javascript:void(0)" title=" [prev. work] 6, compare 1st c.AD: Philo Judaeus 1.129. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.16.18]] ☩ [[Rev.7.12]] ☩ [[Gen.27.12]] ☩ [[Jas.3.10]] ☩ [[Prov.10.22]] ☩ [[1Pet.3.9]] ☩ [[Josh.15.19]] ☩ [[2Cor.9.5]]
+<small><sub>LSJ Scripture Refs: [[Rom.16.18]] ☩ [[Rev.7.12]] ☩ [[LXX.Gen.27.12]] ☩ [[Jas.3.10]] ☩ [[LXX.Prov.10.22]] ☩ [[1Pet.3.9]] ☩ [[LXX.Josh.15.19]] ☩ [[2Cor.9.5]]
 </sub></small>

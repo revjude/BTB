@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <span class='asgre
 $\quad$ $\quad$<b>\_\_III</b> <b>mount, cover</b>, of the male, [<a href="javascript:void(0)" title=" 4th c.AD: Palaephatus Paradoxographus 39. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>to be initiated</b> into the mysteries, [<a href="javascript:void(0)" title=" “Jahresh.” 15.46 (from Notium), cf. NT.Col.2.18. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.19.49]] ☩ [[Col.2.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.19.49]] ☩ [[Col.2.18]]
 </sub></small>

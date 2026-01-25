@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>of one kind</b>, <span class='asgreek'>ἁπλαῖ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>μ</span>. <span class='asgreek'>ἡδοναί</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.662a ">Refs 1st c.AD+</a>]; <span class='asgreek'>μ</span>. <span class='asgreek'>λέξις</span>, opposed to <span class='asgreek'>ποικίλη</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “Rh.” 1.8 ">Refs 1st c.BC+</a>]. <i>adverb</i> -<span class='asgreek'>πως</span> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 5.10.4. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.67.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.67.6]]
 </sub></small>

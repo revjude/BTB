@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> in the Logic of [<a href="javascript:void
 $\quad$ $\quad$ $\quad$<b>\_\_IV.4</b> practical or theoretical <b>problem,</b> <span class='asgreek'>εἰς</span> <span class='asgreek'>π</span>. <span class='asgreek'>παμμέγεθες</span> <span class='asgreek'>ἐνέπεσε</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 28.13.9; εὕροντο λύσιν τοῦ π. [prev. author] 30.19.5; ἐν προβλήμασιν ἢ κρίνομεν ἢ βουλευόμεθα 2nd c.AD: Hermogenes Rhetor “περὶ εὑρέσεως” 1.1. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.5</b> <b>riddle,</b> <span class='asgreek'>π</span>. <span class='asgreek'>προβάλλειν</span> [<a href="javascript:void(0)" title=" LXX.Judg.14.12. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Judg.14.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Judg.14.12]]
 </sub></small>

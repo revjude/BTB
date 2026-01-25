@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>leap up,</b> [<a href="javascript:void(0)" title
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ἐξάλλετο</span> <span class='asgreek'>γαστήρ</span> <b>swelled, became distended,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Hymnus in Cererem” 88 (assuming variant). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i>, <span class='asgreek'>ἐ</span>. <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span> <b>fly off</b> to, <b>have recourse</b> to, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.382e. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mic.2.12]] ☩ [[Acts.3.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mic.2.12]] ☩ [[Acts.3.8]]
 </sub></small>

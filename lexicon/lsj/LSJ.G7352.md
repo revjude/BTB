@@ -6,5 +6,5 @@
  <b>contempt,</b> [<a href="javascript:void(0)" title=" LXX.Ps.30.19. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.30.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.30.19]]
 </sub></small>

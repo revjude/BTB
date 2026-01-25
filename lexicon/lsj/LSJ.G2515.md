@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>session</b>, [<a href="javascript:void
 $\quad$ $\quad$<b>\_\_III</b> <b>chair</b> of a teacher, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>Μωυσέως</span> <span class='asgreek'>κ</span>. <span class='asgreek'>ἐκάθισαν</span> [<a href="javascript:void(0)" title=" NT.Matt.23.2 ">NT</a>]; <b>professorial chair</b>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>κ</span>. <span class='asgreek'>σοφιστής</span> [<a href="javascript:void(0)" title=" “SIG” 845 (Eleusis, 3rd c.AD). ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> imperial <b>throne</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>Αὐτοκράτορος</span>, the Emperor's representative, [<a href="javascript:void(0)" title=" “BSA” 27.234 (Sparta, 2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.1.1]] ☩ [[Matt.23.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.1.1]] ☩ [[Matt.23.2]]
 </sub></small>

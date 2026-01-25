@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>get control</b>, <i>absolutely</i>, of mutineers, Ps.-[<a href="javascript:void(0)" title=" 1st c.BC: Ptolemaeus Epigrammaticus “Centil.” 56. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.1.13]] ☩ [[Amos.8.4]] ☩ [[Jas.2.6]] ☩ [[Neh.5.5]] ☩ [[Acts.10.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.1.13]] ☩ [[LXX.Amos.8.4]] ☩ [[Jas.2.6]] ☩ [[LXX.Neh.5.5]] ☩ [[Acts.10.38]]
 </sub></small>

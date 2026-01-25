@@ -1,0 +1,26 @@
+**LXX Song of Solomon 5:13** 
+<small><sub>**LXX:**</sub></small>
+His jaws \[are\] as bowls of the aromatic, germinating scents. His lips \[are as\] lilies dripping full- \[bodied\] myrrh. 
+<small><sub>**KJV:**</sub></small>
+His cheeks [are] as a bed of spices, [as] sweet flowers: his lips [like] lilies, dropping sweet smelling myrrh.
+<small><sub>**BSB:**</sub></small>
+His cheeks are like beds of spice, towers of perfume. His lips are like lilies, dripping with flowing myrrh.<small><sub>**MT:**</sub></small>
+[[Song.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.12|<< Song of Solomon 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.14|Song of Solomon 5:14 >>]]</td></tr></table>
+
+| Translation | <span class="asgreek">Greek</span> <small><sup>\[Strong\'s\]</sup></small> |
+| - | - |
+| His jaws | <span class="asgreek">σιαγόνες <sup><small><small>[[G4600]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[are\] as | <span class="asgreek">ως <sup><small><small>[[G5613]]</small></small></sup> </span> |
+| bowls | <span class="asgreek">φιάλαι <sup><small><small>[[G5357]]</small></small></sup> </span> |
+| of the | <span class="asgreek">του <sup><small><small>[[G3588]]</small></small></sup> </span> |
+| aromatic, | <span class="asgreek">αρώματος <sup><small><small>[[G0759]]</small></small></sup> </span> |
+| germinating | <span class="asgreek">φύουσαι <sup><small><small>[[G5453]]</small></small></sup> </span> |
+| scents. | <span class="asgreek">μυρεψικά <sup><small><small>[[G8360]]</small></small></sup> </span> |
+| His lips | <span class="asgreek">χείλη <sup><small><small>[[G5491]]</small></small></sup> <span class="asgreek">αυτού <sup><small><small>[[G1473]]</small></small></sup> </span> |
+| \[are as\] lilies | <span class="asgreek">κρίνα <sup><small><small>[[G2918]]</small></small></sup> </span> |
+| dripping | <span class="asgreek">στάζοντα <sup><small><small>[[G9147]]</small></small></sup> </span> |
+| myrrh | <span class="asgreek">σμύρναν <sup><small><small>[[G4666]]</small></small></sup> </span> |
+| full- \[bodied\] | <span class="asgreek">πλήρη <sup><small><small>[[G4134]]</small></small></sup> </span> |
+[[Song.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.12|<< Song of Solomon 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.14|Song of Solomon 5:14 >>]]</td></tr></table>
+
+

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of persons, <b>stately, haughty</b>, [<a hre
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>μ</span>. <span class='asgreek'>τινός</span>, as a title, <b>Highness,</b> [<a href="javascript:void(0)" title=" POxy. 1204.10 (3rd c.AD), etc. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> of style, <b>elevated</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 14, +others">Refs 4th c.BC+</a>] <i>adverb</i> <i>superlative</i> -<span class='asgreek'>ότατα</span>, <span class='asgreek'>ἑρμηνεῦσαι</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vitae Sophistarum” 1.21.1. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.11.2]] ☩ [[Acts.2.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.11.2]] ☩ [[Acts.2.11]]
 </sub></small>

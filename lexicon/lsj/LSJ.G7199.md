@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>hair-clasp</b>, [<a href="javascript:void(0)" title=" “BGU” 1300.24 (3rd-2nd c.BC), LXX.Exod.35.22, LXX.Num.31.50. ">LXX+3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.35.22]] ☩ [[Num.31.50]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.35.22]] ☩ [[LXX.Num.31.50]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>κύπρινον</s
 $\quad$ $\quad$<b>\_\_II</b> <b>a measure of corn</b>, [<a href="javascript:void(0)" title=" 7th-6th c.BC: Alcaeus Lyricus 141, “SIG” 302 (Gambreum, 4th c.BC), “Rev.Ét.Gr.” 19.237 (Aphrod.). ">Refs 7th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> ={<span class='asgreek'>κεφάλαιον</span> <span class='asgreek'>ἀριθμοῦ</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Song.1.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.1.14]]
 </sub></small>

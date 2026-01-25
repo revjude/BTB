@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> <span class='asgreek'>δ</span>. <span cla
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_V.2.b</b> fossil found in Crete, [<a href="javascript:void(0)" title=" 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 37.170. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <span class='asgreek'>δ</span>. <span class='asgreek'>θεοῦ</span> the <b>hand</b> of God, [<a href="javascript:void(0)" title=" LXX.Exod.8.19, cf. NT.Luke.11.20. (Orig. Δάτκυλος,">LXX+NT</a>] compare <i>Boeotian dialect</i> <span class='asgreek'>δακκύλιος</span> [<a href="javascript:void(0)" title=" “Schwyzer” 462 B 51">Refs</a>]; <span class='asgreek'>δατ</span>- = <b>d[ngnull]t,</b> cf. Sanskrit <i>a-datkas</i> 'toothless'.)
 
-<small><sub>LSJ Scripture Refs: [[Exod.8.19]] ☩ [[Luke.11.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.8.19]] ☩ [[Luke.11.20]]
 </sub></small>

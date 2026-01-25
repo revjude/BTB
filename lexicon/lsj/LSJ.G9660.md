@@ -6,5 +6,5 @@
  <b>tributary,</b> <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" LXX.Deut.20.11 ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.20.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.20.11]]
 </sub></small>

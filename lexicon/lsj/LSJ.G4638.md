@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> in <i>singular</i> <i>metaphorically</i>,= <
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>temple</b>, [<a href="javascript:void(0)" title=" LXX.Ps.14.1, +others">LXX</a>]: name of a building at Sparta, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 3.17.6. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> = <b>papilio,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>] (perhaps in both senses, <b>pavilion</b> and <b>butterfly</b>, compare <span class='asgreek'>σκῆν</span>).
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.7.23]] ☩ [[1Kgs.4.10]] ☩ [[2Pet.1.13]] ☩ [[Ps.14.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.7.23]] ☩ [[LXX.1Kgs.4.10]] ☩ [[2Pet.1.13]] ☩ [[LXX.Ps.14.1]]
 </sub></small>

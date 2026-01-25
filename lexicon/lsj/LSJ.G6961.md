@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>glorified,</b> [<a href="javascript:void(0)" title=" LXX.Deut.26.19 ">LXX</a>]; <b>held in honour,</b> probably in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ εὐσχημοσύνης” 18. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Deut.26.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.26.19]]
 </sub></small>

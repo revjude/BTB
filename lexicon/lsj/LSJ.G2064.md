@@ -27,5 +27,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.7</b> <span class='asgreek'>ἔ</span>. <span cl
 $\quad$ $\quad$ $\quad$<b>\_\_B.8</b> <span class='asgreek'>ἔ</span>. <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>πόλιν</span> <b>attack,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 2.11. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.9</b> <span class='asgreek'>ἔ</span>. <span class='asgreek'>ἐς</span> <b>depend</b> upon or <b>be concerned</b> with, <span class='asgreek'>τό</span> <span class='asgreek'>γ᾽</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>ἀνθρώπους</span> <span class='asgreek'>ἐλθόν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Aristides Rhetor 1.149 1st c.AD: Josephus Historicus; τοῖς λογισμοῖς εἰς ἑαυτοὺς ἐρχόμενοι 1st c.BC: Diodorus Siculus Historicus 13.95; ὅσα εἰς ἀρετὴν ἔρχεται 4th c.AD: Libanius Sophista “Orationes” 22.18; τῶν πραττομένων οὐκ όλίγον εἰς ἐκεῖνον ἤρχετο [prev. work] 14.31. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.48.7]] ☩ [[Mark.1.45]] ☩ [[2Kgs.24.7]] ☩ [[Matt.25.36]] ☩ [[Josh.2.22]] ☩ [[Rev.2.5]] ☩ [[John.18.4]] ☩ [[Luke.15.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.48.7]] ☩ [[Mark.1.45]] ☩ [[LXX.2Kgs.24.7]] ☩ [[Matt.25.36]] ☩ [[LXX.Josh.2.22]] ☩ [[Rev.2.5]] ☩ [[John.18.4]] ☩ [[Luke.15.17]]
 </sub></small>

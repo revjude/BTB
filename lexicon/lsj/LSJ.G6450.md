@@ -6,5 +6,5 @@
  <b>hiding-place,</b> [<a href="javascript:void(0)" title=" LXX.Job.22.14, +others">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.22.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.22.14]]
 </sub></small>

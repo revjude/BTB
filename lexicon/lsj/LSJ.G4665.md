@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>Σμάραγδος</span>, <span class='asgreek'>ἡ</span>, name of the emerald mines in Egypt, <span class='asgreek'>ἀρχιμεταλλάρχου</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>Ζμαράγδου</span> [<a href="javascript:void(0)" title=" “Proc.Soc.Bibl. Arch.” 31 (1909). 323 (1st c.AD)">Refs 1st c.AD+</a>]; <span class='asgreek'>μεταλλάρχη</span> (<i>genitive</i> <i>singular</i>) <span class='asgreek'>Ζμαράκτου</span> [<a href="javascript:void(0)" title=" “OGI” 660.2 (Egypt, 1st c.AD)">Refs 1st c.AD+</a>]; also <span class='asgreek'>Σμάραγδος</span> <span class='asgreek'>ὄρος</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Geographia” 4.5.8. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.28.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.28.9]]
 </sub></small>

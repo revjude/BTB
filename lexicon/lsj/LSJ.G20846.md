@@ -5,5 +5,5 @@
  uncertain reading in [<a href="javascript:void(0)" title=" LXX.Ps.118.148 ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.118.148]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.118.148]]
 </sub></small>

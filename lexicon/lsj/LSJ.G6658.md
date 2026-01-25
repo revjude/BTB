@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>sea-fish,</b> [<a href="javascript:void(0)" titl
 $\quad$ $\quad$<b>\_\_V</b> <b>the star a Leonis, Regulus,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Geminus Astronomicus 3.5, 4th c.AD: Hephaestio Astrologus 2.18, etc. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> kind of <b>shoe,</b> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 7.85. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.90.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.90.13]]
 </sub></small>

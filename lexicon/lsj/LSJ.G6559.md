@@ -6,5 +6,5 @@
  <b>commander-in-chief,</b> [<a href="javascript:void(0)" title=" LXX.Josh.5.15, +others, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 6.11.9, etc.">LXX+1st c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Josh.5.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.5.15]]
 </sub></small>

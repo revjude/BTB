@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>privilege of age,</b> [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>right of the eldest, his share of the inheritance,</b> <span class='asgreek'>==πρεσβεῖον==εῖα</span> <span class='asgreek'>λαβεῖν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 36.35, compare 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 2.1.1; ἀπολιπεῖν π. τὴν ἀρχήν 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Artoxerxes” 26 ">Refs 4th c.BC+</a>]; <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>π</span>., ={<span class='asgreek'>κατὰ</span> <span class='asgreek'>==πρεσβεῖον==είαν</span>}, [<a href="javascript:void(0)" title=" LXX.Gen.43.33, compare 1st c.BC: Nicolaus Damascenus Historicus 58J. ">LXX+1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>old age</b> itself, [<a href="javascript:void(0)" title=" LXX.Ps.70.18. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.43.33]] ☩ [[Ps.70.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.43.33]] ☩ [[LXX.Ps.70.18]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>angel</b>, [<a href="javascript:void(0)" 
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> in later philosophical, <b>semi-divine being</b>, <span class='asgreek'>ἡλιακοὶ</span> <span class='asgreek'>ἄ</span>.[<a href="javascript:void(0)" title=" 4th c.AD: Julianus Imperator “Orationes” 4.141b, compare 4th c.AD: Iamblichus Philosophus “de Mysteriis” 2.6, 5th c.AD: Proclus Philosophus ">Refs 4th c.AD+</a>] <b>in R.</b>2.243 K.; <span class='asgreek'>ἄ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>ἀρχάγγελοι</span>[<a href="javascript:void(0)" title=" “Theologumena Arithmeticae” 43.10, compare 5th-6th c.AD: Damascius Philosophus “de Principiis” 183, +others">Refs 5th c.AD+</a>]: also in mystical and magical writings, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Hermes Trismegistus cited in 5th c.AD: Stobaeus, Joannes 1.49.45, “PMag.Lond.” 46.121, etc. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> title of Artemis at Syracuse, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.28.12]] ☩ [[Matt.1.24]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.28.12]] ☩ [[Matt.1.24]]
 </sub></small>

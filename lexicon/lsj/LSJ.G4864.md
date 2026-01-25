@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>collection</b>, <span class='asgreek'>
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>combination</b>, [<span class='asgreek'>πολιτειῶν</span>] [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1316b40. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>conclusion, inference</b>, [<a href="javascript:void(0)" title=" [prev. author] “Rh.” 1400b26, 1410a22, 2nd c.AD: Galenus Medicus 16.676, 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 2.143, 170 ">Refs 2nd c.AD+</a>]; <b>cogent reasoning</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 2.89 ">Refs 3rd c.BC+</a>]; <b>demonstration</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.91 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.12.3]] ☩ [[Luke.8.41]] ☩ [[Acts.9.2]] ☩ [[Gen.1.9]] ☩ [[Lev.11.36]] ☩ [[Exod.34.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.12.3]] ☩ [[Luke.8.41]] ☩ [[Acts.9.2]] ☩ [[LXX.Gen.1.9]] ☩ [[LXX.Lev.11.36]] ☩ [[LXX.Exod.34.22]]
 </sub></small>

@@ -19,5 +19,5 @@ $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>τὸ</span> <span class='asgr
 $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> <b>conscience</b>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>συνειδότος</span> <span class='asgreek'>ἐπαρρησιάζετο</span> <span class='asgreek'>ἀγαθοῦ</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 7.10.10, compare 3rd c.AD: Heliodorus Scriptor Eroticus 6.7, 4th c.AD: Alciphro Epistolographus 1.10.5, Chor. p.38 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <span class='asgreek'>ὡς</span> <span class='asgreek'>ἂν</span> <span class='asgreek'>συνειδῇς</span> as you may <b>think proper</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 13.2. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.27.6]] ☩ [[1Cor.4.4]] ☩ [[Acts.5.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.27.6]] ☩ [[1Cor.4.4]] ☩ [[Acts.5.2]]
 </sub></small>

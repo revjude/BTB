@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἐνθύμια</span>, <span class='asgreek'>τά</span>, <b>meaning,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.484 ">Refs 1st c.AD+</a>]; <b>ideas,</b> [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de vita Pythagorica” 5.20 ">Refs 4th c.AD+</a>]; <span class='asgreek'>ἐνθύμιον</span> <span class='asgreek'>ποιεῖσθαι</span> <b>reflect,</b> with <i>accusative</i> et <i>infinitive</i>, [<a href="javascript:void(0)" title=" 4th c.AD: Alciphro Epistolographus 3.10 ">Refs 4th c.AD+</a>]; <span class='asgreek'>λαμβάνω</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἐ</span>. I take the <b>hint,</b> Ach. Tat.[<a href="javascript:void(0)" title=" 2.7. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.75.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.75.10]]
 </sub></small>

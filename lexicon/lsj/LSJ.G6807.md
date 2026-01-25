@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>Jewish traditions,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 146.1.2. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.23.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.23.4]]
 </sub></small>

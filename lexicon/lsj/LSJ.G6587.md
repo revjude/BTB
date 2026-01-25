@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>not walled off,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.64.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Zech.2.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Zech.2.4]]
 </sub></small>

@@ -19,5 +19,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>arbitrary determination</b>, opposed 
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> in Grammars, <b>primary</b> (non-derivative) <b>element</b> or <b>form</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 11.21, +others, compare “Synt.” 47.22 ">Refs 2nd c.AD+</a>]; of the present tense, <span class='asgreek'>τὸ</span> <span class='asgreek'>θ</span>., <span class='asgreek'>ἀμύσσω</span>· <span class='asgreek'>ὁ</span> <span class='asgreek'>μέλλων</span>, <span class='asgreek'>ἀμύξω</span> [<a href="javascript:void(0)" title=" “Etymologicum Magnum” 88.13. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> in Stoic Logic, <b>mode of reduction</b> of an irregular syllogism, [<a href="javascript:void(0)" title=" “Stoicorum Veterum Fragmenta” 2.77,83, +others ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.24.6]] ☩ [[1Kgs.6.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.24.6]] ☩ [[LXX.1Kgs.6.8]]
 </sub></small>

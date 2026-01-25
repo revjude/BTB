@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>fame, credit</b>, [<a href="javascrip
 $\quad$ $\quad$<b>\_\_IV</b> <b>means of knowing</b>: hence, <b>statement in writing,</b> [<a href="javascript:void(0)" title=" PLond. 5.1708, etc. (6th c.AD). ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> ={<span class='asgreek'>γνῶμα</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus s. Hymns of  see ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Kgs.2.3]] ☩ [[1Cor.8.7]] ☩ [[Eph.3.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.2.3]] ☩ [[1Cor.8.7]] ☩ [[Eph.3.19]]
 </sub></small>

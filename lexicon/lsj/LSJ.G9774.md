@@ -6,5 +6,5 @@
  <b>molten-work, molten image,</b> [<a href="javascript:void(0)" title=" LXX.Deut.9.12, +others, “PLeid.X.” 21 5th c.BC: Bacchylides Lyricus ">LXX+5th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Deut.9.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.9.12]]
 </sub></small>

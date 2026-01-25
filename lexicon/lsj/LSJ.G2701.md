@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>pursue</b>, [<a href="javascript:void(
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>hurry</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.512e. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>slip down</b>, of a bandage, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(1).829. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Lev.26.37]]
+<small><sub>LSJ Scripture Refs: [[LXX.Lev.26.37]]
 </sub></small>

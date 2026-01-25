@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>smelt</b> or <b>cast</b> metal, [<a href="javasc
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>get together,</b> <span class='asgreek'>ἀργύριον</span> [<a href="javascript:void(0)" title=" LXX.2Kgs.22.9. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_IV</b> see at {<span class='asgreek'>χωνεύω</span>} [<a href="javascript:void(0)" title=" 11. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.26.37]] ☩ [[2Chr.4.3]] ☩ [[2Chr.34.17]] ☩ [[2Kgs.22.9]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.26.37]] ☩ [[LXX.2Chr.4.3]] ☩ [[LXX.2Chr.34.17]] ☩ [[LXX.2Kgs.22.9]]
 </sub></small>

@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>mark</b>, <span class='asgreek'>ἐν</span> <sp
 $\quad$ $\quad$<b>\_\_V</b> <b>address</b> of a correspondent, [<a href="javascript:void(0)" title=" “POxy.” 1678.28 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <span class='asgreek'>βασιλικὴ</span> <span class='asgreek'>σ</span>. royal <b>insignia</b> or <b>appearance</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus “de fasciis - Opera Hippocratis et Galeni” 8. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Num.29.1]] ☩ [[Lev.13.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.29.1]] ☩ [[LXX.Lev.13.2]]
 </sub></small>

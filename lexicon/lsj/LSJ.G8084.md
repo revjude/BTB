@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>χρέμμα</span>}, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristippus Philosophus cited in 3rd c.AD(?): Diogenes Laertius 2.67. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>alloy</b> of metals, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 13.1.56 ">Refs 1st c.BC+</a>]. <b><span class='asgreek'>κραμάσαι</span></b>, see at {<span class='asgreek'>κρεμάννυμι</span>}.
 
-<small><sub>LSJ Scripture Refs: [[Song.7.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Song.7.2]]
 </sub></small>

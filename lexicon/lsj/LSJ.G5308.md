@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of persons, opposed to <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>upraised,</b> i.e. <b>mighty,</b> <span class='asgreek'>ἐν</span> <span class='asgreek'>βραχίονι</span> -<span class='asgreek'>λῷ</span> [<a href="javascript:void(0)" title=" LXX.Exod.6.1, +others ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> of poets, <b>sublime,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 40.2">Refs 3rd c.AD+</a>]; <span class='asgreek'>τὰ</span> -<span class='asgreek'>ότερα</span> the <b>loftier, sublimer</b> thoughts or language, [<a href="javascript:void(0)" title=" [prev. author] 43.3">Refs</a>]; <span class='asgreek'>ὑ</span>. <span class='asgreek'>λέξις</span>, <span class='asgreek'>λόγος</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Lysia” 13, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pericles” 5 ">Refs 1st c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>λῶς</span></b>[<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 10.12. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.6.1]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.6.1]]
 </sub></small>

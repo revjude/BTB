@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> by confusion of Hebrew <b>sāmar</b> 'bristled' with <b>sāmar</b>, <i>imperative</i> <b>sèmōr</b> 'nail thou', <span class='asgreek'>καθήλωσον</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>φόβου</span> <span class='asgreek'>σου</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>σάρκας</span> <span class='asgreek'>μου</span> [<a href="javascript:void(0)" title=" LXX.Ps.118.120. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.118.120]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.118.120]]
 </sub></small>

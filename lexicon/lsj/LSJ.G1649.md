@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>conviction</b>, <span class='asgreek'>παρανομίας</span> [<a href="javascript:void(0)" title=" NT.2Pet.2.16. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.21.4]] ☩ [[2Pet.2.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.21.4]] ☩ [[2Pet.2.16]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>cleanse with the herb</b> <span class='asgreek'>στρούθειον</span>, [<a href="javascript:void(0)" title=" “PSI” 4.429.16 (3rd c.BC), 1st c.AD: Dioscorides (Dioscurides) Medicus 2.74, “PHolm.” 15.2. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Isa.10.14]]
+<small><sub>LSJ Scripture Refs: [[LXX.Isa.10.14]]
 </sub></small>

@@ -24,5 +24,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.6</b> <b>endure, put up with</b>, <span class='
 $\quad$ $\quad$<b>\_\_V</b> <b>control, command</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 10, 5th c.BC: Euripides Tragicus “Hecuba” 282:">Refs 5th c.BC+</a>] —<i>passive</i>, <span class='asgreek'>αἰσχρὰ</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>νόμῳ</span> <span class='asgreek'>κρατούμενα</span> <b>controlled</b> by.., [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 755; κρατεῖσθαι ὑπὸ τοῦ προβουλεύματος 1st c.BC: Dionysius Halicarnassensis 9.52; διαθέσει 3rd c.AD: Porphyrius Tyrius Philosophus “Sententiae ad intelligibilia ducentes” 27. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <b>repair, make good</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>βεδὲκ</span> (Hebrew) <span class='asgreek'>τοῦ</span> <span class='asgreek'>οἴκου</span> [<a href="javascript:void(0)" title=" LXX.2Kgs.12.5. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.19.16]] ☩ [[Matt.9.25]] ☩ [[Mark.9.27]] ☩ [[Matt.14.3]] ☩ [[2Thess.2.15]] ☩ [[Acts.2.24]] ☩ [[Rev.2.1]] ☩ [[2Kgs.12.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.19.16]] ☩ [[Matt.9.25]] ☩ [[Mark.9.27]] ☩ [[Matt.14.3]] ☩ [[2Thess.2.15]] ☩ [[Acts.2.24]] ☩ [[Rev.2.1]] ☩ [[LXX.2Kgs.12.5]]
 </sub></small>

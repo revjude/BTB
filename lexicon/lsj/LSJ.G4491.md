@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>that from which anything springs as from a root<
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>base, foundation</b>, <span class='asgreek'>ῥ</span>. <span class='asgreek'>πάντων</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>βάσις</span> <span class='asgreek'>ἁ</span> <span class='asgreek'>γᾶ</span> <span class='asgreek'>ἐρήρεισται</span> Ti. <i>Locrian dialect</i>[<a href="javascript:void(0)" title=" 97e,compare 5th-6th c.BC: Plato Philosophus “Timaeus” 81c ">Refs 5th c.BC+</a>]; <b>base</b> of a vertical pillar, [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “Hypotyposis astronomicarum positionum” 3.23; τῶν λόφων 1st c.AD: Onosander (Onasander) Tacticus 10.6. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> in Mathematics texts, <b>root</b> or <b>base</b> of a series, Anatolius cited in [<a href="javascript:void(0)" title=" “Theologumena Arithmeticae” 9">Refs</a>]. (<i>Aeolic dialect</i> <b><span class='asgreek'>βρίζα</span></b> (which see): cf. Gothic <i>waúrts</i>, Latin <i>radix.</i>)
 
-<small><sub>LSJ Scripture Refs: [[Job.31.12]] ☩ [[1Tim.6.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.31.12]] ☩ [[1Tim.6.10]]
 </sub></small>

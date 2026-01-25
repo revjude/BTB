@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>to be prevalent</b>, <span clas
 $\quad$ $\quad$<b>\_\_II</b> <b>come to one's full strength</b>, <span class='asgreek'>δέμας</span> in body, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 346, compare 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.189 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>transitive</i>, <b>strengthen, encourage</b>, with <i>accusative</i>, [<a href="javascript:void(0)" title=" LXX.Deut.1.38, +others">LXX</a>]; <span class='asgreek'>τὰς</span> <span class='asgreek'>χεῖράς</span> <span class='asgreek'>τινων</span>[<a href="javascript:void(0)" title="LXX.1Esd.7.15; οὐδετέραν τῶν στάσεων 1st c.BC: Dionysius Halicarnassensis 6.65. ">LXX+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.16.18]] ☩ [[2Chr.8.3]] ☩ [[Jer.15.18]] ☩ [[Matt.16.18]] ☩ [[Exod.17.11]] ☩ [[Luke.23.23]] ☩ [[Deut.1.38]]
+<small><sub>LSJ Scripture Refs: [[Matt.16.18]] ☩ [[LXX.2Chr.8.3]] ☩ [[LXX.Jer.15.18]] ☩ [[Matt.16.18]] ☩ [[LXX.Exod.17.11]] ☩ [[Luke.23.23]] ☩ [[LXX.Deut.1.38]]
 </sub></small>

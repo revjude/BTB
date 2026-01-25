@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>region of the epiglottis</b>, [<a href
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>collar</b> of a garment, [<a href="javascript:void(0)" title=" LXX.Job.30.18. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>edge</b> of a ravine,[<a href="javascript:void(0)" title="LXX.Ezek.39.11. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Job.30.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.30.18]]
 </sub></small>

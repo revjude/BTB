@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">συν-οχή</span></span>, <span class="asgreek">-ῆς, ή</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">συνέχω</span></span>), </span>  <span class="asseptuagint">\[in LXX: [[Judg.2.3|Jg 2:3]] (?), [[Job.30.3|Jb 30:3]] (<span class="ashebrew">שׁוֺאָה</span> <small><sup>[[H7722]]</sup></small>), [[Job.38.28|ib. 38:28]] A; [[Mic.5.1|Mi 5:1]] (4:14), [[Jer.52.5|Je 52:5]] (<span class="ashebrew">מָצוֹר</span> <small><sup>[[H4692]]</sup></small>) \* ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">συν-οχή</span></span>, <span class="asgreek">-ῆς, ή</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">συνέχω</span></span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Judg.2.3|Jg 2:3]] (?), [[LXX.Job.30.3|Jb 30:3]] (<span class="ashebrew">שׁוֺאָה</span> <small><sup>[[H7722]]</sup></small>), [[LXX.Job.38.28|ib. 38:28]] A; [[LXX.Mic.5.1|Mi 5:1]] (4:14), [[LXX.Jer.52.5|Je 52:5]] (<span class="ashebrew">מָצוֹר</span> <small><sup>[[H4692]]</sup></small>) \* ;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">a holding or being held together</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">a narrow place</span> (Hom., al.). Metaph., <span class="asitalic">straits, distress</span>: [[Luke.21.25|Lk 21:25]]; <span class="asgreek">καρδίας</span>, [[2Cor.2.4|II Co 2:4]].†</span>
 
@@ -6,10 +6,10 @@
 
 | Book | Refs |
 | - | - |
-| Judges | [[Judg.2.3\|2:3]] |
-| Job | [[Job.30.3\|30:3]] · [[Job.38.28\|38:28]] |
-| Jeremiah | [[Jer.52.5\|52:5]] |
-| Micah | [[Mic.5.1\|5:1]] |
+| Judges | [[LXX.Judg.2.3\|2:3]] |
+| Job | [[LXX.Job.30.3\|30:3]] · [[LXX.Job.38.28\|38:28]] |
+| Jeremiah | [[LXX.Jer.52.5\|52:5]] |
+| Micah | [[LXX.Mic.5.1\|5:1]] |
 | Luke | [[Luke.21.25\|21:25]] |
 | 2 Corinthians | [[2Cor.2.4\|2:4]] |
 

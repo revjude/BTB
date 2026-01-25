@@ -6,5 +6,5 @@
  <b>for service</b>, <span class='asgreek'>σκεύη</span> [<a href="javascript:void(0)" title=" LXX.1Chr.28.13. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Chr.28.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Chr.28.13]]
 </sub></small>

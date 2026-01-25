@@ -8,5 +8,5 @@
 $\quad$ $\quad$<b>\_\_II</b> generally, <b>talk</b>, [<a href="javascript:void(0)" title=" LXX.Ps.68.12. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>meditate</b>,[<a href="javascript:void(0)" title="LXX.Gen.24.63, LXX.Ps.118.15, +others">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.68.12]] ☩ [[Gen.24.63]] ☩ [[Ps.118.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.68.12]] ☩ [[LXX.Gen.24.63]] ☩ [[LXX.Ps.118.15]]
 </sub></small>

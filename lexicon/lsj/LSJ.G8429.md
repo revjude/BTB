@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>wood-offering,</b> [<a href="javascript:void(0)" title=" LXX.Neh.10.34(35). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Neh.10.34]]
+<small><sub>LSJ Scripture Refs: [[LXX.Neh.10.34]]
 </sub></small>

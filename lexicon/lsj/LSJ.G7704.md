@@ -6,5 +6,5 @@
  ={<span class='asgreek'>==ἰατής==τήρ</span>}, [<a href="javascript:void(0)" title=" LXX.Job.13.4, “PCair.Preis.” 20.26 (4th c.AD). ">LXX+4th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Job.13.4]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.13.4]]
 </sub></small>

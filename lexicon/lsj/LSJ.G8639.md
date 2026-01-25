@@ -6,5 +6,5 @@
  <i>passive</i>, <b>to be compared, to be like</b>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>κτήνεσιν</span> [<a href="javascript:void(0)" title=" LXX.Ps.48.12, 20. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Ps.48.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.48.12]]
 </sub></small>

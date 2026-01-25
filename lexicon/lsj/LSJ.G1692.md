@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>throw up a flood of words</b>, [<a href="javascript:void(0)" title=" 4th-5th c.AD: Eunapius Historicus “Vitae Sophistarum” p.488 5th c.BC: Bacchylides Lyricus (ϝεμε-">Refs 5th c.BC+</a>], cf. Sanskrit <i>vámiti</i> 'vomit', Latin <i>vomo</i>, <b>vomitus</b>, Lithuanian <i>vémti</i>, etc.)
 
-<small><sub>LSJ Scripture Refs: [[Job.20.15]]
+<small><sub>LSJ Scripture Refs: [[LXX.Job.20.15]]
 </sub></small>

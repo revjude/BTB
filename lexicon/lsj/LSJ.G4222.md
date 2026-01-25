@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>water,</b> [<span class='asgreek'>τὰ</
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>π</span>. <span class='asgreek'>οἴνῳ</span> [<a href="javascript:void(0)" title=" “OGI” 200.16 (Axum, 4th c.AD)">Refs 4th c.AD+</a>]; <span class='asgreek'>οἴνου</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus “de Abstinentia - Porphyrii Opuscula” 2.54 (cited in 4th c.AD: Eusebius Caesariensis Scriptor Ecclesiasticus “Praeparatio Evangelica” 4.16 ">Refs 3rd c.AD+</a>]; <span class='asgreek'>οἴνῳ</span> codices [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus). ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>moisten,</b> <span class='asgreek'>μετά</span> <span class='asgreek'>τινος</span> Zos.Alch.p.167 [<a href="javascript:void(0)" title=" 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]; <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Moses Alchemista cited in [same work] p.183 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.24.17]] ☩ [[Mark.9.41]] ☩ [[1Cor.12.13]] ☩ [[Gen.2.6]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.24.17]] ☩ [[Mark.9.41]] ☩ [[1Cor.12.13]] ☩ [[LXX.Gen.2.6]]
 </sub></small>

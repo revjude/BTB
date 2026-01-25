@@ -1,11 +1,11 @@
-<span class="asform"><span class="asgreek"><span class="asbold">Μαγώγ</span></span>, <span class="asgreek">ὁ</span>, indecl.  (Heb. <span class="ashebrew">מָגוֹג</span> <small><sup>[[H4031]]</sup></small>, [[Gen.10.2|Ge 10:2]], [[Exod.38.2|Ex 38:2]], al.),</span>
+<span class="asform"><span class="asgreek"><span class="asbold">Μαγώγ</span></span>, <span class="asgreek">ὁ</span>, indecl.  (Heb. <span class="ashebrew">מָגוֹג</span> <small><sup>[[H4031]]</sup></small>, [[LXX.Gen.10.2|Ge 10:2]], [[LXX.Exod.38.2|Ex 38:2]], al.),</span>
 <span class="asitalic">Magog</span>, associated with Gog: [[Rev.20.8|Re 20:8]] (v. Swete, in l.).†
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Genesis | [[Gen.10.2\|10:2]] |
-| Exodus | [[Exod.38.2\|38:2]] |
+| Genesis | [[LXX.Gen.10.2\|10:2]] |
+| Exodus | [[LXX.Exod.38.2\|38:2]] |
 | Revelation | [[Rev.20.8\|20:8]] |
 

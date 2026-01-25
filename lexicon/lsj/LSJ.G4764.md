@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>wantonness,</b> [<a href="javascript:void(0)" title=" NT.Rev. 18.3, “Anthologia Graeca” [prev. cited] ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> with <i>genitive</i>, <b>eager desire</b>, <span class='asgreek'>μόρου</span> Lyc.[same place]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.19.28]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.19.28]]
 </sub></small>

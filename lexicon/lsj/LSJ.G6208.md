@@ -20,5 +20,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> regular <i>adverb</i> <span class='asgreek
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_V.2.b</b> <b>utterly, perfectly</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 543a, Hegesander Historicus 4; μόνος ἄκρως 3rd c.BC: Euphro Comicus 1.5">Refs 5th c.BC+</a>]; <span class='asgreek'>σχῆμα</span> <span class='asgreek'>ἄ</span>. <span class='asgreek'>στρογγύλον</span> <b>absolutely</b> round, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “\*Deff.” 76. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_V.2.c</b> <b>skilfully</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ παρρησίας” p.27 O.">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.29.20]] ☩ [[Lev.18.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.29.20]] ☩ [[LXX.Lev.18.22]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> personified. worshipped at Athens, [<a href="javascript:void(0)" title="Scholia 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 260; at Epidaurus, “IG” 4.1282; Ἔ. ἐπιεικὴς θεός 4th c.BC: Timocles Comicus 31. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>object of compassion, piteous thing</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Orestes” 832. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.19.19]] ☩ [[Ps.16.7]] ☩ [[Gen.24.12]] ☩ [[Ps.83.12]] ☩ [[Jas.2.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.19.19]] ☩ [[LXX.Ps.16.7]] ☩ [[LXX.Gen.24.12]] ☩ [[LXX.Ps.83.12]] ☩ [[Jas.2.13]]
 </sub></small>

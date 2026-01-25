@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>form into a circle</b>, <span class='asgreek'>�
 $\quad$ $\quad$<b>\_\_IV</b> <i>absolutely</i>, <span class='asgreek'>==κυκλόω==ώσατε</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>βασιλέα</span> <span class='asgreek'>κύκλῳ</span> [<a href="javascript:void(0)" title=" LXX.2Kgs.11.8 ">LXX</a>]; <span class='asgreek'>ἐκύκλωσα</span> <span class='asgreek'>ἐγὼ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>καρδία</span> <span class='asgreek'>μου</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>γνῶναι</span>[<a href="javascript:void(0)" title="LXX.Eccl.7.26(25). ">LXX</a>]
 $\quad$ $\quad$<b>\_\_V</b> ={<span class='asgreek'>λακκίζειν</span>}, {<span class='asgreek'>ἀμπέλους</span>} [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Heroicus” 2.8. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.25.6]] ☩ [[2Kgs.11.8]] ☩ [[Eccl.7.26]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.25.6]] ☩ [[LXX.2Kgs.11.8]] ☩ [[LXX.Eccl.7.26]]
 </sub></small>

@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>goat-pasture,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 9.101 (1st c.AD: Alpheus Epigrammaticus).">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Prov.24.66]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.24.66]]
 </sub></small>

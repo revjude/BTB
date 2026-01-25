@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> with <i>genitive</i>, <b>above,</b> [<a href="javascript:void(0)" title=" LXX.Ezek.1.25, 5th-4th c.BC: Aesopus Fabularum Scriptor 4. ">LXX+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Ps.77.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.77.23]]
 </sub></small>

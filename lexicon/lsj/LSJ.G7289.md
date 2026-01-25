@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>blotting out, destruction,</b> [<a href="javascript:void(0)" title=" LXX.Mic.7.11, +others ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mic.7.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Mic.7.11]]
 </sub></small>

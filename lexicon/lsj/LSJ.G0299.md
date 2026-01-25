@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>unblemished,</b> of victims, etc., [<a href="javascript:void(0)" title=" LXX.Exod.29.1, +others, NT.1Pet.1.19, 1st c.AD: Philo Judaeus 1.171, +others ">LXX+NT+1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>unimpaired, perfect,</b> <span class='asgreek'>ὑγίεια</span>[<a href="javascript:void(0)" title=" “IG” 5(1).1119 (Geronthrae, 4th c.BC).">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Exod.29.1]] ☩ [[1Pet.1.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.29.1]] ☩ [[1Pet.1.19]]
 </sub></small>

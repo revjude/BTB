@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>body of men, crowd, concourse</b>, [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>tumour</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “προρρητικόν” 2.41, “Epid.” 2.3.12, 2nd c.AD: Galenus Medicus “de Usu Partium” 8.8, etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <b>concretion</b> in the motions, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 4.52, 2nd c.AD: Antyllus Medicus cited in 4th c.AD: Oribasius Medicus 8.6.21, 2nd c.AD: Galenus Medicus 16.762. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Kgs.4.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.4.2]]
 </sub></small>

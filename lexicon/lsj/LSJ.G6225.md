@@ -6,5 +6,5 @@
  <b>pollute</b>, [<a href="javascript:void(0)" title=" LXX.Dan.1.8, +others">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Dan.1.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.1.8]]
 </sub></small>

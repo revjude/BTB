@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>sickle</b>, [<a href="javascript:void(0)" title=" LXX.1Kgs.13.20 (variant). ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.24.65]] ☩ [[1Kgs.13.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.24.65]] ☩ [[LXX.1Kgs.13.20]]
 </sub></small>

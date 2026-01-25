@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> later, <b>large house, tower,</b> [<a href="javascript:void(0)" title=" LXX.Ps.44.8, LXX.Dan.8.2, +others,J.[same places], Kalinka “Antike Denkmälerin Bulgarien” 142 (Apollonia, 2nd c.AD)">LXX+2nd c.AD+</a>]; <span class='asgreek'>λέγεται</span> <span class='asgreek'>β</span>. <span class='asgreek'>ἡ</span> <span class='asgreek'>οἰκία</span>, <span class='asgreek'>ὡς</span> <span class='asgreek'>Ποσείδιππος</span>, <span class='asgreek'>καὶ</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>συνοικία</span> <span class='asgreek'>ὡς</span> <span class='asgreek'>Ἔφορος</span> [<a href="javascript:void(0)" title=" 5th c.AD(?): Stephanus Byzantius (Egyptian word.) ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.36.19]] ☩ [[Ps.44.8]] ☩ [[Ps.44.8]] ☩ [[Dan.8.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.36.19]] ☩ [[LXX.Ps.44.8]] ☩ [[LXX.Ps.44.8]] ☩ [[LXX.Dan.8.2]]
 </sub></small>

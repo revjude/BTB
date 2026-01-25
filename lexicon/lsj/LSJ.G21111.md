@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>evil, ruin</b>, [<a href="javascript:void(0)" title=" LXX.2Chr.28.23. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> ={<span class='asgreek'>δρέπανον</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Chr.28.23]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.28.23]]
 </sub></small>

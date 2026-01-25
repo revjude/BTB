@@ -8,5 +8,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>backfin</b> of dolphins and similar fishes, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 3.41, “Anthologia Graeca” 9.222 (1st c.AD: Antiphilus Epigrammaticus), 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.19. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>λόφος</span>} [<a href="javascript:void(0)" title=" 11, ">Refs</a>]<b>ridge</b>, [<a href="javascript:void(0)" title=" LXX.Josh.15.2, +others, “Anthologia Graeca” 9.249 (1st c.AD(?): Maecius Epigrammaticus). ">LXX+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Josh.15.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Josh.15.2]]
 </sub></small>

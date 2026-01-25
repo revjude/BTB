@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_V</b> <b>lower</b>, [<a href="javascript:void(0)" title=" 
 $\quad$ $\quad$<b>\_\_VI</b> <b>precipitate</b>, Zos.Alch.[<a href="javascript:void(0)" title=" p.195 5th c.BC: Bacchylides Lyricus (\_passive\_). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> see at {<span class='asgreek'>κατασπεύδω</span>}.
 
-<small><sub>LSJ Scripture Refs: [[2Chr.24.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Chr.24.7]]
 </sub></small>

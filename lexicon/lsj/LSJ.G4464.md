@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.1</b> <b>line, verse</b>, [<a href="javascript:
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>a critical mark</b>, like{<span class='asgreek'>ὀβελός</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> <b>stroke</b> forming a letter, [<a href="javascript:void(0)" title=" 4th c.BC: Theodectes Tragicus 6.6. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.10.10]] ☩ [[Ps.44.7]] ☩ [[Ps.22.4]] ☩ [[Mic.7.14]] ☩ [[Ps.73.2]]
+<small><sub>LSJ Scripture Refs: [[Matt.10.10]] ☩ [[LXX.Ps.44.7]] ☩ [[LXX.Ps.22.4]] ☩ [[LXX.Mic.7.14]] ☩ [[LXX.Ps.73.2]]
 </sub></small>

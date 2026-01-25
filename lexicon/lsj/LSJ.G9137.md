@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>cord</b> by which the beam of a balance is suspe
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> ={<span class='asgreek'>σπάρτον</span>}[<a href="javascript:void(0)" title=" 1.2, LXX.Job.38.5, LXX.Ezek.40.3. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>Spanish broom, Spartium junceum</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.154">Refs 1st c.AD+</a>]; compare <span class='asgreek'>λινόσπαρτον</span>.
 
-<small><sub>LSJ Scripture Refs: [[Gen.14.23]] ☩ [[Lev.2.18]] ☩ [[Job.38.5]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.14.23]] ☩ [[LXX.Lev.2.18]] ☩ [[LXX.Job.38.5]]
 </sub></small>

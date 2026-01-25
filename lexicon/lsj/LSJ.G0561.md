@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>βουνόν</span>[<a href="javascript:void(0)" title=" “Inscription Prien.” 37.168. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> ={<span class='asgreek'>κατὰ</span> <span class='asgreek'>ἀνατολὰς</span> <span class='asgreek'>νότου</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gen.21.16]] ☩ [[Matt.27.61]] ☩ [[Acts.3.16]] ☩ [[Acts.17.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.21.16]] ☩ [[Matt.27.61]] ☩ [[Acts.3.16]] ☩ [[Acts.17.7]]
 </sub></small>
